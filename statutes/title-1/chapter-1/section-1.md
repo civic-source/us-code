@@ -1,0 +1,14 @@
+---
+title: "Section 1 - Words denoting number, gender, and so forth"
+usc_title: 1
+usc_section: "1"
+chapter: 1
+current_through: "PL 119-73"
+classification: "1 U.S.C. § 1"
+generated_at: "2026-03-28T23:42:47.553Z"
+---
+
+# § 1. Words denoting number, gender, and so forth
+
+In determining the meaning of any Act of Congress, unless the context indicates otherwise— words importing the singular include and apply to several persons, parties, or things; words importing the plural include the singular; words importing the masculine gender include the feminine as well; words used in the present tense include the future as well as the present; the words “insane” and “insane person” shall include every idiot, insane person, and person non compos mentis; the words “person” and “whoever” include corporations, companies, associations, firms, partnerships, societies, and joint stock companies, as well as individuals; “officer” includes any person authorized by law to perform the duties of the office; “signature” or “subscription” includes a mark when the person making the same intended it as such; “oath” includes affirmation, and “sworn” includes affirmed; “writing” includes printing and typewriting and reproductions of visual symbols by photographing, multigraphing, mimeographing, manifolding, or otherwise.
+

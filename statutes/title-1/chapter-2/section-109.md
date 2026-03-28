@@ -1,0 +1,14 @@
+---
+title: "Section 109 - Repeal of statutes as affecting existing liabilities"
+usc_title: 1
+usc_section: "109"
+chapter: 2
+current_through: "PL 119-73"
+classification: "1 U.S.C. § 109"
+generated_at: "2026-03-28T23:42:47.558Z"
+---
+
+# § 109. Repeal of statutes as affecting existing liabilities
+
+The repeal of any statute shall not have the effect to release or extinguish any penalty, forfeiture, or liability incurred under such statute, unless the repealing Act shall so expressly provide, and such statute shall be treated as still remaining in force for the purpose of sustaining any proper action or prosecution for the enforcement of such penalty, forfeiture, or liability. The expiration of a temporary statute shall not have the effect to release or extinguish any penalty, forfeiture, or liability incurred under such statute, unless the temporary statute shall so expressly provide, and such statute shall be treated as still remaining in force for the purpose of sustaining any proper action or prosecution for the enforcement of such penalty, forfeiture, or liability.
+
