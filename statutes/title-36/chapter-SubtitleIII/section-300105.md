@@ -1,0 +1,20 @@
+---
+title: "Section 300105 - Powers"
+usc_title: 36
+usc_section: "300105"
+chapter: 0
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 300105"
+generated_at: "2026-03-28T23:53:21.689Z"
+---
+
+# § 300105. Powers
+
+(a) The corporation may—
+  (1) adopt policies and regulations;
+  (2) adopt, alter, and destroy a seal;
+  (3) own and dispose of property to carry out the purposes of the corporation;
+  (4) accept gifts, devises, and bequests of property to carry out the purposes of the corporation;
+  (5) sue and be sued in courts of law and equity, State or Federal, within the jurisdiction of the United States; and
+  (6) do any other act necessary to carry out this chapter and promote the purposes of the corporation.
+(b) The corporation is designated as the organization authorized to act in matters of relief under the treaties of Geneva, August 22, 1864 , July 27, 1929 , and August 12, 1949 .
