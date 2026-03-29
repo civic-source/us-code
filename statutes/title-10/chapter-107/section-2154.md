@@ -3,9 +3,9 @@ title: "Section 2154 - Joint professional military education: three-phase approa
 usc_title: 10
 usc_section: "2154"
 chapter: 107
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 2154"
-generated_at: "2026-03-29T20:42:48.546Z"
+generated_at: "2026-03-29T20:54:44.867Z"
 ---
 
 # § 2154. Joint professional military education: three-phase approach

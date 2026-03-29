@@ -3,9 +3,9 @@ title: "Section 2518 - Disclaimers"
 usc_title: 26
 usc_section: "2518"
 chapter: 12
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "26 U.S.C. § 2518"
-generated_at: "2026-03-29T20:44:53.830Z"
+generated_at: "2026-03-29T20:56:07.346Z"
 ---
 
 # § 2518. Disclaimers

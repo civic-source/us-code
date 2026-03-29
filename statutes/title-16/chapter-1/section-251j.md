@@ -3,9 +3,9 @@ title: "Section 251j - Property retention rights of landowners; use and occupanc
 usc_title: 16
 usc_section: "251j"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 251j"
-generated_at: "2026-03-29T20:43:30.320Z"
+generated_at: "2026-03-29T20:55:20.849Z"
 ---
 
 # § 251j. Property retention rights of landowners; use and occupancy improvements; plan to be submitted to Secretary; approval evidenced by issuance of permit and certificate; limitation on acquisition power of Secretary

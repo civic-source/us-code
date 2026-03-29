@@ -3,9 +3,9 @@ title: "Section 1054 - Certain stock of Federal National Mortgage Association"
 usc_title: 26
 usc_section: "1054"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "26 U.S.C. § 1054"
-generated_at: "2026-03-29T20:44:53.754Z"
+generated_at: "2026-03-29T20:56:07.291Z"
 ---
 
 # § 1054. Certain stock of Federal National Mortgage Association

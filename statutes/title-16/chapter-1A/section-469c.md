@@ -3,9 +3,9 @@ title: "Section 469c - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "469c"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 469c"
-generated_at: "2026-03-29T20:43:30.527Z"
+generated_at: "2026-03-29T20:55:21.003Z"
 ---
 
 # § 469c. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

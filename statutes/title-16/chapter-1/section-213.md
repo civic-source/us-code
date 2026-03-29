@@ -3,9 +3,9 @@ title: "Section 213 - Execution of instruments necessary to carry out purposes o
 usc_title: 16
 usc_section: "213"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 213"
-generated_at: "2026-03-29T20:43:30.313Z"
+generated_at: "2026-03-29T20:55:20.843Z"
 ---
 
 # § 213. Execution of instruments necessary to carry out purposes of gift

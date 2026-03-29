@@ -3,9 +3,9 @@ title: "Section 3423 - United States contributions to costs"
 usc_title: 22
 usc_section: "3423"
 chapter: 49
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 3423"
-generated_at: "2026-03-29T20:44:16.972Z"
+generated_at: "2026-03-29T20:55:46.328Z"
 ---
 
 # § 3423. United States contributions to costs

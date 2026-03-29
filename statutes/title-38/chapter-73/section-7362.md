@@ -3,9 +3,9 @@ title: "Section 7362 - Purpose of corporations"
 usc_title: 38
 usc_section: "7362"
 chapter: 73
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "38 U.S.C. § 7362"
-generated_at: "2026-03-29T20:45:33.692Z"
+generated_at: "2026-03-29T20:56:47.144Z"
 ---
 
 # § 7362. Purpose of corporations

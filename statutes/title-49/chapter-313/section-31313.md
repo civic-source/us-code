@@ -3,9 +3,9 @@ title: "Section 31313 - Commercial driver’s license program implementation fin
 usc_title: 49
 usc_section: "31313"
 chapter: 313
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "49 U.S.C. § 31313"
-generated_at: "2026-03-29T20:47:02.868Z"
+generated_at: "2026-03-29T20:58:55.406Z"
 ---
 
 # § 31313. Commercial driver’s license program implementation financial assistance program

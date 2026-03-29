@@ -3,9 +3,9 @@ title: "Section 2202e - Waiver of mediation rights by borrowers"
 usc_title: 12
 usc_section: "2202e"
 chapter: 23
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "12 U.S.C. § 2202e"
-generated_at: "2026-03-29T20:43:00.600Z"
+generated_at: "2026-03-29T20:55:01.692Z"
 ---
 
 # § 2202e. Waiver of mediation rights by borrowers

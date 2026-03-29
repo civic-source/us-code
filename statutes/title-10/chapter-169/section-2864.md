@@ -3,9 +3,9 @@ title: "Section 2864 - Master plans for major military installations"
 usc_title: 10
 usc_section: "2864"
 chapter: 169
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 2864"
-generated_at: "2026-03-29T20:42:48.715Z"
+generated_at: "2026-03-29T20:54:44.954Z"
 ---
 
 # § 2864. Master plans for major military installations

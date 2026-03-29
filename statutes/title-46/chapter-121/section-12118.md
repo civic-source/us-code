@@ -3,9 +3,9 @@ title: "Section 12118 - Owners engaged primarily in manufacturing or mineral ind
 usc_title: 46
 usc_section: "12118"
 chapter: 121
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "46 U.S.C. § 12118"
-generated_at: "2026-03-29T20:47:08.323Z"
+generated_at: "2026-03-29T20:59:03.466Z"
 ---
 
 # § 12118. Owners engaged primarily in manufacturing or mineral industry

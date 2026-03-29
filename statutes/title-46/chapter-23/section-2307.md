@@ -3,9 +3,9 @@ title: "Section 2307 - Repealed. Pub. L. 115–282, title IV, § 402(d) , Dec. 4
 usc_title: 46
 usc_section: "2307"
 chapter: 23
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "46 U.S.C. § 2307"
-generated_at: "2026-03-29T20:47:08.291Z"
+generated_at: "2026-03-29T20:59:03.441Z"
 ---
 
 # [§ 2307. Repealed. Pub. L. 115–282, title IV, § 402(d) , Dec. 4, 2018 , 132 Stat. 4264 ]

@@ -3,9 +3,9 @@ title: "Section 4415 - President of Institute"
 usc_title: 20
 usc_section: "4415"
 chapter: 56
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "20 U.S.C. § 4415"
-generated_at: "2026-03-29T20:43:59.899Z"
+generated_at: "2026-03-29T20:55:15.554Z"
 ---
 
 # § 4415. President of Institute

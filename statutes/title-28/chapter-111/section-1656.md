@@ -3,9 +3,9 @@ title: "Section 1656 - Creation of new district or division or transfer of terri
 usc_title: 28
 usc_section: "1656"
 chapter: 111
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "28 U.S.C. § 1656"
-generated_at: "2026-03-29T20:44:27.718Z"
+generated_at: "2026-03-29T20:56:09.500Z"
 ---
 
 # § 1656. Creation of new district or division or transfer of territory; lien enforcement

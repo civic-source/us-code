@@ -3,9 +3,9 @@ title: "Section 2116 - Officers to be recommended for promotion"
 usc_title: 14
 usc_section: "2116"
 chapter: 21
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "14 U.S.C. § 2116"
-generated_at: "2026-03-29T20:42:52.744Z"
+generated_at: "2026-03-29T20:54:48.957Z"
 ---
 
 # § 2116. Officers to be recommended for promotion

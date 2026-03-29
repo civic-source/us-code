@@ -3,9 +3,9 @@ title: "Section 10701 - Definitions"
 usc_title: 42
 usc_section: "10701"
 chapter: 113
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 10701"
-generated_at: "2026-03-29T20:46:41.338Z"
+generated_at: "2026-03-29T20:58:28.281Z"
 ---
 
 # § 10701. Definitions

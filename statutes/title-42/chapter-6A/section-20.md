@@ -3,9 +3,9 @@ title: "Section 20 - Authorization of appropriations"
 usc_title: 42
 usc_section: "20"
 chapter: 6
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 20"
-generated_at: "2026-03-29T20:46:40.167Z"
+generated_at: "2026-03-29T20:58:27.138Z"
 ---
 
 # § 300ff–20. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 4745 - Government Service Fellowships"
 usc_title: 42
 usc_section: "4745"
 chapter: 62
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 4745"
-generated_at: "2026-03-29T20:46:40.941Z"
+generated_at: "2026-03-29T20:58:27.892Z"
 ---
 
 # § 4745. Government Service Fellowships

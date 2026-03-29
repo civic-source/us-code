@@ -3,9 +3,9 @@ title: "Section 335c - Authority to withdraw approval of abbreviated drug applic
 usc_title: 21
 usc_section: "335c"
 chapter: 9
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "21 U.S.C. § 335c"
-generated_at: "2026-03-29T20:44:11.377Z"
+generated_at: "2026-03-29T20:55:28.899Z"
 ---
 
 # § 335c. Authority to withdraw approval of abbreviated drug applications

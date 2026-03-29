@@ -3,9 +3,9 @@ title: "Section 2401 - Definitions"
 usc_title: 21
 usc_section: "2401"
 chapter: 29
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "21 U.S.C. § 2401"
-generated_at: "2026-03-29T20:44:11.561Z"
+generated_at: "2026-03-29T20:55:29.064Z"
 ---
 
 # § 2401. Definitions

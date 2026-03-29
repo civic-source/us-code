@@ -3,9 +3,9 @@ title: "Section 50b - Recording of obligations against accounts receivable and c
 usc_title: 43
 usc_section: "50b"
 chapter: 2
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "43 U.S.C. § 50b"
-generated_at: "2026-03-29T20:46:09.598Z"
+generated_at: "2026-03-29T20:57:43.309Z"
 ---
 
 # § 50b. Recording of obligations against accounts receivable and crediting of amounts received; work involving cooperation with State, Territory, etc.

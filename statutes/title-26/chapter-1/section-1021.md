@@ -3,9 +3,9 @@ title: "Section 1021 - Sale of annuities"
 usc_title: 26
 usc_section: "1021"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "26 U.S.C. § 1021"
-generated_at: "2026-03-29T20:44:53.749Z"
+generated_at: "2026-03-29T20:56:07.287Z"
 ---
 
 # § 1021. Sale of annuities

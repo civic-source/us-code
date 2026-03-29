@@ -3,9 +3,9 @@ title: "Section 8235d - Rules and regulations"
 usc_title: 42
 usc_section: "8235d"
 chapter: 91
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 8235d"
-generated_at: "2026-03-29T20:46:41.215Z"
+generated_at: "2026-03-29T20:58:28.163Z"
 ---
 
 # § 8235d. Rules and regulations

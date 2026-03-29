@@ -3,9 +3,9 @@ title: "Section 14504 - Effect of failure of selection for promotion: reserve fi
 usc_title: 10
 usc_section: "14504"
 chapter: 1407
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 14504"
-generated_at: "2026-03-29T20:42:48.874Z"
+generated_at: "2026-03-29T20:54:45.073Z"
 ---
 
 # § 14504. Effect of failure of selection for promotion: reserve first lieutenants of the Army, Air Force, and Marine Corps and reserve lieutenants (junior grade) of the Navy

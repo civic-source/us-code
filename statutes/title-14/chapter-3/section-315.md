@@ -3,9 +3,9 @@ title: "Section 315 - Training course on workings of Congress"
 usc_title: 14
 usc_section: "315"
 chapter: 3
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "14 U.S.C. § 315"
-generated_at: "2026-03-29T20:42:52.730Z"
+generated_at: "2026-03-29T20:54:48.945Z"
 ---
 
 # § 315. Training course on workings of Congress

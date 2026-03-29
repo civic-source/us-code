@@ -3,9 +3,9 @@ title: "Section 3022 - Definitions"
 usc_title: 42
 usc_section: "3022"
 chapter: 35
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 3022"
-generated_at: "2026-03-29T20:46:40.863Z"
+generated_at: "2026-03-29T20:58:27.811Z"
 ---
 
 # § 3022. Definitions

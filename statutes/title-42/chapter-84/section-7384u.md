@@ -3,9 +3,9 @@ title: "Section 7384u - Separate treatment of certain uranium employees"
 usc_title: 42
 usc_section: "7384u"
 chapter: 84
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 7384u"
-generated_at: "2026-03-29T20:46:41.121Z"
+generated_at: "2026-03-29T20:58:28.062Z"
 ---
 
 # § 7384u. Separate treatment of certain uranium employees

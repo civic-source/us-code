@@ -3,9 +3,9 @@ title: "Section 10333 - Applications to receive grants"
 usc_title: 34
 usc_section: "10333"
 chapter: 101
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "34 U.S.C. § 10333"
-generated_at: "2026-03-29T20:45:02.654Z"
+generated_at: "2026-03-29T20:56:14.333Z"
 ---
 
 # § 10333. Applications to receive grants

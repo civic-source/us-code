@@ -3,9 +3,9 @@ title: "Section 352 - Exemptions"
 usc_title: 47
 usc_section: "352"
 chapter: 5
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "47 U.S.C. § 352"
-generated_at: "2026-03-29T20:47:05.315Z"
+generated_at: "2026-03-29T20:58:56.596Z"
 ---
 
 # § 352. Exemptions

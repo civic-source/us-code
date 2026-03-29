@@ -3,9 +3,9 @@ title: "Section 1284 - Existing State jurisdiction and responsibilities"
 usc_title: 16
 usc_section: "1284"
 chapter: 28
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 1284"
-generated_at: "2026-03-29T20:43:30.767Z"
+generated_at: "2026-03-29T20:55:21.156Z"
 ---
 
 # § 1284. Existing State jurisdiction and responsibilities

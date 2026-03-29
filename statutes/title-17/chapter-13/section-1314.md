@@ -3,9 +3,9 @@ title: "Section 1314 - Certification of registration"
 usc_title: 17
 usc_section: "1314"
 chapter: 13
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "17 U.S.C. § 1314"
-generated_at: "2026-03-29T20:43:31.537Z"
+generated_at: "2026-03-29T20:55:04.689Z"
 ---
 
 # § 1314. Certification of registration

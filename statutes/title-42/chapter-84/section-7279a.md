@@ -3,9 +3,9 @@ title: "Section 7279a - Future-years energy program annual submission and budget
 usc_title: 42
 usc_section: "7279a"
 chapter: 84
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 7279a"
-generated_at: "2026-03-29T20:46:41.113Z"
+generated_at: "2026-03-29T20:58:28.053Z"
 ---
 
 # § 7279a. Future-years energy program annual submission and budgeting

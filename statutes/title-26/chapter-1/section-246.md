@@ -3,9 +3,9 @@ title: "Section 246 - Rules applying to deductions for dividends received"
 usc_title: 26
 usc_section: "246"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "26 U.S.C. § 246"
-generated_at: "2026-03-29T20:44:53.567Z"
+generated_at: "2026-03-29T20:56:07.126Z"
 ---
 
 # § 246. Rules applying to deductions for dividends received

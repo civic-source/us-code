@@ -3,9 +3,9 @@ title: "Section 652 - Definitions"
 usc_title: 29
 usc_section: "652"
 chapter: 15
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "29 U.S.C. § 652"
-generated_at: "2026-03-29T20:44:23.586Z"
+generated_at: "2026-03-29T20:55:56.824Z"
 ---
 
 # § 652. Definitions

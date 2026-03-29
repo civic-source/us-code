@@ -3,9 +3,9 @@ title: "Section 4214 - Baseline description"
 usc_title: 10
 usc_section: "4214"
 chapter: 322
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 4214"
-generated_at: "2026-03-29T20:42:48.760Z"
+generated_at: "2026-03-29T20:54:44.989Z"
 ---
 
 # § 4214. Baseline description

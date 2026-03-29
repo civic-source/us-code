@@ -3,9 +3,9 @@ title: "Section 912 - Air facility closures"
 usc_title: 14
 usc_section: "912"
 chapter: 9
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "14 U.S.C. § 912"
-generated_at: "2026-03-29T20:42:52.737Z"
+generated_at: "2026-03-29T20:54:48.950Z"
 ---
 
 # § 912. Air facility closures

@@ -3,9 +3,9 @@ title: "Section 4213 - Rights and obligations of the Foundation"
 usc_title: 33
 usc_section: "4213"
 chapter: 0
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "33 U.S.C. § 4213"
-generated_at: "2026-03-29T20:45:06.903Z"
+generated_at: "2026-03-29T20:56:16.712Z"
 ---
 
 # § 4213. Rights and obligations of the Foundation

@@ -3,16 +3,16 @@ title: "Section 1873 - Annual reports"
 usc_title: 50
 usc_section: "1873"
 chapter: 36
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "50 U.S.C. § 1873"
-generated_at: "2026-03-29T20:47:12.632Z"
+generated_at: "2026-03-29T20:59:05.976Z"
 ---
 
 # § 1873. Annual reports
 
 - **(a)**
   - **(1)** The Director of the Administrative Office of the United States Courts shall annually submit to the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate, subject to a declassification review by the Attorney General and the Director of National Intelligence, a report that includes—
-    - **(A)** the number of applications or certifications for orders submitted under each of sections 1805, 1824, 1842, 1861, 1881a, 1881b, and 1881c of this title;
+    - **(A)** the number of applications or certifications for orders submitted under each of sections 1805, 1824, 1842, 1861, 1 1 See References in Text note below. 1881a, 1881b, and 1881c of this title;
     - **(B)** the number of such orders granted under each of those sections;
     - **(C)** the number of orders modified under each of those sections;
     - **(D)** the number of applications or certifications denied under each of those sections;
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T20:47:12.632Z"
   - **(2)** the total number of orders issued pursuant to section 1881a of this title , including pursuant to subsection (f)(2) of such section, and a good faith estimate of—
     - **(A)** the number of targets of such orders;
     - **(B)** the number of search terms concerning a known United States person used to retrieve the unminimized contents of electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of search terms used to prevent the return of information concerning a United States person;
-    - **(C)** the number of queries concerning a known United States person of unminimized noncontents information relating to electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of queries containing information used to prevent the return of information concerning a United States person; 1 1 So in original. Probably should be followed by “and”.
+    - **(C)** the number of queries concerning a known United States person of unminimized noncontents information relating to electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of queries containing information used to prevent the return of information concerning a United States person; 2 2 So in original. Probably should be followed by “and”.
     - **(D)** the number of instances in which the Federal Bureau of Investigation opened, under the Criminal Investigative Division or any successor division, an investigation of a United States person (who is not considered a threat to national security) based wholly or in part on an acquisition authorized under such section;
   - **(3)** the total number of orders issued pursuant to subchapter III and a good faith estimate of—
     - **(A)** the number of targets of such orders, including—
@@ -35,10 +35,10 @@ generated_at: "2026-03-29T20:47:12.632Z"
       - **(ii)** the number of targets of such orders who are known to be United States persons; and
     - **(B)** the number of unique identifiers used to communicate information collected pursuant to such orders;
   - **(4)** the number of criminal proceedings in which the United States or a State or political subdivision thereof provided notice pursuant to subsection (c) or (d) of section 1806 of this title (including with respect to information acquired from an acquisition conducted under section 1881a of this title ) or subsection (d) or (e) of section 1825 of this title of the intent of the government to enter into evidence or otherwise use or disclose any information obtained or derived from electronic surveillance, physical search, or an acquisition conducted pursuant to this chapter;
-  - **(5)** the total number of orders issued pursuant to applications made under section 1861(b)(2)(B) of this title and a good faith estimate of—
+  - **(5)** the total number of orders issued pursuant to applications made under section 1861(b)(2)(B) 1 of this title and a good faith estimate of—
     - **(A)** the number of targets of such orders; and
     - **(B)** the number of unique identifiers used to communicate information collected pursuant to such orders;
-  - **(6)** the total number of orders issued pursuant to applications made under section 1861(b)(2)(C) of this title and a good faith estimate of—
+  - **(6)** the total number of orders issued pursuant to applications made under section 1861(b)(2)(C) 1 of this title and a good faith estimate of—
     - **(A)** the number of targets of such orders;
     - **(B)** the number of unique identifiers used to communicate information collected pursuant to such orders; and
     - **(C)** the number of search terms that included information concerning a United States person that were used to query any database of call detail records obtained through the use of such orders; and

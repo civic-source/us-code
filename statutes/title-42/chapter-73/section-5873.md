@@ -3,9 +3,9 @@ title: "Section 5873 - Director of Office of Management and Budget; power to mak
 usc_title: 42
 usc_section: "5873"
 chapter: 73
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 5873"
-generated_at: "2026-03-29T20:46:41.015Z"
+generated_at: "2026-03-29T20:58:27.953Z"
 ---
 
 # § 5873. Director of Office of Management and Budget; power to make dispositions

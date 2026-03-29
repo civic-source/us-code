@@ -3,9 +3,9 @@ title: "Section 1325 - National Study Commission"
 usc_title: 33
 usc_section: "1325"
 chapter: 26
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "33 U.S.C. § 1325"
-generated_at: "2026-03-29T20:45:06.793Z"
+generated_at: "2026-03-29T20:56:16.616Z"
 ---
 
 # § 1325. National Study Commission

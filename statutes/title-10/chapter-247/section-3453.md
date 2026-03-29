@@ -3,9 +3,9 @@ title: "Section 3453 - Preference for commercial products and commercial service
 usc_title: 10
 usc_section: "3453"
 chapter: 247
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 3453"
-generated_at: "2026-03-29T20:42:48.740Z"
+generated_at: "2026-03-29T20:54:44.973Z"
 ---
 
 # § 3453. Preference for commercial products and commercial services

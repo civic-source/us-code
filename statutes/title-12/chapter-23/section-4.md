@@ -3,9 +3,9 @@ title: "Section 4 - Enforcement levels"
 usc_title: 12
 usc_section: "4"
 chapter: 23
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "12 U.S.C. § 4"
-generated_at: "2026-03-29T20:43:00.624Z"
+generated_at: "2026-03-29T20:55:01.711Z"
 ---
 
 # § 2279bb–4. Enforcement levels

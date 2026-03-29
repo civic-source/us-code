@@ -3,9 +3,9 @@ title: "Section 16 - Advisory Board on Toxic Substances and Worker Health"
 usc_title: 42
 usc_section: "16"
 chapter: 84
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-03-29T20:46:41.124Z"
+generated_at: "2026-03-29T20:58:28.065Z"
 ---
 
 # § 7385s–16. Advisory Board on Toxic Substances and Worker Health

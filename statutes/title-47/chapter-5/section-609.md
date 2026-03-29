@@ -3,9 +3,9 @@ title: "Section 609 - Short title"
 usc_title: 47
 usc_section: "609"
 chapter: 5
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "47 U.S.C. § 609"
-generated_at: "2026-03-29T20:47:05.342Z"
+generated_at: "2026-03-29T20:58:56.615Z"
 ---
 
 # § 609. Short title

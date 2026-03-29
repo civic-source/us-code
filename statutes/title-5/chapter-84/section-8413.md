@@ -3,9 +3,9 @@ title: "Section 8413 - Deferred retirement"
 usc_title: 5
 usc_section: "8413"
 chapter: 84
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "5 U.S.C. § 8413"
-generated_at: "2026-03-29T20:42:02.957Z"
+generated_at: "2026-03-29T20:53:12.344Z"
 ---
 
 # § 8413. Deferred retirement

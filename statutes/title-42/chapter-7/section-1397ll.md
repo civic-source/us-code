@@ -3,9 +3,9 @@ title: "Section 1397ll - Optional coverage of targeted low-income pregnant women
 usc_title: 42
 usc_section: "1397ll"
 chapter: 7
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 1397ll"
-generated_at: "2026-03-29T20:46:40.670Z"
+generated_at: "2026-03-29T20:58:27.597Z"
 ---
 
 # § 1397ll. Optional coverage of targeted low-income pregnant women through a State plan amendment

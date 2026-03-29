@@ -3,9 +3,9 @@ title: "Section 1633 - Cooperation with State agencies in administration and enf
 usc_title: 7
 usc_section: "1633"
 chapter: 38
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "7 U.S.C. § 1633"
-generated_at: "2026-03-29T20:42:35.306Z"
+generated_at: "2026-03-29T20:53:48.456Z"
 ---
 
 # § 1633. Cooperation with State agencies in administration and enforcement of laws relating to marketing of agricultural products and control or eradication of plant and animal diseases and pests; coordination of administration of Federal and State laws

@@ -3,9 +3,9 @@ title: "Section 2344 - Methods of payment for acquisitions and transfers by the 
 usc_title: 10
 usc_section: "2344"
 chapter: 138
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 2344"
-generated_at: "2026-03-29T20:42:48.583Z"
+generated_at: "2026-03-29T20:54:44.896Z"
 ---
 
 # § 2344. Methods of payment for acquisitions and transfers by the United States

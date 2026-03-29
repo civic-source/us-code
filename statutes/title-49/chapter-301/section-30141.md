@@ -3,9 +3,9 @@ title: "Section 30141 - Importing motor vehicles capable of complying with stand
 usc_title: 49
 usc_section: "30141"
 chapter: 301
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "49 U.S.C. § 30141"
-generated_at: "2026-03-29T20:47:02.848Z"
+generated_at: "2026-03-29T20:58:55.386Z"
 ---
 
 # § 30141. Importing motor vehicles capable of complying with standards

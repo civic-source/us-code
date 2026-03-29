@@ -3,9 +3,9 @@ title: "Section 1712 - Coupon settlements"
 usc_title: 28
 usc_section: "1712"
 chapter: 114
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "28 U.S.C. § 1712"
-generated_at: "2026-03-29T20:44:27.718Z"
+generated_at: "2026-03-29T20:56:09.500Z"
 ---
 
 # § 1712. Coupon settlements

@@ -3,9 +3,9 @@ title: "Section 4721 - Declaration of purpose"
 usc_title: 42
 usc_section: "4721"
 chapter: 62
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 4721"
-generated_at: "2026-03-29T20:46:40.940Z"
+generated_at: "2026-03-29T20:58:27.891Z"
 ---
 
 # § 4721. Declaration of purpose

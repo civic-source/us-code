@@ -3,9 +3,9 @@ title: "Section 502 - Procurement of printing, binding, and blank-book work by D
 usc_title: 44
 usc_section: "502"
 chapter: 5
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "44 U.S.C. § 502"
-generated_at: "2026-03-29T20:45:52.869Z"
+generated_at: "2026-03-29T20:57:24.498Z"
 ---
 
 # § 502. Procurement of printing, binding, and blank-book work by Director of the Government Publishing Office

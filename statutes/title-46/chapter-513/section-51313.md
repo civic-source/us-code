@@ -3,9 +3,9 @@ title: "Section 51313 - Advisory Board"
 usc_title: 46
 usc_section: "51313"
 chapter: 513
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "46 U.S.C. § 51313"
-generated_at: "2026-03-29T20:47:08.349Z"
+generated_at: "2026-03-29T20:59:03.486Z"
 ---
 
 # § 51313. Advisory Board

@@ -3,9 +3,9 @@ title: "Section 2533c - Prohibition on acquisition of sensitive materials from n
 usc_title: 10
 usc_section: "2533c"
 chapter: 148
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 2533c"
-generated_at: "2026-03-29T20:42:48.656Z"
+generated_at: "2026-03-29T20:54:44.925Z"
 ---
 
 # § 2533c. Prohibition on acquisition of sensitive materials from non-allied foreign nations

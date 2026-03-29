@@ -3,9 +3,9 @@ title: "Section 5274 - Applicability of other laws"
 usc_title: 26
 usc_section: "5274"
 chapter: 51
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "26 U.S.C. § 5274"
-generated_at: "2026-03-29T20:44:53.951Z"
+generated_at: "2026-03-29T20:56:07.426Z"
 ---
 
 # § 5274. Applicability of other laws

@@ -3,9 +3,9 @@ title: "Section 1765 - Election to receive cash payments"
 usc_title: 42
 usc_section: "1765"
 chapter: 13
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 1765"
-generated_at: "2026-03-29T20:46:40.742Z"
+generated_at: "2026-03-29T20:58:27.676Z"
 ---
 
 # § 1765. Election to receive cash payments

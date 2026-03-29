@@ -3,9 +3,9 @@ title: "Section 7102 - Definitions"
 usc_title: 22
 usc_section: "7102"
 chapter: 78
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 7102"
-generated_at: "2026-03-29T20:44:17.068Z"
+generated_at: "2026-03-29T20:55:46.417Z"
 ---
 
 # § 7102. Definitions

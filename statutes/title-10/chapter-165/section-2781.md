@@ -3,9 +3,9 @@ title: "Section 2781 - Availability of appropriations: exchange fees; losses in 
 usc_title: 10
 usc_section: "2781"
 chapter: 165
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 2781"
-generated_at: "2026-03-29T20:42:48.704Z"
+generated_at: "2026-03-29T20:54:44.947Z"
 ---
 
 # § 2781. Availability of appropriations: exchange fees; losses in accounts

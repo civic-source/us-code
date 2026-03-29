@@ -3,9 +3,9 @@ title: "Section 2670 - Insurance on motor vehicles in foreign countries; tie lin
 usc_title: 22
 usc_section: "2670"
 chapter: 38
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 2670"
-generated_at: "2026-03-29T20:44:16.940Z"
+generated_at: "2026-03-29T20:55:46.298Z"
 ---
 
 # § 2670. Insurance on motor vehicles in foreign countries; tie lines and teletype equipment; ice and drinking water; excise taxes on negotiable instruments; remains of deceased persons; relief, protection, and burial of seamen; acknowledgement of services of foreign vessels and aircraft; rentals and leases

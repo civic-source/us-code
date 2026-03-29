@@ -3,9 +3,9 @@ title: "Section 10515 - Restrictions on use of funds"
 usc_title: 34
 usc_section: "10515"
 chapter: 101
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "34 U.S.C. § 10515"
-generated_at: "2026-03-29T20:45:02.663Z"
+generated_at: "2026-03-29T20:56:14.345Z"
 ---
 
 # § 10515. Restrictions on use of funds

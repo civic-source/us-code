@@ -3,9 +3,9 @@ title: "Section 9265 - Notification of termination or suspension of sanctions"
 usc_title: 22
 usc_section: "9265"
 chapter: 99
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 9265"
-generated_at: "2026-03-29T20:44:17.128Z"
+generated_at: "2026-03-29T20:55:46.476Z"
 ---
 
 # § 9265. Notification of termination or suspension of sanctions

@@ -3,9 +3,9 @@ title: "Section 2635 - Medical emergency helicopter transportation assistance an
 usc_title: 10
 usc_section: "2635"
 chapter: 157
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 2635"
-generated_at: "2026-03-29T20:42:48.680Z"
+generated_at: "2026-03-29T20:54:44.933Z"
 ---
 
 # § 2635. Medical emergency helicopter transportation assistance and limitation of individual liability

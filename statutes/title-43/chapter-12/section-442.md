@@ -3,9 +3,9 @@ title: "Section 442 - Assignment between June 23, 1910 , and January 1, 1913 , c
 usc_title: 43
 usc_section: "442"
 chapter: 12
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "43 U.S.C. § 442"
-generated_at: "2026-03-29T20:46:09.632Z"
+generated_at: "2026-03-29T20:57:43.346Z"
 ---
 
 # § 442. Assignment between June 23, 1910 , and January 1, 1913 , confirmed

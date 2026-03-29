@@ -3,9 +3,9 @@ title: "Section 7276e - Provision of rewards"
 usc_title: 42
 usc_section: "7276e"
 chapter: 84
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 7276e"
-generated_at: "2026-03-29T20:46:41.113Z"
+generated_at: "2026-03-29T20:58:28.052Z"
 ---
 
 # § 7276e. Provision of rewards

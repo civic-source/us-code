@@ -3,9 +3,9 @@ title: "Section 623 - Map of district and plan of irrigation project; approval b
 usc_title: 43
 usc_section: "623"
 chapter: 13
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "43 U.S.C. § 623"
-generated_at: "2026-03-29T20:46:09.654Z"
+generated_at: "2026-03-29T20:57:43.372Z"
 ---
 
 # § 623. Map of district and plan of irrigation project; approval by Secretary

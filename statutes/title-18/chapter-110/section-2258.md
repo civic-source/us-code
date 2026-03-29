@@ -3,9 +3,9 @@ title: "Section 2258 - Failure to report child abuse"
 usc_title: 18
 usc_section: "2258"
 chapter: 110
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "18 U.S.C. § 2258"
-generated_at: "2026-03-29T20:43:23.281Z"
+generated_at: "2026-03-29T20:55:11.030Z"
 ---
 
 # § 2258. Failure to report child abuse

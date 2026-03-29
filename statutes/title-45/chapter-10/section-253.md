@@ -3,9 +3,9 @@ title: "Section 253 - Repealed. June 29, 1937, ch. 405, § 11 , 50 Stat. 440"
 usc_title: 45
 usc_section: "253"
 chapter: 10
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "45 U.S.C. § 253"
-generated_at: "2026-03-29T20:45:44.698Z"
+generated_at: "2026-03-29T20:57:25.529Z"
 ---
 
 # §§ 241 to 253. Repealed. June 29, 1937, ch. 405, § 11 , 50 Stat. 440

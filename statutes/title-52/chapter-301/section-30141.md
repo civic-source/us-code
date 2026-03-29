@@ -3,9 +3,9 @@ title: "Section 30141 - Extension of credit by regulated industries; regulations
 usc_title: 52
 usc_section: "30141"
 chapter: 301
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "52 U.S.C. § 30141"
-generated_at: "2026-03-29T20:47:15.759Z"
+generated_at: "2026-03-29T20:59:12.710Z"
 ---
 
 # § 30141. Extension of credit by regulated industries; regulations

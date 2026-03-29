@@ -3,9 +3,9 @@ title: "Section 2310 - Performance-based contracts or task orders for services t
 usc_title: 41
 usc_section: "2310"
 chapter: 23
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "41 U.S.C. § 2310"
-generated_at: "2026-03-29T20:45:43.009Z"
+generated_at: "2026-03-29T20:57:32.246Z"
 ---
 
 # § 2310. Performance-based contracts or task orders for services to be treated as contracts for the procurement of commercial items

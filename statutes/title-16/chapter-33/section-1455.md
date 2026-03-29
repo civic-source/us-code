@@ -3,9 +3,9 @@ title: "Section 1455 - Administrative grants"
 usc_title: 16
 usc_section: "1455"
 chapter: 33
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 1455"
-generated_at: "2026-03-29T20:43:30.794Z"
+generated_at: "2026-03-29T20:55:21.177Z"
 ---
 
 # § 1455. Administrative grants

@@ -3,9 +3,9 @@ title: "Section 3345 - Contract authority for development and demonstration of i
 usc_title: 10
 usc_section: "3345"
 chapter: 243
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 3345"
-generated_at: "2026-03-29T20:42:48.738Z"
+generated_at: "2026-03-29T20:54:44.971Z"
 ---
 
 # § 3345. Contract authority for development and demonstration of initial or additional prototype units

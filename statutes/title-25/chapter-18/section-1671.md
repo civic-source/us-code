@@ -3,9 +3,9 @@ title: "Section 1671 - Reports"
 usc_title: 25
 usc_section: "1671"
 chapter: 18
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "25 U.S.C. § 1671"
-generated_at: "2026-03-29T20:44:07.115Z"
+generated_at: "2026-03-29T20:55:26.850Z"
 ---
 
 # § 1671. Reports

@@ -3,9 +3,9 @@ title: "Section 5612 - Emergency financial stabilization"
 usc_title: 12
 usc_section: "5612"
 chapter: 53
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "12 U.S.C. § 5612"
-generated_at: "2026-03-29T20:43:00.781Z"
+generated_at: "2026-03-29T20:55:01.825Z"
 ---
 
 # § 5612. Emergency financial stabilization

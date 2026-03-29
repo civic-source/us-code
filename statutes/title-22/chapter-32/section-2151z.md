@@ -3,9 +3,9 @@ title: "Section 2151z - Targeted assistance"
 usc_title: 22
 usc_section: "2151z"
 chapter: 32
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 2151z"
-generated_at: "2026-03-29T20:44:16.874Z"
+generated_at: "2026-03-29T20:55:46.236Z"
 ---
 
 # § 2151z. Targeted assistance

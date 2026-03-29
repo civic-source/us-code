@@ -3,9 +3,9 @@ title: "Section 3701 - Definition and application"
 usc_title: 40
 usc_section: "3701"
 chapter: 37
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "40 U.S.C. § 3701"
-generated_at: "2026-03-29T20:45:40.414Z"
+generated_at: "2026-03-29T20:56:52.380Z"
 ---
 
 # § 3701. Definition and application

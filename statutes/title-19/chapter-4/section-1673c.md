@@ -3,9 +3,9 @@ title: "Section 1673c - Termination or suspension of investigation"
 usc_title: 19
 usc_section: "1673c"
 chapter: 4
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "19 U.S.C. § 1673c"
-generated_at: "2026-03-29T20:43:18.223Z"
+generated_at: "2026-03-29T20:55:08.556Z"
 ---
 
 # § 1673c. Termination or suspension of investigation

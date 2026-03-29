@@ -3,9 +3,9 @@ title: "Section 4504 - Presidential awards"
 usc_title: 5
 usc_section: "4504"
 chapter: 45
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "5 U.S.C. § 4504"
-generated_at: "2026-03-29T20:42:02.870Z"
+generated_at: "2026-03-29T20:53:12.263Z"
 ---
 
 # § 4504. Presidential awards

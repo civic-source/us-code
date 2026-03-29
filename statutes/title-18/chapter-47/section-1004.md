@@ -3,9 +3,9 @@ title: "Section 1004 - Certification of checks"
 usc_title: 18
 usc_section: "1004"
 chapter: 47
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "18 U.S.C. § 1004"
-generated_at: "2026-03-29T20:43:23.238Z"
+generated_at: "2026-03-29T20:55:10.989Z"
 ---
 
 # § 1004. Certification of checks

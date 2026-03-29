@@ -3,9 +3,9 @@ title: "Section 13771 - Transferred"
 usc_title: 42
 usc_section: "13771"
 chapter: 136
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 13771"
-generated_at: "2026-03-29T20:46:41.464Z"
+generated_at: "2026-03-29T20:58:28.401Z"
 ---
 
 # § 13771. Transferred

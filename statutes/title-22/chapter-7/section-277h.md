@@ -3,9 +3,9 @@ title: "Section 277h - Authority of the International Boundary and Water Commiss
 usc_title: 22
 usc_section: "277h"
 chapter: 7
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 277h"
-generated_at: "2026-03-29T20:44:16.803Z"
+generated_at: "2026-03-29T20:55:46.165Z"
 ---
 
 # § 277h. Authority of the International Boundary and Water Commission to assist State and local governments

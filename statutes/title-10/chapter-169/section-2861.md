@@ -3,9 +3,9 @@ title: "Section 2861 - Military construction projects in connection with industr
 usc_title: 10
 usc_section: "2861"
 chapter: 169
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 2861"
-generated_at: "2026-03-29T20:42:48.714Z"
+generated_at: "2026-03-29T20:54:44.953Z"
 ---
 
 # § 2861. Military construction projects in connection with industrial facility investment program

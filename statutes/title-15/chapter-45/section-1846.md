@@ -3,9 +3,9 @@ title: "Section 1846 - Powers and duties"
 usc_title: 15
 usc_section: "1846"
 chapter: 45
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "15 U.S.C. § 1846"
-generated_at: "2026-03-29T20:43:07.197Z"
+generated_at: "2026-03-29T20:54:57.095Z"
 ---
 
 # § 1846. Powers and duties

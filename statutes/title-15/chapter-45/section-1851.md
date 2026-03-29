@@ -3,9 +3,9 @@ title: "Section 1851 - Reports to Congress; recommendations"
 usc_title: 15
 usc_section: "1851"
 chapter: 45
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "15 U.S.C. § 1851"
-generated_at: "2026-03-29T20:43:07.198Z"
+generated_at: "2026-03-29T20:54:57.095Z"
 ---
 
 # § 1851. Reports to Congress; recommendations

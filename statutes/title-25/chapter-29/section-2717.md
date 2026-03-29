@@ -3,9 +3,9 @@ title: "Section 2717 - Commission funding"
 usc_title: 25
 usc_section: "2717"
 chapter: 29
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "25 U.S.C. § 2717"
-generated_at: "2026-03-29T20:44:07.154Z"
+generated_at: "2026-03-29T20:55:26.888Z"
 ---
 
 # § 2717. Commission funding

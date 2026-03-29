@@ -3,9 +3,9 @@ title: "Section 70006 - Establishment by Secretary of the department in which th
 usc_title: 46
 usc_section: "70006"
 chapter: 700
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "46 U.S.C. § 70006"
-generated_at: "2026-03-29T20:47:08.382Z"
+generated_at: "2026-03-29T20:59:03.514Z"
 ---
 
 # § 70006. Establishment by Secretary of the department in which the Coast Guard is operating of anchorage grounds and regulations generally

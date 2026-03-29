@@ -3,9 +3,9 @@ title: "Section 442 - George Washington Birthplace National Monument"
 usc_title: 16
 usc_section: "442"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 442"
-generated_at: "2026-03-29T20:43:30.429Z"
+generated_at: "2026-03-29T20:55:20.930Z"
 ---
 
 # § 442. George Washington Birthplace National Monument

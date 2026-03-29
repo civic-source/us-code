@@ -3,9 +3,9 @@ title: "Section 7414 - Degree granting authority for United States Army Command 
 usc_title: 10
 usc_section: "7414"
 chapter: 751
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 7414"
-generated_at: "2026-03-29T20:42:48.787Z"
+generated_at: "2026-03-29T20:54:45.012Z"
 ---
 
 # § 7414. Degree granting authority for United States Army Command and General Staff College

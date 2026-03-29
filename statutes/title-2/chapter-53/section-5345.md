@@ -3,9 +3,9 @@ title: "Section 5345 - Annotated United States Code for Members of House of Repr
 usc_title: 2
 usc_section: "5345"
 chapter: 53
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "2 U.S.C. § 5345"
-generated_at: "2026-03-29T20:42:17.942Z"
+generated_at: "2026-03-29T20:53:17.100Z"
 ---
 
 # § 5345. Annotated United States Code for Members of House of Representatives to be paid for from Members’ Representational Allowance

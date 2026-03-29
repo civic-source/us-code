@@ -3,9 +3,9 @@ title: "Section 1416 - Permits"
 usc_title: 16
 usc_section: "1416"
 chapter: 31
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 1416"
-generated_at: "2026-03-29T20:43:30.786Z"
+generated_at: "2026-03-29T20:55:21.168Z"
 ---
 
 # § 1416. Permits

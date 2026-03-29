@@ -3,9 +3,9 @@ title: "Section 1074e - Medical care: certain Reserves who served in Southwest A
 usc_title: 10
 usc_section: "1074e"
 chapter: 55
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 1074e"
-generated_at: "2026-03-29T20:42:48.465Z"
+generated_at: "2026-03-29T20:54:44.799Z"
 ---
 
 # § 1074e. Medical care: certain Reserves who served in Southwest Asia during the Persian Gulf Conflict

@@ -3,9 +3,9 @@ title: "Section 221a - Additional definitions"
 usc_title: 12
 usc_section: "221a"
 chapter: 3
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "12 U.S.C. § 221a"
-generated_at: "2026-03-29T20:43:00.333Z"
+generated_at: "2026-03-29T20:55:01.468Z"
 ---
 
 # § 221a. Additional definitions

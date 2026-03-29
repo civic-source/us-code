@@ -3,9 +3,9 @@ title: "Section 5860 - Report on special nuclear materials"
 usc_title: 22
 usc_section: "5860"
 chapter: 67
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 5860"
-generated_at: "2026-03-29T20:44:17.037Z"
+generated_at: "2026-03-29T20:55:46.386Z"
 ---
 
 # § 5860. Report on special nuclear materials

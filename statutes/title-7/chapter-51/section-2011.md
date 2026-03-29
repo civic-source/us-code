@@ -3,9 +3,9 @@ title: "Section 2011 - Congressional declaration of policy"
 usc_title: 7
 usc_section: "2011"
 chapter: 51
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "7 U.S.C. § 2011"
-generated_at: "2026-03-29T20:42:35.362Z"
+generated_at: "2026-03-29T20:53:48.518Z"
 ---
 
 # § 2011. Congressional declaration of policy

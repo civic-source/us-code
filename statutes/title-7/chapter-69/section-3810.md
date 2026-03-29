@@ -3,9 +3,9 @@ title: "Section 3810 - Repealed. Pub. L. 104–127, title IX, § 914(b)(1) , Apr
 usc_title: 7
 usc_section: "3810"
 chapter: 69
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "7 U.S.C. § 3810"
-generated_at: "2026-03-29T20:42:35.441Z"
+generated_at: "2026-03-29T20:53:48.611Z"
 ---
 
 # § 3810. Repealed. Pub. L. 104–127, title IX, § 914(b)(1) , Apr. 4, 1996 , 110 Stat. 1186

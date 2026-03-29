@@ -3,9 +3,9 @@ title: "Section 2219a - Overtime and holiday pay"
 usc_title: 7
 usc_section: "2219a"
 chapter: 55
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "7 U.S.C. § 2219a"
-generated_at: "2026-03-29T20:42:35.397Z"
+generated_at: "2026-03-29T20:53:48.562Z"
 ---
 
 # § 2219a. Overtime and holiday pay

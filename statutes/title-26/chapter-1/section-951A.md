@@ -3,9 +3,9 @@ title: "Section 951A - Global intangible low-taxed income included in gross inco
 usc_title: 26
 usc_section: "951A"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "26 U.S.C. § 951A"
-generated_at: "2026-03-29T20:44:53.735Z"
+generated_at: "2026-03-29T20:56:07.272Z"
 ---
 
 # § 951A. Global intangible low-taxed income included in gross income of United States shareholders

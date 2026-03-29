@@ -3,9 +3,9 @@ title: "Section 3806 - Deferments and exemptions from training and service"
 usc_title: 50
 usc_section: "3806"
 chapter: 49
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "50 U.S.C. § 3806"
-generated_at: "2026-03-29T20:47:12.754Z"
+generated_at: "2026-03-29T20:59:06.071Z"
 ---
 
 # § 3806. Deferments and exemptions from training and service

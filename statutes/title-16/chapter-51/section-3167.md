@@ -3,9 +3,9 @@ title: "Section 3167 - Rights-of-way terms and conditions"
 usc_title: 16
 usc_section: "3167"
 chapter: 51
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 3167"
-generated_at: "2026-03-29T20:43:30.879Z"
+generated_at: "2026-03-29T20:55:21.242Z"
 ---
 
 # § 3167. Rights-of-way terms and conditions

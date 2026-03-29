@@ -3,9 +3,9 @@ title: "Section 17 - Regional or river basin plans and Federal water and related
 usc_title: 42
 usc_section: "17"
 chapter: 19
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 17"
-generated_at: "2026-03-29T20:46:40.783Z"
+generated_at: "2026-03-29T20:58:27.721Z"
 ---
 
 # § 1962d–17. Regional or river basin plans and Federal water and related land resources projects; preparation, formulation, and evaluation

@@ -3,9 +3,9 @@ title: "Section 210 - Pay of senior enlisted members during terminal leave and w
 usc_title: 37
 usc_section: "210"
 chapter: 3
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "37 U.S.C. § 210"
-generated_at: "2026-03-29T20:45:22.725Z"
+generated_at: "2026-03-29T20:57:19.688Z"
 ---
 
 # § 210. Pay of senior enlisted members during terminal leave and while hospitalized

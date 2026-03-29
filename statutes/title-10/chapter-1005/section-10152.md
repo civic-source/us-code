@@ -3,9 +3,9 @@ title: "Section 10152 - Standby Reserve: inactive status list"
 usc_title: 10
 usc_section: "10152"
 chapter: 1005
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 10152"
-generated_at: "2026-03-29T20:42:48.851Z"
+generated_at: "2026-03-29T20:54:45.056Z"
 ---
 
 # § 10152. Standby Reserve: inactive status list

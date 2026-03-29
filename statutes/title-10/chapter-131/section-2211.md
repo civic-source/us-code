@@ -3,9 +3,9 @@ title: "Section 2211 - Reimbursement for equipment, material, or services furnis
 usc_title: 10
 usc_section: "2211"
 chapter: 131
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 2211"
-generated_at: "2026-03-29T20:42:48.554Z"
+generated_at: "2026-03-29T20:54:44.872Z"
 ---
 
 # § 2211. Reimbursement for equipment, material, or services furnished members of the United Nations

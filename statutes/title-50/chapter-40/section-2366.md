@@ -3,9 +3,9 @@ title: "Section 2366 - Repealed. Pub. L. 112–239, div. A, title X, § 1065(c) 
 usc_title: 50
 usc_section: "2366"
 chapter: 40
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "50 U.S.C. § 2366"
-generated_at: "2026-03-29T20:47:12.660Z"
+generated_at: "2026-03-29T20:59:05.998Z"
 ---
 
 # § 2366. Repealed. Pub. L. 112–239, div. A, title X, § 1065(c) , Jan. 2, 2013 , 126 Stat. 1943 , and Pub. L. 112–277, title III, § 310(a)(1) , Jan. 14, 2013 , 126 Stat. 2474

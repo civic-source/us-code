@@ -3,9 +3,9 @@ title: "Section 30113 - Statements filed with State officers; “appropriate Sta
 usc_title: 52
 usc_section: "30113"
 chapter: 301
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "52 U.S.C. § 30113"
-generated_at: "2026-03-29T20:47:15.755Z"
+generated_at: "2026-03-29T20:59:12.706Z"
 ---
 
 # § 30113. Statements filed with State officers; “appropriate State” defined; duties of State officers; waiver of duplicate filing requirement for States with electronic access

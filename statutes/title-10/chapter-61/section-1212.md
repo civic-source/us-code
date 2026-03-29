@@ -3,9 +3,9 @@ title: "Section 1212 - Disability severance pay"
 usc_title: 10
 usc_section: "1212"
 chapter: 61
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 1212"
-generated_at: "2026-03-29T20:42:48.493Z"
+generated_at: "2026-03-29T20:54:44.821Z"
 ---
 
 # § 1212. Disability severance pay

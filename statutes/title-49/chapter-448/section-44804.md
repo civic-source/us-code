@@ -3,9 +3,9 @@ title: "Section 44804 - Small unmanned aircraft in the Arctic"
 usc_title: 49
 usc_section: "44804"
 chapter: 448
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "49 U.S.C. § 44804"
-generated_at: "2026-03-29T20:47:02.931Z"
+generated_at: "2026-03-29T20:58:55.459Z"
 ---
 
 # § 44804. Small unmanned aircraft in the Arctic

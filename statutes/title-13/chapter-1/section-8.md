@@ -3,9 +3,9 @@ title: "Section 8 - Authenticated transcripts or copies of certain returns; othe
 usc_title: 13
 usc_section: "8"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "13 U.S.C. § 8"
-generated_at: "2026-03-29T20:42:51.722Z"
+generated_at: "2026-03-29T20:54:47.666Z"
 ---
 
 # § 8. Authenticated transcripts or copies of certain returns; other data; restriction on use; disposition of fees received

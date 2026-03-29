@@ -3,9 +3,9 @@ title: "Section 1059 - Recordkeeping and reporting requirements"
 usc_title: 29
 usc_section: "1059"
 chapter: 18
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "29 U.S.C. § 1059"
-generated_at: "2026-03-29T20:44:23.633Z"
+generated_at: "2026-03-29T20:55:56.862Z"
 ---
 
 # § 1059. Recordkeeping and reporting requirements

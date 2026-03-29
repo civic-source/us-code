@@ -3,9 +3,9 @@ title: "Section 3671 - Transferred or reemployed employees"
 usc_title: 22
 usc_section: "3671"
 chapter: 51
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 3671"
-generated_at: "2026-03-29T20:44:16.978Z"
+generated_at: "2026-03-29T20:55:46.333Z"
 ---
 
 # § 3671. Transferred or reemployed employees

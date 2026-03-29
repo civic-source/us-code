@@ -3,9 +3,9 @@ title: "Section 4663 - Status"
 usc_title: 19
 usc_section: "4663"
 chapter: 29
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "19 U.S.C. § 4663"
-generated_at: "2026-03-29T20:43:18.375Z"
+generated_at: "2026-03-29T20:55:08.689Z"
 ---
 
 # § 4663. Status

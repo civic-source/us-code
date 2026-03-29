@@ -3,9 +3,9 @@ title: "Section 617d - Contracts for storage and use of waters for irrigation an
 usc_title: 43
 usc_section: "617d"
 chapter: 12
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "43 U.S.C. § 617d"
-generated_at: "2026-03-29T20:46:09.647Z"
+generated_at: "2026-03-29T20:57:43.362Z"
 ---
 
 # § 617d. Contracts for storage and use of waters for irrigation and domestic purposes; generation and sale of electrical energy

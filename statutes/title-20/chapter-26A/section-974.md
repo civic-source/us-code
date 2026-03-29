@@ -3,9 +3,9 @@ title: "Section 974 - Indemnity limits"
 usc_title: 20
 usc_section: "974"
 chapter: 26
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "20 U.S.C. § 974"
-generated_at: "2026-03-29T20:43:59.691Z"
+generated_at: "2026-03-29T20:55:15.351Z"
 ---
 
 # § 974. Indemnity limits

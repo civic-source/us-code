@@ -3,9 +3,9 @@ title: "Section 1166 - Regular warrant officers: elimination for unfitness or un
 usc_title: 10
 usc_section: "1166"
 chapter: 59
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 1166"
-generated_at: "2026-03-29T20:42:48.487Z"
+generated_at: "2026-03-29T20:54:44.817Z"
 ---
 
 # § 1166. Regular warrant officers: elimination for unfitness or unsatisfactory performance

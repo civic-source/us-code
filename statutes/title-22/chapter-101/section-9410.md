@@ -3,9 +3,9 @@ title: "Section 9410 - Exceptions for national security and humanitarian assista
 usc_title: 22
 usc_section: "9410"
 chapter: 101
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 9410"
-generated_at: "2026-03-29T20:44:17.131Z"
+generated_at: "2026-03-29T20:55:46.479Z"
 ---
 
 # § 9410. Exceptions for national security and humanitarian assistance; rule of construction

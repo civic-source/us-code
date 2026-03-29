@@ -3,9 +3,9 @@ title: "Section 855 - Omitted"
 usc_title: 43
 usc_section: "855"
 chapter: 20
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "43 U.S.C. § 855"
-generated_at: "2026-03-29T20:46:09.659Z"
+generated_at: "2026-03-29T20:57:43.378Z"
 ---
 
 # § 855. Omitted

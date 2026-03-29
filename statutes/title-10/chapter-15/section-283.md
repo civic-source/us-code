@@ -3,9 +3,9 @@ title: "Section 283 - Situations involving bombings of places of public use, Gov
 usc_title: 10
 usc_section: "283"
 chapter: 15
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 283"
-generated_at: "2026-03-29T20:42:48.383Z"
+generated_at: "2026-03-29T20:54:44.717Z"
 ---
 
 # § 283. Situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities

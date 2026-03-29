@@ -3,9 +3,9 @@ title: "Section 151707 - Provision and acceptance of support by Librarian of Con
 usc_title: 36
 usc_section: "151707"
 chapter: 1517
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "36 U.S.C. § 151707"
-generated_at: "2026-03-29T20:45:20.946Z"
+generated_at: "2026-03-29T20:56:51.028Z"
 ---
 
 # § 151707. Provision and acceptance of support by Librarian of Congress

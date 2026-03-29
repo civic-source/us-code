@@ -3,9 +3,9 @@ title: "Section 1995 - Criminal contempt proceedings; penalties; trial by jury"
 usc_title: 42
 usc_section: "1995"
 chapter: 21
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 1995"
-generated_at: "2026-03-29T20:46:40.787Z"
+generated_at: "2026-03-29T20:58:27.726Z"
 ---
 
 # § 1995. Criminal contempt proceedings; penalties; trial by jury

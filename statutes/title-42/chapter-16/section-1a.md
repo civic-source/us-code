@@ -3,9 +3,9 @@ title: "Section 1a - National Science Foundation Teaching Fellowships and Master
 usc_title: 42
 usc_section: "1a"
 chapter: 16
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 1a"
-generated_at: "2026-03-29T20:46:40.766Z"
+generated_at: "2026-03-29T20:58:27.702Z"
 ---
 
 # § 1862n–1a. National Science Foundation Teaching Fellowships and Master Teaching Fellowships

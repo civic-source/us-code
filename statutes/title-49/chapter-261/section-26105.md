@@ -3,9 +3,9 @@ title: "Section 26105 - Definitions"
 usc_title: 49
 usc_section: "26105"
 chapter: 261
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "49 U.S.C. § 26105"
-generated_at: "2026-03-29T20:47:02.843Z"
+generated_at: "2026-03-29T20:58:55.379Z"
 ---
 
 # § 26105. Definitions

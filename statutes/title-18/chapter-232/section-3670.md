@@ -3,9 +3,9 @@ title: "Section 3670 - Disposition of conveyances seized for violation of the In
 usc_title: 18
 usc_section: "3670"
 chapter: 232
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "18 U.S.C. § 3670"
-generated_at: "2026-03-29T20:43:23.336Z"
+generated_at: "2026-03-29T20:55:11.086Z"
 ---
 
 # § 3670. Disposition of conveyances seized for violation of the Indian liquor laws

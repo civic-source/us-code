@@ -3,9 +3,9 @@ title: "Section 1267 - Injunctions; criminal contempt; trial by court or jury"
 usc_title: 15
 usc_section: "1267"
 chapter: 30
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "15 U.S.C. § 1267"
-generated_at: "2026-03-29T20:43:07.116Z"
+generated_at: "2026-03-29T20:54:57.035Z"
 ---
 
 # § 1267. Injunctions; criminal contempt; trial by court or jury

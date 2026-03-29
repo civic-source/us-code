@@ -3,9 +3,9 @@ title: "Section 1708 - Actions to address economic or industrial espionage in cy
 usc_title: 50
 usc_section: "1708"
 chapter: 35
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "50 U.S.C. § 1708"
-generated_at: "2026-03-29T20:47:12.622Z"
+generated_at: "2026-03-29T20:59:05.968Z"
 ---
 
 # § 1708. Actions to address economic or industrial espionage in cyberspace

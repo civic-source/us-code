@@ -3,9 +3,9 @@ title: "Section 5111 - Allotments or holdings outside of reservations"
 usc_title: 25
 usc_section: "5111"
 chapter: 45
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "25 U.S.C. § 5111"
-generated_at: "2026-03-29T20:44:07.198Z"
+generated_at: "2026-03-29T20:55:26.925Z"
 ---
 
 # § 5111. Allotments or holdings outside of reservations

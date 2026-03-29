@@ -3,9 +3,9 @@ title: "Section 544g - Land acquisition"
 usc_title: 16
 usc_section: "544g"
 chapter: 2
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 544g"
-generated_at: "2026-03-29T20:43:30.565Z"
+generated_at: "2026-03-29T20:55:21.030Z"
 ---
 
 # § 544g. Land acquisition

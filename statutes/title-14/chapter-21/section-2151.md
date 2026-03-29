@@ -3,9 +3,9 @@ title: "Section 2151 - Rear admirals and rear admirals (lower half); continuatio
 usc_title: 14
 usc_section: "2151"
 chapter: 21
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "14 U.S.C. § 2151"
-generated_at: "2026-03-29T20:42:52.746Z"
+generated_at: "2026-03-29T20:54:48.959Z"
 ---
 
 # § 2151. Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement

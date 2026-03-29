@@ -3,9 +3,9 @@ title: "Section 21903 - Ashanti Alert Coordinator"
 usc_title: 34
 usc_section: "21903"
 chapter: 219
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "34 U.S.C. § 21903"
-generated_at: "2026-03-29T20:45:02.735Z"
+generated_at: "2026-03-29T20:56:14.428Z"
 ---
 
 # § 21903. Ashanti Alert Coordinator

@@ -3,9 +3,9 @@ title: "Section 1308 - Interagency agreement"
 usc_title: 47
 usc_section: "1308"
 chapter: 12
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "47 U.S.C. § 1308"
-generated_at: "2026-03-29T20:47:05.371Z"
+generated_at: "2026-03-29T20:58:56.636Z"
 ---
 
 # § 1308. Interagency agreement

@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Sta
 usc_title: 43
 usc_section: "5"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "43 U.S.C. § 5"
-generated_at: "2026-03-29T20:46:09.592Z"
+generated_at: "2026-03-29T20:57:43.306Z"
 ---
 
 # §§ 4, 5. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 632 , 641

@@ -3,9 +3,9 @@ title: "Section 199a - Custody of records; Oklahoma Historical Society"
 usc_title: 25
 usc_section: "199a"
 chapter: 5
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "25 U.S.C. § 199a"
-generated_at: "2026-03-29T20:44:07.055Z"
+generated_at: "2026-03-29T20:55:26.795Z"
 ---
 
 # § 199a. Custody of records; Oklahoma Historical Society

@@ -3,9 +3,9 @@ title: "Section 20304 - Local children’s advocacy centers"
 usc_title: 34
 usc_section: "20304"
 chapter: 203
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "34 U.S.C. § 20304"
-generated_at: "2026-03-29T20:45:02.718Z"
+generated_at: "2026-03-29T20:56:14.408Z"
 ---
 
 # § 20304. Local children’s advocacy centers

@@ -3,9 +3,9 @@ title: "Section 55603 - Repealed. Pub. L. 116–283, div. G, title LVXXXIII [LXX
 usc_title: 46
 usc_section: "55603"
 chapter: 556
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "46 U.S.C. § 55603"
-generated_at: "2026-03-29T20:47:08.373Z"
+generated_at: "2026-03-29T20:59:03.505Z"
 ---
 
 # [§ 55603. Repealed. Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8332(d)(1), Jan. 1, 2021 , 134 Stat. 4704 ]

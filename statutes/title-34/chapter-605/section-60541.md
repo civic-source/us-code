@@ -3,9 +3,9 @@ title: "Section 60541 - Federal prisoner reentry initiative"
 usc_title: 34
 usc_section: "60541"
 chapter: 605
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "34 U.S.C. § 60541"
-generated_at: "2026-03-29T20:45:02.761Z"
+generated_at: "2026-03-29T20:56:14.462Z"
 ---
 
 # § 60541. Federal prisoner reentry initiative

@@ -3,9 +3,9 @@ title: "Section 34 - Description of vein claims on surveyed and unsurveyed lands
 usc_title: 30
 usc_section: "34"
 chapter: 2
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "30 U.S.C. § 34"
-generated_at: "2026-03-29T20:44:42.774Z"
+generated_at: "2026-03-29T20:55:50.508Z"
 ---
 
 # § 34. Description of vein claims on surveyed and unsurveyed lands; monuments on ground to govern conflicting calls

@@ -3,9 +3,9 @@ title: "Section 508 - Repealed. Pub. L. 87–869, § 4 , Oct. 23, 1962 , 76 Stat
 usc_title: 16
 usc_section: "508"
 chapter: 2
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 508"
-generated_at: "2026-03-29T20:43:30.544Z"
+generated_at: "2026-03-29T20:55:21.015Z"
 ---
 
 # §§ 506 to 508. Repealed. Pub. L. 87–869, § 4 , Oct. 23, 1962 , 76 Stat. 1157

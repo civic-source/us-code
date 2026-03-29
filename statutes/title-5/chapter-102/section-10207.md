@@ -3,9 +3,9 @@ title: "Section 10207 - Promotions"
 usc_title: 5
 usc_section: "10207"
 chapter: 102
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "5 U.S.C. § 10207"
-generated_at: "2026-03-29T20:42:03.001Z"
+generated_at: "2026-03-29T20:53:12.380Z"
 ---
 
 # § 10207. Promotions

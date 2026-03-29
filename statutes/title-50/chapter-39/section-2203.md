@@ -3,9 +3,9 @@ title: "Section 2203 - Report on previous transfers"
 usc_title: 50
 usc_section: "2203"
 chapter: 39
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "50 U.S.C. § 2203"
-generated_at: "2026-03-29T20:47:12.656Z"
+generated_at: "2026-03-29T20:59:05.994Z"
 ---
 
 # § 2203. Report on previous transfers

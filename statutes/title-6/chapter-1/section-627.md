@@ -3,9 +3,9 @@ title: "Section 627 - CFATS regulations"
 usc_title: 6
 usc_section: "627"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "6 U.S.C. § 627"
-generated_at: "2026-03-29T20:42:29.726Z"
+generated_at: "2026-03-29T20:53:33.115Z"
 ---
 
 # § 627. CFATS regulations

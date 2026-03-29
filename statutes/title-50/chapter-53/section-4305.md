@@ -3,9 +3,9 @@ title: "Section 4305 - Suspension of provisions relating to ally of enemy; regul
 usc_title: 50
 usc_section: "4305"
 chapter: 53
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "50 U.S.C. § 4305"
-generated_at: "2026-03-29T20:47:12.777Z"
+generated_at: "2026-03-29T20:59:06.090Z"
 ---
 
 # § 4305. Suspension of provisions relating to ally of enemy; regulation of transactions in foreign exchange of gold or silver, property transfers, vested interests, enforcement and penalties

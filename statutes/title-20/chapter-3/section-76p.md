@@ -3,9 +3,9 @@ title: "Section 76p - Acceptance and disposition of gifts to the United States c
 usc_title: 20
 usc_section: "76p"
 chapter: 3
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "20 U.S.C. § 76p"
-generated_at: "2026-03-29T20:43:59.659Z"
+generated_at: "2026-03-29T20:55:15.324Z"
 ---
 
 # § 76p. Acceptance and disposition of gifts to the United States contributed in honor or memory of the late President John F. Kennedy

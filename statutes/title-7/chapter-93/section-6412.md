@@ -3,9 +3,9 @@ title: "Section 6412 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "6412"
 chapter: 93
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "7 U.S.C. § 6412"
-generated_at: "2026-03-29T20:42:35.489Z"
+generated_at: "2026-03-29T20:53:48.661Z"
 ---
 
 # § 6412. Investigations and power to subpoena

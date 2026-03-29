@@ -3,9 +3,9 @@ title: "Section 1734 - Editorials and other matter as “advertisements”"
 usc_title: 18
 usc_section: "1734"
 chapter: 83
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "18 U.S.C. § 1734"
-generated_at: "2026-03-29T20:43:23.264Z"
+generated_at: "2026-03-29T20:55:11.013Z"
 ---
 
 # § 1734. Editorials and other matter as “advertisements”

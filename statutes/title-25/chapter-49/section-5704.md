@@ -3,9 +3,9 @@ title: "Section 5704 - Guidelines for responding to cases of missing or murdered
 usc_title: 25
 usc_section: "5704"
 chapter: 49
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "25 U.S.C. § 5704"
-generated_at: "2026-03-29T20:44:07.224Z"
+generated_at: "2026-03-29T20:55:26.944Z"
 ---
 
 # § 5704. Guidelines for responding to cases of missing or murdered Indians

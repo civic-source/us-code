@@ -3,9 +3,9 @@ title: "Section 938 - Lands excepted"
 usc_title: 43
 usc_section: "938"
 chapter: 22
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "43 U.S.C. § 938"
-generated_at: "2026-03-29T20:46:09.666Z"
+generated_at: "2026-03-29T20:57:43.386Z"
 ---
 
 # § 938. Lands excepted

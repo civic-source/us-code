@@ -3,9 +3,9 @@ title: "Section 18324 - Utilization of existing workforce and assets in developm
 usc_title: 42
 usc_section: "18324"
 chapter: 159
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 18324"
-generated_at: "2026-03-29T20:46:41.614Z"
+generated_at: "2026-03-29T20:58:28.540Z"
 ---
 
 # § 18324. Utilization of existing workforce and assets in development of Space Launch System and multi-purpose crew vehicle

@@ -3,9 +3,9 @@ title: "Section 77fff - Securities not registered under Securities Act"
 usc_title: 15
 usc_section: "77fff"
 chapter: 2
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "15 U.S.C. § 77fff"
-generated_at: "2026-03-29T20:43:06.857Z"
+generated_at: "2026-03-29T20:54:56.803Z"
 ---
 
 # § 77fff. Securities not registered under Securities Act

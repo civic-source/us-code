@@ -3,9 +3,9 @@ title: "Section 17937 - Temporary breach notification requirement for vendors of
 usc_title: 42
 usc_section: "17937"
 chapter: 156
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 17937"
-generated_at: "2026-03-29T20:46:41.592Z"
+generated_at: "2026-03-29T20:58:28.518Z"
 ---
 
 # § 17937. Temporary breach notification requirement for vendors of personal health records and other non-HIPAA covered entities

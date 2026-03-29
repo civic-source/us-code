@@ -3,9 +3,9 @@ title: "Section 30503 - Performance assessments"
 usc_title: 51
 usc_section: "30503"
 chapter: 305
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "51 U.S.C. § 30503"
-generated_at: "2026-03-29T20:47:18.824Z"
+generated_at: "2026-03-29T20:59:12.359Z"
 ---
 
 # § 30503. Performance assessments

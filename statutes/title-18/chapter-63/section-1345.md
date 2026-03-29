@@ -3,9 +3,9 @@ title: "Section 1345 - Injunctions against fraud"
 usc_title: 18
 usc_section: "1345"
 chapter: 63
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "18 U.S.C. § 1345"
-generated_at: "2026-03-29T20:43:23.249Z"
+generated_at: "2026-03-29T20:55:11.001Z"
 ---
 
 # § 1345. Injunctions against fraud

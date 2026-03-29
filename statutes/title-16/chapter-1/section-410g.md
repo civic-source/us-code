@@ -3,9 +3,9 @@ title: "Section 410g - Rules and regulations governing reservation rights"
 usc_title: 16
 usc_section: "410g"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 410g"
-generated_at: "2026-03-29T20:43:30.354Z"
+generated_at: "2026-03-29T20:55:20.871Z"
 ---
 
 # § 410g. Rules and regulations governing reservation rights

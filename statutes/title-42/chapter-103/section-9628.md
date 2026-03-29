@@ -3,9 +3,9 @@ title: "Section 9628 - State response programs"
 usc_title: 42
 usc_section: "9628"
 chapter: 103
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 9628"
-generated_at: "2026-03-29T20:46:41.273Z"
+generated_at: "2026-03-29T20:58:28.224Z"
 ---
 
 # § 9628. State response programs

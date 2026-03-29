@@ -3,9 +3,9 @@ title: "Section 7674 - Assistance from the United States private sector to preve
 usc_title: 22
 usc_section: "7674"
 chapter: 83
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 7674"
-generated_at: "2026-03-29T20:44:17.089Z"
+generated_at: "2026-03-29T20:55:46.436Z"
 ---
 
 # § 7674. Assistance from the United States private sector to prevent and reduce HIV/AIDS in sub-Saharan Africa

@@ -3,9 +3,9 @@ title: "Section 1691 - United States policy"
 usc_title: 7
 usc_section: "1691"
 chapter: 41
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "7 U.S.C. § 1691"
-generated_at: "2026-03-29T20:42:35.313Z"
+generated_at: "2026-03-29T20:53:48.463Z"
 ---
 
 # § 1691. United States policy

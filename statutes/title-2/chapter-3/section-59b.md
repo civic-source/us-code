@@ -3,9 +3,9 @@ title: "Section 59b - Transferred"
 usc_title: 2
 usc_section: "59b"
 chapter: 3
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "2 U.S.C. § 59b"
-generated_at: "2026-03-29T20:42:17.832Z"
+generated_at: "2026-03-29T20:53:16.973Z"
 ---
 
 # § 59b. Transferred

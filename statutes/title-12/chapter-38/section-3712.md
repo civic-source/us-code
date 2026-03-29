@@ -3,9 +3,9 @@ title: "Section 3712 - Disposition of sale proceeds"
 usc_title: 12
 usc_section: "3712"
 chapter: 38
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "12 U.S.C. § 3712"
-generated_at: "2026-03-29T20:43:00.657Z"
+generated_at: "2026-03-29T20:55:01.734Z"
 ---
 
 # § 3712. Disposition of sale proceeds

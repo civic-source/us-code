@@ -3,9 +3,9 @@ title: "Section 4132 - Claims authorized"
 usc_title: 50
 usc_section: "4132"
 chapter: 51
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "50 U.S.C. § 4132"
-generated_at: "2026-03-29T20:47:12.772Z"
+generated_at: "2026-03-29T20:59:06.084Z"
 ---
 
 # § 4132. Claims authorized

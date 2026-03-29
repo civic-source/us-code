@@ -3,9 +3,9 @@ title: "Section 7447 - Cadets; nominees: effect of redistricting of States"
 usc_title: 10
 usc_section: "7447"
 chapter: 753
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 7447"
-generated_at: "2026-03-29T20:42:48.789Z"
+generated_at: "2026-03-29T20:54:45.013Z"
 ---
 
 # § 7447. Cadets; nominees: effect of redistricting of States

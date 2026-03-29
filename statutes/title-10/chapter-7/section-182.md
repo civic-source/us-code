@@ -3,9 +3,9 @@ title: "Section 182 - Center for Excellence in Disaster Management and Humanitar
 usc_title: 10
 usc_section: "182"
 chapter: 7
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 182"
-generated_at: "2026-03-29T20:42:48.374Z"
+generated_at: "2026-03-29T20:54:44.701Z"
 ---
 
 # § 182. Center for Excellence in Disaster Management and Humanitarian Assistance

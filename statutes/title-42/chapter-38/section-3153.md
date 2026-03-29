@@ -3,9 +3,9 @@ title: "Section 3153 - Prohibition on use of funds for attorney’s and consulta
 usc_title: 42
 usc_section: "3153"
 chapter: 38
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 3153"
-generated_at: "2026-03-29T20:46:40.884Z"
+generated_at: "2026-03-29T20:58:27.835Z"
 ---
 
 # § 3153. Prohibition on use of funds for attorney’s and consultant’s fees

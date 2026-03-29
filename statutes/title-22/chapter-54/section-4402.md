@@ -3,9 +3,9 @@ title: "Section 4402 - Grants; authorization; purposes; terms and conditions; de
 usc_title: 22
 usc_section: "4402"
 chapter: 54
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 4402"
-generated_at: "2026-03-29T20:44:17.013Z"
+generated_at: "2026-03-29T20:55:46.367Z"
 ---
 
 # § 4402. Grants; authorization; purposes; terms and conditions; deposit of interest

@@ -3,9 +3,9 @@ title: "Section 12874 - Homeownership program requirements"
 usc_title: 42
 usc_section: "12874"
 chapter: 130
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 12874"
-generated_at: "2026-03-29T20:46:41.429Z"
+generated_at: "2026-03-29T20:58:28.370Z"
 ---
 
 # § 12874. Homeownership program requirements

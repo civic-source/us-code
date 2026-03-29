@@ -3,9 +3,9 @@ title: "Section 1535 - Supplemental grants for coalition mentoring activities"
 usc_title: 21
 usc_section: "1535"
 chapter: 20
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "21 U.S.C. § 1535"
-generated_at: "2026-03-29T20:44:11.544Z"
+generated_at: "2026-03-29T20:55:29.049Z"
 ---
 
 # § 1535. Supplemental grants for coalition mentoring activities

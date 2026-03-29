@@ -3,9 +3,9 @@ title: "Section 1244 - Losses on small business stock"
 usc_title: 26
 usc_section: "1244"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "26 U.S.C. § 1244"
-generated_at: "2026-03-29T20:44:53.763Z"
+generated_at: "2026-03-29T20:56:07.299Z"
 ---
 
 # § 1244. Losses on small business stock

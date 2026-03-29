@@ -3,9 +3,9 @@ title: "Section 4814 - National technology and industrial base: annual report an
 usc_title: 10
 usc_section: "4814"
 chapter: 382
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 4814"
-generated_at: "2026-03-29T20:42:48.772Z"
+generated_at: "2026-03-29T20:54:45.000Z"
 ---
 
 # § 4814. National technology and industrial base: annual report and quarterly briefings

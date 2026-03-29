@@ -3,9 +3,9 @@ title: "Section 24709 - International transportation"
 usc_title: 49
 usc_section: "24709"
 chapter: 247
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "49 U.S.C. § 24709"
-generated_at: "2026-03-29T20:47:02.838Z"
+generated_at: "2026-03-29T20:58:55.375Z"
 ---
 
 # § 24709. International transportation

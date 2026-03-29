@@ -3,9 +3,9 @@ title: "Section 2141 - Marking and identification of animals"
 usc_title: 7
 usc_section: "2141"
 chapter: 54
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "7 U.S.C. § 2141"
-generated_at: "2026-03-29T20:42:35.389Z"
+generated_at: "2026-03-29T20:53:48.552Z"
 ---
 
 # § 2141. Marking and identification of animals

@@ -3,9 +3,9 @@ title: "Section 254b - Privileges and immunities of mission of nonparty to Vienn
 usc_title: 22
 usc_section: "254b"
 chapter: 6
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 254b"
-generated_at: "2026-03-29T20:44:16.781Z"
+generated_at: "2026-03-29T20:55:46.148Z"
 ---
 
 # § 254b. Privileges and immunities of mission of nonparty to Vienna Convention

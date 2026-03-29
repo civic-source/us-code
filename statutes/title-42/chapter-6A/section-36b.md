@@ -3,9 +3,9 @@ title: "Section 36b - Mental health and substance use disorder services on campu
 usc_title: 42
 usc_section: "36b"
 chapter: 6
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 36b"
-generated_at: "2026-03-29T20:46:40.040Z"
+generated_at: "2026-03-29T20:58:27.002Z"
 ---
 
 # § 290bb–36b. Mental health and substance use disorder services on campus

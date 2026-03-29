@@ -3,9 +3,9 @@ title: "Section 12529 - Board of Actuaries"
 usc_title: 10
 usc_section: "12529"
 chapter: 1214
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 12529"
-generated_at: "2026-03-29T20:42:48.865Z"
+generated_at: "2026-03-29T20:54:45.066Z"
 ---
 
 # § 12529. Board of Actuaries

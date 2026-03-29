@@ -3,9 +3,9 @@ title: "Section 20158 - Railroad safety technology grants"
 usc_title: 49
 usc_section: "20158"
 chapter: 201
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "49 U.S.C. § 20158"
-generated_at: "2026-03-29T20:47:02.823Z"
+generated_at: "2026-03-29T20:58:55.361Z"
 ---
 
 # § 20158. Railroad safety technology grants

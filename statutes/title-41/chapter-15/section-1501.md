@@ -3,9 +3,9 @@ title: "Section 1501 - Cost Accounting Standards Board"
 usc_title: 41
 usc_section: "1501"
 chapter: 15
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "41 U.S.C. § 1501"
-generated_at: "2026-03-29T20:45:42.999Z"
+generated_at: "2026-03-29T20:57:32.239Z"
 ---
 
 # § 1501. Cost Accounting Standards Board

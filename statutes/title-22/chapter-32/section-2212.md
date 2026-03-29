@@ -3,9 +3,9 @@ title: "Section 2212 - Development credits for micro, small, and medium-sized en
 usc_title: 22
 usc_section: "2212"
 chapter: 32
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 2212"
-generated_at: "2026-03-29T20:44:16.882Z"
+generated_at: "2026-03-29T20:55:46.244Z"
 ---
 
 # § 2212. Development credits for micro, small, and medium-sized enterprises

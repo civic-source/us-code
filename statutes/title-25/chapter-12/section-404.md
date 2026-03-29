@@ -3,9 +3,9 @@ title: "Section 404 - Sale on petition of allottee or heirs"
 usc_title: 25
 usc_section: "404"
 chapter: 12
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "25 U.S.C. § 404"
-generated_at: "2026-03-29T20:44:07.073Z"
+generated_at: "2026-03-29T20:55:26.808Z"
 ---
 
 # § 404. Sale on petition of allottee or heirs

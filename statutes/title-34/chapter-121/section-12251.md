@@ -3,9 +3,9 @@ title: "Section 12251 - Authority to make grants"
 usc_title: 34
 usc_section: "12251"
 chapter: 121
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "34 U.S.C. § 12251"
-generated_at: "2026-03-29T20:45:02.694Z"
+generated_at: "2026-03-29T20:56:14.377Z"
 ---
 
 # § 12251. Authority to make grants

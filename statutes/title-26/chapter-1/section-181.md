@@ -3,9 +3,9 @@ title: "Section 181 - Treatment of certain qualified film and television and liv
 usc_title: 26
 usc_section: "181"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "26 U.S.C. § 181"
-generated_at: "2026-03-29T20:44:53.554Z"
+generated_at: "2026-03-29T20:56:07.115Z"
 ---
 
 # § 181. Treatment of certain qualified film and television and live theatrical productions

@@ -3,9 +3,9 @@ title: "Section 20115 - International cooperation"
 usc_title: 51
 usc_section: "20115"
 chapter: 201
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "51 U.S.C. § 20115"
-generated_at: "2026-03-29T20:47:18.818Z"
+generated_at: "2026-03-29T20:59:12.354Z"
 ---
 
 # § 20115. International cooperation

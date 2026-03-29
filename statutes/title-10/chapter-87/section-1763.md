@@ -3,9 +3,9 @@ title: "Section 1763 - Repealed. Pub. L. 108–136, div. A, title VIII, § 835(1
 usc_title: 10
 usc_section: "1763"
 chapter: 87
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 1763"
-generated_at: "2026-03-29T20:42:48.534Z"
+generated_at: "2026-03-29T20:54:44.856Z"
 ---
 
 # [§ 1763. Repealed. Pub. L. 108–136, div. A, title VIII, § 835(1) , Nov. 24, 2003 , 117 Stat. 1551 ]

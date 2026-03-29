@@ -3,9 +3,9 @@ title: "Section 891g - Interoperability"
 usc_title: 33
 usc_section: "891g"
 chapter: 17
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "33 U.S.C. § 891g"
-generated_at: "2026-03-29T20:45:06.739Z"
+generated_at: "2026-03-29T20:56:16.567Z"
 ---
 
 # § 891g. Interoperability

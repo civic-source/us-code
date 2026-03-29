@@ -3,9 +3,9 @@ title: "Section 889 - Rights of entrymen whose entries had not been admitted to 
 usc_title: 43
 usc_section: "889"
 chapter: 21
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "43 U.S.C. § 889"
-generated_at: "2026-03-29T20:46:09.663Z"
+generated_at: "2026-03-29T20:57:43.382Z"
 ---
 
 # § 889. Rights of entrymen whose entries had not been admitted to record

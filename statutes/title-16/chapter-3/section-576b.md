@@ -3,9 +3,9 @@ title: "Section 576b - Purchasers of national-forest timber; deposits of money i
 usc_title: 16
 usc_section: "576b"
 chapter: 3
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 576b"
-generated_at: "2026-03-29T20:43:30.576Z"
+generated_at: "2026-03-29T20:55:21.038Z"
 ---
 
 # § 576b. Purchasers of national-forest timber; deposits of money in addition to payments for timber; use of deposits; seedlings and young trees for burned-over areas in national parks

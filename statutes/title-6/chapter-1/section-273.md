@@ -3,9 +3,9 @@ title: "Section 273 - Professional responsibility and quality review"
 usc_title: 6
 usc_section: "273"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "6 U.S.C. § 273"
-generated_at: "2026-03-29T20:42:29.685Z"
+generated_at: "2026-03-29T20:53:33.072Z"
 ---
 
 # § 273. Professional responsibility and quality review

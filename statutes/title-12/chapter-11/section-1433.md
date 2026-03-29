@@ -3,9 +3,9 @@ title: "Section 1433 - Exemption from taxation; obligations acceptable as credit
 usc_title: 12
 usc_section: "1433"
 chapter: 11
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "12 U.S.C. § 1433"
-generated_at: "2026-03-29T20:43:00.377Z"
+generated_at: "2026-03-29T20:55:01.508Z"
 ---
 
 # § 1433. Exemption from taxation; obligations acceptable as credit on debt of home owner

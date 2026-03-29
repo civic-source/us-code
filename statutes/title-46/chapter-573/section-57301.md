@@ -3,9 +3,9 @@ title: "Section 57301 - Definitions"
 usc_title: 46
 usc_section: "57301"
 chapter: 573
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "46 U.S.C. § 57301"
-generated_at: "2026-03-29T20:47:08.378Z"
+generated_at: "2026-03-29T20:59:03.509Z"
 ---
 
 # § 57301. Definitions

@@ -3,9 +3,9 @@ title: "Section 930 - Possession of firearms and dangerous weapons in Federal fa
 usc_title: 18
 usc_section: "930"
 chapter: 44
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "18 U.S.C. § 930"
-generated_at: "2026-03-29T20:43:23.229Z"
+generated_at: "2026-03-29T20:55:10.985Z"
 ---
 
 # § 930. Possession of firearms and dangerous weapons in Federal facilities

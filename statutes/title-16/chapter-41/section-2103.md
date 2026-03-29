@@ -3,9 +3,9 @@ title: "Section 2103 - Repealed. Pub. L. 113–79, title VIII, § 8001(a) , Feb.
 usc_title: 16
 usc_section: "2103"
 chapter: 41
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 2103"
-generated_at: "2026-03-29T20:43:30.847Z"
+generated_at: "2026-03-29T20:55:21.220Z"
 ---
 
 # § 2103. Repealed. Pub. L. 113–79, title VIII, § 8001(a) , Feb. 7, 2014 , 128 Stat. 913

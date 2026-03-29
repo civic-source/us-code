@@ -3,9 +3,9 @@ title: "Section 416 - Orders of Commission"
 usc_title: 47
 usc_section: "416"
 chapter: 5
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "47 U.S.C. § 416"
-generated_at: "2026-03-29T20:47:05.327Z"
+generated_at: "2026-03-29T20:58:56.602Z"
 ---
 
 # § 416. Orders of Commission

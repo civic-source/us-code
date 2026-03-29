@@ -3,9 +3,9 @@ title: "Section 7421 - Degree granting authority for United States Army War Coll
 usc_title: 10
 usc_section: "7421"
 chapter: 751
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 7421"
-generated_at: "2026-03-29T20:42:48.788Z"
+generated_at: "2026-03-29T20:54:45.012Z"
 ---
 
 # § 7421. Degree granting authority for United States Army War College

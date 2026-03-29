@@ -3,9 +3,9 @@ title: "Section 1831 - Information and recordkeeping requirements"
 usc_title: 29
 usc_section: "1831"
 chapter: 20
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "29 U.S.C. § 1831"
-generated_at: "2026-03-29T20:44:23.696Z"
+generated_at: "2026-03-29T20:55:56.927Z"
 ---
 
 # § 1831. Information and recordkeeping requirements

@@ -3,9 +3,9 @@ title: "Section 343d - Transferred"
 usc_title: 7
 usc_section: "343d"
 chapter: 13
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "7 U.S.C. § 343d"
-generated_at: "2026-03-29T20:42:35.210Z"
+generated_at: "2026-03-29T20:53:48.358Z"
 ---
 
 # § 343d. Transferred

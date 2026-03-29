@@ -3,9 +3,9 @@ title: "Section 1500 - Pendency of claims in other courts"
 usc_title: 28
 usc_section: "1500"
 chapter: 91
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "28 U.S.C. § 1500"
-generated_at: "2026-03-29T20:44:27.715Z"
+generated_at: "2026-03-29T20:56:09.497Z"
 ---
 
 # § 1500. Pendency of claims in other courts

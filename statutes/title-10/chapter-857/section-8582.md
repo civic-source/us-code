@@ -3,9 +3,9 @@ title: "Section 8582 - Deferred annuity policy required"
 usc_title: 10
 usc_section: "8582"
 chapter: 857
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 8582"
-generated_at: "2026-03-29T20:42:48.814Z"
+generated_at: "2026-03-29T20:54:45.032Z"
 ---
 
 # § 8582. Deferred annuity policy required

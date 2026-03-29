@@ -3,9 +3,9 @@ title: "Section 2421b - Capital projects for poverty alleviation and environment
 usc_title: 22
 usc_section: "2421b"
 chapter: 32
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 2421b"
-generated_at: "2026-03-29T20:44:16.915Z"
+generated_at: "2026-03-29T20:55:46.277Z"
 ---
 
 # § 2421b. Capital projects for poverty alleviation and environmental safety and sustainability

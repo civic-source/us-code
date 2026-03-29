@@ -3,9 +3,9 @@ title: "Section 18233b - Authority to carry out small projects with operation an
 usc_title: 10
 usc_section: "18233b"
 chapter: 1803
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 18233b"
-generated_at: "2026-03-29T20:42:48.884Z"
+generated_at: "2026-03-29T20:54:45.080Z"
 ---
 
 # § 18233b. Authority to carry out small projects with operation and maintenance funds

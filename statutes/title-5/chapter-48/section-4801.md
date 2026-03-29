@@ -3,9 +3,9 @@ title: "Section 4801 - Nonapplicability of chapter 47"
 usc_title: 5
 usc_section: "4801"
 chapter: 48
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "5 U.S.C. § 4801"
-generated_at: "2026-03-29T20:42:02.872Z"
+generated_at: "2026-03-29T20:53:12.264Z"
 ---
 
 # § 4801. Nonapplicability of chapter 47

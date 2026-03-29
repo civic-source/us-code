@@ -3,9 +3,9 @@ title: "Section 10562 - Applications"
 usc_title: 34
 usc_section: "10562"
 chapter: 101
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "34 U.S.C. § 10562"
-generated_at: "2026-03-29T20:45:02.665Z"
+generated_at: "2026-03-29T20:56:14.347Z"
 ---
 
 # § 10562. Applications

@@ -3,9 +3,9 @@ title: "Section 4069b - Survivor benefits for certain former spouses"
 usc_title: 22
 usc_section: "4069b"
 chapter: 52
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 4069b"
-generated_at: "2026-03-29T20:44:17.000Z"
+generated_at: "2026-03-29T20:55:46.352Z"
 ---
 
 # § 4069b. Survivor benefits for certain former spouses

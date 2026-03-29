@@ -3,9 +3,9 @@ title: "Section 832b - Definitions"
 usc_title: 16
 usc_section: "832b"
 chapter: 12
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 832b"
-generated_at: "2026-03-29T20:43:30.692Z"
+generated_at: "2026-03-29T20:55:21.110Z"
 ---
 
 # § 832b. Definitions

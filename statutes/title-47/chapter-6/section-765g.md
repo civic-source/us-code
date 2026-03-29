@@ -3,9 +3,9 @@ title: "Section 765g - Exclusivity arrangements"
 usc_title: 47
 usc_section: "765g"
 chapter: 6
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "47 U.S.C. § 765g"
-generated_at: "2026-03-29T20:47:05.355Z"
+generated_at: "2026-03-29T20:58:56.622Z"
 ---
 
 # § 765g. Exclusivity arrangements

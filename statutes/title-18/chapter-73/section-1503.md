@@ -3,9 +3,9 @@ title: "Section 1503 - Influencing or injuring officer or juror generally"
 usc_title: 18
 usc_section: "1503"
 chapter: 73
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "18 U.S.C. § 1503"
-generated_at: "2026-03-29T20:43:23.252Z"
+generated_at: "2026-03-29T20:55:11.004Z"
 ---
 
 # § 1503. Influencing or injuring officer or juror generally

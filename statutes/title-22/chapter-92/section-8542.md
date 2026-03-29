@@ -3,9 +3,9 @@ title: "Section 8542 - Identification of countries of concern with respect to th
 usc_title: 22
 usc_section: "8542"
 chapter: 92
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 8542"
-generated_at: "2026-03-29T20:44:17.108Z"
+generated_at: "2026-03-29T20:55:46.455Z"
 ---
 
 # § 8542. Identification of countries of concern with respect to the diversion of certain goods, services, and technologies to or through Iran

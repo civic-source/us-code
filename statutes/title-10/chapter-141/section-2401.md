@@ -3,9 +3,9 @@ title: "Section 2401 - Requirement for authorization by law of certain contracts
 usc_title: 10
 usc_section: "2401"
 chapter: 141
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 2401"
-generated_at: "2026-03-29T20:42:48.604Z"
+generated_at: "2026-03-29T20:54:44.909Z"
 ---
 
 # § 2401. Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles

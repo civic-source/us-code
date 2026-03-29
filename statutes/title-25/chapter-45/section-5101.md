@@ -3,9 +3,9 @@ title: "Section 5101 - Allotment of land on Indian reservations"
 usc_title: 25
 usc_section: "5101"
 chapter: 45
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "25 U.S.C. § 5101"
-generated_at: "2026-03-29T20:44:07.197Z"
+generated_at: "2026-03-29T20:55:26.924Z"
 ---
 
 # § 5101. Allotment of land on Indian reservations

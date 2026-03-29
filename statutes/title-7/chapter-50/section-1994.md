@@ -3,9 +3,9 @@ title: "Section 1994 - Maximum amounts for loans authorized; long-term cost proj
 usc_title: 7
 usc_section: "1994"
 chapter: 50
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "7 U.S.C. § 1994"
-generated_at: "2026-03-29T20:42:35.345Z"
+generated_at: "2026-03-29T20:53:48.498Z"
 ---
 
 # § 1994. Maximum amounts for loans authorized; long-term cost projections

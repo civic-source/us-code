@@ -3,9 +3,9 @@ title: "Section 51 - Purpose; appropriations authorized"
 usc_title: 20
 usc_section: "51"
 chapter: 28
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "20 U.S.C. § 51"
-generated_at: "2026-03-29T20:43:59.771Z"
+generated_at: "2026-03-29T20:55:15.420Z"
 ---
 
 # § 1087–51. Purpose; appropriations authorized

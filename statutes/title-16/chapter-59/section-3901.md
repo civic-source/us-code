@@ -3,9 +3,9 @@ title: "Section 3901 - Findings and statement of purpose"
 usc_title: 16
 usc_section: "3901"
 chapter: 59
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 3901"
-generated_at: "2026-03-29T20:43:30.926Z"
+generated_at: "2026-03-29T20:55:21.282Z"
 ---
 
 # § 3901. Findings and statement of purpose

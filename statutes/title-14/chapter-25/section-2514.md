@@ -3,9 +3,9 @@ title: "Section 2514 - Career flexibility to enhance retention of members"
 usc_title: 14
 usc_section: "2514"
 chapter: 25
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "14 U.S.C. § 2514"
-generated_at: "2026-03-29T20:42:52.748Z"
+generated_at: "2026-03-29T20:54:48.963Z"
 ---
 
 # § 2514. Career flexibility to enhance retention of members

@@ -3,9 +3,9 @@ title: "Section 12171 - Grant authority"
 usc_title: 34
 usc_section: "12171"
 chapter: 121
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "34 U.S.C. § 12171"
-generated_at: "2026-03-29T20:45:02.692Z"
+generated_at: "2026-03-29T20:56:14.375Z"
 ---
 
 # § 12171. Grant authority

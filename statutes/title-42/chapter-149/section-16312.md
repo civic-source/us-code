@@ -3,9 +3,9 @@ title: "Section 16312 - Fusion energy sciences program"
 usc_title: 42
 usc_section: "16312"
 chapter: 149
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 16312"
-generated_at: "2026-03-29T20:46:41.534Z"
+generated_at: "2026-03-29T20:58:28.462Z"
 ---
 
 # § 16312. Fusion energy sciences program

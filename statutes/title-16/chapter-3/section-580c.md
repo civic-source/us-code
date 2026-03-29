@@ -3,9 +3,9 @@ title: "Section 580c - Purchases of experimental materials, special devices, tes
 usc_title: 16
 usc_section: "580c"
 chapter: 3
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 580c"
-generated_at: "2026-03-29T20:43:30.579Z"
+generated_at: "2026-03-29T20:55:21.040Z"
 ---
 
 # § 580c. Purchases of experimental materials, special devices, test models, etc.

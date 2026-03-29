@@ -3,9 +3,9 @@ title: "Section 3192 - Land acquisition authority"
 usc_title: 16
 usc_section: "3192"
 chapter: 51
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 3192"
-generated_at: "2026-03-29T20:43:30.881Z"
+generated_at: "2026-03-29T20:55:21.245Z"
 ---
 
 # § 3192. Land acquisition authority

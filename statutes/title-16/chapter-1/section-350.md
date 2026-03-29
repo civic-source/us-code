@@ -3,9 +3,9 @@ title: "Section 350 - Repealed. Pub. L. 94–429, § 3(b) , Sept. 28, 1976 , 90 
 usc_title: 16
 usc_section: "350"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 350"
-generated_at: "2026-03-29T20:43:30.334Z"
+generated_at: "2026-03-29T20:55:20.858Z"
 ---
 
 # § 350. Repealed. Pub. L. 94–429, § 3(b) , Sept. 28, 1976 , 90 Stat. 1342

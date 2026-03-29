@@ -3,9 +3,9 @@ title: "Section 3044 - Retirement for length of service"
 usc_title: 33
 usc_section: "3044"
 chapter: 43
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "33 U.S.C. § 3044"
-generated_at: "2026-03-29T20:45:06.878Z"
+generated_at: "2026-03-29T20:56:16.692Z"
 ---
 
 # § 3044. Retirement for length of service

@@ -3,9 +3,9 @@ title: "Section 2448a - Program cost, fielding, and performance goals in plannin
 usc_title: 10
 usc_section: "2448a"
 chapter: 144
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 2448a"
-generated_at: "2026-03-29T20:42:48.623Z"
+generated_at: "2026-03-29T20:54:44.917Z"
 ---
 
 # § 2448a. Program cost, fielding, and performance goals in planning major defense acquisition programs

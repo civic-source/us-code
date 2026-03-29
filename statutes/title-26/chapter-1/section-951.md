@@ -3,9 +3,9 @@ title: "Section 951 - Amounts included in gross income of United States sharehol
 usc_title: 26
 usc_section: "951"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "26 U.S.C. § 951"
-generated_at: "2026-03-29T20:44:53.735Z"
+generated_at: "2026-03-29T20:56:07.272Z"
 ---
 
 # § 951. Amounts included in gross income of United States shareholders

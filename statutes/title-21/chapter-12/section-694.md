@@ -3,9 +3,9 @@ title: "Section 694 - Authorization of appropriations"
 usc_title: 21
 usc_section: "694"
 chapter: 12
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "21 U.S.C. § 694"
-generated_at: "2026-03-29T20:44:11.514Z"
+generated_at: "2026-03-29T20:55:29.026Z"
 ---
 
 # § 694. Authorization of appropriations

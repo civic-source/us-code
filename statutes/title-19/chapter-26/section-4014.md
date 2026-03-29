@@ -3,9 +3,9 @@ title: "Section 4014 - Consultation and layover provisions for, and effective da
 usc_title: 19
 usc_section: "4014"
 chapter: 26
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "19 U.S.C. § 4014"
-generated_at: "2026-03-29T20:43:18.337Z"
+generated_at: "2026-03-29T20:55:08.657Z"
 ---
 
 # § 4014. Consultation and layover provisions for, and effective date of, proclaimed actions

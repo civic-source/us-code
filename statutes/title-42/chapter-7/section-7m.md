@@ -3,9 +3,9 @@ title: "Section 7m - Use of predictive modeling and other analytics technologies
 usc_title: 42
 usc_section: "7m"
 chapter: 7
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 7m"
-generated_at: "2026-03-29T20:46:40.343Z"
+generated_at: "2026-03-29T20:58:27.305Z"
 ---
 
 # § 1320a–7m. Use of predictive modeling and other analytics technologies to identify and prevent waste, fraud, and abuse in the Medicare fee-for-service program

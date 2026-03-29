@@ -3,9 +3,9 @@ title: "Section 1204 - Motor carrier security-sensitive material tracking"
 usc_title: 6
 usc_section: "1204"
 chapter: 4
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "6 U.S.C. § 1204"
-generated_at: "2026-03-29T20:42:29.756Z"
+generated_at: "2026-03-29T20:53:33.149Z"
 ---
 
 # § 1204. Motor carrier security-sensitive material tracking

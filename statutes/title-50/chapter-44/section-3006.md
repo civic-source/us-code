@@ -3,9 +3,9 @@ title: "Section 3006 - Transferred"
 usc_title: 50
 usc_section: "3006"
 chapter: 44
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "50 U.S.C. § 3006"
-generated_at: "2026-03-29T20:47:12.693Z"
+generated_at: "2026-03-29T20:59:06.022Z"
 ---
 
 # § 3006. Transferred

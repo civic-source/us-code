@@ -3,9 +3,9 @@ title: "Section 432 - Additional funding rules for multiemployer plans in endang
 usc_title: 26
 usc_section: "432"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "26 U.S.C. § 432"
-generated_at: "2026-03-29T20:44:53.639Z"
+generated_at: "2026-03-29T20:56:07.186Z"
 ---
 
 # § 432. Additional funding rules for multiemployer plans in endangered status or critical status

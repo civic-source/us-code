@@ -3,9 +3,9 @@ title: "Section 2151aa - Program to provide technical assistance to foreign gove
 usc_title: 22
 usc_section: "2151aa"
 chapter: 32
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 2151aa"
-generated_at: "2026-03-29T20:44:16.874Z"
+generated_at: "2026-03-29T20:55:46.236Z"
 ---
 
 # § 2151aa. Program to provide technical assistance to foreign governments and foreign central banks of developing or transitional countries

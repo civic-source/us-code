@@ -3,9 +3,9 @@ title: "Section 7381a - Science education programs"
 usc_title: 42
 usc_section: "7381a"
 chapter: 84
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 7381a"
-generated_at: "2026-03-29T20:46:41.115Z"
+generated_at: "2026-03-29T20:58:28.055Z"
 ---
 
 # § 7381a. Science education programs

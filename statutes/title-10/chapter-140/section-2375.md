@@ -3,9 +3,9 @@ title: "Section 2375 - Relationship of other provisions of law to procurement of
 usc_title: 10
 usc_section: "2375"
 chapter: 140
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 2375"
-generated_at: "2026-03-29T20:42:48.598Z"
+generated_at: "2026-03-29T20:54:44.906Z"
 ---
 
 # § 2375. Relationship of other provisions of law to procurement of commercial products and commercial services

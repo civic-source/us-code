@@ -3,9 +3,9 @@ title: "Section 906 - Extension of enlistment: effect on pay and allowances"
 usc_title: 37
 usc_section: "906"
 chapter: 17
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "37 U.S.C. § 906"
-generated_at: "2026-03-29T20:45:22.761Z"
+generated_at: "2026-03-29T20:57:19.719Z"
 ---
 
 # § 906. Extension of enlistment: effect on pay and allowances

@@ -3,9 +3,9 @@ title: "Section 1002 - Assistance capability requirements"
 usc_title: 47
 usc_section: "1002"
 chapter: 9
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "47 U.S.C. § 1002"
-generated_at: "2026-03-29T20:47:05.363Z"
+generated_at: "2026-03-29T20:58:56.630Z"
 ---
 
 # § 1002. Assistance capability requirements

@@ -3,9 +3,9 @@ title: "Section 715s - Participation of local governments in revenue from areas 
 usc_title: 16
 usc_section: "715s"
 chapter: 7
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 715s"
-generated_at: "2026-03-29T20:43:30.627Z"
+generated_at: "2026-03-29T20:55:21.073Z"
 ---
 
 # § 715s. Participation of local governments in revenue from areas administered by the United States Fish and Wildlife Service

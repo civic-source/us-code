@@ -3,9 +3,9 @@ title: "Section 2 - Voluntary relinquishment of allotments"
 usc_title: 16
 usc_section: "2"
 chapter: 3
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-29T20:43:30.589Z"
+generated_at: "2026-03-29T20:55:21.046Z"
 ---
 
 # § 590q–2. Voluntary relinquishment of allotments

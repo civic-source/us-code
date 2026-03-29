@@ -3,9 +3,9 @@ title: "Section 404 - Temporary increase in employers’ contribution rate"
 usc_title: 45
 usc_section: "404"
 chapter: 12
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "45 U.S.C. § 404"
-generated_at: "2026-03-29T20:45:44.706Z"
+generated_at: "2026-03-29T20:57:25.540Z"
 ---
 
 # § 404. Temporary increase in employers’ contribution rate

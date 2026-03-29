@@ -3,9 +3,9 @@ title: "Section 1304 - Broadcasting lottery information"
 usc_title: 18
 usc_section: "1304"
 chapter: 61
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "18 U.S.C. § 1304"
-generated_at: "2026-03-29T20:43:23.248Z"
+generated_at: "2026-03-29T20:55:10.999Z"
 ---
 
 # § 1304. Broadcasting lottery information

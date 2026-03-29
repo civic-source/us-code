@@ -3,9 +3,9 @@ title: "Section 12201 - Construction"
 usc_title: 42
 usc_section: "12201"
 chapter: 126
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 12201"
-generated_at: "2026-03-29T20:46:41.380Z"
+generated_at: "2026-03-29T20:58:28.323Z"
 ---
 
 # § 12201. Construction

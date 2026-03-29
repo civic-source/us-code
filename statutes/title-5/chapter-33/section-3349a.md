@@ -3,9 +3,9 @@ title: "Section 3349a - Presidential inaugural transitions"
 usc_title: 5
 usc_section: "3349a"
 chapter: 33
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "5 U.S.C. § 3349a"
-generated_at: "2026-03-29T20:42:02.859Z"
+generated_at: "2026-03-29T20:53:12.251Z"
 ---
 
 # § 3349a. Presidential inaugural transitions

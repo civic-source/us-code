@@ -3,9 +3,9 @@ title: "Section 2347d - Training in maritime skills"
 usc_title: 22
 usc_section: "2347d"
 chapter: 32
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 2347d"
-generated_at: "2026-03-29T20:44:16.898Z"
+generated_at: "2026-03-29T20:55:46.260Z"
 ---
 
 # § 2347d. Training in maritime skills

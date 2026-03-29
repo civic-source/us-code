@@ -3,9 +3,9 @@ title: "Section 47106 - Project grant application approval conditioned on satisf
 usc_title: 49
 usc_section: "47106"
 chapter: 471
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "49 U.S.C. § 47106"
-generated_at: "2026-03-29T20:47:02.955Z"
+generated_at: "2026-03-29T20:58:55.479Z"
 ---
 
 # § 47106. Project grant application approval conditioned on satisfaction of project requirements

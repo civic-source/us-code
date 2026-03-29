@@ -3,9 +3,9 @@ title: "Section 904 - Repealed. Pub. L. 96–513, title IV, § 403(a) , Dec. 12,
 usc_title: 37
 usc_section: "904"
 chapter: 17
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "37 U.S.C. § 904"
-generated_at: "2026-03-29T20:45:22.761Z"
+generated_at: "2026-03-29T20:57:19.719Z"
 ---
 
 # [§ 904. Repealed. Pub. L. 96–513, title IV, § 403(a) , Dec. 12, 1980 , 94 Stat. 2904 ]

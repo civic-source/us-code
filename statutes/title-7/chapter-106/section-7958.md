@@ -3,9 +3,9 @@ title: "Section 7958 - Miscellaneous provisions"
 usc_title: 7
 usc_section: "7958"
 chapter: 106
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "7 U.S.C. § 7958"
-generated_at: "2026-03-29T20:42:35.566Z"
+generated_at: "2026-03-29T20:53:48.888Z"
 ---
 
 # § 7958. Miscellaneous provisions

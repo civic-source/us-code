@@ -3,9 +3,9 @@ title: "Section 5511 - Networking and Information Technology Research and Develo
 usc_title: 15
 usc_section: "5511"
 chapter: 81
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "15 U.S.C. § 5511"
-generated_at: "2026-03-29T20:43:07.322Z"
+generated_at: "2026-03-29T20:54:57.196Z"
 ---
 
 # § 5511. Networking and Information Technology Research and Development Program

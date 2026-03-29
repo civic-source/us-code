@@ -3,9 +3,9 @@ title: "Section 1909 - Effective date of insurance"
 usc_title: 38
 usc_section: "1909"
 chapter: 19
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "38 U.S.C. § 1909"
-generated_at: "2026-03-29T20:45:33.590Z"
+generated_at: "2026-03-29T20:56:47.051Z"
 ---
 
 # § 1909. Effective date of insurance

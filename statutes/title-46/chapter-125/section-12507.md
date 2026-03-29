@@ -3,9 +3,9 @@ title: "Section 12507 - Penalties"
 usc_title: 46
 usc_section: "12507"
 chapter: 125
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "46 U.S.C. § 12507"
-generated_at: "2026-03-29T20:47:08.326Z"
+generated_at: "2026-03-29T20:59:03.468Z"
 ---
 
 # § 12507. Penalties

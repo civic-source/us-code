@@ -3,9 +3,9 @@ title: "Section 10702 - Duties of masters"
 usc_title: 46
 usc_section: "10702"
 chapter: 107
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "46 U.S.C. § 10702"
-generated_at: "2026-03-29T20:47:08.318Z"
+generated_at: "2026-03-29T20:59:03.462Z"
 ---
 
 # § 10702. Duties of masters

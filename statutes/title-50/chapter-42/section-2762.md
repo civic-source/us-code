@@ -3,9 +3,9 @@ title: "Section 2762 - Restriction on use of funds to pay penalties under Clean 
 usc_title: 50
 usc_section: "2762"
 chapter: 42
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "50 U.S.C. § 2762"
-generated_at: "2026-03-29T20:47:12.685Z"
+generated_at: "2026-03-29T20:59:06.017Z"
 ---
 
 # § 2762. Restriction on use of funds to pay penalties under Clean Air Act

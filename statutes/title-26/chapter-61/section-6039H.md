@@ -3,9 +3,9 @@ title: "Section 6039H - Information with respect to Alaska Native Settlement Tru
 usc_title: 26
 usc_section: "6039H"
 chapter: 61
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "26 U.S.C. § 6039H"
-generated_at: "2026-03-29T20:44:53.995Z"
+generated_at: "2026-03-29T20:56:07.447Z"
 ---
 
 # § 6039H. Information with respect to Alaska Native Settlement Trusts and Native Corporations

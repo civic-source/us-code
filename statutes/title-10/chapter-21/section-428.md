@@ -3,9 +3,9 @@ title: "Section 428 - Defense industrial security"
 usc_title: 10
 usc_section: "428"
 chapter: 21
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 428"
-generated_at: "2026-03-29T20:42:48.395Z"
+generated_at: "2026-03-29T20:54:44.729Z"
 ---
 
 # § 428. Defense industrial security

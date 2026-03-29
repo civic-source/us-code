@@ -3,9 +3,9 @@ title: "Section 75c - Creation of National Portrait Gallery Commission; members;
 usc_title: 20
 usc_section: "75c"
 chapter: 3
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "20 U.S.C. § 75c"
-generated_at: "2026-03-29T20:43:59.657Z"
+generated_at: "2026-03-29T20:55:15.320Z"
 ---
 
 # § 75c. Creation of National Portrait Gallery Commission; members; functions; powers

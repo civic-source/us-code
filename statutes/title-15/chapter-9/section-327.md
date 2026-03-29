@@ -3,9 +3,9 @@ title: "Section 327 - Employees for conduct of meteorological investigations in 
 usc_title: 15
 usc_section: "327"
 chapter: 9
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "15 U.S.C. § 327"
-generated_at: "2026-03-29T20:43:06.977Z"
+generated_at: "2026-03-29T20:54:56.912Z"
 ---
 
 # § 327. Employees for conduct of meteorological investigations in Arctic region; appointment and compensation; extra compensation to other Government employees for taking observations

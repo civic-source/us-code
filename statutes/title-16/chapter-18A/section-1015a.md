@@ -3,9 +3,9 @@ title: "Section 1015a - Program"
 usc_title: 16
 usc_section: "1015a"
 chapter: 18
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 1015a"
-generated_at: "2026-03-29T20:43:30.729Z"
+generated_at: "2026-03-29T20:55:21.131Z"
 ---
 
 # § 1015a. Program

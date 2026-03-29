@@ -3,9 +3,9 @@ title: "Section 2803 - Comprehensive Coastal Water Quality Monitoring Program"
 usc_title: 33
 usc_section: "2803"
 chapter: 41
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "33 U.S.C. § 2803"
-generated_at: "2026-03-29T20:45:06.871Z"
+generated_at: "2026-03-29T20:56:16.685Z"
 ---
 
 # § 2803. Comprehensive Coastal Water Quality Monitoring Program

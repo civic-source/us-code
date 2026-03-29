@@ -3,9 +3,9 @@ title: "Section 2168 - Memorandum of understanding for provision of services of 
 usc_title: 2
 usc_section: "2168"
 chapter: 30
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "2 U.S.C. § 2168"
-generated_at: "2026-03-29T20:42:17.926Z"
+generated_at: "2026-03-29T20:53:17.078Z"
 ---
 
 # § 2168. Memorandum of understanding for provision of services of the United States Capitol telephone exchange for the House

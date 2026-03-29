@@ -3,9 +3,9 @@ title: "Section 725 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV],
 usc_title: 33
 usc_section: "725"
 chapter: 16
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "33 U.S.C. § 725"
-generated_at: "2026-03-29T20:45:06.734Z"
+generated_at: "2026-03-29T20:56:16.563Z"
 ---
 
 # § 725. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(1), Jan. 1, 2021 , 134 Stat. 4759

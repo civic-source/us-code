@@ -3,9 +3,9 @@ title: "Section 8431 - Notice of violation; other general provisions"
 usc_title: 42
 usc_section: "8431"
 chapter: 92
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 8431"
-generated_at: "2026-03-29T20:46:41.230Z"
+generated_at: "2026-03-29T20:58:28.179Z"
 ---
 
 # § 8431. Notice of violation; other general provisions

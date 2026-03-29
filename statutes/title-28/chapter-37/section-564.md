@@ -3,9 +3,9 @@ title: "Section 564 - Powers as sheriff"
 usc_title: 28
 usc_section: "564"
 chapter: 37
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "28 U.S.C. § 564"
-generated_at: "2026-03-29T20:44:27.689Z"
+generated_at: "2026-03-29T20:56:09.476Z"
 ---
 
 # § 564. Powers as sheriff

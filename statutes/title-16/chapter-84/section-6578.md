@@ -3,9 +3,9 @@ title: "Section 6578 - Funding"
 usc_title: 16
 usc_section: "6578"
 chapter: 84
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 6578"
-generated_at: "2026-03-29T20:43:30.970Z"
+generated_at: "2026-03-29T20:55:21.318Z"
 ---
 
 # § 6578. Funding

@@ -3,9 +3,9 @@ title: "Section 3511 - Increased funding and reprogramming requests"
 usc_title: 10
 usc_section: "3511"
 chapter: 249
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 3511"
-generated_at: "2026-03-29T20:42:48.742Z"
+generated_at: "2026-03-29T20:54:44.974Z"
 ---
 
 # § 3511. Increased funding and reprogramming requests

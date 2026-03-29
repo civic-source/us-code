@@ -3,9 +3,9 @@ title: "Section 1142 - Implementation of plan"
 usc_title: 11
 usc_section: "1142"
 chapter: 11
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "11 U.S.C. § 1142"
-generated_at: "2026-03-29T20:43:10.819Z"
+generated_at: "2026-03-29T20:54:51.230Z"
 ---
 
 # § 1142. Implementation of plan

@@ -3,9 +3,9 @@ title: "Section 1445 - U.S.S. Monitor artifacts and materials"
 usc_title: 16
 usc_section: "1445"
 chapter: 32
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 1445"
-generated_at: "2026-03-29T20:43:30.792Z"
+generated_at: "2026-03-29T20:55:21.174Z"
 ---
 
 # § 1445. U.S.S. Monitor artifacts and materials

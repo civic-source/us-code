@@ -3,9 +3,9 @@ title: "Section 2816 - Consideration of energy security and energy resilience in
 usc_title: 10
 usc_section: "2816"
 chapter: 169
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 2816"
-generated_at: "2026-03-29T20:42:48.708Z"
+generated_at: "2026-03-29T20:54:44.950Z"
 ---
 
 # § 2816. Consideration of energy security and energy resilience in life-cycle cost for military construction

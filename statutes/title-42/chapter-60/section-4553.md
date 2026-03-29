@@ -3,9 +3,9 @@ title: "Section 4553 - Repealed. Pub. L. 98–24, § 2(c)(1) , Apr. 26, 1983 , 9
 usc_title: 42
 usc_section: "4553"
 chapter: 60
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "42 U.S.C. § 4553"
-generated_at: "2026-03-29T20:46:40.936Z"
+generated_at: "2026-03-29T20:58:27.887Z"
 ---
 
 # §§ 4552, 4553. Repealed. Pub. L. 98–24, § 2(c)(1) , Apr. 26, 1983 , 97 Stat. 182

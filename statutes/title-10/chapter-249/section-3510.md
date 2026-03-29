@@ -3,9 +3,9 @@ title: "Section 3510 - Department of defense contracts: additional matters with 
 usc_title: 10
 usc_section: "3510"
 chapter: 249
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 3510"
-generated_at: "2026-03-29T20:42:48.742Z"
+generated_at: "2026-03-29T20:54:44.974Z"
 ---
 
 # § 3510. Department of defense contracts: additional matters with respect to multiyear defense contracts

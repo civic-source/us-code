@@ -3,9 +3,9 @@ title: "Section 21901 - Organization"
 usc_title: 36
 usc_section: "21901"
 chapter: 219
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "36 U.S.C. § 21901"
-generated_at: "2026-03-29T20:45:20.916Z"
+generated_at: "2026-03-29T20:56:51.007Z"
 ---
 
 # § 21901. Organization

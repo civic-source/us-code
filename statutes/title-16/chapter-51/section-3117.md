@@ -3,9 +3,9 @@ title: "Section 3117 - Judicial enforcement"
 usc_title: 16
 usc_section: "3117"
 chapter: 51
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 3117"
-generated_at: "2026-03-29T20:43:30.872Z"
+generated_at: "2026-03-29T20:55:21.239Z"
 ---
 
 # § 3117. Judicial enforcement

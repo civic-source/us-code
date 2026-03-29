@@ -3,9 +3,9 @@ title: "Section 304a - Study and investigation of Indian education in United Sta
 usc_title: 25
 usc_section: "304a"
 chapter: 7
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "25 U.S.C. § 304a"
-generated_at: "2026-03-29T20:44:07.061Z"
+generated_at: "2026-03-29T20:55:26.798Z"
 ---
 
 # § 304a. Study and investigation of Indian education in United States and Alaska; contracts; report to Congress; appropriations

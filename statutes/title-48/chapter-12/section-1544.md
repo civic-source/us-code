@@ -3,9 +3,9 @@ title: "Section 1544 - Reports by Governor; jurisdiction of Secretary of the Int
 usc_title: 48
 usc_section: "1544"
 chapter: 12
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "48 U.S.C. § 1544"
-generated_at: "2026-03-29T20:47:06.365Z"
+generated_at: "2026-03-29T20:58:35.865Z"
 ---
 
 # § 1544. Reports by Governor; jurisdiction of Secretary of the Interior; exceptions

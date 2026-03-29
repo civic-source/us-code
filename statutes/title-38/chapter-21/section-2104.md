@@ -3,9 +3,9 @@ title: "Section 2104 - Benefits additional to benefits under other laws"
 usc_title: 38
 usc_section: "2104"
 chapter: 21
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "38 U.S.C. § 2104"
-generated_at: "2026-03-29T20:45:33.607Z"
+generated_at: "2026-03-29T20:56:47.069Z"
 ---
 
 # § 2104. Benefits additional to benefits under other laws

@@ -3,9 +3,9 @@ title: "Section 3316 - Classification societies"
 usc_title: 46
 usc_section: "3316"
 chapter: 33
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "46 U.S.C. § 3316"
-generated_at: "2026-03-29T20:47:08.294Z"
+generated_at: "2026-03-29T20:59:03.444Z"
 ---
 
 # § 3316. Classification societies

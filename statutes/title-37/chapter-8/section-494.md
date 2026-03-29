@@ -3,9 +3,9 @@ title: "Section 494 - Subsistence reimbursement relating to escorts of foreign a
 usc_title: 37
 usc_section: "494"
 chapter: 8
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "37 U.S.C. § 494"
-generated_at: "2026-03-29T20:45:22.758Z"
+generated_at: "2026-03-29T20:57:19.717Z"
 ---
 
 # § 494. Subsistence reimbursement relating to escorts of foreign arms control inspection teams

@@ -3,9 +3,9 @@ title: "Section 1868 - Maintenance and inspection of records"
 usc_title: 28
 usc_section: "1868"
 chapter: 121
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "28 U.S.C. § 1868"
-generated_at: "2026-03-29T20:44:27.723Z"
+generated_at: "2026-03-29T20:56:09.505Z"
 ---
 
 # § 1868. Maintenance and inspection of records

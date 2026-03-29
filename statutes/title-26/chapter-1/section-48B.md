@@ -3,9 +3,9 @@ title: "Section 48B - Qualifying gasification project credit"
 usc_title: 26
 usc_section: "48B"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "26 U.S.C. § 48B"
-generated_at: "2026-03-29T20:44:53.485Z"
+generated_at: "2026-03-29T20:56:07.060Z"
 ---
 
 # § 48B. Qualifying gasification project credit

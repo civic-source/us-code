@@ -3,9 +3,9 @@ title: "Section 20g - Repealed. Pub. L. 105–391, title IV, § 415(a) , Nov. 13
 usc_title: 16
 usc_section: "20g"
 chapter: 1
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 20g"
-generated_at: "2026-03-29T20:43:30.281Z"
+generated_at: "2026-03-29T20:55:20.820Z"
 ---
 
 # §§ 20 to 20g. Repealed. Pub. L. 105–391, title IV, § 415(a) , Nov. 13, 1998 , 112 Stat. 3515

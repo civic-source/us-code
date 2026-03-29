@@ -3,9 +3,9 @@ title: "Section 1903 - Audit; monitoring and evaluation"
 usc_title: 29
 usc_section: "1903"
 chapter: 21
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "29 U.S.C. § 1903"
-generated_at: "2026-03-29T20:44:23.698Z"
+generated_at: "2026-03-29T20:55:56.931Z"
 ---
 
 # § 1903. Audit; monitoring and evaluation

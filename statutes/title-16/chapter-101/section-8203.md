@@ -3,9 +3,9 @@ title: "Section 8203 - National Fish Habitat Board"
 usc_title: 16
 usc_section: "8203"
 chapter: 101
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 8203"
-generated_at: "2026-03-29T20:43:30.999Z"
+generated_at: "2026-03-29T20:55:21.342Z"
 ---
 
 # § 8203. National Fish Habitat Board

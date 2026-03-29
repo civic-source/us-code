@@ -3,9 +3,9 @@ title: "Section 286kk - Discussions to enhance capacity of Fund to alleviate pot
 usc_title: 22
 usc_section: "286kk"
 chapter: 7
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 286kk"
-generated_at: "2026-03-29T20:44:16.816Z"
+generated_at: "2026-03-29T20:55:46.178Z"
 ---
 
 # § 286kk. Discussions to enhance capacity of Fund to alleviate potentially adverse impacts of Fund programs on poor and environment

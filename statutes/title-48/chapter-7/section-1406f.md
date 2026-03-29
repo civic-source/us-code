@@ -3,9 +3,9 @@ title: "Section 1406f - Judicial process; title of criminal prosecutions"
 usc_title: 48
 usc_section: "1406f"
 chapter: 7
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "48 U.S.C. § 1406f"
-generated_at: "2026-03-29T20:47:06.352Z"
+generated_at: "2026-03-29T20:58:35.855Z"
 ---
 
 # § 1406f. Judicial process; title of criminal prosecutions

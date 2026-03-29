@@ -3,9 +3,9 @@ title: "Section 41501 - Financial institutions fraud task forces"
 usc_title: 34
 usc_section: "41501"
 chapter: 415
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "34 U.S.C. § 41501"
-generated_at: "2026-03-29T20:45:02.754Z"
+generated_at: "2026-03-29T20:56:14.454Z"
 ---
 
 # § 41501. Financial institutions fraud task forces

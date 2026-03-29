@@ -3,9 +3,9 @@ title: "Section 395 - Notification requirements for sensitive military cyber ope
 usc_title: 10
 usc_section: "395"
 chapter: 19
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 395"
-generated_at: "2026-03-29T20:42:48.393Z"
+generated_at: "2026-03-29T20:54:44.726Z"
 ---
 
 # § 395. Notification requirements for sensitive military cyber operations

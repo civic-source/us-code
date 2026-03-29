@@ -3,9 +3,9 @@ title: "Section 4173 - Congressional oversight of implementation"
 usc_title: 22
 usc_section: "4173"
 chapter: 52
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 4173"
-generated_at: "2026-03-29T20:44:17.008Z"
+generated_at: "2026-03-29T20:55:46.361Z"
 ---
 
 # § 4173. Congressional oversight of implementation

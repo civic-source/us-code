@@ -3,9 +3,9 @@ title: "Section 7217 - Prohibition on executive branch influence over taxpayer a
 usc_title: 26
 usc_section: "7217"
 chapter: 75
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "26 U.S.C. § 7217"
-generated_at: "2026-03-29T20:44:54.091Z"
+generated_at: "2026-03-29T20:56:07.521Z"
 ---
 
 # § 7217. Prohibition on executive branch influence over taxpayer audits and other investigations

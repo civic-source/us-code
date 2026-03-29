@@ -3,9 +3,9 @@ title: "Section 4392 - Annual report on prevention and investigation of evasion 
 usc_title: 19
 usc_section: "4392"
 chapter: 28
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "19 U.S.C. § 4392"
-generated_at: "2026-03-29T20:43:18.357Z"
+generated_at: "2026-03-29T20:55:08.674Z"
 ---
 
 # § 4392. Annual report on prevention and investigation of evasion of antidumping and countervailing duty orders

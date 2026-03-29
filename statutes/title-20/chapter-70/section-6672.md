@@ -3,9 +3,9 @@ title: "Section 6672 - Supporting effective educator development"
 usc_title: 20
 usc_section: "6672"
 chapter: 70
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "20 U.S.C. § 6672"
-generated_at: "2026-03-29T20:43:59.943Z"
+generated_at: "2026-03-29T20:55:15.597Z"
 ---
 
 # § 6672. Supporting effective educator development

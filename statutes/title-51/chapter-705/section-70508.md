@@ -3,9 +3,9 @@ title: "Section 70508 - Robotic or human servicing of spacecraft"
 usc_title: 51
 usc_section: "70508"
 chapter: 705
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "51 U.S.C. § 70508"
-generated_at: "2026-03-29T20:47:18.845Z"
+generated_at: "2026-03-29T20:59:12.371Z"
 ---
 
 # § 70508. Robotic or human servicing of spacecraft

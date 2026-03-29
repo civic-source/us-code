@@ -3,9 +3,9 @@ title: "Section 3118 - Implied consent for certain tests"
 usc_title: 18
 usc_section: "3118"
 chapter: 205
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "18 U.S.C. § 3118"
-generated_at: "2026-03-29T20:43:23.308Z"
+generated_at: "2026-03-29T20:55:11.058Z"
 ---
 
 # § 3118. Implied consent for certain tests

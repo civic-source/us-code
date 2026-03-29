@@ -3,9 +3,9 @@ title: "Section 1030 - Repealed. Pub. L. 102–567, title VIII, § 814 , Oct. 29
 usc_title: 16
 usc_section: "1030"
 chapter: 19
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "16 U.S.C. § 1030"
-generated_at: "2026-03-29T20:43:30.730Z"
+generated_at: "2026-03-29T20:55:21.132Z"
 ---
 
 # §§ 1029, 1030. Repealed. Pub. L. 102–567, title VIII, § 814 , Oct. 29, 1992 , 106 Stat. 4316 , and Pub. L. 102–587, title VIII, § 8014 , Nov. 4, 1992 , 106 Stat. 5106

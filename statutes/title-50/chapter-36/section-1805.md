@@ -3,9 +3,9 @@ title: "Section 1805 - Issuance of order"
 usc_title: 50
 usc_section: "1805"
 chapter: 36
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "50 U.S.C. § 1805"
-generated_at: "2026-03-29T20:47:12.624Z"
+generated_at: "2026-03-29T20:59:05.970Z"
 ---
 
 # § 1805. Issuance of order
@@ -25,10 +25,10 @@ generated_at: "2026-03-29T20:47:12.624Z"
     - **(C)** the type of information sought to be acquired and the type of communications or activities to be subjected to the surveillance;
     - **(D)** the means by which the electronic surveillance will be effected and whether physical entry will be used to effect the surveillance; and
     - **(E)** the period of time during which the electronic surveillance is approved.
-  - **(2)** An order approving an electronic surveillance under this section shall direct—
+  - **(2)** direct— 2 2 So in original.
     - **(A)** that the minimization procedures be followed;
-    - **(B)** that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person, or in circumstances where the Court finds, based upon specific facts provided in the application, that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons, furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;
-    - **(C)** that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of National Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and
+    - **(B)** that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;
+    - **(C)** that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of Central Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and
     - **(D)** that the applicant compensate, at the prevailing rate, such carrier, landlord, custodian, or other person for furnishing such aid.
   - **(3)** An order approving an electronic surveillance under this section in circumstances where the nature and location of each of the facilities or places at which the surveillance will be directed is unknown shall direct the applicant to provide notice to the court within ten days after the date on which surveillance begins to be directed at any new facility or place, unless the court finds good cause to justify a longer period of up to 60 days, of—
     - **(A)** the nature and location of each new facility or place at which the electronic surveillance is directed;

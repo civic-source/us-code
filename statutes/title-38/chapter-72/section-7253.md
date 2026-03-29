@@ -3,9 +3,9 @@ title: "Section 7253 - Composition"
 usc_title: 38
 usc_section: "7253"
 chapter: 72
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "38 U.S.C. § 7253"
-generated_at: "2026-03-29T20:45:33.679Z"
+generated_at: "2026-03-29T20:56:47.132Z"
 ---
 
 # § 7253. Composition

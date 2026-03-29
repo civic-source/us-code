@@ -3,9 +3,9 @@ title: "Section 3975 - Group life insurance supplement applicable to those kille
 usc_title: 22
 usc_section: "3975"
 chapter: 52
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "22 U.S.C. § 3975"
-generated_at: "2026-03-29T20:44:16.989Z"
+generated_at: "2026-03-29T20:55:46.342Z"
 ---
 
 # § 3975. Group life insurance supplement applicable to those killed in terrorist attacks

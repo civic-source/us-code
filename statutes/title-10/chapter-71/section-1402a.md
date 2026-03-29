@@ -3,9 +3,9 @@ title: "Section 1402a - Recomputation of retired or retainer pay to reflect late
 usc_title: 10
 usc_section: "1402a"
 chapter: 71
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "10 U.S.C. § 1402a"
-generated_at: "2026-03-29T20:42:48.497Z"
+generated_at: "2026-03-29T20:54:44.826Z"
 ---
 
 # § 1402a. Recomputation of retired or retainer pay to reflect later active duty of members who first became members after September 7, 1980

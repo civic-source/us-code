@@ -3,9 +3,9 @@ title: "Section 2654 - Department of Energy counterintelligence polygraph progra
 usc_title: 50
 usc_section: "2654"
 chapter: 42
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "50 U.S.C. § 2654"
-generated_at: "2026-03-29T20:47:12.679Z"
+generated_at: "2026-03-29T20:59:06.011Z"
 ---
 
 # § 2654. Department of Energy counterintelligence polygraph program

@@ -3,9 +3,9 @@ title: "Section 49 - Enforcement of animal fighting prohibitions"
 usc_title: 18
 usc_section: "49"
 chapter: 3
-current_through: "PL 117-28"
+current_through: "PL 117-31"
 classification: "18 U.S.C. § 49"
-generated_at: "2026-03-29T20:43:23.190Z"
+generated_at: "2026-03-29T20:55:10.950Z"
 ---
 
 # § 49. Enforcement of animal fighting prohibitions
