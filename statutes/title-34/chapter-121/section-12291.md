@@ -3,9 +3,9 @@ title: "Section 12291 - Definitions and grant provisions"
 usc_title: 34
 usc_section: "12291"
 chapter: 121
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "34 U.S.C. § 12291"
-generated_at: "2026-03-29T23:52:36.815Z"
+generated_at: "2026-03-29T23:56:30.955Z"
 ---
 
 # § 12291. Definitions and grant provisions
@@ -123,10 +123,10 @@ generated_at: "2026-03-29T23:52:36.815Z"
     - **(A)** an established nonprofit, nongovernmental territorial coalition addressing domestic violence or sexual assault within the territory; or
     - **(B)** a nongovernmental organization with a demonstrated history of addressing domestic violence or sexual assault within the territory that proposes to incorporate as a nonprofit, nongovernmental territorial coalition.
   - **(42)** The term “tribal coalition” means an established nonprofit, nongovernmental Indian organization, Alaska Native organization, or a Native Hawaiian organization that—
-    - **(A)** provides education, support, and technical assistance to member Indian service providers in a manner that enables those member providers to establish and maintain culturally appropriate services, including shelter and rape crisis services, designed to assist Indian women and the dependents of those women who are victims of domestic violence, dating violence, sexual assault, and stalking; and
+    - **(A)** provides education, support, and technical assistance to member Indian service providers, Native Hawaiian organizations, or the Native Hawaiian community in a manner that enables those member providers, organizations, or communities to establish and maintain culturally appropriate services, including shelter and rape crisis services, designed to assist Indian or Native Hawaiian women and the dependents of those women who are victims of domestic violence, dating violence, sexual assault, and stalking; and
     - **(B)** is comprised of board and general members that are representative of—
-      - **(i)** the member service providers described in subparagraph (A); and
-      - **(ii)** the tribal communities in which the services are being provided.
+      - **(i)** the member service providers, organizations, or communities described in subparagraph (A); and
+      - **(ii)** the tribal communities or Native Hawaiian communities in which the services are being provided.
   - **(43)** The term “tribal government” means—
     - **(A)** the governing body of an Indian tribe; or
     - **(B)** a tribe, band, pueblo, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.

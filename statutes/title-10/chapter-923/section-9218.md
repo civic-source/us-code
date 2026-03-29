@@ -3,9 +3,9 @@ title: "Section 9218 - Duties: warrant officers; limitations"
 usc_title: 10
 usc_section: "9218"
 chapter: 923
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 9218"
-generated_at: "2026-03-29T23:50:22.341Z"
+generated_at: "2026-03-29T23:54:20.087Z"
 ---
 
 # § 9218. Duties: warrant officers; limitations

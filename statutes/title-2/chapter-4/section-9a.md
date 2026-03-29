@@ -3,9 +3,9 @@ title: "Section 9a - Transferred"
 usc_title: 2
 usc_section: "9a"
 chapter: 4
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "2 U.S.C. § 9a"
-generated_at: "2026-03-29T23:50:07.795Z"
+generated_at: "2026-03-29T23:54:02.899Z"
 ---
 
 # § 61a–9a. Transferred

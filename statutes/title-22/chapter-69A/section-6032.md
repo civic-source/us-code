@@ -3,9 +3,9 @@ title: "Section 6032 - Enforcement of economic embargo of Cuba"
 usc_title: 22
 usc_section: "6032"
 chapter: 69
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 6032"
-generated_at: "2026-03-29T23:51:29.529Z"
+generated_at: "2026-03-29T23:55:52.487Z"
 ---
 
 # § 6032. Enforcement of economic embargo of Cuba

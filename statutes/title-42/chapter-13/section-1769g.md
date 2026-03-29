@@ -3,9 +3,9 @@ title: "Section 1769g - Information clearinghouse"
 usc_title: 42
 usc_section: "1769g"
 chapter: 13
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 1769g"
-generated_at: "2026-03-29T23:53:16.396Z"
+generated_at: "2026-03-29T23:57:26.902Z"
 ---
 
 # § 1769g. Information clearinghouse
@@ -22,4 +22,4 @@ generated_at: "2026-03-29T23:53:16.396Z"
   - **(5)** be experienced in communicating the purpose of the clearinghouse through the media, including the radio and print media, and be able to provide access to the clearinghouse information through computer or telecommunications technology, as well as through the mails; and
   - **(6)** be able to provide examples, advice, and guidance to States, counties, cities, communities, antihunger groups, and local organizations regarding means of assisting individuals and communities to reduce reliance on government programs, reduce hunger, improve nutrition, and otherwise assist low-income individuals and communities become more self-sufficient.
 - **(c)** The Secretary shall establish fair and reasonable auditing procedures regarding the expenditures of funds to carry out this section.
-- **(d)** Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2023. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
+- **(d)** Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2024. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.

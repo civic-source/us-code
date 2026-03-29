@@ -3,15 +3,15 @@ title: "Section 18723 - Rural and municipal utility advanced cybersecurity grant
 usc_title: 42
 usc_section: "18723"
 chapter: 162
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 18723"
-generated_at: "2026-03-29T23:53:16.749Z"
+generated_at: "2026-03-29T23:57:27.292Z"
 ---
 
 # § 18723. Rural and municipal utility advanced cybersecurity grant and technical assistance program
 
 - **(a)** In this section:
-  - **(1)** The term “advanced cybersecurity technology” means any technology, operational capability, or service, including computer hardware, software, or a related asset, that enhances the security posture of electric utilities through improvements in the ability to protect against, detect, respond to, or recover from a cybersecurity threat (as defined in section 1501 of title 6 ).
+  - **(1)** The term “advanced cybersecurity technology” means any technology, operational capability, or service, including computer hardware, software, or a related asset, that enhances the security posture of electric utilities through improvements in the ability to protect against, detect, respond to, or recover from a cybersecurity threat (as defined in section 650 of title 6 ).
   - **(2)** The term “bulk-power system” has the meaning given the term in section 824 o (a) of title 16.
   - **(3)** The term “eligible entity” means—
     - **(A)** a rural electric cooperative;

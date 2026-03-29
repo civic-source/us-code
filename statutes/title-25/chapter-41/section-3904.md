@@ -3,9 +3,9 @@ title: "Section 3904 - Authority of Director of Indian Health Service"
 usc_title: 25
 usc_section: "3904"
 chapter: 41
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "25 U.S.C. § 3904"
-generated_at: "2026-03-29T23:51:20.065Z"
+generated_at: "2026-03-29T23:55:39.391Z"
 ---
 
 # § 3904. Authority of Director of Indian Health Service

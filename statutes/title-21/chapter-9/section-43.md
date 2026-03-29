@@ -3,9 +3,9 @@ title: "Section 43 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "43"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 43"
-generated_at: "2026-03-29T23:51:22.729Z"
+generated_at: "2026-03-29T23:55:43.346Z"
 ---
 
 # § 379j–43. Reauthorization; reporting requirements
@@ -18,9 +18,12 @@ generated_at: "2026-03-29T23:51:22.729Z"
       - **(i)** The number and titles of draft and final guidance on topics related to human generic drug activities and whether such guidances were issued as required by statute or pursuant to a commitment under the letters described in section 301(b) 1 of the Generic Drug User Fee Amendments of 2022.
       - **(ii)** The number and titles of public meetings held on topics related to human generic drug activities and whether such meetings were required by statute or pursuant to a commitment under the letters described in section 301(b) 1 of the Generic Drug User Fee Amendments of 2022.
   - **(3)** The Secretary shall include in the annual report under paragraph (1)—
-    - **(A)** data, analysis, and discussion of the changes in the number of full-time equivalents hired as agreed upon in the letters described in section 301(b) 1 of the Generic Drug User Fee Amendments of 2022 and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
-    - **(B)** data, analysis, and discussion of the changes in the fee revenue amounts and costs for human generic drug activities, including identifying drivers of such changes; and
-    - **(C)** for each of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required.
+    - **(A)** data, analysis, and discussion of the changes in the number of individuals hired as agreed upon in the letters described in section 3001(b) of the Generic Drug User Fee Amendments of 2022 and the number of remaining vacancies, the number of full-time equivalents funded by fees collected pursuant to section 379j–42 of this title , and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
+    - **(B)** data, analysis, and discussion of the changes in the fee revenue amounts and costs for human generic drug activities, including—
+      - **(i)** identifying drivers of such changes; and
+      - **(ii)** changes in the total average cost per full-time equivalent in the generic drug review program;
+    - **(C)** for each of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required; and
+    - **(D)** data, analysis, and discussion of the changes in the average full-time equivalent hours required to complete review of each type of abbreviated new drug application.
   - **(4)** For each fiscal year, the Secretary shall include in the report an analysis of the following:
     - **(A)** The difference between the aggregate number of abbreviated new drug applications filed and the aggregate number of approvals or aggregate number of complete response letters issued by the agency, accounting for—
       - **(i)** such applications filed during one fiscal year for which a decision is not scheduled to be made until the following fiscal year; and
@@ -51,13 +54,14 @@ generated_at: "2026-03-29T23:51:22.729Z"
     - **(C)** provide a period of 30 days after the public meeting to obtain written comments from the public suggesting changes to this subpart; and
     - **(D)** publish the comments on the Food and Drug Administration’s Internet Web site.
   - **(3)** Not less frequently than once every month during negotiations with the generic drug industry, the Secretary shall hold discussions with representatives of patient and consumer advocacy groups to continue discussions of their views on the reauthorization and their suggestions for changes to this subpart as expressed under paragraph (2).
-  - **(4)** After negotiations with the generic drug industry, the Secretary shall—
+  - **(4)** The Secretary, in consultation with regulated industry, shall provide regular updates on negotiations on the reauthorization of this part to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+  - **(5)** After negotiations with the generic drug industry, the Secretary shall—
     - **(A)** present the recommendations developed under paragraph (1) to the congressional committees specified in such paragraph;
     - **(B)** publish such recommendations in the Federal Register;
     - **(C)** provide for a period of 30 days for the public to provide written comments on such recommendations;
     - **(D)** hold a meeting at which the public may present its views on such recommendations; and
     - **(E)** after consideration of such public views and comments, revise such recommendations as necessary.
-  - **(5)** Not later than January 15, 2027 , the Secretary shall transmit to the Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
-  - **(6)**
-    - **(A)** Before presenting the recommendations developed under paragraphs (1) through (5) to the Congress, the Secretary shall make publicly available, on the Internet Web site of the Food and Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the generic drug industry.
-    - **(B)** The minutes described under subparagraph (A) shall summarize any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
+  - **(6)** Not later than January 15, 2027 , the Secretary shall transmit to the Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+  - **(7)**
+    - **(A)** The Secretary shall make publicly available, on the Internet Web site of the Food and Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the generic drug industry, not later than 30 days after each such negotiation meeting.
+    - **(B)** The minutes described under subparagraph (A) shall summarize, in sufficient detail, any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.

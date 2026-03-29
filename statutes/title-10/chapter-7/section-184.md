@@ -3,12 +3,12 @@ title: "Section 184 - Joint Safety Council"
 usc_title: 10
 usc_section: "184"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 184"
-generated_at: "2026-03-29T23:50:22.211Z"
+generated_at: "2026-03-29T23:54:19.928Z"
 ---
 
-# § 184. Joint Safety Council
+# § 184. 1 1 Another section 184 is set out preceding this section. Joint Safety Council
 
 - **(a)** There is established, within the Office of the Deputy Secretary of Defense, a Joint Safety Council (in this section referred to as the “Council”).
 - **(b)**
@@ -16,7 +16,8 @@ generated_at: "2026-03-29T23:50:22.211Z"
     - **(A)** The Director of Safety for each military department.
     - **(B)** An employee of the Department of Defense who is a career member of the Senior Executive Service and has a demonstrated record of success in the implementation of programs within the Department of Defense (as determined by the Deputy Secretary of Defense), appointed by the Deputy Secretary of Defense.
     - **(C)** One member of the armed forces or civilian employee from each military department, appointed by the Secretary concerned.
-    - **(D)** Such additional members as may be determined by the Deputy Secretary of Defense.
+    - **(D)** During periods in which the Coast Guard is not operating as a service in the Department of the Navy, an officer of the Coast Guard, appointed by the Secretary of Homeland Security.
+    - **(E)** Such additional members as may be determined by the Deputy Secretary of Defense.
   - **(2)**
     - **(A)** Each member of the Council shall serve at the will of the official who appointed that member.
     - **(B)** Any vacancy on the Council shall be filled in the same manner as the original appointment.
@@ -60,4 +61,8 @@ generated_at: "2026-03-29T23:50:22.211Z"
   - **(2)** Under regulations issued by the Secretary of Defense, the Council may enter into agreements with the Federal Aviation Administration, the National Transportation Safety Board, and any other Federal agency regarding the sharing of safety data.
   - **(3)** Data collected by the Council pursuant to this subsection may include privileged safety information that is protected from disclosure or discovery to any person.
 - **(j)** The Council shall meet quarterly and at the call of the Chairperson.
-- **(k)** The Chair of the Council shall submit to the congressional defense committees semi-annual reports on the activities of the Council.
+- **(k)**
+  - **(1)** The Chair of the Council shall submit to the congressional defense committees semi-annual reports on the activities of the Council.
+  - **(2)** Not later than March 31, 2023 , and not later than December 31 of each year thereafter, the Deputy Secretary of Defense shall submit to the congressional defense committees a report containing—
+    - **(A)** a summary of the goals and priorities of the Deputy Secretary for the year following the date of the submission of the report with respect to the activities of the Council; and
+    - **(B)** an assessment by the Deputy Secretary of the activities of the Council carried out during the year preceding the date of such submission.

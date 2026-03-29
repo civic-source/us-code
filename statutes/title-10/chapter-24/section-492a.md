@@ -3,15 +3,15 @@ title: "Section 492a - Annual report on the plan for the nuclear weapons stockpi
 usc_title: 10
 usc_section: "492a"
 chapter: 24
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 492a"
-generated_at: "2026-03-29T23:50:22.220Z"
+generated_at: "2026-03-29T23:54:19.941Z"
 ---
 
 # § 492a. Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system
 
 - **(a)**
-  - **(1)** Not later than 30 days after the submission to Congress of the budget of the President under section 1105(a) of title 31 , United States Code, for each of fiscal years 2013 through 2024, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
+  - **(1)** Not later than 30 days after the submission to Congress of the budget of the President under section 1105(a) of title 31 , United States Code, for each of fiscal years 2013 through 2029, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
   - **(2)** Each report required under paragraph (1) shall include the following:
     - **(A)** A detailed description of the plan to enhance the safety, security, and reliability of the nuclear weapons stockpile of the United States.
     - **(B)** A detailed description of the plan to sustain and modernize the nuclear weapons complex, including improving the safety of facilities, modernizing the infrastructure, and maintaining the key capabilities and competencies of the nuclear weapons workforce, including designers and technicians.

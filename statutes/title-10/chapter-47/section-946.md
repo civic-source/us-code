@@ -3,9 +3,9 @@ title: "Section 946 - Art. 146. Military Justice Review Panel"
 usc_title: 10
 usc_section: "946"
 chapter: 47
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 946"
-generated_at: "2026-03-29T23:50:22.237Z"
+generated_at: "2026-03-29T23:54:19.960Z"
 ---
 
 # § 946. Art. 146. Military Justice Review Panel
@@ -37,4 +37,4 @@ generated_at: "2026-03-29T23:50:22.237Z"
 - **(i)**
   - **(1)** Members of the Panel shall serve without pay, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Panel.
   - **(2)** The Secretary of Defense shall provide staffing and resources to support the Panel.
-- **(j)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Panel.
+- **(j)** Chapter 10 of title 5 shall not apply to the Panel.

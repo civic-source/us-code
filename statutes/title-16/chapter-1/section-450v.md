@@ -3,9 +3,9 @@ title: "Section 450v - Omitted"
 usc_title: 16
 usc_section: "450v"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 450v"
-generated_at: "2026-03-29T23:51:16.108Z"
+generated_at: "2026-03-29T23:55:30.963Z"
 ---
 
 # § 450v. Omitted

@@ -3,9 +3,9 @@ title: "Section 4872 - Acquisition of sensitive materials from non-allied foreig
 usc_title: 10
 usc_section: "4872"
 chapter: 385
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 4872"
-generated_at: "2026-03-29T23:50:22.320Z"
+generated_at: "2026-03-29T23:54:20.061Z"
 ---
 
 # § 4872. Acquisition of sensitive materials from non-allied foreign nations: prohibition
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T23:50:22.320Z"
     - **(A)** a commercially available off-the-shelf item (as defined in section 104 of title 41 ), other than—
       - **(i)** a commercially available off-the-shelf item that is 50 percent or more tungsten by weight; or
       - **(ii)** a mill product, such as bar, billet, slab, wire, cube, sphere, block, blank, plate, or sheet, that has not been incorporated into an end item, subsystem, assembly, or component;
-    - **(B)** an electronic device, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title , determines that the domestic availability of a particular electronic device is critical to national security; or
+    - **(B)** an electronic device, unless the Secretary of Defense, upon the recommendation of the Strategic and Critical Materials Board of Directors pursuant to section 10 of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98h–1 ), determines that the domestic availability of a particular electronic device is critical to national security; or
     - **(C)** a neodymium-iron-boron magnet manufactured from recycled material if the milling of the recycled material and sintering of the final magnet takes place in the United States.
 - **(d)** In this section:
   - **(1)** The term “covered material” means—

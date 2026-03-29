@@ -3,9 +3,9 @@ title: "Section 53106 - Payments"
 usc_title: 46
 usc_section: "53106"
 chapter: 531
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "46 U.S.C. § 53106"
-generated_at: "2026-03-29T23:53:20.152Z"
+generated_at: "2026-03-29T23:57:43.099Z"
 ---
 
 # § 53106. Payments
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T23:53:20.152Z"
     - **(D)** $5,800,000 for each of fiscal years 2026, 2027, and 2028;
     - **(E)** $6,300,000 for each of fiscal years 2029, 2030, and 2031; and
     - **(F)** $6,800,000 for each of fiscal years 2032, 2033, 2034, and 2035.
-  - **(2)** The amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section.
+  - **(2)** The amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section or section 51307(b).
 - **(b)** As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel, for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 - **(c)** The Secretary of Transportation shall not make any payment under this chapter for a vessel with respect to any days for which the vessel is—
   - **(1)** under a charter to the United States Government, other than a charter pursuant to an Emergency Preparedness Agreement under section 53107;

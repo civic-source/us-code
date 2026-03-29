@@ -3,9 +3,9 @@ title: "Section 398d - Acquisition of lands, waters, and interests therein"
 usc_title: 16
 usc_section: "398d"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 398d"
-generated_at: "2026-03-29T23:51:16.077Z"
+generated_at: "2026-03-29T23:55:30.922Z"
 ---
 
 # § 398d. Acquisition of lands, waters, and interests therein

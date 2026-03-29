@@ -3,9 +3,9 @@ title: "Section 1712A - Eligibility for readjustment counseling and related ment
 usc_title: 38
 usc_section: "1712A"
 chapter: 17
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "38 U.S.C. § 1712A"
-generated_at: "2026-03-29T23:52:41.939Z"
+generated_at: "2026-03-29T23:56:49.010Z"
 ---
 
 # § 1712A. Eligibility for readjustment counseling and related mental health services
@@ -13,14 +13,15 @@ generated_at: "2026-03-29T23:52:41.939Z"
 - **(a)**
   - **(1)**
     - **(A)** Upon the request of any individual referred to in subparagraph (C), the Secretary shall furnish counseling, including by furnishing counseling through a Vet Center, to the individual—
-      - **(i)** in the case of an individual referred to in clauses (i) through (vi) of subparagraph (C), to assist the individual in readjusting to civilian life; and
-      - **(ii)** in the case of an individual referred to in clause (vii) of such subparagraph who is a family member of a veteran or member described in such clause—
-        - **(I)** in the case of a member who is deployed in a theater of combat operations or an area at a time during which hostilities are occurring in that area, during such deployment to assist such individual in coping with such deployment; and
-        - **(II)** in the case of a veteran or member who is readjusting to civilian life, to the degree that counseling furnished to such individual is found to aid in the readjustment of such veteran or member to civilian life.
+      - **(i)** in the case of an individual referred to in clauses (i) through (vii) of subparagraph (C), to assist the individual in readjusting to civilian life; and
+      - **(ii)** in the case of an individual referred to in clause (viii) of such subparagraph who is a family member of a veteran or member described in such clause—
+        - **(I)** in the case of a member who is deployed in a theater of combat operations or an area at a time during which hostilities are occurring in that area, during such deployment to assist such individual in coping with such deployment;
+        - **(II)** in the case of a veteran or member who is readjusting to civilian life, to the degree that counseling furnished to such individual is found to aid in the readjustment of such veteran or member to civilian life; and
+        - **(III)** in the case of a veteran or member who died by suicide, to the degree that counseling furnished to such individual is found to aid in coping with the effects of such suicide.
     - **(B)**
       - **(i)** Counseling furnished to an individual under subparagraph (A) may include a comprehensive individual assessment of the individual’s psychological, social, and other characteristics to ascertain whether—
-        - **(I)** in the case of an individual referred to in clauses (i) through (vi) of subparagraph (C), such individual has difficulties associated with readjusting to civilian life; and
-        - **(II)** in the case of an individual referred to in clause (vii) of such subparagraph, such individual has difficulties associated with—
+        - **(I)** in the case of an individual referred to in clauses (i) through (vii) of subparagraph (C), such individual has difficulties associated with readjusting to civilian life; and
+        - **(II)** in the case of an individual referred to in clause (viii) of such subparagraph, such individual has difficulties associated with—
       - **(ii)**
         - **(I)** Except as provided in subclauses (IV) and (V), counseling furnished to an individual under subparagraph (A) may include reintegration and readjustment services described in subclause (II) furnished in group retreat settings.
         - **(II)** Reintegration and readjustment services described in this subclause are the following:
@@ -36,9 +37,11 @@ generated_at: "2026-03-29T23:52:41.939Z"
         - **(II)** in the National Guard of a State under orders of the chief executive of that State in response to a disaster or civil disorder in such State.
       - **(v)** Any individual who participated in a drug interdiction operation as a member of the Coast Guard, regardless of the location of that operation.
       - **(vi)** Any individual who received counseling under this section before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013.
-      - **(vii)** Any individual who is a family member of any—
-        - **(I)** member of the Armed Forces, including a member of a reserve component of the Armed Forces, who is serving on active duty in a theater of combat operations or in an area at a time during which hostilities are occurring in that area; or
-        - **(II)** veteran or member of the Armed Forces described in this subparagraph.
+      - **(vii)** Any veteran or member of the Armed Forces pursuing a course of education using covered educational assistance benefits.
+      - **(viii)** Any individual who is a family member of any—
+        - **(I)** member of the Armed Forces, including a member of a reserve component of the Armed Forces, who is serving on active duty in a theater of combat operations or in an area at a time during which hostilities are occurring in that area;
+        - **(II)** veteran or member of the Armed Forces described in this subparagraph; or
+        - **(III)** veteran or member of the Armed Forces who died by suicide.
     - **(D)**
       - **(i)** The Secretary, in consultation with the Secretary of Defense, may furnish to any member of the reserve components of the Armed Forces who has a behavioral health condition or psychological trauma, counseling under subparagraph (A)(i), which may include a comprehensive individual assessment under subparagraph (B)(i).
       - **(ii)** A member of the reserve components of the Armed Forces described in clause (i) shall not be required to obtain a referral before being furnished counseling or an assessment under this subparagraph.
@@ -73,3 +76,8 @@ generated_at: "2026-03-29T23:52:41.939Z"
     - **(B)** lives with the veteran or member but is not a member of the family of the veteran or member.
   - **(4)** The term “active service” has the meaning given that term in section 101 of title 10 .
   - **(5)** The term “civil disorder” has the meaning given that term in section 232 of title 18 .
+  - **(6)** The term “covered educational assistance benefits” means educational assistance benefits provided pursuant to—
+    - **(A)** chapter 30, 31, 32, or 33 of this title;
+    - **(B)** chapter 1606 or 1607 of title 10;
+    - **(C)** section 116 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 ( Public Law 115–48 ; 38 U.S.C. 3001 note); or
+    - **(D)** section 8006 of the American Rescue Plan Act of 2021 ( Public Law 117–2 ; 38 U.S.C. 3001 note prec.).

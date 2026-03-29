@@ -3,9 +3,9 @@ title: "Section 9042 - Emergency relief and taxpayer protections"
 usc_title: 15
 usc_section: "9042"
 chapter: 116
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 9042"
-generated_at: "2026-03-29T23:50:50.672Z"
+generated_at: "2026-03-29T23:54:56.204Z"
 ---
 
 # § 9042. Emergency relief and taxpayer protections
@@ -79,7 +79,7 @@ generated_at: "2026-03-29T23:50:50.672Z"
     - **(A)** the amount transferred from the appropriation made under section 9061 of this title to the financing accounts; and
     - **(B)** the amount necessary to repay any amount lent from the Treasury to such financing accounts.
   - **(2)** After the deposits specified in paragraph (1) of this subsection have been made, into the Federal Old-Age and Survivors Insurance Trust Fund established under section 401(a) of title 42 .
-- **(f)** Notwithstanding any other provision of law, the Secretary may use not greater than $100,000,000 of the funds made available under section 9061 of this title to pay costs and administrative expenses associated with the loans, loan guarantees, and other investments authorized under this section. The Secretary is authorized to take such actions as the Secretary deems necessary to carry out the authorities in this part, including, without limitation—
+- **(f)** Notwithstanding any other provision of law, the Secretary may use not greater than 61,000,000 of the funds made available under section 9061 of this title to pay costs and administrative expenses associated with the loans, loan guarantees, and other investments authorized under this section. The Secretary is authorized to take such actions as the Secretary deems necessary to carry out the authorities in this part, including, without limitation—
   - **(1)** using direct hiring authority to hire employees to administer this part;
   - **(2)** entering into contracts, including contracts for services authorized by this part;
   - **(3)** establishing vehicles that are authorized, subject to supervision by the Secretary, to purchase, hold, and sell assets and issue obligations; and

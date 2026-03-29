@@ -3,9 +3,9 @@ title: "Section 1396w - Asset verification through access to information held by
 usc_title: 42
 usc_section: "1396w"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 1396w"
-generated_at: "2026-03-29T23:53:16.353Z"
+generated_at: "2026-03-29T23:57:26.852Z"
 ---
 
 # § 1396w. Asset verification through access to information held by financial institutions
@@ -24,10 +24,11 @@ generated_at: "2026-03-29T23:53:16.353Z"
         - **(III)** 50 percent by the end of fiscal year 2011.
         - **(IV)** 75 percent by the end of fiscal year 2012.
         - **(V)** 100 percent by the end of fiscal year 2013.
+      - **(iii)** The Secretary shall require Puerto Rico to implement an asset verification program under this subsection by January 1, 2026 .
     - **(B)** In selecting States under subparagraph (A)(ii), the Secretary shall consult with the States involved and take into account the feasibility of implementing asset verification programs in each such State.
     - **(C)** The States specified in this subparagraph are California, New York, and New Jersey.
     - **(D)** Nothing in subparagraph (A)(ii) shall be construed as preventing a State from requesting, and the Secretary from approving, the implementation of an asset verification program in advance of the deadline otherwise established under such subparagraph.
-  - **(4)** This section shall only apply to the 50 States and the District of Columbia.
+  - **(4)** This section shall only apply to the 50 States, the District of Columbia, and Puerto Rico.
 - **(b)**
   - **(1)** For purposes of this section, an asset verification program means a program described in paragraph (2) under which a State—
     - **(A)** requires each applicant for, or recipient of, medical assistance under the State plan under this subchapter on the basis of being aged, blind, or disabled to provide authorization by such applicant or recipient (and any other person whose resources are required by law to be disclosed to determine the eligibility of the applicant or recipient for such assistance) for the State to obtain (subject to the cost reimbursement requirements of section 1115(a) of the Right to Financial Privacy Act 1 1 See References in Text note below. [ 12 U.S.C. 3415 ] but at no cost to the applicant or recipient) from any financial institution (within the meaning of section 1101(1) of such Act [ 12 U.S.C. 3401(1) ]) any financial record (within the meaning of section 1101(2) of such Act) held by the institution with respect to the applicant or recipient (and such other person, as applicable), whenever the State determines the record is needed in connection with a determination with respect to such eligibility for (or the amount or extent of) such medical assistance; and
@@ -48,12 +49,18 @@ generated_at: "2026-03-29T23:53:16.353Z"
 - **(i)** A State implementing an asset verification program under this section shall furnish to the Secretary such reports concerning the program, at such times, in such format, and containing such information as the Secretary determines appropriate.
 - **(j)** Notwithstanding any other provision of law, reasonable expenses of States in carrying out the program under this section shall be treated, for purposes of section 1396b(a) of this title , in the same manner as State expenditures specified in paragraph (7) of such section.
 - **(k)**
-  - **(1)** With respect to a calendar quarter beginning on or after January 1, 2021 , the Federal medical assistance percentage otherwise determined under section 1396d(b) of this title for a non-compliant State shall be reduced—
-    - **(A)** for calendar quarters in 2021 and 2022, by 0.12 percentage points;
-    - **(B)** for calendar quarters in 2023, by 0.25 percentage points;
-    - **(C)** for calendar quarters in 2024, by 0.35 percentage points; and
-    - **(D)** for calendar quarters in 2025 and each year thereafter, by 0.5 percentage points.
+  - **(1)** With respect to a calendar quarter, the Federal medical assistance percentage otherwise determined under section 1396d(b) of this title for—
+    - **(A)** a non-compliant State that is one of the 50 States or the District of Columbia shall be reduced—
+      - **(i)** for calendar quarters in 2021 and 2022, by 0.12 percentage points;
+      - **(ii)** for calendar quarters in 2023, by 0.25 percentage points;
+      - **(iii)** for calendar quarters in 2024, by 0.35 percentage points; and
+      - **(iv)** for calendar quarters in 2025 and each year thereafter, by 0.5 percentage points; and
+    - **(B)** a non-compliant State that is Puerto Rico shall be reduced—
+      - **(i)** for calendar quarters in fiscal year 2026 beginning on or after January 1, 2026 , by 0.12 percentage points;
+      - **(ii)** for calendar quarters in fiscal year 2027, by 0.25 percentage points;
+      - **(iii)** for calendar quarters in fiscal year 2028, by 0.35 percentage points; and
+      - **(iv)** for calendar quarters in fiscal year 2029 and each fiscal year thereafter, by 0.5 percentage points.
   - **(2)** For purposes of this subsection, the term “non-compliant State” means a State—
-    - **(A)** that is one of the 50 States or the District of Columbia;
+    - **(A)** that is one of the 50 States, the District of Columbia, or Puerto Rico;
     - **(B)** with respect to which the Secretary has not approved a State plan amendment submitted under subsection (a)(2); and
     - **(C)** that is not operating, on an ongoing basis, an asset verification program in accordance with this section.

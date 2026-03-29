@@ -3,9 +3,9 @@ title: "Section 1281b - Availability of Farmers Home Administration funds for no
 usc_title: 33
 usc_section: "1281b"
 chapter: 26
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 1281b"
-generated_at: "2026-03-29T23:52:21.940Z"
+generated_at: "2026-03-29T23:56:30.052Z"
 ---
 
 # § 1281b. Availability of Farmers Home Administration funds for non-Federal share

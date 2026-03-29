@@ -3,9 +3,9 @@ title: "Section 3341 - Security clearances"
 usc_title: 50
 usc_section: "3341"
 chapter: 45
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 3341"
-generated_at: "2026-03-29T23:53:23.649Z"
+generated_at: "2026-03-29T23:57:33.299Z"
 ---
 
 # § 3341. Security clearances
@@ -107,7 +107,7 @@ generated_at: "2026-03-29T23:53:23.649Z"
       - **(i)** a violation of any Federal law, rule, or regulation; or
       - **(ii)** mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
     - **(C)** any lawful disclosure that complies with—
-      - **(i)** subsections (a)(1), (d), and (g) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.);
+      - **(i)** subsections (b)(1), (e), and (i) 3 3 So in original. Probably should be “(h)”. of section 416 of title 5 ;
       - **(ii)** subparagraphs (A), (D), and (H) of section 3517(d)(5) of this title ; or
       - **(iii)** subparagraphs (A), (D), and (I) of section 3033(k)(5) of this title ; and
     - **(D)** if the actions do not result in the employee or applicant unlawfully disclosing information specifically required by Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs, any lawful disclosure in conjunction with—

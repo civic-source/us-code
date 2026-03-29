@@ -3,9 +3,9 @@ title: "Section 452 - Allowable travel and transportation: general authorities"
 usc_title: 37
 usc_section: "452"
 chapter: 8
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "37 U.S.C. § 452"
-generated_at: "2026-03-29T23:52:49.852Z"
+generated_at: "2026-03-29T23:56:42.334Z"
 ---
 
 # § 452. Allowable travel and transportation: general authorities
@@ -29,10 +29,12 @@ generated_at: "2026-03-29T23:52:49.852Z"
   - **(15)** Attendance at Yellow Ribbon Reintegration Program events.
   - **(16)** Missing status, as determined by the Secretary concerned under chapter 10 of this title.
   - **(17)** Attendance at or participation in international sports competitions described under section 717 of title 10 .
-  - **(18)** 1 1 So in original. Another par. (18) is set out after par. (20). Travel by a dependent child to the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member of the uniformed services is outside the continental United States (other than in Alaska or Hawaii).
+  - **(18)** Travel by a dependent child to the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member of the uniformed services is outside the continental United States (other than in Alaska or Hawaii).
   - **(19)** Travel by a dependent child within the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member of the uniformed services is in Alaska or Hawaii and the school is located in a State outside of the permanent duty assignment location.
   - **(20)** Subject to subsection (i), travel by a dependent to a location where a member of the uniformed services is on permanent duty aboard a ship that is overhauling, inactivating, or under construction.
-  - **(18)** 2 2 So in original. Another par. (18) is set out after par. (17). Presence of family members at the funeral and memorial services of members.
+  - **(21)** Presence of family members at the funeral and memorial services of members.
+  - **(22)** Permanent change of assignment to or from a naval vessel undergoing nuclear refueling or defueling and any concurrent complex overhaul, even if such assignment is within the same area as the current assignment of the member.
+  - **(23)** Current assignment to a naval vessel entering or exiting nuclear refueling or defueling and any concurrent complex overhaul.
 - **(c)** Travel and transportation allowances which may be provided under subsection (a) include the following:
   - **(1)** Allowances for transportation (including fares and tolls, without regard to distance travelled), lodging, and meals.
   - **(2)** Dislocation or relocation allowances paid in connection with a change in a member’s temporary or permanent duty assignment location.

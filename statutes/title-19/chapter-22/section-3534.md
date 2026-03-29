@@ -3,9 +3,9 @@ title: "Section 3534 - Annual report on WTO"
 usc_title: 19
 usc_section: "3534"
 chapter: 22
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "19 U.S.C. § 3534"
-generated_at: "2026-03-29T23:51:13.784Z"
+generated_at: "2026-03-29T23:55:00.650Z"
 ---
 
 # § 3534. Annual report on WTO

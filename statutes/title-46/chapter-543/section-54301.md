@@ -3,9 +3,9 @@ title: "Section 54301 - Port infrastructure development program"
 usc_title: 46
 usc_section: "54301"
 chapter: 543
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "46 U.S.C. § 54301"
-generated_at: "2026-03-29T23:53:20.157Z"
+generated_at: "2026-03-29T23:57:43.105Z"
 ---
 
 # § 54301. Port infrastructure development program
@@ -72,11 +72,11 @@ generated_at: "2026-03-29T23:53:20.157Z"
       - **(ii)** make the records described in clause (i) available for review and audit by the Secretary; and
       - **(iii)** periodically report to the Secretary such information as the Secretary considers necessary to assess progress.
     - **(B)**
-      - **(i)** Notwithstanding any other provision of law ans subject to approval by the Secretary, in the case of any grant for a project under this section, during the period beginning on the date on which the grant recipient is selected and ending on the date on which the grant agreement is signed—
+      - **(i)** Notwithstanding any other provision of law ans 1 1 So in original. Probably should be “and”. subject to approval by the Secretary, in the case of any grant for a project under this section, during the period beginning on the date on which the grant recipient is selected and ending on the date on which the grant agreement is signed—
         - **(I)** the grant recipient may obligate and expend non-Federal funds with respect to the project for which the grant is provided; and
         - **(II)** any non-Federal funds obligated or expended in accordance with subclause (I) shall be credited toward the non-Federal cost share for the project for which the grant is provided.
       - **(ii)**
-        - **(I)** In order to obligate and expend non-Federal funds under clause (i), the grant recipient shall submit to the Secretary a request to obligate and expend non- Federal funds under that clause, including—
+        - **(I)** In order to obligate and expend non-Federal funds under clause (i), the grant recipient shall submit to the Secretary a request to obligate and expend non-Federal funds under that clause, including—
         - **(II)** The Secretary shall approve or disapprove each request submitted under subclause (I).
         - **(III)** Any obligation or expenditure of non-Federal funds under clause (i) shall be in compliance with all applicable requirements, including any requirements included in the grant agreement.
       - **(iii)** The obligation or expenditure of any non-Federal funds in accordance with this subparagraph shall not—

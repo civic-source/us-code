@@ -3,14 +3,14 @@ title: "Section 2212 - Inland waterway transportation"
 usc_title: 33
 usc_section: "2212"
 chapter: 36
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 2212"
-generated_at: "2026-03-29T23:52:21.962Z"
+generated_at: "2026-03-29T23:56:30.076Z"
 ---
 
 # § 2212. Inland waterway transportation
 
-- **(a)** One-half of the costs of construction—
+- **(a)** 65 percent of the costs of construction—
   - **(1)** of each project authorized by title III of this Act,
   - **(2)** of the project authorized by section 652(j) of this title , and
   - **(3)** allocated to inland navigation for the project authorized by section 844 of this Act,

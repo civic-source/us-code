@@ -3,9 +3,9 @@ title: "Section 2209k - Prohibition on payments to fossil fuel refiners and impo
 usc_title: 7
 usc_section: "2209k"
 chapter: 55
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "7 U.S.C. § 2209k"
-generated_at: "2026-03-29T23:50:42.162Z"
+generated_at: "2026-03-29T23:54:15.611Z"
 ---
 
 # § 2209k. Prohibition on payments to fossil fuel refiners and importers
@@ -15,5 +15,5 @@ generated_at: "2026-03-29T23:50:42.162Z"
   - **(2)** to otherwise support, directly or indirectly, a refiner or importer (as so defined) in meeting any requirements under—
     - **(A)** the renewable fuel program under section 7545( o ) of title 42; or
     - **(B)** any other provision of law that requires the blending of fossil fuel with renewable fuel.
-- **(b)**
+- **(b)** The exclusion in (a) shall not apply to any payments or support to producers, refiners, or importers of biofuel (as defined in section 8101 of this title ).
 - **(c)** The authorities under the ninth and tenth sentences of section 714b(h) of title 15 (relating to the availability of agricultural products for the Secretary of Energy to exchange for petroleum products and the terms and conditions of those exchanges, respectively) shall not be used during the 180-day period beginning on October 1, 2020 .

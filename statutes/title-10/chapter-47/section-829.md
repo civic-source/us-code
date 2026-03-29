@@ -1,14 +1,14 @@
 ---
-title: "Section 829 - Art 29. Assembly and impaneling of members; detail of new members and military judges"
+title: "Section 829 - Art. 29. Assembly and impaneling of members; detail of new members and military judges"
 usc_title: 10
 usc_section: "829"
 chapter: 47
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 829"
-generated_at: "2026-03-29T23:50:22.231Z"
+generated_at: "2026-03-29T23:54:19.954Z"
 ---
 
-# § 829. Art 29. Assembly and impaneling of members; detail of new members and military judges
+# § 829. Art. 29. Assembly and impaneling of members; detail of new members and military judges
 
 - **(a)** The military judge shall announce the assembly of a general or special court-martial with members. After such a court-martial is assembled, no member may be absent, unless the member is excused—
   - **(1)** as a result of a challenge;

@@ -3,9 +3,9 @@ title: "Section 459 - Administration of oaths and acknowledgments"
 usc_title: 28
 usc_section: "459"
 chapter: 21
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "28 U.S.C. § 459"
-generated_at: "2026-03-29T23:51:48.877Z"
+generated_at: "2026-03-29T23:56:03.393Z"
 ---
 
 # § 459. Administration of oaths and acknowledgments

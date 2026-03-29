@@ -3,9 +3,9 @@ title: "Section 290ll - Fellowships"
 usc_title: 42
 usc_section: "290ll"
 chapter: 6
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 290ll"
-generated_at: "2026-03-29T23:53:16.105Z"
+generated_at: "2026-03-29T23:57:26.586Z"
 ---
 
 # § 290ll. Fellowships
@@ -15,4 +15,4 @@ generated_at: "2026-03-29T23:53:16.105Z"
   - **(2)** improving the quality of mental and substance use disorder prevention and treatment services delivered to racial and ethnic minority populations; and
   - **(3)** increasing the number of culturally competent mental and substance use disorders professionals who teach, administer services, conduct research, and provide direct mental or substance use disorder services to racial and ethnic minority populations.
 - **(b)** The fellowships awarded under subsection (a) shall be for postbaccalaureate training (including for master’s and doctoral degrees) for mental and substance use disorder treatment professionals, including in the fields of psychiatry, nursing, social work, psychology, marriage and family therapy, mental health counseling, and substance use disorder and addiction counseling.
-- **(c)** To carry out this section, there are authorized to be appropriated $12,669,000 for each of fiscal years 2018 through 2022.
+- **(c)** To carry out this section, there are authorized to be appropriated $25,000,000 for each of fiscal years 2023 through 2027.

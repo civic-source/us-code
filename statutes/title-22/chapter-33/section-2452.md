@@ -3,9 +3,9 @@ title: "Section 2452 - Authorization of activities"
 usc_title: 22
 usc_section: "2452"
 chapter: 33
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 2452"
-generated_at: "2026-03-29T23:51:29.479Z"
+generated_at: "2026-03-29T23:55:52.429Z"
 ---
 
 # § 2452. Authorization of activities
@@ -17,8 +17,8 @@ generated_at: "2026-03-29T23:51:29.479Z"
   - **(2)** cultural exchanges, by financing—
       - **(i)** visits and interchanges between the United States and other countries of leaders, experts in fields of specialized knowledge or skill, and other influential or distinguished persons;
       - **(ii)** tours in countries abroad by creative and performing artists and athletes from the United States, individually and in groups, representing any field of the arts, sports, or any other form of cultural attainment;
-      - **(iii)** United States representation in international artistic, dramatic, musical, sports, and other cultural festivals, competitions, meetings, and like exhibitions and assemblies;
-      - **(iv)** participation by groups and individuals from other countries in nonprofit activities in the United States similar to those described in subparagraphs (ii) and (iii) of this paragraph, when the Director of the United States Information Agency determines that such participation is in the national interest. 1 1 So in original. The period probably should be a semicolon.
+      - **(iii)** United States representation in international artistic, dramatic, musical, sports, and other cultural festivals, competitions, meetings, and like exhibitions and assemblies; and
+      - **(iv)** participation by groups and individuals from other countries in nonprofit activities in the United States, including in coordination and consultation with the private sector, similar to those described in subparagraphs (ii) and (iii) of this paragraph, when the Director of the United States Information Agency determines that such participation is in the national interest; and
   - **(3)** United States participation in international fairs and expositions abroad, including trade and industrial fairs and other public or private demonstrations of United States economic accomplishments and cultural attainments.
 - **(b)** In furtherance of the purposes of this chapter, the President is further authorized to provide for—
   - **(1)** interchanges between the United States and other countries of handicrafts, scientific, technical, and scholarly books, books of literature, periodicals, and Government publications, and the reproduction and translation of such writings, and the preparation, distribution, and interchange of other educational and research materials, including laboratory and technical equipment for education and research;

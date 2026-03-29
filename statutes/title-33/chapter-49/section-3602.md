@@ -3,9 +3,9 @@ title: "Section 3602 - Definitions"
 usc_title: 33
 usc_section: "3602"
 chapter: 49
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 3602"
-generated_at: "2026-03-29T23:52:21.987Z"
+generated_at: "2026-03-29T23:56:30.104Z"
 ---
 
 # § 3602. Definitions
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T23:52:21.987Z"
 In this chapter:
 
   - **(1)** The term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere in the Under Secretary’s capacity as Administrator of the National Oceanic and Atmospheric Administration.
-  - **(2)** The term “Council” means the National Ocean Research Leadership Council established by section 8932 of title 10 .
+  - **(2)** The term “Council” means the National Ocean Research Leadership Council established by section 8932 of title 10 . 1 1 See References in Text note below.
   - **(3)** The term “Federal assets” means all relevant non-classified civilian coastal and ocean observations, technologies, and related modeling, research, data management, basic and applied technology research and development, and public education and outreach programs, that are managed by member agencies of the Council.
   - **(4)** The term “Interagency Ocean Observation Committee” means the committee established under section 3603(c)(2) of this title .
   - **(5)** The term “non-Federal assets” means all relevant coastal and ocean observation technologies, related basic and applied technology research and development, and public education and outreach programs that are managed through States, regional organizations, universities, nongovernmental organizations, or the private sector and integrated into the System by a regional coastal observing system, the National Oceanic and Atmospheric Administration, or the agencies participating in the Interagency Ocean Observation Committee.

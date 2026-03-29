@@ -3,9 +3,9 @@ title: "Section 10306 - Poll taxes"
 usc_title: 52
 usc_section: "10306"
 chapter: 103
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "52 U.S.C. § 10306"
-generated_at: "2026-03-29T23:53:50.508Z"
+generated_at: "2026-03-29T23:57:44.970Z"
 ---
 
 # § 10306. Poll taxes

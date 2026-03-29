@@ -3,9 +3,9 @@ title: "Section 294e - Allied health and other disciplines"
 usc_title: 42
 usc_section: "294e"
 chapter: 6
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 294e"
-generated_at: "2026-03-29T23:53:16.111Z"
+generated_at: "2026-03-29T23:57:26.593Z"
 ---
 
 # § 294e. Allied health and other disciplines
@@ -27,3 +27,4 @@ generated_at: "2026-03-29T23:53:16.111Z"
     - **(J)** those to meet the costs of projects to plan, develop, and operate or maintain graduate programs in behavioral and mental health practice.
   - **(2)** Planning and implementing projects in preventive and primary care training for podiatric physicians in approved or provisionally approved residency programs that shall provide financial assistance in the form of traineeships to residents who participate in such projects and who plan to specialize in primary care.
   - **(3)** Carrying out demonstration projects in which chiropractors and physicians collaborate to identify and provide effective treatment for spinal and lower-back conditions.
+  - **(4)** Increasing educational opportunities in physical therapy, occupational therapy, respiratory therapy, audiology, and speech-language pathology professions, which may include offering scholarships or stipends and carrying out other activities to improve retention, for individuals from disadvantaged backgrounds or individuals who are underrepresented in such professions.

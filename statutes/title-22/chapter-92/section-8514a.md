@@ -3,9 +3,9 @@ title: "Section 8514a - Imposition of sanctions with respect to the transfer of 
 usc_title: 22
 usc_section: "8514a"
 chapter: 92
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 8514a"
-generated_at: "2026-03-29T23:51:29.559Z"
+generated_at: "2026-03-29T23:55:52.521Z"
 ---
 
 # § 8514a. Imposition of sanctions with respect to the transfer of goods or technologies to Iran that are likely to be used to commit human rights abuses

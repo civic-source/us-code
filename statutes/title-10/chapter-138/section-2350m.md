@@ -3,9 +3,9 @@ title: "Section 2350m - Participation in European program on multilateral exchan
 usc_title: 10
 usc_section: "2350m"
 chapter: 138
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 2350m"
-generated_at: "2026-03-29T23:50:22.282Z"
+generated_at: "2026-03-29T23:54:20.014Z"
 ---
 
 # § 2350m. Participation in European program on multilateral exchange of surface transportation services

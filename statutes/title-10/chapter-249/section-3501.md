@@ -3,9 +3,9 @@ title: "Section 3501 - Multiyear contracts: acquisition of property"
 usc_title: 10
 usc_section: "3501"
 chapter: 249
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 3501"
-generated_at: "2026-03-29T23:50:22.306Z"
+generated_at: "2026-03-29T23:54:20.044Z"
 ---
 
 # § 3501. Multiyear contracts: acquisition of property
@@ -46,9 +46,7 @@ generated_at: "2026-03-29T23:50:22.306Z"
   - **(2)** A multiyear contract for advance procurement of components, parts, and materials necessary to the manufacture of a weapon system, including a multiyear contract for such advance procurement that is entered into in order to achieve economic-lot purchases and more efficient production rates.
 - **(i)**
   - **(1)** In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into under this section unless the contract is specifically authorized by law in an Act other than an appropriations Act.
-  - **(2)** In submitting a request for a specific authorization by law to carry out a defense acquisition program using multiyear contract authority under this section, the Secretary of Defense shall include in the request the following:
-    - **(A)** A report containing preliminary findings of the agency head required in paragraphs (1) through (6) of subsection (a), together with the basis for such findings.
-    - **(B)** Confirmation that the preliminary findings of the agency head under subparagraph (A) were supported by a preliminary cost analysis performed by the Director of Cost Assessment and Program Evaluation.
+  - **(2)** In submitting a request for a specific authorization by law to carry out a defense acquisition program using multiyear contract authority under this section, the Secretary of Defense shall include in the request a report containing preliminary findings of the agency head required in paragraphs (1) through (6) of subsection (a), together with the basis for such findings.
   - **(3)** A multiyear contract may not be entered into under this section for a defense acquisition program that has been specifically authorized by law to be carried out using multiyear contract authority unless the Secretary of Defense certifies in writing, not later than 30 days before entry into the contract, that each of the following conditions is satisfied:
     - **(A)** The Secretary has determined that each of the requirements in paragraphs (1) through (6) of subsection (a) will be met by such contract and has provided the basis for such determination to the congressional defense committees.
     - **(B)** The Secretary’s determination under subparagraph (A) was made after completion of a cost analysis conducted on the basis of section 3226(b) of this title , and the analysis supports the determination.

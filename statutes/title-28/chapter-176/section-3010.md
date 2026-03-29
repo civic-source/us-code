@@ -3,9 +3,9 @@ title: "Section 3010 - Co-owned property"
 usc_title: 28
 usc_section: "3010"
 chapter: 176
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "28 U.S.C. § 3010"
-generated_at: "2026-03-29T23:51:48.900Z"
+generated_at: "2026-03-29T23:56:03.416Z"
 ---
 
 # § 3010. Co-owned property

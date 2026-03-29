@@ -3,9 +3,9 @@ title: "Section 9a - Child health quality measures"
 usc_title: 42
 usc_section: "9a"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 9a"
-generated_at: "2026-03-29T23:53:16.238Z"
+generated_at: "2026-03-29T23:57:26.722Z"
 ---
 
 # § 1320b–9a. Child health quality measures
@@ -175,6 +175,7 @@ generated_at: "2026-03-29T23:53:16.238Z"
   - **(1)** Out of any funds in the Treasury not otherwise appropriated, there is appropriated—
     - **(A)** for each of fiscal years 2009 through 2013, $45,000,000 for the purpose of carrying out this section (other than subsection (e));
     - **(B)** for the period of fiscal years 2016 and 2017, $20,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g));
-    - **(C)** for the period of fiscal years 2018 through 2023, $90,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)); and
-    - **(D)** for the period of fiscal years 2024 through 2027, $60,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)).
+    - **(C)** for the period of fiscal years 2018 through 2023, $90,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g));
+    - **(D)** for the period of fiscal years 2024 through 2027, $60,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)); and
+    - **(E)** for each of fiscal years 2028 and 2029, $15,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)).
   - **(2)** Funds appropriated under this subsection shall remain available until expended.

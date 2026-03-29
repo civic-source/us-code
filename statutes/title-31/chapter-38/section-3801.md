@@ -3,9 +3,9 @@ title: "Section 3801 - Definitions"
 usc_title: 31
 usc_section: "3801"
 chapter: 38
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "31 U.S.C. § 3801"
-generated_at: "2026-03-29T23:52:13.622Z"
+generated_at: "2026-03-29T23:56:27.986Z"
 ---
 
 # § 3801. Definitions
@@ -14,10 +14,10 @@ generated_at: "2026-03-29T23:52:13.622Z"
   - **(1)** “authority” means—
     - **(A)** an executive department;
     - **(B)** a military department;
-    - **(C)** an establishment (as such term is defined in section 11(2) 1 1 See References in Text note below. of the Inspector General Act of 1978) which is not an executive department;
+    - **(C)** an establishment (as such term is defined in section 401 of title 5 ) which is not an executive department;
     - **(D)** the United States Postal Service;
     - **(E)** the National Science Foundation; and
-    - **(F)** a designated Federal entity (as such term is defined under section 8G(a)(2) of the Inspector General Act of 1978);
+    - **(F)** a designated Federal entity (as such term is defined under section 415(a) of title 5 );
   - **(2)** “authority head” means—
     - **(A)** the head of an authority; or
     - **(B)** an official or employee of the authority designated, in regulations promulgated by the head of the authority, to act on behalf of the head of the authority;
@@ -34,8 +34,8 @@ generated_at: "2026-03-29T23:52:13.622Z"
     - **(C)** made to an authority which has the effect of decreasing an obligation to pay or account for property, services, or money,
   - **(4)** “investigating official” means an individual who—
     - **(A)**
-      - **(i)** in the case of an authority in which an Office of Inspector General is established by the Inspector General Act of 1978 or by any other Federal law, is the Inspector General of that authority or an officer or employee of such Office designated by the Inspector General;
-      - **(ii)** in the case of an authority in which an Office of Inspector General is not established by the Inspector General Act of 1978 or by any other Federal law, is an officer or employee of the authority designated by the authority head to conduct investigations under section 3803(a)(1) of this title ; or
+      - **(i)** in the case of an authority in which an Office of Inspector General is established by chapter 4 of title 5 or by any other Federal law, is the Inspector General of that authority or an officer or employee of such Office designated by the Inspector General;
+      - **(ii)** in the case of an authority in which an Office of Inspector General is not established by chapter 4 of title 5 or by any other Federal law, is an officer or employee of the authority designated by the authority head to conduct investigations under section 3803(a)(1) of this title ; or
       - **(iii)** in the case of a military department, is the Inspector General of the Department of Defense or an officer or employee of the Office of Inspector General of the Department of Defense who is designated by the Inspector General; and
     - **(B)** who, if a member of the Armed Forces of the United States on active duty, is serving in grade O–7 or above or, if a civilian employee, is serving in a position for which the rate of basic pay is not less than the minimum rate of basic pay for grade GS–16 under the General Schedule;
   - **(5)** “knows or has reason to know”, for purposes of establishing liability under section 3802, means that a person, with respect to a claim or statement—

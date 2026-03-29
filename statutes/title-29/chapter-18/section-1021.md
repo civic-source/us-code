@@ -3,9 +3,9 @@ title: "Section 1021 - Duty of disclosure and reporting"
 usc_title: 29
 usc_section: "1021"
 chapter: 18
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "29 U.S.C. § 1021"
-generated_at: "2026-03-29T23:51:49.785Z"
+generated_at: "2026-03-29T23:55:56.274Z"
 ---
 
 # § 1021. Duty of disclosure and reporting
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T23:51:49.785Z"
     - **(A)** Not later than 60 days before the date of any qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account or applicable life insurance account, the employer maintaining the plan from which the transfer is made shall provide the Secretary, the Secretary of the Treasury, the administrator, and each employee organization representing participants in the plan a written notice of such transfer. A copy of any such notice shall be available for inspection in the principal office of the administrator.
     - **(B)** Such notice shall identify the plan from which the transfer is made, the amount of the transfer, a detailed accounting of assets projected to be held by the plan immediately before and immediately after the transfer, and the current liabilities under the plan at the time of the transfer.
     - **(C)** The Secretary may prescribe such additional reporting requirements as may be necessary to carry out the purposes of this section.
-  - **(3)** For purposes of paragraph (1), any term used in such paragraph which is also used in section 420 of title 26 (as in effect on July 31, 2015 ) shall have the same meaning as when used in such section.
+  - **(3)** For purposes of paragraph (1), any term used in such paragraph which is also used in section 420 of title 26 (as in effect on December 29, 2022 ) shall have the same meaning as when used in such section.
 - **(f)**
   - **(1)** The administrator of a defined benefit plan to which subchapter III applies shall for each plan year provide a plan funding notice to the Pension Benefit Guaranty Corporation, to each plan participant and beneficiary, to each labor organization representing such participants or beneficiaries, and, in the case of a multiemployer plan, to each employer that has an obligation to contribute to the plan.
   - **(2)**

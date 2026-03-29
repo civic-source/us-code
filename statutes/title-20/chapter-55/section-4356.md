@@ -3,9 +3,9 @@ title: "Section 4356 - Liaison for educational programs"
 usc_title: 20
 usc_section: "4356"
 chapter: 55
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "20 U.S.C. § 4356"
-generated_at: "2026-03-29T23:51:10.518Z"
+generated_at: "2026-03-29T23:55:05.418Z"
 ---
 
 # § 4356. Liaison for educational programs

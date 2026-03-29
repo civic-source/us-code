@@ -3,9 +3,9 @@ title: "Section 8513 - Standby Federal conservation plan"
 usc_title: 42
 usc_section: "8513"
 chapter: 93
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 8513"
-generated_at: "2026-03-29T23:53:16.588Z"
+generated_at: "2026-03-29T23:57:27.123Z"
 ---
 
 # § 8513. Standby Federal conservation plan

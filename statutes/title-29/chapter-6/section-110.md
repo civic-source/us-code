@@ -3,9 +3,9 @@ title: "Section 110 - Review by court of appeals of issuance or denial of tempor
 usc_title: 29
 usc_section: "110"
 chapter: 6
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "29 U.S.C. § 110"
-generated_at: "2026-03-29T23:51:49.762Z"
+generated_at: "2026-03-29T23:55:56.248Z"
 ---
 
 # § 110. Review by court of appeals of issuance or denial of temporary injunctions; record

@@ -3,18 +3,28 @@ title: "Section 1079b - Procedures for charging fees for care provided to civili
 usc_title: 10
 usc_section: "1079b"
 chapter: 55
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 1079b"
-generated_at: "2026-03-29T23:50:22.247Z"
+generated_at: "2026-03-29T23:54:19.974Z"
 ---
 
 # § 1079b. Procedures for charging fees for care provided to civilians; retention and use of fees collected
 
 - **(a)** The Secretary of Defense shall implement procedures under which a military medical treatment facility may charge civilians who are not covered beneficiaries (or their insurers) fees representing the costs, as determined by the Secretary, of trauma and other medical care provided to such civilians.
-- **(b)** The Secretary may waive a fee that would otherwise be charged under the procedures implemented under subsection (a) to a civilian who is not a covered beneficiary if—
-  - **(1)** the civilian is unable to pay for the costs of the trauma or other medical care provided to the civilian (including any such costs remaining after the Secretary receives payment from an insurer for such care, as applicable); and
-  - **(2)** the provision of such care enhances the knowledge, skills, and abilities of health care providers, as determined by the Secretary.
-- **(c)** A military medical treatment facility may retain and use the amounts collected under subsection (a) for—
+- **(b)** The Director of the Defense Health Agency may issue a waiver for a fee that would otherwise be charged under the procedures implemented under subsection (a) to a civilian provided medical care who is not a covered beneficiary if the provision of such care enhances the knowledge, skills, and abilities of health care providers, as determined by the Director of the Defense Health Agency.
+- **(c)**
+  - **(1)**
+    - **(A)** If a civilian specified in subsection (a) is covered by a covered payer at the time care under this section is provided, the civilian shall only be responsible to pay the standard copays, coinsurance, deductibles, or nominal fees that are otherwise applicable under the covered payer plan.
+    - **(B)** Except with respect to the copays, coinsurance, deductibles, and nominal fees specified in subparagraph (A)—
+      - **(i)** the Secretary of Defense may bill only the covered payer for care provided to a civilian described in subparagraph (A); and
+      - **(ii)** payment received by the Secretary from the covered payer of a civilian for care provided under this section that is provided to the civilian shall be considered payment in full for such care.
+  - **(2)** If a civilian specified in subsection (a) does not meet the criteria under paragraph (1), is underinsured, or has a remaining balance and is at risk of financial harm, the Director of the Defense Health Agency shall reduce each fee that would otherwise be charged to the civilian under this section according to a sliding fee discount program, as prescribed by the Director of the Defense Health Agency.
+  - **(3)** If a civilian specified in subsection (a) does not meet the criteria under paragraph (1) or (2), the Director of the Defense Health Agency shall implement an additional catastrophic waiver to prevent severe financial harm.
+  - **(4)** The modified payment plan under this subsection may not be administered by a Federal agency other than the Department of Defense.
+- **(d)** A military medical treatment facility may retain and use the amounts collected under subsection (a) for—
   - **(1)** trauma consortium activities;
   - **(2)** administrative, operating, and equipment costs; and
   - **(3)** readiness training.
+- **(e)** In this section:
+  - **(1)** The term “covered payer” means a third-party payer or other insurance, medical service, or health plan.
+  - **(2)** The terms “third-party payer” and “insurance, medical service, or health plan” have the meaning given those terms in section 1095(h) of this title .

@@ -3,15 +3,15 @@ title: "Section 4010 - Separation for cause; suspension"
 usc_title: 22
 usc_section: "4010"
 chapter: 52
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 4010"
-generated_at: "2026-03-29T23:51:29.508Z"
+generated_at: "2026-03-29T23:55:52.464Z"
 ---
 
 # § 4010. Separation for cause; suspension
 
 - **(a)**
-  - **(1)** The Secretary may decide to separate any member from the Service for such cause as will promote the efficiency of the Service.
+  - **(1)** The Secretary may separate any member from the Service for such cause as will promote the efficiency of the Service, including upon receiving notification from the Bureau of Diplomatic Security that such member has engaged in criminal misconduct, such as murder, rape, or other sexual assault.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), whenever the Secretary decides under paragraph (1) to separate, on the basis of misconduct, any member of the Service (other than a United States citizen employed under section 3951 of this title who is not a family member) who either—
       - **(i)** is serving under a career appointment, or

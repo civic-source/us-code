@@ -3,9 +3,9 @@ title: "Section 44708 - Inspecting and rating air navigation facilities"
 usc_title: 49
 usc_section: "44708"
 chapter: 447
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 44708"
-generated_at: "2026-03-29T23:53:40.256Z"
+generated_at: "2026-03-29T23:57:35.723Z"
 ---
 
 # § 44708. Inspecting and rating air navigation facilities

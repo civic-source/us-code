@@ -3,9 +3,9 @@ title: "Section 3704 - Restrictions on loans"
 usc_title: 38
 usc_section: "3704"
 chapter: 37
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "38 U.S.C. § 3704"
-generated_at: "2026-03-29T23:52:41.965Z"
+generated_at: "2026-03-29T23:56:49.037Z"
 ---
 
 # § 3704. Restrictions on loans
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T23:52:41.965Z"
     - **(B)** a dependent child of the veteran occupies or will occupy the property as a home and the veteran’s attorney-in-fact or legal guardian of the dependent child makes the certification required by paragraph (1) of this subsection.
 - **(d)** Subject to notice and opportunity for a hearing, whenever the Secretary finds with respect to guaranteed or insured loans that any lender or holder has failed to maintain adequate loan accounting records, or to demonstrate proper ability to service loans adequately or to exercise proper credit judgment or has willfully or negligently engaged in practices otherwise detrimental to the interest of veterans or of the Government, the Secretary may refuse either temporarily or permanently to guarantee or insure any loans made by such lender or holder and may bar such lender or holder from acquiring loans guaranteed or insured under this chapter; however, the Secretary shall not refuse to pay a guaranty or insurance claim on loans theretofore entered into in good faith between a veteran and such lender. The Secretary may also refuse either temporarily or permanently to guarantee or insure any loans made by a lender or holder refused the benefits of participation under the National Housing Act pursuant to a determination of the Secretary of Housing and Urban Development.
 - **(e)** Any housing loan which is financed through the assistance of this chapter and to which section 3714 of this chapter applies shall include a provision that the loan is immediately due and payable upon transfer of the property securing such loan to any transferee unless the acceptability of the assumption of the loan is established pursuant to such section 3714.
-- **(f)** A loan for the purchase or construction of new residential property, the construction of which began after the energy efficiency standards under section 109 of the Cranston-Gonzalez National Affordable Housing Act ( 42 U.S.C. 12709 ), as amended by section 101(c) of the Energy Policy Act of 1992, take effect, may not be financed through the assistance of this chapter unless the new residential property is constructed in compliance with such standards.
+- **(f)** A loan for the purchase or construction of new residential property, the construction of which began after the energy efficiency standards under section 109 of the Cranston-Gonzalez National Affordable Housing Act ( 42 U.S.C. 12709 ), as amended by section 101(c) of the Energy Policy Act of 1992, take effect, may not be financed through the assistance of this chapter unless the new residential property is constructed in compliance with the standards established under such section 109, as in effect on the date of such construction.

@@ -1,16 +1,16 @@
 ---
-title: "Section 3059 - Foreign Malign Influence Response Center"
+title: "Section 3059 - Foreign Malign Influence Center"
 usc_title: 50
 usc_section: "3059"
 chapter: 44
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 3059"
-generated_at: "2026-03-29T23:53:23.640Z"
+generated_at: "2026-03-29T23:57:33.287Z"
 ---
 
-# § 3059. Foreign Malign Influence Response Center
+# § 3059. Foreign Malign Influence Center
 
-- **(a)** There is within the Office of the Director of National Intelligence a Foreign Malign Influence Response Center (in this section referred to as the “Center”).
+- **(a)** There is within the Office of the Director of National Intelligence a Foreign Malign Influence Center (in this section referred to as the “Center”).
 - **(b)** The Center shall—
   - **(1)** be comprised of analysts from all elements of the intelligence community, including elements with diplomatic and law enforcement functions;
   - **(2)** have access to all intelligence and other reporting possessed or acquired by the United States Government pertaining to foreign malign influence;
@@ -27,7 +27,14 @@ generated_at: "2026-03-29T23:53:23.640Z"
   - **(2)** Each report under paragraph (1) shall include, with respect to the period covered by the report, a discussion of the following:
     - **(A)** The most significant activities of the Center.
     - **(B)** Any recommendations the Director determines necessary for legislative or other actions to improve the ability of the Center to carry out its functions, including recommendations regarding the protection of privacy and civil liberties.
-- **(e)** In this section:
+- **(e)** After December 31, 2028 , the Director of National Intelligence may terminate the Center, but only if the Director of National Intelligence submits to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives a determination that the termination of the Center is appropriate, which includes—
+  - **(1)** a detailed description that other offices or entities within the intelligence community—
+    - **(A)** have the capabilities to perform the functions of the Center; and
+    - **(B)** will exercise the functions of the Center upon the termination of the Center; and
+  - **(2)** a detailed description of—
+    - **(A)** the actions the Director of National Intelligence will take to conduct an orderly wind-down of the activities of the Center; and
+    - **(B)** the proposed timeline for such actions.
+- **(f)** In this section:
   - **(1)** The term “covered foreign country” means the following:
     - **(A)** The Russian Federation.
     - **(B)** The Islamic Republic of Iran.

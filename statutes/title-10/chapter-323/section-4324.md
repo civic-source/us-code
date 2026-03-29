@@ -3,9 +3,9 @@ title: "Section 4324 - Life-cycle management and product support"
 usc_title: 10
 usc_section: "4324"
 chapter: 323
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 4324"
-generated_at: "2026-03-29T23:50:22.314Z"
+generated_at: "2026-03-29T23:54:20.054Z"
 ---
 
 # § 4324. Life-cycle management and product support
@@ -13,15 +13,19 @@ generated_at: "2026-03-29T23:50:22.314Z"
 - **(a)** The Secretary of Defense shall issue and maintain comprehensive guidance on life-cycle management and the development and implementation of product support strategies for covered systems. The guidance issued pursuant to this subsection shall—
   - **(1)** maximize competition and make the best possible use of available Department of Defense and industry resources at the system, subsystem, and component levels; and
   - **(2)** maximize value to the Department of Defense by providing the best possible product support outcomes at the lowest operations and support cost.
-- **(b)** Before granting Milestone B approval (or the equivalent), the milestone decision authority shall ensure that each covered system has an approved life cycle sustainment plan. The life cycle sustainment plan shall include—
-  - **(1)** a comprehensive product support strategy;
-  - **(2)** performance goals, including key performance parameters for sustainment, key system attributes of the covered system, and other appropriate metrics;
-  - **(3)** an approved life-cycle cost estimate for the covered system;
-  - **(4)** affordability constraints and key cost factors that could affect the operating and support costs of the covered system;
-  - **(5)** sustainment risks and proposed mitigation plans for such risks;
-  - **(6)** engineering and design considerations that support cost-effective sustainment of the covered system;
-  - **(7)** a technical data and intellectual property management plan for product support; and
-  - **(8)** major maintenance and overhaul requirements that will be required during the life cycle of the covered system.
+- **(b)**
+  - **(1)** Before granting Milestone B approval (or the equivalent), the milestone decision authority shall ensure that each covered system has an approved life cycle sustainment plan for which the milestone decision authority has received views from appropriate materiel, logistics, or fleet representatives. The life cycle sustainment plan shall include—
+    - **(A)** a comprehensive product support strategy;
+    - **(B)** performance goals, including key performance parameters for sustainment, key system attributes of the covered system, and other appropriate metrics;
+    - **(C)** an approved life-cycle cost estimate for the covered system;
+    - **(D)** affordability constraints and key cost factors that could affect the operating and support costs of the covered system;
+    - **(E)** sustainment risks and proposed mitigation plans for such risks;
+    - **(F)** engineering and design considerations that support cost-effective sustainment of the covered system;
+    - **(G)** an intellectual property management plan for product support, including requirements for technical data, software, and modular open system approaches (as defined in section 4401 of this title );
+    - **(H)** an estimate of the number of personnel needed to operate and maintain the covered system, including military personnel, Federal employees, contractors, and host nation support personnel (as applicable);
+    - **(I)** a description of opportunities for foreign military sales; and
+    - **(J)** major maintenance and overhaul requirements that will be required during the life cycle of the covered system.
+  - **(2)** Before granting Milestone C approval (or the equivalent) for the covered system, the milestone decision authority shall ensure that the life cycle sustainment plan required by paragraph (1) for such covered system has been updated to include views received by the milestone decision authority from appropriate materiel, logistics, or fleet representatives.
 - **(c)**
   - **(1)** The Secretary of Defense shall require that each covered system be supported by a product support manager in accordance with this subsection.
   - **(2)** A product support manager for a covered system shall—
@@ -48,4 +52,5 @@ generated_at: "2026-03-29T23:50:22.314Z"
     - **(A)** a major defense acquisition program as defined in section 4201 of this title ; or
     - **(B)** an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 2302 note) 1 1 See References in Text note below. that is estimated by the Secretary of Defense to require an eventual total expenditure described in section 4201(a)(2).
   - **(6)** The term “Milestone B approval” has the meaning given that term in section 4172(e)(7) of this title .
-  - **(7)** The term “milestone decision authority” has the meaning given in section 4211(e)(3) of this title .
+  - **(7)** The term “Milestone C approval” has the meaning given that term in section 4172(e)(8) of this title .
+  - **(8)** The term “milestone decision authority” has the meaning given in section 4211(e)(3) of this title .

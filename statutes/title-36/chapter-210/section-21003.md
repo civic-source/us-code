@@ -3,9 +3,9 @@ title: "Section 21003 - Purposes"
 usc_title: 36
 usc_section: "21003"
 chapter: 210
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "36 U.S.C. § 21003"
-generated_at: "2026-03-29T23:52:39.350Z"
+generated_at: "2026-03-29T23:56:42.981Z"
 ---
 
 # § 21003. Purposes

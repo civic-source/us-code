@@ -3,9 +3,9 @@ title: "Section 1387 - Taking of marine mammals incidental to commercial fishing
 usc_title: 16
 usc_section: "1387"
 chapter: 31
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 1387"
-generated_at: "2026-03-29T23:51:16.219Z"
+generated_at: "2026-03-29T23:55:31.142Z"
 ---
 
 # § 1387. Taking of marine mammals incidental to commercial fishing operations
@@ -110,7 +110,7 @@ generated_at: "2026-03-29T23:51:16.219Z"
       - **(ii)** publish in the Federal Register a notice of the team’s establishment, the names of the team’s appointed members, the full geographic range of such stock, and a list of all commercial fisheries that cause incidental mortality and serious injury of marine mammals from such stock.
     - **(B)** The Secretary may request a take reduction team to address a stock that extends over one or more regions or fisheries, or multiple stocks within a region or fishery, if the Secretary determines that doing so would facilitate the development and implementation of plans required under this subsection.
     - **(C)** Members of take reduction teams shall have expertise regarding the conservation or biology of the marine mammal species which the take reduction plan will address, or the fishing practices which result in the incidental mortality and serious injury of such species. Members shall include representatives of Federal agencies, each coastal State which has fisheries which interact with the species or stock, appropriate Regional Fishery Management Councils, interstate fisheries commissions, academic and scientific organizations, environmental groups, all commercial and recreational fisheries groups and gear types which incidentally take the species or stock, Alaska Native organizations or Indian tribal organizations, and others as the Secretary deems appropriate. Take reduction teams shall, to the maximum extent practicable, consist of an equitable balance among representatives of resource user interests and nonuser interests.
-    - **(D)** Take reduction teams shall not be subject to the Federal Advisory Committee Act (5 App. U.S.C.). Meetings of take reduction teams shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.
+    - **(D)** Take reduction teams shall not be subject to chapter 10 of title 5. Meetings of take reduction teams shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.
     - **(E)** Members of take reduction teams shall serve without compensation, but may be reimbursed by the Secretary, upon request, for reasonable travel costs and expenses incurred in performing their duties as members of the team.
   - **(7)** Where the human-caused mortality and serious injury from a strategic stock is estimated to be equal to or greater than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii), the following procedures shall apply in the development of the take reduction plan for the stock:
     - **(A)**

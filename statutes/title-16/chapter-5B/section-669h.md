@@ -3,9 +3,9 @@ title: "Section 669h - Requirements and restrictions concerning use of amounts f
 usc_title: 16
 usc_section: "669h"
 chapter: 5
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 669h"
-generated_at: "2026-03-29T23:51:16.170Z"
+generated_at: "2026-03-29T23:55:31.062Z"
 ---
 
 # § 669h. Requirements and restrictions concerning use of amounts for expenses for administration
@@ -19,11 +19,11 @@ generated_at: "2026-03-29T23:51:16.170Z"
     - **(B)** in the case of costs that are not determinable under subparagraph (A), an amount per employee authorized under paragraph (1) that does not exceed the amount charged or assessed for costs per full-time equivalent employee for any other division or program of the United States Fish and Wildlife Service;
   - **(5)** costs incurred in auditing, every 5 years, the wildlife and sport fish activities of each State fish and game department and the use of funds under section 669e of this title by each State fish and game department;
   - **(6)** costs of audits under subsection (d);
-  - **(7)** costs of necessary training of Federal and State full-time personnel who administer this chapter to improve administration of this chapter;
+  - **(7)** costs of necessary training of Federal and State personnel who administer this chapter to improve administration of this chapter;
   - **(8)** costs of travel to States, territories, and Canada by personnel who—
     - **(A)** administer this chapter for purposes directly related to administration of State programs or projects; or
     - **(B)** administer grants under section 669e, 669h–1, or 669h–2 of this title;
-  - **(9)** costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
+  - **(9)** costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
   - **(10)** relocation expenses for personnel who, after relocation, will administer this chapter on a full-time or part-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter; and
   - **(11)** costs to audit, evaluate, approve, disapprove, and advise concerning grants under sections 669e, 669h–1, and 669h–2 of this title.
 - **(b)**

@@ -3,9 +3,9 @@ title: "Section 2753 - Notification of cost overruns for certain Department of E
 usc_title: 50
 usc_section: "2753"
 chapter: 42
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 2753"
-generated_at: "2026-03-29T23:53:23.633Z"
+generated_at: "2026-03-29T23:57:33.279Z"
 ---
 
 # § 2753. Notification of cost overruns for certain Department of Energy projects
@@ -19,15 +19,15 @@ generated_at: "2026-03-29T23:53:23.633Z"
     - **(A)** The Administrator shall establish a cost and schedule baseline for each major alteration project.
     - **(B)** The cost baseline developed under subparagraph (A) shall include, with respect to each major alteration project, an estimated cost for each warhead in the project.
     - **(C)** Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Administrator shall submit the cost and schedule baseline to the congressional defense committees.
-    - **(D)** In this paragraph, the term “major alteration project” means a nuclear weapon system alteration project of the Administration the cost of which exceeds $750,000,000.
+    - **(D)** In this paragraph, the term “major alteration project” means a nuclear weapon system alteration project of the Administration the cost of which exceeds $800,000,000.
   - **(3)**
     - **(A)** The Secretary of Energy shall establish a cost and schedule baseline under the project management protocols of the Department of Energy for each construction project that is—
-      - **(i)** in excess of $50,000,000; and
+      - **(i)** in excess of $65,000,000; and
       - **(ii)** carried out by the Department using funds authorized to be appropriated for a fiscal year pursuant to a DOE national security authorization.
     - **(B)** Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Secretary shall submit the cost and schedule baseline to the congressional defense committees.
   - **(4)**
     - **(A)** The Secretary shall establish a cost and schedule baseline under the project management protocols of the Department of Energy for each defense environmental cleanup project that is—
-      - **(i)** in excess of $50,000,000; and
+      - **(i)** in excess of $65,000,000; and
       - **(ii)** carried out by the Department pursuant to such protocols.
     - **(B)** Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Secretary shall submit the cost and schedule baseline to the congressional defense committees.
 - **(b)** The Administrator or the Secretary, as applicable, shall notify the congressional defense committees not later than 30 days after determining that—

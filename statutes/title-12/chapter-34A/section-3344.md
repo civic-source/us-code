@@ -3,9 +3,9 @@ title: "Section 3344 - Time for proposal and adoption of rules"
 usc_title: 12
 usc_section: "3344"
 chapter: 34
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "12 U.S.C. § 3344"
-generated_at: "2026-03-29T23:51:02.388Z"
+generated_at: "2026-03-29T23:54:34.995Z"
 ---
 
 # § 3344. Time for proposal and adoption of rules

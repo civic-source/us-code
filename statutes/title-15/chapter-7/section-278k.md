@@ -3,9 +3,9 @@ title: "Section 278k - Hollings Manufacturing Extension Partnership"
 usc_title: 15
 usc_section: "278k"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 278k"
-generated_at: "2026-03-29T23:50:50.523Z"
+generated_at: "2026-03-29T23:54:56.029Z"
 ---
 
 # § 278k. Hollings Manufacturing Extension Partnership
@@ -152,8 +152,8 @@ generated_at: "2026-03-29T23:50:50.523Z"
       - **(ii)** assessments of the soundness of the plans and strategies of the Program; and
       - **(iii)** assessments of current performance against the plans of the Program.
   - **(4)**
-    - **(A)** In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.).
-    - **(B)** Section 14 of the Federal Advisory Committee Act shall not apply to the MEP Advisory Board.
+    - **(A)** In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with chapter 10 of title 5.
+    - **(B)** Section 1013 of title 5 shall not apply to the MEP Advisory Board.
   - **(5)**
     - **(A)** At a minimum, the MEP Advisory Board shall transmit an annual report to the Secretary for transmittal to Congress not later than 30 days after the submission to Congress of the President’s annual budget under section 1105 of title 31 .
     - **(B)** The report shall address the status of the Program and describe the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of section 278i 4 4 See References in Text note below. of this title.

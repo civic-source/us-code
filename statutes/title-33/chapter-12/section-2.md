@@ -3,57 +3,47 @@ title: "Section 2 - Deauthorization of inactive projects"
 usc_title: 33
 usc_section: "2"
 chapter: 12
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-29T23:52:21.918Z"
+generated_at: "2026-03-29T23:56:30.029Z"
 ---
 
 # § 579d–2. Deauthorization of inactive projects
 
 - **(a)** The purposes of this section are—
-  - **(1)** to identify water resources development projects authorized by Congress that are no longer viable for construction due to—
+  - **(1)** to identify water resources development projects, and separable elements of projects, authorized by Congress that are no longer viable for construction due to—
     - **(A)** a lack of local support;
     - **(B)** a lack of available Federal or non-Federal resources; or
     - **(C)** an authorizing purpose that is no longer relevant or feasible;
-  - **(2)** to create an expedited and definitive process for Congress to deauthorize water resources development projects that are no longer viable for construction; and
-  - **(3)** to allow the continued authorization of water resources development projects that are viable for construction.
+  - **(2)** to create an expedited and definitive process for Congress to deauthorize water resources development projects and separable elements that are no longer viable for construction; and
+  - **(3)** to allow the continued authorization of water resources development projects and separable elements that are viable for construction.
 - **(b)**
   - **(1)**
     - **(A)** The Secretary shall develop a preliminary list of each water resources development project, or separable element of a project, authorized for construction before November 8, 2007 , for which—
-      - **(i)** planning, design, or construction was not initiated before December 27, 2020 ; or
-      - **(ii)** planning, design, or construction was initiated before December 27, 2020 , but for which no funds, Federal or non-Federal, were obligated for planning, design, or construction of the project or separable element of the project during the current fiscal year or any of the 10 preceding fiscal years.
+      - **(i)** planning, design, or construction was not initiated before the date of enactment of this Act; or
+      - **(ii)** planning, design, or construction was initiated before the date of enactment of this Act, but for which no funds, Federal or non-Federal, were obligated for planning, design, or construction of the project or separable element of the project during the current fiscal year or any of the 10 preceding fiscal years.
     - **(B)** The Secretary may develop the preliminary list from the comprehensive construction backlog and operation and maintenance reports developed pursuant to section 579a(b)(2) of this title .
-    - **(C)** The Secretary shall not include on the preliminary list—
-      - **(i)** an environmental infrastructure assistance project authorized to be carried out by the Secretary (including a project authorized pursuant to an environmental assistance program); or
-      - **(ii)** a project or separable element of a project authorized as part of the Comprehensive Everglades Restoration Plan described in section 601 of the Water Resources Development Act of 2000 ( 114 Stat. 2680 ).
   - **(2)**
-    - **(A)** The Secretary shall prepare a proposed list of projects for deauthorization comprised of a subset of projects and separable elements identified on the preliminary list developed under paragraph (1) that have, in the aggregate, an estimated Federal cost to complete that is at least $10,000,000,000.
+    - **(A)** The Secretary shall—
+      - **(i)** prepare a proposed list of projects for deauthorization comprised of a subset of projects and separable elements identified on the preliminary list developed under paragraph (1) that are projects or separable elements described in subsection (a)(1), as determined by the Secretary; and
+      - **(ii)** include with such proposed list an estimate, in the aggregate, of the Federal cost to complete such projects.
     - **(B)** For purposes of subparagraph (A), the Federal cost to complete shall take into account any allowances authorized by section 2280 of this title , as applied to the most recent project schedule and cost estimate.
-    - **(C)** The Secretary shall reduce the amount identified for deauthorization under paragraph (2)(A) by an amount equivalent to the estimated current value of each project, or separable element of a project, that is deauthorized by subsection (f).
   - **(3)**
-    - **(A)** The Secretary shall identify projects and separable elements for inclusion on the proposed list of projects for deauthorization under paragraph (2) according to the order in which the projects and separable elements were authorized, beginning with the earliest authorized projects and separable elements and ending with the latest project or separable element necessary to meet the aggregate amount under paragraph (2)(A).
-    - **(B)** The Secretary may identify projects and separable elements in an order other than that established by subparagraph (A) if the Secretary determines, on a case-by-case basis, that a project or separable element is critical for interests of the United States, based on the possible impact of the project or separable element on public health and safety, the national economy, or the environment.
-  - **(4)**
     - **(A)** The Secretary shall solicit comments from the public and the Governors of each applicable State on the proposed deauthorization list prepared under paragraph (2)(A).
     - **(B)** The public comment period shall be 90 days.
-  - **(5)**
+  - **(4)**
     - **(A)** The Secretary shall prepare a final deauthorization list by—
-      - **(i)** considering any comments received under paragraph (4); and
+      - **(i)** considering any comments received under paragraph (3); and
       - **(ii)** revising the proposed deauthorization list prepared under paragraph (2)(A) as the Secretary determines necessary to respond to such comments.
     - **(B)** The Secretary shall include as part of the final deauthorization list an appendix that—
       - **(i)** identifies each project or separable element on the proposed deauthorization list that is not included on the final deauthorization list; and
       - **(ii)** describes the reasons why the project or separable element is not included on the final deauthorization list.
 - **(c)**
-  - **(1)** Not later than 90 days after the date of the close of the comment period under subsection (b)(4), the Secretary shall—
-    - **(A)** submit the final deauthorization list and appendix prepared under subsection (b)(5) to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate; and
+  - **(1)** Not later than 90 days after the date of the close of the comment period under subsection (b)(3), the Secretary shall—
+    - **(A)** submit the final deauthorization list and appendix prepared under subsection (b)(4) to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate; and
     - **(B)** publish the final deauthorization list and appendix in the Federal Register.
   - **(2)** The Secretary shall not include in the final deauthorization list submitted under paragraph (1) any project or separable element with respect to which Federal funds for planning, design, or construction are obligated after the development of the preliminary list under subsection (b)(1)(A) but prior to the submission of the final deauthorization list under paragraph (1)(A) of this subsection.
 - **(d)**
-  - **(1)** After the expiration of the 2-year period beginning on the date of publication of the final deauthorization list and appendix under subsection (c)(1)(B), a project or separable element of a project identified in the final deauthorization list is hereby deauthorized, unless Congress passes a joint resolution disapproving the final deauthorization list prior to the end of such period.
-  - **(2)**
-    - **(A)** A project or separable element of a project identified in the final deauthorization list under subsection (c) shall not be deauthorized under this subsection if, before the expiration of the 2-year period referred to in paragraph (1), the non-Federal interest for the project or separable element of the project provides sufficient funds to complete the project or separable element of the project.
-    - **(B)** Notwithstanding subparagraph (A), each project and separable element of a project identified in the final deauthorization list shall be treated as deauthorized for purposes of the aggregate deauthorization amount specified in subsection (b)(2)(A).
-  - **(3)** A project or separable element of a project identified in the appendix to the final deauthorization list shall remain subject to future deauthorization by Congress.
 - **(e)**
   - **(1)** A project or separable element of a project may not be identified on the proposed deauthorization list developed under subsection (b), or the final deauthorization list developed under subsection (c), if the project or separable element received funding for a post-authorization study during the current fiscal year or any of the 10 preceding fiscal years.
   - **(2)** For purposes of this section, if an authorized water resources development project or separable element of the project has been modified by an Act of Congress, the date of the authorization of the project or separable element shall be deemed to be the date of the most recent such modification.

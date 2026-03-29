@@ -3,9 +3,9 @@ title: "Section 14308 - Promotions: how made"
 usc_title: 10
 usc_section: "14308"
 chapter: 1405
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 14308"
-generated_at: "2026-03-29T23:50:22.355Z"
+generated_at: "2026-03-29T23:54:20.101Z"
 ---
 
 # § 14308. Promotions: how made
@@ -33,5 +33,9 @@ generated_at: "2026-03-29T23:50:22.355Z"
   - **(2)** an officer in a grade below colonel in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a vacancy promotion board convened under section 14101(a) of this title may be promoted at any time to fill the vacancy for which the officer was selected.
 - **(f)**
   - **(1)** The effective date of a promotion of a reserve commissioned officer of the Army or the Air Force who is extended Federal recognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
-  - **(2)** If the Secretary concerned determines that there was an undue delay in extending Federal recognition in the next higher grade in the Army National Guard or the Air National Guard to a reserve commissioned officer of the Army or the Air Force, and the delay was not attributable to the action (or inaction) of such officer, the effective date of the promotion concerned under paragraph (1) may be adjusted to a date determined by the Secretary concerned, but not earlier than the effective date of the State promotion.
+  - **(2)** If there is a delay in extending Federal recognition in the next higher grade in the Army National Guard or the Air National Guard to a reserve commissioned officer of the Army or the Air Force that exceeds 100 days from the date the National Guard Bureau deems such officer’s application for Federal recognition to be completely submitted by the State and ready for review at the National Guard Bureau, and the delay was not attributable to the action or inaction of such officer—
+    - **(A)** in the event of State promotion with an effective date before January 1, 2024 , the effective date of the promotion concerned under paragraph (1) may be adjusted to a date determined by the Secretary concerned, but not earlier than the effective date of the State promotion; and
+    - **(B)** in the event of State promotion with an effective date on or after January 1, 2024 , the effective date of the promotion concerned under paragraph (1) shall be adjusted by the Secretary concerned to the later of—
+      - **(i)** the date the National Guard Bureau deems such officer’s application for Federal recognition to be completely submitted by the State and ready for review at the National Guard Bureau; and
+      - **(ii)** the date on which the officer occupies a billet in the next higher grade.
 - **(g)** A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.

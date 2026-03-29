@@ -3,9 +3,9 @@ title: "Section 3315 - Licensure and certification tests"
 usc_title: 38
 usc_section: "3315"
 chapter: 33
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "38 U.S.C. § 3315"
-generated_at: "2026-03-29T23:52:41.957Z"
+generated_at: "2026-03-29T23:56:49.029Z"
 ---
 
 # § 3315. Licensure and certification tests

@@ -1,0 +1,19 @@
+---
+title: "Section 3357 - Findings and statement of policy"
+usc_title: 22
+usc_section: "3357"
+chapter: 48
+current_through: "PL 118-3"
+classification: "22 U.S.C. § 3357"
+generated_at: "2026-03-29T23:55:52.454Z"
+---
+
+# § 3357. Findings and statement of policy
+
+- **(a)** Congress finds the following:
+  - **(1)** Advancing peace and stability in the Indo-Pacific has been a central element of United States foreign policy toward the region.
+  - **(2)** The Government of the People’s Republic of China (PRC), especially since the election of Tsai Ing-Wen in 2016, has conducted a coordinated campaign to weaken Taiwan diplomatically, economically, and militarily in a manner that threatens to erode United States policy and create a fait accompli on questions surrounding Taiwan’s future.
+  - **(3)** To secure United States interests and preserve the ability of the people of Taiwan to determine their own future, it is necessary to reinforce Taiwan’s diplomatic, economic, and territorial space.
+- **(b)** It is the policy of the United States to—
+  - **(1)** maintain the position that peace and stability in the Western Pacific are in the political, security, and economic interests of the United States, and are matters of international concern; and
+  - **(2)** work with allies and partners to promote peace and stability in the Indo-Pacific and deter military acts or other forms of coercive behavior that would undermine regional stability.

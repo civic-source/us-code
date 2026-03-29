@@ -3,9 +3,9 @@ title: "Section 403 - Taxation of employee annuities"
 usc_title: 26
 usc_section: "403"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 403"
-generated_at: "2026-03-29T23:52:10.110Z"
+generated_at: "2026-03-29T23:56:24.758Z"
 ---
 
 # § 403. Taxation of employee annuities
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T23:52:10.110Z"
   - **(5)** If for any taxable year of the employee this subsection applies to 2 or more annuity contracts purchased by the employer, such contracts shall be treated as one contract.
   - **[(6)**
   - **(7)**
-    - **(A)** For purposes of this title, amounts paid by an employer described in paragraph (1)(A) to a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as amounts contributed by him for an annuity contract for his employee if the amounts are to be invested in regulated investment company stock to be held in that custodial account, and under the custodial account—
+    - **(A)** For purposes of this title, amounts paid by an employer described in paragraph (1)(A) to a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as amounts contributed by him for an annuity contract for his employee if the amounts are to be held in that custodial account and are invested in regulated investment company stock or a group trust intended to satisfy the requirements of Internal Revenue Service Revenue Ruling 81–100 (or any successor guidance), and under the custodial account—
       - **(i)** no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before—
         - **(I)** the employee dies,
         - **(II)** the employee attains age 59½,
@@ -52,6 +52,9 @@ generated_at: "2026-03-29T23:52:10.110Z"
       - **(ii)** in the case of amounts described in clause (i)(VI), such amounts will be distributed only in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
     - **(B)** For purposes of this title, a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as an organization described in section 401(a) solely for purposes of subchapter F and subtitle F with respect to amounts received by it (and income from investment thereof).
     - **(C)** For purposes of this paragraph, the term “regulated investment company” means a domestic corporation which is a regulated investment company within the meaning of section 851(a).
+    - **(D)** In determining whether a distribution is upon the financial hardship of an employee, the administrator of the plan may rely on a written certification by the employee that the distribution is—
+      - **(i)** on account of a financial need of a type which is deemed in regulations prescribed by the Secretary to be an immediate and heavy financial need, and
+      - **(ii)** not in excess of the amount required to satisfy such financial need, and
   - **(8)**
     - **(A)** If—
       - **(i)** any portion of the balance to the credit of an employee in an annuity contract described in paragraph (1) is paid to him in an eligible rollover distribution (within the meaning of section 402(c)(4)),
@@ -81,4 +84,9 @@ generated_at: "2026-03-29T23:52:10.110Z"
     - **(A)** for the purchase of permissive service credit (as defined in section 415(n)(3)(A)) under such plan, or
     - **(B)** a repayment to which section 415 does not apply by reason of subsection (k)(3) thereof.
   - **(14)** This subsection shall not apply to an annuity contract unless such contract meets the requirements of section 401(a)(37).
+  - **(15)**
+    - **(A)** Except in the case of a church plan, this subsection shall not be treated as failing to apply to an annuity contract solely by reason of such contract being purchased under a plan maintained by more than 1 employer.
+    - **(B)**
+      - **(i)** In the case of a plan maintained by more than 1 employer, this subsection shall not be treated as failing to apply to an annuity contract held under such plan merely because of one or more employers failing to meet the requirements of this subsection if such plan satisfies rules similar to the rules of section 413(e)(2) with respect to any such employer failure.
+      - **(ii)** A plan shall not be treated as meeting the requirements of this subparagraph unless the plan satisfies rules similar to the rules of subparagraph (A) or (B) of section 413(e)(1), except in the case of a multiple employer plan maintained solely by any of the following: A State, a political subdivision of a State, or an agency or instrumentality of any one or more of the foregoing.
 - **(c)** Premiums paid by an employer for an annuity contract which is not subject to subsection (a) shall be included in the gross income of the employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of such contract shall be substituted for the fair market value of the property for purposes of applying such section. The preceding sentence shall not apply to that portion of the premiums paid which is excluded from gross income under subsection (b). In the case of any portion of any contract which is attributable to premiums to which this subsection applies, the amount actually paid or made available under such contract to any beneficiary which is attributable to such premiums shall be taxable to the beneficiary (in the year in which so paid or made available) under section 72 (relating to annuities).

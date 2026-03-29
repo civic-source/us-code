@@ -3,9 +3,9 @@ title: "Section 408A - Roth IRAs"
 usc_title: 26
 usc_section: "408A"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 408A"
-generated_at: "2026-03-29T23:52:10.112Z"
+generated_at: "2026-03-29T23:56:24.761Z"
 ---
 
 # § 408A. Roth IRAs
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T23:52:10.112Z"
 - **(c)**
   - **(1)** No deduction shall be allowed under section 219 for a contribution to a Roth IRA.
   - **(2)** The aggregate amount of contributions for any taxable year to all Roth IRAs maintained for the benefit of an individual shall not exceed the excess (if any) of—
-    - **(A)** the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (d)(1) 1 1 See References in Text note below. or (g) of such section), over
+    - **(A)** the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (g) of such section), over
     - **(B)** the aggregate amount of contributions for such taxable year to all other individual retirement plans (other than Roth IRAs) maintained for the benefit of the individual.
   - **(3)**
     - **(A)** The amount determined under paragraph (2) for any taxable year shall not exceed an amount equal to the amount determined under paragraph (2)(A) for such taxable year, reduced (but not below zero) by the amount which bears the same ratio to such amount as—
@@ -48,7 +48,7 @@ generated_at: "2026-03-29T23:52:10.112Z"
       - **(ii)** made to a beneficiary (or to the estate of the individual) on or after the death of the individual,
       - **(iii)** attributable to the individual’s being disabled (within the meaning of section 72(m)(7)), or
       - **(iv)** which is a qualified special purpose distribution.
-    - **(B)** A payment or distribution from a Roth IRA shall not be treated as a qualified distribution under subparagraph (A) if such payment or distribution is made within the 5-taxable year period beginning with the first taxable year for which the individual made a contribution to a Roth IRA (or such individual’s spouse made a contribution to a Roth IRA) established for such individual.
+    - **(B)** A payment or distribution from a Roth IRA shall not be treated as a qualified distribution under subparagraph (A) if such payment or distribution is made within the 5-taxable year period beginning with the first taxable year for which the individual made a contribution to a Roth IRA (or such individual’s spouse, or employer in the case of a simple retirement account (as defined in section 408(p)) or simplified employee pension (as defined in section 408(k)), made a contribution to a Roth IRA) established for such individual.
     - **(C)** The term “qualified distribution” shall not include any distribution of any contribution described in section 408(d)(4) and any net income allocable to the contribution.
   - **(3)**
     - **(A)** Notwithstanding sections 402(c), 403(b)(8), 408(d)(3), and 457(e)(16), in the case of any distribution to which this paragraph applies—
@@ -97,6 +97,4 @@ generated_at: "2026-03-29T23:52:10.112Z"
       - **(ii)** the amounts so received which were contributed to a Coverdell education savings account under section 530(d)(9).
     - **(B)** Section 408(d)(3)(B) shall not apply with respect to amounts treated as a rollover by subparagraph (A).
     - **(C)** For purposes of applying section 72 in the case of a distribution which is not a qualified distribution, the amount treated as a rollover by reason of subparagraph (A) shall be treated as investment in the contract.
-- **(f)** For purposes of this section—
-  - **(1)** a simplified employee pension or a simple retirement account may not be designated as a Roth IRA; and
-  - **(2)** contributions to any such pension or account shall not be taken into account for purposes of subsection (c)(2)(B).
+  - **(3)** In the case of any payment or distribution out of a simple retirement account (as defined in section 408(p)) with respect to which an election has been made under section 408(p)(12) and to which 72(t)(6) applies, the term “qualified rollover contribution” shall not include any payment or distribution paid into an account other than another simple retirement account (as so defined).

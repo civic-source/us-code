@@ -3,9 +3,9 @@ title: "Section 2776 - Payments at time of discharge for good of service"
 usc_title: 14
 usc_section: "2776"
 chapter: 27
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "14 U.S.C. § 2776"
-generated_at: "2026-03-29T23:51:04.217Z"
+generated_at: "2026-03-29T23:54:25.495Z"
 ---
 
 # § 2776. Payments at time of discharge for good of service

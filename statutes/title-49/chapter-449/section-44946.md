@@ -3,9 +3,9 @@ title: "Section 44946 - Aviation Security Advisory Committee"
 usc_title: 49
 usc_section: "44946"
 chapter: 449
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 44946"
-generated_at: "2026-03-29T23:53:40.265Z"
+generated_at: "2026-03-29T23:57:35.732Z"
 ---
 
 # § 44946. Aviation Security Advisory Committee
@@ -48,7 +48,7 @@ generated_at: "2026-03-29T23:53:40.265Z"
   - **(3)** Each subcommittee shall meet at least quarterly and submit to the Advisory Committee for inclusion in the annual report required under subsection (b)(4) information, including recommendations, regarding issues within the subcommittee.
   - **(4)** Each subcommittee shall be co-chaired by a Government official and an industry official.
 - **(e)** Each subcommittee under this section shall include subject matter experts with relevant expertise who are appointed by the respective subcommittee chairpersons.
-- **(f)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee and its subcommittees.
+- **(f)** Chapter 10 of title 5 shall not apply to the Advisory Committee and its subcommittees.
 - **(g)** In this section:
   - **(1)** The term “Administrator” means the Administrator of the Transportation Security Administration.
   - **(2)** The term “Advisory Committee” means the aviation security advisory committee established under subsection (a).

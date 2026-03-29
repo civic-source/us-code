@@ -3,9 +3,9 @@ title: "Section 45X - Advanced manufacturing production credit"
 usc_title: 26
 usc_section: "45X"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 45X"
-generated_at: "2026-03-29T23:52:10.052Z"
+generated_at: "2026-03-29T23:56:24.695Z"
 ---
 
 # § 45X. Advanced manufacturing production credit

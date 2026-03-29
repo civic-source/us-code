@@ -3,9 +3,9 @@ title: "Section 2 - Activities of the Food and Drug Administration"
 usc_title: 21
 usc_section: "2"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 2"
-generated_at: "2026-03-29T23:51:22.732Z"
+generated_at: "2026-03-29T23:55:43.350Z"
 ---
 
 # § 379dd–2. Activities of the Food and Drug Administration

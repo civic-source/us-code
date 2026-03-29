@@ -3,9 +3,9 @@ title: "Section 1616 - Community Health Representative Program"
 usc_title: 25
 usc_section: "1616"
 chapter: 18
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "25 U.S.C. § 1616"
-generated_at: "2026-03-29T23:51:20.029Z"
+generated_at: "2026-03-29T23:55:39.352Z"
 ---
 
 # § 1616. Community Health Representative Program

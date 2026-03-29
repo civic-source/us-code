@@ -3,9 +3,9 @@ title: "Section 106 - Federal Aviation Administration"
 usc_title: 49
 usc_section: "106"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 106"
-generated_at: "2026-03-29T23:53:40.176Z"
+generated_at: "2026-03-29T23:57:35.633Z"
 ---
 
 # § 106. Federal Aviation Administration
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T23:53:40.176Z"
   - **(2)** be a civilian; and
   - **(3)** have experience in a field directly related to aviation.
 - **(d)**
-  - **(1)** The Administration has a Deputy Administrator, who shall be appointed by the President. In making an appointment, the President shall consider the fitness of the appointee to efficiently carry out the duties and powers of the office. The Deputy Administrator shall be a citizen of the United States and have experience in a field directly related to aviation. An officer on active duty in an armed force may be appointed as Deputy Administrator. However, if the Administrator is a former regular officer of an armed force, the Deputy Administrator may not be an officer on active duty in an armed force, a retired regular officer of an armed force, or a former regular officer of an armed force.
+  - **(1)** The Administration has a Deputy Administrator, who shall be appointed by the President. In making an appointment, the President shall consider the fitness of the appointee to efficiently carry out the duties and powers of the office. The Deputy Administrator shall be a citizen of the United States and have experience in a field directly related to aviation. An officer on active duty in an armed force may be appointed as Deputy Administrator. However, if the Administrator is a former regular officer of an armed force, the Deputy Administrator may not be an officer on active duty in an armed force.
   - **(2)** The annual rate of basic pay of the Deputy Administrator shall be set by the Secretary but shall not exceed the annual rate of basic pay payable to the Administrator of the Federal Aviation Administration.
   - **(3)** An officer on active duty or a retired officer serving as Deputy Administrator is entitled to hold a rank and grade not lower than that held when appointed as Deputy Administrator. The Deputy Administrator may elect to receive (A) the pay provided by law for the Deputy Administrator, or (B) the pay and allowances or the retired pay of the military grade held. If the Deputy Administrator elects to receive the military pay and allowances or retired pay, the Administration shall reimburse the appropriate military department from funds available for the expenses of the Administration.
   - **(4)** The appointment and service of a member of the armed forces as a Deputy Administrator does not affect the status, office, rank, or grade held by that member, or a right or benefit arising from the status, office, rank, or grade. The Secretary of a military department does not control the member when the member is carrying out duties and powers of the Deputy Administrator.
@@ -127,7 +127,7 @@ generated_at: "2026-03-29T23:53:40.176Z"
       - **(iii)** The Council shall review the process through which the Administration determines to use advisory circulars and service bulletins.
     - **(B)** The Council shall meet on a regular and periodic basis or at the call of the chairman or of the Administrator.
     - **(C)** The Administration may give the Council or Air Traffic Services Committee appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under section 552 of title 5 (commonly known as the “Freedom of Information Act”), cost data associated with the acquisition and operation of air traffic service systems. Any member of the Council or Air Traffic Services Committee who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of section 1905 of title 18 , pertaining to unauthorized disclosure of such information.
-  - **(5)** The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to the Council, the Air Traffic Services Committee, such aviation rulemaking committees as the Administrator shall designate, or such aerospace rulemaking committees as the Secretary shall designate.
+  - **(5)** Chapter 10 of title 5 does not apply to the Council, the Air Traffic Services Committee, such aviation rulemaking committees as the Administrator shall designate, or such aerospace rulemaking committees as the Secretary shall designate.
   - **(6)**
     - **(A)** Members of the Council appointed under paragraph (2)(C) shall be appointed for a term of 3 years. Of the members first appointed by the President under paragraph (2)(C)—
       - **(i)** 3 shall be appointed for terms of 1 year;
@@ -146,7 +146,7 @@ generated_at: "2026-03-29T23:53:40.176Z"
         - **(II)** to affect any other right or remedy against the United States under applicable law; or
         - **(III)** to limit or alter in any way the immunities that are available under applicable law for Federal officers and employees.
     - **(I)**
-      - **(i)** During the entire period that an individual is serving as a member of the Committee, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act; except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
+      - **(i)** During the entire period that an individual is serving as a member of the Committee, such individual shall be treated as serving as an officer or employee referred to in section 13103(f) of title 5 for purposes of subchapter I of chapter 131 of such title; except that section 13103(d) of such title shall apply without regard to the number of days of service in the position.
       - **(ii)** For purposes of section 207(c) of title 18 , an individual who is a member of the Committee shall be treated as an employee referred to in section 207(c)(2)(A)(i) of such title during the entire period the individual is a member of the Committee; except that subsections (c)(2)(B) and (f) of section 207 of such title shall not apply.
     - **(J)** The Council shall elect a chair and a vice chair from among the members appointed under paragraph (2)(C), each of whom shall serve for a term of 1 year. The vice chair shall perform the duties of the chairman in the absence of the chairman.
     - **(K)** Each member of the Council or Committee shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from his or her usual place of residence, in accordance with section 5703 of title 5 .

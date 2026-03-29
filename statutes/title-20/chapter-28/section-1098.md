@@ -3,9 +3,9 @@ title: "Section 1098 - Advisory Committee on Student Financial Assistance"
 usc_title: 20
 usc_section: "1098"
 chapter: 28
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "20 U.S.C. § 1098"
-generated_at: "2026-03-29T23:51:10.477Z"
+generated_at: "2026-03-29T23:55:05.377Z"
 ---
 
 # § 1098. Advisory Committee on Student Financial Assistance
@@ -71,7 +71,7 @@ generated_at: "2026-03-29T23:51:10.477Z"
   - **(3)** assess and make recommendations concerning the feasibility and degree of use of appropriate technology in the application for, and delivery and management of, financial assistance under this subchapter, as well as policies that promote use of such technology to reduce cost and enhance service and program integrity, including electronic application and reapplication, just-in-time delivery of funds, reporting of disbursements and reconciliation;
   - **(4)** conduct a review and analysis of regulations in accordance with subsection ( l ); and
   - **(5)** conduct a study in accordance with subsection (m).
-- **(k)** Notwithstanding the sunset and charter provisions of the Federal Advisory Committee Act or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 2015 .
+- **(k)** Notwithstanding the sunset and charter provisions of chapter 10 of title 5 or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 2015 .
 - **(l)**
   - **(1)** The Advisory Committee shall make recommendations to the Secretary and the authorizing committees for consideration of future legislative action regarding redundant or outdated regulations consistent with the Secretary’s requirements under section 1099c–2 of this title .
   - **(2)**

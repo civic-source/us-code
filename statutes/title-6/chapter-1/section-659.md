@@ -3,26 +3,15 @@ title: "Section 659 - National cybersecurity and communications integration cent
 usc_title: 6
 usc_section: "659"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "6 U.S.C. § 659"
-generated_at: "2026-03-29T23:50:11.203Z"
+generated_at: "2026-03-29T23:54:07.955Z"
 ---
 
 # § 659. National cybersecurity and communications integration center
 
-- **(a)** In this section—
-  - **(1)** the term “cybersecurity purpose” has the meaning given that term in section 102 of the Cybersecurity Information Sharing Act of 2015 ( 6 U.S.C. 1501 );
-  - **(2)** the term “cybersecurity risk”—
-    - **(A)** means threats to and vulnerabilities of information or information systems and any related consequences caused by or resulting from unauthorized access, use, disclosure, degradation, disruption, modification, or destruction of such information or information systems, including such related consequences caused by an act of terrorism; and
-    - **(B)** does not include any action that solely involves a violation of a consumer term of service or a consumer licensing agreement;
-  - **(3)** the terms “cyber threat indicator” and “defensive measure” have the meanings given those terms in section 102 of the Cybersecurity Act of 2015 [ 6 U.S.C. 1501 ];
-  - **(4)** the term “cybersecurity vulnerability” has the meaning given the term “security vulnerability” in section 102 of the Cybersecurity Information Sharing Act of 2015 ( 6 U.S.C. 1501 );
-  - **(5)** the term “incident” means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system;
-  - **(6)** the term “information sharing and analysis organization” has the meaning given that term in section 671(5) of this title ;
-  - **(7)** the term “information system” has the meaning given that term in section 3502(8) of title 44 ;
-  - **(8)** the term “security vulnerability” has the meaning given that term in section 102 of the Cybersecurity Information Sharing Act of 2015 ( 6 U.S.C. 1501 ); and
-  - **(9)** the term “sharing” (including all conjugations thereof) means providing, receiving, and disseminating (including all conjugations of each of such terms).
-- **(b)** There is in the Department a national cybersecurity and communications integration center (referred to in this section as the “Center”) to carry out certain responsibilities of the Director. The Center shall be located in the Cybersecurity and Infrastructure Security Agency. The head of the Center shall report to the Assistant Director for Cybersecurity.
+- **(a)** The term “cybersecurity vulnerability” has the meaning given the term “security vulnerability” in section 650 of this title .
+- **(b)** There is in the Department a national cybersecurity and communications integration center (referred to in this section as the “Center”) to carry out certain responsibilities of the Director. The Center shall be located in the Cybersecurity and Infrastructure Security Agency. The head of the Center shall report to the Executive Assistant Director for Cybersecurity.
 - **(c)** The cybersecurity functions of the Center shall include—
   - **(1)** being a Federal civilian interface for the multi-directional and cross-sector sharing of information related to cyber threat indicators, defensive measures, cybersecurity risks, incidents, analysis, and warnings for Federal and non-Federal entities, including the implementation of title I of the Cybersecurity Act of 2015 [ 6 U.S.C. 1501 et seq.];
   - **(2)** providing shared situational awareness to enable real-time, integrated, and operational actions across the Federal Government and non-Federal entities to address cybersecurity risks and incidents to Federal and non-Federal entities;
@@ -50,10 +39,10 @@ generated_at: "2026-03-29T23:50:11.203Z"
     - **(A)** appropriate representatives of Federal entities, such as—
       - **(i)** sector-specific agencies;
       - **(ii)** civilian and law enforcement agencies; and
-      - **(iii)** elements of the intelligence community, as that term is defined under section 3003(4) of title 50 ;
+      - **(iii)** elements of the intelligence community;
     - **(B)** appropriate representatives of non-Federal entities, such as—
       - **(i)** State, local, and tribal governments;
-      - **(ii)** information sharing and analysis organizations, including information sharing and analysis centers;
+      - **(ii)** Information Sharing and Analysis Organizations, including information sharing and analysis centers;
       - **(iii)** owners and operators of critical information systems; and
       - **(iv)** private entities, including cybersecurity specialists;
     - **(C)** components within the Center that carry out cybersecurity and communications activities;
@@ -71,7 +60,7 @@ generated_at: "2026-03-29T23:50:11.203Z"
       - **(i)** across sectors; and
       - **(ii)** with—
         - **(I)** sector coordinating councils;
-        - **(II)** information sharing and analysis organizations; and
+        - **(II)** Information Sharing and Analysis Organizations; and
         - **(III)** other appropriate non-Federal partners;
     - **(F)** as appropriate, the Center works to develop and use mechanisms for sharing information related to cyber threat indicators, defensive measures, cybersecurity risks, and incidents that are technology-neutral, interoperable, real-time, cost-effective, and resilient;
     - **(G)** the Center works with other agencies to reduce unnecessarily duplicative sharing of information related to cyber threat indicators, defensive measures, cybersecurity risks, and incidents;
@@ -185,7 +174,7 @@ generated_at: "2026-03-29T23:50:11.203Z"
   - **(3)** provide cybersecurity technical assistance to industry end-users, product manufacturers, Sector Risk Management Agencies, other Federal agencies, and other industrial control system stakeholders to identify, evaluate, assess, and mitigate vulnerabilities;
   - **(4)** collect, coordinate, and provide vulnerability information to the industrial control systems community by, as appropriate, working closely with security researchers, industry end-users, product manufacturers, Sector Risk Management Agencies, other Federal agencies, and other industrial control systems stakeholders; and
   - **(5)** conduct such other efforts and assistance as the Secretary determines appropriate.
-- **(p)**
+- **(r)**
   - **(1)** The Center shall, upon request and to the extent practicable, and in coordination as appropriate with Federal and non-Federal entities, such as the Multi-State Information Sharing and Analysis Center—
     - **(A)** conduct exercises with SLTT entities;
     - **(B)** provide operational and technical cybersecurity training to SLTT entities to address cybersecurity risks or incidents, with or without reimbursement, related to—
@@ -212,4 +201,4 @@ generated_at: "2026-03-29T23:50:11.203Z"
     - **(G)** provide operational and technical assistance to SLTT entities to implement tools, products, resources, policies, guidelines, controls, and procedures on information security;
     - **(H)** assist SLTT entities in developing policies and procedures for coordinating vulnerability disclosures consistent with international and national standards in the information technology industry; and
     - **(I)** promote cybersecurity education and awareness through engagements with Federal agencies and non-Federal entities.
-- **(q)** Not later than 1 year after June 21, 2022 , and every 2 years thereafter, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the services and capabilities that the Agency directly and indirectly provides to SLTT entities.
+- **(s)** Not later than 1 year after June 21, 2022 , and every 2 years thereafter, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the services and capabilities that the Agency directly and indirectly provides to SLTT entities.

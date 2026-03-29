@@ -3,9 +3,9 @@ title: "Section 8545 - Officers of the other armed forces; enlisted members: adm
 usc_title: 10
 usc_section: "8545"
 chapter: 855
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 8545"
-generated_at: "2026-03-29T23:50:22.333Z"
+generated_at: "2026-03-29T23:54:20.078Z"
 ---
 
 # § 8545. Officers of the other armed forces; enlisted members: admission
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T23:50:22.333Z"
     - **(D)**
       - **(i)** The Secretary may permit an eligible enlisted member of the armed forces to receive graduate-level instruction at the Naval Postgraduate School in a program leading to a master’s degree in a technical, analytical, or engineering curriculum.
       - **(ii)** To be eligible to be provided instruction under this subparagraph, the enlisted member must have been awarded a baccalaureate degree by an institution of higher education.
-      - **(iii)** Instruction under this subparagraph may be provided only on a space-available basis.
+      - **(iii)** Instruction under this subparagraph may be provided.
       - **(iv)** An enlisted member who successfully completes a course of instruction under this subparagraph may be awarded a master’s degree under section 8548 of this title .
       - **(v)** Instruction under this subparagraph shall be provided pursuant to regulations prescribed by the Secretary. Such regulations may include criteria for eligibility of enlisted members for instruction under this subparagraph and specification of obligations for further service in the armed forces relating to receipt of such instruction.
     - **(E)** In addition to instruction authorized under subparagraphs (A), (B), (C), and (D), the Secretary may, on a space-available basis, permit an enlisted member of the armed forces who is assigned permanently to the staff of the Postgraduate School or to a nearby command to receive instruction at the Postgraduate School.

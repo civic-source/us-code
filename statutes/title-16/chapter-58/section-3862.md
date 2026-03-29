@@ -3,9 +3,9 @@ title: "Section 3862 - Responsibilities"
 usc_title: 16
 usc_section: "3862"
 chapter: 58
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 3862"
-generated_at: "2026-03-29T23:51:16.265Z"
+generated_at: "2026-03-29T23:55:31.246Z"
 ---
 
 # § 3862. Responsibilities
@@ -16,5 +16,5 @@ generated_at: "2026-03-29T23:51:16.265Z"
   - **(1)** The role of State technical committees is advisory in nature, and such committees shall have no implementation or enforcement authority. However, the Secretary shall give strong consideration to the recommendations of such committees in administering the programs under this chapter.
   - **(2)** Each State technical committee shall advise the Secretary in establishing priorities and criteria for the programs in this chapter, including the review of whether local working groups are addressing those priorities.
 - **(d)**
-  - **(1)** Each State technical committee shall be exempt from the Federal Advisory Committee Act (5 U.S.C. App.).
-  - **(2)** For purposes of the Federal Advisory Committee Act (5 U.S.C. App.), any local working group established under this subchapter shall be considered to be a subcommittee of the applicable State technical committee.
+  - **(1)** Each State technical committee shall be exempt from chapter 10 of title 5.
+  - **(2)** For purposes of chapter 10 of title 5, any local working group established under this subchapter shall be considered to be a subcommittee of the applicable State technical committee.

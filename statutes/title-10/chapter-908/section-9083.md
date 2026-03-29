@@ -3,9 +3,9 @@ title: "Section 9083 - Office of the Chief of Space Operations: function; compos
 usc_title: 10
 usc_section: "9083"
 chapter: 908
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 9083"
-generated_at: "2026-03-29T23:50:22.341Z"
+generated_at: "2026-03-29T23:54:20.087Z"
 ---
 
 # § 9083. Office of the Chief of Space Operations: function; composition

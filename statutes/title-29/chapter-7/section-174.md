@@ -3,9 +3,9 @@ title: "Section 174 - Co-equal obligations of employees, their representatives, 
 usc_title: 29
 usc_section: "174"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "29 U.S.C. § 174"
-generated_at: "2026-03-29T23:51:49.763Z"
+generated_at: "2026-03-29T23:55:56.250Z"
 ---
 
 # § 174. Co-equal obligations of employees, their representatives, and management to minimize labor disputes

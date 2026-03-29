@@ -3,9 +3,9 @@ title: "Section 31503 - Laboratory productivity"
 usc_title: 51
 usc_section: "31503"
 chapter: 315
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "51 U.S.C. § 31503"
-generated_at: "2026-03-29T23:53:42.153Z"
+generated_at: "2026-03-29T23:57:51.859Z"
 ---
 
 # § 31503. Laboratory productivity

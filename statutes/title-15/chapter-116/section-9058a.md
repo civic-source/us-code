@@ -3,9 +3,9 @@ title: "Section 9058a - Emergency rental assistance"
 usc_title: 15
 usc_section: "9058a"
 chapter: 116
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 9058a"
-generated_at: "2026-03-29T23:50:50.673Z"
+generated_at: "2026-03-29T23:54:56.206Z"
 ---
 
 # § 9058a. Emergency rental assistance
@@ -121,7 +121,7 @@ generated_at: "2026-03-29T23:50:50.673Z"
   - **(1)** The Inspector General of the Department of the Treasury shall conduct monitoring and oversight of the receipt, disbursement, and use of funds made available under this section.
   - **(2)** If the Inspector General of the Department of the Treasury determines that a State, Tribal government, or unit of local government has failed to comply with subsection (c), the amount equal to the amount of funds used in violation of such subsection shall be booked as a debt of such entity owed to the Federal Government. Amounts recovered under this subsection shall be deposited into the general fund of the Treasury.
   - **(3)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Office of the Inspector General of the Department of the Treasury, $6,500,000 to carry out oversight and recoupment activities under this subsection. Amounts appropriated under the preceding sentence shall remain available until expended.
-  - **(4)** Nothing in this subsection shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.)
+  - **(4)** Nothing in this subsection shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.) 3 3 So in original. Probably should be followed by a period.
 - **(j)** Assistance provided to a household from a payment made under this section shall not be regarded as income and shall not be regarded as a resource for purposes of determining the eligibility of the household or any member of the household for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.
 - **(k)** In this section:
   - **(1)** The term “area median income” means, with respect to a household, the median income for the area in which the household is located, as determined by the Secretary of Housing and Urban Development.
@@ -132,7 +132,7 @@ generated_at: "2026-03-29T23:50:50.673Z"
     - **(D)** The Department of Hawaiian Homelands.
   - **(3)**
     - **(A)** The term “eligible household” means a household of 1 or more individuals who are obligated to pay rent on a residential dwelling and with respect to which the eligible grantee involved determines—
-      - **(i)** that 1 or more individuals within the household has 3 3 So in original. Probably should be followed by a dash.
+      - **(i)** that 1 or more individuals within the household has 4 4 So in original. Probably should be followed by a dash.
         - **(I)** qualified for unemployment benefits or
         - **(II)** experienced a reduction in household income, incurred significant costs, or experienced other financial hardship due, directly or indirectly, to the novel coronavirus disease (COVID–19) outbreak, which the applicant shall attest in writing;
       - **(ii)** that 1 or more individuals within the household can demonstrate a risk of experiencing homelessness or housing instability, which may include—

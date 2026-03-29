@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 104–127, title I, § 145(e) , Apr. 4, 19
 usc_title: 7
 usc_section: "1"
 chapter: 35
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T23:50:42.113Z"
+generated_at: "2026-03-29T23:54:15.556Z"
 ---
 
 # § 1446e–1. Repealed. Pub. L. 104–127, title I, § 145(e) , Apr. 4, 1996 , 110 Stat. 918

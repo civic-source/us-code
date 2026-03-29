@@ -3,9 +3,9 @@ title: "Section 3402 - Rules of procedure, practice and appeal 1 1 Section catch
 usc_title: 18
 usc_section: "3402"
 chapter: 219
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "18 U.S.C. § 3402"
-generated_at: "2026-03-29T23:51:08.408Z"
+generated_at: "2026-03-29T23:55:17.281Z"
 ---
 
 # § 3402. Rules of procedure, practice and appeal 1 1 Section catchline was not amended to conform to change made in text by Pub. L. 100–702 .

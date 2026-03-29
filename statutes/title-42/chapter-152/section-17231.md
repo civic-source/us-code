@@ -3,9 +3,9 @@ title: "Section 17231 - Energy storage competitiveness"
 usc_title: 42
 usc_section: "17231"
 chapter: 152
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 17231"
-generated_at: "2026-03-29T23:53:16.727Z"
+generated_at: "2026-03-29T23:57:27.266Z"
 ---
 
 # § 17231. Energy storage competitiveness
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T23:53:16.727Z"
     - **(C)** The Secretary shall select a Chairperson for the Council from among the members appointed under subparagraph (A).
   - **(3)**
     - **(A)** The Council shall meet not less than once a year.
-    - **(B)** The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to a meeting of the Council.
+    - **(B)** Chapter 10 of title 5 shall apply to a meeting of the Council.
   - **(4)** No later than 1 year after December 19, 2007 , and every 5 years thereafter, the Council, in conjunction with the Secretary, shall develop a 5-year plan for integrating basic and applied research so that the United States retains a globally competitive domestic energy storage industry for electric drive vehicles, stationary applications, and electricity transmission and distribution.
   - **(5)** The Council shall—
     - **(A)** assess, every 2 years, the performance of the Department in meeting the goals of the plans developed under paragraph (4); and

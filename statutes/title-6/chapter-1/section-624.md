@@ -3,9 +3,9 @@ title: "Section 624 - Civil enforcement"
 usc_title: 6
 usc_section: "624"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "6 U.S.C. § 624"
-generated_at: "2026-03-29T23:50:11.201Z"
+generated_at: "2026-03-29T23:54:07.953Z"
 ---
 
 # § 624. Civil enforcement
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T23:50:11.201Z"
     - **(B)** may order the facility, without notice or opportunity for a hearing, effective immediately or as soon as practicable, to—
       - **(i)** implement appropriate emergency security measures; or
       - **(ii)** cease or reduce some or all operations, in accordance with safe shutdown procedures, if the Secretary determines that such a cessation or reduction of operations is the most appropriate means to address the risk.
-  - **(2)** The Secretary may not delegate the authority under paragraph (1) to any official other than the Director of Cybersecurity and Infrastructure Security.
+  - **(2)** The Secretary may not delegate the authority under paragraph (1) to any official other than the Director of the Cybersecurity and Infrastructure Security Agency.
   - **(3)** The Secretary may exercise the authority under this subsection only to the extent necessary to abate the imminent threat determination under paragraph (1).
   - **(4)**
     - **(A)** An order issued by the Secretary under paragraph (1) shall be in the form of a written emergency order that—

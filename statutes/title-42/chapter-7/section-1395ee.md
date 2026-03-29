@@ -3,9 +3,9 @@ title: "Section 1395ee - Practicing Physicians Advisory Council; Council for Tec
 usc_title: 42
 usc_section: "1395ee"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 1395ee"
-generated_at: "2026-03-29T23:53:16.305Z"
+generated_at: "2026-03-29T23:57:26.799Z"
 ---
 
 # § 1395ee. Practicing Physicians Advisory Council; Council for Technology and Innovation
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T23:53:16.305Z"
       - **(i)** The Committee shall be composed of 11 members appointed by the Comptroller General of the United States.
       - **(ii)** The membership of the Committee shall include individuals with national recognition for their expertise in physician-focused payment models and related delivery of care. No more than 5 members of the Committee shall be providers of services or suppliers, or representatives of providers of services or suppliers.
       - **(iii)** A member of the Committee shall not be an employee of the Federal Government.
-      - **(iv)** The Comptroller General shall establish a system for public disclosure by members of the Committee of financial and other potential conflicts of interest relating to such members. Members of the Committee shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 ( Public Law 95–521 ).
+      - **(iv)** The Comptroller General shall establish a system for public disclosure by members of the Committee of financial and other potential conflicts of interest relating to such members. Members of the Committee shall be treated as employees of Congress for purposes of applying subchapter I of chapter 131 of title 5.
       - **(v)** The initial appointments of members of the Committee shall be made by not later than 180 days after April 16, 2015 .
     - **(C)**
       - **(i)** The terms of members of the Committee shall be for 3 years except that the Comptroller General shall designate staggered terms for the members first appointed.
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T23:53:16.305Z"
     - **(F)**
       - **(i)** The Assistant Secretary for Planning and Evaluation shall provide technical and operational support for the Committee, which may be by use of a contractor. The Office of the Actuary of the Centers for Medicare & Medicaid Services shall provide to the Committee actuarial assistance as needed.
       - **(ii)** The Secretary shall provide for the transfer, from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title , such amounts as are necessary to carry out this paragraph (not to exceed $5,000,000) for fiscal year 2015 and each subsequent fiscal year. Any amounts transferred under the preceding sentence for a fiscal year shall remain available until expended.
-    - **(G)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+    - **(G)** Section 1013 of title 5 shall not apply to the Committee.
   - **(2)**
     - **(A)**
       - **(i)** Not later than November 1, 2016 , the Secretary shall, through notice and comment rulemaking, following a request for information, establish criteria for physician-focused payment models, including models for specialist physicians, that could be used by the Committee for making comments and recommendations pursuant to paragraph (1)(D).

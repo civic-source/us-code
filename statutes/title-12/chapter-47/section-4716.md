@@ -3,9 +3,9 @@ title: "Section 4716 - Studies and reports; examination and audit"
 usc_title: 12
 usc_section: "4716"
 chapter: 47
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "12 U.S.C. § 4716"
-generated_at: "2026-03-29T23:51:02.411Z"
+generated_at: "2026-03-29T23:54:35.021Z"
 ---
 
 # § 4716. Studies and reports; examination and audit

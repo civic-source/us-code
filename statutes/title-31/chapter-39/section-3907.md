@@ -3,9 +3,9 @@ title: "Section 3907 - Relationship to other laws"
 usc_title: 31
 usc_section: "3907"
 chapter: 39
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "31 U.S.C. § 3907"
-generated_at: "2026-03-29T23:52:13.624Z"
+generated_at: "2026-03-29T23:56:27.987Z"
 ---
 
 # § 3907. Relationship to other laws

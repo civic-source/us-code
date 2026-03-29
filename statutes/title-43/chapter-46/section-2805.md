@@ -3,9 +3,9 @@ title: "Section 2805 - National Geospatial Data Asset data themes"
 usc_title: 43
 usc_section: "2805"
 chapter: 46
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "43 U.S.C. § 2805"
-generated_at: "2026-03-29T23:52:56.390Z"
+generated_at: "2026-03-29T23:56:54.172Z"
 ---
 
 # § 2805. National Geospatial Data Asset data themes

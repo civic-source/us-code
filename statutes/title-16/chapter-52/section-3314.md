@@ -3,9 +3,9 @@ title: "Section 3314 - Discontinuance of funding"
 usc_title: 16
 usc_section: "3314"
 chapter: 52
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 3314"
-generated_at: "2026-03-29T23:51:16.253Z"
+generated_at: "2026-03-29T23:55:31.219Z"
 ---
 
 # § 3314. Discontinuance of funding

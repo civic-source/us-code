@@ -3,9 +3,9 @@ title: "Section 77g - Information required in registration statement"
 usc_title: 15
 usc_section: "77g"
 chapter: 2
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 77g"
-generated_at: "2026-03-29T23:50:50.480Z"
+generated_at: "2026-03-29T23:54:55.979Z"
 ---
 
 # § 77g. Information required in registration statement
@@ -32,6 +32,9 @@ generated_at: "2026-03-29T23:50:50.480Z"
       - **(i)** data having unique identifiers relating to loan brokers or originators;
       - **(ii)** the nature and extent of the compensation of the broker or originator of the assets backing the security; and
       - **(iii)** the amount of risk retention by the originator and the securitizer of such assets.
+  - **(3)**
+    - **(A)** The Commission shall, by rule, adopt data standards for all disclosures required under this subsection.
+    - **(B)** The data standards required under subparagraph (A) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12 , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
 - **(d)** Not later than 180 days after July 21, 2010 , the Commission shall issue rules relating to the registration statement required to be filed by any issuer of an asset-backed security (as that term is defined in section 78c(a)(77) 1 1 See References in Text note below. of this title) that require any issuer of an asset-backed security—
   - **(1)** to perform a review of the assets underlying the asset-backed security; and
   - **(2)** to disclose the nature of the review under paragraph (1).

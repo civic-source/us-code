@@ -3,9 +3,9 @@ title: "Section 346a - Tolerances and exemptions for pesticide chemical residues
 usc_title: 21
 usc_section: "346a"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 346a"
-generated_at: "2026-03-29T23:51:22.689Z"
+generated_at: "2026-03-29T23:55:43.296Z"
 ---
 
 # § 346a. Tolerances and exemptions for pesticide chemical residues
@@ -190,7 +190,7 @@ generated_at: "2026-03-29T23:51:22.689Z"
     - **(C)** the acceptance for filing of objections under subsection (g); or
     - **(D)** the certification and filing in court of a transcript of the proceedings and the record under subsection (h);
   - **(2)** All fees collected under paragraph (1) shall be deposited in the Reregistration and Expedited Processing Fund created by section 4(k) of the Federal Insecticide, Fungicide, and Rodenticide Act [ 7 U.S.C. 136a–1(k) ]. Such fees shall be available to the Administrator, without fiscal year limitation, for the performance of the Administrator’s services or functions as specified in paragraph (1).
-  - **(3)** During the period beginning on October 1, 2007 , and ending on September 30, 2023 , the Administrator shall not collect any tolerance fees under paragraph (1).
+  - **(3)** During the period beginning on December 29, 2022 , and ending on September 30, 2027 , the Administrator shall not collect any tolerance fees under paragraph (1).
 - **(n)**
   - **(1)** For purposes of this subsection, the term “qualifying pesticide chemical residue” means a pesticide chemical residue resulting from the use, in production, processing, or storage of a food, of a pesticide chemical that is an active ingredient and that—
     - **(A)** was first approved for such use in a registration of a pesticide issued under section 3(c)(5) of the Federal Insecticide, Fungicide, and Rodenticide Act [ 7 U.S.C. 136a(c)(5) ] on or after April 25, 1985 , on the basis of data determined by the Administrator to meet all applicable requirements for data prescribed by regulations in effect under that Act [ 7 U.S.C. 136 et seq.] on April 25, 1985 ; or

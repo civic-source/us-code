@@ -3,15 +3,15 @@ title: "Section 571 - Emergency Communications Division"
 usc_title: 6
 usc_section: "571"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "6 U.S.C. § 571"
-generated_at: "2026-03-29T23:50:11.197Z"
+generated_at: "2026-03-29T23:54:07.947Z"
 ---
 
 # § 571. Emergency Communications Division
 
 - **(a)** There is established in the Department an Emergency Communications Division. The Division shall be located in the Cybersecurity and Infrastructure Security Agency.
-- **(b)** The head of the Division shall be the Executive Assistant Director for Emergency Communications (in this section referred to as the “Executive Assistant Director”). The Executive Assistant Director shall report to the Director of Cybersecurity and Infrastructure Security. All decisions of the Executive Assistant Director that entail the exercise of significant authority shall be subject to the approval of the Director of Cybersecurity and Infrastructure Security.
+- **(b)** The head of the Division shall be the Executive Assistant Director for Emergency Communications (in this section referred to as the “Executive Assistant Director”). The Executive Assistant Director shall report to the Director of the Cybersecurity and Infrastructure Security Agency. All decisions of the Executive Assistant Director that entail the exercise of significant authority shall be subject to the approval of the Director of the Cybersecurity and Infrastructure Security Agency.
 - **(c)** The Executive Assistant Director shall—
   - **(1)** assist the Secretary in developing and implementing the program described in section 194(a)(1) of this title , except as provided in section 195 of this title ;
   - **(2)** administer the Department’s responsibilities and authorities relating to the SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards;

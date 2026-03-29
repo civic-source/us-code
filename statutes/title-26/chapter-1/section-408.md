@@ -3,9 +3,9 @@ title: "Section 408 - Individual retirement accounts"
 usc_title: 26
 usc_section: "408"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 408"
-generated_at: "2026-03-29T23:52:10.111Z"
+generated_at: "2026-03-29T23:56:24.760Z"
 ---
 
 # § 408. Individual retirement accounts
@@ -87,6 +87,29 @@ generated_at: "2026-03-29T23:52:10.111Z"
     - **(C)** For purposes of this paragraph, a distribution to an organization described in subparagraph (B)(i) shall be treated as a qualified charitable distribution only if a deduction for the entire distribution would be allowable under section 170 (determined without regard to subsection (b) thereof and this paragraph).
     - **(D)** Notwithstanding section 72, in determining the extent to which a distribution is a qualified charitable distribution, the entire amount of the distribution shall be treated as includible in gross income without regard to subparagraph (A) to the extent that such amount does not exceed the aggregate amount which would have been so includible if all amounts in all individual retirement plans of the individual were distributed during such taxable year and all such plans were treated as 1 contract for purposes of determining under section 72 the aggregate amount which would have been so includible. Proper adjustments shall be made in applying section 72 to other distributions in such taxable year and subsequent taxable years.
     - **(E)** Qualified charitable distributions which are not includible in gross income pursuant to subparagraph (A) shall not be taken into account in determining the deduction under section 170.
+    - **(F)**
+      - **(i)** A taxpayer may for a taxable year elect under this subparagraph to treat as meeting the requirement of subparagraph (B)(i) any distribution from an individual retirement account which is made directly by the trustee to a split-interest entity, but only if—
+        - **(I)** an election is not in effect under this subparagraph for a preceding taxable year,
+        - **(II)** the aggregate amount of distributions of the taxpayer with respect to which an election under this subparagraph is made does not exceed $50,000, and
+        - **(III)** such distribution meets the requirements of clauses (iii) and (iv).
+      - **(ii)** For purposes of this subparagraph, the term ‘split-interest entity’ means—
+        - **(I)** a charitable remainder annuity trust (as defined in section 664(d)(1)), but only if such trust is funded exclusively by qualified charitable distributions,
+        - **(II)** a charitable remainder unitrust (as defined in section 664(d)(2)), but only if such unitrust is funded exclusively by qualified charitable distributions, or
+        - **(III)** a charitable gift annuity (as defined in section 501(m)(5)), but only if such annuity is funded exclusively by qualified charitable distributions and commences fixed payments of 5 percent or greater not later than 1 year from the date of funding.
+      - **(iii)** A distribution meets the requirements of this clause only if—
+        - **(I)** in the case of a distribution to a charitable remainder annuity trust or a charitable remainder unitrust, a deduction for the entire value of the remainder interest in the distribution for the benefit of a specified charitable organization would be allowable under section 170 (determined without regard to subsection (b) thereof and this paragraph), and
+        - **(II)** in the case of a charitable gift annuity, a deduction in an amount equal to the amount of the distribution reduced by the value of the annuity described in section 501(m)(5)(B) would be allowable under section 170 (determined without regard to subsection (b) thereof and this paragraph).
+      - **(iv)** A distribution meets the requirements of this clause only if—
+        - **(I)** no person holds an income interest in the split-interest entity other than the individual for whose benefit such account is maintained, the spouse of such individual, or both, and
+        - **(II)** the income interest in the split-interest entity is nonassignable.
+      - **(v)**
+        - **(I)** Notwithstanding section 664(b), distributions made from a trust described in subclause (I) or (II) of clause (ii) shall be treated as ordinary income in the hands of the beneficiary to whom the annuity described in section 664(d)(1)(A) or the payment described in section 664(d)(2)(A) is paid.
+        - **(II)** Qualified charitable distributions made to fund a charitable gift annuity shall not be treated as an investment in the contract for purposes of section 72(c).
+    - **(G)**
+      - **(i)** In the case of any taxable year beginning after 2023, each of the dollar amounts in subparagraphs (A) and (F) shall be increased by an amount equal to—
+        - **(I)** such dollar amount, multiplied by
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2022” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+      - **(ii)** If any dollar amount increased under clause (i) is not a multiple of $1,000, such dollar amount shall be rounded to the nearest multiple of $1,000.
   - **(9)**
     - **(A)** In the case of an individual who is an eligible individual (as defined in section 223(c)) and who elects the application of this paragraph for a taxable year, gross income of the individual for the taxable year does not include a qualified HSA funding distribution to the extent such distribution is otherwise includible in gross income.
     - **(B)** For purposes of this paragraph, the term “qualified HSA funding distribution” means a distribution from an individual retirement plan (other than a plan described in subsection (k) or (p)) of the employee to the extent that such distribution is contributed to the health savings account of the individual in a direct trustee-to-trustee transfer.
@@ -108,8 +131,9 @@ generated_at: "2026-03-29T23:52:10.111Z"
   - **(1)** Any individual retirement account is exempt from taxation under this subtitle unless such account has ceased to be an individual retirement account by reason of paragraph (2) or (3). Notwithstanding the preceding sentence, any such account is subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc. organizations).
   - **(2)**
     - **(A)** If, during any taxable year of the individual for whose benefit any individual retirement account is established, that individual or his beneficiary engages in any transaction prohibited by section 4975 with respect to such account, such account ceases to be an individual retirement account as of the first day of such taxable year. For purposes of this paragraph—
-      - **(i)** the individual for whose benefit any account was established is treated as the creator of such account, and
-      - **(ii)** the separate account for any individual within an individual retirement account maintained by an employer or association of employees is treated as a separate individual retirement account.
+      - **(i)** the individual for whose benefit any account was established is treated as the creator of such account,
+      - **(ii)** the separate account for any individual within an individual retirement account maintained by an employer or association of employees is treated as a separate individual retirement account, and
+      - **(iii)** each individual retirement plan of the individual shall be treated as a separate contract.
     - **(B)** In any case in which any account ceases to be an individual retirement account by reason of subparagraph (A) as of the first day of any taxable year, paragraph (1) of subsection (d) applies as if there were a distribution on such first day in an amount equal to the fair market value (on such first day) of all assets in the account (on such first day).
   - **(3)** If during any taxable year the owner of an individual retirement annuity borrows any money under or by use of such contract, the contract ceases to be an individual retirement annuity as of the first day of such taxable year. Such owner shall include in gross income for such year an amount equal to the fair market value of such contract as of such first day.
   - **(4)** If, during any taxable year of the individual for whose benefit an individual retirement account is established, that individual uses the account or any portion thereof as security for a loan, the portion so used is treated as distributed to that individual.
@@ -170,14 +194,15 @@ generated_at: "2026-03-29T23:52:10.111Z"
       - **(ii)** requirements which, notwithstanding paragraph (4), provide that contributions (and any income allocable thereto) may not be withdrawn from a simplified employee pension until a determination has been made that the requirements of subparagraph (A)(iii) have been met with respect to such contributions.
     - **(G)** For purposes of this paragraph, the term “highly compensated employee” has the meaning given such term by section 414(q).
     - **(H)** This paragraph shall not apply to years beginning after December 31, 1996 . The preceding sentence shall not apply to a simplified employee pension of an employer if the terms of simplified employee pensions of such employer, as in effect on December 31, 1996 , provide that an employee may make the election described in subparagraph (A).
-  - **(7)** For purposes of this subsection and subsection ( l )—
+  - **(7)** An individual retirement plan which is designated as a Roth IRA shall not be treated as a simplified employee pension under this subsection unless the employee elects for such plan to be so treated (at such time and in such manner as the Secretary may provide).
+  - **(8)** For purposes of this subsection and subsection ( l )—
     - **(A)** The terms “employee”, “employer”, and “owner-employee” shall have the respective meanings given such terms by section 401(c).
     - **(B)** Except as provided in paragraph (2)(C), the term “compensation” has the meaning given such term by section 414(s).
     - **(C)** The term “year” means—
       - **(i)** the calendar year, or
       - **(ii)** if the employer elects, subject to such terms and conditions as the Secretary may prescribe, to maintain the simplified employee pension on the basis of the employer’s taxable year.
-  - **(8)** The Secretary shall adjust the $450 amount in paragraph (2)(C) at the same time and in the same manner as under section 415(d) and shall adjust the $200,000 amount in paragraphs (3)(C) and (6)(D)(ii) at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B); except that any increase in the $450 amount which is not a multiple of $50 shall be rounded to the next lowest multiple of $50.
-  - **(9)** For excise tax on certain excess contributions, see section 4979.
+  - **(9)** The Secretary shall adjust the $450 amount in paragraph (2)(C) at the same time and in the same manner as under section 415(d) and shall adjust the $200,000 amount in paragraphs (3)(C) and (6)(D)(ii) at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B); except that any increase in the $450 amount which is not a multiple of $50 shall be rounded to the next lowest multiple of $50.
+  - **(10)** For excise tax on certain excess contributions, see section 4979.
 - **(l)**
   - **(1)** An employer who makes a contribution on behalf of an employee to a simplified employee pension shall provide such simplified reports with respect to such contributions as the Secretary may require by regulations. The reports required by this subsection shall be filed at such time and in such manner, and information with respect to such contributions shall be furnished to the employee at such time and in such manner, as may be required by regulations.
   - **(2)**
@@ -236,7 +261,7 @@ generated_at: "2026-03-29T23:52:10.111Z"
       - **(v)** Such other information as the Secretary may prescribe.
     - **(C)** For penalty where individual reports designated nondeductible contributions not made, see section 6693(b).
   - **(5)** In the case of an individual who for a taxable year excludes from gross income under section 131 a qualified foster care payment which is a difficulty of care payment, if—
-    - **(A)** the deductible amount in effect for the taxable year under subsection (b), exceeds
+    - **(A)** the deductible amount in effect for the taxable year under section 219(b), exceeds
     - **(B)** the amount of compensation includible in the individual’s gross income for the taxable year,
 - **(p)**
   - **(1)** For purposes of this title, the term “simple retirement account” means an individual retirement plan (as defined in section 7701(a)(37))—
@@ -297,6 +322,7 @@ generated_at: "2026-03-29T23:52:10.111Z"
       - **(ii)** the requirement under paragraph (2)(D) that an arrangement be the only plan of an employer; and
       - **(iii)** the participation requirements under paragraph (4).
     - **(C)** For purposes of this paragraph, the term “transition period” means the period beginning on the date of any transaction described in subparagraph (A) and ending on the last day of the second calendar year following the calendar year in which such transaction occurs.
+  - **(12)** An individual retirement plan which is designated as a Roth IRA shall not be treated as a simple retirement account under this subsection unless the employee elects for such plan to be so treated (at such time and in such manner as the Secretary may provide).
 - **(q)**
   - **(1)** If—
     - **(A)** a qualified employer plan elects to allow employees to make voluntary employee contributions to a separate account or annuity established under the plan, and

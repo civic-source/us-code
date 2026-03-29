@@ -3,12 +3,12 @@ title: "Section 5723 - Exemption"
 usc_title: 16
 usc_section: "5723"
 chapter: 77
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 5723"
-generated_at: "2026-03-29T23:51:16.278Z"
+generated_at: "2026-03-29T23:55:31.272Z"
 ---
 
 # § 5723. Exemption
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Panel or to an advisory committee established under section 5722 of this title .
+Chapter 10 of title 5 shall not apply to the Panel or to an advisory committee established under section 5722 of this title .
 

@@ -3,9 +3,9 @@ title: "Section 6318 - Additional home State office space for Senators; declarat
 usc_title: 2
 usc_section: "6318"
 chapter: 63
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "2 U.S.C. § 6318"
-generated_at: "2026-03-29T23:50:07.839Z"
+generated_at: "2026-03-29T23:54:02.957Z"
 ---
 
 # § 6318. Additional home State office space for Senators; declaration of disaster or emergency

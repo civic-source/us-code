@@ -3,9 +3,9 @@ title: "Section 8332 - Conclusiveness of transfers"
 usc_title: 10
 usc_section: "8332"
 chapter: 841
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 8332"
-generated_at: "2026-03-29T23:50:22.331Z"
+generated_at: "2026-03-29T23:54:20.074Z"
 ---
 
 # § 8332. Conclusiveness of transfers

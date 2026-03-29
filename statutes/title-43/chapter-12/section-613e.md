@@ -3,9 +3,9 @@ title: "Section 613e - Omitted"
 usc_title: 43
 usc_section: "613e"
 chapter: 12
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "43 U.S.C. § 613e"
-generated_at: "2026-03-29T23:52:56.351Z"
+generated_at: "2026-03-29T23:56:54.130Z"
 ---
 
 # §§ 613 to 613e. Omitted

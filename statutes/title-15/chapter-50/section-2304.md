@@ -3,9 +3,9 @@ title: "Section 2304 - Federal minimum standards for warranties"
 usc_title: 15
 usc_section: "2304"
 chapter: 50
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 2304"
-generated_at: "2026-03-29T23:50:50.608Z"
+generated_at: "2026-03-29T23:54:56.129Z"
 ---
 
 # § 2304. Federal minimum standards for warranties

@@ -3,9 +3,9 @@ title: "Section 4303 - Board of Trustees"
 usc_title: 20
 usc_section: "4303"
 chapter: 55
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "20 U.S.C. § 4303"
-generated_at: "2026-03-29T23:51:10.517Z"
+generated_at: "2026-03-29T23:55:05.417Z"
 ---
 
 # § 4303. Board of Trustees

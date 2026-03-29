@@ -3,9 +3,9 @@ title: "Section 1147 - Use of military family housing"
 usc_title: 10
 usc_section: "1147"
 chapter: 58
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 1147"
-generated_at: "2026-03-29T23:50:22.252Z"
+generated_at: "2026-03-29T23:54:19.979Z"
 ---
 
 # § 1147. Use of military family housing

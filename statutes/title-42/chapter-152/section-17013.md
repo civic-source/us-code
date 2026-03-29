@@ -3,9 +3,9 @@ title: "Section 17013 - Advanced technology vehicles manufacturing incentive pro
 usc_title: 42
 usc_section: "17013"
 chapter: 152
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 17013"
-generated_at: "2026-03-29T23:53:16.719Z"
+generated_at: "2026-03-29T23:57:27.259Z"
 ---
 
 # § 17013. Advanced technology vehicles manufacturing incentive program
@@ -89,7 +89,7 @@ generated_at: "2026-03-29T23:53:16.719Z"
 - **(k)** In carrying out this section, the Secretary shall—
   - **(1)** provide assistance with the completion of applications for awards or loans under this section; and
   - **(2)** conduct outreach, including through conferences and online programs, to disseminate information on awards and loans under this section to potential applicants.
-- **(l)** Amounts appropriated to the Secretary before November 15, 2021 , shall not be available to the Secretary to provide awards under subsection (b) or loans under subsection (d) for the costs of activities that were not eligible for those awards or loans on the day before that date.
+- **(l)**
 - **(m)** Not later than 2 years after November 15, 2021 , and every 3 years thereafter, the Secretary shall submit to Congress a report on the status of projects supported by a loan under this section, including—
   - **(1)** a list of projects receiving a loan under this section, including the loan amount and construction status of each project;
   - **(2)** the status of the loan repayment for each project, including future repayment projections;

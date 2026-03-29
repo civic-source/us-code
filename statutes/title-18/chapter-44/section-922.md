@@ -3,9 +3,9 @@ title: "Section 922 - Unlawful acts"
 usc_title: 18
 usc_section: "922"
 chapter: 44
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "18 U.S.C. § 922"
-generated_at: "2026-03-29T23:51:08.372Z"
+generated_at: "2026-03-29T23:55:17.241Z"
 ---
 
 # § 922. Unlawful acts
@@ -203,7 +203,7 @@ generated_at: "2026-03-29T23:51:08.372Z"
     - **(A)** before the completion of the transfer, the licensee contacts the national instant criminal background check system established under section 103 of that Act;
     - **(B)**
       - **(i)** the system provides the licensee with a unique identification number; or
-      - **(ii)** subject to subparagraph (C), 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section, or State, local, or Tribal law; and
+      - **(ii)** subject to subparagraph (C), 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section, or State, local, or Tribal law;
     - **(C)** in the case of a person less than 21 years of age, in addition to all other requirements of this chapter—
       - **(i)** the system provides the licensee with a unique identification number;
       - **(ii)** 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that cause exists to further investigate a possibly disqualifying juvenile record under subsection (d); or

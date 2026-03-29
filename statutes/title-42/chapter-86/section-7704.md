@@ -3,9 +3,9 @@ title: "Section 7704 - National Earthquake Hazards Reduction Program"
 usc_title: 42
 usc_section: "7704"
 chapter: 86
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 7704"
-generated_at: "2026-03-29T23:53:16.576Z"
+generated_at: "2026-03-29T23:57:27.109Z"
 ---
 
 # § 7704. National Earthquake Hazards Reduction Program
@@ -59,7 +59,7 @@ generated_at: "2026-03-29T23:53:16.576Z"
       - **(iii)** the need to revise the Program; and
       - **(iv)** the management, coordination, implementation, and activities of the Program.
     - **(C)** Not later than 1 year after October 25, 2004 , and at least once every 2 years thereafter, the Advisory Committee shall report to the Director on its findings of the assessment carried out under subparagraph (B) and its recommendations for ways to improve the Program. In developing recommendations, the Committee shall consider the recommendations of the United States Geological Survey Scientific Earthquake Studies Advisory Committee.
-    - **(D)** Section 14 of the Federal Advisory Committee Act (5 App. U.S.C. 14) shall not apply to the Advisory Committee.
+    - **(D)** Section 1013 of title 5 shall not apply to the Advisory Committee.
 - **(b)**
   - **(1)** The National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute shall—
     - **(A)** ensure that the Program includes the necessary steps to promote the implementation of earthquake hazard reduction measures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning 5 5 So in original. Probably should be followed by a comma. constructing, evaluating, and retrofitting buildings and lifeline infrastructure;

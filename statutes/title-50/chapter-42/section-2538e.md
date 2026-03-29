@@ -3,9 +3,9 @@ title: "Section 2538e - W93 nuclear warhead acquisition process"
 usc_title: 50
 usc_section: "2538e"
 chapter: 42
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 2538e"
-generated_at: "2026-03-29T23:53:23.627Z"
+generated_at: "2026-03-29T23:57:33.273Z"
 ---
 
 # § 2538e. W93 nuclear warhead acquisition process
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T23:53:23.627Z"
       - **(iii)** full operational capability date; and
       - **(iv)** any unique safety and surety requirements that could increase design complexity or cost estimate uncertainty.
   - **(2)**
-    - **(A)** Not later than 15 days after the date on which the Nuclear Weapons Council approves phase 2 of the joint nuclear weapons life cycle for the W93 nuclear weapon, the Administrator shall submit to the congressional defense committees a plan to implement a process of independent peer review or review by a board of experts, or both, with respect to—
+    - **(A)** Not later than 15 days after the date on which the Nuclear Weapons Council approves phase 2 of the joint nuclear weapons life cycle for the W93 nuclear weapon, the Administrator shall provide to the congressional defense committees a briefing on a plan to implement a process of independent peer review or review by a board of experts, or both, with respect to—
       - **(i)** the nonnuclear components of the weapon;
       - **(ii)** subsystem design; and
       - **(iii)** engineering aspects of the weapon.
@@ -34,9 +34,9 @@ generated_at: "2026-03-29T23:53:23.627Z"
         - **(II)** other capabilities that the Administrator determines necessary; and
       - **(ii)** informs the entire development life cycle of the W93 nuclear weapon.
 - **(b)** Not later than 15 days after the date on which the Nuclear Weapons Council approves phase 3 of the joint nuclear weapons life cycle for the W93 nuclear weapon—
-  - **(1)** the Administrator shall certify to the congressional defense committees that—
+  - **(1)** the Administrator shall provide to the congressional defense committees a briefing that includes certifications that—— 1 1 So in original.
     - **(A)** phases 1 through 5 of the joint nuclear weapons life cycle for the weapon will employ, at a minimum, the same best practices and will provide Congress with the same level of programmatic insight as exists under the phase 6.X process for life extension programs; and
     - **(B)** the proposed design for the weapon can be carried out within estimated schedule and cost objectives; and
-  - **(2)** the Commander of the United States Strategic Command shall submit to the congressional defense committees a report containing the requirements for weapon quantity and composition by type for the sub-surface ballistic nuclear (SSBN) force, including such requirements planned for the 15-year period following the date of the report, including any planned life extensions, retirements, or alterations.
+  - **(2)** the Commander of the United States Strategic Command shall submit to the congressional defense committees a report containing, or provide to such committees a briefing on, the requirements for weapon quantity and composition by type for the sub-surface ballistic nuclear (SSBN) force, including such requirements planned for the 15-year period following the date of the report or briefing, as the case may be, including any planned life extensions, retirements, or alterations.
 - **(c)** Subsections (a) and (b) may be waived during a period of war declared by Congress after January 1, 2021 .
 - **(d)** In this section, the term “joint nuclear weapons life cycle” has the meaning given that term in section 2538b of this title .

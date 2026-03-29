@@ -3,9 +3,9 @@ title: "Section 710 - Career flexibility to enhance retention of members"
 usc_title: 10
 usc_section: "710"
 chapter: 40
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 710"
-generated_at: "2026-03-29T23:50:22.229Z"
+generated_at: "2026-03-29T23:54:19.951Z"
 ---
 
 # § 710. Career flexibility to enhance retention of members
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T23:50:22.229Z"
     - **(C)** A member who is ineligible for payment of a special or incentive pay or bonus otherwise covered by this paragraph by reason of subparagraph (B)(i)(II) shall be subject to the requirements for repayment of such pay or bonus in accordance with the terms of the applicable agreement of the member under chapter 5 of title 37.
     - **(D)** Any service required of a member under an agreement covered by this paragraph after the member returns to active service as described in subparagraph (A) shall be in addition to any service required of the member under an agreement under subsection (c).
   - **(4)**
-    - **(A)** Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 1 1 See References in Text note below. of title 37 for—
+    - **(A)** Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 452 of title 37 for—
       - **(i)** travel performed from the residence of the member, at the time of release from active service to participate in the program, to the location in the United States designated by the member as his residence during the period of participation in the program; and
       - **(ii)** travel performed to the residence of the member upon return to active service at the end of the participation of the member in the program.
     - **(B)** An allowance is payable under this paragraph only with respect to travel of a member to and from a single residence.
@@ -58,5 +58,5 @@ generated_at: "2026-03-29T23:50:22.229Z"
   - **(1)** the entitlement of the member and of the dependents of the member to medical and dental care under the provisions of chapter 55 of this title;
   - **(2)** retirement or separation for physical disability under the provisions of chapters 55 and 61 of this title;
   - **(3)** the entitlement of the member and of the survivors of the member to all death benefits under the provisions of chapter 75 of this title;
-  - **(4)** the provision of all travel and transportation allowances for the survivors of deceased members to attend burial ceremonies under section 481f 1 of title 37; and
+  - **(4)** the provision of all travel and transportation allowances for the survivors of deceased members to attend burial ceremonies under section 453(f) of title 37 ; and
   - **(5)** the eligibility of the member for general benefits as provided in part II of title 38.

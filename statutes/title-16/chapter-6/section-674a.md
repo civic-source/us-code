@@ -3,9 +3,9 @@ title: "Section 674a - Sullys Hill National Park; transfer of control; change of
 usc_title: 16
 usc_section: "674a"
 chapter: 6
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 674a"
-generated_at: "2026-03-29T23:51:16.172Z"
+generated_at: "2026-03-29T23:55:31.065Z"
 ---
 
 # § 674a. Sullys Hill National Park; transfer of control; change of name to White Horse Hill National Game Preserve; boundaries; use by public; hunting

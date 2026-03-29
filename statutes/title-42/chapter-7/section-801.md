@@ -3,9 +3,9 @@ title: "Section 801 - Coronavirus relief fund"
 usc_title: 42
 usc_section: "801"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 801"
-generated_at: "2026-03-29T23:53:16.224Z"
+generated_at: "2026-03-29T23:57:26.705Z"
 ---
 
 # § 801. Coronavirus relief fund
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T23:53:16.224Z"
 - **(d)** A State, Tribal government, and unit of local government shall use the funds provided under a payment made under this section to cover only those costs of the State, Tribal government, or unit of local government that—
   - **(1)** are necessary expenditures incurred due to the public health emergency with respect to the Coronavirus Disease 2019 (COVID–19);
   - **(2)** were not accounted for in the budget most recently approved as of March 27, 2020 , for the State or government; and
-  - **(3)** were incurred during the period that begins on March 1, 2020 , and ends on December 31, 2021 .
+  - **(3)** were incurred during the period that begins on March 1, 2020 , and ends on December 31, 2021 (or, in the case of costs incurred by a Tribal government, during the period that begins on March 1, 2020 , and ends on December 31, 2022 ).
 - **(e)** In order to receive a payment under this section, a unit of local government shall provide the Secretary with a certification signed by the Chief Executive for the unit of local government that the local government’s proposed uses of the funds are consistent with subsection (d).
 - **(f)**
   - **(1)** The Inspector General of the Department of the Treasury shall conduct monitoring and oversight of the receipt, disbursement, and use of funds made available under this section.

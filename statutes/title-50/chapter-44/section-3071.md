@@ -3,9 +3,9 @@ title: "Section 3071 - National Security Agency voluntary separation"
 usc_title: 50
 usc_section: "3071"
 chapter: 44
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 3071"
-generated_at: "2026-03-29T23:53:23.640Z"
+generated_at: "2026-03-29T23:57:33.288Z"
 ---
 
 # § 3071. National Security Agency voluntary separation
@@ -38,5 +38,5 @@ generated_at: "2026-03-29T23:53:23.640Z"
   - **(2)** for the period specified by the Director; and
   - **(3)** to employees within such occupational groups or geographic locations, or subject to such other similar limitations or conditions, as the Director may require.
 - **(i)** Before an employee may be eligible for early retirement, separation pay, or both, under this section, the Director shall prescribe such regulations as may be necessary to carry out this section.
-- **(j)** The Director may not make an offer of early retirement, separation pay, or both, pursuant to this section until 15 days after submitting to the congressional intelligence committees a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (h), and includes 1 1 So in original. Probably should be “including”. the proposed regulations issued pursuant to subsection (i).
+- **(j)** The Director may not make an offer of early retirement, separation pay, or both, pursuant to this section until 15 days after submitting to the congressional intelligence committees a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (h), and including the proposed regulations issued pursuant to subsection (i).
 - **(k)** In addition to any other payment that is required to be made under subchapter III of chapter 83 or chapter 84 of title 5, the National Security Agency shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund, an amount equal to 15 percent of the final basic pay of each employee to whom a voluntary separation payment has been or is to be paid under this section. The remittance required by this subsection shall be in lieu of any remittance required by section 4(a) of the Federal Workforce Restructuring Act of 1994 ( 5 U.S.C. 8331 note).

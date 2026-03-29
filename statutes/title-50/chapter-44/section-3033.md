@@ -3,9 +3,9 @@ title: "Section 3033 - Inspector General of the Intelligence Community"
 usc_title: 50
 usc_section: "3033"
 chapter: 44
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 3033"
-generated_at: "2026-03-29T23:53:23.638Z"
+generated_at: "2026-03-29T23:57:33.283Z"
 ---
 
 # § 3033. Inspector General of the Intelligence Community
@@ -29,7 +29,42 @@ generated_at: "2026-03-29T23:53:23.638Z"
     - **(B)** on the basis of integrity, compliance with security standards of the intelligence community, and prior experience in the field of intelligence or national security; and
     - **(C)** on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or investigations.
   - **(3)** The Inspector General shall report directly to and be under the general supervision of the Director of National Intelligence.
-  - **(4)** The Inspector General may be removed from office only by the President. The President shall communicate in writing to the congressional intelligence committees the reasons for the removal not later than 30 days prior to the effective date of such removal. Nothing in this paragraph shall be construed to prohibit a personnel action otherwise authorized by law, other than transfer or removal.
+  - **(4)**
+    - **(A)** The Inspector General may be removed from office only by the President. The President shall communicate in writing to the congressional intelligence committees the substantive rationale, including detailed and case-specific reasons, for the removal not later than 30 days prior to the effective date of such removal. Nothing in this paragraph shall be construed to prohibit a personnel action otherwise authorized by law, other than transfer or removal.
+    - **(B)** If there is an open or completed inquiry into the Inspector General that relates to the removal or transfer of the Inspector General under subparagraph (A), the written communication required under that subparagraph shall—
+      - **(i)** identify each entity that is conducting, or that conducted, the inquiry; and
+      - **(ii)** in the case of a completed inquiry, contain the findings made during the inquiry.
+  - **(5)**
+    - **(A)** Subject to the other provisions of this paragraph, only the President may place the Inspector General on nonduty status.
+    - **(B)** If the President places the Inspector General on nonduty status, the President shall communicate in writing the substantive rationale, including detailed and case-specific reasons, for the change in status to the congressional intelligence committees not later than 15 days before the date on which the change in status takes effect, except that the President may submit that communication not later than the date on which the change in status takes effect if—
+      - **(i)** the President has made a determination that the continued presence of the Inspector General in the workplace poses a threat described in any of clauses (i) through (iv) of section 6329b(b)(2)(A) of title 5 ; and
+      - **(ii)** in the communication, the President includes a report on the determination described in clause (i), which shall include—
+        - **(I)** a specification of which clause of section 6329b(b)(2)(A) of title 5 the President has determined applies under clause (i);
+        - **(II)** the substantive rationale, including detailed and case-specific reasons, for the determination made under clause (i);
+        - **(III)** an identification of each entity that is conducting, or that conducted, any inquiry upon which the determination under clause (i) was made; and
+        - **(IV)** in the case of an inquiry described in subclause (III) that is completed, the findings made during that inquiry.
+    - **(C)** The President may not place the Inspector General on nonduty status during the 30-day period preceding the date on which the Inspector General is removed or transferred under paragraph (4)(A) unless the President—
+      - **(i)** has made a determination that the continued presence of the Inspector General in the workplace poses a threat described in any of clauses (i) through (iv) of section 6329b(b)(2)(A) of title 5 ; and
+      - **(ii)** not later than the date on which the change in status takes effect, submits to the congressional intelligence committees a written communication that contains the information required under subparagraph (B), including the report required under clause (ii) of that subparagraph.
+  - **(6)**
+    - **(A)** In this subsection, the term “first assistant to the position of Inspector General” has the meaning given in section 3 1 1 See References in Text note below. of the Inspector General Act of 1978 (5 U.S.C. App.).
+    - **(B)** If the Inspector General dies, resigns, or is otherwise unable to perform the functions and duties of the position—
+      - **(i)** section 3345(a) of title 5 and section 3025(e) of this title shall not apply;
+      - **(ii)** subject to subparagraph (D), the first assistant to the position of Inspector General shall perform the functions and duties of the Inspector General temporarily in an acting capacity subject to the time limitations of section 3346 of title 5 ; and
+      - **(iii)** notwithstanding clause (ii), and subject to subparagraphs (D) and (E), the President (and only the President) may direct an officer or employee of any Office of an Inspector General to perform the functions and duties of the Inspector General temporarily in an acting capacity subject to the time limitations of section 3346 of title 5 only if—
+        - **(I)** during the 365-day period preceding the date of death, resignation, or beginning of inability to serve of the Inspector General, the officer or employee served in a position in an Office of an Inspector General for not less than 90 days, except that—
+        - **(II)** the rate of pay for the position of the officer or employee described in subclause (I) is equal to or greater than the minimum rate of pay payable for a position at GS–15 of the General Schedule;
+        - **(III)** the officer or employee has demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations; and
+        - **(IV)** not later than 30 days before the date on which the direction takes effect, the President communicates in writing to the congressional intelligence committees the substantive rationale, including the detailed and case-specific reasons, for such direction, including the reason for the direction that someone other than the individual who is performing the functions and duties of the Inspector General temporarily in an acting capacity (as of the date on which the President issues that direction) perform those functions and duties temporarily in an acting capacity.
+    - **(C)** Notwithstanding section 3345(a) of title 5 , section 3025(e) of this title , and clauses (ii) and (iii) of subparagraph (B), and subject to subparagraph (D), during any period in which the Inspector General is on nonduty status—
+      - **(i)** the first assistant to the position of Inspector General shall perform the functions and duties of the position temporarily in an acting capacity subject to the time limitations of section 3346 of title 5 ; and
+      - **(ii)** if the first assistant described in clause (i) dies, resigns, or becomes otherwise unable to perform those functions and duties, the President (and only the President) may direct an officer or employee in the Office of Inspector General to perform those functions and duties temporarily in an acting capacity, subject to the time limitations of section 3346 of title 5 , if—
+        - **(I)** that direction satisfies the requirements under subclauses (II), (III), and (IV) of subparagraph (B)(iii); and
+        - **(II)** that officer or employee served in a position in that Office of Inspector General for not fewer than 90 of the 365 days preceding the date on which the President makes that direction.
+    - **(D)** An individual may perform the functions and duties of the Inspector General temporarily and in an acting capacity under clause (ii) or (iii) of subparagraph (B), or under subparagraph (C), with respect to only 1 Inspector General position at any given time.
+    - **(E)** If the President makes a direction under subparagraph (B)(iii), during the 30-day period preceding the date on which the direction of the President takes effect, the functions and duties of the position of the Inspector General shall be performed by—
+      - **(i)** the first assistant to the position of Inspector General; or
+      - **(ii)** the individual performing those functions and duties temporarily in an acting capacity, as of the date on which the President issues that direction, if that individual is an individual other than the first assistant to the position of Inspector General.
 - **(d)** Subject to the policies of the Director of National Intelligence, the Inspector General of the Intelligence Community shall—
   - **(1)** appoint an Assistant Inspector General for Audit who shall have the responsibility for supervising the performance of auditing activities relating to programs and activities within the responsibility and authority of the Director;
   - **(2)** appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and activities; and
@@ -130,13 +165,13 @@ generated_at: "2026-03-29T23:53:23.638Z"
     - **(F)** An action taken by the Director or the Inspector General under this paragraph shall not be subject to judicial review.
     - **(G)**
       - **(i)** In this paragraph, the term “urgent concern” means any of the following:
-        - **(I)** A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operation of an intelligence activity within the responsibility and authority of the Director of National Intelligence involving classified information, but does not include differences of opinions concerning public policy matters.
+        - **(I)** A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operation of an intelligence activity of the Federal Government that is—
         - **(II)** A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
         - **(III)** An action, including a personnel action described in section 2302(a)(2)(A) of title 5 , constituting reprisal or threat of reprisal prohibited under subsection (g)(3)(B) of this section in response to an employee’s reporting an urgent concern in accordance with this paragraph.
       - **(ii)** Within the executive branch, the Inspector General shall have sole authority to determine whether any complaint or information reported to the Inspector General is a matter of urgent concern under this paragraph.
-    - **(H)** Nothing in this section shall be construed to limit the protections afforded to an employee under section 3517(d) of this title or section 8H of the Inspector General Act of 1978 (5 U.S.C. App.).
+    - **(H)** Nothing in this section shall be construed to limit the protections afforded to an employee under section 3517(d) of this title or section 416 of title 5 .
     - **(I)** An individual who has submitted a complaint or information to the Inspector General under this section may notify any member of either of the congressional intelligence committees, or a staff member of either of such committees, of the fact that such individual has made a submission to the Inspector General, and of the date on which such submission was made.
-  - **(6)** In accordance with section 535 of title 28 , the Inspector General shall expeditiously report to the Attorney General any information, allegation, or complaint received by the Inspector General relating to violations of Federal criminal law that involves 1 1 So in original. Probably should be “involve”. a program or operation of an element of the intelligence community, or in the relationships between the elements of the intelligence community, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of each such report shall be furnished to the Director.
+  - **(6)** In accordance with section 535 of title 28 , the Inspector General shall expeditiously report to the Attorney General any information, allegation, or complaint received by the Inspector General relating to violations of Federal criminal law that involves 2 2 So in original. Probably should be “involve”. a program or operation of an element of the intelligence community, or in the relationships between the elements of the intelligence community, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of each such report shall be furnished to the Director.
 - **(l)** Except as resolved pursuant to subsection (h), the performance by the Inspector General of the Intelligence Community of any duty, responsibility, or function regarding an element of the intelligence community shall not be construed to modify or affect the duties and responsibilities of any other inspector general having duties and responsibilities relating to such element.
 - **(m)** The Director of National Intelligence shall, in accordance with procedures issued by the Director in consultation with the congressional intelligence committees, include in the National Intelligence Program budget a separate account for the Office of the Inspector General of the Intelligence Community.
 - **(n)**

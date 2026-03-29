@@ -3,9 +3,9 @@ title: "Section 142k - Library of Congress disbursing office; payroll processing
 usc_title: 2
 usc_section: "142k"
 chapter: 5
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "2 U.S.C. § 142k"
-generated_at: "2026-03-29T23:50:07.797Z"
+generated_at: "2026-03-29T23:54:02.901Z"
 ---
 
 # § 142k. Library of Congress disbursing office; payroll processing functions

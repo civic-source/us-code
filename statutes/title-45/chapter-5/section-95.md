@@ -3,9 +3,9 @@ title: "Section 95 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 S
 usc_title: 45
 usc_section: "95"
 chapter: 5
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "45 U.S.C. § 95"
-generated_at: "2026-03-29T23:52:52.318Z"
+generated_at: "2026-03-29T23:57:05.558Z"
 ---
 
 # §§ 94, 95. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

@@ -3,9 +3,9 @@ title: "Section 7721 - Plant pest and disease management and disaster prevention
 usc_title: 7
 usc_section: "7721"
 chapter: 104
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "7 U.S.C. § 7721"
-generated_at: "2026-03-29T23:50:42.222Z"
+generated_at: "2026-03-29T23:54:15.679Z"
 ---
 
 # § 7721. Plant pest and disease management and disaster prevention
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T23:50:42.222Z"
   - **(2)** In carrying out this subsection, the Secretary shall consult with—
     - **(A)** the National Plant Board; and
     - **(B)** other interested parties.
-  - **(3)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations under this subsection.
+  - **(3)** Chapter 10 of title 5 shall not apply to consultations under this subsection.
   - **(4)**
     - **(A)** A State department of agriculture seeking to enter into a cooperative agreement under this subsection shall submit to the Secretary an application containing such information as the Secretary may require.
     - **(B)** The Secretary shall notify applicants of—

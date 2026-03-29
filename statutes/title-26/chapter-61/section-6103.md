@@ -3,9 +3,9 @@ title: "Section 6103 - Confidentiality and disclosure of returns and return info
 usc_title: 26
 usc_section: "6103"
 chapter: 61
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 6103"
-generated_at: "2026-03-29T23:52:10.245Z"
+generated_at: "2026-03-29T23:56:24.910Z"
 ---
 
 # § 6103. Confidentiality and disclosure of returns and return information
@@ -581,5 +581,10 @@ generated_at: "2026-03-29T23:52:10.245Z"
   - **(7)** The Secretary shall by regulations prescribe procedures which provide for administrative review of any determination under paragraph (4) that any agency, body, or commission described in subsection (d) has failed to meet the requirements of such paragraph.
   - **(8)**
     - **(A)** Notwithstanding any other provision of this section, no return or return information shall be disclosed after December 31, 1978 , to any officer or employee of any State which requires a taxpayer to attach to, or include in, any State tax return a copy of any portion of his Federal return, or information reflected on such Federal return, unless such State adopts provisions of law which protect the confidentiality of the copy of the Federal return (or portion thereof) attached to, or the Federal return information reflected on, such State tax return.
-    - **(B)** Nothing in subparagraph (A) shall be construed to prohibit the disclosure by an officer or employee of any State of any copy of any portion of a Federal return or any information on a Federal return which is required to be attached or included in a State return to another officer or employee of such State (or political subdivision of such State) if such disclosure is specifically authorized by State law.
+    - **(B)** Nothing in subparagraph (A) or paragraph (9) shall be construed to prohibit the disclosure by an officer or employee of any State of any copy of any portion of a Federal return or any information on a Federal return which is required to be attached or included in a State return to another officer or employee of such State (or political subdivision of such State) if such disclosure is specifically authorized by State law.
+  - **(9)** Notwithstanding any other provision of this section, no return or return information shall be disclosed to any contractor or other agent of a Federal, State, or local agency unless such agency, to the satisfaction of the Secretary—
+    - **(A)** has requirements in effect which require each such contractor or other agent which would have access to returns or return information to provide safeguards (within the meaning of paragraph (4)) to protect the confidentiality of such returns or return information,
+    - **(B)** agrees to conduct an on-site review every 3 years (or a mid-point review in the case of contracts or agreements of less than 3 years in duration) of each contractor or other agent to determine compliance with such requirements,
+    - **(C)** submits the findings of the most recent review conducted under subparagraph (B) to the Secretary as part of the report required by paragraph (4)(E), and
+    - **(D)** certifies to the Secretary for the most recent annual period that such contractor or other agent is in compliance with all such requirements.
 - **(q)** The Secretary is authorized to prescribe such other regulations as are necessary to carry out the provisions of this section.

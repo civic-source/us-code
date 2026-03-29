@@ -3,9 +3,9 @@ title: "Section 273 - Lease of lands not covered by permits or leases; acreage; 
 usc_title: 30
 usc_section: "273"
 chapter: 3
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "30 U.S.C. § 273"
-generated_at: "2026-03-29T23:51:31.955Z"
+generated_at: "2026-03-29T23:55:54.922Z"
 ---
 
 # § 273. Lease of lands not covered by permits or leases; acreage; rental

@@ -3,9 +3,9 @@ title: "Section 360j - General provisions respecting control of devices intended
 usc_title: 21
 usc_section: "360j"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 360j"
-generated_at: "2026-03-29T23:51:22.711Z"
+generated_at: "2026-03-29T23:55:43.324Z"
 ---
 
 # § 360j. General provisions respecting control of devices intended for human use
@@ -108,6 +108,18 @@ generated_at: "2026-03-29T23:51:22.711Z"
       - **(i)** the device involved represents an unreasonable risk to the safety of the persons who are the subjects of the clinical investigation, taking into account the qualifications of the clinical investigators, information about the device, the design of the clinical investigation, the condition for which the device is to be investigated, and the health status of the subjects involved; or
       - **(ii)** the clinical hold should be issued for such other reasons as the Secretary may by regulation establish.
     - **(C)** Any written request to the Secretary from the sponsor of an investigation that a clinical hold be removed shall receive a decision, in writing and specifying the reasons therefor, within 30 days after receipt of such request. Any such request shall include sufficient information to support the removal of such clinical hold.
+  - **(9)**
+    - **(A)**
+      - **(i)** 1 1 See Delayed Applicability of Amendment note below. The sponsor of a device for which submission of an application for an investigational device exemption is required shall submit to the Secretary in such application a diversity action plan for clinical studies of the device, in the form and manner specified in guidance issued by the Secretary.
+      - **(ii)** The sponsor of a device for which submission of an application for an investigational device exemption is not required, except for a device being studied as described in section 812.2(c) of title 21, Code of Federal Regulations (or successor regulations), shall develop a diversity action plan for any clinical study with respect to the device. Such diversity action plan shall be submitted to the Secretary in any premarket notification under section 360(k) of this title , request for classification under section 360c(f)(2) of this title , or application for premarket approval under section 360e of this title for such device.
+    - **(B)** A diversity action plan under clause (i) or (ii) of subparagraph (A) shall include—
+      - **(i)** the sponsor’s goals for enrollment in the clinical study;
+      - **(ii)** the sponsor’s rationale for such goals; and
+      - **(iii)** an explanation of how the sponsor intends to meet such goals.
+    - **(C)**
+      - **(i)** On the initiative of the Secretary or at the request of a sponsor, the Secretary may waive any requirement in subparagraph (A) or (B) if the Secretary determines that a waiver is necessary based on what is known or can be determined about the prevalence or incidence of the disease or condition for which the device is under investigation (including in terms of the patient population that may use the device), if conducting a clinical investigation in accordance with a diversity action plan would otherwise be impracticable, or if such waiver is necessary to protect public health during a public health emergency.
+      - **(ii)** The Secretary shall issue a written response granting or denying a request from a sponsor for a waiver within 60 days of receiving such request.
+    - **(D)** No diversity action plan shall be required for a submission described in section 360bbb of this title .
 - **(h)**
   - **(1)** The Secretary shall promulgate regulations under which a detailed summary of information respecting the safety and effectiveness of a device which information was submitted to the Secretary and which was the basis for—
     - **(A)** an order under section 360e(d)(1)(A) of this title approving an application for premarket approval for the device or denying approval of such an application or an order under section 360e(e) of this title withdrawing approval of such an application for the device,
@@ -175,7 +187,7 @@ generated_at: "2026-03-29T23:51:22.711Z"
         - **(II)** is intended for the treatment or diagnosis of a disease or condition that does not occur in pediatric patients or that occurs in pediatric patients in such numbers that the development of the device for such patients is impossible, highly impracticable, or unsafe.
       - **(ii)** During any calendar year, the number of such devices distributed during that year under each exemption granted under this subsection does not exceed the annual distribution number for such device. In this paragraph, the term “annual distribution number” means the number of such devices reasonably needed to treat, diagnose, or cure a population of 8,000 individuals in the United States. The Secretary shall determine the annual distribution number when the Secretary grants such exemption.
       - **(iii)** Such person immediately notifies the Secretary if the number of such devices distributed during any calendar year exceeds the annual distribution number referred to in clause (ii).
-      - **(iv)** The request for such exemption is submitted on or before December 24, 2022 .
+      - **(iv)** The request for such exemption is submitted on or before October 1, 2027 .
     - **(B)** The Secretary may inspect the records relating to the number of devices distributed during any calendar year of a person granted an exemption under paragraph (2) for which the prohibition in paragraph (3) does not apply.
     - **(C)** A person may petition the Secretary to modify the annual distribution number determined by the Secretary under subparagraph (A)(ii) with respect to a device if additional information arises, and the Secretary may modify such annual distribution number.
     - **(D)** If a person notifies the Secretary, or the Secretary determines through an inspection under subparagraph (B), that the number of devices distributed during any calendar year exceeds the annual distribution number, as required under subparagraph (A)(iii), and modified under subparagraph (C), if applicable, then the prohibition in paragraph (3) shall apply with respect to such person for such device for any sales of such device after such notification.
@@ -192,7 +204,7 @@ generated_at: "2026-03-29T23:51:22.711Z"
   - **(1)** All contact lenses shall be deemed to be devices under section 321(h) of this title .
   - **(2)** Paragraph (1) shall not be construed as bearing on or being relevant to the question of whether any product other than a contact lens is a device as defined by section 321(h) of this title or a drug as defined by section 321(g) of this title .
 - **(o)**
-  - **(1)** The term device, 1 1 So in original. Probably should be “The term ‘device’,”. as defined in section 321(h) of this title , shall not include a software function that is intended—
+  - **(1)** The term device, 2 2 So in original. Probably should be “The term ‘device’,”. as defined in section 321(h) of this title , shall not include a software function that is intended—
     - **(A)** for administrative support of a health care facility, including the processing and maintenance of financial records, claims or billing information, appointment schedules, business analytics, information about patient populations, admissions, practice and inventory management, analysis of historical claims data to predict future utilization or cost-effectiveness, determination of health benefit eligibility, population health management, and laboratory workflow;
     - **(B)** for maintaining or encouraging a healthy lifestyle and is unrelated to the diagnosis, cure, mitigation, prevention, or treatment of a disease or condition;
     - **(C)** to serve as electronic patient records, including patient-provided information, to the extent that such records are intended to transfer, store, convert formats, or display the equivalent of a paper medical chart, so long as—
@@ -237,7 +249,7 @@ generated_at: "2026-03-29T23:51:22.711Z"
   - **(4)** For purposes of this subsection—
     - **(A)** the term “applicable medical imaging device” means a device intended to be used in conjunction with a contrast agent (or class of contrast agents) for an imaging use that is not described in the approved labeling of such contrast agent (or the approved labeling of any contrast agent in the same class as such contrast agent); and
     - **(B)** the term “contrast agent” means a drug that is approved under section 355 of this title or licensed under section 262 of title 42 , is intended for use in conjunction with an applicable medical imaging device, and—
-      - **(i)** is a diagnostic radiopharmaceutical, as defined in section 2 2 So in original. Probably should be “sections”. 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
+      - **(i)** is a diagnostic radiopharmaceutical, as defined in section 3 3 So in original. Probably should be “sections”. 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
       - **(ii)** is a diagnostic agent that improves the visualization of structure or function within the body by increasing the relative difference in signal intensity within the target tissue, structure, or fluid.
 - **(q)**
   - **(1)**

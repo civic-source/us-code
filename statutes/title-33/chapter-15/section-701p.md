@@ -3,9 +3,9 @@ title: "Section 701p - Railroad bridge alterations at Federal expense"
 usc_title: 33
 usc_section: "701p"
 chapter: 15
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 701p"
-generated_at: "2026-03-29T23:52:21.924Z"
+generated_at: "2026-03-29T23:56:30.034Z"
 ---
 
 # § 701p. Railroad bridge alterations at Federal expense

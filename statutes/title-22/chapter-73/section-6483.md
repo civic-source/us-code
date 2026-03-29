@@ -3,9 +3,9 @@ title: "Section 6483 - Sense of Congress regarding national security strategy to
 usc_title: 22
 usc_section: "6483"
 chapter: 73
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 6483"
-generated_at: "2026-03-29T23:51:29.536Z"
+generated_at: "2026-03-29T23:55:52.495Z"
 ---
 
 # § 6483. Sense of Congress regarding national security strategy to promote religious freedom through United States foreign policy

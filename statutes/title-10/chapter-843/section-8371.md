@@ -3,12 +3,12 @@ title: "Section 8371 - Mandatory retirement: Superintendent of the United States
 usc_title: 10
 usc_section: "8371"
 chapter: 843
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 8371"
-generated_at: "2026-03-29T23:50:22.331Z"
+generated_at: "2026-03-29T23:54:20.074Z"
 ---
 
 # § 8371. Mandatory retirement: Superintendent of the United States Naval Academy; waiver authority
 
 - **(a)** Upon the termination of the detail of an officer to the position of Superintendent of the United States Naval Academy, the Secretary of the Navy shall retire the officer under any provision of chapter 841 of this title under which the officer is eligible to retire.
-- **(b)** The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment.
+- **(b)** The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment. In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to a further assignment in lieu of retirement shall be subject to the advice and consent of the Senate.

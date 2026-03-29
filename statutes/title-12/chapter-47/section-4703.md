@@ -3,9 +3,9 @@ title: "Section 4703 - Establishment of national Fund for community development 
 usc_title: 12
 usc_section: "4703"
 chapter: 47
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "12 U.S.C. § 4703"
-generated_at: "2026-03-29T23:51:02.409Z"
+generated_at: "2026-03-29T23:54:35.018Z"
 ---
 
 # § 4703. Establishment of national Fund for community development banking
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T23:51:02.409Z"
   - **(6)** may utilize or employ the services of personnel of any agency or instrumentality of the United States with the consent of the agency or instrumentality concerned on a reimbursable or nonreimbursable basis; and
   - **(7)** may execute all instruments necessary or appropriate in the exercise of any of the functions of the Fund under this subchapter and subchapter II of this chapter and may delegate to the officers of the Fund such of the powers and responsibilities of the Administrator as the Administrator deems necessary or appropriate for the administration of the Fund.
 - **(d)**
-  - **(1)** There is established an advisory board to the Fund to be known as the Community Development Advisory Board, which shall be operated in accordance with the provisions of the Federal Advisory Committee Act, except that section 14 of that Act does not apply to the Board.
+  - **(1)** There is established an advisory board to the Fund to be known as the Community Development Advisory Board, which shall be operated in accordance with the provisions of chapter 10 of title 5, except that section 1013 of title 5 does not apply to the Board.
   - **(2)** The Board shall consist of 15 members, including—
     - **(A)** the Secretary of Agriculture or his or her designee;
     - **(B)** the Secretary of Commerce or his or her designee;
@@ -49,7 +49,7 @@ generated_at: "2026-03-29T23:51:02.409Z"
     - **(A)** Each member of the Board appointed under paragraph (2)(G) shall serve for a term of 4 years.
     - **(B)** Any member appointed to fill a vacancy occurring prior to the expiration of the term for which the previous member was appointed shall be appointed for the remainder of such term. Members may continue to serve following the expiration of their terms until a successor is appointed.
   - **(6)** The Board shall meet at least annually and at such other times as requested by the Administrator or the chairperson. A majority of the members of the Board shall constitute a quorum.
-  - **(7)** The members of the Board may receive reimbursement for travel, per diem, and other necessary expenses incurred in the performance of their duties, in accordance with the Federal Advisory Committee Act.
+  - **(7)** The members of the Board may receive reimbursement for travel, per diem, and other necessary expenses incurred in the performance of their duties, in accordance with chapter 10 of title 5.
   - **(8)** The Fund shall provide to the Board all necessary staff and facilities.
 - **(e)**
 - **(f)** Section 9107(b) of title 31 , shall not apply to deposits of the Fund made pursuant to section 4707 of this title .

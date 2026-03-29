@@ -3,9 +3,9 @@ title: "Section 2901 - Congressional findings and statement of purpose"
 usc_title: 12
 usc_section: "2901"
 chapter: 30
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "12 U.S.C. § 2901"
-generated_at: "2026-03-29T23:51:02.384Z"
+generated_at: "2026-03-29T23:54:34.990Z"
 ---
 
 # § 2901. Congressional findings and statement of purpose

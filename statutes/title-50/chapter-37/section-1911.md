@@ -3,9 +3,9 @@ title: "Section 1911 - Additional annual authorization of appropriations"
 usc_title: 50
 usc_section: "1911"
 chapter: 37
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 1911"
-generated_at: "2026-03-29T23:53:23.617Z"
+generated_at: "2026-03-29T23:57:33.262Z"
 ---
 
 # § 1911. Additional annual authorization of appropriations

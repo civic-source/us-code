@@ -3,9 +3,9 @@ title: "Section 350a - Infant formulas"
 usc_title: 21
 usc_section: "350a"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 350a"
-generated_at: "2026-03-29T23:51:22.691Z"
+generated_at: "2026-03-29T23:55:43.298Z"
 ---
 
 # § 350a. Infant formulas
@@ -47,7 +47,7 @@ generated_at: "2026-03-29T23:51:22.691Z"
 - **(c)**
   - **(1)** No person shall introduce or deliver for introduction into interstate commerce any new infant formula unless—
     - **(A)** such person has, before introducing such new infant formula, or delivering such new infant formula for introduction, into interstate commerce, registered with the Secretary the name of such person, the place of business of such person, and all establishments at which such person intends to manufacture such new infant formula, and
-    - **(B)** such person has at least 90 days before marketing such new infant formula, made the submission to the Secretary required by subsection (c)(1).
+    - **(B)** such person has at least 90 days before marketing such new infant formula, made the submission to the Secretary required by subsection (d)(1).
   - **(2)** For purposes of paragraph (1), the term “new infant formula” includes—
     - **(A)** an infant formula manufactured by a person which has not previously manufactured an infant formula, and
     - **(B)** an infant formula manufactured by a person which has previously manufactured infant formula and in which there is a major change, in processing or formulation, from a current or any previous formulation produced by such manufacturer.
@@ -59,6 +59,7 @@ generated_at: "2026-03-29T23:51:22.691Z"
     - **(D)** assurances that the processing of the infant formula complies with subsection (b)(2).
   - **(2)** After the first production of an infant formula subject to subsection (c), and before the introduction into interstate commerce of such formula, the manufacturer of such formula shall submit to the Secretary, in such form as may be prescribed by the Secretary, a written verification which summarizes test results and records demonstrating that such formula complies with the requirements of subsections (b)(1), (b)(2)(A), (b)(2)(B)(i), (b)(2)(B)(iii), (b)(3)(A), (b)(3)(C), and (i).
   - **(3)** If the manufacturer of an infant formula for commercial or charitable distribution for human consumption determines that a change in the formulation of the formula or a change in the processing of the formula may affect whether the formula is adulterated under subsection (a), the manufacturer shall, before the first processing of such formula, make the submission to the Secretary required by paragraph (1).
+  - **(4)** The Secretary shall provide a response to a submission under this subsection not later than 45 days after receiving such submission.
 - **(e)**
   - **(1)** If the manufacturer of an infant formula has knowledge which reasonably supports the conclusion that an infant formula which has been processed by the manufacturer and which has left an establishment subject to the control of the manufacturer—
     - **(A)** may not provide the nutrients required by subsection (i), or
@@ -79,7 +80,33 @@ generated_at: "2026-03-29T23:51:22.691Z"
     - **(B)** who otherwise has an unusual medical or dietary problem,
   - **(2)** The Secretary may by regulation establish terms and conditions for the exemption of an infant formula from the requirements of subsections (a), (b), and (c). An exemption of an infant formula under paragraph (1) may be withdrawn by the Secretary if such formula is not in compliance with applicable terms and conditions prescribed under this paragraph.
 - **(i)**
-  - **(1)** An infant formula shall contain nutrients in accordance with the table set out in this subsection or, if revised by the Secretary under paragraph (2), as so revised.
+  - **(1)** An infant formula shall contain nutrients in accordance with the table set out in this subsection, which shall be reviewed by the Secretary every 4 years as appropriate. In reviewing such table, the Secretary shall consider any new scientific data or information related to infant formula nutrients, including international infant formula standards. The Secretary may revise the list of nutrients and the required level for any nutrient required by the table.
   - **(2)** The Secretary may by regulation—
     - **(A)** revise the list of nutrients in the table in this subsection, and
     - **(B)** revise the required level for any nutrient required by the table. NUTRIENTS Nutrient Minimum a Maximum a a Stated per 100 kilocalories. b The source of protein shall be at least nutritionally equivalent to casein. c Retinol equivalents. d Required to be included in this amount only in formulas which are not milk-based. e Calcium to phosphorus ratio must be no less than 1.1 nor more than 2.0. Protein (gm) 1.8 b 4.5. Fat: gm 3.3 6.0. percent cal 30.0 54.0. Essential fatty acids (linoleate): percent cal 2.7 mg 300.0 Vitamins: A (IU) 250.0 (75 μg) c 750.0 (225 μg). c D (IU) 40.0 100.0. K (μg) 4.0 E (IU) 0.7 (with 0.7 IU/gm linoleic acid) C (ascorbic acid) (mg) 8.0 B 1 (thiamine) (μg) 40.0 B 2 (riboflavin) (μg) 60.0 B 6 (pyridoxine) (μg) 35.0 (with 15 μg/gm of protein in formula) B 12 (μg) 0.15 Niacin (μg) 250.0 Folic acid (μg) 4.0 Pantothenic acid (μg) 300.0 Biotin (μg) 1.5 d Choline (mg) 7.0 d Inositol (mg) 4.0 d Minerals: Calcium (mg) 50.0 e Phosphorus (mg) 25.0 e Magnesium (mg) 6.0 Iron (mg) 0.15 Iodine (μg) 5.0 Zinc (mg) 0.5 Copper (μg) 60.0 Manganese (μg) 5.0 Sodium (mg) 20.0 60.0. Potassium (mg) 80.0 200.0. Chloride (mg) 55.0 150.0.
+- **(j)**
+  - **(1)** The Secretary shall waive the 90-day premarket submission requirement under subsection (c) and apply a 30-day premarket submission requirement for any person who intends to introduce or deliver for introduction into interstate commerce any new infant formula.
+  - **(2)** The waiver authority under this subsection shall remain in effect—
+    - **(A)** for 90 days beginning on the date that the Secretary distributes information under section 350m(a)(2) of this title with respect to a shortage of infant formula; or
+    - **(B)** such longer period as the Secretary determines appropriate, to prevent or mitigate a shortage of infant formula.
+- **(k)**
+  - **(1)** Not later than 24 hours after the initiation of a recall of infant formula as described in subsection (e), the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a notification of such recall.
+  - **(2)** A notification under paragraph (1) shall include the following:
+    - **(A)** If the recall is required by the Food and Drug Administration, a summary of the information supporting a determination that the adulterated or misbranded infant formula presents a risk to human health.
+    - **(B)** If the recall is voluntarily initiated by the manufacturer, a summary of the information provided to the Food and Drug Administration by the manufacturer regarding infant formula that has left the control of the manufacturer that may be adulterated or misbranded.
+    - **(C)** Specification of when the Food and Drug Administration was first made aware of the instance or circumstances surrounding the recall.
+    - **(D)** An initial estimate of the disruption in domestic production that may result from the recall.
+- **(l)**
+  - **(1)** Not later than March 30 of each year, the Secretary shall submit a report to Congress containing, with respect to the preceding calendar year, the following information:
+    - **(A)** The number of submissions received by the Secretary under subsection (d).
+    - **(B)** The number of such submissions that included any new ingredients that were not included in any infant formula already on the market.
+    - **(C)** The number of inspections conducted by the Food and Drug Administration or any agent thereof to evaluate compliance with the requirements for infant formulas under subsection (b).
+    - **(D)** The time between any inspection referred to in subparagraph (C) and any necessary reinspection to evaluate compliance with the requirements for infant formulas under subsection (b).
+    - **(E)** A breakdown of the information described in subparagraphs (A) through (D) between foreign and domestic manufacturers and facilities.
+  - **(2)** The Secretary shall ensure that the reports under paragraph (1) do not include any information that is a trade secret or confidential information subject to section 552(b)(4) of title 5 or section 1905 of title 18 .
+- **(m)**
+  - **(1)** The Secretary may, during a shortage of specialty infant formula as determined by the Secretary, waive any requirement under this chapter applicable to facilitate the importation of specialty infant formula. Such a waiver may be applicable to—
+    - **(A)** the importation of specialty infant formula from any country that is determined by the Secretary to be implementing and enforcing requirements for infant formula that provide a similar assurance of safety and nutritional adequacy as the requirements of this chapter; or
+    - **(B)** the distribution and sale of such imported specialty infant formula.
+  - **(2)** Nothing in paragraph (1) shall be construed to limit the authority of the Secretary to require a recall of, or otherwise impose restrictions and requirements under this chapter with respect to, specialty infant formula that is subject to a waiver under paragraph (1).
+  - **(3)** In this subsection, the term “specialty infant formula” means infant formula described in subsection (h)(1).

@@ -3,9 +3,9 @@ title: "Section 2210 - Indemnification and limitation of liability"
 usc_title: 42
 usc_section: "2210"
 chapter: 23
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 2210"
-generated_at: "2026-03-29T23:53:16.428Z"
+generated_at: "2026-03-29T23:57:26.939Z"
 ---
 
 # § 2210. Indemnification and limitation of liability
@@ -96,7 +96,7 @@ generated_at: "2026-03-29T23:53:16.428Z"
   - **(2)** such contracts of indemnification shall cover public liability arising out of or in connection with the licensed activity; and shall include damage to property of persons indemnified, except property which is located at the site of and used in connection with the activity where the nuclear incident occurs; and
   - **(3)** such contracts of indemnification, when entered into with a licensee having immunity from public liability because it is a State agency, shall provide also that the Commission shall make payments under the contract on account of activities of the licensee in the same manner and to the same extent as the Commission would be required to do if the licensee were not such a State agency.
 - **(l)**
-  - **(1)** Not later than 90 days after August 20, 1988 , the President shall establish a commission (in this subsection referred to as the “study commission”) in accordance with the Federal Advisory Committee Act (5 U.S.C. App.) to study means of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1).
+  - **(1)** Not later than 90 days after August 20, 1988 , the President shall establish a commission (in this subsection referred to as the “study commission”) in accordance with chapter 10 of title 5 to study means of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1).
   - **(2)**
     - **(A)** The study commission shall consist of not less than 7 and not more than 11 members, who—
       - **(i)** shall be appointed by the President; and
@@ -110,12 +110,12 @@ generated_at: "2026-03-29T23:53:16.428Z"
     - **(B)** recommendations for any standards or procedures that are necessary to establish priorities for the hearing, resolution, and payment of claims when awards are likely to exceed the amount of funds available within a specific time period; and
     - **(C)** recommendations for any special standards or procedures necessary to decide and pay claims for latent injuries caused by the nuclear incident.
   - **(4)**
-    - **(A)** The chairperson of the study commission may appoint and fix the compensation of a staff of such persons as may be necessary to discharge the responsibilities of the study commission, subject to the applicable provisions of the Federal Advisory Committee Act (5 U.S.C. App.) and title 5.
+    - **(A)** The chairperson of the study commission may appoint and fix the compensation of a staff of such persons as may be necessary to discharge the responsibilities of the study commission, subject to the applicable provisions of title 5.
     - **(B)** To the extent permitted by law and requested by the chairperson of the study commission, the Administrator of General Services shall provide the study commission with necessary administrative services, facilities, and support on a reimbursable basis.
     - **(C)** The Attorney General, the Secretary of Health and Human Services, and the Administrator of the Federal Emergency Management Agency shall, to the extent permitted by law and subject to the availability of funds, provide the study commission with such facilities, support, funds and services, including staff, as may be necessary for the effective performance of the functions of the study commission.
     - **(D)** The study commission may request any Executive agency to furnish such information, advice, or assistance as it determines to be necessary to carry out its functions. Each such agency is directed, to the extent permitted by law, to furnish such information, advice or assistance upon request by the chairperson of the study commission.
-    - **(E)** Each member of the study commission may receive compensation at the maximum rate prescribed by the Federal Advisory Committee Act (5 U.S.C. App.) for each day such member is engaged in the work of the study commission. Each member may also receive travel expenses, including per diem in lieu of subsistence under sections 5702 and 5703 of title 5.
-    - **(F)** The functions of the President under the Federal Advisory Committee Act (5 U.S.C. App.) that are applicable to the study commission, except the function of reporting annually to the Congress, shall be performed by the Administrator of General Services.
+    - **(E)** Each member of the study commission may receive compensation at the maximum rate prescribed by chapter 10 of title 5 for each day such member is engaged in the work of the study commission. Each member may also receive travel expenses, including per diem in lieu of subsistence under sections 5702 and 5703 of title 5.
+    - **(F)** The functions of the President under chapter 10 of title 5 that are applicable to the study commission, except the function of reporting annually to the Congress, shall be performed by the Administrator of General Services.
   - **(5)** The final report required in paragraph (3) shall be submitted to the Congress not later than the expiration of the 2-year period beginning on August 20, 1988 .
   - **(6)** The study commission shall terminate upon the expiration of the 2-month period beginning on the date on which the final report required in paragraph (3) is submitted.
 - **(m)** The Commission or the Secretary, as appropriate, is authorized to enter into agreements with other indemnitors to establish coordinated procedures for the prompt handling, investigation, and settlement of claims for public liability. The Commission or the Secretary, as appropriate, and other indemnitors may make payments to, or for the aid of, claimants for the purpose of providing immediate assistance following a nuclear incident. Any funds appropriated to the Commission or the Secretary, as appropriate, shall be available for such payments. Such payments may be made without securing releases, shall not constitute an admission of the liability of any person indemnified or of any indemnitor, and shall operate as a satisfaction to the extent thereof of any final settlement or judgment.

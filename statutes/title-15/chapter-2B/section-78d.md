@@ -3,9 +3,9 @@ title: "Section 78d - Securities and Exchange Commission"
 usc_title: 15
 usc_section: "78d"
 chapter: 2
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 78d"
-generated_at: "2026-03-29T23:50:50.488Z"
+generated_at: "2026-03-29T23:54:55.988Z"
 ---
 
 # § 78d. Securities and Exchange Commission
@@ -118,3 +118,8 @@ generated_at: "2026-03-29T23:50:50.488Z"
   - **(7)** The Commission shall establish procedures requiring a formal response to all recommendations submitted to the Commission by the Advocate for Small Business Capital Formation, not later than 3 months after the date of such submission.
   - **(8)** The Advocate for Small Business Capital Formation shall be responsible for planning, organizing, and executing the annual Government-Business Forum on Small Business Capital Formation described in section 80c–1 of this title .
   - **(9)** Nothing in this subsection may be construed as replacing or reducing the responsibilities of the Investor Advocate with respect to small business investors.
+- **(k)** All public data assets published by the Commission under the securities laws and the Dodd-Frank Wall Street Reform and Consumer Protection Act ( Public Law 111–203 ; 124 Stat. 1376 ) shall be—
+  - **(1)** made available as an open Government data asset (as defined in section 3502 of title 44 );
+  - **(2)** freely available for download;
+  - **(3)** rendered in a human-readable format; and
+  - **(4)** accessible via application programming interface where appropriate.

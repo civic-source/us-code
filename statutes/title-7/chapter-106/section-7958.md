@@ -3,9 +3,9 @@ title: "Section 7958 - Miscellaneous provisions"
 usc_title: 7
 usc_section: "7958"
 chapter: 106
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "7 U.S.C. § 7958"
-generated_at: "2026-03-29T23:50:42.228Z"
+generated_at: "2026-03-29T23:54:15.685Z"
 ---
 
 # § 7958. Miscellaneous provisions
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T23:50:42.228Z"
       - **(ii)** 1 producer member and peanut industry member from each peanut producing region serves a 2-year term; and
       - **(iii)** 1 producer member and peanut industry member from each peanut producing region serves a 3-year term.
   - **(4)** The Secretary shall consult with the Board in advance whenever the Secretary establishes or changes, or considers the establishment of or a change to, quality and handling standards for peanuts.
-  - **(5)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board.
+  - **(5)** Chapter 10 of title 5 shall not apply to the Board.
 - **(d)** The Secretary shall make identifying and combating the presence of all quality concerns related to peanuts a priority in the development of quality and handling standards for peanuts and in the inspection of domestically produced and imported peanuts. The Secretary shall consult with appropriate Federal and State agencies to provide adequate safeguards against all quality concerns related to peanuts.
 - **(e)** Imported peanuts shall be subject to the same quality and handling standards as apply to domestically produced peanuts.
 - **(f)**

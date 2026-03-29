@@ -1,22 +1,24 @@
 ---
-title: "Section 5a - Alcohol and drug prevention or treatment services for Indians and Native Alaskans"
+title: "Section 5a - Sobriety treatment and recovery teams"
 usc_title: 42
 usc_section: "5a"
 chapter: 6
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 5a"
-generated_at: "2026-03-29T23:53:16.095Z"
+generated_at: "2026-03-29T23:57:26.584Z"
 ---
 
-# § 290aa–5a. Alcohol and drug prevention or treatment services for Indians and Native Alaskans
+# § 290ee–5a. Sobriety treatment and recovery teams
 
-- **(a)** The Secretary shall award grants, contracts, or cooperative agreements to public and private nonprofit entities, including Native Alaskan entities and Indian tribes and tribal organizations, for the purpose of providing alcohol and drug prevention or treatment services for Indians and Native Alaskans.
-- **(b)** In awarding grants, contracts, or cooperative agreements under subsection (a), the Secretary shall give priority to applicants that—
-  - **(1)** propose to provide alcohol and drug prevention or treatment services on reservations;
-  - **(2)** propose to employ culturally-appropriate approaches, as determined by the Secretary, in providing such services; and
-  - **(3)** have provided prevention or treatment services to Native Alaskan entities and Indian tribes and tribal organizations for at least 1 year prior to applying for a grant under this section.
-- **(c)** The Secretary shall award grants, contracts, or cooperative agreements under subsection (a) for a period not to exceed 5 years.
-- **(d)** An entity desiring a grant, contract, or cooperative agreement under subsection (a) shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
-- **(e)** An entity that receives a grant, contract, or cooperative agreement under subsection (a) shall submit, in the application for such grant, a plan for the evaluation of any project undertaken with funds provided under this section. Such entity shall provide the Secretary with periodic evaluations of the progress of such project and such evaluation at the completion of such project as the Secretary determines to be appropriate. The final evaluation submitted by such entity shall include a recommendation as to whether such project shall continue.
-- **(f)** Not later than 3 years after October 17, 2000 , and annually thereafter, the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate, a report describing the services provided pursuant to this section.
-- **(g)** There are authorized to be appropriated to carry out this section, $15,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal years 2002 and 2003.
+- **(a)** The Secretary may make grants to States, units of local government, or tribal governments to establish or expand Sobriety Treatment And Recovery Team (referred to in this section as “START”) or other similar programs to determine the effectiveness of pairing social workers or mentors with families that are struggling with a substance use disorder and child abuse or neglect in order to help provide peer support, intensive treatment, and child welfare services to such families.
+- **(b)** A grant awarded under this section may be used for one or more of the following activities:
+  - **(1)** Training eligible staff, including social workers, social services coordinators, child welfare specialists, substance use disorder treatment professionals, and mentors.
+  - **(2)** Expanding access to substance use disorder treatment services and drug testing.
+  - **(3)** Enhancing data sharing with law enforcement agencies, child welfare agencies, substance use disorder treatment providers, judges, and court personnel.
+  - **(4)** Program evaluation and technical assistance.
+- **(c)** A State, unit of local government, or tribal government receiving a grant under this section shall—
+  - **(1)** serve only families for which—
+    - **(A)** there is an open record with the child welfare agency; and
+    - **(B)** substance use disorder was a reason for the record or finding described in paragraph (1); 1 1 So in original. Probably should be “subparagraph (A)”. and
+  - **(2)** coordinate any grants awarded under this section with any grant awarded under section 629g(f) of this title focused on improving outcomes for children affected by substance abuse.
+- **(d)** The Secretary may reserve not more than 5 percent of funds provided under this section to provide technical assistance on the establishment or expansion of programs funded under this section from the National Center on Substance Abuse and Child Welfare.

@@ -3,9 +3,9 @@ title: "Section 1806 - Eligibility studies"
 usc_title: 25
 usc_section: "1806"
 chapter: 20
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "25 U.S.C. § 1806"
-generated_at: "2026-03-29T23:51:20.041Z"
+generated_at: "2026-03-29T23:55:39.365Z"
 ---
 
 # § 1806. Eligibility studies

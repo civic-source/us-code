@@ -3,9 +3,9 @@ title: "Section 1 - Federal Permitting Improvement Steering Council"
 usc_title: 42
 usc_section: "1"
 chapter: 55
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T23:53:16.469Z"
+generated_at: "2026-03-29T23:57:26.986Z"
 ---
 
 # § 4370m–1. Federal Permitting Improvement Steering Council
@@ -61,6 +61,7 @@ generated_at: "2026-03-29T23:53:16.469Z"
     - **(D)** The Executive Director, in consultation with the Council, may recommend to the Director of the Office of Management and Budget or to the Council on Environmental Quality, as appropriate, that guidance be issued as necessary for agencies—
       - **(i)** to carry out responsibilities under this subchapter; and
       - **(ii)** to effectuate the adoption by agencies of the best practices and recommendations of the Council described in paragraph (2).
+    - **(E)** The Executive Director of the Council may appoint and fix the compensation of such employees as the Executive Director considers necessary to carry out the roles and responsibilities of the Executive Director.
   - **(2)**
     - **(A)**
       - **(i)** The Council shall make recommendations to the Executive Director with respect to the designations under paragraph (1)(B) and the performance schedules under paragraph (1)(C).

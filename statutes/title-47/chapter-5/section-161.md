@@ -3,9 +3,9 @@ title: "Section 161 - Regulatory reform"
 usc_title: 47
 usc_section: "161"
 chapter: 5
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "47 U.S.C. § 161"
-generated_at: "2026-03-29T23:53:30.185Z"
+generated_at: "2026-03-29T23:57:37.868Z"
 ---
 
 # § 161. Regulatory reform

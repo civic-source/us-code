@@ -3,9 +3,9 @@ title: "Section 218 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 50
 usc_section: "218"
 chapter: 13
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 218"
-generated_at: "2026-03-29T23:53:23.605Z"
+generated_at: "2026-03-29T23:57:33.246Z"
 ---
 
 # § 218. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 632

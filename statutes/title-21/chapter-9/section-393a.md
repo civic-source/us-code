@@ -3,9 +3,9 @@ title: "Section 393a - Office of Pediatric Therapeutics"
 usc_title: 21
 usc_section: "393a"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 393a"
-generated_at: "2026-03-29T23:51:22.739Z"
+generated_at: "2026-03-29T23:55:43.357Z"
 ---
 
 # § 393a. Office of Pediatric Therapeutics

@@ -3,9 +3,9 @@ title: "Section 5801 - Congressional declaration of policy and purpose"
 usc_title: 42
 usc_section: "5801"
 chapter: 73
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 5801"
-generated_at: "2026-03-29T23:53:16.498Z"
+generated_at: "2026-03-29T23:57:27.022Z"
 ---
 
 # § 5801. Congressional declaration of policy and purpose

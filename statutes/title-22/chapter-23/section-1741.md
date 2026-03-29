@@ -3,14 +3,14 @@ title: "Section 1741 - Assistance for United States nationals unlawfully or wron
 usc_title: 22
 usc_section: "1741"
 chapter: 23
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 1741"
-generated_at: "2026-03-29T23:51:29.452Z"
+generated_at: "2026-03-29T23:55:52.399Z"
 ---
 
 # § 1741. Assistance for United States nationals unlawfully or wrongfully detained abroad
 
-- **(a)** The Secretary of State shall review the cases of United States nationals detained abroad to determine if there is credible information that they are being detained unlawfully or wrongfully, based on criteria which may include whether—
+- **(a)** The Secretary of State shall review, as expeditiously as possible, the cases of United States nationals detained abroad to determine if there is credible information that they are being detained unlawfully or wrongfully, based on criteria which may include whether—
   - **(1)** United States officials receive or possess credible information indicating innocence of the detained individual;
   - **(2)** the individual is being detained solely or substantially because he or she is a United States national;
   - **(3)** the individual is being detained solely or substantially to influence United States Government policy or to secure economic or political concessions from the United States Government;
@@ -22,7 +22,11 @@ generated_at: "2026-03-29T23:51:29.452Z"
   - **(9)** the individual is being detained in inhumane conditions;
   - **(10)** due process of law has been sufficiently impaired so as to render the detention arbitrary; and
   - **(11)** United States diplomatic engagement is likely necessary to secure the release of the detained individual.
-- **(b)** Upon a determination by the Secretary of State, based on the totality of the circumstances, that there is credible information that the detention of a United States national abroad is unlawful or wrongful, and regardless of whether the detention is by a foreign government or a nongovernmental actor, the Secretary shall transfer responsibility for such case from the Bureau of Consular Affairs of the Department of State to the Special Envoy for Hostage Affairs created pursuant to section 1741a of this title .
+- **(b)**
+  - **(1)** Upon a determination by the Secretary of State, based on the totality of the circumstances, that there is credible information that the detention of a United States national abroad is unlawful or wrongful, and regardless of whether the detention is by a foreign government or a nongovernmental actor, the Secretary shall—
+    - **(A)** expeditiously transfer responsibility for such case from the Bureau of Consular Affairs of the Department of State to the Special Presidential Envoy for Hostage Affairs; and
+    - **(B)** not later than 14 days after such determination, notify the Committee on Foreign Relations of the Senate, the Select Committee on Intelligence of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Permanent Select Committee on Intelligence of the House of Representatives of such determination and provide such committees with a summary of the facts that led to such determination.
+  - **(2)** The notification described in paragraph (1)(B) may be classified, if necessary.
 - **(c)**
   - **(1)**
     - **(A)** The Secretary of State shall submit to the appropriate congressional committees an annual report with respect to United States nationals for whom the Secretary determines there is credible information of unlawful or wrongful detention abroad.

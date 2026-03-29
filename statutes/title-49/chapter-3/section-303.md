@@ -3,9 +3,9 @@ title: "Section 303 - Policy on lands, wildlife and waterfowl refuges, and histo
 usc_title: 49
 usc_section: "303"
 chapter: 3
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 303"
-generated_at: "2026-03-29T23:53:40.181Z"
+generated_at: "2026-03-29T23:57:35.639Z"
 ---
 
 # § 303. Policy on lands, wildlife and waterfowl refuges, and historic sites

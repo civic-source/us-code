@@ -1,14 +1,12 @@
 ---
-title: "Section 283 - Regulations for withholding rations for non­attendance at schools"
+title: "Section 283 - Repealed. Pub. L. 117–317, § 2(9) , Dec. 27, 2022 , 136 Stat. 4419"
 usc_title: 25
 usc_section: "283"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "25 U.S.C. § 283"
-generated_at: "2026-03-29T23:51:20.014Z"
+generated_at: "2026-03-29T23:55:39.336Z"
 ---
 
-# § 283. Regulations for withholding rations for non­attendance at schools
-
-The Secretary of the Interior may in his discretion, establish such regulations as will prevent the issuing of rations or the furnishing of subsistence either in money or in kind to the head of any Indian family for or on account of any Indian child or children between the ages of eight and twenty-one years who shall not have attended school during the preceding year in accordance with such regulations. This provision shall not apply to reservations or part of reservations where sufficient school facilities have not been furnished nor until full notice of such regulations shall have been given to the Indians to be affected thereby. The amount and value of subsistence so withheld shall be credited to the tribe or tribes from whom the same is withheld, to be issued and paid when in the judgment of the Secretary of the Interior they shall have fully complied with such regulations. The Secretary of the Interior may in his discretion withhold rations, clothing and other annuities from Indian parents or guardians who refuse or neglect to send and keep their children of proper school age in some school a reasonable portion of the year.
+# § 283. Repealed. Pub. L. 117–317, § 2(9) , Dec. 27, 2022 , 136 Stat. 4419
 

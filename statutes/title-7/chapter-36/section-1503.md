@@ -3,9 +3,9 @@ title: "Section 1503 - Federal Crop Insurance Corporation; creation; offices"
 usc_title: 7
 usc_section: "1503"
 chapter: 36
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "7 U.S.C. § 1503"
-generated_at: "2026-03-29T23:50:42.113Z"
+generated_at: "2026-03-29T23:54:15.557Z"
 ---
 
 # § 1503. Federal Crop Insurance Corporation; creation; offices

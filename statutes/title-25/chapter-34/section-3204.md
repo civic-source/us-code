@@ -3,9 +3,9 @@ title: "Section 3204 - Central registry"
 usc_title: 25
 usc_section: "3204"
 chapter: 34
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "25 U.S.C. § 3204"
-generated_at: "2026-03-29T23:51:20.059Z"
+generated_at: "2026-03-29T23:55:39.384Z"
 ---
 
 # § 3204. Central registry

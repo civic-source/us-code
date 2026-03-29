@@ -3,9 +3,9 @@ title: "Section 285ff - Tenth replenishment"
 usc_title: 22
 usc_section: "285ff"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 285ff"
-generated_at: "2026-03-29T23:51:29.432Z"
+generated_at: "2026-03-29T23:55:52.378Z"
 ---
 
 # § 285ff. Tenth replenishment

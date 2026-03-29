@@ -3,14 +3,14 @@ title: "Section 2213a - Treatment of certain benefits and costs"
 usc_title: 33
 usc_section: "2213a"
 chapter: 36
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 2213a"
-generated_at: "2026-03-29T23:52:21.963Z"
+generated_at: "2026-03-29T23:56:30.077Z"
 ---
 
 # § 2213a. Treatment of certain benefits and costs
 
-- **(a)** In the case of a flood risk management project that incidentally generates seismic safety benefits in regions of moderate or high seismic hazard, for the purpose of a benefit-cost analysis for the project, the Secretary shall not include in that analysis any additional design and construction costs resulting from addressing seismic concerns.
+- **(a)** In the case of a flood risk management or coastal storm risk management project in a region of moderate or high seismic hazard, for the purpose of a benefit-cost analysis for the project, the Secretary shall not include in that analysis any additional design and construction costs resulting from addressing seismic concerns.
 - **(b)** Except with respect to the benefit-cost analysis, the additional costs referred to in subsection (a) shall be—
   - **(1)** included in the total project cost; and
   - **(2)** subject to cost-share requirements otherwise applicable to the project.

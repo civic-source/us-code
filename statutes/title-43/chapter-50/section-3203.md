@@ -3,9 +3,9 @@ title: "Section 3203 - Small water storage and groundwater storage projects"
 usc_title: 43
 usc_section: "3203"
 chapter: 50
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "43 U.S.C. § 3203"
-generated_at: "2026-03-29T23:52:56.392Z"
+generated_at: "2026-03-29T23:56:54.174Z"
 ---
 
 # § 3203. Small water storage and groundwater storage projects
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T23:52:56.392Z"
   - **(1)**
     - **(A)** A non-Federal project sponsor described in subsection (a) may submit to the Secretary a proposal for a project eligible to receive a grant under this section in the form of a completed feasibility study.
     - **(B)** A project shall be considered eligible for consideration for a grant under this section if the project—
-      - **(i)** has water storage capacity of not less than 2,000 acre-feet and not more than 30,000 acre-feet; and
+      - **(i)** has water storage capacity of not less than 200 acre-feet and not more than 30,000 acre-feet; and
       - **(ii)**
         - **(I)** increases surface water or groundwater storage; or
         - **(II)** conveys water, directly or indirectly, to or from surface water or groundwater storage.

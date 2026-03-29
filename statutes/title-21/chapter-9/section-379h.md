@@ -3,9 +3,9 @@ title: "Section 379h - Authority to assess and use drug fees"
 usc_title: 21
 usc_section: "379h"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 379h"
-generated_at: "2026-03-29T23:51:22.724Z"
+generated_at: "2026-03-29T23:55:43.339Z"
 ---
 
 # § 379h. Authority to assess and use drug fees
@@ -106,8 +106,10 @@ generated_at: "2026-03-29T23:51:22.724Z"
   - **(2)**
     - **(A)** The fees authorized by this section—
       - **(i)** subject to subparagraph (C), shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation, for such fiscal year, and
-      - **(ii)** shall be available to defray increases in the costs of the resources allocated for the process for the review of human drug applications (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 1997 multiplied by the adjustment factor.
-    - **(B)** The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated for the process for the review of human drug applications—
+      - **(ii)** shall be available—
+        - **(I)** for fiscal year 2023, to defray increases in the costs of the resources allocated for the process for the review of human drug applications (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 1997 multiplied by the adjustment factor; and
+        - **(II)** for fiscal year 2024 and each subsequent fiscal year, to defray the costs of the resources allocated for the process for the review of human drug applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the sum of the amounts allocated by the Secretary for such costs, excluding costs paid from fees collected under this section, plus other costs for the maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture, and other necessary materials and supplies in connection with the process for the review of human drug applications, is no less than the amount allocated for such costs, excluding any such costs paid from fees collected under this section, for fiscal year 1997, multiplied by the adjustment factor.
+    - **(B)** The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated as described in subclause (I) or (II) of such subparagraph, as applicable—
       - **(i)** are not more than 3 percent below the level specified in subparagraph (A)(ii); or
       - **(ii)**
         - **(I)** are more than 3 percent below the level specified in subparagraph (A)(ii), and fees assessed for the fiscal year following the subsequent fiscal year are decreased by the amount in excess of 3 percent by which such costs fell below the level specified in such subparagraph; and

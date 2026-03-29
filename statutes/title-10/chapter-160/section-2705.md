@@ -3,9 +3,9 @@ title: "Section 2705 - Notice of environmental restoration activities"
 usc_title: 10
 usc_section: "2705"
 chapter: 160
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 2705"
-generated_at: "2026-03-29T23:50:22.293Z"
+generated_at: "2026-03-29T23:54:20.028Z"
 ---
 
 # § 2705. Notice of environmental restoration activities
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T23:50:22.293Z"
   - **(2)**
     - **(A)** The Secretary shall prescribe regulations regarding the establishment, characteristics, composition, and funding of restoration advisory boards pursuant to this subsection.
     - **(B)** The issuance of regulations under subparagraph (A) shall not be a precondition to the establishment of restoration advisory boards under this subsection.
-    - **(C)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a restoration advisory board established under this subsection.
+    - **(C)** Chapter 10 of title 5 shall not apply to a restoration advisory board established under this subsection.
   - **(3)** The Secretary may authorize the commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) to pay routine administrative expenses of a restoration advisory board established for that installation. Such payments shall be made from funds available under subsection (g).
 - **(e)**
   - **(1)** The Secretary may, upon the request of the technical review committee or restoration advisory board for an installation, authorize the commander of the installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) to obtain for the committee or advisory board, as the case may be, from private sector sources technical assistance for interpreting scientific and engineering issues with regard to the nature of environmental hazards at the installation and the restoration activities conducted, or proposed to be conducted, at the installation. The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) shall use funds made available under subsection (g) for obtaining assistance under this paragraph.

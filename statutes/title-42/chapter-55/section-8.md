@@ -3,9 +3,9 @@ title: "Section 8 - Funding for governance, oversight, and processing of environ
 usc_title: 42
 usc_section: "8"
 chapter: 55
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-29T23:53:16.471Z"
+generated_at: "2026-03-29T23:57:26.988Z"
 ---
 
 # § 4370m–8. Funding for governance, oversight, and processing of environmental reviews and permits
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T23:53:16.471Z"
   - **(3)** be established in a manner that ensures that the aggregate amount of fees collected for a fiscal year is estimated not to exceed 20 percent of the total estimated costs for the fiscal year for the resources allocated for the conduct of the environmental reviews and authorizations covered by this subchapter, as determined by the Director of the Office of Management and Budget.
 - **(d)**
   - **(1)** All amounts collected pursuant to this section shall be deposited into a separate fund in the Treasury of the United States to be known as the “Environmental Review Improvement Fund” (referred to in this section as the “Fund”).
-  - **(2)** Amounts in the Fund shall be available to the Executive Director, without fiscal year limitation, solely for the purposes of administering, implementing, and enforcing this subchapter, including the expenses of the Council, staffing of the Office of the Executive Director, and support of the role of the Council as a Federal center for permitting excellence, which may include supporting interagency detailee and rotation opportunities, advanced training, enhanced support for agency project managers, and fora for sharing information and lessons learned.
+  - **(2)** Amounts in the Fund shall be available to the Executive Director, without fiscal year limitation, solely for the purposes of administering, implementing, and enforcing this subchapter, including the expenses of the Council, appointing and fixing the compensation of such employees as the Executive Director considers necessary to carry out the roles and responsibilities of the Executive Director, and support of the role of the Council as a Federal center for permitting excellence, which may include supporting interagency detailee and rotation opportunities, advanced training, enhanced support for agency project managers, and fora for sharing information and lessons learned.
   - **(3)** For the purpose of carrying out this subchapter, the Executive Director, with the approval of the Director of the Office of Management and Budget, may transfer amounts in the Fund to other Federal agencies and State, Tribal, and local governments to facilitate timely and efficient environmental reviews and authorizations for covered projects and other projects under this subchapter, including direct reimbursement agreements with agency CERPOs, reimbursable agreements, and approval and consultation processes and staff for covered projects.
 - **(e)** The regulations adopted pursuant to subsection (a) shall ensure that the use of funds accepted under subsection (d) will not impact impartial decision-making with respect to environmental reviews or authorizations, either substantively or procedurally.
 - **(f)**

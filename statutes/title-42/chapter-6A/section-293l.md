@@ -3,9 +3,9 @@ title: "Section 293l - Advisory Committee on Training in Primary Care Medicine a
 usc_title: 42
 usc_section: "293l"
 chapter: 6
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 293l"
-generated_at: "2026-03-29T23:53:16.110Z"
+generated_at: "2026-03-29T23:57:26.591Z"
 ---
 
 # § 293l. Advisory Committee on Training in Primary Care Medicine and Dentistry
@@ -35,4 +35,4 @@ generated_at: "2026-03-29T23:53:16.110Z"
 - **(f)**
   - **(1)** Each member of the Advisory Committee shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which such member is engaged in the performance of the duties of the Committee.
   - **(2)** The members of the Advisory Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Committee.
-- **(g)** The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act do not conflict with the requirements of this section.
+- **(g)** Chapter 10 of title 5 shall apply to the Advisory Committee under this section only to the extent that the provisions of chapter 10 of title 5 do not conflict with the requirements of this section.

@@ -3,15 +3,22 @@ title: "Section 44729 - Age standards for pilots"
 usc_title: 49
 usc_section: "44729"
 chapter: 447
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 44729"
-generated_at: "2026-03-29T23:53:40.258Z"
+generated_at: "2026-03-29T23:57:35.724Z"
 ---
 
 # § 44729. Age standards for pilots
 
-- **(a)** Subject to the limitation in subsection (c), a pilot may serve in multicrew covered operations until attaining 65 years of age.
-- **(b)** In this section, the term “covered operations” means operations under part 121 of title 14, Code of Federal Regulations.
+- **(a)** Subject to the limitation in subsection (c), a pilot may serve in multicrew covered operations described in subsection (b)(1) until attaining 65 years of age. Air carriers that employ pilots who serve in covered operations described in subsection (b)(2) may elect to implement an age restriction to prohibit employed pilots from serving in such covered operations after attaining 70 years of age by delivering written notice to the Administrator of the Federal Aviation Administration. Such election—
+  - **(1)** shall take effect 1 year after the date of delivery of written notice of the election; and
+  - **(2)** may not be terminated after the date on which such election takes effect by the air carrier.
+- **(b)** In this section, the term “covered operations” means—
+  - **(1)** operations under part 121 of title 14, Code of Federal Regulations; or
+  - **(2)** operations by a person that—
+    - **(A)** holds an air carrier certificate issued pursuant to part 119 of title 14, Code of Federal Regulations, to conduct operations under part 135 of such title;
+    - **(B)** holds management specifications under subpart K of title 91 of title 14, Code of Federal Regulations; and
+    - **(C)** performed an aggregate total of at least 75,000 turbojet operations in calendar year 2019 or any subsequent year.
 - **(c)**
   - **(1)** A pilot who has attained 60 years of age may serve as pilot-in-command in covered operations between the United States and another country only if there is another pilot in the flight deck crew who has not yet attained 60 years of age.
   - **(2)** Paragraph (1) shall cease to be effective on such date as the Convention on International Civil Aviation provides that a pilot who has attained 60 years of age may serve as pilot-in-command in international commercial operations without regard to whether there is another pilot in the flight deck crew who has not attained age 60.

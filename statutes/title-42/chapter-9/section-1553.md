@@ -3,9 +3,9 @@ title: "Section 1553 - Removal by Secretary of certain housing of temporary char
 usc_title: 42
 usc_section: "1553"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 1553"
-generated_at: "2026-03-29T23:53:16.383Z"
+generated_at: "2026-03-29T23:57:26.887Z"
 ---
 
 # § 1553. Removal by Secretary of certain housing of temporary character; exceptions for local communities; report to Congress

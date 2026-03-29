@@ -3,9 +3,9 @@ title: "Section 2282 - Feasibility reports"
 usc_title: 33
 usc_section: "2282"
 chapter: 36
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 2282"
-generated_at: "2026-03-29T23:52:21.967Z"
+generated_at: "2026-03-29T23:56:30.082Z"
 ---
 
 # § 2282. Feasibility reports
@@ -22,11 +22,7 @@ generated_at: "2026-03-29T23:52:21.967Z"
 - **(b)**
   - **(1)**
     - **(A)** In preparing a feasibility report under subsection (a) for a study that will benefit an economically disadvantaged community, upon request by the non-Federal interest for the study, the Secretary shall first determine the Federal interest in carrying out the study and the projects that may be proposed in the study.
-    - **(B)**
-      - **(i)** In preparing a feasibility report under subsection (a) for a study that will benefit a covered community, upon request by the non-Federal interest for the study, the Secretary may, with respect to not more than 3 studies in each fiscal year, first determine the Federal interest in carrying out the study and the projects that may be proposed in the study.
-      - **(ii)** In this subparagraph, the term “covered community” means a community that—
-        - **(I)** is not an economically disadvantaged community; and
-        - **(II)** the Secretary finds has a compelling need for the Secretary to make a determination under clause (i).
+    - **(B)** In preparing a feasibility report under subsection (a) for a study that will benefit a community other than a community described in subparagraph (A), upon request by the non-Federal interest for the study, the Secretary may, with respect to not more than 20 studies in each fiscal year, first determine the Federal interest in carrying out the study and the projects that may be proposed in the study.
   - **(2)** The costs of a determination under paragraph (1)—
     - **(A)** shall be at Federal expense; and
     - **(B)** shall not exceed $200,000.

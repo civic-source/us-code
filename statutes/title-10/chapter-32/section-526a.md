@@ -3,18 +3,19 @@ title: "Section 526a - Authorized strength after December 31, 2022 : general off
 usc_title: 10
 usc_section: "526a"
 chapter: 32
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 526a"
-generated_at: "2026-03-29T23:50:22.223Z"
+generated_at: "2026-03-29T23:54:19.944Z"
 ---
 
 # § 526a. Authorized strength after December 31, 2022 : general officers and flag officers on active duty
 
-- **(a)** The number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, after December 31, 2022 , may not exceed the number specified for the armed force concerned as follows:
-  - **(1)** For the Army, 220.
-  - **(2)** For the Navy, 151.
-  - **(3)** For the Air Force, 187.
+- **(a)** The number of general officers on active duty in the Army, Air Force, Marine Corps, and Space Force, and the number of flag officers on active duty in the Navy, after December 31, 2022 , may not exceed the number specified for the armed force concerned as follows:
+  - **(1)** For the Army, 218.
+  - **(2)** For the Navy, 149.
+  - **(3)** For the Air Force, 170.
   - **(4)** For the Marine Corps, 62.
+  - **(5)** For the Space Force, 21.
 - **(b)**
   - **(1)** The Secretary of Defense may designate up to 232 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a).
   - **(2)** Unless the Secretary of Defense determines that a lower number is in the best interest of the Department of Defense, the minimum number of officers serving in positions designated under paragraph (1) for each armed force shall be as follows:
@@ -22,6 +23,7 @@ generated_at: "2026-03-29T23:50:22.223Z"
     - **(B)** For the Navy, 53.
     - **(C)** For the Air Force, 68.
     - **(D)** For the Marine Corps, 17.
+    - **(E)** For the Space Force, 6.
 - **(c)** The limitations of this section do not apply to the following:
   - **(1)** A general or flag officer of a reserve component who is on active duty—
     - **(A)** for training; or

@@ -3,9 +3,9 @@ title: "Section 282 - Director of National Institutes of Health"
 usc_title: 42
 usc_section: "282"
 chapter: 6
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 282"
-generated_at: "2026-03-29T23:53:16.075Z"
+generated_at: "2026-03-29T23:57:26.554Z"
 ---
 
 # § 282. Director of National Institutes of Health
@@ -69,10 +69,14 @@ generated_at: "2026-03-29T23:53:16.075Z"
   - **(21)** may perform such other administrative functions as the Secretary determines are needed to effectively carry out this subchapter;
   - **(22)** may appoint physicians, dentists, and other health care professionals, subject to the provisions of title 5 relating to appointments and classifications in the competitive service, and may compensate such professionals subject to the provisions of chapter 74 of title 38;
   - **(23)** shall designate a contact point or office to help innovators and physicians identify sources of funding available for pediatric medical device development;
-  - **(24)** implement the Cures Acceleration Network described in section 287a of this title ; and
+  - **(24)** implement the Cures Acceleration Network described in section 287a of this title ;
   - **(25)** may require recipients of National Institutes of Health awards to share scientific data, to the extent feasible, generated from such National Institutes of Health awards in a manner that is consistent with all applicable Federal laws and regulations, including such laws and regulations for the protection of—
     - **(A)** human research participants, including with respect to privacy, security, informed consent, and protected health information; and
-    - **(B)** proprietary interests, confidential commercial information, and the intellectual property rights of the funding recipient.
+    - **(B)** proprietary interests, confidential commercial information, and the intellectual property rights of the funding recipient;
+  - **(26)** shall consult with the Assistant Secretary for Preparedness and Response, the Director of the Biomedical Advanced Research and Development Authority, the Director of the Centers for Disease Control and Prevention, and the heads of other Federal agencies and offices, as appropriate, regarding research needs to advance medical countermeasures to diagnose, mitigate, prevent, or treat harm from any biological agent or toxin, including emerging infectious diseases, chemical, radiological, or nuclear agent that may cause a public health emergency or other research needs related to emerging public health threats;
+  - **(27)** shall consult with the Director of the Office of National Security within the Department of Health and Human Services, the Assistant Secretary for Preparedness and Response, the Director of National Intelligence, the Director of the Federal Bureau of Investigation, and the heads of other appropriate agencies on a regular basis, regarding biomedical research conducted or supported by the National Institutes of Health that may affect or be affected by matters of national security;
+  - **(28)** shall ensure that recipients of awards from the National Institutes of Health, and, as appropriate and practicable, entities collaborating with such recipients, have in place and are adhering to appropriate technology practices and policies for the security of identifiable, sensitive information, including information collected, stored, managed, or analyzed by domestic and non-domestic entities; and
+  - **(29)** shall ensure that recipients of awards from the National Institutes of Health are in compliance with the terms and conditions of such award, which may include activities to support awareness of, and compliance with, such terms and conditions by any subrecipients of the award.
 - **(c)** The Director of NIH may make available to individuals and entities, for biomedical and behavioral research, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (including payment for them) as the Secretary determines appropriate.
 - **(d)**
   - **(1)** The Director of NIH may obtain (in accordance with section 3109 of title 5 , but without regard to the limitation in such section on the period of service) the services of not more than 220 experts or consultants, with scientific or other professional qualifications, for the National Institutes of Health.

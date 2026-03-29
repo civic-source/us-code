@@ -3,9 +3,9 @@ title: "Section 12905 - Responsibilities of grantees"
 usc_title: 42
 usc_section: "12905"
 chapter: 131
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 12905"
-generated_at: "2026-03-29T23:53:16.671Z"
+generated_at: "2026-03-29T23:57:27.207Z"
 ---
 
 # § 12905. Responsibilities of grantees
@@ -20,3 +20,6 @@ generated_at: "2026-03-29T23:53:16.671Z"
   - **(1)** Notwithstanding any other provision of this chapter, each grantee may use not more than 3 percent of the grant amount for administrative costs relating to administering grant amounts and allocating such amounts to project sponsors.
   - **(2)** Notwithstanding any other provision of this chapter, each project sponsor receiving amounts from grants made under this chapter 1 1 See References in Text note below. may use not more than 7 percent of the amounts received for administrative costs relating to carrying out eligible activities under section 12904 of this title , including the costs of staff necessary to carry out eligible activities.
 - **(h)** For purposes of environmental review, a grant under this chapter shall be treated as assistance for a special project that is subject to section 3547 of this title , and shall be subject to the regulations issued by the Secretary to implement such section.
+- **(i)** Each dwelling unit assisted under this chapter shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+  - **(1)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+  - **(2)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.

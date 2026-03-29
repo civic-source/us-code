@@ -3,9 +3,9 @@ title: "Section 2275 - Reports on integration of acquisition and capability deli
 usc_title: 10
 usc_section: "2275"
 chapter: 135
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 2275"
-generated_at: "2026-03-29T23:50:22.279Z"
+generated_at: "2026-03-29T23:54:20.012Z"
 ---
 
 # § 2275. Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs
@@ -35,7 +35,6 @@ generated_at: "2026-03-29T23:50:22.279Z"
 - **(f)**
   - **(1)** For each major satellite acquisition program that the Under Secretary has determined under subsection (b)(5) or subsection (e) is a non-integrated program, the Under Secretary shall annually submit to Congress, at the same time the budget of the President for a fiscal year is submitted under section 1105 of title 31 , an update to the report required by subsection (a) for such program.
   - **(2)** The requirement to submit an annual report update for a program under paragraph (1) shall terminate on the date on which the Under Secretary submits to the congressional defense committees notice that the Under Secretary has determined that such program is no longer a non-integrated program, or on the date that is five years after the date on which the initial report update required under paragraph (1) is submitted, whichever is earlier.
-  - **(3)** If at the time of the termination of the requirement to annually update a report for a program under paragraph (1) the Under Secretary has not provided notice to the congressional defense committees that the Under Secretary has determined that the program is no longer a non-integrated program, the Comptroller General shall conduct a review of such program and submit the results of such review to the congressional defense committees.
 - **(g)** In this section:
   - **(1)** The term “segments”, with respect to a major satellite acquisition program, refers to any satellites acquired under the program and the ground equipment and user terminals necessary to fully exploit the capabilities provided by those satellites.
   - **(2)** The term “major satellite acquisition program” means a major defense acquisition program (as defined in section 4201 of this title ) for the acquisition of a satellite.

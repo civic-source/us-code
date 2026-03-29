@@ -3,9 +3,9 @@ title: "Section 6581 - Reorganization of Agency for International Development"
 usc_title: 22
 usc_section: "6581"
 chapter: 74
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 6581"
-generated_at: "2026-03-29T23:51:29.537Z"
+generated_at: "2026-03-29T23:55:52.496Z"
 ---
 
 # § 6581. Reorganization of Agency for International Development

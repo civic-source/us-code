@@ -3,9 +3,9 @@ title: "Section 755 - Criers and bailiffs"
 usc_title: 28
 usc_section: "755"
 chapter: 49
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "28 U.S.C. § 755"
-generated_at: "2026-03-29T23:51:48.885Z"
+generated_at: "2026-03-29T23:56:03.401Z"
 ---
 
 # § 755. Criers and bailiffs

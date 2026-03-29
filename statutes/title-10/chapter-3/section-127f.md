@@ -3,9 +3,9 @@ title: "Section 127f - Expenditure of funds for clandestine activities that supp
 usc_title: 10
 usc_section: "127f"
 chapter: 3
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 127f"
-generated_at: "2026-03-29T23:50:22.205Z"
+generated_at: "2026-03-29T23:54:19.922Z"
 ---
 
 # § 127f. Expenditure of funds for clandestine activities that support operational preparation of the environment
@@ -16,9 +16,13 @@ generated_at: "2026-03-29T23:50:22.205Z"
 - **(d)**
   - **(1)** This section does not constitute authority to conduct, or expend funds for, intelligence, counterintelligence, or intelligence-related activities.
   - **(2)** In this subsection, the terms “intelligence” and “counterintelligence” have the meaning given those terms in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 ).
-- **(e)** Not later than December 31 each year, the Secretary of Defense shall submit to the congressional defense committees a report on expenditures made under this section during the fiscal year preceding the year in which the report is submitted. Each report shall include, for each expenditure under this section during the fiscal year covered by such report—
+- **(e)** On a quarterly basis, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, in coordination with elements of the Department of Defense that the Assistant Secretary determines appropriate, shall provide to the congressional defense committees a briefing outlining the clandestine activities carried out pursuant to subsection (a) during the period covered by the briefing, including—
+  - **(1)** an update on such activities carried out in each geographic combatant command and a description of how such activities support the respective theater campaign plan;
+  - **(2)** an overview of the authorities and legal issues, including limitations, relating to such activities; and
+  - **(3)** any other matters the Assistant Secretary considers appropriate.
+- **(f)** Not later than December 31 each year, the Secretary of Defense shall submit to the congressional defense committees a report on expenditures made under this section during the fiscal year preceding the year in which the report is submitted. Each report shall include, for each expenditure under this section during the fiscal year covered by such report—
   - **(1)** the amount and date of such expenditure;
   - **(2)** a detailed description of the purpose for which such expenditure was made;
   - **(3)** an explanation why other authorities available to the Department of Defense could not be used for such expenditure; and
   - **(4)** any other matters the Secretary considers appropriate.
-- **(f)** Funding used to establish, develop, and maintain non-conventional assisted recovery capabilities under this section may only be obligated and expended with the concurrence of the relevant Chief of Mission or Chiefs of Mission.
+- **(g)** Funding used to establish, develop, and maintain non-conventional assisted recovery capabilities under this section may only be obligated and expended with the concurrence of the relevant Chief of Mission or Chiefs of Mission.

@@ -3,9 +3,9 @@ title: "Section 45Q - Credit for carbon oxide sequestration"
 usc_title: 26
 usc_section: "45Q"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 45Q"
-generated_at: "2026-03-29T23:52:10.050Z"
+generated_at: "2026-03-29T23:56:24.694Z"
 ---
 
 # § 45Q. Credit for carbon oxide sequestration

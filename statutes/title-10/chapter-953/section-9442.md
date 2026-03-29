@@ -3,9 +3,9 @@ title: "Section 9442 - Cadets: appointment; numbers, territorial distribution"
 usc_title: 10
 usc_section: "9442"
 chapter: 953
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 9442"
-generated_at: "2026-03-29T23:50:22.342Z"
+generated_at: "2026-03-29T23:54:20.089Z"
 ---
 
 # § 9442. Cadets: appointment; numbers, territorial distribution
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T23:50:22.342Z"
   - **(2)** 85 nominated by the Secretary of the Air Force from enlisted members of the Regular Air Force or the Regular Space Force.
   - **(3)** 85 nominated by the Secretary of the Air Force from enlisted members of reserve components of the Air Force.
   - **(4)** 20 nominated by the Secretary of the Air Force, under regulations prescribed by the Secretary, from the honor graduates of schools designated as honor schools by the Department of the Army, the Department of the Navy, or the Department of the Air Force, and from members of the Air Force Reserve Officers’ Training Corps.
-  - **(5)** 150 selected by the Secretary of the Air Force in order of merit (prescribed pursuant to section 9443 of this title ) from qualified alternates nominated by persons named in paragraphs (3) and (4) of subsection (a).
+  - **(5)** 150 selected by the Secretary of the Air Force in order of merit (prescribed pursuant to section 9443 of this title ) from qualified alternates nominated by persons named in paragraphs (3) through (10) of subsection (a).
 - **(c)** The President may also appoint as cadets at the Academy children of persons who have been awarded the Medal of Honor for acts performed while in the armed forces.
 - **(d)** The Superintendent may nominate for appointment each year 50 persons from the country at large. Persons nominated under this paragraph may not displace any appointment authorized under paragraphs (2) through (9) of subsection (a) and may not cause the total strength of cadets to exceed the authorized number.
 - **(e)** If the annual quota of cadets under subsection (b)(1), (2), or (3) is not filled, the Secretary may fill the vacancies by nominating for appointment other candidates from any of these sources who were found best qualified on examination for admission and not otherwise nominated.

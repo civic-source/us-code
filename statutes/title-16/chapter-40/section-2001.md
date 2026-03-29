@@ -3,9 +3,9 @@ title: "Section 2001 - Congressional findings"
 usc_title: 16
 usc_section: "2001"
 chapter: 40
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 2001"
-generated_at: "2026-03-29T23:51:16.241Z"
+generated_at: "2026-03-29T23:55:31.188Z"
 ---
 
 # § 2001. Congressional findings

@@ -1,14 +1,14 @@
 ---
-title: "Section 824a - Art 24a. Special trial counsel"
+title: "Section 824a - Art. 24a. Special trial counsel"
 usc_title: 10
 usc_section: "824a"
 chapter: 47
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 824a"
-generated_at: "2026-03-29T23:50:22.231Z"
+generated_at: "2026-03-29T23:54:19.953Z"
 ---
 
-# § 824a. Art 24a. Special trial counsel
+# § 824a. Art. 24a. Special trial counsel
 
 - **(a)** Each Secretary concerned shall promulgate regulations for the detail of commissioned officers to serve as special trial counsel.
 - **(b)** A special trial counsel shall be a commissioned officer who—

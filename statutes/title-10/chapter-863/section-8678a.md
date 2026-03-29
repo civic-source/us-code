@@ -3,17 +3,17 @@ title: "Section 8678a - Limitation on decommissioning or inactivating a battle f
 usc_title: 10
 usc_section: "8678a"
 chapter: 863
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 8678a"
-generated_at: "2026-03-29T23:50:22.335Z"
+generated_at: "2026-03-29T23:54:20.080Z"
 ---
 
 # § 8678a. Limitation on decommissioning or inactivating a battle force ship before the end of expected service life
 
 - **(a)** The Secretary of the Navy may not decommission or inactivate a battle force ship before the end of the expected service life of the ship.
 - **(b)** The Secretary of the Navy may waive the limitation under subsection (a) with respect to a battle force ship if—
-  - **(1)** the Secretary submits to the congressional defense committees the certification described in subsection (c) with respect to such ship; and
-  - **(2)** a period of 30 days has elapsed following the date on which such certification was submitted.
+  - **(1)** the Secretary submits to the congressional defense committees the certification described in subsection (c) with respect to such ship by not later than three days after the date on which the President submits the budget materials under section 1105(a) of title 31 for the fiscal year in which such waiver is sought; and
+  - **(2)** a period of 30 days has elapsed following the date on which the National Defense Authorization Act for such fiscal year is enacted.
 - **(c)** A certification described in this subsection is a certification that—
   - **(1)**
     - **(A)** maintaining the battle force ship in a reduced operating status is not feasible;

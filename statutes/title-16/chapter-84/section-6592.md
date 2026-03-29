@@ -3,9 +3,9 @@ title: "Section 6592 - Wildfire risk reduction"
 usc_title: 16
 usc_section: "6592"
 chapter: 84
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 6592"
-generated_at: "2026-03-29T23:51:16.283Z"
+generated_at: "2026-03-29T23:55:31.287Z"
 ---
 
 # § 6592. Wildfire risk reduction

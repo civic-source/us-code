@@ -3,9 +3,9 @@ title: "Section 3617 - Travel expenses"
 usc_title: 22
 usc_section: "3617"
 chapter: 51
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 3617"
-generated_at: "2026-03-29T23:51:29.502Z"
+generated_at: "2026-03-29T23:55:52.457Z"
 ---
 
 # § 3617. Travel expenses

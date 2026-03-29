@@ -3,9 +3,9 @@ title: "Section 1716C - Forged agricultural certifications"
 usc_title: 18
 usc_section: "1716C"
 chapter: 83
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "18 U.S.C. § 1716C"
-generated_at: "2026-03-29T23:51:08.386Z"
+generated_at: "2026-03-29T23:55:17.256Z"
 ---
 
 # § 1716C. Forged agricultural certifications

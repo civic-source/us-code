@@ -3,9 +3,9 @@ title: "Section 460lll - Definitions"
 usc_title: 16
 usc_section: "460lll"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 460lll"
-generated_at: "2026-03-29T23:51:16.136Z"
+generated_at: "2026-03-29T23:55:30.997Z"
 ---
 
 # § 460lll. Definitions
@@ -33,8 +33,11 @@ In this subchapter:
   - **(8)** The term “hazardous substance” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 ).
   - **(9)** The term “person” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 ).
   - **(10)** The term “pollutant or contaminant” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 ).
-  - **(11)** The term “Recreation Area” means the Land Between the Lakes National Recreation Area.
-  - **(12)** The term “release” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 ).
-  - **(13)** The term “response action” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 ).
-  - **(14)** The term “Secretary” means the Secretary of Agriculture.
-  - **(15)** The term “State” means the State of Kentucky and the State of Tennessee.
+  - **(11)** The term “qualified resident or relative” means—
+    - **(A)** a former resident of the area within the Recreation Area or the spouse of a former resident of that area; or
+    - **(B)** a widow, widower, or lineal descendant of an individual buried in a cemetery located in the Recreation Area.
+  - **(12)** The term “Recreation Area” means the Land Between the Lakes National Recreation Area.
+  - **(13)** The term “release” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 ).
+  - **(14)** The term “response action” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 ).
+  - **(15)** The term “Secretary” means the Secretary of Agriculture.
+  - **(16)** The term “State” means the State of Kentucky and the State of Tennessee.

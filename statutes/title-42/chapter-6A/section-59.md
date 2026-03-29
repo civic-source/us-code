@@ -3,20 +3,20 @@ title: "Section 59 - Plans for performance partnerships"
 usc_title: 42
 usc_section: "59"
 chapter: 6
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 59"
-generated_at: "2026-03-29T23:53:16.147Z"
+generated_at: "2026-03-29T23:57:26.629Z"
 ---
 
 # § 300x–59. Plans for performance partnerships
 
 - **(a)** The Secretary in conjunction with States and other interested groups shall develop separate plans for the programs authorized under subparts I and II for creating more flexibility for States and accountability based on outcome and other performance measures. The plans shall each include—
   - **(1)** a description of the flexibility that would be given to the States under the plan;
-  - **(2)** the common set of performance measures that would be used for accountability, including measures that would be used for the program under subpart II for pregnant addicts, HIV transmission, tuberculosis, and those with a co-occurring substance abuse and mental disorders, and for programs under subpart I for children with serious emotional disturbance and adults with serious mental illness and for individuals with co-occurring mental health and substance abuse disorders;
+  - **(2)** the common set of performance measures that would be used for accountability, including measures that would be used for the program under subpart II for pregnant addicts, HIV transmission, tuberculosis, and those with a co-occurring substance use disorders and mental disorders, and for programs under subpart I for children with serious emotional disturbance and adults with serious mental illness and for individuals with co-occurring mental health and substance use disorders disorders; 1 1 So in original.
   - **(3)** the definitions for the data elements to be used under the plan;
   - **(4)** the obstacles to implementation of the plan and the manner in which such obstacles would be resolved;
   - **(5)** the resources needed to implement the performance partnerships under the plan; and
   - **(6)** an implementation strategy complete with recommendations for any necessary legislation.
 - **(b)** Not later than 2 years after October 17, 2000 , the plans developed under subsection (a) shall be submitted to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Commerce of the House of Representatives.
 - **(c)** As the elements of the plans described in subsection (a) are developed, States are encouraged to provide information to the Secretary on a voluntary basis.
-- **(d)** The Secretary shall include among those interested groups that participate in the development of the plan consumers of mental health or substance abuse services, providers, representatives of political divisions of States, and representatives of racial and ethnic groups including Native Americans.
+- **(d)** The Secretary shall include among those interested groups that participate in the development of the plan consumers of mental health or substance use disorders services, providers, representatives of political divisions of States, and representatives of racial and ethnic groups including Native Americans.

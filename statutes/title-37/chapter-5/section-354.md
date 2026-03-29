@@ -3,9 +3,9 @@ title: "Section 354 - Special pay: 15-year career status bonus for members enter
 usc_title: 37
 usc_section: "354"
 chapter: 5
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "37 U.S.C. § 354"
-generated_at: "2026-03-29T23:52:49.849Z"
+generated_at: "2026-03-29T23:56:42.330Z"
 ---
 
 # § 354. Special pay: 15-year career status bonus for members entering service on or after August 1, 1986

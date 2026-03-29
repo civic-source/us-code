@@ -3,9 +3,9 @@ title: "Section 330 - Laws applicable on becoming members; discounts for State b
 usc_title: 12
 usc_section: "330"
 chapter: 3
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "12 U.S.C. § 330"
-generated_at: "2026-03-29T23:51:02.280Z"
+generated_at: "2026-03-29T23:54:34.870Z"
 ---
 
 # § 330. Laws applicable on becoming members; discounts for State banks

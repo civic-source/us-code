@@ -3,9 +3,9 @@ title: "Section 6106 - Cooperation"
 usc_title: 16
 usc_section: "6106"
 chapter: 80
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 6106"
-generated_at: "2026-03-29T23:51:16.279Z"
+generated_at: "2026-03-29T23:55:31.274Z"
 ---
 
 # § 6106. Cooperation
@@ -25,4 +25,4 @@ generated_at: "2026-03-29T23:51:16.279Z"
       - **(ii)** provide, at each meeting, an opportunity for interested persons to present oral or written statements concerning items on the agenda.
     - **(B)** The Secretary shall provide to the public timely notice of each meeting of the advisory group.
     - **(C)** Minutes of each meeting of the advisory group shall be kept by the Secretary and shall be made available to the public.
-  - **(3)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group.
+  - **(3)** Chapter 10 of title 5 shall not apply to the advisory group.

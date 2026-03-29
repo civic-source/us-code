@@ -3,9 +3,9 @@ title: "Section 442 - Transferred"
 usc_title: 50
 usc_section: "442"
 chapter: 15
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 442"
-generated_at: "2026-03-29T23:53:23.606Z"
+generated_at: "2026-03-29T23:57:33.249Z"
 ---
 
 # § 442. Transferred

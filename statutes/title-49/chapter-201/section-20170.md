@@ -3,9 +3,9 @@ title: "Section 20170 - Pre-revenue service safety validation plan"
 usc_title: 49
 usc_section: "20170"
 chapter: 201
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 20170"
-generated_at: "2026-03-29T23:53:40.216Z"
+generated_at: "2026-03-29T23:57:35.679Z"
 ---
 
 # § 20170. Pre-revenue service safety validation plan

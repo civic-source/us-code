@@ -3,9 +3,9 @@ title: "Section 1552 - Correction of military records: claims incident thereto"
 usc_title: 10
 usc_section: "1552"
 chapter: 79
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 1552"
-generated_at: "2026-03-29T23:50:22.263Z"
+generated_at: "2026-03-29T23:54:19.993Z"
 ---
 
 # § 1552. Correction of military records: claims incident thereto
@@ -50,4 +50,5 @@ generated_at: "2026-03-29T23:50:22.263Z"
   - **(2)** The number of claims submitted during the calendar quarter preceding the calendar quarter in which such information is made available that relate to service by a former member during a war or contingency operation, catalogued by each war or contingency operation.
   - **(3)** The number of military records corrected pursuant to the consideration described in paragraph (1) to upgrade the characterization of discharge or release of former members.
   - **(4)** The number and disposition of claims decided during the calendar quarter preceding the calendar quarter in which such information is made available in which sexual assault is alleged to have contributed, whether in whole or in part, to the original characterization of the discharge or release of the former member.
-- **(j)** In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947 of this title).
+- **(j)** For a recommendation to award or upgrade a military decoration or award submitted pursuant to section 1130 of this title , a board determination in favor of the claimant shall allow such a recommendation to proceed, and an award or upgrade to be made by the applicable award authority, without regard to the statutory time limitation contained in section 7274, section 8298, or section 9274 of this title , as the case may be.
+- **(k)** In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947 of this title).

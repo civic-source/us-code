@@ -3,9 +3,9 @@ title: "Section 8692 - Ford-class aircraft carriers: cost limitation baselines"
 usc_title: 10
 usc_section: "8692"
 chapter: 863
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 8692"
-generated_at: "2026-03-29T23:50:22.336Z"
+generated_at: "2026-03-29T23:54:20.081Z"
 ---
 
 # § 8692. Ford-class aircraft carriers: cost limitation baselines

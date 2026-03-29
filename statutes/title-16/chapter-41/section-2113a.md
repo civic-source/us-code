@@ -3,9 +3,9 @@ title: "Section 2113a - Good neighbor authority"
 usc_title: 16
 usc_section: "2113a"
 chapter: 41
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 2113a"
-generated_at: "2026-03-29T23:51:16.243Z"
+generated_at: "2026-03-29T23:55:31.196Z"
 ---
 
 # § 2113a. Good neighbor authority
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T23:51:16.243Z"
       - **(ii)** activities to reduce hazardous fuels; and
       - **(iii)** any other activities to restore or improve forest, rangeland, and watershed health, including fish and wildlife habitat.
     - **(B)** The term “forest, rangeland, and watershed restoration services” does not include—
-      - **(i)** construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas, other than the reconstruction, repair, or restoration of a National Forest System road that is—
+      - **(i)** construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas, other than the reconstruction, repair, or restoration of a National Forest System or Bureau of Land Management managed road that is—
         - **(I)** necessary to carry out authorized restoration services pursuant to a good neighbor agreement; and
         - **(II)** in the case of a National Forest System road that is determined to be unneeded in accordance with section 212.5(b)(2) of title 36, Code of Federal Regulations (as in effect on March 23, 2018 ), decommissioned in accordance with subparagraph (A)(iii)—
       - **(ii)** construction, alteration, repair or replacement of public buildings or works.

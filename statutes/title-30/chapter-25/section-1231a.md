@@ -3,9 +3,9 @@ title: "Section 1231a - Abandoned mine reclamation fund authorization of appropr
 usc_title: 30
 usc_section: "1231a"
 chapter: 25
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "30 U.S.C. § 1231a"
-generated_at: "2026-03-29T23:51:31.968Z"
+generated_at: "2026-03-29T23:55:54.938Z"
 ---
 
 # § 1231a. Abandoned mine reclamation fund authorization of appropriations
@@ -18,7 +18,22 @@ generated_at: "2026-03-29T23:51:31.968Z"
     - **(B)** States and Indian Tribes that are certified under section 411(a) of that Act ( 30 U.S.C. 1240a(a) ); and
     - **(C)** States and Indian Tribes that are referred to in section 402(g)(8)(B) of that Act ( 30 U.S.C. 1232(g)(8)(B) ).
   - **(3)** In applying for grants under paragraph (1), States and Indian Tribes may aggregate bids into larger statewide or regional contracts.
-- **(c)** Grants under subsection (b)(1) shall only be used for activities described in subsections (a) and (b) of section 403 and section 410 of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1233 , 1240).
+- **(c)**
+  - **(1)** Except as provided in paragraph (2), grants under subsection (b)(1) shall only be used for activities described in subsections (a) and (b) of section 403 and section 410 of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1233 , 1240).
+  - **(2)**
+    - **(A)** Not more than 30 percent of the total amount of a grant made annually under subsection (b)(1) may be retained by the recipient of the grant if those amounts are deposited into a long-term abandoned mine land reclamation fund established under State law, from which amounts (together with all interest earned on the amounts) are expended by the State or Indian Tribe, as applicable, for—
+      - **(i)** the abatement of the causes and the treatment of the effects of acid mine drainage resulting from coal mining practices, including for the costs of building, operating, maintaining, and rehabilitating acid mine drainage treatment systems;
+      - **(ii)** the prevention, abatement, and control of subsidence; or
+      - **(iii)** the prevention, abatement, and control of coal mine fires.
+    - **(B)** Each recipient of a grant under subsection (b)(1) that deposits grant amounts into a long-term abandoned mine land reclamation fund under subparagraph (A) shall—
+      - **(i)** offer amendments to the inventory maintained under section 403(c) of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1233(c) ) to reflect the use of the amounts for—
+        - **(I)** acid mine drainage abatement and treatment;
+        - **(II)** subsidence prevention, abatement, and control; and
+        - **(III)** coal mine fire prevention, abatement, and control; and
+      - **(ii)** include in the annual grant report of the recipient information on the status and balance of amounts in the long-term abandoned mine land reclamation fund.
+    - **(C)** Amounts retained under subparagraph (A) shall not be subject to—
+      - **(i)** subsection (d)(4)(B); or
+      - **(ii)** any other limitation on the length of the term of an annual grant under subsection (b)(1).
 - **(d)**
   - **(1)** Subject to subsection (e), the Secretary of the Interior shall allocate and distribute amounts made available for grants under subsection (b)(1) to States and Indian Tribes on an equal annual basis over a 15-year period beginning on November 15, 2021 , based on the number of tons of coal historically produced in the States or from the applicable Indian land before August 3, 1977 , regardless of whether the State or Indian Tribe is certified under section 411(a) of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1240a(a) ).
   - **(2)** Section 401(f)(3)(B) of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1231(f)(3)(B) ) shall not apply to grant funds distributed under subsection (b)(1).

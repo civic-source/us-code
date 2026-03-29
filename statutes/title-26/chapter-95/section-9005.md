@@ -3,9 +3,9 @@ title: "Section 9005 - Certification by Commission"
 usc_title: 26
 usc_section: "9005"
 chapter: 95
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 9005"
-generated_at: "2026-03-29T23:52:10.290Z"
+generated_at: "2026-03-29T23:56:24.958Z"
 ---
 
 # § 9005. Certification by Commission

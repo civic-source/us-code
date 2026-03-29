@@ -3,9 +3,9 @@ title: "Section 407e - Boundaries"
 usc_title: 16
 usc_section: "407e"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 407e"
-generated_at: "2026-03-29T23:51:16.079Z"
+generated_at: "2026-03-29T23:55:30.926Z"
 ---
 
 # § 407e. Boundaries

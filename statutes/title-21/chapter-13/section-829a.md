@@ -3,21 +3,19 @@ title: "Section 829a - Delivery of a controlled substance by a pharmacy to an ad
 usc_title: 21
 usc_section: "829a"
 chapter: 13
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 829a"
-generated_at: "2026-03-29T23:51:22.748Z"
+generated_at: "2026-03-29T23:55:43.369Z"
 ---
 
 # § 829a. Delivery of a controlled substance by a pharmacy to an administering practitioner
 
 - **(a)** Notwithstanding section 802(10) of this title , a pharmacy may deliver a controlled substance to a practitioner in accordance with a prescription that meets the requirements of this subchapter and the regulations issued by the Attorney General under this subchapter, for the purpose of administering the controlled substance by the practitioner if—
   - **(1)** the controlled substance is delivered by the pharmacy to the prescribing practitioner or the practitioner administering the controlled substance, as applicable, at the location listed on the practitioner’s certificate of registration issued under this subchapter;
-  - **(2)** the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 823(h)(2) of this title and—
-    - **(A)** the practitioner who issued the prescription is a qualifying practitioner authorized under, and acting within the scope of that section; and
-    - **(B)** the controlled substance is to be administered by injection or implantation;
+  - **(2)** the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxification treatment and is to be administered by injection or implantation;
   - **(3)** the pharmacy and the practitioner are authorized to conduct the activities specified in this section under the law of the State in which such activities take place;
   - **(4)** the prescription is not issued to supply any practitioner with a stock of controlled substances for the purpose of general dispensing to patients;
-  - **(5)** except as provided in subsection (b), the controlled substance is to be administered only to the patient named on the prescription not later than 14 days after the date of receipt of the controlled substance by the practitioner; and
+  - **(5)** except as provided in subsection (b), the controlled substance is to be administered only to the patient named on the prescription not later than 45 days after the date of receipt of the controlled substance by the practitioner; and
   - **(6)** notwithstanding any exceptions under section 827 of this title , the prescribing practitioner, and the practitioner administering the controlled substance, as applicable, maintain complete and accurate records of all controlled substances delivered, received, administered, or otherwise disposed of under this section, including the persons to whom controlled substances were delivered and such other information as may be required by regulations of the Attorney General.
 - **(b)**
   - **(1)** During the 2-year period beginning on October 24, 2018 , the Attorney General, in coordination with the Secretary, may reduce the number of days described in subsection (a)(5) if the Attorney General determines that such reduction will—

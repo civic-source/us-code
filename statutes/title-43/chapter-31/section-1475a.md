@@ -3,12 +3,12 @@ title: "Section 1475a - Participation of non-Federal entities in contract negoti
 usc_title: 43
 usc_section: "1475a"
 chapter: 31
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "43 U.S.C. § 1475a"
-generated_at: "2026-03-29T23:52:56.367Z"
+generated_at: "2026-03-29T23:56:54.147Z"
 ---
 
 # § 1475a. Participation of non-Federal entities in contract negotiations and source selection proceedings
 
-On and after October 2, 1992 , the Bureau of Reclamation may invite non-Federal entities involved in cost sharing arrangements for the development of water projects to participate in contract negotiation and source selection proceedings without invoking provisions of the Federal Advisory Committee Act (5 U.S.C. Appendix (1988)): Provided , That such non-Federal participants shall be subject to the provisions of chapter 21 of title 41 and to the conflict of interest provisions appearing at 18 U.S.C. 201 et seq. (1988).
+On and after October 2, 1992 , the Bureau of Reclamation may invite non-Federal entities involved in cost sharing arrangements for the development of water projects to participate in contract negotiation and source selection proceedings without invoking provisions of chapter 10 of title 5: Provided , That such non-Federal participants shall be subject to the provisions of chapter 21 of title 41 and to the conflict of interest provisions appearing at 18 U.S.C. 201 et seq. (1988).
 

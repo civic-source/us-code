@@ -3,9 +3,9 @@ title: "Section 2282a - Planning"
 usc_title: 33
 usc_section: "2282a"
 chapter: 36
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 2282a"
-generated_at: "2026-03-29T23:52:21.967Z"
+generated_at: "2026-03-29T23:56:30.082Z"
 ---
 
 # § 2282a. Planning

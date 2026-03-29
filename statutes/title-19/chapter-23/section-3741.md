@@ -3,9 +3,9 @@ title: "Section 3741 - Sense of the Congress regarding efforts to combat deserti
 usc_title: 19
 usc_section: "3741"
 chapter: 23
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "19 U.S.C. § 3741"
-generated_at: "2026-03-29T23:51:13.788Z"
+generated_at: "2026-03-29T23:55:00.653Z"
 ---
 
 # § 3741. Sense of the Congress regarding efforts to combat desertification in Africa and other countries

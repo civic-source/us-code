@@ -3,9 +3,9 @@ title: "Section 12908 - Rental assistance"
 usc_title: 42
 usc_section: "12908"
 chapter: 131
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 12908"
-generated_at: "2026-03-29T23:53:16.671Z"
+generated_at: "2026-03-29T23:57:27.208Z"
 ---
 
 # § 12908. Rental assistance

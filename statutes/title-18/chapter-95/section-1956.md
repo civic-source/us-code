@@ -3,9 +3,9 @@ title: "Section 1956 - Laundering of monetary instruments"
 usc_title: 18
 usc_section: "1956"
 chapter: 95
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "18 U.S.C. § 1956"
-generated_at: "2026-03-29T23:51:08.389Z"
+generated_at: "2026-03-29T23:55:17.259Z"
 ---
 
 # § 1956. Laundering of monetary instruments
@@ -85,3 +85,4 @@ generated_at: "2026-03-29T23:51:08.389Z"
     - **(B)** any district where a prosecution for the underlying specified unlawful activity could be brought, if the defendant participated in the transfer of the proceeds of the specified unlawful activity from that district to the district where the financial or monetary transaction is conducted.
   - **(2)** A prosecution for an attempt or conspiracy offense under this section or section 1957 may be brought in the district where venue would lie for the completed offense under paragraph (1), or in any other district where an act in furtherance of the attempt or conspiracy took place.
   - **(3)** For purposes of this section, a transfer of funds from 1 place to another, by wire or any other means, shall constitute a single, continuing transaction. Any person who conducts (as that term is defined in subsection (c)(2)) any portion of the transaction may be charged in any district in which the transaction takes place.
+- **(j)** Notwithstanding section 3282, no person shall be prosecuted, tried, or punished for a violation of this section or section 1957 if the specified unlawful activity constituting the violation is the activity defined in subsection (c)(7)(B) of this section, unless the indictment is found or the information is instituted not later than 7 years after the date on which the offense was committed.

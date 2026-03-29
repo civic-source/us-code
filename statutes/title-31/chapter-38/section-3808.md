@@ -3,13 +3,13 @@ title: "Section 3808 - Limitations"
 usc_title: 31
 usc_section: "3808"
 chapter: 38
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "31 U.S.C. § 3808"
-generated_at: "2026-03-29T23:52:13.622Z"
+generated_at: "2026-03-29T23:56:27.987Z"
 ---
 
 # § 3808. Limitations
 
 - **(a)** A hearing under section 3803(d)(2) of this title with respect to a claim or statement shall be commenced within 6 years after the date on which such claim or statement is made, presented, or submitted.
 - **(b)** A civil action to recover a penalty or assessment under section 3806 of this title shall be commenced within 3 years after the date on which the determination of liability for such penalty or assessment becomes final.
-- **(c)** If at any time during the course of proceedings brought pursuant to this chapter the authority head receives or discovers any specific information regarding bribery, gratuities, conflict of interest, or other corruption or similar activity in relation to a false claim or statement, the authority head shall immediately report such information to the Attorney General, and in the case of an authority in which an Office of Inspector General is established by the Inspector General Act of 1978 or by any other Federal law, to the Inspector General of that authority.
+- **(c)** If at any time during the course of proceedings brought pursuant to this chapter the authority head receives or discovers any specific information regarding bribery, gratuities, conflict of interest, or other corruption or similar activity in relation to a false claim or statement, the authority head shall immediately report such information to the Attorney General, and in the case of an authority in which an Office of Inspector General is established by chapter 4 of title 5 or by any other Federal law, to the Inspector General of that authority.

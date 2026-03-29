@@ -3,9 +3,9 @@ title: "Section 2569 - Acceleration of removal or security of fissile materials,
 usc_title: 50
 usc_section: "2569"
 chapter: 42
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 2569"
-generated_at: "2026-03-29T23:53:23.629Z"
+generated_at: "2026-03-29T23:57:33.274Z"
 ---
 
 # § 2569. Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T23:53:23.629Z"
     - **(L)** The provision of assistance in the closure and decommissioning of sites identified as presenting risks of proliferation of proliferation-attractive fissile materials, radiological materials, and related equipment.
     - **(M)** Programs to—
       - **(i)** assist in the placement of employees displaced as a result of actions pursuant to the program in enterprises not representing a proliferation threat; and
-      - **(ii)** convert sites identified as presenting risks of proliferation regarding proliferation-attractive fissile materials, radiological materials, and related equipment to purposes not representing a proliferation threat to the extent necessary to eliminate the proliferation threat.
+      - **(ii)** convert (including through the use of alternative technologies) sites identified as presenting risks of proliferation regarding proliferation-attractive fissile materials, radiological materials, and related equipment to purposes not representing a proliferation threat to the extent necessary to eliminate the proliferation threat.
   - **(2)** The Secretary of Energy shall, in coordination with the Secretary of State, carry out the program in consultation with, and with the assistance of, appropriate departments, agencies, and other entities of the United States Government.
   - **(3)** The Secretary of Energy shall, with the concurrence of the Secretary of State, carry out activities under the program in collaboration with such foreign governments, non-governmental organizations, and other international entities as the Secretary of Energy considers appropriate for the program.
 - **(d)**
@@ -58,3 +58,4 @@ generated_at: "2026-03-29T23:53:23.629Z"
   - **(4)** The term “highly-enriched uranium” means uranium enriched to or above 20 percent in the isotope 235.
   - **(5)** The term “low-enriched uranium” means uranium enriched below 20 percent in the isotope 235.
   - **(6)** The term “proliferation-attractive”, in the case of fissile materials and radiological materials, means quantities and types of such materials that are determined by the Secretary of Energy to present a significant risk to the national security of the United States if diverted to a use relating to proliferation.
+  - **(7)** The term “alternative technologies” means technologies, such as accelerator-based equipment, that do not use radiological materials.

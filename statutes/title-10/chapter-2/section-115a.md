@@ -3,9 +3,9 @@ title: "Section 115a - Annual defense manpower profile report and related report
 usc_title: 10
 usc_section: "115a"
 chapter: 2
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 115a"
-generated_at: "2026-03-29T23:50:22.203Z"
+generated_at: "2026-03-29T23:54:19.918Z"
 ---
 
 # § 115a. Annual defense manpower profile report and related reports
@@ -44,3 +44,7 @@ generated_at: "2026-03-29T23:50:22.203Z"
   - **(2)** Within each of the numbers under paragraph (1)—
     - **(A)** the number applicable to a reserve component management headquarter organization; and
     - **(B)** the number applicable to high-priority units and organizations (as specified in section 10216(a) of this title ).
+- **(h)** Not later than April 1 each year, the Secretary shall submit to Congress a report that sets forth the following with respect to personnel:
+  - **(1)** The number of members of the Armed Forces who are not citizens of the United States during the year covered by such report.
+  - **(2)** The immigration status of such members.
+  - **(3)** The number of such members naturalized.

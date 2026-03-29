@@ -3,9 +3,9 @@ title: "Section 24712 - State-supported routes operated by Amtrak"
 usc_title: 49
 usc_section: "24712"
 chapter: 247
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 24712"
-generated_at: "2026-03-29T23:53:40.224Z"
+generated_at: "2026-03-29T23:57:35.687Z"
 ---
 
 # § 24712. State-supported routes operated by Amtrak
@@ -44,6 +44,10 @@ generated_at: "2026-03-29T23:53:40.224Z"
       - **(ii)** assign to each route the costs incurred only for the benefit of that route and a proportionate share, based upon factors that reasonably reflect relative use, of costs incurred for the common benefit of more than 1 route; and
       - **(iii)** promote increased efficiency in Amtrak’s operating and capital activities.
     - **(D)** Not later than March 31 of each year, the Committee shall ensure that an independent entity selected by the Committee has completed an evaluation to determine whether State payments for the most recently concluded fiscal year are accurate and comply with the applicable cost allocation methodology.
+  - **(8)** The Committee may—
+    - **(A)** appoint, terminate, and fix the compensation of an executive director and other Committee employees necessary for the Committee to carry out its duties; and
+    - **(B)** enter into contracts necessary to carry out its duties, including providing Committee employees with retirement and other employee benefits under the condition that Non-Federal members or officers, the executive director, and employees of the Committee are not Federal employees for any purpose.
+  - **(9)** Amounts made available by the Secretary of Transportation for the Committee may be used to carry out this section.
 - **(b)**
   - **(1)** Amtrak shall provide monthly invoices to the Committee and to each State that sponsors a State-supported route that identify the operating costs for such route, including fixed costs and third-party costs.
   - **(2)**

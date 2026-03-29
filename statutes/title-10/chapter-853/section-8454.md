@@ -3,9 +3,9 @@ title: "Section 8454 - Midshipmen: number"
 usc_title: 10
 usc_section: "8454"
 chapter: 853
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 8454"
-generated_at: "2026-03-29T23:50:22.332Z"
+generated_at: "2026-03-29T23:54:20.075Z"
 ---
 
 # § 8454. Midshipmen: number
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T23:50:22.332Z"
   - **(2)** 85 nominated by the Secretary of the Navy from enlisted members of the Regular Navy and the Regular Marine Corps.
   - **(3)** 85 nominated by the Secretary of the Navy from enlisted members of the Navy Reserve and the Marine Corps Reserve.
   - **(4)** 20 nominated by the Secretary of the Navy, under regulations prescribed by him, from the honor graduates of schools designated as honor schools by the Department of the Army, the Department of the Navy, or the Department of the Air Force, and from members of the Naval Reserve Officer’s Training corps.
-  - **(5)** 150 selected by the Secretary of the Navy in order of merit (prescribed pursuant to section 8456 of this title ) from qualified alternates nominated by persons named in paragraphs (3) and (4) of subsection (a).
+  - **(5)** 150 selected by the Secretary of the Navy in order of merit (prescribed pursuant to section 8456 of this title ) from qualified alternates nominated by persons named in paragraphs (3) through (10) of subsection (a).
 - **(c)** The President may also appoint as midshipmen at the Academy children of persons who have been awarded the medal of honor for acts performed while in the armed forces.
 - **(d)** The Superintendent of the Naval Academy may nominate for appointment each year 50 persons from the country at large. Persons nominated under this paragraph may not displace any appointment authorized under paragraphs (2) through (9) of subsection (a) and may not cause the total strength of midshipmen at the Naval Academy to exceed the authorized number.
 - **(e)** The Secretary of the Navy may limit the number of midshipmen appointed under subsection (b)(5). When he does so, if the total number of midshipmen, upon admission of a new class at the Academy, will be more than 3,737, no appointments may be made under subsection (b)(2) or (3) of this section or section 8456 of this title .

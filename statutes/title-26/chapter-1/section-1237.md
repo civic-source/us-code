@@ -3,9 +3,9 @@ title: "Section 1237 - Real property subdivided for sale"
 usc_title: 26
 usc_section: "1237"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 1237"
-generated_at: "2026-03-29T23:52:10.180Z"
+generated_at: "2026-03-29T23:56:24.837Z"
 ---
 
 # § 1237. Real property subdivided for sale

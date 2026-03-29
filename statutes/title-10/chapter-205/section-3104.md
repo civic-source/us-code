@@ -3,9 +3,9 @@ title: "Section 3104 - Acquisition-related functions of chiefs of the armed forc
 usc_title: 10
 usc_section: "3104"
 chapter: 205
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 3104"
-generated_at: "2026-03-29T23:50:22.303Z"
+generated_at: "2026-03-29T23:54:20.039Z"
 ---
 
 # § 3104. Acquisition-related functions of chiefs of the armed forces

@@ -3,9 +3,9 @@ title: "Section 1120 - Presumption of service connection for certain diseases as
 usc_title: 38
 usc_section: "1120"
 chapter: 11
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "38 U.S.C. § 1120"
-generated_at: "2026-03-29T23:52:41.934Z"
+generated_at: "2026-03-29T23:56:49.004Z"
 ---
 
 # § 1120. Presumption of service connection for certain diseases associated with exposure to burn pits and other toxins
@@ -20,11 +20,10 @@ generated_at: "2026-03-29T23:52:41.934Z"
     - **(D)** Gastrointestinal cancer of any type.
     - **(E)** Reproductive cancer of any type.
     - **(F)** Lymphoma cancer of any type.
-    - **(G)** Lymphomatic cancer of any type.
-    - **(H)** Kidney cancer.
-    - **(I)** Brain cancer.
-    - **(J)** Melanoma.
-    - **(K)** Pancreatic cancer.
+    - **(G)** Kidney cancer.
+    - **(H)** Brain cancer.
+    - **(I)** Melanoma.
+    - **(J)** Pancreatic cancer.
   - **(3)** Chronic bronchitis.
   - **(4)** Chronic obstructive pulmonary disease.
   - **(5)** Constrictive bronchiolitis or obliterative bronchiolitis.

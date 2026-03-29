@@ -3,9 +3,9 @@ title: "Section 3103 - Future budget projections"
 usc_title: 50
 usc_section: "3103"
 chapter: 44
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 3103"
-generated_at: "2026-03-29T23:53:23.642Z"
+generated_at: "2026-03-29T23:57:33.290Z"
 ---
 
 # § 3103. Future budget projections
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T23:53:23.642Z"
     - **(B)** a budget projection based on effective cost and schedule execution of current or planned major system acquisitions and application of Office of Management and Budget inflation estimates to future major system acquisitions;
     - **(C)** any additional assumptions and projections that the Director of National Intelligence considers appropriate; and
     - **(D)** a description of whether, and to what extent, the total projection for each year exceeds the level that would result from applying the most recent Office of Management and Budget inflation estimate to the budget of that element of the intelligence community.
-- **(c)** The Director of National Intelligence, with the concurrence of the Director of the Office of Management and Budget, shall submit to the congressional intelligence committees each Future Year Intelligence Plan or Long-term Budget Projection required under subsection (a) or (b) for a fiscal year at the time that the President submits to Congress the budget for such fiscal year pursuant section 1 1 So in original. Probably should be preceded by “to”. 1105 of title 31.
+- **(c)** The Director of National Intelligence, with the concurrence of the Director of the Office of Management and Budget, shall submit to the congressional intelligence committees each Future Year Intelligence Plan or Long-term Budget Projection required under subsection (a) or (b) for a fiscal year at the time that the President submits to Congress the budget for such fiscal year pursuant to section 1105 of title 31 .
 - **(d)**
   - **(1)** The Director of National Intelligence, with the concurrence of the Director of the Office of Management and Budget, shall prepare a report on the acquisition of a major system funded under the National Intelligence Program before the time that the President submits to Congress the budget for the first fiscal year in which appropriated funds are anticipated to be obligated for the development or procurement of such major system.
   - **(2)** The report on such major system shall include an assessment of whether, and to what extent, such acquisition, if developed, procured, and operated, is projected to cause an increase in the most recent Future Year Intelligence Plan and Long-term Budget Projection submitted under this section for an element of the intelligence community.

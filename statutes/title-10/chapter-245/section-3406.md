@@ -3,9 +3,9 @@ title: "Section 3406 - Task and delivery order contracts: orders"
 usc_title: 10
 usc_section: "3406"
 chapter: 245
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 3406"
-generated_at: "2026-03-29T23:50:22.306Z"
+generated_at: "2026-03-29T23:54:20.043Z"
 ---
 
 # § 3406. Task and delivery order contracts: orders
@@ -35,3 +35,6 @@ generated_at: "2026-03-29T23:50:22.306Z"
 - **(g)**
   - **(1)** Each head of an agency who awards multiple task or delivery order contracts pursuant to section 3403(d)(1)(B) or 3405(f) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (c).
   - **(2)** The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the agency’s competition advocate.
+- **(h)**
+  - **(1)** Task or delivery orders for architectural and engineering services issued under section 3403 or 3405 of this title shall be qualification-based selections executed in accordance with chapter 11 of title 40.
+  - **(2)** When issuing a task or delivery order for architectural and engineering services under a multiple award contract, the head of an agency may not routinely request additional information relating to qualifications from the contractor for such multiple award contract.

@@ -3,9 +3,9 @@ title: "Section 360e - Premarket approval"
 usc_title: 21
 usc_section: "360e"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 360e"
-generated_at: "2026-03-29T23:51:22.709Z"
+generated_at: "2026-03-29T23:55:43.321Z"
 ---
 
 # § 360e. Premarket approval
@@ -92,7 +92,7 @@ generated_at: "2026-03-29T23:51:22.709Z"
   - **(4)** An applicant whose application has been denied approval may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such denial, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g), and any interested person may obtain review, in accordance with paragraph (1) or (2) of subsection (g), of an order of the Secretary approving an application.
   - **(5)**
     - **(A)**
-      - **(i)** A supplemental application shall be required for any change to a device subject to an approved application under this subsection that affects safety or effectiveness, unless such change is a modification in a manufacturing procedure or method of manufacturing and the holder of the approved application submits a written notice to the Secretary that describes in detail the change, summarizes the data or information supporting the change, and informs the Secretary that the change has been made under the requirements of section 360j(f) of this title .
+      - **(i)** Unless the change is consistent with a predetermined change control plan approved under section 360e–4 of this title , a supplemental application shall be required for any change to a device subject to an approved application under this subsection that affects safety or effectiveness, unless such change is a modification in a manufacturing procedure or method of manufacturing and the holder of the approved application submits a written notice to the Secretary that describes in detail the change, summarizes the data or information supporting the change, and informs the Secretary that the change has been made under the requirements of section 360j(f) of this title .
       - **(ii)** The holder of an approved application who submits a notice under clause (i) with respect to a manufacturing change of a device may distribute the device 30 days after the date on which the Secretary receives the notice, unless the Secretary within such 30-day period notifies the holder that the notice is not adequate and describes such further information or action that is required for acceptance of such change. If the Secretary notifies the holder that a supplemental application is required, the Secretary shall review the supplement within 135 days after the receipt of the supplement. The time used by the Secretary to review the notice of the manufacturing change shall be deducted from the 135-day review period if the notice meets appropriate content requirements for premarket approval supplements.
     - **(B)**
       - **(i)** Subject to clause (ii), in reviewing a supplement to an approved application, for an incremental change to the design of a device that affects safety or effectiveness, the Secretary shall approve such supplement if—

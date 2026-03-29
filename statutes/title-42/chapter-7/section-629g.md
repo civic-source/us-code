@@ -3,14 +3,14 @@ title: "Section 629g - Discretionary and targeted grants"
 usc_title: 42
 usc_section: "629g"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 629g"
-generated_at: "2026-03-29T23:53:16.203Z"
+generated_at: "2026-03-29T23:57:26.688Z"
 ---
 
 # § 629g. Discretionary and targeted grants
 
-- **(a)** In addition to any amount appropriated pursuant to section 629f of this title , there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2017 through 2021.
+- **(a)** In addition to any amount appropriated pursuant to section 629f of this title , there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2017 through 2023.
 - **(b)** From the amount (if any) appropriated pursuant to subsection (a) for a fiscal year, the Secretary shall reserve amounts as follows:
   - **(1)** The Secretary shall reserve 3.3 percent for expenditure by the Secretary for the activities described in section 629f(b)(1) of this title .
   - **(2)** The Secretary shall reserve 3.3 percent for grants under section 629h of this title .
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T23:53:16.203Z"
       - **(ii)** may not enter into a collaborative agreement only with tribal child welfare agencies (or a consortium of the agencies); and
       - **(iii)** if the condition described in paragraph (2)(B) applies, may include tribal court organizations in lieu of other judicial partners.
   - **(3)**
-    - **(A)** In addition to amounts authorized to be appropriated to carry out this section, the Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2017 through 2021 under section 629f(b)(5) of this title , to regional partnerships that satisfy the requirements of this subsection, in amounts that are not less than $250,000 and not more than $1,000,000 per grant per fiscal year.
+    - **(A)** In addition to amounts authorized to be appropriated to carry out this section, the Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2017 through 2023 under section 629f(b)(5) of this title , to regional partnerships that satisfy the requirements of this subsection, in amounts that are not less than $250,000 and not more than $1,000,000 per grant per fiscal year.
     - **(B)**
       - **(i)** A grant shall be awarded under this subsection for a period of not less than 2, and not more than 5, fiscal years, subject to clauses (ii) and (iii).
       - **(ii)** On application of the grantee, the Secretary may extend for not more than 2 fiscal years the period for which a grant is awarded under this subsection.
@@ -100,7 +100,7 @@ generated_at: "2026-03-29T23:53:16.203Z"
       - **(i)** the services provided and activities conducted with funds provided under grants awarded under this subsection;
       - **(ii)** the performance indicators established under paragraph (8); and
       - **(iii)** the progress that has been made in addressing the needs of families with substance abuse problems who come to the attention of the child welfare system and in achieving the goals of child safety, permanence, and family stability.
-  - **(10)** Not more than 5 percent of the amounts appropriated or reserved for awarding grants under this subsection for each of fiscal years 2017 through 2021 may be used by the Secretary for salaries and Department of Health and Human Services administrative expenses in administering this subsection.
+  - **(10)** Not more than 5 percent of the amounts appropriated or reserved for awarding grants under this subsection for each of fiscal years 2017 through 2023 may be used by the Secretary for salaries and Department of Health and Human Services administrative expenses in administering this subsection.
 - **(g)**
   - **(1)** The purpose of this subsection is to facilitate the development of an electronic interstate case-processing system for the exchange of data and documents to expedite the placements of children in foster, guardianship, or adoptive homes across State lines.
   - **(2)** A State that seeks funding under this subsection shall submit to the Secretary the following:

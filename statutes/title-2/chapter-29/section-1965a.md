@@ -3,9 +3,9 @@ title: "Section 1965a - Prohibition on use of funds for installation of permanen
 usc_title: 2
 usc_section: "1965a"
 chapter: 29
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "2 U.S.C. § 1965a"
-generated_at: "2026-03-29T23:50:07.826Z"
+generated_at: "2026-03-29T23:54:02.938Z"
 ---
 
 # § 1965a. Prohibition on use of funds for installation of permanent fencing on Capitol Grounds

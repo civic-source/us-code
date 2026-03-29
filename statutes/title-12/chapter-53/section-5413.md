@@ -3,9 +3,9 @@ title: "Section 5413 - Abolishment"
 usc_title: 12
 usc_section: "5413"
 chapter: 53
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "12 U.S.C. § 5413"
-generated_at: "2026-03-29T23:51:02.428Z"
+generated_at: "2026-03-29T23:54:35.042Z"
 ---
 
 # § 5413. Abolishment

@@ -3,9 +3,9 @@ title: "Section 19173 - Opportunities for online education"
 usc_title: 42
 usc_section: "19173"
 chapter: 163
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 19173"
-generated_at: "2026-03-29T23:53:16.763Z"
+generated_at: "2026-03-29T23:57:27.307Z"
 ---
 
 # § 19173. Opportunities for online education

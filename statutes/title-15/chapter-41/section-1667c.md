@@ -3,9 +3,9 @@ title: "Section 1667c - Consumer lease advertising; liability of advertising med
 usc_title: 15
 usc_section: "1667c"
 chapter: 41
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 1667c"
-generated_at: "2026-03-29T23:50:50.586Z"
+generated_at: "2026-03-29T23:54:56.101Z"
 ---
 
 # § 1667c. Consumer lease advertising; liability of advertising media

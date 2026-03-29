@@ -3,15 +3,15 @@ title: "Section 3030 - Director of Science and Technology"
 usc_title: 50
 usc_section: "3030"
 chapter: 44
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 3030"
-generated_at: "2026-03-29T23:53:23.638Z"
+generated_at: "2026-03-29T23:57:33.283Z"
 ---
 
 # § 3030. Director of Science and Technology
 
 - **(a)** There is a Director of Science and Technology within the Office of the Director of National Intelligence who shall be appointed by the Director of National Intelligence.
-- **(b)** An individual appointed as Director of Science and Technology shall have a professional background and experience appropriate for the duties of the Director of Science and Technology.
+- **(b)** An individual appointed as Director of Science and Technology shall have a professional background and experience appropriate for the duties of the Director of Science and Technology. In making such appointment, the Director of National Intelligence may give preference to an individual with experience outside of the United States Government.
 - **(c)** The Director of Science and Technology shall—
   - **(1)** act as the chief representative of the Director of National Intelligence for science and technology;
   - **(2)** chair the Director of National Intelligence Science and Technology Committee under subsection (d);

@@ -3,9 +3,9 @@ title: "Section 1965 - Definitions"
 usc_title: 38
 usc_section: "1965"
 chapter: 19
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "38 U.S.C. § 1965"
-generated_at: "2026-03-29T23:52:41.946Z"
+generated_at: "2026-03-29T23:56:49.018Z"
 ---
 
 # § 1965. Definitions

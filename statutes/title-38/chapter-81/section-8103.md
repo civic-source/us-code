@@ -3,9 +3,9 @@ title: "Section 8103 - Authority to construct and alter, and to acquire sites fo
 usc_title: 38
 usc_section: "8103"
 chapter: 81
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "38 U.S.C. § 8103"
-generated_at: "2026-03-29T23:52:41.988Z"
+generated_at: "2026-03-29T23:56:49.061Z"
 ---
 
 # § 8103. Authority to construct and alter, and to acquire sites for, medical facilities
@@ -61,7 +61,7 @@ generated_at: "2026-03-29T23:52:41.988Z"
     - **(A)** The term “covered certification program” means, with respect to employees of the Department of Veterans Affairs who are members of occupational series relating to construction or facilities management, or employees of the Department who award or administer contracts for major construction, minor construction, or nonrecurring maintenance, including as contract specialists or contracting officers’ representatives, a program to certify knowledge and skills relating to construction or facilities management and to ensure that such employees maintain adequate expertise relating to industry standards and best practices for the acquisition of design and construction services.
     - **(B)** The term “covered training curriculum” means, with respect to employees specified in subparagraph (A), a training curriculum relating to construction or facilities management.
 - **(h)**
-  - **(1)** Notwithstanding any other provision of law requiring the use of competitive procedures, including section 2304 of title 10 , when the Secretary determines it to be in the best interest of the Department, the Secretary may enter into a lease with an academic affiliate or covered entity to acquire space for the purpose of providing health-care resources to veterans.
+  - **(1)** Notwithstanding any other provision of law requiring the use of competitive procedures, including section 3301 of title 41 , when the Secretary determines it to be in the best interest of the Department, the Secretary may enter into a lease with an academic affiliate or covered entity to acquire space for the purpose of providing health-care resources to veterans.
   - **(2)** In this subsection:
     - **(A)** The term “academic affiliate” means an institution or organization described in section 7302(d) of this title .
     - **(B)** The term “covered entity” means a unit or subdivision of a State, local, or municipal government, public or nonprofit agency, institution, or organization, or other institution or organization as the Secretary considers appropriate that owns property controlled by an academic affiliate to be leased under this subsection.

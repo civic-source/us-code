@@ -3,9 +3,9 @@ title: "Section 6803 - Public participation"
 usc_title: 16
 usc_section: "6803"
 chapter: 87
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 6803"
-generated_at: "2026-03-29T23:51:16.286Z"
+generated_at: "2026-03-29T23:55:31.292Z"
 ---
 
 # § 6803. Public participation
@@ -58,7 +58,7 @@ generated_at: "2026-03-29T23:51:16.286Z"
   - **(11)**
     - **(A)** All meetings of a Recreation Resource Advisory Committee shall be announced at least one week in advance in a local newspaper of record and the Federal Register, and shall be open to the public.
     - **(B)** A Recreation Resource Advisory Committee shall maintain records of the meetings of the Recreation Resource Advisory Committee and make the records available for public inspection.
-  - **(12)** A Recreation Resource Advisory Committee is subject to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
+  - **(12)** A Recreation Resource Advisory Committee is subject to the provisions of chapter 10 of title 5.
 - **(e)**
   - **(1)** The Secretary shall post clear notice of any entrance fee, standard amenity recreation fee, and available recreation passes at appropriate locations in each unit or area of a Federal land management agency where an entrance fee or a standard amenity recreation fee is charged. The Secretary shall include such notice in publications distributed at the unit or area.
   - **(2)** To the extent practicable, the Secretary shall post clear notice of locations where work is performed using recreation fee or recreation pass revenues collected under this chapter.

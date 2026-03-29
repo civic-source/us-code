@@ -3,9 +3,9 @@ title: "Section 4975 - Tax on prohibited transactions"
 usc_title: 26
 usc_section: "4975"
 chapter: 43
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 4975"
-generated_at: "2026-03-29T23:52:10.222Z"
+generated_at: "2026-03-29T23:56:24.884Z"
 ---
 
 # § 4975. Tax on prohibited transactions
@@ -107,7 +107,8 @@ generated_at: "2026-03-29T23:52:10.222Z"
     - **(G)** the investment manager does not base its fee schedule on the plan’s consent to cross trading, and no other service (other than the investment opportunities and cost savings available through a cross trade) is conditioned on the plan’s consent to cross trading,
     - **(H)** the investment manager has adopted, and cross-trades are effected in accordance with, written cross-trading policies and procedures that are fair and equitable to all accounts participating in the cross-trading program, and that include a description of the manager’s pricing policies and procedures, and the manager’s policies and procedures for allocating cross trades in an objective manner among accounts participating in the cross-trading program, and
     - **(I)** the investment manager has designated an individual responsible for periodically reviewing such purchases and sales to ensure compliance with the written policies and procedures described in subparagraph (H), and following such review, the individual shall issue an annual written report no later than 90 days following the period to which it relates signed under penalty of perjury to the plan fiduciary who authorized cross trading under subparagraph (D) describing the steps performed during the course of the review, the level of compliance, and any specific instances of non-compliance.
-  - **(23)** except as provided in subsection (f)(11), a transaction described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) in connection with the acquisition, holding, or disposition of any security or commodity, if the transaction is corrected before the end of the correction period.
+  - **(23)** except as provided in subsection (f)(11), a transaction described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) in connection with the acquisition, holding, or disposition of any security or commodity, if the transaction is corrected before the end of the correction period, 1 or
+  - **(24)** the provision of a de minimis financial incentive described in section 401(k)(4)(A).
 - **(e)**
   - **(1)** For purposes of this section, the term “plan” means—
     - **(A)** a trust described in section 401(a) which forms a part of a plan, or a plan described in section 403(a), which trust or plan is exempt from tax under section 501(a),

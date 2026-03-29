@@ -3,9 +3,9 @@ title: "Section 50109 - Miscellaneous studies"
 usc_title: 46
 usc_section: "50109"
 chapter: 501
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "46 U.S.C. § 50109"
-generated_at: "2026-03-29T23:53:20.147Z"
+generated_at: "2026-03-29T23:57:43.092Z"
 ---
 
 # § 50109. Miscellaneous studies

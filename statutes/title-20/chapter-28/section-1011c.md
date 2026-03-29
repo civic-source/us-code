@@ -3,9 +3,9 @@ title: "Section 1011c - National Advisory Committee on Institutional Quality and
 usc_title: 20
 usc_section: "1011c"
 chapter: 28
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "20 U.S.C. § 1011c"
-generated_at: "2026-03-29T23:51:10.348Z"
+generated_at: "2026-03-29T23:55:05.333Z"
 ---
 
 # § 1011c. National Advisory Committee on Institutional Quality and Integrity
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T23:51:10.348Z"
     - **(A)** The agenda for a meeting of the Committee shall be established by the Chairperson and shall be submitted to the members of the Committee upon notification of the meeting.
     - **(B)** The agenda shall include, at a minimum, opportunity for public comment during the Committee’s deliberations.
   - **(3)** The Secretary shall designate an employee of the Department to serve as the Secretary’s designee to the Committee, and the Chairperson shall invite the Secretary’s designee to attend all meetings of the Committee.
-  - **(4)** The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee, except that section 14 of such Act shall not apply.
+  - **(4)** Chapter 10 of title 5 shall apply to the Committee, except that section 1013 of title 5 shall not apply.
 - **(e)**
   - **(1)** The Secretary shall annually publish in the Federal Register—
     - **(A)** a list containing, for each member of the Committee—

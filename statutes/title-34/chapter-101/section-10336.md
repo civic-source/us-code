@@ -3,9 +3,9 @@ title: "Section 10336 - Expenditure of grants; records"
 usc_title: 34
 usc_section: "10336"
 chapter: 101
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "34 U.S.C. § 10336"
-generated_at: "2026-03-29T23:52:36.795Z"
+generated_at: "2026-03-29T23:56:30.934Z"
 ---
 
 # § 10336. Expenditure of grants; records

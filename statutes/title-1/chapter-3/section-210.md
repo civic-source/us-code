@@ -3,9 +3,9 @@ title: "Section 210 - Distribution of Supplements to Code of Laws of United Stat
 usc_title: 1
 usc_section: "210"
 chapter: 3
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "1 U.S.C. § 210"
-generated_at: "2026-03-29T23:49:47.764Z"
+generated_at: "2026-03-29T23:54:01.581Z"
 ---
 
 # § 210. Distribution of Supplements to Code of Laws of United States and of District of Columbia Code and Supplements; slip and pamphlet copies

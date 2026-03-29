@@ -3,9 +3,9 @@ title: "Section 2208 - Working-capital funds"
 usc_title: 10
 usc_section: "2208"
 chapter: 131
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 2208"
-generated_at: "2026-03-29T23:50:22.277Z"
+generated_at: "2026-03-29T23:54:20.009Z"
 ---
 
 # § 2208. Working-capital funds
@@ -46,7 +46,9 @@ generated_at: "2026-03-29T23:50:22.277Z"
   - **(2)** The Secretary of Defense may waive the notification requirements of paragraph (1)—
     - **(A)** during a period of war or national emergency; or
     - **(B)** to the extent that the Secretary determines necessary to support a contingency operation.
-  - **(3)** The total amount of the advance billings rendered or imposed for all working-capital funds of the Department of Defense in a fiscal year may not exceed $1,000,000,000.
+  - **(3)**
+    - **(A)** Except as provided in subparagraph (B), the total amount of the advance billings rendered or imposed for all working-capital funds of the Department of Defense in a fiscal year may not exceed $1,000,000,000.
+    - **(B)** The dollar limitation under subparagraph (A) shall not apply with respect to advance billing for relief efforts following a declaration of a major disaster or emergency under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.).
   - **(4)** This subsection shall not apply to advance billing for background investigation and related services performed by the Defense Counterintelligence and Security Agency.
   - **(5)** In this subsection:
     - **(A)** The term “advance billing”, with respect to a working-capital fund, means a billing of a customer by the fund, or a requirement for a customer to reimburse or otherwise credit the fund, for the cost of goods or services provided (or for other expenses incurred) on behalf of the customer that is rendered or imposed before the customer receives the goods or before the services have been performed.
@@ -93,4 +95,4 @@ generated_at: "2026-03-29T23:50:22.277Z"
     - **(A)** Except as provided in subparagraph (B), section 2805 of this title shall apply with respect to a project funded using a working capital fund under the authority of this subsection in the same manner as such section applies to any unspecified minor military construction project under section 2805 of this title .
     - **(B)** For purposes of applying subparagraph (A), the dollar limitation specified in subsection (a)(2) of section 2805 of this title , subject to adjustment as provided in subsection (f) of such section, shall apply rather than the dollar limitation specified in subsection (c) of such section.
   - **(3)** In this subsection, the term “defense industrial base facility” means any Department of Defense depot, arsenal, shipyard, or plant located within the United States.
-  - **(4)** The authority to use a working capital fund to fund a project under the authority of this subsection expires on September 30, 2023 .
+  - **(4)** The authority to use a working capital fund to fund a project under the authority of this subsection expires on September 30, 2025 .

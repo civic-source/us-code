@@ -3,9 +3,9 @@ title: "Section 2 - Definitions"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T23:53:16.416Z"
+generated_at: "2026-03-29T23:57:26.925Z"
 ---
 
 # § 2000bb–2. Definitions

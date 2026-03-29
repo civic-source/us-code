@@ -3,9 +3,9 @@ title: "Section 636 - Jurisdiction, powers, and temporary assignment"
 usc_title: 28
 usc_section: "636"
 chapter: 43
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "28 U.S.C. § 636"
-generated_at: "2026-03-29T23:51:48.884Z"
+generated_at: "2026-03-29T23:56:03.400Z"
 ---
 
 # § 636. Jurisdiction, powers, and temporary assignment

@@ -3,9 +3,9 @@ title: "Section 635a - Management of Bank"
 usc_title: 12
 usc_section: "635a"
 chapter: 6
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "12 U.S.C. § 635a"
-generated_at: "2026-03-29T23:51:02.288Z"
+generated_at: "2026-03-29T23:54:34.880Z"
 ---
 
 # § 635a. Management of Bank
@@ -144,7 +144,7 @@ generated_at: "2026-03-29T23:51:02.288Z"
         - **(I)** with a background in law who have experience in the fields of law and ethics; and
         - **(II)** who are not serving in a position requiring appointment by the President of the United States before being appointed to be Chief Ethics Officer; and
       - **(ii)** approved by the Board.
-    - **(C)** The Chief Ethics Officer shall serve as the designated agency ethics official for the Bank pursuant to the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.).
+    - **(C)** The Chief Ethics Officer shall serve as the designated agency ethics official for the Bank pursuant to chapter 131 of title 5.
   - **(3)** The Office of Ethics has jurisdiction over all employees of, and ethics matters relating to, the Bank. With respect to employees of the Bank, the Office of Ethics shall—
     - **(A)** recommend administrative actions to establish or enforce standards of official conduct;
     - **(B)** refer to the Office of the Inspector General of the Bank alleged violations of—

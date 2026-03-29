@@ -3,9 +3,9 @@ title: "Section 4723 - Regional coordination"
 usc_title: 16
 usc_section: "4723"
 chapter: 67
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 4723"
-generated_at: "2026-03-29T23:51:16.273Z"
+generated_at: "2026-03-29T23:55:31.262Z"
 ---
 
 # § 4723. Regional coordination
@@ -17,9 +17,9 @@ generated_at: "2026-03-29T23:51:16.273Z"
     - **(C)** assist the Task Force in coordinating Federal aquatic nuisance species program activities in the Great Lakes region;
     - **(D)** coordinate, where possible, aquatic nuisance species program activities in the Great Lakes region that are not conducted pursuant to this chapter;
     - **(E)** provide advice to public and private individuals and entities concerning methods of controlling aquatic nuisance species; and
-    - **(F)** submit annually a report to the Task Force describing activities within the Great Lakes region related to aquatic nuisance species prevention, research, 1 1 So in original. Probably should be followed by “and”. control.
+    - **(F)** submit annually a report to the Task Force describing activities within the Great Lakes region related to aquatic nuisance species prevention, research, and control.
   - **(2)** The Task Force shall request that the Great Lakes Fishery Commission provide information to the panel convened under this subsection on technical and policy matters related to the international fishery resources of the Great Lakes.
-  - **(3)** The panel convened under this subsection is encourage 2 2 So in original. Probably should be “encouraged”. to invite representatives from the Federal, provincial or territorial governments of Canada to participate as observers.
+  - **(3)** The panel convened under this subsection is encouraged to invite representatives from the Federal, provincial or territorial governments of Canada to participate as observers.
 - **(b)** Not later than 30 days after October 26, 1996 , the Task Force shall request a Western regional panel, comprised of Western region representatives from Federal, State, and local agencies and from private environmental and commercial interests, to—
   - **(1)** identify priorities for the Western region with respect to aquatic nuisance species;
   - **(2)** make recommendations to the Task Force regarding an education, monitoring (including inspection), prevention, and control program to prevent the spread of the zebra mussel west of the 100th Meridian pursuant to section 4722(i) of this title ;

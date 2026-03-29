@@ -3,9 +3,9 @@ title: "Section 1295 - Qualified electing fund"
 usc_title: 26
 usc_section: "1295"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 1295"
-generated_at: "2026-03-29T23:52:10.185Z"
+generated_at: "2026-03-29T23:56:24.842Z"
 ---
 
 # § 1295. Qualified electing fund

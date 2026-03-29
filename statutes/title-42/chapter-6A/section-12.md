@@ -3,9 +3,9 @@ title: "Section 12 - Health Information Technology Advisory Committee"
 usc_title: 42
 usc_section: "12"
 chapter: 6
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-29T23:53:16.173Z"
+generated_at: "2026-03-29T23:57:26.657Z"
 ---
 
 # § 300jj–12. Health Information Technology Advisory Committee
@@ -84,5 +84,5 @@ generated_at: "2026-03-29T23:53:16.173Z"
   - **(6)** A majority of the members of the HIT Advisory Committee shall constitute a quorum for purposes of voting, but a lesser number of members may meet and hold hearings.
   - **(7)** The National Coordinator shall ensure that the relevant and available recommendations and comments from the National Committee on Vital and Health Statistics are considered in the development of policies.
   - **(8)** For the purposes of carrying out this section, the Secretary may provide or ensure that financial assistance is provided by the HIT Advisory Committee to defray in whole or in part any membership fees or dues charged by such Committee to those consumer advocacy groups and not-for-profit entities that work in the public interest as a party of their mission.
-- **(e)** The Federal Advisory Committee Act (5 U.S.C. App.), other than section 14 of such Act, shall apply to the HIT Advisory Committee.
+- **(e)** Chapter 10 of title 5, other than section 1013 of title 5 , shall apply to the HIT Advisory Committee.
 - **(f)** The Secretary shall provide for publication in the Federal Register and the posting on the Internet website of the Office of the National Coordinator for Health Information Technology of all policy recommendations made by the HIT Advisory Committee under this section.

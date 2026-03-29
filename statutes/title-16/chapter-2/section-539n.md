@@ -3,9 +3,9 @@ title: "Section 539n - Crystal Springs Watershed Special Resources Management Un
 usc_title: 16
 usc_section: "539n"
 chapter: 2
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 539n"
-generated_at: "2026-03-29T23:51:16.152Z"
+generated_at: "2026-03-29T23:55:31.035Z"
 ---
 
 # § 539n. Crystal Springs Watershed Special Resources Management Unit

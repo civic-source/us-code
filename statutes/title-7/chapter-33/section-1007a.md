@@ -3,9 +3,9 @@ title: "Section 1007a - Omitted"
 usc_title: 7
 usc_section: "1007a"
 chapter: 33
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "7 U.S.C. § 1007a"
-generated_at: "2026-03-29T23:50:42.100Z"
+generated_at: "2026-03-29T23:54:15.542Z"
 ---
 
 # § 1007a. Omitted

@@ -3,9 +3,9 @@ title: "Section 1461 - Mailing obscene or crime-inciting matter"
 usc_title: 18
 usc_section: "1461"
 chapter: 71
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "18 U.S.C. § 1461"
-generated_at: "2026-03-29T23:51:08.382Z"
+generated_at: "2026-03-29T23:55:17.252Z"
 ---
 
 # § 1461. Mailing obscene or crime-inciting matter

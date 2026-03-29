@@ -3,9 +3,9 @@ title: "Section 722 - Congressional Directory: sale"
 usc_title: 44
 usc_section: "722"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "44 U.S.C. § 722"
-generated_at: "2026-03-29T23:52:52.007Z"
+generated_at: "2026-03-29T23:56:52.975Z"
 ---
 
 # § 722. Congressional Directory: sale

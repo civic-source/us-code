@@ -3,9 +3,9 @@ title: "Section 283 - Acceptance of membership by United States in Inter-America
 usc_title: 22
 usc_section: "283"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 283"
-generated_at: "2026-03-29T23:51:29.430Z"
+generated_at: "2026-03-29T23:55:52.375Z"
 ---
 
 # § 283. Acceptance of membership by United States in Inter-American Development Bank

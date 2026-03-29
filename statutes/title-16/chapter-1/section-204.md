@@ -3,9 +3,9 @@ title: "Section 204 - Exclusive jurisdiction ceded to United States by Californi
 usc_title: 16
 usc_section: "204"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 204"
-generated_at: "2026-03-29T23:51:16.068Z"
+generated_at: "2026-03-29T23:55:30.909Z"
 ---
 
 # § 204. Exclusive jurisdiction ceded to United States by California

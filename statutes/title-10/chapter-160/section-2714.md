@@ -3,9 +3,9 @@ title: "Section 2714 - Perfluoroalkyl Substances and Polyfluoroalkyl Substances 
 usc_title: 10
 usc_section: "2714"
 chapter: 160
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 2714"
-generated_at: "2026-03-29T23:50:22.293Z"
+generated_at: "2026-03-29T23:54:20.029Z"
 ---
 
 # § 2714. Perfluoroalkyl Substances and Polyfluoroalkyl Substances Task Force
@@ -24,6 +24,8 @@ generated_at: "2026-03-29T23:50:22.293Z"
   - **(2)** Identifying, and funding the procurement of, an effective alternative to firefighting foam containing perfluoroalkyl substances or polyfluoroalkyl substances.
   - **(3)** Coordinating within the Department of Defense with respect to mitigating the effects of the release of perfluoroalkyl substances and polyfluoroalkyl substances.
   - **(4)** Assessing the perceptions of Congress and the public of the efforts of the Department of Defense with respect to mitigating the effects of the release of perfluoroalkyl substances and polyfluoroalkyl substances from activities of the Department.
+  - **(5)** Supporting research efforts relating to perfluoroalkyl substances or polyfluoroalkyl substances.
+  - **(6)** Establishing practices to ensure the timely and complete dissemination of research findings and related data relating to perfluoroalkyl substances or polyfluoroalkyl substances to the general public.
 - **(f)** Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, and quarterly thereafter, the Chairman of the PFAS Task Force shall submit to Congress a report on the activities of the task force.
 - **(g)** In this section:
   - **(1)** The term “perfluoroalkyl substance” means a man-made chemical of which all of the carbon atoms are fully fluorinated carbon atoms.

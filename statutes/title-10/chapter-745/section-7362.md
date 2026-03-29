@@ -3,9 +3,9 @@ title: "Section 7362 - Recomputation of retired pay to reflect advancement on re
 usc_title: 10
 usc_section: "7362"
 chapter: 745
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 7362"
-generated_at: "2026-03-29T23:50:22.324Z"
+generated_at: "2026-03-29T23:54:20.065Z"
 ---
 
 # § 7362. Recomputation of retired pay to reflect advancement on retired list

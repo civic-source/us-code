@@ -3,9 +3,9 @@ title: "Section 16274 - Nuclear science and engineering support"
 usc_title: 42
 usc_section: "16274"
 chapter: 149
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 16274"
-generated_at: "2026-03-29T23:53:16.707Z"
+generated_at: "2026-03-29T23:57:27.245Z"
 ---
 
 # § 16274. Nuclear science and engineering support
@@ -49,7 +49,8 @@ generated_at: "2026-03-29T23:53:16.707Z"
         - **(IV)** EPSCoR universities; and
         - **(V)** junior or community colleges.
     - **(D)** New research reactors established under subparagraph (B) shall not use high-enriched uranium, as defined in section 16281 of this title .
-    - **(E)** Of any amounts appropriated to carry out the program under this section, there are authorized to be appropriated to the Secretary to carry out the subprogram under this paragraph—
+    - **(E)** The Research Reactor Infrastructure subprogram within the Radiological Facilities Management program of the Department, as authorized by paragraph (6), shall be expanded to provide fuel services to research reactors established by this paragraph.
+    - **(F)** Of any amounts appropriated to carry out the program under this section, there are authorized to be appropriated to the Secretary to carry out the subprogram under this paragraph—
       - **(i)** $45,000,000 for fiscal year 2023;
       - **(ii)** $60,000,000 for fiscal year 2024;
       - **(iii)** $65,000,000 for fiscal year 2025;

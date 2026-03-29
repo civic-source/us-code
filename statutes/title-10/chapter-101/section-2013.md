@@ -3,9 +3,9 @@ title: "Section 2013 - Training at non-Government facilities"
 usc_title: 10
 usc_section: "2013"
 chapter: 101
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 2013"
-generated_at: "2026-03-29T23:50:22.271Z"
+generated_at: "2026-03-29T23:54:20.003Z"
 ---
 
 # § 2013. Training at non-Government facilities
@@ -22,8 +22,8 @@ generated_at: "2026-03-29T23:50:22.271Z"
 - **(b)** The Secretary concerned, from appropriations or other funds available to the Secretary, may—
   - **(1)** pay all or a part of the pay of a member of a uniformed service who is selected and assigned for training under this section, for the period of training; and
   - **(2)** pay, or reimburse the member of a uniformed service for, all or a part of the necessary expenses of the training (without regard to subsections (a) and (b) of section 3324 of title 31 ), including among those expenses the necessary costs of the following:
-    - **(A)** Travel and per diem instead of subsistence under sections 474 1 1 See References in Text note below. and 475 1 of title 37 and the Joint Travel Regulations for the Uniformed Services.
-    - **(B)** Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 476 1 and 479 1 of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
+    - **(A)** Travel and per diem instead of subsistence under sections 405 and 452 of title 37 and the Joint Travel Regulations for the Uniformed Services.
+    - **(B)** Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 452 and 453(c) of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
     - **(C)** Tuition and matriculation fees.
     - **(D)** Library and laboratory services.
     - **(E)** Purchase or rental of books, materials, and supplies.

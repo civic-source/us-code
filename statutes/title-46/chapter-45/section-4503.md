@@ -3,9 +3,9 @@ title: "Section 4503 - Fishing, fish tender, and fish processing vessel certific
 usc_title: 46
 usc_section: "4503"
 chapter: 45
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "46 U.S.C. § 4503"
-generated_at: "2026-03-29T23:53:20.131Z"
+generated_at: "2026-03-29T23:57:43.072Z"
 ---
 
 # § 4503. Fishing, fish tender, and fish processing vessel certification
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T23:53:20.131Z"
 - **(a)** A vessel to which this subsection applies may not be operated unless the vessel—
   - **(1)** meets all survey and classification requirements prescribed by the American Bureau of Shipping or another similarly qualified organization approved by the Secretary; and
   - **(2)** has on board a certificate issued by the American Bureau of Shipping or that other organization evidencing compliance with this subsection.
-- **(b)** Except as provided in section 4503a, subsection (a) applies to a fish processing vessel to which this chapter applies that—
+- **(b)** Subsection (a) applies to a fish processing vessel to which this chapter applies that—
   - **(1)** is built after July 27, 1990 ; or
   - **(2)** undergoes a major conversion completed after that date.
 - **(c)**

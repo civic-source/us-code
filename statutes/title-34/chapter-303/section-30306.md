@@ -3,9 +3,9 @@ title: "Section 30306 - National Prison Rape Elimination Commission"
 usc_title: 34
 usc_section: "30306"
 chapter: 303
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "34 U.S.C. § 30306"
-generated_at: "2026-03-29T23:52:36.835Z"
+generated_at: "2026-03-29T23:56:30.979Z"
 ---
 
 # § 30306. National Prison Rape Elimination Commission
@@ -101,4 +101,4 @@ generated_at: "2026-03-29T23:52:36.835Z"
   - **(3)** Documents provided to the Commission pursuant to a subpoena issued under this subsection shall not be released publicly without the affirmative vote of ⅔ of the Commission.
 - **(l)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
 - **(m)** The Commission shall terminate on the date that is 60 days after the date on which the Commission submits the reports required by this section.
-- **(n)** The Commission shall be exempt from the Federal Advisory Committee Act.
+- **(n)** The Commission shall be exempt from chapter 10 of title 5.

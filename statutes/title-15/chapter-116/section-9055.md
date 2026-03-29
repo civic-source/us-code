@@ -3,9 +3,9 @@ title: "Section 9055 - Congressional Oversight Commission"
 usc_title: 15
 usc_section: "9055"
 chapter: 116
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 9055"
-generated_at: "2026-03-29T23:50:50.673Z"
+generated_at: "2026-03-29T23:54:56.205Z"
 ---
 
 # § 9055. Congressional Oversight Commission
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T23:50:50.673Z"
   - **(3)** Any member or agent of the Oversight Commission may, if authorized by the Oversight Commission, take any action which the Oversight Commission is authorized to take by this section.
   - **(4)** The Oversight Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this section. Upon request of the Chairperson of the Oversight Commission, the head of that department or agency shall furnish that information to the Oversight Commission.
   - **(5)** The Oversight Commission shall receive and consider all reports required to be submitted to the Oversight Commission under this part.
-- **(f)** The Oversight Commission shall terminate on September 30, 2025 .
+- **(f)** The Oversight Commission shall terminate on June 30, 2023 .
 - **(g)**
   - **(1)** There is authorized to be appropriated to the Oversight Commission such sums as may be necessary for any fiscal year, half of which shall be derived from the applicable account of the House of Representatives, and half of which shall be derived from the contingent fund of the Senate.
   - **(2)** An amount equal to the expenses of the Oversight Commission shall be promptly transferred by the Secretary and the Board of Governors of the Federal Reserve System, from time to time upon the presentment of a statement of such expenses by the Chairperson of the Oversight Commission, from funds made available to the Secretary under this part to the applicable fund of the House of Representatives and the contingent fund of the Senate, as appropriate, as reimbursement for amounts expended from such account and fund under paragraph (1).

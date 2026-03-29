@@ -3,9 +3,9 @@ title: "Section 206 - Exemption of retired officers of the uniformed services"
 usc_title: 18
 usc_section: "206"
 chapter: 11
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "18 U.S.C. § 206"
-generated_at: "2026-03-29T23:51:08.362Z"
+generated_at: "2026-03-29T23:55:17.228Z"
 ---
 
 # § 206. Exemption of retired officers of the uniformed services

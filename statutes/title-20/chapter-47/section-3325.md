@@ -3,9 +3,9 @@ title: "Section 3325 - Omitted"
 usc_title: 20
 usc_section: "3325"
 chapter: 47
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "20 U.S.C. § 3325"
-generated_at: "2026-03-29T23:51:10.512Z"
+generated_at: "2026-03-29T23:55:05.412Z"
 ---
 
 # §§ 3321 to 3325. Omitted

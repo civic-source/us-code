@@ -3,9 +3,9 @@ title: "Section 601 - Positions of importance and responsibility: generals and l
 usc_title: 10
 usc_section: "601"
 chapter: 35
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 601"
-generated_at: "2026-03-29T23:50:22.224Z"
+generated_at: "2026-03-29T23:54:19.945Z"
 ---
 
 # § 601. Positions of importance and responsibility: generals and lieutenant generals; admirals and vice admirals
@@ -16,7 +16,9 @@ generated_at: "2026-03-29T23:50:22.224Z"
   - **(2)** while under orders transferring him to another position designated under subsection (a) or by law to carry one of those grades, beginning on the day his assignment to the first position is terminated and ending on the day before the day on which he assumes the second position;
   - **(3)** while hospitalized, beginning on the day of the hospitalization and ending on the day he is discharged from the hospital, but not for more than 180 days;
   - **(4)** at the discretion of the Secretary of Defense, while the officer is awaiting orders after being relieved from the position designated under subsection (a) or by law to carry one of those grades, but not for more than 60 days beginning on the day the officer is relieved from the position, unless, during such period, the officer is placed under orders to another position designated under subsection (a) or by law to carry one of those grades, in which case paragraph (2) will also apply to the officer; and
-  - **(5)** while awaiting retirement, beginning on the day he is relieved from the position designated under subsection (a) or by law to carry one of those grades and ending on the day before his retirement, but not for more than 60 days.
+  - **(5)** while awaiting retirement, beginning on the day he is relieved from the position designated under subsection (a) or by law to carry one of those grades and ending on the day before his retirement, but—
+    - **(A)** subject to subparagraph (B), not for more than 60 days; and
+    - **(B)** with respect to an officer awaiting retirement following not less than one year of consecutive deployment outside of the United States to a combat zone (as defined in section 112(c) of the Internal Revenue Code of 1986) or in support of a contingency operation, not for more than 90 days.
 - **(c)**
   - **(1)** An appointment of an officer under subsection (a) does not vacate the permanent grade held by the officer.
   - **(2)** An officer serving in a grade above major general or rear admiral who holds the permanent grade of brigadier general or rear admiral (lower half) shall be considered for promotion to the permanent grade of major general or rear admiral, as appropriate, as if he were serving in his permanent grade.

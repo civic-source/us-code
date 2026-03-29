@@ -3,9 +3,9 @@ title: "Section 1882 - Security measures"
 usc_title: 12
 usc_section: "1882"
 chapter: 19
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "12 U.S.C. § 1882"
-generated_at: "2026-03-29T23:51:02.367Z"
+generated_at: "2026-03-29T23:54:34.969Z"
 ---
 
 # § 1882. Security measures

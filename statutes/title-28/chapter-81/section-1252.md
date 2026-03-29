@@ -3,9 +3,9 @@ title: "Section 1252 - Repealed. Pub. L. 100–352, § 1 , June 27, 1988 , 102 S
 usc_title: 28
 usc_section: "1252"
 chapter: 81
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "28 U.S.C. § 1252"
-generated_at: "2026-03-29T23:51:48.886Z"
+generated_at: "2026-03-29T23:56:03.402Z"
 ---
 
 # [§ 1252. Repealed. Pub. L. 100–352, § 1 , June 27, 1988 , 102 Stat. 662 ]

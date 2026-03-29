@@ -3,9 +3,9 @@ title: "Section 3162 - Sanctions"
 usc_title: 18
 usc_section: "3162"
 chapter: 208
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "18 U.S.C. § 3162"
-generated_at: "2026-03-29T23:51:08.405Z"
+generated_at: "2026-03-29T23:55:17.278Z"
 ---
 
 # § 3162. Sanctions

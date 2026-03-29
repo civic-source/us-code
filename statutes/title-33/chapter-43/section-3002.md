@@ -3,9 +3,9 @@ title: "Section 3002 - Definitions"
 usc_title: 33
 usc_section: "3002"
 chapter: 43
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 3002"
-generated_at: "2026-03-29T23:52:21.982Z"
+generated_at: "2026-03-29T23:56:30.098Z"
 ---
 
 # § 3002. Definitions
@@ -19,3 +19,4 @@ generated_at: "2026-03-29T23:52:21.982Z"
   - **(5)** The term “flag officer” means an officer serving in, or having the grade of, vice admiral, rear admiral, or rear admiral (lower half).
   - **(6)** The term “Secretary” means the Secretary of Commerce.
   - **(7)** The term “Administration” means the National Oceanic and Atmospheric Administration.
+  - **(8)** The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.

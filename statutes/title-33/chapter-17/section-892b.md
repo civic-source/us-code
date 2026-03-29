@@ -3,14 +3,14 @@ title: "Section 892b - Quality assurance program"
 usc_title: 33
 usc_section: "892b"
 chapter: 17
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 892b"
-generated_at: "2026-03-29T23:52:21.928Z"
+generated_at: "2026-03-29T23:56:30.040Z"
 ---
 
 # § 892b. Quality assurance program
 
-- **(a)** For purposes of this section, the term “hydrographic product” means any publicly or commercially available product produced by a non-Federal entity that includes or displays hydrographic data.
+- **(a)** For purposes of this section, the term “hydrographic product” means any publicly or commercially available product or service produced or disseminated by a non-Federal entity that includes or displays hydrographic data.
 - **(b)**
   - **(1)** The Administrator—
     - **(A)** by not later than 2 years after December 19, 2002 , shall, subject to the availability of appropriations, develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title ;

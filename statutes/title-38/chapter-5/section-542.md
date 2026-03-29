@@ -3,9 +3,9 @@ title: "Section 542 - Advisory Committee on Women Veterans"
 usc_title: 38
 usc_section: "542"
 chapter: 5
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "38 U.S.C. § 542"
-generated_at: "2026-03-29T23:52:41.930Z"
+generated_at: "2026-03-29T23:56:48.999Z"
 ---
 
 # § 542. Advisory Committee on Women Veterans
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T23:52:41.930Z"
   - **(3)** The Secretary shall determine the number, terms of service, and pay and allowances of members of the Committee appointed by the Secretary, except that a term of service of any such member may not exceed three years. The Secretary may reappoint any such member for additional terms of service.
 - **(b)** The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits by the Department for women veterans, reports and studies pertaining to women veterans and the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department, including the Center for Women Veterans.
 - **(c)**
-  - **(1)** Not later than July 1 of each even-numbered year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to women veterans. Each such report shall include—
+  - **(1)** Not later than July 1 of each year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to women veterans. Each such report shall include—
     - **(A)** an assessment of the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department;
     - **(B)** a review of the programs and activities of the Department designed to meet such needs;
     - **(C)** an assessment of the effects of intimate partner violence on women veterans; and

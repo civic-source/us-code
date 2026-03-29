@@ -3,9 +3,9 @@ title: "Section 2324 - National activities"
 usc_title: 20
 usc_section: "2324"
 chapter: 44
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "20 U.S.C. § 2324"
-generated_at: "2026-03-29T23:51:10.509Z"
+generated_at: "2026-03-29T23:55:05.408Z"
 ---
 
 # § 2324. National activities
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T23:51:10.509Z"
       - **(vii)** representatives of Indian Tribes and Tribal organizations; and
       - **(viii)** representatives of special populations.
     - **(C)** The advisory panel shall transmit to the Secretary, the Director, the relevant committees of Congress, and the Library of Congress an independent analysis of the findings and recommendations resulting from the evaluation described in paragraph (2).
-    - **(D)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the panel established under this paragraph.
+    - **(D)** Chapter 10 of title 5 shall not apply to the panel established under this paragraph.
   - **(2)**
     - **(A)** From amounts made available under subsection (f), the Secretary, acting through the Director, shall provide for the conduct of a series of research and evaluation initiatives for each year for which funds are appropriated to carry out this chapter, which are aligned with the plan in subsection (c)(2), of career and technical education programs under this chapter, including the implementation of the Strengthening Career and Technical Education for the 21st Century Act, to the extent practicable, through studies and analyses conducted independently through grants, contracts, and cooperative agreements that are awarded on a competitive basis. Whenever possible, data used for the evaluation for a fiscal year shall be data from the most recent fiscal year for which such data are available, and from the 5-year period preceding that fiscal year.
     - **(B)** The evaluation required under subparagraph (A) shall include descriptions and evaluations of—

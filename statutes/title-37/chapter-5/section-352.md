@@ -3,16 +3,16 @@ title: "Section 352 - Assignment pay or special duty pay"
 usc_title: 37
 usc_section: "352"
 chapter: 5
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "37 U.S.C. § 352"
-generated_at: "2026-03-29T23:52:49.848Z"
+generated_at: "2026-03-29T23:56:42.330Z"
 ---
 
 # § 352. Assignment pay or special duty pay
 
 - **(a)** The Secretary concerned may pay assignment or special duty pay under this section to a member of a regular or reserve component of the uniformed services who—
   - **(1)** is entitled to basic pay under section 204 of this title or compensation under section 206 of this title ; and
-  - **(2)** performs duties in an assignment, location, or unit designated by, and under the conditions of service specified by, the Secretary concerned.
+  - **(2)** performs duties in an assignment, location (including a cold weather location), or unit designated by, and under the conditions of service specified by, the Secretary concerned.
 - **(b)**
   - **(1)** Assignment or special duty pay under subsection (a) may be paid monthly, in a lump sum, or in periodic installments other than monthly, as determined by the Secretary concerned. If paid monthly, the Secretary concerned may prorate the monthly amount of the assignment or special duty pay for a member who does not satisfy the eligibility requirement for an entire month to reflect the duration of the member’s actual qualifying service during the month.
   - **(2)** The maximum monthly amount of assignment or special duty pay may not exceed $5,000.
@@ -31,4 +31,4 @@ generated_at: "2026-03-29T23:52:49.848Z"
 - **(d)** A member of a reserve component entitled to compensation under section 206 of this title who is authorized assignment or special duty pay under this section may be paid an amount of assignment or special duty pay that is proportionate to the compensation received by the member under section 206 of this title for inactive-duty training.
 - **(e)** Assignment or special duty pay paid to a member under this section is in addition to any other pay and allowances to which the member is entitled.
 - **(f)** A member who receives assignment or special duty pay under this section and who fails to fulfill the eligibility requirements under subsection (a) for receipt of such pay shall be subject to the repayment provisions of section 373 of this title .
-- **(g)** No agreement may be entered into under this section after December 31, 2022 .
+- **(g)** No agreement may be entered into under this section after December 31, 2023 .

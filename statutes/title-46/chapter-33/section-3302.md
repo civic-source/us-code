@@ -3,9 +3,9 @@ title: "Section 3302 - Exemptions"
 usc_title: 46
 usc_section: "3302"
 chapter: 33
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "46 U.S.C. § 3302"
-generated_at: "2026-03-29T23:53:20.128Z"
+generated_at: "2026-03-29T23:57:43.068Z"
 ---
 
 # § 3302. Exemptions
@@ -77,7 +77,7 @@ generated_at: "2026-03-29T23:53:20.128Z"
     - **(F)** The LST–325, owned by USS LST Ship Memorial, Incorporated, located in Mobile, Alabama.
   - **(2)** The Secretary may issue a permit for a specific voyage or for not more than one year. The Secretary may impose specific requirements about the number of passengers to be carried, manning, the areas or specific routes over which the vessel may operate, or other similar matters.
   - **(3)** A designated Coast Guard official who has reason to believe that a vessel operating under this subsection is in a condition or is operated in a manner that creates an immediate threat to life or the environment or is operated in a manner that is inconsistent with this section, may direct the master or individual in charge to take immediate and reasonable steps to safeguard life and the environment, including directing the vessel to a port or other refuge.
-- **(m)** A seagoing barge is not subject to inspection under section 3301(6) of this title if the vessel is unmanned and does not carry—
+- **(m)** A seagoing barge or a Great Lakes barge is not subject to inspection under paragraph (6) or (13) of section 3301 of this title if the vessel is unmanned and does not carry—
   - **(1)** a hazardous material as cargo; or
   - **(2)** a flammable or combustible liquid, including oil, in bulk.
 - **(n)**

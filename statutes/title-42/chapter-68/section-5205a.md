@@ -3,9 +3,9 @@ title: "Section 5205a - Certain recoupment prohibited"
 usc_title: 42
 usc_section: "5205a"
 chapter: 68
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 5205a"
-generated_at: "2026-03-29T23:53:16.490Z"
+generated_at: "2026-03-29T23:57:27.014Z"
 ---
 
 # § 5205a. Certain recoupment prohibited

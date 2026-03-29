@@ -3,9 +3,9 @@ title: "Section 1274 - Watershed pilot projects"
 usc_title: 33
 usc_section: "1274"
 chapter: 26
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 1274"
-generated_at: "2026-03-29T23:52:21.938Z"
+generated_at: "2026-03-29T23:56:30.050Z"
 ---
 
 # § 1274. Watershed pilot projects

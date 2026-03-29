@@ -3,9 +3,9 @@ title: "Section 6662 - Imposition of accuracy-related penalty on underpayments"
 usc_title: 26
 usc_section: "6662"
 chapter: 68
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 6662"
-generated_at: "2026-03-29T23:52:10.267Z"
+generated_at: "2026-03-29T23:56:24.933Z"
 ---
 
 # § 6662. Imposition of accuracy-related penalty on underpayments
@@ -21,6 +21,7 @@ generated_at: "2026-03-29T23:52:10.267Z"
   - **(7)** Any undisclosed foreign financial asset understatement.
   - **(8)** Any inconsistent estate basis.
   - **(9)** Any overstatement of the deduction provided in section 170(p).
+  - **(10)** Any disallowance of a deduction by reason of section 170(h)(7).
 - **(c)** For purposes of this section, the term “negligence” includes any failure to make a reasonable attempt to comply with the provisions of this title, and the term “disregard” includes any careless, reckless, or intentional disregard.
 - **(d)**
   - **(1)**
@@ -85,8 +86,9 @@ generated_at: "2026-03-29T23:52:10.267Z"
       - **(iii)** in paragraph (1)(B)(ii)—
         - **(I)** “$20,000,000” for “$5,000,000”, and
         - **(II)** “20 percent” for “10 percent”.
-    - **(B)** any substantial overstatement of pension liabilities as determined under subsection (f) by substituting “400 percent” for “200 percent”, and
-    - **(C)** any substantial estate or gift tax valuation understatement as determined under subsection (g) by substituting “40 percent” for “65 percent”.
+    - **(B)** any substantial overstatement of pension liabilities as determined under subsection (f) by substituting “400 percent” for “200 percent”,
+    - **(C)** any substantial estate or gift tax valuation understatement as determined under subsection (g) by substituting “40 percent” for “65 percent”, and
+    - **(D)** any disallowance of a deduction described in subsection (b)(10).
 - **(i)**
   - **(1)** In the case of any portion of an underpayment which is attributable to one or more nondisclosed noneconomic substance transactions, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
   - **(2)** For purposes of this subsection, the term “nondisclosed noneconomic substance transaction” means any portion of a transaction described in subsection (b)(6) with respect to which the relevant facts affecting the tax treatment are not adequately disclosed in the return nor in a statement attached to the return.

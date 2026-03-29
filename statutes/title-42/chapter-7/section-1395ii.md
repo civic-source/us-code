@@ -3,9 +3,9 @@ title: "Section 1395ii - Application of certain provisions of sub­chapter II"
 usc_title: 42
 usc_section: "1395ii"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 1395ii"
-generated_at: "2026-03-29T23:53:16.307Z"
+generated_at: "2026-03-29T23:57:26.802Z"
 ---
 
 # § 1395ii. Application of certain provisions of sub­chapter II

@@ -3,9 +3,9 @@ title: "Section 2802 - Strategic plans"
 usc_title: 39
 usc_section: "2802"
 chapter: 28
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "39 U.S.C. § 2802"
-generated_at: "2026-03-29T23:52:42.917Z"
+generated_at: "2026-03-29T23:56:47.575Z"
 ---
 
 # § 2802. Strategic plans

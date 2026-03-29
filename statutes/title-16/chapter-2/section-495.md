@@ -3,9 +3,9 @@ title: "Section 495 - Leases of lands for sanitariums or hotels"
 usc_title: 16
 usc_section: "495"
 chapter: 2
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 495"
-generated_at: "2026-03-29T23:51:16.147Z"
+generated_at: "2026-03-29T23:55:31.026Z"
 ---
 
 # § 495. Leases of lands for sanitariums or hotels

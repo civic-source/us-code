@@ -3,9 +3,9 @@ title: "Section 101333 - Criteria for providing housing"
 usc_title: 54
 usc_section: "101333"
 chapter: 1013
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "54 U.S.C. § 101333"
-generated_at: "2026-03-29T23:53:45.829Z"
+generated_at: "2026-03-29T23:57:45.326Z"
 ---
 
 # § 101333. Criteria for providing housing

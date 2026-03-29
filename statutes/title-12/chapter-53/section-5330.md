@@ -3,9 +3,9 @@ title: "Section 5330 - Additional standards applicable to activities or practice
 usc_title: 12
 usc_section: "5330"
 chapter: 53
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "12 U.S.C. § 5330"
-generated_at: "2026-03-29T23:51:02.420Z"
+generated_at: "2026-03-29T23:54:35.033Z"
 ---
 
 # § 5330. Additional standards applicable to activities or practices for financial stability purposes

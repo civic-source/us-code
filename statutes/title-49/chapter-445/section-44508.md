@@ -3,9 +3,9 @@ title: "Section 44508 - Research advisory committee"
 usc_title: 49
 usc_section: "44508"
 chapter: 445
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 44508"
-generated_at: "2026-03-29T23:53:40.255Z"
+generated_at: "2026-03-29T23:57:35.721Z"
 ---
 
 # § 44508. Research advisory committee
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T23:53:40.255Z"
   - **(2)** The Administrator shall designate the chairman of the committee.
   - **(3)** A member of the committee serves without pay. However, the Administrator may allow a member, when attending meetings of the committee or a subordinate committee, expenses as authorized under section 5703 of title 5 .
 - **(c)** The Administrator shall provide support staff for the committee. On request of the committee, the Administrator shall provide information, administrative services, and supplies that the Administrator considers necessary for the committee to carry out its duties and powers.
-- **(d)** Section 14 of the Federal Advisory Committee Act (5 App. U.S.C.) does not apply to the committee.
+- **(d)** Section 1013 of title 5 does not apply to the committee.
 - **(e)**
   - **(1)** Not more than .1 percent of the amounts made available to conduct research under sections 40119, 1 44504, 44505, 44507, 44511–44513, and 44912 of this title may be used by the Administrator to carry out this section.
   - **(2)** A limitation on amounts available for obligation by or for the committee does not apply to amounts made available to carry out this section.

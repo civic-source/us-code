@@ -3,9 +3,9 @@ title: "Section 247 - Damage to religious property; obstruction of persons in th
 usc_title: 18
 usc_section: "247"
 chapter: 13
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "18 U.S.C. § 247"
-generated_at: "2026-03-29T23:51:08.364Z"
+generated_at: "2026-03-29T23:55:17.231Z"
 ---
 
 # § 247. Damage to religious property; obstruction of persons in the free exercise of religious beliefs

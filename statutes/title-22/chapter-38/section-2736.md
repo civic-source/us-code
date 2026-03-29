@@ -3,9 +3,9 @@ title: "Section 2736 - Exit interviews for workforce"
 usc_title: 22
 usc_section: "2736"
 chapter: 38
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 2736"
-generated_at: "2026-03-29T23:51:29.491Z"
+generated_at: "2026-03-29T23:55:52.444Z"
 ---
 
 # § 2736. Exit interviews for workforce

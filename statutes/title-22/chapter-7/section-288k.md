@@ -3,9 +3,9 @@ title: "Section 288k - Extension of certain privileges, exemptions, and immuniti
 usc_title: 22
 usc_section: "288k"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 288k"
-generated_at: "2026-03-29T23:51:29.437Z"
+generated_at: "2026-03-29T23:55:52.383Z"
 ---
 
 # § 288k. Extension of certain privileges, exemptions, and immunities to Hong Kong Economic and Trade Offices

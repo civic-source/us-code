@@ -1,14 +1,12 @@
 ---
-title: "Section 20709c - Training of tribal law enforcement and prosecutorial personnel"
+title: "Section 20709c - Transferred"
 usc_title: 34
 usc_section: "20709c"
 chapter: 207
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "34 U.S.C. § 20709c"
-generated_at: "2026-03-29T23:52:36.828Z"
+generated_at: "2026-03-29T23:56:30.972Z"
 ---
 
-# § 20709c. Training of tribal law enforcement and prosecutorial personnel
-
-The Attorney General, in consultation with the Director of the Office of Tribal Justice, shall carry out a program under which tribal law enforcement officials may receive technical assistance and training to pursue a victim-centered approach to investigating and prosecuting severe forms of trafficking in persons (as defined in section 7102 of title 22 ).
+# §§ 20709a to 20709c. Transferred
 

@@ -3,9 +3,9 @@ title: "Section 510 - Enlistment incentives for pursuit of skills to facilitate 
 usc_title: 10
 usc_section: "510"
 chapter: 31
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 510"
-generated_at: "2026-03-29T23:50:22.221Z"
+generated_at: "2026-03-29T23:54:19.942Z"
 ---
 
 # § 510. Enlistment incentives for pursuit of skills to facilitate national service
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T23:50:22.221Z"
     - **(B)** If a National Call to Service participant meets all eligibility requirements specified in chapter 1606 of this title or chapter 30 of title 38 for entitlement to allowances for educational assistance under either such chapter, the participant may become eligible for allowances for educational assistance benefits under either such chapter up to the maximum allowance provided less the total amount of allowance paid under paragraph (3) or (4) of subsection (e).
   - **(2)**
     - **(A)** Educational assistance under paragraphs (3) or (4) of subsection (e) shall be provided through the Department of Veterans Affairs under an agreement to be entered into by the Secretary of Defense and the Secretary of Veterans Affairs. The agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Secretary of Veterans Affairs for the making of payments under this section.
-    - **(B)** Except as otherwise provided in this section, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term “eligible veteran” and the term “person”, as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section to refer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
+    - **(B)** Except as otherwise provided in this section, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II 1 1 See References in Text note below. of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term “eligible veteran” and the term “person”, as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section to refer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
   - **(3)**
     - **(A)** Except as provided in paragraph (1), nothing in this section shall prohibit a National Call to Service participant who satisfies through service under subsection (c) the eligibility requirements for educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38 from an entitlement to such educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38, as the case may be.
     - **(B)**

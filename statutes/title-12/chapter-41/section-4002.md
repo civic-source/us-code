@@ -3,9 +3,9 @@ title: "Section 4002 - Expedited funds availability schedules"
 usc_title: 12
 usc_section: "4002"
 chapter: 41
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "12 U.S.C. § 4002"
-generated_at: "2026-03-29T23:51:02.393Z"
+generated_at: "2026-03-29T23:54:35.002Z"
 ---
 
 # § 4002. Expedited funds availability schedules

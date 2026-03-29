@@ -3,9 +3,9 @@ title: "Section 1141 - Reporting requirements"
 usc_title: 6
 usc_section: "1141"
 chapter: 4
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "6 U.S.C. § 1141"
-generated_at: "2026-03-29T23:50:11.214Z"
+generated_at: "2026-03-29T23:54:07.970Z"
 ---
 
 # § 1141. Reporting requirements

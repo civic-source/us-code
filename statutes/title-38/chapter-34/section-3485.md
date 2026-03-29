@@ -1,14 +1,14 @@
 ---
-title: "Section 3485 - Work-study allowance 1 1 See Payment of Work-Study Allowances During Emergency Situations note below."
+title: "Section 3485 - Work-study allowance"
 usc_title: 38
 usc_section: "3485"
 chapter: 34
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "38 U.S.C. § 3485"
-generated_at: "2026-03-29T23:52:41.959Z"
+generated_at: "2026-03-29T23:56:49.031Z"
 ---
 
-# § 3485. Work-study allowance 1 1 See Payment of Work-Study Allowances During Emergency Situations note below.
+# § 3485. Work-study allowance
 
 - **(a)**
   - **(1)** In accordance with paragraph (4), individuals utilized under the authority of subsection (b) shall be paid an additional educational assistance allowance (hereinafter in this section referred to as “work-study allowance”). Such allowance shall be paid in return for an individual’s entering into an agreement described in paragraph (3).
@@ -59,7 +59,7 @@ generated_at: "2026-03-29T23:52:41.959Z"
 - **(c)** The Secretary shall determine the number of individuals whose services the Department of Veterans Affairs can effectively utilize and the types of services that such individuals may be required to perform, on the basis of a survey, which the Secretary shall conduct annually, of each Department of Veterans Affairs regional office in order to determine the numbers of individuals whose services can effectively be utilized during an enrollment period in each geographical area where Department of Veterans Affairs activities are conducted, and shall determine which individuals shall be offered agreements under this section in accordance with regulations which the Secretary shall prescribe, including as criteria (1) the need of the individual to augment the veteran’s educational assistance or subsistence allowance; (2) the availability to the individual of transportation to the place where the individual’s services are to be performed; (3) the motivation of the individual; and (4) in the case of a disabled veteran pursuing a course of vocational rehabilitation under chapter 31 of this title, the compatibility of the work assignment to the veteran’s physical condition.
 - **(d)** While performing the services authorized by this section, individuals shall be deemed employees of the United States for the purposes of the benefits of chapter 81 of title 5 but not for the purposes of laws administrated by the Office of Personnel Management.
 - **(e)**
-  - **(1)** Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby the individual agrees to perform a qualifying work-study activity described in subsection (a)(5) and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual’s participation in a benefits program under this chapter, chapter 30, 31, 32, 33, 35, or 36 of this title, or chapter 1606 or 1607 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 2 2 See References in Text note below. of such title).
+  - **(1)** Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby the individual agrees to perform a qualifying work-study activity described in subsection (a)(5) and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual’s participation in a benefits program under this chapter, chapter 30, 31, 32, 33, 35, or 36 of this title, or chapter 1606 or 1607 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 1 1 See References in Text note below. of such title).
   - **(2)**
     - **(A)** Subject to subparagraph (B) of this paragraph, the provisions of this section (other than those provisions which are determined by the Secretary to be inapplicable to an agreement under this subsection) shall apply to any agreement authorized under paragraph (1) of this subsection.
     - **(B)** For the purposes of this subsection, the Secretary may—
@@ -71,3 +71,9 @@ generated_at: "2026-03-29T23:52:41.959Z"
     - **(B)** In no event shall an agreement under this subsection continue in force after the total amount of the individual’s indebtedness described in paragraph (1) of this subsection has been recouped, waived, or otherwise liquidated.
     - **(C)** Notwithstanding the provisions of subparagraphs (A) and (B) of this paragraph, if the Secretary finds that an individual was without fault and was allowed to perform services described in the agreement after its termination, the Secretary shall, as reasonable compensation therefor, pay the individual at the applicable hourly minimum wage rate for such services as the Secretary determines were satisfactorily performed.
   - **(4)** The Secretary shall promulgate regulations to carry out this subsection.
+- **(f)**
+  - **(1)** In case of an individual who is in receipt of work-study allowance pursuant to an agreement described in subsection (a)(3) as of the date on which an emergency situation occurs and who is unable to continue to perform qualifying work-study activities described in subsection (a)(4) by reason of the emergency situation—
+    - **(A)** the Secretary may continue to pay work-study allowance under this section or make deductions described in subsection (e)(1) during the period of such emergency situation, notwithstanding the inability of the individual to perform such work-study activities by reason of such emergency situation; and
+    - **(B)** at the option of the individual, the Secretary shall extend the agreement described in subsection (a)(3) with the individual for any subsequent period of enrollment initiated during the emergency situation, notwithstanding the inability of the individual to perform work-study activities described in subsection (a)(4) by reason of such emergency situation.
+  - **(2)** The amount of work-study allowance payable to an individual under paragraph (1)(A) during the period of an emergency situation shall be an amount determined by the Secretary but may not exceed the amount that would be payable under subsection (a)(2) if the individual worked 25 hours per week paid during such period.
+  - **(3)** The term “emergency situation” has the meaning given that term in section 3601 of this title .

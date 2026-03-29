@@ -3,9 +3,9 @@ title: "Section 333 - Foreign security forces: authority to build capacity"
 usc_title: 10
 usc_section: "333"
 chapter: 16
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 333"
-generated_at: "2026-03-29T23:50:22.215Z"
+generated_at: "2026-03-29T23:54:19.934Z"
 ---
 
 # § 333. Foreign security forces: authority to build capacity
@@ -50,7 +50,7 @@ generated_at: "2026-03-29T23:50:22.215Z"
   - **(9)** In the case of a program described in subsection (a), each of the following:
     - **(A)** A description of whether assistance under the program could be provided pursuant to other authorities under this title, the Foreign Assistance Act of 1961, or any other train and equip authorities of the Department of Defense.
     - **(B)** An identification of each such authority described in subparagraph (A).
-- **(f)** The Director of the Defense Security Cooperation Agency shall, on a quarterly basis, submit to the appropriate committees of Congress a report setting forth, for the preceding calendar quarter, the following:
+- **(f)** The Director of the Defense Security Cooperation Agency shall, on a semi-annual basis, submit to the appropriate committees of Congress a report setting forth, for the preceding 180 days, the following:
   - **(1)** Information, by recipient country, of the delivery and execution status of all defense articles, training, defense services, supplies (including consumables), and small-scale construction under programs under subsection (a).
   - **(2)** Information on the timeliness of delivery of defense articles, defense services, supplies (including consumables), and small-scale construction when compared with delivery schedules for such articles, services, supplies, and construction previously provided to Congress.
   - **(3)** Information, by recipient country, on the status of funds allocated for programs under subsection (a), including amounts of unobligated funds, unliquidated obligations, and disbursements.

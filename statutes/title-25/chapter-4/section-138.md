@@ -1,14 +1,12 @@
 ---
-title: "Section 138 - Goods withheld from chiefs violating treaty stipulations"
+title: "Section 138 - Repealed. Pub. L. 117–317, § 2(6) , (7), Dec. 27, 2022 , 136 Stat. 4419"
 usc_title: 25
 usc_section: "138"
 chapter: 4
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "25 U.S.C. § 138"
-generated_at: "2026-03-29T23:51:20.012Z"
+generated_at: "2026-03-29T23:55:39.334Z"
 ---
 
-# § 138. Goods withheld from chiefs violating treaty stipulations
-
-No delivery of goods or merchandise shall be made to the chiefs of any tribe, by authority of any treaty, if such chiefs have violated the stipulations contained in such treaty upon their part.
+# §§ 137, 138. Repealed. Pub. L. 117–317, § 2(6) , (7), Dec. 27, 2022 , 136 Stat. 4419
 

@@ -3,16 +3,16 @@ title: "Section 4104 - State projects"
 usc_title: 16
 usc_section: "4104"
 chapter: 61
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 4104"
-generated_at: "2026-03-29T23:51:16.269Z"
+generated_at: "2026-03-29T23:55:31.253Z"
 ---
 
 # § 4104. State projects
 
 - **(a)**
   - **(1)** Any State may, through its State agency or an interstate commission, submit to the Secretary a proposal for a project which includes full plans, specifications, and cost estimates for such project. The total cost of all items included for engineering, planning, inspection, and unforeseen contingencies in connection with any works to be constructed as part of such a proposed project shall not exceed 10 percent of the total cost of such works, and shall be paid by the State as a part of its contribution to the total cost of the works.
-  - **(2)** No part of any funds appropriated under any authorization contained in section 4107 of this title may be obligated with respect to any project until the proposal for such project has been submitted under paragraph (1) and approved by the Secretary. The Secretary, before approving any proposal for a project, must evaluate the proposal as to—
+  - **(2)** No part of any funds appropriated under any authorization contained in section 4107 1 1 See References in Text note below. of this title may be obligated with respect to any project until the proposal for such project has been submitted under paragraph (1) and approved by the Secretary. The Secretary, before approving any proposal for a project, must evaluate the proposal as to—
     - **(A)** the soundness of design;
     - **(B)** the possibilities of securing productive results;
     - **(C)** the minimization of duplication with other research projects in support of the management of interjurisdictional fishery resources and carried out under this chapter or under any other law or regulation;

@@ -3,9 +3,9 @@ title: "Section 4863 - Requirement to buy strategic materials critical to nation
 usc_title: 10
 usc_section: "4863"
 chapter: 385
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 4863"
-generated_at: "2026-03-29T23:50:22.319Z"
+generated_at: "2026-03-29T23:54:20.060Z"
 ---
 
 # § 4863. Requirement to buy strategic materials critical to national security from American sources; exceptions
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T23:50:22.319Z"
   - **(2)** any such agreement with a foreign government complies, where applicable, with the requirements of section 36 of the Arms Export Control Act ( 22 U.S.C. 2776 ) and with section 2457 of this title .
 - **(e)** Subsection (a) does not apply to items purchased for resale purposes in commissaries, exchanges, and nonappropriated fund instrumentalities operated by the Department of Defense.
 - **(f)** Subsection (a) does not apply to acquisitions in amounts not greater than the simplified acquisition threshold referred to in section 3205 of this title .
-- **(g)** Subsection (a) does not apply to acquisitions of electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title , determines that the domestic availability of a particular electronic component is critical to national security.
+- **(g)** Subsection (a) does not apply to acquisitions of electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic and Critical Materials Board of Directors pursuant to section 10 of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98h–1 ), determines that the domestic availability of a particular electronic component is critical to national security.
 - **(h)**
   - **(1)** Except as provided in paragraphs (2) and (3), this section applies to acquisitions of commercial products, notwithstanding sections 1906 and 1907 of title 41.
   - **(2)** This section does not apply to contracts or subcontracts for the acquisition of commercially available off-the-shelf items, as defined in section 104 of title 41 , other than—

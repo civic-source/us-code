@@ -3,9 +3,9 @@ title: "Section 2164 - Department of Defense domestic dependent elementary and s
 usc_title: 10
 usc_section: "2164"
 chapter: 108
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 2164"
-generated_at: "2026-03-29T23:50:22.275Z"
+generated_at: "2026-03-29T23:54:20.006Z"
 ---
 
 # § 2164. Department of Defense domestic dependent elementary and secondary schools
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T23:50:22.275Z"
     - **(A)** A school board elected for a school under this subsection may participate in the development and oversight of fiscal, personnel, and educational policies, procedures, and programs for the school, except that the Secretary may issue any directive that the Secretary considers necessary for the effective operation of the school or the entire school system.
     - **(B)** A directive referred to in subparagraph (A) shall, to the maximum extent practicable, be issued only after the Secretary consults with the appropriate school boards elected under this subsection. The Secretary shall establish a process by which a school board or school administrative officials may formally appeal the directive to the Secretary of Defense.
   - **(5)** Meetings conducted by the school board shall be open to the public, except as provided in paragraph (6).
-  - **(6)** A school board need not comply with the provisions of the Federal Advisory Committee Act (5 U.S.C. App.), but may close meetings in accordance with such Act.
+  - **(6)** A school board need not comply with the provisions of chapter 10 of title 5, but may close meetings in accordance with chapter 10 of title 5.
   - **(7)** The Secretary may provide for reimbursement of a school board member for expenses incurred by the member for travel, transportation, lodging, meals, program fees, activity fees, and other appropriate expenses that the Secretary determines are reasonable and necessary for the performance of school board duties by the member.
 - **(e)**
   - **(1)** The Secretary of Defense may enter into such arrangements as may be necessary to provide educational programs at the school.

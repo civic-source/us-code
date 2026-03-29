@@ -3,9 +3,9 @@ title: "Section 195f - EMP and GMD mitigation research and development and threa
 usc_title: 6
 usc_section: "195f"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "6 U.S.C. § 195f"
-generated_at: "2026-03-29T23:50:11.181Z"
+generated_at: "2026-03-29T23:54:07.926Z"
 ---
 
 # § 195f. EMP and GMD mitigation research and development and threat assessment, response, and recovery
@@ -64,7 +64,7 @@ generated_at: "2026-03-29T23:50:11.181Z"
       - **(i)** the Committee on Homeland Security and Governmental Affairs, the Committee on Armed Services, the Committee on Energy and Natural Resources, and the Committee on Commerce, Science, and Transportation of the Senate; and
       - **(ii)** the Committee on Transportation and Infrastructure, the Committee on Homeland Security, the Committee on Armed Services, the Committee on Energy and Commerce, and the Committee on Science, Space and Technology of the House of Representatives.
     - **(B)** The terms “prepare” and “preparedness” mean the actions taken to plan, organize, equip, train, and exercise to build and sustain the capabilities necessary to prevent, protect against, mitigate the effects of, respond to, and recover from those threats that pose the greatest risk to the security of the homeland, including the prediction and notification of impending EMPs and GMDs.
-    - **(C)** The term “Sector Risk Management Agency” has the meaning given that term in section 651 of this title .
+    - **(C)** The term “Sector Risk Management Agency” has the meaning given that term in section 650 of this title .
 - **(e)** Nothing in this section may be construe— 1 1 So in original. Probably should be “construed—”.
   - **(1)** to affect in any manner the authority of the executive branch to implement Executive Order 13865, dated March 26, 2019 , and entitled “Coordinating National Resilience to Electromagnetic Pulses”, or any other authority existing on the day before December 20, 2019 , of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector Risk Management Agency specified in section 61003(c) of division F of the Fixing America’s Surface Transportation Act ( 6 U.S.C. 121 note), including the authority under section 824 o of title 16, and including the authority of independent agencies to be independent; or
   - **(2)** as diminishing or transferring any authorities vested in the Administrator of the Federal Emergency Management Agency or in the Agency prior to December 20, 2019 .

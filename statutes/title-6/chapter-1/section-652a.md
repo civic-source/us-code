@@ -3,9 +3,9 @@ title: "Section 652a - Sector Risk Management Agencies"
 usc_title: 6
 usc_section: "652a"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "6 U.S.C. § 652a"
-generated_at: "2026-03-29T23:50:11.202Z"
+generated_at: "2026-03-29T23:54:07.954Z"
 ---
 
 # § 652a. Sector Risk Management Agencies
@@ -17,9 +17,8 @@ generated_at: "2026-03-29T23:50:11.202Z"
   - **(2)** The term “critical infrastructure” has the meaning given that term in section 5195c(e) of title 42 .
   - **(3)** The term “Department” means the Department of Homeland Security.
   - **(4)** The term “Director” means the Director of the Cybersecurity and Infrastructure Security Agency of the Department.
-  - **(5)** The term “information sharing and analysis organization” has the meaning given that term in section 671(5) of this title .
-  - **(6)** The term “Secretary” means the Secretary of Homeland Security.
-  - **(7)** The term “sector risk management agency” has the meaning given the term “Sector-Specific Agency” in section 651(5) of this title . 1 1 So in original. Section 651(5) of this title defines “Sector Risk Management Agency”.
+  - **(5)** The term “Secretary” means the Secretary of Homeland Security.
+  - **(7)** The term “Sector Risk Management Agency” has the meaning given the term in section 650 of this title .
 - **(b)**
   - **(1)** Not later than 180 days after January 1, 2021 , the Secretary, in consultation with the heads of Sector Risk Management Agencies, shall—
     - **(A)** review the current framework for securing critical infrastructure, as described in section 652(c)(4) of this title and Presidential Policy Directive 21; and
@@ -48,6 +47,6 @@ generated_at: "2026-03-29T23:50:11.202Z"
   - **(2)**
   - **(3)** Any reference to a Sector Specific Agency (including any permutations or conjugations thereof) in any law, regulation, map, document, record, or other paper of the United States shall be deemed to—
     - **(A)** be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector; and
-    - **(B)** have the meaning give 2 2 So in original. Probably should be “given”. such term in section 651(5) of this title .
+    - **(B)** have the meaning given such term in section 650 of this title .
   - **(4)**
 - **(d)** Not later than two years after January 1, 2021 and every four years thereafter for 12 years, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the effectiveness of Sector Risk Management Agencies in carrying out their responsibilities under section 665d of this title .

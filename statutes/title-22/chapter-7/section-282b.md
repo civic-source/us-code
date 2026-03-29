@@ -3,9 +3,9 @@ title: "Section 282b - Applicability of National Advisory Council on Internation
 usc_title: 22
 usc_section: "282b"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 282b"
-generated_at: "2026-03-29T23:51:29.430Z"
+generated_at: "2026-03-29T23:55:52.375Z"
 ---
 
 # § 282b. Applicability of National Advisory Council on International Monetary and Financial Problems

@@ -3,9 +3,9 @@ title: "Section 1002 - Definitions"
 usc_title: 29
 usc_section: "1002"
 chapter: 18
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "29 U.S.C. § 1002"
-generated_at: "2026-03-29T23:51:49.784Z"
+generated_at: "2026-03-29T23:55:56.273Z"
 ---
 
 # § 1002. Definitions
@@ -166,18 +166,18 @@ For purposes of this subchapter:
   - **(43)**
     - **(A)** The term “pooled employer plan” means a plan—
       - **(i)** which is an individual account plan established or maintained for the purpose of providing benefits to the employees of 2 or more employers;
-      - **(ii)** which is a plan described in section 401(a) of title 26 which includes a trust exempt from tax under section 501(a) of title 26 or a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof); and
+      - **(ii)** which is a plan described in section 401(a) of title 26 which includes a trust exempt from tax under section 501(a) of title 26 , a plan that consists of annuity contracts described in section 403(b) of title 26 , or a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof); and
       - **(iii)** the terms of which meet the requirements of subparagraph (B).
     - **(B)** The requirements of this subparagraph are met with respect to any plan if the terms of the plan—
       - **(i)** designate a pooled plan provider and provide that the pooled plan provider is a named fiduciary of the plan;
-      - **(ii)** designate one or more trustees meeting the requirements of section 408(a)(2) of title 26 (other than an employer in the plan) to be responsible for collecting contributions to, and holding the assets of, the plan and require such trustees to implement written contribution collection procedures that are reasonable, diligent, and systematic;
+      - **(ii)** designate a named fiduciary (other than an employer in the plan) to be responsible for collecting contributions to the plan and require such fiduciary to implement written contribution collection procedures that are reasonable, diligent, and systematic;
       - **(iii)** provide that each employer in the plan retains fiduciary responsibility for—
         - **(I)** the selection and monitoring in accordance with section 1104(a) of this title of the person designated as the pooled plan provider and any other person who, in addition to the pooled plan provider, is designated as a named fiduciary of the plan; and
         - **(II)** to the extent not otherwise delegated to another fiduciary by the pooled plan provider and subject to the provisions of section 1104(c) of this title , the investment and management of the portion of the plan’s assets attributable to the employees of the employer (or beneficiaries of such employees);
       - **(iv)** provide that employers in the plan, and participants and beneficiaries, are not subject to unreasonable restrictions, fees, or penalties with regard to ceasing participation, receipt of distributions, or otherwise transferring assets of the plan in accordance with section 1058 of this title or paragraph (44)(C)(i)(II); 6 6 So in original. Probably should be “(44)(C)(ii)(I);”.
       - **(v)** require—
         - **(I)** the pooled plan provider to provide to employers in the plan any disclosures or other information which the Secretary may require, including any disclosures or other information to facilitate the selection or any monitoring of the pooled plan provider by employers in the plan; and
-        - **(II)** each employer in the plan to take such actions as the Secretary or the pooled plan provider determines are necessary to administer the plan or for the plan to meet any requirement applicable under this chapter or title 26 to a plan described in section 401(a) of title 26 or to a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof), whichever is applicable, including providing any disclosures or other information which the Secretary may require or which the pooled plan provider otherwise determines are necessary to administer the plan or to allow the plan to meet such requirements; and
+        - **(II)** each employer in the plan to take such actions as the Secretary or the pooled plan provider determines are necessary to administer the plan or for the plan to meet any requirement applicable under this chapter or title 26 to a plan described in section 401(a) of title 26 , a plan that consists of annuity contracts described in section 403(b) of title 26 , or to a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof), whichever is applicable, including providing any disclosures or other information which the Secretary may require or which the pooled plan provider otherwise determines are necessary to administer the plan or to allow the plan to meet such requirements; and
       - **(vi)** provide that any disclosure or other information required to be provided under clause (v) may be provided in electronic form and will be designed to ensure only reasonable costs are imposed on pooled plan providers and employers in the plan.
     - **(C)** The term “pooled employer plan” does not include—
       - **(i)** a multiemployer plan; or
@@ -186,7 +186,7 @@ For purposes of this subchapter:
   - **(44)**
     - **(A)** The term “pooled plan provider” means a person who—
       - **(i)** is designated by the terms of a pooled employer plan as a named fiduciary, as the plan administrator, and as the person responsible for the performance of all administrative duties (including conducting proper testing with respect to the plan and the employees of each employer in the plan) which are reasonably necessary to ensure that—
-        - **(I)** the plan meets any requirement applicable under this chapter or title 26 to a plan described in section 401(a) of title 26 or to a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof), whichever is applicable; and
+        - **(I)** the plan meets any requirement applicable under this chapter or title 26 to a plan described in section 401(a) of title 26 , a plan that consists of annuity contracts described in section 403(b) of title 26 , or to a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof), whichever is applicable; and
         - **(II)** each employer in the plan takes such actions as the Secretary or pooled plan provider determines are necessary for the plan to meet the requirements described in subclause (I), including providing the disclosures and information described in paragraph (43)(B)(v)(II);
       - **(ii)** registers as a pooled plan provider with the Secretary, and provides to the Secretary such other information as the Secretary may require, before beginning operations as a pooled plan provider;
       - **(iii)** acknowledges in writing that such person is a named fiduciary, and the plan administrator, with respect to the pooled employer plan; and

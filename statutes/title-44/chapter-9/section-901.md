@@ -3,9 +3,9 @@ title: "Section 901 - Congressional Record: arrangement, style, contents, and in
 usc_title: 44
 usc_section: "901"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "44 U.S.C. § 901"
-generated_at: "2026-03-29T23:52:52.008Z"
+generated_at: "2026-03-29T23:56:52.976Z"
 ---
 
 # § 901. Congressional Record: arrangement, style, contents, and indexes

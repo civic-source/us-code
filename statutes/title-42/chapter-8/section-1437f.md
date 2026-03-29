@@ -3,9 +3,9 @@ title: "Section 1437f - Low-income housing assistance"
 usc_title: 42
 usc_section: "1437f"
 chapter: 8
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 1437f"
-generated_at: "2026-03-29T23:53:16.367Z"
+generated_at: "2026-03-29T23:57:26.869Z"
 ---
 
 # § 1437f. Low-income housing assistance
@@ -70,7 +70,9 @@ generated_at: "2026-03-29T23:53:16.367Z"
 - **(g)** Notwithstanding any other provision of this chapter, assistance payments under this section may be provided, in accordance with regulations prescribed by the Secretary, with respect to some or all of the units in any project approved pursuant to section 1701q of title 12 .
 - **(h)** Sections 1437c(e) and 1437d of this title (except as provided in section 1437d(j)(3) of this title ), and any other provisions of this chapter which are inconsistent with the provisions of this section shall not apply to contracts for assistance entered into under this section.
 - **(i)** The Secretary may not consider the receipt by a public housing agency of assistance under section 811(b)(1) of the Cranston-Gonzalez National Affordable Housing Act [ 42 U.S.C. 8013(b)(1) ], or the amount received, in approving assistance for the agency under this section or determining the amount of such assistance to be provided.
-- **(j)**
+- **(j)** Each owner of a dwelling unit receiving project-based assistance under this section shall ensure that carbon monoxide alarms or detectors are installed in the dwelling unit in a manner that meets or exceeds—
+  - **(1)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+  - **(2)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 - **(k)** The Secretary shall establish procedures which are appropriate and necessary to assure that income data provided to public housing agencies and owners by families applying for or receiving assistance under this section is complete and accurate. In establishing such procedures, the Secretary shall randomly, regularly, and periodically select a sample of families to authorize the Secretary to obtain information on these families for the purpose of income verification, or to allow those families to provide such information themselves. Such information may include, but is not limited to, data concerning unemployment compensation and Federal income taxation and data relating to benefits made available under the Social Security Act [ 42 U.S.C. 301 et seq.], the Food and Nutrition Act of 2008 [ 7 U.S.C. 2011 et seq.], or title 38. Any such information received pursuant to this subsection shall remain confidential and shall be used only for the purpose of verifying incomes in order to determine eligibility of families for benefits (and the amount of such benefits, if any) under this section.
 - **(l)**
 - **(n)**
@@ -229,6 +231,9 @@ generated_at: "2026-03-29T23:53:16.367Z"
     - **(B)** The Secretary shall provide such data in a manner that—
       - **(i)** avoids unnecessary administrative burdens for public housing agencies and owners; and
       - **(ii)** protects families in various unit sizes and building types, and using various utilities, from high rent and utility cost burdens relative to income.
+  - **(21)** Each dwelling unit receiving tenant-based assistance or project-based assistance under this subsection shall have carbon monoxide alarms or detectors installed in the dwelling unit in a manner that meets or exceeds—
+    - **(A)** the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+    - **(B)** any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 - **(p)** In order to assist elderly families (as defined in section 1437a(b)(3) of this title who elect to live in a shared housing arrangement in which they benefit as a result of sharing the facilities of a dwelling with others in a manner that effectively and efficiently meets their housing needs and thereby reduces their cost of housing, the Secretary shall permit assistance provided under the existing housing and moderate rehabilitation programs to be used by such families in such arrangements. In carrying out this subsection, the Secretary shall issue minimum habitability standards for the purpose of assuring decent, safe, and sanitary housing for such families while taking into account the special circumstances of shared housing.
 - **(q)**
   - **(1)**

@@ -1,14 +1,14 @@
 ---
-title: "Section 860 - Art 60. Post-trial processing in general and special courts-martial"
+title: "Section 860 - Art. 60. Post-trial processing in general and special courts-martial"
 usc_title: 10
 usc_section: "860"
 chapter: 47
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 860"
-generated_at: "2026-03-29T23:50:22.233Z"
+generated_at: "2026-03-29T23:54:19.956Z"
 ---
 
-# § 860. Art 60. Post-trial processing in general and special courts-martial
+# § 860. Art. 60. Post-trial processing in general and special courts-martial
 
 - **(a)**
   - **(1)** The military judge of a general or special court-martial shall enter into the record of trial a document entitled “Statement of Trial Results”, which shall set forth—

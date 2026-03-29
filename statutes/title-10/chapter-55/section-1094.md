@@ -3,9 +3,9 @@ title: "Section 1094 - Licensure requirement for health-care professionals"
 usc_title: 10
 usc_section: "1094"
 chapter: 55
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 1094"
-generated_at: "2026-03-29T23:50:22.248Z"
+generated_at: "2026-03-29T23:54:19.975Z"
 ---
 
 # § 1094. Licensure requirement for health-care professionals
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T23:50:22.248Z"
     - **(B)** a reference to a claimant in subsection (e) of that section is deemed a reference to the person described in paragraph (1).
 - **(d)**
   - **(1)** Notwithstanding any law regarding the licensure of health care providers, a health-care professional described in paragraph (2) or (3) may practice the health profession or professions of the health-care professional at any location in any State, the District of Columbia, or a Commonwealth, territory, or possession of the United States, regardless of where such health-care professional or the patient are located, so long as the practice is within the scope of the authorized Federal duties.
-  - **(2)** A health-care professional referred to in paragraph (1) as being described in this paragraph is a member of the armed forces, civilian employee of the Department of Defense, personal services contractor under section 1091 of this title , or other health-care professional credentialed and privileged at a Federal health care institution or location specially designated by the Secretary for this purpose who—
+  - **(2)** A health-care professional referred to in paragraph (1) as being described in this paragraph is a member of the armed forces, civilian employee of the Department of Defense, personal services contractor under section 1091 of this title , contractor not covered under section 1091 of this title who is providing medical treatment as part of a mission relating to emergency, humanitarian, or refugee assistance, or other health-care professional credentialed and privileged at a Federal health care institution or location specially designated by the Secretary for this purpose who—
     - **(A)** has a current license to practice medicine, osteopathic medicine, dentistry, or another health profession; and
     - **(B)** is performing authorized duties for the Department of Defense.
   - **(3)** A health-care professional referred to in paragraph (1) as being described in this paragraph is a member of the National Guard who—

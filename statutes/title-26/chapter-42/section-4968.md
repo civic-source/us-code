@@ -3,9 +3,9 @@ title: "Section 4968 - Excise tax based on investment income of private colleges
 usc_title: 26
 usc_section: "4968"
 chapter: 42
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 4968"
-generated_at: "2026-03-29T23:52:10.222Z"
+generated_at: "2026-03-29T23:56:24.883Z"
 ---
 
 # § 4968. Excise tax based on investment income of private colleges and universities

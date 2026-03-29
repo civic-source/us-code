@@ -3,9 +3,9 @@ title: "Section 1633 - Preferences to Indians and Indian firms"
 usc_title: 25
 usc_section: "1633"
 chapter: 18
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "25 U.S.C. § 1633"
-generated_at: "2026-03-29T23:51:20.033Z"
+generated_at: "2026-03-29T23:55:39.356Z"
 ---
 
 # § 1633. Preferences to Indians and Indian firms

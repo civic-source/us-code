@@ -3,9 +3,9 @@ title: "Section 332 - Mobile services"
 usc_title: 47
 usc_section: "332"
 chapter: 5
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "47 U.S.C. § 332"
-generated_at: "2026-03-29T23:53:30.199Z"
+generated_at: "2026-03-29T23:57:37.892Z"
 ---
 
 # § 332. Mobile services
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T23:53:30.199Z"
   - **(1)** The Commission, in coordinating the assignment of frequencies to stations in the private mobile services and in the fixed services (as defined by the Commission by rule), shall have authority to utilize assistance furnished by advisory coordinating committees consisting of individuals who are not officers or employees of the Federal Government.
   - **(2)** The authority of the Commission established in this subsection shall not be subject to or affected by the provisions of part III of title 5 or section 1342 of title 31 .
   - **(3)** Any person who provides assistance to the Commission under this subsection shall not be considered, by reason of having provided such assistance, a Federal employee.
-  - **(4)** Any advisory coordinating committee which furnishes assistance to the Commission under this subsection shall not be subject to the provisions of the Federal Advisory Committee Act.
+  - **(4)** Any advisory coordinating committee which furnishes assistance to the Commission under this subsection shall not be subject to the provisions of chapter 10 of title 5.
 - **(c)**
   - **(1)**
     - **(A)** A person engaged in the provision of a service that is a commercial mobile service shall, insofar as such person is so engaged, be treated as a common carrier for purposes of this chapter, except for such provisions of subchapter II as the Commission may specify by regulation as inapplicable to that service or person. In prescribing or amending any such regulation, the Commission may not specify any provision of section 201, 202, or 208 of this title, and may specify any other provision only if the Commission determines that—

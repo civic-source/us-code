@@ -3,9 +3,9 @@ title: "Section 70502 - Definitions"
 usc_title: 46
 usc_section: "70502"
 chapter: 705
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "46 U.S.C. § 70502"
-generated_at: "2026-03-29T23:53:20.165Z"
+generated_at: "2026-03-29T23:57:43.115Z"
 ---
 
 # § 70502. Definitions
@@ -34,8 +34,9 @@ generated_at: "2026-03-29T23:53:20.165Z"
 - **(d)**
   - **(1)** In this chapter, the term “vessel without nationality” includes—
     - **(A)** a vessel aboard which the master or individual in charge makes a claim of registry that is denied by the nation whose registry is claimed;
-    - **(B)** a vessel aboard which the master or individual in charge fails, on request of an officer of the United States authorized to enforce applicable provisions of United States law, to make a claim of nationality or registry for that vessel; and
-    - **(C)** a vessel aboard which the master or individual in charge makes a claim of registry and for which the claimed nation of registry does not affirmatively and unequivocally assert that the vessel is of its nationality.
+    - **(B)** a vessel aboard which the master or individual in charge fails, on request of an officer of the United States authorized to enforce applicable provisions of United States law, to make a claim of nationality or registry for that vessel;
+    - **(C)** a vessel aboard which the master or individual in charge makes a claim of registry and for which the claimed nation of registry does not affirmatively and unequivocally assert that the vessel is of its nationality; and
+    - **(D)** a vessel aboard which no individual, on request of an officer of the United States authorized to enforce applicable provisions of United States law, claims to be the master or is identified as the individual in charge, and that has no other claim of nationality or registry under paragraph (1) or (2) of subsection (e).
   - **(2)** The response of a foreign nation to a claim of registry under paragraph (1)(A) or (C) may be made by radio, telephone, or similar oral or electronic means, and is proved conclusively by certification of the Secretary of State or the Secretary’s designee.
 - **(e)** A claim of nationality or registry under this section includes only—
   - **(1)** possession on board the vessel and production of documents evidencing the vessel’s nationality as provided in article 5 of the 1958 Convention on the High Seas;

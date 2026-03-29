@@ -3,9 +3,9 @@ title: "Section 1396d - Definitions"
 usc_title: 42
 usc_section: "1396d"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 1396d"
-generated_at: "2026-03-29T23:53:16.335Z"
+generated_at: "2026-03-29T23:57:26.832Z"
 ---
 
 # § 1396d. Definitions
@@ -53,7 +53,7 @@ For purposes of this subchapter—
   - **(29)** subject to paragraphs (2) and (3) of subsection (ee), for the period beginning October 1, 2020 , and ending September 30, 2025 , medication-assisted treatment (as defined in paragraph (1) of such subsection);
   - **(30)** subject to subsection (gg), routine patient costs for items and services furnished in connection with participation in a qualifying clinical trial (as defined in such subsection); and
   - **(31)** any other medical care, and any other type of remedial care recognized under State law, specified by the Secretary,
-    - **(A)** any such payments with respect to care or services for any individual who is an inmate of a public institution (except as a patient in a medical institution); or
+    - **(A)** any such payments with respect to care or services for any individual who is an inmate of a public institution (except as a patient in a medical institution, or in the case of an eligible juvenile described in section 1396a(a)(84)(D) of this title with respect to the screenings, diagnostic services, referrals, and targeted case management services required under such section); or
     - **(B)** any such payments with respect to care or services for any individual who has not attained 65 years of age and who is a patient in an institution for mental diseases (except in the case of services provided under a State plan amendment described in section 1396n( l ) of this title).
       - **(i)** under the age of 21, or, at the option of the State, under the age of 20, 19, or 18 as the State may choose,
       - **(ii)** relatives specified in section 606(b)(1) 1 1 See References in Text note below. of this title with whom a child is living if such child is (or would, if needy, be) a dependent child under part A of subchapter IV,
@@ -316,8 +316,8 @@ For purposes of this subchapter—
     - **(B)** a covered outpatient drug (as defined in section 1396r–8(k) of this title , except that, in applying paragraph (2)(A) of such section to a drug described in paragraph (1)(A), such drug shall be deemed a prescribed drug for purposes of subsection (a)(12)).
 - **(ff)** Notwithstanding subsection (b) or (z)(2), subject to subsections (hh) and (ii)—
   - **(1)** for the period beginning October 1, 2019 , and ending December 20, 2019 , the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 100 percent;
-  - **(2)** subject to section 1308(g)(7)(C) of this title , for the period beginning December 21, 2019 , and ending December 3, 2021 , and for the period beginning January 1, 2022 , and ending December 23, 2022 10 10 So in original. Probably should be followed by a comma. the Federal medical assistance percentage for Puerto Rico shall be equal to 76 percent; and
-  - **(3)** subject to section 1308(g)(8)(B) of this title , for the period beginning December 21, 2019 , and ending December 23, 2022 , the Federal medical assistance percentage for the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 83 percent.
+  - **(2)** for the period beginning December 21, 2019 , and ending December 3, 2021 , and for the period beginning January 1, 2022 , and ending September 30, 2027 , the Federal medical assistance percentage for Puerto Rico shall be equal to 76 percent; and
+  - **(3)** subject to section 1308(g)(8)(B) of this title , beginning December 21, 2019 , the Federal medical assistance percentage for the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 83 percent.
 - **(gg)**
   - **(1)** For purposes of subsection (a)(30), with respect to a State and an individual enrolled under the State plan (or a waiver of such plan) who participates in a qualifying clinical trial, routine patient costs—
     - **(A)** include any item or service provided to the individual under the qualifying clinical trial, including—

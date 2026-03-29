@@ -3,9 +3,9 @@ title: "Section 1645f - Certifications; assigned claims"
 usc_title: 22
 usc_section: "1645f"
 chapter: 21
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 1645f"
-generated_at: "2026-03-29T23:51:29.451Z"
+generated_at: "2026-03-29T23:55:52.398Z"
 ---
 
 # § 1645f. Certifications; assigned claims

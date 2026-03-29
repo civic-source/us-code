@@ -3,9 +3,9 @@ title: "Section 681b - Required reporting of certain cyber incidents"
 usc_title: 6
 usc_section: "681b"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "6 U.S.C. § 681b"
-generated_at: "2026-03-29T23:50:11.207Z"
+generated_at: "2026-03-29T23:54:07.961Z"
 ---
 
 # § 681b. Required reporting of certain cyber incidents
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T23:50:11.207Z"
       - **(iii)** potential impacts on industrial control systems, such as supervisory control and data acquisition systems, distributed control systems, and programmable logic controllers; and
     - **(C)** exclude—
       - **(i)** any event where the cyber incident is perpetrated in good faith by an entity in response to a specific request by the owner or operator of the information system; and
-      - **(ii)** the threat of disruption as extortion, as described in section 681(14)(A) of this title .
+      - **(ii)** the threat of disruption as extortion, as described in section 681(14)(A) 2 2 See References in Text note below. of this title.
   - **(3)** A requirement that, if a covered cyber incident or a ransom payment occurs following an exempted threat described in paragraph (2)(C)(ii), the covered entity shall comply with the requirements in this part in reporting the covered cyber incident or ransom payment.
   - **(4)** A clear description of the specific required contents of a report pursuant to subsection (a)(1), which shall include the following information, to the extent applicable and available, with respect to a covered cyber incident:
     - **(A)** A description of the covered cyber incident, including—

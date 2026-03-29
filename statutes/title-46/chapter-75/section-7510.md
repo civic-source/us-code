@@ -3,9 +3,9 @@ title: "Section 7510 - Examinations for merchant mariner credentials"
 usc_title: 46
 usc_section: "7510"
 chapter: 75
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "46 U.S.C. § 7510"
-generated_at: "2026-03-29T23:53:20.135Z"
+generated_at: "2026-03-29T23:57:43.077Z"
 ---
 
 # § 7510. Examinations for merchant mariner credentials
@@ -44,5 +44,5 @@ generated_at: "2026-03-29T23:53:20.135Z"
   - **(8)** The Secretary shall ensure that the Coast Guard Performance Technology Center—
     - **(A)** prioritizes the review of examinations required for merchant mariner credentials; and
     - **(B)** not later than 3 years after the date of enactment of the Coast Guard Authorization Act of 2016, completes a formal review, including an appropriate analysis, of the topics and testing methodology employed by the National Maritime Center for merchant mariner licensing.
-  - **(9)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any working group created under this section to review the Coast Guard’s merchant mariner credentialing examinations.
+  - **(9)** Chapter 10 of title 5 shall not apply to any working group created under this section to review the Coast Guard’s merchant mariner credentialing examinations.
 - **(d)** In this section, the term “merchant mariner credential” means a merchant mariner license, certificate, or document that the Secretary is authorized to issue pursuant to this title.

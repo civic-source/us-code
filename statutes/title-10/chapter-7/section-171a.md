@@ -3,9 +3,9 @@ title: "Section 171a - Council on Oversight of the National Leadership Command, 
 usc_title: 10
 usc_section: "171a"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 171a"
-generated_at: "2026-03-29T23:50:22.209Z"
+generated_at: "2026-03-29T23:54:19.926Z"
 ---
 
 # § 171a. Council on Oversight of the National Leadership Command, Control, and Communications System
@@ -18,7 +18,8 @@ generated_at: "2026-03-29T23:50:22.209Z"
   - **(4)** The Commander of the United States Strategic Command.
   - **(5)** The Director of the National Security Agency.
   - **(6)** The Chief Information Officer of the Department of Defense.
-  - **(7)** Such other officers of the Department of Defense as the Secretary may designate.
+  - **(7)** The Director of the White House Military Office.
+  - **(8)** Such other officers of the Department of Defense as the Secretary may designate.
 - **(c)** The Council shall be co-chaired by the Under Secretary of Defense for Acquisition and Sustainment and the Vice Chairman of the Joint Chiefs of Staff.
 - **(d)**
   - **(1)** The Council shall be responsible for oversight of the command, control, and communications system for the national leadership of the United States, including nuclear command, control, and communications, and including with respect to the integrated tactical warning and attack assessment systems, processes, and enablers, and continuity of the governmental functions of the Department of Defense.
@@ -45,9 +46,6 @@ generated_at: "2026-03-29T23:50:22.209Z"
     - **(B)** any comments of the Chairman.
   - **(3)** If a House of Congress adopts a bill authorizing or appropriating funds for the activities of the command, control, and communications system for the national leadership of the United States that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
 - **(h)**
-  - **(1)** The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
-  - **(2)** In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
-- **(i)**
   - **(1)** Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
   - **(2)** A system described in this paragraph is any of the following:
     - **(A)** Advanced extremely high frequency satellites.
@@ -55,7 +53,7 @@ generated_at: "2026-03-29T23:50:22.209Z"
     - **(C)** The integrated tactical warning and attack assessment system and its command and control system.
     - **(D)** The enhanced polar system.
   - **(3)** In this subsection, the terms “Milestone A approval” and “Milestone B approval” have the meanings given such terms in sections 4172(e) and 4251(d) of this title.
-- **(j)**
+- **(i)**
   - **(1)** None of the funds authorized to be appropriated or otherwise made available to the Department of Defense for any fiscal year may be used to change any command, control, and communications system described in subsection (d)(1) in a manner that reduces the warning time provided to the national leadership of the United States with respect to a warning of a strategic missile attack on the United States unless—
     - **(A)** the Secretary of Defense notifies the congressional defense committees of such proposed change and reduction; and
     - **(B)** a period of one year elapses following the date of such notification.
@@ -63,7 +61,7 @@ generated_at: "2026-03-29T23:50:22.209Z"
     - **(A)** an explanation for such negative determination;
     - **(B)** a description of the mitigations that are in place or being put in place as a result of such negative determination; and
     - **(C)** the plan of the Secretary and the Chairman to ensure that the Council is able to make a positive determination in the following year.
-- **(k)**
+- **(j)**
   - **(1)** On a quarterly basis, each program manager of a covered acquisition program shall transmit to the co-chairs of the Council, acting through the senior steering group of the Council, a report that identifies—
     - **(A)** the covered acquisition program;
     - **(B)** the requirements of the program;
@@ -75,7 +73,7 @@ generated_at: "2026-03-29T23:50:22.209Z"
   - **(3)** In this subsection, the term “covered acquisition program” means each acquisition program of the Department of Defense that materially contributes to—
     - **(A)** the nuclear command, control, and communications systems of the United States; or
     - **(B)** the continuity of government systems of the United States.
-- **(l)** In this section, the term “national leadership of the United States” means the following:
+- **(k)** In this section, the term “national leadership of the United States” means the following:
   - **(1)** The President.
   - **(2)** The Vice President.
   - **(3)** Such other civilian officials of the United States Government as the President shall designate for purposes of this section.

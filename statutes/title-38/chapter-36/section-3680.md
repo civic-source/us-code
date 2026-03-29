@@ -3,9 +3,9 @@ title: "Section 3680 - Payment of educational assistance or subsistence allowanc
 usc_title: 38
 usc_section: "3680"
 chapter: 36
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "38 U.S.C. § 3680"
-generated_at: "2026-03-29T23:52:41.962Z"
+generated_at: "2026-03-29T23:56:49.034Z"
 ---
 
 # § 3680. Payment of educational assistance or subsistence allowances
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T23:52:41.962Z"
       - **(i)** the eligible veteran or person withdraws because he or she is ordered to active duty; or
       - **(ii)** the Secretary finds there are mitigating circumstances, except that, in the first instance of withdrawal (without regard to withdrawals described in clause (i)) by the eligible veteran or person from a course or courses with respect to which the veteran or person has been paid assistance under this title, mitigating circumstances shall be considered to exist with respect to courses totaling not more than six semester hours or the equivalent thereof.
   - **(2)** Notwithstanding paragraph (1), the Secretary may, pursuant to such regulations as the Secretary shall prescribe, continue to pay allowances to eligible veterans and eligible persons enrolled in courses set forth in paragraph (1)(A)—
-    - **(A)** 1 1 See Payment of Allowances to Veterans Enrolled in Educational Institutions Closed for Emergency Situations note below. during periods when educational institutions are temporarily closed under an established policy based on an Executive order of the President or due to an emergency situation, except that the total number of weeks for which allowances may continue to be so payable in any 12-month period may not exceed 4 weeks; or
+    - **(A)** during periods when educational institutions are temporarily closed under an established policy based on an Executive order of the President or due to an emergency situation, except that the total number of weeks for which allowances may continue to be so payable in any 12-month period may not exceed 4 weeks; or
     - **(B)** solely for the purpose of awarding a monthly housing stipend described in section 3313 of this title or a subsistence allowance described in section 3108, during periods following a permanent closure of an educational institution, or following the disapproval of a course of study described in section 3699(b)(1)(B) of this title , except that payment of such a stipend or allowance may only be continued until the earlier of—
       - **(i)** the date of the end of the term, quarter, or semester during which the closure or disapproval occurred; and
       - **(ii)** the date that is 120 days after the date of the closure or disapproval.
@@ -51,3 +51,9 @@ generated_at: "2026-03-29T23:52:41.962Z"
   - **(2)** The Secretary may withhold payment of benefits to an eligible veteran or eligible person until the Secretary receives such proof as the Secretary may require of enrollment in and satisfactory pursuit of a program of education by the eligible veteran or eligible person. The Secretary shall adjust the payment withheld, when necessary, on the basis of the proof the Secretary receives.
   - **(3)** In the case of an individual other than an individual described in paragraph (4), the Secretary may accept the individual’s monthly certification of enrollment in and satisfactory pursuit of a program of education as sufficient proof of the certified matters.
   - **(4)** In the case of an individual who has received an accelerated payment of basic educational assistance under section 3014A of this title during an enrollment period for a program of education, the Secretary may accept the individual’s certification of enrollment in and satisfactory pursuit of the program of education as sufficient proof of the certified matters if the certification is submitted after the enrollment period has ended.
+- **(h)**
+  - **(1)** The Secretary may pay allowances to an eligible veteran or eligible person under subsection (a)(2)(A), if the veteran or person is enrolled in a program or course of education that—
+    - **(A)** is provided by an educational institution or training establishment that is closed by reason of an emergency situation; or
+    - **(B)** is suspended by reason of an emergency situation.
+  - **(2)** The total number of weeks for which allowances may be paid by reason of this subsection may not exceed four weeks.
+  - **(3)** Any amount paid under this subsection shall not be counted for purposes of the limitation on allowances under subsection (a)(2)(A).

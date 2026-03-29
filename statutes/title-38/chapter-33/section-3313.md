@@ -3,9 +3,9 @@ title: "Section 3313 - Educational assistance: amount; payment"
 usc_title: 38
 usc_section: "3313"
 chapter: 33
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "38 U.S.C. § 3313"
-generated_at: "2026-03-29T23:52:41.957Z"
+generated_at: "2026-03-29T23:56:49.028Z"
 ---
 
 # § 3313. Educational assistance: amount; payment
@@ -127,11 +127,14 @@ generated_at: "2026-03-29T23:52:41.957Z"
   - **(1)** The Secretary shall furnish to individuals receiving educational assistance under this chapter documentation that verifies the amount of the monthly housing stipend the individual receives under this section.
   - **(2)** The Secretary shall make such documentation available to the individual using an internet website in the same manner the Secretary provides documentation verifying compensation and other benefits furnished by the Secretary to individuals.
 - **(l)**
-  - **(1)** The Secretary shall require—
+  - **(1)** Except as provided in paragraph (4), the Secretary shall require—
     - **(A)** each educational institution to submit to the Secretary verification of each individual who is enrolled in a course or program of education at the educational institution and is receiving educational assistance under this chapter—
       - **(i)** not later than such time as the Secretary determines reasonable after the date on which the individual is enrolled; and
       - **(ii)** not later than such time as the Secretary determines reasonable after the last date on which a student is able to withdraw from the course or program of education without penalty; and
     - **(B)** each individual who is enrolled in a course or program of education and is receiving educational assistance under this chapter to submit to the Secretary verification of such enrollment for each month during which the individual is so enrolled and receiving such educational assistance.
   - **(2)** Verification under this subsection shall be in an electronic form prescribed by the Secretary.
   - **(3)** If an individual fails to submit the verification required under paragraph (1)(B) for two consecutive months, the Secretary may not make a monthly housing stipend payment to the individual under this section until the individual submits such verification.
-  - **(4)** The Secretary may waive the requirements of this subsection for an educational institution that the Secretary has determined uses a flat tuition and fee structure that would make the use of a second verification under this subsection unnecessary.
+  - **(4)** An educational institution is not required to submit verification of an individual under paragraph (1)(A) if—
+    - **(A)** the individual is enrolled in a course or program of education offered by the educational institution on at least a full-time basis before the date on which the individual is able to withdraw from the course or program of education without penalty;
+    - **(B)** the educational institution charges the same amount of tuition and fees for students who are enrolled on a full-time basis and students who are enrolled on a more-than-full-time basis; and
+    - **(C)** the individual remains enrolled in the course or program of education after the date on which the individual is able to withdraw from the course or program of education without penalty.

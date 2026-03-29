@@ -3,9 +3,9 @@ title: "Section 5776 - Transferred"
 usc_title: 42
 usc_section: "5776"
 chapter: 72
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 5776"
-generated_at: "2026-03-29T23:53:16.497Z"
+generated_at: "2026-03-29T23:57:27.021Z"
 ---
 
 # § 5776. Transferred

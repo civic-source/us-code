@@ -3,9 +3,9 @@ title: "Section 18239 - Waiver of certain restrictions"
 usc_title: 10
 usc_section: "18239"
 chapter: 1803
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 18239"
-generated_at: "2026-03-29T23:50:22.359Z"
+generated_at: "2026-03-29T23:54:20.106Z"
 ---
 
 # § 18239. Waiver of certain restrictions

@@ -3,9 +3,9 @@ title: "Section 7320 - More than thirty years: permanent professors and the Dire
 usc_title: 10
 usc_section: "7320"
 chapter: 741
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 7320"
-generated_at: "2026-03-29T23:50:22.323Z"
+generated_at: "2026-03-29T23:54:20.064Z"
 ---
 
 # § 7320. More than thirty years: permanent professors and the Director of Admissions of the United States Military Academy

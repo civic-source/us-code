@@ -3,9 +3,9 @@ title: "Section 638 - Research and development"
 usc_title: 15
 usc_section: "638"
 chapter: 14
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 638"
-generated_at: "2026-03-29T23:50:50.538Z"
+generated_at: "2026-03-29T23:54:56.046Z"
 ---
 
 # § 638. Research and development
@@ -143,7 +143,7 @@ generated_at: "2026-03-29T23:50:50.538Z"
     - **(A)** the identity of all owners and covered individuals of the small business concern who are a party to any foreign talent recruitment program of any foreign country of concern, including the People’s Republic of China;
     - **(B)** the existence of any joint venture or subsidiary of the small business concern that is based in, funded by, or has a foreign affiliation with any foreign country of concern, including the People’s Republic of China;
     - **(C)** any current or pending contractual or financial obligation or other agreement specific to a business arrangement, or joint venture-like arrangement with an enterprise owned by a foreign state or any foreign entity;
-    - **(D)** whether the small business concern is wholly owned in the People’s Republic of China or another foreign country of concern;
+    - **(D)** whether the small business concern is wholly owned in the People’s Republic of China or another foreign country;
     - **(E)** the percentage, if any, of venture capital or institutional investment by an entity that has a general partner or individual holding a leadership role in such entity who has a foreign affiliation with any foreign country of concern, including the People’s Republic of China;
     - **(F)** any technology licensing or intellectual property sales to a foreign country of concern, including the People’s Republic of China, during the 5-year period preceding submission of the proposal; and
     - **(G)** any foreign business entity, offshore entity, or entity outside the United States related to the small business concern;

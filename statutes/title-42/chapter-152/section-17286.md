@@ -3,9 +3,9 @@ title: "Section 17286 - Geothermal assessment, exploration information, and prio
 usc_title: 42
 usc_section: "17286"
 chapter: 152
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 17286"
-generated_at: "2026-03-29T23:53:16.729Z"
+generated_at: "2026-03-29T23:57:27.270Z"
 ---
 
 # § 17286. Geothermal assessment, exploration information, and priority activities

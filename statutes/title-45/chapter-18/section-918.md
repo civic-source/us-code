@@ -3,9 +3,9 @@ title: "Section 918 - Authority of Railroad Retirement Board"
 usc_title: 45
 usc_section: "918"
 chapter: 18
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "45 U.S.C. § 918"
-generated_at: "2026-03-29T23:52:52.335Z"
+generated_at: "2026-03-29T23:57:05.578Z"
 ---
 
 # § 918. Authority of Railroad Retirement Board

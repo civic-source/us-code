@@ -3,9 +3,9 @@ title: "Section 2391 - Assistance to governmental entities"
 usc_title: 42
 usc_section: "2391"
 chapter: 24
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 2391"
-generated_at: "2026-03-29T23:53:16.437Z"
+generated_at: "2026-03-29T23:57:26.949Z"
 ---
 
 # § 2391. Assistance to governmental entities

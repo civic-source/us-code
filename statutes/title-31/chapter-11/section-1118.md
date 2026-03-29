@@ -3,9 +3,9 @@ title: "Section 1118 - Pilot projects for performance goals"
 usc_title: 31
 usc_section: "1118"
 chapter: 11
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "31 U.S.C. § 1118"
-generated_at: "2026-03-29T23:52:13.610Z"
+generated_at: "2026-03-29T23:56:27.972Z"
 ---
 
 # § 1118. Pilot projects for performance goals

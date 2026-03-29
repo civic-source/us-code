@@ -3,9 +3,9 @@ title: "Section 3136 - Defense Modernization Account"
 usc_title: 10
 usc_section: "3136"
 chapter: 207
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 3136"
-generated_at: "2026-03-29T23:50:22.303Z"
+generated_at: "2026-03-29T23:54:20.040Z"
 ---
 
 # § 3136. Defense Modernization Account
@@ -55,6 +55,3 @@ generated_at: "2026-03-29T23:50:22.303Z"
 - **(i)** In this section:
   - **(1)** The term “major defense acquisition program” has the meaning given the term in section 4201 of this title .
   - **(2)** The term “unexpired funds” means funds appropriated for a definite period that remain available for obligation.
-- **(j)**
-  - **(1)** The authority under subsection (c) to transfer funds into the Defense Modernization Account terminates at the close of September 30, 2022 .
-  - **(2)** Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.

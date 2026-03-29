@@ -3,9 +3,9 @@ title: "Section 1381 - Establishment of Office of Congressional Workplace Rights
 usc_title: 2
 usc_section: "1381"
 chapter: 24
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "2 U.S.C. § 1381"
-generated_at: "2026-03-29T23:50:07.816Z"
+generated_at: "2026-03-29T23:54:02.927Z"
 ---
 
 # § 1381. Establishment of Office of Congressional Workplace Rights
@@ -47,7 +47,7 @@ generated_at: "2026-03-29T23:50:07.816Z"
   - **(3)** compile and publish statistics on the use of the Office by covered employees, including the number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a claim, the basis for the claim, and the action taken on the claim.
 - **(i)** The Board and the Office shall be subject to oversight (except with respect to the disposition of individual cases) by the Committee on Rules and Administration and the Committee on Governmental Affairs 2 of the Senate and the Committee on House Oversight 2 of the House of Representatives.
 - **(j)** The Office shall be open for business, including receipt of requests for counseling under section 1402 of this title , not later than 1 year after January 23, 1995 .
-- **(k)** Members of the Board and officers and employees of the Office shall file the financial disclosure reports required under title I of the Ethics in Government Act of 1978 with the Clerk of the House of Representatives.
+- **(k)** Members of the Board and officers and employees of the Office shall file the financial disclosure reports required under subchapter I of chapter 131 of title 5 with the Clerk of the House of Representatives.
 - **(l)**
   - **(1)** Subject to the rules issued by the applicable committee pursuant to paragraph (2):
     - **(A)** The Office shall prepare and submit to Congress, and publish on the public website of the Office, an annual report regarding payments from the account described in section 1415(a) of this title that were the result of claims alleging a violation of part A of subchapter II (referred to in this subsection as “covered payments”).

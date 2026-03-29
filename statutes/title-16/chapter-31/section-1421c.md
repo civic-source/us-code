@@ -3,9 +3,9 @@ title: "Section 1421c - Unusual mortality event response"
 usc_title: 16
 usc_section: "1421c"
 chapter: 31
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 1421c"
-generated_at: "2026-03-29T23:51:16.221Z"
+generated_at: "2026-03-29T23:55:31.145Z"
 ---
 
 # § 1421c. Unusual mortality event response
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T23:51:16.221Z"
       - **(i)** determining whether an unusual mortality event is occurring;
       - **(ii)** determining, after an unusual mortality event has begun, if response actions with respect to that event are no longer necessary; and
       - **(iii)** developing the contingency plan in accordance with subsection (b), to assist the Secretary in responding to unusual mortality events.
-    - **(B)** The Federal Advisory Committee Act (5 App. U.S.C.) shall not apply to the marine mammal unusual mortality event working group established under this paragraph.
+    - **(B)** Chapter 10 of title 5 shall not apply to the marine mammal unusual mortality event working group established under this paragraph.
   - **(2)** The Secretary, in consultation with the Secretary of the Interior, shall to the extent necessary and practicable—
     - **(A)** within 24 hours after receiving notification from a stranding network participant that an unusual mortality event might be occurring, contact as many members as is possible of the unusual mortality event working group for guidance; and
     - **(B)** within 48 hours after receiving such notification—

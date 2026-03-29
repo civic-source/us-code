@@ -3,9 +3,9 @@ title: "Section 114 - Transportation Security Administration"
 usc_title: 49
 usc_section: "114"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 114"
-generated_at: "2026-03-29T23:53:40.177Z"
+generated_at: "2026-03-29T23:57:35.634Z"
 ---
 
 # § 114. Transportation Security Administration
@@ -103,7 +103,7 @@ generated_at: "2026-03-29T23:53:40.177Z"
   - **(3)** In this subsection, the term “applicable sections of title 5” means—
     - **(A)** subsections (b), (c) and (d) of section 4507 of title 5 ; and
     - **(B)** subsections (b) and (c) of section 4507a of title 5 .
-- **(o)** The Transportation Security Administration shall be subject to the Inspector General Act of 1978 (5 U.S.C. App.) and other laws relating to the authority of the Inspector General of the Department of Homeland Security.
+- **(o)** The Transportation Security Administration shall be subject to chapter 4 of title 5 and other laws relating to the authority of the Inspector General of the Department of Homeland Security.
 - **(p)**
   - **(1)** The Administrator may designate an employee of the Transportation Security Administration or other Federal agency to serve as a law enforcement officer.
   - **(2)** While engaged in official duties of the Administration as required to fulfill the responsibilities under this section, a law enforcement officer designated under paragraph (1) may—

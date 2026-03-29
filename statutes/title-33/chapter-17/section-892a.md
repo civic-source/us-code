@@ -3,9 +3,9 @@ title: "Section 892a - Functions of the Administrator"
 usc_title: 33
 usc_section: "892a"
 chapter: 17
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 892a"
-generated_at: "2026-03-29T23:52:21.928Z"
+generated_at: "2026-03-29T23:56:30.040Z"
 ---
 
 # § 892a. Functions of the Administrator
@@ -19,11 +19,11 @@ generated_at: "2026-03-29T23:52:21.928Z"
   - **(6)** provide hydrographic services in uniform, easily accessible formats;
   - **(7)** participate in the development of, and implement for the United States in cooperation with other appropriate Federal agencies, international standards for hydrographic data and hydrographic services; and
   - **(8)** to the greatest extent practicable and cost-effective, fulfill the requirements of paragraphs (1) and (6) through contracts or other agreements with private sector entities.
-- **(b)** To fulfill the data gathering and dissemination duties of the Administration under the Coast and Geodetic Survey Act, promote safe, efficient, and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter, subject to the availability of appropriations, the Administrator—
+- **(b)** To fulfill the data gathering and dissemination duties of the Administration under the Coast and Geodetic Survey Act, promote precision navigation, safe, efficient, and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter, subject to the availability of appropriations, the Administrator—
   - **(1)** may procure, lease, evaluate, test, develop, and operate vessels, equipment, and technologies necessary to ensure safe navigation and maintain operational expertise in hydrographic data acquisition and hydrographic services;
-  - **(2)** shall, subject to the availability of appropriations, design, install, maintain, and operate real-time hydrographic monitoring systems to enhance navigation safety and efficiency; and 1 1 So in original. The word “and” probably should not appear.
+  - **(2)** shall, subject to the availability of appropriations, design, install, maintain, and operate real-time hydrographic monitoring systems and hydrodynamic forecast models to enhance navigation safety and efficiency and provide foundational information and services required to support coastal resilience planning for coastal transportation and other infrastructure, coastal protection and restoration projects, and related activities;
   - **(3)** where appropriate and to the extent that it does not detract from the promotion of safe and efficient navigation, may acquire hydrographic data and provide hydrographic services to support the conservation and management of coastal and ocean resources;
   - **(4)** where appropriate, may acquire hydrographic data and provide hydrographic services to save and protect life and property and support the resumption of commerce in response to emergencies, natural and man-made disasters, and homeland security and maritime domain awareness needs, including obtaining mission assignments (as defined in section 741 of title 6 );
   - **(5)** may create, support, and maintain such joint centers with other Federal agencies and other entities as the Administrator deems appropriate or necessary to carry out the purposes of this subchapter; and
-  - **(6)** notwithstanding the existence of such joint centers, shall award contracts for the acquisition of hydrographic data in accordance with subchapter VI of chapter 10 of title 40. 2 2 See References in Text note below.
+  - **(6)** notwithstanding the existence of such joint centers, shall award contracts for the acquisition of hydrographic data in accordance with subchapter VI of chapter 10 of title 40. 1 1 See References in Text note below.
 - **(c)** Where appropriate and to the extent that it does not detract from the promotion of safe and efficient navigation, the Secretary may use hydrographic data and services to support the conservation and management of coastal and ocean resources.

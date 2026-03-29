@@ -3,9 +3,9 @@ title: "Section 673 - Protection of voluntarily shared critical infrastructure i
 usc_title: 6
 usc_section: "673"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "6 U.S.C. § 673"
-generated_at: "2026-03-29T23:50:11.206Z"
+generated_at: "2026-03-29T23:54:07.960Z"
 ---
 
 # § 673. Protection of voluntarily shared critical infrastructure information
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T23:50:11.206Z"
   - **(2)** For purposes of paragraph (1), the term “express statement”, with respect to information or records, means—
     - **(A)** in the case of written information or records, a written marking on the information or records substantially similar to the following: “This information is voluntarily submitted to the Federal Government in expectation of protection from disclosure as provided by the provisions of the Critical Infrastructure Information Act of 2002.”; or
     - **(B)** in the case of oral information, a similar written statement submitted within a reasonable period following the oral communication.
-- **(b)** No communication of critical infrastructure information to a covered Federal agency made pursuant to this part shall be considered to be an action subject to the requirements of the Federal Advisory Committee Act.
+- **(b)** No communication of critical infrastructure information to a covered Federal agency made pursuant to this part shall be considered to be an action subject to the requirements of chapter 10 of title 5.
 - **(c)** Nothing in this section shall be construed to limit or otherwise affect the ability of a State, local, or Federal Government entity, agency, or authority, or any third party, under applicable law, to obtain critical infrastructure information in a manner not covered by subsection (a), including any information lawfully and properly disclosed generally or broadly to the public and to use such information in any manner permitted by law. For purposes of this section a permissible use of independently obtained information includes the disclosure of such information under section 2302(b)(8) of title 5 .
 - **(d)** The voluntary submittal to the Government of information or records that are protected from disclosure by this part shall not be construed to constitute compliance with any requirement to submit such information to a Federal agency under any other provision of law.
 - **(e)**

@@ -1,19 +1,20 @@
 ---
-title: "Section 3404 - Ocean exploration and undersea research technology and infrastructure task force"
+title: "Section 3404 - Education, workforce training, and outreach"
 usc_title: 33
 usc_section: "3404"
 chapter: 47
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 3404"
-generated_at: "2026-03-29T23:52:21.986Z"
+generated_at: "2026-03-29T23:56:30.103Z"
 ---
 
-# § 3404. Ocean exploration and undersea research technology and infrastructure task force
+# § 3404. Education, workforce training, and outreach
 
-- **(a)** The Administrator of the National Oceanic and Atmospheric Administration, in coordination with the National Science Foundation, the National Aeronautics and Space Administration, the United States Geological Survey, the Department of the Navy, the Mineral Management Service, and relevant governmental, non-governmental, academic, industry, and other experts, shall convene an ocean exploration and undersea research technology and infrastructure task force to develop and implement a strategy—
-  - **(1)** to facilitate transfer of new exploration and undersea research technology to the programs authorized under this subchapter and subchapter II of this chapter;
-  - **(2)** to improve availability of communications infrastructure, including satellite capabilities, to such programs;
-  - **(3)** to develop an integrated, workable, and comprehensive data management information processing system that will make information on unique and significant features obtained by such programs available for research and management purposes;
-  - **(4)** to conduct public outreach activities that improve the public understanding of ocean science, resources, and processes, in conjunction with relevant programs of the National Oceanic and Atmospheric Administration, the National Science Foundation, and other agencies; and
-  - **(5)** to encourage cost-sharing partnerships with governmental and nongovernmental entities that will assist in transferring exploration and undersea research technology and technical expertise to the programs.
-- **(b)** The task force shall coordinate the development of agency budgets and identify the items in their annual budget that support the activities identified in the strategy developed under subsection (a).
+- **(a)** The Administrator of the National Oceanic and Atmospheric Administration shall—
+  - **(1)** conduct education and outreach efforts in order to broadly disseminate information to the public on the discoveries made by the program under section 3402 of this title ;
+  - **(2)** to the extent possible, coordinate the efforts described in paragraph (1) with the outreach strategies of other domestic or international ocean mapping, exploration, and characterization initiatives; and
+  - **(3)** establish a fellowship program at the National Oceanic and Atmospheric Administration to provide year-long fellowships to undergraduate students from institutions described in section 1067q(a) of title 20 .
+- **(b)** Efforts described in subsection (a)(1) may include—
+  - **(1)** education of the general public, teachers, students, and ocean and coastal resource managers; and
+  - **(2)** workforce training, reskilling, and opportunities to encourage development of ocean-related science, technology, engineering, and mathematics technical training programs involving secondary schools, community colleges, and universities, including institutions described in section 1067q(a) of title 20 .
+- **(c)** Not later than 180 days after the date of the enactment of the National Ocean Exploration Act, 1 1 See References in Text note below. the Administrator of the National Oceanic and Atmospheric Administration shall develop an outreach strategy to broadly disseminate information on the discoveries made by the program under section 3402 of this title .

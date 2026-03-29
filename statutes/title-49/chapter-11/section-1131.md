@@ -3,9 +3,9 @@ title: "Section 1131 - General authority"
 usc_title: 49
 usc_section: "1131"
 chapter: 11
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 1131"
-generated_at: "2026-03-29T23:53:40.185Z"
+generated_at: "2026-03-29T23:57:35.643Z"
 ---
 
 # § 1131. General authority
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T23:53:40.185Z"
     - **(B)** a highway accident, including a railroad grade crossing accident, the Board selects in cooperation with a State;
     - **(C)** a railroad accident in which there is a fatality or substantial property damage, or that involves a passenger train;
     - **(D)** a pipeline accident in which there is a fatality, substantial property damage, or significant injury to the environment;
-    - **(E)** a major marine casualty (except a casualty involving only public vessels) occurring on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988 , or involving a vessel of the United States (as defined in section 2101(46) 1 1 See References in Text note below. of title 46), under regulations prescribed jointly by the Board and the head of the department in which the Coast Guard is operating; and
+    - **(E)** a major marine casualty (except a casualty involving only public vessels) occurring on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988 , or involving a vessel of the United States (as defined in section 116 of title 46 ), under regulations prescribed jointly by the Board and the head of the department in which the Coast Guard is operating; and
     - **(F)** any other accident related to the transportation of individuals or property when the Board decides—
       - **(i)** the accident is catastrophic;
       - **(ii)** the accident involves problems of a recurring character; or

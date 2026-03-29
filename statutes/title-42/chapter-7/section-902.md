@@ -3,9 +3,9 @@ title: "Section 902 - Commissioner; Deputy Commissioner; other officers"
 usc_title: 42
 usc_section: "902"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 902"
-generated_at: "2026-03-29T23:53:16.225Z"
+generated_at: "2026-03-29T23:57:26.707Z"
 ---
 
 # § 902. Commissioner; Deputy Commissioner; other officers
@@ -30,4 +30,4 @@ generated_at: "2026-03-29T23:53:16.225Z"
   - **(1)** There shall be in the Administration a Chief Actuary, who shall be appointed by, and in direct line of authority to, the Commissioner. The Chief Actuary shall be appointed from individuals who have demonstrated, by their education and experience, superior expertise in the actuarial sciences. The Chief Actuary shall serve as the chief actuarial officer of the Administration, and shall exercise such duties as are appropriate for the office of the Chief Actuary and in accordance with professional standards of actuarial independence. The Chief Actuary may be removed only for cause.
   - **(2)** The Chief Actuary shall be compensated at the highest rate of basic pay for the Senior Executive Service under section 5382(b) of title 5 .
 - **(d)** There shall be in the Administration a Chief Financial Officer appointed by the Commissioner in accordance with section 901(a)(2) of title 31 .
-- **(e)** There shall be in the Administration an Inspector General appointed by the President, by and with the advice and consent of the Senate, in accordance with section 3(a) of the Inspector General Act of 1978.
+- **(e)** There shall be in the Administration an Inspector General appointed by the President, by and with the advice and consent of the Senate, in accordance with section 403(a) of title 5 .

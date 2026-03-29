@@ -3,9 +3,9 @@ title: "Section 2350a - Cooperative research and development agreements: NATO or
 usc_title: 10
 usc_section: "2350a"
 chapter: 138
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 2350a"
-generated_at: "2026-03-29T23:50:22.281Z"
+generated_at: "2026-03-29T23:54:20.013Z"
 ---
 
 # § 2350a. Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries
@@ -18,6 +18,7 @@ generated_at: "2026-03-29T23:50:22.281Z"
     - **(C)** A member nation of the North Atlantic Treaty Organization.
     - **(D)** A major non-NATO ally.
     - **(E)** Any other friendly foreign country.
+    - **(F)** The European Union, including the European Defence Agency, the European Commission, and the Council of the European Union, and their suborganizations.
   - **(3)** If such a memorandum of understanding (or other formal agreement) is with a country referred to in subparagraph (E) of paragraph (2), such memorandum (or agreement) may go into effect only after the Secretary submits to the Committees on Armed Services and on Foreign Relations of the Senate and to the Committees on Armed Services and on International Relations of the House of Representatives a report with respect to the proposed memorandum (or agreement) and a period of 30 days has passed after the report has been submitted.
 - **(b)**
   - **(1)** The Secretary of Defense may not enter into a memorandum of understanding (or other formal agreement) to conduct a cooperative research and development project under this section unless the Secretary determines that the proposed project will improve, through the application of emerging technology, the conventional defense capabilities of the North Atlantic Treaty Organization or the common conventional defense capabilities of the United States and a country or organization referred to in subsection (a)(2).

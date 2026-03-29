@@ -1,14 +1,14 @@
 ---
-title: "Section 816 - Art 16. Courts-martial classified"
+title: "Section 816 - Art. 16. Courts-martial classified"
 usc_title: 10
 usc_section: "816"
 chapter: 47
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 816"
-generated_at: "2026-03-29T23:50:22.231Z"
+generated_at: "2026-03-29T23:54:19.953Z"
 ---
 
-# § 816. Art 16. Courts-martial classified
+# § 816. Art. 16. Courts-martial classified
 
 - **(a)** The three kinds of courts-martial in each of the armed forces are the following:
   - **(1)** General courts-martial, as described in subsection (b).

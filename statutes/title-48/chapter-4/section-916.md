@@ -3,9 +3,9 @@ title: "Section 916 - Ratification of previous legislation"
 usc_title: 48
 usc_section: "916"
 chapter: 4
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "48 U.S.C. § 916"
-generated_at: "2026-03-29T23:53:21.593Z"
+generated_at: "2026-03-29T23:57:36.127Z"
 ---
 
 # § 916. Ratification of previous legislation

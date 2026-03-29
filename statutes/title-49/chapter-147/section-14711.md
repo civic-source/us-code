@@ -3,9 +3,9 @@ title: "Section 14711 - Enforcement by State attorneys general"
 usc_title: 49
 usc_section: "14711"
 chapter: 147
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 14711"
-generated_at: "2026-03-29T23:53:40.211Z"
+generated_at: "2026-03-29T23:57:35.672Z"
 ---
 
 # § 14711. Enforcement by State attorneys general

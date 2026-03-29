@@ -3,9 +3,9 @@ title: "Section 53 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "53"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 53"
-generated_at: "2026-03-29T23:51:22.730Z"
+generated_at: "2026-03-29T23:55:43.347Z"
 ---
 
 # § 379j–53. Reauthorization; reporting requirements
@@ -22,9 +22,12 @@ generated_at: "2026-03-29T23:51:22.730Z"
       - **(i)** The number and titles of draft and final guidance on topics related to the process for the review of biosimilars, and whether such guidances were required by statute or pursuant to a commitment under the letters described in section 401(b) 1 of the Biosimilar User Fee Amendments of 2022.
       - **(ii)** The number and titles of public meetings held on topics related to the process for the review of biosimilars, and whether such meetings were required by statute or pursuant to a commitment under the letters described in section 401(b) 1 of the Biosimilar User Fee Amendments of 2022.
   - **(4)** Beginning with fiscal year 2020, the Secretary shall include in the annual report under paragraph (1)—
-    - **(A)** data, analysis, and discussion of the changes in the number of full-time equivalents hired as agreed upon in the letters described in section 401(b) 1 of the Biosimilar User Fee Amendments of 2022 and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
-    - **(B)** data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of biosimilar biological product applications, including identifying drivers of such changes; and
-    - **(C)** for each of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required.
+    - **(A)** data, analysis, and discussion of the changes in the number of individuals hired as agreed upon in the letters described in section 4001(b) of the Biosimilar User Fee Amendments of 2022 and the number of remaining vacancies, the number of full-time equivalents funded by fees collected pursuant to section 379j–52 of this title , and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
+    - **(B)** data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of biosimilar biological product applications, including identifying—
+      - **(i)** drivers of such changes; and
+      - **(ii)** changes in the average total cost per full-time equivalent in the biosimilar biological product review program;
+    - **(C)** for each of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required; and
+    - **(D)** data, analysis, and discussion of the changes in the average full-time equivalent hours required to complete review of each type of biosimilar biological product application.
   - **(5)** For each fiscal year, the Secretary shall include in the report an analysis of the following:
     - **(A)** The difference between the aggregate number of biosimilar biological product applications and supplements filed and the aggregate number of approvals issued by the agency, accounting for—
       - **(i)** such applications filed during one fiscal year for which a decision is not scheduled to be made until the following fiscal year; and
@@ -49,10 +52,20 @@ generated_at: "2026-03-29T23:51:22.730Z"
     - **(D)** health care professionals;
     - **(E)** representatives of patient and consumer advocacy groups; and
     - **(F)** the regulated industry.
-  - **(2)** After negotiations with the regulated industry, the Secretary shall—
+  - **(2)** Prior to beginning negotiations with the regulated industry on the reauthorization of this subpart, the Secretary shall—
+    - **(A)** publish a notice in the Federal Register requesting public input on the reauthorization;
+    - **(B)** hold a public meeting at which the public may present its views on the reauthorization;
+    - **(C)** provide a period of 30 days after the public meeting to obtain written comments from the public suggesting changes to this part; and
+    - **(D)** publish the comments on the Food and Drug Administration’s website.
+  - **(3)** Not less frequently than once every month during negotiations with the regulated industry, the Secretary shall hold discussions with representatives of patient and consumer advocacy groups to continue discussions of their views on the reauthorization and their suggestions for changes to this subpart as expressed under paragraph (2).
+  - **(4)** The Secretary, in consultation with regulated industry, shall provide regular updates on negotiations on the reauthorization of this subpart to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+  - **(5)** After negotiations with the regulated industry, the Secretary shall—
     - **(A)** present the recommendations developed under paragraph (1) to the congressional committees specified in such paragraph;
     - **(B)** publish such recommendations in the Federal Register;
     - **(C)** provide for a period of 30 days for the public to provide written comments on such recommendations;
     - **(D)** hold a meeting at which the public may present its views on such recommendations; and
     - **(E)** after consideration of such public views and comments, revise such recommendations as necessary.
-  - **(3)** Not later than January 15, 2027 , the Secretary shall transmit to the Congress the revised recommendations under paragraph (2), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+  - **(6)** Not later than January 15, 2027 , the Secretary shall transmit to the Congress the revised recommendations under paragraph (2), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+  - **(7)**
+    - **(A)** The Secretary shall make publicly available, on the public website of the Food and Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the regulated industry, not later than 30 days after each such negotiation meeting.
+    - **(B)** The minutes described under subparagraph (A) shall summarize, in sufficient detail, any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.

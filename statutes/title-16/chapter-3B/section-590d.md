@@ -3,9 +3,9 @@ title: "Section 590d - Cooperation of governmental agencies; officers and employ
 usc_title: 16
 usc_section: "590d"
 chapter: 3
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 590d"
-generated_at: "2026-03-29T23:51:16.163Z"
+generated_at: "2026-03-29T23:55:31.052Z"
 ---
 
 # § 590d. Cooperation of governmental agencies; officers and employees, appointment and compensation; expenditures for personal services and supplies

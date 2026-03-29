@@ -3,9 +3,9 @@ title: "Section 7103 - Interagency Task Force to Monitor and Combat Trafficking"
 usc_title: 22
 usc_section: "7103"
 chapter: 78
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 7103"
-generated_at: "2026-03-29T23:51:29.542Z"
+generated_at: "2026-03-29T23:55:52.501Z"
 ---
 
 # § 7103. Interagency Task Force to Monitor and Combat Trafficking
@@ -52,11 +52,16 @@ generated_at: "2026-03-29T23:51:29.542Z"
       - **(iv)** the number of victims granted continued presence in the United States under section 7105(c)(3) of this title ;
       - **(v)** the number of victims granted a visa or otherwise provided status under subparagraph (T)(i) or (U)(i) of section 1101(a)(15) of title 8 ;
       - **(vi)** the number of individuals required by a court order to pay restitution in connection with a violation of each offense under title 18, the amount of restitution required to be paid under each such order, and the amount of restitution actually paid pursuant to each such order;
-      - **(vii)** the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense;
-      - **(viii)** the number of convictions obtained under chapter 77 of title 18, aggregated separately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim; and 4
-    - **(R)** the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) 3 of title 34, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible; and
-    - **(S)** 5 5 So in original. Two subpars. (S) have been enacted. tactics and strategies employed by human trafficking task forces sponsored by the Department of Justice to reduce demand for trafficking victims.
-    - **(S)** 5 the efforts of the United States to eliminate money laundering related to human trafficking and the number of investigations, arrests, indictments, and convictions in money laundering cases with a nexus to human trafficking.
+      - **(vii)** the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense; and
+      - **(viii)** the number of convictions obtained under chapter 77 of title 18, aggregated separately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim;
+    - **(R)** the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) 3 of title 34, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible;
+    - **(S)** tactics and strategies employed by human trafficking task forces sponsored by the Department of Justice to reduce demand for trafficking victims;
+    - **(T)** the efforts of the United States to eliminate money laundering related to human trafficking and the number of investigations, arrests, indictments, and convictions in money laundering cases with a nexus to human trafficking;
+    - **(U)** with respect to applications described in subparagraph (B), (C), (D), or (F), when available, if the application was denied, the reason for the denial and the length of time it took for the denial to be issued; and
+    - **(V)** disaggregated data regarding—
+      - **(i)** the number of victims trafficked by third parties and by family members;
+      - **(ii)** victims trafficked by victim age; and
+      - **(iii)** victims trafficked by the type of trafficking.
 - **(e)**
   - **(1)** The Secretary of State shall establish within the Department of State an Office to Monitor and Combat Trafficking, which shall provide assistance to the Task Force. Any such Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large. The Director shall have the primary responsibility for assisting the Secretary of State in carrying out the purposes of this chapter and may have additional responsibilities as determined by the Secretary. The Director shall consult with nongovernmental organizations and multilateral organizations, and with trafficking victims or other affected persons. The Director shall have the authority to take evidence in public hearings or by other means. The agencies represented on the Task Force are authorized to provide staff to the Office on a nonreimbursable basis.
   - **(2)** The Director shall be responsible for—

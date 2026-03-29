@@ -3,9 +3,9 @@ title: "Section 331 - Prohibited acts"
 usc_title: 21
 usc_section: "331"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 331"
-generated_at: "2026-03-29T23:51:22.685Z"
+generated_at: "2026-03-29T23:55:43.290Z"
 ---
 
 # § 331. Prohibited acts
@@ -37,6 +37,7 @@ The following acts and the causing thereof are prohibited:
     - **(B)** to furnish any notification or other material or information required by or under section 360i, 360j(g), 387d, 387i, or 387t of this title; or
     - **(C)** to comply with a requirement under section 360 l or 387m of this title.
   - **(2)** With respect to any device or tobacco product, the submission of any report that is required by or under this chapter that is false or misleading in any material respect.
+  - **(3)** The failure to comply with any requirement under section 360n–2(b)(2) of this title (relating to ensuring device cybersecurity).
 - **(r)** The movement of a device, drug, or tobacco product in violation of an order under section 334(g) of this title or the removal or alteration of any mark or label required by the order to identify the device, drug, or tobacco product as detained.
 - **(s)** The failure to provide the notice required by section 350a(c) or 350a(e) of this title, the failure to make the reports required by section 350a(f)(1)(B) of this title , the failure to retain the records required by section 350a(b)(4) of this title , or the failure to meet the requirements prescribed under section 350a(f)(3) of this title .
 - **(t)** The importation of a drug in violation of section 381(d)(1) of this title , the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title , the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title , the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title , the distribution of drugs in violation of section 353(e) of this title , failure to comply with the requirements under section 360eee–1 of this title , the failure to comply with the requirements under section 360eee–3 of this title , as applicable, or the failure to otherwise comply with the requirements of section 353(e) of this title .
@@ -108,3 +109,10 @@ The following acts and the causing thereof are prohibited:
     - **(A)** the term “plastic microbead” means any solid plastic particle that is less than five millimeters in size and is intended to be used to exfoliate or cleanse the human body or any part thereof; and
     - **(B)** the term “rinse-off cosmetic” includes toothpaste.
 - **(eee)** The failure to comply with any order issued under section 360bbb–8d of this title .
+- **(fff)**
+  - **(1)** Forging, counterfeiting, simulating, or falsely representing, or without proper authority using any mark, stamp, tag, label, or other identification upon any device or container, packaging, or labeling thereof so as to render such device a counterfeit device.
+  - **(2)** Making, selling, disposing of, or keeping in possession, control, or custody, or concealing any punch, die, plate, stone, or other thing designed to print, imprint, or reproduce the trademark, trade name, or other identifying mark or imprint of another or any likeness of any of the foregoing upon any device or container, packaging, or labeling thereof so as to render such device a counterfeit device.
+  - **(3)** The doing of any act which causes a device to be a counterfeit device, or the sale or dispensing, or the holding for sale or dispensing, of a counterfeit device.
+- **(ggg)** The failure of a sponsor of a product approved under accelerated approval pursuant to section 356(c) of this title —
+  - **(1)** to conduct with due diligence any postapproval study required under section 356(c) of this title with respect to such product; or
+  - **(2)** to submit timely reports with respect to such product in accordance with section 356b(a)(2) of this title .

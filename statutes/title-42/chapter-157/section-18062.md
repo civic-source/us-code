@@ -3,9 +3,9 @@ title: "Section 18062 - Establishment of risk corridors for plans in individual 
 usc_title: 42
 usc_section: "18062"
 chapter: 157
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 18062"
-generated_at: "2026-03-29T23:53:16.740Z"
+generated_at: "2026-03-29T23:57:27.282Z"
 ---
 
 # § 18062. Establishment of risk corridors for plans in individual and small group markets

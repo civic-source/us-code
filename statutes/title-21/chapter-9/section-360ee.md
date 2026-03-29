@@ -3,14 +3,14 @@ title: "Section 360ee - Grants and contracts for development of drugs for rare d
 usc_title: 21
 usc_section: "360ee"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 360ee"
-generated_at: "2026-03-29T23:51:22.713Z"
+generated_at: "2026-03-29T23:55:43.326Z"
 ---
 
 # § 360ee. Grants and contracts for development of drugs for rare diseases and conditions
 
-- **(a)** The Secretary may make grants to and enter into contracts with public and private entities and individuals to assist in (1) defraying the costs of developing drugs for rare diseases or conditions, including qualified testing expenses, (2) defraying the costs of developing medical devices for rare diseases or conditions, and (3) defraying the costs of developing medical foods for rare diseases or conditions.
+- **(a)** The Secretary may make grants to and enter into contracts with public and private entities and individuals to assist in (1) defraying the costs of developing drugs for rare diseases or conditions, including qualified testing expenses, (2) defraying the costs of developing medical devices for rare diseases or conditions, (3) defraying the costs of developing medical foods for rare diseases or conditions, and (4) developing regulatory science pertaining to the chemistry, manufacturing, and controls of individualized medical products to treat individuals with rare diseases or conditions.
 - **(b)** For purposes of subsection (a):
   - **(1)** The term “qualified testing” means—
     - **(A)** human clinical testing—
@@ -22,4 +22,4 @@ generated_at: "2026-03-29T23:51:22.713Z"
       - **(ii)** understand the full spectrum of the disease manifestations, including describing genotypic and phenotypic variability and identifying and defining distinct subpopulations affected by a rare disease or condition.
   - **(2)** The term “rare disease or condition” means (1) in the case of a drug, any disease or condition which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug, (2) in the case of a medical device, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical device for such disease or condition will be developed without assistance under subsection (a), and (3) in the case of a medical food, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical food for such disease or condition will be developed without assistance under subsection (a). Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date the request for designation of the drug under section 360bb of this title is made.
   - **(3)** The term “medical food” means a food which is formulated to be consumed or administered enterally under the supervision of a physician and which is intended for the specific dietary management of a disease or condition for which distinctive nutritional requirements, based on recognized scientific principles, are established by medical evaluation.
-- **(c)** For grants and contracts under subsection (a), there is authorized to be appropriated $6,904,110 for the period beginning on October 1, 2022 and ending on December 23, 2022 .
+- **(c)** For grants and contracts under subsection (a), there is authorized to be appropriated $6,904,110 for the period beginning on October 1, 2022 and ending on December 23, 2022 . 1 1 See 2022 Amendment notes below.

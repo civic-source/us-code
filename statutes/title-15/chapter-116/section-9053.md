@@ -3,9 +3,9 @@ title: "Section 9053 - Special Inspector General for pandemic recovery"
 usc_title: 15
 usc_section: "9053"
 chapter: 116
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 9053"
-generated_at: "2026-03-29T23:50:50.673Z"
+generated_at: "2026-03-29T23:54:56.205Z"
 ---
 
 # § 9053. Special Inspector General for pandemic recovery

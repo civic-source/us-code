@@ -3,9 +3,9 @@ title: "Section 3507 - Passenger vessel security and safety requirements"
 usc_title: 46
 usc_section: "3507"
 chapter: 35
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "46 U.S.C. § 3507"
-generated_at: "2026-03-29T23:53:20.129Z"
+generated_at: "2026-03-29T23:57:43.070Z"
 ---
 
 # § 3507. Passenger vessel security and safety requirements
@@ -137,8 +137,8 @@ generated_at: "2026-03-29T23:53:20.129Z"
 - **(j)** The Secretary and the Commandant shall each issue such regulations as are necessary to implement this section.
 - **(k)**
   - **(1)** This section and section 3508 apply to a passenger vessel (as defined in section 2101(31)) that—
-    - **(A)** is authorized to carry at least 250 passengers;
-    - **(B)** has onboard sleeping facilities for each passenger; and
+    - **(A)** is authorized to carry 250 or more passengers;
+    - **(B)** has overnight accommodations for 250 or more passengers; and
     - **(C)** is on a voyage that embarks or disembarks passengers in the United States.
   - **(2)** This section and section 3508 do not apply to a vessel of the United States operated by the Federal Government or a vessel owned and operated by a State.
 - **(l)** In this section and section 3508, the term “owner” means the owner, charterer, managing operator, master, or other individual in charge of a vessel.

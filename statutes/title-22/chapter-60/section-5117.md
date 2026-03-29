@@ -3,9 +3,9 @@ title: "Section 5117 - Repealed. Pub. L. 103–149, § 4(c)(2)(A) , Nov. 23, 199
 usc_title: 22
 usc_section: "5117"
 chapter: 60
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 5117"
-generated_at: "2026-03-29T23:51:29.522Z"
+generated_at: "2026-03-29T23:55:52.480Z"
 ---
 
 # § 5117. Repealed. Pub. L. 103–149, § 4(c)(2)(A) , Nov. 23, 1993 , 107 Stat. 1506

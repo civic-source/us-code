@@ -3,9 +3,9 @@ title: "Section 10653 - Creation of a TBI and PTSD training for first responders
 usc_title: 34
 usc_section: "10653"
 chapter: 101
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "34 U.S.C. § 10653"
-generated_at: "2026-03-29T23:52:36.804Z"
+generated_at: "2026-03-29T23:56:30.944Z"
 ---
 
 # § 10653. Creation of a TBI and PTSD training for first responders

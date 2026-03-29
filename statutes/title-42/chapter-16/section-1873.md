@@ -3,9 +3,9 @@ title: "Section 1873 - Employment of personnel"
 usc_title: 42
 usc_section: "1873"
 chapter: 16
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 1873"
-generated_at: "2026-03-29T23:53:16.407Z"
+generated_at: "2026-03-29T23:57:26.915Z"
 ---
 
 # § 1873. Employment of personnel

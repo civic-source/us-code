@@ -3,9 +3,9 @@ title: "Section 142i - United States Capitol Preservation Commission; provision 
 usc_title: 2
 usc_section: "142i"
 chapter: 5
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "2 U.S.C. § 142i"
-generated_at: "2026-03-29T23:50:07.797Z"
+generated_at: "2026-03-29T23:54:02.901Z"
 ---
 
 # § 142i. United States Capitol Preservation Commission; provision of financial management services and support by Library of Congress

@@ -3,16 +3,16 @@ title: "Section 1142 - Public transportation employee protections"
 usc_title: 6
 usc_section: "1142"
 chapter: 4
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "6 U.S.C. § 1142"
-generated_at: "2026-03-29T23:50:11.214Z"
+generated_at: "2026-03-29T23:54:07.970Z"
 ---
 
 # § 1142. Public transportation employee protections
 
 - **(a)** A public transportation agency, a contractor or a subcontractor of such agency, or an officer or employee of such agency, shall not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee if such discrimination is due, in whole or in part, to the employee’s lawful, good faith act done, or perceived by the employer to have been done or about to be done—
   - **(1)** to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to public transportation safety or security, or fraud, waste, or abuse of Federal grants or other public funds intended to be used for public transportation safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
-    - **(A)** a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452 ); 1 1 So in original. The semicolon probably should be preceded by an additional closing parenthesis.
+    - **(A)** a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under chapter 4 of title 5; 1 1 So in original. The semicolon probably should be preceded by a closing parenthesis.
     - **(B)** any Member of Congress, any Committee of Congress, or the Government Accountability Office; or
     - **(C)** a person with supervisory authority over the employee or such other person who has the authority to investigate, discover, or terminate the misconduct;
   - **(2)** to refuse to violate or assist in the violation of any Federal law, rule, or regulation relating to public transportation safety or security;

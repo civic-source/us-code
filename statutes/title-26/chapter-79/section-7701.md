@@ -3,9 +3,9 @@ title: "Section 7701 - Definitions"
 usc_title: 26
 usc_section: "7701"
 chapter: 79
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 7701"
-generated_at: "2026-03-29T23:52:10.283Z"
+generated_at: "2026-03-29T23:56:24.951Z"
 ---
 
 # § 7701. Definitions
@@ -298,7 +298,7 @@ generated_at: "2026-03-29T23:52:10.283Z"
   - **(3)** Paragraph (1) shall not be construed to provide that any amount of the employee’s or Member’s basic pay which is contributed to the Thrift Savings Fund shall not be included in the term “wages” for the purposes of section 209 of the Social Security Act or section 3121(a) of this title .
   - **(4)** For purposes of this subsection, the terms “Member”, “employee”, and “Thrift Savings Fund” shall have the same respective meanings as when used in subchapter III of chapter 84 of title 5, United States Code.
   - **(5)** No provision of law not contained in this title shall apply for purposes of determining the treatment under this title of the Thrift Savings Fund or any contribution to, or distribution from, such Fund.
-- **(k)** In the case of any payment which, except for section 501(b) of the Ethics in Government Act of 1978, might be made to any officer or employee of the Federal Government but which is made instead on behalf of such officer or employee to an organization described in section 170(c)—
+- **(k)** In the case of any payment which, except for section 13143(b) of title 5 , United States Code, might be made to any officer or employee of the Federal Government but which is made instead on behalf of such officer or employee to an organization described in section 170(c)—
   - **(1)** such payment shall not be treated as received by such officer or employee for all purposes of this title and for all purposes of any tax law of a State or political subdivision thereof, and
   - **(2)** no deduction shall be allowed under any provision of this title (or of any tax law of a State or political subdivision thereof) to such officer or employee by reason of having such payment made to such organization.
 - **(l)** The Secretary may prescribe regulations recharacterizing any multiple-party financing transaction as a transaction directly among any 2 or more of such parties where the Secretary determines that such recharacterization is appropriate to prevent avoidance of any tax imposed by this title.

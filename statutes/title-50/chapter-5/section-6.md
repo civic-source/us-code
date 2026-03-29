@@ -3,9 +3,9 @@ title: "Section 6 - Development of domestic sources"
 usc_title: 50
 usc_section: "6"
 chapter: 5
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 6"
-generated_at: "2026-03-29T23:53:23.604Z"
+generated_at: "2026-03-29T23:57:33.244Z"
 ---
 
 # § 98h–6. Development of domestic sources
@@ -18,9 +18,9 @@ generated_at: "2026-03-29T23:53:23.604Z"
   - **(5)** if domestic sources are unavailable to meet the requirements defined in paragraphs (1) through (4), by making efforts to prioritize the purchase of strategic and critical materials from the national technology and industrial base.
 - **(b)** A contract or commitment made under subsection (a) may not exceed five years from the date of the contract or commitment. Such purchases and commitments to purchase may be made for such quantities and on such terms and conditions, including advance payments, as the President considers to be necessary.
 - **(c)**
-  - **(1)** Descriptions of proposed transactions under subsection (a) shall be included in the appropriate annual materials plan submitted to Congress under section 98h–2(b) of this title . Changes to any such transaction, or the addition of a transaction not included in such plan, shall be made in the manner provided by section 98d(a)(2) of this title .
+  - **(1)** Descriptions of proposed transactions under subsection (a) shall be included in the appropriate Annual Materials and Operations Plan submitted to Congress under section 98h–2(b) of this title . Changes to any such transaction, or the addition of a transaction not included in such plan, shall be made in the manner provided by section 98d(a)(2) of this title .
   - **(2)** The authority of the President to enter into obligations under this section is effective for any fiscal year only to the extent that funds in the National Defense Stockpile Transaction Fund are adequate to meet such obligations. Payments required to be as a result of obligations incurred under this section shall be made from amounts in the fund.
 - **(d)** The authority of the President under subsection (a) includes the authority to pay—
   - **(1)** the expenses of transporting materials; and
   - **(2)** other incidental expenses related to carrying out such subsection.
-- **(e)** The President shall include in the reports required under section 98h–2(a) of this title information with respect to activities conducted under this section.
+- **(e)** The President, acting through the National Defense Stockpile Manager, shall include in the reports required under section 98h–2(b)(1) of this title information with respect to activities conducted under this section.

@@ -3,9 +3,9 @@ title: "Section 42 - Authority to assess and use human generic drug fees"
 usc_title: 21
 usc_section: "42"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 42"
-generated_at: "2026-03-29T23:51:22.728Z"
+generated_at: "2026-03-29T23:55:43.345Z"
 ---
 
 # § 379j–42. Authority to assess and use human generic drug fees
@@ -117,7 +117,7 @@ generated_at: "2026-03-29T23:51:22.728Z"
     - **(B)** the amount equal to the drug master file fee established in subsection (a)(2) for such submission.
 - **(e)**
   - **(1)** The total amount of fees charged, as adjusted under subsection (c), for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for human generic drug activities.
-  - **(2)** Beginning on October 1, 2023 , the authorities under section 379j–41(11)(C) 1 1 See References in Text note below. of this title shall include only leasing and necessary scientific equipment.
+  - **(2)** Beginning on October 1, 2023 , the authorities under section 379j–41(12)(C) of this title shall include only leasing and necessary scientific equipment.
 - **(f)**
   - **(1)** Each person that owns a facility described in subsection (a)(4)(A) or a site or organization required to be identified by paragraph (3) shall submit to the Secretary the information required under this subsection each year. Such information shall, for each fiscal year, be submitted, updated, or reconfirmed on or before June 1 of the previous fiscal year.
   - **(2)** At a minimum, the submission required by paragraph (1) shall include for each such facility—
@@ -170,8 +170,10 @@ generated_at: "2026-03-29T23:51:22.728Z"
   - **(2)**
     - **(A)** The fees authorized by this section—
       - **(i)** subject to subparagraph (C), shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation for such fiscal year; and
-      - **(ii)** shall be available for a fiscal year beginning after fiscal year 2012 to defray the costs of human generic drug activities (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such activities), only if the Secretary allocates for such purpose an amount for such fiscal year (excluding amounts from fees collected under this section) no less than $97,000,000 multiplied by the adjustment factor defined in section 379j–41(3) of this title applicable to the fiscal year involved.
-    - **(B)** The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated for human generic activities are not more than 10 percent below the level specified in such subparagraph.
+      - **(ii)** shall be available—
+        - **(I)** for fiscal year 2023, to defray the costs of human generic drug activities (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such activities), only if the Secretary allocates for such purpose an amount for such fiscal year (excluding amounts from fees collected under this section) no less than $97,000,000 multiplied by the adjustment factor defined in section 379j–41(3) of this title applicable to such fiscal year; and
+        - **(II)** for fiscal year 2024 and each subsequent fiscal year, to defray the costs of human generic drug activities (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such activities), only if the sum of the amounts allocated by the Secretary for such costs, excluding costs paid from fees collected under this section, plus other costs for the maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture, and other necessary materials and supplies in connection with human generic drug activities, is no less than $97,000,000 multiplied by the adjustment factor defined in section 379j–41(3) of this title applicable to the fiscal year involved.
+    - **(B)** The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated as described in subclause (I) or (II) of such subparagraph, as applicable, are not more than 10 percent below the level specified in such subparagraph.
     - **(C)** Payment of fees authorized under this section for a fiscal year, prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
   - **(3)** For each of the fiscal years 2023 through 2027, there is authorized to be appropriated for fees under this section an amount equivalent to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted under subsection (c), if applicable, or as otherwise affected under paragraph (2) of this subsection.
 - **(j)** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 calendar days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.

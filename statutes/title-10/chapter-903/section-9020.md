@@ -3,9 +3,9 @@ title: "Section 9020 - Inspector General"
 usc_title: 10
 usc_section: "9020"
 chapter: 903
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 9020"
-generated_at: "2026-03-29T23:50:22.340Z"
+generated_at: "2026-03-29T23:54:20.086Z"
 ---
 
 # § 9020. Inspector General
@@ -15,5 +15,5 @@ generated_at: "2026-03-29T23:50:22.340Z"
   - **(1)** inquire into and report upon the discipline, efficiency, and economy of the Department of the Air Force; and
   - **(2)** perform any other duties prescribed by the Secretary, the Chief of Staff, or the Chief of Space Operations.
 - **(c)** The Inspector General shall periodically propose programs of inspections to the Secretary of the Air Force and shall recommend additional inspections and investigations as may appear appropriate.
-- **(d)** The Inspector General shall cooperate fully with the Inspector General of the Department of Defense in connection with the performance of any duty or function by the Inspector General of the Department of Defense under the Inspector General Act of 1978 (5 U.S.C. App. 3) regarding the Department of the Air Force.
+- **(d)** The Inspector General shall cooperate fully with the Inspector General of the Department of Defense in connection with the performance of any duty or function by the Inspector General of the Department of Defense under chapter 4 of title 5 regarding the Department of the Air Force.
 - **(e)** The Inspector General shall have such deputies and assistants as the Secretary of the Air Force may prescribe. Each such deputy and assistant shall be an officer detailed by the Secretary to that position from the officers of the Air Force or the Space Force for a tour of duty of not more than four years, under a procedure prescribed by the Secretary.

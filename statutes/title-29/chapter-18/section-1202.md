@@ -3,9 +3,9 @@ title: "Section 1202 - Procedures with respect to continued compliance with Inte
 usc_title: 29
 usc_section: "1202"
 chapter: 18
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "29 U.S.C. § 1202"
-generated_at: "2026-03-29T23:51:49.805Z"
+generated_at: "2026-03-29T23:55:56.298Z"
 ---
 
 # § 1202. Procedures with respect to continued compliance with Internal Revenue requirements relating to participation, vesting, and funding standards

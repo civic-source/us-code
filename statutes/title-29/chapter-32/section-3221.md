@@ -3,9 +3,9 @@ title: "Section 3221 - Native American programs"
 usc_title: 29
 usc_section: "3221"
 chapter: 32
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "29 U.S.C. § 3221"
-generated_at: "2026-03-29T23:51:49.830Z"
+generated_at: "2026-03-29T23:55:56.325Z"
 ---
 
 # § 3221. Native American programs
@@ -66,7 +66,7 @@ generated_at: "2026-03-29T23:51:49.830Z"
       - **(iii)** The Secretary shall provide the Council with such administrative support as may be necessary to perform the functions of the Council.
     - **(E)** The Council shall select a chairperson from among its members.
     - **(F)** The Council shall meet not less than twice each year.
-    - **(G)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
+    - **(G)** Section 1013 of title 5 shall not apply to the Council.
   - **(5)** The Secretary, acting through the unit established under paragraph (1), is authorized to provide technical assistance to entities described in subsection (c) that receive assistance under such subsection to enable such entities to improve the activities authorized under this section that are provided by such entities.
   - **(6)** A federally recognized Indian tribe that administers funds provided under this section and funds provided by more than one State under other sections of this subchapter may enter into an agreement with the Secretary and the Governors of the affected States to transfer the funds provided by the States to the program administered by the tribe under this section.
 - **(j)** Grants made and contracts and cooperative agreements entered into under this section shall be subject to the requirements of chapter 75 of subtitle V of title 31, and charging of costs under this section shall be subject to appropriate circulars issued by the Office of Management and Budget.

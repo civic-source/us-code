@@ -3,9 +3,9 @@ title: "Section 1733 - Interagency Hostage Recovery Coordinator"
 usc_title: 22
 usc_section: "1733"
 chapter: 23
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 1733"
-generated_at: "2026-03-29T23:51:29.452Z"
+generated_at: "2026-03-29T23:55:52.398Z"
 ---
 
 # § 1733. Interagency Hostage Recovery Coordinator

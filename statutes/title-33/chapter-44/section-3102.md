@@ -3,9 +3,9 @@ title: "Section 3102 - National Oceanic and Atmospheric Administration Oceans an
 usc_title: 33
 usc_section: "3102"
 chapter: 44
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 3102"
-generated_at: "2026-03-29T23:52:21.984Z"
+generated_at: "2026-03-29T23:56:30.101Z"
 ---
 
 # § 3102. National Oceanic and Atmospheric Administration Oceans and Human Health Initiative
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T23:52:21.984Z"
   - **(3)** one or more National Oceanic and Atmospheric Administration national centers of excellence;
   - **(4)** research grants; and
   - **(5)** distinguished scholars and traineeships.
-- **(b)** The Secretary is authorized to establish an oceans and human health advisory panel to assist in the development and implementation of the Oceans and Human Health Initiative. Membership of the advisory group shall provide for balanced representation of individuals with multi-disciplinary expertise in the marine and biomedical sciences. The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the oceans and human health advisory panel.
+- **(b)** The Secretary is authorized to establish an oceans and human health advisory panel to assist in the development and implementation of the Oceans and Human Health Initiative. Membership of the advisory group shall provide for balanced representation of individuals with multi-disciplinary expertise in the marine and biomedical sciences. Chapter 10 of title 5 shall not apply to the oceans and human health advisory panel.
 - **(c)**
   - **(1)** The Secretary is authorized to identify and provide financial support through a competitive process to develop, within the National Oceanic and Atmospheric Administration, for one or more centers of excellence that strengthen the capabilities of the National Oceanic and Atmospheric Administration to carry out its programs and activities related to the oceans’ role in human health.
   - **(2)** The centers shall focus on areas related to agency missions, including use of marine organisms as indicators for marine environmental health, ocean pollutants, marine toxins and pathogens, harmful algal blooms, hypoxia, seafood testing, identification of potential marine products, and biology and pathobiology of marine mammals, and on disciplines including marine genomics, marine environmental microbiology, ecological chemistry and conservation medicine.

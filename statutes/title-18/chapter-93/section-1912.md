@@ -3,9 +3,9 @@ title: "Section 1912 - Unauthorized fees for inspection of vessels"
 usc_title: 18
 usc_section: "1912"
 chapter: 93
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "18 U.S.C. § 1912"
-generated_at: "2026-03-29T23:51:08.388Z"
+generated_at: "2026-03-29T23:55:17.259Z"
 ---
 
 # § 1912. Unauthorized fees for inspection of vessels

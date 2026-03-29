@@ -1,27 +1,28 @@
 ---
-title: "Section 315 - Training course on workings of Congress"
+title: "Section 315 - Training for congressional affairs personnel"
 usc_title: 14
 usc_section: "315"
 chapter: 3
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "14 U.S.C. § 315"
-generated_at: "2026-03-29T23:51:04.208Z"
+generated_at: "2026-03-29T23:54:25.482Z"
 ---
 
-# § 315. Training course on workings of Congress
+# § 315. Training for congressional affairs personnel
 
-- **(a)** Not later than 180 days after the date of the enactment of the Coast Guard Authorization Act of 2016, the Commandant, in consultation with the Superintendent of the Coast Guard Academy and such other individuals and organizations as the Commandant considers appropriate, shall develop a training course on the workings of the Congress and offer that training course at least once each year.
-- **(b)** The training course required by this section shall provide an overview and introduction to the Congress and the Federal legislative process, including—
-  - **(1)** the history and structure of the Congress and the committee systems of the House of Representatives and the Senate, including the functions and responsibilities of the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate;
-  - **(2)** the documents produced by the Congress, including bills, resolutions, committee reports, and conference reports, and the purposes and functions of those documents;
-  - **(3)** the legislative processes and rules of the House of Representatives and the Senate, including similarities and differences between the two processes and rules, including—
+- **(a)** The Commandant shall develop a training course, which shall be administered in person, on the workings of Congress for any member of the Coast Guard selected for a position as a fellow, liaison, counsel, or administrative staff for the Coast Guard Office of Congressional and Governmental Affairs or as any Coast Guard district or area governmental affairs officer.
+- **(b)**
+  - **(1)** The training course required under this section shall provide an overview and introduction to Congress and the Federal legislative process, including—
     - **(A)** the congressional budget process;
-    - **(B)** the congressional authorization and appropriation processes;
-    - **(C)** the Senate advice and consent process for Presidential nominees;
-    - **(D)** the Senate advice and consent process for treaty ratification;
-  - **(4)** the roles of Members of Congress and congressional staff in the legislative process; and
-  - **(5)** the concept and underlying purposes of congressional oversight within our governance framework of separation of powers.
-- **(c)**
-  - **(1)** The Commandant shall ensure that not less than 60 percent of the lecturers, panelists, and other individuals providing education and instruction as part of the training course required by this section are experts on the Congress and the Federal legislative process who are not employed by the executive branch of the Federal Government.
-  - **(2)** In satisfying the requirement under paragraph (1), the Commandant shall seek, and may accept, educational and instructional services of lecturers, panelists, and other individuals and organizations provided to the Coast Guard on a pro bono basis.
-- **(d)** A Coast Guard flag officer who is newly appointed or assigned to a billet in the National Capital Region, and a Coast Guard Senior Executive Service employee who is newly employed in the National Capital Region, shall complete a training course that meets the requirements of this section not later than 60 days after reporting for duty.
+    - **(B)** the congressional appropriations process;
+    - **(C)** the congressional authorization process;
+    - **(D)** the Senate advice and consent process for Presidential nominees;
+    - **(E)** the Senate advice and consent process for treaty ratification;
+    - **(F)** the roles of Members of Congress and congressional staff in the legislative process;
+    - **(G)** the concept and underlying purposes of congressional oversight within the governance framework of separation of powers;
+    - **(H)** the roles of Coast Guard fellows, liaisons, counsels, governmental affairs officers, the Coast Guard Office of Program Review, the Coast Guard Headquarters program offices, and any other entity the Commandant considers relevant; and
+    - **(I)** the roles and responsibilities of Coast Guard public affairs and external communications personnel with respect to Members of Congress and the staff of such Members necessary to enhance communication between Coast Guard units, sectors, and districts and Member offices and committees of jurisdiction so as to ensure visibility of Coast Guard activities.
+  - **(2)**
+    - **(A)** At the written request of a receiving congressional office, the training course required under this section shall include a multi-day detail within the Coast Guard Office of Budget and Programs to ensure adequate exposure to Coast Guard policy, oversight, and requests from Congress.
+    - **(B)** A detail under this paragraph is not required to be consecutive with the balance of the training.
+- **(c)** A member of the Coast Guard selected for a position described in subsection (a) shall complete the training required by this section before the date on which such member reports for duty for such position.

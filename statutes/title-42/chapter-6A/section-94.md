@@ -3,9 +3,9 @@ title: "Section 94 - Ensuring that consumers get value for their dollars"
 usc_title: 42
 usc_section: "94"
 chapter: 6
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 94"
-generated_at: "2026-03-29T23:53:16.166Z"
+generated_at: "2026-03-29T23:57:26.649Z"
 ---
 
 # § 300gg–94. Ensuring that consumers get value for their dollars
@@ -31,6 +31,12 @@ generated_at: "2026-03-29T23:53:16.166Z"
     - **(C)** The Secretary shall establish a formula for determining the amount of any grant to a State under this subsection. Under such formula—
       - **(i)** the Secretary shall consider the number of plans of health insurance coverage offered in each State and the population of the State; and
       - **(ii)** no State qualifying for a grant under paragraph (1) shall receive less than $1,000,000, or more than $5,000,000 for a grant year.
+  - **(3)**
+    - **(A)** Beginning during the first fiscal year that begins after December 29, 2022 , the Secretary shall, out of funds made available pursuant to subparagraph (C), award grants to eligible States to enforce and ensure compliance with the mental health and substance use disorder parity provisions of section 300gg––26 of this title.
+    - **(B)** A State shall be eligible for a grant awarded under this paragraph only if such State—
+      - **(i)** submits to the Secretary an application for such grant at such time, in such manner, and containing such information as specified by the Secretary; and
+      - **(ii)** agrees to request and review from health insurance issuers offering group or individual health insurance coverage the comparative analyses and other information required of such health insurance issuers under subsection (a)(8)(A) of section 300gg–26 of this title relating to the design and application of nonquantitative treatment limitations imposed on mental health or substance use disorder benefits.
+    - **(C)** There are authorized to be appropriated $10,000,000 for each of the first five fiscal years beginning after December 29, 2022 , to remain available until expended, for purposes of awarding grants under subparagraph (A).
 - **(d)**
   - **(1)** A center established under subsection (c)(1)(C) shall—
     - **(A)** develop fee schedules and other database tools that fairly and accurately reflect market rates for medical services and the geographic differences in those rates;

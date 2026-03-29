@@ -3,9 +3,9 @@ title: "Section 711a - Emergency assistance to families through home visiting pr
 usc_title: 42
 usc_section: "711a"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 711a"
-generated_at: "2026-03-29T23:53:16.223Z"
+generated_at: "2026-03-29T23:57:26.705Z"
 ---
 
 # § 711a. Emergency assistance to families through home visiting programs
@@ -22,6 +22,6 @@ generated_at: "2026-03-29T23:53:16.223Z"
   - **(2)** to pay hazard pay or other additional staff costs associated with providing home visits or administration for programs funded under section 711 of this title ;
   - **(3)** to train home visitors employed by the entity in conducting a virtual home visit and in emergency preparedness and response planning for families served, and may include training on how to safely conduct intimate partner violence screenings, and training on safety and planning for families served to support the family outcome improvements listed in section 711(d)(2)(B) of this title ;
   - **(4)** for the acquisition by families served by programs under section 711 of this title of such technological means as are needed to conduct and support a virtual home visit;
-  - **(5)** to provide emergency supplies (such as diapers and diapering supplies including diaper wipes and diaper cream, necessary to ensure that a child using a diaper is properly cleaned and protected from diaper rash, formula, food, water, hand soap and hand sanitizer) to an eligible family (as defined in section 711(k)(2) of this title );
+  - **(5)** to provide emergency supplies (such as diapers and diapering supplies including diaper wipes and diaper cream, necessary to ensure that a child using a diaper is properly cleaned and protected from diaper rash, formula, food, water, hand soap and hand sanitizer) to an eligible family (as defined in section 711( l )(2) of this title);
   - **(6)** to coordinate with and provide reimbursement for supplies to diaper banks when using such entities to provide emergency supplies specified in paragraph (5); or
-  - **(7)** to provide prepaid grocery cards to an eligible family (as defined in section 711(k)(2) of this title ) participating in the maternal, infant, and early childhood home visiting program under section 711 of this title for the purpose of enabling the family to meet the emergency needs of the family.
+  - **(7)** to provide prepaid grocery cards to an eligible family (as defined in section 711( l )(2) of this title) participating in the maternal, infant, and early childhood home visiting program under section 711 of this title for the purpose of enabling the family to meet the emergency needs of the family.

@@ -3,9 +3,9 @@ title: "Section 143 - Saving provisions"
 usc_title: 29
 usc_section: "143"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "29 U.S.C. § 143"
-generated_at: "2026-03-29T23:51:49.762Z"
+generated_at: "2026-03-29T23:55:56.249Z"
 ---
 
 # § 143. Saving provisions

@@ -3,9 +3,9 @@ title: "Section 3383 - National Counterintelligence and Security Center"
 usc_title: 50
 usc_section: "3383"
 chapter: 45
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 3383"
-generated_at: "2026-03-29T23:53:23.655Z"
+generated_at: "2026-03-29T23:57:33.306Z"
 ---
 
 # § 3383. National Counterintelligence and Security Center
@@ -32,6 +32,9 @@ generated_at: "2026-03-29T23:53:23.655Z"
     - **(B)** To carry out and coordinate outreach programs and activities on counterintelligence to other elements of the United States Government, and the private sector, and to coordinate the dissemination to the public of warnings on intelligence threats to the United States.
     - **(C)** To ensure that research and development programs and activities of the United States Government, and the private sector, direct attention to the needs of the counterintelligence community for technologies, products, and services.
     - **(D)** To develop policies and standards for training and professional development of individuals engaged in counterintelligence activities and to manage the conduct of joint training exercises for such personnel.
+    - **(E)**
+      - **(i)** In carrying out efforts to secure covered devices, to consult with the private sector of the United States and reputable third-party researchers to identify vulnerabilities from foreign commercial spyware (as defined in section 3232a(a) of this title ) and maintain effective security measures for such devices.
+      - **(ii)** In this subparagraph, the term “covered device” means any electronic mobile device including smartphones, tablet computing devices, or laptop computing devices, that is issued by an element of the intelligence community for official use.
 - **(e)**
   - **(1)** A National Threat Identification and Prioritization Assessment under subsection (d)(1), and any modification of such assessment, shall not go into effect until approved by the President.
   - **(2)** A National Counterintelligence Strategy under subsection (d)(2), and any modification of such strategy, shall not go into effect until approved by the President.

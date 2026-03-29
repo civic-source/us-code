@@ -3,9 +3,9 @@ title: "Section 10631 - Adult and juvenile offender State and local reentry demo
 usc_title: 34
 usc_section: "10631"
 chapter: 101
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "34 U.S.C. § 10631"
-generated_at: "2026-03-29T23:52:36.802Z"
+generated_at: "2026-03-29T23:56:30.941Z"
 ---
 
 # § 10631. Adult and juvenile offender State and local reentry demonstration projects

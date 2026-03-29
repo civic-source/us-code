@@ -3,9 +3,9 @@ title: "Section 191 - Homeland Security Science and Technology Advisory Committe
 usc_title: 6
 usc_section: "191"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "6 U.S.C. § 191"
-generated_at: "2026-03-29T23:50:11.180Z"
+generated_at: "2026-03-29T23:54:07.925Z"
 ---
 
 # § 191. Homeland Security Science and Technology Advisory Committee
@@ -29,5 +29,5 @@ generated_at: "2026-03-29T23:50:11.180Z"
 - **(h)**
   - **(1)** The Advisory Committee shall render an annual report to the Under Secretary for Science and Technology for transmittal to Congress on or before January 31 of each year. Such report shall describe the activities and recommendations of the Advisory Committee during the previous year.
   - **(2)** The Advisory Committee may render to the Under Secretary for transmittal to Congress such additional reports on specific policy matters as it considers appropriate.
-- **(i)** Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Committee.
+- **(i)** Section 1013 of title 5 shall not apply to the Advisory Committee.
 - **(j)** The Department of Homeland Security Science and Technology Advisory Committee shall terminate on December 31, 2008 .

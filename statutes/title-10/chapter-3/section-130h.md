@@ -3,9 +3,9 @@ title: "Section 130h - Prohibitions relating to missile defense information and 
 usc_title: 10
 usc_section: "130h"
 chapter: 3
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 130h"
-generated_at: "2026-03-29T23:50:22.205Z"
+generated_at: "2026-03-29T23:54:19.922Z"
 ---
 
 # § 130h. Prohibitions relating to missile defense information and systems
@@ -16,4 +16,3 @@ generated_at: "2026-03-29T23:50:22.205Z"
   - **(2)** classified or otherwise controlled missile defense information.
 - **(c)** The prohibitions in subsections (a) and (b) shall not apply to the United States providing to the Russian Federation information regarding ballistic missile early warning.
 - **(d)** None of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be obligated or expended to integrate a missile defense system of the Russian Federation or a missile defense system of the People’s Republic of China into any missile defense system of the United States.
-- **(e)** The prohibitions in subsections (a), (b), and (d) shall expire on January 1, 2026 .

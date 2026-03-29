@@ -3,9 +3,9 @@ title: "Section 3603 - Integrated Coastal and Ocean Observing System"
 usc_title: 33
 usc_section: "3603"
 chapter: 49
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 3603"
-generated_at: "2026-03-29T23:52:21.987Z"
+generated_at: "2026-03-29T23:56:30.104Z"
 ---
 
 # § 3603. Integrated Coastal and Ocean Observing System
@@ -124,6 +124,6 @@ generated_at: "2026-03-29T23:52:21.987Z"
     - **(B)** The Administrator shall provide administrative support to the System advisory committee.
     - **(C)** The System advisory committee shall meet at least once each year, and at other times at the call of the Administrator, the Interagency Ocean Observation Committee, or the chairperson.
     - **(D)** Members of the System advisory committee shall not be compensated for service on that Committee, but may be allowed travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5.
-    - **(E)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the System advisory committee.
+    - **(E)** Section 1013 of title 5 shall not apply to the System advisory committee.
 - **(e)** For purposes of determining liability arising from the dissemination and use of observation data gathered pursuant to this section, any non-Federal asset or regional coastal observing system incorporated into the System by a memorandum of agreement of certification under subsection (c)(3)(C)(iii) that is participating in the System shall be considered to be part of the National Oceanic and Atmospheric Administration. Any employee of such a non-Federal asset or regional coastal observing system, while operating within the scope of his or her employment in carrying out the purposes of this chapter, with respect to tort liability, is deemed to be an employee of the Federal Government.
 - **(f)** Nothing in this chapter shall be construed to invalidate existing certifications, contracts, or agreements between regional coastal observing systems and other elements of the System.

@@ -3,9 +3,9 @@ title: "Section 10227 - Title to personal property"
 usc_title: 34
 usc_section: "10227"
 chapter: 101
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "34 U.S.C. § 10227"
-generated_at: "2026-03-29T23:52:36.793Z"
+generated_at: "2026-03-29T23:56:30.931Z"
 ---
 
 # § 10227. Title to personal property

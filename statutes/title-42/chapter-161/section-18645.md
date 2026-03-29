@@ -3,9 +3,9 @@ title: "Section 18645 - Fusion energy"
 usc_title: 42
 usc_section: "18645"
 chapter: 161
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 18645"
-generated_at: "2026-03-29T23:53:16.746Z"
+generated_at: "2026-03-29T23:57:27.288Z"
 ---
 
 # § 18645. Fusion energy

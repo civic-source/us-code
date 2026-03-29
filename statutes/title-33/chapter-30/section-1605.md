@@ -3,9 +3,9 @@ title: "Section 1605 - Navy and Coast Guard vessels of special construction or p
 usc_title: 33
 usc_section: "1605"
 chapter: 30
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 1605"
-generated_at: "2026-03-29T23:52:21.960Z"
+generated_at: "2026-03-29T23:56:30.074Z"
 ---
 
 # § 1605. Navy and Coast Guard vessels of special construction or purpose

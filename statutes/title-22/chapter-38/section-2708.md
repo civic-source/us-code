@@ -3,9 +3,9 @@ title: "Section 2708 - Department of State rewards program"
 usc_title: 22
 usc_section: "2708"
 chapter: 38
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 2708"
-generated_at: "2026-03-29T23:51:29.489Z"
+generated_at: "2026-03-29T23:55:52.441Z"
 ---
 
 # § 2708. Department of State rewards program
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T23:51:29.489Z"
       - **(i)** any officer, employee, or contract employee of the United States Government while such individual is engaged in official duties, or on account of that individual’s official duties, in connection with the enforcement of United States narcotics laws or the implementing of United States narcotics control objectives; or
       - **(ii)** a member of the immediate family of any such individual on account of that individual’s official duties, in connection with the enforcement of United States narcotics laws or the implementing of United States narcotics control objectives; or
     - **(C)** an attempt or conspiracy to commit any act described in subparagraph (A) or (B);
-  - **(4)** the arrest or conviction in any country of any individual aiding or abetting in the commission of an act described in paragraph (1), (2), (3), (8), (9), or (10);
+  - **(4)** the arrest or conviction in any country of any individual aiding or abetting in the commission of an act described in paragraph (1), (2), (3), (8), (9), (10), or (14);
   - **(5)** the prevention, frustration, or favorable resolution of an act described in paragraph (1), (2), (3), (8), (9), (10), or (13), including by dismantling an organization in whole or significant part;
   - **(6)** the identification or location of an individual who holds a key leadership position in a terrorist organization or transnational organized crime group;
   - **(7)** the disruption of financial mechanisms of a foreign terrorist organization or transnational organized crime group, including the use by such organization or group of illicit narcotics production or international narcotics trafficking—
@@ -31,10 +31,13 @@ generated_at: "2026-03-29T23:51:29.489Z"
     - **(B)** to sustain or support any terrorist organization or transnational organized crime group;
   - **(8)** the arrest or conviction in any country of any individual for participating in, primarily outside the United States, transnational organized crime;
   - **(9)** the arrest or conviction in any country of any individual conspiring to participate in or attempting to participate in transnational organized crime;
-  - **(10)** the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity, or genocide (including war crimes, crimes against humanity, or genocide committed in Syria beginning in March 2011), as defined under the statute of such tribunal;
+  - **(10)** the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity, or genocide (including war crimes, crimes against humanity, or genocide committed in Syria beginning in March 2011), as defined under—
+    - **(A)** the statute of such country or tribunal, as the case may be; or
+    - **(B)** United States law;
   - **(11)** the identification or location of any person who, while acting at the direction of or under the control of a foreign government, aids or abets a violation of section 1030 of title 18 ;
-  - **(12)** the disruption of financial mechanisms of any person who has engaged in the conduct described in section 2914(a) or 2914(b)(1) of this title; or
-  - **(13)** the identification or location of a foreign person that knowingly engaged or is engaging in foreign election interference.
+  - **(12)** the disruption of financial mechanisms of any person who has engaged in the conduct described in section 2914(a) or 2914(b)(1) of this title;
+  - **(13)** the identification or location of a foreign person that knowingly engaged or is engaging in foreign election interference; or
+  - **(14)** the prevention, frustration, or resolution of the hostage taking of a United States person, the identification, location, arrest, or conviction of a person responsible for the hostage taking of a United States person, or the location of a United States person who has been taken hostage, in any country.
 - **(c)**
   - **(1)** To ensure that the payment of rewards pursuant to this section does not duplicate or interfere with the payment of informants or the obtaining of evidence or information, as authorized to the Department of Justice, the offering, administration, and payment of rewards under this section, including procedures for—
     - **(A)** identifying individuals, organizations, and offenses with respect to which rewards will be offered;
@@ -52,7 +55,7 @@ generated_at: "2026-03-29T23:51:29.489Z"
   - **(3)** Any reward granted under this section shall be approved and certified for payment by the Secretary.
   - **(4)** The authority to approve rewards of more than $100,000 set forth in paragraph (2) may not be delegated.
   - **(5)** If the Secretary determines that the identity of the recipient of a reward or of the members of the recipient’s immediate family must be protected, the Secretary may take such measures in connection with the payment of the reward as he considers necessary to effect such protection.
-  - **(6)** The Secretary may make a reward under this section in the form of money, a nonmonetary item (including such items as automotive vehicles), or a combination thereof.
+  - **(6)** The Secretary may make a reward under this section in the form of money, a nonmonetary item (including such items as automotive vehicles), or a combination thereof. Not later than 15 days before making a reward in a form that includes cryptocurrency, the Secretary of State shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such form for the reward.
 - **(f)** An officer or employee of any entity of Federal, State, or local government or of a foreign government who, while in the performance of his or her official duties, furnishes information described in subsection (b) shall not be eligible for a reward under this section.
 - **(g)**
   - **(1)** Not later than 30 days after the payment of any reward under this section, the Secretary shall submit a report to the appropriate congressional committees with respect to such reward. The report, which may be submitted in classified form if necessary, shall specify the amount of the reward paid, to whom the reward was paid, and the acts with respect to which the reward was paid. The report shall also discuss the significance of the information for which the reward was paid in dealing with those acts.

@@ -3,9 +3,9 @@ title: "Section 6156 - Appointment and compensation of employees by Secretary of
 usc_title: 2
 usc_section: "6156"
 chapter: 61
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "2 U.S.C. § 6156"
-generated_at: "2026-03-29T23:50:07.838Z"
+generated_at: "2026-03-29T23:54:02.956Z"
 ---
 
 # § 6156. Appointment and compensation of employees by Secretary of Conference of Majority of Senate and Secretary of Conference of Minority of Senate

@@ -3,9 +3,9 @@ title: "Section 994 - Duties of the Commission"
 usc_title: 28
 usc_section: "994"
 chapter: 58
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "28 U.S.C. § 994"
-generated_at: "2026-03-29T23:51:48.886Z"
+generated_at: "2026-03-29T23:56:03.401Z"
 ---
 
 # § 994. Duties of the Commission

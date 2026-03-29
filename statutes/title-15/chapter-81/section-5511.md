@@ -3,9 +3,9 @@ title: "Section 5511 - Networking and Information Technology Research and Develo
 usc_title: 15
 usc_section: "5511"
 chapter: 81
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 5511"
-generated_at: "2026-03-29T23:50:50.641Z"
+generated_at: "2026-03-29T23:54:56.168Z"
 ---
 
 # § 5511. Networking and Information Technology Research and Development Program
@@ -65,7 +65,7 @@ generated_at: "2026-03-29T23:50:50.641Z"
     - **(D)** whether the research and development undertaken pursuant to the Program is helping to maintain United States leadership in networking and information technology; and
     - **(E)** other issues identified by the Director.
   - **(2)** In addition to the duties outlined in paragraph (1), the advisory committee shall conduct periodic evaluations of the funding, management, coordination, implementation, and activities of the Program. The advisory committee shall report not less frequently than once every 3 fiscal years to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on its findings and recommendations.
-  - **(3)** Section 14 of the Federal Advisory Committee Act shall not apply to the advisory committee established under this subsection.
+  - **(3)** Section 1013 of title 5 shall not apply to the advisory committee established under this subsection.
 - **(c)**
   - **(1)** Each Federal agency and department participating in the Program shall, as part of its annual request for appropriations to the Office of Management and Budget, submit a report to the Office of Management and Budget which—
     - **(A)** identifies each element of its networking and information technology activities which contributes directly to the Program Component Areas or benefits from the Program; and

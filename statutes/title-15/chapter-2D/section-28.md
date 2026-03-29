@@ -3,9 +3,9 @@ title: "Section 28 - Face-amount certificate companies"
 usc_title: 15
 usc_section: "28"
 chapter: 2
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 28"
-generated_at: "2026-03-29T23:50:50.513Z"
+generated_at: "2026-03-29T23:54:56.017Z"
 ---
 
 # § 80a–28. Face-amount certificate companies

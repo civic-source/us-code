@@ -3,9 +3,9 @@ title: "Section 38 - General business credit"
 usc_title: 26
 usc_section: "38"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 38"
-generated_at: "2026-03-29T23:52:10.040Z"
+generated_at: "2026-03-29T23:56:24.684Z"
 ---
 
 # § 38. General business credit
@@ -52,6 +52,7 @@ generated_at: "2026-03-29T23:52:10.040Z"
   - **(36)** the clean hydrogen production credit determined under section 45V(a),
   - **(37)** the qualified commercial clean vehicle credit determined under section 45W, plus
   - **(38)** the advanced manufacturing production credit determined under section 45X(a).
+  - **(41)** 1 in the case of an eligible small employer (as defined in section 45AA(c)), the military spouse retirement plan eligibility credit determined under section 45AA(a).
 - **(c)**
   - **(1)** The credit allowed under subsection (a) for any taxable year shall not exceed the excess (if any) of the taxpayer’s net income tax over the greater of—
     - **(A)** the tentative minimum tax for the taxable year, or

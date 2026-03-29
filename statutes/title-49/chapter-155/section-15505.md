@@ -3,9 +3,9 @@ title: "Section 15505 - Prohibition against discrimination by pipeline carriers"
 usc_title: 49
 usc_section: "15505"
 chapter: 155
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 15505"
-generated_at: "2026-03-29T23:53:40.211Z"
+generated_at: "2026-03-29T23:57:35.675Z"
 ---
 
 # § 15505. Prohibition against discrimination by pipeline carriers

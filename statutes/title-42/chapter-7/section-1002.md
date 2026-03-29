@@ -3,9 +3,9 @@ title: "Section 1002 - Qualified individuals"
 usc_title: 42
 usc_section: "1002"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 1002"
-generated_at: "2026-03-29T23:53:16.226Z"
+generated_at: "2026-03-29T23:57:26.708Z"
 ---
 
 # § 1002. Qualified individuals

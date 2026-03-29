@@ -3,9 +3,9 @@ title: "Section 3282 - Offenses not capital"
 usc_title: 18
 usc_section: "3282"
 chapter: 213
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "18 U.S.C. § 3282"
-generated_at: "2026-03-29T23:51:08.407Z"
+generated_at: "2026-03-29T23:55:17.280Z"
 ---
 
 # § 3282. Offenses not capital

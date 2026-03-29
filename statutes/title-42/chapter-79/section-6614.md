@@ -3,9 +3,9 @@ title: "Section 6614 - Policy planning; analysis; advice; establishment of advis
 usc_title: 42
 usc_section: "6614"
 chapter: 79
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 6614"
-generated_at: "2026-03-29T23:53:16.519Z"
+generated_at: "2026-03-29T23:57:27.045Z"
 ---
 
 # § 6614. Policy planning; analysis; advice; establishment of advisory panel
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T23:53:16.519Z"
   - **(13)** perform such other duties and functions and make and furnish such studies and reports thereon, and recommendations with respect to matters of policy and legislation as the President may request.
 - **(b)**
   - **(1)** The Director shall establish an Intergovernmental Science, Engineering, and Technology Advisory Panel (hereinafter referred to as the “Panel”), whose purpose shall be to (A) identify and define civilian problems at State, regional, and local levels which science, engineering, and technology may assist in resolving or ameliorating; (B) recommend priorities for addressing such problems; and (C) advise and assist the Director in identifying and fostering policies to facilitate the transfer and utilization of research and development results so as to maximize their application to civilian needs.
-  - **(2)** The Panel shall be composed of (A) the Director of the Office, or his representative; (B) at least ten members representing the interests of the States, appointed by the Director of the Office after consultation with State officials; and (C) the Director of the National Science Foundation, or his representative.
+  - **(2)** The Panel shall be composed of (A) the Director of the Office, or his representative; (B) at least ten members representing the interests of the States, appointed by the Director of the Office after consultation with State officials; (C) the Director of the National Science Foundation, or his representative; and (D) the Director of the Office of Pandemic Preparedness and Response Policy.
   - **(3)**
     - **(A)** The Director of the Office, or his representative, shall serve as Chairman of the Panel.
     - **(B)** The Panel shall perform such functions as the Chairman may prescribe, and shall meet at the call of the Chairman.

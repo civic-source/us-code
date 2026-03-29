@@ -3,9 +3,9 @@ title: "Section 5939 - Foundation for Food and Agriculture Research"
 usc_title: 7
 usc_section: "5939"
 chapter: 88
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "7 U.S.C. § 5939"
-generated_at: "2026-03-29T23:50:42.193Z"
+generated_at: "2026-03-29T23:54:15.646Z"
 ---
 
 # § 5939. Foundation for Food and Agriculture Research
@@ -134,7 +134,7 @@ generated_at: "2026-03-29T23:50:42.193Z"
     - **(A)** To ensure integrity in the operations of the Foundation, the Board shall develop and enforce procedures relating to standards of conduct, financial disclosure statements, conflicts of interest (including recusal and waiver rules), audits, and any other matters determined appropriate by the Board.
     - **(B)** Any individual who is an officer, employee, or member of the Board is prohibited from any participation in deliberations by the Foundation of a matter that would directly or predictably affect any financial interest of—
       - **(i)** the individual;
-      - **(ii)** a relative (as defined in section 109 of the Ethics in Government Act of 1978 (5 U.S.C. App.)) of that individual; or
+      - **(ii)** a relative (as defined in section 13101 of title 5 ) of that individual; or
       - **(iii)** a business organization or other entity in which the individual has an interest, including an organization or other entity with which the individual is negotiating employment.
   - **(5)** The Board shall adopt written standards to govern the ownership and licensing of any intellectual property rights derived from the collaborative efforts of the Foundation.
   - **(6)** The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation nor shall the full faith and credit of the United States extend to any obligations of the Foundation.

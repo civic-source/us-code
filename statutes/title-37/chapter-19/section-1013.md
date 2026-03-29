@@ -3,9 +3,9 @@ title: "Section 1013 - Payment of compensation for victims of terrorism"
 usc_title: 37
 usc_section: "1013"
 chapter: 19
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "37 U.S.C. § 1013"
-generated_at: "2026-03-29T23:52:49.854Z"
+generated_at: "2026-03-29T23:56:42.337Z"
 ---
 
 # § 1013. Payment of compensation for victims of terrorism

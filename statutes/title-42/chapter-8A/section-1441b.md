@@ -3,9 +3,9 @@ title: "Section 1441b - Plan for elimination of all substandard housing and real
 usc_title: 42
 usc_section: "1441b"
 chapter: 8
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 1441b"
-generated_at: "2026-03-29T23:53:16.377Z"
+generated_at: "2026-03-29T23:57:26.879Z"
 ---
 
 # § 1441b. Plan for elimination of all substandard housing and realization of national housing goal; report by President to Congress

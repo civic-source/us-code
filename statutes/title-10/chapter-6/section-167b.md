@@ -3,9 +3,9 @@ title: "Section 167b - Unified combatant command for cyber operations"
 usc_title: 10
 usc_section: "167b"
 chapter: 6
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 167b"
-generated_at: "2026-03-29T23:50:22.209Z"
+generated_at: "2026-03-29T23:54:19.926Z"
 ---
 
 # § 167b. Unified combatant command for cyber operations
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T23:50:22.209Z"
 - **(d)**
   - **(1)** In addition to the authority prescribed in section 164(c) of this title , the commander of the cyber command shall be responsible for, and shall have the authority to conduct, all affairs of such command relating to cyber operations activities.
   - **(2)**
-    - **(A)** Subject to the authority, direction, and control of the Principal Cyber Advisor, the commander of such command shall be responsible for, and shall have the authority to conduct, the following functions relating to cyber operations activities (whether or not relating to the cyber command):
+    - **(A)** Subject to the authority, direction, and control of the Principal Cyber Advisor to the Secretary of Defense under section 392a(a) of this title , the commander of such command shall be responsible for, and shall have the authority to conduct, the following functions relating to cyber operations activities (whether or not relating to the cyber command):
       - **(i)** Developing strategy, doctrine, and tactics.
       - **(ii)** Preparing and submitting to the Secretary of Defense program recommendations and budget proposals for cyber operations forces and for other forces assigned to the cyber command.
       - **(iii)** Exercising authority, direction, and control over the expenditure of funds—

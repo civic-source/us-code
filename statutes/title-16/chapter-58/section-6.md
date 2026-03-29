@@ -3,9 +3,9 @@ title: "Section 6 - Terminal lakes assistance"
 usc_title: 16
 usc_section: "6"
 chapter: 58
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-29T23:51:16.264Z"
+generated_at: "2026-03-29T23:55:31.242Z"
 ---
 
 # § 3839bb–6. Terminal lakes assistance
@@ -69,4 +69,4 @@ generated_at: "2026-03-29T23:51:16.264Z"
   - **(2)**
     - **(A)** Nothing in this section authorizes any additional funds to carry out this section.
     - **(B)** Any funds made available to carry out this section before December 20, 2018 , may remain available until expended.
-- **(f)** The authority provided by this section shall terminate on October 1, 2023 .
+- **(f)** The authority provided by this section shall terminate on October 1, 2025 .

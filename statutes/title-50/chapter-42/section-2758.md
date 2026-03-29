@@ -3,9 +3,9 @@ title: "Section 2758 - Improvements to cost estimates informing analyses of alte
 usc_title: 50
 usc_section: "2758"
 chapter: 42
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 2758"
-generated_at: "2026-03-29T23:53:23.633Z"
+generated_at: "2026-03-29T23:57:33.279Z"
 ---
 
 # § 2758. Improvements to cost estimates informing analyses of alternatives

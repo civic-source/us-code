@@ -3,14 +3,14 @@ title: "Section 1595 - Civil remedy"
 usc_title: 18
 usc_section: "1595"
 chapter: 77
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "18 U.S.C. § 1595"
-generated_at: "2026-03-29T23:51:08.385Z"
+generated_at: "2026-03-29T23:55:17.255Z"
 ---
 
 # § 1595. Civil remedy
 
-- **(a)** An individual who is a victim of a violation of this chapter may bring a civil action against the perpetrator (or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter) in an appropriate district court of the United States and may recover damages and reasonable attorneys fees.
+- **(a)** An individual who is a victim of a violation of this chapter may bring a civil action against the perpetrator (or whoever knowingly benefits, or attempts or conspires to benefit, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter) in an appropriate district court of the United States and may recover damages and reasonable attorneys fees.
 - **(b)**
   - **(1)** Any civil action filed under subsection (a) shall be stayed during the pendency of any criminal action arising out of the same occurrence in which the claimant is the victim.
   - **(2)** In this subsection, a “criminal action” includes investigation and prosecution and is pending until final adjudication in the trial court.

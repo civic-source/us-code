@@ -3,9 +3,9 @@ title: "Section 1484 - Application for loan; approval by Secretary; issuance of 
 usc_title: 25
 usc_section: "1484"
 chapter: 17
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "25 U.S.C. § 1484"
-generated_at: "2026-03-29T23:51:20.028Z"
+generated_at: "2026-03-29T23:55:39.350Z"
 ---
 
 # § 1484. Application for loan; approval by Secretary; issuance of certificate; limitations on amount of loans to individual Indians or economic enterprises; review by Secretary

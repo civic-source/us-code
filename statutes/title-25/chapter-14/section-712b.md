@@ -3,9 +3,9 @@ title: "Section 712b - Omitted"
 usc_title: 25
 usc_section: "712b"
 chapter: 14
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "25 U.S.C. § 712b"
-generated_at: "2026-03-29T23:51:20.023Z"
+generated_at: "2026-03-29T23:55:39.346Z"
 ---
 
 # § 712b. Omitted

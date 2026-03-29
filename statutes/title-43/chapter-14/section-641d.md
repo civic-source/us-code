@@ -3,9 +3,9 @@ title: "Section 641d - Effective date of quitclaim; administration of lands reli
 usc_title: 43
 usc_section: "641d"
 chapter: 14
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "43 U.S.C. § 641d"
-generated_at: "2026-03-29T23:52:56.354Z"
+generated_at: "2026-03-29T23:56:54.133Z"
 ---
 
 # § 641d. Effective date of quitclaim; administration of lands relinquished by States

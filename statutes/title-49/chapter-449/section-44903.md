@@ -3,9 +3,9 @@ title: "Section 44903 - Air transportation security"
 usc_title: 49
 usc_section: "44903"
 chapter: 449
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 44903"
-generated_at: "2026-03-29T23:53:40.260Z"
+generated_at: "2026-03-29T23:57:35.727Z"
 ---
 
 # § 44903. Air transportation security
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T23:53:40.260Z"
   - **(1)** to carry firearms; and
   - **(2)** to make arrests without warrant for an offense against the United States committed in the presence of the individual or for a felony under the laws of the United States, if the individual reasonably believes the individual to be arrested has committed or is committing a felony.
 - **(e)** The Administrator has the exclusive responsibility to direct law enforcement activity related to the safety of passengers on an aircraft involved in an offense under section 46502 of this title from the moment all external doors of the aircraft are closed following boarding until those doors are opened to allow passengers to leave the aircraft. When requested by the Administrator, other departments, agencies, and instrumentalities of the Government shall provide assistance necessary to carry out this subsection.
-- **(f)** The Administrator may establish at airports such consortia of government and aviation industry representatives as the Administrator may designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
+- **(f)** The Administrator may establish at airports such consortia of government and aviation industry representatives as the Administrator may designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of chapter 10 of title 5.
 - **(g)**
   - **(1)**
     - **(A)** The Administrator shall publish in the Federal Register a list of sanctions for use as guidelines in the discipline of employees for infractions of airport access control requirements. The guidelines shall incorporate a progressive disciplinary approach that relates proposed sanctions to the severity or recurring nature of the infraction and shall include measures such as remedial training, suspension from security-related duties, suspension from all duties without pay, and termination of employment.

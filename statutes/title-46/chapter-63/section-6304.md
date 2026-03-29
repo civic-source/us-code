@@ -1,16 +1,16 @@
 ---
-title: "Section 6304 - Subpena authority"
+title: "Section 6304 - Subpoena authority"
 usc_title: 46
 usc_section: "6304"
 chapter: 63
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "46 U.S.C. § 6304"
-generated_at: "2026-03-29T23:53:20.134Z"
+generated_at: "2026-03-29T23:57:43.073Z"
 ---
 
-# § 6304. Subpena authority
+# § 6304. Subpoena authority
 
-- **(a)** In an investigation under this chapter, the attendance and testimony of witnesses, including parties in interest, and the production of any evidence may be compelled by subpena. The subpena authority granted by this section is coextensive with that of a district court of the United States, in civil matters, for the district in which the investigation is conducted.
-- **(b)** When a person fails to obey a subpena issued under this section, the district court of the United States for the district in which the investigation is conducted or in which the person failing to obey is found, shall on proper application issue an order directing that person to comply with the subpena. The court may punish as contempt any disobedience of its order.
-- **(c)** A witness complying with a subpena issued under this section may be paid for actual travel and attendance at the rate provided for witnesses in the district courts of the United States.
-- **(d)** An official designated to conduct an investigation under this part may issue subpenas as provided in this section and administer oaths to witnesses.
+- **(a)** In an investigation under this chapter, the attendance and testimony of witnesses, including parties in interest, and the production of any evidence may be compelled by subpoena. The subpoena authority granted by this section is coextensive with that of a district court of the United States, in civil matters, for the district in which the investigation is conducted.
+- **(b)** When a person fails to obey a subpoena issued under this section, the district court of the United States for the district in which the investigation is conducted or in which the person failing to obey is found, shall on proper application issue an order directing that person to comply with the subpoena. The court may punish as contempt any disobedience of its order.
+- **(c)** A witness complying with a subpoena issued under this section may be paid for actual travel and attendance at the rate provided for witnesses in the district courts of the United States.
+- **(d)** An official designated to conduct an investigation under this part may issue subpoenas as provided in this section and administer oaths to witnesses.

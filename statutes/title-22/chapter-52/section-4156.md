@@ -3,9 +3,9 @@ title: "Section 4156 - Preservation of status and benefits"
 usc_title: 22
 usc_section: "4156"
 chapter: 52
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 4156"
-generated_at: "2026-03-29T23:51:29.516Z"
+generated_at: "2026-03-29T23:55:52.472Z"
 ---
 
 # § 4156. Preservation of status and benefits

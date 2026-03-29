@@ -1,0 +1,20 @@
+---
+title: "Section 2291m - Program to provide assistance to build the capacity of foreign law enforcement agencies with respect to covered synthetic drugs"
+usc_title: 22
+usc_section: "2291m"
+chapter: 32
+current_through: "PL 118-3"
+classification: "22 U.S.C. § 2291m"
+generated_at: "2026-03-29T23:55:52.415Z"
+---
+
+# § 2291m. Program to provide assistance to build the capacity of foreign law enforcement agencies with respect to covered synthetic drugs
+
+- **(a)** Notwithstanding section 2420 of this title , the Secretary of State shall establish a program to provide assistance to strengthen the capacity of law enforcement agencies of the countries described in subsection (c) to help such agencies to identify, track, and improve their forensics detection capabilities with respect to covered synthetic drugs.
+- **(b)** The Secretary of State shall prioritize technical assistance, and the provision of equipment, as appropriate, under subsection (a) among those countries described in subsection (c) in which such assistance and equipment would have the most impact in reducing illicit use of covered synthetic drugs in the United States.
+- **(c)** The foreign countries described in this subsection are—
+  - **(1)** countries that are producers of covered synthetic drugs;
+  - **(2)** countries whose pharmaceutical and chemical industries are known to be exploited for development or procurement of precursors of covered synthetic drugs; or
+  - **(3)** major drug-transit countries for covered synthetic drugs as defined by the Secretary of State.
+- **(d)** No assistance may be provided to the People’s Republic of China or to any of its law enforcement agencies pursuant to the program authorized by this section.
+- **(e)** There is authorized to be appropriated to the Secretary of State to carry out this section $4,000,000 for each of fiscal years 2023 through 2027.

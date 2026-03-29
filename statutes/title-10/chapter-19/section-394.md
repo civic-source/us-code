@@ -3,9 +3,9 @@ title: "Section 394 - Authorities concerning military cyber operations"
 usc_title: 10
 usc_section: "394"
 chapter: 19
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 394"
-generated_at: "2026-03-29T23:50:22.217Z"
+generated_at: "2026-03-29T23:54:19.937Z"
 ---
 
 # § 394. Authorities concerning military cyber operations

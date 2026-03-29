@@ -3,9 +3,9 @@ title: "Section 1364 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 42
 usc_section: "1364"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 1364"
-generated_at: "2026-03-29T23:53:16.246Z"
+generated_at: "2026-03-29T23:57:26.732Z"
 ---
 
 # §§ 1361 to 1364. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 658 , 660, 661

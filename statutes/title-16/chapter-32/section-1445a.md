@@ -3,14 +3,14 @@ title: "Section 1445a - Advisory Councils"
 usc_title: 16
 usc_section: "1445a"
 chapter: 32
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 1445a"
-generated_at: "2026-03-29T23:51:16.223Z"
+generated_at: "2026-03-29T23:55:31.148Z"
 ---
 
 # § 1445a. Advisory Councils
 
-- **(a)** The Secretary may establish one or more advisory councils (in this section referred to as an “Advisory Council”) to advise and make recommendations to the Secretary regarding the designation and management of national marine sanctuaries. The Advisory Councils shall be exempt from the Federal Advisory Committee Act.
+- **(a)** The Secretary may establish one or more advisory councils (in this section referred to as an “Advisory Council”) to advise and make recommendations to the Secretary regarding the designation and management of national marine sanctuaries. The Advisory Councils shall be exempt from chapter 10 of title 5.
 - **(b)** Members of the Advisory Councils may be appointed from among—
   - **(1)** persons employed by Federal or State agencies with expertise in management of natural resources;
   - **(2)** members of relevant Regional Fishery Management Councils established under section 1852 of this title ; and

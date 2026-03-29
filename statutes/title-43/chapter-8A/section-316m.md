@@ -3,9 +3,9 @@ title: "Section 316m - Hearing and appeals"
 usc_title: 43
 usc_section: "316m"
 chapter: 8
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "43 U.S.C. § 316m"
-generated_at: "2026-03-29T23:52:56.338Z"
+generated_at: "2026-03-29T23:56:54.115Z"
 ---
 
 # § 316m. Hearing and appeals

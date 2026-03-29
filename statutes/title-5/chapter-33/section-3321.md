@@ -3,9 +3,9 @@ title: "Section 3321 - Competitive service; probationary period"
 usc_title: 5
 usc_section: "3321"
 chapter: 33
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "5 U.S.C. § 3321"
-generated_at: "2026-03-29T23:49:47.590Z"
+generated_at: "2026-03-29T23:54:05.651Z"
 ---
 
 # § 3321. Competitive service; probationary period
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T23:49:47.590Z"
 - **(b)** An individual—
   - **(1)** who has been transferred, assigned, or promoted from a position to a supervisory or managerial position, and
   - **(2)** who does not satisfactorily complete the probationary period under subsection (a)(2) of this section,
-- **(c)** Subsections (a) and (b) of this section shall not apply with respect to appointments in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or any individual covered by section 1599e of title 10 .
+- **(c)** Subsections (a) and (b) of this section shall not apply with respect to appointments in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.

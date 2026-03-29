@@ -3,9 +3,9 @@ title: "Section 861 - Income from sources within the United States"
 usc_title: 26
 usc_section: "861"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 861"
-generated_at: "2026-03-29T23:52:10.160Z"
+generated_at: "2026-03-29T23:56:24.814Z"
 ---
 
 # § 861. Income from sources within the United States

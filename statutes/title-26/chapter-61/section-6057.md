@@ -3,9 +3,9 @@ title: "Section 6057 - Annual registration, etc."
 usc_title: 26
 usc_section: "6057"
 chapter: 61
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 6057"
-generated_at: "2026-03-29T23:52:10.245Z"
+generated_at: "2026-03-29T23:56:24.909Z"
 ---
 
 # § 6057. Annual registration, etc.
@@ -34,4 +34,5 @@ generated_at: "2026-03-29T23:52:10.245Z"
 - **(f)**
   - **(1)** The Secretary, after consultation with the Commissioner of Social Security, may prescribe such regulations as may be necessary to carry out the provisions of this section.
   - **(2)** This section shall apply to any plan to which more than one employer is required to contribute only to the extent provided in regulations prescribed under this subsection.
-- **(g)** For provisions relating to penalties for failure to register or furnish statements required by this section, see section 6652(d) and section 6690. For coordination between Department of the Treasury and the Department of Labor with regard to administration of this section, see section 3004 of the Employee Retirement Income Security Act of 1974.
+- **(g)** In the case of annuity contracts to which this section applies and to which section 403(b) applies by reason of the plan under which such contracts are purchased meeting the requirements of paragraph (15) thereof, such plan shall be treated as a single plan for purposes of this section.
+- **(h)** For provisions relating to penalties for failure to register or furnish statements required by this section, see section 6652(d) and section 6690. For coordination between Department of the Treasury and the Department of Labor with regard to administration of this section, see section 3004 of the Employee Retirement Income Security Act of 1974.

@@ -3,9 +3,9 @@ title: "Section 3458 - Authority to acquire innovative commercial products and c
 usc_title: 10
 usc_section: "3458"
 chapter: 247
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 3458"
-generated_at: "2026-03-29T23:50:22.306Z"
+generated_at: "2026-03-29T23:54:20.044Z"
 ---
 
 # § 3458. Authority to acquire innovative commercial products and commercial services using general solicitation competitive procedures
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T23:50:22.306Z"
 - **(b)** Use of general solicitation competitive procedures under subsection (a) shall be considered to be use of competitive procedures for purposes of chapter 221 of this title.
 - **(c)**
   - **(1)** The Secretary may not enter into a contract or agreement in excess of $100,000,000 using the authority under subsection (a) without a written determination from the Under Secretary of Defense for Acquisition and Sustainment or the relevant service acquisition executive of the efficacy of the effort to meet mission needs of the Department of Defense or the relevant military department.
-  - **(2)** Contracts or agreements entered into using the authority under subsection (a) shall be fixed-price, including fixed-price incentive fee contracts.
+  - **(2)** Contracts or agreements entered into using the authority under subsection (a) shall be fixed-price, including fixed-price incentive contracts.
   - **(3)** Notwithstanding section 3451(1) of this title , products and services acquired using the authority under subsection (a) shall be treated as commercial products and commercial services.
 - **(d)**
   - **(1)** Not later than 45 days after the award of a contract for an amount exceeding $100,000,000 using the authority in subsection (a), the Secretary shall notify the congressional defense committees of such award.

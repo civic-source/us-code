@@ -1,14 +1,14 @@
 ---
-title: "Section 667h - Chronic wasting disease task force"
+title: "Section 667h - Chronic Wasting Disease Task Force"
 usc_title: 16
 usc_section: "667h"
 chapter: 5
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 667h"
-generated_at: "2026-03-29T23:51:16.168Z"
+generated_at: "2026-03-29T23:55:31.059Z"
 ---
 
-# § 667h. Chronic wasting disease task force
+# § 667h. Chronic Wasting Disease Task Force
 
 - **(a)** In this section:
   - **(1)** The term “cervid” means any species within the family Cervidae.

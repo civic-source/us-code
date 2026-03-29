@@ -3,9 +3,9 @@ title: "Section 670a - Cooperative plan for conservation and rehabilitation"
 usc_title: 16
 usc_section: "670a"
 chapter: 5
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 670a"
-generated_at: "2026-03-29T23:51:16.171Z"
+generated_at: "2026-03-29T23:55:31.063Z"
 ---
 
 # § 670a. Cooperative plan for conservation and rehabilitation
@@ -20,8 +20,9 @@ generated_at: "2026-03-29T23:51:16.171Z"
   - **(3)**
     - **(A)** Consistent with the use of military installations and State-owned National Guard installations to ensure the preparedness of the Armed Forces, the Secretaries of the military departments shall carry out the program required by this subsection to provide for—
       - **(i)** the conservation and rehabilitation of natural resources on such installations;
-      - **(ii)** the sustainable multipurpose use of the resources on such installations, which shall include hunting, fishing, trapping, and nonconsumptive uses; and
-      - **(iii)** subject to safety requirements and military security, public access to military installations to facilitate the use.
+      - **(ii)** the use of natural and nature-based features to maintain or improve military installation resilience;
+      - **(iii)** the sustainable multipurpose use of the resources on such installations, which shall include hunting, fishing, trapping, and nonconsumptive uses; and
+      - **(iv)** subject to safety requirements and military security, public access to military installations to facilitate the use.
     - **(B)** In the case of a State-owned National Guard installation, such program shall be carried out in coordination with the chief executive officer of the State in which the installation is located.
   - **(4)** Nothing in this subchapter—
     - **(A)**
@@ -61,7 +62,7 @@ generated_at: "2026-03-29T23:51:16.171Z"
     - **(A)** the Committee on Resources and the Committee on Armed Services of the House of Representatives; and
     - **(B)** the Committee on Armed Services and the Committee on Environment and Public Works of the Senate.
 - **(g)**
-  - **(1)** During fiscal years 2009 through 2014, the Secretary of Defense shall, to the extent practicable and conducive to military readiness, incorporate in integrated natural resources management plans for military installations in Guam the management, control, and eradication of invasive species—
+  - **(1)** The Secretary of Defense shall, to the extent practicable and conducive to military readiness, incorporate in integrated natural resources management plans for military installations the management, control, and eradication of invasive species—
     - **(A)** that are not native to the ecosystem of the military installation; and
     - **(B)** the introduction of which cause or may cause harm to military readiness, the environment, or human health and safety.
   - **(2)** The Secretary of Defense shall carry out this subsection in consultation with the Secretary of the Interior.

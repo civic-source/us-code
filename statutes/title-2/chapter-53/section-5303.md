@@ -3,9 +3,9 @@ title: "Section 5303 - End-of-the-month salary payment schedule inapplicable to 
 usc_title: 2
 usc_section: "5303"
 chapter: 53
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "2 U.S.C. § 5303"
-generated_at: "2026-03-29T23:50:07.836Z"
+generated_at: "2026-03-29T23:54:02.950Z"
 ---
 
 # § 5303. End-of-the-month salary payment schedule inapplicable to Senators

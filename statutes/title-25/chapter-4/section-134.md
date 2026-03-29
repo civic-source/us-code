@@ -3,9 +3,9 @@ title: "Section 134 - Appropriations for supplies available immediately; time fo
 usc_title: 25
 usc_section: "134"
 chapter: 4
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "25 U.S.C. § 134"
-generated_at: "2026-03-29T23:51:20.011Z"
+generated_at: "2026-03-29T23:55:39.334Z"
 ---
 
 # § 134. Appropriations for supplies available immediately; time for distribution

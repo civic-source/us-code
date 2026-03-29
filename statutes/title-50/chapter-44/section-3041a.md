@@ -3,9 +3,9 @@ title: "Section 3041a - Director of the National Reconnaissance Office"
 usc_title: 50
 usc_section: "3041a"
 chapter: 44
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 3041a"
-generated_at: "2026-03-29T23:53:23.639Z"
+generated_at: "2026-03-29T23:57:33.285Z"
 ---
 
 # § 3041a. Director of the National Reconnaissance Office
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T23:53:23.639Z"
     - **(B)** advise and report directly to the Director with respect to such matters.
   - **(3)**
     - **(A)**
-      - **(i)** The Board shall be composed of five members appointed by the Director from among individuals with demonstrated academic, government, business, or other expertise relevant to the mission and functions of the National Reconnaissance Office.
+      - **(i)** The Board shall be composed of five members appointed by the Director, in consultation with the Director of National Intelligence and the Secretary of Defense, from among individuals with demonstrated academic, government, business, or other expertise relevant to the mission and functions of the National Reconnaissance Office.
       - **(ii)** Not later than 30 days after the date on which the Director appoints a member to the Board, the Director shall notify the congressional intelligence committees and the congressional defense committees (as defined in section 101(a) of title 10 ) of such appointment.
     - **(B)** Each member shall be appointed for a term of 2 years. Except as provided by subparagraph (C), a member may not serve more than three terms.
     - **(C)** Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office.
@@ -30,4 +30,4 @@ generated_at: "2026-03-29T23:53:23.639Z"
   - **(4)** The Board shall meet not less than quarterly, but may meet more frequently at the call of the Director.
   - **(5)** Not later than March 31 of each year, the Board shall submit to the Director and to the congressional intelligence committees a report on the activities and significant findings of the Board during the preceding year.
   - **(6)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board.
-  - **(7)** The Board shall terminate on the date that is 3 years after the date of the first meeting of the Board.
+  - **(7)** The Board shall terminate on September 30, 2024 .

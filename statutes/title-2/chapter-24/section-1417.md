@@ -3,9 +3,9 @@ title: "Section 1417 - Option to request remote work assignment or paid leave of
 usc_title: 2
 usc_section: "1417"
 chapter: 24
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "2 U.S.C. § 1417"
-generated_at: "2026-03-29T23:50:07.819Z"
+generated_at: "2026-03-29T23:54:02.930Z"
 ---
 
 # § 1417. Option to request remote work assignment or paid leave of absence during pendency of procedures

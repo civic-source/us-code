@@ -3,9 +3,9 @@ title: "Section 5309 - Disbursement of compensation of House Members by Chief Ad
 usc_title: 2
 usc_section: "5309"
 chapter: 53
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "2 U.S.C. § 5309"
-generated_at: "2026-03-29T23:50:07.836Z"
+generated_at: "2026-03-29T23:54:02.951Z"
 ---
 
 # § 5309. Disbursement of compensation of House Members by Chief Administrative Officer

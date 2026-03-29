@@ -3,9 +3,9 @@ title: "Section 1790d - Prompt corrective action"
 usc_title: 12
 usc_section: "1790d"
 chapter: 14
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "12 U.S.C. § 1790d"
-generated_at: "2026-03-29T23:51:02.340Z"
+generated_at: "2026-03-29T23:54:34.940Z"
 ---
 
 # § 1790d. Prompt corrective action
@@ -134,7 +134,7 @@ generated_at: "2026-03-29T23:51:02.340Z"
       - **(i)** submit each report required under subparagraph (A) expeditiously, and not later than 90 days after the end of the 6-month period covered by the report; and
       - **(ii)** provide a copy of the report required under subparagraph (A) to any Member of Congress, upon request.
   - **(5)** The Comptroller General of the United States shall, under such conditions as the Comptroller General determines to be appropriate—
-    - **(A)** review each report made under paragraph (1), including the extent to which the Inspector General of the Board complied with the requirements under section 8L of the Inspector General Act of 1978 (5 U.S.C. App.) with respect to each such report; and
+    - **(A)** review each report made under paragraph (1), including the extent to which the Inspector General of the Board complied with the requirements under section 419 of title 5 with respect to each such report; and
     - **(B)** recommend improvements to the supervision of insured credit unions (including improvements relating to the implementation of this section).
 - **(k)** Material supervisory determinations, including decisions to require prompt corrective action, made pursuant to this section by Administration officials other than the Board may be appealed to the Board pursuant to the independent appellate process required by section 4806 of this title (or, if the Board so specifies, pursuant to separate procedures prescribed by regulation).
 - **(l)**

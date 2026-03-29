@@ -3,9 +3,9 @@ title: "Section 6340 - Inapplicability of certain provisions"
 usc_title: 5
 usc_section: "6340"
 chapter: 63
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "5 U.S.C. § 6340"
-generated_at: "2026-03-29T23:49:47.609Z"
+generated_at: "2026-03-29T23:54:05.674Z"
 ---
 
 # § 6340. Inapplicability of certain provisions

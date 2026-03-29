@@ -3,9 +3,9 @@ title: "Section 7451 - Nurses and other health-care personnel: competitive pay"
 usc_title: 38
 usc_section: "7451"
 chapter: 74
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "38 U.S.C. § 7451"
-generated_at: "2026-03-29T23:52:41.983Z"
+generated_at: "2026-03-29T23:56:49.057Z"
 ---
 
 # § 7451. Nurses and other health-care personnel: competitive pay
@@ -33,6 +33,9 @@ generated_at: "2026-03-29T23:52:41.983Z"
       - **(iv)** in the case of any other covered position, the maximum rate of basic pay established for positions in level IV of the Executive Schedule under section 5315 of title 5 .
     - **(B)** The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in subparagraph (A).
   - **(3)** The range of basic pay for each such grade shall be divided into equal increments, known as “steps”. The Secretary shall prescribe the number of steps. Each grade in a covered position shall have the same number of steps. Rates of pay within a grade may not be established at rates other than whole steps. Any increase (other than an adjustment under subsection (d)) within a grade in the rate of basic pay payable to an employee in a covered position shall be by one or more of such step increments.
+  - **(4)**
+    - **(A)** The director of each medical center of the Department shall submit to the Secretary an annual locality pay survey and rates of basic pay for covered positions at such medical center to ensure that pay rates remain competitive in the local labor market.
+    - **(B)** Not less than once per fiscal year, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on rates of basic pay for covered positions at medical centers of the Department.
 - **(d)**
   - **(1)** Subject to subsection (e), the rates of basic pay for each grade in a covered position shall be adjusted periodically in accordance with this subsection in order to achieve the purposes of this section. Such adjustments shall be made—
     - **(A)** whenever there is an adjustment under section 5303 of title 5 in the rates of pay under the General Schedule, with the adjustment under this subsection to have the same effective date and to be by the same percentage as the adjustment in the rates of basic pay under the General Schedule; and

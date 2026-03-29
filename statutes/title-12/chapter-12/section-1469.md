@@ -3,9 +3,9 @@ title: "Section 1469 - Authority to invest in State housing corporations"
 usc_title: 12
 usc_section: "1469"
 chapter: 12
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "12 U.S.C. § 1469"
-generated_at: "2026-03-29T23:51:02.303Z"
+generated_at: "2026-03-29T23:54:34.897Z"
 ---
 
 # § 1469. Authority to invest in State housing corporations

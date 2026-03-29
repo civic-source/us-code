@@ -3,16 +3,16 @@ title: "Section 3334b - Collection, analysis, and dissemination of workforce dat
 usc_title: 50
 usc_section: "3334b"
 chapter: 45
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 3334b"
-generated_at: "2026-03-29T23:53:23.648Z"
+generated_at: "2026-03-29T23:57:33.298Z"
 ---
 
 # § 3334b. Collection, analysis, and dissemination of workforce data
 
 - **(a)**
 - **(b)**
-  - **(1)** Not later than 180 days after December 20, 2019 , and subject to paragraph (3), 1 1 So in original. There is no par. (3). the Director of National Intelligence shall make available to the public, the appropriate congressional committees, and the workforce of the intelligence community a report which includes aggregate demographic data and other information regarding the diversity and inclusion efforts of the workforce of the intelligence community.
+  - **(1)** Not later than 180 days after December 20, 2019 , the Director of National Intelligence shall make available to the public, the appropriate congressional committees, and the workforce of the intelligence community a report which includes aggregate demographic data and other information regarding the diversity and inclusion efforts of the workforce of the intelligence community.
   - **(2)** A report made available under paragraph (1)—
     - **(A)** shall include unclassified reports and barrier analyses relating to diversity and inclusion efforts;
     - **(B)** shall include aggregate demographic data—

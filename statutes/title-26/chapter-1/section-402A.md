@@ -3,23 +3,25 @@ title: "Section 402A - Optional treatment of elective deferrals as Roth contribu
 usc_title: 26
 usc_section: "402A"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 402A"
-generated_at: "2026-03-29T23:52:10.109Z"
+generated_at: "2026-03-29T23:56:24.758Z"
 ---
 
 # § 402A. Optional treatment of elective deferrals as Roth contributions
 
 - **(a)** If an applicable retirement plan includes a qualified Roth contribution program—
-  - **(1)** any designated Roth contribution made by an employee pursuant to the program shall be treated as an elective deferral for purposes of this chapter, except that such contribution shall not be excludable from gross income, and
-  - **(2)** such plan (and any arrangement which is part of such plan) shall not be treated as failing to meet any requirement of this chapter solely by reason of including such program.
+  - **(1)** any designated Roth contribution made by an employee pursuant to the program shall be treated as an elective deferral for purposes of this chapter, except that such contribution shall not be excludable from gross income,
+  - **(2)** any designated Roth contribution which pursuant to the program is made by the employer on the employee’s behalf on account of the employee’s contribution, elective deferral, or (subject to the requirements of section 401(m)(13)) qualified student loan payment shall be treated as a matching contribution for purposes of this chapter, except that such contribution shall not be excludable from gross income,
+  - **(3)** any designated Roth contribution which pursuant to the program is made by the employer on the employee’s behalf and which is a nonelective contribution shall be nonforfeitable and shall not be excludable from gross income, and
+  - **(4)** such plan (and any arrangement which is part of such plan) shall not be treated as failing to meet any requirement of this chapter solely by reason of including such program.
 - **(b)** For purposes of this section—
-  - **(1)** The term “qualified Roth contribution program” means a program under which an employee may elect to make designated Roth contributions in lieu of all or a portion of elective deferrals the employee is otherwise eligible to make under the applicable retirement plan.
+  - **(1)** The term “qualified Roth contribution program” means a program under which an employee may elect to make, or to have made on the employee’s behalf, designated Roth contributions in lieu of all or a portion of elective deferrals the employee is otherwise eligible to make, or of matching contributions or nonelective contributions which may otherwise be made on the employee’s behalf, under the applicable retirement plan.
   - **(2)** A program shall not be treated as a qualified Roth contribution program unless the applicable retirement plan—
     - **(A)** establishes separate accounts (“designated Roth accounts”) for the designated Roth contributions of each employee and any earnings properly allocable to the contributions, and
     - **(B)** maintains separate recordkeeping with respect to each account.
 - **(c)** For purposes of this section—
-  - **(1)** The term “designated Roth contribution” means any elective deferral which—
+  - **(1)** The term “designated Roth contribution” means any elective deferral, matching contribution, or nonelective contribution which—
     - **(A)** is excludable from gross income of an employee without regard to this section, and
     - **(B)** the employee designates (at such time and in such manner as the Secretary may prescribe) as not being so excludable.
   - **(2)** The amount of elective deferrals which an employee may designate under paragraph (1) shall not exceed the excess (if any) of—
@@ -62,3 +64,6 @@ generated_at: "2026-03-29T23:52:10.109Z"
   - **(2)** The term “elective deferral” means—
     - **(A)** any elective deferral described in subparagraph (A) or (C) of section 402(g)(3), and
     - **(B)** any elective deferral of compensation by an individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A).
+  - **(3)** The term “matching contribution” means—
+    - **(A)** any matching contribution described in section 401(m)(4)(A), and
+    - **(B)** any contribution to an eligible deferred compensation plan (as defined in section 457(b)) by an eligible employer described in section 457(e)(1)(A) on behalf of an employee and on account of such employee’s elective deferral under such plan,

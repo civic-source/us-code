@@ -3,9 +3,9 @@ title: "Section 1415 - Reports by Secretary"
 usc_title: 16
 usc_section: "1415"
 chapter: 31
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 1415"
-generated_at: "2026-03-29T23:51:16.220Z"
+generated_at: "2026-03-29T23:55:31.145Z"
 ---
 
 # § 1415. Reports by Secretary

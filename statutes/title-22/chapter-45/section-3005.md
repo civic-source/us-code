@@ -3,9 +3,9 @@ title: "Section 3005 - Repealed. Pub. L. 117–81, div. E, title LI, § 5114(b)(
 usc_title: 22
 usc_section: "3005"
 chapter: 45
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 3005"
-generated_at: "2026-03-29T23:51:29.498Z"
+generated_at: "2026-03-29T23:55:52.451Z"
 ---
 
 # § 3005. Repealed. Pub. L. 117–81, div. E, title LI, § 5114(b)(5) , Dec. 27, 2021 , 135 Stat. 2352

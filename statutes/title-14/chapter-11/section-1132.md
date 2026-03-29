@@ -3,9 +3,9 @@ title: "Section 1132 - Acquisition"
 usc_title: 14
 usc_section: "1132"
 chapter: 11
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "14 U.S.C. § 1132"
-generated_at: "2026-03-29T23:51:04.212Z"
+generated_at: "2026-03-29T23:54:25.487Z"
 ---
 
 # § 1132. Acquisition
@@ -58,5 +58,8 @@ generated_at: "2026-03-29T23:51:04.212Z"
     - **(B)** award any production contract for a capability, asset, or subsystem for which a master plan is required under this subsection before the master plan is approved by the Chief Acquisition Officer.
 - **(e)**
   - **(1)** The Commandant shall implement mechanisms to ensure the development and regular updating of life-cycle cost estimates for each acquisition with a total acquisition cost that equals or exceeds $10,000,000 and an expected service life of 10 or more years, and to ensure that these estimates are considered in decisions to develop or produce new or enhanced capabilities and assets.
-  - **(2)** In addition to life-cycle cost estimates that may be developed by acquisition program offices, the Commandant shall require that an independent life-cycle cost estimate be developed for each Level 1 or Level 2 acquisition project or program.
-  - **(3)** For each Level 1 or Level 2 acquisition project or program the Commandant shall require that life-cycle cost estimates shall be updated before each milestone decision is concluded and the project or program enters a new acquisition phase.
+  - **(2)** For each Level 1 or Level 2 acquisition project or program, in addition to life-cycle cost estimates developed under paragraph (1), the Commandant shall require that—
+    - **(A)** life-cycle cost estimates developed under paragraph (1) be updated before—
+      - **(i)** each milestone decision is concluded; and
+      - **(ii)** the project or program enters a new acquisition phase; and
+    - **(B)** an independent cost estimate or independent cost assessment, as appropriate, be developed to validate life-cycle cost estimates developed under paragraph (1).

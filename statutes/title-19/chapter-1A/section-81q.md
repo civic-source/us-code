@@ -3,9 +3,9 @@ title: "Section 81q - Transfer of grant"
 usc_title: 19
 usc_section: "81q"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "19 U.S.C. § 81q"
-generated_at: "2026-03-29T23:51:13.730Z"
+generated_at: "2026-03-29T23:55:00.584Z"
 ---
 
 # § 81q. Transfer of grant

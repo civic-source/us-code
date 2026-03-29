@@ -3,9 +3,9 @@ title: "Section 604 - Duties of Director generally"
 usc_title: 28
 usc_section: "604"
 chapter: 41
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "28 U.S.C. § 604"
-generated_at: "2026-03-29T23:51:48.882Z"
+generated_at: "2026-03-29T23:56:03.398Z"
 ---
 
 # § 604. Duties of Director generally
@@ -38,8 +38,9 @@ generated_at: "2026-03-29T23:51:48.882Z"
     - **(C)** the orders which are required to be publicly available under section 360(b) of this title ;
   - **(21)** Establish a program of incentive awards for employees of the judicial branch of the United States Government, other than any judge who is entitled to hold office during good behavior;
   - **(22)** Receive and expend, either directly or by transfer to the United States Marshals Service or other Government agency, funds appropriated for the procurement, installation, and maintenance of security equipment and protective services for the United States Courts in courtrooms and adjacent areas, including building ingress/egress control, inspection of packages, directed security patrols, and other similar activities;
-  - **(23)** Regulate and pay annuities to judges of the United States Court of Federal Claims in accordance with section 178 of this title ; and
-  - **(24)** Perform such other duties as may be assigned to him by the Supreme Court or the Judicial Conference of the United States.
+  - **(23)** Regulate and pay annuities to judges of the United States Court of Federal Claims in accordance with section 178 of this title ;
+  - **(24)** Establish and administer a vulnerability management program in the judicial branch; and
+  - **(25)** Perform such other duties as may be assigned to the Director by the Supreme Court or the Judicial Conference of the United States.
 - **(b)** The clerical and administrative personnel of the courts shall comply with all requests by the Director for information or statistical data as to the state of court dockets.
 - **(c)** Inspection of court dockets outside the continental United States may be made through United States officials residing within the jurisdiction where the inspection is made.
 - **(d)** The Director, under the supervision and direction of the conference, shall:

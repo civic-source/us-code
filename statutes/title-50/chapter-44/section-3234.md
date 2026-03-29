@@ -3,9 +3,9 @@ title: "Section 3234 - Prohibited personnel practices in the intelligence commun
 usc_title: 50
 usc_section: "3234"
 chapter: 44
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 3234"
-generated_at: "2026-03-29T23:53:23.646Z"
+generated_at: "2026-03-29T23:57:33.294Z"
 ---
 
 # § 3234. Prohibited personnel practices in the intelligence community
@@ -32,9 +32,9 @@ generated_at: "2026-03-29T23:53:23.646Z"
 - **(b)** Any employee of a covered intelligence community element or an agency who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take, or threaten to take or fail to take, a personnel action with respect to any employee of a covered intelligence community element as a reprisal for—
   - **(1)** any lawful disclosure of information by the employee to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose), the Inspector General of the Intelligence Community, a supervisor in the employee’s direct chain of command, or a supervisor of the employing agency with responsibility for the subject matter of the disclosure, up to and including the head of the employing agency (or an employee designated by the head of that agency for such purpose), the appropriate inspector general of the employing agency, a congressional intelligence committee, or a member of a congressional intelligence committee, which the employee reasonably believes evidences—
     - **(A)** a violation of any Federal law, rule, or regulation; or
-    - **(B)** mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
+    - **(B)** mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
   - **(2)** any lawful disclosure that complies with—
-    - **(A)** subsections (a)(1), (d), and (g) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.);
+    - **(A)** subsections (a)(1), (d), and (g) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.); 1 1 See References in Text note below.
     - **(B)** subparagraphs (A), (D), and (H) of section 3517(d)(5) of this title ; or
     - **(C)** subparagraphs (A), (D), and (I) of section 3033(k)(5) of this title ; or
   - **(3)** if the actions do not result in the employee unlawfully disclosing information specifically required by Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs, any lawful disclosure in conjunction with—
@@ -43,11 +43,11 @@ generated_at: "2026-03-29T23:53:23.646Z"
     - **(C)** cooperation with or disclosing information to the Inspector General of an agency, in accordance with applicable provisions of law in connection with an audit, inspection, or investigation conducted by the Inspector General.
 - **(c)**
   - **(1)** Any employee of an agency or of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of a covered intelligence community element who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take, or threaten to take or fail to take, a personnel action with respect to any contractor employee as a reprisal for—
-    - **(A)** any lawful disclosure of information by the contractor employee to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose), the Inspector General of the Intelligence Community, a supervisor in the contractor employee’s direct chain of command, or a supervisor of the contracting agency with responsibility for the subject matter of the disclosure, up to and including the head of the contracting agency (or an employee designated by the head of that agency for such purpose), the appropriate inspector general of the contracting agency, a congressional intelligence committee, or a member of a congressional intelligence committee, which the contractor employee reasonably believes evidences—
+    - **(A)** any lawful disclosure of information by the contractor employee to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose), the Inspector General of the Intelligence Community, a supervisor in the contractor employee’s direct chain of command, or a supervisor of the employing or contracting agency or employing contractor with responsibility for the subject matter of the disclosure, up to and including the head of the employing or contracting agency (or an employee designated by the head of that agency for that purpose) or employing contractor, the appropriate inspector general of the employing or contracting agency, a congressional intelligence committee, or a member of a congressional intelligence committee, which the contractor employee reasonably believes evidences—
       - **(i)** a violation of any Federal law, rule, or regulation (including with respect to evidence of another employee or contractor employee accessing or sharing classified information without authorization); or
       - **(ii)** mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
     - **(B)** any lawful disclosure that complies with—
-      - **(i)** subsections (a)(1), (d), and (g) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.);
+      - **(i)** subsections (a)(1), (d), and (g) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.); 1
       - **(ii)** subparagraphs (A), (D), and (H) of section 3517(d)(5) of this title ; or
       - **(iii)** subparagraphs (A), (D), and (I) of section 3033(k)(5) of this title ; or
     - **(C)** if the actions do not result in the contractor employee unlawfully disclosing information specifically required by Executive order to be kept classified in the interest of national defense or the conduct of foreign affairs, any lawful disclosure in conjunction with—

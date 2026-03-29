@@ -3,9 +3,9 @@ title: "Section 1343 - Civil rights and elective franchise"
 usc_title: 28
 usc_section: "1343"
 chapter: 85
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "28 U.S.C. § 1343"
-generated_at: "2026-03-29T23:51:48.887Z"
+generated_at: "2026-03-29T23:56:03.403Z"
 ---
 
 # § 1343. Civil rights and elective franchise

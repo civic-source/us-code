@@ -3,9 +3,9 @@ title: "Section 20708 - Grants for specialized human trafficking training and te
 usc_title: 34
 usc_section: "20708"
 chapter: 207
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "34 U.S.C. § 20708"
-generated_at: "2026-03-29T23:52:36.828Z"
+generated_at: "2026-03-29T23:56:30.971Z"
 ---
 
 # § 20708. Grants for specialized human trafficking training and technical assistance for service providers
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T23:52:36.828Z"
   - **(2)** improve the quality and quantity of services offered to trafficking survivors; and
   - **(3)** improve victim service providers’ partnerships with Federal, State, tribal, and local law enforcement agencies and other relevant entities.
 - **(c)** A grant awarded under this section shall be used to—
-  - **(1)** train law enforcement personnel to identify and protect victims of trafficking, including training such personnel to utilize Federal, State, or local resources to assist victims of trafficking;
+  - **(1)** train law enforcement personnel to identify and protect victims of trafficking, including training such personnel to utilize Federal, State, or local resources to assist victims of trafficking, which may include programs to build law enforcement capacity to identify and respond to human trafficking that are funded through the Office of Community Oriented Policing Services of the Department of Justice, such as the Interdiction for the Protection of Children Program;
   - **(2)** train law enforcement or State or local prosecutors to identify, investigate, or prosecute acts of trafficking;
   - **(3)** train law enforcement or State or local prosecutors to utilize laws that prohibit acts of trafficking and to assist in the development of State and local laws to prohibit acts of trafficking;
   - **(4)** provide technical assistance on the range of services available to victim service providers who serve trafficking victims;

@@ -3,9 +3,9 @@ title: "Section 562 - Definitions"
 usc_title: 5
 usc_section: "562"
 chapter: 5
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "5 U.S.C. § 562"
-generated_at: "2026-03-29T23:49:47.582Z"
+generated_at: "2026-03-29T23:54:05.641Z"
 ---
 
 # § 562. Definitions
@@ -20,7 +20,7 @@ For the purposes of this subchapter, the term—
   - **(4)** “facilitator” means a person who impartially aids in the discussions and negotiations among the members of a negotiated rulemaking committee to develop a proposed rule;
   - **(5)** “interest” means, with respect to an issue or matter, multiple parties which have a similar point of view or which are likely to be affected in a similar manner;
   - **(6)** “negotiated rulemaking” means rulemaking through the use of a negotiated rulemaking committee;
-  - **(7)** “negotiated rulemaking committee” or “committee” means an advisory committee established by an agency in accordance with this subchapter and the Federal Advisory Committee Act to consider and discuss issues for the purpose of reaching a consensus in the development of a proposed rule;
+  - **(7)** “negotiated rulemaking committee” or “committee” means an advisory committee established by an agency in accordance with this subchapter and chapter 10 of this title to consider and discuss issues for the purpose of reaching a consensus in the development of a proposed rule;
   - **(8)** “party” has the same meaning as in section 551(3) of this title ;
   - **(9)** “person” has the same meaning as in section 551(2) of this title ;
   - **(10)** “rule” has the same meaning as in section 551(4) of this title ; and

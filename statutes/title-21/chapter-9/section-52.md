@@ -3,9 +3,9 @@ title: "Section 52 - Authority to assess and use biosimilar biological product f
 usc_title: 21
 usc_section: "52"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 52"
-generated_at: "2026-03-29T23:51:22.730Z"
+generated_at: "2026-03-29T23:55:43.346Z"
 ---
 
 # § 379j–52. Authority to assess and use biosimilar biological product fees
@@ -134,9 +134,11 @@ generated_at: "2026-03-29T23:51:22.730Z"
   - **(2)**
     - **(A)** Subject to subparagraphs (C) and (D), the fees authorized by this section shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation for such fiscal year.
     - **(B)**
-      - **(i)** The fees authorized by this section shall be available for a fiscal year beginning after fiscal year 2012 to defray the costs of the process for the review of biosimilar biological product applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the Secretary allocates for such purpose an amount for such fiscal year (excluding amounts from fees collected under this section) no less than $20,000,000, multiplied by the adjustment factor applicable to the fiscal year involved.
+      - **(i)** The fees authorized by this section shall be available—
+        - **(I)** for fiscal year 2023, to defray the costs of the process for the review of biosimilar biological product applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the Secretary allocates for such purpose an amount for such fiscal year (excluding amounts from fees collected under this section) no less than $20,000,000, multiplied by the adjustment factor applicable to such fiscal year; and
+        - **(II)** for fiscal year 2024 and each subsequent fiscal year, to defray the costs of the process for the review of biosimilar biological product applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the sum of the amounts allocated by the Secretary for such costs, excluding costs paid from fees collected under this section, plus other costs for the maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture, and other necessary materials and supplies in connection with the process for the review of biosimilar biological product applications, is no less than $20,000,000, multiplied by the adjustment factor applicable to the fiscal year involved.
       - **(ii)** Beginning on October 1, 2023 , the authorities under section 379j–51(9)(C) of this title shall include only leasing and necessary scientific equipment.
-    - **(C)** The Secretary shall be considered to have met the requirements of subparagraph (B) in any fiscal year if the costs described in such subparagraph are not more than 15 percent below the level specified in such subparagraph.
+    - **(C)** The Secretary shall be considered to have met the requirements of subparagraph (B)(i) in any fiscal year if the costs allocated as described in subclause (I) or (II) of such subparagraph, as applicable, are not more than 15 percent below the level specified in such subparagraph.
     - **(D)** Payment of fees authorized under this section for a fiscal year, prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
   - **(3)** For each of fiscal years 2023 through 2027, there is authorized to be appropriated for fees under this section an amount equivalent to the total amount of fees assessed for such fiscal year under this section.
 - **(g)** In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.

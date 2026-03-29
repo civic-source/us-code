@@ -3,15 +3,17 @@ title: "Section 2013 - Program to improve retention of housing by formerly homel
 usc_title: 38
 usc_section: "2013"
 chapter: 20
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "38 U.S.C. § 2013"
-generated_at: "2026-03-29T23:52:41.949Z"
+generated_at: "2026-03-29T23:56:49.020Z"
 ---
 
 # § 2013. Program to improve retention of housing by formerly homeless veterans and veterans at risk of becoming homeless
 
 - **(a)** The Secretary shall carry out a program under which the Secretary shall provide case management services to improve the retention of housing by veterans who were previously homeless and are transitioning to permanent housing and veterans who are at risk of becoming homeless.
-- **(b)**
+- **(b)** Services provided under the program shall include services to assist veterans described in subsection (a) with navigating resources provided by the Federal Government and State, local, and Tribal governments.
+- **(c)** In geographic areas where individuals who meet the licensure and certification requirements to provide services under the program are in high demand as determined by the Secretary, such services may be provided through one or more individuals with a master’s degree in social work who are undergoing training to meet such requirements, if such individuals are under the supervision of an individual who meets such requirements.
+- **(d)**
   - **(1)** The Secretary shall carry out the program through the award of grants.
   - **(2)**
     - **(A)** In awarding grants under paragraph (1), the Secretary shall give priority to organizations that demonstrate a capability to provide case management services as described in subsection (a), particularly organizations that are successfully providing or have successfully provided transitional housing services using amounts provided by the Secretary under sections 2012 and 2061 of this title.
@@ -19,3 +21,4 @@ generated_at: "2026-03-29T23:52:41.949Z"
       - **(i)** voluntarily stops receiving amounts provided by the Secretary under sections 2012 and 2061 of this title; and
       - **(ii)** converts a facility that the organization used to provide transitional housing services into a facility that the organization uses to provide permanent housing that meets housing quality standards established under section 8( o )(8)(B) of the United States Housing Act of 1937 ( 42 U.S.C. 1437f ( o )(8)(B)).
     - **(C)** In any case in which a facility, with respect to which a person received a grant for construction, rehabilitation, or acquisition under section 2011 of this title , is converted as described in subparagraph (B)(ii), such conversion shall be considered to have been carried out pursuant to the needs of the Department and such person shall not be considered in noncompliance with the terms of such grant by reason of such conversion.
+  - **(3)** The Secretary shall require each recipient of a grant awarded under this subsection to submit to the Secretary a report that describes the services provided or coordinated with amounts under such grant.

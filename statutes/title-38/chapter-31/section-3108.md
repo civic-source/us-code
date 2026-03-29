@@ -1,14 +1,14 @@
 ---
-title: "Section 3108 - Allowances 1 1 See Extension of Payment of Vocational Rehabilitation Subsistence Allowances note below."
+title: "Section 3108 - Allowances"
 usc_title: 38
 usc_section: "3108"
 chapter: 31
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "38 U.S.C. § 3108"
-generated_at: "2026-03-29T23:52:41.955Z"
+generated_at: "2026-03-29T23:56:49.027Z"
 ---
 
-# § 3108. Allowances 1 1 See Extension of Payment of Vocational Rehabilitation Subsistence Allowances note below.
+# § 3108. Allowances
 
 - **(a)**
   - **(1)** Except in the case of a veteran who makes an election under subsection (f) of this section and subject to the provisions of paragraph (3) of this subsection, each veteran shall be paid a subsistence allowance in accordance with this section during a period determined by the Secretary to be a period of such veteran’s participation under this chapter in a rehabilitation program.

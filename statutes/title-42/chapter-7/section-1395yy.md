@@ -3,9 +3,9 @@ title: "Section 1395yy - Payment to skilled nursing facilities for routine servi
 usc_title: 42
 usc_section: "1395yy"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 1395yy"
-generated_at: "2026-03-29T23:53:16.322Z"
+generated_at: "2026-03-29T23:57:26.817Z"
 ---
 
 # § 1395yy. Payment to skilled nursing facilities for routine service costs
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T23:53:16.322Z"
       - **(i)** The term “covered skilled nursing facility services”—
         - **(I)** means post-hospital extended care services as defined in section 1395x(i) of this title for which benefits are provided under part A; and
         - **(II)** includes all items and services (other than items and services described in clauses (ii), (iii), and (iv)) for which payment may be made under part B and which are furnished to an individual who is a resident of a skilled nursing facility during the period in which the individual is provided covered post-hospital extended care services.
-      - **(ii)** Services described in this clause are physicians’ services, services described by clauses (i) and (ii) of section 1395x(s)(2)(K) of this title , certified nurse-midwife services, qualified psychologist services, services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title , telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title , and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
+      - **(ii)** Services described in this clause are physicians’ services, services described by clauses (i) and (ii) of section 1395x(s)(2)(K) of this title , certified nurse-midwife services, qualified psychologist services, marriage and family therapist services (as defined in section 1395x( lll )(1) of this title), mental health counselor services (as defined in section 1395x( lll )(3) of this title), services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title , telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title , and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
       - **(iii)** Items and services described in this clause are the following:
         - **(I)** Ambulance services furnished to an individual in conjunction with renal dialysis services described in section 1395x(s)(2)(F) of this title .
         - **(II)** Chemotherapy items (identified as of July 1, 1999 , by HCPCS codes J9000–J9020; J9040–J9151; J9170–J9185; J9200–J9201; J9206–J9208; J9211; J9230–J9245; and J9265–J9600 (and as subsequently modified by the Secretary)) and any additional chemotherapy items identified by the Secretary.

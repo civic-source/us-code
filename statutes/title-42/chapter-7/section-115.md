@@ -3,9 +3,9 @@ title: "Section 115 - Subsidies for part D eligible individuals for qualified pr
 usc_title: 42
 usc_section: "115"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 115"
-generated_at: "2026-03-29T23:53:16.293Z"
+generated_at: "2026-03-29T23:57:26.785Z"
 ---
 
 # § 1395w–115. Subsidies for part D eligible individuals for qualified prescription drug coverage
@@ -101,8 +101,9 @@ generated_at: "2026-03-29T23:53:16.293Z"
     - **(A)** by officers, employees, and contractors of the Department of Health and Human Services for the purposes of, and to the extent necessary in—
       - **(i)** carrying out this section or part E of subchapter XI; and
       - **(ii)** conducting oversight, evaluation, and enforcement under this subchapter;
-    - **(B)** by the Attorney General and the Comptroller General of the United States for the purposes of, and to the extent necessary in, carrying out health oversight activities; and
-    - **(C)** by the Executive Director of the Medicare Payment Advisory Commission for purposes of monitoring, making recommendations for, and analysis of the program under this subchapter and by the Executive Director of the Medicaid and CHIP Payment and Access Commission for purposes of monitoring, making recommendations for, and analysis of the Medicaid program established under subchapter XIX and the Children’s Health Insurance Program under subchapter XXI.
+    - **(B)** by the Attorney General and the Comptroller General of the United States for the purposes of, and to the extent necessary in, carrying out health oversight activities;
+    - **(C)** by the Executive Director of the Medicare Payment Advisory Commission for purposes of monitoring, making recommendations for, and analysis of the program under this subchapter and by the Executive Director of the Medicaid and CHIP Payment and Access Commission for purposes of monitoring, making recommendations for, and analysis of the Medicaid program established under subchapter XIX and the Children’s Health Insurance Program under subchapter XXI; and
+    - **(D)** by the Director of the Congressional Budget Office for the purposes of analysis of programs authorized under this chapter, as applicable, and the fulfilment of such Director’s duties under the Congressional Budget and Impoundment Control Act of 1974.
   - **(3)**
     - **(A)** The Executive Directors described in paragraph (2)(C) shall not disclose any of the following information disclosed to such Executive Directors or obtained by such Executive Directors pursuant to such paragraph, with respect to a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization:
       - **(i)** The specific amounts or the identity of the source of any rebates, discounts, price concessions, or other forms of direct or indirect remuneration under such prescription drug plan or such MA–PD plan.

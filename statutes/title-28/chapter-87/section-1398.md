@@ -3,9 +3,9 @@ title: "Section 1398 - Interstate Commerce Commission’s orders"
 usc_title: 28
 usc_section: "1398"
 chapter: 87
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "28 U.S.C. § 1398"
-generated_at: "2026-03-29T23:51:48.888Z"
+generated_at: "2026-03-29T23:56:03.404Z"
 ---
 
 # § 1398. Interstate Commerce Commission’s orders

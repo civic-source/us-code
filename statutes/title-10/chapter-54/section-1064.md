@@ -3,9 +3,9 @@ title: "Section 1064 - Use of commissary stores and MWR retail facilities: membe
 usc_title: 10
 usc_section: "1064"
 chapter: 54
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 1064"
-generated_at: "2026-03-29T23:50:22.243Z"
+generated_at: "2026-03-29T23:54:19.968Z"
 ---
 
 # § 1064. Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency

@@ -3,9 +3,9 @@ title: "Section 679a - Safe Meat and Poultry Inspection Panel"
 usc_title: 21
 usc_section: "679a"
 chapter: 12
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 679a"
-generated_at: "2026-03-29T23:51:22.744Z"
+generated_at: "2026-03-29T23:55:43.363Z"
 ---
 
 # § 679a. Safe Meat and Poultry Inspection Panel
@@ -32,5 +32,5 @@ generated_at: "2026-03-29T23:51:22.744Z"
   - **(4)** If any list of nominees provided under paragraph (1) or (2) is unsatisfactory to the Secretary, the Secretary may request the nominating entities to submit an additional list of nominees.
 - **(f)** While away from the home or regular place of business of a member of the panel in the performance of services for the panel, the member shall be allowed travel expenses, including per diem in lieu of subsistence, at the same rate as a person employed intermittently in the Government service would be allowed under section 5703 of title 5 .
 - **(g)** The Secretary shall promulgate regulations regarding conflicts of interest with respect to the members of the panel.
-- **(h)** The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of the Food and Agriculture Act of 1977 ( 7 U.S.C. 2281 et seq.) shall not apply to the panel.
+- **(h)** Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 ( 7 U.S.C. 2281 et seq.) shall not apply to the panel.
 - **(i)** From funds available to the Secretary to carry out this chapter and the Poultry Products Inspection Act ( 21 U.S.C. 451 et seq.), the Secretary shall allocate such sums as may be necessary to carry out this section.

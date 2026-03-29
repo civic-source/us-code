@@ -3,9 +3,9 @@ title: "Section 1506 - Condemnation and sale of lands in escheat proceedings"
 usc_title: 48
 usc_section: "1506"
 chapter: 11
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "48 U.S.C. § 1506"
-generated_at: "2026-03-29T23:53:21.598Z"
+generated_at: "2026-03-29T23:57:36.133Z"
 ---
 
 # § 1506. Condemnation and sale of lands in escheat proceedings

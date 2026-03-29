@@ -3,9 +3,9 @@ title: "Section 5422 - Labor market transition in Poland and Hungary"
 usc_title: 22
 usc_section: "5422"
 chapter: 63
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 5422"
-generated_at: "2026-03-29T23:51:29.524Z"
+generated_at: "2026-03-29T23:55:52.482Z"
 ---
 
 # § 5422. Labor market transition in Poland and Hungary
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T23:51:29.524Z"
   - **(3)** Enter into arrangements or agreements with appropriate departments, agencies, and establishments of Poland and Hungary.
   - **(4)** Enter into arrangements or agreements with appropriate private and public sector United States parties, and international organizations.
 - **(d)** In carrying out the responsibilities established by this section, the Secretary shall seek information and advice from, and consult with, appropriate officers of the United States.
-- **(e)** For purposes of this section, consultation between the Secretary and United States labor and business representatives shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+- **(e)** For purposes of this section, consultation between the Secretary and United States labor and business representatives shall not be subject to chapter 10 of title 5.
 - **(f)** The Secretary shall delegate the authority to carry out the programs authorized by this section to the head of the Bureau of International Labor Affairs of the Department of Labor.
 - **(g)** There are authorized to be appropriated to the Department of Labor for the 3-year period beginning October 1, 1989 , to carry out this section—
   - **(1)** $4,000,000 for technical assistance to Poland; and

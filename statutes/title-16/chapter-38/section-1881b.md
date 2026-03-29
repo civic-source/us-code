@@ -3,9 +3,9 @@ title: "Section 1881b - Observers"
 usc_title: 16
 usc_section: "1881b"
 chapter: 38
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 1881b"
-generated_at: "2026-03-29T23:51:16.240Z"
+generated_at: "2026-03-29T23:55:31.187Z"
 ---
 
 # § 1881b. Observers
@@ -16,6 +16,7 @@ generated_at: "2026-03-29T23:51:16.240Z"
 - **(b)** The Secretary, in cooperation with the appropriate States and the National Sea Grant College Program, shall—
   - **(1)** establish programs to ensure that each observer receives adequate training in collecting and analyzing the information necessary for the conservation and management purposes of the fishery to which such observer is assigned;
   - **(2)** require that an observer demonstrate competence in fisheries science and statistical analysis at a level sufficient to enable such person to fulfill the responsibilities of the position;
-  - **(3)** ensure that an observer has received adequate training in basic vessel safety; and
-  - **(4)** make use of university and any appropriate private nonprofit organization training facilities and resources, where possible, in carrying out this subsection.
+  - **(3)** ensure that an observer has received adequate training in basic vessel safety;
+  - **(4)** ensure that each observer has received training to identify indicators of forced labor and human trafficking (as such terms are defined in section 11329 of the Don Young Coast Guard Authorization Act of 2022) and refer this information to appropriate authorities; and
+  - **(5)** make use of university and any appropriate private nonprofit organization training facilities and resources, where possible, in carrying out this subsection.
 - **(c)** An observer on a vessel and under contract to carry out responsibilities under this chapter or the Marine Mammal Protection Act of 1972 ( 16 U.S.C. 1361 et seq.) shall be deemed to be a Federal employee for the purpose of compensation under the Federal Employee Compensation Act ( 5 U.S.C. 8101 et seq.).

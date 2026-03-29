@@ -3,9 +3,9 @@ title: "Section 286k - Further promotion of international economic relations"
 usc_title: 22
 usc_section: "286k"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 286k"
-generated_at: "2026-03-29T23:51:29.433Z"
+generated_at: "2026-03-29T23:55:52.379Z"
 ---
 
 # § 286k. Further promotion of international economic relations

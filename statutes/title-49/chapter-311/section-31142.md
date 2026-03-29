@@ -3,9 +3,9 @@ title: "Section 31142 - Inspection of vehicles"
 usc_title: 49
 usc_section: "31142"
 chapter: 311
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 31142"
-generated_at: "2026-03-29T23:53:40.234Z"
+generated_at: "2026-03-29T23:57:35.697Z"
 ---
 
 # § 31142. Inspection of vehicles

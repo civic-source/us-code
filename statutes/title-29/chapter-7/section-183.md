@@ -3,9 +3,9 @@ title: "Section 183 - Conciliation of labor disputes in the health care industry
 usc_title: 29
 usc_section: "183"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "29 U.S.C. § 183"
-generated_at: "2026-03-29T23:51:49.764Z"
+generated_at: "2026-03-29T23:55:56.251Z"
 ---
 
 # § 183. Conciliation of labor disputes in the health care industry
@@ -14,5 +14,5 @@ generated_at: "2026-03-29T23:51:49.764Z"
 - **(b)**
   - **(1)** Members of any board established under this section who are otherwise employed by the Federal Government shall serve without compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in carrying out its duties under this section.
   - **(2)** Members of any board established under this section who are not subject to paragraph (1) shall receive compensation at a rate prescribed by the Director but not to exceed the daily rate prescribed for GS–18 of the General Schedule under section 5332 of title 5 , including travel for each day they are engaged in the performance of their duties under this section and shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out their duties under this section.
-- **(c)** After the establishment of a board under subsection (a) of this section and for 15 days after any such board has issued its report, no change in the status quo in effect prior to the expiration of the contract in the case of negotiations for a contract renewal, or in effect prior to the time of the impasse in the case of an initial beginning negotiation, except by agreement, shall be made by the parties to the controversy.
+- **(c)** After the establishment of a board under subsection (a) of this section and for 15 days after any such board has issued its report, no change in the status quo in effect prior to the expiration of the contract in the case of negotiations for a contract renewal, or in effect prior to the time of the impasse in the case of an initial bargaining negotiation, except by agreement, shall be made by the parties to the controversy.
 - **(d)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.

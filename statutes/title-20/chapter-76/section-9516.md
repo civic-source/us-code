@@ -3,9 +3,9 @@ title: "Section 9516 - National Board for Education Sciences"
 usc_title: 20
 usc_section: "9516"
 chapter: 76
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "20 U.S.C. § 9516"
-generated_at: "2026-03-29T23:51:10.556Z"
+generated_at: "2026-03-29T23:55:05.461Z"
 ---
 
 # § 9516. National Board for Education Sciences
@@ -47,7 +47,7 @@ generated_at: "2026-03-29T23:51:10.556Z"
         - **(III)** 2 years for each of 5 members; and
       - **(ii)** no member appointed under such paragraph shall serve for more than 2 consecutive terms.
     - **(C)** Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term.
-    - **(D)** A voting member of the Board shall be considered a special Government employee for the purposes of the Ethics in Government Act of 1978.
+    - **(D)** A voting member of the Board shall be considered a special Government employee for the purposes of chapter 131 of title 5.
   - **(5)** The Board shall elect a chair from among the members of the Board.
   - **(6)** Members of the Board shall serve without pay for such service. Members of the Board who are officers or employees of the United States may not receive additional pay, allowances, or benefits by reason of their service on the Board.
   - **(7)** The members of the Board shall receive travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5.

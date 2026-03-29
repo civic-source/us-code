@@ -3,9 +3,9 @@ title: "Section 4003 - Definitions"
 usc_title: 16
 usc_section: "4003"
 chapter: 60
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 4003"
-generated_at: "2026-03-29T23:51:16.268Z"
+generated_at: "2026-03-29T23:55:31.251Z"
 ---
 
 # § 4003. Definitions

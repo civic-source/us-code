@@ -3,9 +3,9 @@ title: "Section 30D - Clean vehicle credit"
 usc_title: 26
 usc_section: "30D"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 30D"
-generated_at: "2026-03-29T23:52:10.036Z"
+generated_at: "2026-03-29T23:56:24.682Z"
 ---
 
 # § 30D. Clean vehicle credit
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T23:52:10.036Z"
       - **(iv)** verification that original use of the vehicle commences with the taxpayer, and
       - **(v)** the maximum credit under this section allowable to the taxpayer with respect to the vehicle.
   - **(2)** The term “motor vehicle” means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
-  - **(3)** he term “qualified manufacturer” means any manufacturer (within the meaning of the regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act ( 42 U.S.C. 7521 et seq.)) which enters into a written agreement with the Secretary under which such manufacturer agrees to make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) providing vehicle identification numbers and such other information related to each vehicle manufactured by such manufacturer as the Secretary may require.
+  - **(3)** The term “qualified manufacturer” means any manufacturer (within the meaning of the regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act ( 42 U.S.C. 7521 et seq.)) which enters into a written agreement with the Secretary under which such manufacturer agrees to make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) providing vehicle identification numbers and such other information related to each vehicle manufactured by such manufacturer as the Secretary may require.
   - **(4)** The term “capacity” means, with respect to any battery, the quantity of electricity which the battery is capable of storing, expressed in kilowatt hours, as measured from a 100 percent state of charge to a 0 percent state of charge.
   - **(5)** For purposes of paragraph (1)(G), the term “final assembly” means the process by which a manufacturer produces a new clean vehicle at, or through the use of, a plant, factory, or other place from which the vehicle is delivered to a dealer or importer with all component parts necessary for the mechanical operation of the vehicle included with the vehicle, whether or not the component parts are permanently installed in or on the vehicle.
   - **(6)** For purposes of this section, the term “new clean vehicle” shall include any new qualified fuel cell motor vehicle (as defined in section 30B(b)(3)) which meets the requirements under subparagraphs (G) and (H) of paragraph (1).

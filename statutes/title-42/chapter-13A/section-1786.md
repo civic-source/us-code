@@ -3,9 +3,9 @@ title: "Section 1786 - Special supplemental nutrition program for women, infants
 usc_title: 42
 usc_section: "1786"
 chapter: 13
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 1786"
-generated_at: "2026-03-29T23:53:16.397Z"
+generated_at: "2026-03-29T23:57:26.903Z"
 ---
 
 # § 1786. Special supplemental nutrition program for women, infants, and children
@@ -72,7 +72,7 @@ generated_at: "2026-03-29T23:53:16.397Z"
       - **(i)** any basic allowance—
         - **(I)** for housing received by military service personnel residing off military installations; or
         - **(II)** provided under section 403 of title 37 for housing that is acquired or constructed under subchapter IV of chapter 169 of title 10 or any related provision of law; and
-      - **(ii)** any cost-of-living allowance provided under section 475 1 1 See References in Text note below. of title 37 to a member of a uniformed service who is on duty outside the contiguous States of the United States.
+      - **(ii)** any cost-of-living allowance provided under section 405 of title 37 to a member of a uniformed service who is on duty outside the contiguous States of the United States.
     - **(C)** For the purpose of determining income eligibility under this section, a State agency shall exclude from income any additional payment under chapter 5 of title 37, or otherwise designated by the Secretary to be appropriate for exclusion under this subparagraph, that is received by or from a member of the United States Armed Forces deployed to a designated combat zone, if the additional pay—
       - **(i)** is the result of deployment to or service in a combat zone; and
       - **(ii)** was not received immediately prior to serving in a combat zone.
@@ -266,7 +266,7 @@ generated_at: "2026-03-29T23:53:16.397Z"
       - **(iii)** A State agency that receives a performance bonus under clause (i)—
         - **(I)** shall treat the funds as program income; and
         - **(II)** may transfer the funds to local agencies for use in carrying out the program.
-      - **(iv)** The Secretary shall provide the first performance bonuses not later than 1 year after December 13, 2010 , and may subsequently revise the criteria for awarding performance bonuses; and 2 2 So in original. The “; and” probably should be a period.
+      - **(iv)** The Secretary shall provide the first performance bonuses not later than 1 year after December 13, 2010 , and may subsequently revise the criteria for awarding performance bonuses; and 1 1 So in original. The “; and” probably should be a period.
   - **(5)**
     - **(A)** Subject to subparagraph (B), in any fiscal year that a State agency submits a plan to reduce average food costs per participant and to increase participation above the level estimated for the State agency, the State agency may, with the approval of the Secretary, convert amounts allocated for food benefits for such fiscal year for costs of nutrition services and administration to the extent that such conversion is necessary—
       - **(i)** to cover allowable expenditures in such fiscal year; and
@@ -455,8 +455,8 @@ generated_at: "2026-03-29T23:53:16.397Z"
     - **(B)** demonstration projects in selected State or local areas; and
     - **(C)** such other activities as the Secretaries find are appropriate.
   - **(4)** As used in this subsection:
-    - **(A)** The term “community health center” has the meaning given the term in section 254c(a) 1 of this title.
-    - **(B)** The term “migrant health center” has the meaning given the term in section 254b(a)(1) 1 of this title.
+    - **(A)** The term “community health center” has the meaning given the term in section 254c(a) 2 2 See References in Text note below. of this title.
+    - **(B)** The term “migrant health center” has the meaning given the term in section 254b(a)(1) 2 of this title.
 - **(k)**
   - **(1)** There is hereby established a National Advisory Council on Maternal, Infant, and Fetal Nutrition (referred to in this subsection as the “Council”) composed of 24 members appointed by the Secretary. One member shall be a State director of a program under this section; one member shall be a State official responsible for a commodity supplemental food program under section 1304 of the Food and Agriculture Act of 1977; one member shall be a State fiscal officer of a program under this section (or the equivalent thereof); one member shall be a State health officer (or the equivalent thereof); one member shall be a local agency director of a program under this section in an urban area; one member shall be a local agency director of a program under this section in a rural area; one member shall be a project director of a commodity supplemental food program; one member shall be a State public health nutrition director (or the equivalent thereof); one member shall be a representative of an organization serving migrants; one member shall be an official from a State agency predominantly serving Indians; three members shall be parent participants of a program under this section or of a commodity supplemental food program; one member shall be a pediatrician; one member shall be an obstetrician; one member shall be a representative of a nonprofit public interest organization that has experience with and knowledge of the special supplemental nutrition program; one member shall be a person involved at the retail sales level of food in the special supplemental nutrition program; two members shall be officials of the Department of Health and Human Services appointed by the Secretary of Health and Human Services; two members shall be officials of the Department of Agriculture appointed by the Secretary; 1 member shall be an expert in the promotion of breast feeding; one member shall be an expert in drug abuse education and prevention; and one member shall be an expert in alcohol abuse education and prevention.
   - **(2)** Members of the Council appointed from outside the Department of Agriculture and the Department of Health and Human Services shall be appointed for terms not exceeding three years. State and local officials shall serve only during their official tenure, and the tenure of parent participants shall not exceed two years. Persons appointed to complete an unexpired term shall serve only for the remainder of such term.
@@ -502,7 +502,7 @@ generated_at: "2026-03-29T23:53:16.397Z"
         - **(I)** there is a need for an increase in funds; and
         - **(II)** the use of the increased funding will be consistent with serving nutritionally at-risk persons and expanding the awareness and use of farmers’ markets;
       - **(iii)** demonstrated ability to satisfactorily operate the existing program; and
-      - **(iv)** whether, in the case of a State that intends to use any funding provided under subparagraph (G)(i) 1 to increase the value of the Federal share of the benefits received by a recipient, the funding provided under subparagraph (G)(i) 1 will increase the rate of coupon redemption.
+      - **(iv)** whether, in the case of a State that intends to use any funding provided under subparagraph (G)(i) 2 to increase the value of the Federal share of the benefits received by a recipient, the funding provided under subparagraph (G)(i) 2 will increase the rate of coupon redemption.
     - **(D)**
       - **(i)** A State that desires to receive a grant under this subsection shall submit, for each fiscal year, a State plan to the Secretary by November 15 of each year.
       - **(ii)** Each State plan submitted under this paragraph shall contain—

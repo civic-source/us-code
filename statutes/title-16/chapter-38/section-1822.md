@@ -3,9 +3,9 @@ title: "Section 1822 - International fishery agreements"
 usc_title: 16
 usc_section: "1822"
 chapter: 38
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 1822"
-generated_at: "2026-03-29T23:51:16.233Z"
+generated_at: "2026-03-29T23:55:31.170Z"
 ---
 
 # § 1822. International fishery agreements
@@ -53,4 +53,3 @@ generated_at: "2026-03-29T23:51:16.233Z"
   - **(2)** An international agreement negotiated under this subsection shall be—
     - **(A)** consistent with the policies and purposes of this chapter; and
     - **(B)** subject to approval by Congress under section 1823 of this title .
-  - **(3)** Not later than January 1, 1997 , and annually thereafter, the Secretary, in consultation with the Secretary of State, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report describing actions taken under this subsection.

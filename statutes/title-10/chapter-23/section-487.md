@@ -1,12 +1,20 @@
 ---
-title: "Section 487 - Repealed. Pub. L. 112–81, div. A, title X, § 1061(9)(A) , Dec. 31, 2011 , 125 Stat. 1583 ]"
+title: "Section 487 - Biannual briefing on missile defense and related activities"
 usc_title: 10
 usc_section: "487"
 chapter: 23
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 487"
-generated_at: "2026-03-29T23:50:22.219Z"
+generated_at: "2026-03-29T23:54:19.941Z"
 ---
 
-# [§ 487. Repealed. Pub. L. 112–81, div. A, title X, § 1061(9)(A) , Dec. 31, 2011 , 125 Stat. 1583 ]
+# § 487. Biannual briefing on missile defense and related activities
 
+- **(a)** On or about June 1 and December 1 of each year, the officials specified in subsection (b) shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on matters relating to missile defense policies, operations, technology development, and other similar topics as requested by such committees.
+- **(b)** The officials specified in this subsection are the following:
+  - **(1)** The Assistant Secretary of Defense for Acquisition.
+  - **(2)** The Assistant Secretary of Defense for Space Policy.
+  - **(3)** The Director of the Missile Defense Agency.
+  - **(4)** The Director for Strategy, Plans, and Policy of the Joint Staff.
+- **(c)** An official specified in subsection (b) may delegate the authority to provide a briefing required by subsection (a) to a member of the Senior Executive Service who reports to the official.
+- **(d)** The requirement to provide a briefing under subsection (a) shall terminate on January 1, 2028 .

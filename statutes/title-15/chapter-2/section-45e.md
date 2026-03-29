@@ -3,9 +3,9 @@ title: "Section 45e - Office for the prevention of fraud targeting seniors"
 usc_title: 15
 usc_section: "45e"
 chapter: 2
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 45e"
-generated_at: "2026-03-29T23:50:50.474Z"
+generated_at: "2026-03-29T23:54:55.971Z"
 ---
 
 # § 45e. Office for the prevention of fraud targeting seniors

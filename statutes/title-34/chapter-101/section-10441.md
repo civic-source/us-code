@@ -3,9 +3,9 @@ title: "Section 10441 - Purpose of program and grants"
 usc_title: 34
 usc_section: "10441"
 chapter: 101
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "34 U.S.C. § 10441"
-generated_at: "2026-03-29T23:52:36.798Z"
+generated_at: "2026-03-29T23:56:30.937Z"
 ---
 
 # § 10441. Purpose of program and grants
@@ -53,18 +53,19 @@ generated_at: "2026-03-29T23:52:36.798Z"
   - **(3)** Receipt of an award under this subsection by each State domestic violence and sexual assault coalition shall not preclude the coalition from receiving additional grants under this part to carry out the purposes described in subsection (b).
 - **(d)**
   - **(1)** The Attorney General shall award a grant to tribal coalitions for purposes of—
-    - **(A)** increasing awareness of domestic violence and sexual assault against Indian women;
-    - **(B)** enhancing the response to violence against Indian women at the Federal, State, and tribal levels;
-    - **(C)** identifying and providing technical assistance to coalition membership and tribal communities to enhance access to essential services to Indian women victimized by domestic and sexual violence, including sex trafficking; and
-    - **(D)** assisting Indian tribes in developing and promoting State, local, and tribal legislation and policies that enhance best practices for responding to violent crimes against Indian women, including the crimes of domestic violence, dating violence, sexual assault, sex trafficking, and stalking.
+    - **(A)** increasing awareness of domestic violence and sexual assault against Indian or Native Hawaiian women;
+    - **(B)** enhancing the response to violence against Indian or Native Hawaiian women at the Federal, State, and tribal levels;
+    - **(C)** identifying and providing technical assistance to coalition membership and tribal communities or Native Hawaiian communities to enhance access to essential services to Indian or Native Hawaiian women victimized by domestic and sexual violence, including sex trafficking; and
+    - **(D)** assisting Indian tribes or Native Hawaiian communities in developing and promoting State, local, and tribal legislation and policies that enhance best practices for responding to violent crimes against Indian or Native Hawaiian women, including the crimes of domestic violence, dating violence, sexual assault, sex trafficking, and stalking.
   - **(2)** The Attorney General shall award grants on an annual basis under paragraph (1) to—
     - **(A)** each tribal coalition that—
       - **(i)** meets the criteria of a tribal coalition under section 12291(a) of this title ;
       - **(ii)** is recognized by the Office on Violence Against Women; and
-      - **(iii)** provides services to Indian tribes; and
-    - **(B)** organizations that propose to incorporate and operate a tribal coalition in areas where Indian tribes are located but no tribal coalition exists.
+      - **(iii)** provides services to Indian tribes or Native Hawaiian communities; and
+    - **(B)** organizations that propose to incorporate and operate a tribal coalition in areas where Indian tribes or Native Hawaiian communities are located but no tribal coalition exists.
   - **(3)** For each of fiscal years 2023 through 2027, of the amounts appropriated to carry out this subsection—
     - **(A)** not more than 10 percent shall be made available to organizations described in paragraph (2)(B), provided that 1 or more organizations determined by the Attorney General to be qualified apply;
     - **(B)** not less than 90 percent shall be made available to tribal coalitions described in paragraph (2)(A), which amounts shall be distributed equally among each eligible tribal coalition for the applicable fiscal year.
   - **(4)** Receipt of an award under this subsection by a tribal coalition shall not preclude the tribal coalition from receiving additional grants under this chapter to carry out the purposes described in paragraph (1).
   - **(5)** Nothing in this subsection prohibits any tribal coalition or organization described in paragraph (2) from applying for funding to address sexual assault or domestic violence needs in the same application.
+  - **(6)** In this subsection, the term “Native Hawaiian” has the meaning given that term in section 4221 of title 25 .

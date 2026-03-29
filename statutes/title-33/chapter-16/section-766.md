@@ -1,14 +1,12 @@
 ---
-title: "Section 766 - Restoration to active duty after retirement for disability"
+title: "Section 766 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(16) , Dec. 23, 2022 , 136 Stat. 4166"
 usc_title: 33
 usc_section: "766"
 chapter: 16
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 766"
-generated_at: "2026-03-29T23:52:21.926Z"
+generated_at: "2026-03-29T23:56:30.038Z"
 ---
 
-# § 766. Restoration to active duty after retirement for disability
-
-Any officer or employee retired under section 765 of this title may, upon recovery, be restored to active duty, and shall from time to time, before reaching the age at which he may be retired under section 763 of this title be reexamined by a medical officer of the United States upon the request of the Secretary of Transportation.
+# §§ 765, 766. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(16) , Dec. 23, 2022 , 136 Stat. 4166
 

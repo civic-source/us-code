@@ -3,9 +3,9 @@ title: "Section 113 - Assaults within maritime and territorial jurisdiction"
 usc_title: 18
 usc_section: "113"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "18 U.S.C. § 113"
-generated_at: "2026-03-29T23:51:08.360Z"
+generated_at: "2026-03-29T23:55:17.224Z"
 ---
 
 # § 113. Assaults within maritime and territorial jurisdiction

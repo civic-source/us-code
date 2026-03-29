@@ -3,9 +3,9 @@ title: "Section 13351 - Additional clean coal technology solicitations"
 usc_title: 42
 usc_section: "13351"
 chapter: 134
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 13351"
-generated_at: "2026-03-29T23:53:16.677Z"
+generated_at: "2026-03-29T23:57:27.213Z"
 ---
 
 # § 13351. Additional clean coal technology solicitations

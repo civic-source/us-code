@@ -3,9 +3,9 @@ title: "Section 6307 - Penalties"
 usc_title: 40
 usc_section: "6307"
 chapter: 63
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "40 U.S.C. § 6307"
-generated_at: "2026-03-29T23:52:43.276Z"
+generated_at: "2026-03-29T23:56:49.851Z"
 ---
 
 # § 6307. Penalties

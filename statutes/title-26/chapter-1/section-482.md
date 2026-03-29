@@ -3,9 +3,9 @@ title: "Section 482 - Allocation of income and deductions among taxpayers"
 usc_title: 26
 usc_section: "482"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 482"
-generated_at: "2026-03-29T23:52:10.136Z"
+generated_at: "2026-03-29T23:56:24.788Z"
 ---
 
 # § 482. Allocation of income and deductions among taxpayers

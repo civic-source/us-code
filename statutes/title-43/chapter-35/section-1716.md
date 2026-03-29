@@ -3,9 +3,9 @@ title: "Section 1716 - Exchanges of public lands or interests therein within the
 usc_title: 43
 usc_section: "1716"
 chapter: 35
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "43 U.S.C. § 1716"
-generated_at: "2026-03-29T23:52:56.379Z"
+generated_at: "2026-03-29T23:56:54.159Z"
 ---
 
 # § 1716. Exchanges of public lands or interests therein within the National Forest System

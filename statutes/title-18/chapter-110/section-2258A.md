@@ -3,9 +3,9 @@ title: "Section 2258A - Reporting requirements of providers"
 usc_title: 18
 usc_section: "2258A"
 chapter: 110
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "18 U.S.C. § 2258A"
-generated_at: "2026-03-29T23:51:08.393Z"
+generated_at: "2026-03-29T23:55:17.263Z"
 ---
 
 # § 2258A. Reporting requirements of providers

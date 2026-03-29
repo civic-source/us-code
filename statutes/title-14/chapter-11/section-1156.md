@@ -3,9 +3,9 @@ title: "Section 1156 - Limitation on unmanned aircraft systems"
 usc_title: 14
 usc_section: "1156"
 chapter: 11
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "14 U.S.C. § 1156"
-generated_at: "2026-03-29T23:51:04.212Z"
+generated_at: "2026-03-29T23:54:25.489Z"
 ---
 
 # § 1156. Limitation on unmanned aircraft systems
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T23:51:04.212Z"
     - **(A)** has been part of a program of record of, procured by, or used by a Federal entity (or funds for research, development, test, and evaluation have been received from a Federal entity with regard to such system) before the date on which the Commandant leases, acquires, or acquires the services of the system; and
     - **(B)** is leased, acquired, or utilized by the Commandant through an agreement with a Federal entity, unless such an agreement is not practicable or would be less cost-effective than an independent contract action by the Coast Guard.
 - **(b)** Subsection (a)(2) does not apply to small unmanned aircraft.
-- **(c)** In this section, the terms “small unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 ( 49 U.S.C. 40101 note). 1 1 See References in Text note below.
+- **(c)** In this section, the terms “small unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801 of title 49 .

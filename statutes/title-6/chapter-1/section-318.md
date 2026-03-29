@@ -3,9 +3,9 @@ title: "Section 318 - National Advisory Council"
 usc_title: 6
 usc_section: "318"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "6 U.S.C. § 318"
-generated_at: "2026-03-29T23:50:11.187Z"
+generated_at: "2026-03-29T23:54:07.935Z"
 ---
 
 # § 318. National Advisory Council
@@ -100,5 +100,5 @@ generated_at: "2026-03-29T23:50:11.187Z"
     - **(B)** The requirements of subparagraph (A) shall terminate on the date that is 2 years after the date of the submission of the report required under paragraph (7)(A).
   - **(9)** The RESPONSE Subcommittee shall terminate not later than 90 days after the submission of the report required under paragraph (7)(C).
 - **(e)**
-  - **(1)** Notwithstanding section 451(a) of this title and subject to paragraph (2), the Federal Advisory Committee Act (5 U.S.C. App.), including subsections (a), (b), and (d) of section 10 of such Act, and section 552b(c) of title 5 shall apply to the National Advisory Council.
-  - **(2)** Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the National Advisory Council.
+  - **(1)** Notwithstanding section 451(a) of this title and subject to paragraph (2), chapter 10 of title 5, including subsections (a), (b), and (d) of section 1009 of title 5 , and section 552b(c) of title 5 shall apply to the National Advisory Council.
+  - **(2)** Section 1013(a)(2) of title 5 shall not apply to the National Advisory Council.

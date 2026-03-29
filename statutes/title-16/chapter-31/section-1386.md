@@ -3,9 +3,9 @@ title: "Section 1386 - Stock assessments"
 usc_title: 16
 usc_section: "1386"
 chapter: 31
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 1386"
-generated_at: "2026-03-29T23:51:16.219Z"
+generated_at: "2026-03-29T23:55:31.142Z"
 ---
 
 # § 1386. Stock assessments
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T23:51:16.219Z"
     - **(D)** research needed to identify modifications in fishing gear and practices likely to reduce the incidental mortality and serious injury of marine mammals in commercial fishing operations;
     - **(E)** the actual, expected, or potential impacts of habitat destruction, including marine pollution and natural environmental change, on specific marine mammal species or stocks, and for strategic stocks, appropriate conservation or management measures to alleviate any such impacts; and
     - **(F)** any other issue which the Secretary or the groups consider appropriate.
-  - **(2)** The scientific review groups established under this subsection shall not be subject to the Federal Advisory Committee Act (5 App. U.S.C.).
+  - **(2)** The scientific review groups established under this subsection shall not be subject to chapter 10 of title 5.
   - **(3)** Members of the scientific review groups shall serve without compensation, but may be reimbursed by the Secretary, upon request, for reasonable travel costs and expenses incurred in performing their obligations.
   - **(4)** The Secretary may appoint or reappoint individuals to the regional scientific review groups under paragraph (1) as needed.
 - **(e)** This section shall not affect or otherwise modify the provisions of section 1371(b) of this title .

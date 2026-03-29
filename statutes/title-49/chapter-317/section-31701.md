@@ -3,9 +3,9 @@ title: "Section 31701 - Definitions"
 usc_title: 49
 usc_section: "31701"
 chapter: 317
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 31701"
-generated_at: "2026-03-29T23:53:40.237Z"
+generated_at: "2026-03-29T23:57:35.702Z"
 ---
 
 # § 31701. Definitions

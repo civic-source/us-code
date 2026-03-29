@@ -3,9 +3,9 @@ title: "Section 3a - Definitions"
 usc_title: 15
 usc_section: "3a"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 3a"
-generated_at: "2026-03-29T23:50:50.522Z"
+generated_at: "2026-03-29T23:54:56.027Z"
 ---
 
 # § 278g–3a. Definitions
@@ -19,4 +19,4 @@ In this Act:
   - **(5)** The term “national security system” has the meaning given that term in section 3552(b)(6) of title 44 .
   - **(6)** The term “operational technology” means hardware and software that detects or causes a change through the direct monitoring or control of physical devices, processes, and events in the enterprise.
   - **(7)** The term “Secretary” means the Secretary of Homeland Security.
-  - **(8)** The term “security vulnerability” has the meaning given that term in section 1501(17) of title 6 .
+  - **(8)** The term “security vulnerability” has the meaning given that term in section 650 of title 6 .

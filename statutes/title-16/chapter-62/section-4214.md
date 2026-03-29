@@ -3,9 +3,9 @@ title: "Section 4214 - Advisory group"
 usc_title: 16
 usc_section: "4214"
 chapter: 62
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 4214"
-generated_at: "2026-03-29T23:51:16.270Z"
+generated_at: "2026-03-29T23:55:31.254Z"
 ---
 
 # § 4214. Advisory group
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T23:51:16.270Z"
     - **(B)** provide, at each meeting, an opportunity for interested persons to present oral or written statements concerning items on the agenda.
   - **(2)** The Secretary shall provide to the public timely notice of each meeting of the advisory group.
   - **(3)** Minutes of each meeting of the advisory group shall be kept by the Secretary and shall be made available to the public.
-- **(c)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group.
+- **(c)** Chapter 10 of title 5 shall not apply to the advisory group.

@@ -3,9 +3,9 @@ title: "Section 70 - Definitions"
 usc_title: 15
 usc_section: "70"
 chapter: 2
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 70"
-generated_at: "2026-03-29T23:50:50.478Z"
+generated_at: "2026-03-29T23:54:55.976Z"
 ---
 
 # § 70. Definitions

@@ -3,9 +3,9 @@ title: "Section 2229 - Firefighter assistance"
 usc_title: 15
 usc_section: "2229"
 chapter: 49
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 2229"
-generated_at: "2026-03-29T23:50:50.606Z"
+generated_at: "2026-03-29T23:54:56.126Z"
 ---
 
 # § 2229. Firefighter assistance
@@ -105,7 +105,7 @@ generated_at: "2026-03-29T23:50:50.606Z"
       - **(ii)** encourage applicants to apply for grants for joint programs and initiatives described in subparagraph (A) as the Administrator of FEMA determines appropriate to achieve greater cost effectiveness and regional efficiency.
 - **(f)**
   - **(1)** The Administrator of FEMA shall, after consultation with national fire service and emergency medical services organizations, appoint fire service personnel to conduct peer reviews of applications received under subsection (e)(1).
-  - **(2)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to activities carried out pursuant to this subsection.
+  - **(2)** Chapter 10 of title 5 shall not apply to activities carried out pursuant to this subsection.
 - **(g)** In awarding grants under this section, the Administrator of FEMA shall consider the following:
   - **(1)** The findings and recommendations of the peer reviews carried out under subsection (f).
   - **(2)** The degree to which an award will reduce deaths, injuries, and property damage by reducing the risks associated with fire-related and other hazards.
@@ -197,7 +197,7 @@ generated_at: "2026-03-29T23:50:50.606Z"
       - **(iii)** in the case of a member of an emergency medical service organization, is a member of an organization that represents—
         - **(I)** providers of emergency medical services that are affiliated with fire departments; or
         - **(II)** nonaffiliated EMS providers.
-  - **(3)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to activities carried out under this subsection.
+  - **(3)** Chapter 10 of title 5 shall not apply to activities carried out under this subsection.
 - **(m)** Notwithstanding any other provision of law, for purposes of this section, equipment costs shall include all costs attributable to any design, purchase of components, assembly, manufacture, and transportation of equipment not otherwise commercially available.
 - **(n)** The Alaska Village Initiatives, a non-profit organization incorporated in the State of Alaska, shall be eligible to apply for and receive a grant or other assistance under this section on behalf of Alaska Native villages.
 - **(o)** If an applicant for a grant under this section is applying for such grant to purchase training that does not meet or exceed any applicable national voluntary consensus standards, including those developed under section 747 of title 6 , the applicant shall submit to the Administrator of FEMA an explanation of the reasons that the training proposed to be purchased will serve the needs of the applicant better than training that meets or exceeds such standards.

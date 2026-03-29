@@ -3,9 +3,9 @@ title: "Section 831j - Equitable distribution of surplus power among States and 
 usc_title: 16
 usc_section: "831j"
 chapter: 12
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 831j"
-generated_at: "2026-03-29T23:51:16.192Z"
+generated_at: "2026-03-29T23:55:31.104Z"
 ---
 
 # § 831j. Equitable distribution of surplus power among States and municipalities; improvement in production of fertilizer

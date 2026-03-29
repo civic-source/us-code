@@ -3,9 +3,9 @@ title: "Section 2002 - Records, audit, and report"
 usc_title: 21
 usc_section: "2002"
 chapter: 25
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 2002"
-generated_at: "2026-03-29T23:51:22.761Z"
+generated_at: "2026-03-29T23:55:43.384Z"
 ---
 
 # § 2002. Records, audit, and report

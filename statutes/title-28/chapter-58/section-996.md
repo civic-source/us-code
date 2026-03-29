@@ -3,12 +3,12 @@ title: "Section 996 - Director and staff"
 usc_title: 28
 usc_section: "996"
 chapter: 58
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "28 U.S.C. § 996"
-generated_at: "2026-03-29T23:51:48.886Z"
+generated_at: "2026-03-29T23:56:03.402Z"
 ---
 
 # § 996. Director and staff
 
 - **(a)** The Staff Director shall supervise the activities of persons employed by the Commission and perform other duties assigned to the Staff Director by the Commission.
-- **(b)** The Staff Director shall, subject to the approval of the Commission, appoint such officers and employees as are necessary in the execution of the functions of the Commission. The officers and employees of the Commission shall be exempt from the provisions of part III of title 5, except the following: chapters 45 (Incentive Awards), 63 (Leave), 81 (Compensation for Work Injuries), 83 (Retirement), 85 (Unemployment Compensation), 87 (Life Insurance), and 89 (Health Insurance), and subchapter VI of chapter 55 (Payment for accumulated and accrued leave).
+- **(b)** The Staff Director shall, subject to the approval of the Commission, appoint such officers and employees as are necessary in the execution of the functions of the Commission. The officers and employees of the Commission shall be exempt from the provisions of part III of title 5, except the following: chapters 45 (Incentive Awards), 63 (Leave), 81 (Compensation for Work Injuries), 83 (Retirement), 84 (Federal Employees’ Retirement System), 85 (Unemployment Compensation), 87 (Life Insurance), and 89 (Health Insurance), and subchapter VI of chapter 55 (Payment for accumulated and accrued leave).

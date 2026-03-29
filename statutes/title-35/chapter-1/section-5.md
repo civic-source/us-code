@@ -3,9 +3,9 @@ title: "Section 5 - Patent and Trademark Office Public Advisory Committees"
 usc_title: 35
 usc_section: "5"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "35 U.S.C. § 5"
-generated_at: "2026-03-29T23:52:26.122Z"
+generated_at: "2026-03-29T23:56:40.308Z"
 ---
 
 # § 5. Patent and Trademark Office Public Advisory Committees
@@ -27,6 +27,6 @@ generated_at: "2026-03-29T23:52:26.122Z"
 - **(e)** Each member of each Advisory Committee shall be compensated for each day (including travel time) during which such member is attending meetings or conferences of that Advisory Committee or otherwise engaged in the business of that Advisory Committee, at the rate which is the daily equivalent of the annual rate of basic pay in effect for level III of the Executive Schedule under section 5314 of title 5 . While away from such member’s home or regular place of business such member shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 .
 - **(f)** Members of each Advisory Committee shall be provided access to records and information in the United States Patent and Trademark Office, except for personnel or other privileged information and information concerning patent applications required to be kept in confidence by section 122.
 - **(g)** Members of each Advisory Committee shall be special Government employees within the meaning of section 202 of title 18 .
-- **(h)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to each Advisory Committee.
+- **(h)** Chapter 10 of title 5 shall not apply to each Advisory Committee.
 - **(i)** The meetings of each Advisory Committee shall be open to the public, except that each Advisory Committee may by majority vote meet in executive session when considering personnel, privileged, or other confidential information.
 - **(j)** Section 4 shall not apply to voting members of the Advisory Committees.

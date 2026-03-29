@@ -3,9 +3,9 @@ title: "Section 4681 - Imposition of tax"
 usc_title: 26
 usc_section: "4681"
 chapter: 38
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 4681"
-generated_at: "2026-03-29T23:52:10.218Z"
+generated_at: "2026-03-29T23:56:24.878Z"
 ---
 
 # § 4681. Imposition of tax

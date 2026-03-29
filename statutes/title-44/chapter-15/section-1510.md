@@ -3,9 +3,9 @@ title: "Section 1510 - Code of Federal Regulations"
 usc_title: 44
 usc_section: "1510"
 chapter: 15
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "44 U.S.C. § 1510"
-generated_at: "2026-03-29T23:52:52.010Z"
+generated_at: "2026-03-29T23:56:52.979Z"
 ---
 
 # § 1510. Code of Federal Regulations

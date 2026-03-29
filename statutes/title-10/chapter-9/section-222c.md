@@ -3,9 +3,9 @@ title: "Section 222c - Armed forces: Out-Year Unconstrained Total Munitions Requ
 usc_title: 10
 usc_section: "222c"
 chapter: 9
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 222c"
-generated_at: "2026-03-29T23:50:22.212Z"
+generated_at: "2026-03-29T23:54:19.930Z"
 ---
 
 # § 222c. Armed forces: Out-Year Unconstrained Total Munitions Requirements; Out-Year inventory numbers
@@ -22,7 +22,12 @@ generated_at: "2026-03-29T23:50:22.212Z"
   - **(5)** Training and Testing Requirement.
   - **(6)** Total Out-Year Unconstrained Total Munitions Requirement, calculated in accordance with the implementation guidance described in subsection (d).
   - **(7)** Out-year worldwide inventory.
+  - **(8)** Requirement for Protracted Warfare Scenarios, calculated by doubling the duration of each applicable operation plan.
 - **(d)** In submitting information pursuant to subsection (a) for a fiscal year, the chief of staff of each armed force shall describe and explain the munitions requirements process implementation guidance developed by the Under Secretary of Defense for Acquisition and Sustainment and used by such armed force for the munitions requirements process for such armed force for that fiscal year.
-- **(e)** In this section:
+- **(e)** Each report required under subsection (a) shall include the following:
+  - **(1)** The number of years required to meet the Out-Year Unconstrained Total Munitions Requirement at the rate requested for the fiscal year covered by the report.
+  - **(2)** The average rate of procurement during the three-year period preceding the date of the submission of the report, and the number of years required to meet the Out-Year Unconstrained Total Munitions Requirement at such three-year average rate.
+  - **(3)** The additional amount of funding that would be required, for each fiscal year, to meet the Out-Year Unconstrained Total Munitions Requirement for each munition by the end of the period covered by the most recent future-years defense program submitted to Congress pursuant to section 221 of this title .
+- **(f)** In this section:
   - **(1)** The term “chief of staff”, with respect to the Marine Corps, means the Commandant of the Marine Corps.
   - **(2)** The term “Out-Year Unconstrained Total Munitions Requirement” has the meaning given that term in and for purposes of Department of Defense Instruction 3000.04, or any successor instruction.

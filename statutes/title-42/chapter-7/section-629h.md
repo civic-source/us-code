@@ -3,9 +3,9 @@ title: "Section 629h - Entitlement funding for State courts to assess and improv
 usc_title: 42
 usc_section: "629h"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 629h"
-generated_at: "2026-03-29T23:53:16.204Z"
+generated_at: "2026-03-29T23:57:26.688Z"
 ---
 
 # § 629h. Entitlement funding for State courts to assess and improve handling of proceedings relating to foster care and adoption
@@ -37,4 +37,4 @@ generated_at: "2026-03-29T23:53:16.204Z"
     - **(A)** are operating a program under part E, in accordance with section 679c of this title ;
     - **(B)** are seeking to operate a program under part E and have received an implementation grant under section 676 of this title ; or
     - **(C)** have a court responsible for proceedings related to foster care or adoption.
-- **(d)** Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2018 through 2022.
+- **(d)** Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2018 through 2023.

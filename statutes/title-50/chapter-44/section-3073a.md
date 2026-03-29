@@ -3,22 +3,29 @@ title: "Section 3073a - Requirements for certain employment activities by former
 usc_title: 50
 usc_section: "3073a"
 chapter: 44
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "50 U.S.C. § 3073a"
-generated_at: "2026-03-29T23:53:23.640Z"
+generated_at: "2026-03-29T23:57:33.288Z"
 ---
 
 # § 3073a. Requirements for certain employment activities by former intelligence officers and employees
 
 - **(a)**
-  - **(1)** Except as provided by paragraph (2), an employee of an element of the intelligence community who occupies a covered intelligence position may not occupy a covered post-service position during the 30-month period following the date on which the employee ceases to occupy a covered intelligence position.
+  - **(1)**
+    - **(A)** Except as provided by paragraph (2)(A)(i), an employee of an element of the intelligence community who occupies a covered intelligence position may not occupy a covered post-service position for a designated prohibited foreign country following the date on which the employee ceases to occupy a covered intelligence position.
+    - **(B)** Except as provided by paragraph (2)(A)(ii), an employee of an element of the intelligence community who occupies a covered intelligence position may not occupy a covered post-service position during the 30-month period following the date on which the employee ceases to occupy a covered intelligence position.
   - **(2)**
-    - **(A)** On a case-by-case basis, the Director of National Intelligence may temporarily waive the restriction in paragraph (1) with respect to an employee or former employee who is subject to that restriction if—
-      - **(i)** the employee or former employee submits to the Director a written application for such waiver in such form and manner as the Director determines appropriate; and
-      - **(ii)** the Director determines that such waiver is necessary to advance the national security interests of the United States.
+    - **(A)**
+      - **(i)** On a case-by-case basis, the Director of National Intelligence may temporarily waive the restriction in paragraph (1)(A) with respect to an employee or former employee who is subject to that restriction only after—
+        - **(I)** the employee or former employee submits to the Director a written application for such waiver in such form and manner as the Director determines appropriate;
+        - **(II)** the Director determines that not granting such waiver would result in a grave detrimental impact to current or future intelligence operations of the United States; and
+        - **(III)** the Director provides the congressional intelligence committees with a detailed justification stating why not granting such waiver would result in a grave detrimental impact to current or future intelligence operations of the United States.
+      - **(ii)** On a case-by-case basis, the Director may temporarily waive the restriction in paragraph (1)(B) with respect to an employee or former employee who is subject to that restriction only after—
+        - **(I)** the employee or former employee submits to the Director a written application for such waiver in such form and manner as the Director determines appropriate; and
+        - **(II)** the Director determines that such waiver is necessary to advance the national security interests of the United States.
     - **(B)** A waiver issued under subparagraph (A) shall apply for a period not exceeding 5 years. The Director may renew such a waiver.
     - **(C)** The Director may revoke a waiver issued under subparagraph (A) to an employee or former employee, effective on the date that is 60 days after the date on which the Director provides the employee or former employee written notice of such revocation.
-    - **(D)** The 30-month restriction in paragraph (1) shall be tolled for an employee or former employee during the period beginning on the date on which a waiver is issued under subparagraph (A) and ending on the date on which the waiver expires or on the effective date of a revocation under subparagraph (C), as the case may be.
+    - **(D)** The 30-month restriction in paragraph (1)(B) shall be tolled for an employee or former employee during the period beginning on the date on which a waiver is issued under subparagraph (A) and ending on the date on which the waiver expires or on the effective date of a revocation under subparagraph (C), as the case may be.
     - **(E)** Not later than 30 days after the date on which the Director issues a waiver under subparagraph (A) or a revocation of a waiver under subparagraph (C), the Director shall submit to the congressional intelligence committees written notification of the waiver or revocation, as the case may be. Such notification shall include the following:
       - **(i)** With respect to a waiver issued to an employee or former employee—
         - **(I)** the details of the application, including the covered intelligence position held or formerly held by the employee or former employee;
@@ -32,9 +39,7 @@ generated_at: "2026-03-29T23:53:23.640Z"
   - **(1)** During the period described in paragraph (2), an employee who ceases to occupy a covered intelligence position shall—
     - **(A)** report covered post-service employment to the head of the element of the intelligence community that employed such employee in such covered intelligence position upon accepting such covered post-service employment; and
     - **(B)** annually (or more frequently if the head of such element considers it appropriate) report covered post-service employment to the head of such element.
-  - **(2)** The period described in this paragraph is the period beginning on the date on which an employee ceases to occupy a covered intelligence position and ending on the date that is—
-    - **(A)** 5 years after the employee ceases to occupy such position, plus
-    - **(B)** the number of months for which the employee is issued a waiver under subsection (a)(2).
+  - **(2)** The period described in this paragraph is the period beginning on the date on which an employee ceases to occupy a covered intelligence position.
   - **(3)** The head of each element of the intelligence community shall issue regulations requiring, as a condition of employment, each employee of such element occupying a covered intelligence position to sign a written agreement requiring the regular reporting of covered post-service employment to the head of such element pursuant to paragraph (1).
 - **(c)**
   - **(1)** A former employee who knowingly and willfully violates subsection (a) or who knowingly and willfully fails to make a required report under subsection (b) shall be fined under title 18 or imprisoned for not more than 5 years, or both. Each report under subsection (b) shall be subject to section 1001 of title 18 .
@@ -42,6 +47,9 @@ generated_at: "2026-03-29T23:53:23.640Z"
 - **(d)**
   - **(1)** The head of each element of the intelligence community shall regularly provide training on the reporting requirements under subsection (b) to employees of that element who occupy a covered intelligence position.
   - **(2)** The head of each element of the intelligence community shall provide written notice of the reporting requirements under subsection (b) to an employee when the employee ceases to occupy a covered intelligence position.
+  - **(3)** The head of each element of the intelligence community shall provide written notice of the restrictions under subsection (a) to any person who may be subject to such restrictions on or after December 23, 2022 —
+    - **(A)** when the head of the element determines that such person may become subject to such covered intelligence position restrictions; and
+    - **(B)** before the person ceases to occupy a covered intelligence position.
 - **(e)**
   - **(1)** Not later than March 31 of each year, the Director of National Intelligence shall submit to the congressional intelligence committees a report on covered post-service employment occurring during the year covered by the report.
   - **(2)** Each report under paragraph (1) shall include the following:
@@ -68,8 +76,15 @@ generated_at: "2026-03-29T23:53:23.640Z"
   - **(1)** The term “covered intelligence position” means a position within an element of the intelligence community that, based on the level of access of a person occupying such position to information regarding sensitive intelligence sources or methods or other exceptionally sensitive matters, the head of such element determines should be subject to the requirements of this section.
   - **(2)** The term “covered post-service employment” means direct or indirect employment by, representation of, or any provision of advice or services relating to national security, intelligence, the military, or internal security to, the government of a foreign country or any company, entity, or other person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized, in whole or in major part, by any government of a foreign country.
   - **(3)** The term “covered post-service position” means a position of employment described in paragraph (2).
-  - **(4)** The term “employee”, with respect to an employee occupying a covered intelligence position, includes an officer or official of an element of the intelligence community, a contractor of such an element, a detailee to such an element, or a member of the Armed Forces assigned to such an element.
-  - **(5)** The term “former employee” means an individual—
+  - **(4)** The term “designated prohibited foreign country” means the following:
+    - **(A)** The People’s Republic of China.
+    - **(B)** The Russian Federation.
+    - **(C)** The Democratic People’s Republic of Korea.
+    - **(D)** The Islamic Republic of Iran.
+    - **(E)** The Republic of Cuba.
+    - **(F)** The Syrian Arab Republic.
+  - **(5)** The term “employee”, with respect to an employee occupying a covered intelligence position, includes an officer or official of an element of the intelligence community, a contractor of such an element, a detailee to such an element, or a member of the Armed Forces assigned to such an element.
+  - **(6)** The term “former employee” means an individual—
     - **(A)** who was an employee occupying a covered intelligence position; and
     - **(B)** who is subject to the requirements under subsection (a) or (b).
-  - **(6)** The term “government of a foreign country” has the meaning given the term in section 611(e) of title 22 .
+  - **(7)** The term “government of a foreign country” has the meaning given the term in section 611(e) of title 22 .

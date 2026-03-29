@@ -3,14 +3,14 @@ title: "Section 53406 - Payments"
 usc_title: 46
 usc_section: "53406"
 chapter: 534
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "46 U.S.C. § 53406"
-generated_at: "2026-03-29T23:53:20.153Z"
+generated_at: "2026-03-29T23:57:43.100Z"
 ---
 
 # § 53406. Payments
 
-- **(a)** Subject to the availability of appropriations for such purpose and the other provisions of this chapter, the Secretary shall pay to program participant for an operating agreement under this chapter an amount equal to $6,000,000 for each vessel covered by the agreement for each fiscal year that the vessel is covered by the agreement. Such amount shall be paid in equal monthly installments on the last day of each month. The amount payable under this subsection may not be reduced except as provided by this section.
+- **(a)** Subject to the availability of appropriations for such purpose and the other provisions of this chapter, the Secretary shall pay to program participant for an operating agreement under this chapter an amount equal to $6,000,000 for each vessel covered by the agreement for each fiscal year that the vessel is covered by the agreement. Such amount shall be paid in equal monthly installments on the last day of each month. The amount payable under this subsection may not be reduced except as provided by this section or section 51307(b).
 - **(b)** As a condition of receiving payment under this section for a fiscal year for a vessel, the program participant shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53405(a) of this title for at least 320 days during the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 - **(c)** The Secretary may not make any payment under this chapter for a vessel with respect to any days for which the vessel is—
   - **(1)** not operated or maintained in accordance with an operating agreement under this chapter;

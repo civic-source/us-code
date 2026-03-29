@@ -3,14 +3,14 @@ title: "Section 12651d - Authorities and duties of the Chief Executive Officer"
 usc_title: 42
 usc_section: "12651d"
 chapter: 129
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 12651d"
-generated_at: "2026-03-29T23:53:16.657Z"
+generated_at: "2026-03-29T23:57:27.196Z"
 ---
 
 # § 12651d. Authorities and duties of the Chief Executive Officer
 
-- **(a)** The Chief Executive Officer shall be responsible for the exercise of the powers and the discharge of the duties of the Corporation that are not reserved to the Board, and shall have authority and control over all personnel of the Corporation, except as provided in section 8E 1 1 See References in Text note below. of the Inspector General Act of 1978.
+- **(a)** The Chief Executive Officer shall be responsible for the exercise of the powers and the discharge of the duties of the Corporation that are not reserved to the Board, and shall have authority and control over all personnel of the Corporation, except as provided in section 414 of title 5 .
 - **(b)** In addition to the duties conferred on the Chief Executive Officer under any other provision of the national service laws, the Chief Executive Officer, in collaboration with the State Commissions, shall—
   - **(1)** prepare and submit to the Board a strategic plan, including a plan for having 50 percent of all approved national service positions be full-time positions by 2012, every 3 years, and annual updates of the plan, for the Corporation with respect to the major functions and operations of the Corporation;
   - **(2)**

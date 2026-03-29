@@ -3,9 +3,9 @@ title: "Section 137 - Use and regulation of law library"
 usc_title: 2
 usc_section: "137"
 chapter: 5
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "2 U.S.C. § 137"
-generated_at: "2026-03-29T23:50:07.796Z"
+generated_at: "2026-03-29T23:54:02.900Z"
 ---
 
 # § 137. Use and regulation of law library

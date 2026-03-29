@@ -3,18 +3,18 @@ title: "Section 941f - Reports"
 usc_title: 16
 usc_section: "941f"
 chapter: 15
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "16 U.S.C. § 941f"
-generated_at: "2026-03-29T23:51:16.200Z"
+generated_at: "2026-03-29T23:55:31.119Z"
 ---
 
 # § 941f. Reports
 
-- **(a)** Not later than December 31, 2021 , the Director shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes—
+- **(a)** Not later than December 31, 2021 , and not later than December 31, 2027 , the Director shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes, with respect to the period covered by the report—
   - **(1)** actions taken to solicit and review proposals under section 941c of this title ;
   - **(2)** the results of proposals implemented under section 941c of this title ; and
   - **(3)** progress toward the accomplishment of the goals specified in section 941d of this title .
-- **(b)** For each of fiscal years 2016 through 2020, the Director shall make available through a public access website of the Department information that describes—
+- **(b)** For each of fiscal years 2023 through 2028, the Director shall make available through a public access website of the Department information that describes—
   - **(1)** actions taken to solicit and review proposals under section 941c of this title ;
   - **(2)** the results of proposals implemented under section 941c of this title ;
   - **(3)** progress toward the accomplishment of the goals specified in section 941d of this title ;

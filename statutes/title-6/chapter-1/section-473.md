@@ -3,9 +3,9 @@ title: "Section 473 - Cyber Crimes Center, Child Exploitation Investigations Uni
 usc_title: 6
 usc_section: "473"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "6 U.S.C. § 473"
-generated_at: "2026-03-29T23:50:11.194Z"
+generated_at: "2026-03-29T23:54:07.944Z"
 ---
 
 # § 473. Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit
@@ -109,4 +109,4 @@ generated_at: "2026-03-29T23:50:11.194Z"
   - **(7)** The Secretary shall establish within Homeland Security Investigations positions, which shall be in addition to any positions in existence on December 21, 2019 , for the hiring and permanent employment of graduates of the paid internship program required to be established under paragraph (1).
 - **(g)**
   - **(1)** There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section.
-  - **(2)** Of the amount made available pursuant to paragraph (1) in each of fiscal years 2019 through 2022, not more than $10,000,000 shall be used to carry out subsection (e) and not less than $2,000,000 shall be used to carry out subsection (f).
+  - **(2)** Of the amount made available pursuant to paragraph (1) in each of fiscal years 2022 through 2027, not more than $10,000,000 shall be used to carry out subsection (e) and not less than $2,000,000 shall be used to carry out subsection (f).

@@ -3,9 +3,9 @@ title: "Section 414 - Definitions and special rules"
 usc_title: 26
 usc_section: "414"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "26 U.S.C. § 414"
-generated_at: "2026-03-29T23:52:10.117Z"
+generated_at: "2026-03-29T23:56:24.766Z"
 ---
 
 # § 414. Definitions and special rules
@@ -194,7 +194,7 @@ generated_at: "2026-03-29T23:52:10.117Z"
       - **(ii)** with respect to which the requirements of paragraphs (2) and (3) are met.
     - **(B)** The term “domestic relations order” means any judgment, decree, or order (including approval of a property settlement agreement) which—
       - **(i)** relates to the provision of child support, alimony payments, or marital property rights to a spouse, former spouse, child, or other dependent of a participant, and
-      - **(ii)** is made pursuant to a State domestic relations law (including a community property law).
+      - **(ii)** is made pursuant to a State or Tribal domestic relations law (including a community property law).
   - **(2)** A domestic relations order meets the requirements of this paragraph only if such order clearly specifies—
     - **(A)** the name and the last known mailing address (if any) of the participant and the name and mailing address of each alternate payee covered by the order,
     - **(B)** the amount or percentage of the participant’s benefits to be paid by the plan to each such alternate payee, or the manner in which such amount or percentage is to be determined,
@@ -478,3 +478,25 @@ generated_at: "2026-03-29T23:52:10.117Z"
     - **(C)** The term “accrued benefit” means—
       - **(i)** in the case of a defined benefit plan, the employee’s accrued benefit determined under the plan, and
       - **(ii)** in the case of a plan other than a defined benefit plan, the balance of the employee’s account under the plan.
+- **(aa)**
+  - **(1)** A plan shall not fail to be treated as described in clause (i), (ii), (iii), or (iv) of section 219(g)(5)(A) (and shall not fail to be treated as satisfying the requirements of section 401(a) or 403) merely because—
+    - **(A)** the plan fails to obtain payment from any participant, beneficiary, employer, plan sponsor, fiduciary, or other party on account of any inadvertent benefit overpayment made by the plan, or
+    - **(B)** the plan sponsor amends the plan to increase past, or decrease future, benefit payments to affected participants and beneficiaries in order to adjust for prior inadvertent benefit overpayments.
+  - **(2)** Paragraph (1) shall not fail to apply to a plan merely because, after discovering a benefit overpayment, such plan—
+    - **(A)** reduces future benefit payments to the correct amount provided for under the terms of the plan, or
+    - **(B)** seeks recovery from the person or persons responsible for such overpayment.
+  - **(3)** Nothing in this subsection shall relieve an employer of any obligation imposed on it to make contributions to a plan to meet the minimum funding standards under sections 412 and 430 or to prevent or restore an impermissible forfeiture in accordance with section 411.
+  - **(4)** Notwithstanding paragraph (1), a plan to which paragraph (1) applies shall observe any limitations imposed on it by section 401(a)(17) or 415. The plan may enforce such limitations using any method approved by the Secretary for recouping benefits previously paid or allocations previously made in excess of such limitations.
+  - **(5)** The Secretary may issue regulations or other guidance of general applicability specifying how benefit overpayments and their recoupment or non-recoupment from a participant or beneficiary shall be taken into account for purposes of satisfying any requirement applicable to a plan to which paragraph (1) applies.
+- **(bb)**
+  - **(1)** Notwithstanding any other provision of this title, with respect to any defined contribution plan, no disclosure, notice, or other plan document (other than the notices and documents described in subparagraphs (A) and (B)) shall be required to be furnished under this title to any unenrolled participant if the unenrolled participant is furnished—
+    - **(A)** an annual reminder notice of such participant’s eligibility to participate in such plan and any applicable election deadlines under the plan, and
+    - **(B)** any document requested by such participant that the participant would be entitled to receive notwithstanding this subsection.
+  - **(2)** For purposes of this subsection, the term “unenrolled participant” means an employee who—
+    - **(A)** is eligible to participate in a defined contribution plan,
+    - **(B)** has been furnished—
+      - **(i)** the summary plan description pursuant to section 104(b) of the Employee Retirement Income Security Act of 1974, and
+      - **(ii)** any other notices related to eligibility under the plan and required to be furnished under this title, or the Employee Retirement Income Security Act of 1974, in connection with such participant’s initial eligibility to participate in such plan,
+    - **(C)** is not participating in such plan, and
+    - **(D)** satisfies such other criteria as the Secretary of the Treasury may determine appropriate, as prescribed in guidance issued in consultation with the Secretary of Labor.
+  - **(3)** For purposes of this subsection, the term “annual reminder notice” means the notice described in section 111(c) of the Employee Retirement Income Security Act of 1974.

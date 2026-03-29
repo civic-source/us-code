@@ -1,0 +1,19 @@
+---
+title: "Section 3382 - Purposes"
+usc_title: 22
+usc_section: "3382"
+chapter: 48
+current_through: "PL 118-3"
+classification: "22 U.S.C. § 3382"
+generated_at: "2026-03-29T23:55:52.455Z"
+---
+
+# § 3382. Purposes
+
+The purposes of this subchapter are—
+
+  - **(1)** to further strengthen the United States-Taiwan strategic partnership and broaden understanding of the Indo-Pacific region by temporarily assigning officials of any agencies of the United States Government to Taiwan for intensive study in Mandarin and placement as Fellows in a Taiwanese civic institution;
+  - **(2)** to provide for eligible United States personnel—
+    - **(A)** to learn or strengthen Mandarin Chinese language skills; and
+    - **(B)** to expand their understanding of the political economy of Taiwan and the Indo-Pacific region; and
+  - **(3)** to better position the United States to advance its economic, security, and human rights interests and values in the Indo-Pacific region.

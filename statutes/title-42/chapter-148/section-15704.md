@@ -3,9 +3,9 @@ title: "Section 15704 - National Advisory Committee on Windstorm Impact Reductio
 usc_title: 42
 usc_section: "15704"
 chapter: 148
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 15704"
-generated_at: "2026-03-29T23:53:16.694Z"
+generated_at: "2026-03-29T23:57:27.229Z"
 ---
 
 # § 15704. National Advisory Committee on Windstorm Impact Reduction
@@ -24,6 +24,6 @@ generated_at: "2026-03-29T23:53:16.694Z"
   - **(5)** any revisions to the Program which may be necessary.
 - **(c)** The members of the Advisory Committee established under this section shall serve without compensation.
 - **(d)** At least every 2 years, the Advisory Committee shall report to the Director on the assessments carried out under subsection (b) and its recommendations for ways to improve the Program.
-- **(e)** Notwithstanding section 14(b)(2) of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall not be required to file a charter subsequent to its initial charter, filed under section 9(c) of such Act, before the termination date specified in subsection (f) of this section.
+- **(e)** Notwithstanding section 1013(b)(2) of title 5 , the Advisory Committee shall not be required to file a charter subsequent to its initial charter, filed under section 1008(c) of title 5 , before the termination date specified in subsection (f) of this section.
 - **(f)** The Advisory Committee shall terminate on September 30, 2017 .
 - **(g)** An Advisory Committee member shall recuse himself from any Advisory Committee activity in which he has an actual pecuniary interest.

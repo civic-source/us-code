@@ -3,9 +3,9 @@ title: "Section 15301 - Establishment, membership, and employees"
 usc_title: 40
 usc_section: "15301"
 chapter: 153
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "40 U.S.C. § 15301"
-generated_at: "2026-03-29T23:52:43.282Z"
+generated_at: "2026-03-29T23:56:49.859Z"
 ---
 
 # § 15301. Establishment, membership, and employees
@@ -14,6 +14,7 @@ generated_at: "2026-03-29T23:52:43.282Z"
   - **(1)** The Southeast Crescent Regional Commission.
   - **(2)** The Southwest Border Regional Commission.
   - **(3)** The Northern Border Regional Commission.
+  - **(4)** The Great Lakes Authority.
 - **(b)**
   - **(1)** Each Commission shall be composed of the following members:
     - **(A)** A Federal Cochairperson, to be appointed by the President, by and with the advice and consent of the Senate.

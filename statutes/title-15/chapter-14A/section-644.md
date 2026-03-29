@@ -3,9 +3,9 @@ title: "Section 644 - Awards or contracts"
 usc_title: 15
 usc_section: "644"
 chapter: 14
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 644"
-generated_at: "2026-03-29T23:50:50.542Z"
+generated_at: "2026-03-29T23:54:56.050Z"
 ---
 
 # § 644. Awards or contracts
@@ -289,24 +289,23 @@ generated_at: "2026-03-29T23:50:50.542Z"
 - **(n)** For purposes of this section, the determination of labor surplus areas shall be made on the basis of the criteria in effect at the time of the determination, except that any minimum population criteria shall not exceed twenty-five thousand. Such determination, as modified by the preceding sentence, shall be made by the Secretary of Labor.
 - **(o)** A concern may not be awarded a contract under subsection (a) as a small business concern unless the concern agrees to satisfy the requirements of section 657s of this title .
 - **(p)**
-  - **(1)** In this subsection, the term “bundled contract” has the meaning given such term in section 632( o )(1) of this title.
-  - **(2)**
-    - **(A)** Not later than 180 days after December 21, 2000 , the Administrator of the Small Business Administration shall develop and shall thereafter maintain a database containing data and information regarding—
-      - **(i)** each bundled contract awarded by a Federal agency; and
-      - **(ii)** each small business concern that has been displaced as a prime contractor as a result of the award of such a contract.
+  - **(1)** In this subsection, the term “bundled or consolidated contract” has the meaning given in subsection (s).
+  - **(2)** Not later than 180 days after December 21, 2000 , the Administrator of the Small Business Administration shall develop and shall thereafter maintain a database containing data and information regarding—
+    - **(A)** each bundled contract awarded by a Federal agency; and
+    - **(B)** each small business concern that has been displaced as a prime contractor as a result of the award of such a contract.
   - **(3)** For each bundled contract that is to be recompeted as a bundled contract, the Administrator shall determine—
     - **(A)** the amount of savings and benefits (in accordance with subsection (e)) achieved under the bundling of contract requirements; and
     - **(B)** whether such savings and benefits will continue to be realized if the contract remains bundled, and whether such savings and benefits would be greater if the procurement requirements were divided into separate solicitations suitable for award to small business concerns.
   - **(4)**
-    - **(A)** Not later than 1 year after December 21, 2000 , and annually in March thereafter, the Administration shall transmit a report on contract bundling to the Committees on Small Business of the House of Representatives and the Senate.
+    - **(A)** Not later than 1 year after December 21, 2000 , and annually in March thereafter, the Administration shall transmit a report on bundled or consolidated contracts to the Committees on Small Business of the House of Representatives and the Senate.
     - **(B)** Each report transmitted under subparagraph (A) shall include—
-      - **(i)** data on the number, arranged by industrial classification, of small business concerns displaced as prime contractors as a result of the award of bundled contracts by Federal agencies; and
-      - **(ii)** a description of the activities with respect to previously bundled contracts of each Federal agency during the preceding year, including—
-        - **(I)** data on the number and total dollar amount of all contract requirements that were bundled; and
-        - **(II)** with respect to each bundled contract, data or information on—
+      - **(i)** data on the number, arranged by industrial classification, of small business concerns displaced as prime contractors as a result of the award of bundled or consolidated contracts by Federal agencies; and
+      - **(ii)** a description of the activities with respect to previously bundled or consolidated contracts of each Federal agency during the preceding year, including—
+        - **(I)** data on the number and total dollar amount of all contract requirements that were included in bundled or consolidated contracts; and
+        - **(II)** with respect to each bundled or consolidated contract, data or information on—
   - **(5)**
     - **(A)** To assist in the implementation of this section, the Administration shall have access to information collected through the Federal Procurement Data System.
-    - **(B)** To assist in the implementation of this section, the head of each contracting agency shall provide, upon request of the Administration, procurement information collected through existing agency data collection sources.
+    - **(B)** To assist in the implementation of this section, the head of each contracting agency shall provide to the Administrator data and information described in paragraphs (2) and (4).
 - **(q)**
   - **(1)**
     - **(A)** Each Federal agency shall include in each solicitation for any multiple award contract above the substantial bundling threshold of the Federal agency a provision soliciting bids from any responsible source, including responsible small business concerns and teams or joint ventures of small business concerns.
@@ -367,4 +366,24 @@ generated_at: "2026-03-29T23:50:50.542Z"
     - **(G)** After the completion of the performance of the contract through a contract modification addressing all undefinitized requests for an equitable adjustment received during the term of the contract.
 - **(x)**
   - **(1)** If an agency awards a prime contract to Puerto Rico business or a covered territory business, or a prime contractor awards a subcontract (at any tier) to a subcontractor that is a Puerto Rico business or a covered territory business, during the period beginning on August 13, 2018 , and ending on the date that is 4 years after such date, the value of the contract or subcontract shall be doubled for purposes of determining compliance with the goals for procurement contracts under subsection (g)(1)(A) during such period.
-  - **(2)** Along with the report required under subsection (h)(1), the head of each Federal agency shall submit to the Administrator, and make publicly available on the scorecard described in section 868(b) of the National Defense Authorization Act for Fiscal Year 2016 ( 15 U.S.C. 644 note), an analysis of the number and dollar amount of prime contracts awarded pursuant to paragraph (1) for each fiscal year of the period described in such paragraph.
+  - **(2)** Along with the report required under subsection (h)(1), the head of each Federal agency shall submit to the Administrator, and make publicly available on the scorecard (as defined in subsection (y)), an analysis of the number and dollar amount of prime contracts awarded pursuant to paragraph (1) for each fiscal year of the period described in such paragraph.
+- **(y)**
+  - **(1)** The Administrator shall use a scorecard to annually evaluate whether each Federal agency is creating the maximum practicable opportunities for the award of prime contracts and subcontracts to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women, by assigning a score to each Federal agency for the previous fiscal year.
+  - **(2)** The scorecard shall include, for each Federal agency and Governmentwide, the following information:
+    - **(A)** A determination of whether a Federal agency or the Federal Government, as applicable, met each of the prime contract goals established pursuant to subsection (g)(1)(B) with respect to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+    - **(B)** A determination of whether a Federal agency or the Federal Government, as applicable, met each of the subcontract goals established pursuant to such section with respect to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+    - **(C)** The number of small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women awarded prime contracts in each North American Industry Classification System code during the fiscal year and a comparison to the number of awarded contracts during the prior fiscal year, if available.
+    - **(D)** The number of small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women awarded subcontracts in each North American Industry Classification System code during the fiscal year and a comparison to the number of awarded subcontracts during the prior fiscal year, if available.
+    - **(E)** Any other factors that the Administrator deems important to achieve the maximum practicable utilization of small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+  - **(3)** In using the scorecard to evaluate and assign a score to a Federal agency, the Administrator shall base—
+    - **(A)** fifty percent of the score on the dollar value of prime contracts described in paragraph (2)(A); and
+    - **(B)** fifty percent of the score on the information provided in subparagraphs (B) through (E) of paragraph (2), weighted in a manner determined by the Administrator to encourage the maximum practicable opportunity for the award of prime contracts and subcontracts to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+  - **(4)** The scorecard shall include, for each Federal agency and Governmentwide, the following information with respect to prime contracts:
+    - **(A)** The number (expressed as a percentage) and total dollar amount of awards made to small business concerns owned and controlled by women through sole source contracts and competitions restricted to small business concerns owned and controlled by women under section 637(m) of this title .
+    - **(B)** The number (expressed as a percentage) and total dollar amount of awards made to small business concerns owned and controlled by qualified HUBZone small business concerns through sole source contracts and competitions restricted to qualified HUBZone small business concerns under section 657a(c)(2) of this title .
+    - **(C)** The number (expressed as a percentage) and total dollar amount of awards made to small business concerns owned and controlled by service-disabled veterans through sole source contracts and competitions restricted to small business concerns owned and controlled by service-disabled veterans under section 657f of this title .
+    - **(D)** The number (expressed as a percentage) and total dollar amount of awards made to socially and economically disadvantaged small business concerns under section 637(a) of this title through sole source contracts and competitions restricted to socially and economically disadvantaged small business concerns, disaggregated by awards made to such concerns that are owned and controlled by individuals and awards made to such concerns that are owned and controlled by an entity.
+  - **(5)** The scorecard used by the Administrator under this subsection shall be submitted to the President and Congress along with the report submitted under subsection (h)(2).
+  - **(6)** In this subsection, the term “scorecard” means any summary using a rating system to evaluate the efforts of a Federal agency to meet goals established under subsection (g)(1)(B) that—
+    - **(A)** includes the measures described in paragraph (2); and
+    - **(B)** assigns a score to each Federal agency evaluated.

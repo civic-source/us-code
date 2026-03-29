@@ -3,9 +3,9 @@ title: "Section 524 - Availability of appropriations"
 usc_title: 28
 usc_section: "524"
 chapter: 31
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "28 U.S.C. § 524"
-generated_at: "2026-03-29T23:51:48.878Z"
+generated_at: "2026-03-29T23:56:03.394Z"
 ---
 
 # § 524. Availability of appropriations
@@ -42,8 +42,13 @@ generated_at: "2026-03-29T23:51:48.878Z"
       - **(ii)** for equipping any vessel, vehicle, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist law enforcement functions if the vessel, vehicle, or aircraft will be used in a joint law enforcement operation with a Federal agency participating in the Fund; and
       - **(iii)** payments for other equipment directly related to seizure or forfeiture, including laboratory equipment, protective equipment, communications equipment, and the operation and maintenance costs of such equipment;
     - **(G)** for purchase of evidence of any violation of the Controlled Substances Act, the Controlled Substances Import and Export Act, chapter 96 of title 18, or sections 1956 and 1957 of title 18;
-    - **(H)** the payment of State and local property taxes on forfeited real property that accrued between the date of the violation giving rise to the forfeiture and the date of the forfeiture order; and
-    - **(I)** payment of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in a joint law enforcement operation with a Federal law enforcement agency participating in the Fund.
+    - **(H)** the payment of State and local property taxes on forfeited real property that accrued between the date of the violation giving rise to the forfeiture and the date of the forfeiture order;
+    - **(I)** payment of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in a joint law enforcement operation with a Federal law enforcement agency participating in the Fund; and
+    - **(J)** at the discretion of the Attorney General, payments to reimburse operating expenses and program costs incurred by crime-tip organizations that—
+      - **(i)** annually waive their qualification for—
+        - **(I)** awards for information leading to forfeiture under subparagraph (C); and
+        - **(II)** receiving payment from equitably shared forfeiture funds; and
+      - **(ii)** offer rewards for information about violations of Federal criminal laws prohibiting human trafficking.
   - **(2)** Any award paid from the Fund, as provided in paragraph (1)(B) or (C), shall be paid at the discretion of the Attorney General or his delegate, under existing departmental delegation policies for the payment of awards, except that the authority to pay an award of $250,000 or more shall not be delegated to any person other than the Deputy Attorney General, the Associate Attorney General, the Director of the Federal Bureau of Investigation, or the Administrator of the Drug Enforcement Administration. Any award pursuant to paragraph (1)(B) shall not exceed $500,000. Any award pursuant to paragraph (1)(C) shall not exceed the lesser of $500,000 or one-fourth of the amount realized by the United States from the property forfeited, without both the personal approval of the Attorney General and written notice within 30 days thereof to the Chairmen and ranking minority members of the Committees on Appropriations and the Judiciary of the Senate and of the House of Representatives.
   - **(3)** Any amount under subparagraph (G) of paragraph (1) shall be paid at the discretion of the Attorney General or his delegate, except that the authority to pay $100,000 or more may be delegated only to the respective head of the agency involved.
   - **(4)** There shall be deposited in the Fund—

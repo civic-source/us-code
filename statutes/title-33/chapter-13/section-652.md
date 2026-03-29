@@ -3,9 +3,9 @@ title: "Section 652 - Upper Mississippi River Management"
 usc_title: 33
 usc_section: "652"
 chapter: 13
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 652"
-generated_at: "2026-03-29T23:52:21.921Z"
+generated_at: "2026-03-29T23:56:30.031Z"
 ---
 
 # § 652. Upper Mississippi River Management
@@ -37,7 +37,7 @@ generated_at: "2026-03-29T23:52:21.921Z"
     - **(B)** describes the accomplishments of each of the programs;
     - **(C)** provides updates of a systemic habitat needs assessment; and
     - **(D)** identifies any needed adjustments in the authorization of the programs.
-  - **(3)** For purposes of carrying out paragraph (1)(A)(i) of this subsection, there is authorized to be appropriated to the Secretary $40,000,000 for fiscal year 1999 and each fiscal year thereafter.
+  - **(3)** For purposes of carrying out paragraph (1)(A)(i) of this subsection, there is authorized to be appropriated to the Secretary $75,000,000 for fiscal year 1999 and each fiscal year thereafter.
   - **(4)** For purposes of carrying out paragraph (1)(A)(ii) of this subsection, there is authorized to be appropriated to the Secretary $15,000,000 for fiscal year 1999 and each fiscal year thereafter.
   - **(5)** There is authorized to be appropriated to carry out paragraph (1)(B) $350,000 for each of fiscal years 1999 through 2009.
   - **(6)** For fiscal year 1999 and each fiscal year thereafter, the Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, may transfer not to exceed 20 percent of the amounts appropriated to carry out clause (i) or (ii) of paragraph (1)(A) to the amounts appropriated to carry out the other of those clauses.

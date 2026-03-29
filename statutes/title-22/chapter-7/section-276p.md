@@ -3,9 +3,9 @@ title: "Section 276p - United States Senate-Japan Interparliamentary Group"
 usc_title: 22
 usc_section: "276p"
 chapter: 7
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "22 U.S.C. § 276p"
-generated_at: "2026-03-29T23:51:29.427Z"
+generated_at: "2026-03-29T23:55:52.370Z"
 ---
 
 # § 276p. United States Senate-Japan Interparliamentary Group

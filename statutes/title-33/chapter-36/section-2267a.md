@@ -3,9 +3,9 @@ title: "Section 2267a - Watershed and river basin assessments"
 usc_title: 33
 usc_section: "2267a"
 chapter: 36
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 2267a"
-generated_at: "2026-03-29T23:52:21.967Z"
+generated_at: "2026-03-29T23:56:30.081Z"
 ---
 
 # § 2267a. Watershed and river basin assessments
@@ -15,8 +15,11 @@ generated_at: "2026-03-29T23:52:21.967Z"
   - **(2)** flood damage reduction;
   - **(3)** navigation and ports;
   - **(4)** watershed protection;
-  - **(5)** water supply; and
-  - **(6)** drought preparedness.
+  - **(5)** water supply;
+  - **(6)** drought preparedness;
+  - **(7)** sea level rise;
+  - **(8)** coastal storm damage reduction; and
+  - **(9)** streambank and shoreline protection.
 - **(b)** An assessment under subsection (a) shall be carried out in cooperation and coordination with—
   - **(1)** the Secretary of the Interior;
   - **(2)** the Secretary of Agriculture;
@@ -33,8 +36,11 @@ generated_at: "2026-03-29T23:52:21.967Z"
   - **(6)** Tuscarawas River Basin, Ohio;
   - **(7)** Sauk River Basin, Snohomish and Skagit Counties, Washington;
   - **(8)** Niagara River Basin, New York;
-  - **(9)** Genesee River Basin, New York; and
-  - **(10)** White River Basin, Arkansas and Missouri.
+  - **(9)** Genesee River Basin, New York;
+  - **(10)** White River Basin, Arkansas and Missouri;
+  - **(11)** New York-New Jersey Watershed Basin, which encompasses all the watersheds that flow into the New York-New Jersey Harbor and their associated estuaries, including the Hudson, Mohawk, Raritan, Passaic, Hackensack, and Bronx River Watersheds and the Hudson River Estuary;
+  - **(12)** Mississippi River Watershed; and
+  - **(13)** Chattahoochee River Basin, Alabama, Florida, and Georgia.
 - **(e)** In carrying out an assessment under subsection (a), the Secretary may accept contributions, in cash or in kind, from Federal, tribal, State, interstate, and local governmental entities to the extent that the Secretary determines that the contributions will facilitate completion of the assessment.
 - **(f)**
   - **(1)** The non-Federal share of the costs of an assessment carried out under this section on or after December 11, 2000 , shall be 25 percent.

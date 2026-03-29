@@ -3,9 +3,9 @@ title: "Section 2213 - Flood control and other purposes"
 usc_title: 33
 usc_section: "2213"
 chapter: 36
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "33 U.S.C. § 2213"
-generated_at: "2026-03-29T23:52:21.962Z"
+generated_at: "2026-03-29T23:56:30.076Z"
 ---
 
 # § 2213. Flood control and other purposes
@@ -76,10 +76,23 @@ generated_at: "2026-03-29T23:52:21.962Z"
   - **(3)**
     - **(A)** The Secretary is authorized to credit any costs incurred by the non-Federal interest (including in-kind contributions) to remedy a design or construction deficiency of a covered project or separable element toward the non-Federal share of the cost of the covered project, if the Secretary determines the remedy to be integral to the completion or performance of the covered project.
     - **(B)** If the non-Federal interest incurs costs or in-kind contributions for a project to remedy a design or construction deficiency of a project or separable element which has a 100 percent Federal cost share, and the Secretary determines the remedy to be integral to the completion or performance of the project, the Secretary is authorized to credit such costs to any interest accrued on a deferred non-Federal contribution.
-  - **(4)** Notwithstanding a deferred payment agreement with a non-Federal interest, the Secretary shall accept, without interest of any type, the repayment of a non-Federal contribution for any eligible deferred payment described in paragraph (2)(B) for which—
-    - **(A)** the non-Federal interest makes a payment of at least $200 million for that eligible deferred payment agreement on or before September 30, 2021 ; and
-    - **(B)** the non-Federal interest repays the remaining principal by September 30, 2023 .
-- **(l)** At the request of any non-Federal interest the Secretary may permit such non-Federal interest to delay the initial payment of any non-Federal contribution under this section or section 2211 of this title for up to one year after the date when construction is begun on the project for which such contribution is to be made. Any such delay in initial payment shall be subject to interest charges for up to six months at a rate determined pursuant to section 2216 of this title .
+  - **(4)**
+    - **(A)** Notwithstanding a deferred payment agreement with a non-Federal interest, the Secretary shall accept, without interest of any type, the repayment of a non-Federal contribution for any eligible deferred payment described in paragraph (2)(B) for which—
+      - **(i)** the non-Federal interest makes a payment of at least $200,000,000 for that eligible deferred payment agreement on or before September 30, 2021 ;
+      - **(ii)** the non-Federal interest repays an amount equal to ⅔ of the remaining principal by September 30, 2023 ; and
+      - **(iii)** the non-Federal interest repays the balance of remaining principal by June 1, 2032 .
+    - **(B)** Repayment of a non-Federal contribution under subparagraph (A)(iii) may be satisfied through the provision by the non-Federal interest of fish and wildlife mitigation for one or more projects or separable elements, if the Secretary determines that—
+      - **(i)** the non-Federal interest has incurred costs for the provision of mitigation that—
+        - **(I)** equal or exceed the amount of the required repayment; and
+        - **(II)** are in excess of any required non-Federal contribution for the project or separable element for which the mitigation is provided; and
+      - **(ii)** the mitigation is integral to the project for which it is provided.
+- **(l)**
+  - **(1)** At the request of any non-Federal interest the Secretary may permit such non-Federal interest to delay the initial payment of any non-Federal contribution under this section or section 2211 of this title for up to one year after the date when construction is begun on the project for which such contribution is to be made. Any such delay in initial payment shall be subject to interest charges for up to six months at a rate determined pursuant to section 2216 of this title .
+  - **(2)**
+    - **(A)** At the request of any non-Federal interest, the Secretary may waive the accrual of interest on any non-Federal cash contribution under this section or section 2211 of this title for a project for a period of not more than 1 year if the Secretary determines that—
+      - **(i)** the waiver will contribute to the ability of the non-Federal interest to make future contributions; and
+      - **(ii)** the non-Federal interest is in good standing under terms agreed to under subsection (k)(1).
+    - **(B)** The Secretary may grant not more than 1 waiver under subparagraph (A) for the same project.
 - **(m)**
   - **(1)** Any cost-sharing agreement under this section for a feasibility study, or for construction of an environmental protection and restoration project, a flood control project, a project for navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
   - **(2)** The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with criteria and procedures in effect under paragraph (3) on the day before December 11, 2000 ; except that such criteria and procedures shall be revised, and new criteria and procedures shall be developed, not later than December 31, 2007 , to reflect the requirements of such paragraph (3).

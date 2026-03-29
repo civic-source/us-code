@@ -3,9 +3,9 @@ title: "Section 2184 - Injunctions; measure of damages"
 usc_title: 42
 usc_section: "2184"
 chapter: 23
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "42 U.S.C. § 2184"
-generated_at: "2026-03-29T23:53:16.427Z"
+generated_at: "2026-03-29T23:57:26.938Z"
 ---
 
 # § 2184. Injunctions; measure of damages

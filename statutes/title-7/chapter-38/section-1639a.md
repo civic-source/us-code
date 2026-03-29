@@ -3,9 +3,9 @@ title: "Section 1639a - Applicability"
 usc_title: 7
 usc_section: "1639a"
 chapter: 38
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "7 U.S.C. § 1639a"
-generated_at: "2026-03-29T23:50:42.127Z"
+generated_at: "2026-03-29T23:54:15.572Z"
 ---
 
 # § 1639a. Applicability

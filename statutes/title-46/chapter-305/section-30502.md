@@ -3,12 +3,12 @@ title: "Section 30502 - Application"
 usc_title: 46
 usc_section: "30502"
 chapter: 305
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "46 U.S.C. § 30502"
-generated_at: "2026-03-29T23:53:20.143Z"
+generated_at: "2026-03-29T23:57:43.088Z"
 ---
 
 # § 30502. Application
 
-Except as otherwise provided, this chapter (except section 30503) applies to seagoing vessels and vessels used on lakes or rivers or in inland navigation, including canal boats, barges, and lighters.
-
+- **(a)** Except as otherwise provided, this chapter (except section 30521) applies to seagoing vessels and vessels used on lakes or rivers or in inland navigation, including canal boats, barges, and lighters.
+- **(b)** This chapter (except for section 30526) shall not apply to covered small passenger vessels.

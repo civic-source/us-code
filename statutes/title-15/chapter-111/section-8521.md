@@ -3,9 +3,9 @@ title: "Section 8521 - Weather and climate information in agriculture"
 usc_title: 15
 usc_section: "8521"
 chapter: 111
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 8521"
-generated_at: "2026-03-29T23:50:50.663Z"
+generated_at: "2026-03-29T23:54:56.194Z"
 ---
 
 # § 8521. Weather and climate information in agriculture
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T23:50:50.663Z"
   - **(2)** by contributing to the interagency Earth System Prediction Capability; and
   - **(3)** by consulting with the Secretary of Defense and the Secretary of Homeland Security to determine the highest priority subseasonal and seasonal forecast needs to enhance national security.
 - **(f)**
-  - **(1)** The Under Secretary shall foster effective communication, understanding, and use of the forecasts by the intended users of the information described in subsection (d). This may include assistance to States for forecast communication coordinators to enable local interpretation and planning based on the information.
+  - **(1)** The Under Secretary shall foster effective communication, understanding, and use of the forecasts by the intended users of the information described in subsection (d). This shall include assistance to States for forecast communication coordinators to enable local interpretation and planning based on the information.
   - **(2)** For each State that requests assistance under this subsection, the Under Secretary may—
     - **(A)** provide funds to support an individual in that State—
       - **(i)** to serve as a liaison among the National Oceanic and Atmospheric Administration, other Federal departments and agencies, the weather enterprise, the State, and relevant interests within that State; and

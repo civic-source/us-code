@@ -3,9 +3,9 @@ title: "Section 191 - Establishment; site; acquisition of land"
 usc_title: 20
 usc_section: "191"
 chapter: 11
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "20 U.S.C. § 191"
-generated_at: "2026-03-29T23:51:10.342Z"
+generated_at: "2026-03-29T23:55:05.327Z"
 ---
 
 # § 191. Establishment; site; acquisition of land

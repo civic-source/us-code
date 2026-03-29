@@ -3,9 +3,9 @@ title: "Section 4954 - Cooperative agreements"
 usc_title: 10
 usc_section: "4954"
 chapter: 388
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "10 U.S.C. § 4954"
-generated_at: "2026-03-29T23:50:22.320Z"
+generated_at: "2026-03-29T23:54:20.062Z"
 ---
 
 # § 4954. Cooperative agreements
@@ -17,3 +17,6 @@ generated_at: "2026-03-29T23:50:22.320Z"
 - **(c)** In entering into cooperative agreements under subsection (a), the Secretary shall assure that at least one procurement technical assistance program is carried out in each Department of Defense contract administration services district during each fiscal year.
 - **(d)** In conducting a competition for the award of a cooperative agreement under subsection (a), the Secretary shall give significant weight to successful past performance of eligible entities under a cooperative agreement under this section.
 - **(e)** In determining the level of funding to provide under an agreement under subsection (b), the Secretary shall consider the forecast by the eligible entity of demand for procurement technical assistance, and, in the case of an established program under this chapter, the outlays and receipts of such program during prior years of operation.
+- **(f)** Eligible entities that provide procurement technical assistance pursuant to this chapter may form an association to pursue matters of common concern. If more than a majority of such eligible entities are members of such an association, the Secretary shall—
+  - **(1)** recognize the existence and activities of such an association; and
+  - **(2)** jointly develop with such association a model cooperative agreement that may be used at the option of the Secretary and an eligible entity.

@@ -3,9 +3,9 @@ title: "Section 6113 - Appointment and compensation of employees by President pr
 usc_title: 2
 usc_section: "6113"
 chapter: 61
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "2 U.S.C. § 6113"
-generated_at: "2026-03-29T23:50:07.838Z"
+generated_at: "2026-03-29T23:54:02.953Z"
 ---
 
 # § 6113. Appointment and compensation of employees by President pro tempore of Senate

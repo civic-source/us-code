@@ -3,9 +3,9 @@ title: "Section 690k - Reporting requirement"
 usc_title: 15
 usc_section: "690k"
 chapter: 14
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 690k"
-generated_at: "2026-03-29T23:50:50.553Z"
+generated_at: "2026-03-29T23:54:56.064Z"
 ---
 
 # § 690k. Reporting requirement

@@ -3,9 +3,9 @@ title: "Section 865 - Smuggling methamphetamine or methamphetamine precursor che
 usc_title: 21
 usc_section: "865"
 chapter: 13
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "21 U.S.C. § 865"
-generated_at: "2026-03-29T23:51:22.752Z"
+generated_at: "2026-03-29T23:55:43.372Z"
 ---
 
 # § 865. Smuggling methamphetamine or methamphetamine precursor chemicals into the United States while using facilitated entry programs

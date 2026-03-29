@@ -3,9 +3,9 @@ title: "Section 47125 - Conveyances of United States Government land"
 usc_title: 49
 usc_section: "47125"
 chapter: 471
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "49 U.S.C. § 47125"
-generated_at: "2026-03-29T23:53:40.272Z"
+generated_at: "2026-03-29T23:57:35.740Z"
 ---
 
 # § 47125. Conveyances of United States Government land

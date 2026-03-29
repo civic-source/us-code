@@ -1,14 +1,17 @@
 ---
-title: "Section 6 - Credentials of electors; transmission to Archivist of the United States and to Congress; public inspection"
+title: "Section 6 - Duties of Archivist"
 usc_title: 3
 usc_section: "6"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "3 U.S.C. § 6"
-generated_at: "2026-03-29T23:49:40.746Z"
+generated_at: "2026-03-29T23:54:01.735Z"
 ---
 
-# § 6. Credentials of electors; transmission to Archivist of the United States and to Congress; public inspection
+# § 6. Duties of Archivist
 
-It shall be the duty of the executive of each State, as soon as practicable after the conclusion of the appointment of the electors in such State by the final ascertainment, under and in pursuance of the laws of such State providing for such ascertainment, to communicate by registered mail under the seal of the State to the Archivist of the United States a certificate of such ascertainment of the electors appointed, setting forth the names of such electors and the canvass or other ascertainment under the laws of such State of the number of votes given or cast for each person for whose appointment any and all votes have been given or cast; and it shall also thereupon be the duty of the executive of each State to deliver to the electors of such State, on or before the day on which they are required by section 7 of this title to meet, six duplicate-originals of the same certificate under the seal of the State; and if there shall have been any final determination in a State in the manner provided for by law of a controversy or contest concerning the appointment of all or any of the electors of such State, it shall be the duty of the executive of such State, as soon as practicable after such determination, to communicate under the seal of the State to the Archivist of the United States a certificate of such determination in form and manner as the same shall have been made; and the certificate or certificates so received by the Archivist of the United States shall be preserved by him for one year and shall be a part of the public records of his office and shall be open to public inspection; and the Archivist of the United States at the first meeting of Congress thereafter shall transmit to the two Houses of Congress copies in full of each and every such certificate so received at the National Archives and Records Administration.
+The certificates of ascertainment of appointment of electors received by the Archivist of the United States under section 5 shall—
 
+  - **(1)** be preserved for one year;
+  - **(2)** be a part of the public records of such office; and
+  - **(3)** be open to public inspection.

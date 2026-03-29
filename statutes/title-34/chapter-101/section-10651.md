@@ -3,9 +3,9 @@ title: "Section 10651 - Adult and juvenile collaboration programs"
 usc_title: 34
 usc_section: "10651"
 chapter: 101
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "34 U.S.C. § 10651"
-generated_at: "2026-03-29T23:52:36.803Z"
+generated_at: "2026-03-29T23:56:30.942Z"
 ---
 
 # § 10651. Adult and juvenile collaboration programs
@@ -101,7 +101,7 @@ generated_at: "2026-03-29T23:52:36.803Z"
       - **(iii)** submit specific agreements from affected agencies to provide the data needed by the Attorney General and the Secretary to accomplish the evaluation under clause (i).
     - **(H)** Applicants for an implementation grant shall describe how the adult or juvenile collaboration program relates to existing State criminal or juvenile justice and mental health plans and programs.
     - **(I)** Applicants that receive an implementation grant may use funds for 1 or more of the following purposes:
-      - **(i)** Funds may be used to create or expand existing mental health courts that meet program requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams and treatment accountability services for communities) that meet requirements established by the Attorney General and the Secretary.
+      - **(i)** Funds may be used to create or expand existing mental health courts that meet program requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams, treatment accountability services for communities, and training for State and local prosecutors relating to diversion programming and implementation) that meet requirements established by the Attorney General and the Secretary.
       - **(ii)** Funds may be used to create or expand programs, such as crisis intervention training, which offer specialized training to—
         - **(I)** criminal justice system personnel to identify and respond appropriately to the unique needs of preliminarily qualified offenders; or
         - **(II)** mental health system personnel to respond appropriately to the treatment needs of preliminarily qualified offenders.
@@ -110,9 +110,19 @@ generated_at: "2026-03-29T23:52:36.803Z"
       - **(v)** Multidisciplinary teams that—
         - **(I)** coordinate, implement, and administer community-based crisis responses and long-term plans for frequent users of crisis services;
         - **(II)** provide training on how to respond appropriately to the unique issues involving frequent users of crisis services for public service personnel, including criminal justice, mental health, substance abuse, emergency room, healthcare, law enforcement, corrections, and housing personnel;
-        - **(III)** develop or support alternatives to hospital and jail admissions for frequent users of crisis services that provide treatment, stabilization, and other appropriate supports in the least restrictive, yet appropriate, environment; and
-        - **(IV)** develop protocols and systems among law enforcement, mental health, substance abuse, housing, corrections, and emergency medical service operations to provide coordinated assistance to frequent users of crisis services.
+        - **(III)** develop or support alternatives to hospital and jail admissions for frequent users of crisis services that provide treatment, stabilization, and other appropriate supports in the least restrictive, yet appropriate, environment;
+        - **(IV)** develop protocols and systems among law enforcement, mental health, substance abuse, housing, corrections, and emergency medical service operations to provide coordinated assistance to frequent users of crisis services; and
+        - **(V)** coordinate, implement, and administer models to address mental health calls that include specially trained officers and mental health crisis workers responding to those calls together.
+      - **(vi)** Funds may be used to develop, promote, and implement comprehensive suicide prevention programs and services for incarcerated individuals that include ongoing risk assessment.
+      - **(vii)** Funds may be used for case management services for preliminary qualified offenders and individuals who are released from any penal or correctional institution to—
+        - **(I)** reduce recidivism; and
+        - **(II)** assist those individuals with reentry into the community.
+      - **(viii)** Funds may be used to support, administer, or develop treatment capacity and increase access to mental health care and substance use disorder services for preliminary qualified offenders and individuals who are released from any penal or correctional institution.
+      - **(ix)** Funds may be used to support the efforts of State and local governments to implement and expand the integration of the 988 universal telephone number designated for the purpose of the national suicide prevention and mental health crisis hotline system under section 251(e)(4) of title 47 , including by hiring staff to support the implementation and expansion.
     - **(J)** The Attorney General, in consultation with the Secretary, shall ensure that planning and implementation grants are equitably distributed among the geographical regions of the United States and between urban and rural populations.
+    - **(K)** With respect to a multidisciplinary team described in subparagraph (I)(v) that receives funds from a grant under this section, the multidisciplinary team—
+      - **(i)** shall, to the extent practicable, provide response capability 24 hours each day and 7 days each week to respond to crisis or mental health calls; and
+      - **(ii)** may place a part of the team in a 911 call center to facilitate the timely response to mental health crises.
 - **(c)** The Attorney General, in awarding funds under this section, shall give priority to applications that—
   - **(1)** promote effective strategies by law enforcement to identify and to reduce risk of harm to mentally ill offenders and public safety;
   - **(2)** promote effective strategies for identification and treatment of female mentally ill offenders;

@@ -3,9 +3,9 @@ title: "Section 29 - Reports and financial statements of investment companies an
 usc_title: 15
 usc_section: "29"
 chapter: 2
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "15 U.S.C. § 29"
-generated_at: "2026-03-29T23:50:50.513Z"
+generated_at: "2026-03-29T23:54:56.017Z"
 ---
 
 # § 80a–29. Reports and financial statements of investment companies and affiliated persons
@@ -36,3 +36,6 @@ generated_at: "2026-03-29T23:50:50.513Z"
   - **(1)** the plan, or any company or account maintained to manage or hold plan assets and interests in such plan, company, or account, are not subject to registration, regulation, or reporting under this subchapter, the Securities Act of 1933 [ 15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [ 15 U.S.C. 78a et seq.], or State securities laws; and
   - **(2)** plan participants and beneficiaries therefore will not be afforded the protections of those provisions.
 - **(j)** The Commission may issue rules and regulations to require any person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title to file a notice with the Commission containing such information and in such form as the Commission may prescribe as necessary or appropriate in the public interest or consistent with the protection of investors.
+- **(k)**
+  - **(1)** The Commission shall, by rule, adopt data standards for all reports required to be filed with the Commission under this section, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
+  - **(2)** The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12 , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.

@@ -3,9 +3,9 @@ title: "Section 1745 - Nursing home care, adult day health care, and medications
 usc_title: 38
 usc_section: "1745"
 chapter: 17
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "38 U.S.C. § 1745"
-generated_at: "2026-03-29T23:52:41.943Z"
+generated_at: "2026-03-29T23:56:49.014Z"
 ---
 
 # § 1745. Nursing home care, adult day health care, and medications for veterans with service-connected disabilities
@@ -35,6 +35,7 @@ generated_at: "2026-03-29T23:52:41.943Z"
     - **(A)** has a service-connected disability rated at 50 percent or more;
     - **(B)** is not being provided nursing home care for which payment is payable under subsection (a); and
     - **(C)** is in need of such drugs and medicines.
+  - **(3)** Any veteran who has been determined by the Secretary to be catastrophically disabled, as defined in section 17.36(e) of title 38, Code of Federal Regulations, or successor regulations, and on whose behalf the Secretary is paying a per diem for nursing home or domiciliary care in a State home under this chapter.
 - **(c)** Any State home that requests payment or reimbursement for services provided to a veteran under this section shall provide to the Secretary such information as the Secretary considers necessary to identify each individual veteran eligible for payment under such section.
 - **(d)**
   - **(1)** The Secretary shall enter into an agreement with each State home for payment by the Secretary for medical supervision model adult day health care provided to a veteran described in subsection (a)(1) on whose behalf the State home is not in receipt of payment for nursing home care from the Secretary.

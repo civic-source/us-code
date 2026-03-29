@@ -3,9 +3,9 @@ title: "Section 4316 - Commercial Customs Operations Advisory Committee"
 usc_title: 19
 usc_section: "4316"
 chapter: 28
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "19 U.S.C. § 4316"
-generated_at: "2026-03-29T23:51:13.796Z"
+generated_at: "2026-03-29T23:55:00.662Z"
 ---
 
 # § 4316. Commercial Customs Operations Advisory Committee
@@ -28,11 +28,11 @@ generated_at: "2026-03-29T23:51:13.796Z"
   - **(2)** provide recommendations to the Secretary of the Treasury and the Secretary of Homeland Security on improvements to the commercial operations of U.S. Customs and Border Protection;
   - **(3)** collaborate in developing the agenda for Advisory Committee meetings; and
   - **(4)** perform such other functions relating to the commercial operations of U.S. Customs and Border Protection as prescribed by law or as the Secretary of the Treasury and the Secretary of Homeland Security jointly direct.
-- **(d)** Notwithstanding section 10(f) of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall meet at the call of the Secretary of the Treasury and the Secretary of Homeland Security, or at the call of not less than ⅔ of the membership of the Advisory Committee. The Advisory Committee shall meet at least 4 times each calendar year.
+- **(d)** Notwithstanding section 1009(f) of title 5 , the Advisory Committee shall meet at the call of the Secretary of the Treasury and the Secretary of Homeland Security, or at the call of not less than ⅔ of the membership of the Advisory Committee. The Advisory Committee shall meet at least 4 times each calendar year.
 - **(e)** Not later than December 31, 2016 , and annually thereafter, the Advisory Committee shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report that—
   - **(1)** describes the activities of the Advisory Committee during the preceding fiscal year; and
   - **(2)** sets forth any recommendations of the Advisory Committee regarding the commercial operations of U.S. Customs and Border Protection.
-- **(f)** Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.; relating to the termination of advisory committees) shall not apply to the Advisory Committee.
+- **(f)** Section 1013(a) of title 5 shall not apply to the Advisory Committee.
 - **(g)**
   - **(1)**
   - **(2)** Any reference in law to the Advisory Committee on Commercial Operations of the United States Customs Service established under section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ( 19 U.S.C. 2071 note) made on or after the date on which the Advisory Committee is established under subsection (a), shall be deemed a reference to the Commercial Customs Operations Advisory Committee established under subsection (a).

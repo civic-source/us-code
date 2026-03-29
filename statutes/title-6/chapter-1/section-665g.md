@@ -3,30 +3,23 @@ title: "Section 665g - State and Local Cybersecurity Grant Program"
 usc_title: 6
 usc_section: "665g"
 chapter: 1
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "6 U.S.C. § 665g"
-generated_at: "2026-03-29T23:50:11.205Z"
+generated_at: "2026-03-29T23:54:07.957Z"
 ---
 
 # § 665g. State and Local Cybersecurity Grant Program
 
 - **(a)** In this section:
-  - **(1)** The term “appropriate committees of Congress” means—
-    - **(A)** the Committee on Homeland Security and Governmental Affairs of the Senate; and
-    - **(B)** the Committee on Homeland Security of the House of Representatives.
-  - **(2)** The term “cyber threat indicator” has the meaning given the term in section 1501 of this title .
-  - **(3)** The term “Cybersecurity Plan” means a plan submitted by an eligible entity under subsection (e)(1).
-  - **(4)** The term “eligible entity” means a—
+  - **(1)** The term “Cybersecurity Plan” means a plan submitted by an eligible entity under subsection (e)(1).
+  - **(2)** The term “eligible entity” means a—
     - **(A)** State; or
     - **(B)** Tribal government.
-  - **(5)** The term “incident” has the meaning given the term in section 659 of this title .
-  - **(6)** The term “information sharing and analysis organization” has the meaning given the term in section 671 of this title .
-  - **(7)** The term “information system” has the meaning given the term in section 1501 of this title .
-  - **(8)** The term “multi-entity group” means a group of 2 or more eligible entities desiring a grant under this section.
-  - **(9)** The term “online service” means any internet-facing service, including a website, email, virtual private network, or custom application.
-  - **(10)** The term “rural area” has the meaning given the term in section 5302 of title 49 .
-  - **(11)** The term “State and Local Cybersecurity Grant Program” means the program established under subsection (b).
-  - **(12)** The term “Tribal government” means the recognized governing body of any Indian or Alaska Native Tribe, band, nation, pueblo, village, community, component band, or component reservation, that is individually identified (including parenthetically) in the most recent list published pursuant to section 5131 of title 25 .
+  - **(3)** The term “multi-entity group” means a group of 2 or more eligible entities desiring a grant under this section.
+  - **(4)** The term “online service” means any internet-facing service, including a website, email, virtual private network, or custom application.
+  - **(5)** The term “rural area” has the meaning given the term in section 5302 of title 49 .
+  - **(6)** The term “State and Local Cybersecurity Grant Program” means the program established under subsection (b).
+  - **(7)** The term “Tribal government” means the recognized governing body of any Indian or Alaska Native Tribe, band, nation, pueblo, village, community, component band, or component reservation, that is individually identified (including parenthetically) in the most recent list published pursuant to section 5131 of title 25 .
 - **(b)**
   - **(1)** There is established within the Department a program to award grants to eligible entities to address cybersecurity risks and cybersecurity threats to information systems owned or operated by, or on behalf of, State, local, or Tribal governments.
   - **(2)** An eligible entity desiring a grant under the State and Local Cybersecurity Grant Program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
@@ -202,7 +195,7 @@ generated_at: "2026-03-29T23:50:11.205Z"
   - **(2)** the study of risk-based formulas required under subsection (q)(4);
   - **(3)** the development of guidelines required under subsection (m)(2)(B); and
   - **(4)** any modifications described in subsection (q)(2)(D).
-- **(p)** Not later than 3 business days before the date on which the Department announces the award of a grant to an eligible entity under this section, including an announcement to the eligible entity, the Secretary shall provide to the appropriate committees of Congress notice of the announcement.
+- **(p)** Not later than 3 business days before the date on which the Department announces the award of a grant to an eligible entity under this section, including an announcement to the eligible entity, the Secretary shall provide to the appropriate congressional committees notice of the announcement.
 - **(q)**
   - **(1)**
     - **(A)** Not later than 1 year after the date on which an eligible entity receives a grant under this section for the purpose of implementing the Cybersecurity Plan of the eligible entity, including an eligible entity that comprises a multi-entity group that receives a grant for that purpose, and annually thereafter until 1 year after the date on which funds from the grant are expended or returned, the eligible entity shall submit to the Secretary a report that, using the metrics described in the Cybersecurity Plan of the eligible entity, describes the progress of the eligible entity in—
@@ -223,7 +216,7 @@ generated_at: "2026-03-29T23:50:11.205Z"
     - **(A)** The Secretary, acting through the Director, shall make each report submitted under paragraph (2) publicly available, including by making each report available on the website of the Agency.
     - **(B)** In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5 (commonly referred to as the “Freedom of Information Act”).
   - **(4)**
-    - **(A)** Not later than September 30, 2024 , the Secretary, acting through the Director, shall submit to the appropriate committees of Congress a study and legislative recommendations on the potential use of a risk-based formula for apportioning funds under this section, including—
+    - **(A)** Not later than September 30, 2024 , the Secretary, acting through the Director, shall submit to the appropriate congressional committees a study and legislative recommendations on the potential use of a risk-based formula for apportioning funds under this section, including—
       - **(i)** potential components that could be included in a risk-based formula, including the potential impact of those components on support for rural areas under this section;
       - **(ii)** potential sources of data and information necessary for the implementation of a risk-based formula;
       - **(iii)** any obstacles to implementing a risk-based formula, including obstacles that require a legislative solution;

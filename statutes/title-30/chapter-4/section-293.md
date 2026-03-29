@@ -3,9 +3,9 @@ title: "Section 293 - Duties of Secretary of the Interior"
 usc_title: 30
 usc_section: "293"
 chapter: 4
-current_through: "PL 117-262"
+current_through: "PL 118-3"
 classification: "30 U.S.C. § 293"
-generated_at: "2026-03-29T23:51:31.955Z"
+generated_at: "2026-03-29T23:55:54.922Z"
 ---
 
 # § 293. Duties of Secretary of the Interior
