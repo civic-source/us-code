@@ -3,9 +3,9 @@ title: "Section 3 - Streamlined hiring authority"
 usc_title: 21
 usc_section: "3"
 chapter: 9
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "21 U.S.C. § 3"
-generated_at: "2026-03-29T22:09:23.926Z"
+generated_at: "2026-03-29T22:14:58.042Z"
 ---
 
 # § 379d–3. Streamlined hiring authority

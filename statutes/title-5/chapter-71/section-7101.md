@@ -3,9 +3,9 @@ title: "Section 7101 - Findings and purpose"
 usc_title: 5
 usc_section: "7101"
 chapter: 71
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "5 U.S.C. § 7101"
-generated_at: "2026-03-29T22:07:27.538Z"
+generated_at: "2026-03-29T22:11:41.491Z"
 ---
 
 # § 7101. Findings and purpose

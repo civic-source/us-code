@@ -3,9 +3,9 @@ title: "Section 715i - Restraining violations"
 usc_title: 15
 usc_section: "715i"
 chapter: 15
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "15 U.S.C. § 715i"
-generated_at: "2026-03-29T22:08:24.803Z"
+generated_at: "2026-03-29T22:13:34.307Z"
 ---
 
 # § 715i. Restraining violations

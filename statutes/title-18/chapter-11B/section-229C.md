@@ -3,9 +3,9 @@ title: "Section 229C - Individual self-defense devices"
 usc_title: 18
 usc_section: "229C"
 chapter: 11
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "18 U.S.C. § 229C"
-generated_at: "2026-03-29T22:08:40.241Z"
+generated_at: "2026-03-29T22:14:25.547Z"
 ---
 
 # § 229C. Individual self-defense devices

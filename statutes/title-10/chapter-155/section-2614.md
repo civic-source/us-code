@@ -3,9 +3,9 @@ title: "Section 2614 - Emergency communications equipment: acceptance from local
 usc_title: 10
 usc_section: "2614"
 chapter: 155
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 2614"
-generated_at: "2026-03-29T22:08:02.419Z"
+generated_at: "2026-03-29T22:11:58.999Z"
 ---
 
 # § 2614. Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters

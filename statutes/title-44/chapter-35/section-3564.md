@@ -3,9 +3,9 @@ title: "Section 3564 - Effect on other laws"
 usc_title: 44
 usc_section: "3564"
 chapter: 35
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "44 U.S.C. § 3564"
-generated_at: "2026-03-29T22:10:22.273Z"
+generated_at: "2026-03-29T22:15:45.527Z"
 ---
 
 # § 3564. Effect on other laws

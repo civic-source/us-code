@@ -3,9 +3,9 @@ title: "Section 89 - Florida"
 usc_title: 28
 usc_section: "89"
 chapter: 5
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "28 U.S.C. § 89"
-generated_at: "2026-03-29T22:09:34.941Z"
+generated_at: "2026-03-29T22:15:20.492Z"
 ---
 
 # § 89. Florida

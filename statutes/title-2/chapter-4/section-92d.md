@@ -3,9 +3,9 @@ title: "Section 92d - Transferred"
 usc_title: 2
 usc_section: "92d"
 chapter: 4
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "2 U.S.C. § 92d"
-generated_at: "2026-03-29T22:07:21.539Z"
+generated_at: "2026-03-29T22:11:38.253Z"
 ---
 
 # § 92d. Transferred

@@ -1,16 +1,14 @@
 ---
-title: "Section 146 - National Atomic Veterans Day"
+title: "Section 146 - Choose Respect Day"
 usc_title: 36
 usc_section: "146"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "36 U.S.C. § 146"
-generated_at: "2026-03-29T22:10:11.697Z"
+generated_at: "2026-03-29T22:15:40.715Z"
 ---
 
-# § 146. National Atomic Veterans Day
+# § 146. 1 1 Another section 146 is set out preceding this section. Choose Respect Day
 
-The President shall issue each year a proclamation calling on the people of the United States to—
-
-  - **(1)** observe Atomic Veterans Day with appropriate ceremonies and activities; and
-  - **(2)** remember and honor the atomic veterans of the United States whose brave service and sacrifice played an important role in the defense of the Nation.
+- **(a)** October 1 is Choose Respect Day.
+- **(b)** All private citizens, organizations, and Federal, State, and local governmental and legislative entities are encouraged to recognize Choose Respect Day through proclamations, activities, and educational efforts in furtherance of changing the culture around the tolerance of violence against women.

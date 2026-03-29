@@ -3,9 +3,9 @@ title: "Section 286c - Purpose, establishment, functions, and funding of Nationa
 usc_title: 42
 usc_section: "286c"
 chapter: 6
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 286c"
-generated_at: "2026-03-29T22:10:50.342Z"
+generated_at: "2026-03-29T22:16:18.837Z"
 ---
 
 # § 286c. Purpose, establishment, functions, and funding of National Center for Biotechnology Information

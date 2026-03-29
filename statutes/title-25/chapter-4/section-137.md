@@ -3,9 +3,9 @@ title: "Section 137 - Supplies distributed to able-bodied males on condition"
 usc_title: 25
 usc_section: "137"
 chapter: 4
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "25 U.S.C. § 137"
-generated_at: "2026-03-29T22:09:21.338Z"
+generated_at: "2026-03-29T22:14:41.683Z"
 ---
 
 # § 137. Supplies distributed to able-bodied males on condition

@@ -3,9 +3,9 @@ title: "Section 1543 - Omitted"
 usc_title: 42
 usc_section: "1543"
 chapter: 9
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 1543"
-generated_at: "2026-03-29T22:10:50.994Z"
+generated_at: "2026-03-29T22:16:19.659Z"
 ---
 
 # § 1543. Omitted

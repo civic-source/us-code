@@ -3,9 +3,9 @@ title: "Section 1589b - Establishment of income limitations for occupancy of hou
 usc_title: 42
 usc_section: "1589b"
 chapter: 9
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 1589b"
-generated_at: "2026-03-29T22:10:50.998Z"
+generated_at: "2026-03-29T22:16:19.664Z"
 ---
 
 # § 1589b. Establishment of income limitations for occupancy of housing; effect on prior tenants

@@ -3,9 +3,9 @@ title: "Section 1616f - Tribal culture and history"
 usc_title: 25
 usc_section: "1616f"
 chapter: 18
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "25 U.S.C. § 1616f"
-generated_at: "2026-03-29T22:09:21.380Z"
+generated_at: "2026-03-29T22:14:41.733Z"
 ---
 
 # § 1616f. Tribal culture and history

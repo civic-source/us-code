@@ -3,9 +3,9 @@ title: "Section 818 - Public lands included in project; reservation of lands fro
 usc_title: 16
 usc_section: "818"
 chapter: 12
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 818"
-generated_at: "2026-03-29T22:08:58.642Z"
+generated_at: "2026-03-29T22:14:06.588Z"
 ---
 
 # § 818. Public lands included in project; reservation of lands from entry

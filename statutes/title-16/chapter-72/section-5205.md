@@ -3,9 +3,9 @@ title: "Section 5205 - Regulations"
 usc_title: 16
 usc_section: "5205"
 chapter: 72
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 5205"
-generated_at: "2026-03-29T22:08:58.876Z"
+generated_at: "2026-03-29T22:14:06.893Z"
 ---
 
 # § 5205. Regulations

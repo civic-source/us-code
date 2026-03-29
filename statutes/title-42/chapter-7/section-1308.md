@@ -3,9 +3,9 @@ title: "Section 1308 - Additional grants to Puerto Rico, Virgin Islands, Guam, a
 usc_title: 42
 usc_section: "1308"
 chapter: 7
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 1308"
-generated_at: "2026-03-29T22:10:50.657Z"
+generated_at: "2026-03-29T22:16:19.212Z"
 ---
 
 # § 1308. Additional grants to Puerto Rico, Virgin Islands, Guam, and American Samoa; limitation on total payments
@@ -135,4 +135,9 @@ generated_at: "2026-03-29T22:10:50.657Z"
     - **(B)** In this paragraph:
       - **(i)** The term “Medicaid cap increase” means, with respect to a specified territory and fiscal year, any increase in the amounts otherwise determined under this subsection for such territory for such fiscal year by reason of the amendments made by section 202 of division N of the Further Consolidated Appropriations Act, 2020.
       - **(ii)** The term “specified territory” means Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa.
+  - **(10)**
+    - **(A)** Notwithstanding the preceding provisions of this subsection, the total amount certified for Puerto Rico for fiscal year 2022 under this subsection shall be increased by $200,000,000 if the Secretary certifies that, with respect to such fiscal year, Puerto Rico’s State plan under subchapter XIX (or a waiver of such plan) establishes a reimbursement floor, implemented through a directed payment arrangement plan, for physician services that are covered under the Medicare part B fee schedule in the Puerto Rico locality established under section 1395w–4(b) of this title that is not less than 70 percent of the payment that would apply to such services if they were furnished under part B of subchapter XVIII during such fiscal year.
+    - **(B)** In certifying whether Puerto Rico has established a reimbursement floor under a directed payment arrangement plan that satisfies the requirements of subparagraph (A) for fiscal year 2022, the Secretary shall—
+      - **(i)** disregard payments made under sub-capitated arrangements for services such as primary care case management; and
+      - **(ii)** if the reimbursement floor for physician services applicable under a managed care contract satisfies the requirements of subparagraph (A) for the fiscal year in which the contract is entered into or renewed, such reimbursement floor shall be deemed to satisfy such requirements for the subsequent fiscal year.
 - **(h)** Expenditures for medical assistance provided to an individual described in section 1641(b)(8) of title 8 shall not be taken into account for purposes of applying payment limits under subsections (f) and (g).

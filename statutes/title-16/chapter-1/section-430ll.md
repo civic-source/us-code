@@ -3,9 +3,9 @@ title: "Section 430ll - Designation"
 usc_title: 16
 usc_section: "430ll"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 430ll"
-generated_at: "2026-03-29T22:08:58.426Z"
+generated_at: "2026-03-29T22:14:06.348Z"
 ---
 
 # § 430ll. Designation

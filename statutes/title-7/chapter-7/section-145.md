@@ -3,9 +3,9 @@ title: "Section 145 - Repealed. Pub. L. 94–231, § 2 , Mar. 15, 1976 , 90 Stat
 usc_title: 7
 usc_section: "145"
 chapter: 7
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "7 U.S.C. § 145"
-generated_at: "2026-03-29T22:07:50.664Z"
+generated_at: "2026-03-29T22:12:12.889Z"
 ---
 
 # § 145. Repealed. Pub. L. 94–231, § 2 , Mar. 15, 1976 , 90 Stat. 216

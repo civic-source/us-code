@@ -3,9 +3,9 @@ title: "Section 1398 - Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 S
 usc_title: 50
 usc_section: "1398"
 chapter: 27
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "50 U.S.C. § 1398"
-generated_at: "2026-03-29T22:11:02.120Z"
+generated_at: "2026-03-29T22:16:39.215Z"
 ---
 
 # §§ 1381 to 1398. Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 Stat. 1569

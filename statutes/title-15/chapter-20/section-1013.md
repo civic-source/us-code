@@ -3,9 +3,9 @@ title: "Section 1013 - Suspension until June 30, 1948 , of application of certai
 usc_title: 15
 usc_section: "1013"
 chapter: 20
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "15 U.S.C. § 1013"
-generated_at: "2026-03-29T22:08:24.820Z"
+generated_at: "2026-03-29T22:13:34.327Z"
 ---
 
 # § 1013. Suspension until June 30, 1948 , of application of certain Federal laws; Sherman Act applicable to agreements to, or acts of, boycott, coercion, or intimidation

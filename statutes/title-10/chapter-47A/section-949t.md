@@ -3,9 +3,9 @@ title: "Section 949t - Maximum limits"
 usc_title: 10
 usc_section: "949t"
 chapter: 47
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 949t"
-generated_at: "2026-03-29T22:08:02.283Z"
+generated_at: "2026-03-29T22:11:58.869Z"
 ---
 
 # § 949t. Maximum limits

@@ -3,9 +3,9 @@ title: "Section 7425 - Authorization of appropriations"
 usc_title: 7
 usc_section: "7425"
 chapter: 101
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "7 U.S.C. § 7425"
-generated_at: "2026-03-29T22:07:50.971Z"
+generated_at: "2026-03-29T22:12:13.271Z"
 ---
 
 # § 7425. Authorization of appropriations

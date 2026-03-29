@@ -3,9 +3,9 @@ title: "Section 3334b - Collection, analysis, and dissemination of workforce dat
 usc_title: 50
 usc_section: "3334b"
 chapter: 45
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "50 U.S.C. § 3334b"
-generated_at: "2026-03-29T22:11:02.213Z"
+generated_at: "2026-03-29T22:16:39.325Z"
 ---
 
 # § 3334b. Collection, analysis, and dissemination of workforce data
@@ -24,8 +24,11 @@ generated_at: "2026-03-29T22:11:02.213Z"
     - **(D)** shall include demographic data relating to participants in professional development programs of the intelligence community and the rate of placement into senior positions for participants in such programs;
     - **(E)** shall include any voluntarily collected demographic data relating to the membership of any external advisory committee or board to which individuals in senior positions in the intelligence community appoint members; and
     - **(F)** may include data in proportions or percentages to account for concerns relating to the protection of classified information.
-- **(c)** After making available a report under subsection (b), the Director of National Intelligence shall annually provide a report (which may be provided as part of an annual report required under another provision of law) to the workforce of the intelligence community (including senior leadership), the public, and the appropriate congressional committees that includes—
-  - **(1)** demographic data and information on the status of diversity and inclusion efforts of the intelligence community;
+- **(c)** Not later than March 31 of each year, the Director of National Intelligence shall provide a report (which may be provided as part of an annual report required under another provision of law) to the workforce of the intelligence community (including senior leadership), the public, and the appropriate congressional committees that includes—
+  - **(1)** demographic data and information on the status of diversity and inclusion efforts of the intelligence community, including demographic data relating to—
+    - **(A)** the average years of service;
+    - **(B)** the average number of years of service for each level in the General Schedule, Senior Executive Service, Senior Intelligence Service, or equivalent; and
+    - **(C)** career categories;
   - **(2)** an analysis of applicant flow data, including the percentage and level of positions for which data are collected, and a discussion of any resulting policy changes or recommendations; and
   - **(3)** demographic data relating to participants in professional development programs of the intelligence community and the rate of placement into senior positions for participants in such programs.
 - **(d)**

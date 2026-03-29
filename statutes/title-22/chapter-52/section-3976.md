@@ -3,9 +3,9 @@ title: "Section 3976 - Survivors’ and dependents’ educational assistance"
 usc_title: 22
 usc_section: "3976"
 chapter: 52
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "22 U.S.C. § 3976"
-generated_at: "2026-03-29T22:09:29.865Z"
+generated_at: "2026-03-29T22:14:52.929Z"
 ---
 
 # § 3976. Survivors’ and dependents’ educational assistance

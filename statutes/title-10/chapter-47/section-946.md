@@ -3,9 +3,9 @@ title: "Section 946 - Art. 146. Military Justice Review Panel"
 usc_title: 10
 usc_section: "946"
 chapter: 47
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 946"
-generated_at: "2026-03-29T22:08:02.279Z"
+generated_at: "2026-03-29T22:11:58.865Z"
 ---
 
 # § 946. Art. 146. Military Justice Review Panel

@@ -3,9 +3,9 @@ title: "Section 6521 - References"
 usc_title: 22
 usc_section: "6521"
 chapter: 74
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "22 U.S.C. § 6521"
-generated_at: "2026-03-29T22:09:29.936Z"
+generated_at: "2026-03-29T22:14:52.998Z"
 ---
 
 # § 6521. References

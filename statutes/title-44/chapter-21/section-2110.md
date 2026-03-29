@@ -3,9 +3,9 @@ title: "Section 2110 - Servicing records"
 usc_title: 44
 usc_section: "2110"
 chapter: 21
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "44 U.S.C. § 2110"
-generated_at: "2026-03-29T22:10:22.260Z"
+generated_at: "2026-03-29T22:15:45.510Z"
 ---
 
 # § 2110. Servicing records

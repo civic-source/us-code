@@ -3,9 +3,9 @@ title: "Section 140408 - Records and inspection"
 usc_title: 36
 usc_section: "140408"
 chapter: 1404
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "36 U.S.C. § 140408"
-generated_at: "2026-03-29T22:10:11.723Z"
+generated_at: "2026-03-29T22:15:40.748Z"
 ---
 
 # § 140408. Records and inspection

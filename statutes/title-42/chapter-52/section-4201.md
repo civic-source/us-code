@@ -3,9 +3,9 @@ title: "Section 4201 - Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 1982 , 96
 usc_title: 42
 usc_section: "4201"
 chapter: 52
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 4201"
-generated_at: "2026-03-29T22:10:51.178Z"
+generated_at: "2026-03-29T22:16:19.908Z"
 ---
 
 # § 4201. Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 1982 , 96 Stat. 1068

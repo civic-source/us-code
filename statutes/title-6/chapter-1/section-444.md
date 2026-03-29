@@ -3,9 +3,9 @@ title: "Section 444 - Definitions"
 usc_title: 6
 usc_section: "444"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "6 U.S.C. § 444"
-generated_at: "2026-03-29T22:07:40.079Z"
+generated_at: "2026-03-29T22:11:46.357Z"
 ---
 
 # § 444. Definitions

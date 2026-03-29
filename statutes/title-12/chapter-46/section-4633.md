@@ -3,9 +3,9 @@ title: "Section 4633 - Hearings"
 usc_title: 12
 usc_section: "4633"
 chapter: 46
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "12 U.S.C. § 4633"
-generated_at: "2026-03-29T22:08:33.390Z"
+generated_at: "2026-03-29T22:12:59.668Z"
 ---
 
 # § 4633. Hearings

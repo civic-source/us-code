@@ -3,9 +3,9 @@ title: "Section 1631k - Taxes"
 usc_title: 22
 usc_section: "1631k"
 chapter: 21
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "22 U.S.C. § 1631k"
-generated_at: "2026-03-29T22:09:29.720Z"
+generated_at: "2026-03-29T22:14:52.789Z"
 ---
 
 # § 1631k. Taxes

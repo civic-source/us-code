@@ -3,9 +3,9 @@ title: "Section 241 - Research and investigations generally"
 usc_title: 42
 usc_section: "241"
 chapter: 6
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 241"
-generated_at: "2026-03-29T22:10:50.204Z"
+generated_at: "2026-03-29T22:16:18.686Z"
 ---
 
 # § 241. Research and investigations generally
@@ -54,7 +54,7 @@ generated_at: "2026-03-29T22:10:50.204Z"
   - **(4)** For purposes of this subsection, the term “identifiable, sensitive information” means information that is about an individual and that is gathered or used during the course of research described in paragraph (1)(A) and—
     - **(A)** through which an individual is identified; or
     - **(B)** for which there is at least a very small risk, as determined by current scientific practices or statistical methods, that some combination of the information, a request for the information, and other available data sources could be used to deduce the identity of an individual.
-- **(e)** The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand, intensify, and coordinate the activities of the Centers for Disease Control and Prevention with respect to preterm labor and delivery and infant mortality.
+- **(e)** The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand, intensify, and coordinate the activities of the Centers for Disease Control and Prevention with respect to preterm labor and delivery, preventable maternal mortality and severe maternal morbidity, and infant mortality.
 - **(f)**
   - **(1)** The Secretary may exempt from disclosure under section 552(b)(3) of title 5 biomedical information that is about an individual and that is gathered or used during the course of biomedical research if—
     - **(A)** an individual is identified; or

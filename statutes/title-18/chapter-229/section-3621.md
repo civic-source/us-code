@@ -3,9 +3,9 @@ title: "Section 3621 - Imprisonment of a convicted person"
 usc_title: 18
 usc_section: "3621"
 chapter: 229
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "18 U.S.C. § 3621"
-generated_at: "2026-03-29T22:08:40.383Z"
+generated_at: "2026-03-29T22:14:25.663Z"
 ---
 
 # § 3621. Imprisonment of a convicted person
@@ -41,6 +41,7 @@ generated_at: "2026-03-29T22:08:40.383Z"
       - **(ii)** willing to participate in a residential substance abuse treatment program; and
     - **(C)** the term “aftercare” means placement, case management and monitoring of the participant in a community-based substance abuse treatment program when the participant leaves the custody of the Bureau of Prisons.
   - **(6)** The Bureau of Prisons shall consult with the Department of Health and Human Services concerning substance abuse treatment and related services and the incorporation of applicable components of existing comprehensive approaches including relapse prevention and aftercare services.
+  - **(7)** The Director of the Bureau of Prisons may not prohibit an eligible prisoner who is a primary caretaker parent (as defined in section 4051) or pregnant from participating in a program of residential substance abuse treatment provided under paragraph (1) on the basis of a failure by the eligible prisoner, before being committed to the custody of the Bureau of Prisons, to disclose to any official of the Bureau of Prisons that the prisoner had a substance abuse problem on or before the date on which the eligible prisoner was committed to the custody of the Bureau of Prisons.
 - **(f)**
   - **(1)** The Bureau of Prisons shall make available appropriate treatment to sex offenders who are in need of and suitable for treatment, as follows:
     - **(A)** The Bureau of Prisons shall establish non-residential sex offender management programs to provide appropriate treatment, monitoring, and supervision of sex offenders and to provide aftercare during pre-release custody.

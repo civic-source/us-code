@@ -3,9 +3,9 @@ title: "Section 8212 - Democracy Fellowship Program"
 usc_title: 22
 usc_section: "8212"
 chapter: 89
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "22 U.S.C. § 8212"
-generated_at: "2026-03-29T22:09:29.983Z"
+generated_at: "2026-03-29T22:14:53.046Z"
 ---
 
 # § 8212. Democracy Fellowship Program

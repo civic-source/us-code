@@ -3,9 +3,9 @@ title: "Section 2182a - Agricultural and productive credit and self-help communi
 usc_title: 22
 usc_section: "2182a"
 chapter: 32
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "22 U.S.C. § 2182a"
-generated_at: "2026-03-29T22:09:29.752Z"
+generated_at: "2026-03-29T22:14:52.816Z"
 ---
 
 # § 2182a. Agricultural and productive credit and self-help community development programs

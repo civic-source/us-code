@@ -3,9 +3,9 @@ title: "Section 17824 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "17824"
 chapter: 155
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 17824"
-generated_at: "2026-03-29T22:10:51.779Z"
+generated_at: "2026-03-29T22:16:20.590Z"
 ---
 
 # §§ 17822 to 17824. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

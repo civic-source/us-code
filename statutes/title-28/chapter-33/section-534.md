@@ -3,9 +3,9 @@ title: "Section 534 - Acquisition, preservation, and exchange of identification 
 usc_title: 28
 usc_section: "534"
 chapter: 33
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "28 U.S.C. § 534"
-generated_at: "2026-03-29T22:09:34.964Z"
+generated_at: "2026-03-29T22:15:20.514Z"
 ---
 
 # § 534. Acquisition, preservation, and exchange of identification records and information; appointment of officials
@@ -17,9 +17,14 @@ generated_at: "2026-03-29T22:09:34.964Z"
   - **(4)** exchange such records and information with, and for the official use of, authorized officials of the Federal Government, including the United States Sentencing Commission, the States, including State sentencing commissions, Indian tribes, cities, and penal and other institutions.
 - **(b)** The exchange of records and information authorized by subsection (a)(4) of this section is subject to cancellation if dissemination is made outside the receiving departments or related agencies.
 - **(c)** The Attorney General may appoint officials to perform the functions authorized by this section.
-- **(d)** The Attorney General shall permit tribal and Bureau of Indian Affairs law enforcement agencies—
-  - **(1)** to access and enter information into Federal criminal information databases; and
-  - **(2)** to obtain information from the databases.
+- **(d)**
+  - **(1)** The Attorney General shall permit tribal and Bureau of Indian Affairs law enforcement agencies—
+    - **(A)** to access and enter information into Federal criminal information databases; and
+    - **(B)** to obtain information from the databases.
+  - **(2)**
+    - **(A)** The Attorney General shall establish a program, to be known as the “Tribal Access Program”, to enhance the ability of tribal governments and their authorized agencies to access, enter information into, and obtain information from national criminal information databases under this section.
+    - **(B)** There is authorized to be appropriated to carry out the Tribal Access Program under subparagraph (A) $6,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
+  - **(3)** To the extent otherwise permitted by law, any report issued as a result of the analysis of information entered into national criminal information databases or obtained from Federal criminal databases shall be shared with each Indian tribe of jurisdiction, including Indian tribes located in the State of Maine.
 - **(e)** For purposes of this section, the term “other institutions” includes—
   - **(1)** railroad police departments which perform the administration of criminal justice and have arrest powers pursuant to a State statute, which allocate a substantial part of their annual budget to the administration of criminal justice, and which meet training requirements established by law or ordinance for law enforcement officers; and
   - **(2)** police departments of private colleges or universities which perform the administration of criminal justice and have arrest powers pursuant to a State statute, which allocate a substantial part of their annual budget to the administration of criminal justice, and which meet training requirements established by law or ordinance for law enforcement officers.

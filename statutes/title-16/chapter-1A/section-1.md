@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat
 usc_title: 16
 usc_section: "1"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T22:08:58.534Z"
+generated_at: "2026-03-29T22:14:06.461Z"
 ---
 
 # § 470x–1. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

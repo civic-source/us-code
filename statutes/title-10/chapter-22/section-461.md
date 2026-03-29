@@ -3,9 +3,9 @@ title: "Section 461 - Management rights"
 usc_title: 10
 usc_section: "461"
 chapter: 22
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 461"
-generated_at: "2026-03-29T22:08:02.236Z"
+generated_at: "2026-03-29T22:11:58.818Z"
 ---
 
 # § 461. Management rights

@@ -3,9 +3,9 @@ title: "Section 10284 - Definitions"
 usc_title: 34
 usc_section: "10284"
 chapter: 101
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "34 U.S.C. § 10284"
-generated_at: "2026-03-29T22:10:04.876Z"
+generated_at: "2026-03-29T22:15:28.003Z"
 ---
 
 # § 10284. Definitions
@@ -78,7 +78,7 @@ As used in this subchapter—
       - **(ii)** would have been within the authority and line of duty of such member to take, had they been taken in a jurisdiction where such member was authorized or licensed by law and by a pertinent agency or entity to act, in the ordinary course; and
       - **(iii)** would have resulted in the payment of full line-of-duty death or disability benefits (as applicable), if any such benefits typically were payable by (or with respect to or on behalf of) such applicable agency or entity, as of the date the action was taken;
     - **(F)** 2 2 So in original. There are two subpars. designated (F). omitted
-    - **(F)** an employee or contractor of the Department of Energy who—
+    - **(F)** 2 an employee or contractor of the Department of Energy who—
       - **(i)** is—
         - **(I)** a nuclear materials courier (as defined in section 8331(27) of title 5 ); or
         - **(II)** designated by the Secretary of Energy as a member of an emergency response team; and

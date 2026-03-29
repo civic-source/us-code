@@ -3,9 +3,9 @@ title: "Section 5604 - Duties of Sergeant at Arms"
 usc_title: 2
 usc_section: "5604"
 chapter: 55
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "2 U.S.C. § 5604"
-generated_at: "2026-03-29T22:07:21.656Z"
+generated_at: "2026-03-29T22:11:38.381Z"
 ---
 
 # § 5604. Duties of Sergeant at Arms

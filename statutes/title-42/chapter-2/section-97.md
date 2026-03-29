@@ -3,9 +3,9 @@ title: "Section 97 - State health laws observed by United States officers"
 usc_title: 42
 usc_section: "97"
 chapter: 2
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 97"
-generated_at: "2026-03-29T22:10:50.189Z"
+generated_at: "2026-03-29T22:16:18.671Z"
 ---
 
 # § 97. State health laws observed by United States officers

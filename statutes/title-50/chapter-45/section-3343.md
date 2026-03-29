@@ -3,9 +3,9 @@ title: "Section 3343 - Security clearances; limitations"
 usc_title: 50
 usc_section: "3343"
 chapter: 45
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "50 U.S.C. § 3343"
-generated_at: "2026-03-29T22:11:02.216Z"
+generated_at: "2026-03-29T22:16:39.328Z"
 ---
 
 # § 3343. Security clearances; limitations

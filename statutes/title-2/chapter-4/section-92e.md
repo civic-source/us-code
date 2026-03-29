@@ -3,9 +3,9 @@ title: "Section 92e - Repealed. Pub. L. 98–473, title I, § 123A(b) , Oct. 12,
 usc_title: 2
 usc_section: "92e"
 chapter: 4
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "2 U.S.C. § 92e"
-generated_at: "2026-03-29T22:07:21.539Z"
+generated_at: "2026-03-29T22:11:38.253Z"
 ---
 
 # § 92e. Repealed. Pub. L. 98–473, title I, § 123A(b) , Oct. 12, 1984 , 98 Stat. 1969

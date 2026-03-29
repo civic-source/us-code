@@ -3,9 +3,9 @@ title: "Section 2301 - Use of electronic commerce in Federal procurement"
 usc_title: 41
 usc_section: "2301"
 chapter: 23
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "41 U.S.C. § 2301"
-generated_at: "2026-03-29T22:10:22.889Z"
+generated_at: "2026-03-29T22:15:44.484Z"
 ---
 
 # § 2301. Use of electronic commerce in Federal procurement

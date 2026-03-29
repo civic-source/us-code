@@ -3,9 +3,9 @@ title: "Section 7420 - Noncompliance penalty"
 usc_title: 42
 usc_section: "7420"
 chapter: 85
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 7420"
-generated_at: "2026-03-29T22:10:51.401Z"
+generated_at: "2026-03-29T22:16:20.122Z"
 ---
 
 # § 7420. Noncompliance penalty

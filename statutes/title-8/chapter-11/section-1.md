@@ -3,9 +3,9 @@ title: "Section 1 - Transferred"
 usc_title: 8
 usc_section: "1"
 chapter: 11
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "8 U.S.C. § 1"
-generated_at: "2026-03-29T22:08:12.776Z"
+generated_at: "2026-03-29T22:11:45.319Z"
 ---
 
 # § 724a–1. Transferred

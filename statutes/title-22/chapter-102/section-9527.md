@@ -3,9 +3,9 @@ title: "Section 9527 - Sanctions with respect to investment in or facilitation o
 usc_title: 22
 usc_section: "9527"
 chapter: 102
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "22 U.S.C. § 9527"
-generated_at: "2026-03-29T22:09:30.022Z"
+generated_at: "2026-03-29T22:14:53.085Z"
 ---
 
 # § 9527. Sanctions with respect to investment in or facilitation of privatization of State-owned assets by the Russian Federation

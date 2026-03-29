@@ -3,9 +3,9 @@ title: "Section 2104 - Forest health protection"
 usc_title: 16
 usc_section: "2104"
 chapter: 41
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 2104"
-generated_at: "2026-03-29T22:08:58.787Z"
+generated_at: "2026-03-29T22:14:06.783Z"
 ---
 
 # § 2104. Forest health protection

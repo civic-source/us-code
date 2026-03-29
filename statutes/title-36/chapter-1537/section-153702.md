@@ -3,9 +3,9 @@ title: "Section 153702 - Purposes"
 usc_title: 36
 usc_section: "153702"
 chapter: 1537
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "36 U.S.C. § 153702"
-generated_at: "2026-03-29T22:10:11.734Z"
+generated_at: "2026-03-29T22:15:40.760Z"
 ---
 
 # § 153702. Purposes

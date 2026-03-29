@@ -3,9 +3,9 @@ title: "Section 5 - Protection of services and recreational opportunities"
 usc_title: 16
 usc_section: "5"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-29T22:08:58.532Z"
+generated_at: "2026-03-29T22:14:06.459Z"
 ---
 
 # § 460ffff–5. Protection of services and recreational opportunities

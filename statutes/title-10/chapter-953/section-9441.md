@@ -3,9 +3,9 @@ title: "Section 9441 - Faculty and other officers: leaves of absence"
 usc_title: 10
 usc_section: "9441"
 chapter: 953
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 9441"
-generated_at: "2026-03-29T22:08:02.560Z"
+generated_at: "2026-03-29T22:11:59.125Z"
 ---
 
 # § 9441. Faculty and other officers: leaves of absence

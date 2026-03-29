@@ -3,9 +3,9 @@ title: "Section 2408 - Aid to States, counties, and tribal organizations for est
 usc_title: 38
 usc_section: "2408"
 chapter: 24
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "38 U.S.C. § 2408"
-generated_at: "2026-03-29T22:10:17.920Z"
+generated_at: "2026-03-29T22:15:38.102Z"
 ---
 
 # § 2408. Aid to States, counties, and tribal organizations for establishment, expansion, and improvement of veterans’ cemeteries
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T22:10:17.920Z"
   - **(3)** The Secretary may by regulation prescribe such additional terms and conditions for grants used for training costs under this subsection as the Secretary considers appropriate.
 - **(d)**
   - **(1)** In addition to the conditions specified in subsection (b) of this section, any grant to a State or county under this section to assist such State or county in establishing a veterans’ cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of section 2404 of this title .
-  - **(2)** The Secretary may by regulation prescribe such additional terms and conditions for grants under this section as the Secretary considers appropriate.
+  - **(2)** Except as provided in subsection (i), the Secretary may by regulation prescribe such additional terms and conditions for grants under this section as the Secretary considers appropriate.
 - **(e)**
   - **(1)** In addition to the conditions specified in subsections (b) and (c), any grant made to a State or county under this section shall be made subject to the condition specified in paragraph (2).
   - **(2)** For purposes of paragraph (1), the condition described in this paragraph is that, after the date of the receipt of the grant, such State or county prohibit the interment or memorialization in that cemetery of a person described in section 2411(b) of this title , subject to the receipt of notice described in subsection (a)(2) of such section, except that for purposes of this subsection—
@@ -53,6 +53,15 @@ generated_at: "2026-03-29T22:10:17.920Z"
     - **(A)** If a county and the State in which the county is located both apply for a grant under this section for the same year, the Secretary shall give priority to the State.
     - **(B)** If a county and a tribal organization from the State in which the county is located both apply for a grant under this section for the same year, the Secretary shall give priority to the tribal organization.
   - **(3)** The Secretary shall prescribe regulations to carry out this subsection.
-- **(i)** For purposes of this section:
+- **(i)**
+  - **(1)** The Secretary may not establish a condition for a grant under this section that restricts the ability of a State receiving such a grant to inter in a veterans’ cemetery owned by that State any individual described in paragraph (2) solely by reason of the ineligibility of such individual for burial in an open national cemetery under the control of the National Cemetery Administration under section 2402(a) of this title .
+  - **(2)** An individual described in this paragraph is the following:
+    - **(A)** Any member of a reserve component of the Armed Forces who was discharged or released from service under conditions other than dishonorable or whose death occurs under conditions other than dishonorable while a member of such a reserve component.
+    - **(B)** Any member of the Army National Guard or the Air National Guard who was discharged or released from service under conditions other than dishonorable or whose death occurs under conditions other than dishonorable while a member of the Army National Guard or the Air National Guard.
+    - **(C)** Any member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force whose death occurs under conditions other than dishonorable while a member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force.
+    - **(D)** Any spouse of any member described in subparagraphs (A) through (C).
+    - **(E)** Any minor child or unmarried adult child (as such terms are defined in section 2402(a) of this title ) of any member described in subparagraphs (A) through (C).
+- **(j)** The Secretary may not deny an application for a grant under this section solely on the basis that the State receiving such grant may use funds from such grant to expand, improve, operate, or maintain a veterans’ cemetery in which interment of individuals described in subsection (i)(2) is allowed.
+- **(k)** For purposes of this section:
   - **(1)** The term “tribal organization” has the meaning given that term in section 3765(4) of this title .
   - **(2)** The term “trust land” has the meaning given that term in section 3765(1) of this title .

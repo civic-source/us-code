@@ -3,9 +3,9 @@ title: "Section 3237 - Annual reports on influence operations and campaigns in t
 usc_title: 50
 usc_section: "3237"
 chapter: 44
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "50 U.S.C. § 3237"
-generated_at: "2026-03-29T22:11:02.205Z"
+generated_at: "2026-03-29T22:16:39.319Z"
 ---
 
 # § 3237. Annual reports on influence operations and campaigns in the United States by the Chinese Communist Party
@@ -20,6 +20,7 @@ generated_at: "2026-03-29T22:11:02.205Z"
   - **(6)** An assessment of the activities of the United Front Work Department designed to influence the opinions of elected leaders of the United States, or candidates for elections in the United States, with respect to issues of importance to the Chinese Communist Party.
   - **(7)** A listing of all known organizations affiliated with the United Front Work Department that are operating in the United States as of the date of the report.
   - **(8)** An identification of influence activities and operations employed by the Chinese Communist Party against the United States science and technology sectors, specifically employees of the United States Government, researchers, scientists, and students in the science and technology sector in the United States.
-  - **(9)** With respect to reports submitted after the first report, an assessment of the change in goals, tactics, techniques, and procedures of the influence operations and campaigns conducted by the Chinese Communist Party.
+  - **(9)** A listing of all known Chinese talent recruitment programs operating in the United States as of the date of the report.
+  - **(10)** With respect to reports submitted after the first report, an assessment of the change in goals, tactics, techniques, and procedures of the influence operations and campaigns conducted by the Chinese Communist Party.
 - **(c)** In carrying out subsection (a), the Director shall coordinate with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of the National Security Agency, and any other relevant head of an element of the intelligence community.
 - **(d)** Each report submitted under subsection (a) shall be submitted in unclassified form, but may include a classified annex.

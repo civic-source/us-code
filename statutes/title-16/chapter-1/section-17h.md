@@ -3,9 +3,9 @@ title: "Section 17h - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "17h"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 17h"
-generated_at: "2026-03-29T22:08:58.286Z"
+generated_at: "2026-03-29T22:14:06.198Z"
 ---
 
 # § 17h. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

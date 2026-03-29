@@ -3,9 +3,9 @@ title: "Section 159a - Acceptance of donations"
 usc_title: 16
 usc_section: "159a"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 159a"
-generated_at: "2026-03-29T22:08:58.304Z"
+generated_at: "2026-03-29T22:14:06.223Z"
 ---
 
 # § 159a. Acceptance of donations

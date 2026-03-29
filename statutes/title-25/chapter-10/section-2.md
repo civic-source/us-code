@@ -3,9 +3,9 @@ title: "Section 2 - Indian probate judges"
 usc_title: 25
 usc_section: "2"
 chapter: 10
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "25 U.S.C. § 2"
-generated_at: "2026-03-29T22:09:21.352Z"
+generated_at: "2026-03-29T22:14:41.699Z"
 ---
 
 # § 372–2. Indian probate judges

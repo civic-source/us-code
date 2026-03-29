@@ -3,9 +3,9 @@ title: "Section 173 - Circulation expenditures"
 usc_title: 26
 usc_section: "173"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 173"
-generated_at: "2026-03-29T22:09:57.681Z"
+generated_at: "2026-03-29T22:15:18.340Z"
 ---
 
 # § 173. Circulation expenditures

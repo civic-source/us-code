@@ -3,9 +3,9 @@ title: "Section 1786a - Omitted"
 usc_title: 12
 usc_section: "1786a"
 chapter: 14
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "12 U.S.C. § 1786a"
-generated_at: "2026-03-29T22:08:33.236Z"
+generated_at: "2026-03-29T22:12:59.506Z"
 ---
 
 # § 1786a. Omitted

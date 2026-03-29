@@ -3,9 +3,9 @@ title: "Section 100101 - Definition"
 usc_title: 36
 usc_section: "100101"
 chapter: 1001
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "36 U.S.C. § 100101"
-generated_at: "2026-03-29T22:10:11.720Z"
+generated_at: "2026-03-29T22:15:40.743Z"
 ---
 
 # § 100101. Definition

@@ -3,9 +3,9 @@ title: "Section 6404 - Abatements"
 usc_title: 26
 usc_section: "6404"
 chapter: 65
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 6404"
-generated_at: "2026-03-29T22:09:58.063Z"
+generated_at: "2026-03-29T22:15:18.793Z"
 ---
 
 # § 6404. Abatements

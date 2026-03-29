@@ -3,9 +3,9 @@ title: "Section 3743 - Definitions"
 usc_title: 16
 usc_section: "3743"
 chapter: 57
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 3743"
-generated_at: "2026-03-29T22:08:58.831Z"
+generated_at: "2026-03-29T22:14:06.832Z"
 ---
 
 # § 3743. Definitions

@@ -3,9 +3,9 @@ title: "Section 314 - Adjutants general"
 usc_title: 32
 usc_section: "314"
 chapter: 3
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "32 U.S.C. § 314"
-generated_at: "2026-03-29T22:10:00.634Z"
+generated_at: "2026-03-29T22:15:22.909Z"
 ---
 
 # § 314. Adjutants general

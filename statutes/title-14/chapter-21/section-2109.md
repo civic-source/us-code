@@ -3,9 +3,9 @@ title: "Section 2109 - Selection boards; oath of members"
 usc_title: 14
 usc_section: "2109"
 chapter: 21
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "14 U.S.C. § 2109"
-generated_at: "2026-03-29T22:08:27.165Z"
+generated_at: "2026-03-29T22:12:38.188Z"
 ---
 
 # § 2109. Selection boards; oath of members

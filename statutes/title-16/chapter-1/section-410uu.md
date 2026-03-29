@@ -3,9 +3,9 @@ title: "Section 410uu - Renaming"
 usc_title: 16
 usc_section: "410uu"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 410uu"
-generated_at: "2026-03-29T22:08:58.369Z"
+generated_at: "2026-03-29T22:14:06.292Z"
 ---
 
 # § 410uu. Renaming

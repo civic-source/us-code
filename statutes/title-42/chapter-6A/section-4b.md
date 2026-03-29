@@ -1,21 +1,27 @@
 ---
-title: "Section 4b - Children’s Preparedness Unit"
+title: "Section 4b - Expanding access to unified care"
 usc_title: 42
 usc_section: "4b"
 chapter: 6
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 4b"
-generated_at: "2026-03-29T22:10:50.227Z"
+generated_at: "2026-03-29T22:16:18.786Z"
 ---
 
-# § 247d–4b. Children’s Preparedness Unit
+# § 280g–4b. Expanding access to unified care
 
-- **(a)** The Secretary, acting through the Director of the Centers for Disease Control and Prevention (referred to in this subsection as the “Director”), shall maintain an internal team of experts, to be known as the Children’s Preparedness Unit (referred to in this subsection as the “Unit”), to work collaboratively to provide guidance on the considerations for, and the specific needs of, children before, during, and after public health emergencies. The Unit shall inform the Director regarding emergency preparedness and response efforts pertaining to children at the Centers for Disease Control and Prevention.
-- **(b)** The team described in subsection (a) shall include one or more pediatricians, which may be a developmental-behavioral pediatrician, and may also include behavioral scientists, child psychologists, epidemiologists, biostatisticians, health communications staff, and individuals with other areas of expertise, as the Secretary determines appropriate.
-- **(c)** The team described in subsection (a) may—
-  - **(1)** assist State, local, Tribal, and territorial emergency planning and response activities related to children, which may include developing, identifying, and sharing best practices;
-  - **(2)** provide technical assistance, training, and consultation to Federal, State, local, Tribal, and territorial public health officials to improve preparedness and response capabilities with respect to the needs of children, including providing such technical assistance, training, and consultation to eligible entities in order to support the achievement of measurable evidence-based benchmarks and objective standards applicable to sections 247d–3a and 247d–3b of this title;
-  - **(3)** improve the utilization of methods to incorporate the needs of children in planning for and responding to a public health emergency, including public awareness of such methods;
-  - **(4)** coordinate with, and improve, public-private partnerships, such as health care coalitions pursuant to sections 247d–3b and 247d–3c of this title, to address gaps and inefficiencies in emergency preparedness and response efforts for children;
-  - **(5)** provide expertise and input during the development of guidance and clinical recommendations to address the needs of children when preparing for, and responding to, public health emergencies, including pursuant to section 247d–3c of this title ; and
-  - **(6)** carry out other duties related to preparedness and response activities for children, as the Secretary determines appropriate.
+- **(a)** The Secretary of Health and Human Services (referred to in this section as the “Secretary”) shall establish a program (referred to in this section as the “program”) to award grants to eligible entities for the clinical training of sexual assault forensic examiners (including registered nurses, nurse practitioners, nurse midwives, clinical nurse specialists, physician assistants, and physicians) to administer medical forensic examinations and treatments to survivors of sexual assault.
+- **(b)** The purpose of the program is to enable each grant recipient to expand access to medical forensic examination services by providing new providers with the clinical training necessary to establish and maintain competency in such services and to test the provisions of such services at new facilities in expanded health care settings.
+- **(c)** Under the program, the Secretary shall award 3-year grants to eligible entities that meet the requirements established by the Secretary.
+- **(d)** To be eligible to receive a grant under this section, an entity shall—
+  - **(1)** be—
+    - **(A)** a safety net clinic acting in partnership with a high-volume emergency services provider or a hospital currently providing sexual assault medical forensic examinations performed by sexual assault forensic examiners, that will use grant funds to—
+      - **(i)** assign rural health care service providers to the high-volume hospitals for clinical practicum hours to qualify such providers as sexual assault forensic examiners; or
+      - **(ii)** assign practitioners at high-volume hospitals to rural health care services providers to instruct, oversee, and approve clinical practicum hours in the community to be served;
+    - **(B)** an organization described in section 501(c)(3) of title 26 and exempt from taxation under 501(a) of such title, that provides legal training and technical assistance to Tribal communities and to organizations and agencies serving Indians; or
+    - **(C)** an Indian Tribe (as defined in section 5304 of title 25 ); and
+  - **(2)** submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a description of whether the applicant will provide services described in subparagraph (A) or (B) of paragraph (1).
+- **(e)** Each grant awarded under this section shall be in an amount not to exceed $400,000 per year. A grant recipient may carry over funds from one fiscal year to the next without obtaining approval from the Secretary.
+- **(f)**
+  - **(1)** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2023 through 2027.
+  - **(2)** Of the amount appropriated under this subsection for a fiscal year, the Secretary shall reserve 15 percent of such amount for purposes of making grants to entities that are affiliated with Indian Tribes or Tribal organizations (as defined in section 5304 of title 25 ), or Urban Indian organizations (as defined in section 1603 of title 25 ). Amounts reserved may be used to support referrals and the delivery of emergency first aid, culturally competent support, and forensic evidence collection training.

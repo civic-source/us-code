@@ -3,9 +3,9 @@ title: "Section 426l - Redesignation; availability of appropriations"
 usc_title: 16
 usc_section: "426l"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 426l"
-generated_at: "2026-03-29T22:08:58.414Z"
+generated_at: "2026-03-29T22:14:06.336Z"
 ---
 
 # § 426l. Redesignation; availability of appropriations

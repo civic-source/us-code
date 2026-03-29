@@ -3,9 +3,9 @@ title: "Section 1755 - Additional priority of remedies after finding of de jure 
 usc_title: 20
 usc_section: "1755"
 chapter: 39
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "20 U.S.C. § 1755"
-generated_at: "2026-03-29T22:08:51.941Z"
+generated_at: "2026-03-29T22:14:13.625Z"
 ---
 
 # § 1755. Additional priority of remedies after finding of de jure segregation

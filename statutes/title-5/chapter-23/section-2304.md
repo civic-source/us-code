@@ -3,9 +3,9 @@ title: "Section 2304 - Prohibited personnel practices affecting the Transportati
 usc_title: 5
 usc_section: "2304"
 chapter: 23
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "5 U.S.C. § 2304"
-generated_at: "2026-03-29T22:07:27.489Z"
+generated_at: "2026-03-29T22:11:41.432Z"
 ---
 
 # § 2304. Prohibited personnel practices affecting the Transportation Security Administration

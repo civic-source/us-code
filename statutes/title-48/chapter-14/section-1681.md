@@ -3,9 +3,9 @@ title: "Section 1681 - Continuance of civil government for Trust Territory of th
 usc_title: 48
 usc_section: "1681"
 chapter: 14
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "48 U.S.C. § 1681"
-generated_at: "2026-03-29T22:10:56.344Z"
+generated_at: "2026-03-29T22:16:25.848Z"
 ---
 
 # § 1681. Continuance of civil government for Trust Territory of the Pacific Islands; assistance programs; maximum fiscal year costs; reimbursement

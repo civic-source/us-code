@@ -3,9 +3,9 @@ title: "Section 7281 - Administration"
 usc_title: 7
 usc_section: "7281"
 chapter: 100
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "7 U.S.C. § 7281"
-generated_at: "2026-03-29T22:07:50.964Z"
+generated_at: "2026-03-29T22:12:13.263Z"
 ---
 
 # § 7281. Administration

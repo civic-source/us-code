@@ -3,9 +3,9 @@ title: "Section 5 - Record of deeds by Indians requiring approval"
 usc_title: 25
 usc_section: "5"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "25 U.S.C. § 5"
-generated_at: "2026-03-29T22:09:21.332Z"
+generated_at: "2026-03-29T22:14:41.676Z"
 ---
 
 # § 5. Record of deeds by Indians requiring approval

@@ -3,9 +3,9 @@ title: "Section 3101 - Interagency oceans and human health research program"
 usc_title: 33
 usc_section: "3101"
 chapter: 44
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "33 U.S.C. § 3101"
-generated_at: "2026-03-29T22:10:07.316Z"
+generated_at: "2026-03-29T22:15:26.505Z"
 ---
 
 # § 3101. Interagency oceans and human health research program

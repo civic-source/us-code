@@ -3,9 +3,9 @@ title: "Section 1576 - General elections; time; transfer of Council functions, p
 usc_title: 48
 usc_section: "1576"
 chapter: 12
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "48 U.S.C. § 1576"
-generated_at: "2026-03-29T22:10:56.342Z"
+generated_at: "2026-03-29T22:16:25.845Z"
 ---
 
 # § 1576. General elections; time; transfer of Council functions, property, etc.

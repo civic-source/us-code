@@ -3,9 +3,9 @@ title: "Section 6039B - Repealed. Pub. L. 99–514, title XIII, § 1303(b)(5) , 
 usc_title: 26
 usc_section: "6039B"
 chapter: 61
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 6039B"
-generated_at: "2026-03-29T22:09:58.024Z"
+generated_at: "2026-03-29T22:15:18.741Z"
 ---
 
 # [§ 6039B. Repealed. Pub. L. 99–514, title XIII, § 1303(b)(5) , Oct. 22, 1986 , 100 Stat. 2658 ]

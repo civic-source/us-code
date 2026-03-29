@@ -3,9 +3,9 @@ title: "Section 1188 - Admission of temporary H–2A workers"
 usc_title: 8
 usc_section: "1188"
 chapter: 12
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "8 U.S.C. § 1188"
-generated_at: "2026-03-29T22:08:12.806Z"
+generated_at: "2026-03-29T22:11:45.346Z"
 ---
 
 # § 1188. Admission of temporary H–2A workers

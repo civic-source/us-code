@@ -3,9 +3,9 @@ title: "Section 101916 - Reasonableness of rates and charges"
 usc_title: 54
 usc_section: "101916"
 chapter: 1019
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "54 U.S.C. § 101916"
-generated_at: "2026-03-29T22:11:09.949Z"
+generated_at: "2026-03-29T22:17:02.534Z"
 ---
 
 # § 101916. Reasonableness of rates and charges

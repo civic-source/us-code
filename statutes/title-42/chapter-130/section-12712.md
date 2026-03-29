@@ -3,9 +3,9 @@ title: "Section 12712 - 5-year energy efficiency plan"
 usc_title: 42
 usc_section: "12712"
 chapter: 130
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 12712"
-generated_at: "2026-03-29T22:10:51.626Z"
+generated_at: "2026-03-29T22:16:20.423Z"
 ---
 
 # § 12712. 5-year energy efficiency plan

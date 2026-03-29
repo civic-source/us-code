@@ -3,9 +3,9 @@ title: "Section 3517 - Inspector General for Agency"
 usc_title: 50
 usc_section: "3517"
 chapter: 46
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "50 U.S.C. § 3517"
-generated_at: "2026-03-29T22:11:02.229Z"
+generated_at: "2026-03-29T22:16:39.343Z"
 ---
 
 # § 3517. Inspector General for Agency
@@ -65,12 +65,11 @@ generated_at: "2026-03-29T22:11:02.229Z"
       - **(iii)** A member or employee of one of the intelligence committees who receives a complaint or information under clause (i) does so in that member or employee’s official capacity as a member or employee of that committee.
     - **(E)** The Inspector General shall notify an employee who reports a complaint or information to the Inspector General under this paragraph of each action taken under this paragraph with respect to the complaint or information. Such notice shall be provided not later than 3 days after any such action is taken.
     - **(F)** An action taken by the Director or the Inspector General under this paragraph shall not be subject to judicial review.
-    - **(G)** In this paragraph:
-      - **(i)** The term “urgent concern” means any of the following:
-        - **(I)** A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operations of an intelligence activity involving classified information, but does not include differences of opinions concerning public policy matters.
-        - **(II)** A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
-        - **(III)** An action, including a personnel action described in section 2302(a)(2)(A) of title 5 , constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) in response to an employee’s reporting an urgent concern in accordance with this paragraph.
-      - **(ii)** The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+    - **(G)**
+      - **(i)** In this paragraph:
+        - **(I)** The term “urgent concern” means any of the following:
+        - **(II)** The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+      - **(ii)** Within the executive branch, the Inspector General shall have sole authority to determine whether any complaint or information reported to the Inspector General is a matter of urgent concern under this paragraph.
     - **(H)** An individual who has submitted a complaint or information to the Inspector General under this section may notify any member of the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate, or a staff member of either such Committee, of the fact that such individual has made a submission to the Inspector General, and of the date on which such submission was made.
 - **(e)**
   - **(1)** The Inspector General shall have direct and prompt access to the Director when necessary for any purpose pertaining to the performance of his duties.

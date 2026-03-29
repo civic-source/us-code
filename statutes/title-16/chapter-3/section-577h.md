@@ -3,9 +3,9 @@ title: "Section 577h - Authorization of appropriations; limitation on amount for
 usc_title: 16
 usc_section: "577h"
 chapter: 3
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 577h"
-generated_at: "2026-03-29T22:08:58.579Z"
+generated_at: "2026-03-29T22:14:06.513Z"
 ---
 
 # § 577h. Authorization of appropriations; limitation on amount for purchase of additional lands, water or interests therein; availability of other funds; annual report to Congress

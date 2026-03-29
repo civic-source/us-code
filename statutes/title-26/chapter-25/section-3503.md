@@ -3,9 +3,9 @@ title: "Section 3503 - Erroneous payments"
 usc_title: 26
 usc_section: "3503"
 chapter: 25
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 3503"
-generated_at: "2026-03-29T22:09:57.959Z"
+generated_at: "2026-03-29T22:15:18.659Z"
 ---
 
 # § 3503. Erroneous payments

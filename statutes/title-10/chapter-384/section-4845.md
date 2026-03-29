@@ -3,9 +3,9 @@ title: "Section 4845 - Armament retooling and manufacturing"
 usc_title: 10
 usc_section: "4845"
 chapter: 384
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 4845"
-generated_at: "2026-03-29T22:08:02.500Z"
+generated_at: "2026-03-29T22:11:59.073Z"
 ---
 
 # § 4845. Armament retooling and manufacturing

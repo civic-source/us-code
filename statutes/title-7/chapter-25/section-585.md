@@ -3,9 +3,9 @@ title: "Section 585 - Fees for inspection and certification; certificates as pri
 usc_title: 7
 usc_section: "585"
 chapter: 25
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "7 U.S.C. § 585"
-generated_at: "2026-03-29T22:07:50.687Z"
+generated_at: "2026-03-29T22:12:12.918Z"
 ---
 
 # § 585. Fees for inspection and certification; certificates as prima facie evidence

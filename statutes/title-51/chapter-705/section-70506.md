@@ -3,9 +3,9 @@ title: "Section 70506 - Exploration technology research"
 usc_title: 51
 usc_section: "70506"
 chapter: 705
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "51 U.S.C. § 70506"
-generated_at: "2026-03-29T22:11:10.524Z"
+generated_at: "2026-03-29T22:16:54.712Z"
 ---
 
 # § 70506. Exploration technology research

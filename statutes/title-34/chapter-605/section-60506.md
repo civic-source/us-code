@@ -3,9 +3,9 @@ title: "Section 60506 - Federal interagency reentry coordination"
 usc_title: 34
 usc_section: "60506"
 chapter: 605
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "34 U.S.C. § 60506"
-generated_at: "2026-03-29T22:10:05.010Z"
+generated_at: "2026-03-29T22:15:28.126Z"
 ---
 
 # § 60506. Federal interagency reentry coordination

@@ -3,9 +3,9 @@ title: "Section 2146a - Searchable database requirements"
 usc_title: 7
 usc_section: "2146a"
 chapter: 54
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "7 U.S.C. § 2146a"
-generated_at: "2026-03-29T22:07:50.840Z"
+generated_at: "2026-03-29T22:12:13.099Z"
 ---
 
 # § 2146a. Searchable database requirements
@@ -13,8 +13,8 @@ generated_at: "2026-03-29T22:07:50.840Z"
 The Animal and Plant Health Inspection Service shall, notwithstanding any other provision of law:
 
 - **(a)** within 60 calendar days, restore on its website the searchable database and its contents that were available on January 30, 2017 , and all content generated since that date; and
-- **(b)** hereafter, make publicly available via searchable database, in their entirety without redactions except signatures, the following records after enactment of this Act for a subsequent period of three years:
-  - **(1)** all final Animal Welfare Act inspection reports, including all reports documenting all Animal Welfare Act non-compliances observed by USDA officials and all animal inventories;
-  - **(2)** all final Animal Welfare Act and Horse Protection Act enforcement records;
-  - **(3)** all reports or other materials documenting any non-compliances observed by USDA officials; and
+- **(b)** hereafter, make publicly available via searchable database, in their entirety without redactions except signatures, the following records:
+  - **(1)** all final Animal Welfare Act inspection reports, including all reports documenting all Animal Welfare Act violations and non-compliances observed by USDA officials and all animal inventories for the current year and the preceding three years;
+  - **(2)** all final Animal Welfare Act and Horse Protection Act enforcement records for the current year and the preceding three years;
+  - **(3)** all reports or other materials documenting any violations and non-compliances observed by USDA officials for the current year and the preceding three years; and
   - **(4)** within six months of receipt by the agency, all final Animal Welfare Act research facility annual reports, including their attachments with appropriate redactions made for confidential business information that USDA could withhold under FOIA Exemption 4.

@@ -3,9 +3,9 @@ title: "Section 1594e - Definitions"
 usc_title: 42
 usc_section: "1594e"
 chapter: 9
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 1594e"
-generated_at: "2026-03-29T22:10:51.001Z"
+generated_at: "2026-03-29T22:16:19.668Z"
 ---
 
 # § 1594e. Definitions

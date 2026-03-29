@@ -3,9 +3,9 @@ title: "Section 2323 - Transfer of defense articles or services"
 usc_title: 22
 usc_section: "2323"
 chapter: 32
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "22 U.S.C. § 2323"
-generated_at: "2026-03-29T22:09:29.770Z"
+generated_at: "2026-03-29T22:14:52.833Z"
 ---
 
 # § 2323. Transfer of defense articles or services

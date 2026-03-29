@@ -3,9 +3,9 @@ title: "Section 5812 - Transfers"
 usc_title: 26
 usc_section: "5812"
 chapter: 53
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 5812"
-generated_at: "2026-03-29T22:09:58.016Z"
+generated_at: "2026-03-29T22:15:18.730Z"
 ---
 
 # § 5812. Transfers

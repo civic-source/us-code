@@ -3,9 +3,9 @@ title: "Section 4506 - Exemptions"
 usc_title: 46
 usc_section: "4506"
 chapter: 45
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "46 U.S.C. § 4506"
-generated_at: "2026-03-29T22:10:58.194Z"
+generated_at: "2026-03-29T22:16:51.771Z"
 ---
 
 # § 4506. Exemptions

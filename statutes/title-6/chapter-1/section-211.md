@@ -3,9 +3,9 @@ title: "Section 211 - Establishment of U.S. Customs and Border Protection; Commi
 usc_title: 6
 usc_section: "211"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "6 U.S.C. § 211"
-generated_at: "2026-03-29T22:07:40.049Z"
+generated_at: "2026-03-29T22:11:46.334Z"
 ---
 
 # § 211. Establishment of U.S. Customs and Border Protection; Commissioner, Deputy Commissioner, and operational offices
@@ -175,7 +175,7 @@ generated_at: "2026-03-29T22:07:40.049Z"
 - **(o)**
   - **(1)** The Secretary may establish such other offices or positions of Assistant Commissioners (or other similar officers or officials) as the Secretary determines necessary to carry out the missions, duties, functions, and authorities of U.S. Customs and Border Protection.
   - **(2)** If the Secretary exercises the authority provided under paragraph (1), the Secretary shall notify the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate not later than 30 days before exercising such authority.
-  - **(3)** Beginning in fiscal year 2019, in carrying out subsection (c)(8), the Commissioner shall purchase, deploy, and maintain not more than 170 self-powering, 9–1–1 cellular relay rescue beacons along the southern border of the United States at locations determined appropriate by the Commissioner to mitigate migrant deaths.
+  - **(3)** Beginning in fiscal year 2019, in carrying out subsection (c)(8), the Commissioner shall purchase, deploy, and maintain not more than 250 self-powering, 9–1–1 cellular relay rescue beacons along the southern border of the United States at locations determined appropriate by the Commissioner to mitigate migrant deaths.
 - **(p)** The Commissioner shall, on and after February 24, 2016 , continue to submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate any report required, on the day before February 24, 2016 , to be submitted under any provision of law.
 - **(q)** Nothing in this section may be construed as affecting in any manner the authority, existing on the day before February 24, 2016 , of any other Federal agency or component of the Department.
 - **(r)** In this section, the terms “commercial operations”, “customs and trade laws of the United States”, “trade enforcement”, and “trade facilitation” have the meanings given such terms in section 4301 of title 19 .

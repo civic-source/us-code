@@ -3,9 +3,9 @@ title: "Section 5689 - Repealed. Pub. L. 94–455, title XIX, § 1905(b)(2)(E)(i
 usc_title: 26
 usc_section: "5689"
 chapter: 51
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 5689"
-generated_at: "2026-03-29T22:09:58.013Z"
+generated_at: "2026-03-29T22:15:18.723Z"
 ---
 
 # [§ 5689. Repealed. Pub. L. 94–455, title XIX, § 1905(b)(2)(E)(i) , Oct. 4, 1976 , 90 Stat. 1822 ]

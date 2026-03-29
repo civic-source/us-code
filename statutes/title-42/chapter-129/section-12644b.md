@@ -3,9 +3,9 @@ title: "Section 12644b - Consolidated application and reporting requirements"
 usc_title: 42
 usc_section: "12644b"
 chapter: 129
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 12644b"
-generated_at: "2026-03-29T22:10:51.615Z"
+generated_at: "2026-03-29T22:16:20.408Z"
 ---
 
 # § 12644b. Consolidated application and reporting requirements

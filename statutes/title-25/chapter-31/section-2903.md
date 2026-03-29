@@ -3,9 +3,9 @@ title: "Section 2903 - Declaration of policy"
 usc_title: 25
 usc_section: "2903"
 chapter: 31
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "25 U.S.C. § 2903"
-generated_at: "2026-03-29T22:09:21.446Z"
+generated_at: "2026-03-29T22:14:41.815Z"
 ---
 
 # § 2903. Declaration of policy

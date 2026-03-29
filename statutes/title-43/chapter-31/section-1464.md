@@ -3,9 +3,9 @@ title: "Section 1464 - Agents or attorneys representing claimants before departm
 usc_title: 43
 usc_section: "1464"
 chapter: 31
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "43 U.S.C. § 1464"
-generated_at: "2026-03-29T22:10:26.921Z"
+generated_at: "2026-03-29T22:15:48.625Z"
 ---
 
 # § 1464. Agents or attorneys representing claimants before department

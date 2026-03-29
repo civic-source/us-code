@@ -3,9 +3,9 @@ title: "Section 1731b - Prohibition against transient housing"
 usc_title: 12
 usc_section: "1731b"
 chapter: 13
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "12 U.S.C. § 1731b"
-generated_at: "2026-03-29T22:08:33.213Z"
+generated_at: "2026-03-29T22:12:59.480Z"
 ---
 
 # § 1731b. Prohibition against transient housing

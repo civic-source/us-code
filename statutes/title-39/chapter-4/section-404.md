@@ -3,9 +3,9 @@ title: "Section 404 - Specific powers"
 usc_title: 39
 usc_section: "404"
 chapter: 4
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "39 U.S.C. § 404"
-generated_at: "2026-03-29T22:10:09.618Z"
+generated_at: "2026-03-29T22:15:33.292Z"
 ---
 
 # § 404. Specific powers
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T22:10:09.618Z"
     - **(B)** if otherwise lawfully delivered to the Commission, be considered to have been received on the date determined based on any appropriate documentation or other indicia (as determined under regulations of the Commission).
 - **(e)**
   - **(1)** In this subsection, the term “nonpostal service” means any service that is not a postal service defined under section 102(5).
-  - **(2)** Nothing in this section shall be considered to permit or require that the Postal Service provide any nonpostal service, except that the Postal Service may provide nonpostal services which were offered as of January 1, 2006 , as provided under this subsection.
+  - **(2)** Nothing in this section shall be considered to permit or require that the Postal Service provide any nonpostal service, except that the Postal Service may provide nonpostal services which were offered as of January 1, 2006 , as provided under this subsection, or any nonpostal products or services authorized by chapter 37.
   - **(3)** Not later than 2 years after the date of enactment of the Postal Accountability and Enhancement Act, the Postal Regulatory Commission shall review each nonpostal service offered by the Postal Service on the date of enactment of that Act and determine whether that nonpostal service shall continue, taking into account—
     - **(A)** the public need for the service; and
     - **(B)** the ability of the private sector to meet the public need for the service.

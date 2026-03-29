@@ -3,9 +3,9 @@ title: "Section 1174 - Penalties"
 usc_title: 16
 usc_section: "1174"
 chapter: 24
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 1174"
-generated_at: "2026-03-29T22:08:58.698Z"
+generated_at: "2026-03-29T22:14:06.655Z"
 ---
 
 # § 1174. Penalties

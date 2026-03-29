@@ -3,9 +3,9 @@ title: "Section 2474 - Centers of Industrial and Technical Excellence: designati
 usc_title: 10
 usc_section: "2474"
 chapter: 146
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 2474"
-generated_at: "2026-03-29T22:08:02.410Z"
+generated_at: "2026-03-29T22:11:58.989Z"
 ---
 
 # § 2474. Centers of Industrial and Technical Excellence: designation; public-private partnerships

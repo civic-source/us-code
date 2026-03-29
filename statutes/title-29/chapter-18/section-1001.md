@@ -3,9 +3,9 @@ title: "Section 1001 - Congressional findings and declaration of policy"
 usc_title: 29
 usc_section: "1001"
 chapter: 18
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "29 U.S.C. § 1001"
-generated_at: "2026-03-29T22:09:38.946Z"
+generated_at: "2026-03-29T22:15:04.014Z"
 ---
 
 # § 1001. Congressional findings and declaration of policy

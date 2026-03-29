@@ -3,9 +3,9 @@ title: "Section 4726 - Guidelines relating to restrictions on registered lobbyis
 usc_title: 2
 usc_section: "4726"
 chapter: 47
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "2 U.S.C. § 4726"
-generated_at: "2026-03-29T22:07:21.650Z"
+generated_at: "2026-03-29T22:11:38.373Z"
 ---
 
 # § 4726. Guidelines relating to restrictions on registered lobbyist participation in travel and disclosure

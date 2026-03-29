@@ -3,9 +3,9 @@ title: "Section 20702 - Establishment of a grant program to develop, expand, and
 usc_title: 34
 usc_section: "20702"
 chapter: 207
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "34 U.S.C. § 20702"
-generated_at: "2026-03-29T22:10:04.959Z"
+generated_at: "2026-03-29T22:15:28.089Z"
 ---
 
 # § 20702. Establishment of a grant program to develop, expand, and strengthen assistance programs for certain persons subject to trafficking

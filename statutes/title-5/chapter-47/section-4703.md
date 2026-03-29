@@ -3,9 +3,9 @@ title: "Section 4703 - Demonstration projects"
 usc_title: 5
 usc_section: "4703"
 chapter: 47
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "5 U.S.C. § 4703"
-generated_at: "2026-03-29T22:07:27.504Z"
+generated_at: "2026-03-29T22:11:41.451Z"
 ---
 
 # § 4703. Demonstration projects

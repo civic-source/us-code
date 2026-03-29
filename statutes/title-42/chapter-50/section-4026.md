@@ -3,12 +3,12 @@ title: "Section 4026 - Expiration of program"
 usc_title: 42
 usc_section: "4026"
 chapter: 50
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 4026"
-generated_at: "2026-03-29T22:10:51.171Z"
+generated_at: "2026-03-29T22:16:19.899Z"
 ---
 
 # § 4026. Expiration of program
 
-No new contract for flood insurance under this chapter shall be entered into after September 30, 2021 .
+No new contract for flood insurance under this chapter shall be entered into after September 30, 2022 .
 

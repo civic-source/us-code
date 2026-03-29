@@ -3,9 +3,9 @@ title: "Section 5318 - Review of Social Security Administration death informatio
 usc_title: 38
 usc_section: "5318"
 chapter: 53
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "38 U.S.C. § 5318"
-generated_at: "2026-03-29T22:10:17.974Z"
+generated_at: "2026-03-29T22:15:38.162Z"
 ---
 
 # § 5318. Review of Social Security Administration death information

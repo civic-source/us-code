@@ -3,9 +3,9 @@ title: "Section 3905 - Disenrollment"
 usc_title: 14
 usc_section: "3905"
 chapter: 39
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "14 U.S.C. § 3905"
-generated_at: "2026-03-29T22:08:27.177Z"
+generated_at: "2026-03-29T22:12:38.204Z"
 ---
 
 # § 3905. Disenrollment

@@ -3,9 +3,9 @@ title: "Section 1834a - Assessment credits for qualifying activities relating to
 usc_title: 12
 usc_section: "1834a"
 chapter: 16
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "12 U.S.C. § 1834a"
-generated_at: "2026-03-29T22:08:33.287Z"
+generated_at: "2026-03-29T22:12:59.563Z"
 ---
 
 # § 1834a. Assessment credits for qualifying activities relating to distressed communities

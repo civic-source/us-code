@@ -3,9 +3,9 @@ title: "Section 285t - Purpose of Institute"
 usc_title: 42
 usc_section: "285t"
 chapter: 6
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 285t"
-generated_at: "2026-03-29T22:10:50.338Z"
+generated_at: "2026-03-29T22:16:18.835Z"
 ---
 
 # § 285t. Purpose of Institute
@@ -47,8 +47,8 @@ generated_at: "2026-03-29T22:10:50.338Z"
 - **(g)** The Director of the Institute shall work with the Director of NIH and the directors of the agencies of the National Institutes of Health to carry out the provisions of section 289a–2 of this title that relate to minority groups.
 - **(h)**
   - **(1)** The Director of the Institute may carry out a program to facilitate minority health disparities research and other health disparities research by providing for research endowments—
-    - **(1)** 1 1 So in original. Probably should be “(A)”. at centers of excellence under section 293 of this title ; and
-    - **(2)** 2 2 So in original. Probably should be “(B)”. at centers of excellence under section 285t–1 of this title .
+    - **(A)** at current or former centers of excellence under section 293 of this title ; and
+    - **(B)** at current or former centers of excellence under section 285t–1 of this title .
   - **(2)** The Director of the Institute may provide for a research endowment under paragraph (1) only if the institution involved meets the following conditions:
     - **(A)** The institution does not have an endowment that is worth in excess of an amount equal to 50 percent of the national median of endowment funds at institutions that conduct similar biomedical research or training of health professionals.
     - **(B)** The application of the institution under paragraph (1) regarding a research endowment has been recommended pursuant to technical and scientific peer review and has been approved by the advisory council under subsection (j).

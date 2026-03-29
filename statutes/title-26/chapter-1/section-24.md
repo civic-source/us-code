@@ -3,9 +3,9 @@ title: "Section 24 - Child tax credit"
 usc_title: 26
 usc_section: "24"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 24"
-generated_at: "2026-03-29T22:09:57.577Z"
+generated_at: "2026-03-29T22:15:18.205Z"
 ---
 
 # § 24. Child tax credit
@@ -75,7 +75,7 @@ generated_at: "2026-03-29T22:09:57.577Z"
   - **(4)**
     - **(A)** The amount of the credit allowable under subsection (a) (determined without regard to subsection (b)) shall be reduced by $50 for each $1,000 (or fraction thereof) by which the taxpayer’s modified adjusted gross income (as defined in subsection (b)) exceeds the applicable threshold amount.
     - **(B)** For purposes of this paragraph, the term “applicable threshold amount” means—
-      - **(i)** $150,000, in the case of a joint return or surviving spouse (as defined in section 2(a)),
+      - **(i)** $150,000, in the case of a joint return or surviving spouse (as defined in section 2(a)) , 1 1 So in original.
       - **(ii)** $112,500, in the case of a head of household (as defined in section 2(b)), and
       - **(iii)** $75,000, in any other case.
     - **(C)**

@@ -3,9 +3,9 @@ title: "Section 1717 - Qualifications of conveyees"
 usc_title: 43
 usc_section: "1717"
 chapter: 35
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "43 U.S.C. § 1717"
-generated_at: "2026-03-29T22:10:26.958Z"
+generated_at: "2026-03-29T22:15:48.656Z"
 ---
 
 # § 1717. Qualifications of conveyees

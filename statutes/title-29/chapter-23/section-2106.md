@@ -3,9 +3,9 @@ title: "Section 2106 - Procedures encouraged where not required"
 usc_title: 29
 usc_section: "2106"
 chapter: 23
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "29 U.S.C. § 2106"
-generated_at: "2026-03-29T22:09:39.033Z"
+generated_at: "2026-03-29T22:15:04.119Z"
 ---
 
 # § 2106. Procedures encouraged where not required

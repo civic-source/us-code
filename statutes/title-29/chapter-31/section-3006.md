@@ -3,9 +3,9 @@ title: "Section 3006 - Administrative provisions"
 usc_title: 29
 usc_section: "3006"
 chapter: 31
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "29 U.S.C. § 3006"
-generated_at: "2026-03-29T22:09:39.044Z"
+generated_at: "2026-03-29T22:15:04.129Z"
 ---
 
 # § 3006. Administrative provisions

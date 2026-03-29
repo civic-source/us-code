@@ -3,9 +3,9 @@ title: "Section 3 - Definitions"
 usc_title: 50
 usc_section: "3"
 chapter: 5
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "50 U.S.C. § 3"
-generated_at: "2026-03-29T22:11:02.107Z"
+generated_at: "2026-03-29T22:16:39.205Z"
 ---
 
 # § 98h–3. Definitions

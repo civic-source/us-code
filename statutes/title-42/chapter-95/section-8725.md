@@ -3,9 +3,9 @@ title: "Section 8725 - Omitted"
 usc_title: 42
 usc_section: "8725"
 chapter: 95
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 8725"
-generated_at: "2026-03-29T22:10:51.480Z"
+generated_at: "2026-03-29T22:16:20.225Z"
 ---
 
 # §§ 8721 to 8725. Omitted

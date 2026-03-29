@@ -3,9 +3,9 @@ title: "Section 833q - Educational costs of dependents of employees; payments to
 usc_title: 16
 usc_section: "833q"
 chapter: 12
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 833q"
-generated_at: "2026-03-29T22:08:58.668Z"
+generated_at: "2026-03-29T22:14:06.619Z"
 ---
 
 # § 833q. Educational costs of dependents of employees; payments to school districts; reimbursement from continuing fund

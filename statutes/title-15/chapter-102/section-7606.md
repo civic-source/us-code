@@ -3,9 +3,9 @@ title: "Section 7606 - Prohibition of certain waivers"
 usc_title: 15
 usc_section: "7606"
 chapter: 102
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "15 U.S.C. § 7606"
-generated_at: "2026-03-29T22:08:25.081Z"
+generated_at: "2026-03-29T22:13:34.638Z"
 ---
 
 # § 7606. Prohibition of certain waivers

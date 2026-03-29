@@ -3,9 +3,9 @@ title: "Section 1335 - Naval Observatory Observations"
 usc_title: 44
 usc_section: "1335"
 chapter: 13
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "44 U.S.C. § 1335"
-generated_at: "2026-03-29T22:10:22.255Z"
+generated_at: "2026-03-29T22:15:45.506Z"
 ---
 
 # § 1335. Naval Observatory Observations

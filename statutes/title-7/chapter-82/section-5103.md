@@ -3,9 +3,9 @@ title: "Section 5103 - Participation of Federal agencies"
 usc_title: 7
 usc_section: "5103"
 chapter: 82
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "7 U.S.C. § 5103"
-generated_at: "2026-03-29T22:07:50.905Z"
+generated_at: "2026-03-29T22:12:13.182Z"
 ---
 
 # § 5103. Participation of Federal agencies

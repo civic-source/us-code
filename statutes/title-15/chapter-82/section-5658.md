@@ -3,9 +3,9 @@ title: "Section 5658 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 S
 usc_title: 15
 usc_section: "5658"
 chapter: 82
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "15 U.S.C. § 5658"
-generated_at: "2026-03-29T22:08:25.036Z"
+generated_at: "2026-03-29T22:13:34.584Z"
 ---
 
 # §§ 5651 to 5658. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

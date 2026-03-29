@@ -3,9 +3,9 @@ title: "Section 1713 - Issuance of money orders without payment"
 usc_title: 18
 usc_section: "1713"
 chapter: 83
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "18 U.S.C. § 1713"
-generated_at: "2026-03-29T22:08:40.304Z"
+generated_at: "2026-03-29T22:14:25.601Z"
 ---
 
 # § 1713. Issuance of money orders without payment

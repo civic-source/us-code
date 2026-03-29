@@ -3,9 +3,9 @@ title: "Section 677 - Other Federal laws applicable for administration and enfor
 usc_title: 21
 usc_section: "677"
 chapter: 12
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "21 U.S.C. § 677"
-generated_at: "2026-03-29T22:09:23.977Z"
+generated_at: "2026-03-29T22:14:58.089Z"
 ---
 
 # § 677. Other Federal laws applicable for administration and enforcement of chapter; location of inquiries; jurisdiction of Federal courts

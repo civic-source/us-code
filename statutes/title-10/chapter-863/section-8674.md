@@ -3,9 +3,9 @@ title: "Section 8674 - Examination of vessels; striking of vessels from Naval Ve
 usc_title: 10
 usc_section: "8674"
 chapter: 863
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 8674"
-generated_at: "2026-03-29T22:08:02.540Z"
+generated_at: "2026-03-29T22:11:59.109Z"
 ---
 
 # § 8674. Examination of vessels; striking of vessels from Naval Vessel Register

@@ -3,9 +3,9 @@ title: "Section 6205 - Establishment of the International Broadcasting Advisory 
 usc_title: 22
 usc_section: "6205"
 chapter: 71
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "22 U.S.C. § 6205"
-generated_at: "2026-03-29T22:09:29.924Z"
+generated_at: "2026-03-29T22:14:52.985Z"
 ---
 
 # § 6205. Establishment of the International Broadcasting Advisory Board

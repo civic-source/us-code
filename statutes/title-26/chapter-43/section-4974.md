@@ -3,9 +3,9 @@ title: "Section 4974 - Excise tax on certain accumulations in qualified retireme
 usc_title: 26
 usc_section: "4974"
 chapter: 43
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 4974"
-generated_at: "2026-03-29T22:09:57.986Z"
+generated_at: "2026-03-29T22:15:18.692Z"
 ---
 
 # § 4974. Excise tax on certain accumulations in qualified retirement plans

@@ -3,9 +3,9 @@ title: "Section 3 - General authority of Secretary"
 usc_title: 20
 usc_section: "3"
 chapter: 31
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-29T22:08:51.905Z"
+generated_at: "2026-03-29T22:14:13.584Z"
 ---
 
 # § 1221e–3. General authority of Secretary

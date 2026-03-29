@@ -3,9 +3,9 @@ title: "Section 304 - Vice Commandant; appointment"
 usc_title: 14
 usc_section: "304"
 chapter: 3
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "14 U.S.C. § 304"
-generated_at: "2026-03-29T22:08:27.152Z"
+generated_at: "2026-03-29T22:12:38.168Z"
 ---
 
 # § 304. Vice Commandant; appointment

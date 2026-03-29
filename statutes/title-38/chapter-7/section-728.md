@@ -3,9 +3,9 @@ title: "Section 728 - Misuse of Department purchase cards"
 usc_title: 38
 usc_section: "728"
 chapter: 7
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "38 U.S.C. § 728"
-generated_at: "2026-03-29T22:10:17.874Z"
+generated_at: "2026-03-29T22:15:38.043Z"
 ---
 
 # § 728. Misuse of Department purchase cards

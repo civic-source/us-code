@@ -3,9 +3,9 @@ title: "Section 132 - Special rules for employer-sponsored programs"
 usc_title: 42
 usc_section: "132"
 chapter: 7
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 132"
-generated_at: "2026-03-29T22:10:50.788Z"
+generated_at: "2026-03-29T22:16:19.399Z"
 ---
 
 # § 1395w–132. Special rules for employer-sponsored programs
@@ -36,7 +36,9 @@ generated_at: "2026-03-29T22:10:50.788Z"
       - **(i)** that is better than standard prescription drug coverage to retirees who are covered under a qualified retiree prescription drug plan; or
       - **(ii)** that is supplemental to the benefits provided under a prescription drug plan or an MA–PD plan, including benefits to retirees who are not covered under a qualified retiree prescription drug plan but who are enrolled in such a prescription drug plan or MA–PD plan; or
     - **(D)** preventing employers to provide for flexibility in benefit design and pharmacy access provisions, without regard to the requirements for basic prescription drug coverage, so long as the actuarial equivalence requirement of paragraph (2)(A) is met.
-- **(b)** The provisions of section 1395w–27(i) of this title shall apply with respect to prescription drug plans in relation to employment-based retiree health coverage in a manner similar to the manner in which they apply to an MA plan in relation to employers, including authorizing the establishment of separate premium amounts for enrollees in a prescription drug plan by reason of such coverage and limitations on enrollment to part D eligible individuals enrolled under such coverage.
+- **(b)** The provisions of section 1395w–27(i) of this title shall apply with respect to prescription drug plans in relation to employment-based retiree health coverage in a manner similar to the manner in which they apply to an MA plan in relation to employers, including authorizing the establishment of separate premium amounts for enrollees in a prescription drug plan by reason of such coverage and limitations on enrollment to part D eligible individuals enrolled under such coverage, and shall be applied in a manner to facilitate the offering of prescription drug benefits under a Program plan under section 8903c of title 5 , as required under subsection (h)(2) of such section, through employment-based retiree health coverage through—
+  - **(1)** a prescription drug plan; or
+  - **(2)** contracts between such a Program plan and the PDP sponsor of such a prescription drug plan.. 1 1 So in original.
 - **(c)** For purposes of this section:
   - **(1)** The term “employment-based retiree health coverage” means health insurance or other coverage of health care costs (whether provided by voluntary insurance coverage or pursuant to statutory or contractual obligation) for part D eligible individuals (or for such individuals and their spouses and dependents) under a group health plan based on their status as retired participants in such plan.
   - **(2)** The term “sponsor” means a plan sponsor, as defined in section 1002(16)(B) of title 29 , in relation to a group health plan, except that, in the case of a plan maintained jointly by one employer and an employee organization and with respect to which the employer is the primary source of financing, such term means such employer.

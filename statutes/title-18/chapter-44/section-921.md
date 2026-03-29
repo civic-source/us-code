@@ -3,9 +3,9 @@ title: "Section 921 - Definitions"
 usc_title: 18
 usc_section: "921"
 chapter: 44
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "18 U.S.C. § 921"
-generated_at: "2026-03-29T22:08:40.265Z"
+generated_at: "2026-03-29T22:14:25.567Z"
 ---
 
 # § 921. Definitions
@@ -81,7 +81,7 @@ generated_at: "2026-03-29T22:08:40.265Z"
   - **(32)** The term “intimate partner” means, with respect to a person, the spouse of the person, a former spouse of the person, an individual who is a parent of a child of the person, and an individual who cohabitates or has cohabited with the person.
   - **(33)**
     - **(A)** Except as provided in subparagraph (C), 2 2 So in original. No subparagraph (C) has been enacted. the term “misdemeanor crime of domestic violence” means an offense that—
-      - **(i)** is a misdemeanor under Federal, State, or Tribal 3 3 So in original. Probably should not be capitalized. law; and
+      - **(i)** is a misdemeanor under Federal, State,, 3 3 So in original. Tribal, or local law; and
       - **(ii)** has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, committed by a current or former spouse, parent, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian, or by a person similarly situated to a spouse, parent, or guardian of the victim.
     - **(B)**
       - **(i)** A person shall not be considered to have been convicted of such an offense for purposes of this chapter, unless—
@@ -93,4 +93,5 @@ generated_at: "2026-03-29T22:08:40.265Z"
     - **(B)** a device incorporated into the design of the firearm that is designed to prevent the operation of the firearm by anyone not having access to the device; or
     - **(C)** a safe, gun safe, gun case, lock box, or other device that is designed to be or can be used to store a firearm and that is designed to be unlocked only by means of a key, a combination, or other similar means.
   - **(35)** The term “body armor” means any product sold or offered for sale, in interstate or foreign commerce, as personal protective body covering intended to protect against gunfire, regardless of whether the product is to be worn alone or is sold as a complement to another product or garment.
+  - **(36)** The term “local law enforcement authority” means a bureau, office, department or other authority of a State or local government or Tribe that has jurisdiction to investigate a violation or potential violation of, or enforce, a State, local, or Tribal law.
 - **(b)** For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.

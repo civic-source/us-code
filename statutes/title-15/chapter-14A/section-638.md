@@ -3,9 +3,9 @@ title: "Section 638 - Research and development"
 usc_title: 15
 usc_section: "638"
 chapter: 14
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "15 U.S.C. § 638"
-generated_at: "2026-03-29T22:08:24.758Z"
+generated_at: "2026-03-29T22:13:34.248Z"
 ---
 
 # § 638. Research and development
@@ -370,7 +370,7 @@ generated_at: "2026-03-29T22:08:24.758Z"
 - **(x)**
   - **(1)** In carrying out subsection (g), the Secretary of Defense shall, not less often than once every 4 years, revise and update the criteria and procedures utilized to identify areas of the research and development efforts of the Department of Defense which are suitable for the provision of funds under the Small Business Innovation Research Program and the Small Business Technology Transfer Program.
   - **(2)** The criteria and procedures described in paragraph (1) shall be developed through the use of the most current versions of the following plans:
-    - **(A)** The Joint Warfighting Science and Technology Plan required under section 270 of the National Defense Authorization Act for Fiscal Year 1997 ( Public Law 104–201 ; 10 U.S.C. 2501 note).
+    - **(A)** The Joint Warfighting Science and Technology Plan required under section 270 of the National Defense Authorization Act for Fiscal Year 1997 ( Public Law 104–201 ; 10 U.S.C. 2501 note). 1
     - **(B)** The Defense Technology Area Plan of the Department of Defense.
     - **(C)** The Basic Research Plan of the Department of Defense.
   - **(3)** The criteria and procedures described in paragraph (1) shall include input in the identification of areas of research and development efforts described in that paragraph from Department of Defense program managers (PMs) and program executive officers (PEOs).

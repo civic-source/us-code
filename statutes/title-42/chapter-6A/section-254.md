@@ -3,9 +3,9 @@ title: "Section 254 - Interdepartmental work"
 usc_title: 42
 usc_section: "254"
 chapter: 6
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 254"
-generated_at: "2026-03-29T22:10:50.241Z"
+generated_at: "2026-03-29T22:16:18.727Z"
 ---
 
 # § 254. Interdepartmental work

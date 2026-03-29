@@ -3,9 +3,9 @@ title: "Section 50112 - Authorization of appropriations"
 usc_title: 34
 usc_section: "50112"
 chapter: 501
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "34 U.S.C. § 50112"
-generated_at: "2026-03-29T22:10:05.003Z"
+generated_at: "2026-03-29T22:15:28.121Z"
 ---
 
 # § 50112. Authorization of appropriations

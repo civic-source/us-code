@@ -3,9 +3,9 @@ title: "Section 6085 - Effective date"
 usc_title: 22
 usc_section: "6085"
 chapter: 69
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "22 U.S.C. § 6085"
-generated_at: "2026-03-29T22:09:29.922Z"
+generated_at: "2026-03-29T22:14:52.983Z"
 ---
 
 # § 6085. Effective date

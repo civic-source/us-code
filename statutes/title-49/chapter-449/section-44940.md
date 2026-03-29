@@ -3,9 +3,9 @@ title: "Section 44940 - Security service fee"
 usc_title: 49
 usc_section: "44940"
 chapter: 449
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "49 U.S.C. § 44940"
-generated_at: "2026-03-29T22:11:07.064Z"
+generated_at: "2026-03-29T22:16:49.768Z"
 ---
 
 # § 44940. Security service fee

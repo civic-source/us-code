@@ -3,9 +3,9 @@ title: "Section 12474 - Collaborative grants to increase the long-term stability
 usc_title: 34
 usc_section: "12474"
 chapter: 121
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "34 U.S.C. § 12474"
-generated_at: "2026-03-29T22:10:04.936Z"
+generated_at: "2026-03-29T22:15:28.066Z"
 ---
 
 # § 12474. Collaborative grants to increase the long-term stability of victims
@@ -51,4 +51,4 @@ generated_at: "2026-03-29T22:10:04.936Z"
 - **(h)** For purposes of this section—
   - **(1)** up to 5 percent of the funds appropriated under subsection (i) for each fiscal year may be used by the Secretary of Health and Human Services for evaluation, monitoring, and administration costs under this section; and
   - **(2)** up to 8 percent of the funds appropriated under subsection (i) for each fiscal year may be used to provide technical assistance to grantees under this section.
-- **(i)** There are authorized to be appropriated $4,000,000 for each of fiscal years 2014 through 2018 to carry out the provisions of this section.
+- **(i)** There are authorized to be appropriated $4,000,000 for each of fiscal years 2023 through 2027 to carry out the provisions of this section.

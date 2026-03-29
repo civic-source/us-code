@@ -3,9 +3,9 @@ title: "Section 1947 - Assignment of personnel as instructors"
 usc_title: 14
 usc_section: "1947"
 chapter: 19
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "14 U.S.C. § 1947"
-generated_at: "2026-03-29T22:08:27.164Z"
+generated_at: "2026-03-29T22:12:38.187Z"
 ---
 
 # § 1947. Assignment of personnel as instructors

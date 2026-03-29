@@ -3,9 +3,9 @@ title: "Section 3844 - Additional authority of the Administrator"
 usc_title: 33
 usc_section: "3844"
 chapter: 51
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "33 U.S.C. § 3844"
-generated_at: "2026-03-29T22:10:07.328Z"
+generated_at: "2026-03-29T22:15:26.517Z"
 ---
 
 # § 3844. Additional authority of the Administrator

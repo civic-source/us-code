@@ -3,9 +3,9 @@ title: "Section 1395q - Coverage period"
 usc_title: 42
 usc_section: "1395q"
 chapter: 7
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 1395q"
-generated_at: "2026-03-29T22:10:50.733Z"
+generated_at: "2026-03-29T22:16:19.324Z"
 ---
 
 # § 1395q. Coverage period
@@ -43,3 +43,4 @@ generated_at: "2026-03-29T22:10:50.733Z"
   - **(3)** The provisions of subsections (b) and (d) shall apply with respect to an individual described in paragraph (1) or (2).
   - **(4)** In addition to the reasons for termination under subsection (b), the coverage period of an individual described in paragraph (1) or (2) shall end when the individual becomes entitled to benefits under this subchapter under subsection (a) or (b) of section 426 of this title , or under section 426–1 of this title , or is no longer eligible for such coverage as a result of the application of section 1395 o (b)(2) of this title.
   - **(5)** The Secretary may conduct public education activities to raise awareness of the availability of more comprehensive, individual health insurance coverage (as defined in section 300gg–91 of this title ) for individuals eligible under section 1395 o (b) of this title to enroll or to be deemed enrolled in the medical insurance program established under this part for purposes of coverage of immunosuppressive drugs.
+- **(i)** Notwithstanding subsection (a), in the case of an individual who enrolls during the special enrollment period pursuant to section 1395p( o ) of this title, the coverage period shall begin on January 1, 2025 .

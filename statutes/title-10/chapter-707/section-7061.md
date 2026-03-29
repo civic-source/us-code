@@ -3,9 +3,9 @@ title: "Section 7061 - Regulations"
 usc_title: 10
 usc_section: "7061"
 chapter: 707
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 7061"
-generated_at: "2026-03-29T22:08:02.507Z"
+generated_at: "2026-03-29T22:11:59.080Z"
 ---
 
 # § 7061. Regulations

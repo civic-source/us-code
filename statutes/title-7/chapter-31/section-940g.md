@@ -3,9 +3,9 @@ title: "Section 940g - Electric loans for renewable energy"
 usc_title: 7
 usc_section: "940g"
 chapter: 31
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "7 U.S.C. § 940g"
-generated_at: "2026-03-29T22:07:50.703Z"
+generated_at: "2026-03-29T22:12:12.937Z"
 ---
 
 # § 940g. Electric loans for renewable energy

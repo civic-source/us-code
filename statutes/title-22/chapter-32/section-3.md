@@ -3,9 +3,9 @@ title: "Section 3 - Limitations"
 usc_title: 22
 usc_section: "3"
 chapter: 32
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "22 U.S.C. § 3"
-generated_at: "2026-03-29T22:09:29.773Z"
+generated_at: "2026-03-29T22:14:52.835Z"
 ---
 
 # § 2349bb–3. Limitations

@@ -1,14 +1,14 @@
 ---
-title: "Section 665g - State and local cybersecurity grant program"
+title: "Section 665g - State and Local Cybersecurity Grant Program"
 usc_title: 6
 usc_section: "665g"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "6 U.S.C. § 665g"
-generated_at: "2026-03-29T22:07:40.108Z"
+generated_at: "2026-03-29T22:11:46.381Z"
 ---
 
-# § 665g. State and local cybersecurity grant program
+# § 665g. State and Local Cybersecurity Grant Program
 
 - **(a)** In this section:
   - **(1)** The term “appropriate committees of Congress” means—
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T22:07:40.108Z"
   - **(4)** The term “eligible entity” means a—
     - **(A)** State; or
     - **(B)** Tribal government.
-  - **(5)** The term “incident” has the meaning given the term in section 2209.
+  - **(5)** The term “incident” has the meaning given the term in section 659 of this title .
   - **(6)** The term “information sharing and analysis organization” has the meaning given the term in section 671 of this title .
   - **(7)** The term “information system” has the meaning given the term in section 1501 of this title .
   - **(8)** The term “multi-entity group” means a group of 2 or more eligible entities desiring a grant under this section.
@@ -221,7 +221,7 @@ generated_at: "2026-03-29T22:07:40.108Z"
       - **(ii)** reducing cybersecurity risks to, and identifying, responding to, and recovering from cybersecurity threats to, information systems owned or operated by, or on behalf of, State, local, or Tribal governments as a result of the award of grants under this section.
   - **(3)**
     - **(A)** The Secretary, acting through the Director, shall make each report submitted under paragraph (2) publicly available, including by making each report available on the website of the Agency.
-    - **(B)** In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5 (commonly referred to as the ‘Freedom of Information Act’).
+    - **(B)** In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5 (commonly referred to as the “Freedom of Information Act”).
   - **(4)**
     - **(A)** Not later than September 30, 2024 , the Secretary, acting through the Director, shall submit to the appropriate committees of Congress a study and legislative recommendations on the potential use of a risk-based formula for apportioning funds under this section, including—
       - **(i)** potential components that could be included in a risk-based formula, including the potential impact of those components on support for rural areas under this section;

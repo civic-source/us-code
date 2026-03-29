@@ -3,9 +3,9 @@ title: "Section 2801 - Scope of chapter; definitions"
 usc_title: 10
 usc_section: "2801"
 chapter: 169
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 2801"
-generated_at: "2026-03-29T22:08:02.437Z"
+generated_at: "2026-03-29T22:11:59.016Z"
 ---
 
 # § 2801. Scope of chapter; definitions

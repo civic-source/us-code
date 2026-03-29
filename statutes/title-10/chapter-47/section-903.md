@@ -3,9 +3,9 @@ title: "Section 903 - Art. 103. Spies"
 usc_title: 10
 usc_section: "903"
 chapter: 47
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 903"
-generated_at: "2026-03-29T22:08:02.273Z"
+generated_at: "2026-03-29T22:11:58.860Z"
 ---
 
 # § 903. Art. 103. Spies

@@ -3,9 +3,9 @@ title: "Section 11383 - Eligible activities"
 usc_title: 42
 usc_section: "11383"
 chapter: 119
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 11383"
-generated_at: "2026-03-29T22:10:51.576Z"
+generated_at: "2026-03-29T22:16:20.356Z"
 ---
 
 # § 11383. Eligible activities
@@ -25,6 +25,7 @@ generated_at: "2026-03-29T22:10:51.576Z"
   - **(10)** In the case of a collaborative applicant that is a legal entity, payment of administrative costs related to meeting the requirements described in paragraphs (1) and (2) of section 11360a(f) of this title , for which the collaborative applicant may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs.
   - **(11)** In the case of a collaborative applicant that is a unified funding agency under section 11360a(g) of this title , payment of administrative costs related to meeting the requirements of that section, for which the unified funding agency may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs, in addition to funds used under paragraph (10).
   - **(12)** Payment of administrative costs to project sponsors, for which each project sponsor may use not more than 10 percent of the total funds made available to that project sponsor through this part for such costs.
+  - **(13)** Facilitating and coordinating activities to ensure compliance with subsection (e) of section 12491 of title 34 and monitoring compliance with the confidentiality protections of subsection (c)(4) of such section.
 - **(b)** The Secretary may impose minimum grant terms of up to 5 years for new projects providing permanent housing.
 - **(c)**
   - **(1)** A project that consists of activities described in paragraph (1) or (2) of subsection (a) shall be operated for the purpose specified in the application submitted for the project under section 11382 of this title for not less than 15 years.

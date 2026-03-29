@@ -3,9 +3,9 @@ title: "Section 2229 - Firefighter assistance"
 usc_title: 15
 usc_section: "2229"
 chapter: 49
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "15 U.S.C. § 2229"
-generated_at: "2026-03-29T22:08:24.932Z"
+generated_at: "2026-03-29T22:13:34.477Z"
 ---
 
 # § 2229. Firefighter assistance
@@ -145,7 +145,7 @@ generated_at: "2026-03-29T22:08:24.932Z"
         - **(II)** the capability of the recipient to provide leadership in making national contributions to fire safety;
         - **(III)** the recipient’s ability to disseminate the results of fire safety research; and
         - **(IV)** the strategic plan the recipient proposes to carry out under the grant;
-      - **(ii)** give special consideration in selecting recipients under subparagraph (A) to an applicant for a grant that consists of a partnership between—
+      - **(ii)** give special consideration in selecting recipients under subparagraph (A) 2 2 So in original. Probably should be “clause (i)”. to an applicant for a grant that consists of a partnership between—
         - **(I)** a national fire service organization or a national fire safety organization; and
         - **(II)** an institution of higher education, including a minority-serving institution (as described in section 1067q(a) of title 20 ); and
       - **(iii)** consider the research needs identified and prioritized through the workshop required by subparagraph (B)(i).
@@ -160,7 +160,7 @@ generated_at: "2026-03-29T22:08:24.932Z"
   - **(1)**
     - **(A)** Except as provided in subparagraph (B), an applicant seeking a grant to carry out an activity under subsection (c) shall agree to make available non-Federal funds to carry out such activity in an amount equal to not less than 15 percent of the grant awarded to such applicant under such subsection.
     - **(B)** In the case that an applicant seeking a grant to carry out an activity under subsection (c) serves a jurisdiction of—
-      - **(i)** more than 20,000 residents but not more than 1,000,000 residents, the application shall agree to make available non-Federal funds in an amount equal to not less than 10 percent of the grant awarded to such applicant under such subsection; and
+      - **(i)** more than 20,000 residents but not more than 1,000,000 residents, the application 3 3 So in original. Probably should be “applicant”. shall agree to make available non-Federal funds in an amount equal to not less than 10 percent of the grant awarded to such applicant under such subsection; and
       - **(ii)** 20,000 residents or fewer, the applicant shall agree to make available non-Federal funds in an amount equal to not less than 5 percent of the grant awarded to such applicant under such subsection.
   - **(2)**
     - **(A)** An applicant seeking a grant to carry out an activity under subsection (d) shall agree to make available non-Federal funds to carry out such activity in an amount equal to not less than 5 percent of the grant awarded to such applicant under such subsection.
@@ -175,7 +175,7 @@ generated_at: "2026-03-29T22:08:24.932Z"
         - **(II)** members of national fire service organizations or national organizations representing the interests of State and local governments.
       - **(iii)** In developing guidelines under clause (i), the Administrator of FEMA shall consider, with respect to relevant communities, the following:
         - **(I)** Changes in rates of unemployment from previous years.
-        - **(II)** Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded 2 2 So in original. Probably should be “are currently exceeding and have consistently exceeded”. the annual national average rates of unemployment.
+        - **(II)** Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded 4 4 So in original. Probably should be “are currently exceeding and have consistently exceeded”. the annual national average rates of unemployment.
         - **(III)** Changes in percentages of individuals eligible to receive food stamps from previous years.
         - **(IV)** Such other factors as the Administrator of FEMA considers appropriate.
     - **(C)** The authority under subparagraph (A) shall not apply with respect to a nonprofit organization that—

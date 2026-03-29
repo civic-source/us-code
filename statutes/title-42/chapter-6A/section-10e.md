@@ -3,9 +3,9 @@ title: "Section 10e - Advisory Committee Coordination"
 usc_title: 42
 usc_section: "10e"
 chapter: 6
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 10e"
-generated_at: "2026-03-29T22:10:50.533Z"
+generated_at: "2026-03-29T22:16:19.061Z"
 ---
 
 # § 300hh–10e. Advisory Committee Coordination

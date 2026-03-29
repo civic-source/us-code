@@ -3,9 +3,9 @@ title: "Section 2300 - Study of Corps capabilities"
 usc_title: 33
 usc_section: "2300"
 chapter: 36
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "33 U.S.C. § 2300"
-generated_at: "2026-03-29T22:10:07.275Z"
+generated_at: "2026-03-29T22:15:26.473Z"
 ---
 
 # § 2300. Study of Corps capabilities

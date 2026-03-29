@@ -3,9 +3,9 @@ title: "Section 10551 - Program authorized"
 usc_title: 34
 usc_section: "10551"
 chapter: 101
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "34 U.S.C. § 10551"
-generated_at: "2026-03-29T22:10:04.893Z"
+generated_at: "2026-03-29T22:15:28.021Z"
 ---
 
 # § 10551. Program authorized

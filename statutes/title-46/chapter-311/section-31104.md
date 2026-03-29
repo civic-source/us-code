@@ -3,9 +3,9 @@ title: "Section 31104 - Venue"
 usc_title: 46
 usc_section: "31104"
 chapter: 311
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "46 U.S.C. § 31104"
-generated_at: "2026-03-29T22:10:58.222Z"
+generated_at: "2026-03-29T22:16:51.803Z"
 ---
 
 # § 31104. Venue

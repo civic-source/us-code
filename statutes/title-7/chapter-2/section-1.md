@@ -3,9 +3,9 @@ title: "Section 1 - Contracts with cooperatives furnishing classers; amount and 
 usc_title: 7
 usc_section: "1"
 chapter: 2
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T22:07:50.623Z"
+generated_at: "2026-03-29T22:12:12.842Z"
 ---
 
 # § 51a–1. Contracts with cooperatives furnishing classers; amount and type of payment

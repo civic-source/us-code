@@ -3,9 +3,9 @@ title: "Section 14511 - Appalachian regional energy hub initiative"
 usc_title: 40
 usc_section: "14511"
 chapter: 145
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "40 U.S.C. § 14511"
-generated_at: "2026-03-29T22:10:19.009Z"
+generated_at: "2026-03-29T22:15:39.225Z"
 ---
 
 # § 14511. Appalachian regional energy hub initiative

@@ -3,9 +3,9 @@ title: "Section 6932a - Prohibition on closure or relocation of county offices f
 usc_title: 7
 usc_section: "6932a"
 chapter: 98
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "7 U.S.C. § 6932a"
-generated_at: "2026-03-29T22:07:50.948Z"
+generated_at: "2026-03-29T22:12:13.242Z"
 ---
 
 # § 6932a. Prohibition on closure or relocation of county offices for the Farm Service Agency

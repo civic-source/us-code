@@ -3,9 +3,9 @@ title: "Section 1366 - Court review"
 usc_title: 7
 usc_section: "1366"
 chapter: 35
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "7 U.S.C. § 1366"
-generated_at: "2026-03-29T22:07:50.723Z"
+generated_at: "2026-03-29T22:12:12.960Z"
 ---
 
 # § 1366. Court review

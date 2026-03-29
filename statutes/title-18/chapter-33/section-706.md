@@ -3,9 +3,9 @@ title: "Section 706 - Red Cross"
 usc_title: 18
 usc_section: "706"
 chapter: 33
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "18 U.S.C. § 706"
-generated_at: "2026-03-29T22:08:40.256Z"
+generated_at: "2026-03-29T22:14:25.560Z"
 ---
 
 # § 706. Red Cross

@@ -3,9 +3,9 @@ title: "Section 9543 - Coordinating aid and assistance across Europe and Eurasia
 usc_title: 22
 usc_section: "9543"
 chapter: 102
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "22 U.S.C. § 9543"
-generated_at: "2026-03-29T22:09:30.023Z"
+generated_at: "2026-03-29T22:14:53.087Z"
 ---
 
 # § 9543. Coordinating aid and assistance across Europe and Eurasia

@@ -3,9 +3,9 @@ title: "Section 619 - Emergency stumpage rate redeterminations in Alaska"
 usc_title: 16
 usc_section: "619"
 chapter: 4
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 619"
-generated_at: "2026-03-29T22:08:58.591Z"
+generated_at: "2026-03-29T22:14:06.528Z"
 ---
 
 # § 619. Emergency stumpage rate redeterminations in Alaska

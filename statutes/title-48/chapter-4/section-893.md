@@ -3,9 +3,9 @@ title: "Section 893 - Salary of Commissioner; allowances; franking privilege"
 usc_title: 48
 usc_section: "893"
 chapter: 4
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "48 U.S.C. § 893"
-generated_at: "2026-03-29T22:10:56.325Z"
+generated_at: "2026-03-29T22:16:25.825Z"
 ---
 
 # § 893. Salary of Commissioner; allowances; franking privilege

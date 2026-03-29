@@ -3,9 +3,9 @@ title: "Section 1431e - Distribution of surplus commodities to special nutrition
 usc_title: 7
 usc_section: "1431e"
 chapter: 35
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "7 U.S.C. § 1431e"
-generated_at: "2026-03-29T22:07:50.729Z"
+generated_at: "2026-03-29T22:12:12.966Z"
 ---
 
 # § 1431e. Distribution of surplus commodities to special nutrition projects; reprocessing agreements with private companies

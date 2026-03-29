@@ -3,9 +3,9 @@ title: "Section 3025 - Office of the Director of National Intelligence"
 usc_title: 50
 usc_section: "3025"
 chapter: 44
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "50 U.S.C. § 3025"
-generated_at: "2026-03-29T22:11:02.184Z"
+generated_at: "2026-03-29T22:16:39.292Z"
 ---
 
 # § 3025. Office of the Director of National Intelligence
@@ -24,13 +24,13 @@ generated_at: "2026-03-29T22:11:02.184Z"
   - **(9)** The Chief Information Officer of the Intelligence Community.
   - **(10)** The Inspector General of the Intelligence Community.
   - **(11)** The Director of the National Counterterrorism Center.
-  - **(12)** The Director of the National Counter Proliferation Center.
+  - **(12)** The Director of the National Counter Proliferation Center. 1 1 See Change of Name note below.
   - **(13)** The Chief Financial Officer of the Intelligence Community.
   - **(14)** Such other offices and officials as may be established by law or the Director may establish or designate in the Office, including national intelligence centers.
 - **(d)**
   - **(1)** To assist the Director of National Intelligence in fulfilling the duties and responsibilities of the Director, the Director shall employ and utilize in the Office of the Director of National Intelligence a professional staff having an expertise in matters relating to such duties and responsibilities, and may establish permanent positions and appropriate rates of pay with respect to that staff.
   - **(2)** The staff of the Office of the Director of National Intelligence under paragraph (1) shall include the staff of the Office of the Deputy Director of Central Intelligence for Community Management that is transferred to the Office of the Director of National Intelligence under section 1091 of the National Security Intelligence Reform Act of 2004.
 - **(e)** With respect to filling temporarily a vacancy in an office within the Office of the Director of National Intelligence (other than that of the Director of National Intelligence), section 3345(a)(3) of title 5 may be applied—
-  - **(1)** in the matter preceding subparagraph (A), by substituting “an element of the intelligence community, as that term is defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 401a(4) ),” 1 1 See References in Text note below. for “such Executive agency”; and
+  - **(1)** in the matter preceding subparagraph (A), by substituting “an element of the intelligence community, as that term is defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 401a(4) ),” 2 2 See References in Text note below. for “such Executive agency”; and
   - **(2)** in subparagraph (A), by substituting “the intelligence community” for “such agency”.
 - **(f)** The headquarters of the Office of the Director of National Intelligence may be located in the Washington metropolitan region, as that term is defined in section 8301 of title 40 .

@@ -3,9 +3,9 @@ title: "Section 28e - Distribution of Precedents by Joint Committee on Printing 
 usc_title: 2
 usc_section: "28e"
 chapter: 2
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "2 U.S.C. § 28e"
-generated_at: "2026-03-29T22:07:21.532Z"
+generated_at: "2026-03-29T22:11:38.244Z"
 ---
 
 # § 28e. Distribution of Precedents by Joint Committee on Printing of surplus sets; additional printing, etc., of sets under authority of Joint Committee

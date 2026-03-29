@@ -3,9 +3,9 @@ title: "Section 6160 - Expense allowance for Chairmen of Majority and Minority P
 usc_title: 2
 usc_section: "6160"
 chapter: 61
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "2 U.S.C. § 6160"
-generated_at: "2026-03-29T22:07:21.659Z"
+generated_at: "2026-03-29T22:11:38.383Z"
 ---
 
 # § 6160. Expense allowance for Chairmen of Majority and Minority Policy Committees of Senate; method of payment; taxability

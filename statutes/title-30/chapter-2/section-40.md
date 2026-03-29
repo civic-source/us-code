@@ -3,9 +3,9 @@ title: "Section 40 - Verification of affidavits"
 usc_title: 30
 usc_section: "40"
 chapter: 2
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "30 U.S.C. § 40"
-generated_at: "2026-03-29T22:09:36.002Z"
+generated_at: "2026-03-29T22:15:06.558Z"
 ---
 
 # § 40. Verification of affidavits

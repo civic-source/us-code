@@ -3,9 +3,9 @@ title: "Section 7611 - Records and audit"
 usc_title: 42
 usc_section: "7611"
 chapter: 85
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 7611"
-generated_at: "2026-03-29T22:10:51.434Z"
+generated_at: "2026-03-29T22:16:20.158Z"
 ---
 
 # § 7611. Records and audit

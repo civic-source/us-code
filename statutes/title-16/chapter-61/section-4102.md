@@ -3,9 +3,9 @@ title: "Section 4102 - Definitions"
 usc_title: 16
 usc_section: "4102"
 chapter: 61
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 4102"
-generated_at: "2026-03-29T22:08:58.861Z"
+generated_at: "2026-03-29T22:14:06.869Z"
 ---
 
 # § 4102. Definitions

@@ -3,9 +3,9 @@ title: "Section 3500 - Purpose"
 usc_title: 38
 usc_section: "3500"
 chapter: 35
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "38 U.S.C. § 3500"
-generated_at: "2026-03-29T22:10:17.937Z"
+generated_at: "2026-03-29T22:15:38.127Z"
 ---
 
 # § 3500. Purpose

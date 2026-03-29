@@ -3,9 +3,9 @@ title: "Section 2747 - Awards and insignia for excellence in service or conduct"
 usc_title: 14
 usc_section: "2747"
 chapter: 27
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "14 U.S.C. § 2747"
-generated_at: "2026-03-29T22:08:27.172Z"
+generated_at: "2026-03-29T22:12:38.198Z"
 ---
 
 # § 2747. Awards and insignia for excellence in service or conduct

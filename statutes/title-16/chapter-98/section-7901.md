@@ -3,9 +3,9 @@ title: "Section 7901 - Congressional declaration of national policy"
 usc_title: 16
 usc_section: "7901"
 chapter: 98
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 7901"
-generated_at: "2026-03-29T22:08:58.920Z"
+generated_at: "2026-03-29T22:14:06.951Z"
 ---
 
 # § 7901. Congressional declaration of national policy

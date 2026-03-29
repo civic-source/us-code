@@ -3,9 +3,9 @@ title: "Section 1374 - Tax imposed on certain built-in gains"
 usc_title: 26
 usc_section: "1374"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 1374"
-generated_at: "2026-03-29T22:09:57.910Z"
+generated_at: "2026-03-29T22:15:18.609Z"
 ---
 
 # § 1374. Tax imposed on certain built-in gains
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T22:09:57.910Z"
   - **(2)** Notwithstanding section 1371(b)(1), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed for purposes of this section as a deduction against the net recognized built-in gain of the S corporation for the taxable year. For purposes of determining the amount of any such loss which may be carried to subsequent taxable years, the amount of the net recognized built-in gain shall be treated as taxable income. Rules similar to the rules of the preceding sentences of this paragraph shall apply in the case of a capital loss carryforward arising in a taxable year for which the corporation was a C corporation.
   - **(3)**
     - **(A)** Except as provided in subparagraph (B), no credit shall be allowable under part IV of subchapter A of this chapter (other than under section 34) against the tax imposed by subsection (a).
-    - **(B)** Notwithstanding section 1371(b)(1), any business credit carryforward under section 39 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed by subsection (a) in the same manner as if it were imposed by section 11. A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.
+    - **(B)** Notwithstanding section 1371(b)(1), any business credit carryforward under section 39 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed by subsection (a) in the same manner as if it were imposed by section 11.
 - **(c)**
   - **(1)** Subsection (a) shall not apply to any corporation if an election under section 1362(a) has been in effect with respect to such corporation for each of its taxable years. Except as provided in regulations, an S corporation and any predecessor corporation shall be treated as 1 corporation for purposes of the preceding sentence.
   - **(2)** The amount of the net recognized built-in gain taken into account under this section for any taxable year shall not exceed the excess (if any) of—

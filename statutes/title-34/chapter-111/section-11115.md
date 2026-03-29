@@ -3,9 +3,9 @@ title: "Section 11115 - Joint funding; non-Federal share requirements"
 usc_title: 34
 usc_section: "11115"
 chapter: 111
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "34 U.S.C. § 11115"
-generated_at: "2026-03-29T22:10:04.906Z"
+generated_at: "2026-03-29T22:15:28.036Z"
 ---
 
 # § 11115. Joint funding; non-Federal share requirements

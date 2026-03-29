@@ -3,9 +3,9 @@ title: "Section 9304 - Comprehensive program management plan; submittal to Congr
 usc_title: 42
 usc_section: "9304"
 chapter: 101
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 9304"
-generated_at: "2026-03-29T22:10:51.490Z"
+generated_at: "2026-03-29T22:16:20.241Z"
 ---
 
 # § 9304. Comprehensive program management plan; submittal to Congressional committees

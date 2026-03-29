@@ -3,9 +3,9 @@ title: "Section 2076 - Advances in foreign countries"
 usc_title: 19
 usc_section: "2076"
 chapter: 10
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "19 U.S.C. § 2076"
-generated_at: "2026-03-29T22:09:14.210Z"
+generated_at: "2026-03-29T22:14:17.162Z"
 ---
 
 # § 2076. Advances in foreign countries

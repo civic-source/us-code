@@ -3,9 +3,9 @@ title: "Section 12575 - Eligibility"
 usc_title: 34
 usc_section: "12575"
 chapter: 121
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "34 U.S.C. § 12575"
-generated_at: "2026-03-29T22:10:04.942Z"
+generated_at: "2026-03-29T22:15:28.072Z"
 ---
 
 # § 12575. Eligibility

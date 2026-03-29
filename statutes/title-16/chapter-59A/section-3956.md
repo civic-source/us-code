@@ -3,9 +3,9 @@ title: "Section 3956 - General provisions"
 usc_title: 16
 usc_section: "3956"
 chapter: 59
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 3956"
-generated_at: "2026-03-29T22:08:58.858Z"
+generated_at: "2026-03-29T22:14:06.865Z"
 ---
 
 # § 3956. General provisions

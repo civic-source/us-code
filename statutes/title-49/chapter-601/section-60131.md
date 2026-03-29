@@ -3,9 +3,9 @@ title: "Section 60131 - Verification of pipeline qualification programs"
 usc_title: 49
 usc_section: "60131"
 chapter: 601
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "49 U.S.C. § 60131"
-generated_at: "2026-03-29T22:11:07.105Z"
+generated_at: "2026-03-29T22:16:49.812Z"
 ---
 
 # § 60131. Verification of pipeline qualification programs

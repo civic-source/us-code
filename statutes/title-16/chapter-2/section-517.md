@@ -3,9 +3,9 @@ title: "Section 517 - Title to lands to be acquired"
 usc_title: 16
 usc_section: "517"
 chapter: 2
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 517"
-generated_at: "2026-03-29T22:08:58.546Z"
+generated_at: "2026-03-29T22:14:06.477Z"
 ---
 
 # § 517. Title to lands to be acquired

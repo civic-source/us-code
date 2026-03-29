@@ -3,9 +3,9 @@ title: "Section 372 - Bankers’ acceptances"
 usc_title: 12
 usc_section: "372"
 chapter: 3
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "12 U.S.C. § 372"
-generated_at: "2026-03-29T22:08:33.115Z"
+generated_at: "2026-03-29T22:12:59.376Z"
 ---
 
 # § 372. Bankers’ acceptances

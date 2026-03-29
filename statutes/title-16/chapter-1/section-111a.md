@@ -3,9 +3,9 @@ title: "Section 111a - Authorization for acquisition of additional lands"
 usc_title: 16
 usc_section: "111a"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 111a"
-generated_at: "2026-03-29T22:08:58.301Z"
+generated_at: "2026-03-29T22:14:06.219Z"
 ---
 
 # § 111a. Authorization for acquisition of additional lands

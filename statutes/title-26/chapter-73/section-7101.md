@@ -3,9 +3,9 @@ title: "Section 7101 - Form of bonds"
 usc_title: 26
 usc_section: "7101"
 chapter: 73
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 7101"
-generated_at: "2026-03-29T22:09:58.092Z"
+generated_at: "2026-03-29T22:15:18.828Z"
 ---
 
 # § 7101. Form of bonds

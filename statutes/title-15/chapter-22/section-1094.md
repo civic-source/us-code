@@ -3,12 +3,12 @@ title: "Section 1094 - Provisions of chapter applicable to registrations on supp
 usc_title: 15
 usc_section: "1094"
 chapter: 22
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "15 U.S.C. § 1094"
-generated_at: "2026-03-29T22:08:24.825Z"
+generated_at: "2026-03-29T22:13:34.335Z"
 ---
 
 # § 1094. Provisions of chapter applicable to registrations on supplemental register
 
-The provisions of this chapter shall govern so far as applicable applications for registration and registrations on the supplemental register as well as those on the principal register, but applications for and registrations on the supplemental register shall not be subject to or receive the advantages of sections 1051(b), 1052(e), 1052(f), 1057(b), 1057(c), 1062(a), 1063 to 1068, inclusive, 1072, 1115 and 1124 of this title.
+The provisions of this chapter shall govern so far as applicable applications for registration and registrations on the supplemental register as well as those on the principal register, but applications for and registrations on the supplemental register shall not be subject to or receive the advantages of sections 1051(b), 1052(e), 1052(f), 1057(b), 1057(c), 1062(a), 1063 to 1068, inclusive, 1072, 1115 and 1124 of this title. Registrations on the supplemental register shall be subject to ex parte expungement and ex parte reexamination under sections 1066a and 1066b of this title, respectively.
 

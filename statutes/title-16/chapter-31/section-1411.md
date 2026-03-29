@@ -3,9 +3,9 @@ title: "Section 1411 - Findings and policy"
 usc_title: 16
 usc_section: "1411"
 chapter: 31
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 1411"
-generated_at: "2026-03-29T22:08:58.732Z"
+generated_at: "2026-03-29T22:14:06.711Z"
 ---
 
 # § 1411. Findings and policy

@@ -3,9 +3,9 @@ title: "Section 287d - Office of Research on Women’s Health"
 usc_title: 42
 usc_section: "287d"
 chapter: 6
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 287d"
-generated_at: "2026-03-29T22:10:50.345Z"
+generated_at: "2026-03-29T22:16:18.840Z"
 ---
 
 # § 287d. Office of Research on Women’s Health
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T22:10:50.345Z"
       - **(i)** research on women’s health;
       - **(ii)** research on gender differences in clinical drug trials, including responses to pharmacological drugs;
       - **(iii)** research on gender differences in disease etiology, course, and treatment;
-      - **(iv)** research on obstetrical and gynecological health conditions, diseases, and treatments; and
+      - **(iv)** research on obstetrical and gynecological health conditions, diseases, and treatments, including preventable maternal mortality and severe maternal morbidity; and
       - **(v)** research on women’s health conditions which require a multidisciplinary approach;
     - **(B)** report to the Director of the Office on such research;
     - **(C)** provide recommendations to such Director regarding activities of the Office (including recommendations on the development of the methodologies described in subsection (c)(4)(C) and recommendations on priorities in carrying out research described in subparagraph (A)); and

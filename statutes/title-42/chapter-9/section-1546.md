@@ -3,9 +3,9 @@ title: "Section 1546 - Payment of annual sums to local authorities in lieu of ta
 usc_title: 42
 usc_section: "1546"
 chapter: 9
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 1546"
-generated_at: "2026-03-29T22:10:50.995Z"
+generated_at: "2026-03-29T22:16:19.660Z"
 ---
 
 # § 1546. Payment of annual sums to local authorities in lieu of taxes

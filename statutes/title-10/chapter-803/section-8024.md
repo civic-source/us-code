@@ -3,9 +3,9 @@ title: "Section 8024 - Naval Research Advisory Committee"
 usc_title: 10
 usc_section: "8024"
 chapter: 803
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 8024"
-generated_at: "2026-03-29T22:08:02.523Z"
+generated_at: "2026-03-29T22:11:59.093Z"
 ---
 
 # § 8024. Naval Research Advisory Committee

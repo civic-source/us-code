@@ -3,9 +3,9 @@ title: "Section 113 - Secretary of Defense"
 usc_title: 10
 usc_section: "113"
 chapter: 2
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 113"
-generated_at: "2026-03-29T22:08:02.193Z"
+generated_at: "2026-03-29T22:11:58.776Z"
 ---
 
 # § 113. Secretary of Defense
@@ -99,7 +99,7 @@ generated_at: "2026-03-29T22:08:02.193Z"
 - **(k)** The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide annually to the Secretaries of the military departments and to the commanders of the combatant commands written guidelines to direct the effective detection and monitoring of all potential aerial and maritime threats to the national security of the United States. Those guidelines shall include guidance on the specific force levels and specific supporting resources to be made available for the period of time for which the guidelines are to be in effect.
 - **(l)**
   - **(1)** The Secretary of Defense, in coordination with the Secretary of the Department in which the Coast Guard is operating, shall establish metrics to measure—
-    - **(A)** efforts to reflect across all grades comprising the officer and enlisted corps of each armed force the diverse population of the United States eligible to serve in the armed forces
+    - **(A)** efforts to reflect across all grades comprising the officer and enlisted corps of each armed force the diverse population of the United States eligible to serve in the armed forces;
     - **(B)** efforts to reflect, across the civilian workforce of the Department and of each armed force, the diversity of the population of the United States; and
     - **(C)** the efforts of the armed forces to generate and maintain a ready military force that will prevail in war, prevent and deter conflict, defeat adversaries, and succeed in a wide range of contingencies.
   - **(2)** In implementing the requirement in paragraph (1), the Secretary of Defense, in coordination with the Secretary of the Department in which the Coast Guard is operating, shall—
@@ -125,8 +125,8 @@ generated_at: "2026-03-29T22:08:02.193Z"
     - **(C)** paid at levels above grade GS-15 of the General Schedule but who are not members of the Senior Executive Service;
     - **(D)** paid under the Federal Wage System, and
     - **(E)** paid under alternative pay systems.
-  - **(8)** An assessment of the pool of officers best qualified for promotion to grades O–9 and O–10, disaggregated by gender, race, and ethnicity, in each military department and the United States Coast Guard. 2 2 So in original. Two pars. (8) have been enacted.
-  - **(8)** Any other matter the Secretary considers appropriate. 2
+  - **(8)** 2 2 So in original. There are two pars. (8). An assessment of the pool of officers best qualified for promotion to grades O–9 and O–10, disaggregated by gender, race, and ethnicity, in each military department and the United States Coast Guard.
+  - **(8)** 2 Any other matter the Secretary considers appropriate.
 - **(n)** Whenever the President submits to Congress a request for appropriations for costs associated with a contingency operation that involves, or likely will involve, the deployment of more than 500 members of the armed forces, the Secretary of Defense shall submit to Congress a report on the objectives of the operation. The report shall include a discussion of the following:
   - **(1)** What clear and distinct objectives guide the activities of United States forces in the operation.
   - **(2)** What the President has identified on the basis of those objectives as the date, or the set of conditions, that defines the endpoint of the operation.

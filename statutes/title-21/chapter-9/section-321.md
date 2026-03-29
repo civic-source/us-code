@@ -3,9 +3,9 @@ title: "Section 321 - Definitions; generally"
 usc_title: 21
 usc_section: "321"
 chapter: 9
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "21 U.S.C. § 321"
-generated_at: "2026-03-29T22:09:23.831Z"
+generated_at: "2026-03-29T22:14:57.941Z"
 ---
 
 # § 321. Definitions; generally
@@ -145,7 +145,8 @@ For the purposes of this chapter—
     - **(A)** Any highly refined oil derived from a food specified in paragraph (1) and any ingredient derived from such highly refined oil.
     - **(B)** A food ingredient that is exempt under paragraph (6) or (7) of section 343(w) of this title .
 - **(rr)**
-  - **(1)** The term “tobacco product” means any product made or derived from tobacco that is intended for human consumption, including any component, part, or accessory of a tobacco product (except for raw materials other than tobacco used in manufacturing a component, part, or accessory of a tobacco product).
+  - **(1)** The term “tobacco product” means any product made or derived from tobacco, or containing nicotine from any source, that is intended for human consumption, including any component, part, or accessory of a tobacco product (except for raw materials other than tobacco used in manufacturing a component, part, or accessory of a tobacco product).
   - **(2)** The term “tobacco product” does not mean an article that is a drug under subsection (g)(1), a device under subsection (h), or a combination product described in section 353(g) of this title .
   - **(3)** The products described in paragraph (2) shall be subject to subchapter V of this chapter.
   - **(4)** A tobacco product shall not be marketed in combination with any other article or product regulated under this chapter (including a drug, biologic, food, cosmetic, medical device, or a dietary supplement).
+  - **(5)** The term “tobacco product” does not mean an article that is a food under paragraph (f), if such article contains no nicotine, or no more than trace amounts of naturally occurring nicotine.

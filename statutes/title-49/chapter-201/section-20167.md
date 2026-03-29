@@ -3,9 +3,9 @@ title: "Section 20167 - Reports on highway-rail grade crossing safety"
 usc_title: 49
 usc_section: "20167"
 chapter: 201
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "49 U.S.C. § 20167"
-generated_at: "2026-03-29T22:11:06.944Z"
+generated_at: "2026-03-29T22:16:49.655Z"
 ---
 
 # § 20167. Reports on highway-rail grade crossing safety

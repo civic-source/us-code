@@ -3,9 +3,9 @@ title: "Section 3736 - Precedence"
 usc_title: 14
 usc_section: "3736"
 chapter: 37
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "14 U.S.C. § 3736"
-generated_at: "2026-03-29T22:08:27.175Z"
+generated_at: "2026-03-29T22:12:38.202Z"
 ---
 
 # § 3736. Precedence

@@ -1,14 +1,14 @@
 ---
-title: "Section 665d - Sector risk management agencies"
+title: "Section 665d - Sector Risk Management Agencies"
 usc_title: 6
 usc_section: "665d"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "6 U.S.C. § 665d"
-generated_at: "2026-03-29T22:07:40.107Z"
+generated_at: "2026-03-29T22:11:46.380Z"
 ---
 
-# § 665d. Sector risk management agencies
+# § 665d. Sector Risk Management Agencies
 
 - **(a)** Consistent with applicable law, Presidential directives, Federal regulations, and strategic guidance from the Secretary, each Sector Risk Management Agency, in coordination with the Director, shall—
   - **(1)** provide specialized sector-specific expertise to critical infrastructure owners and operators within its designated critical infrastructure sector or subsector of such sector; and

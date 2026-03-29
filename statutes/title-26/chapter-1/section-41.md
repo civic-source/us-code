@@ -3,9 +3,9 @@ title: "Section 41 - Credit for increasing research activities"
 usc_title: 26
 usc_section: "41"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 41"
-generated_at: "2026-03-29T22:09:57.593Z"
+generated_at: "2026-03-29T22:15:18.226Z"
 ---
 
 # § 41. Credit for increasing research activities
@@ -93,7 +93,7 @@ generated_at: "2026-03-29T22:09:57.593Z"
   - **(6)** For purposes of this subsection, gross receipts for any taxable year shall be reduced by returns and allowances made during the taxable year. In the case of a foreign corporation, there shall be taken into account only gross receipts which are effectively connected with the conduct of a trade or business within the United States, the Commonwealth of Puerto Rico, or any possession of the United States.
 - **(d)** For purposes of this section—
   - **(1)** The term “qualified research” means research—
-    - **(A)** 1 1 See Amendment of Subsection (d)(1)(A) note below. with respect to which expenditures may be treated as expenses under section 174,
+    - **(A)** with respect to which expenditures may be treated as specified research or experimental expenditures under section 174,
     - **(B)** which is undertaken for the purpose of discovering information—
       - **(i)** which is technological in nature, and
       - **(ii)** the application of which is intended to be useful in the development of a new or improved business component of the taxpayer, and

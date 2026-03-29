@@ -3,9 +3,9 @@ title: "Section 8101 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "8101"
 chapter: 90
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 8101"
-generated_at: "2026-03-29T22:10:51.462Z"
+generated_at: "2026-03-29T22:16:20.198Z"
 ---
 
 # § 8101. Congressional findings and declaration of purpose

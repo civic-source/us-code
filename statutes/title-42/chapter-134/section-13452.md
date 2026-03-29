@@ -3,9 +3,9 @@ title: "Section 13452 - Natural gas and electric heating and cooling technologie
 usc_title: 42
 usc_section: "13452"
 chapter: 134
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 13452"
-generated_at: "2026-03-29T22:10:51.651Z"
+generated_at: "2026-03-29T22:16:20.458Z"
 ---
 
 # § 13452. Natural gas and electric heating and cooling technologies

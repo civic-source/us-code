@@ -3,9 +3,9 @@ title: "Section 292r - Loan provisions"
 usc_title: 42
 usc_section: "292r"
 chapter: 6
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 292r"
-generated_at: "2026-03-29T22:10:50.387Z"
+generated_at: "2026-03-29T22:16:18.889Z"
 ---
 
 # § 292r. Loan provisions
@@ -13,9 +13,7 @@ generated_at: "2026-03-29T22:10:50.387Z"
 - **(a)**
   - **(1)** Loans from a student loan fund (established under an agreement with a school under section 292q of this title ) may not, subject to paragraph (2), exceed for any student for a school year (or its equivalent) the cost of attendance (including tuition, other reasonable educational expenses, and reasonable living costs) for that year at the educational institution attended by the student (as determined by such educational institution).
   - **(2)** For purposes of paragraph (1), the amount of the loan may, in the case of the third or fourth year of a student at a school of medicine or osteopathic medicine, be increased to the extent necessary to pay the balances of loans that, from sources other than the student loan fund under section 292q of this title , were made to the individual for attendance at the school. The authority to make such an increase is subject to the school and the student agreeing that such amount (as increased) will be expended to pay such balances.
-- **(b)** Subject to section 292s of this title , any such loans shall be made on such terms and conditions as the school may determine, but may be made only to a student—
-  - **(1)** who is in need of the amount thereof to pursue a full-time course of study at the school leading to a degree of doctor of medicine, doctor of dentistry or an equivalent degree, doctor of osteopathy, bachelor of science in pharmacy or an equivalent degree, doctor of pharmacy or an equivalent degree, doctor of podiatric medicine or an equivalent degree, doctor of optometry or an equivalent degree, or doctor of veterinary medicine or an equivalent degree; and
-  - **(2)** who, if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section.
+- **(b)** Subject to section 292s of this title , any such loans shall be made on such terms and conditions as the school may determine, but may be made only to a student who is in need of the amount thereof to pursue a full-time course of study at the school leading to a degree of doctor of medicine, doctor of dentistry or an equivalent degree, doctor of osteopathy, bachelor of science in pharmacy or an equivalent degree, doctor of pharmacy or an equivalent degree, doctor of podiatric medicine or an equivalent degree, doctor of optometry or an equivalent degree, or doctor of veterinary medicine or an equivalent degree.
 - **(c)** Such loans shall be repayable in equal or graduated periodic installments (with the right of the borrower to accelerate repayment) over the period of not less than 10 years nor more than 25 years, at the discretion of the institution, which begins one year after the student ceases to pursue a full-time course of study at a school of medicine, osteopathic medicine, dentistry, pharmacy, podiatry, optometry, or veterinary medicine, excluding from such period—
   - **(1)** all periods—
     - **(A)** not in excess of three years of active duty performed by the borrower as a member of a uniformed service;

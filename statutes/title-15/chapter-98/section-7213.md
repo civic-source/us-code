@@ -3,9 +3,9 @@ title: "Section 7213 - Auditing, quality control, and independence standards and
 usc_title: 15
 usc_section: "7213"
 chapter: 98
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "15 U.S.C. § 7213"
-generated_at: "2026-03-29T22:08:25.066Z"
+generated_at: "2026-03-29T22:13:34.618Z"
 ---
 
 # § 7213. Auditing, quality control, and independence standards and rules

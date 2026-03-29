@@ -3,9 +3,9 @@ title: "Section 3014 - Capitalization"
 usc_title: 12
 usc_section: "3014"
 chapter: 31
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "12 U.S.C. § 3014"
-generated_at: "2026-03-29T22:08:33.337Z"
+generated_at: "2026-03-29T22:12:59.617Z"
 ---
 
 # § 3014. Capitalization

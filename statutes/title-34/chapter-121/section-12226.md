@@ -3,9 +3,9 @@ title: "Section 12226 - Reports"
 usc_title: 34
 usc_section: "12226"
 chapter: 121
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "34 U.S.C. § 12226"
-generated_at: "2026-03-29T22:10:04.925Z"
+generated_at: "2026-03-29T22:15:28.055Z"
 ---
 
 # § 12226. Reports

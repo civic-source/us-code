@@ -3,9 +3,9 @@ title: "Section 316a - Definitions"
 usc_title: 43
 usc_section: "316a"
 chapter: 8
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "43 U.S.C. § 316a"
-generated_at: "2026-03-29T22:10:26.842Z"
+generated_at: "2026-03-29T22:15:48.547Z"
 ---
 
 # § 316a. Definitions

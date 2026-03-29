@@ -3,9 +3,9 @@ title: "Section 5364 - Policies and procedures to identify and prevent restricte
 usc_title: 31
 usc_section: "5364"
 chapter: 53
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "31 U.S.C. § 5364"
-generated_at: "2026-03-29T22:10:03.218Z"
+generated_at: "2026-03-29T22:15:30.994Z"
 ---
 
 # § 5364. Policies and procedures to identify and prevent restricted transactions

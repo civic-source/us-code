@@ -3,9 +3,9 @@ title: "Section 447 - Bribery of inspector; penalty"
 usc_title: 33
 usc_section: "447"
 chapter: 9
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "33 U.S.C. § 447"
-generated_at: "2026-03-29T22:10:07.132Z"
+generated_at: "2026-03-29T22:15:26.344Z"
 ---
 
 # § 447. Bribery of inspector; penalty

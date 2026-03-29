@@ -3,15 +3,15 @@ title: "Section 659 - National cybersecurity and communications integration cent
 usc_title: 6
 usc_section: "659"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "6 U.S.C. § 659"
-generated_at: "2026-03-29T22:07:40.104Z"
+generated_at: "2026-03-29T22:11:46.377Z"
 ---
 
 # § 659. National cybersecurity and communications integration center
 
 - **(a)** In this section—
-  - **(1)** the term “cybersecurity purpose” has the meaning given that term in section 1501 of this title ;
+  - **(1)** the term “cybersecurity purpose” has the meaning given that term in section 102 of the Cybersecurity Information Sharing Act of 2015 ( 6 U.S.C. 1501 );
   - **(2)** the term “cybersecurity risk”—
     - **(A)** means threats to and vulnerabilities of information or information systems and any related consequences caused by or resulting from unauthorized access, use, disclosure, degradation, disruption, modification, or destruction of such information or information systems, including such related consequences caused by an act of terrorism; and
     - **(B)** does not include any action that solely involves a violation of a consumer term of service or a consumer licensing agreement;
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T22:07:40.104Z"
   - **(5)** the term “incident” means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system;
   - **(6)** the term “information sharing and analysis organization” has the meaning given that term in section 671(5) of this title ;
   - **(7)** the term “information system” has the meaning given that term in section 3502(8) of title 44 ;
-  - **(8)** the term “security vulnerability” has the meaning given that term in section 1501 of this title ; and
+  - **(8)** the term “security vulnerability” has the meaning given that term in section 102 of the Cybersecurity Information Sharing Act of 2015 ( 6 U.S.C. 1501 ); and
   - **(9)** the term “sharing” (including all conjugations thereof) means providing, receiving, and disseminating (including all conjugations of each of such terms).
 - **(b)** There is in the Department a national cybersecurity and communications integration center (referred to in this section as the “Center”) to carry out certain responsibilities of the Director. The Center shall be located in the Cybersecurity and Infrastructure Security Agency. The head of the Center shall report to the Assistant Director for Cybersecurity.
 - **(c)** The cybersecurity functions of the Center shall include—
@@ -42,8 +42,9 @@ generated_at: "2026-03-29T22:07:40.104Z"
     - **(B)** enhance the security and resilience of global cybersecurity;
   - **(9)** sharing cyber threat indicators, defensive measures, mitigation protocols to counter cybersecurity vulnerabilities, as appropriate, and other information related to cybersecurity risks and incidents with Federal and non-Federal entities, including across sectors of critical infrastructure and with State and major urban area fusion centers, as appropriate;
   - **(10)** participating, as appropriate, in national exercises run by the Department;
-  - **(11)** in coordination with the Emergency Communications Division of the Department, assessing and evaluating consequence, vulnerability, and threat information regarding cyber incidents to public safety communications to help facilitate continuous improvements to the security and resiliency of such communications; and
-  - **(12)** detecting, identifying, and receiving information for a cybersecurity purpose about security vulnerabilities relating to critical infrastructure in information systems and devices.
+  - **(11)** in coordination with the Emergency Communications Division of the Department, assessing and evaluating consequence, vulnerability, and threat information regarding cyber incidents to public safety communications to help facilitate continuous improvements to the security and resiliency of such communications;
+  - **(12)** detecting, identifying, and receiving information for a cybersecurity purpose about security vulnerabilities relating to critical infrastructure in information systems and devices; and
+  - **(13)** receiving, aggregating, and analyzing reports related to covered cyber incidents (as defined in section 681 of this title ) submitted by covered entities (as defined in section 681 of this title ) and reports related to ransom payments (as defined in section 681 of this title ) submitted by covered entities (as defined in section 681 of this title ) in furtherance of the activities specified in sections 652(e), 653, and 681a of this title, this subsection, and any other authorized activity of the Director, to enhance the situational awareness of cybersecurity threats across critical infrastructure sectors.
 - **(d)**
   - **(1)** The Center shall be composed of—
     - **(A)** appropriate representatives of Federal entities, such as—

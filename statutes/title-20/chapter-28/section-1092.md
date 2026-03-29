@@ -3,9 +3,9 @@ title: "Section 1092 - Institutional and financial assistance information for st
 usc_title: 20
 usc_section: "1092"
 chapter: 28
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "20 U.S.C. § 1092"
-generated_at: "2026-03-29T22:08:51.863Z"
+generated_at: "2026-03-29T22:14:13.535Z"
 ---
 
 # § 1092. Institutional and financial assistance information for students
@@ -79,8 +79,12 @@ generated_at: "2026-03-29T22:08:51.863Z"
         - **(II)** the effects of consolidation on a borrower’s underlying loan benefits, including grace periods, loan forgiveness, cancellation, and deferment opportunities;
         - **(III)** the option of the borrower to prepay the loan or to change repayment plans; and
         - **(IV)** that borrower benefit programs may vary among different lenders;
-      - **(viii)** a general description of the types of tax benefits that may be available to borrowers; and
+      - **(viii)** a general description of the types of tax benefits that may be available to borrowers;
       - **(ix)** a notice to borrowers about the availability of the National Student Loan Data System and how the system can be used by a borrower to obtain information on the status of the borrower’s loans; and
+      - **(x)** an explanation that—
+        - **(I)** the borrower may be contacted during the repayment period by third-party student debt relief companies;
+        - **(II)** the borrower should use caution when dealing with those companies; and
+        - **(III)** the services that those companies typically provide are already offered to borrowers free of charge through the Department or the borrower’s servicer; and
     - **(B)** In the case of borrower who leaves an institution without the prior knowledge of the institution, the institution shall attempt to provide the information described in subparagraph (A) to the student in writing.
   - **(2)**
     - **(A)** Each eligible institution shall require that the borrower of a loan made under part B, D, or E submit to the institution, during the exit interview required by this subsection—

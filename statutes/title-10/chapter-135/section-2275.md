@@ -3,9 +3,9 @@ title: "Section 2275 - Reports on integration of acquisition and capability deli
 usc_title: 10
 usc_section: "2275"
 chapter: 135
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 2275"
-generated_at: "2026-03-29T22:08:02.396Z"
+generated_at: "2026-03-29T22:11:58.976Z"
 ---
 
 # § 2275. Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs
@@ -39,5 +39,5 @@ generated_at: "2026-03-29T22:08:02.396Z"
 - **(g)** In this section:
   - **(1)** The term “segments”, with respect to a major satellite acquisition program, refers to any satellites acquired under the program and the ground equipment and user terminals necessary to fully exploit the capabilities provided by those satellites.
   - **(2)** The term “major satellite acquisition program” means a major defense acquisition program (as defined in section 4201 of this title ) for the acquisition of a satellite.
-  - **(3)** The term “Milestone B approval” has the meaning given that term in sections 2 4172(e)(7) of this title.
+  - **(3)** The term “Milestone B approval” has the meaning given that term in sections 2 2 So in original. Probably should be “section”. 4172(e)(7) of this title.
   - **(4)** The term “non-integrated program” means a program with respect to which the schedules for the acquisition and the delivery of the capabilities of the segments for the program, or a related program that is necessary for the operational capability of the program, provide for the acquisition or the delivery of the capabilities of at least two of the three segments for the program or related program more than one year apart.

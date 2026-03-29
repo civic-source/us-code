@@ -3,9 +3,9 @@ title: "Section 1790c - Reward for information leading to recoveries or civil pe
 usc_title: 12
 usc_section: "1790c"
 chapter: 14
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "12 U.S.C. § 1790c"
-generated_at: "2026-03-29T22:08:33.241Z"
+generated_at: "2026-03-29T22:12:59.512Z"
 ---
 
 # § 1790c. Reward for information leading to recoveries or civil penalties

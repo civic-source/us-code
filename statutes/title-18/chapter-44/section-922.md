@@ -3,9 +3,9 @@ title: "Section 922 - Unlawful acts"
 usc_title: 18
 usc_section: "922"
 chapter: 44
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "18 U.S.C. § 922"
-generated_at: "2026-03-29T22:08:40.266Z"
+generated_at: "2026-03-29T22:14:25.568Z"
 ---
 
 # § 922. Unlawful acts
@@ -201,9 +201,9 @@ generated_at: "2026-03-29T22:08:40.266Z"
     - **(A)** before the completion of the transfer, the licensee contacts the national instant criminal background check system established under section 103 of that Act;
     - **(B)**
       - **(i)** the system provides the licensee with a unique identification number; or
-      - **(ii)** 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section; and
+      - **(ii)** 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section, or State, local, or Tribal law; and
     - **(C)** the transferor has verified the identity of the transferee by examining a valid identification document (as defined in section 1028(d) of this title ) of the transferee containing a photograph of the transferee.
-  - **(2)** If receipt of a firearm would not violate subsection (g) or (n) or State law, the system shall—
+  - **(2)** If receipt of a firearm would not violate subsection (g) or (n) or State, local or Tribal law, the system shall—
     - **(A)** assign a unique identification number to the transfer;
     - **(B)** provide the licensee with the number; and
     - **(C)** destroy all records of the system with respect to the call (other than the identifying number and the date the number was assigned) and all records of the system relating to the person or the transfer.
@@ -218,8 +218,8 @@ generated_at: "2026-03-29T22:08:40.266Z"
       - **(i)** the ratio of the number of law enforcement officers of the State in which the transfer is to occur to the number of square miles of land area of the State does not exceed 0.0025;
       - **(ii)** the business premises of the licensee at which the transfer is to occur are extremely remote in relation to the chief law enforcement officer (as defined in subsection (s)(8)); and
       - **(iii)** there is an absence of telecommunications facilities in the geographical area in which the business premises are located.
-  - **(4)** If the national instant criminal background check system notifies the licensee that the information available to the system does not demonstrate that the receipt of a firearm by such other person would violate subsection (g) or (n) or State law, and the licensee transfers a firearm to such other person, the licensee shall include in the record of the transfer the unique identification number provided by the system with respect to the transfer.
-  - **(5)** If the licensee knowingly transfers a firearm to such other person and knowingly fails to comply with paragraph (1) of this subsection with respect to the transfer and, at the time such other person most recently proposed the transfer, the national instant criminal background check system was operating and information was available to the system demonstrating that receipt of a firearm by such other person would violate subsection (g) or (n) of this section or State law, the Attorney General may, after notice and opportunity for a hearing, suspend for not more than 6 months or revoke any license issued to the licensee under section 923, and may impose on the licensee a civil fine of not more than $5,000.
+  - **(4)** If the national instant criminal background check system notifies the licensee that the information available to the system does not demonstrate that the receipt of a firearm by such other person would violate subsection (g) or (n) or State 5 5 So in original. Probably should be followed by a comma. local, or Tribal law, and the licensee transfers a firearm to such other person, the licensee shall include in the record of the transfer the unique identification number provided by the system with respect to the transfer.
+  - **(5)** If the licensee knowingly transfers a firearm to such other person and knowingly fails to comply with paragraph (1) of this subsection with respect to the transfer and, at the time such other person most recently proposed the transfer, the national instant criminal background check system was operating and information was available to the system demonstrating that receipt of a firearm by such other person would violate subsection (g) or (n) of this section or State 5 local, or Tribal law, the Attorney General may, after notice and opportunity for a hearing, suspend for not more than 6 months or revoke any license issued to the licensee under section 923, and may impose on the licensee a civil fine of not more than $5,000.
   - **(6)** Neither a local government nor an employee of the Federal Government or of any State or local government, responsible for providing information to the national instant criminal background check system shall be liable in an action at law for damages—
     - **(A)** for failure to prevent the sale or transfer of a firearm to a person whose receipt or possession of the firearm is unlawful under this section; or
     - **(B)** for preventing such a sale or transfer to a person who may lawfully receive or possess a firearm.

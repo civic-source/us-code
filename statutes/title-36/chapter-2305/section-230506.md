@@ -3,9 +3,9 @@ title: "Section 230506 - Powers"
 usc_title: 36
 usc_section: "230506"
 chapter: 2305
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "36 U.S.C. § 230506"
-generated_at: "2026-03-29T22:10:11.750Z"
+generated_at: "2026-03-29T22:15:40.777Z"
 ---
 
 # § 230506. Powers

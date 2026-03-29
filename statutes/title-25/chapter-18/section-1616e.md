@@ -3,9 +3,9 @@ title: "Section 1616e - Nursing program"
 usc_title: 25
 usc_section: "1616e"
 chapter: 18
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "25 U.S.C. § 1616e"
-generated_at: "2026-03-29T22:09:21.379Z"
+generated_at: "2026-03-29T22:14:41.733Z"
 ---
 
 # § 1616e. Nursing program

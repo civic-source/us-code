@@ -3,9 +3,9 @@ title: "Section 80503 - Payments for inspection and quarantine services"
 usc_title: 49
 usc_section: "80503"
 chapter: 805
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "49 U.S.C. § 80503"
-generated_at: "2026-03-29T22:11:07.112Z"
+generated_at: "2026-03-29T22:16:49.818Z"
 ---
 
 # § 80503. Payments for inspection and quarantine services

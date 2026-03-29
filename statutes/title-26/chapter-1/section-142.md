@@ -3,9 +3,9 @@ title: "Section 142 - Exempt facility bond"
 usc_title: 26
 usc_section: "142"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 142"
-generated_at: "2026-03-29T22:09:57.646Z"
+generated_at: "2026-03-29T22:15:18.294Z"
 ---
 
 # § 142. Exempt facility bond
@@ -265,7 +265,7 @@ generated_at: "2026-03-29T22:09:57.646Z"
         - **(I)** any geological gas facility, or
         - **(II)** any air separation unit that—
       - **(iii)** For purposes of this subparagraph—
-        - **(I)** The term “petroleum residue”means the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing.
+        - **(I)** The term “petroleum residue” means the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing.
         - **(II)** The term “geological gas facility” means a facility that—
   - **(3)**
     - **(A)** Subject to subparagraph (B), the eligible components of an industrial carbon dioxide facility satisfies the requirements of this paragraph if such eligible components are designed to have a capture and storage percentage (as determined under subparagraph (C)) that is equal to or greater than 65 percent.

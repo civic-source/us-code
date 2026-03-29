@@ -3,9 +3,9 @@ title: "Section 605 - Repealed. June 30, 1947, ch. 166 , title II, § 206(d), 61
 usc_title: 7
 usc_section: "605"
 chapter: 26
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "7 U.S.C. § 605"
-generated_at: "2026-03-29T22:07:50.688Z"
+generated_at: "2026-03-29T22:12:12.919Z"
 ---
 
 # § 605. Repealed. June 30, 1947, ch. 166 , title II, § 206(d), 61 Stat. 208

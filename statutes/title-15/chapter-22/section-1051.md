@@ -3,9 +3,9 @@ title: "Section 1051 - Application for registration; verification"
 usc_title: 15
 usc_section: "1051"
 chapter: 22
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "15 U.S.C. § 1051"
-generated_at: "2026-03-29T22:08:24.822Z"
+generated_at: "2026-03-29T22:13:34.330Z"
 ---
 
 # § 1051. Application for registration; verification
@@ -41,3 +41,4 @@ generated_at: "2026-03-29T22:08:24.822Z"
   - **(3)** The Director shall notify any applicant who files a statement of use of the acceptance or refusal thereof and, if the statement of use is refused, the reasons for the refusal. An applicant may amend the statement of use.
   - **(4)** The failure to timely file a verified statement of use under paragraph (1) or an extension request under paragraph (2) shall result in abandonment of the application, unless it can be shown to the satisfaction of the Director that the delay in responding was unintentional, in which case the time for filing may be extended, but for a period not to exceed the period specified in paragraphs (1) and (2) for filing a statement of use.
 - **(e)** If the applicant is not domiciled in the United States the applicant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
+- **(f)** A third party may submit for consideration for inclusion in the record of an application evidence relevant to a ground for refusal of registration. The third-party submission shall identify the ground for refusal and include a concise description of each piece of evidence submitted in support of each identified ground for refusal. Not later than 2 months after the date on which the submission is filed, the Director shall determine whether the evidence should be included in the record of the application. The Director shall establish by regulation appropriate procedures for the consideration of evidence submitted by a third party under this subsection and may prescribe a fee to accompany the submission. If the Director determines that the third-party evidence should be included in the record of the application, only the evidence and the ground for refusal to which the evidence relates may be so included. Any determination by the Director whether or not to include evidence in the record of an application shall be final and non-reviewable, and a determination to include or to not include evidence in the record shall not prejudice any party’s right to raise any issue and rely on any evidence in any other proceeding.

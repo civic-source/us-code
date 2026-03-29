@@ -3,9 +3,9 @@ title: "Section 391a - Sale for town site; removal of restriction"
 usc_title: 25
 usc_section: "391a"
 chapter: 12
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "25 U.S.C. § 391a"
-generated_at: "2026-03-29T22:09:21.354Z"
+generated_at: "2026-03-29T22:14:41.702Z"
 ---
 
 # § 391a. Sale for town site; removal of restriction

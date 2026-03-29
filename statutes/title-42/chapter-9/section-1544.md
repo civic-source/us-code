@@ -3,9 +3,9 @@ title: "Section 1544 - Power of Secretary of Housing and Urban Development to ma
 usc_title: 42
 usc_section: "1544"
 chapter: 9
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 1544"
-generated_at: "2026-03-29T22:10:50.994Z"
+generated_at: "2026-03-29T22:16:19.659Z"
 ---
 
 # § 1544. Power of Secretary of Housing and Urban Development to manage, convey, etc., housing properties

@@ -3,9 +3,9 @@ title: "Section 3614 - Waiver of rights as void"
 usc_title: 15
 usc_section: "3614"
 chapter: 62
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "15 U.S.C. § 3614"
-generated_at: "2026-03-29T22:08:24.992Z"
+generated_at: "2026-03-29T22:13:34.543Z"
 ---
 
 # § 3614. Waiver of rights as void

@@ -3,9 +3,9 @@ title: "Section 3101 - General authority to employ"
 usc_title: 5
 usc_section: "3101"
 chapter: 31
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "5 U.S.C. § 3101"
-generated_at: "2026-03-29T22:07:27.489Z"
+generated_at: "2026-03-29T22:11:41.433Z"
 ---
 
 # § 3101. General authority to employ

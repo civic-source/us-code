@@ -3,9 +3,9 @@ title: "Section 229 - Injuries to property by Indians"
 usc_title: 25
 usc_section: "229"
 chapter: 6
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "25 U.S.C. § 229"
-generated_at: "2026-03-29T22:09:21.342Z"
+generated_at: "2026-03-29T22:14:41.688Z"
 ---
 
 # § 229. Injuries to property by Indians

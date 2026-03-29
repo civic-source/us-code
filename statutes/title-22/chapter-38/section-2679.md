@@ -3,9 +3,9 @@ title: "Section 2679 - Maximum rates of per diem in lieu of subsistence payable 
 usc_title: 22
 usc_section: "2679"
 chapter: 38
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "22 U.S.C. § 2679"
-generated_at: "2026-03-29T22:09:29.814Z"
+generated_at: "2026-03-29T22:14:52.876Z"
 ---
 
 # § 2679. Maximum rates of per diem in lieu of subsistence payable to foreign participants in exchange of persons program or in program of furnishing technical information and assistance

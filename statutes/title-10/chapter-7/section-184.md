@@ -3,9 +3,9 @@ title: "Section 184 - Joint Safety Council"
 usc_title: 10
 usc_section: "184"
 chapter: 7
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 184"
-generated_at: "2026-03-29T22:08:02.212Z"
+generated_at: "2026-03-29T22:11:58.797Z"
 ---
 
 # § 184. Joint Safety Council
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T22:08:02.212Z"
   - **(4)** Reviewing and assessing civil and commercial aviation safety programs and practices to determine the suitability of such programs and practices for implementation in the military departments.
   - **(5)** Establishing, in consultation with the Administrator of the Federal Aviation Administration, a requirement for each military department to implement an aviation safety management system.
   - **(6)** Establishing, in consultation with the heads of appropriate Federal departments and agencies, a requirement for each military department to implement a separate safety management program for ground vehicles and ships.
-  - **(7)** Reviewing the proposal of each military department for the safety management systems described in paragraphs (9) and (10). 1 1 So in original. No par. (10) has been enacted.
+  - **(7)** Reviewing the proposal of each military department for the safety management systems described in paragraphs (9) and (10). 1 1 So in original.
   - **(8)** Reviewing the implementation of such systems by each military department.
   - **(9)** Ensuring each military department has in place a system to monitor the implementation of recommendations made in safety and legal investigation reports of mishap incidents.
 - **(e)** The decisions and recommendations of the Council are subject to review and approval by the Deputy Secretary of Defense.

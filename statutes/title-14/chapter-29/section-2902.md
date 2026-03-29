@@ -3,9 +3,9 @@ title: "Section 2902 - Surveys of Coast Guard families"
 usc_title: 14
 usc_section: "2902"
 chapter: 29
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "14 U.S.C. § 2902"
-generated_at: "2026-03-29T22:08:27.173Z"
+generated_at: "2026-03-29T22:12:38.199Z"
 ---
 
 # § 2902. Surveys of Coast Guard families

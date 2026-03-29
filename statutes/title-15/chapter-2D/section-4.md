@@ -3,9 +3,9 @@ title: "Section 4 - Reports by investment advisers"
 usc_title: 15
 usc_section: "4"
 chapter: 2
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-29T22:08:24.707Z"
+generated_at: "2026-03-29T22:13:34.186Z"
 ---
 
 # § 80b–4. Reports by investment advisers

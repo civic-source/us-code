@@ -3,9 +3,9 @@ title: "Section 1742 - Inspections of such homes; restrictions on beneficiaries"
 usc_title: 38
 usc_section: "1742"
 chapter: 17
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "38 U.S.C. § 1742"
-generated_at: "2026-03-29T22:10:17.902Z"
+generated_at: "2026-03-29T22:15:38.075Z"
 ---
 
 # § 1742. Inspections of such homes; restrictions on beneficiaries

@@ -3,9 +3,9 @@ title: "Section 519 - Agricultural lands included in tracts acquired; sale for h
 usc_title: 16
 usc_section: "519"
 chapter: 2
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 519"
-generated_at: "2026-03-29T22:08:58.546Z"
+generated_at: "2026-03-29T22:14:06.477Z"
 ---
 
 # § 519. Agricultural lands included in tracts acquired; sale for homesteads

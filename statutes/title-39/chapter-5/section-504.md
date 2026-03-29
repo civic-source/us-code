@@ -3,9 +3,9 @@ title: "Section 504 - Administration"
 usc_title: 39
 usc_section: "504"
 chapter: 5
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "39 U.S.C. § 504"
-generated_at: "2026-03-29T22:10:09.620Z"
+generated_at: "2026-03-29T22:15:33.295Z"
 ---
 
 # § 504. Administration
@@ -13,7 +13,12 @@ generated_at: "2026-03-29T22:10:09.620Z"
 - **(a)** The Chairman of the Postal Regulatory Commission shall be the principal executive officer of the Commission. The Chairman shall exercise or direct the exercise of all the executive and administrative functions of the Commission, including functions of the Commission with respect to (1) the appointment of personnel employed under the Commission, except that the appointment of heads of major administrative units under the Commission shall require the approval of a majority of the members of the Commission, (2) the supervision of the personnel employed under the Commission and the distribution of business among them and among the Commissioners, and (3) the use and expenditure of funds.
 - **(b)** In carrying out any of his functions under this section, the Chairman shall be governed by the general policies of the Commission.
 - **(c)** The Chairman may obtain such facilities and supplies as may be necessary to permit the Commission to carry out its functions. Any officer or employee appointed under this section shall be paid at rates of compensation and shall be entitled to programs offering employee benefits established under chapter 10 or chapter 12 of this title, as appropriate.
-- **(d)** There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Postal Regulatory Commission. In requesting an appropriation under this subsection for a fiscal year, the Commission shall prepare and submit to the Congress under section 2009 a budget of the Commission’s expenses, including expenses for facilities, supplies, compensation, and employee benefits.
+- **(d)**
+  - **(1)** Not later than September 1 of each fiscal year (beginning with fiscal year 2022), the Postal Regulatory Commission shall submit to the Postal Service a budget of the Commission’s expenses, including expenses for facilities, supplies, compensation, and employee benefits, for the following fiscal year. Any such budget shall be deemed approved as submitted if the Governors fail to adjust the budget in accordance with paragraph (2).
+  - **(2)**
+    - **(A)** Not later than 30 days after receiving a budget under paragraph (1), the Governors holding office, by unanimous written decision, may adjust the total amount of funding requested in such budget. Nothing in this subparagraph may be construed to authorize the Governors to adjust any activity proposed to be funded by the budget.
+    - **(B)** If the Governors adjust the budget under subparagraph (A), the Postal Regulatory Commission shall adjust the suballocations within such budget to reflect the total adjustment made by the Governors. The budget shall be deemed approved on the date the Commission makes any such adjustments. The Commission may make further adjustments to the suballocations within such budget as necessary.
+  - **(3)** Expenses incurred under any budget approved under this subsection shall be paid out of the Postal Service Fund established under section 2003.
 - **(e)** The provisions of section 410 and chapter 10 of this title shall apply to the Commission, as appropriate.
 - **(f)**
   - **(1)** Any Commissioner of the Postal Regulatory Commission, any administrative law judge appointed by the Commission under section 3105 of title 5 , and any employee of the Commission designated by the Commission may administer oaths, examine witnesses, take depositions, and receive evidence.

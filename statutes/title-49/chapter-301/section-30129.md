@@ -3,9 +3,9 @@ title: "Section 30129 - Crash avoidance technology"
 usc_title: 49
 usc_section: "30129"
 chapter: 301
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "49 U.S.C. § 30129"
-generated_at: "2026-03-29T22:11:06.979Z"
+generated_at: "2026-03-29T22:16:49.688Z"
 ---
 
 # § 30129. Crash avoidance technology

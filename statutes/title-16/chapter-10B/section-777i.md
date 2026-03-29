@@ -3,9 +3,9 @@ title: "Section 777i - Rules and regulations"
 usc_title: 16
 usc_section: "777i"
 chapter: 10
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 777i"
-generated_at: "2026-03-29T22:08:58.634Z"
+generated_at: "2026-03-29T22:14:06.581Z"
 ---
 
 # § 777i. Rules and regulations

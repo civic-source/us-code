@@ -3,9 +3,9 @@ title: "Section 7933 - State authority for fish and wildlife"
 usc_title: 16
 usc_section: "7933"
 chapter: 98
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 7933"
-generated_at: "2026-03-29T22:08:58.921Z"
+generated_at: "2026-03-29T22:14:06.952Z"
 ---
 
 # § 7933. State authority for fish and wildlife

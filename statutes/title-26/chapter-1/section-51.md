@@ -3,9 +3,9 @@ title: "Section 51 - Amount of credit"
 usc_title: 26
 usc_section: "51"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 51"
-generated_at: "2026-03-29T22:09:57.618Z"
+generated_at: "2026-03-29T22:15:18.257Z"
 ---
 
 # § 51. Amount of credit

@@ -3,9 +3,9 @@ title: "Section 1 - Duty to provide 9–1–1 and enhanced 9–1–1 service"
 usc_title: 47
 usc_section: "1"
 chapter: 5
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "47 U.S.C. § 1"
-generated_at: "2026-03-29T22:10:59.445Z"
+generated_at: "2026-03-29T22:16:32.238Z"
 ---
 
 # § 615a–1. Duty to provide 9–1–1 and enhanced 9–1–1 service

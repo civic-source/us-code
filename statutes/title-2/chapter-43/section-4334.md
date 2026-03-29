@@ -3,9 +3,9 @@ title: "Section 4334 - Availability of funds for franked mail expenses"
 usc_title: 2
 usc_section: "4334"
 chapter: 43
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "2 U.S.C. § 4334"
-generated_at: "2026-03-29T22:07:21.643Z"
+generated_at: "2026-03-29T22:11:38.365Z"
 ---
 
 # § 4334. Availability of funds for franked mail expenses

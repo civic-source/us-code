@@ -3,9 +3,9 @@ title: "Section 512 - Attorney General to advise heads of executive departments"
 usc_title: 28
 usc_section: "512"
 chapter: 31
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "28 U.S.C. § 512"
-generated_at: "2026-03-29T22:09:34.960Z"
+generated_at: "2026-03-29T22:15:20.511Z"
 ---
 
 # § 512. Attorney General to advise heads of executive departments

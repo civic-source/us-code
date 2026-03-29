@@ -3,9 +3,9 @@ title: "Section 511i - Offenses"
 usc_title: 7
 usc_section: "511i"
 chapter: 21
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "7 U.S.C. § 511i"
-generated_at: "2026-03-29T22:07:50.684Z"
+generated_at: "2026-03-29T22:12:12.914Z"
 ---
 
 # § 511i. Offenses

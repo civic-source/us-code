@@ -3,9 +3,9 @@ title: "Section 1919 - Penalties"
 usc_title: 19
 usc_section: "1919"
 chapter: 7
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "19 U.S.C. § 1919"
-generated_at: "2026-03-29T22:09:14.208Z"
+generated_at: "2026-03-29T22:14:17.160Z"
 ---
 
 # § 1919. Penalties

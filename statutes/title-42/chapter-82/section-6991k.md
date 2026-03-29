@@ -3,9 +3,9 @@ title: "Section 6991k - Delivery prohibition"
 usc_title: 42
 usc_section: "6991k"
 chapter: 82
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 6991k"
-generated_at: "2026-03-29T22:10:51.358Z"
+generated_at: "2026-03-29T22:16:20.079Z"
 ---
 
 # § 6991k. Delivery prohibition

@@ -3,9 +3,9 @@ title: "Section 10191 - Crime prevention campaign grant"
 usc_title: 34
 usc_section: "10191"
 chapter: 101
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "34 U.S.C. § 10191"
-generated_at: "2026-03-29T22:10:04.872Z"
+generated_at: "2026-03-29T22:15:27.999Z"
 ---
 
 # § 10191. Crime prevention campaign grant

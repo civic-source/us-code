@@ -3,9 +3,9 @@ title: "Section 666 - Civil and criminal penalties"
 usc_title: 29
 usc_section: "666"
 chapter: 15
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "29 U.S.C. § 666"
-generated_at: "2026-03-29T22:09:38.916Z"
+generated_at: "2026-03-29T22:15:03.977Z"
 ---
 
 # § 666. Civil and criminal penalties

@@ -3,9 +3,9 @@ title: "Section 1589 - Conveyance of land and nondwelling structures thereon to 
 usc_title: 42
 usc_section: "1589"
 chapter: 9
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 1589"
-generated_at: "2026-03-29T22:10:50.998Z"
+generated_at: "2026-03-29T22:16:19.664Z"
 ---
 
 # § 1589. Conveyance of land and nondwelling structures thereon to States for National Guard purposes

@@ -3,9 +3,9 @@ title: "Section 330e - Authorization of appropriations"
 usc_title: 15
 usc_section: "330e"
 chapter: 9
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "15 U.S.C. § 330e"
-generated_at: "2026-03-29T22:08:24.728Z"
+generated_at: "2026-03-29T22:13:34.214Z"
 ---
 
 # § 330e. Authorization of appropriations

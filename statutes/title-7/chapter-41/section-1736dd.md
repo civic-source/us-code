@@ -3,9 +3,9 @@ title: "Section 1736dd - International food security technical assistance"
 usc_title: 7
 usc_section: "1736dd"
 chapter: 41
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "7 U.S.C. § 1736dd"
-generated_at: "2026-03-29T22:07:50.778Z"
+generated_at: "2026-03-29T22:12:13.027Z"
 ---
 
 # § 1736dd. International food security technical assistance

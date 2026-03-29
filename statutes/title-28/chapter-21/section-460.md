@@ -3,9 +3,9 @@ title: "Section 460 - Application to other courts"
 usc_title: 28
 usc_section: "460"
 chapter: 21
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "28 U.S.C. § 460"
-generated_at: "2026-03-29T22:09:34.958Z"
+generated_at: "2026-03-29T22:15:20.509Z"
 ---
 
 # § 460. Application to other courts

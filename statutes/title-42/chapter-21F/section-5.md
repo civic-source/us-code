@@ -3,9 +3,9 @@ title: "Section 5 - Confidentiality of genetic information"
 usc_title: 42
 usc_section: "5"
 chapter: 21
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-29T22:10:51.066Z"
+generated_at: "2026-03-29T22:16:19.756Z"
 ---
 
 # § 2000ff–5. Confidentiality of genetic information

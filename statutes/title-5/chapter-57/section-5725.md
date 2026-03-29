@@ -3,9 +3,9 @@ title: "Section 5725 - Transportation expenses; employees assigned to danger are
 usc_title: 5
 usc_section: "5725"
 chapter: 57
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "5 U.S.C. § 5725"
-generated_at: "2026-03-29T22:07:27.525Z"
+generated_at: "2026-03-29T22:11:41.476Z"
 ---
 
 # § 5725. Transportation expenses; employees assigned to danger areas
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T22:07:27.525Z"
   - **(1)** The expenses authorized under subsection (a) shall, with respect to the transport of family household pets, include the expenses for the shipment of and the payment of any quarantine costs for such pets.
   - **(2)** Any payment or reimbursement under this section in connection with the transport of family household pets shall be subject to terms and conditions which—
     - **(A)** the head of the agency shall by regulation prescribe; and
-    - **(B)** shall, to the extent practicable, be the same as would apply under regulations prescribed under section 476(b)(1)(H)(iii) of title 37 1 1 See References in Text note below. in connection with the transport of family household pets of members of the uniformed services, including regulations relating to the types, size, and number of pets for which such payment or reimbursement may be provided.
+    - **(B)** shall, to the extent practicable, be the same as would apply under regulations prescribed under section 476(b)(1)(H)(iii) 1 1 See References in Text note below. of title 37 in connection with the transport of family household pets of members of the uniformed services, including regulations relating to the types, size, and number of pets for which such payment or reimbursement may be provided.

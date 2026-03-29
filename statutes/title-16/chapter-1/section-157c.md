@@ -3,9 +3,9 @@ title: "Section 157c - Boundary revision; acquisition of lands and interests; au
 usc_title: 16
 usc_section: "157c"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 157c"
-generated_at: "2026-03-29T22:08:58.304Z"
+generated_at: "2026-03-29T22:14:06.223Z"
 ---
 
 # § 157c. Boundary revision; acquisition of lands and interests; authorization of appropriations

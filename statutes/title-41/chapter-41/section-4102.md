@@ -3,9 +3,9 @@ title: "Section 4102 - Authorities or responsibilities not affected"
 usc_title: 41
 usc_section: "4102"
 chapter: 41
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "41 U.S.C. § 4102"
-generated_at: "2026-03-29T22:10:22.896Z"
+generated_at: "2026-03-29T22:15:44.494Z"
 ---
 
 # § 4102. Authorities or responsibilities not affected

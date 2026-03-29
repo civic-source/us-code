@@ -3,9 +3,9 @@ title: "Section 3744 - Specific costs not allowable"
 usc_title: 10
 usc_section: "3744"
 chapter: 273
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 3744"
-generated_at: "2026-03-29T22:08:02.469Z"
+generated_at: "2026-03-29T22:11:59.047Z"
 ---
 
 # § 3744. Specific costs not allowable

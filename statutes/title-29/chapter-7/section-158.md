@@ -3,9 +3,9 @@ title: "Section 158 - Unfair labor practices"
 usc_title: 29
 usc_section: "158"
 chapter: 7
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "29 U.S.C. § 158"
-generated_at: "2026-03-29T22:09:38.893Z"
+generated_at: "2026-03-29T22:15:03.950Z"
 ---
 
 # § 158. Unfair labor practices

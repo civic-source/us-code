@@ -3,9 +3,9 @@ title: "Section 470u - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "470u"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 470u"
-generated_at: "2026-03-29T22:08:58.534Z"
+generated_at: "2026-03-29T22:14:06.461Z"
 ---
 
 # § 470u. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

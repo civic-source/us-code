@@ -3,9 +3,9 @@ title: "Section 237 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 
 usc_title: 21
 usc_section: "237"
 chapter: 8
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "21 U.S.C. § 237"
-generated_at: "2026-03-29T22:09:23.831Z"
+generated_at: "2026-03-29T22:14:57.941Z"
 ---
 
 # §§ 221 to 237. Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 Stat. 714

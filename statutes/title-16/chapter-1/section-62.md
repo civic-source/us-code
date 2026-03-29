@@ -3,9 +3,9 @@ title: "Section 62 - Administration of Wilderness Area"
 usc_title: 16
 usc_section: "62"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 62"
-generated_at: "2026-03-29T22:08:58.518Z"
+generated_at: "2026-03-29T22:14:06.443Z"
 ---
 
 # § 460nnn–62. Administration of Wilderness Area

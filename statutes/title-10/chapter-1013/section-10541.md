@@ -3,9 +3,9 @@ title: "Section 10541 - National Guard and reserve component equipment: annual r
 usc_title: 10
 usc_section: "10541"
 chapter: 1013
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 10541"
-generated_at: "2026-03-29T22:08:02.573Z"
+generated_at: "2026-03-29T22:11:59.139Z"
 ---
 
 # § 10541. National Guard and reserve component equipment: annual report to Congress

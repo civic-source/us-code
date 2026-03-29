@@ -3,9 +3,9 @@ title: "Section 2303 - Notice"
 usc_title: 25
 usc_section: "2303"
 chapter: 25
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "25 U.S.C. § 2303"
-generated_at: "2026-03-29T22:09:21.433Z"
+generated_at: "2026-03-29T22:14:41.799Z"
 ---
 
 # § 2303. Notice

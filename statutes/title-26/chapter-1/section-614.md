@@ -3,9 +3,9 @@ title: "Section 614 - Definition of property"
 usc_title: 26
 usc_section: "614"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 614"
-generated_at: "2026-03-29T22:09:57.813Z"
+generated_at: "2026-03-29T22:15:18.500Z"
 ---
 
 # § 614. Definition of property

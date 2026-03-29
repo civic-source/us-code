@@ -3,9 +3,9 @@ title: "Section 40915 - Relief from disabilities program required as condition f
 usc_title: 34
 usc_section: "40915"
 chapter: 409
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "34 U.S.C. § 40915"
-generated_at: "2026-03-29T22:10:04.998Z"
+generated_at: "2026-03-29T22:15:28.118Z"
 ---
 
 # § 40915. Relief from disabilities program required as condition for participation in grant programs

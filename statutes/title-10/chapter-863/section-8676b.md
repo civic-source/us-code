@@ -3,9 +3,9 @@ title: "Section 8676b - Vessels stricken from Naval Vessel Register: transfer by
 usc_title: 10
 usc_section: "8676b"
 chapter: 863
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "10 U.S.C. § 8676b"
-generated_at: "2026-03-29T22:08:02.540Z"
+generated_at: "2026-03-29T22:11:59.109Z"
 ---
 
 # § 8676b. Vessels stricken from Naval Vessel Register: transfer by gift or otherwise for use as artificial reefs

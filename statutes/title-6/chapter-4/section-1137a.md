@@ -3,9 +3,9 @@ title: "Section 1137a - Local law enforcement security training"
 usc_title: 6
 usc_section: "1137a"
 chapter: 4
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "6 U.S.C. § 1137a"
-generated_at: "2026-03-29T22:07:40.129Z"
+generated_at: "2026-03-29T22:11:46.398Z"
 ---
 
 # § 1137a. Local law enforcement security training
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T22:07:40.129Z"
   - **(3)** information on the law enforcement agencies the personnel of which received the training, and for each such agency, the number of participants; and
   - **(4)** a description of the measures used to ensure the program was carried out to provide for protections of privacy rights, civil rights, and civil liberties.
 - **(d)** In this section:
-  - **(1)** The term “public and private sector stakeholders” has the meaning given such term in section 114(t)(1)(c) of title 49 .
+  - **(1)** The term “public and private sector stakeholders” has the meaning given such term in section 114(t)(1)(c) 1 of title 49.
   - **(2)** The term “surface transportation asset” includes facilities, equipment, or systems used to provide transportation services by—
     - **(A)** a public transportation agency (as such term is defined in section 1131(5) of this title );
     - **(B)** a railroad carrier (as such term is defined in section 20102(3) of title 49 );

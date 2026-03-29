@@ -3,9 +3,9 @@ title: "Section 5103a - Limitation on issuance of hazmat licenses"
 usc_title: 49
 usc_section: "5103a"
 chapter: 51
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "49 U.S.C. § 5103a"
-generated_at: "2026-03-29T22:11:06.876Z"
+generated_at: "2026-03-29T22:16:49.593Z"
 ---
 
 # § 5103a. Limitation on issuance of hazmat licenses

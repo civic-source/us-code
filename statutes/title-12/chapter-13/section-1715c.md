@@ -3,9 +3,9 @@ title: "Section 1715c - Labor standards"
 usc_title: 12
 usc_section: "1715c"
 chapter: 13
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "12 U.S.C. § 1715c"
-generated_at: "2026-03-29T22:08:33.183Z"
+generated_at: "2026-03-29T22:12:59.446Z"
 ---
 
 # § 1715c. Labor standards

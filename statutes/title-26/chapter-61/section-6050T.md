@@ -3,9 +3,9 @@ title: "Section 6050T - Returns relating to credit for health insurance costs of
 usc_title: 26
 usc_section: "6050T"
 chapter: 61
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 6050T"
-generated_at: "2026-03-29T22:09:58.032Z"
+generated_at: "2026-03-29T22:15:18.752Z"
 ---
 
 # § 6050T. Returns relating to credit for health insurance costs of eligible individuals

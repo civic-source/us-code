@@ -3,9 +3,9 @@ title: "Section 33 - Followup monitoring and treatment of other individuals with
 usc_title: 42
 usc_section: "33"
 chapter: 6
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 33"
-generated_at: "2026-03-29T22:10:50.552Z"
+generated_at: "2026-03-29T22:16:19.081Z"
 ---
 
 # § 300mm–33. Followup monitoring and treatment of other individuals with WTC-related health conditions

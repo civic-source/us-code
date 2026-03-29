@@ -3,9 +3,9 @@ title: "Section 74 - Management of newly acquired lands"
 usc_title: 16
 usc_section: "74"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 74"
-generated_at: "2026-03-29T22:08:58.377Z"
+generated_at: "2026-03-29T22:14:06.300Z"
 ---
 
 # § 410aaa–74. Management of newly acquired lands

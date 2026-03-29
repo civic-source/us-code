@@ -3,9 +3,9 @@ title: "Section 3509 - Repealed. Sept. 1, 1954, ch. 1208 , title VI, § 601(b), 
 usc_title: 50
 usc_section: "3509"
 chapter: 46
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "50 U.S.C. § 3509"
-generated_at: "2026-03-29T22:11:02.228Z"
+generated_at: "2026-03-29T22:16:39.342Z"
 ---
 
 # § 3509. Repealed. Sept. 1, 1954, ch. 1208 , title VI, § 601(b), 68 Stat. 1115

@@ -3,9 +3,9 @@ title: "Section 14d - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "14d"
 chapter: 1
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "16 U.S.C. § 14d"
-generated_at: "2026-03-29T22:08:58.286Z"
+generated_at: "2026-03-29T22:14:06.197Z"
 ---
 
 # § 14d. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

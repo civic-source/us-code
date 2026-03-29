@@ -3,9 +3,9 @@ title: "Section 1741f - Rule of construction"
 usc_title: 22
 usc_section: "1741f"
 chapter: 23
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "22 U.S.C. § 1741f"
-generated_at: "2026-03-29T22:09:29.729Z"
+generated_at: "2026-03-29T22:14:52.796Z"
 ---
 
 # § 1741f. Rule of construction

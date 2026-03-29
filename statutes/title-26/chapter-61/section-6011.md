@@ -3,9 +3,9 @@ title: "Section 6011 - General requirement of return, statement, or list"
 usc_title: 26
 usc_section: "6011"
 chapter: 61
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "26 U.S.C. § 6011"
-generated_at: "2026-03-29T22:09:58.018Z"
+generated_at: "2026-03-29T22:15:18.732Z"
 ---
 
 # § 6011. General requirement of return, statement, or list

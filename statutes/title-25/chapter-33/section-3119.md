@@ -3,9 +3,9 @@ title: "Section 3119 - Severability"
 usc_title: 25
 usc_section: "3119"
 chapter: 33
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "25 U.S.C. § 3119"
-generated_at: "2026-03-29T22:09:21.452Z"
+generated_at: "2026-03-29T22:14:41.823Z"
 ---
 
 # § 3119. Severability

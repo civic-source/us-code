@@ -3,9 +3,9 @@ title: "Section 117 - Other patient protections"
 usc_title: 42
 usc_section: "117"
 chapter: 6
-current_through: "PL 117-102"
+current_through: "PL 117-114"
 classification: "42 U.S.C. § 117"
-generated_at: "2026-03-29T22:10:50.528Z"
+generated_at: "2026-03-29T22:16:19.055Z"
 ---
 
 # § 300gg–117. Other patient protections
