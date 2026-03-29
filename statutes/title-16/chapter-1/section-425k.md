@@ -3,9 +3,9 @@ title: "Section 425k - Revision of park boundaries"
 usc_title: 16
 usc_section: "425k"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 425k"
-generated_at: "2026-03-29T21:27:39.802Z"
+generated_at: "2026-03-29T21:33:47.129Z"
 ---
 
 # § 425k. Revision of park boundaries

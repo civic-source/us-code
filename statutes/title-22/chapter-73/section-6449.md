@@ -3,9 +3,9 @@ title: "Section 6449 - Termination of Presidential actions"
 usc_title: 22
 usc_section: "6449"
 chapter: 73
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 6449"
-generated_at: "2026-03-29T21:28:26.221Z"
+generated_at: "2026-03-29T21:34:12.945Z"
 ---
 
 # § 6449. Termination of Presidential actions

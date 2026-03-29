@@ -3,9 +3,9 @@ title: "Section 1611 - Timber"
 usc_title: 16
 usc_section: "1611"
 chapter: 36
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 1611"
-generated_at: "2026-03-29T21:27:40.165Z"
+generated_at: "2026-03-29T21:33:47.554Z"
 ---
 
 # § 1611. Timber

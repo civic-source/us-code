@@ -3,9 +3,9 @@ title: "Section 2503 - Administration by Office of Career Education"
 usc_title: 20
 usc_section: "2503"
 chapter: 45
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "20 U.S.C. § 2503"
-generated_at: "2026-03-29T21:27:24.619Z"
+generated_at: "2026-03-29T21:33:39.267Z"
 ---
 
 # § 2503. Administration by Office of Career Education

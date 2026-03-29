@@ -3,9 +3,9 @@ title: "Section 18021 - Qualified health plan defined"
 usc_title: 42
 usc_section: "18021"
 chapter: 157
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 18021"
-generated_at: "2026-03-29T21:30:45.794Z"
+generated_at: "2026-03-29T21:35:47.773Z"
 ---
 
 # § 18021. Qualified health plan defined

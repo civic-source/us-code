@@ -3,9 +3,9 @@ title: "Section 50701 - Definition of Office"
 usc_title: 51
 usc_section: "50701"
 chapter: 507
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "51 U.S.C. § 50701"
-generated_at: "2026-03-29T21:31:50.868Z"
+generated_at: "2026-03-29T21:36:09.764Z"
 ---
 
 # § 50701. Definition of Office

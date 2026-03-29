@@ -3,9 +3,9 @@ title: "Section 1524 - Education and risk management assistance"
 usc_title: 7
 usc_section: "1524"
 chapter: 36
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 1524"
-generated_at: "2026-03-29T21:26:38.058Z"
+generated_at: "2026-03-29T21:32:53.019Z"
 ---
 
 # § 1524. Education and risk management assistance

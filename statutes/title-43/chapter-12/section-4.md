@@ -3,9 +3,9 @@ title: "Section 4 - Omitted"
 usc_title: 43
 usc_section: "4"
 chapter: 12
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "43 U.S.C. § 4"
-generated_at: "2026-03-29T21:30:05.687Z"
+generated_at: "2026-03-29T21:35:10.718Z"
 ---
 
 # §§ 600g to 600g–4. Omitted

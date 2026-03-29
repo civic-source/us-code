@@ -3,9 +3,9 @@ title: "Section 2261 - Authorization of appropriations"
 usc_title: 22
 usc_section: "2261"
 chapter: 32
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 2261"
-generated_at: "2026-03-29T21:28:26.055Z"
+generated_at: "2026-03-29T21:34:12.750Z"
 ---
 
 # § 2261. Authorization of appropriations

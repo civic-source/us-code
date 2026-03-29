@@ -3,9 +3,9 @@ title: "Section 1457a - Authorization of appropriations for particular programs"
 usc_title: 43
 usc_section: "1457a"
 chapter: 31
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "43 U.S.C. § 1457a"
-generated_at: "2026-03-29T21:30:05.725Z"
+generated_at: "2026-03-29T21:35:10.758Z"
 ---
 
 # § 1457a. Authorization of appropriations for particular programs

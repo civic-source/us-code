@@ -3,9 +3,9 @@ title: "Section 30110 - Judicial review"
 usc_title: 52
 usc_section: "30110"
 chapter: 301
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "52 U.S.C. § 30110"
-generated_at: "2026-03-29T21:31:42.525Z"
+generated_at: "2026-03-29T21:36:09.241Z"
 ---
 
 # § 30110. Judicial review

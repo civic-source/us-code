@@ -3,9 +3,9 @@ title: "Section 901 - Purpose"
 usc_title: 5
 usc_section: "901"
 chapter: 9
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "5 U.S.C. § 901"
-generated_at: "2026-03-29T21:26:08.384Z"
+generated_at: "2026-03-29T21:32:36.030Z"
 ---
 
 # § 901. Purpose

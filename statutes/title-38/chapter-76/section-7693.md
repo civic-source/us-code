@@ -3,9 +3,9 @@ title: "Section 7693 - Eligibility; preferences; covered costs"
 usc_title: 38
 usc_section: "7693"
 chapter: 76
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "38 U.S.C. § 7693"
-generated_at: "2026-03-29T21:29:48.748Z"
+generated_at: "2026-03-29T21:34:56.035Z"
 ---
 
 # § 7693. Eligibility; preferences; covered costs

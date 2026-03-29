@@ -3,9 +3,9 @@ title: "Section 2102 - Minerals Agreements"
 usc_title: 25
 usc_section: "2102"
 chapter: 23
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "25 U.S.C. § 2102"
-generated_at: "2026-03-29T21:28:11.328Z"
+generated_at: "2026-03-29T21:34:01.830Z"
 ---
 
 # § 2102. Minerals Agreements

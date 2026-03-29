@@ -3,9 +3,9 @@ title: "Section 4822 - Director of Diplomatic Security Service"
 usc_title: 22
 usc_section: "4822"
 chapter: 58
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 4822"
-generated_at: "2026-03-29T21:28:26.186Z"
+generated_at: "2026-03-29T21:34:12.903Z"
 ---
 
 # § 4822. Director of Diplomatic Security Service

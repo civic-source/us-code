@@ -3,9 +3,9 @@ title: "Section 1823 - Application for order"
 usc_title: 50
 usc_section: "1823"
 chapter: 36
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "50 U.S.C. § 1823"
-generated_at: "2026-03-29T21:31:09.111Z"
+generated_at: "2026-03-29T21:36:05.692Z"
 ---
 
 # § 1823. Application for order

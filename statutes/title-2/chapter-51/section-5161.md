@@ -3,9 +3,9 @@ title: "Section 5161 - Training and program development activities of Republican
 usc_title: 2
 usc_section: "5161"
 chapter: 51
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "2 U.S.C. § 5161"
-generated_at: "2026-03-29T21:26:11.591Z"
+generated_at: "2026-03-29T21:32:30.525Z"
 ---
 
 # § 5161. Training and program development activities of Republican Conference and Democratic Steering and Policy Committee

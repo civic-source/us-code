@@ -3,9 +3,9 @@ title: "Section 7902 - Scholarship program"
 usc_title: 38
 usc_section: "7902"
 chapter: 79
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "38 U.S.C. § 7902"
-generated_at: "2026-03-29T21:29:48.749Z"
+generated_at: "2026-03-29T21:34:56.037Z"
 ---
 
 # § 7902. Scholarship program

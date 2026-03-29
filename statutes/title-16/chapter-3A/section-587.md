@@ -3,9 +3,9 @@ title: "Section 587 - Repealed. June 19, 1934, ch. 648 , title II, § 1, 48 Stat
 usc_title: 16
 usc_section: "587"
 chapter: 3
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 587"
-generated_at: "2026-03-29T21:27:39.974Z"
+generated_at: "2026-03-29T21:33:47.331Z"
 ---
 
 # § 587. Repealed. June 19, 1934, ch. 648 , title II, § 1, 48 Stat. 1056

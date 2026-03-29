@@ -3,9 +3,9 @@ title: "Section 2196 - Drunkenness or neglect of duty by seamen"
 usc_title: 18
 usc_section: "2196"
 chapter: 107
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "18 U.S.C. § 2196"
-generated_at: "2026-03-29T21:28:02.767Z"
+generated_at: "2026-03-29T21:33:51.312Z"
 ---
 
 # § 2196. Drunkenness or neglect of duty by seamen

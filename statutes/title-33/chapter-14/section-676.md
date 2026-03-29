@@ -3,9 +3,9 @@ title: "Section 676 - Allotment of expenses for common dumping grounds; location
 usc_title: 33
 usc_section: "676"
 chapter: 14
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "33 U.S.C. § 676"
-generated_at: "2026-03-29T21:29:34.568Z"
+generated_at: "2026-03-29T21:34:49.023Z"
 ---
 
 # § 676. Allotment of expenses for common dumping grounds; location of impounding works

@@ -3,9 +3,9 @@ title: "Section 1645 - Qualifying quarters"
 usc_title: 8
 usc_section: "1645"
 chapter: 14
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "8 U.S.C. § 1645"
-generated_at: "2026-03-29T21:26:41.308Z"
+generated_at: "2026-03-29T21:32:55.187Z"
 ---
 
 # § 1645. Qualifying quarters

@@ -3,9 +3,9 @@ title: "Section 3327 - Election to receive educational assistance"
 usc_title: 38
 usc_section: "3327"
 chapter: 33
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "38 U.S.C. § 3327"
-generated_at: "2026-03-29T21:29:48.675Z"
+generated_at: "2026-03-29T21:34:55.958Z"
 ---
 
 # § 3327. Election to receive educational assistance

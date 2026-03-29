@@ -3,9 +3,9 @@ title: "Section 5122 - Offsets of gratuities"
 usc_title: 25
 usc_section: "5122"
 chapter: 45
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "25 U.S.C. § 5122"
-generated_at: "2026-03-29T21:28:11.388Z"
+generated_at: "2026-03-29T21:34:01.901Z"
 ---
 
 # § 5122. Offsets of gratuities

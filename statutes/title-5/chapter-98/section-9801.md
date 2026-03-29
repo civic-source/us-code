@@ -3,9 +3,9 @@ title: "Section 9801 - Definitions"
 usc_title: 5
 usc_section: "9801"
 chapter: 98
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "5 U.S.C. § 9801"
-generated_at: "2026-03-29T21:26:08.545Z"
+generated_at: "2026-03-29T21:32:36.180Z"
 ---
 
 # § 9801. Definitions

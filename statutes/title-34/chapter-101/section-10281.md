@@ -3,9 +3,9 @@ title: "Section 10281 - Payment of death benefits"
 usc_title: 34
 usc_section: "10281"
 chapter: 101
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "34 U.S.C. § 10281"
-generated_at: "2026-03-29T21:29:32.726Z"
+generated_at: "2026-03-29T21:34:44.267Z"
 ---
 
 # § 10281. Payment of death benefits

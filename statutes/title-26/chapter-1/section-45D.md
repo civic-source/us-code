@@ -3,9 +3,9 @@ title: "Section 45D - New markets tax credit"
 usc_title: 26
 usc_section: "45D"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 45D"
-generated_at: "2026-03-29T21:29:01.903Z"
+generated_at: "2026-03-29T21:34:39.539Z"
 ---
 
 # § 45D. New markets tax credit
@@ -79,7 +79,7 @@ generated_at: "2026-03-29T21:29:01.903Z"
     - **(E)** $5,000,000,000 for 2008,
     - **(F)** $5,000,000,000 for 2009,
     - **(G)** $3,500,000,000 for each of calendar years 2010 through 2019, and
-    - **(H)** $5,000,000,000 for for 2 2 So in original. Second “for” probably should not appear. each of calendar years 2020 through 2025.
+    - **(H)** $5,000,000,000 for for 2 2 So in original. each of calendar years 2020 through 2025.
   - **(2)** The limitation under paragraph (1) shall be allocated by the Secretary among qualified community development entities selected by the Secretary. In making allocations under the preceding sentence, the Secretary shall give priority to any entity—
     - **(A)** with a record of having successfully provided capital or technical assistance to disadvantaged businesses or communities, or
     - **(B)** which intends to satisfy the requirement under subsection (b)(1)(B) by making qualified low-income community investments in 1 or more businesses in which persons unrelated to such entity (within the meaning of section 267(b) or 707(b)(1)) hold the majority equity interest.

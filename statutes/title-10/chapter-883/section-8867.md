@@ -3,9 +3,9 @@ title: "Section 8867 - Transfer of prize property to another district for sale"
 usc_title: 10
 usc_section: "8867"
 chapter: 883
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 8867"
-generated_at: "2026-03-29T21:26:52.780Z"
+generated_at: "2026-03-29T21:33:09.365Z"
 ---
 
 # § 8867. Transfer of prize property to another district for sale

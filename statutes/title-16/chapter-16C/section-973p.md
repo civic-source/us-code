@@ -3,9 +3,9 @@ title: "Section 973p - Additional agreements"
 usc_title: 16
 usc_section: "973p"
 chapter: 16
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 973p"
-generated_at: "2026-03-29T21:27:40.086Z"
+generated_at: "2026-03-29T21:33:47.455Z"
 ---
 
 # § 973p. Additional agreements

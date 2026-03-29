@@ -3,9 +3,9 @@ title: "Section 8502 - Compensation under State agreement"
 usc_title: 5
 usc_section: "8502"
 chapter: 85
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "5 U.S.C. § 8502"
-generated_at: "2026-03-29T21:26:08.528Z"
+generated_at: "2026-03-29T21:32:36.163Z"
 ---
 
 # § 8502. Compensation under State agreement

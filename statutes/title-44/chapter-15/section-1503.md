@@ -3,9 +3,9 @@ title: "Section 1503 - Filing documents with Office; notation of time; public in
 usc_title: 44
 usc_section: "1503"
 chapter: 15
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "44 U.S.C. § 1503"
-generated_at: "2026-03-29T21:30:03.814Z"
+generated_at: "2026-03-29T21:35:04.079Z"
 ---
 
 # § 1503. Filing documents with Office; notation of time; public inspection; transmission for printing

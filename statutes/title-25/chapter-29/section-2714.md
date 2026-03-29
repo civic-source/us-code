@@ -3,9 +3,9 @@ title: "Section 2714 - Judicial review"
 usc_title: 25
 usc_section: "2714"
 chapter: 29
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "25 U.S.C. § 2714"
-generated_at: "2026-03-29T21:28:11.344Z"
+generated_at: "2026-03-29T21:34:01.851Z"
 ---
 
 # § 2714. Judicial review

@@ -3,9 +3,9 @@ title: "Section 6331 - Grants for the outlying areas and the Secretary of the In
 usc_title: 20
 usc_section: "6331"
 chapter: 70
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "20 U.S.C. § 6331"
-generated_at: "2026-03-29T21:27:24.653Z"
+generated_at: "2026-03-29T21:33:39.320Z"
 ---
 
 # § 6331. Grants for the outlying areas and the Secretary of the Interior

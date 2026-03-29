@@ -3,9 +3,9 @@ title: "Section 31 - Definitions"
 usc_title: 18
 usc_section: "31"
 chapter: 2
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "18 U.S.C. § 31"
-generated_at: "2026-03-29T21:28:02.677Z"
+generated_at: "2026-03-29T21:33:51.220Z"
 ---
 
 # § 31. Definitions

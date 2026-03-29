@@ -3,9 +3,9 @@ title: "Section 2431a - Acquisition strategy"
 usc_title: 10
 usc_section: "2431a"
 chapter: 144
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2431a"
-generated_at: "2026-03-29T21:26:52.636Z"
+generated_at: "2026-03-29T21:33:09.190Z"
 ---
 
 # § 2431a. Acquisition strategy

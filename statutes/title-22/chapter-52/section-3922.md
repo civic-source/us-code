@@ -3,9 +3,9 @@ title: "Section 3922 - Utilization of Foreign Service personnel system by other 
 usc_title: 22
 usc_section: "3922"
 chapter: 52
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 3922"
-generated_at: "2026-03-29T21:28:26.148Z"
+generated_at: "2026-03-29T21:34:12.861Z"
 ---
 
 # § 3922. Utilization of Foreign Service personnel system by other agencies

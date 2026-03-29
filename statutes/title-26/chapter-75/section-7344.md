@@ -3,9 +3,9 @@ title: "Section 7344 - Extended application of penalties relating to officers of
 usc_title: 26
 usc_section: "7344"
 chapter: 75
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 7344"
-generated_at: "2026-03-29T21:29:02.428Z"
+generated_at: "2026-03-29T21:34:40.102Z"
 ---
 
 # § 7344. Extended application of penalties relating to officers of the Treasury Department

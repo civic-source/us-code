@@ -3,9 +3,9 @@ title: "Section 3319h - Funds for research facilities"
 usc_title: 7
 usc_section: "3319h"
 chapter: 64
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 3319h"
-generated_at: "2026-03-29T21:26:38.223Z"
+generated_at: "2026-03-29T21:32:53.187Z"
 ---
 
 # § 3319h. Funds for research facilities

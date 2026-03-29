@@ -3,9 +3,9 @@ title: "Section 1099d - Competitive loan auction pilot program"
 usc_title: 20
 usc_section: "1099d"
 chapter: 28
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "20 U.S.C. § 1099d"
-generated_at: "2026-03-29T21:27:24.544Z"
+generated_at: "2026-03-29T21:33:39.171Z"
 ---
 
 # § 1099d. Competitive loan auction pilot program

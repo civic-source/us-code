@@ -3,9 +3,9 @@ title: "Section 1490e - Programs of technical and supervisory assistance for low
 usc_title: 42
 usc_section: "1490e"
 chapter: 8
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 1490e"
-generated_at: "2026-03-29T21:30:44.957Z"
+generated_at: "2026-03-29T21:35:47.055Z"
 ---
 
 # § 1490e. Programs of technical and supervisory assistance for low-income individuals and families in rural areas

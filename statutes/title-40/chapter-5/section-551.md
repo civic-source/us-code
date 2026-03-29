@@ -3,9 +3,9 @@ title: "Section 551 - Donations to American Red Cross"
 usc_title: 40
 usc_section: "551"
 chapter: 5
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "40 U.S.C. § 551"
-generated_at: "2026-03-29T21:30:01.326Z"
+generated_at: "2026-03-29T21:35:00.232Z"
 ---
 
 # § 551. Donations to American Red Cross

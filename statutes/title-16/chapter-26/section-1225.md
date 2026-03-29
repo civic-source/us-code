@@ -3,9 +3,9 @@ title: "Section 1225 - State consideration of protection and restoration of estu
 usc_title: 16
 usc_section: "1225"
 chapter: 26
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 1225"
-generated_at: "2026-03-29T21:27:40.098Z"
+generated_at: "2026-03-29T21:33:47.472Z"
 ---
 
 # § 1225. State consideration of protection and restoration of estuaries in State comprehensive planning and proposals for financial assistance under certain Federal laws; grants: terms and conditions, prohibition against disposition of lands without approval of the Secretary

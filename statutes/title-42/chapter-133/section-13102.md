@@ -3,9 +3,9 @@ title: "Section 13102 - Definitions"
 usc_title: 42
 usc_section: "13102"
 chapter: 133
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 13102"
-generated_at: "2026-03-29T21:30:45.656Z"
+generated_at: "2026-03-29T21:35:47.655Z"
 ---
 
 # § 13102. Definitions

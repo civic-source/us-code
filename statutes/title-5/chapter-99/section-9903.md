@@ -3,9 +3,9 @@ title: "Section 9903 - Attracting highly qualified experts"
 usc_title: 5
 usc_section: "9903"
 chapter: 99
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "5 U.S.C. § 9903"
-generated_at: "2026-03-29T21:26:08.549Z"
+generated_at: "2026-03-29T21:32:36.183Z"
 ---
 
 # § 9903. Attracting highly qualified experts

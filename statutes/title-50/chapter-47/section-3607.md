@@ -3,9 +3,9 @@ title: "Section 3607 - Support for activities and personnel outside the United S
 usc_title: 50
 usc_section: "3607"
 chapter: 47
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "50 U.S.C. § 3607"
-generated_at: "2026-03-29T21:31:09.207Z"
+generated_at: "2026-03-29T21:36:05.786Z"
 ---
 
 # § 3607. Support for activities and personnel outside the United States

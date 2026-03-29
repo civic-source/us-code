@@ -3,9 +3,9 @@ title: "Section 7483 - Issuance of orders"
 usc_title: 7
 usc_section: "7483"
 chapter: 101
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 7483"
-generated_at: "2026-03-29T21:26:38.332Z"
+generated_at: "2026-03-29T21:32:53.301Z"
 ---
 
 # § 7483. Issuance of orders

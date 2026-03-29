@@ -3,9 +3,9 @@ title: "Section 1061 - Definitions"
 usc_title: 20
 usc_section: "1061"
 chapter: 28
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "20 U.S.C. § 1061"
-generated_at: "2026-03-29T21:27:24.464Z"
+generated_at: "2026-03-29T21:33:39.059Z"
 ---
 
 # § 1061. Definitions

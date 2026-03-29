@@ -3,9 +3,9 @@ title: "Section 945b - Jurisdiction; procedure"
 usc_title: 43
 usc_section: "945b"
 chapter: 22
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "43 U.S.C. § 945b"
-generated_at: "2026-03-29T21:30:05.705Z"
+generated_at: "2026-03-29T21:35:10.741Z"
 ---
 
 # § 945b. Jurisdiction; procedure

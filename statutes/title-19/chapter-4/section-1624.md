@@ -3,9 +3,9 @@ title: "Section 1624 - General regulations"
 usc_title: 19
 usc_section: "1624"
 chapter: 4
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "19 U.S.C. § 1624"
-generated_at: "2026-03-29T21:27:29.149Z"
+generated_at: "2026-03-29T21:33:54.599Z"
 ---
 
 # § 1624. General regulations

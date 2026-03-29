@@ -3,9 +3,9 @@ title: "Section 2193a - Improvement of education in technical fields: general au
 usc_title: 10
 usc_section: "2193a"
 chapter: 111
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2193a"
-generated_at: "2026-03-29T21:26:52.592Z"
+generated_at: "2026-03-29T21:33:09.135Z"
 ---
 
 # § 2193a. Improvement of education in technical fields: general authority for support of elementary and secondary education in science and mathematics

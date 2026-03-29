@@ -3,9 +3,9 @@ title: "Section 1388 - Definitions; special rules"
 usc_title: 26
 usc_section: "1388"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 1388"
-generated_at: "2026-03-29T21:29:02.232Z"
+generated_at: "2026-03-29T21:34:39.896Z"
 ---
 
 # § 1388. Definitions; special rules

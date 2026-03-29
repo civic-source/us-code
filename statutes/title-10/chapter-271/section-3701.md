@@ -3,9 +3,9 @@ title: "Section 3701 - Definitions"
 usc_title: 10
 usc_section: "3701"
 chapter: 271
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 3701"
-generated_at: "2026-03-29T21:26:52.707Z"
+generated_at: "2026-03-29T21:33:09.278Z"
 ---
 
 # § 3701. Definitions

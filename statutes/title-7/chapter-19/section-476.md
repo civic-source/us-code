@@ -3,9 +3,9 @@ title: "Section 476 - Acreage reports"
 usc_title: 7
 usc_section: "476"
 chapter: 19
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 476"
-generated_at: "2026-03-29T21:26:37.958Z"
+generated_at: "2026-03-29T21:32:52.930Z"
 ---
 
 # § 476. Acreage reports

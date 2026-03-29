@@ -3,9 +3,9 @@ title: "Section 1359cc - Establishment of flexible marketing allotments"
 usc_title: 7
 usc_section: "1359cc"
 chapter: 35
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 1359cc"
-generated_at: "2026-03-29T21:26:38.017Z"
+generated_at: "2026-03-29T21:32:52.980Z"
 ---
 
 # § 1359cc. Establishment of flexible marketing allotments

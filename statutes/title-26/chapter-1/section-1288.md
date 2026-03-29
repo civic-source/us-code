@@ -3,9 +3,9 @@ title: "Section 1288 - Treatment of original issue discount on tax-exempt obliga
 usc_title: 26
 usc_section: "1288"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 1288"
-generated_at: "2026-03-29T21:29:02.222Z"
+generated_at: "2026-03-29T21:34:39.882Z"
 ---
 
 # § 1288. Treatment of original issue discount on tax-exempt obligations

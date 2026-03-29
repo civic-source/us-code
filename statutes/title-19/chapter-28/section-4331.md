@@ -3,9 +3,9 @@ title: "Section 4331 - Interagency Import Safety Working Group"
 usc_title: 19
 usc_section: "4331"
 chapter: 28
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "19 U.S.C. § 4331"
-generated_at: "2026-03-29T21:27:29.286Z"
+generated_at: "2026-03-29T21:33:54.736Z"
 ---
 
 # § 4331. Interagency Import Safety Working Group

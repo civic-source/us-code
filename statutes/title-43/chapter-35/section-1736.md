@@ -3,9 +3,9 @@ title: "Section 1736 - Working capital fund"
 usc_title: 43
 usc_section: "1736"
 chapter: 35
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "43 U.S.C. § 1736"
-generated_at: "2026-03-29T21:30:05.763Z"
+generated_at: "2026-03-29T21:35:10.796Z"
 ---
 
 # § 1736. Working capital fund

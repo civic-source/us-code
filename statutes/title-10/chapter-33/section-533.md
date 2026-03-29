@@ -3,9 +3,9 @@ title: "Section 533 - Service credit upon original appointment as a commissioned
 usc_title: 10
 usc_section: "533"
 chapter: 33
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 533"
-generated_at: "2026-03-29T21:26:52.456Z"
+generated_at: "2026-03-29T21:33:08.974Z"
 ---
 
 # § 533. Service credit upon original appointment as a commissioned officer

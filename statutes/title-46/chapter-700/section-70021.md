@@ -3,9 +3,9 @@ title: "Section 70021 - Conditions for entry to ports in the United States"
 usc_title: 46
 usc_section: "70021"
 chapter: 700
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "46 U.S.C. § 70021"
-generated_at: "2026-03-29T21:31:27.587Z"
+generated_at: "2026-03-29T21:35:53.066Z"
 ---
 
 # § 70021. Conditions for entry to ports in the United States

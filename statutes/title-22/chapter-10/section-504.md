@@ -3,9 +3,9 @@ title: "Section 504 - Transfer of hemisphere territory from one non-American pow
 usc_title: 22
 usc_section: "504"
 chapter: 10
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 504"
-generated_at: "2026-03-29T21:28:26.003Z"
+generated_at: "2026-03-29T21:34:12.685Z"
 ---
 
 # § 504. Transfer of hemisphere territory from one non-American power to another; recognition; consultation with American Republics

@@ -3,9 +3,9 @@ title: "Section 761 - Emergency Management Assistance Compact grants"
 usc_title: 6
 usc_section: "761"
 chapter: 2
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "6 U.S.C. § 761"
-generated_at: "2026-03-29T21:26:39.754Z"
+generated_at: "2026-03-29T21:32:45.117Z"
 ---
 
 # § 761. Emergency Management Assistance Compact grants

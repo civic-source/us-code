@@ -3,9 +3,9 @@ title: "Section 3225a - Addressing economic and workforce impacts of the opioid 
 usc_title: 29
 usc_section: "3225a"
 chapter: 32
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "29 U.S.C. § 3225a"
-generated_at: "2026-03-29T21:28:45.653Z"
+generated_at: "2026-03-29T21:34:26.019Z"
 ---
 
 # § 3225a. Addressing economic and workforce impacts of the opioid crisis

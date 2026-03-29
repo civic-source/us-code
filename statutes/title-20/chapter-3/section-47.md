@@ -3,9 +3,9 @@ title: "Section 47 - Acting Secretary"
 usc_title: 20
 usc_section: "47"
 chapter: 3
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "20 U.S.C. § 47"
-generated_at: "2026-03-29T21:27:24.412Z"
+generated_at: "2026-03-29T21:33:38.997Z"
 ---
 
 # § 47. Acting Secretary

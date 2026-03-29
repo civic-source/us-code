@@ -3,9 +3,9 @@ title: "Section 4358 - Selected acquisition reports: when total program reportin
 usc_title: 10
 usc_section: "4358"
 chapter: 324
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 4358"
-generated_at: "2026-03-29T21:26:52.725Z"
+generated_at: "2026-03-29T21:33:09.300Z"
 ---
 
 # § 4358. Selected acquisition reports: when total program reporting begins; limited reports before approval to proceed to system development and demonstration

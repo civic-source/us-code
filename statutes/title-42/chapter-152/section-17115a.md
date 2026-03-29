@@ -3,9 +3,9 @@ title: "Section 17115a - Development of national smart manufacturing plan"
 usc_title: 42
 usc_section: "17115a"
 chapter: 152
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 17115a"
-generated_at: "2026-03-29T21:30:45.765Z"
+generated_at: "2026-03-29T21:35:47.748Z"
 ---
 
 # § 17115a. Development of national smart manufacturing plan

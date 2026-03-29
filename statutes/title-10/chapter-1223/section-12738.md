@@ -3,9 +3,9 @@ title: "Section 12738 - Limitations on revocation of retired pay"
 usc_title: 10
 usc_section: "12738"
 chapter: 1223
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 12738"
-generated_at: "2026-03-29T21:26:52.814Z"
+generated_at: "2026-03-29T21:33:09.401Z"
 ---
 
 # § 12738. Limitations on revocation of retired pay

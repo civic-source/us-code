@@ -3,9 +3,9 @@ title: "Section 1310 - Application for registration"
 usc_title: 17
 usc_section: "1310"
 chapter: 13
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "17 U.S.C. § 1310"
-generated_at: "2026-03-29T21:27:40.882Z"
+generated_at: "2026-03-29T21:33:39.990Z"
 ---
 
 # § 1310. Application for registration

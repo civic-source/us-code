@@ -3,9 +3,9 @@ title: "Section 16341 - Western Hemisphere energy cooperation"
 usc_title: 42
 usc_section: "16341"
 chapter: 149
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 16341"
-generated_at: "2026-03-29T21:30:45.740Z"
+generated_at: "2026-03-29T21:35:47.725Z"
 ---
 
 # § 16341. Western Hemisphere energy cooperation

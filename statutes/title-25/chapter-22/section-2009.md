@@ -3,9 +3,9 @@ title: "Section 2009 - Division of Budget Analysis"
 usc_title: 25
 usc_section: "2009"
 chapter: 22
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "25 U.S.C. § 2009"
-generated_at: "2026-03-29T21:28:11.323Z"
+generated_at: "2026-03-29T21:34:01.825Z"
 ---
 
 # § 2009. Division of Budget Analysis

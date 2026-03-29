@@ -3,9 +3,9 @@ title: "Section 2259 - Transit pass program: personnel in poor air quality areas
 usc_title: 10
 usc_section: "2259"
 chapter: 134
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2259"
-generated_at: "2026-03-29T21:26:52.599Z"
+generated_at: "2026-03-29T21:33:09.145Z"
 ---
 
 # § 2259. Transit pass program: personnel in poor air quality areas

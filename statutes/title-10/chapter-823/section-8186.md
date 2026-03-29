@@ -3,9 +3,9 @@ title: "Section 8186 - Technical institutions: detail of naval officers to promo
 usc_title: 10
 usc_section: "8186"
 chapter: 823
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 8186"
-generated_at: "2026-03-29T21:26:52.761Z"
+generated_at: "2026-03-29T21:33:09.345Z"
 ---
 
 # § 8186. Technical institutions: detail of naval officers to promote knowledge of naval engineering and naval architecture

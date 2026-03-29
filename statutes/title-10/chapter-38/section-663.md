@@ -3,9 +3,9 @@ title: "Section 663 - Joint duty assignments after completion of joint professio
 usc_title: 10
 usc_section: "663"
 chapter: 38
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 663"
-generated_at: "2026-03-29T21:26:52.466Z"
+generated_at: "2026-03-29T21:33:08.986Z"
 ---
 
 # § 663. Joint duty assignments after completion of joint professional military education

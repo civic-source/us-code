@@ -3,9 +3,9 @@ title: "Section 9817 - Ending surprise air ambulance bills"
 usc_title: 26
 usc_section: "9817"
 chapter: 100
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 9817"
-generated_at: "2026-03-29T21:29:02.482Z"
+generated_at: "2026-03-29T21:34:40.159Z"
 ---
 
 # § 9817. Ending surprise air ambulance bills

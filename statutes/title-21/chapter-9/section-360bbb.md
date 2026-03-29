@@ -3,9 +3,9 @@ title: "Section 360bbb - Expanded access to unapproved therapies and diagnostics
 usc_title: 21
 usc_section: "360bbb"
 chapter: 9
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "21 U.S.C. § 360bbb"
-generated_at: "2026-03-29T21:28:36.933Z"
+generated_at: "2026-03-29T21:34:05.684Z"
 ---
 
 # § 360bbb. Expanded access to unapproved therapies and diagnostics

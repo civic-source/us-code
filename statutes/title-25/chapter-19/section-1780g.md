@@ -3,9 +3,9 @@ title: "Section 1780g - Omitted"
 usc_title: 25
 usc_section: "1780g"
 chapter: 19
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "25 U.S.C. § 1780g"
-generated_at: "2026-03-29T21:28:11.314Z"
+generated_at: "2026-03-29T21:34:01.813Z"
 ---
 
 # § 1780g. Omitted

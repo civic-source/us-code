@@ -3,9 +3,9 @@ title: "Section 3221 - Congressional declaration of policy"
 usc_title: 22
 usc_section: "3221"
 chapter: 47
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 3221"
-generated_at: "2026-03-29T21:28:26.133Z"
+generated_at: "2026-03-29T21:34:12.842Z"
 ---
 
 # § 3221. Congressional declaration of policy

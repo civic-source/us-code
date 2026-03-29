@@ -3,9 +3,9 @@ title: "Section 9282 - Medals: posthumous award and presentation"
 usc_title: 10
 usc_section: "9282"
 chapter: 937
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 9282"
-generated_at: "2026-03-29T21:26:52.788Z"
+generated_at: "2026-03-29T21:33:09.373Z"
 ---
 
 # § 9282. Medals: posthumous award and presentation

@@ -3,9 +3,9 @@ title: "Section 1911 - Consultation of Secretary of Agriculture with farmers, fa
 usc_title: 7
 usc_section: "1911"
 chapter: 49
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 1911"
-generated_at: "2026-03-29T21:26:38.099Z"
+generated_at: "2026-03-29T21:32:53.061Z"
 ---
 
 # § 1911. Consultation of Secretary of Agriculture with farmers, farm and commodity organizations and other persons and organizations; travel and per diem expenses

@@ -3,9 +3,9 @@ title: "Section 1452 - Lading on Sundays, holidays, or at night"
 usc_title: 19
 usc_section: "1452"
 chapter: 4
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "19 U.S.C. § 1452"
-generated_at: "2026-03-29T21:27:29.123Z"
+generated_at: "2026-03-29T21:33:54.576Z"
 ---
 
 # § 1452. Lading on Sundays, holidays, or at night

@@ -3,9 +3,9 @@ title: "Section 1623 - Financial assistance to certain employees in acquisition 
 usc_title: 10
 usc_section: "1623"
 chapter: 83
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 1623"
-generated_at: "2026-03-29T21:26:52.571Z"
+generated_at: "2026-03-29T21:33:09.112Z"
 ---
 
 # § 1623. Financial assistance to certain employees in acquisition of critical skills

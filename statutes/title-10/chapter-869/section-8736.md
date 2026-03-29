@@ -3,9 +3,9 @@ title: "Section 8736 - Regulations"
 usc_title: 10
 usc_section: "8736"
 chapter: 869
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 8736"
-generated_at: "2026-03-29T21:26:52.777Z"
+generated_at: "2026-03-29T21:33:09.362Z"
 ---
 
 # § 8736. Regulations

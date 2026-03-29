@@ -3,9 +3,9 @@ title: "Section 1622 - State authority to limit eligibility of qualified aliens 
 usc_title: 8
 usc_section: "1622"
 chapter: 14
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "8 U.S.C. § 1622"
-generated_at: "2026-03-29T21:26:41.306Z"
+generated_at: "2026-03-29T21:32:55.184Z"
 ---
 
 # § 1622. State authority to limit eligibility of qualified aliens for State public benefits

@@ -3,9 +3,9 @@ title: "Section 419a - Management practices to extend capacity and useful life o
 usc_title: 33
 usc_section: "419a"
 chapter: 9
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "33 U.S.C. § 419a"
-generated_at: "2026-03-29T21:29:34.548Z"
+generated_at: "2026-03-29T21:34:49.000Z"
 ---
 
 # § 419a. Management practices to extend capacity and useful life of dredged material disposal areas

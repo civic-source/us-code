@@ -3,9 +3,9 @@ title: "Section 2322a - Requirement for consideration of certain matters during 
 usc_title: 10
 usc_section: "2322a"
 chapter: 137
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2322a"
-generated_at: "2026-03-29T21:26:52.612Z"
+generated_at: "2026-03-29T21:33:09.161Z"
 ---
 
 # § 2322a. Requirement for consideration of certain matters during acquisition of noncommercial computer software

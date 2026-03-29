@@ -3,9 +3,9 @@ title: "Section 1843 - Exemption from taxation for income derived from sources w
 usc_title: 48
 usc_section: "1843"
 chapter: 17
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "48 U.S.C. § 1843"
-generated_at: "2026-03-29T21:30:59.710Z"
+generated_at: "2026-03-29T21:36:03.184Z"
 ---
 
 # § 1843. Exemption from taxation for income derived from sources within Commonwealth

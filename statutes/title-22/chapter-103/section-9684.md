@@ -3,9 +3,9 @@ title: "Section 9684 - Termination of Overseas Private Investment Corporation an
 usc_title: 22
 usc_section: "9684"
 chapter: 103
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 9684"
-generated_at: "2026-03-29T21:28:26.316Z"
+generated_at: "2026-03-29T21:34:13.051Z"
 ---
 
 # § 9684. Termination of Overseas Private Investment Corporation and other superceded authorities

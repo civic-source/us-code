@@ -3,9 +3,9 @@ title: "Section 771 - Definitions"
 usc_title: 31
 usc_section: "771"
 chapter: 7
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "31 U.S.C. § 771"
-generated_at: "2026-03-29T21:29:31.314Z"
+generated_at: "2026-03-29T21:34:46.077Z"
 ---
 
 # § 771. Definitions

@@ -3,9 +3,9 @@ title: "Section 2546 - Civilian management of the defense acquisition system"
 usc_title: 10
 usc_section: "2546"
 chapter: 149
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2546"
-generated_at: "2026-03-29T21:26:52.653Z"
+generated_at: "2026-03-29T21:33:09.211Z"
 ---
 
 # § 2546. Civilian management of the defense acquisition system

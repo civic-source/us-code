@@ -3,9 +3,9 @@ title: "Section 691 - Permanent end strength levels to support the National Defe
 usc_title: 10
 usc_section: "691"
 chapter: 39
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 691"
-generated_at: "2026-03-29T21:26:52.467Z"
+generated_at: "2026-03-29T21:33:08.987Z"
 ---
 
 # § 691. Permanent end strength levels to support the National Defense Strategy

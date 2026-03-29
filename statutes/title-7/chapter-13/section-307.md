@@ -3,9 +3,9 @@ title: "Section 307 - Fees for locating land scrip"
 usc_title: 7
 usc_section: "307"
 chapter: 13
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 307"
-generated_at: "2026-03-29T21:26:37.949Z"
+generated_at: "2026-03-29T21:32:52.921Z"
 ---
 
 # § 307. Fees for locating land scrip

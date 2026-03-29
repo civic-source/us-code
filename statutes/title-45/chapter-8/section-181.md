@@ -3,9 +3,9 @@ title: "Section 181 - Application of subchapter I to carriers by air"
 usc_title: 45
 usc_section: "181"
 chapter: 8
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "45 U.S.C. § 181"
-generated_at: "2026-03-29T21:30:07.037Z"
+generated_at: "2026-03-29T21:35:03.524Z"
 ---
 
 # § 181. Application of subchapter I to carriers by air

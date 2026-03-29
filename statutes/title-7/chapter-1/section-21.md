@@ -3,9 +3,9 @@ title: "Section 21 - Registered futures associations"
 usc_title: 7
 usc_section: "21"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 21"
-generated_at: "2026-03-29T21:26:37.875Z"
+generated_at: "2026-03-29T21:32:52.851Z"
 ---
 
 # § 21. Registered futures associations

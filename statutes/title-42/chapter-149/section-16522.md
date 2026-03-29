@@ -3,9 +3,9 @@ title: "Section 16522 - Low-volume gas reservoir study"
 usc_title: 42
 usc_section: "16522"
 chapter: 149
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 16522"
-generated_at: "2026-03-29T21:30:45.750Z"
+generated_at: "2026-03-29T21:35:47.735Z"
 ---
 
 # § 16522. Low-volume gas reservoir study

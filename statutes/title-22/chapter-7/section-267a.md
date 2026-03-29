@@ -3,9 +3,9 @@ title: "Section 267a - Appointment of delegates; compensation"
 usc_title: 22
 usc_section: "267a"
 chapter: 7
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 267a"
-generated_at: "2026-03-29T21:28:25.966Z"
+generated_at: "2026-03-29T21:34:12.638Z"
 ---
 
 # § 267a. Appointment of delegates; compensation

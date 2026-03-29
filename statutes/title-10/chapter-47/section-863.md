@@ -3,9 +3,9 @@ title: "Section 863 - Art. 63. Rehearings"
 usc_title: 10
 usc_section: "863"
 chapter: 47
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 863"
-generated_at: "2026-03-29T21:26:52.483Z"
+generated_at: "2026-03-29T21:33:09.003Z"
 ---
 
 # § 863. Art. 63. Rehearings

@@ -3,9 +3,9 @@ title: "Section 1282 - Assistance to State and local projects"
 usc_title: 16
 usc_section: "1282"
 chapter: 28
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 1282"
-generated_at: "2026-03-29T21:27:40.120Z"
+generated_at: "2026-03-29T21:33:47.502Z"
 ---
 
 # § 1282. Assistance to State and local projects

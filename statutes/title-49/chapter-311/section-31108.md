@@ -3,9 +3,9 @@ title: "Section 31108 - Motor carrier research and technology program"
 usc_title: 49
 usc_section: "31108"
 chapter: 311
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "49 U.S.C. § 31108"
-generated_at: "2026-03-29T21:30:56.261Z"
+generated_at: "2026-03-29T21:35:58.268Z"
 ---
 
 # § 31108. Motor carrier research and technology program

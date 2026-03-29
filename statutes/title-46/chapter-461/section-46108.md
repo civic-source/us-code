@@ -3,9 +3,9 @@ title: "Section 46108 - Authorization of appropriations"
 usc_title: 46
 usc_section: "46108"
 chapter: 461
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "46 U.S.C. § 46108"
-generated_at: "2026-03-29T21:31:27.554Z"
+generated_at: "2026-03-29T21:35:53.036Z"
 ---
 
 # § 46108. Authorization of appropriations

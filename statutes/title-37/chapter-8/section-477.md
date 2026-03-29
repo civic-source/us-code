@@ -3,9 +3,9 @@ title: "Section 477 - Travel and transportation allowances: dislocation allowanc
 usc_title: 37
 usc_section: "477"
 chapter: 8
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "37 U.S.C. § 477"
-generated_at: "2026-03-29T21:30:00.334Z"
+generated_at: "2026-03-29T21:34:52.597Z"
 ---
 
 # § 477. Travel and transportation allowances: dislocation allowance

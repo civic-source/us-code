@@ -3,9 +3,9 @@ title: "Section 3121 - Veterans’ Advisory Committee on Rehabilitation"
 usc_title: 38
 usc_section: "3121"
 chapter: 31
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "38 U.S.C. § 3121"
-generated_at: "2026-03-29T21:29:48.669Z"
+generated_at: "2026-03-29T21:34:55.952Z"
 ---
 
 # § 3121. Veterans’ Advisory Committee on Rehabilitation

@@ -3,9 +3,9 @@ title: "Section 8899 - Investigation before issue of certificate"
 usc_title: 10
 usc_section: "8899"
 chapter: 885
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 8899"
-generated_at: "2026-03-29T21:26:52.781Z"
+generated_at: "2026-03-29T21:33:09.366Z"
 ---
 
 # § 8899. Investigation before issue of certificate

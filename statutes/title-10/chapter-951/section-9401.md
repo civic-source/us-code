@@ -3,9 +3,9 @@ title: "Section 9401 - Members of Air Force and Space Force: detail as students,
 usc_title: 10
 usc_section: "9401"
 chapter: 951
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 9401"
-generated_at: "2026-03-29T21:26:52.789Z"
+generated_at: "2026-03-29T21:33:09.374Z"
 ---
 
 # § 9401. Members of Air Force and Space Force: detail as students, observers and investigators at educational institutions, industrial plants, and hospitals

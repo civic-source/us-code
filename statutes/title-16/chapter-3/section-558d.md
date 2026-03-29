@@ -3,9 +3,9 @@ title: "Section 558d - Authorization of appropriations"
 usc_title: 16
 usc_section: "558d"
 chapter: 3
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 558d"
-generated_at: "2026-03-29T21:27:39.961Z"
+generated_at: "2026-03-29T21:33:47.314Z"
 ---
 
 # § 558d. Authorization of appropriations

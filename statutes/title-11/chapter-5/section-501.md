@@ -3,9 +3,9 @@ title: "Section 501 - Filing of proofs of claims or interests"
 usc_title: 11
 usc_section: "501"
 chapter: 5
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "11 U.S.C. § 501"
-generated_at: "2026-03-29T21:26:56.774Z"
+generated_at: "2026-03-29T21:33:14.413Z"
 ---
 
 # § 501. Filing of proofs of claims or interests
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T21:26:56.774Z"
 - **(f)**
   - **(1)** In this subsection—
     - **(A)** the term “CARES forbearance claim” means a supplemental claim for the amount of a Federally backed mortgage loan or a Federally backed multifamily mortgage loan that was not received by an eligible creditor during the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act ( 15 U.S.C. 9056 , 9057);
-    - **(B)** the term “eligible creditor” means a servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 ( 12 U.S.C. 2605(i) ) with a claim for a Federally backed mortgage loan or a Federally backed multifamily mortgage loan of the debtor that is provided for by a plan under section 1322(b)(5);
+    - **(B)** the term “eligible creditor” means a servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 ( 12 U.S.C. 2605(i) ) 1 1 So in original. Probably should be followed by another closing parenthesis. with a claim for a Federally backed mortgage loan or a Federally backed multifamily mortgage loan of the debtor that is provided for by a plan under section 1322(b)(5);
     - **(C)** the term “Federally backed mortgage loan” has the meaning given the term in section 4022(a) of the CARES Act ( 15 U.S.C. 9056(a) ); and
     - **(D)** the term “Federally backed multifamily mortgage loan” has the meaning given the term in section 4023(f) of the CARES Act ( 15 U.S.C. 9057(f) ).
   - **(2)**

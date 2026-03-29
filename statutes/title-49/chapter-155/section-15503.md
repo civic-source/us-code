@@ -3,9 +3,9 @@ title: "Section 15503 - Authority and criteria: rates, classifications, rules, a
 usc_title: 49
 usc_section: "15503"
 chapter: 155
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "49 U.S.C. § 15503"
-generated_at: "2026-03-29T21:30:56.221Z"
+generated_at: "2026-03-29T21:35:58.237Z"
 ---
 
 # § 15503. Authority and criteria: rates, classifications, rules, and practices prescribed by Board

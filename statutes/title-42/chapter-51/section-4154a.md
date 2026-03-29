@@ -3,9 +3,9 @@ title: "Section 4154a - Standards for design, construction, and alteration of bu
 usc_title: 42
 usc_section: "4154a"
 chapter: 51
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 4154a"
-generated_at: "2026-03-29T21:30:45.182Z"
+generated_at: "2026-03-29T21:35:47.226Z"
 ---
 
 # § 4154a. Standards for design, construction, and alteration of buildings; United States Postal Service

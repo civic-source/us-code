@@ -3,9 +3,9 @@ title: "Section 6949 - Rural communities assistance"
 usc_title: 42
 usc_section: "6949"
 chapter: 82
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 6949"
-generated_at: "2026-03-29T21:30:45.327Z"
+generated_at: "2026-03-29T21:35:47.363Z"
 ---
 
 # § 6949. Rural communities assistance

@@ -3,9 +3,9 @@ title: "Section 530 - Bridges included and excluded"
 usc_title: 33
 usc_section: "530"
 chapter: 11
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "33 U.S.C. § 530"
-generated_at: "2026-03-29T21:29:34.558Z"
+generated_at: "2026-03-29T21:34:49.012Z"
 ---
 
 # § 530. Bridges included and excluded

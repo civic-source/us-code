@@ -3,9 +3,9 @@ title: "Section 3664 - Enforcement of orders"
 usc_title: 39
 usc_section: "3664"
 chapter: 36
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "39 U.S.C. § 3664"
-generated_at: "2026-03-29T21:29:45.612Z"
+generated_at: "2026-03-29T21:34:59.110Z"
 ---
 
 # § 3664. Enforcement of orders

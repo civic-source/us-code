@@ -3,9 +3,9 @@ title: "Section 8 - Reservation of right of alteration, amendment, or repeal; as
 usc_title: 43
 usc_section: "8"
 chapter: 22
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "43 U.S.C. § 8"
-generated_at: "2026-03-29T21:30:05.705Z"
+generated_at: "2026-03-29T21:35:10.741Z"
 ---
 
 # § 942–8. Reservation of right of alteration, amendment, or repeal; assignment of right of way

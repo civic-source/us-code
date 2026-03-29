@@ -3,9 +3,9 @@ title: "Section 292a - Scope and duration of loan insurance program"
 usc_title: 42
 usc_section: "292a"
 chapter: 6
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 292a"
-generated_at: "2026-03-29T21:30:44.320Z"
+generated_at: "2026-03-29T21:35:46.469Z"
 ---
 
 # § 292a. Scope and duration of loan insurance program

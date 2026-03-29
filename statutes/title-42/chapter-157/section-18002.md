@@ -3,9 +3,9 @@ title: "Section 18002 - Reinsurance for early retirees"
 usc_title: 42
 usc_section: "18002"
 chapter: 157
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 18002"
-generated_at: "2026-03-29T21:30:45.792Z"
+generated_at: "2026-03-29T21:35:47.772Z"
 ---
 
 # § 18002. Reinsurance for early retirees

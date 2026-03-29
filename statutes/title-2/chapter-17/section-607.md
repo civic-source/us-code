@@ -3,9 +3,9 @@ title: "Section 607 - Lump-sum payments for annual leave to separated employees"
 usc_title: 2
 usc_section: "607"
 chapter: 17
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "2 U.S.C. § 607"
-generated_at: "2026-03-29T21:26:11.495Z"
+generated_at: "2026-03-29T21:32:30.437Z"
 ---
 
 # § 607. Lump-sum payments for annual leave to separated employees

@@ -3,9 +3,9 @@ title: "Section 3531 - Return; several defendants; conviction of less offense; p
 usc_title: 18
 usc_section: "3531"
 chapter: 225
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "18 U.S.C. § 3531"
-generated_at: "2026-03-29T21:28:02.819Z"
+generated_at: "2026-03-29T21:33:51.368Z"
 ---
 
 # § 3531. Return; several defendants; conviction of less offense; poll of jury—(Rule)

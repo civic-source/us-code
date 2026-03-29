@@ -3,9 +3,9 @@ title: "Section 1411 - Prohibited acts"
 usc_title: 33
 usc_section: "1411"
 chapter: 27
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "33 U.S.C. § 1411"
-generated_at: "2026-03-29T21:29:34.644Z"
+generated_at: "2026-03-29T21:34:49.105Z"
 ---
 
 # § 1411. Prohibited acts

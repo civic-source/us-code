@@ -3,9 +3,9 @@ title: "Section 433f - Inconsistent laws repealed"
 usc_title: 16
 usc_section: "433f"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 433f"
-generated_at: "2026-03-29T21:27:39.815Z"
+generated_at: "2026-03-29T21:33:47.145Z"
 ---
 
 # § 433f. Inconsistent laws repealed

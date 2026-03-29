@@ -3,9 +3,9 @@ title: "Section 152 - Reports; records for public inspection"
 usc_title: 15
 usc_section: "152"
 chapter: 4
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "15 U.S.C. § 152"
-generated_at: "2026-03-29T21:27:15.142Z"
+generated_at: "2026-03-29T21:33:27.029Z"
 ---
 
 # § 152. Reports; records for public inspection

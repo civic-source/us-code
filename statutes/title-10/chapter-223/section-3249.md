@@ -3,9 +3,9 @@ title: "Section 3249 - Advocates for competition"
 usc_title: 10
 usc_section: "3249"
 chapter: 223
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 3249"
-generated_at: "2026-03-29T21:26:52.702Z"
+generated_at: "2026-03-29T21:33:09.272Z"
 ---
 
 # § 3249. Advocates for competition

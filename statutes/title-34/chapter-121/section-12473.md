@@ -3,9 +3,9 @@ title: "Section 12473 - Definitions"
 usc_title: 34
 usc_section: "12473"
 chapter: 121
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "34 U.S.C. § 12473"
-generated_at: "2026-03-29T21:29:32.772Z"
+generated_at: "2026-03-29T21:34:44.315Z"
 ---
 
 # § 12473. Definitions

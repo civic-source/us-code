@@ -3,9 +3,9 @@ title: "Section 2144 - Subsistence allowance"
 usc_title: 10
 usc_section: "2144"
 chapter: 106
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2144"
-generated_at: "2026-03-29T21:26:52.587Z"
+generated_at: "2026-03-29T21:33:09.130Z"
 ---
 
 # § 2144. Subsistence allowance

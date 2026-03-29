@@ -3,9 +3,9 @@ title: "Section 2192a - Science, Mathematics, and Research for Transformation (S
 usc_title: 10
 usc_section: "2192a"
 chapter: 111
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2192a"
-generated_at: "2026-03-29T21:26:52.591Z"
+generated_at: "2026-03-29T21:33:09.134Z"
 ---
 
 # § 2192a. Science, Mathematics, and Research for Transformation (SMART) Defense Education Program

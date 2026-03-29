@@ -3,9 +3,9 @@ title: "Section 3703 - Exceptions"
 usc_title: 10
 usc_section: "3703"
 chapter: 271
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 3703"
-generated_at: "2026-03-29T21:26:52.707Z"
+generated_at: "2026-03-29T21:33:09.279Z"
 ---
 
 # § 3703. Exceptions

@@ -3,9 +3,9 @@ title: "Section 5142 - Reduction of unpaid principal"
 usc_title: 25
 usc_section: "5142"
 chapter: 45
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "25 U.S.C. § 5142"
-generated_at: "2026-03-29T21:28:11.390Z"
+generated_at: "2026-03-29T21:34:01.902Z"
 ---
 
 # § 5142. Reduction of unpaid principal

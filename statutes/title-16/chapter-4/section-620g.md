@@ -3,9 +3,9 @@ title: "Section 620g - Authorization of appropriations"
 usc_title: 16
 usc_section: "620g"
 chapter: 4
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 620g"
-generated_at: "2026-03-29T21:27:39.984Z"
+generated_at: "2026-03-29T21:33:47.341Z"
 ---
 
 # § 620g. Authorization of appropriations

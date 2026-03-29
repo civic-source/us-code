@@ -3,9 +3,9 @@ title: "Section 1356 - Review and approval of plans and programs by Secretary"
 usc_title: 15
 usc_section: "1356"
 chapter: 37
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "15 U.S.C. § 1356"
-generated_at: "2026-03-29T21:27:15.285Z"
+generated_at: "2026-03-29T21:33:27.197Z"
 ---
 
 # § 1356. Review and approval of plans and programs by Secretary

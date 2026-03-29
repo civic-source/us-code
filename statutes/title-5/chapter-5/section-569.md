@@ -3,9 +3,9 @@ title: "Section 569 - Encouraging negotiated rulemaking"
 usc_title: 5
 usc_section: "569"
 chapter: 5
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "5 U.S.C. § 569"
-generated_at: "2026-03-29T21:26:08.376Z"
+generated_at: "2026-03-29T21:32:36.025Z"
 ---
 
 # § 569. Encouraging negotiated rulemaking

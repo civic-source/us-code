@@ -3,9 +3,9 @@ title: "Section 511d - Designation of markets; manner; inspection and related se
 usc_title: 7
 usc_section: "511d"
 chapter: 21
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 511d"
-generated_at: "2026-03-29T21:26:37.966Z"
+generated_at: "2026-03-29T21:32:52.935Z"
 ---
 
 # § 511d. Designation of markets; manner; inspection and related services; fees and charges

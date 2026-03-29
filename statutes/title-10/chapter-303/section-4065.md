@@ -3,9 +3,9 @@ title: "Section 4065 - Prizes for advanced technology achievements"
 usc_title: 10
 usc_section: "4065"
 chapter: 303
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 4065"
-generated_at: "2026-03-29T21:26:52.718Z"
+generated_at: "2026-03-29T21:33:09.291Z"
 ---
 
 # § 4065. Prizes for advanced technology achievements

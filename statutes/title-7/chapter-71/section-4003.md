@@ -3,9 +3,9 @@ title: "Section 4003 - Study of potential for expansion of United States agricul
 usc_title: 7
 usc_section: "4003"
 chapter: 71
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 4003"
-generated_at: "2026-03-29T21:26:38.232Z"
+generated_at: "2026-03-29T21:32:53.197Z"
 ---
 
 # § 4003. Study of potential for expansion of United States agricultural export markets; report to President and Congress

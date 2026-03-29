@@ -3,9 +3,9 @@ title: "Section 7303 - Funding of the Diplomatic Telecommunications Service"
 usc_title: 22
 usc_section: "7303"
 chapter: 80
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 7303"
-generated_at: "2026-03-29T21:28:26.245Z"
+generated_at: "2026-03-29T21:34:12.972Z"
 ---
 
 # § 7303. Funding of the Diplomatic Telecommunications Service

@@ -3,9 +3,9 @@ title: "Section 1447f - Authorization of appropriations"
 usc_title: 16
 usc_section: "1447f"
 chapter: 32
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 1447f"
-generated_at: "2026-03-29T21:27:40.146Z"
+generated_at: "2026-03-29T21:33:47.532Z"
 ---
 
 # § 1447f. Authorization of appropriations

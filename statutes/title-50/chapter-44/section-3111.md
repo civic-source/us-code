@@ -3,9 +3,9 @@ title: "Section 3111 - Briefings and notifications on counterintelligence activi
 usc_title: 50
 usc_section: "3111"
 chapter: 44
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "50 U.S.C. § 3111"
-generated_at: "2026-03-29T21:31:09.179Z"
+generated_at: "2026-03-29T21:36:05.750Z"
 ---
 
 # § 3111. Briefings and notifications on counterintelligence activities of the Federal Bureau of Investigation

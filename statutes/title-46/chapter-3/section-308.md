@@ -3,9 +3,9 @@ title: "Section 308 - Renumbered §§ 46101 to 46108]"
 usc_title: 46
 usc_section: "308"
 chapter: 3
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "46 U.S.C. § 308"
-generated_at: "2026-03-29T21:31:27.496Z"
+generated_at: "2026-03-29T21:35:52.992Z"
 ---
 
 # [§§ 301 to 308. Renumbered §§ 46101 to 46108]

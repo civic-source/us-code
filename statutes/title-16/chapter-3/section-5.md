@@ -3,9 +3,9 @@ title: "Section 5 - Stewardship credits for outfitters and guides"
 usc_title: 16
 usc_section: "5"
 chapter: 3
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-29T21:27:39.974Z"
+generated_at: "2026-03-29T21:33:47.330Z"
 ---
 
 # § 583k–5. Stewardship credits for outfitters and guides

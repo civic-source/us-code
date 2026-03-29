@@ -3,9 +3,9 @@ title: "Section 209 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 45
 usc_section: "209"
 chapter: 9
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "45 U.S.C. § 209"
-generated_at: "2026-03-29T21:30:07.037Z"
+generated_at: "2026-03-29T21:35:03.525Z"
 ---
 
 # § 209. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 649

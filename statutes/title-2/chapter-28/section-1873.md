@@ -3,9 +3,9 @@ title: "Section 1873 - Acceptance of travel expenses from non-Federal sources"
 usc_title: 2
 usc_section: "1873"
 chapter: 28
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "2 U.S.C. § 1873"
-generated_at: "2026-03-29T21:26:11.550Z"
+generated_at: "2026-03-29T21:32:30.489Z"
 ---
 
 # § 1873. Acceptance of travel expenses from non-Federal sources

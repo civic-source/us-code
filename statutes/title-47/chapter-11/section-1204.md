@@ -3,9 +3,9 @@ title: "Section 1204 - Grant program for remote community alert systems"
 usc_title: 47
 usc_section: "1204"
 chapter: 11
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "47 U.S.C. § 1204"
-generated_at: "2026-03-29T21:31:05.797Z"
+generated_at: "2026-03-29T21:36:07.069Z"
 ---
 
 # § 1204. Grant program for remote community alert systems

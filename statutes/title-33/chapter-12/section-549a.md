@@ -3,9 +3,9 @@ title: "Section 549a - Review of navigation, flood control, and water supply pro
 usc_title: 33
 usc_section: "549a"
 chapter: 12
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "33 U.S.C. § 549a"
-generated_at: "2026-03-29T21:29:34.560Z"
+generated_at: "2026-03-29T21:34:49.013Z"
 ---
 
 # § 549a. Review of navigation, flood control, and water supply projects

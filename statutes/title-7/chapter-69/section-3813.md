@@ -3,9 +3,9 @@ title: "Section 3813 - Authorization of appropriations"
 usc_title: 7
 usc_section: "3813"
 chapter: 69
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 3813"
-generated_at: "2026-03-29T21:26:38.232Z"
+generated_at: "2026-03-29T21:32:53.196Z"
 ---
 
 # § 3813. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 292b - Limitations on individual insured loans and on loan insur
 usc_title: 42
 usc_section: "292b"
 chapter: 6
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 292b"
-generated_at: "2026-03-29T21:30:44.321Z"
+generated_at: "2026-03-29T21:35:46.469Z"
 ---
 
 # § 292b. Limitations on individual insured loans and on loan insurance

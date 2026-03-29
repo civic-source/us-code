@@ -3,9 +3,9 @@ title: "Section 226 - Powers of Interstate Commerce Commission unaffected"
 usc_title: 7
 usc_section: "226"
 chapter: 9
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 226"
-generated_at: "2026-03-29T21:26:37.943Z"
+generated_at: "2026-03-29T21:32:52.915Z"
 ---
 
 # § 226. Powers of Interstate Commerce Commission unaffected

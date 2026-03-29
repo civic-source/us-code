@@ -3,9 +3,9 @@ title: "Section 273 - Training and advising civilian law enforcement officials"
 usc_title: 10
 usc_section: "273"
 chapter: 15
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 273"
-generated_at: "2026-03-29T21:26:52.432Z"
+generated_at: "2026-03-29T21:33:08.948Z"
 ---
 
 # § 273. Training and advising civilian law enforcement officials

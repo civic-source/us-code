@@ -3,9 +3,9 @@ title: "Section 809 - Temporary use by Government of project works for national 
 usc_title: 16
 usc_section: "809"
 chapter: 12
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 809"
-generated_at: "2026-03-29T21:27:40.034Z"
+generated_at: "2026-03-29T21:33:47.397Z"
 ---
 
 # § 809. Temporary use by Government of project works for national safety; compensation for use

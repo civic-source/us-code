@@ -3,9 +3,9 @@ title: "Section 5122 - Recordkeeping by retail dealers"
 usc_title: 26
 usc_section: "5122"
 chapter: 51
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 5122"
-generated_at: "2026-03-29T21:29:02.326Z"
+generated_at: "2026-03-29T21:34:40.001Z"
 ---
 
 # § 5122. Recordkeeping by retail dealers

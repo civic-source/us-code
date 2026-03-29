@@ -3,9 +3,9 @@ title: "Section 544 - Limitation as to holdings prior to final payment of charge
 usc_title: 43
 usc_section: "544"
 chapter: 12
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "43 U.S.C. § 544"
-generated_at: "2026-03-29T21:30:05.685Z"
+generated_at: "2026-03-29T21:35:10.715Z"
 ---
 
 # § 544. Limitation as to holdings prior to final payment of charges; forfeiture of excess holding

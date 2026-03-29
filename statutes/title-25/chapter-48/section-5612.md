@@ -3,9 +3,9 @@ title: "Section 5612 - Establishment of demonstration project; selection of part
 usc_title: 25
 usc_section: "5612"
 chapter: 48
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "25 U.S.C. § 5612"
-generated_at: "2026-03-29T21:28:11.408Z"
+generated_at: "2026-03-29T21:34:01.923Z"
 ---
 
 # § 5612. Establishment of demonstration project; selection of participating Indian tribes

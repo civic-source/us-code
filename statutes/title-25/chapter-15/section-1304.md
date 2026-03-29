@@ -3,9 +3,9 @@ title: "Section 1304 - Tribal jurisdiction over crimes of domestic violence"
 usc_title: 25
 usc_section: "1304"
 chapter: 15
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "25 U.S.C. § 1304"
-generated_at: "2026-03-29T21:28:11.283Z"
+generated_at: "2026-03-29T21:34:01.774Z"
 ---
 
 # § 1304. Tribal jurisdiction over crimes of domestic violence

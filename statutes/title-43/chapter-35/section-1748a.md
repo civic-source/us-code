@@ -3,9 +3,9 @@ title: "Section 1748a - FLAME Wildfire Suppression Reserve Funds"
 usc_title: 43
 usc_section: "1748a"
 chapter: 35
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "43 U.S.C. § 1748a"
-generated_at: "2026-03-29T21:30:05.765Z"
+generated_at: "2026-03-29T21:35:10.798Z"
 ---
 
 # § 1748a. FLAME Wildfire Suppression Reserve Funds

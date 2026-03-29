@@ -3,9 +3,9 @@ title: "Section 10701 - Enforcement of twenty-sixth amendment"
 usc_title: 52
 usc_section: "10701"
 chapter: 107
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "52 U.S.C. § 10701"
-generated_at: "2026-03-29T21:31:42.498Z"
+generated_at: "2026-03-29T21:36:09.223Z"
 ---
 
 # § 10701. Enforcement of twenty-sixth amendment

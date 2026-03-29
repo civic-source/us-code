@@ -3,9 +3,9 @@ title: "Section 1491 - Funeral honors functions at funerals for veterans"
 usc_title: 10
 usc_section: "1491"
 chapter: 75
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 1491"
-generated_at: "2026-03-29T21:26:52.557Z"
+generated_at: "2026-03-29T21:33:09.095Z"
 ---
 
 # § 1491. Funeral honors functions at funerals for veterans

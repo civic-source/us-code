@@ -3,9 +3,9 @@ title: "Section 7448 - Cadets: agreement to serve as officer"
 usc_title: 10
 usc_section: "7448"
 chapter: 753
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 7448"
-generated_at: "2026-03-29T21:26:52.749Z"
+generated_at: "2026-03-29T21:33:09.332Z"
 ---
 
 # § 7448. Cadets: agreement to serve as officer

@@ -3,9 +3,9 @@ title: "Section 147 - Disposition of proceeds of sale of withdrawn lands"
 usc_title: 43
 usc_section: "147"
 chapter: 6
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "43 U.S.C. § 147"
-generated_at: "2026-03-29T21:30:05.657Z"
+generated_at: "2026-03-29T21:35:10.674Z"
 ---
 
 # § 147. Disposition of proceeds of sale of withdrawn lands

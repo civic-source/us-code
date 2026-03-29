@@ -3,9 +3,9 @@ title: "Section 77m - Limitation of actions"
 usc_title: 15
 usc_section: "77m"
 chapter: 2
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "15 U.S.C. § 77m"
-generated_at: "2026-03-29T21:27:15.043Z"
+generated_at: "2026-03-29T21:33:26.908Z"
 ---
 
 # § 77m. Limitation of actions

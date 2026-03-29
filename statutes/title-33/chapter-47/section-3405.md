@@ -3,9 +3,9 @@ title: "Section 3405 - Ocean Exploration Advisory Board"
 usc_title: 33
 usc_section: "3405"
 chapter: 47
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "33 U.S.C. § 3405"
-generated_at: "2026-03-29T21:29:34.720Z"
+generated_at: "2026-03-29T21:34:49.185Z"
 ---
 
 # § 3405. Ocean Exploration Advisory Board

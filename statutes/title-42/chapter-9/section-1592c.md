@@ -3,9 +3,9 @@ title: "Section 1592c - Loans or grants for community facilities or services; co
 usc_title: 42
 usc_section: "1592c"
 chapter: 9
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 1592c"
-generated_at: "2026-03-29T21:30:44.969Z"
+generated_at: "2026-03-29T21:35:47.064Z"
 ---
 
 # § 1592c. Loans or grants for community facilities or services; conditions; maximum amounts; annual adjustments

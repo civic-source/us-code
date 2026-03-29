@@ -3,9 +3,9 @@ title: "Section 14 - Sale, etc., on agreement not to use goods of competitor"
 usc_title: 15
 usc_section: "14"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "15 U.S.C. § 14"
-generated_at: "2026-03-29T21:27:15.016Z"
+generated_at: "2026-03-29T21:33:26.876Z"
 ---
 
 # § 14. Sale, etc., on agreement not to use goods of competitor

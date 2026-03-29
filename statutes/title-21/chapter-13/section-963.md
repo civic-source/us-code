@@ -3,9 +3,9 @@ title: "Section 963 - Attempt and conspiracy"
 usc_title: 21
 usc_section: "963"
 chapter: 13
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "21 U.S.C. § 963"
-generated_at: "2026-03-29T21:28:37.046Z"
+generated_at: "2026-03-29T21:34:05.804Z"
 ---
 
 # § 963. Attempt and conspiracy

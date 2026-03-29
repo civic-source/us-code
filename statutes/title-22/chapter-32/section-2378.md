@@ -3,9 +3,9 @@ title: "Section 2378 - Prohibition on assistance to countries that provide milit
 usc_title: 22
 usc_section: "2378"
 chapter: 32
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 2378"
-generated_at: "2026-03-29T21:28:26.076Z"
+generated_at: "2026-03-29T21:34:12.774Z"
 ---
 
 # § 2378. Prohibition on assistance to countries that provide military equipment to terrorist states

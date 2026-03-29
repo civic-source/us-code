@@ -3,9 +3,9 @@ title: "Section 9021 - Space Force Acquisition Council"
 usc_title: 10
 usc_section: "9021"
 chapter: 903
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 9021"
-generated_at: "2026-03-29T21:26:52.784Z"
+generated_at: "2026-03-29T21:33:09.369Z"
 ---
 
 # § 9021. Space Force Acquisition Council

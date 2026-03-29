@@ -3,9 +3,9 @@ title: "Section 1606 - Defense Intelligence Senior Executive Service"
 usc_title: 10
 usc_section: "1606"
 chapter: 83
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 1606"
-generated_at: "2026-03-29T21:26:52.570Z"
+generated_at: "2026-03-29T21:33:09.111Z"
 ---
 
 # § 1606. Defense Intelligence Senior Executive Service

@@ -3,9 +3,9 @@ title: "Section 1701 - Obstruction of mails generally"
 usc_title: 18
 usc_section: "1701"
 chapter: 83
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "18 U.S.C. § 1701"
-generated_at: "2026-03-29T21:28:02.750Z"
+generated_at: "2026-03-29T21:33:51.294Z"
 ---
 
 # § 1701. Obstruction of mails generally

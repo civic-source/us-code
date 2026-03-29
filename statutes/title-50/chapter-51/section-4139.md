@@ -3,9 +3,9 @@ title: "Section 4139 - Certification of awards"
 usc_title: 50
 usc_section: "4139"
 chapter: 51
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "50 U.S.C. § 4139"
-generated_at: "2026-03-29T21:31:09.230Z"
+generated_at: "2026-03-29T21:36:05.808Z"
 ---
 
 # § 4139. Certification of awards

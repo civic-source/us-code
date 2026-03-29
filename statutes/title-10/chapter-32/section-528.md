@@ -3,9 +3,9 @@ title: "Section 528 - Officers serving in certain intelligence positions: milita
 usc_title: 10
 usc_section: "528"
 chapter: 32
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 528"
-generated_at: "2026-03-29T21:26:52.456Z"
+generated_at: "2026-03-29T21:33:08.973Z"
 ---
 
 # § 528. Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances

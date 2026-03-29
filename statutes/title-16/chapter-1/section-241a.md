@@ -3,9 +3,9 @@ title: "Section 241a - Extension of boundaries"
 usc_title: 16
 usc_section: "241a"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 241a"
-generated_at: "2026-03-29T21:27:39.714Z"
+generated_at: "2026-03-29T21:33:47.029Z"
 ---
 
 # § 241a. Extension of boundaries

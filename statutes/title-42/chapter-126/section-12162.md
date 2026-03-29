@@ -3,9 +3,9 @@ title: "Section 12162 - Intercity and commuter rail actions considered discrimin
 usc_title: 42
 usc_section: "12162"
 chapter: 126
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 12162"
-generated_at: "2026-03-29T21:30:45.596Z"
+generated_at: "2026-03-29T21:35:47.605Z"
 ---
 
 # § 12162. Intercity and commuter rail actions considered discriminatory

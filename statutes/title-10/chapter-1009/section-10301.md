@@ -3,9 +3,9 @@ title: "Section 10301 - Reserve Forces Policy Board"
 usc_title: 10
 usc_section: "10301"
 chapter: 1009
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 10301"
-generated_at: "2026-03-29T21:26:52.803Z"
+generated_at: "2026-03-29T21:33:09.387Z"
 ---
 
 # § 10301. Reserve Forces Policy Board

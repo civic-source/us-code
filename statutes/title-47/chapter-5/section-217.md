@@ -3,9 +3,9 @@ title: "Section 217 - Agents’ acts and omissions; liability of carrier"
 usc_title: 47
 usc_section: "217"
 chapter: 5
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "47 U.S.C. § 217"
-generated_at: "2026-03-29T21:31:05.707Z"
+generated_at: "2026-03-29T21:36:06.995Z"
 ---
 
 # § 217. Agents’ acts and omissions; liability of carrier

@@ -3,9 +3,9 @@ title: "Section 2891 - Requirements relating to contracts for provision of housi
 usc_title: 10
 usc_section: "2891"
 chapter: 169
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2891"
-generated_at: "2026-03-29T21:26:52.687Z"
+generated_at: "2026-03-29T21:33:09.255Z"
 ---
 
 # § 2891. Requirements relating to contracts for provision of housing units

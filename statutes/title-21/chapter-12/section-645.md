@@ -3,9 +3,9 @@ title: "Section 645 - Federal provisions applicable to State or Territorial busi
 usc_title: 21
 usc_section: "645"
 chapter: 12
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "21 U.S.C. § 645"
-generated_at: "2026-03-29T21:28:37.017Z"
+generated_at: "2026-03-29T21:34:05.774Z"
 ---
 
 # § 645. Federal provisions applicable to State or Territorial business transactions of a local nature and not subject to local authority

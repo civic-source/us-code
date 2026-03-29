@@ -3,9 +3,9 @@ title: "Section 4372 - Collection of information on evasion of trade remedy laws
 usc_title: 19
 usc_section: "4372"
 chapter: 28
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "19 U.S.C. § 4372"
-generated_at: "2026-03-29T21:27:29.288Z"
+generated_at: "2026-03-29T21:33:54.738Z"
 ---
 
 # § 4372. Collection of information on evasion of trade remedy laws

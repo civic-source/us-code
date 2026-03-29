@@ -3,9 +3,9 @@ title: "Section 2107 - Financial assistance program for specially selected membe
 usc_title: 10
 usc_section: "2107"
 chapter: 103
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2107"
-generated_at: "2026-03-29T21:26:52.582Z"
+generated_at: "2026-03-29T21:33:09.124Z"
 ---
 
 # § 2107. Financial assistance program for specially selected members

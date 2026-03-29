@@ -3,9 +3,9 @@ title: "Section 1865 - Transferred"
 usc_title: 20
 usc_section: "1865"
 chapter: 40
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "20 U.S.C. § 1865"
-generated_at: "2026-03-29T21:27:24.607Z"
+generated_at: "2026-03-29T21:33:39.249Z"
 ---
 
 # § 1865. Transferred

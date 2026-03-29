@@ -3,9 +3,9 @@ title: "Section 14005 - Competitive categories"
 usc_title: 10
 usc_section: "14005"
 chapter: 1401
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 14005"
-generated_at: "2026-03-29T21:26:52.815Z"
+generated_at: "2026-03-29T21:33:09.401Z"
 ---
 
 # § 14005. Competitive categories

@@ -3,9 +3,9 @@ title: "Section 437h - Transferred"
 usc_title: 2
 usc_section: "437h"
 chapter: 14
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "2 U.S.C. § 437h"
-generated_at: "2026-03-29T21:26:11.490Z"
+generated_at: "2026-03-29T21:32:30.431Z"
 ---
 
 # § 437h. Transferred

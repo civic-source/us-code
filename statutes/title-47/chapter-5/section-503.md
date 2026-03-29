@@ -3,9 +3,9 @@ title: "Section 503 - Forfeitures"
 usc_title: 47
 usc_section: "503"
 chapter: 5
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "47 U.S.C. § 503"
-generated_at: "2026-03-29T21:31:05.758Z"
+generated_at: "2026-03-29T21:36:07.037Z"
 ---
 
 # § 503. Forfeitures

@@ -3,9 +3,9 @@ title: "Section 410tt - Findings"
 usc_title: 16
 usc_section: "410tt"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 410tt"
-generated_at: "2026-03-29T21:27:39.762Z"
+generated_at: "2026-03-29T21:33:47.085Z"
 ---
 
 # § 410tt. Findings

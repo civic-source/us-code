@@ -3,9 +3,9 @@ title: "Section 9753 - Countering Russian influence in Venezuela"
 usc_title: 22
 usc_section: "9753"
 chapter: 104
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 9753"
-generated_at: "2026-03-29T21:28:26.319Z"
+generated_at: "2026-03-29T21:34:13.053Z"
 ---
 
 # § 9753. Countering Russian influence in Venezuela

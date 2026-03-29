@@ -3,9 +3,9 @@ title: "Section 11276 - Consolidated review of applications"
 usc_title: 34
 usc_section: "11276"
 chapter: 111
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "34 U.S.C. § 11276"
-generated_at: "2026-03-29T21:29:32.756Z"
+generated_at: "2026-03-29T21:34:44.297Z"
 ---
 
 # § 11276. Consolidated review of applications

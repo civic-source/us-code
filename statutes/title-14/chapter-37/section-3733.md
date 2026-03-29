@@ -3,9 +3,9 @@ title: "Section 3733 - Suspension of this subchapter in time of war or national 
 usc_title: 14
 usc_section: "3733"
 chapter: 37
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "14 U.S.C. § 3733"
-generated_at: "2026-03-29T21:26:58.457Z"
+generated_at: "2026-03-29T21:33:13.531Z"
 ---
 
 # § 3733. Suspension of this subchapter in time of war or national emergency

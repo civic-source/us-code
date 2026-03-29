@@ -3,9 +3,9 @@ title: "Section 12855 - Regulations"
 usc_title: 42
 usc_section: "12855"
 chapter: 130
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 12855"
-generated_at: "2026-03-29T21:30:45.648Z"
+generated_at: "2026-03-29T21:35:47.650Z"
 ---
 
 # § 12855. Regulations

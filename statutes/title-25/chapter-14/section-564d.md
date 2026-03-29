@@ -3,9 +3,9 @@ title: "Section 564d - Omitted"
 usc_title: 25
 usc_section: "564d"
 chapter: 14
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "25 U.S.C. § 564d"
-generated_at: "2026-03-29T21:28:11.277Z"
+generated_at: "2026-03-29T21:34:01.763Z"
 ---
 
 # § 564d. Omitted

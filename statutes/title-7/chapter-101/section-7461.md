@@ -3,9 +3,9 @@ title: "Section 7461 - Findings and purposes"
 usc_title: 7
 usc_section: "7461"
 chapter: 101
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 7461"
-generated_at: "2026-03-29T21:26:38.329Z"
+generated_at: "2026-03-29T21:32:53.298Z"
 ---
 
 # § 7461. Findings and purposes

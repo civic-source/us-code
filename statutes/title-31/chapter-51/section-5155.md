@@ -3,9 +3,9 @@ title: "Section 5155 - Providing engraved plates of portraits of deceased member
 usc_title: 31
 usc_section: "5155"
 chapter: 51
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "31 U.S.C. § 5155"
-generated_at: "2026-03-29T21:29:31.356Z"
+generated_at: "2026-03-29T21:34:46.128Z"
 ---
 
 # § 5155. Providing engraved plates of portraits of deceased members of Congress

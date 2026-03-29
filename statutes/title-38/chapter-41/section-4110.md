@@ -3,9 +3,9 @@ title: "Section 4110 - Advisory Committee on Veterans Employment, Training, and 
 usc_title: 38
 usc_section: "4110"
 chapter: 41
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "38 U.S.C. § 4110"
-generated_at: "2026-03-29T21:29:48.700Z"
+generated_at: "2026-03-29T21:34:55.984Z"
 ---
 
 # § 4110. Advisory Committee on Veterans Employment, Training, and Employer Outreach

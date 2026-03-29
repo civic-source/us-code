@@ -3,9 +3,9 @@ title: "Section 298 - Reductions in compensation level"
 usc_title: 2
 usc_section: "298"
 chapter: 10
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "2 U.S.C. § 298"
-generated_at: "2026-03-29T21:26:11.485Z"
+generated_at: "2026-03-29T21:32:30.428Z"
 ---
 
 # § 298. Reductions in compensation level

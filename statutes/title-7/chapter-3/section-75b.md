@@ -3,9 +3,9 @@ title: "Section 75b - Omitted"
 usc_title: 7
 usc_section: "75b"
 chapter: 3
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 75b"
-generated_at: "2026-03-29T21:26:37.882Z"
+generated_at: "2026-03-29T21:32:52.859Z"
 ---
 
 # § 75b. Omitted

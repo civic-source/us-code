@@ -3,9 +3,9 @@ title: "Section 508 - Transportation requests of Government"
 usc_title: 18
 usc_section: "508"
 chapter: 25
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "18 U.S.C. § 508"
-generated_at: "2026-03-29T21:28:02.698Z"
+generated_at: "2026-03-29T21:33:51.241Z"
 ---
 
 # § 508. Transportation requests of Government

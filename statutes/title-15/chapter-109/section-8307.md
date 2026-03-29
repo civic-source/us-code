@@ -3,9 +3,9 @@ title: "Section 8307 - Studies"
 usc_title: 15
 usc_section: "8307"
 chapter: 109
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "15 U.S.C. § 8307"
-generated_at: "2026-03-29T21:27:15.512Z"
+generated_at: "2026-03-29T21:33:27.461Z"
 ---
 
 # § 8307. Studies

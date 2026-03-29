@@ -3,9 +3,9 @@ title: "Section 16135 - Outreach and incentives"
 usc_title: 42
 usc_section: "16135"
 chapter: 149
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 16135"
-generated_at: "2026-03-29T21:30:45.719Z"
+generated_at: "2026-03-29T21:35:47.709Z"
 ---
 
 # § 16135. Outreach and incentives

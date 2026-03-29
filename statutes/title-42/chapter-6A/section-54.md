@@ -3,9 +3,9 @@ title: "Section 54 - Coverage of dependent students on medically necessary leave
 usc_title: 42
 usc_section: "54"
 chapter: 6
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 54"
-generated_at: "2026-03-29T21:30:44.451Z"
+generated_at: "2026-03-29T21:35:46.609Z"
 ---
 
 # § 300gg–54. Coverage of dependent students on medically necessary leave of absence

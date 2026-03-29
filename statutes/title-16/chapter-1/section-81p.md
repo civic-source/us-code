@@ -3,9 +3,9 @@ title: "Section 81p - Property transfers"
 usc_title: 16
 usc_section: "81p"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 81p"
-generated_at: "2026-03-29T21:27:39.692Z"
+generated_at: "2026-03-29T21:33:47.003Z"
 ---
 
 # § 81p. Property transfers

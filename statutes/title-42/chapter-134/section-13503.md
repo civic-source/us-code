@@ -3,9 +3,9 @@ title: "Section 13503 - Supporting research and technical analysis"
 usc_title: 42
 usc_section: "13503"
 chapter: 134
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 13503"
-generated_at: "2026-03-29T21:30:45.676Z"
+generated_at: "2026-03-29T21:35:47.671Z"
 ---
 
 # § 13503. Supporting research and technical analysis
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T21:30:45.676Z"
       - **(i)** The term “eligible jurisdiction” means a State that is determined to be eligible for a grant under this paragraph in accordance with subparagraph (D).
       - **(ii)** The term “EPSCoR” means the Established Program to Stimulate Competitive Research operated under subparagraph (B).
       - **(iii)** The term “National Laboratory” has the meaning given the term in section 15801 of this title .
-      - **(iv)** The term ‘State’ means—
+      - **(iv)** The term “State” means—
         - **(I)** a State;
         - **(II)** the District of Columbia;
         - **(III)** the Commonwealth of Puerto Rico;

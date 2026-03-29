@@ -3,9 +3,9 @@ title: "Section 531 - Definitions"
 usc_title: 16
 usc_section: "531"
 chapter: 2
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 531"
-generated_at: "2026-03-29T21:27:39.935Z"
+generated_at: "2026-03-29T21:33:47.283Z"
 ---
 
 # § 531. Definitions

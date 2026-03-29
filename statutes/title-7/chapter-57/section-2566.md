@@ -3,9 +3,9 @@ title: "Section 2566 - Time limitation on damages"
 usc_title: 7
 usc_section: "2566"
 chapter: 57
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 2566"
-generated_at: "2026-03-29T21:26:38.194Z"
+generated_at: "2026-03-29T21:32:53.158Z"
 ---
 
 # § 2566. Time limitation on damages

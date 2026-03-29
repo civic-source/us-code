@@ -3,9 +3,9 @@ title: "Section 27a - Exclusion of identified banking product"
 usc_title: 7
 usc_section: "27a"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 27a"
-generated_at: "2026-03-29T21:26:37.880Z"
+generated_at: "2026-03-29T21:32:52.857Z"
 ---
 
 # § 27a. Exclusion of identified banking product

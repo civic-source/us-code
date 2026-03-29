@@ -3,9 +3,9 @@ title: "Section 8511 - National and State emergency conservation targets"
 usc_title: 42
 usc_section: "8511"
 chapter: 93
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 8511"
-generated_at: "2026-03-29T21:30:45.454Z"
+generated_at: "2026-03-29T21:35:47.479Z"
 ---
 
 # § 8511. National and State emergency conservation targets

@@ -3,9 +3,9 @@ title: "Section 428i - Protection of monuments, etc."
 usc_title: 16
 usc_section: "428i"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 428i"
-generated_at: "2026-03-29T21:27:39.804Z"
+generated_at: "2026-03-29T21:33:47.135Z"
 ---
 
 # § 428i. Protection of monuments, etc.

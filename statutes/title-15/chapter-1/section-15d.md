@@ -3,9 +3,9 @@ title: "Section 15d - Measurement of damages"
 usc_title: 15
 usc_section: "15d"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "15 U.S.C. § 15d"
-generated_at: "2026-03-29T21:27:15.017Z"
+generated_at: "2026-03-29T21:33:26.877Z"
 ---
 
 # § 15d. Measurement of damages

@@ -3,9 +3,9 @@ title: "Section 9712 - Disposition of effects of deceased persons by summary cou
 usc_title: 10
 usc_section: "9712"
 chapter: 975
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 9712"
-generated_at: "2026-03-29T21:26:52.796Z"
+generated_at: "2026-03-29T21:33:09.381Z"
 ---
 
 # § 9712. Disposition of effects of deceased persons by summary court-martial

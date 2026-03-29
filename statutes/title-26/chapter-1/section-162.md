@@ -3,9 +3,9 @@ title: "Section 162 - Trade or business expenses"
 usc_title: 26
 usc_section: "162"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 162"
-generated_at: "2026-03-29T21:29:01.958Z"
+generated_at: "2026-03-29T21:34:39.605Z"
 ---
 
 # § 162. Trade or business expenses

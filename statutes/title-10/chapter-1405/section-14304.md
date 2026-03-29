@@ -3,9 +3,9 @@ title: "Section 14304 - Eligibility for consideration for promotion: maximum yea
 usc_title: 10
 usc_section: "14304"
 chapter: 1405
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 14304"
-generated_at: "2026-03-29T21:26:52.817Z"
+generated_at: "2026-03-29T21:33:09.403Z"
 ---
 
 # § 14304. Eligibility for consideration for promotion: maximum years of service in grade

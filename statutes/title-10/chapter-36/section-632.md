@@ -3,9 +3,9 @@ title: "Section 632 - Effect of failure of selection for promotion: captains and
 usc_title: 10
 usc_section: "632"
 chapter: 36
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 632"
-generated_at: "2026-03-29T21:26:52.463Z"
+generated_at: "2026-03-29T21:33:08.981Z"
 ---
 
 # § 632. Effect of failure of selection for promotion: captains and majors of the Army, Air Force, and Marine Corps and lieutenants and lieutenant commanders of the Navy

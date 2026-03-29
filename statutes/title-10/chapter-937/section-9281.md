@@ -3,9 +3,9 @@ title: "Section 9281 - Service medals: issue; replacement; availability of appro
 usc_title: 10
 usc_section: "9281"
 chapter: 937
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 9281"
-generated_at: "2026-03-29T21:26:52.788Z"
+generated_at: "2026-03-29T21:33:09.373Z"
 ---
 
 # § 9281. Service medals: issue; replacement; availability of appropriations

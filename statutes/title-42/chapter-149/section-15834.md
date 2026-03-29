@@ -3,9 +3,9 @@ title: "Section 15834 - Report on failure to comply with deadlines for new or re
 usc_title: 42
 usc_section: "15834"
 chapter: 149
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 15834"
-generated_at: "2026-03-29T21:30:45.703Z"
+generated_at: "2026-03-29T21:35:47.695Z"
 ---
 
 # § 15834. Report on failure to comply with deadlines for new or revised energy conservation standards

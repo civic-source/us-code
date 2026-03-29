@@ -3,9 +3,9 @@ title: "Section 80r - Findings"
 usc_title: 20
 usc_section: "80r"
 chapter: 3
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "20 U.S.C. § 80r"
-generated_at: "2026-03-29T21:27:24.424Z"
+generated_at: "2026-03-29T21:33:39.008Z"
 ---
 
 # § 80r. Findings

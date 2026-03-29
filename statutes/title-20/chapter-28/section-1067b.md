@@ -3,9 +3,9 @@ title: "Section 1067b - Grant recipient selection"
 usc_title: 20
 usc_section: "1067b"
 chapter: 28
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "20 U.S.C. § 1067b"
-generated_at: "2026-03-29T21:27:24.467Z"
+generated_at: "2026-03-29T21:33:39.064Z"
 ---
 
 # § 1067b. Grant recipient selection

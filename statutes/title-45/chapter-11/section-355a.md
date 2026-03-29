@@ -3,9 +3,9 @@ title: "Section 355a - Acceptance of claims for benefits"
 usc_title: 45
 usc_section: "355a"
 chapter: 11
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "45 U.S.C. § 355a"
-generated_at: "2026-03-29T21:30:07.049Z"
+generated_at: "2026-03-29T21:35:03.542Z"
 ---
 
 # § 355a. Acceptance of claims for benefits

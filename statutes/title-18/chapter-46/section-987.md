@@ -3,9 +3,9 @@ title: "Section 987 - Anti-terrorist forfeiture protection"
 usc_title: 18
 usc_section: "987"
 chapter: 46
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "18 U.S.C. § 987"
-generated_at: "2026-03-29T21:28:02.727Z"
+generated_at: "2026-03-29T21:33:51.270Z"
 ---
 
 # § 987. Anti-terrorist forfeiture protection

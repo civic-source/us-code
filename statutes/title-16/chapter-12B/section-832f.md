@@ -3,9 +3,9 @@ title: "Section 832f - Elements in determining rates"
 usc_title: 16
 usc_section: "832f"
 chapter: 12
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 832f"
-generated_at: "2026-03-29T21:27:40.062Z"
+generated_at: "2026-03-29T21:33:47.426Z"
 ---
 
 # § 832f. Elements in determining rates

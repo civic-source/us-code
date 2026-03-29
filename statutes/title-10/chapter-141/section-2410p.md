@@ -3,9 +3,9 @@ title: "Section 2410p - Contracts: limitations on lead system integrators"
 usc_title: 10
 usc_section: "2410p"
 chapter: 141
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2410p"
-generated_at: "2026-03-29T21:26:52.634Z"
+generated_at: "2026-03-29T21:33:09.188Z"
 ---
 
 # § 2410p. Contracts: limitations on lead system integrators

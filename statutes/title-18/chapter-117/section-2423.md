@@ -3,9 +3,9 @@ title: "Section 2423 - Transportation of minors"
 usc_title: 18
 usc_section: "2423"
 chapter: 117
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "18 U.S.C. § 2423"
-generated_at: "2026-03-29T21:28:02.789Z"
+generated_at: "2026-03-29T21:33:51.336Z"
 ---
 
 # § 2423. Transportation of minors

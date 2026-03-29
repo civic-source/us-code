@@ -3,9 +3,9 @@ title: "Section 390b - Competitive grant program"
 usc_title: 7
 usc_section: "390b"
 chapter: 14
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 390b"
-generated_at: "2026-03-29T21:26:37.954Z"
+generated_at: "2026-03-29T21:32:52.926Z"
 ---
 
 # § 390b. Competitive grant program

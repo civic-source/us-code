@@ -3,9 +3,9 @@ title: "Section 1395p - Enrollment periods"
 usc_title: 42
 usc_section: "1395p"
 chapter: 7
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 1395p"
-generated_at: "2026-03-29T21:30:44.680Z"
+generated_at: "2026-03-29T21:35:46.829Z"
 ---
 
 # § 1395p. Enrollment periods

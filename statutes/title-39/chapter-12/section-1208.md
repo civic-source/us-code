@@ -3,9 +3,9 @@ title: "Section 1208 - Suits"
 usc_title: 39
 usc_section: "1208"
 chapter: 12
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "39 U.S.C. § 1208"
-generated_at: "2026-03-29T21:29:45.603Z"
+generated_at: "2026-03-29T21:34:59.099Z"
 ---
 
 # § 1208. Suits

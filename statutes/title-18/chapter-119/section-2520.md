@@ -3,9 +3,9 @@ title: "Section 2520 - Recovery of civil damages authorized"
 usc_title: 18
 usc_section: "2520"
 chapter: 119
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "18 U.S.C. § 2520"
-generated_at: "2026-03-29T21:28:02.792Z"
+generated_at: "2026-03-29T21:33:51.339Z"
 ---
 
 # § 2520. Recovery of civil damages authorized

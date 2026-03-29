@@ -3,9 +3,9 @@ title: "Section 5372 - Administrative law judges"
 usc_title: 5
 usc_section: "5372"
 chapter: 53
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "5 U.S.C. § 5372"
-generated_at: "2026-03-29T21:26:08.432Z"
+generated_at: "2026-03-29T21:32:36.073Z"
 ---
 
 # § 5372. Administrative law judges

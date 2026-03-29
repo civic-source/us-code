@@ -3,9 +3,9 @@ title: "Section 389d - Rules and regulations"
 usc_title: 25
 usc_section: "389d"
 chapter: 11
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "25 U.S.C. § 389d"
-generated_at: "2026-03-29T21:28:11.269Z"
+generated_at: "2026-03-29T21:34:01.753Z"
 ---
 
 # § 389d. Rules and regulations

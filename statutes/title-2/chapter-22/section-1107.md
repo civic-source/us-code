@@ -3,9 +3,9 @@ title: "Section 1107 - Executive Director of Center"
 usc_title: 2
 usc_section: "1107"
 chapter: 22
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "2 U.S.C. § 1107"
-generated_at: "2026-03-29T21:26:11.521Z"
+generated_at: "2026-03-29T21:32:30.461Z"
 ---
 
 # § 1107. Executive Director of Center

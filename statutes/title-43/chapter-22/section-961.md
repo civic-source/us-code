@@ -3,9 +3,9 @@ title: "Section 961 - Rights-of-way for power and communications facilities"
 usc_title: 43
 usc_section: "961"
 chapter: 22
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "43 U.S.C. § 961"
-generated_at: "2026-03-29T21:30:05.706Z"
+generated_at: "2026-03-29T21:35:10.742Z"
 ---
 
 # § 961. 1 1 There is no section 960 in this title. Rights-of-way for power and communications facilities

@@ -3,9 +3,9 @@ title: "Section 7173 - Initiation of rulemaking procedures before Commission"
 usc_title: 42
 usc_section: "7173"
 chapter: 84
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 7173"
-generated_at: "2026-03-29T21:30:45.342Z"
+generated_at: "2026-03-29T21:35:47.376Z"
 ---
 
 # § 7173. Initiation of rulemaking procedures before Commission

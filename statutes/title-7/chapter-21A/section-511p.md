@@ -3,9 +3,9 @@ title: "Section 511p - Delegation of duties by Secretary of Agriculture"
 usc_title: 7
 usc_section: "511p"
 chapter: 21
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 511p"
-generated_at: "2026-03-29T21:26:37.967Z"
+generated_at: "2026-03-29T21:32:52.936Z"
 ---
 
 # § 511p. Delegation of duties by Secretary of Agriculture

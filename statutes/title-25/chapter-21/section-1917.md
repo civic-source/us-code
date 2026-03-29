@@ -3,9 +3,9 @@ title: "Section 1917 - Tribal affiliation information and other information for 
 usc_title: 25
 usc_section: "1917"
 chapter: 21
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "25 U.S.C. § 1917"
-generated_at: "2026-03-29T21:28:11.317Z"
+generated_at: "2026-03-29T21:34:01.818Z"
 ---
 
 # § 1917. Tribal affiliation information and other information for protection of rights from tribal relationship; application of subject of adoptive placement; disclosure by court

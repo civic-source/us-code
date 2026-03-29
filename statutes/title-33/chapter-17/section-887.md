@@ -3,9 +3,9 @@ title: "Section 887 - Repealed. June 21, 1955, ch. 172, § 5(1) , (2), 69 Stat. 
 usc_title: 33
 usc_section: "887"
 chapter: 17
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "33 U.S.C. § 887"
-generated_at: "2026-03-29T21:29:34.582Z"
+generated_at: "2026-03-29T21:34:49.040Z"
 ---
 
 # §§ 886, 887. Repealed. June 21, 1955, ch. 172, § 5(1) , (2), 69 Stat. 170

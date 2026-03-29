@@ -3,9 +3,9 @@ title: "Section 1002 - Additional training or duty without pay: Reserves and mem
 usc_title: 37
 usc_section: "1002"
 chapter: 19
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "37 U.S.C. § 1002"
-generated_at: "2026-03-29T21:30:00.342Z"
+generated_at: "2026-03-29T21:34:52.607Z"
 ---
 
 # § 1002. Additional training or duty without pay: Reserves and members of National Guard

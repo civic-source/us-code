@@ -3,9 +3,9 @@ title: "Section 5801 - Transferred"
 usc_title: 15
 usc_section: "5801"
 chapter: 84
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "15 U.S.C. § 5801"
-generated_at: "2026-03-29T21:27:15.461Z"
+generated_at: "2026-03-29T21:33:27.404Z"
 ---
 
 # § 5801. Transferred

@@ -3,9 +3,9 @@ title: "Section 3198 - Withholding of appropriated funds"
 usc_title: 7
 usc_section: "3198"
 chapter: 64
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 3198"
-generated_at: "2026-03-29T21:26:38.216Z"
+generated_at: "2026-03-29T21:32:53.180Z"
 ---
 
 # § 3198. Withholding of appropriated funds

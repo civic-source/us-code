@@ -3,9 +3,9 @@ title: "Section 2278 - Consistency with international obligations of United Stat
 usc_title: 7
 usc_section: "2278"
 chapter: 55
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 2278"
-generated_at: "2026-03-29T21:26:38.185Z"
+generated_at: "2026-03-29T21:32:53.149Z"
 ---
 
 # § 2278. Consistency with international obligations of United States

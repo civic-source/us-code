@@ -3,9 +3,9 @@ title: "Section 515 - Authority for legal proceedings; commission, oath, and sal
 usc_title: 28
 usc_section: "515"
 chapter: 31
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "28 U.S.C. § 515"
-generated_at: "2026-03-29T21:29:17.295Z"
+generated_at: "2026-03-29T21:34:28.031Z"
 ---
 
 # § 515. Authority for legal proceedings; commission, oath, and salary for special attorneys

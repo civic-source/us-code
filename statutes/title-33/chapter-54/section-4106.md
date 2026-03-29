@@ -3,9 +3,9 @@ title: "Section 4106 - Funding and additional authorities"
 usc_title: 33
 usc_section: "4106"
 chapter: 54
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "33 U.S.C. § 4106"
-generated_at: "2026-03-29T21:29:34.731Z"
+generated_at: "2026-03-29T21:34:49.201Z"
 ---
 
 # § 4106. Funding and additional authorities

@@ -3,9 +3,9 @@ title: "Section 300ff - Purpose"
 usc_title: 42
 usc_section: "300ff"
 chapter: 6
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 300ff"
-generated_at: "2026-03-29T21:30:44.423Z"
+generated_at: "2026-03-29T21:35:46.580Z"
 ---
 
 # § 300ff. Purpose

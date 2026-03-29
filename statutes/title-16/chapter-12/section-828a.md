@@ -3,9 +3,9 @@ title: "Section 828a - Definitions"
 usc_title: 16
 usc_section: "828a"
 chapter: 12
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 828a"
-generated_at: "2026-03-29T21:27:40.053Z"
+generated_at: "2026-03-29T21:33:47.417Z"
 ---
 
 # § 828a. Definitions

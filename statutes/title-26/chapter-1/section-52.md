@@ -3,9 +3,9 @@ title: "Section 52 - Special rules"
 usc_title: 26
 usc_section: "52"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 52"
-generated_at: "2026-03-29T21:29:01.915Z"
+generated_at: "2026-03-29T21:34:39.557Z"
 ---
 
 # § 52. Special rules

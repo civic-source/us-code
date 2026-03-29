@@ -3,9 +3,9 @@ title: "Section 2302 - Utilization of defense articles and defense services"
 usc_title: 22
 usc_section: "2302"
 chapter: 32
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 2302"
-generated_at: "2026-03-29T21:28:26.062Z"
+generated_at: "2026-03-29T21:34:12.761Z"
 ---
 
 # § 2302. Utilization of defense articles and defense services

@@ -3,9 +3,9 @@ title: "Section 3552 - Definitions"
 usc_title: 44
 usc_section: "3552"
 chapter: 35
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "44 U.S.C. § 3552"
-generated_at: "2026-03-29T21:30:03.827Z"
+generated_at: "2026-03-29T21:35:04.095Z"
 ---
 
 # § 3552. Definitions

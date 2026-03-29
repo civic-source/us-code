@@ -3,9 +3,9 @@ title: "Section 12408 - Authorization of appropriations"
 usc_title: 42
 usc_section: "12408"
 chapter: 128
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 12408"
-generated_at: "2026-03-29T21:30:45.604Z"
+generated_at: "2026-03-29T21:35:47.615Z"
 ---
 
 # § 12408. Authorization of appropriations

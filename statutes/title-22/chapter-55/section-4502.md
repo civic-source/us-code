@@ -3,9 +3,9 @@ title: "Section 4502 - “Institution of higher education” and “Advisory Com
 usc_title: 22
 usc_section: "4502"
 chapter: 55
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 4502"
-generated_at: "2026-03-29T21:28:26.180Z"
+generated_at: "2026-03-29T21:34:12.897Z"
 ---
 
 # § 4502. “Institution of higher education” and “Advisory Committee” defined

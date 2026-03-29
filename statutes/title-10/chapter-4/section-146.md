@@ -3,9 +3,9 @@ title: "Section 146 - Office of Local Defense Community Cooperation"
 usc_title: 10
 usc_section: "146"
 chapter: 4
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 146"
-generated_at: "2026-03-29T21:26:52.415Z"
+generated_at: "2026-03-29T21:33:08.930Z"
 ---
 
 # § 146. Office of Local Defense Community Cooperation

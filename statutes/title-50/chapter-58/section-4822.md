@@ -3,9 +3,9 @@ title: "Section 4822 - Review of interagency dispute resolution process"
 usc_title: 50
 usc_section: "4822"
 chapter: 58
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "50 U.S.C. § 4822"
-generated_at: "2026-03-29T21:31:09.262Z"
+generated_at: "2026-03-29T21:36:05.838Z"
 ---
 
 # § 4822. Review of interagency dispute resolution process

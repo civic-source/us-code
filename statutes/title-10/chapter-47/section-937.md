@@ -3,9 +3,9 @@ title: "Section 937 - Art. 137. Articles to be explained"
 usc_title: 10
 usc_section: "937"
 chapter: 47
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 937"
-generated_at: "2026-03-29T21:26:52.493Z"
+generated_at: "2026-03-29T21:33:09.014Z"
 ---
 
 # § 937. Art. 137. Articles to be explained

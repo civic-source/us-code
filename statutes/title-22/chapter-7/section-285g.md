@@ -3,9 +3,9 @@ title: "Section 285g - Status, immunities, and privileges"
 usc_title: 22
 usc_section: "285g"
 chapter: 7
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 285g"
-generated_at: "2026-03-29T21:28:25.981Z"
+generated_at: "2026-03-29T21:34:12.659Z"
 ---
 
 # § 285g. Status, immunities, and privileges

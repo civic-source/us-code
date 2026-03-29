@@ -3,9 +3,9 @@ title: "Section 3344 - Disclosure of identity of contractor"
 usc_title: 10
 usc_section: "3344"
 chapter: 243
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 3344"
-generated_at: "2026-03-29T21:26:52.703Z"
+generated_at: "2026-03-29T21:33:09.273Z"
 ---
 
 # § 3344. Disclosure of identity of contractor

@@ -3,9 +3,9 @@ title: "Section 200310 - Service of process"
 usc_title: 36
 usc_section: "200310"
 chapter: 2003
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "36 U.S.C. § 200310"
-generated_at: "2026-03-29T21:29:45.092Z"
+generated_at: "2026-03-29T21:34:57.399Z"
 ---
 
 # § 200310. Service of process

@@ -3,9 +3,9 @@ title: "Section 2409a - Incentives and consideration for qualified training prog
 usc_title: 10
 usc_section: "2409a"
 chapter: 141
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2409a"
-generated_at: "2026-03-29T21:26:52.632Z"
+generated_at: "2026-03-29T21:33:09.186Z"
 ---
 
 # § 2409a. Incentives and consideration for qualified training programs

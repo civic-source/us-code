@@ -3,9 +3,9 @@ title: "Section 2437 - Development of major defense acquisition programs: sustai
 usc_title: 10
 usc_section: "2437"
 chapter: 144
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2437"
-generated_at: "2026-03-29T21:26:52.640Z"
+generated_at: "2026-03-29T21:33:09.195Z"
 ---
 
 # § 2437. Development of major defense acquisition programs: sustainment of system to be replaced

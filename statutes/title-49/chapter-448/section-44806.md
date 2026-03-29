@@ -3,9 +3,9 @@ title: "Section 44806 - Public unmanned aircraft systems"
 usc_title: 49
 usc_section: "44806"
 chapter: 448
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "49 U.S.C. § 44806"
-generated_at: "2026-03-29T21:30:56.328Z"
+generated_at: "2026-03-29T21:35:58.318Z"
 ---
 
 # § 44806. Public unmanned aircraft systems

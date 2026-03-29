@@ -3,9 +3,9 @@ title: "Section 1591 - Sex trafficking of children or by force, fraud, or coerci
 usc_title: 18
 usc_section: "1591"
 chapter: 77
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "18 U.S.C. § 1591"
-generated_at: "2026-03-29T21:28:02.748Z"
+generated_at: "2026-03-29T21:33:51.292Z"
 ---
 
 # § 1591. Sex trafficking of children or by force, fraud, or coercion

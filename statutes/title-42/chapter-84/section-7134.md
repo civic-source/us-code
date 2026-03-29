@@ -3,9 +3,9 @@ title: "Section 7134 - Federal Energy Regulatory Commission; compensation of Cha
 usc_title: 42
 usc_section: "7134"
 chapter: 84
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 7134"
-generated_at: "2026-03-29T21:30:45.338Z"
+generated_at: "2026-03-29T21:35:47.373Z"
 ---
 
 # § 7134. Federal Energy Regulatory Commission; compensation of Chairman and members

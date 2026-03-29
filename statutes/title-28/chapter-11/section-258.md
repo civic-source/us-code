@@ -3,9 +3,9 @@ title: "Section 258 - Chief judges; precedence of judges"
 usc_title: 28
 usc_section: "258"
 chapter: 11
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "28 U.S.C. § 258"
-generated_at: "2026-03-29T21:29:17.287Z"
+generated_at: "2026-03-29T21:34:28.019Z"
 ---
 
 # § 258. Chief judges; precedence of judges

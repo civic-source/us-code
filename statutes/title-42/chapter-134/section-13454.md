@@ -3,9 +3,9 @@ title: "Section 13454 - Advanced buildings for 2005"
 usc_title: 42
 usc_section: "13454"
 chapter: 134
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 13454"
-generated_at: "2026-03-29T21:30:45.671Z"
+generated_at: "2026-03-29T21:35:47.669Z"
 ---
 
 # § 13454. Advanced buildings for 2005

@@ -3,9 +3,9 @@ title: "Section 1829 - Preemption of State laws; concurrent jurisdiction; prohib
 usc_title: 15
 usc_section: "1829"
 chapter: 44
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "15 U.S.C. § 1829"
-generated_at: "2026-03-29T21:27:15.348Z"
+generated_at: "2026-03-29T21:33:27.271Z"
 ---
 
 # § 1829. Preemption of State laws; concurrent jurisdiction; prohibition on certain State action

@@ -3,9 +3,9 @@ title: "Section 3058ee - Audits"
 usc_title: 42
 usc_section: "3058ee"
 chapter: 35
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 3058ee"
-generated_at: "2026-03-29T21:30:45.138Z"
+generated_at: "2026-03-29T21:35:47.191Z"
 ---
 
 # § 3058ee. Audits

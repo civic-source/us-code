@@ -3,9 +3,9 @@ title: "Section 3057f - Surplus educational facilities"
 usc_title: 42
 usc_section: "3057f"
 chapter: 35
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 3057f"
-generated_at: "2026-03-29T21:30:45.133Z"
+generated_at: "2026-03-29T21:35:47.187Z"
 ---
 
 # § 3057f. Surplus educational facilities

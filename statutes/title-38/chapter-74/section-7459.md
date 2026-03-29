@@ -3,9 +3,9 @@ title: "Section 7459 - Nursing staff: special rules for overtime duty"
 usc_title: 38
 usc_section: "7459"
 chapter: 74
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "38 U.S.C. § 7459"
-generated_at: "2026-03-29T21:29:48.743Z"
+generated_at: "2026-03-29T21:34:56.030Z"
 ---
 
 # § 7459. Nursing staff: special rules for overtime duty

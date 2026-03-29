@@ -3,9 +3,9 @@ title: "Section 22 - Negligent injury to submarine cables; punishment"
 usc_title: 47
 usc_section: "22"
 chapter: 2
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "47 U.S.C. § 22"
-generated_at: "2026-03-29T21:31:05.700Z"
+generated_at: "2026-03-29T21:36:06.987Z"
 ---
 
 # § 22. Negligent injury to submarine cables; punishment

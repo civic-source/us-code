@@ -3,9 +3,9 @@ title: "Section 3103 - Periods of eligibility"
 usc_title: 38
 usc_section: "3103"
 chapter: 31
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "38 U.S.C. § 3103"
-generated_at: "2026-03-29T21:29:48.667Z"
+generated_at: "2026-03-29T21:34:55.950Z"
 ---
 
 # § 3103. Periods of eligibility

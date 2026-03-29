@@ -3,9 +3,9 @@ title: "Section 1403 - Eminent domain"
 usc_title: 28
 usc_section: "1403"
 chapter: 87
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "28 U.S.C. § 1403"
-generated_at: "2026-03-29T21:29:17.320Z"
+generated_at: "2026-03-29T21:34:28.057Z"
 ---
 
 # § 1403. Eminent domain

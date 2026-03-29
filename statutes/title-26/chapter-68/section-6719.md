@@ -3,9 +3,9 @@ title: "Section 6719 - Failure to register or reregister"
 usc_title: 26
 usc_section: "6719"
 chapter: 68
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 6719"
-generated_at: "2026-03-29T21:29:02.419Z"
+generated_at: "2026-03-29T21:34:40.093Z"
 ---
 
 # § 6719. Failure to register or reregister

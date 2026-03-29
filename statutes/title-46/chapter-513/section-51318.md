@@ -3,9 +3,9 @@ title: "Section 51318 - Policy on sexual harassment, dating violence, domestic v
 usc_title: 46
 usc_section: "51318"
 chapter: 513
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "46 U.S.C. § 51318"
-generated_at: "2026-03-29T21:31:27.559Z"
+generated_at: "2026-03-29T21:35:53.042Z"
 ---
 
 # § 51318. Policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking

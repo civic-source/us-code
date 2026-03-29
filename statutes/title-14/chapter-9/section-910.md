@@ -3,9 +3,9 @@ title: "Section 910 - Small boat station closures"
 usc_title: 14
 usc_section: "910"
 chapter: 9
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "14 U.S.C. § 910"
-generated_at: "2026-03-29T21:26:58.435Z"
+generated_at: "2026-03-29T21:33:13.506Z"
 ---
 
 # § 910. Small boat station closures

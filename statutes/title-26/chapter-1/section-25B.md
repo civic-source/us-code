@@ -3,9 +3,9 @@ title: "Section 25B - Elective deferrals and IRA contributions by certain indivi
 usc_title: 26
 usc_section: "25B"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 25B"
-generated_at: "2026-03-29T21:29:01.877Z"
+generated_at: "2026-03-29T21:34:39.511Z"
 ---
 
 # § 25B. Elective deferrals and IRA contributions by certain individuals

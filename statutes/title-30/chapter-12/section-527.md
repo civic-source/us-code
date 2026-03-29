@@ -3,9 +3,9 @@ title: "Section 527 - Determination of unpatented mining claims"
 usc_title: 30
 usc_section: "527"
 chapter: 12
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "30 U.S.C. § 527"
-generated_at: "2026-03-29T21:28:42.447Z"
+generated_at: "2026-03-29T21:34:22.830Z"
 ---
 
 # § 527. Determination of unpatented mining claims

@@ -3,9 +3,9 @@ title: "Section 2331 - Procurement of detection equipment for United States bord
 usc_title: 50
 usc_section: "2331"
 chapter: 40
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "50 U.S.C. § 2331"
-generated_at: "2026-03-29T21:31:09.134Z"
+generated_at: "2026-03-29T21:36:05.712Z"
 ---
 
 # § 2331. Procurement of detection equipment for United States border security

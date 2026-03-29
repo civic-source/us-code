@@ -3,9 +3,9 @@ title: "Section 6 - United States release from liability"
 usc_title: 16
 usc_section: "6"
 chapter: 3
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-29T21:27:39.973Z"
+generated_at: "2026-03-29T21:33:47.329Z"
 ---
 
 # § 583j–6. United States release from liability

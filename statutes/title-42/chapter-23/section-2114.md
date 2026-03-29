@@ -3,9 +3,9 @@ title: "Section 2114 - Authorities of Commission respecting certain byproduct ma
 usc_title: 42
 usc_section: "2114"
 chapter: 23
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 2114"
-generated_at: "2026-03-29T21:30:45.061Z"
+generated_at: "2026-03-29T21:35:47.136Z"
 ---
 
 # § 2114. Authorities of Commission respecting certain byproduct material

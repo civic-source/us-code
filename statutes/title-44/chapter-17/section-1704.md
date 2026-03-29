@@ -3,9 +3,9 @@ title: "Section 1704 - Superintendent of Documents: pay of employees for night, 
 usc_title: 44
 usc_section: "1704"
 chapter: 17
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "44 U.S.C. § 1704"
-generated_at: "2026-03-29T21:30:03.815Z"
+generated_at: "2026-03-29T21:35:04.080Z"
 ---
 
 # § 1704. Superintendent of Documents: pay of employees for night, Sunday, holiday, and overtime work

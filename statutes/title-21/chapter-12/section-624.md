@@ -3,9 +3,9 @@ title: "Section 624 - Storage and handling regulations; violations; exemption of
 usc_title: 21
 usc_section: "624"
 chapter: 12
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "21 U.S.C. § 624"
-generated_at: "2026-03-29T21:28:37.016Z"
+generated_at: "2026-03-29T21:34:05.773Z"
 ---
 
 # § 624. Storage and handling regulations; violations; exemption of establishments subject to non-Federal jurisdiction

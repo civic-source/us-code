@@ -3,9 +3,9 @@ title: "Section 955 - Financial transactions with foreign governments"
 usc_title: 18
 usc_section: "955"
 chapter: 45
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "18 U.S.C. § 955"
-generated_at: "2026-03-29T21:28:02.722Z"
+generated_at: "2026-03-29T21:33:51.265Z"
 ---
 
 # § 955. Financial transactions with foreign governments

@@ -3,9 +3,9 @@ title: "Section 1940 - Definition"
 usc_title: 38
 usc_section: "1940"
 chapter: 19
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "38 U.S.C. § 1940"
-generated_at: "2026-03-29T21:29:48.641Z"
+generated_at: "2026-03-29T21:34:55.927Z"
 ---
 
 # § 1940. Definition

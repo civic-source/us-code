@@ -3,9 +3,9 @@ title: "Section 8101 - Definitions and construction"
 usc_title: 41
 usc_section: "8101"
 chapter: 81
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "41 U.S.C. § 8101"
-generated_at: "2026-03-29T21:30:08.704Z"
+generated_at: "2026-03-29T21:35:02.756Z"
 ---
 
 # § 8101. Definitions and construction

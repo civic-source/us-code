@@ -3,9 +3,9 @@ title: "Section 2361a - Extramural acquisition innovation and research activitie
 usc_title: 10
 usc_section: "2361a"
 chapter: 139
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2361a"
-generated_at: "2026-03-29T21:26:52.624Z"
+generated_at: "2026-03-29T21:33:09.176Z"
 ---
 
 # § 2361a. Extramural acquisition innovation and research activities

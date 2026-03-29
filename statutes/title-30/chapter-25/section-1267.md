@@ -3,9 +3,9 @@ title: "Section 1267 - Inspections and monitoring"
 usc_title: 30
 usc_section: "1267"
 chapter: 25
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "30 U.S.C. § 1267"
-generated_at: "2026-03-29T21:28:42.495Z"
+generated_at: "2026-03-29T21:34:22.874Z"
 ---
 
 # § 1267. Inspections and monitoring

@@ -3,9 +3,9 @@ title: "Section 2440 - National technology and industrial base plans, policy, an
 usc_title: 10
 usc_section: "2440"
 chapter: 144
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2440"
-generated_at: "2026-03-29T21:26:52.641Z"
+generated_at: "2026-03-29T21:33:09.195Z"
 ---
 
 # § 2440. National technology and industrial base plans, policy, and guidance

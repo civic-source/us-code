@@ -3,9 +3,9 @@ title: "Section 3508 - Department of defense contracts: notice to congressional 
 usc_title: 10
 usc_section: "3508"
 chapter: 249
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 3508"
-generated_at: "2026-03-29T21:26:52.706Z"
+generated_at: "2026-03-29T21:33:09.277Z"
 ---
 
 # § 3508. Department of defense contracts: notice to congressional committees before taking certain actions

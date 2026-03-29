@@ -3,9 +3,9 @@ title: "Section 383 - Vested rights and State laws unaffected"
 usc_title: 43
 usc_section: "383"
 chapter: 12
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "43 U.S.C. § 383"
-generated_at: "2026-03-29T21:30:05.666Z"
+generated_at: "2026-03-29T21:35:10.685Z"
 ---
 
 # § 383. Vested rights and State laws unaffected

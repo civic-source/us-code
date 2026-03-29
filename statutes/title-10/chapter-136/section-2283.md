@@ -3,9 +3,9 @@ title: "Section 2283 - Department of Defense small business strategy"
 usc_title: 10
 usc_section: "2283"
 chapter: 136
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2283"
-generated_at: "2026-03-29T21:26:52.603Z"
+generated_at: "2026-03-29T21:33:09.149Z"
 ---
 
 # § 2283. Department of Defense small business strategy

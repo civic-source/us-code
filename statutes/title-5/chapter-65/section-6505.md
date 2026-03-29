@@ -3,9 +3,9 @@ title: "Section 6505 - Telework Managing Officer"
 usc_title: 5
 usc_section: "6505"
 chapter: 65
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "5 U.S.C. § 6505"
-generated_at: "2026-03-29T21:26:08.468Z"
+generated_at: "2026-03-29T21:32:36.106Z"
 ---
 
 # § 6505. Telework Managing Officer

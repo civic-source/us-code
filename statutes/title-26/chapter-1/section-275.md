@@ -3,9 +3,9 @@ title: "Section 275 - Certain taxes"
 usc_title: 26
 usc_section: "275"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 275"
-generated_at: "2026-03-29T21:29:02.010Z"
+generated_at: "2026-03-29T21:34:39.651Z"
 ---
 
 # § 275. Certain taxes

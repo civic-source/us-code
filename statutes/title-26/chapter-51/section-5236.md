@@ -3,9 +3,9 @@ title: "Section 5236 - Discontinuance of storage facilities and transfer of dist
 usc_title: 26
 usc_section: "5236"
 chapter: 51
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 5236"
-generated_at: "2026-03-29T21:29:02.329Z"
+generated_at: "2026-03-29T21:34:40.007Z"
 ---
 
 # § 5236. Discontinuance of storage facilities and transfer of distilled spirits

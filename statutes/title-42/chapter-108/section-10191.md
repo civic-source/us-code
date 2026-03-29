@@ -3,9 +3,9 @@ title: "Section 10191 - Purpose"
 usc_title: 42
 usc_section: "10191"
 chapter: 108
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 10191"
-generated_at: "2026-03-29T21:30:45.541Z"
+generated_at: "2026-03-29T21:35:47.550Z"
 ---
 
 # § 10191. Purpose

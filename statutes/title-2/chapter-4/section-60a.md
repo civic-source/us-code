@@ -3,9 +3,9 @@ title: "Section 60a - Omitted"
 usc_title: 2
 usc_section: "60a"
 chapter: 4
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "2 U.S.C. § 60a"
-generated_at: "2026-03-29T21:26:11.461Z"
+generated_at: "2026-03-29T21:32:30.390Z"
 ---
 
 # § 60a. Omitted

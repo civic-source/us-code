@@ -3,9 +3,9 @@ title: "Section 2229b - Comptroller General assessment of acquisition programs a
 usc_title: 10
 usc_section: "2229b"
 chapter: 131
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2229b"
-generated_at: "2026-03-29T21:26:52.598Z"
+generated_at: "2026-03-29T21:33:09.143Z"
 ---
 
 # § 2229b. Comptroller General assessment of acquisition programs and initiatives

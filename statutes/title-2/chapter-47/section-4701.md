@@ -3,9 +3,9 @@ title: "Section 4701 - Subletting duties of employees of Senate or House"
 usc_title: 2
 usc_section: "4701"
 chapter: 47
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "2 U.S.C. § 4701"
-generated_at: "2026-03-29T21:26:11.585Z"
+generated_at: "2026-03-29T21:32:30.520Z"
 ---
 
 # § 4701. Subletting duties of employees of Senate or House

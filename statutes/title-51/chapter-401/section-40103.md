@@ -3,9 +3,9 @@ title: "Section 40103 - Cooperation with other agencies on aeronautics activitie
 usc_title: 51
 usc_section: "40103"
 chapter: 401
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "51 U.S.C. § 40103"
-generated_at: "2026-03-29T21:31:50.863Z"
+generated_at: "2026-03-29T21:36:09.760Z"
 ---
 
 # § 40103. Cooperation with other agencies on aeronautics activities

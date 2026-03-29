@@ -3,9 +3,9 @@ title: "Section 1849 - Compensation of certain positions under jurisdiction of A
 usc_title: 2
 usc_section: "1849"
 chapter: 28
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "2 U.S.C. § 1849"
-generated_at: "2026-03-29T21:26:11.548Z"
+generated_at: "2026-03-29T21:32:30.487Z"
 ---
 
 # § 1849. Compensation of certain positions under jurisdiction of Architect of the Capitol

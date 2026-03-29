@@ -3,9 +3,9 @@ title: "Section 1918 - Disloyalty and asserting the right to strike against the 
 usc_title: 18
 usc_section: "1918"
 chapter: 93
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "18 U.S.C. § 1918"
-generated_at: "2026-03-29T21:28:02.758Z"
+generated_at: "2026-03-29T21:33:51.302Z"
 ---
 
 # § 1918. Disloyalty and asserting the right to strike against the Government

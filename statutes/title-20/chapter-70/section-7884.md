@@ -3,9 +3,9 @@ title: "Section 7884 - By-pass determination process"
 usc_title: 20
 usc_section: "7884"
 chapter: 70
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "20 U.S.C. § 7884"
-generated_at: "2026-03-29T21:27:24.704Z"
+generated_at: "2026-03-29T21:33:39.386Z"
 ---
 
 # § 7884. By-pass determination process

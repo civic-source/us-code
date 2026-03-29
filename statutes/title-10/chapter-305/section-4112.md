@@ -3,9 +3,9 @@ title: "Section 4112 - Research and development laboratories: contracts for serv
 usc_title: 10
 usc_section: "4112"
 chapter: 305
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 4112"
-generated_at: "2026-03-29T21:26:52.719Z"
+generated_at: "2026-03-29T21:33:09.292Z"
 ---
 
 # § 4112. Research and development laboratories: contracts for services of university students

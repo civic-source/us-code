@@ -3,9 +3,9 @@ title: "Section 20106 - Preemption"
 usc_title: 49
 usc_section: "20106"
 chapter: 201
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "49 U.S.C. § 20106"
-generated_at: "2026-03-29T21:30:56.223Z"
+generated_at: "2026-03-29T21:35:58.238Z"
 ---
 
 # § 20106. Preemption

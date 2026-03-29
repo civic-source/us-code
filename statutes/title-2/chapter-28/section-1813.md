@@ -3,9 +3,9 @@ title: "Section 1813 - Exterior of Capitol"
 usc_title: 2
 usc_section: "1813"
 chapter: 28
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "2 U.S.C. § 1813"
-generated_at: "2026-03-29T21:26:11.545Z"
+generated_at: "2026-03-29T21:32:30.485Z"
 ---
 
 # § 1813. Exterior of Capitol

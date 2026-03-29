@@ -3,9 +3,9 @@ title: "Section 93 - Establishment of official naval stores standards"
 usc_title: 7
 usc_section: "93"
 chapter: 4
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 93"
-generated_at: "2026-03-29T21:26:37.888Z"
+generated_at: "2026-03-29T21:32:52.866Z"
 ---
 
 # § 93. Establishment of official naval stores standards

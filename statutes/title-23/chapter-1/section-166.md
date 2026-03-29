@@ -3,9 +3,9 @@ title: "Section 166 - HOV facilities"
 usc_title: 23
 usc_section: "166"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "23 U.S.C. § 166"
-generated_at: "2026-03-29T21:28:08.064Z"
+generated_at: "2026-03-29T21:34:18.919Z"
 ---
 
 # § 166. HOV facilities

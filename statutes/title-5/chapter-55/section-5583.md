@@ -3,9 +3,9 @@ title: "Section 5583 - Payment of money due; settlement of accounts"
 usc_title: 5
 usc_section: "5583"
 chapter: 55
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "5 U.S.C. § 5583"
-generated_at: "2026-03-29T21:26:08.445Z"
+generated_at: "2026-03-29T21:32:36.086Z"
 ---
 
 # § 5583. Payment of money due; settlement of accounts

@@ -3,9 +3,9 @@ title: "Section 481c - Travel and transportation allowances: travel performed in
 usc_title: 37
 usc_section: "481c"
 chapter: 8
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "37 U.S.C. § 481c"
-generated_at: "2026-03-29T21:30:00.335Z"
+generated_at: "2026-03-29T21:34:52.599Z"
 ---
 
 # § 481c. Travel and transportation allowances: travel performed in connection with rest and recuperative leave from certain stations in foreign countries

@@ -3,9 +3,9 @@ title: "Section 5943 - Rice research"
 usc_title: 7
 usc_section: "5943"
 chapter: 88
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 5943"
-generated_at: "2026-03-29T21:26:38.268Z"
+generated_at: "2026-03-29T21:32:53.237Z"
 ---
 
 # § 5943. Rice research

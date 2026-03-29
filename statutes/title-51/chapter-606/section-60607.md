@@ -3,9 +3,9 @@ title: "Section 60607 - Pilot program for obtaining commercial sector space weat
 usc_title: 51
 usc_section: "60607"
 chapter: 606
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "51 U.S.C. § 60607"
-generated_at: "2026-03-29T21:31:50.881Z"
+generated_at: "2026-03-29T21:36:09.774Z"
 ---
 
 # § 60607. Pilot program for obtaining commercial sector space weather data

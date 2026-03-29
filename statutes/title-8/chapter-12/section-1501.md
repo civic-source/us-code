@@ -3,9 +3,9 @@ title: "Section 1501 - Certificate of diplomatic or consular officer of United S
 usc_title: 8
 usc_section: "1501"
 chapter: 12
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "8 U.S.C. § 1501"
-generated_at: "2026-03-29T21:26:41.297Z"
+generated_at: "2026-03-29T21:32:55.175Z"
 ---
 
 # § 1501. Certificate of diplomatic or consular officer of United States as to loss of American nationality

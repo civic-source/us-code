@@ -3,9 +3,9 @@ title: "Section 436 - Retention of records"
 usc_title: 29
 usc_section: "436"
 chapter: 11
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "29 U.S.C. § 436"
-generated_at: "2026-03-29T21:28:45.488Z"
+generated_at: "2026-03-29T21:34:25.828Z"
 ---
 
 # § 436. Retention of records

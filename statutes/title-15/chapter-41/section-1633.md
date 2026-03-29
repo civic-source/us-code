@@ -3,9 +3,9 @@ title: "Section 1633 - Exemption for State-regulated transactions"
 usc_title: 15
 usc_section: "1633"
 chapter: 41
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "15 U.S.C. § 1633"
-generated_at: "2026-03-29T21:27:15.296Z"
+generated_at: "2026-03-29T21:33:27.213Z"
 ---
 
 # § 1633. Exemption for State-regulated transactions

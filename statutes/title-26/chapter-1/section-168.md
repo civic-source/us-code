@@ -3,9 +3,9 @@ title: "Section 168 - Accelerated cost recovery system"
 usc_title: 26
 usc_section: "168"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 168"
-generated_at: "2026-03-29T21:29:01.967Z"
+generated_at: "2026-03-29T21:34:39.613Z"
 ---
 
 # § 168. Accelerated cost recovery system
@@ -438,7 +438,7 @@ generated_at: "2026-03-29T21:29:01.967Z"
       - **(i)**
         - **(I)** to which this section applies which has a recovery period of 20 years or less,
         - **(II)** which is computer software (as defined in section 167(f)(1)(B)) for which a deduction is allowable under section 167(a) without regard to this subsection,
-        - **(III)** which is water utility property, or 3 3 So in original. The word “or” probably should not appear.
+        - **(III)** which is water utility property, or 2 2 So in original. The word “or” probably should not appear.
         - **(IV)** which is a qualified film or television production (as defined in subsection (d) of section 181) for which a deduction would have been allowable under section 181 without regard to subsections (a)(2) and (g) of such section or this subsection, or
         - **(V)** which is a qualified live theatrical production (as defined in subsection (e) of section 181) for which a deduction would have been allowable under section 181 without regard to subsections (a)(2) and (g) of such section or this subsection,
       - **(ii)** the original use of which begins with the taxpayer or the acquisition of which by the taxpayer meets the requirements of clause (ii) of subparagraph (E), and

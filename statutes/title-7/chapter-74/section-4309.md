@@ -3,9 +3,9 @@ title: "Section 4309 - Suspension and termination of orders"
 usc_title: 7
 usc_section: "4309"
 chapter: 74
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 4309"
-generated_at: "2026-03-29T21:26:38.234Z"
+generated_at: "2026-03-29T21:32:53.199Z"
 ---
 
 # § 4309. Suspension and termination of orders

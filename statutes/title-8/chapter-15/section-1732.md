@@ -3,9 +3,9 @@ title: "Section 1732 - Machine-readable, tamper-resistant entry and exit documen
 usc_title: 8
 usc_section: "1732"
 chapter: 15
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "8 U.S.C. § 1732"
-generated_at: "2026-03-29T21:26:41.310Z"
+generated_at: "2026-03-29T21:32:55.189Z"
 ---
 
 # § 1732. Machine-readable, tamper-resistant entry and exit documents

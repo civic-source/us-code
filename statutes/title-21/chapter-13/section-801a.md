@@ -3,9 +3,9 @@ title: "Section 801a - Congressional findings and declarations: psychotropic sub
 usc_title: 21
 usc_section: "801a"
 chapter: 13
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "21 U.S.C. § 801a"
-generated_at: "2026-03-29T21:28:37.020Z"
+generated_at: "2026-03-29T21:34:05.777Z"
 ---
 
 # § 801a. Congressional findings and declarations: psychotropic substances

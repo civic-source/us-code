@@ -3,9 +3,9 @@ title: "Section 2302 - Prohibited personnel practices"
 usc_title: 5
 usc_section: "2302"
 chapter: 23
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "5 U.S.C. § 2302"
-generated_at: "2026-03-29T21:26:08.393Z"
+generated_at: "2026-03-29T21:32:36.037Z"
 ---
 
 # § 2302. Prohibited personnel practices
@@ -78,7 +78,8 @@ generated_at: "2026-03-29T21:26:08.393Z"
     - **(B)** knowingly fail to take, recommend, or approve any personnel action if the failure to take such action would violate a veterans’ preference requirement;
   - **(12)** take or fail to take any other personnel action if the taking of or failure to take such action violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title ;
   - **(13)** implement or enforce any nondisclosure policy, form, or agreement, if such policy, form, or agreement—
-    - **(A)** does not contain the following statement: “These provisions are consistent with and do not supersede, conflict with, or otherwise alter the employee obligations, rights, or liabilities created by existing statute or Executive order relating to (1) classified information, (2) communications to Congress, (3) the reporting to an Inspector General or the Office of Special Counsel of a violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or (4) any other whistleblower protection. The definitions, requirements, obligations, rights, sanctions, and liabilities created by controlling Executive orders and statutory provisions are incorporated into this agreement and are controlling.”; orI13(B) prohibits or restricts an employee or applicant for employment from disclosing to Congress, the Special Counsel, the Inspector General of an agency, or any other agency component responsible for internal investigation or review any information that relates to any violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or any other whistleblower protection; or
+    - **(A)** does not contain the following statement: “These provisions are consistent with and do not supersede, conflict with, or otherwise alter the employee obligations, rights, or liabilities created by existing statute or Executive order relating to (1) classified information, (2) communications to Congress, (3) the reporting to an Inspector General or the Office of Special Counsel of a violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or (4) any other whistleblower protection. The definitions, requirements, obligations, rights, sanctions, and liabilities created by controlling Executive orders and statutory provisions are incorporated into this agreement and are controlling.”; or
+    - **(B)** prohibits or restricts an employee or applicant for employment from disclosing to Congress, the Special Counsel, the Inspector General of an agency, or any other agency component responsible for internal investigation or review any information that relates to any violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or any other whistleblower protection; or
   - **(14)** access the medical record of another employee or an applicant for employment as a part of, or otherwise in furtherance of, any conduct described in paragraphs (1) through (13).
 - **(c)**
   - **(1)** In this subsection—

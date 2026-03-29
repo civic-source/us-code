@@ -3,9 +3,9 @@ title: "Section 2350m - Execution of projects under the North Atlantic Treaty Or
 usc_title: 10
 usc_section: "2350m"
 chapter: 138
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2350m"
-generated_at: "2026-03-29T21:26:52.622Z"
+generated_at: "2026-03-29T21:33:09.173Z"
 ---
 
 # § 2350m. 1 1 Another section 2350m is set out after section 2350 l of this title. Execution of projects under the North Atlantic Treaty Organization Security Investment Program

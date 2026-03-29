@@ -3,9 +3,9 @@ title: "Section 10011 - Reports"
 usc_title: 22
 usc_section: "10011"
 chapter: 107
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 10011"
-generated_at: "2026-03-29T21:28:26.323Z"
+generated_at: "2026-03-29T21:34:13.058Z"
 ---
 
 # § 10011. Reports

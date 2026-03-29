@@ -3,9 +3,9 @@ title: "Section 2106 - Veterans’ mortgage life insurance"
 usc_title: 38
 usc_section: "2106"
 chapter: 21
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "38 U.S.C. § 2106"
-generated_at: "2026-03-29T21:29:48.654Z"
+generated_at: "2026-03-29T21:34:55.939Z"
 ---
 
 # § 2106. Veterans’ mortgage life insurance

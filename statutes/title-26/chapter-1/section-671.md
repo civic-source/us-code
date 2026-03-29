@@ -3,9 +3,9 @@ title: "Section 671 - Trust income, deductions, and credits attributable to gran
 usc_title: 26
 usc_section: "671"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 671"
-generated_at: "2026-03-29T21:29:02.130Z"
+generated_at: "2026-03-29T21:34:39.789Z"
 ---
 
 # § 671. Trust income, deductions, and credits attributable to grantors and others as substantial owners

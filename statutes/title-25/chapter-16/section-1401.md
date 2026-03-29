@@ -3,9 +3,9 @@ title: "Section 1401 - Funds appropriated in satisfaction of judgments of Indian
 usc_title: 25
 usc_section: "1401"
 chapter: 16
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "25 U.S.C. § 1401"
-generated_at: "2026-03-29T21:28:11.284Z"
+generated_at: "2026-03-29T21:34:01.776Z"
 ---
 
 # § 1401. Funds appropriated in satisfaction of judgments of Indian Claims Commission or United States Court of Federal Claims

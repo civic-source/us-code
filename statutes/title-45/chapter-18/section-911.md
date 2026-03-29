@@ -3,9 +3,9 @@ title: "Section 911 - New career training assistance"
 usc_title: 45
 usc_section: "911"
 chapter: 18
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "45 U.S.C. § 911"
-generated_at: "2026-03-29T21:30:07.067Z"
+generated_at: "2026-03-29T21:35:03.568Z"
 ---
 
 # § 911. New career training assistance

@@ -3,9 +3,9 @@ title: "Section 150904 - Governing body"
 usc_title: 36
 usc_section: "150904"
 chapter: 1509
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "36 U.S.C. § 150904"
-generated_at: "2026-03-29T21:29:45.075Z"
+generated_at: "2026-03-29T21:34:57.390Z"
 ---
 
 # § 150904. Governing body

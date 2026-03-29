@@ -3,9 +3,9 @@ title: "Section 18612 - Restoration of laboratory directed research and developm
 usc_title: 42
 usc_section: "18612"
 chapter: 161
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 18612"
-generated_at: "2026-03-29T21:30:45.813Z"
+generated_at: "2026-03-29T21:35:47.788Z"
 ---
 
 # § 18612. Restoration of laboratory directed research and development program

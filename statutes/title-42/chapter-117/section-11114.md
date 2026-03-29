@@ -3,9 +3,9 @@ title: "Section 11114 - Guidelines of Secretary"
 usc_title: 42
 usc_section: "11114"
 chapter: 117
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 11114"
-generated_at: "2026-03-29T21:30:45.563Z"
+generated_at: "2026-03-29T21:35:47.577Z"
 ---
 
 # § 11114. Guidelines of Secretary

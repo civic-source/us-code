@@ -3,9 +3,9 @@ title: "Section 2241 - Transfer of Capitol Guide Service"
 usc_title: 2
 usc_section: "2241"
 chapter: 31
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "2 U.S.C. § 2241"
-generated_at: "2026-03-29T21:26:11.573Z"
+generated_at: "2026-03-29T21:32:30.507Z"
 ---
 
 # § 2241. Transfer of Capitol Guide Service

@@ -3,9 +3,9 @@ title: "Section 5733 - Expeditious travel"
 usc_title: 5
 usc_section: "5733"
 chapter: 57
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "5 U.S.C. § 5733"
-generated_at: "2026-03-29T21:26:08.451Z"
+generated_at: "2026-03-29T21:32:36.091Z"
 ---
 
 # § 5733. Expeditious travel

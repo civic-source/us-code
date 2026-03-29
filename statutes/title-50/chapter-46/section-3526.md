@@ -3,9 +3,9 @@ title: "Section 3526 - Improvement of education in science, technology, engineer
 usc_title: 50
 usc_section: "3526"
 chapter: 46
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "50 U.S.C. § 3526"
-generated_at: "2026-03-29T21:31:09.207Z"
+generated_at: "2026-03-29T21:36:05.785Z"
 ---
 
 # § 3526. Improvement of education in science, technology, engineering, arts, and mathematics

@@ -3,9 +3,9 @@ title: "Section 5234 - Cooperator organizations"
 usc_title: 7
 usc_section: "5234"
 chapter: 83
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "7 U.S.C. § 5234"
-generated_at: "2026-03-29T21:26:38.248Z"
+generated_at: "2026-03-29T21:32:53.215Z"
 ---
 
 # § 5234. Cooperator organizations

@@ -3,9 +3,9 @@ title: "Section 624 - Civil enforcement"
 usc_title: 6
 usc_section: "624"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "6 U.S.C. § 624"
-generated_at: "2026-03-29T21:26:39.741Z"
+generated_at: "2026-03-29T21:32:45.102Z"
 ---
 
 # § 624. Civil enforcement

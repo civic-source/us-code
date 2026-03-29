@@ -3,9 +3,9 @@ title: "Section 1396d - Definitions"
 usc_title: 42
 usc_section: "1396d"
 chapter: 7
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 1396d"
-generated_at: "2026-03-29T21:30:44.845Z"
+generated_at: "2026-03-29T21:35:46.958Z"
 ---
 
 # § 1396d. Definitions
@@ -316,8 +316,8 @@ For purposes of this subchapter—
     - **(B)** a covered outpatient drug (as defined in section 1396r–8(k) of this title , except that, in applying paragraph (2)(A) of such section to a drug described in paragraph (1)(A), such drug shall be deemed a prescribed drug for purposes of subsection (a)(12)).
 - **(ff)** Notwithstanding subsection (b) or (z)(2), subject to subsections (hh) and (ii)—
   - **(1)** for the period beginning October 1, 2019 , and ending December 20, 2019 , the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 100 percent;
-  - **(2)** subject to section 1308(g)(7)(C) of this title , for the period beginning December 21, 2019 , and ending September 30, 2021 , the Federal medical assistance percentage for Puerto Rico shall be equal to 76 percent; and
-  - **(3)** subject to section 1308(g)(8)(B) of this title , for the period beginning December 21, 2019 , and ending September 30, 2021 , the Federal medical assistance percentage for the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 83 percent.
+  - **(2)** subject to section 1308(g)(7)(C) of this title , for the period beginning December 21, 2019 , and ending December 3, 2021 , the Federal medical assistance percentage for Puerto Rico shall be equal to 76 percent; and
+  - **(3)** subject to section 1308(g)(8)(B) of this title , for the period beginning December 21, 2019 , and ending December 3, 2021 , the Federal medical assistance percentage for the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 83 percent.
 - **(gg)**
   - **(1)** For purposes of subsection (a)(30), with respect to a State and an individual enrolled under the State plan (or a waiver of such plan) who participates in a qualifying clinical trial, routine patient costs—
     - **(A)** include any item or service provided to the individual under the qualifying clinical trial, including—

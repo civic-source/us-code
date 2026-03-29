@@ -3,9 +3,9 @@ title: "Section 5344 - Organizational structure; responsibilities of primary pro
 usc_title: 12
 usc_section: "5344"
 chapter: 53
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "12 U.S.C. § 5344"
-generated_at: "2026-03-29T21:27:06.955Z"
+generated_at: "2026-03-29T21:33:20.854Z"
 ---
 
 # § 5344. Organizational structure; responsibilities of primary programmatic units

@@ -3,9 +3,9 @@ title: "Section 1725 - Resource assistants"
 usc_title: 16
 usc_section: "1725"
 chapter: 37
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 1725"
-generated_at: "2026-03-29T21:27:40.170Z"
+generated_at: "2026-03-29T21:33:47.558Z"
 ---
 
 # § 1725. Resource assistants

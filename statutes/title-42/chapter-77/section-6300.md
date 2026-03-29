@@ -3,9 +3,9 @@ title: "Section 6300 - Exports"
 usc_title: 42
 usc_section: "6300"
 chapter: 77
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 6300"
-generated_at: "2026-03-29T21:30:45.279Z"
+generated_at: "2026-03-29T21:35:47.323Z"
 ---
 
 # § 6300. Exports

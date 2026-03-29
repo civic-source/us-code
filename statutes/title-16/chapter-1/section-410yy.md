@@ -3,9 +3,9 @@ title: "Section 410yy - Findings and purposes"
 usc_title: 16
 usc_section: "410yy"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 410yy"
-generated_at: "2026-03-29T21:27:39.765Z"
+generated_at: "2026-03-29T21:33:47.089Z"
 ---
 
 # § 410yy. Findings and purposes

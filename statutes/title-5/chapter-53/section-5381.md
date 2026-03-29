@@ -3,9 +3,9 @@ title: "Section 5381 - Definitions"
 usc_title: 5
 usc_section: "5381"
 chapter: 53
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "5 U.S.C. § 5381"
-generated_at: "2026-03-29T21:26:08.434Z"
+generated_at: "2026-03-29T21:32:36.074Z"
 ---
 
 # § 5381. Definitions

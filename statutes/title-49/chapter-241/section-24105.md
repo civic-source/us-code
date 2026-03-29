@@ -3,9 +3,9 @@ title: "Section 24105 - Repealed. Pub. L. 114–94, div. A, title XI, § 11301(c
 usc_title: 49
 usc_section: "24105"
 chapter: 241
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "49 U.S.C. § 24105"
-generated_at: "2026-03-29T21:30:56.237Z"
+generated_at: "2026-03-29T21:35:58.251Z"
 ---
 
 # [§ 24105. Repealed. Pub. L. 114–94, div. A, title XI, § 11301(c)(2) , Dec. 4, 2015 , 129 Stat. 1648 ]

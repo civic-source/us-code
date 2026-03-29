@@ -3,9 +3,9 @@ title: "Section 423h - Report of completion; superintendent of battlefield"
 usc_title: 16
 usc_section: "423h"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 423h"
-generated_at: "2026-03-29T21:27:39.799Z"
+generated_at: "2026-03-29T21:33:47.126Z"
 ---
 
 # § 423h. Report of completion; superintendent of battlefield

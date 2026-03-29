@@ -3,9 +3,9 @@ title: "Section 20505 - Annual meeting"
 usc_title: 36
 usc_section: "20505"
 chapter: 205
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "36 U.S.C. § 20505"
-generated_at: "2026-03-29T21:29:45.012Z"
+generated_at: "2026-03-29T21:34:57.369Z"
 ---
 
 # § 20505. Annual meeting

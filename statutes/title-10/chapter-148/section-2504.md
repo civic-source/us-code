@@ -3,9 +3,9 @@ title: "Section 2504 - National technology and industrial base: annual report an
 usc_title: 10
 usc_section: "2504"
 chapter: 148
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2504"
-generated_at: "2026-03-29T21:26:52.648Z"
+generated_at: "2026-03-29T21:33:09.205Z"
 ---
 
 # § 2504. National technology and industrial base: annual report and quarterly briefings

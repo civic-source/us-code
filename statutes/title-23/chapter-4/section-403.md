@@ -3,9 +3,9 @@ title: "Section 403 - Highway safety research and development"
 usc_title: 23
 usc_section: "403"
 chapter: 4
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "23 U.S.C. § 403"
-generated_at: "2026-03-29T21:28:08.079Z"
+generated_at: "2026-03-29T21:34:18.934Z"
 ---
 
 # § 403. Highway safety research and development
@@ -49,7 +49,7 @@ generated_at: "2026-03-29T21:28:08.079Z"
 - **(g)** The Administrator of the National Highway Traffic Safety Administration may participate and cooperate in international activities to enhance highway safety.
 - **(h)**
   - **(1)** The Administrator of the National Highway Traffic Safety Administration shall carry out a collaborative research effort under chapter 301 of title 49 on in-vehicle technology to prevent alcohol-impaired driving.
-  - **(2)** The Secretary shall obligate from funds made available to carry out this section for the period covering fiscal years 2017 through 2021 not more than $26,560,000’ to conduct the research described in paragraph (1).
+  - **(2)** The Secretary shall obligate from funds made available to carry out this section for the period covering fiscal years 2017 through 2021 not more than $26,560,000 to conduct the research described in paragraph (1).
   - **(3)** The Administrator shall not develop requirements for any device or means of technology to be installed in an automobile intended for retail sale that records a driver’s blood alcohol concentration.
   - **(4)** The Administrator shall submit an annual report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and Committee on Science, Space, and Technology of the House of Representatives that—
     - **(A)** describes the progress made in carrying out the collaborative research effort; and

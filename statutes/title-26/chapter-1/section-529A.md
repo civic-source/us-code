@@ -3,9 +3,9 @@ title: "Section 529A - Qualified ABLE programs"
 usc_title: 26
 usc_section: "529A"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "26 U.S.C. § 529A"
-generated_at: "2026-03-29T21:29:02.115Z"
+generated_at: "2026-03-29T21:34:39.771Z"
 ---
 
 # § 529A. Qualified ABLE programs

@@ -3,9 +3,9 @@ title: "Section 1007 - Enforcement orders"
 usc_title: 47
 usc_section: "1007"
 chapter: 9
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "47 U.S.C. § 1007"
-generated_at: "2026-03-29T21:31:05.796Z"
+generated_at: "2026-03-29T21:36:07.068Z"
 ---
 
 # § 1007. Enforcement orders

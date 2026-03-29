@@ -3,9 +3,9 @@ title: "Section 3249 - Secretarial administrative authorities and responsibiliti
 usc_title: 29
 usc_section: "3249"
 chapter: 32
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "29 U.S.C. § 3249"
-generated_at: "2026-03-29T21:28:45.660Z"
+generated_at: "2026-03-29T21:34:26.027Z"
 ---
 
 # § 3249. Secretarial administrative authorities and responsibilities

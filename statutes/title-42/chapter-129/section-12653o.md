@@ -3,9 +3,9 @@ title: "Section 12653o - National service programs clearinghouses"
 usc_title: 42
 usc_section: "12653o"
 chapter: 129
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 12653o"
-generated_at: "2026-03-29T21:30:45.633Z"
+generated_at: "2026-03-29T21:35:47.638Z"
 ---
 
 # § 12653o. National service programs clearinghouses

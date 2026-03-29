@@ -3,9 +3,9 @@ title: "Section 1815 - Deposit insurance"
 usc_title: 12
 usc_section: "1815"
 chapter: 16
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "12 U.S.C. § 1815"
-generated_at: "2026-03-29T21:27:06.744Z"
+generated_at: "2026-03-29T21:33:20.620Z"
 ---
 
 # § 1815. Deposit insurance

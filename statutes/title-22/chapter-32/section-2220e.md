@@ -3,9 +3,9 @@ title: "Section 2220e - Presidential report to Congress"
 usc_title: 22
 usc_section: "2220e"
 chapter: 32
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "22 U.S.C. § 2220e"
-generated_at: "2026-03-29T21:28:26.053Z"
+generated_at: "2026-03-29T21:34:12.749Z"
 ---
 
 # § 2220e. Presidential report to Congress

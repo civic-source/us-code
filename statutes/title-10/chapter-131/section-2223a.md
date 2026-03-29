@@ -3,9 +3,9 @@ title: "Section 2223a - Information technology acquisition planning and oversigh
 usc_title: 10
 usc_section: "2223a"
 chapter: 131
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 2223a"
-generated_at: "2026-03-29T21:26:52.597Z"
+generated_at: "2026-03-29T21:33:09.142Z"
 ---
 
 # § 2223a. Information technology acquisition planning and oversight requirements

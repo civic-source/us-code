@@ -3,9 +3,9 @@ title: "Section 3480 - Copyrights and patents"
 usc_title: 20
 usc_section: "3480"
 chapter: 48
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "20 U.S.C. § 3480"
-generated_at: "2026-03-29T21:27:24.623Z"
+generated_at: "2026-03-29T21:33:39.273Z"
 ---
 
 # § 3480. Copyrights and patents

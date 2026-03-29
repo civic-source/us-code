@@ -3,9 +3,9 @@ title: "Section 9841 - Payment of small amounts to public creditors"
 usc_title: 10
 usc_section: "9841"
 chapter: 983
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "10 U.S.C. § 9841"
-generated_at: "2026-03-29T21:26:52.798Z"
+generated_at: "2026-03-29T21:33:09.383Z"
 ---
 
 # § 9841. Payment of small amounts to public creditors

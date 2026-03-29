@@ -3,9 +3,9 @@ title: "Section 5a - Alcohol and drug prevention or treatment services for India
 usc_title: 42
 usc_section: "5a"
 chapter: 6
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 5a"
-generated_at: "2026-03-29T21:30:44.292Z"
+generated_at: "2026-03-29T21:35:46.445Z"
 ---
 
 # § 290aa–5a. Alcohol and drug prevention or treatment services for Indians and Native Alaskans

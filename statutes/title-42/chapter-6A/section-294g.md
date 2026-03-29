@@ -3,9 +3,9 @@ title: "Section 294g - Repealed. Pub. L. 111–148, title V, § 5306(a)(1) , Mar
 usc_title: 42
 usc_section: "294g"
 chapter: 6
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "42 U.S.C. § 294g"
-generated_at: "2026-03-29T21:30:44.332Z"
+generated_at: "2026-03-29T21:35:46.483Z"
 ---
 
 # § 294g. Repealed. Pub. L. 111–148, title V, § 5306(a)(1) , Mar. 23, 2010 , 124 Stat. 626

@@ -3,9 +3,9 @@ title: "Section 401 - Establishment; boundaries; administration"
 usc_title: 16
 usc_section: "401"
 chapter: 1
-current_through: "PL 117-42"
+current_through: "PL 117-44"
 classification: "16 U.S.C. § 401"
-generated_at: "2026-03-29T21:27:39.731Z"
+generated_at: "2026-03-29T21:33:47.048Z"
 ---
 
 # § 401. Establishment; boundaries; administration
