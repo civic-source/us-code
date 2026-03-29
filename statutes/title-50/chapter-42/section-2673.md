@@ -3,9 +3,9 @@ title: "Section 2673 - Supplement to plan for declassification of Restricted Dat
 usc_title: 50
 usc_section: "2673"
 chapter: 42
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "50 U.S.C. § 2673"
-generated_at: "2026-03-29T22:30:08.972Z"
+generated_at: "2026-03-29T22:35:28.926Z"
 ---
 
 # § 2673. Supplement to plan for declassification of Restricted Data and Formerly Restricted Data

@@ -3,9 +3,9 @@ title: "Section 1624 - Cooperation with Government and State agencies, private r
 usc_title: 7
 usc_section: "1624"
 chapter: 38
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 1624"
-generated_at: "2026-03-29T22:24:24.937Z"
+generated_at: "2026-03-29T22:31:19.941Z"
 ---
 
 # § 1624. Cooperation with Government and State agencies, private research organizations, etc.; rules and regulations

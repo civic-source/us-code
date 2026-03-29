@@ -3,9 +3,9 @@ title: "Section 1838 - Conversion of cropland into vegetative cover, water stora
 usc_title: 7
 usc_section: "1838"
 chapter: 45
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 1838"
-generated_at: "2026-03-29T22:24:24.970Z"
+generated_at: "2026-03-29T22:31:19.974Z"
 ---
 
 # § 1838. Conversion of cropland into vegetative cover, water storage, wildlife and conservation uses; contracts with farmers

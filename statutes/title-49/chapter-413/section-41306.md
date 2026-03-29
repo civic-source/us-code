@@ -3,9 +3,9 @@ title: "Section 41306 - Simplified procedure to apply for, amend, modify, and su
 usc_title: 49
 usc_section: "41306"
 chapter: 413
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "49 U.S.C. § 41306"
-generated_at: "2026-03-29T22:30:14.925Z"
+generated_at: "2026-03-29T22:36:08.123Z"
 ---
 
 # § 41306. Simplified procedure to apply for, amend, modify, and suspend permits

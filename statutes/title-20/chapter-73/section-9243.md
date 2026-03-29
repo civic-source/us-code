@@ -3,9 +3,9 @@ title: "Section 9243 - Repealed. Pub. L. 113–128, title V, § 511(a) , July 22
 usc_title: 20
 usc_section: "9243"
 chapter: 73
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "20 U.S.C. § 9243"
-generated_at: "2026-03-29T22:25:48.438Z"
+generated_at: "2026-03-29T22:32:02.992Z"
 ---
 
 # §§ 9241 to 9243. Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705

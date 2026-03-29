@@ -3,9 +3,9 @@ title: "Section 403e - Acceptance of title to lands; reservations; leases; right
 usc_title: 16
 usc_section: "403e"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 403e"
-generated_at: "2026-03-29T22:25:36.396Z"
+generated_at: "2026-03-29T22:32:17.784Z"
 ---
 
 # § 403e. Acceptance of title to lands; reservations; leases; rights-of-way and easements

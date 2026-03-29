@@ -3,9 +3,9 @@ title: "Section 2082 - Prior service credit"
 usc_title: 50
 usc_section: "2082"
 chapter: 38
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "50 U.S.C. § 2082"
-generated_at: "2026-03-29T22:30:08.943Z"
+generated_at: "2026-03-29T22:35:28.893Z"
 ---
 
 # § 2082. Prior service credit

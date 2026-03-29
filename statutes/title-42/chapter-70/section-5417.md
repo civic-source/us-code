@@ -3,9 +3,9 @@ title: "Section 5417 - Effect upon antitrust laws"
 usc_title: 42
 usc_section: "5417"
 chapter: 70
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 5417"
-generated_at: "2026-03-29T22:29:57.367Z"
+generated_at: "2026-03-29T22:35:10.579Z"
 ---
 
 # § 5417. Effect upon antitrust laws

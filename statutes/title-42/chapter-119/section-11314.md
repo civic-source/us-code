@@ -3,9 +3,9 @@ title: "Section 11314 - Director and staff"
 usc_title: 42
 usc_section: "11314"
 chapter: 119
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 11314"
-generated_at: "2026-03-29T22:29:57.780Z"
+generated_at: "2026-03-29T22:35:10.990Z"
 ---
 
 # § 11314. Director and staff

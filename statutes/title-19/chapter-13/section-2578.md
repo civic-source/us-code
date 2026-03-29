@@ -3,9 +3,9 @@ title: "Section 2578 - Notice of United States participation in international st
 usc_title: 19
 usc_section: "2578"
 chapter: 13
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "19 U.S.C. § 2578"
-generated_at: "2026-03-29T22:25:41.783Z"
+generated_at: "2026-03-29T22:32:06.731Z"
 ---
 
 # § 2578. Notice of United States participation in international standard-setting activities

@@ -3,9 +3,9 @@ title: "Section 7276f - Western Area Power Administration; deposit and availabil
 usc_title: 42
 usc_section: "7276f"
 chapter: 84
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 7276f"
-generated_at: "2026-03-29T22:29:57.498Z"
+generated_at: "2026-03-29T22:35:10.714Z"
 ---
 
 # § 7276f. Western Area Power Administration; deposit and availability of discretionary offsetting collections

@@ -3,9 +3,9 @@ title: "Section 125 - Cafeteria plans"
 usc_title: 26
 usc_section: "125"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "26 U.S.C. § 125"
-generated_at: "2026-03-29T22:27:05.393Z"
+generated_at: "2026-03-29T22:33:41.172Z"
 ---
 
 # § 125. Cafeteria plans

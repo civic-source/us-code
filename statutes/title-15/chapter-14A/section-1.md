@@ -3,9 +3,9 @@ title: "Section 1 - Certification of small business concerns owned and controlle
 usc_title: 15
 usc_section: "1"
 chapter: 14
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-29T22:25:15.828Z"
+generated_at: "2026-03-29T22:31:51.934Z"
 ---
 
 # § 657f–1. Certification of small business concerns owned and controlled by veterans

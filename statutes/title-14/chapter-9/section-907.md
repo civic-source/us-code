@@ -3,9 +3,9 @@ title: "Section 907 - Long-term lease of special purpose facilities"
 usc_title: 14
 usc_section: "907"
 chapter: 9
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "14 U.S.C. § 907"
-generated_at: "2026-03-29T22:24:58.354Z"
+generated_at: "2026-03-29T22:31:37.560Z"
 ---
 
 # § 907. Long-term lease of special purpose facilities

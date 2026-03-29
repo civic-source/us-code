@@ -3,9 +3,9 @@ title: "Section 21 - Enforcement provisions"
 usc_title: 15
 usc_section: "21"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "15 U.S.C. § 21"
-generated_at: "2026-03-29T22:25:15.595Z"
+generated_at: "2026-03-29T22:31:51.706Z"
 ---
 
 # § 21. Enforcement provisions

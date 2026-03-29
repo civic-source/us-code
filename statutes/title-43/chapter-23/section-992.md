@@ -3,9 +3,9 @@ title: "Section 992 - Sale of erroneously designated water-covered areas in Arka
 usc_title: 43
 usc_section: "992"
 chapter: 23
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "43 U.S.C. § 992"
-generated_at: "2026-03-29T22:28:42.343Z"
+generated_at: "2026-03-29T22:34:28.412Z"
 ---
 
 # § 992. Sale of erroneously designated water-covered areas in Arkansas

@@ -3,9 +3,9 @@ title: "Section 11 - Same; modification or correction; grounds; order"
 usc_title: 9
 usc_section: "11"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "9 U.S.C. § 11"
-generated_at: "2026-03-29T22:24:12.032Z"
+generated_at: "2026-03-29T22:31:08.346Z"
 ---
 
 # § 11. Same; modification or correction; grounds; order

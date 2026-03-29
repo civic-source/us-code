@@ -3,9 +3,9 @@ title: "Section 3307 - Administrative provisions"
 usc_title: 25
 usc_section: "3307"
 chapter: 35
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "25 U.S.C. § 3307"
-generated_at: "2026-03-29T22:25:56.810Z"
+generated_at: "2026-03-29T22:32:28.885Z"
 ---
 
 # § 3307. Administrative provisions

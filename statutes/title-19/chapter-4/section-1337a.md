@@ -3,9 +3,9 @@ title: "Section 1337a - Repealed. Pub. L. 100–418, title I, § 1342(c) , Aug. 
 usc_title: 19
 usc_section: "1337a"
 chapter: 4
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "19 U.S.C. § 1337a"
-generated_at: "2026-03-29T22:25:41.659Z"
+generated_at: "2026-03-29T22:32:06.606Z"
 ---
 
 # § 1337a. Repealed. Pub. L. 100–418, title I, § 1342(c) , Aug. 23, 1988 , 102 Stat. 1215

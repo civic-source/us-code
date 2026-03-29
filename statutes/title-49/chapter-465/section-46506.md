@@ -3,9 +3,9 @@ title: "Section 46506 - Application of certain criminal laws to acts on aircraft
 usc_title: 49
 usc_section: "46506"
 chapter: 465
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "49 U.S.C. § 46506"
-generated_at: "2026-03-29T22:30:14.978Z"
+generated_at: "2026-03-29T22:36:08.184Z"
 ---
 
 # § 46506. Application of certain criminal laws to acts on aircraft

@@ -3,9 +3,9 @@ title: "Section 1735 - Restriction on issuance of visas to nonimmigrants from co
 usc_title: 8
 usc_section: "1735"
 chapter: 15
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "8 U.S.C. § 1735"
-generated_at: "2026-03-29T22:24:16.051Z"
+generated_at: "2026-03-29T22:31:12.923Z"
 ---
 
 # § 1735. Restriction on issuance of visas to nonimmigrants from countries that are state sponsors of international terrorism

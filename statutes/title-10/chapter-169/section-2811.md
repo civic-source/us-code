@@ -3,9 +3,9 @@ title: "Section 2811 - Repair of facilities"
 usc_title: 10
 usc_section: "2811"
 chapter: 169
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 2811"
-generated_at: "2026-03-29T22:24:51.685Z"
+generated_at: "2026-03-29T22:31:32.846Z"
 ---
 
 # § 2811. Repair of facilities

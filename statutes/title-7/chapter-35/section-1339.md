@@ -3,9 +3,9 @@ title: "Section 1339 - Land use"
 usc_title: 7
 usc_section: "1339"
 chapter: 35
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 1339"
-generated_at: "2026-03-29T22:24:24.879Z"
+generated_at: "2026-03-29T22:31:19.888Z"
 ---
 
 # § 1339. Land use

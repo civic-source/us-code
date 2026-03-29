@@ -3,9 +3,9 @@ title: "Section 11004 - Emergency notification"
 usc_title: 42
 usc_section: "11004"
 chapter: 116
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 11004"
-generated_at: "2026-03-29T22:29:57.769Z"
+generated_at: "2026-03-29T22:35:10.977Z"
 ---
 
 # § 11004. Emergency notification

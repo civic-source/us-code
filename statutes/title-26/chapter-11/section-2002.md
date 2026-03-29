@@ -3,9 +3,9 @@ title: "Section 2002 - Liability for payment"
 usc_title: 26
 usc_section: "2002"
 chapter: 11
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "26 U.S.C. § 2002"
-generated_at: "2026-03-29T22:27:05.801Z"
+generated_at: "2026-03-29T22:33:41.560Z"
 ---
 
 # § 2002. Liability for payment

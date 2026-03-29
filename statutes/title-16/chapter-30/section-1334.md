@@ -3,9 +3,9 @@ title: "Section 1334 - Private maintenance; numerical approximation; strays on p
 usc_title: 16
 usc_section: "1334"
 chapter: 30
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 1334"
-generated_at: "2026-03-29T22:25:36.821Z"
+generated_at: "2026-03-29T22:32:18.186Z"
 ---
 
 # § 1334. Private maintenance; numerical approximation; strays on private lands: removal; destruction by agents

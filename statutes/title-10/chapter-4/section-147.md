@@ -3,9 +3,9 @@ title: "Section 147 - Chief Diversity Officer"
 usc_title: 10
 usc_section: "147"
 chapter: 4
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 147"
-generated_at: "2026-03-29T22:24:51.395Z"
+generated_at: "2026-03-29T22:31:32.573Z"
 ---
 
 # § 147. Chief Diversity Officer

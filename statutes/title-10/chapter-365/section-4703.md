@@ -3,9 +3,9 @@ title: "Section 4703 - Displaced contractor employees: assistance to obtain cert
 usc_title: 10
 usc_section: "4703"
 chapter: 365
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 4703"
-generated_at: "2026-03-29T22:24:51.757Z"
+generated_at: "2026-03-29T22:31:32.911Z"
 ---
 
 # § 4703. Displaced contractor employees: assistance to obtain certification and employment as teachers or employment as teachers’ aides

@@ -3,9 +3,9 @@ title: "Section 160c - Acquisition of improved property"
 usc_title: 16
 usc_section: "160c"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 160c"
-generated_at: "2026-03-29T22:25:36.359Z"
+generated_at: "2026-03-29T22:32:17.748Z"
 ---
 
 # § 160c. Acquisition of improved property

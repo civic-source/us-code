@@ -3,9 +3,9 @@ title: "Section 8174 - Report on efforts to promote the implementation of additi
 usc_title: 22
 usc_section: "8174"
 chapter: 88
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 8174"
-generated_at: "2026-03-29T22:26:06.206Z"
+generated_at: "2026-03-29T22:32:42.451Z"
 ---
 
 # § 8174. Report on efforts to promote the implementation of additional protocols

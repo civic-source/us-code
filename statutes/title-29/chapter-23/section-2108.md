@@ -3,9 +3,9 @@ title: "Section 2108 - Effect on other laws"
 usc_title: 29
 usc_section: "2108"
 chapter: 23
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "29 U.S.C. § 2108"
-generated_at: "2026-03-29T22:26:32.965Z"
+generated_at: "2026-03-29T22:33:19.062Z"
 ---
 
 # § 2108. Effect on other laws

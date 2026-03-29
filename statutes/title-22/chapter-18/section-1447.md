@@ -3,9 +3,9 @@ title: "Section 1447 - Books and materials"
 usc_title: 22
 usc_section: "1447"
 chapter: 18
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 1447"
-generated_at: "2026-03-29T22:26:05.870Z"
+generated_at: "2026-03-29T22:32:42.136Z"
 ---
 
 # § 1447. Books and materials

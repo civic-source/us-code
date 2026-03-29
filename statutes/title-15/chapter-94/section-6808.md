@@ -3,9 +3,9 @@ title: "Section 6808 - Study of information sharing among financial affiliates"
 usc_title: 15
 usc_section: "6808"
 chapter: 94
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "15 U.S.C. § 6808"
-generated_at: "2026-03-29T22:25:16.138Z"
+generated_at: "2026-03-29T22:31:52.231Z"
 ---
 
 # § 6808. Study of information sharing among financial affiliates

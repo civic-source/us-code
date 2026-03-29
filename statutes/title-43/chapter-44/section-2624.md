@@ -3,9 +3,9 @@ title: "Section 2624 - Amount available for administration of Coos Bay Wagon Roa
 usc_title: 43
 usc_section: "2624"
 chapter: 44
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "43 U.S.C. § 2624"
-generated_at: "2026-03-29T22:28:42.424Z"
+generated_at: "2026-03-29T22:34:28.493Z"
 ---
 
 # § 2624. Amount available for administration of Coos Bay Wagon Road grant lands under subchapter I; covering of unused receipts into general fund of Treasury

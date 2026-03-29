@@ -3,9 +3,9 @@ title: "Section 1464 - Maturity of loans; interest rate; interest deferral on ed
 usc_title: 25
 usc_section: "1464"
 chapter: 17
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "25 U.S.C. § 1464"
-generated_at: "2026-03-29T22:25:56.717Z"
+generated_at: "2026-03-29T22:32:28.795Z"
 ---
 
 # § 1464. Maturity of loans; interest rate; interest deferral on educational loans

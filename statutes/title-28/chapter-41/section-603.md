@@ -3,9 +3,9 @@ title: "Section 603 - Salaries"
 usc_title: 28
 usc_section: "603"
 chapter: 41
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "28 U.S.C. § 603"
-generated_at: "2026-03-29T22:26:26.688Z"
+generated_at: "2026-03-29T22:33:16.395Z"
 ---
 
 # § 603. Salaries

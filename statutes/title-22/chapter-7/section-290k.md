@@ -3,9 +3,9 @@ title: "Section 290k - Acceptance of membership"
 usc_title: 22
 usc_section: "290k"
 chapter: 7
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 290k"
-generated_at: "2026-03-29T22:26:05.850Z"
+generated_at: "2026-03-29T22:32:42.117Z"
 ---
 
 # § 290k. Acceptance of membership

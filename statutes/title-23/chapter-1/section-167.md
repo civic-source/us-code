@@ -3,9 +3,9 @@ title: "Section 167 - National highway freight program"
 usc_title: 23
 usc_section: "167"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "23 U.S.C. § 167"
-generated_at: "2026-03-29T22:26:20.394Z"
+generated_at: "2026-03-29T22:32:48.900Z"
 ---
 
 # § 167. National highway freight program

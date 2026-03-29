@@ -3,9 +3,9 @@ title: "Section 6409 - Assessments"
 usc_title: 7
 usc_section: "6409"
 chapter: 93
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 6409"
-generated_at: "2026-03-29T22:24:25.193Z"
+generated_at: "2026-03-29T22:31:20.163Z"
 ---
 
 # § 6409. Assessments

@@ -3,9 +3,9 @@ title: "Section 2011 - Provisions relating to competitive products"
 usc_title: 39
 usc_section: "2011"
 chapter: 20
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "39 U.S.C. § 2011"
-generated_at: "2026-03-29T22:28:07.614Z"
+generated_at: "2026-03-29T22:34:22.572Z"
 ---
 
 # § 2011. Provisions relating to competitive products

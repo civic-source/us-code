@@ -3,9 +3,9 @@ title: "Section 4421 - Weapon system component or technology prototype projects:
 usc_title: 10
 usc_section: "4421"
 chapter: 327
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 4421"
-generated_at: "2026-03-29T22:24:51.752Z"
+generated_at: "2026-03-29T22:31:32.904Z"
 ---
 
 # § 4421. Weapon system component or technology prototype projects: display of budget information

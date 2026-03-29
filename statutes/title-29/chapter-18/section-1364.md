@@ -3,9 +3,9 @@ title: "Section 1364 - Liability on termination of single-employer plans under m
 usc_title: 29
 usc_section: "1364"
 chapter: 18
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "29 U.S.C. § 1364"
-generated_at: "2026-03-29T22:26:32.945Z"
+generated_at: "2026-03-29T22:33:19.043Z"
 ---
 
 # § 1364. Liability on termination of single-employer plans under multiple controlled groups

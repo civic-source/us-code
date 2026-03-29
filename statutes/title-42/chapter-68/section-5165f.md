@@ -3,9 +3,9 @@ title: "Section 5165f - National Urban Search and Rescue Response System"
 usc_title: 42
 usc_section: "5165f"
 chapter: 68
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 5165f"
-generated_at: "2026-03-29T22:29:57.335Z"
+generated_at: "2026-03-29T22:35:10.550Z"
 ---
 
 # § 5165f. National Urban Search and Rescue Response System

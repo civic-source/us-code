@@ -3,9 +3,9 @@ title: "Section 2229 - Travel and per diem expenses of temporary or seasonal emp
 usc_title: 7
 usc_section: "2229"
 chapter: 55
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 2229"
-generated_at: "2026-03-29T22:24:25.068Z"
+generated_at: "2026-03-29T22:31:20.059Z"
 ---
 
 # § 2229. Travel and per diem expenses of temporary or seasonal employees

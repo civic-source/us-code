@@ -3,9 +3,9 @@ title: "Section 407 - Humanitarian demining assistance and stockpiled convention
 usc_title: 10
 usc_section: "407"
 chapter: 20
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 407"
-generated_at: "2026-03-29T22:24:51.431Z"
+generated_at: "2026-03-29T22:31:32.607Z"
 ---
 
 # § 407. Humanitarian demining assistance and stockpiled conventional munitions assistance: authority; limitations

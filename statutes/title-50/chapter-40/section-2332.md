@@ -3,9 +3,9 @@ title: "Section 2332 - Sense of Congress concerning criminal penalties"
 usc_title: 50
 usc_section: "2332"
 chapter: 40
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "50 U.S.C. § 2332"
-generated_at: "2026-03-29T22:30:08.949Z"
+generated_at: "2026-03-29T22:35:28.902Z"
 ---
 
 # § 2332. Sense of Congress concerning criminal penalties

@@ -3,9 +3,9 @@ title: "Section 5872 - Transfer of personnel"
 usc_title: 42
 usc_section: "5872"
 chapter: 73
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 5872"
-generated_at: "2026-03-29T22:29:57.377Z"
+generated_at: "2026-03-29T22:35:10.591Z"
 ---
 
 # § 5872. Transfer of personnel

@@ -3,9 +3,9 @@ title: "Section 1d - Increase in capital stock of Bank; subscription to addition
 usc_title: 22
 usc_section: "1d"
 chapter: 7
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 1d"
-generated_at: "2026-03-29T22:26:05.832Z"
+generated_at: "2026-03-29T22:32:42.098Z"
 ---
 
 # § 286e–1d. Increase in capital stock of Bank; subscription to additional shares; authorization of appropriations

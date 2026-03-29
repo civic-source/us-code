@@ -3,9 +3,9 @@ title: "Section 4230 - Promulgation of regulations"
 usc_title: 12
 usc_section: "4230"
 chapter: 43
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "12 U.S.C. § 4230"
-generated_at: "2026-03-29T22:25:05.039Z"
+generated_at: "2026-03-29T22:31:45.325Z"
 ---
 
 # § 4230. Promulgation of regulations

@@ -3,9 +3,9 @@ title: "Section 4263 - Definitions"
 usc_title: 16
 usc_section: "4263"
 chapter: 62
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 4263"
-generated_at: "2026-03-29T22:25:36.996Z"
+generated_at: "2026-03-29T22:32:18.346Z"
 ---
 
 # § 4263. Definitions

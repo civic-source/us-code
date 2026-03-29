@@ -3,9 +3,9 @@ title: "Section 393 - Food and Drug Administration"
 usc_title: 21
 usc_section: "393"
 chapter: 9
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "21 U.S.C. § 393"
-generated_at: "2026-03-29T22:26:14.014Z"
+generated_at: "2026-03-29T22:32:26.440Z"
 ---
 
 # § 393. Food and Drug Administration

@@ -3,9 +3,9 @@ title: "Section 555 - Secretarial review"
 usc_title: 37
 usc_section: "555"
 chapter: 10
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "37 U.S.C. § 555"
-generated_at: "2026-03-29T22:27:55.040Z"
+generated_at: "2026-03-29T22:34:00.385Z"
 ---
 
 # § 555. Secretarial review

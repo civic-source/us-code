@@ -3,9 +3,9 @@ title: "Section 20163 - Certification of train conductors"
 usc_title: 49
 usc_section: "20163"
 chapter: 201
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "49 U.S.C. § 20163"
-generated_at: "2026-03-29T22:30:14.836Z"
+generated_at: "2026-03-29T22:36:08.032Z"
 ---
 
 # § 20163. Certification of train conductors

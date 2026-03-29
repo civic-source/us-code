@@ -3,9 +3,9 @@ title: "Section 5104 - Representation and tampering"
 usc_title: 49
 usc_section: "5104"
 chapter: 51
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "49 U.S.C. § 5104"
-generated_at: "2026-03-29T22:30:14.753Z"
+generated_at: "2026-03-29T22:36:07.951Z"
 ---
 
 # § 5104. Representation and tampering

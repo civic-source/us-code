@@ -3,9 +3,9 @@ title: "Section 2658a - Foreign Affairs Manual and Foreign Affairs Handbook chan
 usc_title: 22
 usc_section: "2658a"
 chapter: 38
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 2658a"
-generated_at: "2026-03-29T22:26:05.998Z"
+generated_at: "2026-03-29T22:32:42.253Z"
 ---
 
 # § 2658a. Foreign Affairs Manual and Foreign Affairs Handbook changes

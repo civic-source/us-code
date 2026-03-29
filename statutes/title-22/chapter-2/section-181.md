@@ -3,9 +3,9 @@ title: "Section 181 - Repealed. Aug. 1, 1956, ch. 807 , 70 Stat. 774"
 usc_title: 22
 usc_section: "181"
 chapter: 2
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 181"
-generated_at: "2026-03-29T22:26:05.789Z"
+generated_at: "2026-03-29T22:32:42.060Z"
 ---
 
 # §§ 176 to 181. Repealed. Aug. 1, 1956, ch. 807 , 70 Stat. 774

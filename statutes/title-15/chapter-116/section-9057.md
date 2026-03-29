@@ -3,9 +3,9 @@ title: "Section 9057 - Forbearance of residential mortgage loan payments for mul
 usc_title: 15
 usc_section: "9057"
 chapter: 116
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "15 U.S.C. § 9057"
-generated_at: "2026-03-29T22:25:16.211Z"
+generated_at: "2026-03-29T22:31:52.300Z"
 ---
 
 # § 9057. Forbearance of residential mortgage loan payments for multifamily properties with Federally backed loans

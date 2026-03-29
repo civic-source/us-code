@@ -3,9 +3,9 @@ title: "Section 79b - Park area"
 usc_title: 16
 usc_section: "79b"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 79b"
-generated_at: "2026-03-29T22:25:36.344Z"
+generated_at: "2026-03-29T22:32:17.732Z"
 ---
 
 # § 79b. Park area

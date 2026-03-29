@@ -3,9 +3,9 @@ title: "Section 2201 - “Secretary” defined"
 usc_title: 33
 usc_section: "2201"
 chapter: 36
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "33 U.S.C. § 2201"
-generated_at: "2026-03-29T22:27:51.064Z"
+generated_at: "2026-03-29T22:33:52.138Z"
 ---
 
 # § 2201. “Secretary” defined

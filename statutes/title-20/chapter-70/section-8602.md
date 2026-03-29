@@ -3,9 +3,9 @@ title: "Section 8602 - Repealed. Pub. L. 107–110, title X, § 1011(5)(B) , Jan
 usc_title: 20
 usc_section: "8602"
 chapter: 70
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "20 U.S.C. § 8602"
-generated_at: "2026-03-29T22:25:48.431Z"
+generated_at: "2026-03-29T22:32:02.985Z"
 ---
 
 # §§ 8601, 8602. Repealed. Pub. L. 107–110, title X, § 1011(5)(B) , Jan. 8, 2002 , 115 Stat. 1986

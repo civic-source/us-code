@@ -3,9 +3,9 @@ title: "Section 8121 - Claim"
 usc_title: 5
 usc_section: "8121"
 chapter: 81
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "5 U.S.C. § 8121"
-generated_at: "2026-03-29T22:24:09.902Z"
+generated_at: "2026-03-29T22:30:58.846Z"
 ---
 
 # § 8121. Claim

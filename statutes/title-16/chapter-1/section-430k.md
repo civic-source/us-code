@@ -3,9 +3,9 @@ title: "Section 430k - Condemnation proceedings; purchase without condemnation; 
 usc_title: 16
 usc_section: "430k"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 430k"
-generated_at: "2026-03-29T22:25:36.480Z"
+generated_at: "2026-03-29T22:32:17.867Z"
 ---
 
 # § 430k. Condemnation proceedings; purchase without condemnation; acceptance of donations of land

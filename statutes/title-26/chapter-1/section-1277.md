@@ -3,9 +3,9 @@ title: "Section 1277 - Deferral of interest deduction allocable to accrued marke
 usc_title: 26
 usc_section: "1277"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "26 U.S.C. § 1277"
-generated_at: "2026-03-29T22:27:05.770Z"
+generated_at: "2026-03-29T22:33:41.526Z"
 ---
 
 # § 1277. Deferral of interest deduction allocable to accrued market discount

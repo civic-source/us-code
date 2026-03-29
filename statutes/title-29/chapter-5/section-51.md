@@ -3,9 +3,9 @@ title: "Section 51 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 29
 usc_section: "51"
 chapter: 5
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "29 U.S.C. § 51"
-generated_at: "2026-03-29T22:26:32.799Z"
+generated_at: "2026-03-29T22:33:18.900Z"
 ---
 
 # § 51. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 642

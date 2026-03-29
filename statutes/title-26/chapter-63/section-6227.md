@@ -3,9 +3,9 @@ title: "Section 6227 - Administrative adjustment request by partnership"
 usc_title: 26
 usc_section: "6227"
 chapter: 63
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "26 U.S.C. § 6227"
-generated_at: "2026-03-29T22:27:05.980Z"
+generated_at: "2026-03-29T22:33:41.749Z"
 ---
 
 # § 6227. Administrative adjustment request by partnership

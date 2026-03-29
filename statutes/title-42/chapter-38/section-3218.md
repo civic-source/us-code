@@ -3,9 +3,9 @@ title: "Section 3218 - Records and audits"
 usc_title: 42
 usc_section: "3218"
 chapter: 38
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 3218"
-generated_at: "2026-03-29T22:29:57.241Z"
+generated_at: "2026-03-29T22:35:10.457Z"
 ---
 
 # § 3218. Records and audits

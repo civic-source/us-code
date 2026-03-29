@@ -3,9 +3,9 @@ title: "Section 12512 - Repealed. Pub. L. 103–82, title I, § 112 , Sept. 21, 
 usc_title: 42
 usc_section: "12512"
 chapter: 129
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 12512"
-generated_at: "2026-03-29T22:29:57.824Z"
+generated_at: "2026-03-29T22:35:11.030Z"
 ---
 
 # § 12512. Repealed. Pub. L. 103–82, title I, § 112 , Sept. 21, 1993 , 107 Stat. 861

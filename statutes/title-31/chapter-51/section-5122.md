@@ -3,9 +3,9 @@ title: "Section 5122 - Payment to depositors"
 usc_title: 31
 usc_section: "5122"
 chapter: 51
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "31 U.S.C. § 5122"
-generated_at: "2026-03-29T22:27:17.780Z"
+generated_at: "2026-03-29T22:33:48.812Z"
 ---
 
 # § 5122. Payment to depositors

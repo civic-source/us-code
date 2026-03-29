@@ -3,9 +3,9 @@ title: "Section 303 - Repealed. Pub. L. 114–323, title VII, § 715(a)(1) , Dec
 usc_title: 22
 usc_section: "303"
 chapter: 8
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 303"
-generated_at: "2026-03-29T22:26:05.857Z"
+generated_at: "2026-03-29T22:32:42.122Z"
 ---
 
 # § 303. Repealed. Pub. L. 114–323, title VII, § 715(a)(1) , Dec. 16, 2016 , 130 Stat. 1946

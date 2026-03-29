@@ -3,9 +3,9 @@ title: "Section 5394 - Reports"
 usc_title: 25
 usc_section: "5394"
 chapter: 46
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "25 U.S.C. § 5394"
-generated_at: "2026-03-29T22:25:56.865Z"
+generated_at: "2026-03-29T22:32:28.938Z"
 ---
 
 # § 5394. Reports

@@ -3,9 +3,9 @@ title: "Section 101912 - Findings and declaration of policy"
 usc_title: 54
 usc_section: "101912"
 chapter: 1019
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "54 U.S.C. § 101912"
-generated_at: "2026-03-29T22:30:22.577Z"
+generated_at: "2026-03-29T22:36:12.647Z"
 ---
 
 # § 101912. Findings and declaration of policy

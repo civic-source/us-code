@@ -3,9 +3,9 @@ title: "Section 10 - Judicial review"
 usc_title: 16
 usc_section: "10"
 chapter: 2
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 10"
-generated_at: "2026-03-29T22:25:36.624Z"
+generated_at: "2026-03-29T22:32:18.001Z"
 ---
 
 # § 539m–10. Judicial review

@@ -3,9 +3,9 @@ title: "Section 3855 - Warnings, detentions, dismissals, exclusion"
 usc_title: 33
 usc_section: "3855"
 chapter: 51
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "33 U.S.C. § 3855"
-generated_at: "2026-03-29T22:27:51.143Z"
+generated_at: "2026-03-29T22:33:52.219Z"
 ---
 
 # § 3855. Warnings, detentions, dismissals, exclusion

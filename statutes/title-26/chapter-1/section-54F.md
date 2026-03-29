@@ -3,9 +3,9 @@ title: "Section 54F - Repealed. Pub. L. 115–97, title I, § 13404(a) , Dec. 22
 usc_title: 26
 usc_section: "54F"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "26 U.S.C. § 54F"
-generated_at: "2026-03-29T22:27:05.362Z"
+generated_at: "2026-03-29T22:33:41.142Z"
 ---
 
 # [§§ 54A to 54F. Repealed. Pub. L. 115–97, title I, § 13404(a) , Dec. 22, 2017 , 131 Stat. 2138 ]

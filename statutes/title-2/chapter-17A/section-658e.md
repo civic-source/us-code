@@ -3,9 +3,9 @@ title: "Section 658e - Provisions relating to House of Representatives"
 usc_title: 2
 usc_section: "658e"
 chapter: 17
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "2 U.S.C. § 658e"
-generated_at: "2026-03-29T22:24:03.444Z"
+generated_at: "2026-03-29T22:31:03.727Z"
 ---
 
 # § 658e. Provisions relating to House of Representatives

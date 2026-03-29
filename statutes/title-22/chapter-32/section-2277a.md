@@ -3,9 +3,9 @@ title: "Section 2277a - Targeted sanctions to fight corruption in El Salvador, G
 usc_title: 22
 usc_section: "2277a"
 chapter: 32
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 2277a"
-generated_at: "2026-03-29T22:26:05.928Z"
+generated_at: "2026-03-29T22:32:42.191Z"
 ---
 
 # § 2277a. Targeted sanctions to fight corruption in El Salvador, Guatemala,, 1 1 So in original. Honduras, and Nicaragua

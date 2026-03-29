@@ -3,9 +3,9 @@ title: "Section 953 - Exportation of controlled substances"
 usc_title: 21
 usc_section: "953"
 chapter: 13
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "21 U.S.C. § 953"
-generated_at: "2026-03-29T22:26:14.057Z"
+generated_at: "2026-03-29T22:32:26.478Z"
 ---
 
 # § 953. Exportation of controlled substances

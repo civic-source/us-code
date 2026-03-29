@@ -3,9 +3,9 @@ title: "Section 2015 - Special reports to Congress"
 usc_title: 19
 usc_section: "2015"
 chapter: 8
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "19 U.S.C. § 2015"
-generated_at: "2026-03-29T22:25:41.734Z"
+generated_at: "2026-03-29T22:32:06.682Z"
 ---
 
 # § 2015. Special reports to Congress

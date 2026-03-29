@@ -3,9 +3,9 @@ title: "Section 120101 - Organization"
 usc_title: 36
 usc_section: "120101"
 chapter: 1201
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "36 U.S.C. § 120101"
-generated_at: "2026-03-29T22:28:14.928Z"
+generated_at: "2026-03-29T22:34:03.631Z"
 ---
 
 # § 120101. Organization

@@ -3,9 +3,9 @@ title: "Section 44 - State flexibility in individual market reforms"
 usc_title: 42
 usc_section: "44"
 chapter: 6
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 44"
-generated_at: "2026-03-29T22:29:56.395Z"
+generated_at: "2026-03-29T22:35:09.623Z"
 ---
 
 # § 300gg–44. State flexibility in individual market reforms

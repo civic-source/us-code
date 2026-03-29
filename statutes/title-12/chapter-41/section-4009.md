@@ -3,9 +3,9 @@ title: "Section 4009 - Administrative enforcement"
 usc_title: 12
 usc_section: "4009"
 chapter: 41
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "12 U.S.C. § 4009"
-generated_at: "2026-03-29T22:25:05.027Z"
+generated_at: "2026-03-29T22:31:45.315Z"
 ---
 
 # § 4009. Administrative enforcement

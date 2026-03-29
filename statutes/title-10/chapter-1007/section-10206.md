@@ -3,9 +3,9 @@ title: "Section 10206 - Members: physical examinations"
 usc_title: 10
 usc_section: "10206"
 chapter: 1007
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 10206"
-generated_at: "2026-03-29T22:24:51.868Z"
+generated_at: "2026-03-29T22:31:32.998Z"
 ---
 
 # § 10206. Members: physical examinations

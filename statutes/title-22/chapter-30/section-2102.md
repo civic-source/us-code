@@ -3,9 +3,9 @@ title: "Section 2102 - Authority of Secretary"
 usc_title: 22
 usc_section: "2102"
 chapter: 30
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 2102"
-generated_at: "2026-03-29T22:26:05.897Z"
+generated_at: "2026-03-29T22:32:42.163Z"
 ---
 
 # § 2102. Authority of Secretary

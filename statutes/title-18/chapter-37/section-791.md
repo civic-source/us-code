@@ -3,9 +3,9 @@ title: "Section 791 - Repealed. Pub. L. 87–369, § 1 , Oct. 4, 1961 , 75 Stat.
 usc_title: 18
 usc_section: "791"
 chapter: 37
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "18 U.S.C. § 791"
-generated_at: "2026-03-29T22:25:26.979Z"
+generated_at: "2026-03-29T22:32:10.082Z"
 ---
 
 # [§ 791. Repealed. Pub. L. 87–369, § 1 , Oct. 4, 1961 , 75 Stat. 795 ]

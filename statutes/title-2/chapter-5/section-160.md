@@ -3,9 +3,9 @@ title: "Section 160 - Disbursement of gifts, etc., to Library"
 usc_title: 2
 usc_section: "160"
 chapter: 5
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "2 U.S.C. § 160"
-generated_at: "2026-03-29T22:24:03.405Z"
+generated_at: "2026-03-29T22:31:03.697Z"
 ---
 
 # § 160. Disbursement of gifts, etc., to Library

@@ -3,9 +3,9 @@ title: "Section 2292 - General provisions"
 usc_title: 22
 usc_section: "2292"
 chapter: 32
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 2292"
-generated_at: "2026-03-29T22:26:05.934Z"
+generated_at: "2026-03-29T22:32:42.196Z"
 ---
 
 # § 2292. General provisions

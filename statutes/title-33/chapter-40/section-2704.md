@@ -3,9 +3,9 @@ title: "Section 2704 - Limits on liability"
 usc_title: 33
 usc_section: "2704"
 chapter: 40
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "33 U.S.C. § 2704"
-generated_at: "2026-03-29T22:27:51.106Z"
+generated_at: "2026-03-29T22:33:52.184Z"
 ---
 
 # § 2704. Limits on liability

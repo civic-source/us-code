@@ -3,9 +3,9 @@ title: "Section 4053 - Barter arrangements"
 usc_title: 15
 usc_section: "4053"
 chapter: 66
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "15 U.S.C. § 4053"
-generated_at: "2026-03-29T22:25:16.092Z"
+generated_at: "2026-03-29T22:31:52.184Z"
 ---
 
 # § 4053. Barter arrangements

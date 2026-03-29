@@ -3,9 +3,9 @@ title: "Section 10 - Equal facilities to connecting lines; discrimination in rat
 usc_title: 47
 usc_section: "10"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "47 U.S.C. § 10"
-generated_at: "2026-03-29T22:30:16.313Z"
+generated_at: "2026-03-29T22:35:21.199Z"
 ---
 
 # § 10. Equal facilities to connecting lines; discrimination in rates

@@ -3,9 +3,9 @@ title: "Section 2281 - Congressional declaration of purpose"
 usc_title: 7
 usc_section: "2281"
 chapter: 55
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 2281"
-generated_at: "2026-03-29T22:24:25.079Z"
+generated_at: "2026-03-29T22:31:20.068Z"
 ---
 
 # § 2281. Congressional declaration of purpose

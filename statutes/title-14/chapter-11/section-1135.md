@@ -3,9 +3,9 @@ title: "Section 1135 - Acquisition program baseline breach"
 usc_title: 14
 usc_section: "1135"
 chapter: 11
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "14 U.S.C. § 1135"
-generated_at: "2026-03-29T22:24:58.364Z"
+generated_at: "2026-03-29T22:31:37.566Z"
 ---
 
 # § 1135. Acquisition program baseline breach

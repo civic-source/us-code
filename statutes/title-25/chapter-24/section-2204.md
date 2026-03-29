@@ -3,9 +3,9 @@ title: "Section 2204 - Purchase of trust or restricted or controlled lands at no
 usc_title: 25
 usc_section: "2204"
 chapter: 24
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "25 U.S.C. § 2204"
-generated_at: "2026-03-29T22:25:56.775Z"
+generated_at: "2026-03-29T22:32:28.849Z"
 ---
 
 # § 2204. Purchase of trust or restricted or controlled lands at no less than fair market value; requisite conditions

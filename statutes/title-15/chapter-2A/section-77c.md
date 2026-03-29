@@ -3,9 +3,9 @@ title: "Section 77c - Classes of securities under this subchapter"
 usc_title: 15
 usc_section: "77c"
 chapter: 2
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "15 U.S.C. § 77c"
-generated_at: "2026-03-29T22:25:15.618Z"
+generated_at: "2026-03-29T22:31:51.728Z"
 ---
 
 # § 77c. Classes of securities under this subchapter

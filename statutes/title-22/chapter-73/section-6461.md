@@ -3,9 +3,9 @@ title: "Section 6461 - Exports of certain items used in particularly severe viol
 usc_title: 22
 usc_section: "6461"
 chapter: 73
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 6461"
-generated_at: "2026-03-29T22:26:06.149Z"
+generated_at: "2026-03-29T22:32:42.397Z"
 ---
 
 # § 6461. Exports of certain items used in particularly severe violations of religious freedom

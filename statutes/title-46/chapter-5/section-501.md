@@ -3,9 +3,9 @@ title: "Section 501 - Waiver of navigation and vessel-inspection laws"
 usc_title: 46
 usc_section: "501"
 chapter: 5
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "46 U.S.C. § 501"
-generated_at: "2026-03-29T22:30:18.628Z"
+generated_at: "2026-03-29T22:35:50.564Z"
 ---
 
 # § 501. Waiver of navigation and vessel-inspection laws

@@ -3,9 +3,9 @@ title: "Section 8120 - Expiration: rights of member"
 usc_title: 10
 usc_section: "8120"
 chapter: 813
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 8120"
-generated_at: "2026-03-29T22:24:51.803Z"
+generated_at: "2026-03-29T22:31:32.945Z"
 ---
 
 # § 8120. Expiration: rights of member

@@ -3,9 +3,9 @@ title: "Section 213 - Omitted"
 usc_title: 48
 usc_section: "213"
 chapter: 2
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "48 U.S.C. § 213"
-generated_at: "2026-03-29T22:30:03.980Z"
+generated_at: "2026-03-29T22:35:19.361Z"
 ---
 
 # §§ 191 to 213. Omitted

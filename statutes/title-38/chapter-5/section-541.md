@@ -3,9 +3,9 @@ title: "Section 541 - Advisory Committee on Former Prisoners of War"
 usc_title: 38
 usc_section: "541"
 chapter: 5
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "38 U.S.C. § 541"
-generated_at: "2026-03-29T22:28:32.200Z"
+generated_at: "2026-03-29T22:34:08.112Z"
 ---
 
 # § 541. Advisory Committee on Former Prisoners of War

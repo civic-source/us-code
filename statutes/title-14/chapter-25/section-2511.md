@@ -3,9 +3,9 @@ title: "Section 2511 - Investigations of flag officers and Senior Executive Serv
 usc_title: 14
 usc_section: "2511"
 chapter: 25
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "14 U.S.C. § 2511"
-generated_at: "2026-03-29T22:24:58.376Z"
+generated_at: "2026-03-29T22:31:37.579Z"
 ---
 
 # § 2511. Investigations of flag officers and Senior Executive Service employees

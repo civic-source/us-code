@@ -3,9 +3,9 @@ title: "Section 2461 - Appeals"
 usc_title: 7
 usc_section: "2461"
 chapter: 57
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 2461"
-generated_at: "2026-03-29T22:24:25.083Z"
+generated_at: "2026-03-29T22:31:20.071Z"
 ---
 
 # § 2461. Appeals

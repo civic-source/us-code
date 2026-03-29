@@ -3,9 +3,9 @@ title: "Section 1414c - Prohibition on disposal of sewage sludge at landfills on
 usc_title: 33
 usc_section: "1414c"
 chapter: 27
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "33 U.S.C. § 1414c"
-generated_at: "2026-03-29T22:27:51.049Z"
+generated_at: "2026-03-29T22:33:52.123Z"
 ---
 
 # § 1414c. Prohibition on disposal of sewage sludge at landfills on Staten Island

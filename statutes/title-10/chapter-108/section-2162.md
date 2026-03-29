@@ -3,9 +3,9 @@ title: "Section 2162 - Preparation of budget requests for operation of professio
 usc_title: 10
 usc_section: "2162"
 chapter: 108
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 2162"
-generated_at: "2026-03-29T22:24:51.614Z"
+generated_at: "2026-03-29T22:31:32.782Z"
 ---
 
 # § 2162. Preparation of budget requests for operation of professional military education schools

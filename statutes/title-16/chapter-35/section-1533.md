@@ -3,9 +3,9 @@ title: "Section 1533 - Determination of endangered species and threatened specie
 usc_title: 16
 usc_section: "1533"
 chapter: 35
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 1533"
-generated_at: "2026-03-29T22:25:36.856Z"
+generated_at: "2026-03-29T22:32:18.219Z"
 ---
 
 # § 1533. Determination of endangered species and threatened species
@@ -111,7 +111,7 @@ generated_at: "2026-03-29T22:25:36.856Z"
   - **(5)** Each Federal agency shall, prior to implementation of a new or revised recovery plan, consider all information presented during the public comment period under paragraph (4).
 - **(g)**
   - **(1)** The Secretary shall implement a system in cooperation with the States to monitor effectively for not less than five years the status of all species which have recovered to the point at which the measures provided pursuant to this chapter are no longer necessary and which, in accordance with the provisions of this section, have been removed from either of the lists published under subsection (c).
-  - **(2)** The Secretary shall make prompt use of the authority under paragraph 7 2 2 So in original. Probably should be paragraph “(7)”. of subsection (b) of this section to prevent a significant risk to the well being of any such recovered species.
+  - **(2)** The Secretary shall make prompt use of the authority under paragraph 7 1 of subsection (b) of this section to prevent a significant risk to the well being of any such recovered species.
 - **(h)** The Secretary shall establish, and publish in the Federal Register, agency guidelines to insure that the purposes of this section are achieved efficiently and effectively. Such guidelines shall include, but are not limited to—
   - **(1)** procedures for recording the receipt and the disposition of petitions submitted under subsection (b)(3) of this section;
   - **(2)** criteria for making the findings required under such subsection with respect to petitions;

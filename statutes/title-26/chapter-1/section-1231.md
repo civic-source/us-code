@@ -3,9 +3,9 @@ title: "Section 1231 - Property used in the trade or business and involuntary co
 usc_title: 26
 usc_section: "1231"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "26 U.S.C. § 1231"
-generated_at: "2026-03-29T22:27:05.755Z"
+generated_at: "2026-03-29T22:33:41.511Z"
 ---
 
 # § 1231. Property used in the trade or business and involuntary conversions

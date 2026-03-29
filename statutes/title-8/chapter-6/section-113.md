@@ -3,9 +3,9 @@ title: "Section 113 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(13)
 usc_title: 8
 usc_section: "113"
 chapter: 6
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "8 U.S.C. § 113"
-generated_at: "2026-03-29T22:24:15.931Z"
+generated_at: "2026-03-29T22:31:12.816Z"
 ---
 
 # § 113. Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(13), 66 Stat. 279 , eff. Dec. 24, 1952

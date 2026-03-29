@@ -3,9 +3,9 @@ title: "Section 4908 - Call for information"
 usc_title: 16
 usc_section: "4908"
 chapter: 69
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 4908"
-generated_at: "2026-03-29T22:25:37.008Z"
+generated_at: "2026-03-29T22:32:18.358Z"
 ---
 
 # § 4908. Call for information

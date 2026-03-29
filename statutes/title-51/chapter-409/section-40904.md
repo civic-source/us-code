@@ -3,9 +3,9 @@ title: "Section 40904 - Microgravity research"
 usc_title: 51
 usc_section: "40904"
 chapter: 409
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "51 U.S.C. § 40904"
-generated_at: "2026-03-29T22:30:23.192Z"
+generated_at: "2026-03-29T22:36:14.557Z"
 ---
 
 # § 40904. Microgravity research

@@ -3,9 +3,9 @@ title: "Section 11702 - Declaration of policy"
 usc_title: 42
 usc_section: "11702"
 chapter: 122
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 11702"
-generated_at: "2026-03-29T22:29:57.799Z"
+generated_at: "2026-03-29T22:35:11.006Z"
 ---
 
 # § 11702. Declaration of policy

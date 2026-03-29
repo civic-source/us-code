@@ -3,9 +3,9 @@ title: "Section 4 - Training programs for maximum vocational potential for blind
 usc_title: 20
 usc_section: "4"
 chapter: 6
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "20 U.S.C. § 4"
-generated_at: "2026-03-29T22:25:48.029Z"
+generated_at: "2026-03-29T22:32:02.622Z"
 ---
 
 # § 107d–4. Training programs for maximum vocational potential for blind

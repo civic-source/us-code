@@ -3,9 +3,9 @@ title: "Section 510d - Authorization of appropriations"
 usc_title: 43
 usc_section: "510d"
 chapter: 12
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "43 U.S.C. § 510d"
-generated_at: "2026-03-29T22:28:42.313Z"
+generated_at: "2026-03-29T22:34:28.381Z"
 ---
 
 # § 510d. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 470a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "470a"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 470a"
-generated_at: "2026-03-29T22:25:36.597Z"
+generated_at: "2026-03-29T22:32:17.976Z"
 ---
 
 # § 470a. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

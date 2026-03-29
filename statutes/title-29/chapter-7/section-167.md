@@ -3,9 +3,9 @@ title: "Section 167 - Short title of subchapter"
 usc_title: 29
 usc_section: "167"
 chapter: 7
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "29 U.S.C. § 167"
-generated_at: "2026-03-29T22:26:32.804Z"
+generated_at: "2026-03-29T22:33:18.907Z"
 ---
 
 # § 167. Short title of subchapter

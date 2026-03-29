@@ -3,9 +3,9 @@ title: "Section 1a - Interstate cooperation for economic opportunity and efficie
 usc_title: 7
 usc_section: "1a"
 chapter: 50
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 1a"
-generated_at: "2026-03-29T22:24:25.011Z"
+generated_at: "2026-03-29T22:31:20.010Z"
 ---
 
 # § 2009bb–1a. Interstate cooperation for economic opportunity and efficiency

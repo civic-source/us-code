@@ -3,9 +3,9 @@ title: "Section 9 - Repealed. June 17, 1948, ch. 496, § 2(b) , 62 Stat. 476"
 usc_title: 43
 usc_section: "9"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "43 U.S.C. § 9"
-generated_at: "2026-03-29T22:28:42.266Z"
+generated_at: "2026-03-29T22:34:28.332Z"
 ---
 
 # § 9. Repealed. June 17, 1948, ch. 496, § 2(b) , 62 Stat. 476

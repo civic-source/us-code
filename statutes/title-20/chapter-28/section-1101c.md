@@ -3,9 +3,9 @@ title: "Section 1101c - Duration of grant"
 usc_title: 20
 usc_section: "1101c"
 chapter: 28
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "20 U.S.C. § 1101c"
-generated_at: "2026-03-29T22:25:48.196Z"
+generated_at: "2026-03-29T22:32:02.773Z"
 ---
 
 # § 1101c. Duration of grant

@@ -3,9 +3,9 @@ title: "Section 1621 - Declaration of national emergency by President; publicati
 usc_title: 50
 usc_section: "1621"
 chapter: 34
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "50 U.S.C. § 1621"
-generated_at: "2026-03-29T22:30:08.914Z"
+generated_at: "2026-03-29T22:35:28.863Z"
 ---
 
 # § 1621. Declaration of national emergency by President; publication in Federal Register; effect on other laws; superseding legislation

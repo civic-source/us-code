@@ -3,9 +3,9 @@ title: "Section 656 - NET Guard"
 usc_title: 6
 usc_section: "656"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "6 U.S.C. § 656"
-generated_at: "2026-03-29T22:24:14.221Z"
+generated_at: "2026-03-29T22:31:10.450Z"
 ---
 
 # § 656. NET Guard

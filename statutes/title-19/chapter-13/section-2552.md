@@ -3,9 +3,9 @@ title: "Section 2552 - Representations"
 usc_title: 19
 usc_section: "2552"
 chapter: 13
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "19 U.S.C. § 2552"
-generated_at: "2026-03-29T22:25:41.780Z"
+generated_at: "2026-03-29T22:32:06.730Z"
 ---
 
 # § 2552. Representations

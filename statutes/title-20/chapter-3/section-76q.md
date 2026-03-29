@@ -3,9 +3,9 @@ title: "Section 76q - Sole national memorial to the late John F. Kennedy within 
 usc_title: 20
 usc_section: "76q"
 chapter: 3
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "20 U.S.C. § 76q"
-generated_at: "2026-03-29T22:25:48.013Z"
+generated_at: "2026-03-29T22:32:02.606Z"
 ---
 
 # § 76q. Sole national memorial to the late John F. Kennedy within the city of Washington and environs

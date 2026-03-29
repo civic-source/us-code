@@ -3,9 +3,9 @@ title: "Section 316b - Grazing districts"
 usc_title: 43
 usc_section: "316b"
 chapter: 8
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "43 U.S.C. § 316b"
-generated_at: "2026-03-29T22:28:42.280Z"
+generated_at: "2026-03-29T22:34:28.347Z"
 ---
 
 # § 316b. Grazing districts

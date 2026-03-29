@@ -3,9 +3,9 @@ title: "Section 694c - Revolving fund for surety bond guarantees"
 usc_title: 15
 usc_section: "694c"
 chapter: 14
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "15 U.S.C. § 694c"
-generated_at: "2026-03-29T22:25:15.845Z"
+generated_at: "2026-03-29T22:31:51.951Z"
 ---
 
 # § 694c. Revolving fund for surety bond guarantees

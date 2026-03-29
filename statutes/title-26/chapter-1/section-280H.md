@@ -3,9 +3,9 @@ title: "Section 280H - Limitation on certain amounts paid to employee-owners by 
 usc_title: 26
 usc_section: "280H"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "26 U.S.C. § 280H"
-generated_at: "2026-03-29T22:27:05.492Z"
+generated_at: "2026-03-29T22:33:41.264Z"
 ---
 
 # § 280H. Limitation on certain amounts paid to employee-owners by personal service corporations electing alternative taxable years

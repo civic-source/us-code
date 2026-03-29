@@ -3,9 +3,9 @@ title: "Section 2254a - Data files of military flight operations quality assuran
 usc_title: 10
 usc_section: "2254a"
 chapter: 134
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 2254a"
-generated_at: "2026-03-29T22:24:51.626Z"
+generated_at: "2026-03-29T22:31:32.793Z"
 ---
 
 # § 2254a. Data files of military flight operations quality assurance systems: exemption from disclosure under Freedom of Information Act

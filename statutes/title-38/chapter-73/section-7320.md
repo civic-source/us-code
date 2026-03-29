@@ -3,9 +3,9 @@ title: "Section 7320 - Centers for mental illness research, education, and clini
 usc_title: 38
 usc_section: "7320"
 chapter: 73
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "38 U.S.C. § 7320"
-generated_at: "2026-03-29T22:28:32.344Z"
+generated_at: "2026-03-29T22:34:08.260Z"
 ---
 
 # § 7320. Centers for mental illness research, education, and clinical activities

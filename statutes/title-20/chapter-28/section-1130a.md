@@ -3,9 +3,9 @@ title: "Section 1130a - Education and training programs"
 usc_title: 20
 usc_section: "1130a"
 chapter: 28
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "20 U.S.C. § 1130a"
-generated_at: "2026-03-29T22:25:48.201Z"
+generated_at: "2026-03-29T22:32:02.777Z"
 ---
 
 # § 1130a. Education and training programs

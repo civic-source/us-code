@@ -3,9 +3,9 @@ title: "Section 152704 - Membership"
 usc_title: 36
 usc_section: "152704"
 chapter: 1527
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "36 U.S.C. § 152704"
-generated_at: "2026-03-29T22:28:14.940Z"
+generated_at: "2026-03-29T22:34:03.644Z"
 ---
 
 # § 152704. Membership

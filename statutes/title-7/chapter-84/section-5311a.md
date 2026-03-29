@@ -3,9 +3,9 @@ title: "Section 5311a - Joint nutrition monitoring and related research activiti
 usc_title: 7
 usc_section: "5311a"
 chapter: 84
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 5311a"
-generated_at: "2026-03-29T22:24:25.151Z"
+generated_at: "2026-03-29T22:31:20.131Z"
 ---
 
 # § 5311a. Joint nutrition monitoring and related research activities

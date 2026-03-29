@@ -3,9 +3,9 @@ title: "Section 122 - Limitation on use of appropriations"
 usc_title: 20
 usc_section: "122"
 chapter: 8
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "20 U.S.C. § 122"
-generated_at: "2026-03-29T22:25:48.030Z"
+generated_at: "2026-03-29T22:32:02.623Z"
 ---
 
 # § 122. Limitation on use of appropriations

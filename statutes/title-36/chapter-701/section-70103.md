@@ -3,9 +3,9 @@ title: "Section 70103 - Purposes"
 usc_title: 36
 usc_section: "70103"
 chapter: 701
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "36 U.S.C. § 70103"
-generated_at: "2026-03-29T22:28:14.921Z"
+generated_at: "2026-03-29T22:34:03.625Z"
 ---
 
 # § 70103. Purposes

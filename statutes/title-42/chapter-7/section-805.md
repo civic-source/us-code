@@ -3,9 +3,9 @@ title: "Section 805 - Local assistance and Tribal consistency fund"
 usc_title: 42
 usc_section: "805"
 chapter: 7
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 805"
-generated_at: "2026-03-29T22:29:56.550Z"
+generated_at: "2026-03-29T22:35:09.776Z"
 ---
 
 # § 805. Local assistance and Tribal consistency fund

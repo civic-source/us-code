@@ -3,9 +3,9 @@ title: "Section 5679 - Biotechnology and agricultural trade program"
 usc_title: 7
 usc_section: "5679"
 chapter: 87
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 5679"
-generated_at: "2026-03-29T22:24:25.161Z"
+generated_at: "2026-03-29T22:31:20.138Z"
 ---
 
 # § 5679. Biotechnology and agricultural trade program

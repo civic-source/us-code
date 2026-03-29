@@ -3,9 +3,9 @@ title: "Section 30143 - Motor vehicles imported by individuals employed outside 
 usc_title: 49
 usc_section: "30143"
 chapter: 301
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "49 U.S.C. § 30143"
-generated_at: "2026-03-29T22:30:14.874Z"
+generated_at: "2026-03-29T22:36:08.070Z"
 ---
 
 # § 30143. Motor vehicles imported by individuals employed outside the United States

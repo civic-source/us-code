@@ -3,9 +3,9 @@ title: "Section 1901 - Establishment; officer appointments"
 usc_title: 2
 usc_section: "1901"
 chapter: 29
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "2 U.S.C. § 1901"
-generated_at: "2026-03-29T22:24:03.496Z"
+generated_at: "2026-03-29T22:31:03.773Z"
 ---
 
 # § 1901. Establishment; officer appointments

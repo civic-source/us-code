@@ -3,9 +3,9 @@ title: "Section 1448a - Election to discontinue participation: one-year opportun
 usc_title: 10
 usc_section: "1448a"
 chapter: 73
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 1448a"
-generated_at: "2026-03-29T22:24:51.567Z"
+generated_at: "2026-03-29T22:31:32.737Z"
 ---
 
 # § 1448a. Election to discontinue participation: one-year opportunity after second anniversary of commencement of payment of retired pay

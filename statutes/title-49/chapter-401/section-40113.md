@@ -3,9 +3,9 @@ title: "Section 40113 - Administrative"
 usc_title: 49
 usc_section: "40113"
 chapter: 401
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "49 U.S.C. § 40113"
-generated_at: "2026-03-29T22:30:14.914Z"
+generated_at: "2026-03-29T22:36:08.115Z"
 ---
 
 # § 40113. Administrative

@@ -3,9 +3,9 @@ title: "Section 201b - Omitted"
 usc_title: 30
 usc_section: "201b"
 chapter: 3
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "30 U.S.C. § 201b"
-generated_at: "2026-03-29T22:26:29.099Z"
+generated_at: "2026-03-29T22:32:59.132Z"
 ---
 
 # § 201b. Omitted

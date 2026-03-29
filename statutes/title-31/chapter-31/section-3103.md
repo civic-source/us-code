@@ -3,9 +3,9 @@ title: "Section 3103 - Notes"
 usc_title: 31
 usc_section: "3103"
 chapter: 31
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "31 U.S.C. § 3103"
-generated_at: "2026-03-29T22:27:17.742Z"
+generated_at: "2026-03-29T22:33:48.773Z"
 ---
 
 # § 3103. Notes

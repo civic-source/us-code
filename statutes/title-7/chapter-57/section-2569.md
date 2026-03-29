@@ -3,9 +3,9 @@ title: "Section 2569 - Nonresident proprietors; service and notice"
 usc_title: 7
 usc_section: "2569"
 chapter: 57
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 2569"
-generated_at: "2026-03-29T22:24:25.085Z"
+generated_at: "2026-03-29T22:31:20.073Z"
 ---
 
 # § 2569. Nonresident proprietors; service and notice

@@ -3,9 +3,9 @@ title: "Section 2507b - Sexual assault policy"
 usc_title: 22
 usc_section: "2507b"
 chapter: 34
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 2507b"
-generated_at: "2026-03-29T22:26:05.984Z"
+generated_at: "2026-03-29T22:32:42.238Z"
 ---
 
 # § 2507b. Sexual assault policy

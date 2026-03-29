@@ -3,9 +3,9 @@ title: "Section 558a - Volunteers in the National Forests Program"
 usc_title: 16
 usc_section: "558a"
 chapter: 3
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 558a"
-generated_at: "2026-03-29T22:25:36.645Z"
+generated_at: "2026-03-29T22:32:18.021Z"
 ---
 
 # § 558a. Volunteers in the National Forests Program

@@ -3,9 +3,9 @@ title: "Section 1092f - Early awareness of financial aid eligibility"
 usc_title: 20
 usc_section: "1092f"
 chapter: 28
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "20 U.S.C. § 1092f"
-generated_at: "2026-03-29T22:25:48.181Z"
+generated_at: "2026-03-29T22:32:02.758Z"
 ---
 
 # § 1092f. Early awareness of financial aid eligibility

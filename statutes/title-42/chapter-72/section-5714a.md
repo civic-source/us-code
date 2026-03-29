@@ -3,9 +3,9 @@ title: "Section 5714a - Transferred"
 usc_title: 42
 usc_section: "5714a"
 chapter: 72
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 5714a"
-generated_at: "2026-03-29T22:29:57.371Z"
+generated_at: "2026-03-29T22:35:10.583Z"
 ---
 
 # § 5714a. Transferred

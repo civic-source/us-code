@@ -3,9 +3,9 @@ title: "Section 1921a - Agreements with Federated States of Micronesia"
 usc_title: 48
 usc_section: "1921a"
 chapter: 18
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "48 U.S.C. § 1921a"
-generated_at: "2026-03-29T22:30:04.022Z"
+generated_at: "2026-03-29T22:35:19.404Z"
 ---
 
 # § 1921a. Agreements with Federated States of Micronesia

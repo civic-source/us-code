@@ -3,9 +3,9 @@ title: "Section 5105 - Assistance to authorities by Capitol employees"
 usc_title: 40
 usc_section: "5105"
 chapter: 51
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "40 U.S.C. § 5105"
-generated_at: "2026-03-29T22:28:09.592Z"
+generated_at: "2026-03-29T22:34:01.574Z"
 ---
 
 # § 5105. Assistance to authorities by Capitol employees

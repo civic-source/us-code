@@ -3,9 +3,9 @@ title: "Section 4211 - Establishment and purposes of Foundation"
 usc_title: 33
 usc_section: "4211"
 chapter: 55
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "33 U.S.C. § 4211"
-generated_at: "2026-03-29T22:27:51.150Z"
+generated_at: "2026-03-29T22:33:52.228Z"
 ---
 
 # § 4211. Establishment and purposes of Foundation

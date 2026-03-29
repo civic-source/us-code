@@ -3,9 +3,9 @@ title: "Section 659 - Consent by United States to income withholding, garnishmen
 usc_title: 42
 usc_section: "659"
 chapter: 7
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 659"
-generated_at: "2026-03-29T22:29:56.518Z"
+generated_at: "2026-03-29T22:35:09.744Z"
 ---
 
 # § 659. Consent by United States to income withholding, garnishment, and similar proceedings for enforcement of child support and alimony obligations

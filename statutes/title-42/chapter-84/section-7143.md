@@ -3,9 +3,9 @@ title: "Section 7143 - Repealed. Pub. L. 106–65, div. C, title XXXII, § 3294(
 usc_title: 42
 usc_section: "7143"
 chapter: 84
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 7143"
-generated_at: "2026-03-29T22:29:57.488Z"
+generated_at: "2026-03-29T22:35:10.702Z"
 ---
 
 # § 7143. Repealed. Pub. L. 106–65, div. C, title XXXII, § 3294(d)(1) , Oct. 5, 1999 , 113 Stat. 970

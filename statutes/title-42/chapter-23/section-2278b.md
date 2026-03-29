@@ -3,9 +3,9 @@ title: "Section 2278b - Photographing, etc., of Commission installations; penalt
 usc_title: 42
 usc_section: "2278b"
 chapter: 23
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 2278b"
-generated_at: "2026-03-29T22:29:57.174Z"
+generated_at: "2026-03-29T22:35:10.391Z"
 ---
 
 # § 2278b. Photographing, etc., of Commission installations; penalty

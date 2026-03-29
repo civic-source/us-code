@@ -3,9 +3,9 @@ title: "Section 15504 - Government traffic"
 usc_title: 49
 usc_section: "15504"
 chapter: 155
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "49 U.S.C. § 15504"
-generated_at: "2026-03-29T22:30:14.824Z"
+generated_at: "2026-03-29T22:36:08.022Z"
 ---
 
 # § 15504. Government traffic

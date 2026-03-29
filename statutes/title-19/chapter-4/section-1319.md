@@ -3,9 +3,9 @@ title: "Section 1319 - Duty on coffee imported into Puerto Rico"
 usc_title: 19
 usc_section: "1319"
 chapter: 4
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "19 U.S.C. § 1319"
-generated_at: "2026-03-29T22:25:41.655Z"
+generated_at: "2026-03-29T22:32:06.601Z"
 ---
 
 # § 1319. Duty on coffee imported into Puerto Rico

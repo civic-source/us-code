@@ -3,9 +3,9 @@ title: "Section 16137 - Authorization of appropriations"
 usc_title: 42
 usc_section: "16137"
 chapter: 149
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 16137"
-generated_at: "2026-03-29T22:29:57.961Z"
+generated_at: "2026-03-29T22:35:11.173Z"
 ---
 
 # § 16137. Authorization of appropriations

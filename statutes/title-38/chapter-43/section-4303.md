@@ -3,9 +3,9 @@ title: "Section 4303 - Definitions"
 usc_title: 38
 usc_section: "4303"
 chapter: 43
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "38 U.S.C. § 4303"
-generated_at: "2026-03-29T22:28:32.315Z"
+generated_at: "2026-03-29T22:34:08.230Z"
 ---
 
 # § 4303. Definitions

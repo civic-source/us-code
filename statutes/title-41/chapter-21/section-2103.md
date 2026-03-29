@@ -3,9 +3,9 @@ title: "Section 2103 - Actions required of procurement officers when contacted r
 usc_title: 41
 usc_section: "2103"
 chapter: 21
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "41 U.S.C. § 2103"
-generated_at: "2026-03-29T22:28:48.680Z"
+generated_at: "2026-03-29T22:34:34.239Z"
 ---
 
 # § 2103. Actions required of procurement officers when contacted regarding non-Federal employment

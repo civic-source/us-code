@@ -3,9 +3,9 @@ title: "Section 6822 - Grant authorities"
 usc_title: 22
 usc_section: "6822"
 chapter: 76
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 6822"
-generated_at: "2026-03-29T22:26:06.162Z"
+generated_at: "2026-03-29T22:32:42.406Z"
 ---
 
 # § 6822. Grant authorities

@@ -3,9 +3,9 @@ title: "Section 37a - Recommendations for reducing incidence of perinatal transm
 usc_title: 42
 usc_section: "37a"
 chapter: 6
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 37a"
-generated_at: "2026-03-29T22:29:56.375Z"
+generated_at: "2026-03-29T22:35:09.603Z"
 ---
 
 # § 300ff–37a. Recommendations for reducing incidence of perinatal transmission

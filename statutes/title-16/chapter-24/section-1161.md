@@ -3,9 +3,9 @@ title: "Section 1161 - Administration of fur seal rookeries and other Federal re
 usc_title: 16
 usc_section: "1161"
 chapter: 24
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 1161"
-generated_at: "2026-03-29T22:25:36.791Z"
+generated_at: "2026-03-29T22:32:18.156Z"
 ---
 
 # § 1161. Administration of fur seal rookeries and other Federal real and personal property on Pribilof Islands

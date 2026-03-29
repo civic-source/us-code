@@ -3,9 +3,9 @@ title: "Section 12335 - State plan"
 usc_title: 42
 usc_section: "12335"
 chapter: 127
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 12335"
-generated_at: "2026-03-29T22:29:57.819Z"
+generated_at: "2026-03-29T22:35:11.025Z"
 ---
 
 # § 12335. State plan

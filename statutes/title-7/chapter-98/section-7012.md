@@ -3,9 +3,9 @@ title: "Section 7012 - Purchase of American-made equipment and products"
 usc_title: 7
 usc_section: "7012"
 chapter: 98
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 7012"
-generated_at: "2026-03-29T22:24:25.221Z"
+generated_at: "2026-03-29T22:31:20.185Z"
 ---
 
 # § 7012. Purchase of American-made equipment and products

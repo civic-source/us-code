@@ -3,9 +3,9 @@ title: "Section 454 - Unlawful use of the American flag by vessel of foreign sta
 usc_title: 22
 usc_section: "454"
 chapter: 9
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 454"
-generated_at: "2026-03-29T22:26:05.859Z"
+generated_at: "2026-03-29T22:32:42.124Z"
 ---
 
 # § 454. Unlawful use of the American flag by vessel of foreign state

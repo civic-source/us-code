@@ -3,9 +3,9 @@ title: "Section 3693 - Summary disposition or jury trial; notice—(Rule)"
 usc_title: 18
 usc_section: "3693"
 chapter: 233
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "18 U.S.C. § 3693"
-generated_at: "2026-03-29T22:25:27.118Z"
+generated_at: "2026-03-29T22:32:10.220Z"
 ---
 
 # § 3693. Summary disposition or jury trial; notice—(Rule)

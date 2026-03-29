@@ -3,9 +3,9 @@ title: "Section 1867 - Cooperative research and management program"
 usc_title: 16
 usc_section: "1867"
 chapter: 38
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 1867"
-generated_at: "2026-03-29T22:25:36.896Z"
+generated_at: "2026-03-29T22:32:18.255Z"
 ---
 
 # § 1867. Cooperative research and management program

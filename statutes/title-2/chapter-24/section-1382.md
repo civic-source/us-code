@@ -3,9 +3,9 @@ title: "Section 1382 - Officers, staff, and other personnel"
 usc_title: 2
 usc_section: "1382"
 chapter: 24
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "2 U.S.C. § 1382"
-generated_at: "2026-03-29T22:24:03.473Z"
+generated_at: "2026-03-29T22:31:03.753Z"
 ---
 
 # § 1382. Officers, staff, and other personnel

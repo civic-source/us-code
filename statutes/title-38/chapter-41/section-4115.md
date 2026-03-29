@@ -3,9 +3,9 @@ title: "Section 4115 - Longitudinal study of job counseling, training, and place
 usc_title: 38
 usc_section: "4115"
 chapter: 41
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "38 U.S.C. § 4115"
-generated_at: "2026-03-29T22:28:32.312Z"
+generated_at: "2026-03-29T22:34:08.228Z"
 ---
 
 # § 4115. Longitudinal study of job counseling, training, and placement service for veterans

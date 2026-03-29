@@ -3,9 +3,9 @@ title: "Section 872 - Art. 72. Vacation of suspension"
 usc_title: 10
 usc_section: "872"
 chapter: 47
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 872"
-generated_at: "2026-03-29T22:24:51.480Z"
+generated_at: "2026-03-29T22:31:32.657Z"
 ---
 
 # § 872. Art. 72. Vacation of suspension

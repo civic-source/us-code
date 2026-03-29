@@ -3,9 +3,9 @@ title: "Section 5941 - Allowances based on living costs and conditions of enviro
 usc_title: 5
 usc_section: "5941"
 chapter: 59
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "5 U.S.C. § 5941"
-generated_at: "2026-03-29T22:24:09.871Z"
+generated_at: "2026-03-29T22:30:58.819Z"
 ---
 
 # § 5941. Allowances based on living costs and conditions of environment; employees stationed outside continental United States or in Alaska

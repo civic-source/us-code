@@ -3,9 +3,9 @@ title: "Section 3355e - Judicial review"
 usc_title: 50
 usc_section: "3355e"
 chapter: 45
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "50 U.S.C. § 3355e"
-generated_at: "2026-03-29T22:30:09.030Z"
+generated_at: "2026-03-29T22:35:28.985Z"
 ---
 
 # § 3355e. Judicial review

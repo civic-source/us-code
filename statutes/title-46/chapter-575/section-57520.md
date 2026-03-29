@@ -3,9 +3,9 @@ title: "Section 57520 - Vessel maintenance"
 usc_title: 46
 usc_section: "57520"
 chapter: 575
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "46 U.S.C. § 57520"
-generated_at: "2026-03-29T22:30:18.727Z"
+generated_at: "2026-03-29T22:35:50.667Z"
 ---
 
 # § 57520. Vessel maintenance

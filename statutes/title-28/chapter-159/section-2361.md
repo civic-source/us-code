@@ -3,9 +3,9 @@ title: "Section 2361 - Process and procedure"
 usc_title: 28
 usc_section: "2361"
 chapter: 159
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "28 U.S.C. § 2361"
-generated_at: "2026-03-29T22:26:26.725Z"
+generated_at: "2026-03-29T22:33:16.439Z"
 ---
 
 # § 2361. Process and procedure

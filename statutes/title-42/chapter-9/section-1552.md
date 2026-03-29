@@ -3,9 +3,9 @@ title: "Section 1552 - Powers of certain agencies designated to provide temporar
 usc_title: 42
 usc_section: "1552"
 chapter: 9
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 1552"
-generated_at: "2026-03-29T22:29:57.031Z"
+generated_at: "2026-03-29T22:35:10.250Z"
 ---
 
 # § 1552. Powers of certain agencies designated to provide temporary shelter

@@ -3,9 +3,9 @@ title: "Section 6010 - Investigations and power to subpoena"
 usc_title: 7
 usc_section: "6010"
 chapter: 89
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 6010"
-generated_at: "2026-03-29T22:24:25.178Z"
+generated_at: "2026-03-29T22:31:20.153Z"
 ---
 
 # § 6010. Investigations and power to subpoena

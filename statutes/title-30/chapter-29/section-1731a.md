@@ -3,9 +3,9 @@ title: "Section 1731a - Application of subchapter to leases of lands within thre
 usc_title: 30
 usc_section: "1731a"
 chapter: 29
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "30 U.S.C. § 1731a"
-generated_at: "2026-03-29T22:26:29.195Z"
+generated_at: "2026-03-29T22:32:59.224Z"
 ---
 
 # § 1731a. Application of subchapter to leases of lands within three miles of seaward boundaries of coastal States

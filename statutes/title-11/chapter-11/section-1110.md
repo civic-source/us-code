@@ -3,9 +3,9 @@ title: "Section 1110 - Aircraft equipment and vessels"
 usc_title: 11
 usc_section: "1110"
 chapter: 11
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "11 U.S.C. § 1110"
-generated_at: "2026-03-29T22:25:17.712Z"
+generated_at: "2026-03-29T22:31:38.960Z"
 ---
 
 # § 1110. Aircraft equipment and vessels

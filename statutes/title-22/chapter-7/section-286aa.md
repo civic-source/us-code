@@ -3,9 +3,9 @@ title: "Section 286aa - Instructions to United States Executive Director; Commun
 usc_title: 22
 usc_section: "286aa"
 chapter: 7
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 286aa"
-generated_at: "2026-03-29T22:26:05.835Z"
+generated_at: "2026-03-29T22:32:42.102Z"
 ---
 
 # § 286aa. Instructions to United States Executive Director; Communist dictatorships

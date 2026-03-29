@@ -3,9 +3,9 @@ title: "Section 16 - Judgments"
 usc_title: 15
 usc_section: "16"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "15 U.S.C. § 16"
-generated_at: "2026-03-29T22:25:15.592Z"
+generated_at: "2026-03-29T22:31:51.705Z"
 ---
 
 # § 16. Judgments

@@ -3,9 +3,9 @@ title: "Section 1507 - Disappearance"
 usc_title: 38
 usc_section: "1507"
 chapter: 15
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "38 U.S.C. § 1507"
-generated_at: "2026-03-29T22:28:32.215Z"
+generated_at: "2026-03-29T22:34:08.127Z"
 ---
 
 # § 1507. Disappearance

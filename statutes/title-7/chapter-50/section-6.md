@@ -3,9 +3,9 @@ title: "Section 6 - Fees"
 usc_title: 7
 usc_section: "6"
 chapter: 50
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 6"
-generated_at: "2026-03-29T22:24:25.014Z"
+generated_at: "2026-03-29T22:31:20.015Z"
 ---
 
 # § 2009cc–6. Fees

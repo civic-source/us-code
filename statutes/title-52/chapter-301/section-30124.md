@@ -3,9 +3,9 @@ title: "Section 30124 - Fraudulent misrepresentation of campaign authority"
 usc_title: 52
 usc_section: "30124"
 chapter: 301
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "52 U.S.C. § 30124"
-generated_at: "2026-03-29T22:30:21.710Z"
+generated_at: "2026-03-29T22:36:11.794Z"
 ---
 
 # § 30124. Fraudulent misrepresentation of campaign authority

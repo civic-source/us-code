@@ -3,9 +3,9 @@ title: "Section 678 - Non-Federal jurisdiction of federally regulated matters; p
 usc_title: 21
 usc_section: "678"
 chapter: 12
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "21 U.S.C. § 678"
-generated_at: "2026-03-29T22:26:14.029Z"
+generated_at: "2026-03-29T22:32:26.453Z"
 ---
 
 # § 678. Non-Federal jurisdiction of federally regulated matters; prohibition of additional or different requirements for establishments with inspection services and as to marking, labeling, packaging, and ingredients; recordkeeping and related requirements; concurrent jurisdiction over distribution for human food purposes of adulterated or misbranded and imported articles; other matters

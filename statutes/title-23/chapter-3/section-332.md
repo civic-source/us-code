@@ -3,9 +3,9 @@ title: "Section 332 - Pollinator-friendly practices on roadsides and highway rig
 usc_title: 23
 usc_section: "332"
 chapter: 3
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "23 U.S.C. § 332"
-generated_at: "2026-03-29T22:26:20.413Z"
+generated_at: "2026-03-29T22:32:48.923Z"
 ---
 
 # § 332. Pollinator-friendly practices on roadsides and highway rights-of-way

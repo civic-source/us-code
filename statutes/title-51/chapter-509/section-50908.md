@@ -3,9 +3,9 @@ title: "Section 50908 - Effective periods, and modifications, suspensions, and r
 usc_title: 51
 usc_section: "50908"
 chapter: 509
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "51 U.S.C. § 50908"
-generated_at: "2026-03-29T22:30:23.201Z"
+generated_at: "2026-03-29T22:36:14.561Z"
 ---
 
 # § 50908. Effective periods, and modifications, suspensions, and revocations, of licenses

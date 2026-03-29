@@ -3,9 +3,9 @@ title: "Section 654a - Automated data processing"
 usc_title: 42
 usc_section: "654a"
 chapter: 7
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 654a"
-generated_at: "2026-03-29T22:29:56.513Z"
+generated_at: "2026-03-29T22:35:09.739Z"
 ---
 
 # § 654a. Automated data processing

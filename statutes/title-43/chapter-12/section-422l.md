@@ -3,9 +3,9 @@ title: "Section 422l - Application of this subchapter to Hawaii"
 usc_title: 43
 usc_section: "422l"
 chapter: 12
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "43 U.S.C. § 422l"
-generated_at: "2026-03-29T22:28:42.300Z"
+generated_at: "2026-03-29T22:34:28.368Z"
 ---
 
 # § 422l. Application of this subchapter to Hawaii

@@ -3,9 +3,9 @@ title: "Section 1925 - Repealed. Pub. L. 111–145, § 5(a)(2)(B) , Mar. 4, 2010
 usc_title: 2
 usc_section: "1925"
 chapter: 29
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "2 U.S.C. § 1925"
-generated_at: "2026-03-29T22:24:03.500Z"
+generated_at: "2026-03-29T22:31:03.777Z"
 ---
 
 # § 1925. Repealed. Pub. L. 111–145, § 5(a)(2)(B) , Mar. 4, 2010 , 124 Stat. 53

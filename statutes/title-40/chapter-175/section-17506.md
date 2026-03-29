@@ -3,9 +3,9 @@ title: "Section 17506 - Reduction of storage and disposal costs"
 usc_title: 40
 usc_section: "17506"
 chapter: 175
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "40 U.S.C. § 17506"
-generated_at: "2026-03-29T22:28:09.614Z"
+generated_at: "2026-03-29T22:34:01.598Z"
 ---
 
 # § 17506. Reduction of storage and disposal costs

@@ -3,9 +3,9 @@ title: "Section 2904 - Required terms in orders"
 usc_title: 7
 usc_section: "2904"
 chapter: 62
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 2904"
-generated_at: "2026-03-29T22:24:25.094Z"
+generated_at: "2026-03-29T22:31:20.082Z"
 ---
 
 # § 2904. Required terms in orders

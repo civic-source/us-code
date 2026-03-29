@@ -3,9 +3,9 @@ title: "Section 3006 - Obligated service requirement"
 usc_title: 33
 usc_section: "3006"
 chapter: 43
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "33 U.S.C. § 3006"
-generated_at: "2026-03-29T22:27:51.121Z"
+generated_at: "2026-03-29T22:33:52.197Z"
 ---
 
 # § 3006. Obligated service requirement

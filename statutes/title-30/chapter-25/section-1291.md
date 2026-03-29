@@ -3,9 +3,9 @@ title: "Section 1291 - Definitions"
 usc_title: 30
 usc_section: "1291"
 chapter: 25
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "30 U.S.C. § 1291"
-generated_at: "2026-03-29T22:26:29.173Z"
+generated_at: "2026-03-29T22:32:59.203Z"
 ---
 
 # § 1291. Definitions

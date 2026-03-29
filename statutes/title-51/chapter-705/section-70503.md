@@ -3,9 +3,9 @@ title: "Section 70503 - Ground-based analog capabilities"
 usc_title: 51
 usc_section: "70503"
 chapter: 705
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "51 U.S.C. § 70503"
-generated_at: "2026-03-29T22:30:23.209Z"
+generated_at: "2026-03-29T22:36:14.574Z"
 ---
 
 # § 70503. Ground-based analog capabilities

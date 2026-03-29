@@ -3,9 +3,9 @@ title: "Section 1929 - Repealed. Pub. L. 111–145, § 2(a)(4)(B)(ii) , Mar. 4, 
 usc_title: 2
 usc_section: "1929"
 chapter: 29
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "2 U.S.C. § 1929"
-generated_at: "2026-03-29T22:24:03.501Z"
+generated_at: "2026-03-29T22:31:03.777Z"
 ---
 
 # § 1929. Repealed. Pub. L. 111–145, § 2(a)(4)(B)(ii) , Mar. 4, 2010 , 124 Stat. 50

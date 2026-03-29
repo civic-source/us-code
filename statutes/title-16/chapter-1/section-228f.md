@@ -3,9 +3,9 @@ title: "Section 228f - Preservation and renewal of existing grazing rights withi
 usc_title: 16
 usc_section: "228f"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 228f"
-generated_at: "2026-03-29T22:25:36.371Z"
+generated_at: "2026-03-29T22:32:17.758Z"
 ---
 
 # § 228f. Preservation and renewal of existing grazing rights within enlarged boundaries; term of re­newal

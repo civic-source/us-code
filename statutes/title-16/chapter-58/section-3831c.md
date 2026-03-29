@@ -3,9 +3,9 @@ title: "Section 3831c - Pilot programs"
 usc_title: 16
 usc_section: "3831c"
 chapter: 58
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 3831c"
-generated_at: "2026-03-29T22:25:36.961Z"
+generated_at: "2026-03-29T22:32:18.316Z"
 ---
 
 # § 3831c. Pilot programs

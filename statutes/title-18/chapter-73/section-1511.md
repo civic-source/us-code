@@ -3,9 +3,9 @@ title: "Section 1511 - Obstruction of State or local law enforcement"
 usc_title: 18
 usc_section: "1511"
 chapter: 73
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "18 U.S.C. § 1511"
-generated_at: "2026-03-29T22:25:27.021Z"
+generated_at: "2026-03-29T22:32:10.121Z"
 ---
 
 # § 1511. Obstruction of State or local law enforcement

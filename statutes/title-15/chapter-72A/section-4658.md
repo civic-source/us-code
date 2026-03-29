@@ -3,9 +3,9 @@ title: "Section 4658 - Defense Production Act of 1950 efforts"
 usc_title: 15
 usc_section: "4658"
 chapter: 72
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "15 U.S.C. § 4658"
-generated_at: "2026-03-29T22:25:16.102Z"
+generated_at: "2026-03-29T22:31:52.194Z"
 ---
 
 # § 4658. Defense Production Act of 1950 efforts

@@ -3,9 +3,9 @@ title: "Section 1158 - Counterfeiting Indian Arts and Crafts Board trade mark"
 usc_title: 18
 usc_section: "1158"
 chapter: 53
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "18 U.S.C. § 1158"
-generated_at: "2026-03-29T22:25:27.012Z"
+generated_at: "2026-03-29T22:32:10.113Z"
 ---
 
 # § 1158. Counterfeiting Indian Arts and Crafts Board trade mark

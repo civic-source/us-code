@@ -3,9 +3,9 @@ title: "Section 3368 - Assistance for governmental entities and private entities
 usc_title: 50
 usc_section: "3368"
 chapter: 45
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "50 U.S.C. § 3368"
-generated_at: "2026-03-29T22:30:09.031Z"
+generated_at: "2026-03-29T22:35:28.987Z"
 ---
 
 # § 3368. Assistance for governmental entities and private entities in recognizing online violent extremist content

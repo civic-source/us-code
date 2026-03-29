@@ -3,9 +3,9 @@ title: "Section 1375b - Protections for domestic workers and other nonimmigrants
 usc_title: 8
 usc_section: "1375b"
 chapter: 12
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "8 U.S.C. § 1375b"
-generated_at: "2026-03-29T22:24:16.021Z"
+generated_at: "2026-03-29T22:31:12.898Z"
 ---
 
 # § 1375b. Protections for domestic workers and other nonimmigrants

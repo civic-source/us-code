@@ -3,9 +3,9 @@ title: "Section 450t - Administration, protection, and development"
 usc_title: 16
 usc_section: "450t"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 450t"
-generated_at: "2026-03-29T22:25:36.488Z"
+generated_at: "2026-03-29T22:32:17.875Z"
 ---
 
 # § 450t. Administration, protection, and development

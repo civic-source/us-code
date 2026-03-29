@@ -3,9 +3,9 @@ title: "Section 2946 - Coast Guard Housing Fund"
 usc_title: 14
 usc_section: "2946"
 chapter: 29
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "14 U.S.C. § 2946"
-generated_at: "2026-03-29T22:24:58.381Z"
+generated_at: "2026-03-29T22:31:37.585Z"
 ---
 
 # § 2946. Coast Guard Housing Fund

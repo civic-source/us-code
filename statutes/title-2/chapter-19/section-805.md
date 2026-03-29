@@ -3,9 +3,9 @@ title: "Section 805 - Regional award directors of program; appointment criteria"
 usc_title: 2
 usc_section: "805"
 chapter: 19
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "2 U.S.C. § 805"
-generated_at: "2026-03-29T22:24:03.448Z"
+generated_at: "2026-03-29T22:31:03.731Z"
 ---
 
 # § 805. Regional award directors of program; appointment criteria

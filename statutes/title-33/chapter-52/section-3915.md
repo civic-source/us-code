@@ -3,9 +3,9 @@ title: "Section 3915 - Outreach plan"
 usc_title: 33
 usc_section: "3915"
 chapter: 52
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "33 U.S.C. § 3915"
-generated_at: "2026-03-29T22:27:51.146Z"
+generated_at: "2026-03-29T22:33:52.224Z"
 ---
 
 # § 3915. Outreach plan

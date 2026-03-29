@@ -3,9 +3,9 @@ title: "Section 4007 - Science and technology programs to be conducted so as to 
 usc_title: 10
 usc_section: "4007"
 chapter: 301
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 4007"
-generated_at: "2026-03-29T22:24:51.734Z"
+generated_at: "2026-03-29T22:31:32.889Z"
 ---
 
 # § 4007. Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation

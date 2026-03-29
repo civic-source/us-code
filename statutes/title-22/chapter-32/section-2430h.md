@@ -3,9 +3,9 @@ title: "Section 2430h - Enterprise for the Americas Board"
 usc_title: 22
 usc_section: "2430h"
 chapter: 32
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 2430h"
-generated_at: "2026-03-29T22:26:05.975Z"
+generated_at: "2026-03-29T22:32:42.229Z"
 ---
 
 # § 2430h. Enterprise for the Americas Board

@@ -3,9 +3,9 @@ title: "Section 592 - Notice of establishment of standards; shipments under cont
 usc_title: 7
 usc_section: "592"
 chapter: 25
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 592"
-generated_at: "2026-03-29T22:24:24.841Z"
+generated_at: "2026-03-29T22:31:19.854Z"
 ---
 
 # § 592. Notice of establishment of standards; shipments under contracts made before adoption of standards

@@ -3,9 +3,9 @@ title: "Section 456h - Omitted"
 usc_title: 48
 usc_section: "456h"
 chapter: 2
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "48 U.S.C. § 456h"
-generated_at: "2026-03-29T22:30:03.981Z"
+generated_at: "2026-03-29T22:35:19.362Z"
 ---
 
 # §§ 455 to 456h. Omitted

@@ -3,9 +3,9 @@ title: "Section 7 - Report"
 usc_title: 21
 usc_section: "7"
 chapter: 9
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "21 U.S.C. § 7"
-generated_at: "2026-03-29T22:26:13.964Z"
+generated_at: "2026-03-29T22:32:26.394Z"
 ---
 
 # § 360fff–7. Report

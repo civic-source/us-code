@@ -3,9 +3,9 @@ title: "Section 451 - Submarines and armed merchant vessels"
 usc_title: 22
 usc_section: "451"
 chapter: 9
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 451"
-generated_at: "2026-03-29T22:26:05.859Z"
+generated_at: "2026-03-29T22:32:42.124Z"
 ---
 
 # § 451. Submarines and armed merchant vessels

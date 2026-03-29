@@ -3,9 +3,9 @@ title: "Section 6148 - Omitted"
 usc_title: 20
 usc_section: "6148"
 chapter: 69
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "20 U.S.C. § 6148"
-generated_at: "2026-03-29T22:25:48.345Z"
+generated_at: "2026-03-29T22:32:02.902Z"
 ---
 
 # §§ 6141 to 6148. Omitted

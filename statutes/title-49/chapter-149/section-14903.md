@@ -3,9 +3,9 @@ title: "Section 14903 - Tariff violations"
 usc_title: 49
 usc_section: "14903"
 chapter: 149
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "49 U.S.C. § 14903"
-generated_at: "2026-03-29T22:30:14.822Z"
+generated_at: "2026-03-29T22:36:08.021Z"
 ---
 
 # § 14903. Tariff violations

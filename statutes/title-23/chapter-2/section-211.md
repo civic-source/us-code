@@ -3,9 +3,9 @@ title: "Section 211 - Repealed. Pub. L. 100–17, title I, § 133(e)(1) , Apr. 2
 usc_title: 23
 usc_section: "211"
 chapter: 2
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "23 U.S.C. § 211"
-generated_at: "2026-03-29T22:26:20.407Z"
+generated_at: "2026-03-29T22:32:48.917Z"
 ---
 
 # [§ 211. Repealed. Pub. L. 100–17, title I, § 133(e)(1) , Apr. 2, 1987 , 101 Stat. 173 ]

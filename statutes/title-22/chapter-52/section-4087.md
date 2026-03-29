@@ -3,9 +3,9 @@ title: "Section 4087 - Termination of residential or motor vehicle leases and te
 usc_title: 22
 usc_section: "4087"
 chapter: 52
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 4087"
-generated_at: "2026-03-29T22:26:06.075Z"
+generated_at: "2026-03-29T22:32:42.331Z"
 ---
 
 # § 4087. Termination of residential or motor vehicle leases and telephone service contracts

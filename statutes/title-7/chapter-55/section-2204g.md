@@ -3,9 +3,9 @@ title: "Section 2204g - Authority of Secretary of Agriculture to conduct census 
 usc_title: 7
 usc_section: "2204g"
 chapter: 55
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 2204g"
-generated_at: "2026-03-29T22:24:25.064Z"
+generated_at: "2026-03-29T22:31:20.055Z"
 ---
 
 # § 2204g. Authority of Secretary of Agriculture to conduct census of agriculture

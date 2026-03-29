@@ -3,9 +3,9 @@ title: "Section 40916 - Illegal immigrant gun purchase notification"
 usc_title: 34
 usc_section: "40916"
 chapter: 409
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "34 U.S.C. § 40916"
-generated_at: "2026-03-29T22:27:35.789Z"
+generated_at: "2026-03-29T22:33:57.025Z"
 ---
 
 # § 40916. Illegal immigrant gun purchase notification

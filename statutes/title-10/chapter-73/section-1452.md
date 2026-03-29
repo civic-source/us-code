@@ -3,9 +3,9 @@ title: "Section 1452 - Reduction in retired pay"
 usc_title: 10
 usc_section: "1452"
 chapter: 73
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 1452"
-generated_at: "2026-03-29T22:24:51.569Z"
+generated_at: "2026-03-29T22:31:32.739Z"
 ---
 
 # § 1452. Reduction in retired pay

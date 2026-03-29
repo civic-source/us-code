@@ -3,9 +3,9 @@ title: "Section 1168 - Theft by officers or employees of gaming establishments o
 usc_title: 18
 usc_section: "1168"
 chapter: 53
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "18 U.S.C. § 1168"
-generated_at: "2026-03-29T22:25:27.013Z"
+generated_at: "2026-03-29T22:32:10.114Z"
 ---
 
 # § 1168. Theft by officers or employees of gaming establishments on Indian lands

@@ -3,9 +3,9 @@ title: "Section 4243 - Hospitalization of a person found not guilty only by reas
 usc_title: 18
 usc_section: "4243"
 chapter: 313
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "18 U.S.C. § 4243"
-generated_at: "2026-03-29T22:25:27.127Z"
+generated_at: "2026-03-29T22:32:10.229Z"
 ---
 
 # § 4243. Hospitalization of a person found not guilty only by reason of insanity

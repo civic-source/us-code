@@ -3,9 +3,9 @@ title: "Section 7302 - Issuing merchant mariners’ documents and continuous dis
 usc_title: 46
 usc_section: "7302"
 chapter: 73
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "46 U.S.C. § 7302"
-generated_at: "2026-03-29T22:30:18.651Z"
+generated_at: "2026-03-29T22:35:50.587Z"
 ---
 
 # § 7302. Issuing merchant mariners’ documents and continuous discharge books

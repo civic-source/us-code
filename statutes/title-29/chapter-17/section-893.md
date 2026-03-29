@@ -3,9 +3,9 @@ title: "Section 893 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 1
 usc_title: 29
 usc_section: "893"
 chapter: 17
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "29 U.S.C. § 893"
-generated_at: "2026-03-29T22:26:32.865Z"
+generated_at: "2026-03-29T22:33:18.965Z"
 ---
 
 # § 893. Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 13, 1982 , 96 Stat. 1357

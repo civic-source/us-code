@@ -3,9 +3,9 @@ title: "Section 40704 - Restrictions"
 usc_title: 36
 usc_section: "40704"
 chapter: 407
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "36 U.S.C. § 40704"
-generated_at: "2026-03-29T22:28:14.916Z"
+generated_at: "2026-03-29T22:34:03.622Z"
 ---
 
 # § 40704. Restrictions

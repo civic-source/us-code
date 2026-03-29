@@ -3,9 +3,9 @@ title: "Section 3162a - Security Executive Agent"
 usc_title: 50
 usc_section: "3162a"
 chapter: 44
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "50 U.S.C. § 3162a"
-generated_at: "2026-03-29T22:30:09.008Z"
+generated_at: "2026-03-29T22:35:28.963Z"
 ---
 
 # § 3162a. Security Executive Agent

@@ -3,9 +3,9 @@ title: "Section 2 - Terms of court"
 usc_title: 28
 usc_section: "2"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "28 U.S.C. § 2"
-generated_at: "2026-03-29T22:26:26.654Z"
+generated_at: "2026-03-29T22:33:16.360Z"
 ---
 
 # § 2. Terms of court

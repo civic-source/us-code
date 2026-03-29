@@ -3,9 +3,9 @@ title: "Section 758d - Pacific Ocean activities; future appropriations"
 usc_title: 16
 usc_section: "758d"
 chapter: 9
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 758d"
-generated_at: "2026-03-29T22:25:36.713Z"
+generated_at: "2026-03-29T22:32:18.081Z"
 ---
 
 # § 758d. Pacific Ocean activities; future appropriations

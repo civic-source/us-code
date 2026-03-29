@@ -3,9 +3,9 @@ title: "Section 44 - Appointment, tenure, residence and salary of circuit judges
 usc_title: 28
 usc_section: "44"
 chapter: 3
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "28 U.S.C. § 44"
-generated_at: "2026-03-29T22:26:26.654Z"
+generated_at: "2026-03-29T22:33:16.360Z"
 ---
 
 # § 44. Appointment, tenure, residence and salary of circuit judges

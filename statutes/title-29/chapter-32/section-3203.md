@@ -3,9 +3,9 @@ title: "Section 3203 - Community participation"
 usc_title: 29
 usc_section: "3203"
 chapter: 32
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "29 U.S.C. § 3203"
-generated_at: "2026-03-29T22:26:33.004Z"
+generated_at: "2026-03-29T22:33:19.095Z"
 ---
 
 # § 3203. Community participation

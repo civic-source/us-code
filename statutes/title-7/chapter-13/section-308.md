@@ -3,9 +3,9 @@ title: "Section 308 - Reports by State governors of sale of scrip"
 usc_title: 7
 usc_section: "308"
 chapter: 13
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 308"
-generated_at: "2026-03-29T22:24:24.819Z"
+generated_at: "2026-03-29T22:31:19.835Z"
 ---
 
 # § 308. Reports by State governors of sale of scrip

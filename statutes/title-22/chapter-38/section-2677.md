@@ -3,9 +3,9 @@ title: "Section 2677 - Availability of funds for travel expenses and transportat
 usc_title: 22
 usc_section: "2677"
 chapter: 38
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 2677"
-generated_at: "2026-03-29T22:26:06.001Z"
+generated_at: "2026-03-29T22:32:42.256Z"
 ---
 
 # § 2677. Availability of funds for travel expenses and transportation of personal effects, household goods, or automobiles

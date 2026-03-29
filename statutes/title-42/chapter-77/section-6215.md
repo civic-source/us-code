@@ -3,9 +3,9 @@ title: "Section 6215 - Major fuel burning stationary source"
 usc_title: 42
 usc_section: "6215"
 chapter: 77
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 6215"
-generated_at: "2026-03-29T22:29:57.383Z"
+generated_at: "2026-03-29T22:35:10.597Z"
 ---
 
 # § 6215. Major fuel burning stationary source

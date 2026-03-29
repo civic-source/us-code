@@ -3,9 +3,9 @@ title: "Section 2210 - Reimbursement for costs of firefighting on Federal proper
 usc_title: 15
 usc_section: "2210"
 chapter: 49
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "15 U.S.C. § 2210"
-generated_at: "2026-03-29T22:25:16.005Z"
+generated_at: "2026-03-29T22:31:52.104Z"
 ---
 
 # § 2210. Reimbursement for costs of firefighting on Federal property

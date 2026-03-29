@@ -3,9 +3,9 @@ title: "Section 40941 - Disposition records automation and transmittal improveme
 usc_title: 34
 usc_section: "40941"
 chapter: 409
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "34 U.S.C. § 40941"
-generated_at: "2026-03-29T22:27:35.790Z"
+generated_at: "2026-03-29T22:33:57.026Z"
 ---
 
 # § 40941. Disposition records automation and transmittal improvement grants

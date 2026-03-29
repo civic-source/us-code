@@ -3,9 +3,9 @@ title: "Section 5008 - Abatement, remission, refund, and allowance for loss or d
 usc_title: 26
 usc_section: "5008"
 chapter: 51
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "26 U.S.C. § 5008"
-generated_at: "2026-03-29T22:27:05.903Z"
+generated_at: "2026-03-29T22:33:41.672Z"
 ---
 
 # § 5008. Abatement, remission, refund, and allowance for loss or destruction of distilled spirits

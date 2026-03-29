@@ -3,9 +3,9 @@ title: "Section 410p - Authorization of appropriations"
 usc_title: 16
 usc_section: "410p"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 410p"
-generated_at: "2026-03-29T22:25:36.407Z"
+generated_at: "2026-03-29T22:32:17.795Z"
 ---
 
 # § 410p. Authorization of appropriations

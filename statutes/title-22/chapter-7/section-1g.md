@@ -3,9 +3,9 @@ title: "Section 1g - Additional increase in quota of United States; condition"
 usc_title: 22
 usc_section: "1g"
 chapter: 7
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 1g"
-generated_at: "2026-03-29T22:26:05.832Z"
+generated_at: "2026-03-29T22:32:42.098Z"
 ---
 
 # § 286e–1g. Additional increase in quota of United States; condition

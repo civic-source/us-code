@@ -3,9 +3,9 @@ title: "Section 2 - Privacy and data protection policies and procedures"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T22:29:57.127Z"
+generated_at: "2026-03-29T22:35:10.348Z"
 ---
 
 # § 2000ee–2. Privacy and data protection policies and procedures

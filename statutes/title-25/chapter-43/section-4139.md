@@ -3,9 +3,9 @@ title: "Section 4139 - Noncompliance with affordable housing requirement"
 usc_title: 25
 usc_section: "4139"
 chapter: 43
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "25 U.S.C. § 4139"
-generated_at: "2026-03-29T22:25:56.833Z"
+generated_at: "2026-03-29T22:32:28.906Z"
 ---
 
 # § 4139. Noncompliance with affordable housing requirement

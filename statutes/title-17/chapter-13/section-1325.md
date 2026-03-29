@@ -3,9 +3,9 @@ title: "Section 1325 - Liability for action on registration fraudulently obtaine
 usc_title: 17
 usc_section: "1325"
 chapter: 13
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "17 U.S.C. § 1325"
-generated_at: "2026-03-29T22:25:22.119Z"
+generated_at: "2026-03-29T22:31:56.605Z"
 ---
 
 # § 1325. Liability for action on registration fraudulently obtained

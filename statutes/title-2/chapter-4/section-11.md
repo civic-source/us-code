@@ -3,9 +3,9 @@ title: "Section 11 - Transferred"
 usc_title: 2
 usc_section: "11"
 chapter: 4
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "2 U.S.C. § 11"
-generated_at: "2026-03-29T22:24:03.396Z"
+generated_at: "2026-03-29T22:31:03.688Z"
 ---
 
 # § 74a–11. Transferred

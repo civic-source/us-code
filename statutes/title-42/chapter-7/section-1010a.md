@@ -3,9 +3,9 @@ title: "Section 1010a - Optional Federal administration of State recognition pay
 usc_title: 42
 usc_section: "1010a"
 chapter: 7
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 1010a"
-generated_at: "2026-03-29T22:29:56.556Z"
+generated_at: "2026-03-29T22:35:09.781Z"
 ---
 
 # § 1010a. Optional Federal administration of State recognition payments

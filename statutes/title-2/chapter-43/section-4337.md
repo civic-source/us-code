@@ -3,9 +3,9 @@ title: "Section 4337 - Transfer of funds by Chairman of Senate Committee on Appr
 usc_title: 2
 usc_section: "4337"
 chapter: 43
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "2 U.S.C. § 4337"
-generated_at: "2026-03-29T22:24:03.525Z"
+generated_at: "2026-03-29T22:31:03.798Z"
 ---
 
 # § 4337. Transfer of funds by Chairman of Senate Committee on Appropriations

@@ -3,9 +3,9 @@ title: "Section 1344a - Exclusion of 1949 acreage in computation of future allot
 usc_title: 7
 usc_section: "1344a"
 chapter: 35
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 1344a"
-generated_at: "2026-03-29T22:24:24.882Z"
+generated_at: "2026-03-29T22:31:19.891Z"
 ---
 
 # § 1344a. Exclusion of 1949 acreage in computation of future allotments

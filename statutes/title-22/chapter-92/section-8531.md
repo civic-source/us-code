@@ -3,9 +3,9 @@ title: "Section 8531 - Definitions"
 usc_title: 22
 usc_section: "8531"
 chapter: 92
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 8531"
-generated_at: "2026-03-29T22:26:06.217Z"
+generated_at: "2026-03-29T22:32:42.464Z"
 ---
 
 # § 8531. Definitions

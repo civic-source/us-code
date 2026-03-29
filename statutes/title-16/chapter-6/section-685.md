@@ -3,9 +3,9 @@ title: "Section 685 - Hunting, trapping, killing, or capturing game in designate
 usc_title: 16
 usc_section: "685"
 chapter: 6
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 685"
-generated_at: "2026-03-29T22:25:36.689Z"
+generated_at: "2026-03-29T22:32:18.059Z"
 ---
 
 # § 685. Hunting, trapping, killing, or capturing game in designated breeding areas unlawful

@@ -3,9 +3,9 @@ title: "Section 522 - Statutory construction"
 usc_title: 6
 usc_section: "522"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "6 U.S.C. § 522"
-generated_at: "2026-03-29T22:24:14.201Z"
+generated_at: "2026-03-29T22:31:10.431Z"
 ---
 
 # § 522. Statutory construction

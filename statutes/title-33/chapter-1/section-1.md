@@ -3,9 +3,9 @@ title: "Section 1 - Declaration of nonnavigability for portion of Sacramento Dee
 usc_title: 33
 usc_section: "1"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-29T22:27:50.900Z"
+generated_at: "2026-03-29T22:33:51.976Z"
 ---
 
 # § 59ee–1. Declaration of nonnavigability for portion of Sacramento Deep Water Ship Channel

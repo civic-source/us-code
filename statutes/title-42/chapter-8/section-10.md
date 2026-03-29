@@ -3,9 +3,9 @@ title: "Section 10 - Small public housing agencies"
 usc_title: 42
 usc_section: "10"
 chapter: 8
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-29T22:29:57.004Z"
+generated_at: "2026-03-29T22:35:10.224Z"
 ---
 
 # § 1437z–10. Small public housing agencies

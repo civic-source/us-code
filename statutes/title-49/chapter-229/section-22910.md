@@ -3,9 +3,9 @@ title: "Section 22910 - Interstate Rail Compacts Grant Program"
 usc_title: 49
 usc_section: "22910"
 chapter: 229
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "49 U.S.C. § 22910"
-generated_at: "2026-03-29T22:30:14.852Z"
+generated_at: "2026-03-29T22:36:08.048Z"
 ---
 
 # § 22910. Interstate Rail Compacts Grant Program

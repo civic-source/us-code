@@ -3,9 +3,9 @@ title: "Section 698j - Hunting, fishing, and trapping in Big Cypress Preserve an
 usc_title: 16
 usc_section: "698j"
 chapter: 6
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 698j"
-generated_at: "2026-03-29T22:25:36.694Z"
+generated_at: "2026-03-29T22:32:18.064Z"
 ---
 
 # § 698j. Hunting, fishing, and trapping in Big Cypress Preserve and Addition authorized in accordance with applicable Federal and State laws; consultation with appropriate State agency prior to implementation of regulations restricting activities; land use and retention rights of Miccosukee and Seminole Indian Tribes

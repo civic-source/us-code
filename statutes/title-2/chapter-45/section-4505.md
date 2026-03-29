@@ -3,9 +3,9 @@ title: "Section 4505 - Voluntary separation incentive payments"
 usc_title: 2
 usc_section: "4505"
 chapter: 45
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "2 U.S.C. § 4505"
-generated_at: "2026-03-29T22:24:03.525Z"
+generated_at: "2026-03-29T22:31:03.799Z"
 ---
 
 # § 4505. Voluntary separation incentive payments

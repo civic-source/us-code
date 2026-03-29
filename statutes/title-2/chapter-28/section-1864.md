@@ -3,9 +3,9 @@ title: "Section 1864 - Funds out of Capitol Buildings, Architect of the Capitol 
 usc_title: 2
 usc_section: "1864"
 chapter: 28
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "2 U.S.C. § 1864"
-generated_at: "2026-03-29T22:24:03.495Z"
+generated_at: "2026-03-29T22:31:03.772Z"
 ---
 
 # § 1864. Funds out of Capitol Buildings, Architect of the Capitol Appropriation

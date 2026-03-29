@@ -3,9 +3,9 @@ title: "Section 2204f - Repealed. Pub. L. 107–171, title VI, § 6403(a) , May 
 usc_title: 7
 usc_section: "2204f"
 chapter: 55
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 2204f"
-generated_at: "2026-03-29T22:24:25.064Z"
+generated_at: "2026-03-29T22:31:20.055Z"
 ---
 
 # § 2204f. Repealed. Pub. L. 107–171, title VI, § 6403(a) , May 13, 2002 , 116 Stat. 429

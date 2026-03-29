@@ -3,9 +3,9 @@ title: "Section 12905 - Responsibilities of grantees"
 usc_title: 42
 usc_section: "12905"
 chapter: 131
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 12905"
-generated_at: "2026-03-29T22:29:57.879Z"
+generated_at: "2026-03-29T22:35:11.086Z"
 ---
 
 # § 12905. Responsibilities of grantees

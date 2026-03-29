@@ -3,9 +3,9 @@ title: "Section 2257A - Record keeping requirements for simulated sexual conduct
 usc_title: 18
 usc_section: "2257A"
 chapter: 110
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "18 U.S.C. § 2257A"
-generated_at: "2026-03-29T22:25:27.049Z"
+generated_at: "2026-03-29T22:32:10.149Z"
 ---
 
 # § 2257A. Record keeping requirements for simulated sexual conduct

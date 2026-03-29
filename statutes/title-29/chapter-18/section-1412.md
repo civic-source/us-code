@@ -3,9 +3,9 @@ title: "Section 1412 - Transfers between a multiemployer plan and a single-emplo
 usc_title: 29
 usc_section: "1412"
 chapter: 18
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "29 U.S.C. § 1412"
-generated_at: "2026-03-29T22:26:32.952Z"
+generated_at: "2026-03-29T22:33:19.050Z"
 ---
 
 # § 1412. Transfers between a multiemployer plan and a single-employer plan

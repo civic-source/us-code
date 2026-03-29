@@ -3,9 +3,9 @@ title: "Section 7471 - National Advisory Council on Indian Education"
 usc_title: 20
 usc_section: "7471"
 chapter: 70
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "20 U.S.C. § 7471"
-generated_at: "2026-03-29T22:25:48.406Z"
+generated_at: "2026-03-29T22:32:02.960Z"
 ---
 
 # § 7471. National Advisory Council on Indian Education

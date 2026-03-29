@@ -3,9 +3,9 @@ title: "Section 101101 - Authority to accept land, rights-of-way, buildings, oth
 usc_title: 54
 usc_section: "101101"
 chapter: 1011
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "54 U.S.C. § 101101"
-generated_at: "2026-03-29T22:30:22.573Z"
+generated_at: "2026-03-29T22:36:12.643Z"
 ---
 
 # § 101101. Authority to accept land, rights-of-way, buildings, other property, and money

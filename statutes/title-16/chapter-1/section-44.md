@@ -3,9 +3,9 @@ title: "Section 44 - Records"
 usc_title: 16
 usc_section: "44"
 chapter: 1
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "16 U.S.C. § 44"
-generated_at: "2026-03-29T22:25:36.575Z"
+generated_at: "2026-03-29T22:32:17.955Z"
 ---
 
 # § 460lll–44. Records

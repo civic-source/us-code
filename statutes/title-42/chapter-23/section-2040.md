@@ -3,9 +3,9 @@ title: "Section 2040 - Fellowship program of Advisory Committee on Reactor Safeg
 usc_title: 42
 usc_section: "2040"
 chapter: 23
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 2040"
-generated_at: "2026-03-29T22:29:57.140Z"
+generated_at: "2026-03-29T22:35:10.362Z"
 ---
 
 # § 2040. Fellowship program of Advisory Committee on Reactor Safeguards; selection of fellowships

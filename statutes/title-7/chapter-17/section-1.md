@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 113–79, title VII, § 7514 , Feb. 7, 201
 usc_title: 7
 usc_section: "1"
 chapter: 17
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T22:24:24.828Z"
+generated_at: "2026-03-29T22:31:19.841Z"
 ---
 
 # § 415–1. Repealed. Pub. L. 113–79, title VII, § 7514 , Feb. 7, 2014 , 128 Stat. 903

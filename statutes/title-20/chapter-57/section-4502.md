@@ -3,9 +3,9 @@ title: "Section 4502 - Foundation"
 usc_title: 20
 usc_section: "4502"
 chapter: 57
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "20 U.S.C. § 4502"
-generated_at: "2026-03-29T22:25:48.324Z"
+generated_at: "2026-03-29T22:32:02.886Z"
 ---
 
 # § 4502. Foundation

@@ -3,9 +3,9 @@ title: "Section 471o - Transferred"
 usc_title: 48
 usc_section: "471o"
 chapter: 2
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "48 U.S.C. § 471o"
-generated_at: "2026-03-29T22:30:03.981Z"
+generated_at: "2026-03-29T22:35:19.362Z"
 ---
 
 # §§ 471 to 471o. Transferred

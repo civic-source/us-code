@@ -3,9 +3,9 @@ title: "Section 2149 - Termination of Oversight Board"
 usc_title: 48
 usc_section: "2149"
 chapter: 20
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "48 U.S.C. § 2149"
-generated_at: "2026-03-29T22:30:04.035Z"
+generated_at: "2026-03-29T22:35:19.417Z"
 ---
 
 # § 2149. Termination of Oversight Board

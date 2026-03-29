@@ -3,9 +3,9 @@ title: "Section 1465b - Cuba Service"
 usc_title: 22
 usc_section: "1465b"
 chapter: 18
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 1465b"
-generated_at: "2026-03-29T22:26:05.871Z"
+generated_at: "2026-03-29T22:32:42.138Z"
 ---
 
 # § 1465b. Cuba Service

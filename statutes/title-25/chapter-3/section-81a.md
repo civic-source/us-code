@@ -3,9 +3,9 @@ title: "Section 81a - Counsel for prosecution of claims against the United State
 usc_title: 25
 usc_section: "81a"
 chapter: 3
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "25 U.S.C. § 81a"
-generated_at: "2026-03-29T22:25:56.669Z"
+generated_at: "2026-03-29T22:32:28.749Z"
 ---
 
 # § 81a. Counsel for prosecution of claims against the United States; cancellation; revival

@@ -3,9 +3,9 @@ title: "Section 1136 - Acquisition approval authority"
 usc_title: 14
 usc_section: "1136"
 chapter: 11
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "14 U.S.C. § 1136"
-generated_at: "2026-03-29T22:24:58.364Z"
+generated_at: "2026-03-29T22:31:37.566Z"
 ---
 
 # § 1136. Acquisition approval authority

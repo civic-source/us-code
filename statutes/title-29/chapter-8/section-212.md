@@ -3,9 +3,9 @@ title: "Section 212 - Child labor provisions"
 usc_title: 29
 usc_section: "212"
 chapter: 8
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "29 U.S.C. § 212"
-generated_at: "2026-03-29T22:26:32.810Z"
+generated_at: "2026-03-29T22:33:18.913Z"
 ---
 
 # § 212. Child labor provisions

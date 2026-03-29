@@ -3,9 +3,9 @@ title: "Section 49 - Documentary evidence; depositions; witnesses"
 usc_title: 15
 usc_section: "49"
 chapter: 2
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "15 U.S.C. § 49"
-generated_at: "2026-03-29T22:25:15.605Z"
+generated_at: "2026-03-29T22:31:51.714Z"
 ---
 
 # § 49. Documentary evidence; depositions; witnesses

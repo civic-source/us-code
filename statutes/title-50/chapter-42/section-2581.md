@@ -3,9 +3,9 @@ title: "Section 2581 - Defense Environmental Cleanup Account"
 usc_title: 50
 usc_section: "2581"
 chapter: 42
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "50 U.S.C. § 2581"
-generated_at: "2026-03-29T22:30:08.967Z"
+generated_at: "2026-03-29T22:35:28.918Z"
 ---
 
 # § 2581. Defense Environmental Cleanup Account

@@ -3,9 +3,9 @@ title: "Section 9 - Exemption from restructuring and borrowers rights provisions
 usc_title: 12
 usc_section: "9"
 chapter: 23
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "12 U.S.C. § 9"
-generated_at: "2026-03-29T22:25:04.978Z"
+generated_at: "2026-03-29T22:31:45.271Z"
 ---
 
 # § 2279aa–9. Exemption from restructuring and borrowers rights provisions for pooled loans

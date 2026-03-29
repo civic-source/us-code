@@ -3,9 +3,9 @@ title: "Section 30144 - Partial invalidity"
 usc_title: 52
 usc_section: "30144"
 chapter: 301
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "52 U.S.C. § 30144"
-generated_at: "2026-03-29T22:30:21.711Z"
+generated_at: "2026-03-29T22:36:11.795Z"
 ---
 
 # § 30144. Partial invalidity

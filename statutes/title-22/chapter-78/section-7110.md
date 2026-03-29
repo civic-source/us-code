@@ -3,9 +3,9 @@ title: "Section 7110 - Authorizations of appropriations"
 usc_title: 22
 usc_section: "7110"
 chapter: 78
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 7110"
-generated_at: "2026-03-29T22:26:06.174Z"
+generated_at: "2026-03-29T22:32:42.421Z"
 ---
 
 # § 7110. Authorizations of appropriations

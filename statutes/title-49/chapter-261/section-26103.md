@@ -3,9 +3,9 @@ title: "Section 26103 - Safety regulations and evaluation"
 usc_title: 49
 usc_section: "26103"
 chapter: 261
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "49 U.S.C. § 26103"
-generated_at: "2026-03-29T22:30:14.864Z"
+generated_at: "2026-03-29T22:36:08.064Z"
 ---
 
 # § 26103. Safety regulations and evaluation

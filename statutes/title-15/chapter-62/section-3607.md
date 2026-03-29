@@ -3,9 +3,9 @@ title: "Section 3607 - Termination of self-dealing contracts"
 usc_title: 15
 usc_section: "3607"
 chapter: 62
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "15 U.S.C. § 3607"
-generated_at: "2026-03-29T22:25:16.075Z"
+generated_at: "2026-03-29T22:31:52.167Z"
 ---
 
 # § 3607. Termination of self-dealing contracts

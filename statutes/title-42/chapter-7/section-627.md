@@ -3,9 +3,9 @@ title: "Section 627 - Family connection grants"
 usc_title: 42
 usc_section: "627"
 chapter: 7
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "42 U.S.C. § 627"
-generated_at: "2026-03-29T22:29:56.498Z"
+generated_at: "2026-03-29T22:35:09.726Z"
 ---
 
 # § 627. Family connection grants

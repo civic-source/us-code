@@ -3,9 +3,9 @@ title: "Section 1980b - Sanctions for imposition of conditions on U.S. fishing v
 usc_title: 22
 usc_section: "1980b"
 chapter: 25
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 1980b"
-generated_at: "2026-03-29T22:26:05.895Z"
+generated_at: "2026-03-29T22:32:42.160Z"
 ---
 
 # § 1980b. Sanctions for imposition of conditions on U.S. fishing vessel found inconsistent with international law

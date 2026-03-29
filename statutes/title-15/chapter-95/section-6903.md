@@ -3,9 +3,9 @@ title: "Section 6903 - Uses of assistance"
 usc_title: 15
 usc_section: "6903"
 chapter: 95
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "15 U.S.C. § 6903"
-generated_at: "2026-03-29T22:25:16.140Z"
+generated_at: "2026-03-29T22:31:52.233Z"
 ---
 
 # § 6903. Uses of assistance

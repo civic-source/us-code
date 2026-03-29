@@ -3,9 +3,9 @@ title: "Section 2009a - Establishment"
 usc_title: 7
 usc_section: "2009a"
 chapter: 50
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "7 U.S.C. § 2009a"
-generated_at: "2026-03-29T22:24:25.004Z"
+generated_at: "2026-03-29T22:31:20.005Z"
 ---
 
 # § 2009a. Establishment

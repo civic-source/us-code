@@ -3,9 +3,9 @@ title: "Section 703 - Reenlistment leave"
 usc_title: 10
 usc_section: "703"
 chapter: 40
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 703"
-generated_at: "2026-03-29T22:24:51.465Z"
+generated_at: "2026-03-29T22:31:32.639Z"
 ---
 
 # § 703. Reenlistment leave

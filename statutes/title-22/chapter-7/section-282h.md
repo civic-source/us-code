@@ -3,9 +3,9 @@ title: "Section 282h - Loans to or from International Bank for Reconstruction an
 usc_title: 22
 usc_section: "282h"
 chapter: 7
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "22 U.S.C. § 282h"
-generated_at: "2026-03-29T22:26:05.819Z"
+generated_at: "2026-03-29T22:32:42.089Z"
 ---
 
 # § 282h. Loans to or from International Bank for Reconstruction and Development; amendment to Articles of Agreement

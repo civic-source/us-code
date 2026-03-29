@@ -3,9 +3,9 @@ title: "Section 8106 - Riding gangs"
 usc_title: 46
 usc_section: "8106"
 chapter: 81
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "46 U.S.C. § 8106"
-generated_at: "2026-03-29T22:30:18.654Z"
+generated_at: "2026-03-29T22:35:50.592Z"
 ---
 
 # § 8106. Riding gangs

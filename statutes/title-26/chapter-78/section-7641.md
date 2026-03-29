@@ -3,9 +3,9 @@ title: "Section 7641 - Repealed. Pub. L. 94–455, title XIX, § 1906(a)(54) , O
 usc_title: 26
 usc_section: "7641"
 chapter: 78
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "26 U.S.C. § 7641"
-generated_at: "2026-03-29T22:27:06.070Z"
+generated_at: "2026-03-29T22:33:41.840Z"
 ---
 
 # [§ 7641. Repealed. Pub. L. 94–455, title XIX, § 1906(a)(54) , Oct. 4, 1976 , 90 Stat. 1832 ]

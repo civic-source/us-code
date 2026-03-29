@@ -3,9 +3,9 @@ title: "Section 1565b - Victims of sexual assault: access to legal assistance an
 usc_title: 10
 usc_section: "1565b"
 chapter: 80
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "10 U.S.C. § 1565b"
-generated_at: "2026-03-29T22:24:51.586Z"
+generated_at: "2026-03-29T22:31:32.753Z"
 ---
 
 # § 1565b. Victims of sexual assault: access to legal assistance and services of Sexual Assault Response Coordinators and Sexual Assault Victim Advocates

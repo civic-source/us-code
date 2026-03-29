@@ -3,9 +3,9 @@ title: "Section 20913 - Registry requirements for sex offenders"
 usc_title: 34
 usc_section: "20913"
 chapter: 209
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "34 U.S.C. § 20913"
-generated_at: "2026-03-29T22:27:35.758Z"
+generated_at: "2026-03-29T22:33:56.987Z"
 ---
 
 # § 20913. Registry requirements for sex offenders

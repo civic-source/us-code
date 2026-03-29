@@ -3,9 +3,9 @@ title: "Section 51303 - Non-competitive appointments"
 usc_title: 46
 usc_section: "51303"
 chapter: 513
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "46 U.S.C. § 51303"
-generated_at: "2026-03-29T22:30:18.695Z"
+generated_at: "2026-03-29T22:35:50.635Z"
 ---
 
 # § 51303. Non-competitive appointments

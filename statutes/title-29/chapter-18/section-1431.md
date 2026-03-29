@@ -3,9 +3,9 @@ title: "Section 1431 - Assistance by corporation"
 usc_title: 29
 usc_section: "1431"
 chapter: 18
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "29 U.S.C. § 1431"
-generated_at: "2026-03-29T22:26:32.954Z"
+generated_at: "2026-03-29T22:33:19.051Z"
 ---
 
 # § 1431. Assistance by corporation

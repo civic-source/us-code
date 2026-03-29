@@ -3,9 +3,9 @@ title: "Section 2023 - Taxation"
 usc_title: 12
 usc_section: "2023"
 chapter: 23
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "12 U.S.C. § 2023"
-generated_at: "2026-03-29T22:25:04.936Z"
+generated_at: "2026-03-29T22:31:45.241Z"
 ---
 
 # § 2023. Taxation

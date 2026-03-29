@@ -3,9 +3,9 @@ title: "Section 854 - Repealed. Pub. L. 107–372, title II, § 271(1) , (4), De
 usc_title: 33
 usc_section: "854"
 chapter: 17
-current_through: "PL 117-122"
+current_through: "PL 117-125"
 classification: "33 U.S.C. § 854"
-generated_at: "2026-03-29T22:27:50.959Z"
+generated_at: "2026-03-29T22:33:52.032Z"
 ---
 
 # §§ 853t to 854. Repealed. Pub. L. 107–372, title II, § 271(1) , (4), Dec. 19, 2002 , 116 Stat. 3094
