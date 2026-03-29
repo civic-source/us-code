@@ -3,9 +3,9 @@ title: "Section 9 - Reimbursement of corporation from funds of Government agenci
 usc_title: 15
 usc_section: "9"
 chapter: 15
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "15 U.S.C. § 9"
-generated_at: "2026-03-29T21:37:09.777Z"
+generated_at: "2026-03-29T21:40:27.580Z"
 ---
 
 # § 713a–9. Reimbursement of corporation from funds of Government agencies for services, losses, operating costs, or commodities purchased

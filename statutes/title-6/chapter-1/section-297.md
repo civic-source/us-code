@@ -3,9 +3,9 @@ title: "Section 297 - Reports and implementation plans"
 usc_title: 6
 usc_section: "297"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "6 U.S.C. § 297"
-generated_at: "2026-03-29T21:36:38.982Z"
+generated_at: "2026-03-29T21:40:00.950Z"
 ---
 
 # § 297. Reports and implementation plans

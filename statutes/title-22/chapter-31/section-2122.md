@@ -3,9 +3,9 @@ title: "Section 2122 - Powers and duties of Secretary of Commerce"
 usc_title: 22
 usc_section: "2122"
 chapter: 31
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 2122"
-generated_at: "2026-03-29T21:37:38.101Z"
+generated_at: "2026-03-29T21:41:23.020Z"
 ---
 
 # § 2122. Powers and duties of Secretary of Commerce

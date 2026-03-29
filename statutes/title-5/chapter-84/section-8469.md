@@ -3,9 +3,9 @@ title: "Section 8469 - Withholding of State income taxes"
 usc_title: 5
 usc_section: "8469"
 chapter: 84
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "5 U.S.C. § 8469"
-generated_at: "2026-03-29T21:36:35.914Z"
+generated_at: "2026-03-29T21:39:48.567Z"
 ---
 
 # § 8469. Withholding of State income taxes

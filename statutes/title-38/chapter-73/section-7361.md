@@ -3,9 +3,9 @@ title: "Section 7361 - Authority to establish; status"
 usc_title: 38
 usc_section: "7361"
 chapter: 73
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "38 U.S.C. § 7361"
-generated_at: "2026-03-29T21:38:09.548Z"
+generated_at: "2026-03-29T21:42:22.393Z"
 ---
 
 # § 7361. Authority to establish; status

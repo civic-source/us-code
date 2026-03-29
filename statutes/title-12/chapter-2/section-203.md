@@ -3,9 +3,9 @@ title: "Section 203 - Appointment of conservator"
 usc_title: 12
 usc_section: "203"
 chapter: 2
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "12 U.S.C. § 203"
-generated_at: "2026-03-29T21:37:05.436Z"
+generated_at: "2026-03-29T21:40:42.462Z"
 ---
 
 # § 203. Appointment of conservator

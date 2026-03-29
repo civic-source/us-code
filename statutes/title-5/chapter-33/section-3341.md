@@ -3,9 +3,9 @@ title: "Section 3341 - Details; within Executive or military departments"
 usc_title: 5
 usc_section: "3341"
 chapter: 33
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "5 U.S.C. § 3341"
-generated_at: "2026-03-29T21:36:35.841Z"
+generated_at: "2026-03-29T21:39:48.488Z"
 ---
 
 # § 3341. Details; within Executive or military departments

@@ -3,9 +3,9 @@ title: "Section 1396g - State programs for licensing of administrators of nursin
 usc_title: 42
 usc_section: "1396g"
 chapter: 7
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 1396g"
-generated_at: "2026-03-29T21:38:39.812Z"
+generated_at: "2026-03-29T21:43:05.342Z"
 ---
 
 # § 1396g. State programs for licensing of administrators of nursing homes

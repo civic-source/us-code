@@ -3,9 +3,9 @@ title: "Section 153 - How issued"
 usc_title: 35
 usc_section: "153"
 chapter: 14
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "35 U.S.C. § 153"
-generated_at: "2026-03-29T21:37:57.622Z"
+generated_at: "2026-03-29T21:41:46.234Z"
 ---
 
 # § 153. How issued

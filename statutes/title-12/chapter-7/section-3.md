@@ -3,9 +3,9 @@ title: "Section 3 - Omitted"
 usc_title: 12
 usc_section: "3"
 chapter: 7
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-29T21:37:05.472Z"
+generated_at: "2026-03-29T21:40:42.493Z"
 ---
 
 # §§ 1020a–2, 1020a–3. Omitted

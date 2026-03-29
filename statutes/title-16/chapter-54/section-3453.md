@@ -3,9 +3,9 @@ title: "Section 3453 - Selection of designated areas"
 usc_title: 16
 usc_section: "3453"
 chapter: 54
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 3453"
-generated_at: "2026-03-29T21:37:25.992Z"
+generated_at: "2026-03-29T21:41:10.833Z"
 ---
 
 # § 3453. Selection of designated areas

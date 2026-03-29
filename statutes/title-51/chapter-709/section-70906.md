@@ -3,9 +3,9 @@ title: "Section 70906 - International Space Station National Laboratory Advisory
 usc_title: 51
 usc_section: "70906"
 chapter: 709
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "51 U.S.C. § 70906"
-generated_at: "2026-03-29T21:39:03.718Z"
+generated_at: "2026-03-29T21:43:26.838Z"
 ---
 
 # § 70906. International Space Station National Laboratory Advisory Committee

@@ -3,9 +3,9 @@ title: "Section 8109 - Parking facilities"
 usc_title: 38
 usc_section: "8109"
 chapter: 81
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "38 U.S.C. § 8109"
-generated_at: "2026-03-29T21:38:09.561Z"
+generated_at: "2026-03-29T21:42:22.406Z"
 ---
 
 # § 8109. Parking facilities

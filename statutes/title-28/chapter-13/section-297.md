@@ -3,9 +3,9 @@ title: "Section 297 - Assignment of judges to courts of the freely associated co
 usc_title: 28
 usc_section: "297"
 chapter: 13
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "28 U.S.C. § 297"
-generated_at: "2026-03-29T21:37:43.043Z"
+generated_at: "2026-03-29T21:41:42.637Z"
 ---
 
 # § 297. Assignment of judges to courts of the freely associated compact states

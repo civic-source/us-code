@@ -3,9 +3,9 @@ title: "Section 7590 - General provisions"
 usc_title: 42
 usc_section: "7590"
 chapter: 85
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 7590"
-generated_at: "2026-03-29T21:38:40.270Z"
+generated_at: "2026-03-29T21:43:05.785Z"
 ---
 
 # § 7590. General provisions

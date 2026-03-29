@@ -3,9 +3,9 @@ title: "Section 20341 - Child abuse reporting"
 usc_title: 34
 usc_section: "20341"
 chapter: 203
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "34 U.S.C. § 20341"
-generated_at: "2026-03-29T21:38:00.653Z"
+generated_at: "2026-03-29T21:41:48.740Z"
 ---
 
 # § 20341. Child abuse reporting

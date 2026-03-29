@@ -3,9 +3,9 @@ title: "Section 254c - Rural health care services outreach, rural health network
 usc_title: 42
 usc_section: "254c"
 chapter: 6
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 254c"
-generated_at: "2026-03-29T21:38:39.275Z"
+generated_at: "2026-03-29T21:43:04.797Z"
 ---
 
 # § 254c. Rural health care services outreach, rural health network development, and small health care provider quality improvement grant programs

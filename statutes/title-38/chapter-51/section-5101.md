@@ -3,9 +3,9 @@ title: "Section 5101 - Claims and forms"
 usc_title: 38
 usc_section: "5101"
 chapter: 51
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "38 U.S.C. § 5101"
-generated_at: "2026-03-29T21:38:09.528Z"
+generated_at: "2026-03-29T21:42:22.371Z"
 ---
 
 # § 5101. Claims and forms

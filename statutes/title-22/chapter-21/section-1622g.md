@@ -3,9 +3,9 @@ title: "Section 1622g - Independence of Foreign Claims Settlement Commission of 
 usc_title: 22
 usc_section: "1622g"
 chapter: 21
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 1622g"
-generated_at: "2026-03-29T21:37:38.087Z"
+generated_at: "2026-03-29T21:41:23.007Z"
 ---
 
 # § 1622g. Independence of Foreign Claims Settlement Commission of the United States; finality of Commission decisions

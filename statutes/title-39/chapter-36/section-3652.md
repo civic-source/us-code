@@ -3,9 +3,9 @@ title: "Section 3652 - Annual reports to the Commission"
 usc_title: 39
 usc_section: "3652"
 chapter: 36
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "39 U.S.C. § 3652"
-generated_at: "2026-03-29T21:38:04.892Z"
+generated_at: "2026-03-29T21:42:30.898Z"
 ---
 
 # § 3652. Annual reports to the Commission

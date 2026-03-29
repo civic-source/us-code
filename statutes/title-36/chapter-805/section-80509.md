@@ -3,9 +3,9 @@ title: "Section 80509 - Records and inspection"
 usc_title: 36
 usc_section: "80509"
 chapter: 805
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "36 U.S.C. § 80509"
-generated_at: "2026-03-29T21:38:10.845Z"
+generated_at: "2026-03-29T21:42:18.194Z"
 ---
 
 # § 80509. Records and inspection

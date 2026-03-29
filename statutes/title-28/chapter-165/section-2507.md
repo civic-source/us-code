@@ -3,9 +3,9 @@ title: "Section 2507 - Calls and discovery"
 usc_title: 28
 usc_section: "2507"
 chapter: 165
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "28 U.S.C. § 2507"
-generated_at: "2026-03-29T21:37:43.092Z"
+generated_at: "2026-03-29T21:41:42.679Z"
 ---
 
 # § 2507. Calls and discovery

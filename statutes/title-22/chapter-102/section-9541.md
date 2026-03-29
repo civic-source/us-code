@@ -3,9 +3,9 @@ title: "Section 9541 - Findings"
 usc_title: 22
 usc_section: "9541"
 chapter: 102
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 9541"
-generated_at: "2026-03-29T21:37:38.354Z"
+generated_at: "2026-03-29T21:41:23.229Z"
 ---
 
 # § 9541. Findings

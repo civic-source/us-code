@@ -3,9 +3,9 @@ title: "Section 1602 - Basic pay"
 usc_title: 10
 usc_section: "1602"
 chapter: 83
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 1602"
-generated_at: "2026-03-29T21:36:56.379Z"
+generated_at: "2026-03-29T21:40:11.125Z"
 ---
 
 # § 1602. Basic pay

@@ -3,9 +3,9 @@ title: "Section 7104 - Processing project requests to be financed by at least 2 
 usc_title: 31
 usc_section: "7104"
 chapter: 71
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "31 U.S.C. § 7104"
-generated_at: "2026-03-29T21:37:59.364Z"
+generated_at: "2026-03-29T21:42:10.443Z"
 ---
 
 # § 7104. Processing project requests to be financed by at least 2 assistance programs

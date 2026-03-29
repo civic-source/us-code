@@ -3,9 +3,9 @@ title: "Section 3562 - Nonduplication of benefits"
 usc_title: 38
 usc_section: "3562"
 chapter: 35
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "38 U.S.C. § 3562"
-generated_at: "2026-03-29T21:38:09.505Z"
+generated_at: "2026-03-29T21:42:22.351Z"
 ---
 
 # § 3562. Nonduplication of benefits

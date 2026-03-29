@@ -3,9 +3,9 @@ title: "Section 9302 - Prohibition against surety bonds for United States Govern
 usc_title: 31
 usc_section: "9302"
 chapter: 93
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "31 U.S.C. § 9302"
-generated_at: "2026-03-29T21:37:59.367Z"
+generated_at: "2026-03-29T21:42:10.445Z"
 ---
 
 # § 9302. Prohibition against surety bonds for United States Government personnel

@@ -3,9 +3,9 @@ title: "Section 44729 - Age standards for pilots"
 usc_title: 49
 usc_section: "44729"
 chapter: 447
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "49 U.S.C. § 44729"
-generated_at: "2026-03-29T21:38:51.494Z"
+generated_at: "2026-03-29T21:43:24.304Z"
 ---
 
 # § 44729. Age standards for pilots

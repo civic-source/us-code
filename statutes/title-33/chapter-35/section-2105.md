@@ -3,9 +3,9 @@ title: "Section 2105 - Definitions"
 usc_title: 33
 usc_section: "2105"
 chapter: 35
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "33 U.S.C. § 2105"
-generated_at: "2026-03-29T21:38:02.703Z"
+generated_at: "2026-03-29T21:42:01.903Z"
 ---
 
 # § 2105. Definitions

@@ -3,9 +3,9 @@ title: "Section 831x - Condemnation proceedings; institution by Corporation; ven
 usc_title: 16
 usc_section: "831x"
 chapter: 12
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 831x"
-generated_at: "2026-03-29T21:37:25.873Z"
+generated_at: "2026-03-29T21:41:10.719Z"
 ---
 
 # § 831x. Condemnation proceedings; institution by Corporation; venue

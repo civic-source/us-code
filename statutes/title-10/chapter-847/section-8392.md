@@ -3,9 +3,9 @@ title: "Section 8392 - Disposition of effects"
 usc_title: 10
 usc_section: "8392"
 chapter: 847
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 8392"
-generated_at: "2026-03-29T21:36:56.540Z"
+generated_at: "2026-03-29T21:40:11.303Z"
 ---
 
 # § 8392. Disposition of effects

@@ -3,9 +3,9 @@ title: "Section 136x - Severability"
 usc_title: 7
 usc_section: "136x"
 chapter: 6
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 136x"
-generated_at: "2026-03-29T21:36:46.729Z"
+generated_at: "2026-03-29T21:40:15.734Z"
 ---
 
 # § 136x. Severability

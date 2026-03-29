@@ -3,9 +3,9 @@ title: "Section 105 - Child Health Day"
 usc_title: 36
 usc_section: "105"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "36 U.S.C. § 105"
-generated_at: "2026-03-29T21:38:10.827Z"
+generated_at: "2026-03-29T21:42:18.175Z"
 ---
 
 # § 105. Child Health Day

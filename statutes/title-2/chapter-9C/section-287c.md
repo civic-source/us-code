@@ -3,9 +3,9 @@ title: "Section 287c - Compensation"
 usc_title: 2
 usc_section: "287c"
 chapter: 9
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "2 U.S.C. § 287c"
-generated_at: "2026-03-29T21:36:32.927Z"
+generated_at: "2026-03-29T21:39:57.035Z"
 ---
 
 # § 287c. Compensation

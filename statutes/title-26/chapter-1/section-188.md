@@ -3,9 +3,9 @@ title: "Section 188 - Repealed. Pub. L. 101–508, title XI, § 11801(a)(13) , N
 usc_title: 26
 usc_section: "188"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "26 U.S.C. § 188"
-generated_at: "2026-03-29T21:37:54.761Z"
+generated_at: "2026-03-29T21:41:38.963Z"
 ---
 
 # [§ 188. Repealed. Pub. L. 101–508, title XI, § 11801(a)(13) , Nov. 5, 1990 , 104 Stat. 1388–520 ]

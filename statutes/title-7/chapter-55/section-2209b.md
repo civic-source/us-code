@@ -3,9 +3,9 @@ title: "Section 2209b - Availability of appropriations"
 usc_title: 7
 usc_section: "2209b"
 chapter: 55
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 2209b"
-generated_at: "2026-03-29T21:36:46.934Z"
+generated_at: "2026-03-29T21:40:15.893Z"
 ---
 
 # § 2209b. Availability of appropriations

@@ -3,9 +3,9 @@ title: "Section 1182 - Definitions"
 usc_title: 11
 usc_section: "1182"
 chapter: 11
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "11 U.S.C. § 1182"
-generated_at: "2026-03-29T21:37:00.543Z"
+generated_at: "2026-03-29T21:40:21.268Z"
 ---
 
 # § 1182. Definitions

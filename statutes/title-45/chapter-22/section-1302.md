@@ -3,9 +3,9 @@ title: "Section 1302 - Purposes"
 usc_title: 45
 usc_section: "1302"
 chapter: 22
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "45 U.S.C. § 1302"
-generated_at: "2026-03-29T21:38:16.114Z"
+generated_at: "2026-03-29T21:42:46.093Z"
 ---
 
 # § 1302. Purposes

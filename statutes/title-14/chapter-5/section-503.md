@@ -3,9 +3,9 @@ title: "Section 503 - Regulations"
 usc_title: 14
 usc_section: "503"
 chapter: 5
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "14 U.S.C. § 503"
-generated_at: "2026-03-29T21:36:59.893Z"
+generated_at: "2026-03-29T21:40:20.475Z"
 ---
 
 # § 503. Regulations

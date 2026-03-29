@@ -3,9 +3,9 @@ title: "Section 1419 - Protection of the environment"
 usc_title: 30
 usc_section: "1419"
 chapter: 26
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "30 U.S.C. § 1419"
-generated_at: "2026-03-29T21:37:41.529Z"
+generated_at: "2026-03-29T21:41:29.372Z"
 ---
 
 # § 1419. Protection of the environment

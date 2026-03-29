@@ -3,9 +3,9 @@ title: "Section 30115 - Certification of compliance"
 usc_title: 49
 usc_section: "30115"
 chapter: 301
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "49 U.S.C. § 30115"
-generated_at: "2026-03-29T21:38:51.438Z"
+generated_at: "2026-03-29T21:43:24.244Z"
 ---
 
 # § 30115. Certification of compliance

@@ -3,9 +3,9 @@ title: "Section 752 - Instigating or assisting escape"
 usc_title: 18
 usc_section: "752"
 chapter: 35
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "18 U.S.C. § 752"
-generated_at: "2026-03-29T21:37:14.927Z"
+generated_at: "2026-03-29T21:40:58.302Z"
 ---
 
 # § 752. Instigating or assisting escape

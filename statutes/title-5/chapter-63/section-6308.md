@@ -3,9 +3,9 @@ title: "Section 6308 - Transfers between positions under different leave systems
 usc_title: 5
 usc_section: "6308"
 chapter: 63
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "5 U.S.C. § 6308"
-generated_at: "2026-03-29T21:36:35.874Z"
+generated_at: "2026-03-29T21:39:48.523Z"
 ---
 
 # § 6308. Transfers between positions under different leave systems

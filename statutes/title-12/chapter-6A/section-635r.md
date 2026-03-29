@@ -3,9 +3,9 @@ title: "Section 635r - Establishment of tied aid credit program administered by 
 usc_title: 12
 usc_section: "635r"
 chapter: 6
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "12 U.S.C. § 635r"
-generated_at: "2026-03-29T21:37:05.472Z"
+generated_at: "2026-03-29T21:40:42.493Z"
 ---
 
 # § 635r. Establishment of tied aid credit program administered by Trade and Development Agency

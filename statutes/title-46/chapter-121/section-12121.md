@@ -3,9 +3,9 @@ title: "Section 12121 - Small passenger vessels and uninspected passenger vessel
 usc_title: 46
 usc_section: "12121"
 chapter: 121
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "46 U.S.C. § 12121"
-generated_at: "2026-03-29T21:39:01.206Z"
+generated_at: "2026-03-29T21:43:12.824Z"
 ---
 
 # § 12121. Small passenger vessels and uninspected passenger vessels

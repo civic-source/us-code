@@ -3,14 +3,14 @@ title: "Section 8102 - Nutria eradication program"
 usc_title: 16
 usc_section: "8102"
 chapter: 100
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 8102"
-generated_at: "2026-03-29T21:37:26.061Z"
+generated_at: "2026-03-29T21:41:10.903Z"
 ---
 
 # § 8102. Nutria eradication program
 
-- **(a)** The Secretary of the Interior (referred to in this chapter as the “Secretary”), may provide financial assistance to a State, in an amount that is in proportion to the total impacted area of such State affected by nutria, that has demonstrated to the Secretary sufficient need for a program to implement measures to eradicate or control nutria and restore marshland, public and private wetlands, and agricultural lands damaged by nutria.
+- **(a)** The Secretary of the Interior (referred to in this chapter as the “Secretary”), 1 1 So in original. The comma probably should not appear. may provide financial assistance to a State, in an amount that is in proportion to the total impacted area of such State affected by nutria, that has demonstrated to the Secretary sufficient need for a program to implement measures to eradicate or control nutria and restore marshland, public and private wetlands, and agricultural lands damaged by nutria.
 - **(b)** In the State of Maryland, the Secretary shall require that the program consist of management, research, and public education activities carried out in accordance with the document published by the United States Fish and Wildlife Service entitled “Eradication Strategies for Nutria in the Chesapeake and Delaware Bay Watersheds”, dated March 2002.
 - **(c)**
   - **(1)** The Federal share of the costs of a State program referred to in subsection (a) may not exceed 75 percent of the total costs of the program.

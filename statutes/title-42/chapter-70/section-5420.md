@@ -3,9 +3,9 @@ title: "Section 5420 - Failure to report violations; penalties"
 usc_title: 42
 usc_section: "5420"
 chapter: 70
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 5420"
-generated_at: "2026-03-29T21:38:40.140Z"
+generated_at: "2026-03-29T21:43:05.657Z"
 ---
 
 # § 5420. Failure to report violations; penalties

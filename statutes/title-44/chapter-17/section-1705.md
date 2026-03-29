@@ -3,9 +3,9 @@ title: "Section 1705 - Printing additional copies for sale to public; regulation
 usc_title: 44
 usc_section: "1705"
 chapter: 17
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "44 U.S.C. § 1705"
-generated_at: "2026-03-29T21:38:13.719Z"
+generated_at: "2026-03-29T21:42:36.434Z"
 ---
 
 # § 1705. Printing additional copies for sale to public; regulations

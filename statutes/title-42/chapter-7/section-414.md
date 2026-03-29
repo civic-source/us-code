@@ -3,9 +3,9 @@ title: "Section 414 - Insured status for purposes of old-age and survivors insur
 usc_title: 42
 usc_section: "414"
 chapter: 7
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 414"
-generated_at: "2026-03-29T21:38:39.525Z"
+generated_at: "2026-03-29T21:43:05.051Z"
 ---
 
 # § 414. Insured status for purposes of old-age and survivors insurance benefits

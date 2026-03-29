@@ -3,9 +3,9 @@ title: "Section 4501 - Short title"
 usc_title: 50
 usc_section: "4501"
 chapter: 55
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "50 U.S.C. § 4501"
-generated_at: "2026-03-29T21:38:47.452Z"
+generated_at: "2026-03-29T21:43:17.417Z"
 ---
 
 # § 4501. Short title

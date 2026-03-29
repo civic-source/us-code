@@ -3,9 +3,9 @@ title: "Section 6348 - Energy efficiency in industrial facilities"
 usc_title: 42
 usc_section: "6348"
 chapter: 77
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 6348"
-generated_at: "2026-03-29T21:38:40.175Z"
+generated_at: "2026-03-29T21:43:05.690Z"
 ---
 
 # § 6348. Energy efficiency in industrial facilities

@@ -3,9 +3,9 @@ title: "Section 2066 - Advisory Committee on Homeless Veterans"
 usc_title: 38
 usc_section: "2066"
 chapter: 20
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "38 U.S.C. § 2066"
-generated_at: "2026-03-29T21:38:09.484Z"
+generated_at: "2026-03-29T21:42:22.329Z"
 ---
 
 # § 2066. Advisory Committee on Homeless Veterans

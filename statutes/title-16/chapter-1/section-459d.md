@@ -3,9 +3,9 @@ title: "Section 459d - Padre Island National Seashore; description of land and w
 usc_title: 16
 usc_section: "459d"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 459d"
-generated_at: "2026-03-29T21:37:25.727Z"
+generated_at: "2026-03-29T21:41:10.542Z"
 ---
 
 # § 459d. Padre Island National Seashore; description of land and waters

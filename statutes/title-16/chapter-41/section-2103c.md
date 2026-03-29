@@ -3,9 +3,9 @@ title: "Section 2103c - Forest Legacy Program"
 usc_title: 16
 usc_section: "2103c"
 chapter: 41
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 2103c"
-generated_at: "2026-03-29T21:37:25.967Z"
+generated_at: "2026-03-29T21:41:10.807Z"
 ---
 
 # § 2103c. Forest Legacy Program

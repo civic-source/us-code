@@ -3,9 +3,9 @@ title: "Section 50301 - Vessel Operations Revolving Fund"
 usc_title: 46
 usc_section: "50301"
 chapter: 503
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "46 U.S.C. § 50301"
-generated_at: "2026-03-29T21:39:01.223Z"
+generated_at: "2026-03-29T21:43:12.845Z"
 ---
 
 # § 50301. Vessel Operations Revolving Fund

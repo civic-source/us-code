@@ -3,9 +3,9 @@ title: "Section 1730 - Uniforms of carriers"
 usc_title: 18
 usc_section: "1730"
 chapter: 83
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "18 U.S.C. § 1730"
-generated_at: "2026-03-29T21:37:14.959Z"
+generated_at: "2026-03-29T21:40:58.343Z"
 ---
 
 # § 1730. Uniforms of carriers

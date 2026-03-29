@@ -3,9 +3,9 @@ title: "Section 1665h - Inpatient and community-based mental health facilities d
 usc_title: 25
 usc_section: "1665h"
 chapter: 18
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "25 U.S.C. § 1665h"
-generated_at: "2026-03-29T21:37:31.748Z"
+generated_at: "2026-03-29T21:41:18.931Z"
 ---
 
 # § 1665h. Inpatient and community-based mental health facilities design, construction, and staffing

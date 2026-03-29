@@ -3,9 +3,9 @@ title: "Section 5731 - Reporting requirement"
 usc_title: 22
 usc_section: "5731"
 chapter: 66
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 5731"
-generated_at: "2026-03-29T21:37:38.253Z"
+generated_at: "2026-03-29T21:41:23.146Z"
 ---
 
 # § 5731. Reporting requirement

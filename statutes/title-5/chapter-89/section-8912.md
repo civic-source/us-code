@@ -3,9 +3,9 @@ title: "Section 8912 - Jurisdiction of courts"
 usc_title: 5
 usc_section: "8912"
 chapter: 89
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "5 U.S.C. § 8912"
-generated_at: "2026-03-29T21:36:35.922Z"
+generated_at: "2026-03-29T21:39:48.577Z"
 ---
 
 # § 8912. Jurisdiction of courts

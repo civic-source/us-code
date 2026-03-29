@@ -3,9 +3,9 @@ title: "Section 1425c - Authorization of loans, conveyances, etc."
 usc_title: 48
 usc_section: "1425c"
 chapter: 8
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "48 U.S.C. § 1425c"
-generated_at: "2026-03-29T21:38:44.603Z"
+generated_at: "2026-03-29T21:43:10.388Z"
 ---
 
 # § 1425c. Authorization of loans, conveyances, etc.

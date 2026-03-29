@@ -3,9 +3,9 @@ title: "Section 3202 - Penalty mail"
 usc_title: 39
 usc_section: "3202"
 chapter: 32
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "39 U.S.C. § 3202"
-generated_at: "2026-03-29T21:38:04.888Z"
+generated_at: "2026-03-29T21:42:30.895Z"
 ---
 
 # § 3202. Penalty mail

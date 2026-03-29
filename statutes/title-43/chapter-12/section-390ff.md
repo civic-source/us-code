@@ -3,9 +3,9 @@ title: "Section 390ff - Certification of compliance"
 usc_title: 43
 usc_section: "390ff"
 chapter: 12
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "43 U.S.C. § 390ff"
-generated_at: "2026-03-29T21:38:15.485Z"
+generated_at: "2026-03-29T21:42:38.079Z"
 ---
 
 # § 390ff. Certification of compliance

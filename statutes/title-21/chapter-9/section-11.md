@@ -3,9 +3,9 @@ title: "Section 11 - Definitions"
 usc_title: 21
 usc_section: "11"
 chapter: 9
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "21 U.S.C. § 11"
-generated_at: "2026-03-29T21:37:33.533Z"
+generated_at: "2026-03-29T21:41:17.086Z"
 ---
 
 # § 379j–11. Definitions

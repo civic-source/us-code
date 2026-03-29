@@ -3,9 +3,9 @@ title: "Section 921a - Art. 121a. Fraudulent use of credit cards, debit cards, a
 usc_title: 10
 usc_section: "921a"
 chapter: 47
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 921a"
-generated_at: "2026-03-29T21:36:56.292Z"
+generated_at: "2026-03-29T21:40:11.067Z"
 ---
 
 # § 921a. Art. 121a. Fraudulent use of credit cards, debit cards, and other access devices

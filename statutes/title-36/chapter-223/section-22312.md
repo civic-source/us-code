@@ -3,9 +3,9 @@ title: "Section 22312 - Distribution of assets on dissolution or final liquidati
 usc_title: 36
 usc_section: "22312"
 chapter: 223
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "36 U.S.C. § 22312"
-generated_at: "2026-03-29T21:38:10.834Z"
+generated_at: "2026-03-29T21:42:18.184Z"
 ---
 
 # § 22312. Distribution of assets on dissolution or final liquidation

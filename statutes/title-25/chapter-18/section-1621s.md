@@ -3,9 +3,9 @@ title: "Section 1621s - Prompt action on payment of claims"
 usc_title: 25
 usc_section: "1621s"
 chapter: 18
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "25 U.S.C. § 1621s"
-generated_at: "2026-03-29T21:37:31.740Z"
+generated_at: "2026-03-29T21:41:18.923Z"
 ---
 
 # § 1621s. Prompt action on payment of claims

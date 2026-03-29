@@ -3,9 +3,9 @@ title: "Section 781 - Comprehensive energy plan"
 usc_title: 15
 usc_section: "781"
 chapter: 16
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "15 U.S.C. § 781"
-generated_at: "2026-03-29T21:37:09.790Z"
+generated_at: "2026-03-29T21:40:27.592Z"
 ---
 
 # § 781. Comprehensive energy plan

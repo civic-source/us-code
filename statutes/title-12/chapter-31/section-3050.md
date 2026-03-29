@@ -3,9 +3,9 @@ title: "Section 3050 - Fees for providing technical assistance services; waiver;
 usc_title: 12
 usc_section: "3050"
 chapter: 31
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "12 U.S.C. § 3050"
-generated_at: "2026-03-29T21:37:05.658Z"
+generated_at: "2026-03-29T21:40:42.664Z"
 ---
 
 # § 3050. Fees for providing technical assistance services; waiver; accounting and availability

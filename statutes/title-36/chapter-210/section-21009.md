@@ -3,9 +3,9 @@ title: "Section 21009 - Records and inspection"
 usc_title: 36
 usc_section: "21009"
 chapter: 210
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "36 U.S.C. § 21009"
-generated_at: "2026-03-29T21:38:10.832Z"
+generated_at: "2026-03-29T21:42:18.183Z"
 ---
 
 # § 21009. Records and inspection

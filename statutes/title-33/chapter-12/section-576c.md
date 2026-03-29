@@ -3,9 +3,9 @@ title: "Section 576c - Corps of Engineers operation of unmanned aircraft systems
 usc_title: 33
 usc_section: "576c"
 chapter: 12
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "33 U.S.C. § 576c"
-generated_at: "2026-03-29T21:38:02.622Z"
+generated_at: "2026-03-29T21:42:01.821Z"
 ---
 
 # § 576c. Corps of Engineers operation of unmanned aircraft systems

@@ -3,9 +3,9 @@ title: "Section 3537 - Access to WTO dispute settlement process"
 usc_title: 19
 usc_section: "3537"
 chapter: 22
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "19 U.S.C. § 3537"
-generated_at: "2026-03-29T21:37:17.732Z"
+generated_at: "2026-03-29T21:40:48.322Z"
 ---
 
 # § 3537. Access to WTO dispute settlement process

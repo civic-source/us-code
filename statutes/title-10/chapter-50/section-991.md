@@ -3,9 +3,9 @@ title: "Section 991 - Management of deployments of members and measurement and d
 usc_title: 10
 usc_section: "991"
 chapter: 50
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 991"
-generated_at: "2026-03-29T21:36:56.307Z"
+generated_at: "2026-03-29T21:40:11.075Z"
 ---
 
 # § 991. Management of deployments of members and measurement and data collection of unit operating and personnel tempo

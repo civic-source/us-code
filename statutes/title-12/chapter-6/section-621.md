@@ -3,9 +3,9 @@ title: "Section 621 - Liability of shareholders on unpaid subscriptions; members
 usc_title: 12
 usc_section: "621"
 chapter: 6
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "12 U.S.C. § 621"
-generated_at: "2026-03-29T21:37:05.460Z"
+generated_at: "2026-03-29T21:40:42.484Z"
 ---
 
 # § 621. Liability of shareholders on unpaid subscriptions; membership of corporation in Federal reserve bank prohibited

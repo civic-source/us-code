@@ -3,9 +3,9 @@ title: "Section 8304 - Waiver rescission"
 usc_title: 41
 usc_section: "8304"
 chapter: 83
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "41 U.S.C. § 8304"
-generated_at: "2026-03-29T21:38:13.282Z"
+generated_at: "2026-03-29T21:42:36.027Z"
 ---
 
 # § 8304. Waiver rescission

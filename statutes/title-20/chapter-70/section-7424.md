@@ -3,9 +3,9 @@ title: "Section 7424 - Applications"
 usc_title: 20
 usc_section: "7424"
 chapter: 70
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "20 U.S.C. § 7424"
-generated_at: "2026-03-29T21:37:21.290Z"
+generated_at: "2026-03-29T21:40:52.150Z"
 ---
 
 # § 7424. Applications

@@ -3,9 +3,9 @@ title: "Section 1639g - Requests for payoff amounts of home loan"
 usc_title: 15
 usc_section: "1639g"
 chapter: 41
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "15 U.S.C. § 1639g"
-generated_at: "2026-03-29T21:37:09.830Z"
+generated_at: "2026-03-29T21:40:27.631Z"
 ---
 
 # § 1639g. Requests for payoff amounts of home loan

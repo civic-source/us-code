@@ -3,9 +3,9 @@ title: "Section 14905 - Penalties for violations of rules relating to loading an
 usc_title: 49
 usc_section: "14905"
 chapter: 149
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "49 U.S.C. § 14905"
-generated_at: "2026-03-29T21:38:51.409Z"
+generated_at: "2026-03-29T21:43:24.221Z"
 ---
 
 # § 14905. Penalties for violations of rules relating to loading and unloading motor vehicles

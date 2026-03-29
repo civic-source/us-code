@@ -3,9 +3,9 @@ title: "Section 426m - Administration, protection, and development"
 usc_title: 16
 usc_section: "426m"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 426m"
-generated_at: "2026-03-29T21:37:25.709Z"
+generated_at: "2026-03-29T21:41:10.522Z"
 ---
 
 # § 426m. Administration, protection, and development

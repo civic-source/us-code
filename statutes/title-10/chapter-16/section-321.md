@@ -3,9 +3,9 @@ title: "Section 321 - Training with friendly foreign countries: payment of train
 usc_title: 10
 usc_section: "321"
 chapter: 16
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 321"
-generated_at: "2026-03-29T21:36:56.241Z"
+generated_at: "2026-03-29T21:40:11.027Z"
 ---
 
 # § 321. Training with friendly foreign countries: payment of training and exercise expenses

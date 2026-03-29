@@ -3,9 +3,9 @@ title: "Section 5106b - Repealed. Pub. L. 104–235, title I, § 108 , Oct. 3, 1
 usc_title: 42
 usc_section: "5106b"
 chapter: 67
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 5106b"
-generated_at: "2026-03-29T21:38:40.109Z"
+generated_at: "2026-03-29T21:43:05.631Z"
 ---
 
 # § 5106b. Repealed. Pub. L. 104–235, title I, § 108 , Oct. 3, 1996 , 110 Stat. 3078

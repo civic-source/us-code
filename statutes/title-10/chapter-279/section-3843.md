@@ -3,9 +3,9 @@ title: "Section 3843 - Contractor internal audit reports: Department of Defense 
 usc_title: 10
 usc_section: "3843"
 chapter: 279
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 3843"
-generated_at: "2026-03-29T21:36:56.496Z"
+generated_at: "2026-03-29T21:40:11.258Z"
 ---
 
 # § 3843. Contractor internal audit reports: Department of Defense access to, use of, and safeguards and protections for

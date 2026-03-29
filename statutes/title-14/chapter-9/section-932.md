@@ -3,9 +3,9 @@ title: "Section 932 - Administration of oaths"
 usc_title: 14
 usc_section: "932"
 chapter: 9
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "14 U.S.C. § 932"
-generated_at: "2026-03-29T21:36:59.898Z"
+generated_at: "2026-03-29T21:40:20.481Z"
 ---
 
 # § 932. Administration of oaths

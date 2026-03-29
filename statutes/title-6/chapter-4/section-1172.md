@@ -3,9 +3,9 @@ title: "Section 1172 - Railroad security enhancements; Model State legislation"
 usc_title: 6
 usc_section: "1172"
 chapter: 4
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "6 U.S.C. § 1172"
-generated_at: "2026-03-29T21:36:39.035Z"
+generated_at: "2026-03-29T21:40:01.014Z"
 ---
 
 # § 1172. Railroad security enhancements; Model State legislation

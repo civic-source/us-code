@@ -3,9 +3,9 @@ title: "Section 18061 - Transitional reinsurance program for individual market i
 usc_title: 42
 usc_section: "18061"
 chapter: 157
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 18061"
-generated_at: "2026-03-29T21:38:40.590Z"
+generated_at: "2026-03-29T21:43:06.114Z"
 ---
 
 # § 18061. Transitional reinsurance program for individual market in each State

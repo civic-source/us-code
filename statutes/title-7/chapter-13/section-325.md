@@ -3,9 +3,9 @@ title: "Section 325 - State to replace funds misapplied, etc.; restrictions on u
 usc_title: 7
 usc_section: "325"
 chapter: 13
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 325"
-generated_at: "2026-03-29T21:36:46.742Z"
+generated_at: "2026-03-29T21:40:15.743Z"
 ---
 
 # § 325. State to replace funds misapplied, etc.; restrictions on use of funds; reports by colleges

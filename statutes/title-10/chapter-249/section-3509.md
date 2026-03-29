@@ -3,9 +3,9 @@ title: "Section 3509 - Department of defense contracts: multiyear contracts with
 usc_title: 10
 usc_section: "3509"
 chapter: 249
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 3509"
-generated_at: "2026-03-29T21:36:56.490Z"
+generated_at: "2026-03-29T21:40:11.251Z"
 ---
 
 # § 3509. Department of defense contracts: multiyear contracts with value in excess of $500,000,000

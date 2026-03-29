@@ -3,9 +3,9 @@ title: "Section 2334 - Independent cost estimation and cost analysis"
 usc_title: 10
 usc_section: "2334"
 chapter: 137
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 2334"
-generated_at: "2026-03-29T21:36:56.418Z"
+generated_at: "2026-03-29T21:40:11.170Z"
 ---
 
 # § 2334. Independent cost estimation and cost analysis

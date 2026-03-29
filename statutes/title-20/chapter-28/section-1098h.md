@@ -3,9 +3,9 @@ title: "Section 1098h - Procedure and requirements for requesting tax return inf
 usc_title: 20
 usc_section: "1098h"
 chapter: 28
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "20 U.S.C. § 1098h"
-generated_at: "2026-03-29T21:37:21.170Z"
+generated_at: "2026-03-29T21:40:52.007Z"
 ---
 
 # § 1098h. Procedure and requirements for requesting tax return information from the Internal Revenue Service
@@ -34,12 +34,12 @@ generated_at: "2026-03-29T21:37:21.170Z"
       - **(ii)** provide such information as the Secretary may require to confirm the eligibility of such individual for such discharge.
 - **(b)** The Secretary shall only have authority to request that the Secretary of the Treasury disclose return information under section 6103( l )(13) of title 26 with respect to an individual if the Secretary of Education has obtained approval under subsection (a) for such disclosure.
 - **(c)**
-  - **(1)** The information in a complete, unredacted Student Aid Report (including any return information disclosed under section 6103( l )(13) of title 26 with respect to an application described in subsection (a)(1) of an applicant for Federal student financial aid—
+  - **(1)** The information in a complete, unredacted Student Aid Report (including any return information disclosed under section 6103( l )(13) of title 26) with respect to an application described in subsection (a)(1) of an applicant for Federal student financial aid—
     - **(A)** upon request for such information by such applicant, shall be provided to such applicant by—
       - **(i)** the Secretary; or
       - **(ii)** in a case in which the Secretary has requested that institutions of higher education carry out the requirements of this subparagraph, an institution of higher education that has received such information; and
-    - **(B)** with the written consent by the applicant to an institution of higher education, may be provided by such institution of higher education as is necessary to a scholarship granting organization (including a tribal organization (defined in section 5304 of title 25 , or to an organization assisting the applicant in applying for and receiving Federal, State, local, or tribal assistance, that is designated by the applicant to assist the applicant in applying for and receiving financial assistance for any component of the applicant’s cost of attendance (defined in section 1087 ll of this title) at that institution.
-  - **(2)** A discussion of the information in an application described in subsection (a)(1) (including any return information disclosed under section 6103( l )(13) of title 26 of an applicant between an institution of higher education and the applicant may, with the written consent of the applicant, include an individual selected by the applicant (such as an advisor) to participate in such discussion.
+    - **(B)** with the written consent by the applicant to an institution of higher education, may be provided by such institution of higher education as is necessary to a scholarship granting organization (including a tribal organization (defined in section 5304 of title 25 )), or to an organization assisting the applicant in applying for and receiving Federal, State, local, or tribal assistance, that is designated by the applicant to assist the applicant in applying for and receiving financial assistance for any component of the applicant’s cost of attendance (defined in section 1087 ll of this title) at that institution.
+  - **(2)** A discussion of the information in an application described in subsection (a)(1) (including any return information disclosed under section 6103( l )(13) of title 26) of an applicant between an institution of higher education and the applicant may, with the written consent of the applicant, include an individual selected by the applicant (such as an advisor) to participate in such discussion.
   - **(3)** A person receiving information under paragraph (1)(B) or (2) with respect to an applicant shall not use the information for any purpose other than the express purpose for which consent was granted by the applicant and shall not disclose such information to any other person without the express permission of, or request by, the applicant.
   - **(4)** In this subsection:
     - **(A)** The term “Student Aid Report” has the meaning given the term in section 668.2 of title 34, Code of Federal Regulations (or successor regulations).

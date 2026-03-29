@@ -3,9 +3,9 @@ title: "Section 410nnn - Findings"
 usc_title: 16
 usc_section: "410nnn"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 410nnn"
-generated_at: "2026-03-29T21:37:25.695Z"
+generated_at: "2026-03-29T21:41:10.509Z"
 ---
 
 # § 410nnn. Findings

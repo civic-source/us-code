@@ -3,9 +3,9 @@ title: "Section 2232 - Burn research"
 usc_title: 15
 usc_section: "2232"
 chapter: 49
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "15 U.S.C. § 2232"
-generated_at: "2026-03-29T21:37:09.877Z"
+generated_at: "2026-03-29T21:40:27.677Z"
 ---
 
 # § 2232. Burn research

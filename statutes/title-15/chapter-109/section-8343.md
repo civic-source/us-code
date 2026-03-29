@@ -3,9 +3,9 @@ title: "Section 8343 - Rulemaking on conflict of interest"
 usc_title: 15
 usc_section: "8343"
 chapter: 109
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "15 U.S.C. § 8343"
-generated_at: "2026-03-29T21:37:09.978Z"
+generated_at: "2026-03-29T21:40:27.794Z"
 ---
 
 # § 8343. Rulemaking on conflict of interest

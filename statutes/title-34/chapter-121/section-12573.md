@@ -3,9 +3,9 @@ title: "Section 12573 - Establishment of program"
 usc_title: 34
 usc_section: "12573"
 chapter: 121
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "34 U.S.C. § 12573"
-generated_at: "2026-03-29T21:38:00.642Z"
+generated_at: "2026-03-29T21:41:48.730Z"
 ---
 
 # § 12573. Establishment of program

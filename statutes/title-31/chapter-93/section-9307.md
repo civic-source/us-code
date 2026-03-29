@@ -3,9 +3,9 @@ title: "Section 9307 - Civil actions and judgments against surety corporations"
 usc_title: 31
 usc_section: "9307"
 chapter: 93
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "31 U.S.C. § 9307"
-generated_at: "2026-03-29T21:37:59.367Z"
+generated_at: "2026-03-29T21:42:10.446Z"
 ---
 
 # § 9307. Civil actions and judgments against surety corporations

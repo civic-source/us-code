@@ -3,9 +3,9 @@ title: "Section 81b - Establishment of zones"
 usc_title: 19
 usc_section: "81b"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "19 U.S.C. § 81b"
-generated_at: "2026-03-29T21:37:17.629Z"
+generated_at: "2026-03-29T21:40:48.209Z"
 ---
 
 # § 81b. Establishment of zones

@@ -3,9 +3,9 @@ title: "Section 7643 - Distribution of farmers’ bulletins"
 usc_title: 7
 usc_section: "7643"
 chapter: 103
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 7643"
-generated_at: "2026-03-29T21:36:47.066Z"
+generated_at: "2026-03-29T21:40:16.004Z"
 ---
 
 # § 7643. Distribution of farmers’ bulletins

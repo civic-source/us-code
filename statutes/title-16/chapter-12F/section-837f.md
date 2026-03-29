@@ -3,9 +3,9 @@ title: "Section 837f - Purchaser priority on Pacific Northwest power; amendment 
 usc_title: 16
 usc_section: "837f"
 chapter: 12
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 837f"
-generated_at: "2026-03-29T21:37:25.878Z"
+generated_at: "2026-03-29T21:41:10.724Z"
 ---
 
 # § 837f. Purchaser priority on Pacific Northwest power; amendment of existing contracts and new contracts to include priority provisions

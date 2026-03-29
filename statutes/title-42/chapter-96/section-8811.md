@@ -3,9 +3,9 @@ title: "Section 8811 - Biomass energy development plans"
 usc_title: 42
 usc_section: "8811"
 chapter: 96
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 8811"
-generated_at: "2026-03-29T21:38:40.317Z"
+generated_at: "2026-03-29T21:43:05.834Z"
 ---
 
 # § 8811. Biomass energy development plans

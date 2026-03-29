@@ -3,9 +3,9 @@ title: "Section 15 - Sixth replenishment"
 usc_title: 22
 usc_section: "15"
 chapter: 7
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 15"
-generated_at: "2026-03-29T21:37:38.067Z"
+generated_at: "2026-03-29T21:41:22.989Z"
 ---
 
 # § 290g–15. Sixth replenishment

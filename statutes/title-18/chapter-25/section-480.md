@@ -3,9 +3,9 @@ title: "Section 480 - Possessing counterfeit foreign obligations or securities"
 usc_title: 18
 usc_section: "480"
 chapter: 25
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "18 U.S.C. § 480"
-generated_at: "2026-03-29T21:37:14.918Z"
+generated_at: "2026-03-29T21:40:58.295Z"
 ---
 
 # § 480. Possessing counterfeit foreign obligations or securities

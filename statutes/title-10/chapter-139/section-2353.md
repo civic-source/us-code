@@ -3,9 +3,9 @@ title: "Section 2353 - Contracts: acquisition, construction, or furnishing of te
 usc_title: 10
 usc_section: "2353"
 chapter: 139
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 2353"
-generated_at: "2026-03-29T21:36:56.423Z"
+generated_at: "2026-03-29T21:40:11.175Z"
 ---
 
 # § 2353. Contracts: acquisition, construction, or furnishing of test facilities and equipment

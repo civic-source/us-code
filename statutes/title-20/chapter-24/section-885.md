@@ -3,9 +3,9 @@ title: "Section 885 - Transferred"
 usc_title: 20
 usc_section: "885"
 chapter: 24
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "20 U.S.C. § 885"
-generated_at: "2026-03-29T21:37:21.084Z"
+generated_at: "2026-03-29T21:40:51.923Z"
 ---
 
 # §§ 883 to 885. Transferred

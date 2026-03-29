@@ -3,9 +3,9 @@ title: "Section 5921 - Biotechnology risk assessment research"
 usc_title: 7
 usc_section: "5921"
 chapter: 88
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 5921"
-generated_at: "2026-03-29T21:36:47.004Z"
+generated_at: "2026-03-29T21:40:15.948Z"
 ---
 
 # § 5921. Biotechnology risk assessment research

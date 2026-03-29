@@ -3,9 +3,9 @@ title: "Section 61g - Transferred"
 usc_title: 2
 usc_section: "61g"
 chapter: 4
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "2 U.S.C. § 61g"
-generated_at: "2026-03-29T21:36:32.913Z"
+generated_at: "2026-03-29T21:39:57.020Z"
 ---
 
 # § 61g. Transferred

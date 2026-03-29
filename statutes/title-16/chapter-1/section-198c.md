@@ -3,9 +3,9 @@ title: "Section 198c - Prohibited acts; rules and regulations; penalties for off
 usc_title: 16
 usc_section: "198c"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 198c"
-generated_at: "2026-03-29T21:37:25.640Z"
+generated_at: "2026-03-29T21:41:10.455Z"
 ---
 
 # § 198c. Prohibited acts; rules and regulations; penalties for offenses

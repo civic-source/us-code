@@ -3,9 +3,9 @@ title: "Section 7 - National Defense Stockpile Manager"
 usc_title: 50
 usc_section: "7"
 chapter: 5
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "50 U.S.C. § 7"
-generated_at: "2026-03-29T21:38:47.311Z"
+generated_at: "2026-03-29T21:43:17.267Z"
 ---
 
 # § 98h–7. National Defense Stockpile Manager

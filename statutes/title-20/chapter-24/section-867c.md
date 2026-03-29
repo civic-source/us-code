@@ -3,9 +3,9 @@ title: "Section 867c - Omitted"
 usc_title: 20
 usc_section: "867c"
 chapter: 24
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "20 U.S.C. § 867c"
-generated_at: "2026-03-29T21:37:21.084Z"
+generated_at: "2026-03-29T21:40:51.923Z"
 ---
 
 # §§ 867 to 867c. Omitted

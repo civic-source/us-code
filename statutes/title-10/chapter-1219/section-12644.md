@@ -3,9 +3,9 @@ title: "Section 12644 - Members physically not qualified for active duty: discha
 usc_title: 10
 usc_section: "12644"
 chapter: 1219
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 12644"
-generated_at: "2026-03-29T21:36:56.581Z"
+generated_at: "2026-03-29T21:40:11.345Z"
 ---
 
 # § 12644. Members physically not qualified for active duty: discharge or transfer to retired status

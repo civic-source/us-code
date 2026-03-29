@@ -3,9 +3,9 @@ title: "Section 25a - Delegate to House of Representatives from District of Colu
 usc_title: 2
 usc_section: "25a"
 chapter: 2
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "2 U.S.C. § 25a"
-generated_at: "2026-03-29T21:36:32.910Z"
+generated_at: "2026-03-29T21:39:57.017Z"
 ---
 
 # § 25a. Delegate to House of Representatives from District of Columbia

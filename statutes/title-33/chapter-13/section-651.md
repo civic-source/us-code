@@ -3,9 +3,9 @@ title: "Section 651 - Tributaries of Mississippi River below Cairo; levee and ba
 usc_title: 33
 usc_section: "651"
 chapter: 13
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "33 U.S.C. § 651"
-generated_at: "2026-03-29T21:38:02.627Z"
+generated_at: "2026-03-29T21:42:01.825Z"
 ---
 
 # § 651. Tributaries of Mississippi River below Cairo; levee and bank protection

@@ -3,9 +3,9 @@ title: "Section 201 - Ownership of copyright"
 usc_title: 17
 usc_section: "201"
 chapter: 2
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "17 U.S.C. § 201"
-generated_at: "2026-03-29T21:37:12.688Z"
+generated_at: "2026-03-29T21:40:52.570Z"
 ---
 
 # § 201. Ownership of copyright

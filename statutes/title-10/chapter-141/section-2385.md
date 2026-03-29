@@ -3,9 +3,9 @@ title: "Section 2385 - Arms and ammunition: immunity from taxation"
 usc_title: 10
 usc_section: "2385"
 chapter: 141
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 2385"
-generated_at: "2026-03-29T21:36:56.429Z"
+generated_at: "2026-03-29T21:40:11.182Z"
 ---
 
 # § 2385. Arms and ammunition: immunity from taxation

@@ -3,9 +3,9 @@ title: "Section 3805 - Manner of selection of men for training and service; quot
 usc_title: 50
 usc_section: "3805"
 chapter: 49
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "50 U.S.C. § 3805"
-generated_at: "2026-03-29T21:38:47.428Z"
+generated_at: "2026-03-29T21:43:17.393Z"
 ---
 
 # § 3805. Manner of selection of men for training and service; quotas

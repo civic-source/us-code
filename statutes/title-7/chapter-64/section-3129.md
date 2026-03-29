@@ -3,9 +3,9 @@ title: "Section 3129 - Accountability"
 usc_title: 7
 usc_section: "3129"
 chapter: 64
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 3129"
-generated_at: "2026-03-29T21:36:46.959Z"
+generated_at: "2026-03-29T21:40:15.913Z"
 ---
 
 # § 3129. Accountability

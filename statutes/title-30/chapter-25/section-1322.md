@@ -3,9 +3,9 @@ title: "Section 1322 - Fellowship recipients"
 usc_title: 30
 usc_section: "1322"
 chapter: 25
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "30 U.S.C. § 1322"
-generated_at: "2026-03-29T21:37:41.526Z"
+generated_at: "2026-03-29T21:41:29.370Z"
 ---
 
 # § 1322. Fellowship recipients

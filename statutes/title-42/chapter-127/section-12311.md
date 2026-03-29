@@ -3,9 +3,9 @@ title: "Section 12311 - Establishment of Administration on Children, Youth, and 
 usc_title: 42
 usc_section: "12311"
 chapter: 127
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 12311"
-generated_at: "2026-03-29T21:38:40.433Z"
+generated_at: "2026-03-29T21:43:05.951Z"
 ---
 
 # § 12311. Establishment of Administration on Children, Youth, and Families

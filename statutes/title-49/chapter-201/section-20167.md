@@ -3,9 +3,9 @@ title: "Section 20167 - Repealed. Pub. L. 114–94, div. A, title XI, § 11301(c
 usc_title: 49
 usc_section: "20167"
 chapter: 201
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "49 U.S.C. § 20167"
-generated_at: "2026-03-29T21:38:51.418Z"
+generated_at: "2026-03-29T21:43:24.228Z"
 ---
 
 # [§ 20167. Repealed. Pub. L. 114–94, div. A, title XI, § 11301(c)(1) , Dec. 4, 2015 , 129 Stat. 1648 ]

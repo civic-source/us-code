@@ -3,9 +3,9 @@ title: "Section 4593 - Waiver by Secretary of Senate of claims of United States 
 usc_title: 2
 usc_section: "4593"
 chapter: 45
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "2 U.S.C. § 4593"
-generated_at: "2026-03-29T21:36:32.994Z"
+generated_at: "2026-03-29T21:39:57.098Z"
 ---
 
 # § 4593. Waiver by Secretary of Senate of claims of United States arising out of erroneous payments to Vice President, Senator, or Senate employee paid by Secretary of Senate

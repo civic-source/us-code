@@ -3,9 +3,9 @@ title: "Section 1941 - Persons eligible for loans"
 usc_title: 7
 usc_section: "1941"
 chapter: 50
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 1941"
-generated_at: "2026-03-29T21:36:46.874Z"
+generated_at: "2026-03-29T21:40:15.845Z"
 ---
 
 # § 1941. Persons eligible for loans

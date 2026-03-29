@@ -3,9 +3,9 @@ title: "Section 20986 - Study and report on free absentee ballot postage"
 usc_title: 52
 usc_section: "20986"
 chapter: 209
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "52 U.S.C. § 20986"
-generated_at: "2026-03-29T21:39:04.004Z"
+generated_at: "2026-03-29T21:43:27.180Z"
 ---
 
 # § 20986. Study and report on free absentee ballot postage

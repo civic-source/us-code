@@ -3,15 +3,15 @@ title: "Section 5 - Building"
 usc_title: 20
 usc_section: "5"
 chapter: 3
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "20 U.S.C. § 5"
-generated_at: "2026-03-29T21:37:21.078Z"
+generated_at: "2026-03-29T21:40:51.916Z"
 ---
 
 # § 80t–5. Building
 
 - **(a)**
-  - **(1)** Not later than 2 years after the December 27, 2020 , the Board of Regents shall designate a site for the Museum.
+  - **(1)** Not later than 2 years after December 27, 2020 , the Board of Regents shall designate a site for the Museum.
   - **(2)** In designating a site under paragraph (1), the Board of Regents shall—
     - **(A)** select a site in the District of Columbia; and
     - **(B)** include the consideration of the following sites:

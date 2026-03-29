@@ -3,9 +3,9 @@ title: "Section 2321 - Judicial review of Board’s orders and decisions; proced
 usc_title: 28
 usc_section: "2321"
 chapter: 157
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "28 U.S.C. § 2321"
-generated_at: "2026-03-29T21:37:43.089Z"
+generated_at: "2026-03-29T21:41:42.676Z"
 ---
 
 # § 2321. Judicial review of Board’s orders and decisions; procedure generally; process

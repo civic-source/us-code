@@ -3,9 +3,9 @@ title: "Section 1903 - Distribution of publications to depositories; notice to G
 usc_title: 44
 usc_section: "1903"
 chapter: 19
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "44 U.S.C. § 1903"
-generated_at: "2026-03-29T21:38:13.720Z"
+generated_at: "2026-03-29T21:42:36.435Z"
 ---
 
 # § 1903. Distribution of publications to depositories; notice to Government components; cost of printing and binding

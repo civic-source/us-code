@@ -3,9 +3,9 @@ title: "Section 3930 - Board of Foreign Service"
 usc_title: 22
 usc_section: "3930"
 chapter: 52
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 3930"
-generated_at: "2026-03-29T21:37:38.211Z"
+generated_at: "2026-03-29T21:41:23.109Z"
 ---
 
 # § 3930. Board of Foreign Service

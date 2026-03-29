@@ -3,9 +3,9 @@ title: "Section 1c - Additional increase in quota of United States"
 usc_title: 22
 usc_section: "1c"
 chapter: 7
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 1c"
-generated_at: "2026-03-29T21:37:38.057Z"
+generated_at: "2026-03-29T21:41:22.979Z"
 ---
 
 # § 286e–1c. Additional increase in quota of United States

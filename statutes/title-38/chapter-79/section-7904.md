@@ -3,9 +3,9 @@ title: "Section 7904 - Preferences in awarding financial assistance"
 usc_title: 38
 usc_section: "7904"
 chapter: 79
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "38 U.S.C. § 7904"
-generated_at: "2026-03-29T21:38:09.560Z"
+generated_at: "2026-03-29T21:42:22.404Z"
 ---
 
 # § 7904. Preferences in awarding financial assistance

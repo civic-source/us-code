@@ -3,9 +3,9 @@ title: "Section 9544 - Performance of duties"
 usc_title: 20
 usc_section: "9544"
 chapter: 76
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "20 U.S.C. § 9544"
-generated_at: "2026-03-29T21:37:21.318Z"
+generated_at: "2026-03-29T21:40:52.181Z"
 ---
 
 # § 9544. Performance of duties

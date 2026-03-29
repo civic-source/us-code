@@ -3,9 +3,9 @@ title: "Section 1345 - Effect on contracts"
 usc_title: 45
 usc_section: "1345"
 chapter: 22
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "45 U.S.C. § 1345"
-generated_at: "2026-03-29T21:38:16.116Z"
+generated_at: "2026-03-29T21:42:46.094Z"
 ---
 
 # § 1345. Effect on contracts

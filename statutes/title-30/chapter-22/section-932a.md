@@ -3,9 +3,9 @@ title: "Section 932a - Appointment of qualified individuals to hear and determin
 usc_title: 30
 usc_section: "932a"
 chapter: 22
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "30 U.S.C. § 932a"
-generated_at: "2026-03-29T21:37:41.505Z"
+generated_at: "2026-03-29T21:41:29.349Z"
 ---
 
 # § 932a. Appointment of qualified individuals to hear and determine claims for benefits

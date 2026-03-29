@@ -3,9 +3,9 @@ title: "Section 4261 - Imposition of tax"
 usc_title: 26
 usc_section: "4261"
 chapter: 33
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "26 U.S.C. § 4261"
-generated_at: "2026-03-29T21:37:55.029Z"
+generated_at: "2026-03-29T21:41:39.218Z"
 ---
 
 # § 4261. Imposition of tax

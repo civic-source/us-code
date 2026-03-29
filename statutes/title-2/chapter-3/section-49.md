@@ -3,9 +3,9 @@ title: "Section 49 - Transferred"
 usc_title: 2
 usc_section: "49"
 chapter: 3
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "2 U.S.C. § 49"
-generated_at: "2026-03-29T21:36:32.912Z"
+generated_at: "2026-03-29T21:39:57.019Z"
 ---
 
 # § 49. Transferred

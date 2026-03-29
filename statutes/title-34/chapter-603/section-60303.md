@@ -3,9 +3,9 @@ title: "Section 60303 - Applications"
 usc_title: 34
 usc_section: "60303"
 chapter: 603
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "34 U.S.C. § 60303"
-generated_at: "2026-03-29T21:38:00.684Z"
+generated_at: "2026-03-29T21:41:48.775Z"
 ---
 
 # § 60303. Applications

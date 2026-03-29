@@ -3,9 +3,9 @@ title: "Section 1443 - Civil rights cases"
 usc_title: 28
 usc_section: "1443"
 chapter: 89
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "28 U.S.C. § 1443"
-generated_at: "2026-03-29T21:37:43.073Z"
+generated_at: "2026-03-29T21:41:42.663Z"
 ---
 
 # § 1443. Civil rights cases

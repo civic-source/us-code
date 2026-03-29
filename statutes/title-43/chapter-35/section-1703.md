@@ -3,9 +3,9 @@ title: "Section 1703 - Cooperative action and sharing of resources by Secretarie
 usc_title: 43
 usc_section: "1703"
 chapter: 35
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "43 U.S.C. § 1703"
-generated_at: "2026-03-29T21:38:15.563Z"
+generated_at: "2026-03-29T21:42:38.150Z"
 ---
 
 # § 1703. Cooperative action and sharing of resources by Secretaries of the Interior and Agriculture

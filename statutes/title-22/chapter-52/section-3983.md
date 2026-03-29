@@ -3,9 +3,9 @@ title: "Section 3983 - Assignments to non-Service and other positions"
 usc_title: 22
 usc_section: "3983"
 chapter: 52
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 3983"
-generated_at: "2026-03-29T21:37:38.214Z"
+generated_at: "2026-03-29T21:41:23.112Z"
 ---
 
 # § 3983. Assignments to non-Service and other positions

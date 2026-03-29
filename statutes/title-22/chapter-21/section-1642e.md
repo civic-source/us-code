@@ -3,9 +3,9 @@ title: "Section 1642e - Claims based on ownership interest in corporations or ot
 usc_title: 22
 usc_section: "1642e"
 chapter: 21
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 1642e"
-generated_at: "2026-03-29T21:37:38.091Z"
+generated_at: "2026-03-29T21:41:23.011Z"
 ---
 
 # § 1642e. Claims based on ownership interest in corporations or other legal entities

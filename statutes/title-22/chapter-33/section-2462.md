@@ -3,9 +3,9 @@ title: "Section 2462 - Establishment of grant program for foreign study by Ameri
 usc_title: 22
 usc_section: "2462"
 chapter: 33
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 2462"
-generated_at: "2026-03-29T21:37:38.153Z"
+generated_at: "2026-03-29T21:41:23.065Z"
 ---
 
 # § 2462. Establishment of grant program for foreign study by American college students of limited financial means

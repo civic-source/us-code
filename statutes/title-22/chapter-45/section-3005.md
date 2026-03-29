@@ -3,9 +3,9 @@ title: "Section 3005 - Report relating to Commission on Security and Cooperation
 usc_title: 22
 usc_section: "3005"
 chapter: 45
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 3005"
-generated_at: "2026-03-29T21:37:38.190Z"
+generated_at: "2026-03-29T21:41:23.096Z"
 ---
 
 # § 3005. Report relating to Commission on Security and Cooperation in Europe

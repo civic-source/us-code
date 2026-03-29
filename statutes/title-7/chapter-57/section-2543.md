@@ -3,9 +3,9 @@ title: "Section 2543 - Right to save seed; crop exemption"
 usc_title: 7
 usc_section: "2543"
 chapter: 57
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 2543"
-generated_at: "2026-03-29T21:36:46.947Z"
+generated_at: "2026-03-29T21:40:15.903Z"
 ---
 
 # § 2543. Right to save seed; crop exemption

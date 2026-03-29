@@ -3,9 +3,9 @@ title: "Section 8013 - Assistance by Federal agencies to improve law enforcement
 usc_title: 16
 usc_section: "8013"
 chapter: 99
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 8013"
-generated_at: "2026-03-29T21:37:26.060Z"
+generated_at: "2026-03-29T21:41:10.903Z"
 ---
 
 # § 8013. Assistance by Federal agencies to improve law enforcement within priority regions and priority flag states

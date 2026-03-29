@@ -3,9 +3,9 @@ title: "Section 12334 - Administration"
 usc_title: 42
 usc_section: "12334"
 chapter: 127
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 12334"
-generated_at: "2026-03-29T21:38:40.434Z"
+generated_at: "2026-03-29T21:43:05.951Z"
 ---
 
 # § 12334. Administration

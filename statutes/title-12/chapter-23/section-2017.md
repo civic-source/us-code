@@ -3,9 +3,9 @@ title: "Section 2017 - Eligibility"
 usc_title: 12
 usc_section: "2017"
 chapter: 23
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "12 U.S.C. § 2017"
-generated_at: "2026-03-29T21:37:05.626Z"
+generated_at: "2026-03-29T21:40:42.633Z"
 ---
 
 # § 2017. Eligibility

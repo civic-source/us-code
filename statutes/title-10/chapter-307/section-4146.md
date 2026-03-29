@@ -3,9 +3,9 @@ title: "Section 4146 - Centers for Science, Technology, and Engineering Partners
 usc_title: 10
 usc_section: "4146"
 chapter: 307
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 4146"
-generated_at: "2026-03-29T21:36:56.500Z"
+generated_at: "2026-03-29T21:40:11.263Z"
 ---
 
 # § 4146. Centers for Science, Technology, and Engineering Partnership

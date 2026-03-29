@@ -3,9 +3,9 @@ title: "Section 47503 - Noise exposure maps"
 usc_title: 49
 usc_section: "47503"
 chapter: 475
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "49 U.S.C. § 47503"
-generated_at: "2026-03-29T21:38:51.524Z"
+generated_at: "2026-03-29T21:43:24.332Z"
 ---
 
 # § 47503. Noise exposure maps

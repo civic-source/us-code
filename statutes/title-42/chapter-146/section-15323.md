@@ -3,9 +3,9 @@ title: "Section 15323 - Transferred"
 usc_title: 42
 usc_section: "15323"
 chapter: 146
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 15323"
-generated_at: "2026-03-29T21:38:40.511Z"
+generated_at: "2026-03-29T21:43:06.035Z"
 ---
 
 # § 15323. Transferred

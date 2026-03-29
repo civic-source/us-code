@@ -3,9 +3,9 @@ title: "Section 2565 - Authority to conduct program relating to fissile material
 usc_title: 50
 usc_section: "2565"
 chapter: 42
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "50 U.S.C. § 2565"
-generated_at: "2026-03-29T21:38:47.368Z"
+generated_at: "2026-03-29T21:43:17.329Z"
 ---
 
 # § 2565. Authority to conduct program relating to fissile materials

@@ -3,9 +3,9 @@ title: "Section 2191 - Bills implementing trade agreements on nontariff barriers
 usc_title: 19
 usc_section: "2191"
 chapter: 12
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "19 U.S.C. § 2191"
-generated_at: "2026-03-29T21:37:17.690Z"
+generated_at: "2026-03-29T21:40:48.274Z"
 ---
 
 # § 2191. Bills implementing trade agreements on nontariff barriers and resolutions approving commercial agreements with Communist countries

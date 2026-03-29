@@ -3,9 +3,9 @@ title: "Section 702m - Interest of Members of Congress in contracts for acquisit
 usc_title: 33
 usc_section: "702m"
 chapter: 15
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "33 U.S.C. § 702m"
-generated_at: "2026-03-29T21:38:02.638Z"
+generated_at: "2026-03-29T21:42:01.836Z"
 ---
 
 # § 702m. Interest of Members of Congress in contracts for acquisition of land

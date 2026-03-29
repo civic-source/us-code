@@ -3,9 +3,9 @@ title: "Section 3124a - Federal-State partnership and coordination"
 usc_title: 7
 usc_section: "3124a"
 chapter: 64
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 3124a"
-generated_at: "2026-03-29T21:36:46.958Z"
+generated_at: "2026-03-29T21:40:15.912Z"
 ---
 
 # § 3124a. Federal-State partnership and coordination

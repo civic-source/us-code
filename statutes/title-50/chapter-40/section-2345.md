@@ -3,9 +3,9 @@ title: "Section 2345 - Export control programs"
 usc_title: 50
 usc_section: "2345"
 chapter: 40
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "50 U.S.C. § 2345"
-generated_at: "2026-03-29T21:38:47.360Z"
+generated_at: "2026-03-29T21:43:17.319Z"
 ---
 
 # § 2345. Export control programs

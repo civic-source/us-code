@@ -3,9 +3,9 @@ title: "Section 2765 - Retroactive payment of pay and allowances delayed by admi
 usc_title: 14
 usc_section: "2765"
 chapter: 27
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "14 U.S.C. § 2765"
-generated_at: "2026-03-29T21:36:59.915Z"
+generated_at: "2026-03-29T21:40:20.493Z"
 ---
 
 # § 2765. Retroactive payment of pay and allowances delayed by administrative error or oversight

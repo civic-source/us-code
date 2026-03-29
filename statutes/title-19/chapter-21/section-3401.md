@@ -3,9 +3,9 @@ title: "Section 3401 - Transferred"
 usc_title: 19
 usc_section: "3401"
 chapter: 21
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "19 U.S.C. § 3401"
-generated_at: "2026-03-29T21:37:17.728Z"
+generated_at: "2026-03-29T21:40:48.318Z"
 ---
 
 # § 3401. Transferred

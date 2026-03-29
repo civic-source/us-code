@@ -3,9 +3,9 @@ title: "Section 908 - Congressional Record: payment for printing extracts or oth
 usc_title: 44
 usc_section: "908"
 chapter: 9
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "44 U.S.C. § 908"
-generated_at: "2026-03-29T21:38:13.714Z"
+generated_at: "2026-03-29T21:42:36.431Z"
 ---
 
 # § 908. Congressional Record: payment for printing extracts or other documents

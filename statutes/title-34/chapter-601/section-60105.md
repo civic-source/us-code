@@ -3,9 +3,9 @@ title: "Section 60105 - State information regarding individuals who die in the c
 usc_title: 34
 usc_section: "60105"
 chapter: 601
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "34 U.S.C. § 60105"
-generated_at: "2026-03-29T21:38:00.683Z"
+generated_at: "2026-03-29T21:41:48.774Z"
 ---
 
 # § 60105. State information regarding individuals who die in the custody of law enforcement

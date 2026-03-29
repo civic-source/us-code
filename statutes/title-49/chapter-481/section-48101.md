@@ -3,9 +3,9 @@ title: "Section 48101 - Air navigation facilities and equipment"
 usc_title: 49
 usc_section: "48101"
 chapter: 481
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "49 U.S.C. § 48101"
-generated_at: "2026-03-29T21:38:51.526Z"
+generated_at: "2026-03-29T21:43:24.334Z"
 ---
 
 # § 48101. Air navigation facilities and equipment

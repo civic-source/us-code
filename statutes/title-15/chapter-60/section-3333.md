@@ -3,9 +3,9 @@ title: "Section 3333 - Repealed. Pub. L. 101–60, § 2(b) , July 26, 1989 , 103
 usc_title: 15
 usc_section: "3333"
 chapter: 60
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "15 U.S.C. § 3333"
-generated_at: "2026-03-29T21:37:09.908Z"
+generated_at: "2026-03-29T21:40:27.708Z"
 ---
 
 # §§ 3311 to 3320, 3331 to 3333. Repealed. Pub. L. 101–60, § 2(b) , July 26, 1989 , 103 Stat. 158

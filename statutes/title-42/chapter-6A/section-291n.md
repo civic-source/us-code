@@ -3,9 +3,9 @@ title: "Section 291n - Repealed. Pub. L. 90–174, § 3(b)(1) , Dec. 5, 1967 , 8
 usc_title: 42
 usc_section: "291n"
 chapter: 6
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 291n"
-generated_at: "2026-03-29T21:38:39.371Z"
+generated_at: "2026-03-29T21:43:04.901Z"
 ---
 
 # § 291n. Repealed. Pub. L. 90–174, § 3(b)(1) , Dec. 5, 1967 , 81 Stat. 535

@@ -3,9 +3,9 @@ title: "Section 1276 - Congressional veto of hazardous substances regulations"
 usc_title: 15
 usc_section: "1276"
 chapter: 30
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "15 U.S.C. § 1276"
-generated_at: "2026-03-29T21:37:09.809Z"
+generated_at: "2026-03-29T21:40:27.610Z"
 ---
 
 # § 1276. Congressional veto of hazardous substances regulations

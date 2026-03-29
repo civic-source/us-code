@@ -3,9 +3,9 @@ title: "Section 3200 - Support"
 usc_title: 29
 usc_section: "3200"
 chapter: 32
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "29 U.S.C. § 3200"
-generated_at: "2026-03-29T21:37:44.979Z"
+generated_at: "2026-03-29T21:41:28.303Z"
 ---
 
 # § 3200. Support

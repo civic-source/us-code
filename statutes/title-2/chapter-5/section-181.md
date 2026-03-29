@@ -3,9 +3,9 @@ title: "Section 181 - Program for exchange of information among legislative bran
 usc_title: 2
 usc_section: "181"
 chapter: 5
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "2 U.S.C. § 181"
-generated_at: "2026-03-29T21:36:32.924Z"
+generated_at: "2026-03-29T21:39:57.029Z"
 ---
 
 # § 181. Program for exchange of information among legislative branch agencies

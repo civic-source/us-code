@@ -3,9 +3,9 @@ title: "Section 541d - Acquisition of property within the scenic-research area; 
 usc_title: 16
 usc_section: "541d"
 chapter: 2
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 541d"
-generated_at: "2026-03-29T21:37:25.803Z"
+generated_at: "2026-03-29T21:41:10.643Z"
 ---
 
 # § 541d. Acquisition of property within the scenic-research area; consent of owner; substantial change in use or maintenance of property

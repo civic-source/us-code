@@ -3,9 +3,9 @@ title: "Section 290bb - Center for Substance Abuse Treatment"
 usc_title: 42
 usc_section: "290bb"
 chapter: 6
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 290bb"
-generated_at: "2026-03-29T21:38:39.352Z"
+generated_at: "2026-03-29T21:43:04.880Z"
 ---
 
 # § 290bb. Center for Substance Abuse Treatment

@@ -3,9 +3,9 @@ title: "Section 4301 - Congressional declaration of findings and policy"
 usc_title: 22
 usc_section: "4301"
 chapter: 53
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 4301"
-generated_at: "2026-03-29T21:37:38.234Z"
+generated_at: "2026-03-29T21:41:23.128Z"
 ---
 
 # § 4301. Congressional declaration of findings and policy

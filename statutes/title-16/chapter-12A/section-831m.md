@@ -3,9 +3,9 @@ title: "Section 831m - Allocation and charge of value and cost of plants to part
 usc_title: 16
 usc_section: "831m"
 chapter: 12
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 831m"
-generated_at: "2026-03-29T21:37:25.871Z"
+generated_at: "2026-03-29T21:41:10.717Z"
 ---
 
 # § 831m. Allocation and charge of value and cost of plants to particular objects; cost accounting; reports of costs of operation; sale of surplus power at profit

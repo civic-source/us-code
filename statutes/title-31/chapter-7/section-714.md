@@ -3,9 +3,9 @@ title: "Section 714 - Audit of Financial Institutions Examination Council, Feder
 usc_title: 31
 usc_section: "714"
 chapter: 7
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "31 U.S.C. § 714"
-generated_at: "2026-03-29T21:37:59.304Z"
+generated_at: "2026-03-29T21:42:10.301Z"
 ---
 
 # § 714. Audit of Financial Institutions Examination Council, Federal Reserve Board, Federal reserve banks, Federal Deposit Insurance Corporation, and Office of Comptroller of the Currency

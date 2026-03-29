@@ -3,9 +3,9 @@ title: "Section 4113 - Assistance for displaced tenants"
 usc_title: 12
 usc_section: "4113"
 chapter: 42
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "12 U.S.C. § 4113"
-generated_at: "2026-03-29T21:37:05.677Z"
+generated_at: "2026-03-29T21:40:42.683Z"
 ---
 
 # § 4113. Assistance for displaced tenants

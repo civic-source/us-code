@@ -3,9 +3,9 @@ title: "Section 24 - Activities"
 usc_title: 20
 usc_section: "24"
 chapter: 28
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "20 U.S.C. § 24"
-generated_at: "2026-03-29T21:37:21.116Z"
+generated_at: "2026-03-29T21:40:51.954Z"
 ---
 
 # § 1070a–24. Activities

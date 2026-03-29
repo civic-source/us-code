@@ -3,9 +3,9 @@ title: "Section 3935 - Duration and term of stays; codefendants not in service"
 usc_title: 50
 usc_section: "3935"
 chapter: 50
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "50 U.S.C. § 3935"
-generated_at: "2026-03-29T21:38:47.433Z"
+generated_at: "2026-03-29T21:43:17.398Z"
 ---
 
 # § 3935. Duration and term of stays; codefendants not in service

@@ -3,9 +3,9 @@ title: "Section 114 - Separability"
 usc_title: 29
 usc_section: "114"
 chapter: 6
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "29 U.S.C. § 114"
-generated_at: "2026-03-29T21:37:44.843Z"
+generated_at: "2026-03-29T21:41:28.169Z"
 ---
 
 # § 114. Separability

@@ -3,9 +3,9 @@ title: "Section 221c - Exchange of lands"
 usc_title: 16
 usc_section: "221c"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 221c"
-generated_at: "2026-03-29T21:37:25.644Z"
+generated_at: "2026-03-29T21:41:10.457Z"
 ---
 
 # § 221c. Exchange of lands

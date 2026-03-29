@@ -3,9 +3,9 @@ title: "Section 48110 - Facilities for advanced training of maintenance technici
 usc_title: 49
 usc_section: "48110"
 chapter: 481
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "49 U.S.C. § 48110"
-generated_at: "2026-03-29T21:38:51.526Z"
+generated_at: "2026-03-29T21:43:24.335Z"
 ---
 
 # § 48110. Facilities for advanced training of maintenance technicians for air carrier aircraft

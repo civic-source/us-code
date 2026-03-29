@@ -3,9 +3,9 @@ title: "Section 163 - Jurisdiction by the United States; fugitives from justice"
 usc_title: 16
 usc_section: "163"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 163"
-generated_at: "2026-03-29T21:37:25.637Z"
+generated_at: "2026-03-29T21:41:10.452Z"
 ---
 
 # § 163. Jurisdiction by the United States; fugitives from justice

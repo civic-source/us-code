@@ -3,9 +3,9 @@ title: "Section 110 - Nondevelopmental item"
 usc_title: 41
 usc_section: "110"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "41 U.S.C. § 110"
-generated_at: "2026-03-29T21:38:13.159Z"
+generated_at: "2026-03-29T21:42:36.005Z"
 ---
 
 # § 110. Nondevelopmental item

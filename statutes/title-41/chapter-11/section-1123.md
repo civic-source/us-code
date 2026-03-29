@@ -3,9 +3,9 @@ title: "Section 1123 - Small business concerns"
 usc_title: 41
 usc_section: "1123"
 chapter: 11
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "41 U.S.C. § 1123"
-generated_at: "2026-03-29T21:38:13.160Z"
+generated_at: "2026-03-29T21:42:36.006Z"
 ---
 
 # § 1123. Small business concerns

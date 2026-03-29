@@ -3,9 +3,9 @@ title: "Section 1926c - Water and waste facility loans and grants to alleviate h
 usc_title: 7
 usc_section: "1926c"
 chapter: 50
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 1926c"
-generated_at: "2026-03-29T21:36:46.869Z"
+generated_at: "2026-03-29T21:40:15.841Z"
 ---
 
 # § 1926c. Water and waste facility loans and grants to alleviate health risks

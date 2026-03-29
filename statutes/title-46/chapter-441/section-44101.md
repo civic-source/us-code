@@ -3,9 +3,9 @@ title: "Section 44101 - Application"
 usc_title: 46
 usc_section: "44101"
 chapter: 441
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "46 U.S.C. § 44101"
-generated_at: "2026-03-29T21:39:01.221Z"
+generated_at: "2026-03-29T21:43:12.843Z"
 ---
 
 # § 44101. Application

@@ -3,9 +3,9 @@ title: "Section 24 - Registration of securities under Securities Act of 1933"
 usc_title: 15
 usc_section: "24"
 chapter: 2
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "15 U.S.C. § 24"
-generated_at: "2026-03-29T21:37:09.698Z"
+generated_at: "2026-03-29T21:40:27.500Z"
 ---
 
 # § 80a–24. Registration of securities under Securities Act of 1933

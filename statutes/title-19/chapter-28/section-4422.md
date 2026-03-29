@@ -3,9 +3,9 @@ title: "Section 4422 - Advisory Committee on International Exchange Rate Policy"
 usc_title: 19
 usc_section: "4422"
 chapter: 28
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "19 U.S.C. § 4422"
-generated_at: "2026-03-29T21:37:17.757Z"
+generated_at: "2026-03-29T21:40:48.346Z"
 ---
 
 # § 4422. Advisory Committee on International Exchange Rate Policy

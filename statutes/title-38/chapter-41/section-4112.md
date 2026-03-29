@@ -3,9 +3,9 @@ title: "Section 4112 - Performance incentive awards for quality employment, trai
 usc_title: 38
 usc_section: "4112"
 chapter: 41
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "38 U.S.C. § 4112"
-generated_at: "2026-03-29T21:38:09.524Z"
+generated_at: "2026-03-29T21:42:22.367Z"
 ---
 
 # § 4112. Performance incentive awards for quality employment, training, and placement services

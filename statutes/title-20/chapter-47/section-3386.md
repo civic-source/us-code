@@ -3,9 +3,9 @@ title: "Section 3386 - Omitted"
 usc_title: 20
 usc_section: "3386"
 chapter: 47
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "20 U.S.C. § 3386"
-generated_at: "2026-03-29T21:37:21.232Z"
+generated_at: "2026-03-29T21:40:52.080Z"
 ---
 
 # § 3386. Omitted

@@ -3,9 +3,9 @@ title: "Section 7 - Department of Agriculture minor use program"
 usc_title: 7
 usc_section: "7"
 chapter: 6
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 7"
-generated_at: "2026-03-29T21:36:46.706Z"
+generated_at: "2026-03-29T21:40:15.717Z"
 ---
 
 # § 136w–7. Department of Agriculture minor use program

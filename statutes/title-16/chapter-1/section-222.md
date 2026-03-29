@@ -3,9 +3,9 @@ title: "Section 222 - Administration, concessions, and privileges; contracts for
 usc_title: 16
 usc_section: "222"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 222"
-generated_at: "2026-03-29T21:37:25.644Z"
+generated_at: "2026-03-29T21:41:10.458Z"
 ---
 
 # § 222. Administration, concessions, and privileges; contracts for sale of water

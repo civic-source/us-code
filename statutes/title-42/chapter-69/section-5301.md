@@ -3,9 +3,9 @@ title: "Section 5301 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "5301"
 chapter: 69
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 5301"
-generated_at: "2026-03-29T21:38:40.128Z"
+generated_at: "2026-03-29T21:43:05.647Z"
 ---
 
 # § 5301. Congressional findings and declaration of purpose

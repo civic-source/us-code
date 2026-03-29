@@ -3,9 +3,9 @@ title: "Section 341 - Under Secretary for Management"
 usc_title: 6
 usc_section: "341"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "6 U.S.C. § 341"
-generated_at: "2026-03-29T21:36:38.989Z"
+generated_at: "2026-03-29T21:40:00.958Z"
 ---
 
 # § 341. Under Secretary for Management

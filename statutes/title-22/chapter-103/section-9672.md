@@ -3,9 +3,9 @@ title: "Section 9672 - Additionality and avoidance of market distortion"
 usc_title: 22
 usc_section: "9672"
 chapter: 103
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 9672"
-generated_at: "2026-03-29T21:37:38.360Z"
+generated_at: "2026-03-29T21:41:23.234Z"
 ---
 
 # § 9672. Additionality and avoidance of market distortion

@@ -3,9 +3,9 @@ title: "Section 430 - Tactical Exploitation of National Capabilities Executive A
 usc_title: 10
 usc_section: "430"
 chapter: 21
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 430"
-generated_at: "2026-03-29T21:36:56.249Z"
+generated_at: "2026-03-29T21:40:11.033Z"
 ---
 
 # § 430. Tactical Exploitation of National Capabilities Executive Agent

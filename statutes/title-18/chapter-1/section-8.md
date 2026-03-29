@@ -3,9 +3,9 @@ title: "Section 8 - Obligation or other security of the United States defined"
 usc_title: 18
 usc_section: "8"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "18 U.S.C. § 8"
-generated_at: "2026-03-29T21:37:14.904Z"
+generated_at: "2026-03-29T21:40:58.282Z"
 ---
 
 # § 8. Obligation or other security of the United States defined

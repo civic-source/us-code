@@ -3,9 +3,9 @@ title: "Section 7433A - Civil damages for certain unauthorized collection action
 usc_title: 26
 usc_section: "7433A"
 chapter: 76
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "26 U.S.C. § 7433A"
-generated_at: "2026-03-29T21:37:55.179Z"
+generated_at: "2026-03-29T21:41:39.325Z"
 ---
 
 # § 7433A. Civil damages for certain unauthorized collection actions by persons performing services under qualified tax collection contracts

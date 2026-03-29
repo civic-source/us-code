@@ -3,9 +3,9 @@ title: "Section 3014A - Accelerated payment of basic educational assistance for 
 usc_title: 38
 usc_section: "3014A"
 chapter: 30
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "38 U.S.C. § 3014A"
-generated_at: "2026-03-29T21:38:09.490Z"
+generated_at: "2026-03-29T21:42:22.336Z"
 ---
 
 # § 3014A. Accelerated payment of basic educational assistance for education leading to employment in high technology occupation in high technology industry

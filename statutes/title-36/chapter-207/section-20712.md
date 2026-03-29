@@ -3,9 +3,9 @@ title: "Section 20712 - Annual report"
 usc_title: 36
 usc_section: "20712"
 chapter: 207
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "36 U.S.C. § 20712"
-generated_at: "2026-03-29T21:38:10.832Z"
+generated_at: "2026-03-29T21:42:18.182Z"
 ---
 
 # § 20712. Annual report

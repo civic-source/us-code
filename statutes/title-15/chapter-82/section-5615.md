@@ -3,9 +3,9 @@ title: "Section 5615 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 S
 usc_title: 15
 usc_section: "5615"
 chapter: 82
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "15 U.S.C. § 5615"
-generated_at: "2026-03-29T21:37:09.937Z"
+generated_at: "2026-03-29T21:40:27.743Z"
 ---
 
 # §§ 5611 to 5615. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

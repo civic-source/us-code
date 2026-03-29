@@ -3,9 +3,9 @@ title: "Section 712 - Foreign governments: detail to assist"
 usc_title: 10
 usc_section: "712"
 chapter: 41
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 712"
-generated_at: "2026-03-29T21:36:56.275Z"
+generated_at: "2026-03-29T21:40:11.053Z"
 ---
 
 # § 712. Foreign governments: detail to assist

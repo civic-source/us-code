@@ -3,9 +3,9 @@ title: "Section 9858o - Parental rights and responsibilities"
 usc_title: 42
 usc_section: "9858o"
 chapter: 105
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 9858o"
-generated_at: "2026-03-29T21:38:40.366Z"
+generated_at: "2026-03-29T21:43:05.890Z"
 ---
 
 # § 9858o. Parental rights and responsibilities

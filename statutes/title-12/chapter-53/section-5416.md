@@ -3,9 +3,9 @@ title: "Section 5416 - Contracting and leasing authority"
 usc_title: 12
 usc_section: "5416"
 chapter: 53
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "12 U.S.C. § 5416"
-generated_at: "2026-03-29T21:37:05.737Z"
+generated_at: "2026-03-29T21:40:42.741Z"
 ---
 
 # § 5416. Contracting and leasing authority

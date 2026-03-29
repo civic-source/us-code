@@ -3,9 +3,9 @@ title: "Section 906 - Guarantee of trustee certificates"
 usc_title: 45
 usc_section: "906"
 chapter: 18
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "45 U.S.C. § 906"
-generated_at: "2026-03-29T21:38:16.108Z"
+generated_at: "2026-03-29T21:42:46.087Z"
 ---
 
 # § 906. Guarantee of trustee certificates

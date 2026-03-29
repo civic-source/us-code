@@ -3,9 +3,9 @@ title: "Section 450l - Transferred"
 usc_title: 7
 usc_section: "450l"
 chapter: 17
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 450l"
-generated_at: "2026-03-29T21:36:46.748Z"
+generated_at: "2026-03-29T21:40:15.747Z"
 ---
 
 # § 450l. Transferred

@@ -3,9 +3,9 @@ title: "Section 2155 - Information and advice from private and public sectors"
 usc_title: 19
 usc_section: "2155"
 chapter: 12
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "19 U.S.C. § 2155"
-generated_at: "2026-03-29T21:37:17.689Z"
+generated_at: "2026-03-29T21:40:48.272Z"
 ---
 
 # § 2155. Information and advice from private and public sectors

@@ -3,9 +3,9 @@ title: "Section 9308 - Penalties"
 usc_title: 46
 usc_section: "9308"
 chapter: 93
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "46 U.S.C. § 9308"
-generated_at: "2026-03-29T21:39:01.196Z"
+generated_at: "2026-03-29T21:43:12.815Z"
 ---
 
 # § 9308. Penalties

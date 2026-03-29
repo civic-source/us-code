@@ -3,9 +3,9 @@ title: "Section 1456 - Immunity of Corporation; audits and reporting requirement
 usc_title: 12
 usc_section: "1456"
 chapter: 11
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "12 U.S.C. § 1456"
-generated_at: "2026-03-29T21:37:05.487Z"
+generated_at: "2026-03-29T21:40:42.505Z"
 ---
 
 # § 1456. Immunity of Corporation; audits and reporting requirements; data collection; Housing Advisory Council

@@ -3,9 +3,9 @@ title: "Section 950aaa - Purpose"
 usc_title: 7
 usc_section: "950aaa"
 chapter: 31
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 950aaa"
-generated_at: "2026-03-29T21:36:46.779Z"
+generated_at: "2026-03-29T21:40:15.771Z"
 ---
 
 # § 950aaa. Purpose

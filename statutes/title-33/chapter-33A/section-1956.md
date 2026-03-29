@@ -3,9 +3,9 @@ title: "Section 1956 - Definitions"
 usc_title: 33
 usc_section: "1956"
 chapter: 33
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "33 U.S.C. § 1956"
-generated_at: "2026-03-29T21:38:02.702Z"
+generated_at: "2026-03-29T21:42:01.902Z"
 ---
 
 # § 1956. Definitions

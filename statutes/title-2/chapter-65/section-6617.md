@@ -3,9 +3,9 @@ title: "Section 6617 - Law enforcement authority of Sergeant-at-Arms and Doorkee
 usc_title: 2
 usc_section: "6617"
 chapter: 65
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "2 U.S.C. § 6617"
-generated_at: "2026-03-29T21:36:33.009Z"
+generated_at: "2026-03-29T21:39:57.111Z"
 ---
 
 # § 6617. Law enforcement authority of Sergeant-at-Arms and Doorkeeper of the Senate

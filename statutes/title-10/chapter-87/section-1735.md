@@ -3,9 +3,9 @@ title: "Section 1735 - Education, training, and experience requirements for crit
 usc_title: 10
 usc_section: "1735"
 chapter: 87
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 1735"
-generated_at: "2026-03-29T21:36:56.383Z"
+generated_at: "2026-03-29T21:40:11.128Z"
 ---
 
 # § 1735. Education, training, and experience requirements for critical acquisition positions

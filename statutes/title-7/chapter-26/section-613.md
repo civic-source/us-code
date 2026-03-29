@@ -3,9 +3,9 @@ title: "Section 613 - Termination date; investigations and reports"
 usc_title: 7
 usc_section: "613"
 chapter: 26
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 613"
-generated_at: "2026-03-29T21:36:46.766Z"
+generated_at: "2026-03-29T21:40:15.761Z"
 ---
 
 # § 613. Termination date; investigations and reports

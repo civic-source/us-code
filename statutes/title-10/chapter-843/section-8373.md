@@ -3,9 +3,9 @@ title: "Section 8373 - Navy Reserve and Marine Corps Reserve; officers: eliminat
 usc_title: 10
 usc_section: "8373"
 chapter: 843
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 8373"
-generated_at: "2026-03-29T21:36:56.540Z"
+generated_at: "2026-03-29T21:40:11.302Z"
 ---
 
 # § 8373. Navy Reserve and Marine Corps Reserve; officers: elimination from active status; computation of total commissioned service

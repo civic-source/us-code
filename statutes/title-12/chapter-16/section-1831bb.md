@@ -3,9 +3,9 @@ title: "Section 1831bb - Capital requirements for certain acquisition, developme
 usc_title: 12
 usc_section: "1831bb"
 chapter: 16
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "12 U.S.C. § 1831bb"
-generated_at: "2026-03-29T21:37:05.612Z"
+generated_at: "2026-03-29T21:40:42.620Z"
 ---
 
 # § 1831bb. Capital requirements for certain acquisition, development, or construction loans

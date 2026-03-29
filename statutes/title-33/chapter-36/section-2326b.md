@@ -3,9 +3,9 @@ title: "Section 2326b - Sediment management"
 usc_title: 33
 usc_section: "2326b"
 chapter: 36
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "33 U.S.C. § 2326b"
-generated_at: "2026-03-29T21:38:02.721Z"
+generated_at: "2026-03-29T21:42:01.921Z"
 ---
 
 # § 2326b. Sediment management

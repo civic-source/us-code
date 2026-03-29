@@ -3,9 +3,9 @@ title: "Section 6726 - Prohibited acts relating to inspections"
 usc_title: 22
 usc_section: "6726"
 chapter: 75
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 6726"
-generated_at: "2026-03-29T21:37:38.279Z"
+generated_at: "2026-03-29T21:41:23.170Z"
 ---
 
 # § 6726. Prohibited acts relating to inspections

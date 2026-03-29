@@ -3,9 +3,9 @@ title: "Section 3528 - Responsibilities and relief from liability of certifying 
 usc_title: 31
 usc_section: "3528"
 chapter: 35
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "31 U.S.C. § 3528"
-generated_at: "2026-03-29T21:37:59.330Z"
+generated_at: "2026-03-29T21:42:10.406Z"
 ---
 
 # § 3528. Responsibilities and relief from liability of certifying officials

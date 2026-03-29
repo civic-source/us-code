@@ -3,9 +3,9 @@ title: "Section 1502 - Definitions"
 usc_title: 33
 usc_section: "1502"
 chapter: 29
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "33 U.S.C. § 1502"
-generated_at: "2026-03-29T21:38:02.696Z"
+generated_at: "2026-03-29T21:42:01.896Z"
 ---
 
 # § 1502. Definitions

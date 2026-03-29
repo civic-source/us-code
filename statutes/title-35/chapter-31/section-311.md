@@ -3,9 +3,9 @@ title: "Section 311 - Inter partes review"
 usc_title: 35
 usc_section: "311"
 chapter: 31
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "35 U.S.C. § 311"
-generated_at: "2026-03-29T21:37:57.628Z"
+generated_at: "2026-03-29T21:41:46.240Z"
 ---
 
 # § 311. Inter partes review

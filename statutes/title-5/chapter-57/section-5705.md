@@ -3,9 +3,9 @@ title: "Section 5705 - Advancements and deductions"
 usc_title: 5
 usc_section: "5705"
 chapter: 57
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "5 U.S.C. § 5705"
-generated_at: "2026-03-29T21:36:35.866Z"
+generated_at: "2026-03-29T21:39:48.515Z"
 ---
 
 # § 5705. Advancements and deductions

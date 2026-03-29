@@ -3,9 +3,9 @@ title: "Section 6723 - Failure to comply with other information reporting requir
 usc_title: 26
 usc_section: "6723"
 chapter: 68
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "26 U.S.C. § 6723"
-generated_at: "2026-03-29T21:37:55.169Z"
+generated_at: "2026-03-29T21:41:39.316Z"
 ---
 
 # § 6723. Failure to comply with other information reporting requirements

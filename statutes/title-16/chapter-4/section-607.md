@@ -3,9 +3,9 @@ title: "Section 607 - Cutting and removal of timber on certain public lands for 
 usc_title: 16
 usc_section: "607"
 chapter: 4
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 607"
-generated_at: "2026-03-29T21:37:25.822Z"
+generated_at: "2026-03-29T21:41:10.666Z"
 ---
 
 # § 607. Cutting and removal of timber on certain public lands for certain purposes

@@ -3,9 +3,9 @@ title: "Section 1436a - Report on violations of arrival, reporting, entry, and c
 usc_title: 19
 usc_section: "1436a"
 chapter: 4
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "19 U.S.C. § 1436a"
-generated_at: "2026-03-29T21:37:17.644Z"
+generated_at: "2026-03-29T21:40:48.223Z"
 ---
 
 # § 1436a. Report on violations of arrival, reporting, entry, and clearance requirements and falsity or lack of manifest

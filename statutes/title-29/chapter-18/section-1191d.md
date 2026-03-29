@@ -3,9 +3,9 @@ title: "Section 1191d - Standardized reporting format"
 usc_title: 29
 usc_section: "1191d"
 chapter: 18
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "29 U.S.C. § 1191d"
-generated_at: "2026-03-29T21:37:44.929Z"
+generated_at: "2026-03-29T21:41:28.257Z"
 ---
 
 # § 1191d. Standardized reporting format

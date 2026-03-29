@@ -3,9 +3,9 @@ title: "Section 7104e - Preventing future trafficking in the United States throu
 usc_title: 22
 usc_section: "7104e"
 chapter: 78
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 7104e"
-generated_at: "2026-03-29T21:37:38.287Z"
+generated_at: "2026-03-29T21:41:23.177Z"
 ---
 
 # § 7104e. Preventing future trafficking in the United States through receipt of complaints abroad

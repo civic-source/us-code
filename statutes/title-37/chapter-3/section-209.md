@@ -3,9 +3,9 @@ title: "Section 209 - Members of precommissioning programs"
 usc_title: 37
 usc_section: "209"
 chapter: 3
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "37 U.S.C. § 209"
-generated_at: "2026-03-29T21:38:06.645Z"
+generated_at: "2026-03-29T21:42:25.177Z"
 ---
 
 # § 209. Members of precommissioning programs

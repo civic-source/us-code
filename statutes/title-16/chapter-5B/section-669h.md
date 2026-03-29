@@ -3,9 +3,9 @@ title: "Section 669h - Requirements and restrictions concerning use of amounts f
 usc_title: 16
 usc_section: "669h"
 chapter: 5
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 669h"
-generated_at: "2026-03-29T21:37:25.831Z"
+generated_at: "2026-03-29T21:41:10.676Z"
 ---
 
 # § 669h. Requirements and restrictions concerning use of amounts for expenses for administration

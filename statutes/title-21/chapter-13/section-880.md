@@ -3,9 +3,9 @@ title: "Section 880 - Administrative inspections and warrants"
 usc_title: 21
 usc_section: "880"
 chapter: 13
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "21 U.S.C. § 880"
-generated_at: "2026-03-29T21:37:33.580Z"
+generated_at: "2026-03-29T21:41:17.136Z"
 ---
 
 # § 880. Administrative inspections and warrants

@@ -3,9 +3,9 @@ title: "Section 969 - Forfeiture of Arkansas pipeline right of way for nonuser, 
 usc_title: 43
 usc_section: "969"
 chapter: 22
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "43 U.S.C. § 969"
-generated_at: "2026-03-29T21:38:15.526Z"
+generated_at: "2026-03-29T21:42:38.114Z"
 ---
 
 # § 969. Forfeiture of Arkansas pipeline right of way for nonuser, etc.

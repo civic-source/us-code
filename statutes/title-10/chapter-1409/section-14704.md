@@ -3,9 +3,9 @@ title: "Section 14704 - Selective early removal from the reserve active-status l
 usc_title: 10
 usc_section: "14704"
 chapter: 1409
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 14704"
-generated_at: "2026-03-29T21:36:56.590Z"
+generated_at: "2026-03-29T21:40:11.354Z"
 ---
 
 # § 14704. Selective early removal from the reserve active-status list

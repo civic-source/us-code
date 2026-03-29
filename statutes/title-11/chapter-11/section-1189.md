@@ -3,9 +3,9 @@ title: "Section 1189 - Filing of the plan"
 usc_title: 11
 usc_section: "1189"
 chapter: 11
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "11 U.S.C. § 1189"
-generated_at: "2026-03-29T21:37:00.543Z"
+generated_at: "2026-03-29T21:40:21.268Z"
 ---
 
 # § 1189. Filing of the plan

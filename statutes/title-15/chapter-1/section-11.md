@@ -3,9 +3,9 @@ title: "Section 11 - Forfeiture of property in transit"
 usc_title: 15
 usc_section: "11"
 chapter: 1
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "15 U.S.C. § 11"
-generated_at: "2026-03-29T21:37:09.616Z"
+generated_at: "2026-03-29T21:40:27.411Z"
 ---
 
 # § 11. Forfeiture of property in transit

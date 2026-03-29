@@ -3,9 +3,9 @@ title: "Section 1822 - Corporation as receiver"
 usc_title: 12
 usc_section: "1822"
 chapter: 16
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "12 U.S.C. § 1822"
-generated_at: "2026-03-29T21:37:05.594Z"
+generated_at: "2026-03-29T21:40:42.602Z"
 ---
 
 # § 1822. Corporation as receiver

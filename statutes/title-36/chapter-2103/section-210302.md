@@ -3,9 +3,9 @@ title: "Section 210302 - Organization"
 usc_title: 36
 usc_section: "210302"
 chapter: 2103
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "36 U.S.C. § 210302"
-generated_at: "2026-03-29T21:38:10.861Z"
+generated_at: "2026-03-29T21:42:18.213Z"
 ---
 
 # § 210302. Organization

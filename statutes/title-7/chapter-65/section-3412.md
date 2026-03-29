@@ -3,9 +3,9 @@ title: "Section 3412 - Investigations; power to subpena and take oaths and affir
 usc_title: 7
 usc_section: "3412"
 chapter: 65
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 3412"
-generated_at: "2026-03-29T21:36:46.975Z"
+generated_at: "2026-03-29T21:40:15.926Z"
 ---
 
 # § 3412. Investigations; power to subpena and take oaths and affirmations; aid of courts

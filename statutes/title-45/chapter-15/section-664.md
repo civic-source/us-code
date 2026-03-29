@@ -3,9 +3,9 @@ title: "Section 664 - Issuance of obligations to Secretary of the Treasury"
 usc_title: 45
 usc_section: "664"
 chapter: 15
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "45 U.S.C. § 664"
-generated_at: "2026-03-29T21:38:16.096Z"
+generated_at: "2026-03-29T21:42:46.072Z"
 ---
 
 # § 664. Issuance of obligations to Secretary of the Treasury

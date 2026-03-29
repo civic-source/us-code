@@ -3,9 +3,9 @@ title: "Section 3591 - Sentence of death"
 usc_title: 18
 usc_section: "3591"
 chapter: 228
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "18 U.S.C. § 3591"
-generated_at: "2026-03-29T21:37:15.011Z"
+generated_at: "2026-03-29T21:40:58.402Z"
 ---
 
 # § 3591. Sentence of death

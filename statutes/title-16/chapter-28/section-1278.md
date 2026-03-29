@@ -3,9 +3,9 @@ title: "Section 1278 - Restrictions on water resources projects"
 usc_title: 16
 usc_section: "1278"
 chapter: 28
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 1278"
-generated_at: "2026-03-29T21:37:25.910Z"
+generated_at: "2026-03-29T21:41:10.757Z"
 ---
 
 # § 1278. Restrictions on water resources projects

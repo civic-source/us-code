@@ -3,9 +3,9 @@ title: "Section 1747 - Purpose of subchapter; authorization; terms and condition
 usc_title: 12
 usc_section: "1747"
 chapter: 13
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "12 U.S.C. § 1747"
-generated_at: "2026-03-29T21:37:05.556Z"
+generated_at: "2026-03-29T21:40:42.566Z"
 ---
 
 # § 1747. Purpose of subchapter; authorization; terms and conditions; expiration of insurance contract

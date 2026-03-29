@@ -3,9 +3,9 @@ title: "Section 2409 - Contractor employees: protection from reprisal for disclo
 usc_title: 10
 usc_section: "2409"
 chapter: 141
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 2409"
-generated_at: "2026-03-29T21:36:56.431Z"
+generated_at: "2026-03-29T21:40:11.184Z"
 ---
 
 # § 2409. Contractor employees: protection from reprisal for disclosure of certain information

@@ -3,9 +3,9 @@ title: "Section 1644g - Claims Fund; establishment; deductions"
 usc_title: 22
 usc_section: "1644g"
 chapter: 21
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 1644g"
-generated_at: "2026-03-29T21:37:38.093Z"
+generated_at: "2026-03-29T21:41:23.012Z"
 ---
 
 # § 1644g. Claims Fund; establishment; deductions

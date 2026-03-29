@@ -3,9 +3,9 @@ title: "Section 6104 - Financial assistance"
 usc_title: 16
 usc_section: "6104"
 chapter: 80
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 6104"
-generated_at: "2026-03-29T21:37:26.035Z"
+generated_at: "2026-03-29T21:41:10.878Z"
 ---
 
 # § 6104. Financial assistance

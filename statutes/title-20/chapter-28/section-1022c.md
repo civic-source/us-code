@@ -3,9 +3,9 @@ title: "Section 1022c - Accountability and evaluation"
 usc_title: 20
 usc_section: "1022c"
 chapter: 28
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "20 U.S.C. § 1022c"
-generated_at: "2026-03-29T21:37:21.101Z"
+generated_at: "2026-03-29T21:40:51.939Z"
 ---
 
 # § 1022c. Accountability and evaluation

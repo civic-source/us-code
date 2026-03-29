@@ -3,9 +3,9 @@ title: "Section 476c - Travel and transportation allowances: members assigned to
 usc_title: 37
 usc_section: "476c"
 chapter: 8
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "37 U.S.C. § 476c"
-generated_at: "2026-03-29T21:38:06.668Z"
+generated_at: "2026-03-29T21:42:25.202Z"
 ---
 
 # § 476c. Travel and transportation allowances: members assigned to a vessel under construction

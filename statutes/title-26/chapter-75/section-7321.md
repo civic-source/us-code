@@ -3,9 +3,9 @@ title: "Section 7321 - Authority to seize property subject to forfeiture"
 usc_title: 26
 usc_section: "7321"
 chapter: 75
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "26 U.S.C. § 7321"
-generated_at: "2026-03-29T21:37:55.175Z"
+generated_at: "2026-03-29T21:41:39.321Z"
 ---
 
 # § 7321. Authority to seize property subject to forfeiture

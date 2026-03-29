@@ -3,9 +3,9 @@ title: "Section 3308 - Disposal of similar records where prior disposal was auth
 usc_title: 44
 usc_section: "3308"
 chapter: 33
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "44 U.S.C. § 3308"
-generated_at: "2026-03-29T21:38:13.726Z"
+generated_at: "2026-03-29T21:42:36.442Z"
 ---
 
 # § 3308. Disposal of similar records where prior disposal was authorized

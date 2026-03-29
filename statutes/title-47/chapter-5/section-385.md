@@ -3,9 +3,9 @@ title: "Section 385 - Inspections"
 usc_title: 47
 usc_section: "385"
 chapter: 5
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "47 U.S.C. § 385"
-generated_at: "2026-03-29T21:38:59.499Z"
+generated_at: "2026-03-29T21:43:13.819Z"
 ---
 
 # § 385. Inspections

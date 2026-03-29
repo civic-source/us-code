@@ -3,9 +3,9 @@ title: "Section 4866 - Security training for personnel assigned to a high risk, 
 usc_title: 22
 usc_section: "4866"
 chapter: 58
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 4866"
-generated_at: "2026-03-29T21:37:38.244Z"
+generated_at: "2026-03-29T21:41:23.137Z"
 ---
 
 # § 4866. Security training for personnel assigned to a high risk, high threat post

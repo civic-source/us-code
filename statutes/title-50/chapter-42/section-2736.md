@@ -3,9 +3,9 @@ title: "Section 2736 - Notification of nuclear criticality and non-nuclear incid
 usc_title: 50
 usc_section: "2736"
 chapter: 42
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "50 U.S.C. § 2736"
-generated_at: "2026-03-29T21:38:47.377Z"
+generated_at: "2026-03-29T21:43:17.338Z"
 ---
 
 # § 2736. Notification of nuclear criticality and non-nuclear incidents

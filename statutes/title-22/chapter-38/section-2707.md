@@ -3,9 +3,9 @@ title: "Section 2707 - International communications and information policy; duti
 usc_title: 22
 usc_section: "2707"
 chapter: 38
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 2707"
-generated_at: "2026-03-29T21:37:38.169Z"
+generated_at: "2026-03-29T21:41:23.080Z"
 ---
 
 # § 2707. International communications and information policy; duties of Secretary of State

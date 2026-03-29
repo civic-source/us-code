@@ -3,9 +3,9 @@ title: "Section 13216 - Recognition and incentive awards program"
 usc_title: 42
 usc_section: "13216"
 chapter: 134
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 13216"
-generated_at: "2026-03-29T21:38:40.476Z"
+generated_at: "2026-03-29T21:43:06.000Z"
 ---
 
 # § 13216. Recognition and incentive awards program

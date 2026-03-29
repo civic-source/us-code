@@ -3,9 +3,9 @@ title: "Section 3703 - Regulations"
 usc_title: 46
 usc_section: "3703"
 chapter: 37
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "46 U.S.C. § 3703"
-generated_at: "2026-03-29T21:39:01.185Z"
+generated_at: "2026-03-29T21:43:12.799Z"
 ---
 
 # § 3703. Regulations

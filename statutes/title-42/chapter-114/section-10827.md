@@ -3,9 +3,9 @@ title: "Section 10827 - Authorization of appropriations"
 usc_title: 42
 usc_section: "10827"
 chapter: 114
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 10827"
-generated_at: "2026-03-29T21:38:40.397Z"
+generated_at: "2026-03-29T21:43:05.919Z"
 ---
 
 # § 10827. Authorization of appropriations

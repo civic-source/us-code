@@ -3,9 +3,9 @@ title: "Section 2005 - Review schedule"
 usc_title: 43
 usc_section: "2005"
 chapter: 38
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "43 U.S.C. § 2005"
-generated_at: "2026-03-29T21:38:15.577Z"
+generated_at: "2026-03-29T21:42:38.166Z"
 ---
 
 # § 2005. Review schedule

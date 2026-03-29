@@ -3,9 +3,9 @@ title: "Section 12505 - Fees"
 usc_title: 46
 usc_section: "12505"
 chapter: 125
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "46 U.S.C. § 12505"
-generated_at: "2026-03-29T21:39:01.208Z"
+generated_at: "2026-03-29T21:43:12.826Z"
 ---
 
 # § 12505. Fees

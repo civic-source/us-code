@@ -3,9 +3,9 @@ title: "Section 21121 - Establishment of program"
 usc_title: 52
 usc_section: "21121"
 chapter: 209
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "52 U.S.C. § 21121"
-generated_at: "2026-03-29T21:39:04.008Z"
+generated_at: "2026-03-29T21:43:27.184Z"
 ---
 
 # § 21121. Establishment of program

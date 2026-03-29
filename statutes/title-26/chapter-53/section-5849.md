@@ -3,9 +3,9 @@ title: "Section 5849 - Citation of chapter"
 usc_title: 26
 usc_section: "5849"
 chapter: 53
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "26 U.S.C. § 5849"
-generated_at: "2026-03-29T21:37:55.092Z"
+generated_at: "2026-03-29T21:41:39.259Z"
 ---
 
 # § 5849. Citation of chapter

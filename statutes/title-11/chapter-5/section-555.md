@@ -3,9 +3,9 @@ title: "Section 555 - Contractual right to liquidate, terminate, or accelerate a
 usc_title: 11
 usc_section: "555"
 chapter: 5
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "11 U.S.C. § 555"
-generated_at: "2026-03-29T21:37:00.533Z"
+generated_at: "2026-03-29T21:40:21.258Z"
 ---
 
 # § 555. Contractual right to liquidate, terminate, or accelerate a securities contract

@@ -3,9 +3,9 @@ title: "Section 190110 - Service of process"
 usc_title: 36
 usc_section: "190110"
 chapter: 1901
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "36 U.S.C. § 190110"
-generated_at: "2026-03-29T21:38:10.859Z"
+generated_at: "2026-03-29T21:42:18.211Z"
 ---
 
 # § 190110. Service of process

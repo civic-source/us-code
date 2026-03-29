@@ -3,9 +3,9 @@ title: "Section 1715i - Repealed. Pub. L. 86–372, title I, § 108 , Sept. 23, 
 usc_title: 12
 usc_section: "1715i"
 chapter: 13
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "12 U.S.C. § 1715i"
-generated_at: "2026-03-29T21:37:05.524Z"
+generated_at: "2026-03-29T21:40:42.537Z"
 ---
 
 # § 1715i. Repealed. Pub. L. 86–372, title I, § 108 , Sept. 23, 1959 , 73 Stat. 657

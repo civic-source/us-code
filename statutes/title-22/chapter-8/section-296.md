@@ -3,9 +3,9 @@ title: "Section 296 - Duties of Secretary of State with respect to commission an
 usc_title: 22
 usc_section: "296"
 chapter: 8
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 296"
-generated_at: "2026-03-29T21:37:38.073Z"
+generated_at: "2026-03-29T21:41:22.994Z"
 ---
 
 # § 296. Duties of Secretary of State with respect to commission and properties

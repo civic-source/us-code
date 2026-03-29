@@ -3,9 +3,9 @@ title: "Section 12106 - Surrender of title and number"
 usc_title: 46
 usc_section: "12106"
 chapter: 121
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "46 U.S.C. § 12106"
-generated_at: "2026-03-29T21:39:01.205Z"
+generated_at: "2026-03-29T21:43:12.822Z"
 ---
 
 # § 12106. Surrender of title and number

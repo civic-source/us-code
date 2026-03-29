@@ -3,9 +3,9 @@ title: "Section 41726 - Strollers"
 usc_title: 49
 usc_section: "41726"
 chapter: 417
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "49 U.S.C. § 41726"
-generated_at: "2026-03-29T21:38:51.480Z"
+generated_at: "2026-03-29T21:43:24.289Z"
 ---
 
 # § 41726. Strollers

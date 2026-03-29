@@ -3,9 +3,9 @@ title: "Section 140503 - Membership"
 usc_title: 36
 usc_section: "140503"
 chapter: 1405
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "36 U.S.C. § 140503"
-generated_at: "2026-03-29T21:38:10.848Z"
+generated_at: "2026-03-29T21:42:18.200Z"
 ---
 
 # § 140503. Membership

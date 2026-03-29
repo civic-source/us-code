@@ -3,9 +3,9 @@ title: "Section 4018 - Employee protection"
 usc_title: 20
 usc_section: "4018"
 chapter: 52
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "20 U.S.C. § 4018"
-generated_at: "2026-03-29T21:37:21.240Z"
+generated_at: "2026-03-29T21:40:52.093Z"
 ---
 
 # § 4018. Employee protection

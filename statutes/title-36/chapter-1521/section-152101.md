@@ -3,9 +3,9 @@ title: "Section 152101 - Definition"
 usc_title: 36
 usc_section: "152101"
 chapter: 1521
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "36 U.S.C. § 152101"
-generated_at: "2026-03-29T21:38:10.854Z"
+generated_at: "2026-03-29T21:42:18.204Z"
 ---
 
 # § 152101. Definition

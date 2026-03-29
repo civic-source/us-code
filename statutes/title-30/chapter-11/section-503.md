@@ -3,9 +3,9 @@ title: "Section 503 - Reservations required by law; atomic energy materials"
 usc_title: 30
 usc_section: "503"
 chapter: 11
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "30 U.S.C. § 503"
-generated_at: "2026-03-29T21:37:41.487Z"
+generated_at: "2026-03-29T21:41:29.332Z"
 ---
 
 # § 503. Reservations required by law; atomic energy materials

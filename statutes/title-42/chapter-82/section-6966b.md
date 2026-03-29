@@ -3,9 +3,9 @@ title: "Section 6966b - Use of granular mine tailings"
 usc_title: 42
 usc_section: "6966b"
 chapter: 82
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "42 U.S.C. § 6966b"
-generated_at: "2026-03-29T21:38:40.207Z"
+generated_at: "2026-03-29T21:43:05.721Z"
 ---
 
 # § 6966b. Use of granular mine tailings

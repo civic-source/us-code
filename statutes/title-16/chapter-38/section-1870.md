@@ -3,9 +3,9 @@ title: "Section 1870 - Required possession of descending devices"
 usc_title: 16
 usc_section: "1870"
 chapter: 38
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 1870"
-generated_at: "2026-03-29T21:37:25.963Z"
+generated_at: "2026-03-29T21:41:10.803Z"
 ---
 
 # § 1870. Required possession of descending devices
@@ -21,4 +21,4 @@ generated_at: "2026-03-29T21:37:25.963Z"
       - **(ii)** releasing the fish by actions of the operator of the device; or
       - **(iii)** allowing the fish to escape on its own.
   - **(2)** The term “venting tool” has the meaning given to it by the Gulf of Mexico Fishery Management Council.
-  - **(3)** The term “Gulf reef fish” means any fish chosen by the Gulf of Mexico Fishery Management Council that is in the reef Fishery Management Plan for the purposes of this Act.
+  - **(3)** The term “Gulf reef fish” means any fish chosen by the Gulf of Mexico Fishery Management Council that is in the reef Fishery Management Plan for the purposes of this chapter.

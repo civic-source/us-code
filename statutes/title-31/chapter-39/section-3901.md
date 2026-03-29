@@ -3,9 +3,9 @@ title: "Section 3901 - Definitions and application"
 usc_title: 31
 usc_section: "3901"
 chapter: 39
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "31 U.S.C. § 3901"
-generated_at: "2026-03-29T21:37:59.338Z"
+generated_at: "2026-03-29T21:42:10.416Z"
 ---
 
 # § 3901. Definitions and application

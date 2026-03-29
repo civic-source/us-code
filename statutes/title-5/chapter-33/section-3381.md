@@ -3,9 +3,9 @@ title: "Section 3381 - Training"
 usc_title: 5
 usc_section: "3381"
 chapter: 33
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "5 U.S.C. § 3381"
-generated_at: "2026-03-29T21:36:35.843Z"
+generated_at: "2026-03-29T21:39:48.490Z"
 ---
 
 # § 3381. Training

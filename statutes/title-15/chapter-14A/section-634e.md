@@ -3,9 +3,9 @@ title: "Section 634e - Assistance of Government agencies"
 usc_title: 15
 usc_section: "634e"
 chapter: 14
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "15 U.S.C. § 634e"
-generated_at: "2026-03-29T21:37:09.730Z"
+generated_at: "2026-03-29T21:40:27.532Z"
 ---
 
 # § 634e. Assistance of Government agencies

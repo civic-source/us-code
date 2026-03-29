@@ -3,9 +3,9 @@ title: "Section 1143a - Studies by Comptroller General"
 usc_title: 29
 usc_section: "1143a"
 chapter: 18
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "29 U.S.C. § 1143a"
-generated_at: "2026-03-29T21:37:44.918Z"
+generated_at: "2026-03-29T21:41:28.245Z"
 ---
 
 # § 1143a. Studies by Comptroller General

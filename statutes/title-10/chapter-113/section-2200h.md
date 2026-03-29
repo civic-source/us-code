@@ -3,9 +3,9 @@ title: "Section 2200h - Program elements"
 usc_title: 10
 usc_section: "2200h"
 chapter: 113
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "10 U.S.C. § 2200h"
-generated_at: "2026-03-29T21:36:56.399Z"
+generated_at: "2026-03-29T21:40:11.146Z"
 ---
 
 # § 2200h. Program elements

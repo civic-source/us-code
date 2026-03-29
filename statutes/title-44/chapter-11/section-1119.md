@@ -3,9 +3,9 @@ title: "Section 1119 - Government publications as public property"
 usc_title: 44
 usc_section: "1119"
 chapter: 11
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "44 U.S.C. § 1119"
-generated_at: "2026-03-29T21:38:13.715Z"
+generated_at: "2026-03-29T21:42:36.432Z"
 ---
 
 # § 1119. Government publications as public property

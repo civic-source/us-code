@@ -3,9 +3,9 @@ title: "Section 2206a - Authority of Farm Credit Banks and direct lender associa
 usc_title: 12
 usc_section: "2206a"
 chapter: 23
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "12 U.S.C. § 2206a"
-generated_at: "2026-03-29T21:37:05.632Z"
+generated_at: "2026-03-29T21:40:42.639Z"
 ---
 
 # § 2206a. Authority of Farm Credit Banks and direct lender associations to participate in loans to similar entities for risk management purposes

@@ -3,9 +3,9 @@ title: "Section 508 - Vacancies"
 usc_title: 28
 usc_section: "508"
 chapter: 31
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "28 U.S.C. § 508"
-generated_at: "2026-03-29T21:37:43.052Z"
+generated_at: "2026-03-29T21:41:42.644Z"
 ---
 
 # § 508. Vacancies

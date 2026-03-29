@@ -3,9 +3,9 @@ title: "Section 475 - Powers of Office of Technology Assessment"
 usc_title: 2
 usc_section: "475"
 chapter: 15
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "2 U.S.C. § 475"
-generated_at: "2026-03-29T21:36:32.933Z"
+generated_at: "2026-03-29T21:39:57.040Z"
 ---
 
 # § 475. Powers of Office of Technology Assessment

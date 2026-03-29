@@ -3,9 +3,9 @@ title: "Section 481h - Travel and transportation allowances: transportation of d
 usc_title: 37
 usc_section: "481h"
 chapter: 8
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "37 U.S.C. § 481h"
-generated_at: "2026-03-29T21:38:06.672Z"
+generated_at: "2026-03-29T21:42:25.205Z"
 ---
 
 # § 481h. Travel and transportation allowances: transportation of designated individuals incident to hospitalization of members for treatment of wounds, illness, or injury

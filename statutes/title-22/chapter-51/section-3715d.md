@@ -3,9 +3,9 @@ title: "Section 3715d - Continuation of benefits"
 usc_title: 22
 usc_section: "3715d"
 chapter: 51
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "22 U.S.C. § 3715d"
-generated_at: "2026-03-29T21:37:38.204Z"
+generated_at: "2026-03-29T21:41:23.106Z"
 ---
 
 # § 3715d. Continuation of benefits

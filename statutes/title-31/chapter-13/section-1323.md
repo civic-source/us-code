@@ -3,9 +3,9 @@ title: "Section 1323 - Trust funds for certain fees, donations, quasi-public amo
 usc_title: 31
 usc_section: "1323"
 chapter: 13
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "31 U.S.C. § 1323"
-generated_at: "2026-03-29T21:37:59.316Z"
+generated_at: "2026-03-29T21:42:10.391Z"
 ---
 
 # § 1323. Trust funds for certain fees, donations, quasi-public amounts, and unearned amounts

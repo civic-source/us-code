@@ -3,9 +3,9 @@ title: "Section 1472 - Parity of protection for provision or use of Next Generat
 usc_title: 47
 usc_section: "1472"
 chapter: 13
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "47 U.S.C. § 1472"
-generated_at: "2026-03-29T21:38:59.541Z"
+generated_at: "2026-03-29T21:43:13.861Z"
 ---
 
 # § 1472. Parity of protection for provision or use of Next Generation 9–1–1 services

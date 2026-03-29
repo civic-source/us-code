@@ -3,9 +3,9 @@ title: "Section 334 - Limitation on revision of equal employment opportunity reg
 usc_title: 47
 usc_section: "334"
 chapter: 5
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "47 U.S.C. § 334"
-generated_at: "2026-03-29T21:38:59.494Z"
+generated_at: "2026-03-29T21:43:13.813Z"
 ---
 
 # § 334. Limitation on revision of equal employment opportunity regulations

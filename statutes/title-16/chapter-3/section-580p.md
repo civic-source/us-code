@@ -3,9 +3,9 @@ title: "Section 580p - “Woodsy Owl” and “Smokey Bear” characters and nam
 usc_title: 16
 usc_section: "580p"
 chapter: 3
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "16 U.S.C. § 580p"
-generated_at: "2026-03-29T21:37:25.816Z"
+generated_at: "2026-03-29T21:41:10.659Z"
 ---
 
 # § 580p. “Woodsy Owl” and “Smokey Bear” characters and names; definitions

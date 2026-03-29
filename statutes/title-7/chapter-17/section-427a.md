@@ -3,9 +3,9 @@ title: "Section 427a - Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674"
 usc_title: 7
 usc_section: "427a"
 chapter: 17
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "7 U.S.C. § 427a"
-generated_at: "2026-03-29T21:36:46.747Z"
+generated_at: "2026-03-29T21:40:15.747Z"
 ---
 
 # § 427a. Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674

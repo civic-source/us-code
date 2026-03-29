@@ -3,9 +3,9 @@ title: "Section 2734 - Medal of honor: presentation of Medal of Honor Flag"
 usc_title: 14
 usc_section: "2734"
 chapter: 27
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "14 U.S.C. § 2734"
-generated_at: "2026-03-29T21:36:59.915Z"
+generated_at: "2026-03-29T21:40:20.492Z"
 ---
 
 # § 2734. Medal of honor: presentation of Medal of Honor Flag

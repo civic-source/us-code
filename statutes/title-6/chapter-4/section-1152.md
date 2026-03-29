@@ -3,9 +3,9 @@ title: "Section 1152 - Oversight and grant procedures"
 usc_title: 6
 usc_section: "1152"
 chapter: 4
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "6 U.S.C. § 1152"
-generated_at: "2026-03-29T21:36:39.031Z"
+generated_at: "2026-03-29T21:40:01.009Z"
 ---
 
 # § 1152. Oversight and grant procedures

@@ -3,9 +3,9 @@ title: "Section 9562 - Commissioner for Education Evaluation and Regional Assist
 usc_title: 20
 usc_section: "9562"
 chapter: 76
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "20 U.S.C. § 9562"
-generated_at: "2026-03-29T21:37:21.318Z"
+generated_at: "2026-03-29T21:40:52.181Z"
 ---
 
 # § 9562. Commissioner for Education Evaluation and Regional Assistance

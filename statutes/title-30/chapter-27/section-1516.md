@@ -3,9 +3,9 @@ title: "Section 1516 - Authorizations"
 usc_title: 30
 usc_section: "1516"
 chapter: 27
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "30 U.S.C. § 1516"
-generated_at: "2026-03-29T21:37:41.532Z"
+generated_at: "2026-03-29T21:41:29.375Z"
 ---
 
 # § 1516. Authorizations

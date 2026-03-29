@@ -3,9 +3,9 @@ title: "Section 8155 - Pilot programs; grants to medical schools"
 usc_title: 38
 usc_section: "8155"
 chapter: 81
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "38 U.S.C. § 8155"
-generated_at: "2026-03-29T21:38:09.567Z"
+generated_at: "2026-03-29T21:42:22.411Z"
 ---
 
 # § 8155. Pilot programs; grants to medical schools

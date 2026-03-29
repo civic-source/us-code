@@ -3,9 +3,9 @@ title: "Section 102102 - Authority of Secretary to enter into lease for building
 usc_title: 54
 usc_section: "102102"
 chapter: 1021
-current_through: "PL 117-47"
+current_through: "PL 117-49"
 classification: "54 U.S.C. § 102102"
-generated_at: "2026-03-29T21:39:23.754Z"
+generated_at: "2026-03-29T21:43:28.960Z"
 ---
 
 # § 102102. Authority of Secretary to enter into lease for buildings and associated property
