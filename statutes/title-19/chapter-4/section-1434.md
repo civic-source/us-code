@@ -3,9 +3,9 @@ title: "Section 1434 - Entry; vessels"
 usc_title: 19
 usc_section: "1434"
 chapter: 4
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "19 U.S.C. § 1434"
-generated_at: "2026-03-29T20:55:08.515Z"
+generated_at: "2026-03-29T21:00:55.740Z"
 ---
 
 # § 1434. Entry; vessels

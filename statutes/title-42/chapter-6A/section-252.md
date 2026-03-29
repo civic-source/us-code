@@ -3,9 +3,9 @@ title: "Section 252 - Medical examination of aliens"
 usc_title: 42
 usc_section: "252"
 chapter: 6
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "42 U.S.C. § 252"
-generated_at: "2026-03-29T20:58:26.883Z"
+generated_at: "2026-03-29T21:02:48.537Z"
 ---
 
 # § 252. Medical examination of aliens

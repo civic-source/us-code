@@ -3,9 +3,9 @@ title: "Section 2252 - Reimbursement of Production and Marketing Administration 
 usc_title: 7
 usc_section: "2252"
 chapter: 55
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "7 U.S.C. § 2252"
-generated_at: "2026-03-29T20:53:48.565Z"
+generated_at: "2026-03-29T21:00:11.660Z"
 ---
 
 # § 2252. Reimbursement of Production and Marketing Administration appropriations for costs of procuring agricultural commodities for nongovernmental agencies or foreign governments

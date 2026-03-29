@@ -3,9 +3,9 @@ title: "Section 151 - Agency head"
 usc_title: 41
 usc_section: "151"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "41 U.S.C. § 151"
-generated_at: "2026-03-29T20:57:32.234Z"
+generated_at: "2026-03-29T21:02:13.878Z"
 ---
 
 # § 151. Agency head

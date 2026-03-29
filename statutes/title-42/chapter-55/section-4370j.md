@@ -3,9 +3,9 @@ title: "Section 4370j - Municipal Ombudsman"
 usc_title: 42
 usc_section: "4370j"
 chapter: 55
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "42 U.S.C. § 4370j"
-generated_at: "2026-03-29T20:58:27.881Z"
+generated_at: "2026-03-29T21:02:49.371Z"
 ---
 
 # § 4370j. Municipal Ombudsman

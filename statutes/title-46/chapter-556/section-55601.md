@@ -3,9 +3,9 @@ title: "Section 55601 - Marine highways transportation program"
 usc_title: 46
 usc_section: "55601"
 chapter: 556
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "46 U.S.C. § 55601"
-generated_at: "2026-03-29T20:59:03.505Z"
+generated_at: "2026-03-29T21:02:59.934Z"
 ---
 
 # § 55601. Marine highways transportation program

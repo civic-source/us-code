@@ -3,9 +3,9 @@ title: "Section 2 - Interbank liabilities"
 usc_title: 12
 usc_section: "2"
 chapter: 3
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-29T20:55:01.478Z"
+generated_at: "2026-03-29T21:00:42.387Z"
 ---
 
 # § 371b–2. Interbank liabilities

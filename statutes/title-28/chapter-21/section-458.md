@@ -3,9 +3,9 @@ title: "Section 458 - Relative of justice or judge ineligible to appointment"
 usc_title: 28
 usc_section: "458"
 chapter: 21
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "28 U.S.C. § 458"
-generated_at: "2026-03-29T20:56:09.468Z"
+generated_at: "2026-03-29T21:01:42.959Z"
 ---
 
 # § 458. Relative of justice or judge ineligible to appointment

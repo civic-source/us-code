@@ -3,9 +3,9 @@ title: "Section 4166 - Repealed. Pub. L. 98–473, title II, § 218(a)(4) , Oct.
 usc_title: 18
 usc_section: "4166"
 chapter: 309
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "18 U.S.C. § 4166"
-generated_at: "2026-03-29T20:55:11.093Z"
+generated_at: "2026-03-29T21:00:53.315Z"
 ---
 
 # [§§ 4161 to 4166. Repealed. Pub. L. 98–473, title II, § 218(a)(4) , Oct. 12, 1984 , 98 Stat. 2027 ]

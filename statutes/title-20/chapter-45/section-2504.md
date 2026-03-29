@@ -3,9 +3,9 @@ title: "Section 2504 - Prerequisites for State participation"
 usc_title: 20
 usc_section: "2504"
 chapter: 45
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "20 U.S.C. § 2504"
-generated_at: "2026-03-29T20:55:15.536Z"
+generated_at: "2026-03-29T21:01:06.295Z"
 ---
 
 # § 2504. Prerequisites for State participation

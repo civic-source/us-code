@@ -3,9 +3,9 @@ title: "Section 6114 - Appointment and compensation of Administrative Assistant,
 usc_title: 2
 usc_section: "6114"
 chapter: 61
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "2 U.S.C. § 6114"
-generated_at: "2026-03-29T20:53:17.105Z"
+generated_at: "2026-03-29T20:59:41.809Z"
 ---
 
 # § 6114. Appointment and compensation of Administrative Assistant, Legislative Assistant, and Executive Secretary for Deputy President pro tempore of Senate

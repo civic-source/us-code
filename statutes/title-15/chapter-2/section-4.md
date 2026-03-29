@@ -3,9 +3,9 @@ title: "Section 4 - Good faith reliance on actions of Board of Governors"
 usc_title: 15
 usc_section: "4"
 chapter: 2
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-29T20:54:56.785Z"
+generated_at: "2026-03-29T21:00:47.391Z"
 ---
 
 # § 57b–4. Good faith reliance on actions of Board of Governors

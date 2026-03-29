@@ -3,9 +3,9 @@ title: "Section 573 - Establishment of open video systems"
 usc_title: 47
 usc_section: "573"
 chapter: 5
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "47 U.S.C. § 573"
-generated_at: "2026-03-29T20:58:56.613Z"
+generated_at: "2026-03-29T21:03:06.629Z"
 ---
 
 # § 573. Establishment of open video systems

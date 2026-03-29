@@ -3,9 +3,9 @@ title: "Section 6507 - State organic certification program"
 usc_title: 7
 usc_section: "6507"
 chapter: 94
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "7 U.S.C. § 6507"
-generated_at: "2026-03-29T20:53:48.663Z"
+generated_at: "2026-03-29T21:00:11.735Z"
 ---
 
 # § 6507. State organic certification program

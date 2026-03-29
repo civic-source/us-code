@@ -3,9 +3,9 @@ title: "Section 3605 - Notice of conversion and opportunity to purchase; respons
 usc_title: 15
 usc_section: "3605"
 chapter: 62
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "15 U.S.C. § 3605"
-generated_at: "2026-03-29T20:54:57.161Z"
+generated_at: "2026-03-29T21:00:47.727Z"
 ---
 
 # § 3605. Notice of conversion and opportunity to purchase; responsibility of State and local governments

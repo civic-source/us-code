@@ -3,9 +3,9 @@ title: "Section 1831k - Reward for information leading to recoveries or civil pe
 usc_title: 12
 usc_section: "1831k"
 chapter: 16
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "12 U.S.C. § 1831k"
-generated_at: "2026-03-29T20:55:01.659Z"
+generated_at: "2026-03-29T21:00:42.552Z"
 ---
 
 # § 1831k. Reward for information leading to recoveries or civil penalties

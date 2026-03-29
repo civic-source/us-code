@@ -3,9 +3,9 @@ title: "Section 12144 - Applications"
 usc_title: 34
 usc_section: "12144"
 chapter: 121
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "34 U.S.C. § 12144"
-generated_at: "2026-03-29T20:56:14.374Z"
+generated_at: "2026-03-29T21:01:50.700Z"
 ---
 
 # § 12144. Applications

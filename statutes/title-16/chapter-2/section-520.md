@@ -3,9 +3,9 @@ title: "Section 520 - Regulations as to mineral resources"
 usc_title: 16
 usc_section: "520"
 chapter: 2
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 520"
-generated_at: "2026-03-29T20:55:21.016Z"
+generated_at: "2026-03-29T21:01:01.674Z"
 ---
 
 # § 520. Regulations as to mineral resources

@@ -3,9 +3,9 @@ title: "Section 8146 - Navy and Marine Corps: temporary appointments of officers
 usc_title: 10
 usc_section: "8146"
 chapter: 815
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 8146"
-generated_at: "2026-03-29T20:54:45.024Z"
+generated_at: "2026-03-29T21:00:33.173Z"
 ---
 
 # § 8146. Navy and Marine Corps: temporary appointments of officers designated for limited duty

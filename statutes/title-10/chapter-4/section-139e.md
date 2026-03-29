@@ -3,9 +3,9 @@ title: "Section 139e - Renumbered §§ 139b, 139c]"
 usc_title: 10
 usc_section: "139e"
 chapter: 4
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 139e"
-generated_at: "2026-03-29T20:54:44.692Z"
+generated_at: "2026-03-29T21:00:32.841Z"
 ---
 
 # [§§ 139d, 139e. Renumbered §§ 139b, 139c]

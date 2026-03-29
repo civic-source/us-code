@@ -3,9 +3,9 @@ title: "Section 70c - Removal of stamp, tag, label, or other identification"
 usc_title: 15
 usc_section: "70c"
 chapter: 2
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "15 U.S.C. § 70c"
-generated_at: "2026-03-29T20:54:56.789Z"
+generated_at: "2026-03-29T21:00:47.396Z"
 ---
 
 # § 70c. Removal of stamp, tag, label, or other identification

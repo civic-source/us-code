@@ -3,9 +3,9 @@ title: "Section 362 - Prohibition on use of funds for assistance to units of for
 usc_title: 10
 usc_section: "362"
 chapter: 16
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 362"
-generated_at: "2026-03-29T20:54:44.723Z"
+generated_at: "2026-03-29T21:00:32.862Z"
 ---
 
 # § 362. Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights

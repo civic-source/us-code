@@ -3,9 +3,9 @@ title: "Section 7419 - Recruit basic training: separate housing for male and fem
 usc_title: 10
 usc_section: "7419"
 chapter: 751
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 7419"
-generated_at: "2026-03-29T20:54:45.012Z"
+generated_at: "2026-03-29T21:00:33.160Z"
 ---
 
 # § 7419. Recruit basic training: separate housing for male and female recruits

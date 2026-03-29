@@ -3,9 +3,9 @@ title: "Section 226 - Bribery affecting port security"
 usc_title: 18
 usc_section: "226"
 chapter: 11
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "18 U.S.C. § 226"
-generated_at: "2026-03-29T20:55:10.956Z"
+generated_at: "2026-03-29T21:00:53.177Z"
 ---
 
 # § 226. Bribery affecting port security

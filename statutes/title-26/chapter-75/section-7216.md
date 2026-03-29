@@ -3,9 +3,9 @@ title: "Section 7216 - Disclosure or use of information by preparers of returns"
 usc_title: 26
 usc_section: "7216"
 chapter: 75
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "26 U.S.C. § 7216"
-generated_at: "2026-03-29T20:56:07.521Z"
+generated_at: "2026-03-29T21:01:41.222Z"
 ---
 
 # § 7216. Disclosure or use of information by preparers of returns

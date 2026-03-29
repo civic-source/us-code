@@ -3,9 +3,9 @@ title: "Section 12641 - Task force relating to introduction of nonindigenous spe
 usc_title: 34
 usc_section: "12641"
 chapter: 121
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "34 U.S.C. § 12641"
-generated_at: "2026-03-29T20:56:14.397Z"
+generated_at: "2026-03-29T21:01:50.719Z"
 ---
 
 # § 12641. Task force relating to introduction of nonindigenous species

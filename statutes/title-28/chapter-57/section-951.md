@@ -3,9 +3,9 @@ title: "Section 951 - Oath of office of clerks and deputies"
 usc_title: 28
 usc_section: "951"
 chapter: 57
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "28 U.S.C. § 951"
-generated_at: "2026-03-29T20:56:09.486Z"
+generated_at: "2026-03-29T21:01:42.976Z"
 ---
 
 # § 951. Oath of office of clerks and deputies

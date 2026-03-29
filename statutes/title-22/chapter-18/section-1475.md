@@ -3,9 +3,9 @@ title: "Section 1475 - Travel expenses"
 usc_title: 22
 usc_section: "1475"
 chapter: 18
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "22 U.S.C. § 1475"
-generated_at: "2026-03-29T20:55:46.205Z"
+generated_at: "2026-03-29T21:01:20.835Z"
 ---
 
 # § 1475. Travel expenses

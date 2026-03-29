@@ -3,9 +3,9 @@ title: "Section 207 - Copies of acts and resolutions in slip form; additional nu
 usc_title: 1
 usc_section: "207"
 chapter: 3
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "1 U.S.C. § 207"
-generated_at: "2026-03-29T20:53:17.198Z"
+generated_at: "2026-03-29T20:59:41.902Z"
 ---
 
 # § 207. Copies of acts and resolutions in slip form; additional number printed for Committee on the Judiciary of House of Representatives

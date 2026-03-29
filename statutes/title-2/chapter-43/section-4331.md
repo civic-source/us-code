@@ -3,9 +3,9 @@ title: "Section 4331 - Computation of compensation for stenographic assistance o
 usc_title: 2
 usc_section: "4331"
 chapter: 43
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "2 U.S.C. § 4331"
-generated_at: "2026-03-29T20:53:17.085Z"
+generated_at: "2026-03-29T20:59:41.793Z"
 ---
 
 # § 4331. Computation of compensation for stenographic assistance of committees payable from Senate contingent fund

@@ -3,9 +3,9 @@ title: "Section 4336 - Discretionary authority of Senate Committee on Appropriat
 usc_title: 2
 usc_section: "4336"
 chapter: 43
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "2 U.S.C. § 4336"
-generated_at: "2026-03-29T20:53:17.086Z"
+generated_at: "2026-03-29T20:59:41.793Z"
 ---
 
 # § 4336. Discretionary authority of Senate Committee on Appropriations

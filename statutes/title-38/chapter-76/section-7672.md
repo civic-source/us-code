@@ -3,9 +3,9 @@ title: "Section 7672 - Eligibility; agreement"
 usc_title: 38
 usc_section: "7672"
 chapter: 76
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "38 U.S.C. § 7672"
-generated_at: "2026-03-29T20:56:47.152Z"
+generated_at: "2026-03-29T21:02:11.309Z"
 ---
 
 # § 7672. Eligibility; agreement

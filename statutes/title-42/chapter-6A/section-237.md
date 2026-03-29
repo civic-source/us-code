@@ -3,9 +3,9 @@ title: "Section 237 - Silvio O. Conte Senior Biomedical Research and Biomedical 
 usc_title: 42
 usc_section: "237"
 chapter: 6
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "42 U.S.C. § 237"
-generated_at: "2026-03-29T20:58:26.842Z"
+generated_at: "2026-03-29T21:02:48.502Z"
 ---
 
 # § 237. Silvio O. Conte Senior Biomedical Research and Biomedical Product Assessment Service

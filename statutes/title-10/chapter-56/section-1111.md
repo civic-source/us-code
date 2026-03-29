@@ -3,9 +3,9 @@ title: "Section 1111 - Establishment and purpose of Fund; definitions; authority
 usc_title: 10
 usc_section: "1111"
 chapter: 56
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 1111"
-generated_at: "2026-03-29T20:54:44.811Z"
+generated_at: "2026-03-29T21:00:32.944Z"
 ---
 
 # § 1111. Establishment and purpose of Fund; definitions; authority to enter into agreements

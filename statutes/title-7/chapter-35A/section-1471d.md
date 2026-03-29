@@ -3,9 +3,9 @@ title: "Section 1471d - Assistance programs"
 usc_title: 7
 usc_section: "1471d"
 chapter: 35
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "7 U.S.C. § 1471d"
-generated_at: "2026-03-29T20:53:48.426Z"
+generated_at: "2026-03-29T21:00:11.558Z"
 ---
 
 # § 1471d. Assistance programs

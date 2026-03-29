@@ -3,9 +3,9 @@ title: "Section 476a - Travel and transportation allowances: authorized for trav
 usc_title: 37
 usc_section: "476a"
 chapter: 8
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "37 U.S.C. § 476a"
-generated_at: "2026-03-29T20:57:19.713Z"
+generated_at: "2026-03-29T21:02:04.909Z"
 ---
 
 # § 476a. Travel and transportation allowances: authorized for travel performed under orders that are canceled, revoked, or modified

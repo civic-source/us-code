@@ -3,9 +3,9 @@ title: "Section 3594 - Imposition of a sentence of death"
 usc_title: 18
 usc_section: "3594"
 chapter: 228
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "18 U.S.C. § 3594"
-generated_at: "2026-03-29T20:55:11.077Z"
+generated_at: "2026-03-29T21:00:53.299Z"
 ---
 
 # § 3594. Imposition of a sentence of death

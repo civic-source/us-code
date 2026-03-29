@@ -3,9 +3,9 @@ title: "Section 3199 - Navigation aids and other facilities"
 usc_title: 16
 usc_section: "3199"
 chapter: 51
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 3199"
-generated_at: "2026-03-29T20:55:21.246Z"
+generated_at: "2026-03-29T21:01:01.885Z"
 ---
 
 # § 3199. Navigation aids and other facilities

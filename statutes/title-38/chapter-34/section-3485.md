@@ -3,9 +3,9 @@ title: "Section 3485 - Work-study allowance 1 1 See Payment of Work-Study Allowa
 usc_title: 38
 usc_section: "3485"
 chapter: 34
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "38 U.S.C. § 3485"
-generated_at: "2026-03-29T20:56:47.092Z"
+generated_at: "2026-03-29T21:02:11.241Z"
 ---
 
 # § 3485. Work-study allowance 1 1 See Payment of Work-Study Allowances During Emergency Situations note below.

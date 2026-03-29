@@ -3,9 +3,9 @@ title: "Section 3526 - Cooperation of other Federal agencies and State governmen
 usc_title: 18
 usc_section: "3526"
 chapter: 224
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "18 U.S.C. § 3526"
-generated_at: "2026-03-29T20:55:11.073Z"
+generated_at: "2026-03-29T21:00:53.295Z"
 ---
 
 # § 3526. Cooperation of other Federal agencies and State governments; reimbursement of expenses

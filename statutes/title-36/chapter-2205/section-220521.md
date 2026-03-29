@@ -3,9 +3,9 @@ title: "Section 220521 - Certification of national governing bodies"
 usc_title: 36
 usc_section: "220521"
 chapter: 2205
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "36 U.S.C. § 220521"
-generated_at: "2026-03-29T20:56:51.042Z"
+generated_at: "2026-03-29T21:02:00.654Z"
 ---
 
 # § 220521. Certification of national governing bodies

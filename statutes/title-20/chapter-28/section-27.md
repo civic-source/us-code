@@ -3,9 +3,9 @@ title: "Section 27 - Evaluation and report"
 usc_title: 20
 usc_section: "27"
 chapter: 28
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "20 U.S.C. § 27"
-generated_at: "2026-03-29T20:55:15.386Z"
+generated_at: "2026-03-29T21:01:06.146Z"
 ---
 
 # § 1070a–27. Evaluation and report

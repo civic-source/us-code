@@ -3,9 +3,9 @@ title: "Section 70014 - Aiming laser pointer at vessel"
 usc_title: 46
 usc_section: "70014"
 chapter: 700
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "46 U.S.C. § 70014"
-generated_at: "2026-03-29T20:59:03.514Z"
+generated_at: "2026-03-29T21:02:59.941Z"
 ---
 
 # § 70014. Aiming laser pointer at vessel

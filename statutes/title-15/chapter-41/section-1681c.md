@@ -3,9 +3,9 @@ title: "Section 1681c - Requirements relating to information contained in consum
 usc_title: 15
 usc_section: "1681c"
 chapter: 41
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "15 U.S.C. § 1681c"
-generated_at: "2026-03-29T20:54:57.071Z"
+generated_at: "2026-03-29T21:00:47.629Z"
 ---
 
 # § 1681c. Requirements relating to information contained in consumer reports

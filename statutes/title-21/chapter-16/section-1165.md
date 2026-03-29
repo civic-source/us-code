@@ -3,9 +3,9 @@ title: "Section 1165 - Repealed. Pub. L. 98–509, title III, § 301(d) , Oct. 1
 usc_title: 21
 usc_section: "1165"
 chapter: 16
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "21 U.S.C. § 1165"
-generated_at: "2026-03-29T20:55:29.047Z"
+generated_at: "2026-03-29T21:01:15.220Z"
 ---
 
 # §§ 1161 to 1165. Repealed. Pub. L. 98–509, title III, § 301(d) , Oct. 19, 1984 , 98 Stat. 2364

@@ -3,9 +3,9 @@ title: "Section 2350d - Cooperative logistic support agreements: NATO countries"
 usc_title: 10
 usc_section: "2350d"
 chapter: 138
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 2350d"
-generated_at: "2026-03-29T20:54:44.899Z"
+generated_at: "2026-03-29T21:00:33.032Z"
 ---
 
 # § 2350d. Cooperative logistic support agreements: NATO countries

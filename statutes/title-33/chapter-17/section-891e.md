@@ -3,9 +3,9 @@ title: "Section 891e - Restriction with respect to certain shipyard subsidies"
 usc_title: 33
 usc_section: "891e"
 chapter: 17
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "33 U.S.C. § 891e"
-generated_at: "2026-03-29T20:56:16.567Z"
+generated_at: "2026-03-29T21:01:48.782Z"
 ---
 
 # § 891e. Restriction with respect to certain shipyard subsidies

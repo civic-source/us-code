@@ -3,9 +3,9 @@ title: "Section 2006 - Department of Defense Education Benefits Fund"
 usc_title: 10
 usc_section: "2006"
 chapter: 101
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 2006"
-generated_at: "2026-03-29T20:54:44.859Z"
+generated_at: "2026-03-29T21:00:32.992Z"
 ---
 
 # § 2006. Department of Defense Education Benefits Fund

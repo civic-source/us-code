@@ -3,9 +3,9 @@ title: "Section 1074i - Reimbursement for certain travel expenses"
 usc_title: 10
 usc_section: "1074i"
 chapter: 55
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 1074i"
-generated_at: "2026-03-29T20:54:44.800Z"
+generated_at: "2026-03-29T21:00:32.931Z"
 ---
 
 # § 1074i. Reimbursement for certain travel expenses

@@ -3,9 +3,9 @@ title: "Section 7103 - Licenses for radio officers"
 usc_title: 46
 usc_section: "7103"
 chapter: 71
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "46 U.S.C. § 7103"
-generated_at: "2026-03-29T20:59:03.453Z"
+generated_at: "2026-03-29T21:02:59.878Z"
 ---
 
 # § 7103. Licenses for radio officers

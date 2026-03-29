@@ -3,9 +3,9 @@ title: "Section 3534 - Multiyear contracts for acquisition of services: contract
 usc_title: 10
 usc_section: "3534"
 chapter: 249
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 3534"
-generated_at: "2026-03-29T20:54:44.975Z"
+generated_at: "2026-03-29T21:00:33.115Z"
 ---
 
 # § 3534. Multiyear contracts for acquisition of services: contracts with value above $500,000,000 to be specifically authorized by law

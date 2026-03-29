@@ -3,9 +3,9 @@ title: "Section 7323 - Required consultations with nurses"
 usc_title: 38
 usc_section: "7323"
 chapter: 73
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "38 U.S.C. § 7323"
-generated_at: "2026-03-29T20:56:47.141Z"
+generated_at: "2026-03-29T21:02:11.293Z"
 ---
 
 # § 7323. Required consultations with nurses

@@ -3,9 +3,9 @@ title: "Section 3323 - Cost-plus contracting prohibited for military constructio
 usc_title: 10
 usc_section: "3323"
 chapter: 242
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 3323"
-generated_at: "2026-03-29T20:54:44.971Z"
+generated_at: "2026-03-29T21:00:33.111Z"
 ---
 
 # § 3323. Cost-plus contracting prohibited for military construction and military family housing projects

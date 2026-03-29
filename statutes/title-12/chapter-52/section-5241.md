@@ -3,9 +3,9 @@ title: "Section 5241 - Temporary increase in deposit and share insurance coverag
 usc_title: 12
 usc_section: "5241"
 chapter: 52
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "12 U.S.C. § 5241"
-generated_at: "2026-03-29T20:55:01.786Z"
+generated_at: "2026-03-29T21:00:42.681Z"
 ---
 
 # § 5241. Temporary increase in deposit and share insurance coverage

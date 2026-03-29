@@ -3,9 +3,9 @@ title: "Section 1371 - Study and recommendations regarding General Accounting Of
 usc_title: 2
 usc_section: "1371"
 chapter: 24
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "2 U.S.C. § 1371"
-generated_at: "2026-03-29T20:53:17.041Z"
+generated_at: "2026-03-29T20:59:41.752Z"
 ---
 
 # § 1371. Study and recommendations regarding General Accounting Office, Government Printing Office, and Library of Congress

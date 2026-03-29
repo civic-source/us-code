@@ -3,9 +3,9 @@ title: "Section 79f - Transfer of property from Federal agency to administrative
 usc_title: 16
 usc_section: "79f"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 79f"
-generated_at: "2026-03-29T20:55:20.826Z"
+generated_at: "2026-03-29T21:01:01.492Z"
 ---
 
 # § 79f. Transfer of property from Federal agency to administrative jurisdiction of Secretary

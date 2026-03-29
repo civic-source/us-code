@@ -3,9 +3,9 @@ title: "Section 1142 - Preseparation counseling; transmittal of certain records 
 usc_title: 10
 usc_section: "1142"
 chapter: 58
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 1142"
-generated_at: "2026-03-29T20:54:44.814Z"
+generated_at: "2026-03-29T21:00:32.946Z"
 ---
 
 # § 1142. Preseparation counseling; transmittal of certain records to Department of Veterans Affairs

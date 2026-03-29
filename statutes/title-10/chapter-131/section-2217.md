@@ -3,9 +3,9 @@ title: "Section 2217 - Comparable budgeting for common procurement weapon system
 usc_title: 10
 usc_section: "2217"
 chapter: 131
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 2217"
-generated_at: "2026-03-29T20:54:44.873Z"
+generated_at: "2026-03-29T21:00:33.007Z"
 ---
 
 # § 2217. Comparable budgeting for common procurement weapon systems

@@ -3,9 +3,9 @@ title: "Section 1673i - Repealed. Pub. L. 98–573, title VI, § 622(a)(1) , Oct
 usc_title: 19
 usc_section: "1673i"
 chapter: 4
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "19 U.S.C. § 1673i"
-generated_at: "2026-03-29T20:55:08.559Z"
+generated_at: "2026-03-29T21:00:55.859Z"
 ---
 
 # § 1673i. Repealed. Pub. L. 98–573, title VI, § 622(a)(1) , Oct. 30, 1984 , 98 Stat. 3039

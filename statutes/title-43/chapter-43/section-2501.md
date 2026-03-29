@@ -3,9 +3,9 @@ title: "Section 2501 - “Suspended entries of public lands” and “suspended 
 usc_title: 43
 usc_section: "2501"
 chapter: 43
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "43 U.S.C. § 2501"
-generated_at: "2026-03-29T20:57:43.479Z"
+generated_at: "2026-03-29T21:02:16.769Z"
 ---
 
 # § 2501. “Suspended entries of public lands” and “suspended preemption land claims”

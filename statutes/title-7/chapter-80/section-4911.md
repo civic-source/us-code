@@ -3,9 +3,9 @@ title: "Section 4911 - Investigation and power to subpoena"
 usc_title: 7
 usc_section: "4911"
 chapter: 80
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "7 U.S.C. § 4911"
-generated_at: "2026-03-29T20:53:48.626Z"
+generated_at: "2026-03-29T21:00:11.708Z"
 ---
 
 # § 4911. Investigation and power to subpoena

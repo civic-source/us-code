@@ -3,9 +3,9 @@ title: "Section 6593 - Deputy Sergeant at Arms and Doorkeeper to act on death, r
 usc_title: 2
 usc_section: "6593"
 chapter: 65
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "2 U.S.C. § 6593"
-generated_at: "2026-03-29T20:53:17.114Z"
+generated_at: "2026-03-29T20:59:41.814Z"
 ---
 
 # § 6593. Deputy Sergeant at Arms and Doorkeeper to act on death, resignation, disability, or absence of Sergeant at Arms and Doorkeeper of Senate

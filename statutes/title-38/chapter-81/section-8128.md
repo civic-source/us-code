@@ -3,9 +3,9 @@ title: "Section 8128 - Small business concerns owned and controlled by veterans:
 usc_title: 38
 usc_section: "8128"
 chapter: 81
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "38 U.S.C. § 8128"
-generated_at: "2026-03-29T20:56:47.162Z"
+generated_at: "2026-03-29T21:02:11.322Z"
 ---
 
 # § 8128. Small business concerns owned and controlled by veterans: contracting priority

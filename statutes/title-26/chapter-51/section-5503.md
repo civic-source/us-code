@@ -3,9 +3,9 @@ title: "Section 5503 - Construction and equipment"
 usc_title: 26
 usc_section: "5503"
 chapter: 51
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "26 U.S.C. § 5503"
-generated_at: "2026-03-29T20:56:07.429Z"
+generated_at: "2026-03-29T21:01:41.137Z"
 ---
 
 # § 5503. Construction and equipment

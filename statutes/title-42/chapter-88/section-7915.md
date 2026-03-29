@@ -3,9 +3,9 @@ title: "Section 7915 - Indian tribe cooperative agreements"
 usc_title: 42
 usc_section: "7915"
 chapter: 88
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "42 U.S.C. § 7915"
-generated_at: "2026-03-29T20:58:28.152Z"
+generated_at: "2026-03-29T21:02:49.592Z"
 ---
 
 # § 7915. Indian tribe cooperative agreements

@@ -3,9 +3,9 @@ title: "Section 11 - Tax imposed"
 usc_title: 26
 usc_section: "11"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "26 U.S.C. § 11"
-generated_at: "2026-03-29T20:56:07.024Z"
+generated_at: "2026-03-29T21:01:40.724Z"
 ---
 
 # § 11. Tax imposed

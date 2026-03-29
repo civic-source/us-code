@@ -3,9 +3,9 @@ title: "Section 154112 - Annual report"
 usc_title: 36
 usc_section: "154112"
 chapter: 1541
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "36 U.S.C. § 154112"
-generated_at: "2026-03-29T20:56:51.035Z"
+generated_at: "2026-03-29T21:02:00.646Z"
 ---
 
 # § 154112. Annual report

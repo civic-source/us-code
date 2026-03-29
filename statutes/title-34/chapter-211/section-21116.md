@@ -3,9 +3,9 @@ title: "Section 21116 - ICAC grant program"
 usc_title: 34
 usc_section: "21116"
 chapter: 211
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "34 U.S.C. § 21116"
-generated_at: "2026-03-29T20:56:14.423Z"
+generated_at: "2026-03-29T21:01:50.741Z"
 ---
 
 # § 21116. ICAC grant program

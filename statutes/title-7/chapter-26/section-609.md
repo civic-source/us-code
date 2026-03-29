@@ -3,9 +3,9 @@ title: "Section 609 - Processing tax; methods of computation; rate; what constit
 usc_title: 7
 usc_section: "609"
 chapter: 26
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "7 U.S.C. § 609"
-generated_at: "2026-03-29T20:53:48.377Z"
+generated_at: "2026-03-29T21:00:11.515Z"
 ---
 
 # § 609. Processing tax; methods of computation; rate; what constitutes processing; publicity as to tax to avoid profiteering

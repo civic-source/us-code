@@ -3,9 +3,9 @@ title: "Section 2730 - Prohibition on funding the involuntary return of refugees
 usc_title: 22
 usc_section: "2730"
 chapter: 38
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "22 U.S.C. § 2730"
-generated_at: "2026-03-29T20:55:46.306Z"
+generated_at: "2026-03-29T21:01:20.918Z"
 ---
 
 # § 2730. Prohibition on funding the involuntary return of refugees

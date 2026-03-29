@@ -3,9 +3,9 @@ title: "Section 355h - Regulation of certain nonprescription drugs that are mark
 usc_title: 21
 usc_section: "355h"
 chapter: 9
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "21 U.S.C. § 355h"
-generated_at: "2026-03-29T20:55:28.937Z"
+generated_at: "2026-03-29T21:01:15.032Z"
 ---
 
 # § 355h. Regulation of certain nonprescription drugs that are marketed without an approved drug application

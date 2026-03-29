@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat
 usc_title: 16
 usc_section: "5"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-29T20:55:21.005Z"
+generated_at: "2026-03-29T21:01:01.663Z"
 ---
 
 # § 470x–5. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

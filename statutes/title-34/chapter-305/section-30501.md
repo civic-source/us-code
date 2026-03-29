@@ -3,9 +3,9 @@ title: "Section 30501 - Findings"
 usc_title: 34
 usc_section: "30501"
 chapter: 305
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "34 U.S.C. § 30501"
-generated_at: "2026-03-29T20:56:14.436Z"
+generated_at: "2026-03-29T21:01:50.748Z"
 ---
 
 # § 30501. Findings

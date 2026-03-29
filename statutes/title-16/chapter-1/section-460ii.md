@@ -3,9 +3,9 @@ title: "Section 460ii - Establishment; boundaries; publication in Federal Regist
 usc_title: 16
 usc_section: "460ii"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 460ii"
-generated_at: "2026-03-29T20:55:20.970Z"
+generated_at: "2026-03-29T21:01:01.625Z"
 ---
 
 # § 460ii. Establishment; boundaries; publication in Federal Register

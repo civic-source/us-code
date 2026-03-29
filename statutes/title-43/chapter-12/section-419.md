@@ -3,9 +3,9 @@ title: "Section 419 - Contract for irrigation project; notice as to lands irriga
 usc_title: 43
 usc_section: "419"
 chapter: 12
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "43 U.S.C. § 419"
-generated_at: "2026-03-29T20:57:43.341Z"
+generated_at: "2026-03-29T21:02:16.672Z"
 ---
 
 # § 419. Contract for irrigation project; notice as to lands irrigable, unit of entry, and construction charges

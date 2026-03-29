@@ -3,9 +3,9 @@ title: "Section 20709a - Holistic training for Federal law enforcement officers 
 usc_title: 34
 usc_section: "20709a"
 chapter: 207
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "34 U.S.C. § 20709a"
-generated_at: "2026-03-29T20:56:14.415Z"
+generated_at: "2026-03-29T21:01:50.733Z"
 ---
 
 # § 20709a. Holistic training for Federal law enforcement officers and prosecutors

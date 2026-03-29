@@ -3,9 +3,9 @@ title: "Section 557 - Employees of Forest Service; subsistence furnished to; per
 usc_title: 16
 usc_section: "557"
 chapter: 3
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 557"
-generated_at: "2026-03-29T20:55:21.036Z"
+generated_at: "2026-03-29T21:01:01.696Z"
 ---
 
 # § 557. Employees of Forest Service; subsistence furnished to; personal equipment; supplies, and medical attention

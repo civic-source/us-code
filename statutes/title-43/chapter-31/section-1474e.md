@@ -3,9 +3,9 @@ title: "Section 1474e - Sums received by the Bureau of Land Management for the s
 usc_title: 43
 usc_section: "1474e"
 chapter: 31
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "43 U.S.C. § 1474e"
-generated_at: "2026-03-29T20:57:43.413Z"
+generated_at: "2026-03-29T21:02:16.722Z"
 ---
 
 # § 1474e. Sums received by the Bureau of Land Management for the sale of seeds

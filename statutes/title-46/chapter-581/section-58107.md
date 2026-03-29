@@ -3,9 +3,9 @@ title: "Section 58107 - Discrimination at ports by water common carriers"
 usc_title: 46
 usc_section: "58107"
 chapter: 581
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "46 U.S.C. § 58107"
-generated_at: "2026-03-29T20:59:03.511Z"
+generated_at: "2026-03-29T21:02:59.938Z"
 ---
 
 # § 58107. Discrimination at ports by water common carriers

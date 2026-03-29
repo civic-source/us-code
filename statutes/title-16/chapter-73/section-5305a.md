@@ -3,9 +3,9 @@ title: "Section 5305a - Prohibition on sale, importation, or exportation of prod
 usc_title: 16
 usc_section: "5305a"
 chapter: 73
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 5305a"
-generated_at: "2026-03-29T20:55:21.304Z"
+generated_at: "2026-03-29T21:01:01.948Z"
 ---
 
 # § 5305a. Prohibition on sale, importation, or exportation of products labeled or advertised as rhinoceros or tiger products

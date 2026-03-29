@@ -3,9 +3,9 @@ title: "Section 6104 - Catalog of Federal domestic assistance programs"
 usc_title: 31
 usc_section: "6104"
 chapter: 61
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "31 U.S.C. § 6104"
-generated_at: "2026-03-29T20:56:40.535Z"
+generated_at: "2026-03-29T21:01:55.143Z"
 ---
 
 # § 6104. Catalog of Federal domestic assistance programs

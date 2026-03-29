@@ -3,9 +3,9 @@ title: "Section 8902 - Definitions and nonapplication"
 usc_title: 40
 usc_section: "8902"
 chapter: 89
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "40 U.S.C. § 8902"
-generated_at: "2026-03-29T20:56:52.388Z"
+generated_at: "2026-03-29T21:01:58.167Z"
 ---
 
 # § 8902. Definitions and nonapplication

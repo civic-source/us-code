@@ -3,9 +3,9 @@ title: "Section 1433 - Nondiscrimination rules of House and Senate"
 usc_title: 2
 usc_section: "1433"
 chapter: 24
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "2 U.S.C. § 1433"
-generated_at: "2026-03-29T20:53:17.049Z"
+generated_at: "2026-03-29T20:59:41.761Z"
 ---
 
 # § 1433. Nondiscrimination rules of House and Senate

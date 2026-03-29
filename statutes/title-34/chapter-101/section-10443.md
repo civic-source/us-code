@@ -3,9 +3,9 @@ title: "Section 10443 - Director of Violence Against Women Office"
 usc_title: 34
 usc_section: "10443"
 chapter: 101
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "34 U.S.C. § 10443"
-generated_at: "2026-03-29T20:56:14.338Z"
+generated_at: "2026-03-29T21:01:50.671Z"
 ---
 
 # § 10443. Director of Violence Against Women Office

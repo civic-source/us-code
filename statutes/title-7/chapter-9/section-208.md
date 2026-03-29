@@ -3,9 +3,9 @@ title: "Section 208 - Unreasonable or discriminatory practices generally; rights
 usc_title: 7
 usc_section: "208"
 chapter: 9
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "7 U.S.C. § 208"
-generated_at: "2026-03-29T20:53:48.351Z"
+generated_at: "2026-03-29T21:00:11.490Z"
 ---
 
 # § 208. Unreasonable or discriminatory practices generally; rights of stockyard owner of management and regulation

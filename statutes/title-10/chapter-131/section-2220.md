@@ -3,9 +3,9 @@ title: "Section 2220 - Performance based management: acquisition programs"
 usc_title: 10
 usc_section: "2220"
 chapter: 131
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 2220"
-generated_at: "2026-03-29T20:54:44.874Z"
+generated_at: "2026-03-29T21:00:33.008Z"
 ---
 
 # § 2220. Performance based management: acquisition programs

@@ -3,9 +3,9 @@ title: "Section 1302 - Resources seaward of Continental Shelf"
 usc_title: 43
 usc_section: "1302"
 chapter: 29
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "43 U.S.C. § 1302"
-generated_at: "2026-03-29T20:57:43.395Z"
+generated_at: "2026-03-29T21:02:16.710Z"
 ---
 
 # § 1302. Resources seaward of Continental Shelf

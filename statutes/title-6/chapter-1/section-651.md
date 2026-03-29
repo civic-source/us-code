@@ -3,9 +3,9 @@ title: "Section 651 - Definitions"
 usc_title: 6
 usc_section: "651"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "6 U.S.C. § 651"
-generated_at: "2026-03-29T20:53:33.115Z"
+generated_at: "2026-03-29T20:59:56.398Z"
 ---
 
 # § 651. Definitions

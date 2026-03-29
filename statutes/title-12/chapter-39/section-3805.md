@@ -3,9 +3,9 @@ title: "Section 3805 - Applicability of consumer protection provisions"
 usc_title: 12
 usc_section: "3805"
 chapter: 39
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "12 U.S.C. § 3805"
-generated_at: "2026-03-29T20:55:01.737Z"
+generated_at: "2026-03-29T21:00:42.628Z"
 ---
 
 # § 3805. Applicability of consumer protection provisions

@@ -3,9 +3,9 @@ title: "Section 1187 - Officers eligible to serve on boards"
 usc_title: 10
 usc_section: "1187"
 chapter: 60
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 1187"
-generated_at: "2026-03-29T20:54:44.820Z"
+generated_at: "2026-03-29T21:00:32.952Z"
 ---
 
 # § 1187. Officers eligible to serve on boards

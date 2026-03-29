@@ -3,9 +3,9 @@ title: "Section 3183 - Fugitives from State, Territory, or Possession into extra
 usc_title: 18
 usc_section: "3183"
 chapter: 209
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "18 U.S.C. § 3183"
-generated_at: "2026-03-29T20:55:11.064Z"
+generated_at: "2026-03-29T21:00:53.285Z"
 ---
 
 # § 3183. Fugitives from State, Territory, or Possession into extraterritorial jurisdiction of United States

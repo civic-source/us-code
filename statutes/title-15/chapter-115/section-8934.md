@@ -3,9 +3,9 @@ title: "Section 8934 - Data usage"
 usc_title: 15
 usc_section: "8934"
 chapter: 115
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "15 U.S.C. § 8934"
-generated_at: "2026-03-29T20:54:57.260Z"
+generated_at: "2026-03-29T21:00:47.802Z"
 ---
 
 # § 8934. Data usage

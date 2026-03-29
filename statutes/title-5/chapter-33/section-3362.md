@@ -3,9 +3,9 @@ title: "Section 3362 - Promotion; effect of incentive award"
 usc_title: 5
 usc_section: "3362"
 chapter: 33
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "5 U.S.C. § 3362"
-generated_at: "2026-03-29T20:53:12.252Z"
+generated_at: "2026-03-29T20:59:50.741Z"
 ---
 
 # § 3362. Promotion; effect of incentive award

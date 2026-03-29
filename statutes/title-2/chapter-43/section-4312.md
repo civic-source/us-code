@@ -3,9 +3,9 @@ title: "Section 4312 - Regulations governing availability of appropriations for 
 usc_title: 2
 usc_section: "4312"
 chapter: 43
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "2 U.S.C. § 4312"
-generated_at: "2026-03-29T20:53:17.085Z"
+generated_at: "2026-03-29T20:59:41.792Z"
 ---
 
 # § 4312. Regulations governing availability of appropriations for House committee employees

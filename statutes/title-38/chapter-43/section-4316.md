@@ -3,9 +3,9 @@ title: "Section 4316 - Rights, benefits, and obligations of persons absent from 
 usc_title: 38
 usc_section: "4316"
 chapter: 43
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "38 U.S.C. § 4316"
-generated_at: "2026-03-29T20:56:47.117Z"
+generated_at: "2026-03-29T21:02:11.268Z"
 ---
 
 # § 4316. Rights, benefits, and obligations of persons absent from employment for service in a uniformed service

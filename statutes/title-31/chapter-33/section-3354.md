@@ -3,9 +3,9 @@ title: "Section 3354 - Do Not Pay Initiative"
 usc_title: 31
 usc_section: "3354"
 chapter: 33
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "31 U.S.C. § 3354"
-generated_at: "2026-03-29T20:56:40.495Z"
+generated_at: "2026-03-29T21:01:55.103Z"
 ---
 
 # § 3354. Do Not Pay Initiative
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T20:56:40.495Z"
   - **(3)**
     - **(A)** For purposes of identifying and preventing improper payments, each executive agency shall have access to, and use of, the Do Not Pay Initiative to verify payment or award eligibility in accordance with subsection (a).
     - **(B)**
-      - **(i)** The head of the agency operating the Working System may, in consultation with the Office of Management and Budget, waive the requirements of section 552a(o) of title 5 in any case or class of cases for computer matching activities conducted under this section.
+      - **(i)** The head of the agency operating the Working System may, in consultation with the Office of Management and Budget, waive the requirements of section 552a( o ) of title 5 in any case or class of cases for computer matching activities conducted under this section.
       - **(ii)** The Director of the Office of Management and Budget may issue guidance that establishes requirements governing waivers under clause (i).
     - **(C)** Each State and any contractor, subcontractor, or agent of a State, including a State auditor or State program responsible for reducing improper payments of a federally funded State-administered program, and the judicial and legislative branches of the United States, as defined in paragraphs (2) and (3), respectively, of section 202(e) of title 18 , shall have access to, and use of, the Do Not Pay Initiative for the purpose of verifying payment or award eligibility for payments.
     - **(D)** To ensure consistency with the principles of section 552a of title 5 (commonly known as the “Privacy Act of 1974”), the Director of the Office of Management and Budget may issue guidance that establishes privacy and other requirements that shall be incorporated into Do Not Pay Initiative access agreements with States, including any contractor, subcontractor, or agent of a State, and the judicial and legislative branches of the United States, as defined in paragraphs (2) and (3), respectively, of section 202(e) of title 18 .

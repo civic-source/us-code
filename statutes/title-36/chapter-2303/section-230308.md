@@ -3,9 +3,9 @@ title: "Section 230308 - Principal office"
 usc_title: 36
 usc_section: "230308"
 chapter: 2303
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "36 U.S.C. § 230308"
-generated_at: "2026-03-29T20:56:51.046Z"
+generated_at: "2026-03-29T21:02:00.658Z"
 ---
 
 # § 230308. Principal office

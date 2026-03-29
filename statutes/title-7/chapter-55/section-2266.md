@@ -3,9 +3,9 @@ title: "Section 2266 - Congressional reaffirmation of policy to foster and encou
 usc_title: 7
 usc_section: "2266"
 chapter: 55
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "7 U.S.C. § 2266"
-generated_at: "2026-03-29T20:53:48.566Z"
+generated_at: "2026-03-29T21:00:11.661Z"
 ---
 
 # § 2266. Congressional reaffirmation of policy to foster and encourage family farms

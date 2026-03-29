@@ -3,9 +3,9 @@ title: "Section 3108 - Allowances 1 1 See Extension of Payment of Vocational Reh
 usc_title: 38
 usc_section: "3108"
 chapter: 31
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "38 U.S.C. § 3108"
-generated_at: "2026-03-29T20:56:47.080Z"
+generated_at: "2026-03-29T21:02:11.231Z"
 ---
 
 # § 3108. Allowances 1 1 See Extension of Payment of Vocational Rehabilitation Subsistence Allowances note below.

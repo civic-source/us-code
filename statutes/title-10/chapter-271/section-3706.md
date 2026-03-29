@@ -3,9 +3,9 @@ title: "Section 3706 - Price reductions for defective cost or pricing data"
 usc_title: 10
 usc_section: "3706"
 chapter: 271
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 3706"
-generated_at: "2026-03-29T20:54:44.976Z"
+generated_at: "2026-03-29T21:00:33.116Z"
 ---
 
 # § 3706. Price reductions for defective cost or pricing data

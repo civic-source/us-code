@@ -3,9 +3,9 @@ title: "Section 44907 - Security standards at foreign airports"
 usc_title: 49
 usc_section: "44907"
 chapter: 449
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "49 U.S.C. § 44907"
-generated_at: "2026-03-29T20:58:55.464Z"
+generated_at: "2026-03-29T21:03:19.140Z"
 ---
 
 # § 44907. Security standards at foreign airports

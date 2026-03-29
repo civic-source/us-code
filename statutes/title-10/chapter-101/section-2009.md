@@ -3,9 +3,9 @@ title: "Section 2009 - Military colleges: female students"
 usc_title: 10
 usc_section: "2009"
 chapter: 101
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 2009"
-generated_at: "2026-03-29T20:54:44.860Z"
+generated_at: "2026-03-29T21:00:32.992Z"
 ---
 
 # § 2009. Military colleges: female students

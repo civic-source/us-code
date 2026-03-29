@@ -3,9 +3,9 @@ title: "Section 375b - Extensions of credit to executive officers, directors, an
 usc_title: 12
 usc_section: "375b"
 chapter: 3
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "12 U.S.C. § 375b"
-generated_at: "2026-03-29T20:55:01.481Z"
+generated_at: "2026-03-29T21:00:42.389Z"
 ---
 
 # § 375b. Extensions of credit to executive officers, directors, and principal shareholders of member banks

@@ -3,9 +3,9 @@ title: "Section 2110 - Logistical support"
 usc_title: 10
 usc_section: "2110"
 chapter: 103
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 2110"
-generated_at: "2026-03-29T20:54:44.864Z"
+generated_at: "2026-03-29T21:00:32.997Z"
 ---
 
 # § 2110. Logistical support

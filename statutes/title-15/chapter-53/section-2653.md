@@ -3,9 +3,9 @@ title: "Section 2653 - EPA study of asbestos-containing material in public build
 usc_title: 15
 usc_section: "2653"
 chapter: 53
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "15 U.S.C. § 2653"
-generated_at: "2026-03-29T20:54:57.135Z"
+generated_at: "2026-03-29T21:00:47.703Z"
 ---
 
 # § 2653. EPA study of asbestos-containing material in public buildings

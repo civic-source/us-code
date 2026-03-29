@@ -3,9 +3,9 @@ title: "Section 106 - Printing bills and joint resolutions"
 usc_title: 1
 usc_section: "106"
 chapter: 2
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "1 U.S.C. § 106"
-generated_at: "2026-03-29T20:53:17.197Z"
+generated_at: "2026-03-29T20:59:41.901Z"
 ---
 
 # § 106. Printing bills and joint resolutions

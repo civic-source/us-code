@@ -3,9 +3,9 @@ title: "Section 695j - Conformity of water use with California laws; constructio
 usc_title: 16
 usc_section: "695j"
 chapter: 6
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 695j"
-generated_at: "2026-03-29T20:55:21.066Z"
+generated_at: "2026-03-29T21:01:01.725Z"
 ---
 
 # § 695j. Conformity of water use with California laws; construction of sections 695d to 695j–1

@@ -3,9 +3,9 @@ title: "Section 41310 - Report on theft of trade secrets occurring abroad"
 usc_title: 34
 usc_section: "41310"
 chapter: 413
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "34 U.S.C. § 41310"
-generated_at: "2026-03-29T20:56:14.452Z"
+generated_at: "2026-03-29T21:01:50.763Z"
 ---
 
 # § 41310. Report on theft of trade secrets occurring abroad

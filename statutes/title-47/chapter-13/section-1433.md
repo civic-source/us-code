@@ -3,9 +3,9 @@ title: "Section 1433 - Provision of technical assistance"
 usc_title: 47
 usc_section: "1433"
 chapter: 13
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "47 U.S.C. § 1433"
-generated_at: "2026-03-29T20:58:56.639Z"
+generated_at: "2026-03-29T21:03:06.654Z"
 ---
 
 # § 1433. Provision of technical assistance

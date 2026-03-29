@@ -3,9 +3,9 @@ title: "Section 2901 - Strategic Environmental Research and Development Program"
 usc_title: 10
 usc_section: "2901"
 chapter: 172
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 2901"
-generated_at: "2026-03-29T20:54:44.959Z"
+generated_at: "2026-03-29T21:00:33.099Z"
 ---
 
 # § 2901. Strategic Environmental Research and Development Program

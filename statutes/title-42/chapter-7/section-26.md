@@ -3,9 +3,9 @@ title: "Section 26 - Establishment of standards"
 usc_title: 42
 usc_section: "26"
 chapter: 7
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "42 U.S.C. § 26"
-generated_at: "2026-03-29T20:58:27.427Z"
+generated_at: "2026-03-29T21:02:48.979Z"
 ---
 
 # § 1395w–26. Establishment of standards

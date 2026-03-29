@@ -3,9 +3,9 @@ title: "Section 102 - Primary duties"
 usc_title: 14
 usc_section: "102"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "14 U.S.C. § 102"
-generated_at: "2026-03-29T20:54:48.944Z"
+generated_at: "2026-03-29T21:00:37.811Z"
 ---
 
 # § 102. Primary duties

@@ -3,9 +3,9 @@ title: "Section 40703 - Collection and use of DNA identification information fro
 usc_title: 34
 usc_section: "40703"
 chapter: 407
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "34 U.S.C. § 40703"
-generated_at: "2026-03-29T20:56:14.444Z"
+generated_at: "2026-03-29T21:01:50.757Z"
 ---
 
 # § 40703. Collection and use of DNA identification information from certain District of Columbia offenders

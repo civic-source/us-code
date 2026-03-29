@@ -3,9 +3,9 @@ title: "Section 7321 - Mandatory retirement: Superintendent of the United States
 usc_title: 10
 usc_section: "7321"
 chapter: 741
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 7321"
-generated_at: "2026-03-29T20:54:45.009Z"
+generated_at: "2026-03-29T21:00:33.157Z"
 ---
 
 # § 7321. Mandatory retirement: Superintendent of the United States Military Academy; waiver authority

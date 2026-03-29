@@ -3,9 +3,9 @@ title: "Section 592 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(83) , Oc
 usc_title: 26
 usc_section: "592"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "26 U.S.C. § 592"
-generated_at: "2026-03-29T20:56:07.223Z"
+generated_at: "2026-03-29T21:01:40.931Z"
 ---
 
 # [§ 592. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(83) , Oct. 4, 1976 , 90 Stat. 1778 ]

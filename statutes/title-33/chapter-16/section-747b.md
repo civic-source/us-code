@@ -3,9 +3,9 @@ title: "Section 747b - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV]
 usc_title: 33
 usc_section: "747b"
 chapter: 16
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "33 U.S.C. § 747b"
-generated_at: "2026-03-29T20:56:16.563Z"
+generated_at: "2026-03-29T21:01:48.779Z"
 ---
 
 # § 747b. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(7), Jan. 1, 2021 , 134 Stat. 4759

@@ -3,9 +3,9 @@ title: "Section 3 - “Long-term contract” defined"
 usc_title: 43
 usc_section: "3"
 chapter: 12
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "43 U.S.C. § 3"
-generated_at: "2026-03-29T20:57:43.351Z"
+generated_at: "2026-03-29T21:02:16.681Z"
 ---
 
 # § 485h–3. “Long-term contract” defined

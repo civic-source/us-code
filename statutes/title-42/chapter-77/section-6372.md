@@ -3,9 +3,9 @@ title: "Section 6372 - Definitions"
 usc_title: 42
 usc_section: "6372"
 chapter: 77
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "42 U.S.C. § 6372"
-generated_at: "2026-03-29T20:58:27.993Z"
+generated_at: "2026-03-29T21:02:49.465Z"
 ---
 
 # § 6372. Definitions

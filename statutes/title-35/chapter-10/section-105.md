@@ -3,9 +3,9 @@ title: "Section 105 - Inventions in outer space"
 usc_title: 35
 usc_section: "105"
 chapter: 10
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "35 U.S.C. § 105"
-generated_at: "2026-03-29T20:56:18.226Z"
+generated_at: "2026-03-29T21:01:45.643Z"
 ---
 
 # § 105. Inventions in outer space

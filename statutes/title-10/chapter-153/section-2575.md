@@ -3,9 +3,9 @@ title: "Section 2575 - Disposition of unclaimed property"
 usc_title: 10
 usc_section: "2575"
 chapter: 153
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 2575"
-generated_at: "2026-03-29T20:54:44.930Z"
+generated_at: "2026-03-29T21:00:33.068Z"
 ---
 
 # § 2575. Disposition of unclaimed property

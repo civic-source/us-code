@@ -3,9 +3,9 @@ title: "Section 1448 - Application of Plan"
 usc_title: 10
 usc_section: "1448"
 chapter: 73
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 1448"
-generated_at: "2026-03-29T20:54:44.833Z"
+generated_at: "2026-03-29T21:00:32.965Z"
 ---
 
 # § 1448. Application of Plan

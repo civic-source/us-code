@@ -3,9 +3,9 @@ title: "Section 4145 - Cooperative agreements for reciprocal use of test facilit
 usc_title: 10
 usc_section: "4145"
 chapter: 307
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 4145"
-generated_at: "2026-03-29T20:54:44.986Z"
+generated_at: "2026-03-29T21:00:33.128Z"
 ---
 
 # § 4145. Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations

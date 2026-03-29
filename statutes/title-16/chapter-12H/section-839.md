@@ -3,9 +3,9 @@ title: "Section 839 - Congressional declaration of purpose"
 usc_title: 16
 usc_section: "839"
 chapter: 12
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 839"
-generated_at: "2026-03-29T20:55:21.116Z"
+generated_at: "2026-03-29T21:01:01.775Z"
 ---
 
 # § 839. Congressional declaration of purpose

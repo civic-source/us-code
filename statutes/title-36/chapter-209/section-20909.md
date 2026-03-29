@@ -3,9 +3,9 @@ title: "Section 20909 - Duty to maintain corporate and tax-exempt status"
 usc_title: 36
 usc_section: "20909"
 chapter: 209
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "36 U.S.C. § 20909"
-generated_at: "2026-03-29T20:56:51.006Z"
+generated_at: "2026-03-29T21:02:00.614Z"
 ---
 
 # § 20909. Duty to maintain corporate and tax-exempt status

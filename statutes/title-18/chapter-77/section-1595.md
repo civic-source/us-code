@@ -3,9 +3,9 @@ title: "Section 1595 - Civil remedy"
 usc_title: 18
 usc_section: "1595"
 chapter: 77
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "18 U.S.C. § 1595"
-generated_at: "2026-03-29T20:55:11.009Z"
+generated_at: "2026-03-29T21:00:53.232Z"
 ---
 
 # § 1595. Civil remedy

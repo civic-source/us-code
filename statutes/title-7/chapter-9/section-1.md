@@ -3,9 +3,9 @@ title: "Section 1 - Final date for making payment to cash seller or poultry grow
 usc_title: 7
 usc_section: "1"
 chapter: 9
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T20:53:48.353Z"
+generated_at: "2026-03-29T21:00:11.492Z"
 ---
 
 # § 228b–1. Final date for making payment to cash seller or poultry grower

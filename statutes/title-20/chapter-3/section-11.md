@@ -3,9 +3,9 @@ title: "Section 11 - Inventory, identification, and return of Native Hawaiian hu
 usc_title: 20
 usc_section: "11"
 chapter: 3
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "20 U.S.C. § 11"
-generated_at: "2026-03-29T20:55:15.330Z"
+generated_at: "2026-03-29T21:01:06.091Z"
 ---
 
 # § 80q–11. Inventory, identification, and return of Native Hawaiian human remains and Native Hawaiian funerary objects in possession of Smithsonian Institution

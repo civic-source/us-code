@@ -3,9 +3,9 @@ title: "Section 120103 - Membership"
 usc_title: 36
 usc_section: "120103"
 chapter: 1201
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "36 U.S.C. § 120103"
-generated_at: "2026-03-29T20:56:51.021Z"
+generated_at: "2026-03-29T21:02:00.632Z"
 ---
 
 # § 120103. Membership

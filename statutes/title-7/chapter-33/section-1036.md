@@ -3,9 +3,9 @@ title: "Section 1036 - Repealed. Pub. L. 87–353, § 3(m) , Oct. 4, 1961 , 75 S
 usc_title: 7
 usc_section: "1036"
 chapter: 33
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "7 U.S.C. § 1036"
-generated_at: "2026-03-29T20:53:48.395Z"
+generated_at: "2026-03-29T21:00:11.530Z"
 ---
 
 # § 1036. Repealed. Pub. L. 87–353, § 3(m) , Oct. 4, 1961 , 75 Stat. 774

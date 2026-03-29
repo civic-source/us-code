@@ -3,9 +3,9 @@ title: "Section 9524 - Imposition of sanctions with respect to activities of the
 usc_title: 22
 usc_section: "9524"
 chapter: 102
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "22 U.S.C. § 9524"
-generated_at: "2026-03-29T20:55:46.481Z"
+generated_at: "2026-03-29T21:01:21.102Z"
 ---
 
 # § 9524. Imposition of sanctions with respect to activities of the Russian Federation undermining cybersecurity

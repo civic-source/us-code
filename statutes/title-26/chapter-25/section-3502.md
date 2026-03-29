@@ -3,9 +3,9 @@ title: "Section 3502 - Nondeductibility of taxes in computing taxable income"
 usc_title: 26
 usc_section: "3502"
 chapter: 25
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "26 U.S.C. § 3502"
-generated_at: "2026-03-29T20:56:07.373Z"
+generated_at: "2026-03-29T21:01:41.084Z"
 ---
 
 # § 3502. Nondeductibility of taxes in computing taxable income

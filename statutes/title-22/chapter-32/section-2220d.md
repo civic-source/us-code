@@ -3,9 +3,9 @@ title: "Section 2220d - Funds for programs and activities"
 usc_title: 22
 usc_section: "2220d"
 chapter: 32
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "22 U.S.C. § 2220d"
-generated_at: "2026-03-29T20:55:46.246Z"
+generated_at: "2026-03-29T21:01:20.867Z"
 ---
 
 # § 2220d. Funds for programs and activities

@@ -3,9 +3,9 @@ title: "Section 274a - International biological program"
 usc_title: 22
 usc_section: "274a"
 chapter: 7
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "22 U.S.C. § 274a"
-generated_at: "2026-03-29T20:55:46.159Z"
+generated_at: "2026-03-29T21:01:20.796Z"
 ---
 
 # § 274a. International biological program

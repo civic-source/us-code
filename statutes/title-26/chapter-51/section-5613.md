@@ -3,9 +3,9 @@ title: "Section 5613 - Forfeiture of distilled spirits not closed, marked, or br
 usc_title: 26
 usc_section: "5613"
 chapter: 51
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "26 U.S.C. § 5613"
-generated_at: "2026-03-29T20:56:07.432Z"
+generated_at: "2026-03-29T21:01:41.139Z"
 ---
 
 # § 5613. Forfeiture of distilled spirits not closed, marked, or branded as required by law

@@ -3,9 +3,9 @@ title: "Section 1052 - Basis established by the Revenue Act of 1932 or 1934 or b
 usc_title: 26
 usc_section: "1052"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "26 U.S.C. § 1052"
-generated_at: "2026-03-29T20:56:07.291Z"
+generated_at: "2026-03-29T21:01:41.006Z"
 ---
 
 # § 1052. Basis established by the Revenue Act of 1932 or 1934 or by the Internal Revenue Code of 1939

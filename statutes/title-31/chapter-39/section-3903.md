@@ -3,9 +3,9 @@ title: "Section 3903 - Regulations"
 usc_title: 31
 usc_section: "3903"
 chapter: 39
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "31 U.S.C. § 3903"
-generated_at: "2026-03-29T20:56:40.512Z"
+generated_at: "2026-03-29T21:01:55.117Z"
 ---
 
 # § 3903. Regulations

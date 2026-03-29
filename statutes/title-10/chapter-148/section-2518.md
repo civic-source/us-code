@@ -3,9 +3,9 @@ title: "Section 2518 - Overseas foreign critical technology monitoring and asses
 usc_title: 10
 usc_section: "2518"
 chapter: 148
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 2518"
-generated_at: "2026-03-29T20:54:44.923Z"
+generated_at: "2026-03-29T21:00:33.060Z"
 ---
 
 # § 2518. Overseas foreign critical technology monitoring and assessment financial assistance program

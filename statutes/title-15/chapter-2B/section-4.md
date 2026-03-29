@@ -3,9 +3,9 @@ title: "Section 4 - Private securities litigation"
 usc_title: 15
 usc_section: "4"
 chapter: 2
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-29T20:54:56.850Z"
+generated_at: "2026-03-29T21:00:47.455Z"
 ---
 
 # § 78u–4. Private securities litigation

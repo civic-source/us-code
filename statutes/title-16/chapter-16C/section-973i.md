@@ -3,9 +3,9 @@ title: "Section 973i - Findings by Secretary"
 usc_title: 16
 usc_section: "973i"
 chapter: 16
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 973i"
-generated_at: "2026-03-29T20:55:21.129Z"
+generated_at: "2026-03-29T21:01:01.786Z"
 ---
 
 # § 973i. Findings by Secretary

@@ -3,9 +3,9 @@ title: "Section 501 - Definition"
 usc_title: 10
 usc_section: "501"
 chapter: 31
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 501"
-generated_at: "2026-03-29T20:54:44.735Z"
+generated_at: "2026-03-29T21:00:32.873Z"
 ---
 
 # § 501. Definition

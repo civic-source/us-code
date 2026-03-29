@@ -3,9 +3,9 @@ title: "Section 6041 - Withholding of foreign assistance from countries supporti
 usc_title: 22
 usc_section: "6041"
 chapter: 69
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "22 U.S.C. § 6041"
-generated_at: "2026-03-29T20:55:46.390Z"
+generated_at: "2026-03-29T21:01:21.005Z"
 ---
 
 # § 6041. Withholding of foreign assistance from countries supporting Juragua nuclear plant in Cuba

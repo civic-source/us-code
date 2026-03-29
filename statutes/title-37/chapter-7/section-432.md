@@ -3,9 +3,9 @@ title: "Section 432 - Renumbered § 492]"
 usc_title: 37
 usc_section: "432"
 chapter: 7
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "37 U.S.C. § 432"
-generated_at: "2026-03-29T20:57:19.709Z"
+generated_at: "2026-03-29T21:02:04.905Z"
 ---
 
 # [§ 432. Renumbered § 492]

@@ -3,9 +3,9 @@ title: "Section 1621i - Managed care feasibility study"
 usc_title: 25
 usc_section: "1621i"
 chapter: 18
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "25 U.S.C. § 1621i"
-generated_at: "2026-03-29T20:55:26.834Z"
+generated_at: "2026-03-29T21:01:11.765Z"
 ---
 
 # § 1621i. Managed care feasibility study

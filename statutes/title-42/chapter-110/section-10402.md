@@ -3,9 +3,9 @@ title: "Section 10402 - Definitions"
 usc_title: 42
 usc_section: "10402"
 chapter: 110
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "42 U.S.C. § 10402"
-generated_at: "2026-03-29T20:58:28.277Z"
+generated_at: "2026-03-29T21:02:49.697Z"
 ---
 
 # § 10402. Definitions

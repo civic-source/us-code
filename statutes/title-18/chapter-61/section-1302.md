@@ -3,9 +3,9 @@ title: "Section 1302 - Mailing lottery tickets or related matter"
 usc_title: 18
 usc_section: "1302"
 chapter: 61
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "18 U.S.C. § 1302"
-generated_at: "2026-03-29T20:55:10.999Z"
+generated_at: "2026-03-29T21:00:53.222Z"
 ---
 
 # § 1302. Mailing lottery tickets or related matter

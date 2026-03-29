@@ -3,9 +3,9 @@ title: "Section 7611 - Purposes"
 usc_title: 16
 usc_section: "7611"
 chapter: 95
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 7611"
-generated_at: "2026-03-29T20:55:21.335Z"
+generated_at: "2026-03-29T21:01:01.985Z"
 ---
 
 # § 7611. Purposes

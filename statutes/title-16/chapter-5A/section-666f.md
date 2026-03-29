@@ -3,9 +3,9 @@ title: "Section 666f - Wildlife conservation and agricultural, industrial, recre
 usc_title: 16
 usc_section: "666f"
 chapter: 5
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 666f"
-generated_at: "2026-03-29T20:55:21.054Z"
+generated_at: "2026-03-29T21:01:01.714Z"
 ---
 
 # § 666f. Wildlife conservation and agricultural, industrial, recreational, and related uses for certain Federal lands; transfer of lands to Secretary of the Interior; administration, development, and disposition

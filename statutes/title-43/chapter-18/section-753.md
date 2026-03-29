@@ -3,9 +3,9 @@ title: "Section 753 - Lines of division of half quarter sections; how run"
 usc_title: 43
 usc_section: "753"
 chapter: 18
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "43 U.S.C. § 753"
-generated_at: "2026-03-29T20:57:43.376Z"
+generated_at: "2026-03-29T21:02:16.698Z"
 ---
 
 # § 753. Lines of division of half quarter sections; how run

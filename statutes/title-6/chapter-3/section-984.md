@@ -3,9 +3,9 @@ title: "Section 984 - Repealed. Pub. L. 115–254, div. J, § 1816(f) , Oct. 5, 
 usc_title: 6
 usc_section: "984"
 chapter: 3
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "6 U.S.C. § 984"
-generated_at: "2026-03-29T20:53:33.134Z"
+generated_at: "2026-03-29T20:59:56.416Z"
 ---
 
 # § 984. Repealed. Pub. L. 115–254, div. J, § 1816(f) , Oct. 5, 2018 , 132 Stat. 3541

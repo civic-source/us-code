@@ -3,9 +3,9 @@ title: "Section 4355 - Selected acquisition reports: quarterly SAR report conten
 usc_title: 10
 usc_section: "4355"
 chapter: 324
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 4355"
-generated_at: "2026-03-29T20:54:44.992Z"
+generated_at: "2026-03-29T21:00:33.134Z"
 ---
 
 # § 4355. Selected acquisition reports: quarterly SAR report content

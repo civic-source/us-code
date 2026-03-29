@@ -3,9 +3,9 @@ title: "Section 46f - Repealed. Pub. L. 104–186, title II, § 203(18)(A) , Aug
 usc_title: 2
 usc_section: "46f"
 chapter: 3
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "2 U.S.C. § 46f"
-generated_at: "2026-03-29T20:53:16.973Z"
+generated_at: "2026-03-29T20:59:41.676Z"
 ---
 
 # § 46f. Repealed. Pub. L. 104–186, title II, § 203(18)(A) , Aug. 20, 1996 , 110 Stat. 1727

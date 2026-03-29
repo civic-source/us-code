@@ -3,9 +3,9 @@ title: "Section 1166 - Railroad carrier exercises"
 usc_title: 6
 usc_section: "1166"
 chapter: 4
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "6 U.S.C. § 1166"
-generated_at: "2026-03-29T20:53:33.145Z"
+generated_at: "2026-03-29T20:59:56.424Z"
 ---
 
 # § 1166. Railroad carrier exercises

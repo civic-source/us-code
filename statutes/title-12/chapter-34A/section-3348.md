@@ -3,9 +3,9 @@ title: "Section 3348 - Recognition of State certified and licensed appraisers fo
 usc_title: 12
 usc_section: "3348"
 chapter: 34
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "12 U.S.C. § 3348"
-generated_at: "2026-03-29T20:55:01.729Z"
+generated_at: "2026-03-29T21:00:42.620Z"
 ---
 
 # § 3348. Recognition of State certified and licensed appraisers for purposes of this chapter

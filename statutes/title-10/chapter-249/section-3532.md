@@ -3,9 +3,9 @@ title: "Section 3532 - Multiyear contracts for acquisition of services: applicab
 usc_title: 10
 usc_section: "3532"
 chapter: 249
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 3532"
-generated_at: "2026-03-29T20:54:44.975Z"
+generated_at: "2026-03-29T21:00:33.115Z"
 ---
 
 # § 3532. Multiyear contracts for acquisition of services: applicable principles

@@ -3,9 +3,9 @@ title: "Section 1613a - Appellate jurisdiction of District Court; procedure; rev
 usc_title: 48
 usc_section: "1613a"
 chapter: 12
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "48 U.S.C. § 1613a"
-generated_at: "2026-03-29T20:58:35.872Z"
+generated_at: "2026-03-29T21:02:54.409Z"
 ---
 
 # § 1613a. Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Third Circuit; rules; appeals to appellate court

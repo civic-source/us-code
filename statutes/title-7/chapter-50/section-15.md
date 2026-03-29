@@ -3,9 +3,9 @@ title: "Section 15 - Removal or suspension of directors or officers"
 usc_title: 7
 usc_section: "15"
 chapter: 50
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "7 U.S.C. § 15"
-generated_at: "2026-03-29T20:53:48.518Z"
+generated_at: "2026-03-29T21:00:11.627Z"
 ---
 
 # § 2009cc–15. Removal or suspension of directors or officers

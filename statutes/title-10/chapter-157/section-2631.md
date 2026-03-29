@@ -3,9 +3,9 @@ title: "Section 2631 - Preference for United States vessels in transporting supp
 usc_title: 10
 usc_section: "2631"
 chapter: 157
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 2631"
-generated_at: "2026-03-29T20:54:44.932Z"
+generated_at: "2026-03-29T21:00:33.071Z"
 ---
 
 # § 2631. Preference for United States vessels in transporting supplies by sea

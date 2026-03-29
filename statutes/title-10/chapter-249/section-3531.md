@@ -3,9 +3,9 @@ title: "Section 3531 - Multiyear contracts for acquisition of services: authorit
 usc_title: 10
 usc_section: "3531"
 chapter: 249
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 3531"
-generated_at: "2026-03-29T20:54:44.974Z"
+generated_at: "2026-03-29T21:00:33.115Z"
 ---
 
 # § 3531. Multiyear contracts for acquisition of services: authority; definitions

@@ -3,9 +3,9 @@ title: "Section 203 - Termination of transfers and licenses granted by the autho
 usc_title: 17
 usc_section: "203"
 chapter: 2
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "17 U.S.C. § 203"
-generated_at: "2026-03-29T20:55:04.672Z"
+generated_at: "2026-03-29T21:00:50.570Z"
 ---
 
 # § 203. Termination of transfers and licenses granted by the author

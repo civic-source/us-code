@@ -3,9 +3,9 @@ title: "Section 5507 - Environmental education awards"
 usc_title: 20
 usc_section: "5507"
 chapter: 65
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "20 U.S.C. § 5507"
-generated_at: "2026-03-29T20:55:15.562Z"
+generated_at: "2026-03-29T21:01:06.318Z"
 ---
 
 # § 5507. Environmental education awards

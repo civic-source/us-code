@@ -3,9 +3,9 @@ title: "Section 1335 - Recovery rights"
 usc_title: 16
 usc_section: "1335"
 chapter: 30
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 1335"
-generated_at: "2026-03-29T20:55:21.157Z"
+generated_at: "2026-03-29T21:01:01.810Z"
 ---
 
 # § 1335. Recovery rights

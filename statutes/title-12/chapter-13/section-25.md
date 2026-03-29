@@ -3,9 +3,9 @@ title: "Section 25 - Mortgage modification data collecting and reporting"
 usc_title: 12
 usc_section: "25"
 chapter: 13
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "12 U.S.C. § 25"
-generated_at: "2026-03-29T20:55:01.582Z"
+generated_at: "2026-03-29T21:00:42.481Z"
 ---
 
 # § 1715z–25. Mortgage modification data collecting and reporting

@@ -3,9 +3,9 @@ title: "Section 162 - Mission of Office; duties"
 usc_title: 6
 usc_section: "162"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "6 U.S.C. § 162"
-generated_at: "2026-03-29T20:53:33.056Z"
+generated_at: "2026-03-29T20:59:56.348Z"
 ---
 
 # § 162. Mission of Office; duties

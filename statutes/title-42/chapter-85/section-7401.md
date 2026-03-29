@@ -3,9 +3,9 @@ title: "Section 7401 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "7401"
 chapter: 85
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "42 U.S.C. § 7401"
-generated_at: "2026-03-29T20:58:28.065Z"
+generated_at: "2026-03-29T21:02:49.527Z"
 ---
 
 # § 7401. Congressional findings and declaration of purpose

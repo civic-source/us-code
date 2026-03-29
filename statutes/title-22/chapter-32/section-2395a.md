@@ -3,9 +3,9 @@ title: "Section 2395a - International agreements concerning debt relief; transmi
 usc_title: 22
 usc_section: "2395a"
 chapter: 32
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "22 U.S.C. § 2395a"
-generated_at: "2026-03-29T20:55:46.274Z"
+generated_at: "2026-03-29T21:01:20.888Z"
 ---
 
 # § 2395a. International agreements concerning debt relief; transmittal to congressional committees

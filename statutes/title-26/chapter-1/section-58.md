@@ -3,9 +3,9 @@ title: "Section 58 - Denial of certain losses"
 usc_title: 26
 usc_section: "58"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "26 U.S.C. § 58"
-generated_at: "2026-03-29T20:56:07.065Z"
+generated_at: "2026-03-29T21:01:40.773Z"
 ---
 
 # § 58. Denial of certain losses

@@ -3,9 +3,9 @@ title: "Section 16274 - Nuclear science and engineering support"
 usc_title: 42
 usc_section: "16274"
 chapter: 149
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "42 U.S.C. § 16274"
-generated_at: "2026-03-29T20:58:28.452Z"
+generated_at: "2026-03-29T21:02:49.840Z"
 ---
 
 # § 16274. Nuclear science and engineering support

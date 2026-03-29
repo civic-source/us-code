@@ -3,9 +3,9 @@ title: "Section 8034 - Gulf of Mexico IUU Fishing Subworking Group"
 usc_title: 16
 usc_section: "8034"
 chapter: 99
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 8034"
-generated_at: "2026-03-29T20:55:21.341Z"
+generated_at: "2026-03-29T21:01:01.992Z"
 ---
 
 # § 8034. Gulf of Mexico IUU Fishing Subworking Group

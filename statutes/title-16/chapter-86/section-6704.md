@@ -3,9 +3,9 @@ title: "Section 6704 - Establishment of Institutes"
 usc_title: 16
 usc_section: "6704"
 chapter: 86
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 6704"
-generated_at: "2026-03-29T20:55:21.322Z"
+generated_at: "2026-03-29T21:01:01.970Z"
 ---
 
 # § 6704. Establishment of Institutes

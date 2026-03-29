@@ -3,9 +3,9 @@ title: "Section 2405 - Deputy Administrator for Defense Nuclear Nonproliferation
 usc_title: 50
 usc_section: "2405"
 chapter: 41
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "50 U.S.C. § 2405"
-generated_at: "2026-03-29T20:59:05.999Z"
+generated_at: "2026-03-29T21:02:57.768Z"
 ---
 
 # § 2405. Deputy Administrator for Defense Nuclear Nonproliferation

@@ -3,9 +3,9 @@ title: "Section 1022a - Medium-term economic goals and policies respecting full 
 usc_title: 15
 usc_section: "1022a"
 chapter: 21
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "15 U.S.C. § 1022a"
-generated_at: "2026-03-29T20:54:57.018Z"
+generated_at: "2026-03-29T21:00:47.578Z"
 ---
 
 # § 1022a. Medium-term economic goals and policies respecting full employment and balanced growth

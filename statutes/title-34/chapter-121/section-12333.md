@@ -3,9 +3,9 @@ title: "Section 12333 - Number and cost of injuries"
 usc_title: 34
 usc_section: "12333"
 chapter: 121
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "34 U.S.C. § 12333"
-generated_at: "2026-03-29T20:56:14.381Z"
+generated_at: "2026-03-29T21:01:50.707Z"
 ---
 
 # § 12333. Number and cost of injuries

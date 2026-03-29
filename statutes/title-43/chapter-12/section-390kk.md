@@ -3,9 +3,9 @@ title: "Section 390kk - Residency not required"
 usc_title: 43
 usc_section: "390kk"
 chapter: 12
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "43 U.S.C. § 390kk"
-generated_at: "2026-03-29T20:57:43.335Z"
+generated_at: "2026-03-29T21:02:16.669Z"
 ---
 
 # § 390kk. Residency not required

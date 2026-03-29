@@ -3,9 +3,9 @@ title: "Section 4134 - Time limitations"
 usc_title: 22
 usc_section: "4134"
 chapter: 52
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "22 U.S.C. § 4134"
-generated_at: "2026-03-29T20:55:46.358Z"
+generated_at: "2026-03-29T21:01:20.972Z"
 ---
 
 # § 4134. Time limitations

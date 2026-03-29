@@ -3,9 +3,9 @@ title: "Section 3306 - Planning and solicitation requirements"
 usc_title: 41
 usc_section: "3306"
 chapter: 33
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "41 U.S.C. § 3306"
-generated_at: "2026-03-29T20:57:32.248Z"
+generated_at: "2026-03-29T21:02:13.891Z"
 ---
 
 # § 3306. Planning and solicitation requirements

@@ -3,9 +3,9 @@ title: "Section 208 - Repealed. Feb. 28, 1948, ch. 83, § 5(a) , 62 Stat. 40"
 usc_title: 42
 usc_section: "208"
 chapter: 6
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "42 U.S.C. § 208"
-generated_at: "2026-03-29T20:58:26.836Z"
+generated_at: "2026-03-29T21:02:48.496Z"
 ---
 
 # § 208. Repealed. Feb. 28, 1948, ch. 83, § 5(a) , 62 Stat. 40

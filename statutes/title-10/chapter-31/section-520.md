@@ -3,9 +3,9 @@ title: "Section 520 - Limitation on enlistment and induction of persons whose sc
 usc_title: 10
 usc_section: "520"
 chapter: 31
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 520"
-generated_at: "2026-03-29T20:54:44.740Z"
+generated_at: "2026-03-29T21:00:32.875Z"
 ---
 
 # § 520. Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level

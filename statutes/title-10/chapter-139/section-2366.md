@@ -3,9 +3,9 @@ title: "Section 2366 - Major systems and munitions programs: survivability testi
 usc_title: 10
 usc_section: "2366"
 chapter: 139
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 2366"
-generated_at: "2026-03-29T20:54:44.903Z"
+generated_at: "2026-03-29T21:00:33.036Z"
 ---
 
 # § 2366. Major systems and munitions programs: survivability testing and lethality testing required before full-scale production

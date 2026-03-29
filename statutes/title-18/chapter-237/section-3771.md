@@ -3,9 +3,9 @@ title: "Section 3771 - Crime victims’ rights"
 usc_title: 18
 usc_section: "3771"
 chapter: 237
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "18 U.S.C. § 3771"
-generated_at: "2026-03-29T20:55:11.088Z"
+generated_at: "2026-03-29T21:00:53.310Z"
 ---
 
 # § 3771. Crime victims’ rights

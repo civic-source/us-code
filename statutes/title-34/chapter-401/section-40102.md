@@ -3,9 +3,9 @@ title: "Section 40102 - Background checks"
 usc_title: 34
 usc_section: "40102"
 chapter: 401
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "34 U.S.C. § 40102"
-generated_at: "2026-03-29T20:56:14.438Z"
+generated_at: "2026-03-29T21:01:50.750Z"
 ---
 
 # § 40102. Background checks

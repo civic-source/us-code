@@ -3,9 +3,9 @@ title: "Section 926 - Authority to recover reassigned frequencies"
 usc_title: 47
 usc_section: "926"
 chapter: 8
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "47 U.S.C. § 926"
-generated_at: "2026-03-29T20:58:56.628Z"
+generated_at: "2026-03-29T21:03:06.643Z"
 ---
 
 # § 926. Authority to recover reassigned frequencies

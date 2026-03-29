@@ -3,9 +3,9 @@ title: "Section 42 - Importation or shipment of injurious mammals, birds, fish (
 usc_title: 18
 usc_section: "42"
 chapter: 3
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "18 U.S.C. § 42"
-generated_at: "2026-03-29T20:55:10.949Z"
+generated_at: "2026-03-29T21:00:53.170Z"
 ---
 
 # § 42. Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles; permits, specimens for museums; regulations

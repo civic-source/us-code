@@ -3,9 +3,9 @@ title: "Section 2207 - Full faith and credit to tribal actions under tribal ordi
 usc_title: 25
 usc_section: "2207"
 chapter: 24
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "25 U.S.C. § 2207"
-generated_at: "2026-03-29T20:55:26.876Z"
+generated_at: "2026-03-29T21:01:11.801Z"
 ---
 
 # § 2207. Full faith and credit to tribal actions under tribal ordinances limiting descent and distribution of trust or restricted or controlled lands

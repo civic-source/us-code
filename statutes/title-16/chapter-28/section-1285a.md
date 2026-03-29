@@ -3,9 +3,9 @@ title: "Section 1285a - Lease of Federal lands"
 usc_title: 16
 usc_section: "1285a"
 chapter: 28
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 1285a"
-generated_at: "2026-03-29T20:55:21.156Z"
+generated_at: "2026-03-29T21:01:01.809Z"
 ---
 
 # § 1285a. Lease of Federal lands

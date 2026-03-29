@@ -3,9 +3,9 @@ title: "Section 4173 - Department of Defense Test Resource Management Center"
 usc_title: 10
 usc_section: "4173"
 chapter: 309
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 4173"
-generated_at: "2026-03-29T20:54:44.988Z"
+generated_at: "2026-03-29T21:00:33.129Z"
 ---
 
 # § 4173. Department of Defense Test Resource Management Center

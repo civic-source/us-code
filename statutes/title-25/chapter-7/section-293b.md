@@ -3,9 +3,9 @@ title: "Section 293b - Conveyance of abandoned school properties in Alaska to lo
 usc_title: 25
 usc_section: "293b"
 chapter: 7
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "25 U.S.C. § 293b"
-generated_at: "2026-03-29T20:55:26.797Z"
+generated_at: "2026-03-29T21:01:11.729Z"
 ---
 
 # § 293b. Conveyance of abandoned school properties in Alaska to local town or city officials or school authorities; reservation of rights and claims by United States and use conditions; violations and forfeiture of grant; determinations; reversion to United States

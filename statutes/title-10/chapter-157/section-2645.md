@@ -3,9 +3,9 @@ title: "Section 2645 - Indemnification of Department of Transportation for losse
 usc_title: 10
 usc_section: "2645"
 chapter: 157
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 2645"
-generated_at: "2026-03-29T20:54:44.934Z"
+generated_at: "2026-03-29T21:00:33.073Z"
 ---
 
 # § 2645. Indemnification of Department of Transportation for losses covered by vessel war risk insurance

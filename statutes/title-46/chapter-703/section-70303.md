@@ -3,9 +3,9 @@ title: "Section 70303 - Security standards at foreign ports"
 usc_title: 46
 usc_section: "70303"
 chapter: 703
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "46 U.S.C. § 70303"
-generated_at: "2026-03-29T20:59:03.521Z"
+generated_at: "2026-03-29T21:02:59.950Z"
 ---
 
 # § 70303. Security standards at foreign ports

@@ -3,9 +3,9 @@ title: "Section 6733 - Effect on State laws restricting redomestication"
 usc_title: 15
 usc_section: "6733"
 chapter: 93
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "15 U.S.C. § 6733"
-generated_at: "2026-03-29T20:54:57.214Z"
+generated_at: "2026-03-29T21:00:47.765Z"
 ---
 
 # § 6733. Effect on State laws restricting redomestication

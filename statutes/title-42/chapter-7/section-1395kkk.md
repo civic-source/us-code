@@ -3,9 +3,9 @@ title: "Section 1395kkk - Repealed. Pub. L. 115–123, div. E, title XI, § 5200
 usc_title: 42
 usc_section: "1395kkk"
 chapter: 7
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "42 U.S.C. § 1395kkk"
-generated_at: "2026-03-29T20:58:27.518Z"
+generated_at: "2026-03-29T21:02:49.074Z"
 ---
 
 # § 1395kkk. Repealed. Pub. L. 115–123, div. E, title XI, § 52001(a) , Feb. 9, 2018 , 132 Stat. 298

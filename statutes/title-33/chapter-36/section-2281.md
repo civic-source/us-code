@@ -3,9 +3,9 @@ title: "Section 2281 - Matters to be addressed in planning"
 usc_title: 33
 usc_section: "2281"
 chapter: 36
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "33 U.S.C. § 2281"
-generated_at: "2026-03-29T20:56:16.654Z"
+generated_at: "2026-03-29T21:01:48.876Z"
 ---
 
 # § 2281. Matters to be addressed in planning

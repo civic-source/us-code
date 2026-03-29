@@ -3,9 +3,9 @@ title: "Section 2500 - Definitions"
 usc_title: 10
 usc_section: "2500"
 chapter: 148
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 2500"
-generated_at: "2026-03-29T20:54:44.922Z"
+generated_at: "2026-03-29T21:00:33.058Z"
 ---
 
 # § 2500. Definitions

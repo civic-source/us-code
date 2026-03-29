@@ -3,9 +3,9 @@ title: "Section 1159 - Misrepresentation of Indian produced goods and products"
 usc_title: 18
 usc_section: "1159"
 chapter: 53
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "18 U.S.C. § 1159"
-generated_at: "2026-03-29T20:55:10.997Z"
+generated_at: "2026-03-29T21:00:53.220Z"
 ---
 
 # § 1159. Misrepresentation of Indian produced goods and products

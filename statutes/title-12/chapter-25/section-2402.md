@@ -3,9 +3,9 @@ title: "Section 2402 - Membership of Commission"
 usc_title: 12
 usc_section: "2402"
 chapter: 25
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "12 U.S.C. § 2402"
-generated_at: "2026-03-29T20:55:01.713Z"
+generated_at: "2026-03-29T21:00:42.605Z"
 ---
 
 # § 2402. Membership of Commission

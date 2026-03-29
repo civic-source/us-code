@@ -3,9 +3,9 @@ title: "Section 849 - Transportation safety offenses"
 usc_title: 21
 usc_section: "849"
 chapter: 13
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "21 U.S.C. § 849"
-generated_at: "2026-03-29T20:55:29.036Z"
+generated_at: "2026-03-29T21:01:15.207Z"
 ---
 
 # § 849. Transportation safety offenses

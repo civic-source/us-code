@@ -3,9 +3,9 @@ title: "Section 6039C - Returns with respect to foreign persons holding direct i
 usc_title: 26
 usc_section: "6039C"
 chapter: 61
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "26 U.S.C. § 6039C"
-generated_at: "2026-03-29T20:56:07.446Z"
+generated_at: "2026-03-29T21:01:41.152Z"
 ---
 
 # § 6039C. Returns with respect to foreign persons holding direct investments in United States real property interests

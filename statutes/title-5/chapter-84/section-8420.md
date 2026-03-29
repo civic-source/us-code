@@ -3,9 +3,9 @@ title: "Section 8420 - Insurable interest reductions"
 usc_title: 5
 usc_section: "8420"
 chapter: 84
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "5 U.S.C. § 8420"
-generated_at: "2026-03-29T20:53:12.345Z"
+generated_at: "2026-03-29T20:59:50.829Z"
 ---
 
 # § 8420. Insurable interest reductions

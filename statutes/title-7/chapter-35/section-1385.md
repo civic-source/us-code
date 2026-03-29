@@ -3,9 +3,9 @@ title: "Section 1385 - Finality of payments and loans; substitution of beneficia
 usc_title: 7
 usc_section: "1385"
 chapter: 35
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "7 U.S.C. § 1385"
-generated_at: "2026-03-29T20:53:48.414Z"
+generated_at: "2026-03-29T21:00:11.546Z"
 ---
 
 # § 1385. Finality of payments and loans; substitution of beneficiaries

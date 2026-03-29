@@ -3,9 +3,9 @@ title: "Section 556 - Appropriations for Forest Service; use for transportation 
 usc_title: 16
 usc_section: "556"
 chapter: 3
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 556"
-generated_at: "2026-03-29T20:55:21.035Z"
+generated_at: "2026-03-29T21:01:01.696Z"
 ---
 
 # § 556. Appropriations for Forest Service; use for transportation or traveling expenses; preparation or publication of newspaper or magazine articles

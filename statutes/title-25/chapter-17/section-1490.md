@@ -3,9 +3,9 @@ title: "Section 1490 - Maturity of loans"
 usc_title: 25
 usc_section: "1490"
 chapter: 17
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "25 U.S.C. § 1490"
-generated_at: "2026-03-29T20:55:26.824Z"
+generated_at: "2026-03-29T21:01:11.757Z"
 ---
 
 # § 1490. Maturity of loans

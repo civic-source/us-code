@@ -3,9 +3,9 @@ title: "Section 3234 - Tutorial assistance"
 usc_title: 38
 usc_section: "3234"
 chapter: 32
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "38 U.S.C. § 3234"
-generated_at: "2026-03-29T20:56:47.083Z"
+generated_at: "2026-03-29T21:02:11.234Z"
 ---
 
 # § 3234. Tutorial assistance

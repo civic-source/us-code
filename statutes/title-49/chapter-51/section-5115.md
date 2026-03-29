@@ -3,9 +3,9 @@ title: "Section 5115 - Training curriculum for the public sector"
 usc_title: 49
 usc_section: "5115"
 chapter: 51
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "49 U.S.C. § 5115"
-generated_at: "2026-03-29T20:58:55.296Z"
+generated_at: "2026-03-29T21:03:19.013Z"
 ---
 
 # § 5115. Training curriculum for the public sector

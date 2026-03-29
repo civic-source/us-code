@@ -3,9 +3,9 @@ title: "Section 6751 - Procedural requirements"
 usc_title: 26
 usc_section: "6751"
 chapter: 68
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "26 U.S.C. § 6751"
-generated_at: "2026-03-29T20:56:07.515Z"
+generated_at: "2026-03-29T21:01:41.218Z"
 ---
 
 # § 6751. Procedural requirements

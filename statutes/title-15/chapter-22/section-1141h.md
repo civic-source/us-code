@@ -3,9 +3,9 @@ title: "Section 1141h - Examination of and opposition to request for extension o
 usc_title: 15
 usc_section: "1141h"
 chapter: 22
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "15 U.S.C. § 1141h"
-generated_at: "2026-03-29T20:54:57.029Z"
+generated_at: "2026-03-29T21:00:47.587Z"
 ---
 
 # § 1141h. Examination of and opposition to request for extension of protection; notification of refusal

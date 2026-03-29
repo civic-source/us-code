@@ -3,9 +3,9 @@ title: "Section 4980F - Failure of applicable plans reducing benefit accruals to
 usc_title: 26
 usc_section: "4980F"
 chapter: 43
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "26 U.S.C. § 4980F"
-generated_at: "2026-03-29T20:56:07.411Z"
+generated_at: "2026-03-29T21:01:41.119Z"
 ---
 
 # § 4980F. Failure of applicable plans reducing benefit accruals to satisfy notice requirements

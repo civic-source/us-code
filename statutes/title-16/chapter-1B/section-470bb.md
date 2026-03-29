@@ -3,9 +3,9 @@ title: "Section 470bb - Definitions"
 usc_title: 16
 usc_section: "470bb"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 470bb"
-generated_at: "2026-03-29T20:55:21.005Z"
+generated_at: "2026-03-29T21:01:01.664Z"
 ---
 
 # § 470bb. Definitions

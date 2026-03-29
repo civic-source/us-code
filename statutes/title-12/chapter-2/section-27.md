@@ -3,9 +3,9 @@ title: "Section 27 - Certificate of authority to commence banking"
 usc_title: 12
 usc_section: "27"
 chapter: 2
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "12 U.S.C. § 27"
-generated_at: "2026-03-29T20:55:01.455Z"
+generated_at: "2026-03-29T21:00:42.367Z"
 ---
 
 # § 27. Certificate of authority to commence banking

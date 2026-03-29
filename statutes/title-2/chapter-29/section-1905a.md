@@ -3,9 +3,9 @@ title: "Section 1905a - Reimbursement for salaries paid for service at Federal L
 usc_title: 2
 usc_section: "1905a"
 chapter: 29
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "2 U.S.C. § 1905a"
-generated_at: "2026-03-29T20:53:17.062Z"
+generated_at: "2026-03-29T20:59:41.772Z"
 ---
 
 # § 1905a. Reimbursement for salaries paid for service at Federal Law Enforcement Training Center

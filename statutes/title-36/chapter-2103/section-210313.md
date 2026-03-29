@@ -3,9 +3,9 @@ title: "Section 210313 - Annual report"
 usc_title: 36
 usc_section: "210313"
 chapter: 2103
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "36 U.S.C. § 210313"
-generated_at: "2026-03-29T20:56:51.039Z"
+generated_at: "2026-03-29T21:02:00.650Z"
 ---
 
 # § 210313. Annual report

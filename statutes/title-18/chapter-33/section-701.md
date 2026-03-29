@@ -3,9 +3,9 @@ title: "Section 701 - Official badges, identification cards, other insignia"
 usc_title: 18
 usc_section: "701"
 chapter: 33
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "18 U.S.C. § 701"
-generated_at: "2026-03-29T20:55:10.971Z"
+generated_at: "2026-03-29T21:00:53.192Z"
 ---
 
 # § 701. Official badges, identification cards, other insignia

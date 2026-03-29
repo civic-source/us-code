@@ -3,9 +3,9 @@ title: "Section 8118 - Authority for transfer of real property; Department of Ve
 usc_title: 38
 usc_section: "8118"
 chapter: 81
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "38 U.S.C. § 8118"
-generated_at: "2026-03-29T20:56:47.160Z"
+generated_at: "2026-03-29T21:02:11.317Z"
 ---
 
 # § 8118. Authority for transfer of real property; Department of Veterans Affairs Capital Asset Fund

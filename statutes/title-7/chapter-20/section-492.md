@@ -3,9 +3,9 @@ title: "Section 492 - Repealed. Aug. 9, 1955, ch. 632, § 2 , 69 Stat. 553"
 usc_title: 7
 usc_section: "492"
 chapter: 20
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "7 U.S.C. § 492"
-generated_at: "2026-03-29T20:53:48.363Z"
+generated_at: "2026-03-29T21:00:11.503Z"
 ---
 
 # § 492. Repealed. Aug. 9, 1955, ch. 632, § 2 , 69 Stat. 553

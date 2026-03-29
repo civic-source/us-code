@@ -3,9 +3,9 @@ title: "Section 9 - No buffer zones"
 usc_title: 16
 usc_section: "9"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-29T20:55:20.984Z"
+generated_at: "2026-03-29T21:01:01.641Z"
 ---
 
 # § 460ccc–9. No buffer zones

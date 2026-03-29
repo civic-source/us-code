@@ -3,9 +3,9 @@ title: "Section 2101 - Tax imposed"
 usc_title: 26
 usc_section: "2101"
 chapter: 11
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "26 U.S.C. § 2101"
-generated_at: "2026-03-29T20:56:07.341Z"
+generated_at: "2026-03-29T21:01:41.055Z"
 ---
 
 # § 2101. Tax imposed

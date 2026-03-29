@@ -3,9 +3,9 @@ title: "Section 9602 - Management of Trust Funds"
 usc_title: 26
 usc_section: "9602"
 chapter: 98
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "26 U.S.C. § 9602"
-generated_at: "2026-03-29T20:56:07.570Z"
+generated_at: "2026-03-29T21:01:41.270Z"
 ---
 
 # § 9602. Management of Trust Funds

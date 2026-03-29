@@ -3,9 +3,9 @@ title: "Section 32 - Followup monitoring and treatment of certified-eligible WTC
 usc_title: 42
 usc_section: "32"
 chapter: 6
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "42 U.S.C. § 32"
-generated_at: "2026-03-29T20:58:27.187Z"
+generated_at: "2026-03-29T21:02:48.775Z"
 ---
 
 # § 300mm–32. Followup monitoring and treatment of certified-eligible WTC survivors for WTC-related health conditions

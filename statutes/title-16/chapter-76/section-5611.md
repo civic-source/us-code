@@ -3,9 +3,9 @@ title: "Section 5611 - Repealed. Pub. L. 113–188, title II, § 201(f) , Nov. 2
 usc_title: 16
 usc_section: "5611"
 chapter: 76
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "16 U.S.C. § 5611"
-generated_at: "2026-03-29T20:55:21.307Z"
+generated_at: "2026-03-29T21:01:01.952Z"
 ---
 
 # § 5611. Repealed. Pub. L. 113–188, title II, § 201(f) , Nov. 26, 2014 , 128 Stat. 2018

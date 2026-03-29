@@ -3,9 +3,9 @@ title: "Section 4143 - Cooperative research and development agreements under Ste
 usc_title: 10
 usc_section: "4143"
 chapter: 307
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "10 U.S.C. § 4143"
-generated_at: "2026-03-29T20:54:44.986Z"
+generated_at: "2026-03-29T21:00:33.127Z"
 ---
 
 # § 4143. Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980

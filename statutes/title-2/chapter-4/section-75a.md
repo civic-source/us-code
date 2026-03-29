@@ -3,9 +3,9 @@ title: "Section 75a - Repealed. Pub. L. 109–289, div. B, title II, § 20702(b)
 usc_title: 2
 usc_section: "75a"
 chapter: 4
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "2 U.S.C. § 75a"
-generated_at: "2026-03-29T20:53:16.976Z"
+generated_at: "2026-03-29T20:59:41.684Z"
 ---
 
 # § 75a. Repealed. Pub. L. 109–289, div. B, title II, § 20702(b) , as added Pub. L. 110–5, § 2 , Feb. 15, 2007 , 121 Stat. 38

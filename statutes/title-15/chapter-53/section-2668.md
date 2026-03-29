@@ -3,9 +3,9 @@ title: "Section 2668 - Regional radon training centers"
 usc_title: 15
 usc_section: "2668"
 chapter: 53
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "15 U.S.C. § 2668"
-generated_at: "2026-03-29T20:54:57.137Z"
+generated_at: "2026-03-29T21:00:47.704Z"
 ---
 
 # § 2668. Regional radon training centers

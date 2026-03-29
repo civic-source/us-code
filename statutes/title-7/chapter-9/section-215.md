@@ -3,9 +3,9 @@ title: "Section 215 - Failure to obey orders; punishment"
 usc_title: 7
 usc_section: "215"
 chapter: 9
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "7 U.S.C. § 215"
-generated_at: "2026-03-29T20:53:48.351Z"
+generated_at: "2026-03-29T21:00:11.490Z"
 ---
 
 # § 215. Failure to obey orders; punishment

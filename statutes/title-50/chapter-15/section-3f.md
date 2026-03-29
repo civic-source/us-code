@@ -3,9 +3,9 @@ title: "Section 3f - Transferred"
 usc_title: 50
 usc_section: "3f"
 chapter: 15
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "50 U.S.C. § 3f"
-generated_at: "2026-03-29T20:59:05.956Z"
+generated_at: "2026-03-29T21:02:57.730Z"
 ---
 
 # § 403–3f. Transferred

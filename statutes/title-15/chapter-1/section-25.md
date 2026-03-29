@@ -3,9 +3,9 @@ title: "Section 25 - Restraining violations; procedure"
 usc_title: 15
 usc_section: "25"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "15 U.S.C. § 25"
-generated_at: "2026-03-29T20:54:56.776Z"
+generated_at: "2026-03-29T21:00:47.378Z"
 ---
 
 # § 25. Restraining violations; procedure

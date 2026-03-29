@@ -3,9 +3,9 @@ title: "Section 3110 - Penalties"
 usc_title: 12
 usc_section: "3110"
 chapter: 32
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "12 U.S.C. § 3110"
-generated_at: "2026-03-29T20:55:01.726Z"
+generated_at: "2026-03-29T21:00:42.618Z"
 ---
 
 # § 3110. Penalties

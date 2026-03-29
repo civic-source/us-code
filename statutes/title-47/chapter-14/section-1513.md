@@ -3,9 +3,9 @@ title: "Section 1513 - No additional funds authorized"
 usc_title: 47
 usc_section: "1513"
 chapter: 14
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "47 U.S.C. § 1513"
-generated_at: "2026-03-29T20:58:56.644Z"
+generated_at: "2026-03-29T21:03:06.658Z"
 ---
 
 # § 1513. No additional funds authorized

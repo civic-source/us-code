@@ -3,9 +3,9 @@ title: "Section 8 - Toll free rivers in Alabama"
 usc_title: 33
 usc_section: "8"
 chapter: 1
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "33 U.S.C. § 8"
-generated_at: "2026-03-29T20:56:16.516Z"
+generated_at: "2026-03-29T21:01:48.733Z"
 ---
 
 # § 8. Toll free rivers in Alabama

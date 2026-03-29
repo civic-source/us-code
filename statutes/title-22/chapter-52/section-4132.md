@@ -3,9 +3,9 @@ title: "Section 4132 - Grievances concerning former members or their survivors"
 usc_title: 22
 usc_section: "4132"
 chapter: 52
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "22 U.S.C. § 4132"
-generated_at: "2026-03-29T20:55:46.358Z"
+generated_at: "2026-03-29T21:01:20.972Z"
 ---
 
 # § 4132. Grievances concerning former members or their survivors

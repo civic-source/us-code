@@ -3,9 +3,9 @@ title: "Section 1425a - Legislative authority to create authorities; appointment
 usc_title: 48
 usc_section: "1425a"
 chapter: 8
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "48 U.S.C. § 1425a"
-generated_at: "2026-03-29T20:58:35.862Z"
+generated_at: "2026-03-29T21:02:54.398Z"
 ---
 
 # § 1425a. Legislative authority to create authorities; appointment of members; powers of authorities

@@ -3,9 +3,9 @@ title: "Section 17091 - Leasing"
 usc_title: 42
 usc_section: "17091"
 chapter: 152
-current_through: "PL 117-31"
+current_through: "PL 117-32"
 classification: "42 U.S.C. § 17091"
-generated_at: "2026-03-29T20:58:28.487Z"
+generated_at: "2026-03-29T21:02:49.871Z"
 ---
 
 # § 17091. Leasing
