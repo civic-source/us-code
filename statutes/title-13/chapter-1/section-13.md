@@ -3,9 +3,9 @@ title: "Section 13 - Procurement of professional services"
 usc_title: 13
 usc_section: "13"
 chapter: 1
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "13 U.S.C. § 13"
-generated_at: "2026-03-29T23:33:23.490Z"
+generated_at: "2026-03-29T23:38:01.771Z"
 ---
 
 # § 13. Procurement of professional services

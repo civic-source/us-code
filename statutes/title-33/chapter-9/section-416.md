@@ -3,9 +3,9 @@ title: "Section 416 - Appropriations for removal of sunken water craft"
 usc_title: 33
 usc_section: "416"
 chapter: 9
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "33 U.S.C. § 416"
-generated_at: "2026-03-29T23:34:54.494Z"
+generated_at: "2026-03-29T23:39:11.898Z"
 ---
 
 # § 416. Appropriations for removal of sunken water craft

@@ -3,9 +3,9 @@ title: "Section 513 - Enlistments: Delayed Entry Program"
 usc_title: 10
 usc_section: "513"
 chapter: 31
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "10 U.S.C. § 513"
-generated_at: "2026-03-29T23:33:10.172Z"
+generated_at: "2026-03-29T23:37:57.094Z"
 ---
 
 # § 513. Enlistments: Delayed Entry Program

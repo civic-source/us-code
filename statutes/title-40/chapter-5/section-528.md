@@ -3,9 +3,9 @@ title: "Section 528 - Utilization of excess furniture"
 usc_title: 40
 usc_section: "528"
 chapter: 5
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "40 U.S.C. § 528"
-generated_at: "2026-03-29T23:35:33.083Z"
+generated_at: "2026-03-29T23:39:15.079Z"
 ---
 
 # § 528. Utilization of excess furniture

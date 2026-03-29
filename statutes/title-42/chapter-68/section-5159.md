@@ -3,9 +3,9 @@ title: "Section 5159 - Protection of environment"
 usc_title: 42
 usc_section: "5159"
 chapter: 68
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 5159"
-generated_at: "2026-03-29T23:36:47.062Z"
+generated_at: "2026-03-29T23:39:46.611Z"
 ---
 
 # § 5159. Protection of environment

@@ -3,9 +3,9 @@ title: "Section 10721 - Government traffic"
 usc_title: 49
 usc_section: "10721"
 chapter: 107
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "49 U.S.C. § 10721"
-generated_at: "2026-03-29T23:37:02.611Z"
+generated_at: "2026-03-29T23:40:03.469Z"
 ---
 
 # § 10721. Government traffic

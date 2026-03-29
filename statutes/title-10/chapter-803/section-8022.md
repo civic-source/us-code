@@ -3,9 +3,9 @@ title: "Section 8022 - Office of Naval Research: duties"
 usc_title: 10
 usc_section: "8022"
 chapter: 803
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "10 U.S.C. § 8022"
-generated_at: "2026-03-29T23:33:10.283Z"
+generated_at: "2026-03-29T23:37:57.213Z"
 ---
 
 # § 8022. Office of Naval Research: duties

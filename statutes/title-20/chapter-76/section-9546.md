@@ -3,9 +3,9 @@ title: "Section 9546 - Dissemination"
 usc_title: 20
 usc_section: "9546"
 chapter: 76
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "20 U.S.C. § 9546"
-generated_at: "2026-03-29T23:33:44.345Z"
+generated_at: "2026-03-29T23:38:20.614Z"
 ---
 
 # § 9546. Dissemination

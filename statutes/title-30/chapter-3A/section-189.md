@@ -3,9 +3,9 @@ title: "Section 189 - Rules and regulations; boundary lines; State rights unaffe
 usc_title: 30
 usc_section: "189"
 chapter: 3
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "30 U.S.C. § 189"
-generated_at: "2026-03-29T23:34:15.152Z"
+generated_at: "2026-03-29T23:38:51.884Z"
 ---
 
 # § 189. Rules and regulations; boundary lines; State rights unaffected; taxation

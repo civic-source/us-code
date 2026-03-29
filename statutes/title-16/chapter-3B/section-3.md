@@ -3,9 +3,9 @@ title: "Section 3 - Critical lands resource conservation program in Great Plains
 usc_title: 16
 usc_section: "3"
 chapter: 3
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-29T23:33:56.371Z"
+generated_at: "2026-03-29T23:38:34.130Z"
 ---
 
 # § 590q–3. Critical lands resource conservation program in Great Plains area

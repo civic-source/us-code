@@ -3,9 +3,9 @@ title: "Section 130 - Wisconsin"
 usc_title: 28
 usc_section: "130"
 chapter: 5
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "28 U.S.C. § 130"
-generated_at: "2026-03-29T23:34:15.839Z"
+generated_at: "2026-03-29T23:38:59.949Z"
 ---
 
 # § 130. Wisconsin

@@ -3,9 +3,9 @@ title: "Section 4636 - Civil money penalties"
 usc_title: 12
 usc_section: "4636"
 chapter: 46
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "12 U.S.C. § 4636"
-generated_at: "2026-03-29T23:33:38.356Z"
+generated_at: "2026-03-29T23:38:12.647Z"
 ---
 
 # § 4636. Civil money penalties

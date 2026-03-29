@@ -3,9 +3,9 @@ title: "Section 697b - Pooling of debentures"
 usc_title: 15
 usc_section: "697b"
 chapter: 14
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "15 U.S.C. § 697b"
-generated_at: "2026-03-29T23:33:26.059Z"
+generated_at: "2026-03-29T23:38:06.953Z"
 ---
 
 # § 697b. Pooling of debentures

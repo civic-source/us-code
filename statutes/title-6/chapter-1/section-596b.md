@@ -3,9 +3,9 @@ title: "Section 596b - Securing the Cities program"
 usc_title: 6
 usc_section: "596b"
 chapter: 1
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "6 U.S.C. § 596b"
-generated_at: "2026-03-29T23:33:05.781Z"
+generated_at: "2026-03-29T23:37:51.664Z"
 ---
 
 # § 596b. Securing the Cities program

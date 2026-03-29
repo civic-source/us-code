@@ -3,9 +3,9 @@ title: "Section 9415 - National AI Research Resource Task Force"
 usc_title: 15
 usc_section: "9415"
 chapter: 119
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "15 U.S.C. § 9415"
-generated_at: "2026-03-29T23:33:26.176Z"
+generated_at: "2026-03-29T23:38:07.084Z"
 ---
 
 # § 9415. National AI Research Resource Task Force

@@ -3,9 +3,9 @@ title: "Section 315 - Relation to other proceedings or actions"
 usc_title: 35
 usc_section: "315"
 chapter: 31
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "35 U.S.C. § 315"
-generated_at: "2026-03-29T23:34:47.013Z"
+generated_at: "2026-03-29T23:39:09.270Z"
 ---
 
 # § 315. Relation to other proceedings or actions

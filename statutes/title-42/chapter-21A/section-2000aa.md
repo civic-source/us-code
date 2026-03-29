@@ -3,9 +3,9 @@ title: "Section 2000aa - Searches and seizures by government officers and employ
 usc_title: 42
 usc_section: "2000aa"
 chapter: 21
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 2000aa"
-generated_at: "2026-03-29T23:36:46.988Z"
+generated_at: "2026-03-29T23:39:46.541Z"
 ---
 
 # § 2000aa. Searches and seizures by government officers and employees in connection with investigation or prosecution of criminal offenses

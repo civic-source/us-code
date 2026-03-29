@@ -3,9 +3,9 @@ title: "Section 8517 - Observing System Simulation Experiments"
 usc_title: 15
 usc_section: "8517"
 chapter: 111
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "15 U.S.C. § 8517"
-generated_at: "2026-03-29T23:33:26.162Z"
+generated_at: "2026-03-29T23:38:07.067Z"
 ---
 
 # § 8517. Observing System Simulation Experiments

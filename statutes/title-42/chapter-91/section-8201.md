@@ -3,9 +3,9 @@ title: "Section 8201 - Findings and statement of purposes"
 usc_title: 42
 usc_section: "8201"
 chapter: 91
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 8201"
-generated_at: "2026-03-29T23:36:47.159Z"
+generated_at: "2026-03-29T23:39:46.709Z"
 ---
 
 # § 8201. Findings and statement of purposes

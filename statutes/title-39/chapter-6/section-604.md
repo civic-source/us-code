@@ -3,9 +3,9 @@ title: "Section 604 - Seizing and detaining letters"
 usc_title: 39
 usc_section: "604"
 chapter: 6
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "39 U.S.C. § 604"
-generated_at: "2026-03-29T23:35:27.575Z"
+generated_at: "2026-03-29T23:39:13.667Z"
 ---
 
 # § 604. Seizing and detaining letters

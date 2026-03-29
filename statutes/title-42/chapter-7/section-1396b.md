@@ -3,9 +3,9 @@ title: "Section 1396b - Payment to States"
 usc_title: 42
 usc_section: "1396b"
 chapter: 7
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 1396b"
-generated_at: "2026-03-29T23:36:46.903Z"
+generated_at: "2026-03-29T23:39:46.450Z"
 ---
 
 # § 1396b. Payment to States
@@ -634,7 +634,7 @@ generated_at: "2026-03-29T23:36:46.903Z"
     - **(B)** Activities that, taking into account the results of the assessment described in subparagraph (A), support the recruitment, training, and provision of technical assistance for providers participating under the State plan (or a waiver of such plan) that offer substance use disorder treatment or recovery services.
     - **(C)** Improved reimbursement for and expansion of, through the provision of education, training, and technical assistance, the number or treatment capacity of providers participating under the State plan (or waiver) that—
       - **(i)** are authorized to dispense drugs approved by the Food and Drug Administration for individuals with a substance use disorder who need withdrawal management or maintenance treatment for such disorder;
-      - **(ii)** have in effect a registration or waiver under section 823(g) of title 21 for purposes of dispensing narcotic drugs to individuals for maintenance treatment or detoxification treatment and are in compliance with any regulation promulgated by the Assistant Secretary for Mental Health and Substance Use for purposes of carrying out the requirements of such section 823(g); and
+      - **(ii)** have in effect a registration or waiver under section 823(h) of title 21 for purposes of dispensing narcotic drugs to individuals for maintenance treatment or detoxification treatment and are in compliance with any regulation promulgated by the Assistant Secretary for Mental Health and Substance Use for purposes of carrying out the requirements of such section 823(h); and
       - **(iii)** are qualified under applicable State law to provide substance use disorder treatment or recovery services.
     - **(D)** Improved reimbursement for and expansion of, through the provision of education, training, and technical assistance, the number or treatment capacity of providers participating under the State plan (or waiver) that have the qualifications to address the treatment or recovery needs of—
       - **(i)** individuals enrolled under the State plan (or a waiver of such plan) who have neonatal abstinence syndrome, in accordance with guidelines issued by the American Academy of Pediatrics and American College of Obstetricians and Gynecologists relating to maternal care and infant care with respect to neonatal abstinence syndrome;

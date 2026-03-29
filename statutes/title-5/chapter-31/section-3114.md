@@ -3,9 +3,9 @@ title: "Section 3114 - Appointment of candidates to certain positions in the com
 usc_title: 5
 usc_section: "3114"
 chapter: 31
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "5 U.S.C. § 3114"
-generated_at: "2026-03-29T23:32:32.887Z"
+generated_at: "2026-03-29T23:37:44.409Z"
 ---
 
 # § 3114. Appointment of candidates to certain positions in the competitive service by the Securities and Exchange Commission

@@ -3,9 +3,9 @@ title: "Section 9803 - Guaranteed renewability in multi­employer plans and cert
 usc_title: 26
 usc_section: "9803"
 chapter: 100
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "26 U.S.C. § 9803"
-generated_at: "2026-03-29T23:34:43.252Z"
+generated_at: "2026-03-29T23:39:07.409Z"
 ---
 
 # § 9803. Guaranteed renewability in multi­employer plans and certain multiple employer welfare arrangements

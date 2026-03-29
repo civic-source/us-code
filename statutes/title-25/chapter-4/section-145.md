@@ -3,9 +3,9 @@ title: "Section 145 - Accounts between United States and tribes under reimbursab
 usc_title: 25
 usc_section: "145"
 chapter: 4
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "25 U.S.C. § 145"
-generated_at: "2026-03-29T23:34:09.967Z"
+generated_at: "2026-03-29T23:38:49.359Z"
 ---
 
 # § 145. Accounts between United States and tribes under reimbursable appropriations

@@ -3,9 +3,9 @@ title: "Section 6344 - Additional incentives for recovery, use, and prevention o
 usc_title: 42
 usc_section: "6344"
 chapter: 77
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 6344"
-generated_at: "2026-03-29T23:36:47.091Z"
+generated_at: "2026-03-29T23:39:46.640Z"
 ---
 
 # § 6344. Additional incentives for recovery, use, and prevention of industrial waste energy

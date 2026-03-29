@@ -3,9 +3,9 @@ title: "Section 322 - Exchanging radio communications between land and ship stat
 usc_title: 47
 usc_section: "322"
 chapter: 5
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "47 U.S.C. § 322"
-generated_at: "2026-03-29T23:36:55.144Z"
+generated_at: "2026-03-29T23:39:50.207Z"
 ---
 
 # § 322. Exchanging radio communications between land and ship stations and from ship to ship

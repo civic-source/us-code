@@ -3,9 +3,9 @@ title: "Section 4745 - Terms of participation agreements"
 usc_title: 12
 usc_section: "4745"
 chapter: 47
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "12 U.S.C. § 4745"
-generated_at: "2026-03-29T23:33:38.359Z"
+generated_at: "2026-03-29T23:38:12.651Z"
 ---
 
 # § 4745. Terms of participation agreements

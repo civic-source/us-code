@@ -3,9 +3,9 @@ title: "Section 6038A - Information with respect to certain foreign-owned corpor
 usc_title: 26
 usc_section: "6038A"
 chapter: 61
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "26 U.S.C. § 6038A"
-generated_at: "2026-03-29T23:34:43.197Z"
+generated_at: "2026-03-29T23:39:07.356Z"
 ---
 
 # § 6038A. Information with respect to certain foreign-owned corporations

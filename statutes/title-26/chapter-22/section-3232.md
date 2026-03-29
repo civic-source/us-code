@@ -3,9 +3,9 @@ title: "Section 3232 - Court jurisdiction"
 usc_title: 26
 usc_section: "3232"
 chapter: 22
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "26 U.S.C. § 3232"
-generated_at: "2026-03-29T23:34:43.162Z"
+generated_at: "2026-03-29T23:39:07.324Z"
 ---
 
 # § 3232. Court jurisdiction

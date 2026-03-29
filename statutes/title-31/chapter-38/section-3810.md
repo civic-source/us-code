@@ -3,9 +3,9 @@ title: "Section 3810 - Repealed. Pub. L. 104–66, title III, § 3001(c)(1) , De
 usc_title: 31
 usc_section: "3810"
 chapter: 38
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "31 U.S.C. § 3810"
-generated_at: "2026-03-29T23:34:46.835Z"
+generated_at: "2026-03-29T23:39:10.957Z"
 ---
 
 # [§ 3810. Repealed. Pub. L. 104–66, title III, § 3001(c)(1) , Dec. 21, 1995 , 109 Stat. 734 ]

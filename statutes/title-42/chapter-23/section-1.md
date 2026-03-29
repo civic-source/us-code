@@ -3,9 +3,9 @@ title: "Section 1 - Sale of Corporation"
 usc_title: 42
 usc_section: "1"
 chapter: 23
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T23:36:47.007Z"
+generated_at: "2026-03-29T23:39:46.559Z"
 ---
 
 # § 2297h–1. Sale of Corporation

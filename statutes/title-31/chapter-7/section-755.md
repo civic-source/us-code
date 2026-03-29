@@ -3,9 +3,9 @@ title: "Section 755 - Judicial review"
 usc_title: 31
 usc_section: "755"
 chapter: 7
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "31 U.S.C. § 755"
-generated_at: "2026-03-29T23:34:46.819Z"
+generated_at: "2026-03-29T23:39:10.943Z"
 ---
 
 # § 755. Judicial review

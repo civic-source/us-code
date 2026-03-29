@@ -3,9 +3,9 @@ title: "Section 92 - Repealed. Aug. 27, 1935, ch. 740 , title I, § 1, 49 Stat. 
 usc_title: 27
 usc_section: "92"
 chapter: 4
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "27 U.S.C. § 92"
-generated_at: "2026-03-29T23:34:13.761Z"
+generated_at: "2026-03-29T23:38:53.273Z"
 ---
 
 # §§ 91, 92. Repealed. Aug. 27, 1935, ch. 740 , title I, § 1, 49 Stat. 872

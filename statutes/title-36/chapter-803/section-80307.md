@@ -3,9 +3,9 @@ title: "Section 80307 - Annual report"
 usc_title: 36
 usc_section: "80307"
 chapter: 803
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "36 U.S.C. § 80307"
-generated_at: "2026-03-29T23:35:23.316Z"
+generated_at: "2026-03-29T23:39:14.671Z"
 ---
 
 # § 80307. Annual report

@@ -3,9 +3,9 @@ title: "Section 12404 - Disbursement"
 usc_title: 34
 usc_section: "12404"
 chapter: 121
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "34 U.S.C. § 12404"
-generated_at: "2026-03-29T23:35:09.753Z"
+generated_at: "2026-03-29T23:39:10.295Z"
 ---
 
 # § 12404. Disbursement

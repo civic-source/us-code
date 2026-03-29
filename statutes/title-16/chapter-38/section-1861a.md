@@ -3,9 +3,9 @@ title: "Section 1861a - Transition to sustainable fisheries"
 usc_title: 16
 usc_section: "1861a"
 chapter: 38
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "16 U.S.C. § 1861a"
-generated_at: "2026-03-29T23:33:56.445Z"
+generated_at: "2026-03-29T23:38:34.207Z"
 ---
 
 # § 1861a. Transition to sustainable fisheries

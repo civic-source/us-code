@@ -3,9 +3,9 @@ title: "Section 7 - “Person” or “persons” defined"
 usc_title: 15
 usc_section: "7"
 chapter: 1
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "15 U.S.C. § 7"
-generated_at: "2026-03-29T23:33:25.975Z"
+generated_at: "2026-03-29T23:38:06.864Z"
 ---
 
 # § 7. “Person” or “persons” defined

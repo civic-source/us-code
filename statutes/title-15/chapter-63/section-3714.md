@@ -3,9 +3,9 @@ title: "Section 3714 - Spending authority"
 usc_title: 15
 usc_section: "3714"
 chapter: 63
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "15 U.S.C. § 3714"
-generated_at: "2026-03-29T23:33:26.129Z"
+generated_at: "2026-03-29T23:38:07.031Z"
 ---
 
 # § 3714. Spending authority

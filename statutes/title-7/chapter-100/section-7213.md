@@ -3,9 +3,9 @@ title: "Section 7213 - Amounts available for contract payments"
 usc_title: 7
 usc_section: "7213"
 chapter: 100
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "7 U.S.C. § 7213"
-generated_at: "2026-03-29T23:33:02.538Z"
+generated_at: "2026-03-29T23:37:50.921Z"
 ---
 
 # § 7213. Amounts available for contract payments

@@ -3,9 +3,9 @@ title: "Section 286rr - Approval to sell a limited amount of the Fund’s gold"
 usc_title: 22
 usc_section: "286rr"
 chapter: 7
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "22 U.S.C. § 286rr"
-generated_at: "2026-03-29T23:34:02.693Z"
+generated_at: "2026-03-29T23:38:40.975Z"
 ---
 
 # § 286rr. Approval to sell a limited amount of the Fund’s gold

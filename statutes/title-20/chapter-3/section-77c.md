@@ -3,9 +3,9 @@ title: "Section 77c - Museum board"
 usc_title: 20
 usc_section: "77c"
 chapter: 3
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "20 U.S.C. § 77c"
-generated_at: "2026-03-29T23:33:44.214Z"
+generated_at: "2026-03-29T23:38:20.476Z"
 ---
 
 # § 77c. Museum board

@@ -3,9 +3,9 @@ title: "Section 682 - Game refuge in Ozark National Forest"
 usc_title: 16
 usc_section: "682"
 chapter: 6
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "16 U.S.C. § 682"
-generated_at: "2026-03-29T23:33:56.379Z"
+generated_at: "2026-03-29T23:38:34.138Z"
 ---
 
 # § 682. Game refuge in Ozark National Forest

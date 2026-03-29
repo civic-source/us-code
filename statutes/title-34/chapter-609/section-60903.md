@@ -3,9 +3,9 @@ title: "Section 60903 - Full reinvestigation"
 usc_title: 34
 usc_section: "60903"
 chapter: 609
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "34 U.S.C. § 60903"
-generated_at: "2026-03-29T23:35:09.783Z"
+generated_at: "2026-03-29T23:39:10.324Z"
 ---
 
 # § 60903. Full reinvestigation

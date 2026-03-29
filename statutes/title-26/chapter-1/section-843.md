@@ -3,9 +3,9 @@ title: "Section 843 - Annual accounting period"
 usc_title: 26
 usc_section: "843"
 chapter: 1
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "26 U.S.C. § 843"
-generated_at: "2026-03-29T23:34:43.105Z"
+generated_at: "2026-03-29T23:39:07.275Z"
 ---
 
 # § 843. Annual accounting period

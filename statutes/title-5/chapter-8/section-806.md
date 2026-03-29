@@ -3,9 +3,9 @@ title: "Section 806 - Applicability; severability"
 usc_title: 5
 usc_section: "806"
 chapter: 8
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "5 U.S.C. § 806"
-generated_at: "2026-03-29T23:32:32.883Z"
+generated_at: "2026-03-29T23:37:44.404Z"
 ---
 
 # § 806. Applicability; severability

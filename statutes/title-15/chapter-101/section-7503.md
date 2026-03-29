@@ -3,9 +3,9 @@ title: "Section 7503 - Advisory Panel"
 usc_title: 15
 usc_section: "7503"
 chapter: 101
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "15 U.S.C. § 7503"
-generated_at: "2026-03-29T23:33:26.156Z"
+generated_at: "2026-03-29T23:38:07.062Z"
 ---
 
 # § 7503. Advisory Panel

@@ -3,9 +3,9 @@ title: "Section 4013 - Petitions"
 usc_title: 16
 usc_section: "4013"
 chapter: 60
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "16 U.S.C. § 4013"
-generated_at: "2026-03-29T23:33:56.475Z"
+generated_at: "2026-03-29T23:38:34.239Z"
 ---
 
 # § 4013. Petitions

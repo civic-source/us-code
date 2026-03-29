@@ -3,9 +3,9 @@ title: "Section 19g - Midsize and Large Drinking Water System Infrastructure Res
 usc_title: 42
 usc_section: "19g"
 chapter: 6
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 19g"
-generated_at: "2026-03-29T23:36:46.712Z"
+generated_at: "2026-03-29T23:39:46.257Z"
 ---
 
 # § 300j–19g. Midsize and Large Drinking Water System Infrastructure Resilience and Sustainability Program

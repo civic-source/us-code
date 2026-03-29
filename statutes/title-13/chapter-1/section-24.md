@@ -3,9 +3,9 @@ title: "Section 24 - Special employment provisions"
 usc_title: 13
 usc_section: "24"
 chapter: 1
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "13 U.S.C. § 24"
-generated_at: "2026-03-29T23:33:23.490Z"
+generated_at: "2026-03-29T23:38:01.772Z"
 ---
 
 # § 24. Special employment provisions

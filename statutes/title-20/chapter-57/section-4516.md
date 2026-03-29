@@ -3,9 +3,9 @@ title: "Section 4516 - Constitutional Law Resource Centers"
 usc_title: 20
 usc_section: "4516"
 chapter: 57
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "20 U.S.C. § 4516"
-generated_at: "2026-03-29T23:33:44.307Z"
+generated_at: "2026-03-29T23:38:20.575Z"
 ---
 
 # § 4516. Constitutional Law Resource Centers

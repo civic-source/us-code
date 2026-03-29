@@ -3,9 +3,9 @@ title: "Section 1137 - Public transportation security training program"
 usc_title: 6
 usc_section: "1137"
 chapter: 4
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "6 U.S.C. § 1137"
-generated_at: "2026-03-29T23:33:05.795Z"
+generated_at: "2026-03-29T23:37:51.679Z"
 ---
 
 # § 1137. Public transportation security training program

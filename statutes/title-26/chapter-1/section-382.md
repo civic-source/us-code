@@ -3,9 +3,9 @@ title: "Section 382 - Limitation on net operating loss carryforwards and certain
 usc_title: 26
 usc_section: "382"
 chapter: 1
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "26 U.S.C. § 382"
-generated_at: "2026-03-29T23:34:43.055Z"
+generated_at: "2026-03-29T23:39:07.228Z"
 ---
 
 # § 382. Limitation on net operating loss carryforwards and certain built-in losses following ownership change

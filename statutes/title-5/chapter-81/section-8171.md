@@ -3,9 +3,9 @@ title: "Section 8171 - Compensation for work injuries; generally"
 usc_title: 5
 usc_section: "8171"
 chapter: 81
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "5 U.S.C. § 8171"
-generated_at: "2026-03-29T23:32:32.921Z"
+generated_at: "2026-03-29T23:37:44.437Z"
 ---
 
 # § 8171. Compensation for work injuries; generally

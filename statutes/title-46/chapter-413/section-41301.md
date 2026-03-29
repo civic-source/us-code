@@ -3,9 +3,9 @@ title: "Section 41301 - Complaints"
 usc_title: 46
 usc_section: "41301"
 chapter: 413
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "46 U.S.C. § 41301"
-generated_at: "2026-03-29T23:36:51.000Z"
+generated_at: "2026-03-29T23:40:04.306Z"
 ---
 
 # § 41301. Complaints

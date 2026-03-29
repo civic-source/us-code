@@ -3,9 +3,9 @@ title: "Section 350c - Maintenance and inspection of records"
 usc_title: 21
 usc_section: "350c"
 chapter: 9
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "21 U.S.C. § 350c"
-generated_at: "2026-03-29T23:34:03.982Z"
+generated_at: "2026-03-29T23:38:42.873Z"
 ---
 
 # § 350c. Maintenance and inspection of records

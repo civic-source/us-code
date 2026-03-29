@@ -3,9 +3,9 @@ title: "Section 4701 - Determinations and decisions"
 usc_title: 41
 usc_section: "4701"
 chapter: 47
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "41 U.S.C. § 4701"
-generated_at: "2026-03-29T23:36:00.366Z"
+generated_at: "2026-03-29T23:39:18.686Z"
 ---
 
 # § 4701. Determinations and decisions

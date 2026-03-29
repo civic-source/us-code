@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-29T23:33:26.037Z"
+generated_at: "2026-03-29T23:38:06.927Z"
 ---
 
 # § 636. Additional powers

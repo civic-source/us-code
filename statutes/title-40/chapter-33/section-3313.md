@@ -3,9 +3,9 @@ title: "Section 3313 - Procurement of life-cycle cost effective and energy effic
 usc_title: 40
 usc_section: "3313"
 chapter: 33
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "40 U.S.C. § 3313"
-generated_at: "2026-03-29T23:35:33.089Z"
+generated_at: "2026-03-29T23:39:15.085Z"
 ---
 
 # § 3313. Procurement of life-cycle cost effective and energy efficient lighting systems

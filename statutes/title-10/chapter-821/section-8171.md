@@ -3,9 +3,9 @@ title: "Section 8171 - Continuation of authority after loss of vessel or aircraf
 usc_title: 10
 usc_section: "8171"
 chapter: 821
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "10 U.S.C. § 8171"
-generated_at: "2026-03-29T23:33:10.286Z"
+generated_at: "2026-03-29T23:37:57.214Z"
 ---
 
 # § 8171. Continuation of authority after loss of vessel or aircraft

@@ -3,9 +3,9 @@ title: "Section 2413 - Consultation upon initiation of investigation"
 usc_title: 19
 usc_section: "2413"
 chapter: 12
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "19 U.S.C. § 2413"
-generated_at: "2026-03-29T23:33:47.294Z"
+generated_at: "2026-03-29T23:38:18.075Z"
 ---
 
 # § 2413. Consultation upon initiation of investigation

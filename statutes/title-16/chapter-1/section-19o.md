@@ -3,9 +3,9 @@ title: "Section 19o - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "19o"
 chapter: 1
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "16 U.S.C. § 19o"
-generated_at: "2026-03-29T23:33:56.265Z"
+generated_at: "2026-03-29T23:38:34.019Z"
 ---
 
 # § 19o. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

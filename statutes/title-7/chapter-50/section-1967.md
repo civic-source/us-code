@@ -3,9 +3,9 @@ title: "Section 1967 - Addition to Emergency Credit Revolving Fund of sums from 
 usc_title: 7
 usc_section: "1967"
 chapter: 50
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "7 U.S.C. § 1967"
-generated_at: "2026-03-29T23:33:02.468Z"
+generated_at: "2026-03-29T23:37:50.849Z"
 ---
 
 # § 1967. Addition to Emergency Credit Revolving Fund of sums from liquidation of loans; authorization of appropriations

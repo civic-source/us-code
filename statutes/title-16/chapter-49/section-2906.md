@@ -3,9 +3,9 @@ title: "Section 2906 - Terms and conditions of reimbursement"
 usc_title: 16
 usc_section: "2906"
 chapter: 49
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "16 U.S.C. § 2906"
-generated_at: "2026-03-29T23:33:56.455Z"
+generated_at: "2026-03-29T23:38:34.218Z"
 ---
 
 # § 2906. Terms and conditions of reimbursement

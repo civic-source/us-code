@@ -3,9 +3,9 @@ title: "Section 5947 - Quarters, subsistence, and allowances for employees of th
 usc_title: 5
 usc_section: "5947"
 chapter: 59
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "5 U.S.C. § 5947"
-generated_at: "2026-03-29T23:32:32.910Z"
+generated_at: "2026-03-29T23:37:44.427Z"
 ---
 
 # § 5947. Quarters, subsistence, and allowances for employees of the Corps of Engineers, Department of the Army, engaged in floating plant operations

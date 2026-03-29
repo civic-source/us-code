@@ -3,9 +3,9 @@ title: "Section 6844 - Coordination with related programs"
 usc_title: 20
 usc_section: "6844"
 chapter: 70
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "20 U.S.C. § 6844"
-generated_at: "2026-03-29T23:33:44.324Z"
+generated_at: "2026-03-29T23:38:20.593Z"
 ---
 
 # § 6844. Coordination with related programs

@@ -3,9 +3,9 @@ title: "Section 3735 - Limitation on availability of funds for Cooperative Threa
 usc_title: 50
 usc_section: "3735"
 chapter: 48
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "50 U.S.C. § 3735"
-generated_at: "2026-03-29T23:37:11.341Z"
+generated_at: "2026-03-29T23:40:24.348Z"
 ---
 
 # § 3735. Limitation on availability of funds for Cooperative Threat Reduction activities in People’s Republic of China

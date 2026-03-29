@@ -3,9 +3,9 @@ title: "Section 4123 - Mechanisms to provide funds for defense laboratories for 
 usc_title: 10
 usc_section: "4123"
 chapter: 303
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "10 U.S.C. § 4123"
-generated_at: "2026-03-29T23:33:10.267Z"
+generated_at: "2026-03-29T23:37:57.197Z"
 ---
 
 # § 4123. Mechanisms to provide funds for defense laboratories for research and development of technologies for military missions

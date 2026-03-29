@@ -3,9 +3,9 @@ title: "Section 353 - Acquisition professional career program"
 usc_title: 6
 usc_section: "353"
 chapter: 1
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "6 U.S.C. § 353"
-generated_at: "2026-03-29T23:33:05.774Z"
+generated_at: "2026-03-29T23:37:51.657Z"
 ---
 
 # § 353. Acquisition professional career program

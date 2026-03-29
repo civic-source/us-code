@@ -3,9 +3,9 @@ title: "Section 47525 - Decision about airport noise and access restrictions on 
 usc_title: 49
 usc_section: "47525"
 chapter: 475
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "49 U.S.C. § 47525"
-generated_at: "2026-03-29T23:37:02.685Z"
+generated_at: "2026-03-29T23:40:03.536Z"
 ---
 
 # § 47525. Decision about airport noise and access restrictions on certain stage 2 aircraft

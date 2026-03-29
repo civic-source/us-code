@@ -3,9 +3,9 @@ title: "Section 1985 - Decisions by the Secretary"
 usc_title: 38
 usc_section: "1985"
 chapter: 19
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "38 U.S.C. § 1985"
-generated_at: "2026-03-29T23:35:50.306Z"
+generated_at: "2026-03-29T23:39:16.419Z"
 ---
 
 # § 1985. Decisions by the Secretary

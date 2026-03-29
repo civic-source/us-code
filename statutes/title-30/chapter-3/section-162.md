@@ -3,9 +3,9 @@ title: "Section 162 - Entry of saline lands; limitation"
 usc_title: 30
 usc_section: "162"
 chapter: 3
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "30 U.S.C. § 162"
-generated_at: "2026-03-29T23:34:15.151Z"
+generated_at: "2026-03-29T23:38:51.882Z"
 ---
 
 # § 162. Entry of saline lands; limitation

@@ -3,9 +3,9 @@ title: "Section 27 - Change of place of meeting"
 usc_title: 2
 usc_section: "27"
 chapter: 2
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "2 U.S.C. § 27"
-generated_at: "2026-03-29T23:32:53.269Z"
+generated_at: "2026-03-29T23:37:39.871Z"
 ---
 
 # § 27. Change of place of meeting

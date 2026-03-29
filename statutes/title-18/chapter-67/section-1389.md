@@ -3,9 +3,9 @@ title: "Section 1389 - Prohibition on attacks on United States servicemen on acc
 usc_title: 18
 usc_section: "1389"
 chapter: 67
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "18 U.S.C. § 1389"
-generated_at: "2026-03-29T23:33:42.095Z"
+generated_at: "2026-03-29T23:38:23.678Z"
 ---
 
 # § 1389. Prohibition on attacks on United States servicemen on account of service

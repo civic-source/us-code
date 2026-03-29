@@ -3,9 +3,9 @@ title: "Section 3781 - Technical data: contractor justification for restrictions
 usc_title: 10
 usc_section: "3781"
 chapter: 275
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "10 U.S.C. § 3781"
-generated_at: "2026-03-29T23:33:10.264Z"
+generated_at: "2026-03-29T23:37:57.193Z"
 ---
 
 # § 3781. Technical data: contractor justification for restrictions; review of restrictions

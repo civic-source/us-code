@@ -3,9 +3,9 @@ title: "Section 41106 - Reviews of criminal records of applicants for private se
 usc_title: 34
 usc_section: "41106"
 chapter: 411
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "34 U.S.C. § 41106"
-generated_at: "2026-03-29T23:35:09.779Z"
+generated_at: "2026-03-29T23:39:10.320Z"
 ---
 
 # § 41106. Reviews of criminal records of applicants for private security officer employment

@@ -3,9 +3,9 @@ title: "Section 2 - Grassroots source water protection program"
 usc_title: 16
 usc_section: "2"
 chapter: 58
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-29T23:33:56.470Z"
+generated_at: "2026-03-29T23:38:34.233Z"
 ---
 
 # § 3839bb–2. Grassroots source water protection program

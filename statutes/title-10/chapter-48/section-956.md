@@ -3,9 +3,9 @@ title: "Section 956 - Deserters, prisoners, members absent without leave: expens
 usc_title: 10
 usc_section: "956"
 chapter: 48
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "10 U.S.C. § 956"
-generated_at: "2026-03-29T23:33:10.190Z"
+generated_at: "2026-03-29T23:37:57.114Z"
 ---
 
 # § 956. Deserters, prisoners, members absent without leave: expenses and rewards

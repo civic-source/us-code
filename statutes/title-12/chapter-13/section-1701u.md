@@ -3,9 +3,9 @@ title: "Section 1701u - Economic opportunities for low- and very low-income pers
 usc_title: 12
 usc_section: "1701u"
 chapter: 13
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "12 U.S.C. § 1701u"
-generated_at: "2026-03-29T23:33:38.261Z"
+generated_at: "2026-03-29T23:38:12.544Z"
 ---
 
 # § 1701u. Economic opportunities for low- and very low-income persons

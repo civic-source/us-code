@@ -3,9 +3,9 @@ title: "Section 514 - Goals and purposes"
 usc_title: 23
 usc_section: "514"
 chapter: 5
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "23 U.S.C. § 514"
-generated_at: "2026-03-29T23:34:10.706Z"
+generated_at: "2026-03-29T23:38:41.625Z"
 ---
 
 # § 514. Goals and purposes

@@ -3,9 +3,9 @@ title: "Section 750 - Distribution of securities"
 usc_title: 11
 usc_section: "750"
 chapter: 7
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "11 U.S.C. § 750"
-generated_at: "2026-03-29T23:33:21.460Z"
+generated_at: "2026-03-29T23:38:01.411Z"
 ---
 
 # § 750. Distribution of securities

@@ -3,9 +3,9 @@ title: "Section 56 - Job location and development programs"
 usc_title: 20
 usc_section: "56"
 chapter: 28
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "20 U.S.C. § 56"
-generated_at: "2026-03-29T23:33:44.252Z"
+generated_at: "2026-03-29T23:38:20.517Z"
 ---
 
 # § 1087–56. Job location and development programs

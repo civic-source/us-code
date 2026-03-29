@@ -3,9 +3,9 @@ title: "Section 2902 - Property management"
 usc_title: 39
 usc_section: "2902"
 chapter: 29
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "39 U.S.C. § 2902"
-generated_at: "2026-03-29T23:35:27.577Z"
+generated_at: "2026-03-29T23:39:13.671Z"
 ---
 
 # § 2902. Property management

@@ -3,9 +3,9 @@ title: "Section 21907 - Authorization of appropriations"
 usc_title: 34
 usc_section: "21907"
 chapter: 219
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "34 U.S.C. § 21907"
-generated_at: "2026-03-29T23:35:09.771Z"
+generated_at: "2026-03-29T23:39:10.312Z"
 ---
 
 # § 21907. Authorization of appropriations

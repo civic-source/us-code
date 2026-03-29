@@ -3,9 +3,9 @@ title: "Section 3845 - Environmental services markets"
 usc_title: 16
 usc_section: "3845"
 chapter: 58
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "16 U.S.C. § 3845"
-generated_at: "2026-03-29T23:33:56.471Z"
+generated_at: "2026-03-29T23:38:34.235Z"
 ---
 
 # § 3845. Environmental services markets

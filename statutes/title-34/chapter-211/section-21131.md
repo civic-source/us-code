@@ -3,9 +3,9 @@ title: "Section 21131 - Additional regional computer forensic labs"
 usc_title: 34
 usc_section: "21131"
 chapter: 211
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "34 U.S.C. § 21131"
-generated_at: "2026-03-29T23:35:09.768Z"
+generated_at: "2026-03-29T23:39:10.310Z"
 ---
 
 # § 21131. Additional regional computer forensic labs

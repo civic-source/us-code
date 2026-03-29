@@ -3,9 +3,9 @@ title: "Section 349 - Patents in fee to allottees"
 usc_title: 25
 usc_section: "349"
 chapter: 9
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "25 U.S.C. § 349"
-generated_at: "2026-03-29T23:34:09.971Z"
+generated_at: "2026-03-29T23:38:49.364Z"
 ---
 
 # § 349. Patents in fee to allottees

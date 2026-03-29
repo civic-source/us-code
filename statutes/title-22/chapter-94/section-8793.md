@@ -3,9 +3,9 @@ title: "Section 8793 - Imposition of sanctions with respect to persons who engag
 usc_title: 22
 usc_section: "8793"
 chapter: 94
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "22 U.S.C. § 8793"
-generated_at: "2026-03-29T23:34:02.821Z"
+generated_at: "2026-03-29T23:38:41.098Z"
 ---
 
 # § 8793. Imposition of sanctions with respect to persons who engage in censorship or other forms of repression in Syria

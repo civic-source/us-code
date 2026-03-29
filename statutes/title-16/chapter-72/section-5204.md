@@ -3,9 +3,9 @@ title: "Section 5204 - Relationship to State and local law and civil actions"
 usc_title: 16
 usc_section: "5204"
 chapter: 72
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "16 U.S.C. § 5204"
-generated_at: "2026-03-29T23:33:56.482Z"
+generated_at: "2026-03-29T23:38:34.246Z"
 ---
 
 # § 5204. Relationship to State and local law and civil actions

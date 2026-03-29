@@ -3,9 +3,9 @@ title: "Section 136a - Collection of fees for inspection services"
 usc_title: 21
 usc_section: "136a"
 chapter: 4
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "21 U.S.C. § 136a"
-generated_at: "2026-03-29T23:34:03.973Z"
+generated_at: "2026-03-29T23:38:42.865Z"
 ---
 
 # § 136a. Collection of fees for inspection services

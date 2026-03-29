@@ -3,9 +3,9 @@ title: "Section 1606 - Subsequent impleader of dismissed biomaterials supplier"
 usc_title: 21
 usc_section: "1606"
 chapter: 21
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "21 U.S.C. § 1606"
-generated_at: "2026-03-29T23:34:04.049Z"
+generated_at: "2026-03-29T23:38:42.940Z"
 ---
 
 # § 1606. Subsequent impleader of dismissed biomaterials supplier

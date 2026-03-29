@@ -3,9 +3,9 @@ title: "Section 1667b - Lessee’s liability on expiration or termination of lea
 usc_title: 15
 usc_section: "1667b"
 chapter: 41
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "15 U.S.C. § 1667b"
-generated_at: "2026-03-29T23:33:26.088Z"
+generated_at: "2026-03-29T23:38:06.985Z"
 ---
 
 # § 1667b. Lessee’s liability on expiration or termination of lease

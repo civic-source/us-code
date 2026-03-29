@@ -3,9 +3,9 @@ title: "Section 9038 - Special competitive provisions for extra long staple cott
 usc_title: 7
 usc_section: "9038"
 chapter: 115
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "7 U.S.C. § 9038"
-generated_at: "2026-03-29T23:33:02.570Z"
+generated_at: "2026-03-29T23:37:50.953Z"
 ---
 
 # § 9038. Special competitive provisions for extra long staple cotton

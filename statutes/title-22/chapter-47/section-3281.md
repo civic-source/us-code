@@ -3,9 +3,9 @@ title: "Section 3281 - Annual Presidential report to Congress on governmental ef
 usc_title: 22
 usc_section: "3281"
 chapter: 47
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "22 U.S.C. § 3281"
-generated_at: "2026-03-29T23:34:02.758Z"
+generated_at: "2026-03-29T23:38:41.036Z"
 ---
 
 # § 3281. Annual Presidential report to Congress on governmental efforts to prevent proliferation

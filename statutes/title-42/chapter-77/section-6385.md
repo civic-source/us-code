@@ -3,9 +3,9 @@ title: "Section 6385 - Petroleum product information"
 usc_title: 42
 usc_section: "6385"
 chapter: 77
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 6385"
-generated_at: "2026-03-29T23:36:47.094Z"
+generated_at: "2026-03-29T23:39:46.643Z"
 ---
 
 # § 6385. Petroleum product information

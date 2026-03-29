@@ -3,9 +3,9 @@ title: "Section 60142 - Archiving of data"
 usc_title: 51
 usc_section: "60142"
 chapter: 601
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "51 U.S.C. § 60142"
-generated_at: "2026-03-29T23:37:17.443Z"
+generated_at: "2026-03-29T23:40:44.239Z"
 ---
 
 # § 60142. Archiving of data

@@ -3,9 +3,9 @@ title: "Section 943b - Definitions"
 usc_title: 16
 usc_section: "943b"
 chapter: 15
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "16 U.S.C. § 943b"
-generated_at: "2026-03-29T23:33:56.407Z"
+generated_at: "2026-03-29T23:38:34.167Z"
 ---
 
 # § 943b. Definitions

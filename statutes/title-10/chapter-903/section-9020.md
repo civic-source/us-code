@@ -3,9 +3,9 @@ title: "Section 9020 - Inspector General"
 usc_title: 10
 usc_section: "9020"
 chapter: 903
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "10 U.S.C. § 9020"
-generated_at: "2026-03-29T23:33:10.296Z"
+generated_at: "2026-03-29T23:37:57.224Z"
 ---
 
 # § 9020. Inspector General

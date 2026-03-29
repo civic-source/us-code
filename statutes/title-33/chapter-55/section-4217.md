@@ -3,9 +3,9 @@ title: "Section 4217 - United States release from liability"
 usc_title: 33
 usc_section: "4217"
 chapter: 55
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "33 U.S.C. § 4217"
-generated_at: "2026-03-29T23:34:54.574Z"
+generated_at: "2026-03-29T23:39:11.977Z"
 ---
 
 # § 4217. United States release from liability

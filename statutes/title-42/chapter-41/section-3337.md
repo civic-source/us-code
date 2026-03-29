@@ -3,9 +3,9 @@ title: "Section 3337 - Consultations and certifications"
 usc_title: 42
 usc_section: "3337"
 chapter: 41
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 3337"
-generated_at: "2026-03-29T23:36:47.028Z"
+generated_at: "2026-03-29T23:39:46.580Z"
 ---
 
 # § 3337. Consultations and certifications

@@ -3,9 +3,9 @@ title: "Section 20301a - Duties of Secretary under Uniformed and Overseas Citize
 usc_title: 52
 usc_section: "20301a"
 chapter: 203
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "52 U.S.C. § 20301a"
-generated_at: "2026-03-29T23:37:14.625Z"
+generated_at: "2026-03-29T23:40:26.412Z"
 ---
 
 # § 20301a. Duties of Secretary under Uniformed and Overseas Citizens Absentee Voting Act

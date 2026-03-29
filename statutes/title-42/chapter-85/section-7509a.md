@@ -3,9 +3,9 @@ title: "Section 7509a - International border areas"
 usc_title: 42
 usc_section: "7509a"
 chapter: 85
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 7509a"
-generated_at: "2026-03-29T23:36:47.133Z"
+generated_at: "2026-03-29T23:39:46.683Z"
 ---
 
 # § 7509a. International border areas

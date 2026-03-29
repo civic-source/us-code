@@ -3,9 +3,9 @@ title: "Section 2441 - Review of programs"
 usc_title: 25
 usc_section: "2441"
 chapter: 26
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "25 U.S.C. § 2441"
-generated_at: "2026-03-29T23:34:10.005Z"
+generated_at: "2026-03-29T23:38:49.397Z"
 ---
 
 # § 2441. Review of programs

@@ -3,9 +3,9 @@ title: "Section 9858d - Limitations on State allotments"
 usc_title: 42
 usc_section: "9858d"
 chapter: 105
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 9858d"
-generated_at: "2026-03-29T23:36:47.193Z"
+generated_at: "2026-03-29T23:39:46.742Z"
 ---
 
 # § 9858d. Limitations on State allotments

@@ -3,9 +3,9 @@ title: "Section 503 - Remedies for infringement: Impounding and disposition of i
 usc_title: 17
 usc_section: "503"
 chapter: 5
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "17 U.S.C. § 503"
-generated_at: "2026-03-29T23:33:42.322Z"
+generated_at: "2026-03-29T23:38:20.818Z"
 ---
 
 # § 503. Remedies for infringement: Impounding and disposition of infringing articles

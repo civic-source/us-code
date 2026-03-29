@@ -3,9 +3,9 @@ title: "Section 2002 - Reports"
 usc_title: 48
 usc_section: "2002"
 chapter: 19
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "48 U.S.C. § 2002"
-generated_at: "2026-03-29T23:37:06.133Z"
+generated_at: "2026-03-29T23:39:49.730Z"
 ---
 
 # § 2002. Reports

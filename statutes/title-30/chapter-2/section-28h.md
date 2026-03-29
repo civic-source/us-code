@@ -3,9 +3,9 @@ title: "Section 28h - Co-ownership"
 usc_title: 30
 usc_section: "28h"
 chapter: 2
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "30 U.S.C. § 28h"
-generated_at: "2026-03-29T23:34:15.149Z"
+generated_at: "2026-03-29T23:38:51.880Z"
 ---
 
 # § 28h. Co-ownership

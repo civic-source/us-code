@@ -3,9 +3,9 @@ title: "Section 9062 - Rule of construction"
 usc_title: 15
 usc_section: "9062"
 chapter: 116
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "15 U.S.C. § 9062"
-generated_at: "2026-03-29T23:33:26.173Z"
+generated_at: "2026-03-29T23:38:07.081Z"
 ---
 
 # § 9062. Rule of construction

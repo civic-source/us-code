@@ -3,9 +3,9 @@ title: "Section 256 - Jurisdiction of consular officers in disputes between seam
 usc_title: 22
 usc_section: "256"
 chapter: 6
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "22 U.S.C. § 256"
-generated_at: "2026-03-29T23:34:02.677Z"
+generated_at: "2026-03-29T23:38:40.962Z"
 ---
 
 # § 256. Jurisdiction of consular officers in disputes between seamen

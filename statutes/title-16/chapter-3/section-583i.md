@@ -3,9 +3,9 @@ title: "Section 583i - Authorization of appropriations"
 usc_title: 16
 usc_section: "583i"
 chapter: 3
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "16 U.S.C. § 583i"
-generated_at: "2026-03-29T23:33:56.369Z"
+generated_at: "2026-03-29T23:38:34.128Z"
 ---
 
 # § 583i. Authorization of appropriations

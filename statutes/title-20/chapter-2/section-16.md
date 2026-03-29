@@ -3,9 +3,9 @@ title: "Section 16 - Repealed. Pub. L. 105–33, title VI, § 6201 , Aug. 5, 199
 usc_title: 20
 usc_section: "16"
 chapter: 2
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "20 U.S.C. § 16"
-generated_at: "2026-03-29T23:33:44.211Z"
+generated_at: "2026-03-29T23:38:20.474Z"
 ---
 
 # § 16. Repealed. Pub. L. 105–33, title VI, § 6201 , Aug. 5, 1997 , 111 Stat. 653

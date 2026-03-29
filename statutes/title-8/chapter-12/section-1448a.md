@@ -3,9 +3,9 @@ title: "Section 1448a - Address to newly naturalized citizens"
 usc_title: 8
 usc_section: "1448a"
 chapter: 12
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "8 U.S.C. § 1448a"
-generated_at: "2026-03-29T23:33:19.044Z"
+generated_at: "2026-03-29T23:37:47.695Z"
 ---
 
 # § 1448a. Address to newly naturalized citizens

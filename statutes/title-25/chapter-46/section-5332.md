@@ -3,9 +3,9 @@ title: "Section 5332 - Sovereign immunity and trusteeship rights unaffected"
 usc_title: 25
 usc_section: "5332"
 chapter: 46
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "25 U.S.C. § 5332"
-generated_at: "2026-03-29T23:34:10.027Z"
+generated_at: "2026-03-29T23:38:49.419Z"
 ---
 
 # § 5332. Sovereign immunity and trusteeship rights unaffected

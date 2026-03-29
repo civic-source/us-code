@@ -3,9 +3,9 @@ title: "Section 10139 - Judicial review of agency actions"
 usc_title: 42
 usc_section: "10139"
 chapter: 108
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 10139"
-generated_at: "2026-03-29T23:36:47.199Z"
+generated_at: "2026-03-29T23:39:46.749Z"
 ---
 
 # § 10139. Judicial review of agency actions

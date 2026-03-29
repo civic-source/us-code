@@ -3,9 +3,9 @@ title: "Section 350 - Closing and reopening cases"
 usc_title: 11
 usc_section: "350"
 chapter: 3
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "11 U.S.C. § 350"
-generated_at: "2026-03-29T23:33:21.452Z"
+generated_at: "2026-03-29T23:38:01.403Z"
 ---
 
 # § 350. Closing and reopening cases

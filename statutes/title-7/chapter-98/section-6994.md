@@ -3,9 +3,9 @@ title: "Section 6994 - Notice and opportunity for hearing"
 usc_title: 7
 usc_section: "6994"
 chapter: 98
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "7 U.S.C. § 6994"
-generated_at: "2026-03-29T23:33:02.536Z"
+generated_at: "2026-03-29T23:37:50.919Z"
 ---
 
 # § 6994. Notice and opportunity for hearing

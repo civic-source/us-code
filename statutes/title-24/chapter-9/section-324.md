@@ -3,9 +3,9 @@ title: "Section 324 - Care and treatment of eligible persons until transfer and 
 usc_title: 24
 usc_section: "324"
 chapter: 9
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "24 U.S.C. § 324"
-generated_at: "2026-03-29T23:33:58.587Z"
+generated_at: "2026-03-29T23:38:38.947Z"
 ---
 
 # § 324. Care and treatment of eligible persons until transfer and release

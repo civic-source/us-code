@@ -3,9 +3,9 @@ title: "Section 7925 - Sense of Congress on protecting student privacy"
 usc_title: 20
 usc_section: "7925"
 chapter: 70
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "20 U.S.C. § 7925"
-generated_at: "2026-03-29T23:33:44.339Z"
+generated_at: "2026-03-29T23:38:20.609Z"
 ---
 
 # § 7925. Sense of Congress on protecting student privacy

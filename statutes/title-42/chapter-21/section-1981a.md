@@ -3,9 +3,9 @@ title: "Section 1981a - Damages in cases of intentional discrimination in employ
 usc_title: 42
 usc_section: "1981a"
 chapter: 21
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 1981a"
-generated_at: "2026-03-29T23:36:46.984Z"
+generated_at: "2026-03-29T23:39:46.536Z"
 ---
 
 # § 1981a. Damages in cases of intentional discrimination in employment

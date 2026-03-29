@@ -3,9 +3,9 @@ title: "Section 2611 - Generation-skipping transfer defined"
 usc_title: 26
 usc_section: "2611"
 chapter: 13
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "26 U.S.C. § 2611"
-generated_at: "2026-03-29T23:34:43.156Z"
+generated_at: "2026-03-29T23:39:07.319Z"
 ---
 
 # § 2611. Generation-skipping transfer defined

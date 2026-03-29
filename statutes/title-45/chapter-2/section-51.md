@@ -3,9 +3,9 @@ title: "Section 51 - Liability of common carriers by railroad, in interstate or 
 usc_title: 45
 usc_section: "51"
 chapter: 2
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "45 U.S.C. § 51"
-generated_at: "2026-03-29T23:35:52.347Z"
+generated_at: "2026-03-29T23:39:21.917Z"
 ---
 
 # § 51. Liability of common carriers by railroad, in interstate or foreign commerce, for injuries to employees from negligence; employee defined

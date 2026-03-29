@@ -3,9 +3,9 @@ title: "Section 2152k - Assistance to improve early childhood outcomes globally"
 usc_title: 22
 usc_section: "2152k"
 chapter: 32
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "22 U.S.C. § 2152k"
-generated_at: "2026-03-29T23:34:02.719Z"
+generated_at: "2026-03-29T23:38:41.001Z"
 ---
 
 # § 2152k. Assistance to improve early childhood outcomes globally

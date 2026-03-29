@@ -3,9 +3,9 @@ title: "Section 3993 - Amendment to State application"
 usc_title: 20
 usc_section: "3993"
 chapter: 52
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "20 U.S.C. § 3993"
-generated_at: "2026-03-29T23:33:44.303Z"
+generated_at: "2026-03-29T23:38:20.571Z"
 ---
 
 # § 3993. Amendment to State application

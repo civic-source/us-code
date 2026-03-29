@@ -3,9 +3,9 @@ title: "Section 9251 - Suspension of sanctions and other measures"
 usc_title: 22
 usc_section: "9251"
 chapter: 99
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "22 U.S.C. § 9251"
-generated_at: "2026-03-29T23:34:02.827Z"
+generated_at: "2026-03-29T23:38:41.104Z"
 ---
 
 # § 9251. Suspension of sanctions and other measures

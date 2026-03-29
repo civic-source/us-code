@@ -3,9 +3,9 @@ title: "Section 1508 - Interpretation"
 usc_title: 11
 usc_section: "1508"
 chapter: 15
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "11 U.S.C. § 1508"
-generated_at: "2026-03-29T23:33:21.466Z"
+generated_at: "2026-03-29T23:38:01.417Z"
 ---
 
 # § 1508. Interpretation

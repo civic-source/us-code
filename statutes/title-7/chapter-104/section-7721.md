@@ -3,9 +3,9 @@ title: "Section 7721 - Plant pest and disease management and disaster prevention
 usc_title: 7
 usc_section: "7721"
 chapter: 104
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "7 U.S.C. § 7721"
-generated_at: "2026-03-29T23:33:02.550Z"
+generated_at: "2026-03-29T23:37:50.933Z"
 ---
 
 # § 7721. Plant pest and disease management and disaster prevention

@@ -3,9 +3,9 @@ title: "Section 1730i - Repealed. Pub. L. 101–73, title IV, § 407 , Aug. 9, 1
 usc_title: 12
 usc_section: "1730i"
 chapter: 13
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "12 U.S.C. § 1730i"
-generated_at: "2026-03-29T23:33:38.281Z"
+generated_at: "2026-03-29T23:38:12.565Z"
 ---
 
 # §§ 1730f to 1730i. Repealed. Pub. L. 101–73, title IV, § 407 , Aug. 9, 1989 , 103 Stat. 363

@@ -3,9 +3,9 @@ title: "Section 10012 - United States strategy for support to a civilian-led gov
 usc_title: 22
 usc_section: "10012"
 chapter: 107
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "22 U.S.C. § 10012"
-generated_at: "2026-03-29T23:34:02.836Z"
+generated_at: "2026-03-29T23:38:41.113Z"
 ---
 
 # § 10012. United States strategy for support to a civilian-led government in Sudan

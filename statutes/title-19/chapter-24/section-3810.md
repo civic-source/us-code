@@ -3,9 +3,9 @@ title: "Section 3810 - Application of certain provisions"
 usc_title: 19
 usc_section: "3810"
 chapter: 24
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "19 U.S.C. § 3810"
-generated_at: "2026-03-29T23:33:47.313Z"
+generated_at: "2026-03-29T23:38:18.096Z"
 ---
 
 # § 3810. Application of certain provisions

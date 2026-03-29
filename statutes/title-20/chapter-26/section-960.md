@@ -3,9 +3,9 @@ title: "Section 960 - Authorization of appropriations"
 usc_title: 20
 usc_section: "960"
 chapter: 26
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "20 U.S.C. § 960"
-generated_at: "2026-03-29T23:33:44.224Z"
+generated_at: "2026-03-29T23:38:20.487Z"
 ---
 
 # § 960. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 1377 - Definitions and special rule"
 usc_title: 26
 usc_section: "1377"
 chapter: 1
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "26 U.S.C. § 1377"
-generated_at: "2026-03-29T23:34:43.143Z"
+generated_at: "2026-03-29T23:39:07.307Z"
 ---
 
 # § 1377. Definitions and special rule

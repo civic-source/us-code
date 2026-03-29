@@ -3,9 +3,9 @@ title: "Section 32 - Omitted"
 usc_title: 25
 usc_section: "32"
 chapter: 2
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "25 U.S.C. § 32"
-generated_at: "2026-03-29T23:34:09.966Z"
+generated_at: "2026-03-29T23:38:49.358Z"
 ---
 
 # § 32. Omitted

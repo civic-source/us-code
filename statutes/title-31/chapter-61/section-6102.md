@@ -3,9 +3,9 @@ title: "Section 6102 - Program information requirements"
 usc_title: 31
 usc_section: "6102"
 chapter: 61
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "31 U.S.C. § 6102"
-generated_at: "2026-03-29T23:34:46.844Z"
+generated_at: "2026-03-29T23:39:10.967Z"
 ---
 
 # § 6102. Program information requirements
@@ -22,8 +22,9 @@ generated_at: "2026-03-29T23:34:46.844Z"
     - **(C)** types of activities financed under the program;
     - **(D)** eligibility requirements;
     - **(E)** types of assistance;
-    - **(F)** uses, and restrictions on the use, of assistance; and
-    - **(G)** duties of recipients under the program.
+    - **(F)** uses, and restrictions on the use, of assistance;
+    - **(G)** uses of core-based statistical area (as defined in section 4 of the MAPS Act of 2021) delineations (as chosen from standardized categories of uses determined by the Director), for purposes including prime recipient and subrecipient eligibility for, and distribution of, any Federal service, benefit, or funding; and
+    - **(H)** duties of recipients under the program.
   - **(3)** a specification of each formula governing eligibility for assistance or the distribution of assistance under the program, which shall be described through the use of—
     - **(A)** the language used to specify each such formula in the law authorizing the program;
     - **(B)** the language used to specify each such formula in any Federal rule promulgated pursuant to the law authorizing the program; or

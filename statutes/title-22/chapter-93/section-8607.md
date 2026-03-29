@@ -3,9 +3,9 @@ title: "Section 8607 - Other matters of cooperation"
 usc_title: 22
 usc_section: "8607"
 chapter: 93
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "22 U.S.C. § 8607"
-generated_at: "2026-03-29T23:34:02.819Z"
+generated_at: "2026-03-29T23:38:41.096Z"
 ---
 
 # § 8607. Other matters of cooperation

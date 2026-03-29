@@ -3,9 +3,9 @@ title: "Section 219 - Injunction proceedings; compromise of liability"
 usc_title: 27
 usc_section: "219"
 chapter: 8
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "27 U.S.C. § 219"
-generated_at: "2026-03-29T23:34:13.762Z"
+generated_at: "2026-03-29T23:38:53.275Z"
 ---
 
 # § 219. Injunction proceedings; compromise of liability

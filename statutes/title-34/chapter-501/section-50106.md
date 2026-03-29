@@ -3,9 +3,9 @@ title: "Section 50106 - Prohibition of land acquisition"
 usc_title: 34
 usc_section: "50106"
 chapter: 501
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "34 U.S.C. § 50106"
-generated_at: "2026-03-29T23:35:09.780Z"
+generated_at: "2026-03-29T23:39:10.321Z"
 ---
 
 # § 50106. Prohibition of land acquisition

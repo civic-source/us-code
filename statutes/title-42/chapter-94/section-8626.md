@@ -3,9 +3,9 @@ title: "Section 8626 - Payments to States; fiscal year requirements respecting a
 usc_title: 42
 usc_section: "8626"
 chapter: 94
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 8626"
-generated_at: "2026-03-29T23:36:47.167Z"
+generated_at: "2026-03-29T23:39:46.718Z"
 ---
 
 # § 8626. Payments to States; fiscal year requirements respecting availability, etc.

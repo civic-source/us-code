@@ -3,9 +3,9 @@ title: "Section 424 - Disclosure of organizational and personnel information: ex
 usc_title: 10
 usc_section: "424"
 chapter: 21
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "10 U.S.C. § 424"
-generated_at: "2026-03-29T23:33:10.168Z"
+generated_at: "2026-03-29T23:37:57.090Z"
 ---
 
 # § 424. Disclosure of organizational and personnel information: exemption for specified intelligence agencies

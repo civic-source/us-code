@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-29T23:36:46.830Z"
+generated_at: "2026-03-29T23:39:46.376Z"
 ---
 
 # § 1395m. Special payment rules for particular items and services
@@ -683,7 +683,7 @@ generated_at: "2026-03-29T23:36:46.830Z"
     - **(B)** In order to receive a payment described in subparagraph (A), a Federally qualified health center shall submit to the Secretary an application for such a payment at such time, in such manner, and containing such information as specified by the Secretary. A Federally qualified health center may apply for such a payment for each physician or practitioner described in subparagraph (A) furnishing services described in such subparagraph at such center.
     - **(C)** For purposes of subparagraph (A), the requirements described in this subparagraph, with respect to a physician or practitioner, are the following:
       - **(i)** The physician or practitioner is employed by or working under contract with a Federally qualified health center described in subparagraph (A) that submits an application under subparagraph (B).
-      - **(ii)** The physician or practitioner first receives a waiver under section 823(g) of title 21 on or after January 1, 2019 .
+      - **(ii)** The physician or practitioner first receives a waiver under section 823(h) of title 21 on or after January 1, 2019 .
     - **(D)** For purposes of making payments under this paragraph, there are appropriated, out of amounts in the Treasury not otherwise appropriated, $6,000,000, which shall remain available until expended.
   - **(4)**
     - **(A)** In the case of services described in section 1395d(d)(2)(A)(ii) of this title furnished on or after January 1, 2022 , by an attending physician (as defined in section 1395x(dd)(3)(B) of this title , other than a physician or practitioner who is employed by a hospice program) who is employed by or working under contract with a Federally qualified health center, a Federally qualified health center shall be paid for such services under the prospective payment system under this subsection.

@@ -3,9 +3,9 @@ title: "Section 1395l - Payment of benefits"
 usc_title: 42
 usc_section: "1395l"
 chapter: 7
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 1395l"
-generated_at: "2026-03-29T23:36:46.826Z"
+generated_at: "2026-03-29T23:39:46.371Z"
 ---
 
 # § 1395l. Payment of benefits
@@ -774,7 +774,7 @@ generated_at: "2026-03-29T23:36:46.826Z"
   - **(2)** In order to receive a payment described in paragraph (1), a rural health clinic shall submit to the Secretary an application for such a payment at such time, in such manner, and containing such information as specified by the Secretary. A rural health clinic may apply for such a payment for each physician or practitioner described in paragraph (1) furnishing services described in such paragraph at such clinic.
   - **(3)** For purposes of paragraph (1), the requirements described in this paragraph, with respect to a physician or practitioner, are the following:
     - **(A)** The physician or practitioner is employed by or working under contract with a rural health clinic described in paragraph (1) that submits an application under paragraph (2).
-    - **(B)** The physician or practitioner first receives a waiver under section 823(g) of title 21 on or after January 1, 2019 .
+    - **(B)** The physician or practitioner first receives a waiver under section 823(h) of title 21 on or after January 1, 2019 .
   - **(4)** For purposes of making payments under this subsection, there are appropriated, out of amounts in the Treasury not otherwise appropriated, $2,000,000, which shall remain available until expended.
 - **(cc)** For purposes of subsection (a)(1)(DD):
   - **(1)**

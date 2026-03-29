@@ -3,9 +3,9 @@ title: "Section 7211 - False statements to purchasers or lessees relating to tax
 usc_title: 26
 usc_section: "7211"
 chapter: 75
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "26 U.S.C. § 7211"
-generated_at: "2026-03-29T23:34:43.229Z"
+generated_at: "2026-03-29T23:39:07.387Z"
 ---
 
 # § 7211. False statements to purchasers or lessees relating to tax

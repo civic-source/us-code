@@ -3,9 +3,9 @@ title: "Section 5511 - Transfer of funds"
 usc_title: 2
 usc_section: "5511"
 chapter: 55
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "2 U.S.C. § 5511"
-generated_at: "2026-03-29T23:32:53.321Z"
+generated_at: "2026-03-29T23:37:39.924Z"
 ---
 
 # § 5511. Transfer of funds

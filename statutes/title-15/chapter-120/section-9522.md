@@ -3,9 +3,9 @@ title: "Section 9522 - Purpose"
 usc_title: 15
 usc_section: "9522"
 chapter: 120
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "15 U.S.C. § 9522"
-generated_at: "2026-03-29T23:33:26.177Z"
+generated_at: "2026-03-29T23:38:07.086Z"
 ---
 
 # § 9522. Purpose

@@ -3,9 +3,9 @@ title: "Section 2430e - Interest on new obligations"
 usc_title: 22
 usc_section: "2430e"
 chapter: 32
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "22 U.S.C. § 2430e"
-generated_at: "2026-03-29T23:34:02.736Z"
+generated_at: "2026-03-29T23:38:41.016Z"
 ---
 
 # § 2430e. Interest on new obligations

@@ -3,9 +3,9 @@ title: "Section 6601 - Purpose"
 usc_title: 20
 usc_section: "6601"
 chapter: 70
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "20 U.S.C. § 6601"
-generated_at: "2026-03-29T23:33:44.320Z"
+generated_at: "2026-03-29T23:38:20.589Z"
 ---
 
 # § 6601. Purpose

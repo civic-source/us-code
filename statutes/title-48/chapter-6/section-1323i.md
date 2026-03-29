@@ -3,9 +3,9 @@ title: "Section 1323i - Omitted"
 usc_title: 48
 usc_section: "1323i"
 chapter: 6
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "48 U.S.C. § 1323i"
-generated_at: "2026-03-29T23:37:06.120Z"
+generated_at: "2026-03-29T23:39:49.715Z"
 ---
 
 # § 1323i. Omitted

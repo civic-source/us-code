@@ -3,9 +3,9 @@ title: "Section 6321 - Fiscal requirements"
 usc_title: 20
 usc_section: "6321"
 chapter: 70
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "20 U.S.C. § 6321"
-generated_at: "2026-03-29T23:33:44.316Z"
+generated_at: "2026-03-29T23:38:20.585Z"
 ---
 
 # § 6321. Fiscal requirements

@@ -3,9 +3,9 @@ title: "Section 7486 - Academy of Health Sciences: admission of civilians in phy
 usc_title: 10
 usc_section: "7486"
 chapter: 757
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "10 U.S.C. § 7486"
-generated_at: "2026-03-29T23:33:10.281Z"
+generated_at: "2026-03-29T23:37:57.209Z"
 ---
 
 # § 7486. Academy of Health Sciences: admission of civilians in physician assistant training program

@@ -3,9 +3,9 @@ title: "Section 104901 - Central warehouses at System units"
 usc_title: 54
 usc_section: "104901"
 chapter: 1049
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "54 U.S.C. § 104901"
-generated_at: "2026-03-29T23:37:17.224Z"
+generated_at: "2026-03-29T23:40:30.853Z"
 ---
 
 # § 104901. Central warehouses at System units

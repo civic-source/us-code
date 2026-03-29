@@ -3,9 +3,9 @@ title: "Section 719g - Transportation system certificates, rights-of-way, permit
 usc_title: 15
 usc_section: "719g"
 chapter: 15
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "15 U.S.C. § 719g"
-generated_at: "2026-03-29T23:33:26.065Z"
+generated_at: "2026-03-29T23:38:06.959Z"
 ---
 
 # § 719g. Transportation system certificates, rights-of-way, permits, leases, or other authorizations

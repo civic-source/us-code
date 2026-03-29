@@ -3,9 +3,9 @@ title: "Section 1911 - Effect on other laws"
 usc_title: 33
 usc_section: "1911"
 chapter: 33
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "33 U.S.C. § 1911"
-generated_at: "2026-03-29T23:34:54.544Z"
+generated_at: "2026-03-29T23:39:11.946Z"
 ---
 
 # § 1911. Effect on other laws

@@ -3,9 +3,9 @@ title: "Section 5113 - Detention of vessels"
 usc_title: 46
 usc_section: "5113"
 chapter: 51
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "46 U.S.C. § 5113"
-generated_at: "2026-03-29T23:36:50.988Z"
+generated_at: "2026-03-29T23:40:04.294Z"
 ---
 
 # § 5113. Detention of vessels

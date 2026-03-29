@@ -3,9 +3,9 @@ title: "Section 2152 - Repealed. Pub. L. 100–233, title II, § 207(a)(1) , Jan
 usc_title: 12
 usc_section: "2152"
 chapter: 23
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "12 U.S.C. § 2152"
-generated_at: "2026-03-29T23:33:38.321Z"
+generated_at: "2026-03-29T23:38:12.609Z"
 ---
 
 # § 2152. Repealed. Pub. L. 100–233, title II, § 207(a)(1) , Jan. 6, 1988 , 101 Stat. 1607

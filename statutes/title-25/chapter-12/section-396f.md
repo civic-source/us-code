@@ -3,9 +3,9 @@ title: "Section 396f - Lands excepted from leasing provisions"
 usc_title: 25
 usc_section: "396f"
 chapter: 12
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "25 U.S.C. § 396f"
-generated_at: "2026-03-29T23:34:09.973Z"
+generated_at: "2026-03-29T23:38:49.366Z"
 ---
 
 # § 396f. Lands excepted from leasing provisions

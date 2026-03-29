@@ -3,9 +3,9 @@ title: "Section 950a - Error of law; lesser included offense"
 usc_title: 10
 usc_section: "950a"
 chapter: 47
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "10 U.S.C. § 950a"
-generated_at: "2026-03-29T23:33:10.190Z"
+generated_at: "2026-03-29T23:37:57.112Z"
 ---
 
 # § 950a. Error of law; lesser included offense

@@ -3,9 +3,9 @@ title: "Section 14 - Establishment of Navy hospitals"
 usc_title: 24
 usc_section: "14"
 chapter: 1
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "24 U.S.C. § 14"
-generated_at: "2026-03-29T23:33:58.585Z"
+generated_at: "2026-03-29T23:38:38.945Z"
 ---
 
 # § 14. Establishment of Navy hospitals

@@ -3,9 +3,9 @@ title: "Section 486w - Omitted"
 usc_title: 16
 usc_section: "486w"
 chapter: 2
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "16 U.S.C. § 486w"
-generated_at: "2026-03-29T23:33:56.355Z"
+generated_at: "2026-03-29T23:38:34.112Z"
 ---
 
 # §§ 486a to 486w. Omitted

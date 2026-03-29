@@ -3,16 +3,16 @@ title: "Section 829a - Delivery of a controlled substance by a pharmacy to an ad
 usc_title: 21
 usc_section: "829a"
 chapter: 13
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "21 U.S.C. § 829a"
-generated_at: "2026-03-29T23:34:04.039Z"
+generated_at: "2026-03-29T23:38:42.930Z"
 ---
 
 # § 829a. Delivery of a controlled substance by a pharmacy to an administering practitioner
 
 - **(a)** Notwithstanding section 802(10) of this title , a pharmacy may deliver a controlled substance to a practitioner in accordance with a prescription that meets the requirements of this subchapter and the regulations issued by the Attorney General under this subchapter, for the purpose of administering the controlled substance by the practitioner if—
   - **(1)** the controlled substance is delivered by the pharmacy to the prescribing practitioner or the practitioner administering the controlled substance, as applicable, at the location listed on the practitioner’s certificate of registration issued under this subchapter;
-  - **(2)** the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 823(g)(2) of this title and—
+  - **(2)** the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 823(h)(2) of this title and—
     - **(A)** the practitioner who issued the prescription is a qualifying practitioner authorized under, and acting within the scope of that section; and
     - **(B)** the controlled substance is to be administered by injection or implantation;
   - **(3)** the pharmacy and the practitioner are authorized to conduct the activities specified in this section under the law of the State in which such activities take place;

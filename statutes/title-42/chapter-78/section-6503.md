@@ -3,9 +3,9 @@ title: "Section 6503 - Transfer of jurisdiction, duties, property, etc., to Secr
 usc_title: 42
 usc_section: "6503"
 chapter: 78
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "42 U.S.C. § 6503"
-generated_at: "2026-03-29T23:36:47.095Z"
+generated_at: "2026-03-29T23:39:46.644Z"
 ---
 
 # § 6503. Transfer of jurisdiction, duties, property, etc., to Secretary of the Interior from Secretary of Navy

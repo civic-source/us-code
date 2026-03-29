@@ -3,9 +3,9 @@ title: "Section 5120 - Continuation of allowances"
 usc_title: 25
 usc_section: "5120"
 chapter: 45
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "25 U.S.C. § 5120"
-generated_at: "2026-03-29T23:34:10.025Z"
+generated_at: "2026-03-29T23:38:49.415Z"
 ---
 
 # § 5120. Continuation of allowances

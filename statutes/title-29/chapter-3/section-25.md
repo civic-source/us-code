@@ -3,9 +3,9 @@ title: "Section 25 - Repealed. July 22, 1932, ch. 524 , 47 Stat. 741"
 usc_title: 29
 usc_section: "25"
 chapter: 3
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "29 U.S.C. § 25"
-generated_at: "2026-03-29T23:34:21.269Z"
+generated_at: "2026-03-29T23:38:53.170Z"
 ---
 
 # §§ 21 to 25. Repealed. July 22, 1932, ch. 524 , 47 Stat. 741

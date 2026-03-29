@@ -3,9 +3,9 @@ title: "Section 6536 - Compensation of Financial Clerk of Senate"
 usc_title: 2
 usc_section: "6536"
 chapter: 65
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "2 U.S.C. § 6536"
-generated_at: "2026-03-29T23:32:53.324Z"
+generated_at: "2026-03-29T23:37:39.927Z"
 ---
 
 # § 6536. Compensation of Financial Clerk of Senate

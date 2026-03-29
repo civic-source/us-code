@@ -3,9 +3,9 @@ title: "Section 160e - Payment of value differential by Secretary to owner of co
 usc_title: 16
 usc_section: "160e"
 chapter: 1
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "16 U.S.C. § 160e"
-generated_at: "2026-03-29T23:33:56.273Z"
+generated_at: "2026-03-29T23:38:34.027Z"
 ---
 
 # § 160e. Payment of value differential by Secretary to owner of commercial timberlands exchanging lands for State lands outside of park; determination of value; prerequisites

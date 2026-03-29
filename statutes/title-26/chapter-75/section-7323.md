@@ -3,9 +3,9 @@ title: "Section 7323 - Judicial action to enforce forfeiture"
 usc_title: 26
 usc_section: "7323"
 chapter: 75
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "26 U.S.C. § 7323"
-generated_at: "2026-03-29T23:34:43.230Z"
+generated_at: "2026-03-29T23:39:07.388Z"
 ---
 
 # § 7323. Judicial action to enforce forfeiture

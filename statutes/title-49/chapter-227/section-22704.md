@@ -3,9 +3,9 @@ title: "Section 22704 - Transparency; coordination; review"
 usc_title: 49
 usc_section: "22704"
 chapter: 227
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "49 U.S.C. § 22704"
-generated_at: "2026-03-29T23:37:02.628Z"
+generated_at: "2026-03-29T23:40:03.484Z"
 ---
 
 # § 22704. Transparency; coordination; review

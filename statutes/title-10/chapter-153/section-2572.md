@@ -3,9 +3,9 @@ title: "Section 2572 - Documents, historical artifacts, and condemned or obsolet
 usc_title: 10
 usc_section: "2572"
 chapter: 153
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "10 U.S.C. § 2572"
-generated_at: "2026-03-29T23:33:10.241Z"
+generated_at: "2026-03-29T23:37:57.166Z"
 ---
 
 # § 2572. Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange

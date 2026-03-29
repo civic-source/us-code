@@ -3,9 +3,9 @@ title: "Section 3373 - Establishment of office, organizational structure, and au
 usc_title: 50
 usc_section: "3373"
 chapter: 45
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "50 U.S.C. § 3373"
-generated_at: "2026-03-29T23:37:11.336Z"
+generated_at: "2026-03-29T23:40:24.343Z"
 ---
 
 # § 3373. Establishment of office, organizational structure, and authorities to address unidentified aerial phenomena
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T23:37:11.336Z"
   - **(2)** The Secretary, in coordination with the Director, shall ensure that each line organization designated under paragraph (1) has adequate personnel with the requisite expertise, equipment, transportation, and other resources necessary to respond rapidly to incidents or patterns of observations involving unidentified aerial phenomena of which the Office becomes aware.
 - **(d)**
   - **(1)** The Secretary, in coordination with the Director, shall designate one or more line organizations that will be primarily responsible for scientific, technical, and operational analysis of data gathered by field investigations conducted pursuant to subsection (c) and data from other sources, including with respect to the testing of materials, medical studies, and development of theoretical models, to better understand and explain unidentified aerial phenomena.
-  - **(2)** The Secretary and the Director shall each issue such directives as are necessary to ensure that the each line organization designated under paragraph (1) has authority to draw on the special expertise of persons outside the Federal Government with appropriate security clearances.
+  - **(2)** The Secretary and the Director shall each issue such directives as are necessary to ensure that the each 1 1 So in original. line organization designated under paragraph (1) has authority to draw on the special expertise of persons outside the Federal Government with appropriate security clearances.
 - **(e)**
   - **(1)** The Director and the Secretary shall each, in coordination with one another, ensure that—
     - **(A)** each element of the intelligence community with data relating to unidentified aerial phenomena makes such data available immediately to the Office established under subsection (a) or to an entity designated by the Secretary and the Director to receive such data; and
@@ -68,7 +68,8 @@ generated_at: "2026-03-29T23:37:11.336Z"
 - **(j)** There is authorized to be appropriated such sums as may be necessary to carry out the work of the Office established under subsection (a), including with respect to—
   - **(1)** general intelligence gathering and intelligence analysis; and
   - **(2)** strategic defense, space defense, defense of controlled air space, defense of ground, air, or naval assets, and related purposes.
-- **(k)** Not later than the date on which the Secretary establishes the Office under subsection (a), the Secretary shall terminate the Unidentified Aerial Phenomenon Task Force.(l) Definitions
+- **(k)** Not later than the date on which the Secretary establishes the Office under subsection (a), the Secretary shall terminate the Unidentified Aerial Phenomenon Task Force.
+- **(l)** In this section:
   - **(1)** The term “appropriate congressional committees” means the following:
     - **(A)** The Committees on Armed Services of the House of Representatives and the Senate.
     - **(B)** The Committees on Appropriations of the House of Representatives and the Senate.

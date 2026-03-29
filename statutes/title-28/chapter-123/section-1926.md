@@ -3,9 +3,9 @@ title: "Section 1926 - Court of Federal Claims"
 usc_title: 28
 usc_section: "1926"
 chapter: 123
-current_through: "PL 117-214"
+current_through: "PL 117-224"
 classification: "28 U.S.C. § 1926"
-generated_at: "2026-03-29T23:34:15.859Z"
+generated_at: "2026-03-29T23:38:59.968Z"
 ---
 
 # § 1926. Court of Federal Claims
