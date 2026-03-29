@@ -3,9 +3,9 @@ title: "Section 302 - Delegation of authority"
 usc_title: 5
 usc_section: "302"
 chapter: 3
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "5 U.S.C. § 302"
-generated_at: "2026-03-29T23:16:00.891Z"
+generated_at: "2026-03-29T23:19:45.006Z"
 ---
 
 # § 302. Delegation of authority

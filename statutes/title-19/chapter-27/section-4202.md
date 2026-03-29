@@ -3,9 +3,9 @@ title: "Section 4202 - Trade agreements authority"
 usc_title: 19
 usc_section: "4202"
 chapter: 27
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "19 U.S.C. § 4202"
-generated_at: "2026-03-29T23:17:13.216Z"
+generated_at: "2026-03-29T23:20:52.968Z"
 ---
 
 # § 4202. Trade agreements authority

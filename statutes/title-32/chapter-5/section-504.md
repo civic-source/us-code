@@ -3,9 +3,9 @@ title: "Section 504 - National Guard schools and small arms competitions"
 usc_title: 32
 usc_section: "504"
 chapter: 5
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "32 U.S.C. § 504"
-generated_at: "2026-03-29T23:17:52.352Z"
+generated_at: "2026-03-29T23:22:36.271Z"
 ---
 
 # § 504. National Guard schools and small arms competitions

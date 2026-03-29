@@ -3,9 +3,9 @@ title: "Section 8342 - Savings clause"
 usc_title: 15
 usc_section: "8342"
 chapter: 109
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "15 U.S.C. § 8342"
-generated_at: "2026-03-29T23:17:00.655Z"
+generated_at: "2026-03-29T23:20:44.193Z"
 ---
 
 # § 8342. Savings clause

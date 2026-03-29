@@ -3,9 +3,9 @@ title: "Section 2013 - NMIC requirements and review"
 usc_title: 21
 usc_section: "2013"
 chapter: 25
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "21 U.S.C. § 2013"
-generated_at: "2026-03-29T23:17:28.825Z"
+generated_at: "2026-03-29T23:21:51.569Z"
 ---
 
 # § 2013. NMIC requirements and review

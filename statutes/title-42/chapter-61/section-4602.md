@@ -3,9 +3,9 @@ title: "Section 4602 - Effect upon property acquisition"
 usc_title: 42
 usc_section: "4602"
 chapter: 61
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 4602"
-generated_at: "2026-03-29T23:18:45.729Z"
+generated_at: "2026-03-29T23:23:27.834Z"
 ---
 
 # § 4602. Effect upon property acquisition

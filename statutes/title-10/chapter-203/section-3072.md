@@ -3,9 +3,9 @@ title: "Section 3072 - Comptroller General assessment of acquisition programs an
 usc_title: 10
 usc_section: "3072"
 chapter: 203
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "10 U.S.C. § 3072"
-generated_at: "2026-03-29T23:16:24.329Z"
+generated_at: "2026-03-29T23:20:11.256Z"
 ---
 
 # § 3072. Comptroller General assessment of acquisition programs and initiatives

@@ -3,9 +3,9 @@ title: "Section 3112 - Omitted"
 usc_title: 20
 usc_section: "3112"
 chapter: 47
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "20 U.S.C. § 3112"
-generated_at: "2026-03-29T23:17:24.078Z"
+generated_at: "2026-03-29T23:21:16.620Z"
 ---
 
 # §§ 3111, 3112. Omitted

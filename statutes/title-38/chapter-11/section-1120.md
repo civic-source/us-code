@@ -3,9 +3,9 @@ title: "Section 1120 - Presumption of service connection for certain diseases as
 usc_title: 38
 usc_section: "1120"
 chapter: 11
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "38 U.S.C. § 1120"
-generated_at: "2026-03-29T23:18:08.710Z"
+generated_at: "2026-03-29T23:22:45.386Z"
 ---
 
 # § 1120. Presumption of service connection for certain diseases associated with exposure to burn pits and other toxins

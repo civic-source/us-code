@@ -3,9 +3,9 @@ title: "Section 620 - Rules and regulations"
 usc_title: 22
 usc_section: "620"
 chapter: 11
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "22 U.S.C. § 620"
-generated_at: "2026-03-29T23:17:34.991Z"
+generated_at: "2026-03-29T23:21:55.127Z"
 ---
 
 # § 620. Rules and regulations

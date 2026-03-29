@@ -3,9 +3,9 @@ title: "Section 9056 - Foreclosure moratorium and consumer right to request forb
 usc_title: 15
 usc_section: "9056"
 chapter: 116
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "15 U.S.C. § 9056"
-generated_at: "2026-03-29T23:17:00.667Z"
+generated_at: "2026-03-29T23:20:44.203Z"
 ---
 
 # § 9056. Foreclosure moratorium and consumer right to request forbearance

@@ -3,9 +3,9 @@ title: "Section 816 - Preservation of rights vested prior to June 10, 1920"
 usc_title: 16
 usc_section: "816"
 chapter: 12
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "16 U.S.C. § 816"
-generated_at: "2026-03-29T23:17:08.419Z"
+generated_at: "2026-03-29T23:21:01.714Z"
 ---
 
 # § 816. Preservation of rights vested prior to June 10, 1920

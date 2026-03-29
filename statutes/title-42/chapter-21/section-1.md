@@ -3,9 +3,9 @@ title: "Section 1 - Double jeopardy; specific crimes and criminal contempts"
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T23:18:45.668Z"
+generated_at: "2026-03-29T23:23:27.776Z"
 ---
 
 # § 2000h–1. Double jeopardy; specific crimes and criminal contempts

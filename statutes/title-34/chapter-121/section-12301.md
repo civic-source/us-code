@@ -3,9 +3,9 @@ title: "Section 12301 - Grants for capital improvements to prevent crime in publ
 usc_title: 34
 usc_section: "12301"
 chapter: 121
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "34 U.S.C. § 12301"
-generated_at: "2026-03-29T23:18:03.307Z"
+generated_at: "2026-03-29T23:22:39.892Z"
 ---
 
 # § 12301. Grants for capital improvements to prevent crime in public transportation

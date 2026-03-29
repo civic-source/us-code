@@ -3,9 +3,9 @@ title: "Section 2679d - Exemption from certain procurement protest procedures fo
 usc_title: 22
 usc_section: "2679d"
 chapter: 38
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "22 U.S.C. § 2679d"
-generated_at: "2026-03-29T23:17:35.036Z"
+generated_at: "2026-03-29T23:21:55.168Z"
 ---
 
 # § 2679d. Exemption from certain procurement protest procedures for noncompetitive contracting in emergency circumstances

@@ -3,9 +3,9 @@ title: "Section 177 - Purchases or grants of lands from Indians"
 usc_title: 25
 usc_section: "177"
 chapter: 5
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "25 U.S.C. § 177"
-generated_at: "2026-03-29T23:17:31.987Z"
+generated_at: "2026-03-29T23:21:42.507Z"
 ---
 
 # § 177. Purchases or grants of lands from Indians

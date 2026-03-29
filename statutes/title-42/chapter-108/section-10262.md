@@ -3,9 +3,9 @@ title: "Section 10262 - Nuclear Waste Technical Review Board"
 usc_title: 42
 usc_section: "10262"
 chapter: 108
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 10262"
-generated_at: "2026-03-29T23:18:45.891Z"
+generated_at: "2026-03-29T23:23:27.994Z"
 ---
 
 # § 10262. Nuclear Waste Technical Review Board

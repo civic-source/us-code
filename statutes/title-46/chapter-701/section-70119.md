@@ -3,9 +3,9 @@ title: "Section 70119 - Civil penalty"
 usc_title: 46
 usc_section: "70119"
 chapter: 701
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "46 U.S.C. § 70119"
-generated_at: "2026-03-29T23:19:04.216Z"
+generated_at: "2026-03-29T23:23:31.624Z"
 ---
 
 # § 70119. Civil penalty

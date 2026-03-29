@@ -3,9 +3,9 @@ title: "Section 10303 - Suspension of the use of tests or devices in determining
 usc_title: 52
 usc_section: "10303"
 chapter: 103
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "52 U.S.C. § 10303"
-generated_at: "2026-03-29T23:19:06.392Z"
+generated_at: "2026-03-29T23:23:50.611Z"
 ---
 
 # § 10303. Suspension of the use of tests or devices in determining eligibility to vote

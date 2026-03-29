@@ -3,9 +3,9 @@ title: "Section 3201 - Authorizations of appropriations"
 usc_title: 43
 usc_section: "3201"
 chapter: 50
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "43 U.S.C. § 3201"
-generated_at: "2026-03-29T23:18:11.558Z"
+generated_at: "2026-03-29T23:23:13.722Z"
 ---
 
 # § 3201. Authorizations of appropriations

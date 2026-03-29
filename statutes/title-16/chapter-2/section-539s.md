@@ -3,9 +3,9 @@ title: "Section 539s - Frank and Jeanne Moore Wild Steelhead Special Management 
 usc_title: 16
 usc_section: "539s"
 chapter: 2
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "16 U.S.C. § 539s"
-generated_at: "2026-03-29T23:17:08.387Z"
+generated_at: "2026-03-29T23:21:01.684Z"
 ---
 
 # § 539s. Frank and Jeanne Moore Wild Steelhead Special Management Area

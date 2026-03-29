@@ -3,9 +3,9 @@ title: "Section 276g - Auditing of accounts"
 usc_title: 22
 usc_section: "276g"
 chapter: 7
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "22 U.S.C. § 276g"
-generated_at: "2026-03-29T23:17:34.973Z"
+generated_at: "2026-03-29T23:21:55.110Z"
 ---
 
 # § 276g. Auditing of accounts

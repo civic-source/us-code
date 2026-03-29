@@ -3,9 +3,9 @@ title: "Section 6563 - Payment of certain expenses"
 usc_title: 2
 usc_section: "6563"
 chapter: 65
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "2 U.S.C. § 6563"
-generated_at: "2026-03-29T23:15:59.518Z"
+generated_at: "2026-03-29T23:19:24.714Z"
 ---
 
 # § 6563. Payment of certain expenses

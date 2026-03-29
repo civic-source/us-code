@@ -3,9 +3,9 @@ title: "Section 716 - Printing of documents not provided for by law"
 usc_title: 44
 usc_section: "716"
 chapter: 7
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "44 U.S.C. § 716"
-generated_at: "2026-03-29T23:18:19.018Z"
+generated_at: "2026-03-29T23:23:08.072Z"
 ---
 
 # § 716. Printing of documents not provided for by law

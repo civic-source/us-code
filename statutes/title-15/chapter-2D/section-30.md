@@ -3,9 +3,9 @@ title: "Section 30 - Accounts and records"
 usc_title: 15
 usc_section: "30"
 chapter: 2
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "15 U.S.C. § 30"
-generated_at: "2026-03-29T23:17:00.480Z"
+generated_at: "2026-03-29T23:20:44.047Z"
 ---
 
 # § 80a–30. Accounts and records

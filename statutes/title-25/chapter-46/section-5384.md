@@ -3,9 +3,9 @@ title: "Section 5384 - Compacts"
 usc_title: 25
 usc_section: "5384"
 chapter: 46
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "25 U.S.C. § 5384"
-generated_at: "2026-03-29T23:17:32.051Z"
+generated_at: "2026-03-29T23:21:42.570Z"
 ---
 
 # § 5384. Compacts

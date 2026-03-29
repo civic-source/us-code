@@ -3,9 +3,9 @@ title: "Section 283 - Lands containing valuable deposits not covered by permits 
 usc_title: 30
 usc_section: "283"
 chapter: 3
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "30 U.S.C. § 283"
-generated_at: "2026-03-29T23:17:37.540Z"
+generated_at: "2026-03-29T23:22:04.760Z"
 ---
 
 # § 283. Lands containing valuable deposits not covered by permits or leases; authority to lease; acreage; conditions; renewals; exemptions from rentals and royalties; suspension of operations

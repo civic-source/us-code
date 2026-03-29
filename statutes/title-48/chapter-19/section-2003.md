@@ -3,9 +3,9 @@ title: "Section 2003 - Conference"
 usc_title: 48
 usc_section: "2003"
 chapter: 19
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "48 U.S.C. § 2003"
-generated_at: "2026-03-29T23:19:02.877Z"
+generated_at: "2026-03-29T23:23:40.650Z"
 ---
 
 # § 2003. Conference

@@ -3,9 +3,9 @@ title: "Section 1309 - Amounts disregarded not to be taken into account in deter
 usc_title: 42
 usc_section: "1309"
 chapter: 7
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 1309"
-generated_at: "2026-03-29T23:18:45.458Z"
+generated_at: "2026-03-29T23:23:27.582Z"
 ---
 
 # § 1309. Amounts disregarded not to be taken into account in determining eligibility of other individuals

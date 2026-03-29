@@ -3,9 +3,9 @@ title: "Section 653 - Repealed. Feb. 26, 1944, ch. 65, § 18 , 58 Stat. 104"
 usc_title: 16
 usc_section: "653"
 chapter: 5
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "16 U.S.C. § 653"
-generated_at: "2026-03-29T23:17:08.400Z"
+generated_at: "2026-03-29T23:21:01.696Z"
 ---
 
 # §§ 646 to 653. Repealed. Feb. 26, 1944, ch. 65, § 18 , 58 Stat. 104

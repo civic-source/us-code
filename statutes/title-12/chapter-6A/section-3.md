@@ -3,9 +3,9 @@ title: "Section 3 - Tied Aid Credit Fund and program"
 usc_title: 12
 usc_section: "3"
 chapter: 6
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-29T23:16:30.934Z"
+generated_at: "2026-03-29T23:20:46.593Z"
 ---
 
 # § 635i–3. Tied Aid Credit Fund and program

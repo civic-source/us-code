@@ -3,9 +3,9 @@ title: "Section 205 - Display of license in pharmacy"
 usc_title: 21
 usc_section: "205"
 chapter: 7
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "21 U.S.C. § 205"
-generated_at: "2026-03-29T23:17:28.665Z"
+generated_at: "2026-03-29T23:21:51.491Z"
 ---
 
 # § 205. Display of license in pharmacy

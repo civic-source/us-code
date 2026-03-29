@@ -3,9 +3,9 @@ title: "Section 1727b - Indian Youth Service Corps"
 usc_title: 16
 usc_section: "1727b"
 chapter: 37
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "16 U.S.C. § 1727b"
-generated_at: "2026-03-29T23:17:08.475Z"
+generated_at: "2026-03-29T23:21:01.760Z"
 ---
 
 # § 1727b. Indian Youth Service Corps

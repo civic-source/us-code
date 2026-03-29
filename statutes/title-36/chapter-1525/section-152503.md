@@ -3,9 +3,9 @@ title: "Section 152503 - Membership"
 usc_title: 36
 usc_section: "152503"
 chapter: 1525
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "36 U.S.C. § 152503"
-generated_at: "2026-03-29T23:18:06.156Z"
+generated_at: "2026-03-29T23:22:47.467Z"
 ---
 
 # § 152503. Membership

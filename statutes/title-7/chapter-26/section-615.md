@@ -3,9 +3,9 @@ title: "Section 615 - Refunds of tax; exemptions from tax; compensating tax; com
 usc_title: 7
 usc_section: "615"
 chapter: 26
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "7 U.S.C. § 615"
-generated_at: "2026-03-29T23:16:16.964Z"
+generated_at: "2026-03-29T23:20:20.974Z"
 ---
 
 # § 615. Refunds of tax; exemptions from tax; compensating tax; compensating tax on foreign goods; covering into Treasury

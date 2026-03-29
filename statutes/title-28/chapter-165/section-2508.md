@@ -3,9 +3,9 @@ title: "Section 2508 - Counterclaim or set-off; registration of judgment"
 usc_title: 28
 usc_section: "2508"
 chapter: 165
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "28 U.S.C. § 2508"
-generated_at: "2026-03-29T23:17:38.426Z"
+generated_at: "2026-03-29T23:22:00.773Z"
 ---
 
 # § 2508. Counterclaim or set-off; registration of judgment

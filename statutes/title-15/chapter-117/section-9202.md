@@ -3,9 +3,9 @@ title: "Section 9202 - NSF support of research on manipulated or synthesized con
 usc_title: 15
 usc_section: "9202"
 chapter: 117
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "15 U.S.C. § 9202"
-generated_at: "2026-03-29T23:17:00.672Z"
+generated_at: "2026-03-29T23:20:44.207Z"
 ---
 
 # § 9202. NSF support of research on manipulated or synthesized content and information security

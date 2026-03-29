@@ -3,9 +3,9 @@ title: "Section 5170b - Essential assistance"
 usc_title: 42
 usc_section: "5170b"
 chapter: 68
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 5170b"
-generated_at: "2026-03-29T23:18:45.744Z"
+generated_at: "2026-03-29T23:23:27.849Z"
 ---
 
 # § 5170b. Essential assistance

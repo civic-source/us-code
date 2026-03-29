@@ -3,9 +3,9 @@ title: "Section 972 - Members: effect of time lost"
 usc_title: 10
 usc_section: "972"
 chapter: 49
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "10 U.S.C. § 972"
-generated_at: "2026-03-29T23:16:24.253Z"
+generated_at: "2026-03-29T23:20:11.193Z"
 ---
 
 # § 972. Members: effect of time lost

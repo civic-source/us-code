@@ -3,9 +3,9 @@ title: "Section 2 - Telemedicine and distance learning services in rural areas"
 usc_title: 7
 usc_section: "2"
 chapter: 31
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-29T23:16:16.970Z"
+generated_at: "2026-03-29T23:20:20.979Z"
 ---
 
 # § 950aaa–2. Telemedicine and distance learning services in rural areas

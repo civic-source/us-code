@@ -3,9 +3,9 @@ title: "Section 507 - Priorities"
 usc_title: 11
 usc_section: "507"
 chapter: 5
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "11 U.S.C. § 507"
-generated_at: "2026-03-29T23:16:31.456Z"
+generated_at: "2026-03-29T23:20:38.722Z"
 ---
 
 # § 507. Priorities

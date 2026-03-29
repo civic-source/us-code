@@ -3,9 +3,9 @@ title: "Section 110306 - Principal office"
 usc_title: 36
 usc_section: "110306"
 chapter: 1103
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "36 U.S.C. § 110306"
-generated_at: "2026-03-29T23:18:06.151Z"
+generated_at: "2026-03-29T23:22:47.463Z"
 ---
 
 # § 110306. Principal office

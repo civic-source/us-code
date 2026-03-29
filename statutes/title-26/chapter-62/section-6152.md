@@ -3,9 +3,9 @@ title: "Section 6152 - Repealed. Pub. L. 99–514, title XIV, § 1404(c)(1) , Oc
 usc_title: 26
 usc_section: "6152"
 chapter: 62
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "26 U.S.C. § 6152"
-generated_at: "2026-03-29T23:17:50.389Z"
+generated_at: "2026-03-29T23:22:12.963Z"
 ---
 
 # [§ 6152. Repealed. Pub. L. 99–514, title XIV, § 1404(c)(1) , Oct. 22, 1986 , 100 Stat. 2714 ]

@@ -3,9 +3,9 @@ title: "Section 2113 - Reemployment compensation"
 usc_title: 50
 usc_section: "2113"
 chapter: 38
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "50 U.S.C. § 2113"
-generated_at: "2026-03-29T23:18:53.916Z"
+generated_at: "2026-03-29T23:23:39.062Z"
 ---
 
 # § 2113. Reemployment compensation

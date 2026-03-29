@@ -3,9 +3,9 @@ title: "Section 32711 - Relationship to State law"
 usc_title: 49
 usc_section: "32711"
 chapter: 327
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "49 U.S.C. § 32711"
-generated_at: "2026-03-29T23:18:57.398Z"
+generated_at: "2026-03-29T23:23:48.829Z"
 ---
 
 # § 32711. Relationship to State law

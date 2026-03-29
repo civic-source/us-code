@@ -3,9 +3,9 @@ title: "Section 2168 - Repealed. Pub. L. 95–424, title I, § 102(g)(1)(A) , Oc
 usc_title: 22
 usc_section: "2168"
 chapter: 32
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "22 U.S.C. § 2168"
-generated_at: "2026-03-29T23:17:35.009Z"
+generated_at: "2026-03-29T23:21:55.144Z"
 ---
 
 # §§ 2167, 2168. Repealed. Pub. L. 95–424, title I, § 102(g)(1)(A) , Oct. 6, 1978 , 92 Stat. 942

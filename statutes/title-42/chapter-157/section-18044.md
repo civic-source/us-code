@@ -3,9 +3,9 @@ title: "Section 18044 - Level playing field"
 usc_title: 42
 usc_section: "18044"
 chapter: 157
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 18044"
-generated_at: "2026-03-29T23:18:46.006Z"
+generated_at: "2026-03-29T23:23:28.107Z"
 ---
 
 # § 18044. Level playing field

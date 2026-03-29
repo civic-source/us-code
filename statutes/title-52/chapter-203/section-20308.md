@@ -3,9 +3,9 @@ title: "Section 20308 - Reporting requirements"
 usc_title: 52
 usc_section: "20308"
 chapter: 203
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "52 U.S.C. § 20308"
-generated_at: "2026-03-29T23:19:06.394Z"
+generated_at: "2026-03-29T23:23:50.613Z"
 ---
 
 # § 20308. Reporting requirements

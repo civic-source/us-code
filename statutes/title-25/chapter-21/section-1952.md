@@ -3,9 +3,9 @@ title: "Section 1952 - Rules and regulations"
 usc_title: 25
 usc_section: "1952"
 chapter: 21
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "25 U.S.C. § 1952"
-generated_at: "2026-03-29T23:17:32.016Z"
+generated_at: "2026-03-29T23:21:42.539Z"
 ---
 
 # § 1952. Rules and regulations

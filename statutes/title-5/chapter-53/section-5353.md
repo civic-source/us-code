@@ -3,9 +3,9 @@ title: "Section 5353 - Quarters, subsistence, and laundry"
 usc_title: 5
 usc_section: "5353"
 chapter: 53
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "5 U.S.C. § 5353"
-generated_at: "2026-03-29T23:16:00.911Z"
+generated_at: "2026-03-29T23:19:45.031Z"
 ---
 
 # § 5353. Quarters, subsistence, and laundry

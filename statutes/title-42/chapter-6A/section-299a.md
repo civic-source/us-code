@@ -3,9 +3,9 @@ title: "Section 299a - General authorities"
 usc_title: 42
 usc_section: "299a"
 chapter: 6
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 299a"
-generated_at: "2026-03-29T23:18:45.350Z"
+generated_at: "2026-03-29T23:23:27.478Z"
 ---
 
 # § 299a. General authorities

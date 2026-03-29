@@ -3,9 +3,9 @@ title: "Section 1622c - Repealed. Pub. L. 113–79, title X, § 10002 , Feb. 7, 
 usc_title: 7
 usc_section: "1622c"
 chapter: 38
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "7 U.S.C. § 1622c"
-generated_at: "2026-03-29T23:16:16.995Z"
+generated_at: "2026-03-29T23:20:21.001Z"
 ---
 
 # § 1622c. Repealed. Pub. L. 113–79, title X, § 10002 , Feb. 7, 2014 , 128 Stat. 940

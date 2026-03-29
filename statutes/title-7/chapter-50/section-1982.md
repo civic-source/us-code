@@ -3,9 +3,9 @@ title: "Section 1982 - Relief for mobilized military reservists from certain agr
 usc_title: 7
 usc_section: "1982"
 chapter: 50
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "7 U.S.C. § 1982"
-generated_at: "2026-03-29T23:16:17.014Z"
+generated_at: "2026-03-29T23:20:21.018Z"
 ---
 
 # § 1982. Relief for mobilized military reservists from certain agricultural loan obligations

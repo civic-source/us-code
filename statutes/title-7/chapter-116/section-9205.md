@@ -3,9 +3,9 @@ title: "Section 9205 - Budget and report"
 usc_title: 7
 usc_section: "9205"
 chapter: 116
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "7 U.S.C. § 9205"
-generated_at: "2026-03-29T23:16:17.128Z"
+generated_at: "2026-03-29T23:20:21.120Z"
 ---
 
 # § 9205. Budget and report

@@ -3,9 +3,9 @@ title: "Section 461 - Offenses and punishment"
 usc_title: 21
 usc_section: "461"
 chapter: 10
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "21 U.S.C. § 461"
-generated_at: "2026-03-29T23:17:28.779Z"
+generated_at: "2026-03-29T23:21:51.548Z"
 ---
 
 # § 461. Offenses and punishment

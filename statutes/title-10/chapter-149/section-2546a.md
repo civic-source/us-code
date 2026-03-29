@@ -3,9 +3,9 @@ title: "Section 2546a - Renumbered § 3102]"
 usc_title: 10
 usc_section: "2546a"
 chapter: 149
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "10 U.S.C. § 2546a"
-generated_at: "2026-03-29T23:16:24.309Z"
+generated_at: "2026-03-29T23:20:11.238Z"
 ---
 
 # [§ 2546a. Renumbered § 3102]

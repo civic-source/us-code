@@ -3,9 +3,9 @@ title: "Section 1457 - Time for unlading"
 usc_title: 19
 usc_section: "1457"
 chapter: 4
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "19 U.S.C. § 1457"
-generated_at: "2026-03-29T23:17:13.149Z"
+generated_at: "2026-03-29T23:20:52.916Z"
 ---
 
 # § 1457. Time for unlading

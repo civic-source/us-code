@@ -3,9 +3,9 @@ title: "Section 102504 - Review and approval"
 usc_title: 54
 usc_section: "102504"
 chapter: 1025
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "54 U.S.C. § 102504"
-generated_at: "2026-03-29T23:19:06.252Z"
+generated_at: "2026-03-29T23:23:51.092Z"
 ---
 
 # § 102504. Review and approval

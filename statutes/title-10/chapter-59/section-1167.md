@@ -3,9 +3,9 @@ title: "Section 1167 - Members under confinement by sentence of court-martial: s
 usc_title: 10
 usc_section: "1167"
 chapter: 59
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "10 U.S.C. § 1167"
-generated_at: "2026-03-29T23:16:24.271Z"
+generated_at: "2026-03-29T23:20:11.206Z"
 ---
 
 # § 1167. Members under confinement by sentence of court-martial: separation after six months confinement

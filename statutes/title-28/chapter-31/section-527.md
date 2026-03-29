@@ -3,9 +3,9 @@ title: "Section 527 - Establishment of working capital fund"
 usc_title: 28
 usc_section: "527"
 chapter: 31
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "28 U.S.C. § 527"
-generated_at: "2026-03-29T23:17:38.403Z"
+generated_at: "2026-03-29T23:22:00.754Z"
 ---
 
 # § 527. Establishment of working capital fund

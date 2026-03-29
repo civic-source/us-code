@@ -3,9 +3,9 @@ title: "Section 5540 - Disposal of used or surplus furniture and equipment by Ch
 usc_title: 2
 usc_section: "5540"
 chapter: 55
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "2 U.S.C. § 5540"
-generated_at: "2026-03-29T23:15:59.516Z"
+generated_at: "2026-03-29T23:19:24.711Z"
 ---
 
 # § 5540. Disposal of used or surplus furniture and equipment by Chief Administrative Officer of House; procedure; deposit of receipts

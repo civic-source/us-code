@@ -3,9 +3,9 @@ title: "Section 9836 - Designation of Head Start agencies"
 usc_title: 42
 usc_section: "9836"
 chapter: 105
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 9836"
-generated_at: "2026-03-29T23:18:45.872Z"
+generated_at: "2026-03-29T23:23:27.977Z"
 ---
 
 # § 9836. Designation of Head Start agencies

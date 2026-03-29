@@ -3,9 +3,9 @@ title: "Section 1906 - Annual report"
 usc_title: 50
 usc_section: "1906"
 chapter: 37
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "50 U.S.C. § 1906"
-generated_at: "2026-03-29T23:18:53.911Z"
+generated_at: "2026-03-29T23:23:39.058Z"
 ---
 
 # § 1906. Annual report

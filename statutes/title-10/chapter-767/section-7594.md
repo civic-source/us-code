@@ -3,9 +3,9 @@ title: "Section 7594 - Furnishing of heraldic services"
 usc_title: 10
 usc_section: "7594"
 chapter: 767
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "10 U.S.C. § 7594"
-generated_at: "2026-03-29T23:16:24.357Z"
+generated_at: "2026-03-29T23:20:11.279Z"
 ---
 
 # § 7594. Furnishing of heraldic services

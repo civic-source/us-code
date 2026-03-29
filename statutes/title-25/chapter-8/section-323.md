@@ -3,9 +3,9 @@ title: "Section 323 - Rights-of-way for all purposes across any Indian lands"
 usc_title: 25
 usc_section: "323"
 chapter: 8
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "25 U.S.C. § 323"
-generated_at: "2026-03-29T23:17:31.989Z"
+generated_at: "2026-03-29T23:21:42.512Z"
 ---
 
 # § 323. Rights-of-way for all purposes across any Indian lands

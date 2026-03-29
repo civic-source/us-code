@@ -3,9 +3,9 @@ title: "Section 717j - State compacts for conservation, transportation, etc., of
 usc_title: 15
 usc_section: "717j"
 chapter: 15
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "15 U.S.C. § 717j"
-generated_at: "2026-03-29T23:17:00.535Z"
+generated_at: "2026-03-29T23:20:44.090Z"
 ---
 
 # § 717j. State compacts for conservation, transportation, etc., of natural gas

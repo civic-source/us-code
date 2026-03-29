@@ -3,9 +3,9 @@ title: "Section 1508 - National plan for unlicensed spectrum"
 usc_title: 47
 usc_section: "1508"
 chapter: 14
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "47 U.S.C. § 1508"
-generated_at: "2026-03-29T23:18:49.678Z"
+generated_at: "2026-03-29T23:23:37.370Z"
 ---
 
 # § 1508. National plan for unlicensed spectrum

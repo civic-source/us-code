@@ -3,9 +3,9 @@ title: "Section 3904 - Members of the Auxiliary; status"
 usc_title: 14
 usc_section: "3904"
 chapter: 39
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "14 U.S.C. § 3904"
-generated_at: "2026-03-29T23:16:27.883Z"
+generated_at: "2026-03-29T23:20:33.899Z"
 ---
 
 # § 3904. Members of the Auxiliary; status

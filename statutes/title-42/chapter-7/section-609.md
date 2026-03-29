@@ -3,9 +3,9 @@ title: "Section 609 - Penalties"
 usc_title: 42
 usc_section: "609"
 chapter: 7
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 609"
-generated_at: "2026-03-29T23:18:45.430Z"
+generated_at: "2026-03-29T23:23:27.556Z"
 ---
 
 # § 609. Penalties

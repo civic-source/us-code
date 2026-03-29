@@ -3,9 +3,9 @@ title: "Section 1206 - Collective-bargaining agreements"
 usc_title: 39
 usc_section: "1206"
 chapter: 12
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "39 U.S.C. § 1206"
-generated_at: "2026-03-29T23:18:04.975Z"
+generated_at: "2026-03-29T23:22:43.041Z"
 ---
 
 # § 1206. Collective-bargaining agreements

@@ -3,9 +3,9 @@ title: "Section 5711 - Bilateral ties between United States and Hong Kong"
 usc_title: 22
 usc_section: "5711"
 chapter: 66
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "22 U.S.C. § 5711"
-generated_at: "2026-03-29T23:17:35.076Z"
+generated_at: "2026-03-29T23:21:55.206Z"
 ---
 
 # § 5711. Bilateral ties between United States and Hong Kong

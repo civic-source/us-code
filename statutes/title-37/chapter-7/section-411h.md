@@ -3,9 +3,9 @@ title: "Section 411h - Renumbered § 481h]"
 usc_title: 37
 usc_section: "411h"
 chapter: 7
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "37 U.S.C. § 411h"
-generated_at: "2026-03-29T23:18:05.518Z"
+generated_at: "2026-03-29T23:22:48.050Z"
 ---
 
 # [§ 411h. Renumbered § 481h]

@@ -3,9 +3,9 @@ title: "Section 1242 - Transferred"
 usc_title: 43
 usc_section: "1242"
 chapter: 28
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "43 U.S.C. § 1242"
-generated_at: "2026-03-29T23:18:11.521Z"
+generated_at: "2026-03-29T23:23:13.694Z"
 ---
 
 # § 1242. Transferred

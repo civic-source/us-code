@@ -3,9 +3,9 @@ title: "Section 13283 - Discount payments"
 usc_title: 42
 usc_section: "13283"
 chapter: 134
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 13283"
-generated_at: "2026-03-29T23:18:45.941Z"
+generated_at: "2026-03-29T23:23:28.042Z"
 ---
 
 # § 13283. Discount payments

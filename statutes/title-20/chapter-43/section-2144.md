@@ -3,9 +3,9 @@ title: "Section 2144 - Authorization of appropriations"
 usc_title: 20
 usc_section: "2144"
 chapter: 43
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "20 U.S.C. § 2144"
-generated_at: "2026-03-29T23:17:24.072Z"
+generated_at: "2026-03-29T23:21:16.615Z"
 ---
 
 # § 2144. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 831 - Prohibited transactions involving nuclear materials"
 usc_title: 18
 usc_section: "831"
 chapter: 39
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "18 U.S.C. § 831"
-generated_at: "2026-03-29T23:17:16.686Z"
+generated_at: "2026-03-29T23:21:10.280Z"
 ---
 
 # § 831. Prohibited transactions involving nuclear materials

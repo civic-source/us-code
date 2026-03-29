@@ -3,9 +3,9 @@ title: "Section 2762 - Shore patrol duty; payment of expenses"
 usc_title: 14
 usc_section: "2762"
 chapter: 27
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "14 U.S.C. § 2762"
-generated_at: "2026-03-29T23:16:27.881Z"
+generated_at: "2026-03-29T23:20:33.896Z"
 ---
 
 # § 2762. Shore patrol duty; payment of expenses

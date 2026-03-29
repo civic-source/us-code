@@ -3,9 +3,9 @@ title: "Section 2503 - Patents surrendered and new ones issued"
 usc_title: 43
 usc_section: "2503"
 chapter: 43
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "43 U.S.C. § 2503"
-generated_at: "2026-03-29T23:18:11.554Z"
+generated_at: "2026-03-29T23:23:13.720Z"
 ---
 
 # § 2503. Patents surrendered and new ones issued

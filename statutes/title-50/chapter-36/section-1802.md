@@ -3,9 +3,9 @@ title: "Section 1802 - Electronic surveillance authorization without court order
 usc_title: 50
 usc_section: "1802"
 chapter: 36
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "50 U.S.C. § 1802"
-generated_at: "2026-03-29T23:18:53.906Z"
+generated_at: "2026-03-29T23:23:39.052Z"
 ---
 
 # § 1802. Electronic surveillance authorization without court order; certification by Attorney General; reports to Congressional committees; transmittal under seal; duties and compensation of communication common carrier; applications; jurisdiction of court

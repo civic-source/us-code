@@ -3,9 +3,9 @@ title: "Section 2343 - Repealed. Pub. L. 90–629 , ch. 4, § 45(a), Oct. 22, 19
 usc_title: 22
 usc_section: "2343"
 chapter: 32
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "22 U.S.C. § 2343"
-generated_at: "2026-03-29T23:17:35.018Z"
+generated_at: "2026-03-29T23:21:55.152Z"
 ---
 
 # §§ 2341 to 2343. Repealed. Pub. L. 90–629 , ch. 4, § 45(a), Oct. 22, 1968 , 82 Stat. 1327

@@ -3,9 +3,9 @@ title: "Section 1548 - Rules and regulations; standards of safety, convenience, 
 usc_title: 42
 usc_section: "1548"
 chapter: 9
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 1548"
-generated_at: "2026-03-29T23:18:45.632Z"
+generated_at: "2026-03-29T23:23:27.743Z"
 ---
 
 # § 1548. Rules and regulations; standards of safety, convenience, and health

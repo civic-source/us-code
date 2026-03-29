@@ -3,9 +3,9 @@ title: "Section 1286 - Tax treatment of stripped bonds"
 usc_title: 26
 usc_section: "1286"
 chapter: 1
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "26 U.S.C. § 1286"
-generated_at: "2026-03-29T23:17:50.314Z"
+generated_at: "2026-03-29T23:22:12.897Z"
 ---
 
 # § 1286. Tax treatment of stripped bonds

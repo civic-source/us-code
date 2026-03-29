@@ -3,9 +3,9 @@ title: "Section 471 - Transferred"
 usc_title: 33
 usc_section: "471"
 chapter: 10
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "33 U.S.C. § 471"
-generated_at: "2026-03-29T23:17:55.094Z"
+generated_at: "2026-03-29T23:22:27.761Z"
 ---
 
 # § 471. Transferred

@@ -3,9 +3,9 @@ title: "Section 6801 - Protection of nonpublic personal information"
 usc_title: 15
 usc_section: "6801"
 chapter: 94
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "15 U.S.C. § 6801"
-generated_at: "2026-03-29T23:17:00.640Z"
+generated_at: "2026-03-29T23:20:44.180Z"
 ---
 
 # § 6801. Protection of nonpublic personal information

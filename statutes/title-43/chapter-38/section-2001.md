@@ -3,9 +3,9 @@ title: "Section 2001 - Findings"
 usc_title: 43
 usc_section: "2001"
 chapter: 38
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "43 U.S.C. § 2001"
-generated_at: "2026-03-29T23:18:11.550Z"
+generated_at: "2026-03-29T23:23:13.717Z"
 ---
 
 # § 2001. Findings

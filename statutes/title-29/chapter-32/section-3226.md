@@ -3,9 +3,9 @@ title: "Section 3226 - YouthBuild program"
 usc_title: 29
 usc_section: "3226"
 chapter: 32
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "29 U.S.C. § 3226"
-generated_at: "2026-03-29T23:17:43.026Z"
+generated_at: "2026-03-29T23:22:24.312Z"
 ---
 
 # § 3226. YouthBuild program

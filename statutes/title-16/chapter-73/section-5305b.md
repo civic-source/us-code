@@ -3,9 +3,9 @@ title: "Section 5305b - Educational outreach program"
 usc_title: 16
 usc_section: "5305b"
 chapter: 73
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "16 U.S.C. § 5305b"
-generated_at: "2026-03-29T23:17:08.528Z"
+generated_at: "2026-03-29T23:21:01.804Z"
 ---
 
 # § 5305b. Educational outreach program

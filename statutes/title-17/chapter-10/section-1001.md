@@ -3,9 +3,9 @@ title: "Section 1001 - Definitions"
 usc_title: 17
 usc_section: "1001"
 chapter: 10
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "17 U.S.C. § 1001"
-generated_at: "2026-03-29T23:17:05.646Z"
+generated_at: "2026-03-29T23:20:48.672Z"
 ---
 
 # § 1001. Definitions

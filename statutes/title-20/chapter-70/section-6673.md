@@ -3,9 +3,9 @@ title: "Section 6673 - School leader recruitment and support"
 usc_title: 20
 usc_section: "6673"
 chapter: 70
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "20 U.S.C. § 6673"
-generated_at: "2026-03-29T23:17:24.103Z"
+generated_at: "2026-03-29T23:21:16.643Z"
 ---
 
 # § 6673. School leader recruitment and support

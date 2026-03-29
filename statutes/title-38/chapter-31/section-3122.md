@@ -3,9 +3,9 @@ title: "Section 3122 - Longitudinal study of vocational rehabilitation programs"
 usc_title: 38
 usc_section: "3122"
 chapter: 31
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "38 U.S.C. § 3122"
-generated_at: "2026-03-29T23:18:08.736Z"
+generated_at: "2026-03-29T23:22:45.406Z"
 ---
 
 # § 3122. Longitudinal study of vocational rehabilitation programs

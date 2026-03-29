@@ -3,9 +3,9 @@ title: "Section 522 - Exemptions"
 usc_title: 11
 usc_section: "522"
 chapter: 5
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "11 U.S.C. § 522"
-generated_at: "2026-03-29T23:16:31.457Z"
+generated_at: "2026-03-29T23:20:38.723Z"
 ---
 
 # § 522. Exemptions

@@ -3,9 +3,9 @@ title: "Section 3164 - Procedural requirements"
 usc_title: 16
 usc_section: "3164"
 chapter: 51
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "16 U.S.C. § 3164"
-generated_at: "2026-03-29T23:17:08.498Z"
+generated_at: "2026-03-29T23:21:01.779Z"
 ---
 
 # § 3164. Procedural requirements

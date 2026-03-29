@@ -3,9 +3,9 @@ title: "Section 9081 - Supplemental agricultural disaster assistance"
 usc_title: 7
 usc_section: "9081"
 chapter: 115
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "7 U.S.C. § 9081"
-generated_at: "2026-03-29T23:16:17.127Z"
+generated_at: "2026-03-29T23:20:21.119Z"
 ---
 
 # § 9081. Supplemental agricultural disaster assistance

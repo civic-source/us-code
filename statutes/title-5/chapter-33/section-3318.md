@@ -3,9 +3,9 @@ title: "Section 3318 - Competitive service; selection from certificates"
 usc_title: 5
 usc_section: "3318"
 chapter: 33
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "5 U.S.C. § 3318"
-generated_at: "2026-03-29T23:16:00.903Z"
+generated_at: "2026-03-29T23:19:45.022Z"
 ---
 
 # § 3318. Competitive service; selection from certificates

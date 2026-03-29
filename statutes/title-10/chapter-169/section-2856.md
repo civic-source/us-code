@@ -3,9 +3,9 @@ title: "Section 2856 - Military unaccompanied housing: local comparability of fl
 usc_title: 10
 usc_section: "2856"
 chapter: 169
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "10 U.S.C. § 2856"
-generated_at: "2026-03-29T23:16:24.323Z"
+generated_at: "2026-03-29T23:20:11.251Z"
 ---
 
 # § 2856. Military unaccompanied housing: local comparability of floor areas

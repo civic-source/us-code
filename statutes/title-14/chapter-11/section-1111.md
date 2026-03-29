@@ -3,9 +3,9 @@ title: "Section 1111 - Acquisition workforce authorities"
 usc_title: 14
 usc_section: "1111"
 chapter: 11
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "14 U.S.C. § 1111"
-generated_at: "2026-03-29T23:16:27.876Z"
+generated_at: "2026-03-29T23:20:33.892Z"
 ---
 
 # § 1111. Acquisition workforce authorities

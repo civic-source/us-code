@@ -3,9 +3,9 @@ title: "Section 1183a - Requirements for sponsor’s affidavit of support"
 usc_title: 8
 usc_section: "1183a"
 chapter: 12
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "8 U.S.C. § 1183a"
-generated_at: "2026-03-29T23:16:19.869Z"
+generated_at: "2026-03-29T23:20:02.223Z"
 ---
 
 # § 1183a. Requirements for sponsor’s affidavit of support

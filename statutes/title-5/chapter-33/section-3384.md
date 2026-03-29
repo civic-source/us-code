@@ -3,9 +3,9 @@ title: "Section 3384 - Regulations"
 usc_title: 5
 usc_section: "3384"
 chapter: 33
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "5 U.S.C. § 3384"
-generated_at: "2026-03-29T23:16:00.905Z"
+generated_at: "2026-03-29T23:19:45.024Z"
 ---
 
 # § 3384. Regulations

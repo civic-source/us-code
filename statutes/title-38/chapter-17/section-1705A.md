@@ -3,9 +3,9 @@ title: "Section 1705A - Management of health care: information regarding health-
 usc_title: 38
 usc_section: "1705A"
 chapter: 17
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "38 U.S.C. § 1705A"
-generated_at: "2026-03-29T23:18:08.716Z"
+generated_at: "2026-03-29T23:22:45.390Z"
 ---
 
 # § 1705A. Management of health care: information regarding health-plan contracts

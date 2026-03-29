@@ -3,9 +3,9 @@ title: "Section 2521 - Subpoenas and incidental powers"
 usc_title: 28
 usc_section: "2521"
 chapter: 165
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "28 U.S.C. § 2521"
-generated_at: "2026-03-29T23:17:38.427Z"
+generated_at: "2026-03-29T23:22:00.773Z"
 ---
 
 # § 2521. Subpoenas and incidental powers

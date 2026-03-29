@@ -3,9 +3,9 @@ title: "Section 6 - Credentials of electors; transmission to Archivist of the Un
 usc_title: 3
 usc_section: "6"
 chapter: 1
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "3 U.S.C. § 6"
-generated_at: "2026-03-29T23:15:54.334Z"
+generated_at: "2026-03-29T23:19:21.188Z"
 ---
 
 # § 6. Credentials of electors; transmission to Archivist of the United States and to Congress; public inspection

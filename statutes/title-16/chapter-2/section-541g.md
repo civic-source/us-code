@@ -3,9 +3,9 @@ title: "Section 541g - Advisory council for scenic-research area; membership; de
 usc_title: 16
 usc_section: "541g"
 chapter: 2
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "16 U.S.C. § 541g"
-generated_at: "2026-03-29T23:17:08.387Z"
+generated_at: "2026-03-29T23:21:01.684Z"
 ---
 
 # § 541g. Advisory council for scenic-research area; membership; designation of chairman; compensation; consultation by Secretary

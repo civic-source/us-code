@@ -3,9 +3,9 @@ title: "Section 1070 - Statement of purpose; program authorization"
 usc_title: 20
 usc_section: "1070"
 chapter: 28
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "20 U.S.C. § 1070"
-generated_at: "2026-03-29T23:17:23.923Z"
+generated_at: "2026-03-29T23:21:16.559Z"
 ---
 
 # § 1070. Statement of purpose; program authorization

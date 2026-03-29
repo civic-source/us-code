@@ -3,9 +3,9 @@ title: "Section 25C - Energy efficient home improvement credit"
 usc_title: 26
 usc_section: "25C"
 chapter: 1
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "26 U.S.C. § 25C"
-generated_at: "2026-03-29T23:17:50.153Z"
+generated_at: "2026-03-29T23:22:12.753Z"
 ---
 
 # § 25C. Energy efficient home improvement credit

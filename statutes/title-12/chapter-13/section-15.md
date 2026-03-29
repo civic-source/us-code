@@ -3,9 +3,9 @@ title: "Section 15 - Civil money penalties against multifamily mortgagors"
 usc_title: 12
 usc_section: "15"
 chapter: 13
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "12 U.S.C. § 15"
-generated_at: "2026-03-29T23:16:30.979Z"
+generated_at: "2026-03-29T23:20:46.631Z"
 ---
 
 # § 1735f–15. Civil money penalties against multifamily mortgagors

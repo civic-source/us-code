@@ -3,9 +3,9 @@ title: "Section 3222 - Uranium enrichment capacity"
 usc_title: 22
 usc_section: "3222"
 chapter: 47
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "22 U.S.C. § 3222"
-generated_at: "2026-03-29T23:17:35.048Z"
+generated_at: "2026-03-29T23:21:55.180Z"
 ---
 
 # § 3222. Uranium enrichment capacity

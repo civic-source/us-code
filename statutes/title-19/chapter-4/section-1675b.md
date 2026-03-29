@@ -3,9 +3,9 @@ title: "Section 1675b - Special rules for injury investigations for certain sect
 usc_title: 19
 usc_section: "1675b"
 chapter: 4
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "19 U.S.C. § 1675b"
-generated_at: "2026-03-29T23:17:13.167Z"
+generated_at: "2026-03-29T23:20:52.929Z"
 ---
 
 # § 1675b. Special rules for injury investigations for certain section 1303 or section 1671(c) countervailing duty orders and investigations

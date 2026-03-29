@@ -3,9 +3,9 @@ title: "Section 3711 - Management of Indian rangelands and farmlands"
 usc_title: 25
 usc_section: "3711"
 chapter: 39
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "25 U.S.C. § 3711"
-generated_at: "2026-03-29T23:17:32.037Z"
+generated_at: "2026-03-29T23:21:42.557Z"
 ---
 
 # § 3711. Management of Indian rangelands and farmlands

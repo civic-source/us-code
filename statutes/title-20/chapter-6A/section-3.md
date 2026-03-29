@@ -3,9 +3,9 @@ title: "Section 3 - Vending machine income"
 usc_title: 20
 usc_section: "3"
 chapter: 6
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-29T23:17:23.905Z"
+generated_at: "2026-03-29T23:21:16.544Z"
 ---
 
 # § 107d–3. Vending machine income

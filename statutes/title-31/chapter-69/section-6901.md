@@ -3,9 +3,9 @@ title: "Section 6901 - Definitions"
 usc_title: 31
 usc_section: "6901"
 chapter: 69
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "31 U.S.C. § 6901"
-generated_at: "2026-03-29T23:17:53.499Z"
+generated_at: "2026-03-29T23:22:40.621Z"
 ---
 
 # § 6901. Definitions

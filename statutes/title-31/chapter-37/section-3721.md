@@ -3,9 +3,9 @@ title: "Section 3721 - Claims of personnel of agencies and the District of Colum
 usc_title: 31
 usc_section: "3721"
 chapter: 37
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "31 U.S.C. § 3721"
-generated_at: "2026-03-29T23:17:53.483Z"
+generated_at: "2026-03-29T23:22:40.607Z"
 ---
 
 # § 3721. Claims of personnel of agencies and the District of Columbia government for personal property damage or loss

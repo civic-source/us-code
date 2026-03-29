@@ -3,9 +3,9 @@ title: "Section 354 - Action by judicial council"
 usc_title: 28
 usc_section: "354"
 chapter: 16
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "28 U.S.C. § 354"
-generated_at: "2026-03-29T23:17:38.398Z"
+generated_at: "2026-03-29T23:22:00.751Z"
 ---
 
 # § 354. Action by judicial council

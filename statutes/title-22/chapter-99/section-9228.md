@@ -3,9 +3,9 @@ title: "Section 9228 - Exemptions, waivers, and removals of designation"
 usc_title: 22
 usc_section: "9228"
 chapter: 99
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "22 U.S.C. § 9228"
-generated_at: "2026-03-29T23:17:35.118Z"
+generated_at: "2026-03-29T23:21:55.247Z"
 ---
 
 # § 9228. Exemptions, waivers, and removals of designation

@@ -3,9 +3,9 @@ title: "Section 8804 - Imposition of sanctions with respect to the sale, supply,
 usc_title: 22
 usc_section: "8804"
 chapter: 95
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "22 U.S.C. § 8804"
-generated_at: "2026-03-29T23:17:35.113Z"
+generated_at: "2026-03-29T23:21:55.242Z"
 ---
 
 # § 8804. Imposition of sanctions with respect to the sale, supply, or transfer of certain materials to or from Iran

@@ -3,9 +3,9 @@ title: "Section 5531 - Program to increase employment opportunities in House of 
 usc_title: 2
 usc_section: "5531"
 chapter: 55
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "2 U.S.C. § 5531"
-generated_at: "2026-03-29T23:15:59.515Z"
+generated_at: "2026-03-29T23:19:24.710Z"
 ---
 
 # § 5531. Program to increase employment opportunities in House of Representatives for individuals with disabilities

@@ -3,9 +3,9 @@ title: "Section 47c - Aliens; waiver of admission requirements"
 usc_title: 50
 usc_section: "47c"
 chapter: 4
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "50 U.S.C. § 47c"
-generated_at: "2026-03-29T23:18:53.897Z"
+generated_at: "2026-03-29T23:23:39.042Z"
 ---
 
 # § 47c. Aliens; waiver of admission requirements

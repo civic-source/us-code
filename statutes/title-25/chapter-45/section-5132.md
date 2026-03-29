@@ -3,9 +3,9 @@ title: "Section 5132 - Indians eligible for loans"
 usc_title: 25
 usc_section: "5132"
 chapter: 45
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "25 U.S.C. § 5132"
-generated_at: "2026-03-29T23:17:32.046Z"
+generated_at: "2026-03-29T23:21:42.566Z"
 ---
 
 # § 5132. Indians eligible for loans

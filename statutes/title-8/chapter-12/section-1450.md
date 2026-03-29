@@ -3,9 +3,9 @@ title: "Section 1450 - Functions and duties of clerks and records of declaration
 usc_title: 8
 usc_section: "1450"
 chapter: 12
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "8 U.S.C. § 1450"
-generated_at: "2026-03-29T23:16:19.892Z"
+generated_at: "2026-03-29T23:20:02.243Z"
 ---
 
 # § 1450. Functions and duties of clerks and records of declarations of intention and applications for naturalization

@@ -3,9 +3,9 @@ title: "Section 6050C - Repealed. Pub. L. 100–418, title I, § 1941(b)(1) , Au
 usc_title: 26
 usc_section: "6050C"
 chapter: 61
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "26 U.S.C. § 6050C"
-generated_at: "2026-03-29T23:17:50.380Z"
+generated_at: "2026-03-29T23:22:12.955Z"
 ---
 
 # [§ 6050C. Repealed. Pub. L. 100–418, title I, § 1941(b)(1) , Aug. 23, 1988 , 102 Stat. 1323 ]

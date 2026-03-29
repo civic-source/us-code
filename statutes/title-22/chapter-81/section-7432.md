@@ -3,9 +3,9 @@ title: "Section 7432 - Definitions"
 usc_title: 22
 usc_section: "7432"
 chapter: 81
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "22 U.S.C. § 7432"
-generated_at: "2026-03-29T23:17:35.096Z"
+generated_at: "2026-03-29T23:21:55.226Z"
 ---
 
 # § 7432. Definitions

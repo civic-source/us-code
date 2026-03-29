@@ -3,9 +3,9 @@ title: "Section 1931 - Disposition of filing fees"
 usc_title: 28
 usc_section: "1931"
 chapter: 123
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "28 U.S.C. § 1931"
-generated_at: "2026-03-29T23:17:38.423Z"
+generated_at: "2026-03-29T23:22:00.770Z"
 ---
 
 # § 1931. Disposition of filing fees

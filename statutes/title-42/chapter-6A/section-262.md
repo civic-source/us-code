@@ -3,9 +3,9 @@ title: "Section 262 - Regulation of biological products"
 usc_title: 42
 usc_section: "262"
 chapter: 6
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 262"
-generated_at: "2026-03-29T23:18:45.292Z"
+generated_at: "2026-03-29T23:23:27.424Z"
 ---
 
 # § 262. Regulation of biological products

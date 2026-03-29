@@ -3,9 +3,9 @@ title: "Section 2362 - Financing by Commission"
 usc_title: 42
 usc_section: "2362"
 chapter: 24
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 2362"
-generated_at: "2026-03-29T23:18:45.691Z"
+generated_at: "2026-03-29T23:23:27.798Z"
 ---
 
 # § 2362. Financing by Commission

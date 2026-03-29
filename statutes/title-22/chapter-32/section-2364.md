@@ -3,9 +3,9 @@ title: "Section 2364 - Special authorities"
 usc_title: 22
 usc_section: "2364"
 chapter: 32
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "22 U.S.C. § 2364"
-generated_at: "2026-03-29T23:17:35.020Z"
+generated_at: "2026-03-29T23:21:55.153Z"
 ---
 
 # § 2364. Special authorities

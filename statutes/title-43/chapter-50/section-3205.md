@@ -3,9 +3,9 @@ title: "Section 3205 - Competitive grant program for large-scale water recycling
 usc_title: 43
 usc_section: "3205"
 chapter: 50
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "43 U.S.C. § 3205"
-generated_at: "2026-03-29T23:18:11.558Z"
+generated_at: "2026-03-29T23:23:13.723Z"
 ---
 
 # § 3205. Competitive grant program for large-scale water recycling and reuse program

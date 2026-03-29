@@ -3,9 +3,9 @@ title: "Section 1725 - Policy research, data collection, analysis and modeling, 
 usc_title: 47
 usc_section: "1725"
 chapter: 16
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "47 U.S.C. § 1725"
-generated_at: "2026-03-29T23:18:49.683Z"
+generated_at: "2026-03-29T23:23:37.376Z"
 ---
 
 # § 1725. Policy research, data collection, analysis and modeling, evaluation, and dissemination

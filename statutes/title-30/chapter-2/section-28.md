@@ -3,9 +3,9 @@ title: "Section 28 - Mining district regulations by miners: location, recordatio
 usc_title: 30
 usc_section: "28"
 chapter: 2
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "30 U.S.C. § 28"
-generated_at: "2026-03-29T23:17:37.534Z"
+generated_at: "2026-03-29T23:22:04.753Z"
 ---
 
 # § 28. Mining district regulations by miners: location, recordation, and amount of work; marking of location on ground; records; annual labor or improvements on claims pending issue of patent; co-owner’s succession in interest upon delinquency in contributing proportion of expenditures; tunnel as lode expenditure

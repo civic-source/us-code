@@ -3,9 +3,9 @@ title: "Section 54 - Acquisition of assets by business development companies"
 usc_title: 15
 usc_section: "54"
 chapter: 2
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "15 U.S.C. § 54"
-generated_at: "2026-03-29T23:17:00.483Z"
+generated_at: "2026-03-29T23:20:44.048Z"
 ---
 
 # § 80a–54. Acquisition of assets by business development companies

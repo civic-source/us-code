@@ -3,9 +3,9 @@ title: "Section 30145 - Period of limitations"
 usc_title: 52
 usc_section: "30145"
 chapter: 301
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "52 U.S.C. § 30145"
-generated_at: "2026-03-29T23:19:06.404Z"
+generated_at: "2026-03-29T23:23:50.622Z"
 ---
 
 # § 30145. Period of limitations

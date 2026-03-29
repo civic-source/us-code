@@ -3,9 +3,9 @@ title: "Section 1904 - Range improvement funding"
 usc_title: 43
 usc_section: "1904"
 chapter: 37
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "43 U.S.C. § 1904"
-generated_at: "2026-03-29T23:18:11.550Z"
+generated_at: "2026-03-29T23:23:13.716Z"
 ---
 
 # § 1904. Range improvement funding

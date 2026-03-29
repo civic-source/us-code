@@ -3,9 +3,9 @@ title: "Section 397 - Contracts for expert review"
 usc_title: 21
 usc_section: "397"
 chapter: 9
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "21 U.S.C. § 397"
-generated_at: "2026-03-29T23:17:28.776Z"
+generated_at: "2026-03-29T23:21:51.546Z"
 ---
 
 # § 397. Contracts for expert review

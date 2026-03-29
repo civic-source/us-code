@@ -3,9 +3,9 @@ title: "Section 1997h - Notice to Federal departments"
 usc_title: 42
 usc_section: "1997h"
 chapter: 21
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 1997h"
-generated_at: "2026-03-29T23:18:45.665Z"
+generated_at: "2026-03-29T23:23:27.774Z"
 ---
 
 # § 1997h. Notice to Federal departments

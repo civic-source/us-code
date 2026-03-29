@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Pub. L. 87–728, § 3 , Oct. 1, 1962 , 76 Stat. 6
 usc_title: 16
 usc_section: "5"
 chapter: 12
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-29T23:17:08.433Z"
+generated_at: "2026-03-29T23:21:01.724Z"
 ---
 
 # § 835c–5. Repealed. Pub. L. 87–728, § 3 , Oct. 1, 1962 , 76 Stat. 678

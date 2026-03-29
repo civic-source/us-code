@@ -3,9 +3,9 @@ title: "Section 20706 - Senior Policy Operating Group"
 usc_title: 34
 usc_section: "20706"
 chapter: 207
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "34 U.S.C. § 20706"
-generated_at: "2026-03-29T23:18:03.324Z"
+generated_at: "2026-03-29T23:22:39.904Z"
 ---
 
 # § 20706. Senior Policy Operating Group

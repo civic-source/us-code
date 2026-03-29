@@ -3,9 +3,9 @@ title: "Section 105 - Executive agency"
 usc_title: 5
 usc_section: "105"
 chapter: 1
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "5 U.S.C. § 105"
-generated_at: "2026-03-29T23:16:00.891Z"
+generated_at: "2026-03-29T23:19:45.006Z"
 ---
 
 # § 105. Executive agency

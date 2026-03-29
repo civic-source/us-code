@@ -3,9 +3,9 @@ title: "Section 5211 - Production and entry of distilled spirits"
 usc_title: 26
 usc_section: "5211"
 chapter: 51
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "26 U.S.C. § 5211"
-generated_at: "2026-03-29T23:17:50.367Z"
+generated_at: "2026-03-29T23:22:12.944Z"
 ---
 
 # § 5211. Production and entry of distilled spirits

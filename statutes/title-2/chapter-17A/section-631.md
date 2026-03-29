@@ -3,9 +3,9 @@ title: "Section 631 - Timetable"
 usc_title: 2
 usc_section: "631"
 chapter: 17
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "2 U.S.C. § 631"
-generated_at: "2026-03-29T23:15:59.484Z"
+generated_at: "2026-03-29T23:19:24.677Z"
 ---
 
 # § 631. Timetable

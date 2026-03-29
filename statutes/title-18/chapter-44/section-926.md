@@ -3,9 +3,9 @@ title: "Section 926 - Rules and regulations"
 usc_title: 18
 usc_section: "926"
 chapter: 44
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "18 U.S.C. § 926"
-generated_at: "2026-03-29T23:17:16.690Z"
+generated_at: "2026-03-29T23:21:10.284Z"
 ---
 
 # § 926. Rules and regulations

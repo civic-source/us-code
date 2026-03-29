@@ -3,9 +3,9 @@ title: "Section 2211 - Payment of claims or judgments for damage resulting from 
 usc_title: 42
 usc_section: "2211"
 chapter: 23
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 2211"
-generated_at: "2026-03-29T23:18:45.684Z"
+generated_at: "2026-03-29T23:23:27.791Z"
 ---
 
 # § 2211. Payment of claims or judgments for damage resulting from nuclear incident involving nuclear reactor of United States warship; exception; terms and conditions

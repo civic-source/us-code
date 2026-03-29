@@ -3,9 +3,9 @@ title: "Section 284h - General management plan; preparation and revision; submit
 usc_title: 16
 usc_section: "284h"
 chapter: 1
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "16 U.S.C. § 284h"
-generated_at: "2026-03-29T23:17:08.285Z"
+generated_at: "2026-03-29T23:21:01.604Z"
 ---
 
 # § 284h. General management plan; preparation and revision; submittal to Congressional committees

@@ -3,9 +3,9 @@ title: "Section 3745 - Required regulations"
 usc_title: 10
 usc_section: "3745"
 chapter: 273
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "10 U.S.C. § 3745"
-generated_at: "2026-03-29T23:16:24.334Z"
+generated_at: "2026-03-29T23:20:11.261Z"
 ---
 
 # § 3745. Required regulations

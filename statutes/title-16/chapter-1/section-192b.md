@@ -3,9 +3,9 @@ title: "Section 192b - Addition of lands"
 usc_title: 16
 usc_section: "192b"
 chapter: 1
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "16 U.S.C. § 192b"
-generated_at: "2026-03-29T23:17:08.277Z"
+generated_at: "2026-03-29T23:21:01.598Z"
 ---
 
 # § 192b. Addition of lands

@@ -3,9 +3,9 @@ title: "Section 522 - Necessary expenditures"
 usc_title: 31
 usc_section: "522"
 chapter: 5
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "31 U.S.C. § 522"
-generated_at: "2026-03-29T23:17:53.468Z"
+generated_at: "2026-03-29T23:22:40.593Z"
 ---
 
 # § 522. Necessary expenditures

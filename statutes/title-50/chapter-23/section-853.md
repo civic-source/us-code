@@ -3,9 +3,9 @@ title: "Section 853 - Retention of registration statements; public examination; 
 usc_title: 50
 usc_section: "853"
 chapter: 23
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "50 U.S.C. § 853"
-generated_at: "2026-03-29T23:18:53.901Z"
+generated_at: "2026-03-29T23:23:39.046Z"
 ---
 
 # § 853. Retention of registration statements; public examination; withdrawal

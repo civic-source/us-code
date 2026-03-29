@@ -3,9 +3,9 @@ title: "Section 5414 - Notification and correction of defects by manufacturer"
 usc_title: 42
 usc_section: "5414"
 chapter: 70
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 5414"
-generated_at: "2026-03-29T23:18:45.753Z"
+generated_at: "2026-03-29T23:23:27.859Z"
 ---
 
 # § 5414. Notification and correction of defects by manufacturer

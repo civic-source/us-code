@@ -3,9 +3,9 @@ title: "Section 1136 - Annual reports to Congress"
 usc_title: 16
 usc_section: "1136"
 chapter: 23
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "16 U.S.C. § 1136"
-generated_at: "2026-03-29T23:17:08.444Z"
+generated_at: "2026-03-29T23:21:01.734Z"
 ---
 
 # § 1136. Annual reports to Congress

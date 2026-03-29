@@ -3,9 +3,9 @@ title: "Section 1360 - Establishment of central file; information from other dep
 usc_title: 8
 usc_section: "1360"
 chapter: 12
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "8 U.S.C. § 1360"
-generated_at: "2026-03-29T23:16:19.887Z"
+generated_at: "2026-03-29T23:20:02.238Z"
 ---
 
 # § 1360. Establishment of central file; information from other departments and agencies

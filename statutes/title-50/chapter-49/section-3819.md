@@ -3,9 +3,9 @@ title: "Section 3819 - Authority of President to order Reserve components to act
 usc_title: 50
 usc_section: "3819"
 chapter: 49
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "50 U.S.C. § 3819"
-generated_at: "2026-03-29T23:18:53.958Z"
+generated_at: "2026-03-29T23:23:39.101Z"
 ---
 
 # § 3819. Authority of President to order Reserve components to active service; release from active duty; retention of unit organizations and equipment

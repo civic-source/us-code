@@ -3,9 +3,9 @@ title: "Section 3030 - Temporary appointment or advancement of commissioned offi
 usc_title: 33
 usc_section: "3030"
 chapter: 43
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "33 U.S.C. § 3030"
-generated_at: "2026-03-29T23:17:55.169Z"
+generated_at: "2026-03-29T23:22:27.831Z"
 ---
 
 # § 3030. Temporary appointment or advancement of commissioned officers in time of war or national emergency

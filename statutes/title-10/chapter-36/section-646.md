@@ -3,9 +3,9 @@ title: "Section 646 - Consideration of performance as a member of the Joint Staf
 usc_title: 10
 usc_section: "646"
 chapter: 36
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "10 U.S.C. § 646"
-generated_at: "2026-03-29T23:16:24.234Z"
+generated_at: "2026-03-29T23:20:11.179Z"
 ---
 
 # § 646. Consideration of performance as a member of the Joint Staff

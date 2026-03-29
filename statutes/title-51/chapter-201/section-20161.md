@@ -3,9 +3,9 @@ title: "Section 20161 - Congressional declaration of purpose and policy"
 usc_title: 51
 usc_section: "20161"
 chapter: 201
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "51 U.S.C. § 20161"
-generated_at: "2026-03-29T23:19:07.689Z"
+generated_at: "2026-03-29T23:23:51.492Z"
 ---
 
 # § 20161. Congressional declaration of purpose and policy

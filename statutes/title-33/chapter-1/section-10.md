@@ -3,9 +3,9 @@ title: "Section 10 - Waters in Louisiana Purchase as public highways"
 usc_title: 33
 usc_section: "10"
 chapter: 1
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "33 U.S.C. § 10"
-generated_at: "2026-03-29T23:17:55.085Z"
+generated_at: "2026-03-29T23:22:27.752Z"
 ---
 
 # § 10. Waters in Louisiana Purchase as public highways

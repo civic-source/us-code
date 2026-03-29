@@ -3,9 +3,9 @@ title: "Section 568 - Services, facilities, and payment of committee member expe
 usc_title: 5
 usc_section: "568"
 chapter: 5
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "5 U.S.C. § 568"
-generated_at: "2026-03-29T23:16:00.895Z"
+generated_at: "2026-03-29T23:19:45.012Z"
 ---
 
 # § 568. Services, facilities, and payment of committee member expenses

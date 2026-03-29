@@ -3,9 +3,9 @@ title: "Section 7972 - Definitions"
 usc_title: 20
 usc_section: "7972"
 chapter: 70
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "20 U.S.C. § 7972"
-generated_at: "2026-03-29T23:17:24.121Z"
+generated_at: "2026-03-29T23:21:16.660Z"
 ---
 
 # § 7972. Definitions

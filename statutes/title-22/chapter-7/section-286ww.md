@@ -3,9 +3,9 @@ title: "Section 286ww - Acceptance of amendments to Articles of Agreement of Fun
 usc_title: 22
 usc_section: "286ww"
 chapter: 7
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "22 U.S.C. § 286ww"
-generated_at: "2026-03-29T23:17:34.983Z"
+generated_at: "2026-03-29T23:21:55.119Z"
 ---
 
 # § 286ww. Acceptance of amendments to Articles of Agreement of Fund

@@ -3,9 +3,9 @@ title: "Section 5913 - Official residence expenses"
 usc_title: 5
 usc_section: "5913"
 chapter: 59
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "5 U.S.C. § 5913"
-generated_at: "2026-03-29T23:16:00.919Z"
+generated_at: "2026-03-29T23:19:45.040Z"
 ---
 
 # § 5913. Official residence expenses

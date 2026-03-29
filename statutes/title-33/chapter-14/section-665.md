@@ -3,9 +3,9 @@ title: "Section 665 - Survey for debris reservoirs; study of methods of mines an
 usc_title: 33
 usc_section: "665"
 chapter: 14
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "33 U.S.C. § 665"
-generated_at: "2026-03-29T23:17:55.103Z"
+generated_at: "2026-03-29T23:22:27.768Z"
 ---
 
 # § 665. Survey for debris reservoirs; study of methods of mines and mining

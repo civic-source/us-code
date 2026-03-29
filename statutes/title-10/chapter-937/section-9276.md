@@ -3,9 +3,9 @@ title: "Section 9276 - Silver star: award"
 usc_title: 10
 usc_section: "9276"
 chapter: 937
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "10 U.S.C. § 9276"
-generated_at: "2026-03-29T23:16:24.373Z"
+generated_at: "2026-03-29T23:20:11.294Z"
 ---
 
 # § 9276. Silver star: award

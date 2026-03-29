@@ -3,9 +3,9 @@ title: "Section 2416 - Newsletter"
 usc_title: 25
 usc_section: "2416"
 chapter: 26
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "25 U.S.C. § 2416"
-generated_at: "2026-03-29T23:17:32.025Z"
+generated_at: "2026-03-29T23:21:42.546Z"
 ---
 
 # § 2416. Newsletter

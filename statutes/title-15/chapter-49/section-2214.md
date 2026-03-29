@@ -3,9 +3,9 @@ title: "Section 2214 - Public safety awards"
 usc_title: 15
 usc_section: "2214"
 chapter: 49
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "15 U.S.C. § 2214"
-generated_at: "2026-03-29T23:17:00.590Z"
+generated_at: "2026-03-29T23:20:44.136Z"
 ---
 
 # § 2214. Public safety awards

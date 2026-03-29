@@ -3,9 +3,9 @@ title: "Section 11701 - Identification of excess and surplus computer equipment"
 usc_title: 40
 usc_section: "11701"
 chapter: 117
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "40 U.S.C. § 11701"
-generated_at: "2026-03-29T23:18:06.582Z"
+generated_at: "2026-03-29T23:22:55.084Z"
 ---
 
 # § 11701. Identification of excess and surplus computer equipment

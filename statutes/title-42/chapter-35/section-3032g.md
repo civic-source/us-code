@@ -3,9 +3,9 @@ title: "Section 3032g - Native American programs"
 usc_title: 42
 usc_section: "3032g"
 chapter: 35
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 3032g"
-generated_at: "2026-03-29T23:18:45.703Z"
+generated_at: "2026-03-29T23:23:27.809Z"
 ---
 
 # § 3032g. Native American programs

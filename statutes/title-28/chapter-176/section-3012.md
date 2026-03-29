@@ -3,9 +3,9 @@ title: "Section 3012 - Joinder of additional defendant"
 usc_title: 28
 usc_section: "3012"
 chapter: 176
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "28 U.S.C. § 3012"
-generated_at: "2026-03-29T23:17:38.428Z"
+generated_at: "2026-03-29T23:22:00.775Z"
 ---
 
 # § 3012. Joinder of additional defendant

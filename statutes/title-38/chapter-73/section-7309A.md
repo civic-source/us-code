@@ -3,9 +3,9 @@ title: "Section 7309A - Office of Patient Advocacy"
 usc_title: 38
 usc_section: "7309A"
 chapter: 73
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "38 U.S.C. § 7309A"
-generated_at: "2026-03-29T23:18:08.762Z"
+generated_at: "2026-03-29T23:22:45.429Z"
 ---
 
 # § 7309A. Office of Patient Advocacy
@@ -20,6 +20,9 @@ generated_at: "2026-03-29T23:18:08.762Z"
     - **(A)** advocate on behalf of veterans with respect to health care received and sought by veterans under the laws administered by the Secretary;
     - **(B)** carry out the responsibilities specified in subsection (d); and
     - **(C)** receive training in patient advocacy.
+  - **(3)** Beginning not later than 18 months after the date of the enactment of this paragraph, the Director shall establish an information technology system that will allow a veteran (or the designated representative of a veteran) to electronically—
+    - **(A)** file a complaint that will be received by the appropriate patient advocate; and
+    - **(B)** at any time view the status of the complaint, including interim and final actions that have been taken to address the complaint.
 - **(d)** The responsibilities of each patient advocate at a medical facility of the Department are the following:
   - **(1)** To resolve complaints by veterans with respect to health care furnished under the laws administered by the Secretary that cannot be resolved at the point of service or at a higher level easily accessible to the veteran.
   - **(2)** To present at various meetings and to various committees the issues experienced by veterans in receiving such health care at such medical facility.

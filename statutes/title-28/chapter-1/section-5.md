@@ -3,9 +3,9 @@ title: "Section 5 - Salaries of justices"
 usc_title: 28
 usc_section: "5"
 chapter: 1
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "28 U.S.C. § 5"
-generated_at: "2026-03-29T23:17:38.392Z"
+generated_at: "2026-03-29T23:22:00.745Z"
 ---
 
 # § 5. Salaries of justices

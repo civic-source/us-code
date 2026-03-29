@@ -3,9 +3,9 @@ title: "Section 629 - Purpose"
 usc_title: 42
 usc_section: "629"
 chapter: 7
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 629"
-generated_at: "2026-03-29T23:18:45.433Z"
+generated_at: "2026-03-29T23:23:27.559Z"
 ---
 
 # § 629. Purpose

@@ -3,9 +3,9 @@ title: "Section 42121 - Protection of employees providing air safety information
 usc_title: 49
 usc_section: "42121"
 chapter: 421
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "49 U.S.C. § 42121"
-generated_at: "2026-03-29T23:18:57.410Z"
+generated_at: "2026-03-29T23:23:48.840Z"
 ---
 
 # § 42121. Protection of employees providing air safety information

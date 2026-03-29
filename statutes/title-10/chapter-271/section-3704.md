@@ -3,9 +3,9 @@ title: "Section 3704 - Cost or pricing data on below-threshold contracts"
 usc_title: 10
 usc_section: "3704"
 chapter: 271
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "10 U.S.C. § 3704"
-generated_at: "2026-03-29T23:16:24.334Z"
+generated_at: "2026-03-29T23:20:11.260Z"
 ---
 
 # § 3704. Cost or pricing data on below-threshold contracts

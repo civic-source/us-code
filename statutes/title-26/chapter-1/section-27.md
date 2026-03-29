@@ -3,9 +3,9 @@ title: "Section 27 - Taxes of foreign countries and possessions of the United St
 usc_title: 26
 usc_section: "27"
 chapter: 1
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "26 U.S.C. § 27"
-generated_at: "2026-03-29T23:17:50.155Z"
+generated_at: "2026-03-29T23:22:12.754Z"
 ---
 
 # § 27. Taxes of foreign countries and possessions of the United States

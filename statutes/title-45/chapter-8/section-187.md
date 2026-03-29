@@ -3,9 +3,9 @@ title: "Section 187 - Separability"
 usc_title: 45
 usc_section: "187"
 chapter: 8
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "45 U.S.C. § 187"
-generated_at: "2026-03-29T23:18:14.232Z"
+generated_at: "2026-03-29T23:23:08.726Z"
 ---
 
 # § 187. Separability

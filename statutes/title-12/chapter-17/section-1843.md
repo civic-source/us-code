@@ -3,9 +3,9 @@ title: "Section 1843 - Interests in nonbanking organizations"
 usc_title: 12
 usc_section: "1843"
 chapter: 17
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "12 U.S.C. § 1843"
-generated_at: "2026-03-29T23:16:31.016Z"
+generated_at: "2026-03-29T23:20:46.663Z"
 ---
 
 # § 1843. Interests in nonbanking organizations

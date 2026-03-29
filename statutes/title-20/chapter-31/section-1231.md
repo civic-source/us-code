@@ -3,9 +3,9 @@ title: "Section 1231 - Joint funding of programs"
 usc_title: 20
 usc_section: "1231"
 chapter: 31
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "20 U.S.C. § 1231"
-generated_at: "2026-03-29T23:17:23.974Z"
+generated_at: "2026-03-29T23:21:16.602Z"
 ---
 
 # § 1231. Joint funding of programs

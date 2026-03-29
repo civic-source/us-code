@@ -3,9 +3,9 @@ title: "Section 17032 - Grants for biofuel production research and development i
 usc_title: 42
 usc_section: "17032"
 chapter: 152
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 17032"
-generated_at: "2026-03-29T23:18:45.986Z"
+generated_at: "2026-03-29T23:23:28.088Z"
 ---
 
 # § 17032. Grants for biofuel production research and development in certain States

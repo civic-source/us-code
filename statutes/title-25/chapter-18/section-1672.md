@@ -3,9 +3,9 @@ title: "Section 1672 - Regulations"
 usc_title: 25
 usc_section: "1672"
 chapter: 18
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "25 U.S.C. § 1672"
-generated_at: "2026-03-29T23:17:32.012Z"
+generated_at: "2026-03-29T23:21:42.534Z"
 ---
 
 # § 1672. Regulations

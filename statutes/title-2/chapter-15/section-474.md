@@ -3,9 +3,9 @@ title: "Section 474 - Director of Office of Technology Assessment"
 usc_title: 2
 usc_section: "474"
 chapter: 15
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "2 U.S.C. § 474"
-generated_at: "2026-03-29T23:15:59.483Z"
+generated_at: "2026-03-29T23:19:24.675Z"
 ---
 
 # § 474. Director of Office of Technology Assessment

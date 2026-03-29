@@ -3,9 +3,9 @@ title: "Section 1138e - Repealed. Pub. L. 92–181, title V, § 5 .26(a), Dec. 1
 usc_title: 12
 usc_section: "1138e"
 chapter: 7
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "12 U.S.C. § 1138e"
-generated_at: "2026-03-29T23:16:30.936Z"
+generated_at: "2026-03-29T23:20:46.594Z"
 ---
 
 # § 1138e. Repealed. Pub. L. 92–181, title V, § 5 .26(a), Dec. 10, 1971 , 85 Stat. 624

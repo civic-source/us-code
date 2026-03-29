@@ -3,9 +3,9 @@ title: "Section 274g - Authorization of appropriations"
 usc_title: 42
 usc_section: "274g"
 chapter: 6
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 274g"
-generated_at: "2026-03-29T23:18:45.298Z"
+generated_at: "2026-03-29T23:23:27.430Z"
 ---
 
 # § 274g. Authorization of appropriations

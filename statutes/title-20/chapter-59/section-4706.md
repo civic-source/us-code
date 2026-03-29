@@ -3,9 +3,9 @@ title: "Section 4706 - Scholarship and research internship conditions"
 usc_title: 20
 usc_section: "4706"
 chapter: 59
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "20 U.S.C. § 4706"
-generated_at: "2026-03-29T23:17:24.087Z"
+generated_at: "2026-03-29T23:21:16.628Z"
 ---
 
 # § 4706. Scholarship and research internship conditions

@@ -3,9 +3,9 @@ title: "Section 2644 - Relationship to other authority"
 usc_title: 16
 usc_section: "2644"
 chapter: 46
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "16 U.S.C. § 2644"
-generated_at: "2026-03-29T23:17:08.494Z"
+generated_at: "2026-03-29T23:21:01.776Z"
 ---
 
 # § 2644. Relationship to other authority

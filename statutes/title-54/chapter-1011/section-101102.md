@@ -3,9 +3,9 @@ title: "Section 101102 - Authority to accept and use funds to consolidate Federa
 usc_title: 54
 usc_section: "101102"
 chapter: 1011
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "54 U.S.C. § 101102"
-generated_at: "2026-03-29T23:19:06.248Z"
+generated_at: "2026-03-29T23:23:51.090Z"
 ---
 
 # § 101102. Authority to accept and use funds to consolidate Federal land ownership

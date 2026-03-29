@@ -3,9 +3,9 @@ title: "Section 318 - National Advisory Council"
 usc_title: 6
 usc_section: "318"
 chapter: 1
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "6 U.S.C. § 318"
-generated_at: "2026-03-29T23:16:24.938Z"
+generated_at: "2026-03-29T23:20:11.799Z"
 ---
 
 # § 318. National Advisory Council

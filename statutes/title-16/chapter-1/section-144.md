@@ -3,9 +3,9 @@ title: "Section 144 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1028"
 usc_title: 16
 usc_section: "144"
 chapter: 1
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "16 U.S.C. § 144"
-generated_at: "2026-03-29T23:17:08.275Z"
+generated_at: "2026-03-29T23:21:01.596Z"
 ---
 
 # §§ 143, 144. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1028

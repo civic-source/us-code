@@ -3,9 +3,9 @@ title: "Section 4452 - United States-Israel trade and commercial enhancement"
 usc_title: 19
 usc_section: "4452"
 chapter: 28
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "19 U.S.C. § 4452"
-generated_at: "2026-03-29T23:17:13.222Z"
+generated_at: "2026-03-29T23:20:52.973Z"
 ---
 
 # § 4452. United States-Israel trade and commercial enhancement

@@ -3,9 +3,9 @@ title: "Section 3301 - Full and open competition"
 usc_title: 41
 usc_section: "3301"
 chapter: 33
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "41 U.S.C. § 3301"
-generated_at: "2026-03-29T23:18:31.013Z"
+generated_at: "2026-03-29T23:22:56.976Z"
 ---
 
 # § 3301. Full and open competition

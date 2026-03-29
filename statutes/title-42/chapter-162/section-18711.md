@@ -3,9 +3,9 @@ title: "Section 18711 - Preventing outages and enhancing the resilience of the e
 usc_title: 42
 usc_section: "18711"
 chapter: 162
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "42 U.S.C. § 18711"
-generated_at: "2026-03-29T23:18:46.015Z"
+generated_at: "2026-03-29T23:23:28.117Z"
 ---
 
 # § 18711. Preventing outages and enhancing the resilience of the electric grid

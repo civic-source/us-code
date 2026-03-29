@@ -3,9 +3,9 @@ title: "Section 2404 - Deputy Administrator for Defense Programs"
 usc_title: 50
 usc_section: "2404"
 chapter: 41
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "50 U.S.C. § 2404"
-generated_at: "2026-03-29T23:18:53.919Z"
+generated_at: "2026-03-29T23:23:39.064Z"
 ---
 
 # § 2404. Deputy Administrator for Defense Programs

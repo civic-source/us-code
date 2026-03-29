@@ -3,9 +3,9 @@ title: "Section 8411 - Creditable service"
 usc_title: 5
 usc_section: "8411"
 chapter: 84
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "5 U.S.C. § 8411"
-generated_at: "2026-03-29T23:16:00.936Z"
+generated_at: "2026-03-29T23:19:45.059Z"
 ---
 
 # § 8411. Creditable service

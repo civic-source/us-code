@@ -3,9 +3,9 @@ title: "Section 606 - Removal of snags, and so forth, from Ohio River"
 usc_title: 33
 usc_section: "606"
 chapter: 12
-current_through: "PL 117-174"
+current_through: "PL 117-177"
 classification: "33 U.S.C. § 606"
-generated_at: "2026-03-29T23:17:55.102Z"
+generated_at: "2026-03-29T23:22:27.766Z"
 ---
 
 # § 606. Removal of snags, and so forth, from Ohio River
