@@ -3,9 +3,9 @@ title: "Section 13212 - Minimum Federal fleet requirement"
 usc_title: 42
 usc_section: "13212"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 13212"
-generated_at: "2026-03-29T02:15:37.246Z"
+generated_at: "2026-03-29T17:53:35.833Z"
 ---
 
 # § 13212. Minimum Federal fleet requirement
@@ -35,8 +35,9 @@ generated_at: "2026-03-29T02:15:37.246Z"
 - **(e)** The Administrator of General Services shall take all feasible steps to ensure that all alternative fueled vehicles sold by the Federal Government shall remain alternative fueled vehicles at time of sale.
 - **(f)**
   - **(1)** In this subsection:
-    - **(A)** The term “Federal agency” does not include any office of the legislative branch.
+    - **(A)** The term “Federal agency” does not include any office of the legislative branch, except that it does include the House of Representatives with respect to an acquisition described in paragraph (2)(C).
     - **(B)** The term “medium duty passenger vehicle” has the meaning given that term 1 1 So in original. The word “in” probably should appear after “term”. section 523.2 of title 49 of the Code of Federal Regulations, as in effect on December 19, 2007 .
+    - **(C)** The term “Member’s Representational Allowance” means the allowance described in section 5341(a) of title 2 .
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), no Federal agency shall acquire a light duty motor vehicle or medium duty passenger vehicle that is not a low greenhouse gas emitting vehicle.
     - **(B)** The prohibition in subparagraph (A) shall not apply to acquisition of a vehicle if the head of the agency certifies in writing, in a separate certification for each individual vehicle purchased, either—
@@ -44,6 +45,7 @@ generated_at: "2026-03-29T02:15:37.246Z"
       - **(ii)** that the agency has taken specific alternative more cost-effective measures to reduce petroleum consumption that—
         - **(I)** have reduced a measured and verified quantity of greenhouse gas emissions equal to or greater than the quantity of greenhouse gas reductions that would have been achieved through acquisition of a low greenhouse gas emitting vehicle over the lifetime of the vehicle; or
         - **(II)** will reduce each year a measured and verified quantity of greenhouse gas emissions equal to or greater than the quantity of greenhouse gas reductions that would have been achieved each year through acquisition of a low greenhouse gas emitting vehicle.
+    - **(C)** This paragraph shall apply to the acquisition of a light duty motor vehicle or medium duty passenger vehicle using any portion of a Member’s Representational Allowance, including an acquisition under a long-term lease.
   - **(3)**
     - **(A)** Each year, the Administrator of the Environmental Protection Agency shall issue guidance identifying the makes and model numbers of vehicles that are low greenhouse gas emitting vehicles.
     - **(B)** In identifying vehicles under subparagraph (A), the Administrator shall take into account the most stringent standards for vehicle greenhouse gas emissions applicable to and enforceable against motor vehicle manufacturers for vehicles sold anywhere in the United States.

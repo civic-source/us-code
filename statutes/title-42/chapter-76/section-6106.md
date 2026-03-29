@@ -3,9 +3,9 @@ title: "Section 6106 - Study of discrimination based on age"
 usc_title: 42
 usc_section: "6106"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6106"
-generated_at: "2026-03-29T02:15:36.791Z"
+generated_at: "2026-03-29T17:53:35.355Z"
 ---
 
 # § 6106. Study of discrimination based on age
@@ -14,6 +14,6 @@ generated_at: "2026-03-29T02:15:36.791Z"
 - **(b)** As part of the study required by this section, the Commission shall conduct public hearings to elicit the views of interested parties, including Federal departments and agencies, on issues relating to age discrimination in programs and activities receiving Federal financial assistance, and particularly with respect to the reasonableness of distinguishing, on the basis of age, among potential participants in, or beneficiaries of, specific federally assisted programs.
 - **(c)** The Commission is authorized to obtain, through grant or contract, analyses, research and studies by independent experts of issues relating to age discrimination and to publish the results thereof. For purposes of the study required by this section, the Commission may accept and utilize the services of voluntary or uncompensated personnel, without regard to the provisions of section 105(b) of the Civil Rights Act of 1957 ( 42 U.S.C. 1975d(b) ).
 - **(d)** Not later than two years after November 28, 1975 , the Commission shall transmit a report of its findings and its recommendations for statutory changes (if any) and administrative action, including suggested general regulations, to the Congress and to the President and shall provide a copy of its report to the head of each Federal department and agency with respect to which the Commission makes findings or recommendations. The Commission is authorized to provide, upon request, information and technical assistance regarding its findings and recommendations to Congress, to the President, and to the heads of Federal departments and agencies for a ninety-day period following the transmittal of its report.
-- **(e)** Not later than forty-five working days after receiving a copy of the report required by subsection (d), each Federal department or agency with respect to which the Commission makes findings or recommendations shall submit its comments and recommendations regarding such report to the President and to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives.
-- **(f)** The head of each Federal department or agency shall cooperate in all respects with the Commission with respect to the study required by subsection (a), and shall provide to the Commission such data, reports, and documents in connection with the subject matter of such study as the Commission may request.
+- **(e)** Not later than forty-five working days after receiving a copy of the report required by subsection (d) of this section, each Federal department or agency with respect to which the Commission makes findings or recommendations shall submit its comments and recommendations regarding such report to the President and to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives.
+- **(f)** The head of each Federal department or agency shall cooperate in all respects with the Commission with respect to the study required by subsection (a) of this section, and shall provide to the Commission such data, reports, and documents in connection with the subject matter of such study as the Commission may request.
 - **(g)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.

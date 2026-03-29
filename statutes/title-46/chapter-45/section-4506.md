@@ -3,14 +3,13 @@ title: "Section 4506 - Exemptions"
 usc_title: 46
 usc_section: "4506"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 4506"
-generated_at: "2026-03-29T02:15:53.718Z"
+generated_at: "2026-03-29T17:53:41.790Z"
 ---
 
 # § 4506. Exemptions
 
-The Secretary may exempt a vessel from any part of this chapter if, under regulations prescribed by the Secretary (including regulations on special operating conditions), the Secretary finds that—
-
+- **(a)** 1 1 So in original. There is no subsec. (b). The Secretary may exempt a vessel from any part of this chapter if, under regulations prescribed by the Secretary (including regulations on special operating conditions), the Secretary finds that—
   - **(1)** good cause exists for granting an exemption; and
   - **(2)** the safety of the vessel and those on board will not be adversely affected.

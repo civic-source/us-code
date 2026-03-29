@@ -3,9 +3,9 @@ title: "Section 422 - Rehabilitation services"
 usc_title: 42
 usc_section: "422"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 422"
-generated_at: "2026-03-29T02:15:35.974Z"
+generated_at: "2026-03-29T17:53:34.444Z"
 ---
 
 # § 422. Rehabilitation services
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:15:35.974Z"
   - **(4)** A period of trial work for any individual shall end with the close of whichever of the following months is the earlier:
     - **(A)** the ninth month, in any period of 60 consecutive months, in which the individual renders services (whether or not such nine months are consecutive); or
     - **(B)** the month in which his disability (as defined in section 423(d) of this title ) ceases (as determined after application of paragraph (2) of this subsection).
-  - **(5)** Upon conviction by a Federal court, or the imposition of a civil monetary penalty under section 1320a–8 of this title , that an individual has fraudulently concealed work activity during a period of trial work from the Commissioner of Social Security by—
+  - **(5)** Upon conviction by a Federal court that an individual has fraudulently concealed work activity during a period of trial work from the Commissioner of Social Security by—
     - **(A)** providing false information to the Commissioner of Social Security as to whether the individual had earnings in or for a particular period, or as to the amount thereof;
     - **(B)** receiving disability insurance benefits under this subchapter while engaging in work activity under another identity, including under another social security account number or a number purporting to be a social security account number; or
     - **(C)** taking other actions to conceal work activity with an intent fraudulently to secure payment in a greater amount than is due or when no payment is authorized,

@@ -3,18 +3,18 @@ title: "Section 273 - Organ procurement organizations"
 usc_title: 42
 usc_section: "273"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 273"
-generated_at: "2026-03-29T02:15:35.651Z"
+generated_at: "2026-03-29T17:53:34.131Z"
 ---
 
 # § 273. Organ procurement organizations
 
 - **(a)**
-  - **(1)** The Secretary may make grants for the planning of qualified organ procurement organizations described in subsection (b).
-  - **(2)** The Secretary may make grants for the establishment, initial operation, consolidation, and expansion of qualified organ procurement organizations described in subsection (b).
+  - **(1)** The Secretary may make grants for the planning of qualified organ procurement organizations described in subsection (b) of this section.
+  - **(2)** The Secretary may make grants for the establishment, initial operation, consolidation, and expansion of qualified organ procurement organizations described in subsection (b) of this section.
 - **(b)**
-  - **(1)** A qualified organ procurement organization for which grants may be made under subsection (a) is an organization which, as determined by the Secretary, will carry out the functions described in paragraph (2) 1 1 See References in Text note below. and—
+  - **(1)** A qualified organ procurement organization for which grants may be made under subsection (a) of this section is an organization which, as determined by the Secretary, will carry out the functions described in paragraph (2) 1 1 See References in Text note below. and—
     - **(A)** is a nonprofit entity,
     - **(B)** has accounting and other fiscal procedures (as specified by the Secretary) necessary to assure the fiscal stability of the organization,
     - **(C)** has an agreement with the Secretary to be reimbursed under title XVIII of the Social Security Act [ 42 U.S.C. 1395 et seq.] for the procurement of kidneys,
@@ -27,14 +27,13 @@ generated_at: "2026-03-29T02:15:35.651Z"
         - **(II)** rely on outcome and process performance measures that are based on empirical evidence, obtained through reasonable efforts, of organ donor potential and other related factors in each service area of qualified organ procurement organizations;
         - **(III)** use multiple outcome measures as part of the certification process; and
         - **(IV)** provide for a qualified organ procurement organization to appeal a decertification to the Secretary on substantive and procedural grounds; 2 2 So in original. The semicolon probably should be a comma.
-    - **(E)** has procedures to obtain payment for non-renal organs provided to transplant centers,
-    - **(F)** has a defined service area that is of sufficient size to assure maximum effectiveness in the procurement and equitable distribution of organs, and that either includes an entire metropolitan statistical area (as specified by the Director of the Office of Management and Budget) or does not include any part of the area,
-    - **(G)** has a director and such other staff, including the organ donation coordinators and organ procurement specialists necessary to effectively obtain organs from donors in its service area, and
-    - **(H)** has a board of directors or an advisory board which—
+    - **(E)** has a defined service area that is of sufficient size to assure maximum effectiveness in the procurement and equitable distribution of organs, and that either includes an entire metropolitan statistical area (as specified by the Director of the Office of Management and Budget) or does not include any part of the area,
+    - **(F)** has a director and such other staff, including the organ donation coordinators and organ procurement specialists necessary to effectively obtain organs from donors in its service area, and
+    - **(G)** has a board of directors or an advisory board which—
       - **(i)** is composed of—
         - **(I)** members who represent hospital administrators, intensive care or emergency room personnel, tissue banks, and voluntary health associations in its service area,
         - **(II)** members who represent the public residing in such area,
-        - **(III)** a physician with knowledge, experience, or skill in the field of histocompatibility or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility,
+        - **(III)** a physician with knowledge, experience, or skill in the field of histocompatability 3 3 So in original. Probably should be “histocompatibility”. or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility,
         - **(IV)** a physician with knowledge or skill in the field of neurology, and
         - **(V)** from each transplant center in its service area which has arrangements described in paragraph (3)(G) with the organization, a member who is a surgeon who has practicing privileges in such center and who performs organ transplant surgery,
       - **(ii)** has the authority to recommend policies for the procurement of organs and the other functions described in paragraph (3), and
@@ -54,4 +53,4 @@ generated_at: "2026-03-29T02:15:35.651Z"
     - **(I)** have arrangements to cooperate with tissue banks for the retrieval, processing, preservation, storage, and distribution of tissues as may be appropriate to assure that all useable tissues are obtained from potential donors,
     - **(J)** evaluate annually the effectiveness of the organization in acquiring potentially available organs, and
     - **(K)** assist hospitals in establishing and implementing protocols for making routine inquiries about organ donations by potential donors.
-- **(c)** Pancreata procured by an organ procurement organization and used for islet cell transplantation or research shall be counted for purposes of certification or recertification under subsection (b).
+- **(c)** Pancreata procured by an organ procurement organization and used for islet cell transplantation or research shall be counted for purposes of certification or recertification under subsection (b) of this section.

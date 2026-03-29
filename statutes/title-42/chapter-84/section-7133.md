@@ -3,9 +3,9 @@ title: "Section 7133 - Assistant Secretaries; appointment and confirmation; iden
 usc_title: 42
 usc_section: "7133"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7133"
-generated_at: "2026-03-29T02:15:36.878Z"
+generated_at: "2026-03-29T17:53:35.449Z"
 ---
 
 # § 7133. Assistant Secretaries; appointment and confirmation; identification of responsibilities
@@ -34,4 +34,4 @@ generated_at: "2026-03-29T02:15:36.878Z"
   - **(9)** Energy conservation functions, including the development of comprehensive energy conservation strategies for the Nation, the planning and implementation of major research and demonstration programs for the development of technologies and processes to reduce total energy consumption, the administration of voluntary and mandatory energy conservation programs, and the dissemination to the public of all available information on energy conservation programs and measures.
   - **(10)** Power marketing functions, including responsibility for marketing and transmission of Federal power.
   - **(11)** Public and congressional relations functions, including responsibilities for providing a continuing liaison between the Department and the Congress and the Department and the public.
-- **(b)** At the time the name of any individual is submitted for confirmation to the position of Assistant Secretary, the President shall identify with particularity the function or functions described in subsection (a) (or any portion thereof) for which such individual will be responsible.
+- **(b)** At the time the name of any individual is submitted for confirmation to the position of Assistant Secretary, the President shall identify with particularity the function or functions described in subsection (a) of this section (or any portion thereof) for which such individual will be responsible.

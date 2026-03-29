@@ -1,12 +1,19 @@
 ---
-title: "Section 2638 - Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(a)(1)(B)(iii) , Dec. 23, 2022 , 136 Stat. 3060"
+title: "Section 2638 - Limitation on use of funds for decommissioning F–canyon facility"
 usc_title: 50
 usc_section: "2638"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2638"
-generated_at: "2026-03-29T02:16:14.750Z"
+generated_at: "2026-03-29T17:53:51.023Z"
 ---
 
-# § 2638. Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(a)(1)(B)(iii) , Dec. 23, 2022 , 136 Stat. 3060
+# § 2638. Limitation on use of funds for decommissioning F–canyon facility
 
+No amounts authorized to be appropriated or otherwise made available for the Department of Energy by the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398 ) or any other Act may be obligated or expended for purposes of commencing the decommissioning of the F–canyon facility at the Savannah River Site until the Secretary of Energy submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and the Defense Nuclear Facilities Safety Board, a report setting forth—
+
+  - **(1)** an assessment whether or not all materials present in the F–canyon facility as of the date of the report that required stabilization have been safely stabilized as of that date;
+  - **(2)** an assessment whether or not the requirements applicable to the F–canyon facility to meet the future needs of the United States for fissile materials disposition can be met through full use of the H–canyon facility at the Savannah River Site; and
+  - **(3)** if it appears that one or more of the requirements described in paragraph (2) cannot be met through full use of the H–canyon facility—
+    - **(A)** an identification by the Secretary of each such requirement that cannot be met through full use of the H–canyon facility; and
+    - **(B)** for each requirement so identified, the reasons why such requirement cannot be met through full use of the H–canyon facility and a description of the alternative capability for fissile materials disposition that is needed to meet such requirement.

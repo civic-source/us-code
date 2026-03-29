@@ -1,12 +1,14 @@
 ---
-title: "Section 13943 - Transferred"
+title: "Section 13943 - Information programs"
 usc_title: 42
 usc_section: "13943"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 13943"
-generated_at: "2026-03-29T02:15:37.278Z"
+generated_at: "2026-03-29T17:53:35.878Z"
 ---
 
-# § 13943. Transferred
+# § 13943. Information programs
+
+The Attorney General shall compile information regarding sex offender treatment programs and ensure that information regarding community treatment programs in the community into which a convicted sex offender is released is made available to each person serving a sentence of imprisonment in a Federal penal or correctional institution for a commission of an offense under chapter 109A of title 18 or for the commission of a similar offense, including halfway houses and psychiatric institutions.
 

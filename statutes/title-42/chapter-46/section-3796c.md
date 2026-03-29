@@ -1,12 +1,16 @@
 ---
-title: "Section 3796c - Transferred"
+title: "Section 3796c - Administrative provisions"
 usc_title: 42
 usc_section: "3796c"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3796c"
-generated_at: "2026-03-29T02:15:36.682Z"
+generated_at: "2026-03-29T17:53:35.204Z"
 ---
 
-# § 3796c. Transferred
+# § 3796c. Administrative provisions
 
+- **(a)** The Bureau is authorized to establish such rules, regulations, and procedures as may be necessary to carry out the purposes of this subchapter. Such rules, regulations, and procedures will be determinative of conflict of laws issues arising under this subchapter. Rules, regulations, and procedures issued under this subchapter may include regulations governing the recognition of agents or other persons representing claimants under this subchapter before the Bureau. The Bureau may prescribe the maximum fees which may be charged for services performed in connection with any claim under this subchapter before the Bureau, and any agreement in violation of such rules and regulations shall be void.
+- **(b)** In making determinations under section 3796 of this title , the Bureau may utilize such administrative and investigative assistance as may be available from State and local agencies. Responsibility for making final determinations shall rest with the Bureau.
+- **(c)** Notwithstanding any other provision of law, the Bureau is authorized to use appropriated funds to conduct appeals of public safety officers’ death and disability claims.
+- **(d)** Unless expressly provided otherwise, any reference in this subchapter to any provision of law not in this subchapter shall be understood to constitute a general reference under the doctrine of incorporation by reference, and thus to include any subsequent amendments to the provision.

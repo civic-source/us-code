@@ -3,9 +3,9 @@ title: "Section 15022 - State allotments"
 usc_title: 42
 usc_section: "15022"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 15022"
-generated_at: "2026-03-29T02:15:37.289Z"
+generated_at: "2026-03-29T17:53:35.923Z"
 ---
 
 # § 15022. State allotments
@@ -40,4 +40,4 @@ generated_at: "2026-03-29T02:15:37.289Z"
   - **(2)** The Secretary may make such a reallotment from time to time, on such date as the Secretary may fix, but not earlier than 30 days after the Secretary has published notice of the intention of the Secretary to make the reallotment in the Federal Register.
   - **(3)** The Secretary shall reallot the amount to other States with respect to which the Secretary has not made that determination. The Secretary shall reallot the amount in proportion to the original allotments of the other States for such fiscal year, but shall reduce such proportionate amount for any of the other States to the extent the proportionate amount exceeds the sum that the Secretary estimates the State needs and will be able to use during such period.
   - **(4)** The Secretary shall similarly reallot the total of the reductions among the States whose proportionate amounts were not so reduced.
-  - **(5)** Any amount reallotted to a State under this subsection for a fiscal year shall be deemed to be a part of the allotment of the State under subsection (a) for such fiscal year.
+  - **(5)** Any amount reallotted to a State under this subsection for a fiscal year shall be deemed to be a part of the allotment of the State under subsection (a) of this section for such fiscal year.

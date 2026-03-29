@@ -1,0 +1,12 @@
+---
+title: "Section 2702a2702b - Omitted"
+usc_title: 42
+usc_section: "2702a2702b"
+chapter: 34
+current_through: "PL 113-100"
+classification: "42 U.S.C. § 2702a2702b"
+generated_at: "2026-03-29T17:53:35.116Z"
+---
+
+# §§ 2702a, 2702b. Omitted
+

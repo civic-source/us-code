@@ -3,9 +3,9 @@ title: "Section 1468 - Distributing obscene material by cable or subscription te
 usc_title: 18
 usc_section: "1468"
 chapter: 71
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 1468"
-generated_at: "2026-03-29T17:53:15.642Z"
+generated_at: "2026-03-29T17:53:59.621Z"
 ---
 
 # § 1468. Distributing obscene material by cable or subscription television

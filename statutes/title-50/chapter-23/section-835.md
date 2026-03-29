@@ -3,9 +3,9 @@ title: "Section 835 - Nonapplicability of administrative procedure provisions"
 usc_title: 50
 usc_section: "835"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 835"
-generated_at: "2026-03-29T02:16:14.698Z"
+generated_at: "2026-03-29T17:53:50.967Z"
 ---
 
 # § 835. Nonapplicability of administrative procedure provisions

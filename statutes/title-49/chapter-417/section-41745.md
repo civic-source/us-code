@@ -3,9 +3,9 @@ title: "Section 41745 - Community and regional choice programs"
 usc_title: 49
 usc_section: "41745"
 chapter: 417
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 41745"
-generated_at: "2026-03-29T02:16:09.012Z"
+generated_at: "2026-03-29T17:53:48.089Z"
 ---
 
 # § 41745. Community and regional choice programs
@@ -18,12 +18,21 @@ generated_at: "2026-03-29T02:16:09.012Z"
     - **(B)** To provide assistance to an air carrier to provide on-demand air taxi service to and from the eligible place.
     - **(C)** To provide assistance to a person to provide scheduled or on-demand surface transportation to and from the eligible place and an airport in another place.
     - **(D)** In combination with other units of local government in the same region, to provide transportation services to and from all the eligible places in that region at an airport or other transportation center that can serve all the eligible places in that region.
-    - **(E)** To pay for other transportation or related services that the Secretary may permit.
+    - **(E)** To purchase aircraft to provide transportation to and from the eligible place or to purchase a fractional share in an aircraft to provide such transportation after the effective date of a rule the Secretary issues relating to fractional ownership.
+    - **(F)** To pay for other transportation or related services that the Secretary may permit.
 - **(b)**
+  - **(1)** The Secretary shall establish a pilot program for not more than 10 eligible places or consortia of units of local government.
+  - **(2)** Under the program, the sponsor of an airport serving an eligible place may elect to forego any essential air service for which compensation is being provided under this subchapter for a 10-year period in exchange for a grant from the Secretary equal in value to twice the compensation paid to provide such service in the most recent 12-month period.
+  - **(3)** Notwithstanding any other provision of law, the Secretary shall make a grant to each airport sponsor participating in the program for use on any project that—
+    - **(A)** is eligible for assistance under chapter 471 and complies with the requirements of that chapter;
+    - **(B)** is located on the airport property; or
+    - **(C)** will improve airport facilities in a way that would make such facilities more usable for general aviation.
+- **(c)** After the effective date of the rule referred to in subsection (a)(3)(E), only those operating rules that relate to an aircraft that is fractionally owned apply when an aircraft described in subsection (a)(3)(E) is used to provide transportation described in subsection (a)(3)(E).
+- **(d)**
   - **(1)** An entity seeking to participate in a program under this section shall submit to the Secretary an application in such form and containing such information as the Secretary may require.
   - **(2)** At a minimum, the application shall include—
     - **(A)** a statement of the amount of compensation or assistance required; and
     - **(B)** a description of how the compensation or assistance will be used.
-- **(c)** An eligible place for which compensation or assistance is provided under this section in a fiscal year shall not be eligible in that fiscal year for the essential air service that it would otherwise be entitled to under this subchapter.
-- **(d)** A unit of local government participating in the program under this subsection (a) in a fiscal year shall not be prohibited from participating in the basic essential air service program under this subchapter in a subsequent fiscal year if such unit is otherwise eligible to participate in such program.
-- **(e)** Amounts appropriated or otherwise made available to carry out the essential air service program under this subchapter shall be available to carry out this section.
+- **(e)** An eligible place for which compensation or assistance is provided under this section in a fiscal year shall not be eligible in that fiscal year for the essential air service that it would otherwise be entitled to under this subchapter.
+- **(f)** A unit of local government participating in the program under this subsection (a) in a fiscal year shall not be prohibited from participating in the basic essential air service program under this subchapter in a subsequent fiscal year if such unit is otherwise eligible to participate in such program.
+- **(g)** Amounts appropriated or otherwise made available to carry out the essential air service program under this subchapter shall be available to carry out this section.

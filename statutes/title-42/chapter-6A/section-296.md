@@ -3,9 +3,9 @@ title: "Section 296 - Definitions"
 usc_title: 42
 usc_section: "296"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 296"
-generated_at: "2026-03-29T02:15:35.776Z"
+generated_at: "2026-03-29T17:53:34.262Z"
 ---
 
 # § 296. Definitions
@@ -33,4 +33,3 @@ As used in this subchapter:
   - **(15)** The term “skilled nursing facility” has the meaning given such term in section 1819(a) of the Social Security Act [ 42 U.S.C. 1395i–3(a) ].
   - **(16)** The term “accelerated nursing degree program” means a program of education in professional nursing offered by an accredited school of nursing in which an individual holding a bachelors degree in another discipline receives a BSN or MSN degree in an accelerated time frame as determined by the accredited school of nursing.
   - **(17)** The term “bridge or degree completion program” means a program of education in professional nursing offered by an accredited school of nursing, as defined in paragraph (2), that leads to a baccalaureate degree in nursing. Such programs may include, Registered Nurse (RN) to Bachelor’s of Science of Nursing (BSN) programs, RN to MSN (Master of Science of Nursing) programs, or BSN to Doctoral programs.
-  - **(18)** The term “nurse managed health clinic” means a nurse-practice arrangement, managed by advanced practice nurses, that provides primary care or wellness services to underserved or vulnerable populations and that is associated with a school, college, university or department of nursing, federally qualified health center, or independent nonprofit health or social services agency.

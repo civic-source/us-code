@@ -3,9 +3,9 @@ title: "Section 6986 - Grants for resource recovery systems and improved solid w
 usc_title: 42
 usc_section: "6986"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6986"
-generated_at: "2026-03-29T02:15:36.872Z"
+generated_at: "2026-03-29T17:53:35.442Z"
 ---
 
 # § 6986. Grants for resource recovery systems and improved solid waste disposal facilities
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T02:15:36.872Z"
     - **(B)** provides deadlines for submission of, and action on, grant requests.
   - **(2)** In taking action on applications for grants under this section, consideration shall be given by the Administrator (A) to the public benefits to be derived by the construction and the propriety of Federal aid in making such grant; (B) to the extent applicable, to the economic and commercial viability of the project (including contractual arrangements with the private sector to market any resources recovered); (C) to the potential of such project for general application to community solid waste disposal problems; and (D) to the use by the applicant of comprehensive regional or metropolitan area planning.
 - **(e)** A grant under this section—
-  - **(1)** may be made only in the amount of the Federal share of (A) the estimated total design and construction costs, plus (B) in the case of a grant to which subsection (b)(1) applies, the first-year operation and maintenance costs;
+  - **(1)** may be made only in the amount of the Federal share of (A) the estimated total design and construction costs, plus (B) in the case of a grant to which subsection (b)(1) of this section applies, the first-year operation and maintenance costs;
   - **(2)** may not be provided for land acquisition or (except as otherwise provided in paragraph (1)(B)) for operating or maintenance costs;
   - **(3)** may not be made until the applicant has made provision satisfactory to the Administrator for proper and efficient operation and maintenance of the project (subject to paragraph (1)(B)); and
   - **(4)** may be made subject to such conditions and requirements, in addition to those provided in this section, as the Administrator may require to properly carry out his functions pursuant to this chapter.

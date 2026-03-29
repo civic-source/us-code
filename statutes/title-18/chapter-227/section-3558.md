@@ -3,9 +3,9 @@ title: "Section 3558 - Implementation of a sentence"
 usc_title: 18
 usc_section: "3558"
 chapter: 227
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 3558"
-generated_at: "2026-03-29T17:53:15.741Z"
+generated_at: "2026-03-29T17:53:59.683Z"
 ---
 
 # § 3558. Implementation of a sentence

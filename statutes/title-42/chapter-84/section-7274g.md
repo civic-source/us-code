@@ -3,9 +3,9 @@ title: "Section 7274g - Environmental restoration and waste management five-year
 usc_title: 42
 usc_section: "7274g"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7274g"
-generated_at: "2026-03-29T02:15:36.890Z"
+generated_at: "2026-03-29T17:53:35.458Z"
 ---
 
 # § 7274g. Environmental restoration and waste management five-year plan and budget reports
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T02:15:36.890Z"
     - **(L)** Such other matters as the Secretary finds appropriate and in the public interest.
   - **(5)** The Secretary shall consult with the Administrator of the Environmental Protection Agency, Governors and Attorneys General of affected States, and appropriate representatives of affected Indian tribes in the preparation of the plan and the preliminary form of the plan pursuant to paragraphs (1) and (2). The Secretary shall include as an appendix to the plan (A) all comments submitted on the preliminary form of the plan by the Administrator, Governors and Attorneys General of affected States, and affected Indian tribes, and (B) a summary of comments submitted by the public.
   - **(6)** The first annual five-year plan issued pursuant to this section shall be issued in 1992.
-- **(b)** The development and adoption of any part of any plan (including any preliminary form of any such plan) under subsection (a) shall not be considered a major Federal action for the purposes of subparagraph (C), (E), or (F) of section 4332(2) of this title . Nothing in this subsection shall affect the Department of Energy’s ongoing preparation of a programmatic environmental impact statement on environmental restoration and waste management.
+- **(b)** The development and adoption of any part of any plan (including any preliminary form of any such plan) under subsection (a) of this section shall not be considered a major Federal action for the purposes of subparagraph (C), (E), or (F) of section 4332(2) of this title . Nothing in this subsection shall affect the Department of Energy’s ongoing preparation of a programmatic environmental impact statement on environmental restoration and waste management.
 - **(c)** The Secretary of Energy is authorized to award grants to, and enter into cooperative agreements with, affected States and affected Indian tribes to assist such States and tribes in participating in the development of the annual five-year plan (including the preliminary form of such plan).
-- **(d)** Of the funds authorized to be appropriated pursuant to section 3103, $20,000,000 may be used for the purpose of carrying out subsection (c).
-- **(e)** Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to section 1105 of title 31 ), the President shall submit to Congress a description of proposed activities and funding levels contained in the annual five-year plan (issued, pursuant to subsection (a)(1), in the year preceding the year in which the budget is submitted to Congress) that are not included in the budget or are included in the budget in a different form or at a different funding level, together with the reasons for such differences.
+- **(d)** Of the funds authorized to be appropriated pursuant to section 3103, $20,000,000 may be used for the purpose of carrying out subsection (c) of this section.
+- **(e)** Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to section 1105 of title 31 ), the President shall submit to Congress a description of proposed activities and funding levels contained in the annual five-year plan (issued, pursuant to subsection (a)(1) of this section, in the year preceding the year in which the budget is submitted to Congress) that are not included in the budget or are included in the budget in a different form or at a different funding level, together with the reasons for such differences.

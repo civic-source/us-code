@@ -3,9 +3,9 @@ title: "Section 16275 - Department of Energy civilian nuclear infrastructure and
 usc_title: 42
 usc_section: "16275"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 16275"
-generated_at: "2026-03-29T02:15:37.341Z"
+generated_at: "2026-03-29T17:53:35.989Z"
 ---
 
 # § 16275. Department of Energy civilian nuclear infrastructure and facilities
@@ -16,40 +16,12 @@ generated_at: "2026-03-29T02:15:37.341Z"
   - **(2)** develop a prioritized list of nuclear science and engineering plant and equipment improvements needed at each of the National Laboratories;
   - **(3)** consider the available facilities and expertise at all National Laboratories and emphasize investments which complement rather than duplicate capabilities; and
   - **(4)** develop a timeline and a proposed budget for the completion of deferred maintenance on plant and equipment, with the goal of ensuring that Department programs under this part will be generally recognized to be among the best in the world.
-- **(c)**
-  - **(1)**
-    - **(A)** Not later than December 31, 2017 , the Secretary shall provide for a versatile reactor-based fast neutron source, which shall operate as a national user facility.
-    - **(B)** In carrying out subparagraph (A), the Secretary shall consult with the private sector, institutions of higher education, the National Laboratories, and relevant Federal agencies to ensure that the user facility described in subparagraph (A) will meet the research needs of the largest practicable majority of prospective users.
-  - **(2)** As soon as practicable after determining the mission need under paragraph (1)(A), the Secretary shall submit to the appropriate committees of Congress a detailed plan for the establishment of the user facility.
-  - **(3)**
-    - **(A)** The Secretary shall ensure that the user facility will provide, at a minimum, the following capabilities:
-      - **(i)** Fast neutron spectrum irradiation capability.
-      - **(ii)** Capacity for upgrades to accommodate new or expanded research needs.
-    - **(B)** In carrying out the plan submitted under paragraph (2), the Secretary shall consider the following:
-      - **(i)** Capabilities that support experimental high-temperature testing.
-      - **(ii)** Providing a source of fast neutrons at a neutron flux, higher than that at which current research facilities operate, sufficient to enable research for an optimal base of prospective users.
-      - **(iii)** Maximizing irradiation flexibility and irradiation volume to accommodate as many concurrent users as possible.
-      - **(iv)** Capabilities for irradiation with neutrons of a lower energy spectrum.
-      - **(v)** Multiple loops for fuels and materials testing in different coolants.
-      - **(vi)** Additional pre-irradiation and post-irradiation examination capabilities.
-      - **(vii)** Lifetime operating costs and lifecycle costs.
-  - **(4)** The Secretary shall, to the maximum extent practicable, complete construction of, and approve the start of operations for, the user facility by not later than December 31, 2026 .
-  - **(5)** The Secretary shall include in the annual budget request of the Department an explanation for any delay in the progress of the Department in completing the user facility by the deadline described in paragraph (4).
-  - **(6)** The Secretary shall leverage the best practices for management, construction, and operation of national user facilities from the Office of Science.
-  - **(7)** There are authorized to be appropriated to the Secretary to carry out to completion the construction of the facility under this section—
-    - **(A)** $295,000,000 for fiscal year 2021;
-    - **(B)** $348,000,000 for fiscal year 2022;
-    - **(C)** $525,000,000 for fiscal year 2023;
-    - **(D)** $534,000,000 for fiscal year 2024; and
-    - **(E)** $584,000,000 for fiscal year 2025.
-- **(d)**
-  - **(1)** In carrying out the programs under this part, the Secretary is authorized to establish a new initiative to be known as the Gateway for Accelerated Innovation in Nuclear (GAIN). The initiative shall, to the maximum extent practicable and consistent with national security, provide the nuclear energy industry with access to cutting edge research and development along with the technical, regulatory, and financial support necessary to move innovative nuclear energy technologies toward commercialization in an accelerated and cost-effective fashion. The Secretary shall make available, as a minimum—
-    - **(A)** experimental capabilities and testing facilities;
-    - **(B)** computational capabilities, modeling, and simulation tools;
-    - **(C)** access to existing datasets and data validation tools; and
-    - **(D)** technical assistance with guidance or processes as needed.
-  - **(2)**
-    - **(A)** The Secretary shall select industry partners for awards on a competitive merit-reviewed basis.
-    - **(B)** In selecting industry partners under subparagraph (A), the Secretary shall consider—
-      - **(i)** the information disclosed by the Department as described in paragraph (1); and
-      - **(ii)** any existing facilities the Department will provide for public private partnership activities.
+- **(c)** The Secretary shall develop a comprehensive plan for the facilities at the Idaho National Laboratory, especially taking into account the resources available at other National Laboratories. In developing the plan, the Secretary shall—
+  - **(1)** evaluate the facilities planning processes utilized by other physical science and engineering research and development institutions, both in the United States and abroad, that are generally recognized as being among the best in the world, and consider how those processes might be adapted toward developing such facilities plan;
+  - **(2)** avoid duplicating, moving, or transferring nuclear science and engineering facilities, equipment, expertise, and other assets that currently exist at other National Laboratories;
+  - **(3)** consider the establishment of a national transuranic analytic chemistry laboratory as a user facility at the Idaho National Laboratory;
+  - **(4)** include a plan to develop, if feasible, the Advanced Test Reactor and Test Reactor Area into a user facility that is more readily accessible to academic and industrial researchers;
+  - **(5)** consider the establishment of a fast neutron source as a user facility;
+  - **(6)** consider the establishment of new hot cells and the configuration of hot cells most likely to advance research, development, demonstration, and commercial application in nuclear science and engineering, especially in the context of the condition and availability of these facilities elsewhere in the National Laboratories; and
+  - **(7)** include a timeline and a proposed budget for the completion of deferred maintenance on plant and equipment.
+- **(d)** Not later than 1 year after August 8, 2005 , the Secretary shall transmit the plan under subsection (c) to Congress.

@@ -1,14 +1,14 @@
 ---
-title: "Section 3005 - Department of Defense"
+title: "Section 3005 - Applicable laws"
 usc_title: 50
 usc_section: "3005"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 3005"
-generated_at: "2026-03-29T02:16:14.752Z"
+generated_at: "2026-03-29T17:53:51.037Z"
 ---
 
-# § 3005. Department of Defense
+# § 3005. Applicable laws
 
-Except to the extent inconsistent with the provisions of this chapter or other provisions of law, the provisions of title 5 shall be applicable to the Department of Defense.
+Except to the extent inconsistent with the provisions of this chapter, the provisions of title 4 of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense.
 

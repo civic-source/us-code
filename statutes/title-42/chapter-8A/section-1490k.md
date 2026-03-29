@@ -3,9 +3,9 @@ title: "Section 1490k - FHA insurance"
 usc_title: 42
 usc_section: "1490k"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1490k"
-generated_at: "2026-03-29T02:15:36.468Z"
+generated_at: "2026-03-29T17:53:34.937Z"
 ---
 
 # § 1490k. FHA insurance

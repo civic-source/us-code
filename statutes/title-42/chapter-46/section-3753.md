@@ -1,12 +1,14 @@
 ---
-title: "Section 3753 - Transferred"
+title: "Section 3753 - Review of applications"
 usc_title: 42
 usc_section: "3753"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3753"
-generated_at: "2026-03-29T02:15:36.682Z"
+generated_at: "2026-03-29T17:53:35.194Z"
 ---
 
-# § 3753. Transferred
+# § 3753. Review of applications
+
+The Attorney General shall not finally disapprove any application (or any amendment to that application) submitted under this part without first affording the applicant reasonable notice of any deficiencies in the application and opportunity for correction and reconsideration.
 

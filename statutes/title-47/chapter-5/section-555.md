@@ -3,9 +3,9 @@ title: "Section 555 - Judicial proceedings"
 usc_title: 47
 usc_section: "555"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 555"
-generated_at: "2026-03-29T02:15:59.241Z"
+generated_at: "2026-03-29T17:53:43.657Z"
 ---
 
 # § 555. Judicial proceedings
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:15:59.241Z"
 - **(a)** Any cable operator adversely affected by any final determination made by a franchising authority under section 541(a)(1), 545 or 546 of this title may commence an action within 120 days after receiving notice of such determination, which may be brought in—
   - **(1)** the district court of the United States for any judicial district in which the cable system is located; or
   - **(2)** in any State court of general jurisdiction having jurisdiction over the parties.
-- **(b)** The court may award any appropriate relief consistent with the provisions of the relevant section described in subsection (a) and with the provisions of subsection (a).
+- **(b)** The court may award any appropriate relief consistent with the provisions of the relevant section described in subsection (a) of this section and with the provisions of subsection (a) of this section.
 - **(c)**
   - **(1)** Notwithstanding any other provision of law, any civil action challenging the constitutionality of section 534 or 535 of this title or any provision thereof shall be heard by a district court of three judges convened pursuant to the provisions of section 2284 of title 28 .
   - **(2)** Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of three judges in an action under paragraph (1) holding section 534 or 535 of this title or any provision thereof unconstitutional shall be reviewable as a matter of right by direct appeal to the Supreme Court. Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order.

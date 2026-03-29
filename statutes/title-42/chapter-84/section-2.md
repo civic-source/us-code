@@ -3,9 +3,9 @@ title: "Section 2 - Compensation schedule for contractor employees"
 usc_title: 42
 usc_section: "2"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T02:15:36.901Z"
+generated_at: "2026-03-29T17:53:35.473Z"
 ---
 
 # § 7385s–2. Compensation schedule for contractor employees
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T02:15:36.901Z"
     - **(B)** The employee shall receive an amount under this paragraph equal to the sum of—
       - **(i)** $10,000 multiplied by the number referred to in clause (iii)(I) of subparagraph (A); and
       - **(ii)** $15,000 multiplied by the number referred to in clause (iii)(II) of subparagraph (A).
-- **(b)** For purposes of subsection (a), a minimum impairment rating shall be determined in accordance with the American Medical Association’s Guides to the Evaluation of Permanent Impairment.
+- **(b)** For purposes of subsection (a) of this section, a minimum impairment rating shall be determined in accordance with the American Medical Association’s Guides to the Evaluation of Permanent Impairment.

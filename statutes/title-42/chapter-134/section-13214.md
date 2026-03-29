@@ -3,9 +3,9 @@ title: "Section 13214 - Federal agency promotion, education, and coordination"
 usc_title: 42
 usc_section: "13214"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 13214"
-generated_at: "2026-03-29T02:15:37.246Z"
+generated_at: "2026-03-29T17:53:35.834Z"
 ---
 
 # § 13214. Federal agency promotion, education, and coordination
@@ -16,5 +16,5 @@ generated_at: "2026-03-29T02:15:37.246Z"
   - **(3)** State and local government and commercial alternative fueled vehicle programs;
   - **(4)** Federal alternative fueled vehicle purchases and placements;
   - **(5)** the operation and maintenance of alternative fueled vehicles in accordance with the manufacturer’s standards and recommendations; and
-  - **(6)** incentive programs established pursuant to sections 13215 1 1 See References in Text note below. and 13216 of this title.
+  - **(6)** incentive programs established pursuant to sections 13215 and 13216 of this title.
 - **(b)** The Secretary, in cooperation with the Administrator of General Services, shall provide guidance, coordination and technical assistance to Federal agencies in the procurement and geographic location of alternative fueled vehicles purchased through the Administrator of General Services. The procurement and geographic location of such vehicles shall comply with the purchase requirements under section 13212 of this title .

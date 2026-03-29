@@ -1,12 +1,14 @@
 ---
-title: "Section 2743a - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(5) , Dec. 18, 2025 , 139 Stat. 1458"
+title: "Section 2743a - General plant projects"
 usc_title: 50
 usc_section: "2743a"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2743a"
-generated_at: "2026-03-29T02:16:14.750Z"
+generated_at: "2026-03-29T17:53:51.031Z"
 ---
 
-# § 2743a. Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(5) , Dec. 18, 2025 , 139 Stat. 1458
+# § 2743a. General plant projects
+
+Plant or construction projects for which amounts are made available under this and subsequent appropriation Acts with a current estimated cost of less than $10,000,000 are considered for purposes of section 2743 of this title as a plant project for which the approved total estimated cost does not exceed the minor construction threshold and for purposes of section 2744 of this title as a construction project with a current estimated cost of less than a minor construction threshold.
 

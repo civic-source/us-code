@@ -1,12 +1,22 @@
 ---
-title: "Section 5782 - Transferred"
+title: "Section 5782 - Duties and functions of the Administrator"
 usc_title: 42
 usc_section: "5782"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5782"
-generated_at: "2026-03-29T02:15:36.780Z"
+generated_at: "2026-03-29T17:53:35.342Z"
 ---
 
-# § 5782. Transferred
+# § 5782. Duties and functions of the Administrator
 
+The Administrator shall—
+
+  - **(1)** issue such rules as are necessary or appropriate to carry out this subchapter;
+  - **(2)** make such arrangements as are necessary and appropriate to facilitate coordination and policy development among all activities funded through the Department of Justice relating to delinquency prevention (including the preparation of an annual comprehensive plan for facilitating such coordination and policy development);
+  - **(3)** provide adequate staff and resources necessary to properly carry out this subchapter; and
+  - **(4)** not later than 180 days after the end of each fiscal year, submit a report to the chairman of the Committee on Education and the Workforce of the House of Representatives and the chairman of the Committee on the Judiciary of the Senate—
+    - **(A)** describing activities and accomplishments of grant activities funded under this subchapter;
+    - **(B)** describing procedures followed to disseminate grant activity products and research findings;
+    - **(C)** describing activities conducted to develop policy and to coordinate Federal agency and interagency efforts related to delinquency prevention; and
+    - **(D)** identifying successful approaches and making recommendations for future activities to be conducted under this subchapter.

@@ -3,9 +3,9 @@ title: "Section 2306 - Vessel reporting requirements"
 usc_title: 46
 usc_section: "2306"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 2306"
-generated_at: "2026-03-29T02:15:53.706Z"
+generated_at: "2026-03-29T17:53:41.782Z"
 ---
 
 # § 2306. Vessel reporting requirements
@@ -17,9 +17,7 @@ generated_at: "2026-03-29T02:15:53.706Z"
   - **(2)** When more than 48 hours have passed since the owner, charterer, managing operator, or agent of a vessel required to report to the United States Flag Merchant Vessel Location Filing System under authority of section 50113 of this title has received a communication from the vessel, the owner, charterer, managing operator, or agent immediately shall—
     - **(A)** notify the Coast Guard; and
     - **(B)** use all available means to determine the status of the vessel.
-  - **(3)** An owner, charterer, managing operator, or agent of a vessel of the United States notifying the Coast Guard under paragraph (1) or (2) shall—
-    - **(A)** provide the name and identification number of the vessel, the names of individuals on board, and other information that may be requested by the Coast Guard; and
-    - **(B)** submit written confirmation to the Coast Guard within 24 hours after nonwritten notification to the Coast Guard under such paragraphs.
+  - **(3)** A person notifying the Coast Guard under paragraph (1) or (2) of this subsection shall provide the name and identification number of the vessel, the names of individuals on board, and other information that may be requested by the Coast Guard. The owner, charterer, managing operator, or agent also shall submit written confirmation to the Coast Guard within 24 hours after nonwritten notification to the Coast Guard under those paragraphs.
   - **(4)** An owner, charterer, managing operator, or agent violating this subsection is liable to the United States Government for a civil penalty of not more than $5,000 for each day during which the violation occurs.
 - **(b)**
   - **(1)** The master of a vessel of the United States required to report to the System shall report to the owner, charterer, managing operator, or agent at least once every 48 hours.

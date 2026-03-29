@@ -1,12 +1,14 @@
 ---
-title: "Section 15329 - Transferred"
+title: "Section 15329 - Limitation on rulemaking authority"
 usc_title: 42
 usc_section: "15329"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 15329"
-generated_at: "2026-03-29T02:15:37.300Z"
+generated_at: "2026-03-29T17:53:35.940Z"
 ---
 
-# § 15329. Transferred
+# § 15329. Limitation on rulemaking authority
+
+The Commission shall not have any authority to issue any rule, promulgate any regulation, or take any other action which imposes any requirement on any State or unit of local government, except to the extent permitted under section 1973gg–7(a) of this title .
 

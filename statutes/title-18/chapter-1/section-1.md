@@ -3,9 +3,9 @@ title: "Section 1 - Court of the United States defined"
 usc_title: 18
 usc_section: "1"
 chapter: 1
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 1"
-generated_at: "2026-03-29T17:53:15.531Z"
+generated_at: "2026-03-29T17:53:59.548Z"
 ---
 
 # § 23. 1 1 So in original. No section 22 has been enacted. Court of the United States defined

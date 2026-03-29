@@ -3,15 +3,15 @@ title: "Section 6351 - Coordination of research and development of energy effici
 usc_title: 42
 usc_section: "6351"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6351"
-generated_at: "2026-03-29T02:15:36.822Z"
+generated_at: "2026-03-29T17:53:35.394Z"
 ---
 
 # § 6351. Coordination of research and development of energy efficient technologies for industry
 
-- **(a)** As part of the research and development activities of the Advanced Manufacturing Office of the Department of Energy, the Secretary of Energy (referred to in this section as the “Secretary”) shall establish, as appropriate, collaborative research and development partnerships with other programs within the Department of Energy that—
+- **(a)** As part of the research and development activities of the Industrial Technologies Program of the Department of Energy, the Secretary of Energy (referred to in this section as the “Secretary”) shall establish, as appropriate, collaborative research and development partnerships with other programs within the Office of Energy Efficiency and Renewable Energy (including the Building Technologies Program), the Office of Electricity Delivery and Energy Reliability, and the Office of Science that—
   - **(1)** leverage the research and development expertise of those programs to promote early stage energy efficiency technology development;
   - **(2)** support the use of innovative manufacturing processes and applied research for development, demonstration, and commercialization of new technologies and processes to improve efficiency (including improvements in efficient use of water), reduce emissions, reduce industrial waste, and improve industrial cost-competitiveness; and
-  - **(3)** apply the knowledge and expertise of the Advanced Manufacturing Office to help achieve the program goals of the other programs.
+  - **(3)** apply the knowledge and expertise of the Industrial Technologies Program to help achieve the program goals of the other programs.
 - **(b)** Not later than 2 years after December 18, 2012 , and biennially thereafter, the Secretary shall submit to Congress a report that describes actions taken to carry out subsection (a) and the results of those actions.

@@ -3,9 +3,9 @@ title: "Section 1397f - Additional grants"
 usc_title: 42
 usc_section: "1397f"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1397f"
-generated_at: "2026-03-29T02:15:36.397Z"
+generated_at: "2026-03-29T17:53:34.865Z"
 ---
 
 # § 1397f. Additional grants
@@ -64,6 +64,6 @@ generated_at: "2026-03-29T02:15:36.397Z"
     - **(A)** includes a detailed description of the activities proposed for the area that are to be funded with amounts provided under this section;
     - **(B)** contains a commitment that the amounts provided under this section to any State for the area will not be used to supplant Federal or non-Federal funds for services and activities which promote the purposes of this section;
     - **(C)** was developed in cooperation with the local government or governments with jurisdiction over the area; and
-    - **(D)** to the extent that any State will not use the amounts provided under this section for the area in the manner described in subsection (b), explains the reasons why not.
+    - **(D)** to the extent that any State will not use the amounts provided under this section for the area in the manner described in subsection (b) of this section, explains the reasons why not.
   - **(5)** The term “rural area” has the meaning given such term in section 1393(a)(2) of the Internal Revenue Code of 1986.
   - **(6)** The term “urban area” has the meaning given such term in section 1393(a)(3) of the Internal Revenue Code of 1986.

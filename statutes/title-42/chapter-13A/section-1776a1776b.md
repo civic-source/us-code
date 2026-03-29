@@ -1,0 +1,12 @@
+---
+title: "Section 1776a1776b - Omitted"
+usc_title: 42
+usc_section: "1776a1776b"
+chapter: 13
+current_through: "PL 113-100"
+classification: "42 U.S.C. § 1776a1776b"
+generated_at: "2026-03-29T17:53:34.984Z"
+---
+
+# §§ 1776a, 1776b. Omitted
+

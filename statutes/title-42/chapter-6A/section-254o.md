@@ -3,9 +3,9 @@ title: "Section 254o - Breach of scholarship contract or loan repayment contract
 usc_title: 42
 usc_section: "254o"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 254o"
-generated_at: "2026-03-29T02:15:35.629Z"
+generated_at: "2026-03-29T17:53:34.107Z"
 ---
 
 # § 254o. Breach of scholarship contract or loan repayment contract
@@ -20,9 +20,9 @@ generated_at: "2026-03-29T02:15:35.629Z"
     - **(B)** in the case of an individual who is enrolled in a graduate training program, fails to complete such training program and does not receive a waiver from the Secretary under section 254 l –1(b)(1)(B)(ii) of this title,
 - **(b)**
   - **(1)**
-    - **(A)** Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) or section 254p(d) of this title ) to begin such individual’s service obligation under section 254 l of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to complete a required residency as specified in section 254 l (f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
+    - **(A)** Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or section 254p(d) of this title ) to begin such individual’s service obligation under section 254 l of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to complete a required residency as specified in section 254 l (f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
     - **(B)**
-      - **(i)** Any amount of damages that the United States is entitled to recover under this subsection or under subsection (c) shall, within the 1-year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary), be paid to the United States. Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title .
+      - **(i)** Any amount of damages that the United States is entitled to recover under this subsection or under subsection (c) of this section shall, within the 1-year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary), be paid to the United States. Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title .
       - **(ii)** If damages described in clause (i) are delinquent for 3 months, the Secretary shall, for the purpose of recovering such damages—
         - **(I)** utilize collection agencies contracted with by the Administrator of the General Services Administration; or
         - **(II)** enter into contracts for the recovery of such damages with collection agencies selected by the Secretary.
@@ -33,14 +33,14 @@ generated_at: "2026-03-29T02:15:35.629Z"
     - **(A)** submits a written request for such termination; and
     - **(B)** repays all amounts paid to, or on behalf of, the individual under section 254 l (g) of this title.
 - **(c)**
-  - **(1)** If (for any reason not specified in subsection (a) or section 254p(d) of this title ) an individual breaches the written contract of the individual under section 254 l –1 of this title by failing either to begin such individual’s service obligation in accordance with section 254m or 254n of this title or to complete such service obligation, the United States shall be entitled to recover from the individual an amount equal to the sum of—
+  - **(1)** If (for any reason not specified in subsection (a) of this section or section 254p(d) of this title ) an individual breaches the written contract of the individual under section 254 l –1 of this title by failing either to begin such individual’s service obligation in accordance with section 254m or 254n of this title or to complete such service obligation, the United States shall be entitled to recover from the individual an amount equal to the sum of—
     - **(A)** the total of the amounts paid by the United States under section 254 l –1(g) of this title on behalf of the individual for any period of obligated service not served;
     - **(B)** an amount equal to the product of the number of months of obligated service that were not completed by the individual, multiplied by $7,500; and
     - **(C)** the interest on the amounts described in subparagraphs (A) and (B), at the maximum legal prevailing rate, as determined by the Treasurer of the United States, from the date of the breach;
   - **(2)** The Secretary may terminate a contract with an individual under section 254 l –1 of this title if, not later than 45 days before the end of the fiscal year in which the contract was entered into, the individual—
     - **(A)** submits a written request for such termination; and
     - **(B)** repays all amounts paid on behalf of the individual under section 254 l –1(g) of this title.
-  - **(3)** Damages that the United States is entitled to recover shall be paid in accordance with subsection (b)(1)(B).
+  - **(3)** Damages that the United States is entitled to recover shall be paid in accordance with subsection (b)(1)(B) of this section.
 - **(d)**
   - **(1)** Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for service or payment of damages shall be canceled upon the death of the individual.
   - **(2)** The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.

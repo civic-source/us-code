@@ -3,9 +3,9 @@ title: "Section 284h - Pediatric Research Initiative"
 usc_title: 42
 usc_section: "284h"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 284h"
-generated_at: "2026-03-29T02:15:35.691Z"
+generated_at: "2026-03-29T17:53:34.167Z"
 ---
 
 # § 284h. Pediatric Research Initiative
@@ -15,16 +15,16 @@ generated_at: "2026-03-29T02:15:35.691Z"
   - **(1)** to increase support for pediatric biomedical research within the National Institutes of Health to realize the expanding opportunities for advancement in scientific investigations and care for children;
   - **(2)** to enhance collaborative efforts among the Institutes to conduct and support multidisciplinary research in the areas that the Director deems most promising; and
   - **(3)** in coordination with the Food and Drug Administration, to increase the development of adequate pediatric clinical trials and pediatric use information to promote the safer and more effective use of prescription drugs in the pediatric population.
-- **(c)** In carrying out subsection (b), the Director of NIH shall—
+- **(c)** In carrying out subsection (b) of this section, the Director of NIH shall—
   - **(1)** consult with the Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development and the other national research institutes, in considering their requests for new or expanded pediatric research efforts, and consult with the Administrator of the Health Resources and Services Administration and other advisors as the Director determines to be appropriate;
   - **(2)** have broad discretion in the allocation of any Initiative assistance among the Institutes, among types of grants, and between basic and clinical research so long as the assistance is directly related to the illnesses and conditions of children; and
   - **(3)** be responsible for the oversight of any newly appropriated Initiative funds and annually report to Congress and the public on the extent of the total funds obligated to conduct or support pediatric research across the National Institutes of Health, including the specific support and research awards allocated through the Initiative.
 - **(d)**
-  - **(1)** In carrying out the Initiative, the Director of NIH, in collaboration with the national research institutes and national centers that carry out activities involving pediatric research, shall support a National Pediatric Research Network in order to more effectively support pediatric research and optimize the use of Federal resources. Such National Pediatric Research Network may be comprised of, as appropriate—
+  - **(1)** In carrying out the Initiative, the Director of NIH, in consultation with the Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development and in collaboration with other appropriate national research institutes and national centers that carry out activities involving pediatric research, may provide for the establishment of a National Pediatric Research Network in order to more effectively support pediatric research and optimize the use of Federal resources. Such National Pediatric Research Network may be comprised of, as appropriate—
     - **(A)** the pediatric research consortia receiving awards under paragraph (2); or
     - **(B)** other consortia, centers, or networks focused on pediatric research that are recognized by the Director of NIH and established pursuant to the authorities vested in the National Institutes of Health by other sections of this chapter.
   - **(2)**
-    - **(A)** The Director of NIH shall award funding, including through grants, contracts, or other mechanisms, to public or private nonprofit entities for providing support for pediatric research consortia, including with respect to—
+    - **(A)** The Director of NIH may award funding, including through grants, contracts, or other mechanisms, to public or private nonprofit entities for providing support for pediatric research consortia, including with respect to—
       - **(i)** basic, clinical, behavioral, or translational research to meet unmet needs for pediatric research; and
       - **(ii)** training researchers in pediatric research techniques in order to address unmet pediatric research needs.
     - **(B)** The Director of NIH shall, as appropriate, ensure that—
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T02:15:35.691Z"
         - **(IV)** and 1 1 So in original. The word “and” probably should appear at end of subcl. (III). other relevant agencies; and
       - **(iv)** meet such requirements as may be prescribed by the Director of NIH.
     - **(D)** Any support received by a consortium under subparagraph (A) shall be used to supplement, and not supplant, other public or private support for activities authorized to be supported under this paragraph.
-    - **(E)** Support of a consortium under subparagraph (A) shall be for a period of not to exceed 5 years. Such period may be extended at the discretion of the Director of NIH.
+    - **(E)** Support of a consortium under subparagraph (A) may be for a period of not to exceed 5 years. Such period may be extended at the discretion of the Director of NIH.
   - **(3)** The Director of NIH shall, as appropriate—
     - **(A)** provide for the coordination of activities (including the exchange of information and regular communication) among the consortia established pursuant to paragraph (2); and
     - **(B)** require the periodic preparation and submission to the Director of reports on the activities of each such consortium.

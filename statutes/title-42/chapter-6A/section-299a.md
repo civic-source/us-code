@@ -3,9 +3,9 @@ title: "Section 299a - General authorities"
 usc_title: 42
 usc_section: "299a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 299a"
-generated_at: "2026-03-29T02:15:35.781Z"
+generated_at: "2026-03-29T17:53:34.268Z"
 ---
 
 # § 299a. General authorities
@@ -21,9 +21,9 @@ generated_at: "2026-03-29T02:15:35.781Z"
   - **(8)** health statistics, surveys, database development, and epidemiology; and
   - **(9)** medical liability.
 - **(b)**
-  - **(1)** The Director may provide training grants in the field of health services research related to activities authorized under subsection (a), to include pre- and post-doctoral fellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under section 288(d)(3) 1 1 See References in Text note below. of this title as well as other appropriated funds.
+  - **(1)** The Director may provide training grants in the field of health services research related to activities authorized under subsection (a) of this section, to include pre- and post-doctoral fellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under section 288(d)(3) 1 1 See References in Text note below. of this title as well as other appropriated funds.
   - **(2)** In developing priorities for the allocation of training funds under this subsection, the Director shall take into consideration shortages in the number of trained researchers who are addressing health care issues for the priority populations identified in section 299(c)(1)(B) of this title and in addition, shall take into consideration indications of long-term commitment, amongst applicants for training funds, to addressing health care needs of the priority populations.
-- **(c)** The Director may provide financial assistance to assist in meeting the costs of planning and establishing new centers, and operating existing and new centers, for multidisciplinary health services research, demonstration projects, evaluations, training, and policy analysis with respect to the matters referred to in subsection (a).
+- **(c)** The Director may provide financial assistance to assist in meeting the costs of planning and establishing new centers, and operating existing and new centers, for multidisciplinary health services research, demonstration projects, evaluations, training, and policy analysis with respect to the matters referred to in subsection (a) of this section.
 - **(d)** Activities authorized in this section shall be appropriately coordinated with experiments, demonstration projects, and other related activities authorized by the Social Security Act [ 42 U.S.C. 301 et seq.] and the Social Security Amendments of 1967. Activities under subsection (a)(2) of this section that affect the programs under titles XVIII, XIX and XXI of the Social Security Act [ 42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.] shall be carried out consistent with section 1142 of such Act [ 42 U.S.C. 1320b–12 ].
 - **(e)** The Agency shall not mandate national standards of clinical practice or quality health care standards. Recommendations resulting from projects funded and published by the Agency shall include a corresponding disclaimer.
 - **(f)** Nothing in this section shall be construed to imply that the Agency’s role is to mandate a national standard or specific approach to quality measurement and reporting. In research and quality improvement activities, the Agency shall consider a wide range of choices, providers, health care delivery systems, and individual preferences.

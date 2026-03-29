@@ -3,14 +3,14 @@ title: "Section 4101 - Electronic directory; online access to publications; elec
 usc_title: 44
 usc_section: "4101"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "44 U.S.C. § 4101"
-generated_at: "2026-03-29T02:15:49.349Z"
+generated_at: "2026-03-29T17:53:10.518Z"
 ---
 
 # § 4101. Electronic directory; online access to publications; electronic storage facility
 
-- **(a)** The Superintendent of Documents, under the direction of the Director of the Government Publishing Office, shall—
+- **(a)** The Superintendent of Documents, under the direction of the Public Printer, shall—
   - **(1)** maintain an electronic directory of Federal electronic information;
   - **(2)** provide a system of online access to the Congressional Record, the Federal Register, and, as determined by the Superintendent of Documents, other appropriate publications distributed by the Superintendent of Documents; and
   - **(3)** operate an electronic storage facility for Federal electronic information to which online access is made available under paragraph (2).

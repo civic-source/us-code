@@ -3,9 +3,9 @@ title: "Section 239g - Authorization of appropriations"
 usc_title: 42
 usc_section: "239g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 239g"
-generated_at: "2026-03-29T02:15:35.573Z"
+generated_at: "2026-03-29T17:53:34.054Z"
 ---
 
 # § 239g. Authorization of appropriations

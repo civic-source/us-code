@@ -3,9 +3,9 @@ title: "Section 7382c - Fellowship Program"
 usc_title: 42
 usc_section: "7382c"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7382c"
-generated_at: "2026-03-29T02:15:36.896Z"
+generated_at: "2026-03-29T17:53:35.467Z"
 ---
 
 # § 7382c. Fellowship Program
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T02:15:36.896Z"
       - **(i)** a sabbatical leave from teaching will be granted in order to participate in the Program; or
       - **(ii)** the teacher will return to a teaching position comparable to the position held prior to participating in the Program.
 - **(b)** The Secretary shall—
-  - **(1)** provide for the development and administration of an application and selection process for fellowships under the Program, including a process whereby final selections of fellowship recipients are made in accordance with subsection (c);
+  - **(1)** provide for the development and administration of an application and selection process for fellowships under the Program, including a process whereby final selections of fellowship recipients are made in accordance with subsection (c) of this section;
   - **(2)** provide for the publication of information on the Program in appropriate professional publications, including an invitation for applications from teachers listed in the directories of national and State recognition programs;
   - **(3)** select from the pool of applicants 12 elementary and secondary school mathematics teachers and 12 elementary and secondary school science teachers;
   - **(4)** develop a program of orientation for fellowship recipients under this subchapter; and

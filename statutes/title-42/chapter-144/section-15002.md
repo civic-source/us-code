@@ -3,9 +3,9 @@ title: "Section 15002 - Definitions"
 usc_title: 42
 usc_section: "15002"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 15002"
-generated_at: "2026-03-29T02:15:37.286Z"
+generated_at: "2026-03-29T17:53:35.921Z"
 ---
 
 # § 15002. Definitions
@@ -22,7 +22,7 @@ In this subchapter:
     - **(D)** coordinating and using another therapy, intervention, or service with an assistive technology device, such as a therapy, intervention, or service associated with an education or rehabilitation plan or program;
     - **(E)** providing training or technical assistance for an individual with a developmental disability, or, where appropriate, a family member, guardian, advocate, or authorized representative of an individual with a developmental disability; and
     - **(F)** providing training or technical assistance for professionals (including individuals providing education and rehabilitation services), employers, or other individuals who provide services to, employ, or are otherwise substantially involved in the major life functions of, an individual with developmental disabilities.
-  - **(5)** The term “Center” means a University Center for Excellence in Developmental Disabilities Education, Research, and Service established under part D.
+  - **(5)** The term “Center” means a University Center for Excellence in Developmental Disabilities Education, Research, and Service established under part D of this subchapter.
   - **(6)** The term “child care-related activities” means advocacy, capacity building, and systemic change activities that result in families of children with developmental disabilities having access to and use of child care services, including before-school, after-school, and out-of-school services, in their communities.
   - **(7)** The term “culturally competent”, used with respect to services, supports, or other assistance, means services, supports, or other assistance that is conducted or provided in a manner that is responsive to the beliefs, interpersonal styles, attitudes, language, and behaviors of individuals who are receiving the services, supports, or other assistance, and in a manner that has the greatest likelihood of ensuring their maximum participation in the program involved.
   - **(8)**

@@ -3,9 +3,9 @@ title: "Section 15066 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15066"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 15066"
-generated_at: "2026-03-29T02:15:37.297Z"
+generated_at: "2026-03-29T17:53:35.929Z"
 ---
 
 # § 15066. Authorization of appropriations
@@ -18,5 +18,5 @@ generated_at: "2026-03-29T02:15:37.297Z"
     - **(B)** For any fiscal year that is not a covered year, the Secretary shall reserve not less than $300,000 and not more than 2 percent of the amount appropriated under paragraph (1) to fund technical assistance activities under section 15063(c) of this title (other than section 15063(c)(4) of this title ).
     - **(C)** In this paragraph, the term “covered year” means a fiscal year prior to the first fiscal year for which the amount appropriated under paragraph (1) is not less than $20,000,000.
 - **(b)** The Secretary may not use, for peer review or other activities directly related to peer review conducted under this part—
-  - **(1)** for fiscal year 2001, more than $300,000 of the funds made available under subsection (a); and
+  - **(1)** for fiscal year 2001, more than $300,000 of the funds made available under subsection (a) of this section; and
   - **(2)** for any succeeding fiscal year, more than the amount of funds used for the peer review and related activities in fiscal year 2001, adjusted to take into account the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 720(c)(1) of title 29 (if the percentage change indicates an increase).

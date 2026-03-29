@@ -3,9 +3,9 @@ title: "Section 4904 - Identification of major noise sources"
 usc_title: 42
 usc_section: "4904"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 4904"
-generated_at: "2026-03-29T02:15:36.723Z"
+generated_at: "2026-03-29T17:53:35.265Z"
 ---
 
 # § 4904. Identification of major noise sources
@@ -15,4 +15,4 @@ generated_at: "2026-03-29T02:15:36.723Z"
   - **(2)** The Administrator shall, after consultation with appropriate Federal agencies and within twelve months of October 27, 1972 , publish information on the levels of environmental noise the attainment and maintenance of which in defined areas under various conditions are requisite to protect the public health and welfare with an adequate margin of safety.
 - **(b)** The Administrator shall, after consultation with appropriate Federal agencies, compile and publish a report or series of reports (1) identifying products (or classes of products) which in his judgment are major sources of noise, and (2) giving information on techniques for control of noise from such products, including available data on the technology, costs, and alternative methods of noise control. The first such report shall be published not later than eighteen months after October 27, 1972 .
 - **(c)** The Administrator shall from time to time review and, as appropriate, revise or supplement any criteria or reports published under this section.
-- **(d)** Any report (or revision thereof) under subsection (b)(1) identifying major noise sources shall be published in the Federal Register. The publication or revision under this section of any criteria or information on control techniques shall be announced in the Federal Register, and copies shall be made available to the general public.
+- **(d)** Any report (or revision thereof) under subsection (b)(1) of this section identifying major noise sources shall be published in the Federal Register. The publication or revision under this section of any criteria or information on control techniques shall be announced in the Federal Register, and copies shall be made available to the general public.

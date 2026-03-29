@@ -3,9 +3,9 @@ title: "Section 7612 - Economic impact analyses"
 usc_title: 42
 usc_section: "7612"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7612"
-generated_at: "2026-03-29T02:15:36.967Z"
+generated_at: "2026-03-29T17:53:35.537Z"
 ---
 
 # § 7612. Economic impact analyses
@@ -17,9 +17,9 @@ generated_at: "2026-03-29T02:15:36.967Z"
   - **(4)** a limitation under this chapter for emissions of sulfur dioxide or nitrogen oxides;
   - **(5)** a limitation under subchapter VI of this chapter on the production of any ozone-depleting substance; and
   - **(6)** any other section of this chapter.
-- **(b)** In describing the benefits of a standard described in subsection (a), the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any case where numerical values are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
-- **(c)** In describing the costs of a standard described in subsection (a), the Administrator shall consider the effects of such standard on employment, productivity, cost of living, economic growth, and the overall economy of the United States.
-- **(d)** Not later than 12 months after November 15, 1990 , the Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor, and the Council on Clean Air Compliance Analysis, shall submit a report to the Congress that summarizes the results of the analysis described in subsection (a), which reports—
+- **(b)** In describing the benefits of a standard described in subsection (a) of this section, the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any case where numerical values are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
+- **(c)** In describing the costs of a standard described in subsection (a) of this section, the Administrator shall consider the effects of such standard on employment, productivity, cost of living, economic growth, and the overall economy of the United States.
+- **(d)** Not later than 12 months after November 15, 1990 , the Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor, and the Council on Clean Air Compliance Analysis, shall submit a report to the Congress that summarizes the results of the analysis described in subsection (a) of this section, which reports—
   - **(1)** all costs incurred previous to November 15, 1990 , in the effort to comply with such standards; and
   - **(2)** all benefits that have accrued to the United States as a result of such costs.
 - **(e)**
@@ -27,4 +27,4 @@ generated_at: "2026-03-29T02:15:36.967Z"
 - **(g)** The Council shall—
   - **(1)** review the data to be used for any analysis required under this section and make recommendations to the Administrator on the use of such data;
   - **(2)** review the methodology used to analyze such data and make recommendations to the Administrator on the use of such methodology; and
-  - **(3)** prior to the issuance of a report required under subsection (d) or (e), review the findings of such report, and make recommendations to the Administrator concerning the validity and utility of such findings.
+  - **(3)** prior to the issuance of a report required under subsection (d) or (e) of this section, review the findings of such report, and make recommendations to the Administrator concerning the validity and utility of such findings.

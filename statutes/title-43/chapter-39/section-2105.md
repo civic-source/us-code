@@ -3,9 +3,9 @@ title: "Section 2105 - Rights of ownership"
 usc_title: 43
 usc_section: "2105"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 2105"
-generated_at: "2026-03-29T02:15:47.651Z"
+generated_at: "2026-03-29T17:53:03.742Z"
 ---
 
 # § 2105. Rights of ownership
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:15:47.651Z"
   - **(1)** embedded in submerged lands of a State;
   - **(2)** embedded in coralline formations protected by a State on submerged lands of a State; or
   - **(3)** on submerged lands of a State and is included in or determined eligible for inclusion in the National Register.
-- **(b)** The public shall be given adequate notice of the location of any shipwreck to which title is asserted under this section. The Secretary of the Interior, after consultation with the appropriate State Historic Preservation Officer, shall make a written determination that an abandoned shipwreck meets the criteria for eligibility for inclusion in the National Register of Historic Places under clause (a)(3).
+- **(b)** The public shall be given adequate notice of the location of any shipwreck to which title is asserted under this section. The Secretary of the Interior, after consultation with the appropriate State Historic Preservation Officer, shall make a written determination that an abandoned shipwreck meets the criteria for eligibility for inclusion in the National Register of Historic Places under clause (a)(3) of this section.
 - **(c)** The title of the United States to any abandoned shipwreck asserted under subsection (a) of this section is transferred to the State in or on whose submerged lands the shipwreck is located.
 - **(d)** Any abandoned shipwreck in or on the public lands of the United States is the property of the United States Government. Any abandoned shipwreck in or on any Indian lands is the property of the Indian tribe owning such lands.
 - **(e)** This section does not affect any right reserved by the United States or by any State (including any right reserved with respect to Indian lands) under—

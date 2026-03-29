@@ -3,9 +3,9 @@ title: "Section 300g - Coverage"
 usc_title: 42
 usc_section: "300g"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 300g"
-generated_at: "2026-03-29T02:15:35.806Z"
+generated_at: "2026-03-29T17:53:34.293Z"
 ---
 
 # § 300g. Coverage

@@ -3,14 +3,14 @@ title: "Section 8456 - Socioeconomic impacts of increased coal production and ot
 usc_title: 42
 usc_section: "8456"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 8456"
-generated_at: "2026-03-29T02:15:37.025Z"
+generated_at: "2026-03-29T17:53:35.594Z"
 ---
 
 # § 8456. Socioeconomic impacts of increased coal production and other energy development
 
-- **(a)** There is hereby established an interagency committee composed of the heads of the Departments of Energy, Commerce, Interior, Transportation, Housing and Urban Development, and Health and Human Services, the Environmental Protection Agency, the Appalachian Regional Commission, the Farmers’ Home Administration, the Office of Management and Budget, and such other Federal agencies as the Secretary shall designate. In carrying out its functions the committee shall consult with the National Governors’ Conference and interested persons, organizations, and entities. The chairman of the committee shall be designated by the President. The committee shall terminate 90 days after the submission of its report under subsection (c).
+- **(a)** There is hereby established an interagency committee composed of the heads of the Departments of Energy, Commerce, Interior, Transportation, Housing and Urban Development, and Health and Human Services, the Environmental Protection Agency, the Appalachian Regional Commission, the Farmers’ Home Administration, the Office of Management and Budget, and such other Federal agencies as the Secretary shall designate. In carrying out its functions the committee shall consult with the National Governors’ Conference and interested persons, organizations, and entities. The chairman of the committee shall be designated by the President. The committee shall terminate 90 days after the submission of its report under subsection (c) of this section.
 - **(b)** It is the function of the committee to conduct a study of the socioeconomic impacts of expanded coal production and rapid energy development in general, on States, including local communities, and on the public, including the adequacy of housing and public, recreational, and cultural facilities for coal miners and their families and the effect of any Federal or State laws or regulations on providing such housing and facilities. The committee shall gather data and information on—
   - **(1)** the level of assistance provided under this chapter and any other programs related to impact assistance,
   - **(2)** the timeliness of assistance in meeting impacts caused by Federal decisions on energy policy as well as private sector decisions, and

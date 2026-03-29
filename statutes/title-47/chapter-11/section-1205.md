@@ -3,9 +3,9 @@ title: "Section 1205 - Funding"
 usc_title: 47
 usc_section: "1205"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 1205"
-generated_at: "2026-03-29T02:15:59.267Z"
+generated_at: "2026-03-29T17:53:43.676Z"
 ---
 
 # § 1205. Funding

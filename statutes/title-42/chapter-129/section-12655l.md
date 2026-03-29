@@ -3,9 +3,9 @@ title: "Section 12655l - Living allowance"
 usc_title: 42
 usc_section: "12655l"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 12655l"
-generated_at: "2026-03-29T02:15:37.221Z"
+generated_at: "2026-03-29T17:53:35.805Z"
 ---
 
 # § 12655l. Living allowance
@@ -21,9 +21,9 @@ generated_at: "2026-03-29T02:15:37.221Z"
 - **(b)**
   - **(1)** Nothing in this section shall be construed to require a program in existence on November 16, 1990 , to decrease any stipends, salaries, or living allowances provided to participants under such program so long as the amount of any such stipends, salaries, or living allowances that is in excess of the levels provided for in this section are paid from non-Federal sources.
   - **(2)** For purposes of the Fair Labor Standards Act of 1938 [ 29 U.S.C. 201 et seq.], residential youth corps programs under this division will be considered an organized camp.
-- **(c)** In addition to the living allowance provided under subsection (a), program agencies are encouraged to provide health insurance to each participant in a full-time youth corps program who does not otherwise have access to health insurance.
+- **(c)** In addition to the living allowance provided under subsection (a) of this section, program agencies are encouraged to provide health insurance to each participant in a full-time youth corps program who does not otherwise have access to health insurance.
 - **(d)**
-  - **(1)** The program agency may deduct, from amounts provided under subsection (a) to a participant, a reasonable portion of the costs of the rates for any room and board that is provided for such participant at a residential facility. Such deducted funds shall be deposited into rollover accounts that shall be used solely to defray the costs of room and board for participants.
+  - **(1)** The program agency may deduct, from amounts provided under subsection (a) of this section to a participant, a reasonable portion of the costs of the rates for any room and board that is provided for such participant at a residential facility. Such deducted funds shall be deposited into rollover accounts that shall be used solely to defray the costs of room and board for participants.
   - **(2)** The program agency shall establish the amount of the deductions and rates under paragraph (1) after evaluating the costs of providing such room and board to the participant.
   - **(3)** A program agency may provide facilities, quarters, and board and shall provide limited and emergency medical care, transportation from administrative facilities to work sites, accommodations for individuals with disabilities, and other appropriate services, supplies, and equipment to each participant.
   - **(4)**

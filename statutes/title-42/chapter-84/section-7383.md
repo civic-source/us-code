@@ -3,9 +3,9 @@ title: "Section 7383 - Commission on Safeguards, Security, and Counterintelligen
 usc_title: 42
 usc_section: "7383"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7383"
-generated_at: "2026-03-29T02:15:36.896Z"
+generated_at: "2026-03-29T17:53:35.467Z"
 ---
 
 # § 7383. Commission on Safeguards, Security, and Counterintelligence at Department of Energy Facilities
@@ -58,7 +58,7 @@ generated_at: "2026-03-29T02:15:36.896Z"
     - **(B)** The Commission may fix the compensation of the personnel of the Commission without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates.
   - **(4)** Any officer or employee of the United States may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
   - **(5)** The members and employees of the Commission shall hold security clearances appropriate for the matters considered by the Commission in the discharge of its duties under this section.
-- **(f)** The provisions of chapter 10 of title 5 shall not apply to the activities of the Commission.
+- **(f)** The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Commission.
 - **(g)**
   - **(1)** From amounts authorized to be appropriated by sections 3101 and 3103, the Secretary of Energy shall make available to the Commission not more than $1,000,000 for the activities of the Commission under this section.
   - **(2)** Amounts made available to the Commission under this subsection shall remain available until expended.

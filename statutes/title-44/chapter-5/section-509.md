@@ -3,12 +3,12 @@ title: "Section 509 - Standards of paper; advertisements for proposals; samples"
 usc_title: 44
 usc_section: "509"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "44 U.S.C. § 509"
-generated_at: "2026-03-29T02:15:49.317Z"
+generated_at: "2026-03-29T17:53:10.489Z"
 ---
 
 # § 509. Standards of paper; advertisements for proposals; samples
 
-The Joint Committee on Printing shall fix upon standards of paper for the different descriptions of public printing and binding, and the Director of the Government Publishing Office, under their direction, shall advertise in six newspapers or trade journals, published in different cities, for sealed proposals to furnish the Government with paper, as specified in the schedule to be furnished applicants by the Director of the Government Publishing Office, setting forth in detail the quality and quantities required for the public printing. The Director of the Government Publishing Office shall furnish samples of the standard of papers fixed upon to applicants who desire to bid.
+The Joint Committee on Printing shall fix upon standards of paper for the different descriptions of public printing and binding, and the Public Printer, under their direction, shall advertise in six newspapers or trade journals, published in different cities, for sealed proposals to furnish the Government with paper, as specified in the schedule to be furnished applicants by the Public Printer, setting forth in detail the quality and quantities required for the public printing. The Public Printer shall furnish samples of the standard of papers fixed upon to applicants who desire to bid.
 

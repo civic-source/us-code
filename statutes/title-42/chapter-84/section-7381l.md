@@ -3,15 +3,15 @@ title: "Section 7381l - National Laboratories Centers of Excellence in Science, 
 usc_title: 42
 usc_section: "7381l"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7381l"
-generated_at: "2026-03-29T02:15:36.895Z"
+generated_at: "2026-03-29T17:53:35.466Z"
 ---
 
 # § 7381l. National Laboratories Centers of Excellence in Science, Technology, Engineering, and Mathematics education
 
 - **(a)** In this section, the term “high-need public secondary school” means a secondary school—
-  - **(1)** in which 40 percent or more of the students attending the school are children from low-income families; or
+  - **(1)** with a high concentration of low-income individuals (as defined in section 6537 of title 20 ); or
   - **(2)** designated with a school locale code of 41, 42, or 43, as determined by the Secretary of Education.
 - **(b)** The Secretary shall establish at each of the National Laboratories a program to support a Center of Excellence in Science, Technology, Engineering, and Mathematics (referred to in this section as a “Center of Excellence”) in at least 1 high-need public secondary school located in the region served by the National Laboratory to provide assistance in accordance with subsection (f).
 - **(c)**

@@ -1,12 +1,14 @@
 ---
-title: "Section 16943 - Transferred"
+title: "Section 16943 - Federal assistance in identification and location of sex offenders relocated as a result of a major disaster"
 usc_title: 42
 usc_section: "16943"
 chapter: 151
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 16943"
-generated_at: "2026-03-29T02:15:37.375Z"
+generated_at: "2026-03-29T17:53:36.013Z"
 ---
 
-# § 16943. Transferred
+# § 16943. Federal assistance in identification and location of sex offenders relocated as a result of a major disaster
+
+The Attorney General shall provide assistance to jurisdictions in the identification and location of a sex offender relocated as a result of a major disaster.
 

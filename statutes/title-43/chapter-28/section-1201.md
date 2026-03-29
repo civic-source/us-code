@@ -1,12 +1,14 @@
 ---
-title: "Section 1201 - Transferred"
+title: "Section 1201 - Power of Secretary or designated officer"
 usc_title: 43
 usc_section: "1201"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1201"
-generated_at: "2026-03-29T02:15:47.585Z"
+generated_at: "2026-03-29T17:53:03.681Z"
 ---
 
-# § 1201. Transferred
+# § 1201. Power of Secretary or designated officer
+
+The Secretary of the Interior, or such officer as he may designate, is authorized to enforce and carry into execution, by appropriate regulations, every part of the provisions of title 32 of the Revised Statutes not otherwise specially provided for.
 

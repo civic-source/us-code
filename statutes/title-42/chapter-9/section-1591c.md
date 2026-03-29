@@ -3,12 +3,17 @@ title: "Section 1591c - Expiration date; exception"
 usc_title: 42
 usc_section: "1591c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1591c"
-generated_at: "2026-03-29T02:15:36.479Z"
+generated_at: "2026-03-29T17:53:34.951Z"
 ---
 
 # § 1591c. Expiration date; exception
 
-After June 30, 1953 , no construction of permanent housing may be begun under subchapter IX of this chapter. After July 31, 1954 , (a) no mortgage may be insured under title IX of the National Housing Act, as amended [ 12 U.S.C. 1750 et seq.] (except (i) pursuant to a commitment to insure issued on or before such date or (ii) after July 31, 1954 , and until August 1, 1955 , during such period, or for such project or projects, as the President may designate hereunder or (iii) pursuant to a commitment to insure issued pursuant to the preceding clause (ii)), (b) no agreement may be made to extend assistance for the provision of community facilities or services under subchapter IX of this chapter, and no construction of temporary housing or community facilities by the United States may be begun under such subchapter, except after July 31, 1954 , and until August 1, 1955 , during such period, or for such project or projects, as the President may designate hereunder: Provided , That to the extent necessary to assure the adequate completion of any facilities for which prior agreements have been made under subchapter IX, the Secretary of Housing and Urban Development may, at any time after July 31, 1954 , enter into amendatory agreements under such subchapter involving the expenditure of additional Federal funds within the balance available therefor on or before such date, (c) no loan may be made or obligations purchased by the Secretary of Housing and Urban Development under section 1701g–1 of title 12 (except pursuant to a commitment issued on or before June 30, 1953 , or to refinance an existing loan or existing obligations held under such section by said Secretary on June 30, 1953 ).
+- **(a)** no mortgage may be insured under title IX of the National Housing Act, as amended [ 12 U.S.C. 1750 et seq.] (except
+      - **(i)** pursuant to a commitment to insure issued on or before such date or
+      - **(ii)** after July 31, 1954 , and until August 1, 1955 , during such period, or for such project or projects, as the President may designate hereunder or
+      - **(iii)** pursuant to a commitment to insure issued pursuant to the preceding clause (ii)),
+- **(b)** no agreement may be made to extend assistance for the provision of community facilities or services under subchapter IX of this chapter, and no construction of temporary housing or community facilities by the United States may be begun under such subchapter, except after July 31, 1954 , and until August 1, 1955 , during such period, or for such project or projects, as the President may designate hereunder: Provided , That to the extent necessary to assure the adequate completion of any facilities for which prior agreements have been made under subchapter IX of this chapter, the Secretary of Housing and Urban Development may, at any time after July 31, 1954 , enter into amendatory agreements under such subchapter involving the expenditure of additional Federal funds within the balance available therefor on or before such date,
+- **(c)** no loan may be made or obligations purchased by the Secretary of Housing and Urban Development under section 1701g–1 of title 12 (except pursuant to a commitment issued on or before June 30, 1953 , or to refinance an existing loan or existing obligations held under such section by said Secretary on June 30, 1953 ).
 

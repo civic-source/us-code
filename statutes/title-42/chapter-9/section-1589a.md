@@ -3,9 +3,9 @@ title: "Section 1589a - Extension by President of dates for disposal and other a
 usc_title: 42
 usc_section: "1589a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1589a"
-generated_at: "2026-03-29T02:15:36.478Z"
+generated_at: "2026-03-29T17:53:34.950Z"
 ---
 
 # § 1589a. Extension by President of dates for disposal and other actions relating to housing under this subchapter

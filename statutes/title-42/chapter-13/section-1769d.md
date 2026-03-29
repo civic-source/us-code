@@ -3,9 +3,9 @@ title: "Section 1769d - Childhood hunger research"
 usc_title: 42
 usc_section: "1769d"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1769d"
-generated_at: "2026-03-29T02:15:36.508Z"
+generated_at: "2026-03-29T17:53:34.979Z"
 ---
 
 # § 1769d. Childhood hunger research

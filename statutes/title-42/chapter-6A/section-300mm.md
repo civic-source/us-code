@@ -3,9 +3,9 @@ title: "Section 300mm - Establishment of World Trade Center Health Program"
 usc_title: 42
 usc_section: "300mm"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 300mm"
-generated_at: "2026-03-29T02:15:35.937Z"
+generated_at: "2026-03-29T17:53:34.403Z"
 ---
 
 # § 300mm. Establishment of World Trade Center Health Program
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T02:15:35.937Z"
     - **(D)** Information on the administrative performance of the program, including—
       - **(i)** the performance of the program in providing timely evaluation of and treatment to eligible individuals; and
       - **(ii)** a list of the Clinical Centers of Excellence and other providers that are participating in the program.
-    - **(E)** A summary of the findings of any new scientific reports or studies on the health effects associated with exposure described in section 300mm–5(1) of this title , including the findings of research conducted under subsection (a) or (c) of section 300mm–51 of this title .
+    - **(E)** A summary of the findings of any new scientific reports or studies on the health effects associated with exposure described in section 300mm–5(1) of this title , including the findings of research conducted under section 300mm–51(a) of this title .
     - **(F)** A list of recommendations by the WTC Scientific/Technical Advisory Committee on additional WTC Program eligibility criteria and on additional WTC-related health conditions and the action of the WTC Program Administrator concerning each such recommendation.
   - **(3)** In paragraph (2), each of the following shall be treated as a separate clinical program of the WTC Program:
     - **(A)** The benefits provided for enrolled WTC responders described in section 300mm–21(a)(2)(A) of this title .
@@ -54,13 +54,3 @@ generated_at: "2026-03-29T02:15:35.937Z"
   - **(1)** When the number of enrollments of WTC responders subject to the limit established under section 300mm–21(a)(4) of this title has reached 80 percent of such limit.
   - **(2)** When the number of certifications for certified-eligible WTC survivors subject to the limit established under section 300mm–31(a)(3) of this title has reached 80 percent of such limit.
 - **(h)** The WTC Program Administrator shall engage in ongoing outreach and consultation with relevant stakeholders, including the WTC Health Program Steering Committees and the Advisory Committee under section 300mm–1 of this title , regarding the implementation and improvement of programs under this subchapter.
-- **(i)**
-  - **(1)** Not later than 18 months after December 18, 2015 , the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that assesses, with respect to the WTC Program, the effectiveness of each of the following:
-    - **(A)** The quality assurance program developed and implemented under subsection (e).
-    - **(B)** The procedures for providing certifications of coverage of conditions as WTC-related health conditions for enrolled WTC responders under section 300mm–22(b)(2)(B)(iii) of this title and for screening-eligible WTC survivors and certified-eligible WTC survivors under such section as applied under section 300mm–32(a) of this title .
-    - **(C)** Any action under the WTC Program to ensure appropriate payment (including the avoidance of improper payments), including determining the extent to which individuals enrolled in the WTC Program are eligible for workers compensation or sources of health coverage, ascertaining the liability of such compensation or sources of health coverage, and making recommendations for ensuring effective and efficient coordination of benefits for individuals enrolled in the WTC Program that does not place an undue burden on such individuals.
-  - **(2)** Not later than 6 years and 6 months after December 18, 2015 , and every 5 years thereafter through fiscal year 2042, the Comptroller General of the United States shall—
-    - **(A)** consult the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the objectives in assessing the WTC Program; and
-    - **(B)** prepare and submit to such Committees a report that assesses the WTC Program for the applicable reporting period, including the objectives described in subparagraph (A).
-- **(j)** The WTC Program Administrator is authorized to promulgate such regulations as the Administrator determines necessary to administer this subchapter.
-- **(k)** The WTC Program shall terminate on October 1, 2090 .

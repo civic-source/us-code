@@ -3,9 +3,9 @@ title: "Section 20156 - Railroad safety risk reduction program"
 usc_title: 49
 usc_section: "20156"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 20156"
-generated_at: "2026-03-29T02:16:08.931Z"
+generated_at: "2026-03-29T17:53:48.018Z"
 ---
 
 # § 20156. Railroad safety risk reduction program
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T02:16:08.931Z"
   - **(3)** The Secretary shall review and approve or disapprove railroad safety risk reduction program plans within a reasonable period of time. If the proposed plan is not approved, the Secretary shall notify the affected railroad carrier as to the specific areas in which the proposed plan is deficient, and the railroad carrier shall correct all deficiencies within a reasonable period of time following receipt of written notice from the Secretary. The Secretary shall annually conduct a review to ensure that the railroad carriers are complying with their plans.
   - **(4)** A railroad carrier that is not required to submit a railroad safety risk reduction program under this section may voluntarily submit a program that meets the requirements of this section to the Secretary. The Secretary shall approve or disapprove any program submitted under this paragraph.
 - **(b)** The chief official responsible for safety of each railroad carrier required to submit a railroad safety risk reduction program under subsection (a) shall certify that the contents of the program are accurate and that the railroad carrier will implement the contents of the program as approved by the Secretary.
-- **(c)** In developing its railroad safety risk reduction program, each railroad carrier required to submit such a program pursuant to subsection (a) shall identify and analyze the aspects of its railroad, including operating rules and practices, infrastructure, equipment, employee levels and schedules, safety culture, management structure, employee training, and other matters, including those not covered by railroad safety regulations or other Federal regulations, that impact railroad safety.
+- **(c)** In developing its railroad safety risk reduction program each railroad carrier required to submit such a program pursuant to subsection (a) shall identify and analyze the aspects of its railroad, including operating rules and practices, infrastructure, equipment, employee levels and schedules, safety culture, management structure, employee training, and other matters, including those not covered by railroad safety regulations or other Federal regulations, that impact railroad safety.
 - **(d)**
   - **(1)** Each railroad carrier required to submit a railroad safety risk reduction program under subsection (a) shall develop a comprehensive safety risk reduction program to improve safety by reducing the number and rates of accidents, incidents, injuries, and fatalities that is based on the risk analysis required by subsection (c) through—
     - **(A)** the mitigation of aspects that increase risks to railroad safety; and
@@ -47,6 +47,6 @@ generated_at: "2026-03-29T02:16:08.931Z"
     - **(I)** Avoidance of abrupt changes in rest cycles for employees.
     - **(J)** Additional elements that the Secretary considers appropriate.
 - **(g)**
-  - **(1)** Each railroad carrier required to submit a railroad safety risk reduction program under subsection (a) shall consult with, employ good faith, and use its best efforts to reach agreement with, all of its directly affected employees, including any nonprofit employee labor organization representing a class or craft of directly affected employees of the railroad carrier, on the contents of the safety risk reduction program.
+  - **(1)** Each railroad carrier required to submit a railroad safety risk reduction program under subsection (a) shall consult with, employ good faith and use its best efforts to reach agreement with, all of its directly affected employees, including any non-profit employee labor organization representing a class or craft of directly affected employees of the railroad carrier, on the contents of the safety risk reduction program.
   - **(2)** If the railroad carrier and its directly affected employees, including any nonprofit employee labor organization representing a class or craft of directly affected employees of the railroad carrier, cannot reach consensus on the proposed contents of the plan, then directly affected employees and such organization may file a statement with the Secretary explaining their views on the plan on which consensus was not reached. The Secretary shall consider such views during review and approval of the program.
 - **(h)** The Secretary shall have the authority to assess civil penalties pursuant to chapter 213 for a violation of this section, including the failure to submit, certify, or comply with a safety risk reduction program, risk mitigation plan, technology implementation plan, or fatigue management plan.

@@ -3,9 +3,9 @@ title: "Section 293l - Advisory Committee on Training in Primary Care Medicine a
 usc_title: 42
 usc_section: "293l"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 293l"
-generated_at: "2026-03-29T02:15:35.763Z"
+generated_at: "2026-03-29T17:53:34.248Z"
 ---
 
 # § 293l. Advisory Committee on Training in Primary Care Medicine and Dentistry
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T02:15:35.763Z"
     - **(B)** An individual chosen to fill a vacancy shall be appointed for the unexpired term of the member replaced.
 - **(d)** The Advisory Committee shall—
   - **(1)** provide advice and recommendations to the Secretary concerning policy and program development and other matters of significance concerning the activities under section 293k of this title ;
-  - **(2)** not later than 3 years after November 13, 1998 , and annually thereafter, prepare and submit to the Secretary, and the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report describing the activities of the Committee, including findings and recommendations made by the Committee concerning the activities under section 293k of this title ;
+  - **(2)** not later than 3 years after November 13, 1998 , and annually thereafter, prepare and submit to the Secretary, and the Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives, a report describing the activities of the Committee, including findings and recommendations made by the Committee concerning the activities under section 293k of this title ;
   - **(3)** develop, publish, and implement performance measures for programs under this part;
   - **(4)** develop and publish guidelines for longitudinal evaluations (as described in section 294n(d)(2) of this title ) for programs under this part; and
   - **(5)** recommend appropriation levels for programs under this part.
@@ -35,4 +35,4 @@ generated_at: "2026-03-29T02:15:35.763Z"
 - **(f)**
   - **(1)** Each member of the Advisory Committee shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which such member is engaged in the performance of the duties of the Committee.
   - **(2)** The members of the Advisory Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Committee.
-- **(g)** Chapter 10 of title 5 shall apply to the Advisory Committee under this section only to the extent that the provisions of chapter 10 of title 5 do not conflict with the requirements of this section.
+- **(g)** The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act do not conflict with the requirements of this section.

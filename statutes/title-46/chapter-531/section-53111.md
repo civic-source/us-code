@@ -3,23 +3,17 @@ title: "Section 53111 - Authorization of appropriations"
 usc_title: 46
 usc_section: "53111"
 chapter: 531
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 53111"
-generated_at: "2026-03-29T02:15:53.767Z"
+generated_at: "2026-03-29T17:53:41.825Z"
 ---
 
 # § 53111. Authorization of appropriations
 
 There are authorized to be appropriated for payments under section 53106, to remain available until expended—
 
-  - **(1)** $300,000,000 for each of fiscal years 2018, 2019, and 2020;
-  - **(2)** $494,008,000 for fiscal year 2021;
-  - **(3)** $318,000,000 for each of fiscal years 2022, 2023, and 2024;
-  - **(4)** $390,000,000 for each of fiscal years 2025 and 2026;
-  - **(5)** $400,500,000 for each of fiscal years 2027 and 2028;
-  - **(6)** $411,300,000 for each of fiscal years 2029and 2030;
-  - **(7)** $422,400,000 for each of fiscal years 2031 and 2032.
-  - **(8)** $433,800,000 for each of fiscal years 2033 and 2034;
-  - **(9)** $445,560,000 for each of fiscal years 2035 and 2036;
-  - **(10)** $457,560,000 for each of fiscal years 2037 and 2038; and
-  - **(11)** $469,920,000 for each of fiscal years 2039 and 2040.
+  - **(1)** $156,000,000 for each of fiscal years 2006, 2007, and 2008;
+  - **(2)** $174,000,000 for each of fiscal years 2009, 2010, and 2011;
+  - **(3)** $186,000,000 for each of fiscal years 2012, 2013, 2014, 2015, 2016, 2017, and 2018;
+  - **(4)** $210,000,000 for each of fiscal years 2019, 2020, and 2021; and
+  - **(5)** $222,000,000 for each fiscal year thereafter through fiscal year 2025.

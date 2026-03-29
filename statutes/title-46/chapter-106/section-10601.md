@@ -3,9 +3,9 @@ title: "Section 10601 - Fishing agreements"
 usc_title: 46
 usc_section: "10601"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 10601"
-generated_at: "2026-03-29T02:15:53.734Z"
+generated_at: "2026-03-29T17:53:41.802Z"
 ---
 
 # § 10601. Fishing agreements
@@ -15,8 +15,5 @@ generated_at: "2026-03-29T02:15:53.734Z"
   - **(2)** on a voyage from a port in the United States.
 - **(b)** The agreement shall—
   - **(1)** state the period of effectiveness of the agreement;
-  - **(2)** include the terms of any wage, share, or other compensation arrangement peculiar to the fishery in which the vessel will be engaged during the period of the agreement;
-  - **(3)** in the case of a seaman employed on a vessel that is a catcher processor or fish processing vessel that employs more than 25 crewmembers, include a requirement that each crewmember shall be served not less than three meals a day that—
-    - **(A)** total not less than 3,100 calories; and
-    - **(B)** include adequate water and minerals in accordance with the United States Recommended Daily Allowances; and
-  - **(4)** include other agreed terms.
+  - **(2)** include the terms of any wage, share, or other compensation arrangement peculiar to the fishery in which the vessel will be engaged during the period of the agreement; and
+  - **(3)** include other agreed terms.

@@ -1,12 +1,14 @@
 ---
-title: "Section 1200a - Omitted"
+title: "Section 1200a - Preparation of appraisal schedule in determining just compensation for condemnation of Sioux lands for dam purposes; contents; transmittal to tribal representatives"
 usc_title: 43
 usc_section: "1200a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1200a"
-generated_at: "2026-03-29T02:15:47.585Z"
+generated_at: "2026-03-29T17:53:03.681Z"
 ---
 
-# § 1200a. Omitted
+# § 1200a. Preparation of appraisal schedule in determining just compensation for condemnation of Sioux lands for dam purposes; contents; transmittal to tribal representatives
+
+To assist the negotiators in arriving at the amount of just compensation payable for the property conveyed pursuant to subsection (a) of section 1199 of this title , the Secretary of the Interior and the Chief of Engineers, Department of the Army, shall cause to be prepared an appraisal schedule on an individual tract basis of the tribal, allotted, and assigned lands, including heirship interests therein, located within the taking area in each reservation. The appraisal schedule shall show the fair market value of the lands, giving full and proper weight to the following elements of appraisal, among others: Improvements, severance damage, standing timber, mineral rights, and the uses to which the lands are reasonably adapted. The appraisal schedule shall be transmitted to the representatives of the tribe appointed to negotiate a contract, and shall be used, together with any other appraisals which may be available, as a basis for determining the amount of just compensation to be included in the contract.
 

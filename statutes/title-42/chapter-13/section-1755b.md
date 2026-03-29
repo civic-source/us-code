@@ -3,9 +3,9 @@ title: "Section 1755b - Pulse crop products"
 usc_title: 42
 usc_section: "1755b"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1755b"
-generated_at: "2026-03-29T02:15:36.485Z"
+generated_at: "2026-03-29T17:53:34.958Z"
 ---
 
 # § 1755b. Pulse crop products
@@ -23,5 +23,5 @@ generated_at: "2026-03-29T02:15:36.485Z"
   - **(3)** any recommendations of the Secretary regarding the integration of the use of pulse crop products in carrying out the school lunch and breakfast programs;
   - **(4)** an evaluation of any change in the nutrient composition in the school lunch and breakfast programs due to the activities; and
   - **(5)** an evaluation of any other outcomes determined to be appropriate by the Secretary.
-- **(e)** As soon as practicable after the completion of the evaluation under subsection (d), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Education and the Workforce of the House of Representative 1 1 So in original. Probably should be “Representatives”. a report describing the results of the evaluation.
+- **(e)** As soon as practicable after the completion of the evaluation under subsection (d), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Education and the Workforce of the House of Representative a report describing the results of the evaluation.
 - **(f)** There is authorized to be appropriated to carry out this section $10,000,000, to remain available until expended.

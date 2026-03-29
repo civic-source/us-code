@@ -3,9 +3,9 @@ title: "Section 10136 - Participation of States"
 usc_title: 42
 usc_section: "10136"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 10136"
-generated_at: "2026-03-29T02:15:37.115Z"
+generated_at: "2026-03-29T17:53:35.683Z"
 ---
 
 # § 10136. Participation of States
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T02:15:37.115Z"
     - **(C)** At the end of the 2-year period beginning on the effective date of any license to receive and possess for a repository in a State, no Federal funds, shall be made available to such State or affected unit of local government under paragraph (1) or (2), except for—
       - **(i)** such funds as may be necessary to support activities related to any other repository located in, or proposed to be located in, such State, and for which a license to receive and possess has not been in effect for more than 1 year;
       - **(ii)** such funds as may be necessary to support State activities pursuant to agreements or contracts for impact assistance entered into, under paragraph (2), by such State with the Secretary during such 2-year period; and
-      - **(iii)** such funds as may be provided under an agreement entered into under subchapter IV.
+      - **(iii)** such funds as may be provided under an agreement entered into under subchapter IV of this chapter.
   - **(5)** Financial assistance authorized in this subsection shall be made out of amounts held in the Waste Fund.
   - **(6)** No State, other than the State of Nevada, may receive financial assistance under this subsection after December 22, 1987 .
 - **(d)** Whenever the Secretary is required under any provision of this chapter to notify or consult with the governing body of an affected Indian tribe where a site is located, the Secretary shall also notify or consult with, as the case may be, the Governor of the State in which such reservation is located.

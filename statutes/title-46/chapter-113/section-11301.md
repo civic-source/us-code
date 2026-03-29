@@ -3,9 +3,9 @@ title: "Section 11301 - Logbook and entry requirements"
 usc_title: 46
 usc_section: "11301"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 11301"
-generated_at: "2026-03-29T02:15:53.736Z"
+generated_at: "2026-03-29T17:53:41.804Z"
 ---
 
 # § 11301. Logbook and entry requirements
@@ -26,4 +26,3 @@ generated_at: "2026-03-29T02:15:53.736Z"
   - **(10)** the wages due to a seaman who dies during the voyage and the gross amount of all deductions to be made from the wages.
   - **(11)** the sale of the property of a seaman who dies during the voyage, including a statement of each article sold and the amount received for the property.
   - **(12)** when a marine casualty occurs, a statement about the casualty and the circumstances under which it occurred, made immediately after the casualty when practicable to do so.
-  - **(13)** when a vessel fails to carry out ballast water management requirements as applicable and pursuant to regulations promulgated by the Secretary, including when the vessel fails to carry out ballast water management requirements due to an allowed safety exemption, a statement regarding the failure to comply and the circumstances under which the failure occurred, made immediately after the failure, when practicable to do so.

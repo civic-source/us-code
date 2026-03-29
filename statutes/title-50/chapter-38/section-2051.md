@@ -3,15 +3,15 @@ title: "Section 2051 - Retirement for disability or incapacity; medical examinat
 usc_title: 50
 usc_section: "2051"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2051"
-generated_at: "2026-03-29T02:16:14.735Z"
+generated_at: "2026-03-29T17:53:50.996Z"
 ---
 
 # § 2051. Retirement for disability or incapacity; medical examination; recovery
 
 - **(a)**
-  - **(1)** A participant who has become disabled shall, upon the participant’s own application or upon order of the Director, be retired on an annuity computed under subsection (b).
+  - **(1)** A participant who has become disabled shall, upon the participant’s own application or upon order of the Director, be retired on an annuity computed under subsection (b) of this section.
   - **(2)** A participant shall be considered to be disabled only if the participant—
     - **(A)** is found by the Director to be unable, because of disease or injury, to render useful and efficient service in the participant’s position; and
     - **(B)** is not qualified for reassignment, under procedures prescribed by the Director, to a vacant position in the Agency at the same grade or level and in which the participant would be able to render useful and efficient service.
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T02:16:14.735Z"
     - **(A)** A claim may be allowed under this section only if the application is submitted before the participant is separated from the Agency or within one year thereafter.
     - **(B)** The time limitation may be waived by the Director for a participant who, at the date of separation from the Agency or within one year thereafter, is mentally incompetent, if the application is filed with the Agency within one year from the date of restoration of the participant to competency or the appointment of a fiduciary, whichever is earlier.
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), an annuity payable under subsection (a) shall be computed under section 2031(a) of this title . However, if the disabled or incapacitated participant has less than 20 years of service credit toward retirement under the system at the time of retirement, the annuity shall be computed on the assumption that the participant has had 20 years of service, but the additional service credit that may accrue to a participant under this paragraph may not exceed the difference between the participant’s age at the time of retirement and age 60.
+  - **(1)** Except as provided in paragraph (2), an annuity payable under subsection (a) of this section shall be computed under section 2031(a) of this title . However, if the disabled or incapacitated participant has less than 20 years of service credit toward retirement under the system at the time of retirement, the annuity shall be computed on the assumption that the participant has had 20 years of service, but the additional service credit that may accrue to a participant under this paragraph may not exceed the difference between the participant’s age at the time of retirement and age 60.
   - **(2)** If a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in section 2082(e)(3) of this title ) or Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, the annuity of that participant shall be computed under section 2031(a) of this title , excluding credit for such military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 1 1 See References in Text note below. of title 5, or the Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, is less than the annuity that would be payable under this section in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity payable under section 2031(a) of this title .
 - **(c)**
   - **(1)** In each case, the participant shall be given a medical examination by one or more duly qualified physicians or surgeons designated by the Director to conduct examinations, and disability shall be determined by the Director on the basis of the advice of such physicians or surgeons.

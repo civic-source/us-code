@@ -3,9 +3,9 @@ title: "Section 1862n - Mathematics and science education partnerships"
 usc_title: 42
 usc_section: "1862n"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1862n"
-generated_at: "2026-03-29T02:15:36.526Z"
+generated_at: "2026-03-29T17:53:35.005Z"
 ---
 
 # § 1862n. Mathematics and science education partnerships
@@ -30,13 +30,12 @@ generated_at: "2026-03-29T02:15:36.526Z"
     - **(F)** offering teacher preparation and certification programs for professional mathematicians, scientists, and engineers who wish to begin a career in teaching;
     - **(G)** developing tools to evaluate activities conducted under this subsection;
     - **(H)** developing or adapting elementary school and secondary school mathematics and science curricular materials that incorporate contemporary research on the science of learning;
-    - **(I)** developing initiatives to increase and sustain the number, quality, and diversity of prekindergarten through grade 12 teachers of mathematics and science, including the use of induction programs, as defined in section 9813(h) 1 1 See References in Text note below. of title 20, for teachers in their first 2 years of teaching, especially in underserved areas;
+    - **(I)** developing initiatives to increase and sustain the number, quality, and diversity of prekindergarten through grade 12 teachers of mathematics and science, including the use of induction programs, as defined in section 9813(h) of title 20 , for teachers in their first 2 years of teaching, especially in underserved areas;
     - **(J)** using mathematicians, scientists, and engineers employed by private businesses to help recruit and train mathematics and science teachers;
     - **(K)** developing science, technology, engineering, and mathematics educational programs and materials and conducting science, technology, engineering, and mathematics enrichment programs for students, including after-school programs and summer programs, with an emphasis on including and serving students described in subsection (b)(2)(G);
     - **(L)** providing research opportunities in business or academia for students and teachers;
-    - **(M)** bringing mathematicians, scientists, and engineers from business and academia into elementary school and secondary school classrooms;
-    - **(N)** developing science, technology, engineering, and mathematics educational curriculum that incorporates art and design to promote creativity and innovation; and
-    - **(O)** any other activities the Director determines will accomplish the goals of this subsection.
+    - **(M)** bringing mathematicians, scientists, and engineers from business and academia into elementary school and secondary school classrooms; and
+    - **(N)** any other activities the Director determines will accomplish the goals of this subsection.
   - **(4)** Activities carried out in accordance with paragraph (3)(E) shall—
     - **(A)** emphasize the training of master teachers who will improve the instruction of mathematics or science in kindergarten through grade 12;
     - **(B)** include training in both content and pedagogy; and
@@ -59,9 +58,9 @@ generated_at: "2026-03-29T02:15:36.526Z"
       - **(i)** be carried out in conjunction with a school served by the local educational agency in the partnership;
       - **(ii)** be science, technology, engineering, and mathematics focused institutes that provide professional development to elementary school and secondary school teachers;
       - **(iii)** serve teachers who—
-        - **(I)** are considered highly qualified (as defined in section 9101 1 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ]);
+        - **(I)** are considered highly qualified (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 7801 ]);
         - **(II)** teach high-need subjects in science, technology, engineering, or mathematics; and
-        - **(III)** teach in high-need schools (as described in section 1114(a)(1)(A) 1 );
+        - **(III)** teach in high-need schools (as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6314(a)(1) ]);
       - **(iv)** focus on the priorities developed by the Director in consultation with a broad group of relevant educational organizations;
       - **(v)** be content-based and build on school year curricula that are experiment-oriented, content-based, and grounded in current research;
       - **(vi)** ensure that the pedagogy component is designed around specific strategies that are relevant to teaching the subject and content on which teachers are being trained, which may include training teachers in the essential components of reading instruction for adolescents in order to improve student reading skills within the subject areas of science, technology, engineering, and mathematics;
@@ -73,7 +72,7 @@ generated_at: "2026-03-29T02:15:36.526Z"
       - **(xii)** establish a mechanism to provide supplemental support during the academic year for teacher institute participants to apply the knowledge and skills gained at the teacher institute.
     - **(B)** In addition to the partnership requirement under paragraph (2), an institution of higher education or eligible nonprofit organization (or consortium) desiring a grant for a teacher institute for the 21st century may also partner with a teacher organization, museum, or educational partnership organization.
 - **(b)**
-  - **(1)** An institution of higher education or an eligible nonprofit organization (or a consortium of such institutions or organizations) seeking funding under subsection (a) shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum—
+  - **(1)** An institution of higher education or an eligible nonprofit organization (or a consortium of such institutions or organizations) seeking funding under subsection (a) of this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum—
     - **(A)** a description of the partnership and the role that each member will play in implementing the proposal;
     - **(B)** a description of each of the activities to be carried out, including—
       - **(i)** how such activities will be aligned with State mathematics and science student academic achievement standards and with other activities that promote student achievement in mathematics and science;
@@ -97,12 +96,13 @@ generated_at: "2026-03-29T02:15:36.526Z"
     - **(A)** give priority to applications in which the partnership includes a high-need local educational agency or a high-need local educational agency in which at least one school does not make adequate yearly progress, as determined pursuant to part A of title I of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6311 et seq.); and
     - **(B)** ensure that, to the extent practicable, a substantial number of the partnerships funded under this section include businesses.
 - **(c)**
-  - **(1)** The Director shall evaluate the program established under subsection (a). At a minimum, such evaluation shall—
+  - **(1)** The Director shall evaluate the program established under subsection (a) of this section. At a minimum, such evaluation shall—
     - **(A)** use a common set of benchmarks and assessment tools to identify best practices and materials developed and demonstrated by the partnerships; and
     - **(B)** to the extent practicable, compare the effectiveness of practices and materials developed and demonstrated by the partnerships authorized under this section with those of partnerships funded by other State or Federal agencies.
   - **(2)** Not later than 4 years after August 9, 2007 , the Director shall transmit a report summarizing the evaluations required under subsection (b)(1)(E) of grants received under this program and describing any changes to the program recommended as a result of these evaluations to the Committee on Science and Technology and the Committee on Education and Labor of the House of Representatives and to the Committee on Commerce, Science, and Transportation and the Committee on Health, Education, Labor, and Pensions of the Senate. Such report shall be made widely available to the public.
   - **(3)** The Director, in consultation with the Secretary of Education, shall convene an annual meeting of the partnerships participating under this section to foster greater national collaboration.
-  - **(4)** At the request of an eligible partnership or a State educational agency, the Director shall provide the partnership or agency with technical assistance in meeting any requirements of this section, including providing advice from experts on how to develop—
+  - **(4)** The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6661 et seq.]. The report under this paragraph shall be submitted along with the President’s annual budget request.
+  - **(5)** At the request of an eligible partnership or a State educational agency, the Director shall provide the partnership or agency with technical assistance in meeting any requirements of this section, including providing advice from experts on how to develop—
     - **(A)** a quality application for a grant; and
     - **(B)** quality activities from funds received from a grant under this section.
 - **(d)** In this section—

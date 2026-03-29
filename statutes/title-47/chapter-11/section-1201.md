@@ -3,9 +3,9 @@ title: "Section 1201 - Federal Communications Commission duties"
 usc_title: 47
 usc_section: "1201"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 1201"
-generated_at: "2026-03-29T02:15:59.266Z"
+generated_at: "2026-03-29T17:53:43.675Z"
 ---
 
 # § 1201. Federal Communications Commission duties
@@ -26,9 +26,7 @@ generated_at: "2026-03-29T02:15:59.266Z"
       - **(i)** for a commercial mobile service licensee that has elected to transmit emergency alerts to withdraw its election without regulatory penalty or forfeiture upon advance written notification of the withdrawal to its affected subscribers;
       - **(ii)** for a commercial mobile service licensee to elect to transmit emergency alerts at a date later than provided in subparagraph (A); and
       - **(iii)** under which a subscriber may terminate a subscription to service provided by a commercial mobile service licensee that withdraws its election without penalty or early termination fee.
-    - **(E)** Any commercial mobile service licensee electing to transmit emergency alerts may offer subscribers the capability of preventing the subscriber’s device from receiving such alerts, or classes of such alerts, other than an alert issued by—
-      - **(i)** the President; or
-      - **(ii)** the Administrator of the Federal Emergency Management Agency.
+    - **(E)** Any commercial mobile service licensee electing to transmit emergency alerts may offer subscribers the capability of preventing the subscriber’s device from receiving such alerts, or classes of such alerts, other than an alert issued by the President. Within 2 years after the Commission completes the proceeding under paragraph (1), the Commission shall examine the issue of whether a commercial mobile service provider should continue to be permitted to offer its subscribers such capability. The Commission shall submit a report with its recommendations to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 - **(c)** Within 90 days after the date on which the Commission adopts relevant technical standards based on recommendations of the Commercial Mobile Service Alert Advisory Committee, established pursuant to section 1202(a) of this title , the Commission shall complete a proceeding to require licensees and permittees of noncommercial educational broadcast stations or public broadcast stations (as those terms are defined in section 397(6) of this title ) to install necessary equipment and technologies on, or as part of, any broadcast television digital signal transmitter to enable the distribution of geographically targeted alerts by commercial mobile service providers that have elected to transmit emergency alerts under this section.
 - **(d)** The Federal Communications Commission may enforce compliance with this chapter but shall have no rulemaking authority under this chapter, except as provided in subsections (a), (b), (c), and (f).
 - **(e)**

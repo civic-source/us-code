@@ -3,9 +3,9 @@ title: "Section 7671i - Nonessential products containing chlorofluorocarbons"
 usc_title: 42
 usc_section: "7671i"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7671i"
-generated_at: "2026-03-29T02:15:36.988Z"
+generated_at: "2026-03-29T17:53:35.556Z"
 ---
 
 # § 7671i. Nonessential products containing chlorofluorocarbons
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:15:36.988Z"
   - **(3)** other consumer products that are determined by the Administrator—
     - **(A)** to release class I substances into the environment (including any release occurring during manufacture, use, storage, or disposal), and
     - **(B)** to be nonessential.
-- **(c)** Effective 24 months after November 15, 1990 , it shall be unlawful for any person to sell or distribute, or offer for sale or distribution, in interstate commerce any nonessential product to which regulations under subsection (a) implementing subsection (b) are applicable.
+- **(c)** Effective 24 months after November 15, 1990 , it shall be unlawful for any person to sell or distribute, or offer for sale or distribution, in interstate commerce any nonessential product to which regulations under subsection (a) of this section implementing subsection (b) of this section are applicable.
 - **(d)**
   - **(1)** Effective January 1, 1994 , it shall be unlawful for any person to sell or distribute, or offer for sale or distribution, in interstate commerce—
     - **(A)** any aerosol product or other pressurized dispenser which contains a class II substance; or

@@ -1,12 +1,12 @@
 ---
-title: "Section 5026 - Repealed. Pub. L. 98–473, title II, § 218(a)(8) , Oct. 12, 1984 , 98 Stat. 2027 ]"
+title: "Section 5026 - Repealed. Pub. L. 98–473, title II , § 218(a)(8), Oct. 12, 1984 , 98 Stat. 2027 ]"
 usc_title: 18
 usc_section: "5026"
 chapter: 402
-current_through: "PL 119-73"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 5026"
-generated_at: "2026-03-29T02:12:02.517Z"
+generated_at: "2026-03-29T17:53:59.702Z"
 ---
 
-# [§§ 5010 to 5026. Repealed. Pub. L. 98–473, title II, § 218(a)(8) , Oct. 12, 1984 , 98 Stat. 2027 ]
+# [§§ 5010 to 5026. Repealed. Pub. L. 98–473, title II , § 218(a)(8), Oct. 12, 1984 , 98 Stat. 2027 ]
 

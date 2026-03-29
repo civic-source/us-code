@@ -1,0 +1,26 @@
+---
+title: "Section 5555 - Research and development program"
+usc_title: 42
+usc_section: "5555"
+chapter: 71
+current_through: "PL 113-100"
+classification: "42 U.S.C. § 5555"
+generated_at: "2026-03-29T17:53:35.327Z"
+---
+
+# § 5555. Research and development program
+
+- **(a)** The Chairman shall initiate a research and development program for the purpose of resolving the major technical problems inhibiting commercial utilization of solar energy in the United States.
+- **(b)** In connection with or as a part of such program, the Chairman shall—
+  - **(1)** conduct, encourage, and promote scientific research and studies to develop effective and economical processes and equipment for the purpose of utilizing solar energy in an acceptable manner for beneficial uses;
+  - **(2)** carry out systems, economic, social, and environmental studies to provide a basis for research, development and demonstration planning and phasing; and
+  - **(3)** perform or cause to be performed technology assessments relevant to the utilization of solar energy.
+- **(c)** The specific solar energy technologies to be addressed or dealt with in the program shall include—
+  - **(1)** direct solar heat as a source for industrial processes, including the utilization of low-level heat for process and other industrial purposes;
+  - **(2)** thermal energy conversion, and other methods, for the generation of electricity and the production of chemical fuels;
+  - **(3)** the conversion of cellulose and other organic materials (including wastes) to useful energy or fuels;
+  - **(4)** photovoltaic and other direct conversion processes;
+  - **(5)** sea thermal gradient conversion;
+  - **(6)** windpower conversion;
+  - **(7)** solar heating and cooling of housing and of commercial and public buildings; and
+  - **(8)** energy storage.

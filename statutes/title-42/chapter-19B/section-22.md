@@ -3,9 +3,9 @@ title: "Section 22 - Great Lakes fishery and ecosystem restoration"
 usc_title: 42
 usc_section: "22"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-03-29T02:15:36.550Z"
+generated_at: "2026-03-29T17:53:35.028Z"
 ---
 
 # § 1962d–22. Great Lakes fishery and ecosystem restoration
@@ -35,14 +35,16 @@ generated_at: "2026-03-29T02:15:36.550Z"
   - **(4)**
     - **(A)** The Secretary shall develop a program to evaluate the success of the projects carried out under paragraph (3) in meeting fishery and ecosystem restoration goals.
     - **(B)** Evaluations under subparagraph (A) shall be conducted in consultation with the Great Lakes Fishery Commission and appropriate Federal, State, and local agencies.
-  - **(5)** A project carried out pursuant to this subsection may include compatible recreation features as determined by the Secretary, except that the Federal costs of such features may not exceed 10 percent of the Federal ecosystem restoration costs of the project.
 - **(d)** In carrying out this section, the Secretary may enter into a cooperative agreement with the Great Lakes Commission or any other agency established to facilitate active State participation in management of the Great Lakes.
 - **(e)** No activity under this section shall affect the date of completion of any other activity relating to the Great Lakes that is authorized under other law.
 - **(f)**
-  - **(1)** The Federal share of the cost of development of the plan under subsection (c)(1) shall be 65 percent.
-  - **(2)** Except for reconnaissance studies, the Federal share of the cost of planning, design, construction, and evaluation of a project under paragraph (3) or (4) of subsection (c) shall be 65 percent.
+  - **(1)** The Federal share of the cost of development of the plan under subsection (c)(1) of this section shall be 65 percent.
+  - **(2)** Except for reconnaissance studies, the Federal share of the cost of planning, design, construction, and evaluation of a project under paragraph (3) or (4) of subsection (c) of this section shall be 65 percent.
   - **(3)**
     - **(A)** The Secretary shall credit the non-Federal interest for the value of any land, easement, right-of-way, dredged material disposal area, or relocation provided for carrying out a project under subsection (c)(3).
     - **(B)** The non-Federal interest may provide up to 100 percent of the non-Federal share required under paragraphs (1) and (2) in the form of services, materials, supplies, or other in-kind contributions.
   - **(4)** The operation, maintenance, repair, rehabilitation, and replacement of projects carried out under this section shall be a non-Federal responsibility.
   - **(5)** In accordance with section 1962d–5b of this title , for any project carried out under this section, a non-Federal interest may include a private interest and a nonprofit entity.
+- **(g)**
+  - **(1)** There is authorized to be appropriated for development of the plan under subsection (c)(1) of this section $300,000.
+  - **(2)** There is authorized to be appropriated to carry out paragraphs (2) and (3) of subsection (c) of this section $100,000,000.

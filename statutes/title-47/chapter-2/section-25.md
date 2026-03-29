@@ -3,9 +3,9 @@ title: "Section 25 - Fishing vessels; duty to keep nets from cables"
 usc_title: 47
 usc_section: "25"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 25"
-generated_at: "2026-03-29T02:15:59.168Z"
+generated_at: "2026-03-29T17:53:43.597Z"
 ---
 
 # § 25. Fishing vessels; duty to keep nets from cables

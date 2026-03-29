@@ -3,9 +3,9 @@ title: "Section 8402 - Loans to assist powerplant acquisitions of air pollution 
 usc_title: 42
 usc_section: "8402"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 8402"
-generated_at: "2026-03-29T02:15:37.022Z"
+generated_at: "2026-03-29T17:53:35.591Z"
 ---
 
 # § 8402. Loans to assist powerplant acquisitions of air pollution control equipment
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T02:15:37.022Z"
     - **(D)** competition among private entities for the provision of air pollution control devices for electric powerplants using coal as their primary energy source to be assisted under this section will be in no way limited or precluded.
 - **(c)** In making loans or commitments to loan pursuant to this section, the Secretary shall—
   - **(1)** allocate a minimum of 25 percent of available financial assistance to existing small municipal and rural powerplants; and
-  - **(2)** give priority consideration to requests for financial assistance by existing electric powerplants subject to any prohibition under subchapter III (or under section 792 of title 15 ).
+  - **(2)** give priority consideration to requests for financial assistance by existing electric powerplants subject to any prohibition under subchapter III of this chapter (or under section 792 of title 15 ).
 - **(d)** For purposes of this section—
   - **(1)** The term “certified pollution control device” means a new identifiable device which—
     - **(A)** is used, in connection with a powerplant, to abate or control atmospheric pollution by removing, altering, disposing, storing, or preventing the emission of pollutants;
@@ -37,11 +37,11 @@ generated_at: "2026-03-29T02:15:37.022Z"
 - **(e)**
   - **(1)** The Secretary shall require all persons receiving financial assistance under this section to keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance was given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
   - **(2)** The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall, until the later of—
-    - **(A)** the expiration of 3 years after completion of the project or undertaking referred to in subsection (a), or
+    - **(A)** the expiration of 3 years after completion of the project or undertaking referred to in subsection (a) of this section, or
     - **(B)** full repayment of interest and principal on a loan made under this section, occurs,
 - **(f)**
   - **(1)** If there is a default in any payment by the obligor of interest or principal due under a loan entered into by the Secretary under this section and such default has continued for 90 days, the Secretary has the right to demand payment of such unpaid amount, unless the Secretary finds that such default has been rem­edied, or a satisfactory plan to remedy such default by the obligor has been accepted by the Secretary.
   - **(2)** In demanding payment of unpaid interest or principal by the obligor, the Secretary has all rights specified in the loan-related agreements with respect to any security which he held with respect to the loan, including the authority to complete, maintain, operate, lease, sell, or otherwise dispose of any property acquired pursuant to such loan or related agreements.
   - **(3)** If there is a default under any loan, the Secretary shall notify the Attorney General who shall take such action against the obligator or other parties liable thereunder as is, in his discretion, necessary to protect the interests of the United States. The holder of such loan shall make available to the United States all records and evidence necessary to prosecute any such suit.
 - **(g)** Amounts received by the Secretary as principal, interest, fees, proceeds from security acquired following default, or other amounts received by the Secretary in connection with loans made under this section shall be paid into the Treasury of the United States as miscellaneous receipts.
-- **(h)** There are hereby authorized to be appropriated to the Secretary such sums as may be necessary to carry out the purposes of this section, but not to exceed $400,000,000 for fiscal year 1979 and $400,000,000 for fiscal year 1980. Authority granted to the Secretary under subsection (a) may be exercised only to the extent as may be provided in advance in appropriation Acts.
+- **(h)** There are hereby authorized to be appropriated to the Secretary such sums as may be necessary to carry out the purposes of this section, but not to exceed $400,000,000 for fiscal year 1979 and $400,000,000 for fiscal year 1980. Authority granted to the Secretary under subsection (a) of this section may be exercised only to the extent as may be provided in advance in appropriation Acts.

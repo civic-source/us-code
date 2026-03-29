@@ -3,21 +3,19 @@ title: "Section 24706 - Discontinuance"
 usc_title: 49
 usc_section: "24706"
 chapter: 247
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 24706"
-generated_at: "2026-03-29T02:16:08.951Z"
+generated_at: "2026-03-29T17:53:48.029Z"
 ---
 
 # § 24706. Discontinuance
 
 - **(a)**
-  - **(1)** Except as provided in subsection (c), not later than 180 days before discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
-  - **(2)** Notice of the discontinuance under paragraph (1) shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
-- **(b)** Except as provided in subsection (c), in an emergency, or during maintenance or construction outages impacting Amtrak routes, Amtrak may not discontinue, reduce the frequency of, suspend, or substantially alter the route of rail service on any segment of any long-distance route in any fiscal year in which Amtrak receives adequate Federal funding for such route on the National Network.
-- **(c)**
-  - **(1)** Amtrak may discontinue service under subsection (a)(1) during—
+  - **(1)** Except as provided in subsection (b) of this section, at least 180 days before a discontinuance under section 24704 1 1 See References in Text note below. or or 2 2 So in original. discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
+  - **(2)** Notice of the discontinuance under section 24704 1 or paragraph (1) shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
+- **(b)**
+  - **(1)** Amtrak may discontinue service under section 24704 1 or subsection (a)(1) during—
     - **(A)** the first month of a fiscal year if the authorization of appropriations and the appropriations for Amtrak are not enacted at least 90 days before the beginning of the fiscal year; and
     - **(B)** the 30 days following enactment of an appropriation for Amtrak or a rescission of an appropriation.
   - **(2)** Amtrak shall notify each affected State or regional or local transportation authority of a discontinuance under this subsection as soon as possible after Amtrak decides to discontinue the service.
-- **(d)** Except as provided in subsection (c), not later than 210 days before discontinuing service over a route, Amtrak shall give written notice of such discontinuance to all of the members of Congress representing any State or district in which the discontinuance would occur.
-- **(e)** This section applies to all service over routes provided by Amtrak, notwithstanding any provision of section 24701 of this title or any other provision of this title except section 24702(b).
+- **(c)** This section applies to all service over routes provided by Amtrak, notwithstanding any provision of section 24701 of this title or any other provision of this title except section 24702(b).

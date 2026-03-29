@@ -3,9 +3,9 @@ title: "Section 3306 - Availability to public of certain intelligence funding in
 usc_title: 50
 usc_section: "3306"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 3306"
-generated_at: "2026-03-29T02:16:14.783Z"
+generated_at: "2026-03-29T17:53:51.061Z"
 ---
 
 # § 3306. Availability to public of certain intelligence funding information

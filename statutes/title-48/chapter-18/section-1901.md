@@ -3,9 +3,9 @@ title: "Section 1901 - Approval of Compact of Free Association"
 usc_title: 48
 usc_section: "1901"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "48 U.S.C. § 1901"
-generated_at: "2026-03-29T02:16:00.826Z"
+generated_at: "2026-03-29T17:53:42.725Z"
 ---
 
 # § 1901. Approval of Compact of Free Association
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T02:16:00.826Z"
       - **(v)** Articles III and IV of the agreement referred to in section 462(g) of the Compact;
       - **(vi)** Articles III and IV of the agreement referred to in section 462(h) of the Compact; and
       - **(vii)** Articles VI, XV, and XVII of the agreement referred to in section 462(i) of the Compact.
-- **(e)** For purposes of implementation of the Compact and this joint resolution, each of the subsidiary agreements referred to in subsections (a) and (b) (whether or not bilateral in form) shall be deemed to be bilateral agreements between the United States and each other party to such subsidiary agreement. The consent or concurrence of any other party shall not be required for the effectiveness of any actions taken by the United States in conjunction with either the Federated States of Micronesia or the Marshall Islands which are intended to affect the implementation, modification, suspension, or termination of any such subsidiary agreement (or any provision thereof) as regards the mutual responsibilities of the United States and the party in conjunction with whom the actions are taken.
+- **(e)** For purposes of implementation of the Compact and this joint resolution, each of the subsidiary agreements referred to in subsections (a) and (b) of this section (whether or not bilateral in form) shall be deemed to be bilateral agreements between the United States and each other party to such subsidiary agreement. The consent or concurrence of any other party shall not be required for the effectiveness of any actions taken by the United States in conjunction with either the Federated States of Micronesia or the Marshall Islands which are intended to affect the implementation, modification, suspension, or termination of any such subsidiary agreement (or any provision thereof) as regards the mutual responsibilities of the United States and the party in conjunction with whom the actions are taken.
 - **(f)**
   - **(1)** The President shall not agree to an effective date for the Compact, as authorized by this section, until after certifying to Congress that the agreements described in section 1902 of this title and section 1903 of this title have been concluded.
   - **(2)** Any agreement concluded with the Federated States of Micronesia or the Marshall Islands pursuant to sections 1902 and 1903 of this title and any agreement which would amend, change, or terminate any subsidiary agreement or portion thereof as set forth in paragraph (4) of this subsection shall be submitted to the Congress. No such agreement shall take effect until after the expiration of 30 days after the date such agreement is so submitted (excluding days on which either House of Congress is not in session).

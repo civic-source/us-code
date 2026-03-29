@@ -3,9 +3,9 @@ title: "Section 524 - Cooperation with irrigation districts, etc., in constructi
 usc_title: 43
 usc_section: "524"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 524"
-generated_at: "2026-03-29T02:15:47.554Z"
+generated_at: "2026-03-29T17:53:03.646Z"
 ---
 
 # § 524. Cooperation with irrigation districts, etc., in construction of reservoirs and canals

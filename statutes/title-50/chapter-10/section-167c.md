@@ -3,9 +3,9 @@ title: "Section 167c - Storage, withdrawal and transportation"
 usc_title: 50
 usc_section: "167c"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 167c"
-generated_at: "2026-03-29T02:16:14.690Z"
+generated_at: "2026-03-29T17:53:50.959Z"
 ---
 
 # § 167c. Storage, withdrawal and transportation

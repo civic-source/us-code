@@ -3,9 +3,9 @@ title: "Section 9837a - Head Start transition and alignment with K–12 educatio
 usc_title: 42
 usc_section: "9837a"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 9837a"
-generated_at: "2026-03-29T02:15:37.086Z"
+generated_at: "2026-03-29T17:53:35.657Z"
 ---
 
 # § 9837a. Head Start transition and alignment with K–12 education
@@ -19,8 +19,8 @@ generated_at: "2026-03-29T02:15:37.086Z"
   - **(6)** conducting outreach to parents and elementary school (such as kindergarten) teachers to discuss the educational, developmental, and other needs of individual children;
   - **(7)** helping parents of limited English proficient children understand—
     - **(A)** the instructional and other services provided by the school in which such child will enroll after participation in Head Start; and
-    - **(B)** as appropriate, the information provided to parents of English learners under section 1112(e)(3) of the Elementary and Secondary Education Act of the 1 1 So in original. 1965 [ 20 U.S.C. 6312(e)(3) ];
-  - **(8)** developing and implementing a family outreach and support program, in cooperation with entities carrying out parent and family engagement efforts under title I of the Elementary and Secondary Education Act of 1965 [ 20 U.S.C. 6301 et seq.], and family outreach and support efforts under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11431 et seq.), taking into consideration the language needs of parents of limited English proficient children;
+    - **(B)** as appropriate, the information provided to parents of limited English proficient children under section 3302 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7012 );
+  - **(8)** developing and implementing a family outreach and support program, in cooperation with entities carrying out parental involvement efforts under title I of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6301 et seq.), and family outreach and support efforts under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11431 et seq.), taking into consideration the language needs of parents of limited English proficient children;
   - **(9)** assisting families, administrators, and teachers in enhancing educational and developmental continuity and continuity of parental involvement in activities between Head Start services and elementary school classes;
   - **(10)** linking the services provided in such Head Start program with educational services, including services relating to language, literacy, and numeracy, provided by such local educational agency;
   - **(11)** helping parents (including grandparents and kinship caregivers, as appropriate) to understand the importance of parental involvement in a child’s academic success while teaching them strategies for maintaining parental involvement as their child moves from Head Start to elementary school;

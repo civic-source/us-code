@@ -3,15 +3,15 @@ title: "Section 9903 - Authorization of appropriations"
 usc_title: 42
 usc_section: "9903"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 9903"
-generated_at: "2026-03-29T02:15:37.107Z"
+generated_at: "2026-03-29T17:53:35.671Z"
 ---
 
 # § 9903. Authorization of appropriations
 
 - **(a)** There are authorized to be appropriated such sums as may be necessary for each of fiscal years 1999 through 2003 to carry out the provisions of this chapter (other than sections 9922 and 9923 of this title).
-- **(b)** Of the amounts appropriated under subsection (a) for each fiscal year, the Secretary shall reserve—
+- **(b)** Of the amounts appropriated under subsection (a) of this section for each fiscal year, the Secretary shall reserve—
   - **(1)** ½ of 1 percent for carrying out section 9905 of this title (relating to payments for territories);
   - **(2)** 1½ percent for activities authorized in sections 9913 through 9918 of this title, of which—
     - **(A)** not less than ½ of the amount reserved by the Secretary under this paragraph shall be distributed directly to eligible entities, organizations, or associations described in section 9913(c)(2) of this title for the purpose of carrying out activities described in section 9913(c) of this title ; and

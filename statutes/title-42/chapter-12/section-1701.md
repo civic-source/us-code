@@ -3,9 +3,9 @@ title: "Section 1701 - Compensation for injury or death resulting from war-risk 
 usc_title: 42
 usc_section: "1701"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1701"
-generated_at: "2026-03-29T02:15:36.483Z"
+generated_at: "2026-03-29T17:53:34.955Z"
 ---
 
 # § 1701. Compensation for injury or death resulting from war-risk hazard
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T02:15:36.483Z"
   - **(4)** to any person who is an employee specified in section 1651(a)(5) of this title , if no compensation is payable with respect to such injury or death under chapter 11 of this title or to any person engaged under a contract for his personal services outside the United States approved and financed by the United States under the Mutual Security Act of 1954, as amended (other than title II of chapter II thereof unless the Secretary of Labor, upon the recommendation of the head of any department or other agency of the United States Government, determines a contract financed under a successor provision of any successor Act should be covered by this section): Provided , That in cases where the United States is not a formal party to contracts approved and financed under the Mutual Security Act of 1954, as amended, the Secretary, upon the recommendation of the head of any department or agency of the United States, may, in the exercise of his discretion, waive the application of the provisions of this subparagraph with respect to any such contracts, subcontracts, or subordinate contracts, work location under such contracts, subcontracts, or subordinate contracts, or classification of employees; or
   - **(5)** to any person employed or otherwise engaged for personal services outside the continental United States by an American employer providing welfare or similar services for the benefit of the Armed Forces pursuant to appropriate authorization by the Secretary of Defense,
 - **(b)**
-  - **(1)** Any person specified in subsection (a) who—
+  - **(1)** Any person specified in subsection (a) of this section who—
     - **(A)** is found to be missing from his place of employment, whether or not such person then actually was engaged in the course of his employment, under circumstances supporting an inference that his absence is due to the belligerent action of a hostile force or person, or
     - **(B)** is known to have been taken by a hostile force or person as a prisoner, hostage, or otherwise, or
     - **(C)** is not returned to his home or to the place where he was employed by reason of the failure of the United States or its contractor to furnish transportation,

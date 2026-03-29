@@ -1,0 +1,24 @@
+---
+title: "Section 1109 - Authorizations of appropriations"
+usc_title: 47
+usc_section: "1109"
+chapter: 10
+current_through: "PL 113-100"
+classification: "47 U.S.C. § 1109"
+generated_at: "2026-03-29T17:53:43.675Z"
+---
+
+# § 1109. Authorizations of appropriations
+
+- **(a)**
+  - **(1)** For the cost of the loans guaranteed under this chapter, including the cost of modifying the loans, as defined in section 661a of title 2 , there are authorized to be appropriated for fiscal years 2001 through 2006, such amounts as may be necessary.
+  - **(2)**
+    - **(A)** Notwithstanding any other provision of law, subject to subparagraph (B), in addition to amounts made available under paragraph (1), of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make available for loan guarantees to carry out this chapter $80,000,000 for the period beginning on May 13, 2002 , and ending on December 31, 2006 , to remain available until expended.
+    - **(B)**
+      - **(i)** Amounts made available under subparagraph (A) that are not obligated as of the release date described in clause (ii) shall be available to the Secretary to make loans and loan guarantees under section 950bb of title 7 .
+      - **(ii)** For purposes of clause (i), the release date is the date that is the earlier of—
+        - **(I)** the date the Secretary determines that at least 75 percent of the designated market areas (as defined in section 122(j) of title 17 ) not in the top 40 designated market areas described in section 1103(e)(1)(C)(i) of this title have access to local television broadcast signals for virtually all households (as determined by the Secretary); or
+        - **(II)** December 31, 2006 .
+    - **(C)** Subsections (c) and (h)(1)(B) of section 1103 of this title and section 1104(n)(3)(B) of this title shall not apply to amounts made available under this paragraph.
+- **(b)** There is hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter, other than to cover costs under subsection (a) of this section.
+- **(c)** Any amounts appropriated pursuant to the authorizations of appropriations in subsections (a) and (b) of this section shall remain available until expended.

@@ -3,9 +3,9 @@ title: "Section 3058bb - Definitions"
 usc_title: 42
 usc_section: "3058bb"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3058bb"
-generated_at: "2026-03-29T02:15:36.653Z"
+generated_at: "2026-03-29T17:53:35.161Z"
 ---
 
 # § 3058bb. Definitions
@@ -13,4 +13,4 @@ generated_at: "2026-03-29T02:15:36.653Z"
 As used in this subchapter:
 
   - **(1)** The term “elder right” means a right of an older individual.
-  - **(2)** The term “vulnerable elder rights protection activity” means an activity funded under part A.
+  - **(2)** The term “vulnerable elder rights protection activity” means an activity funded under part A of this subchapter.

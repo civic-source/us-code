@@ -3,15 +3,15 @@ title: "Section 70103 - Maritime transportation security plans"
 usc_title: 46
 usc_section: "70103"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 70103"
-generated_at: "2026-03-29T02:15:53.795Z"
+generated_at: "2026-03-29T17:53:41.841Z"
 ---
 
 # § 70103. Maritime transportation security plans
 
 - **(a)**
-  - **(1)** The Secretary shall prepare a National Maritime Transportation Security Plan for deterring and responding to a transportation security incident.
+  - **(1)** Not later than April 1, 2005 , the Secretary shall prepare a National Maritime Transportation Security Plan for deterring and responding to a transportation security incident.
   - **(2)** The National Maritime Transportation Security Plan shall provide for efficient, coordinated, and effective action to deter and minimize damage from a transportation security incident, and shall include the following:
     - **(A)** Assignment of duties and responsibilities among Federal departments and agencies and coordination with State and local governmental agencies.
     - **(B)** Identification of security resources.
@@ -27,7 +27,6 @@ generated_at: "2026-03-29T02:15:53.795Z"
     - **(H)** A risk-based system for evaluating the potential for violations of security zones designated by the Secretary on the waters subject to the jurisdiction of the United States.
     - **(I)** A recognition of certified systems of intermodal transportation.
     - **(J)** A plan for ensuring that the flow of cargo through United States ports is reestablished as efficiently and quickly as possible after a transportation security incident.
-    - **(K)** A plan to detect, respond to, and recover from cybersecurity risks that may cause transportation security incidents.
   - **(3)** The Secretary shall, as the Secretary considers advisable, revise or otherwise amend the National Maritime Transportation Security Plan.
   - **(4)** Actions by Federal agencies to deter and minimize damage from a transportation security incident shall, to the greatest extent possible, be in accordance with the National Maritime Transportation Security Plan.
   - **(5)** The Secretary shall inform vessel and facility owners or operators of the provisions in the National Transportation Security Plan that the Secretary considers necessary for security purposes.
@@ -44,10 +43,11 @@ generated_at: "2026-03-29T02:15:53.795Z"
     - **(F)** include any other information the Secretary requires;
     - **(G)** include a salvage response plan—
       - **(i)** to identify salvage equipment capable of restoring operational trade capacity; and
-      - **(ii)** to ensure that the waterways are cleared and the flow of commerce through United States ports is reestablished as efficiently and quickly as possible after a maritime transportation security incident;
-    - **(H)** include a plan for detecting, responding to, and recovering from cybersecurity risks that may cause transportation security incidents; and
-    - **(I)** be updated at least every 5 years by the Federal Maritime Security Coordinator.
-  - **(3)** The Secretary shall review and approve Area Maritime Transportation Security Plans and updates under this subsection.
+      - **(ii)** to ensure that the waterways are cleared and the flow of commerce through United States ports is reestablished as efficiently and quickly as possible after a maritime transportation security incident; and
+    - **(H)** be updated at least every 5 years by the Federal Maritime Security Coordinator.
+  - **(3)** The Secretary shall—
+    - **(A)** review and approve Area Maritime Transportation Security Plans under this subsection; and
+    - **(B)** periodically review previously approved Area Maritime Transportation Security Plans.
   - **(4)** In security zones designated by the Secretary in each Area Maritime Transportation Security Plan, the Secretary shall consider—
     - **(A)** the use of public/private partnerships to enforce security within the security zones, shoreside protection alternatives, and the environmental, public safety, and relative effectiveness of such alternatives; and
     - **(B)** technological means of enhancing the security zones of port, territorial waters, and waterways of the United States.
@@ -63,9 +63,8 @@ generated_at: "2026-03-29T02:15:53.795Z"
       - **(i)** establishing and maintaining physical security, passenger and cargo security, and personnel security;
       - **(ii)** establishing and controlling access to secure areas of the vessel or facility, including access by persons engaged in the surface transportation of intermodal containers in or out of a port facility;
       - **(iii)** procedural security policies;
-      - **(iv)** communications systems;
-      - **(v)** detecting, responding to, and recovering from cybersecurity risks that may cause transportation security incidents; and
-      - **(vi)** other security systems;
+      - **(iv)** communications systems; and
+      - **(v)** other security systems;
     - **(D)** identify, and ensure by contract or other means approved by the Secretary, the availability of security measures necessary to deter to the maximum extent practicable a transportation security incident or a substantial threat of such a security incident;
     - **(E)** describe the training, periodic unannounced drills, and security actions of persons on the vessel or at the facility, to be carried out under the plan to deter to the maximum extent practicable a transportation security incident, or a substantial threat of such a security incident;
     - **(F)** provide a strategy and timeline for conducting training and periodic unannounced drills;
@@ -73,10 +72,10 @@ generated_at: "2026-03-29T02:15:53.795Z"
     - **(H)** be resubmitted for approval of each change to the vessel or facility that may substantially affect the security of the vessel or facility; and
     - **(I)** in the case of a security plan for a facility, be resubmitted for approval of each change in the ownership or operator of the facility that may substantially affect the security of the facility.
   - **(4)** The Secretary shall—
-    - **(A)** promptly review each such plan or update;
-    - **(B)** require amendments to any plan or update that does not meet the requirements of this subsection;
-    - **(C)** approve any plan or update that meets the requirements of this subsection; and
-    - **(D)** subject to the availability of appropriations, periodically, but not less than one time per year, conduct a risk-based, no notice facility inspection to verify the effectiveness of each such facility security plan or update.
+    - **(A)** promptly review each such plan;
+    - **(B)** require amendments to any plan that does not meet the requirements of this subsection;
+    - **(C)** approve any plan that meets the requirements of this subsection; and
+    - **(D)** subject to the availability of appropriations, verify the effectiveness of each such facility security plan periodically, but not less than 2 times per year, at least 1 of which shall be an inspection of the facility that is conducted without notice to the facility.
   - **(5)** A vessel or facility for which a plan is required to be submitted under this subsection may not operate after the end of the 12-month period beginning on the date of the prescription of interim final regulations on vessel and facility security plans, unless—
     - **(A)** the plan has been approved by the Secretary; and
     - **(B)** the vessel or facility is operating in compliance with the plan.
@@ -85,7 +84,6 @@ generated_at: "2026-03-29T02:15:53.795Z"
   - **(8)**
     - **(A)** The Secretary shall require that the qualified individual having full authority to implement security actions for a facility described in paragraph (2) shall be a citizen of the United States.
     - **(B)** The Secretary may waive the requirement of subparagraph (A) with respect to an individual if the Secretary determines that it is appropriate to do so based on a complete background check of the individual and a review of all terrorist watch lists to ensure that the individual is not identified on any such terrorist watch list.
-  - **(9)** The Secretary may conduct no-notice exercises in Captain of the Port Zones (as described in part 3 of title 33, Code of Federal Regulations as in effect on the date of enactment of the Coast Guard Authorization Act of 2025 [ Dec. 18, 2025 ]) involving a facility or vessel required to maintain a security plan under this subsection.
 - **(d)**
   - **(1)** Information developed under this section or sections 70102, 70104, and 70108 is not required to be disclosed to the public, including—
     - **(A)** facility security plans, vessel security plans, and port vulnerability assessments; and
@@ -97,5 +95,9 @@ generated_at: "2026-03-29T02:15:53.795Z"
     - **(D)** to prevent or delay the release of information that does not require protection in the interest of transportation security, including basic scientific research information not clearly related to transportation security.
 - **(e)**
   - **(1)** Consistent with other provisions of Federal law, the Coast Guard shall coordinate and be responsible for the enforcement of any Federal security zone established by the Coast Guard around a vessel containing especially hazardous cargo. The Coast Guard shall allocate available resources so as to deter and respond to a transportation security incident, to the maximum extent practicable, and to protect lives or protect property in danger.
-  - **(2)** In this subsection, the term “especially hazardous cargo” means anhydrous ammonia, ammonium nitrate, chlorine, liquefied natural gas, liquefied petroleum gas, and any other substance, material, or group or class of material, in a particular amount and form that the Secretary determines by regulation poses a significant risk of creating a transportation security incident while being transported in maritime commerce.
-- **(f)** Notwithstanding any other provision of law, information related to security plans, procedures, or programs for passenger vessels or passenger terminals authorized under this chapter is not required to be disclosed to the public.
+  - **(2)**
+    - **(A)** When the Secretary submits the annual budget request for a fiscal year for the department in which the Coast Guard is operating to the Office of Management and Budget, the Secretary shall provide to the Committees on Homeland Security and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
+      - **(i)** for the last full fiscal year preceding the report, a statement of the number of security zones established for especially hazardous cargo shipments;
+      - **(ii)** for the last full fiscal year preceding the report, a statement of the number of especially hazardous cargo shipments provided a waterborne security escort, subdivided by Federal, State, local, or private security; and
+      - **(iii)** an assessment as to any additional vessels, personnel, infrastructure, and other resources necessary to provide waterborne escorts to those especially hazardous cargo shipments for which a security zone is established.
+    - **(B)** In this subsection, the term “especially hazardous cargo” means anhydrous ammonia, ammonium nitrate, chlorine, liquefied natural gas, liquiefied petroleum gas, and any other substance, material, or group or class of material, in a particular amount and form that the Secretary determines by regulation poses a significant risk of creating a transportation security incident while being transported in maritime commerce.

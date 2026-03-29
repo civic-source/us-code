@@ -3,16 +3,16 @@ title: "Section 14 - Outreach efforts to increase awareness of the availability 
 usc_title: 42
 usc_section: "14"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-03-29T02:15:36.091Z"
+generated_at: "2026-03-29T17:53:34.560Z"
 ---
 
 # § 1320b–14. Outreach efforts to increase awareness of the availability of medicare cost-sharing and subsidies for low-income individuals under subchapter XVIII
 
 - **(a)**
   - **(1)** The Commissioner of Social Security (in this section referred to as the “Commissioner”) shall conduct outreach efforts to—
-    - **(A)** identify individuals entitled to benefits under the medicare program under subchapter XVIII who may be eligible for medical assistance for payment of the cost of medicare cost-sharing under the medicaid program pursuant to sections 1396a(a)(10)(E) and 1396u–3 of this title 1 1 So in original. Probably should be followed by a comma. for the transitional assistance under section 1395w–141(f) of this title , or for premium and cost-sharing subsidies under section 1395w–114 of this title ; and
+    - **(A)** identify individuals entitled to benefits under the medicare program under subchapter XVIII of this chapter who may be eligible for medical assistance for payment of the cost of medicare cost-sharing under the medicaid program pursuant to sections 1396a(a)(10)(E) and 1396u–3 of this title 1 1 So in original. Probably should be followed by a comma. for the transitional assistance under section 1395w–141(f) of this title , or for premium and cost-sharing subsidies under section 1395w–114 of this title ; and
     - **(B)** notify such individuals of the availability of such medical assistance, program, and subsidies under such sections.
   - **(2)** Any notice furnished under paragraph (1) shall state that eligibility for medicare cost-sharing assistance, the transitional assistance under section 1395w–141(f) of this title , or premium and cost-sharing subsidies under section 1395w–114 of this title under such sections is conditioned upon—
     - **(A)** the individual providing to the State information about income and resources (in the case of an individual residing in a State that imposes an assets test for eligibility for medicare cost-sharing under the medicaid program); and
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T02:15:36.091Z"
   - **(1)** In conducting the outreach efforts under this section, the Commissioner shall—
     - **(A)** furnish the agency of each State responsible for the administration of the medicaid program and any other appropriate State agency with information consisting of the name and address of individuals residing in the State that the Commissioner determines may be eligible for medical assistance for payment of the cost of medicare cost-sharing under the medicaid program pursuant to sections 1396a(a)(10)(E) and 1396u–3 of this title, for transitional assistance under section 1395w–141(f) of this title , or for premium and cost-sharing subsidies for low-income individuals under section 1395w–114 of this title ; and
     - **(B)** update any such information not less frequently than once per year.
-  - **(2)** The periodic updates described in paragraph (1)(B) shall include information on individuals who are or may be eligible for the medical assistance, program, and subsidies described in paragraph (1)(A) because such individuals have experienced reductions in benefits under subchapter II.
+  - **(2)** The periodic updates described in paragraph (1)(B) shall include information on individuals who are or may be eligible for the medical assistance, program, and subsidies described in paragraph (1)(A) because such individuals have experienced reductions in benefits under subchapter II of this chapter.
 - **(c)**
   - **(1)** For each individual who submits an application for low-income subsidies under section 1395w–114 of this title , requests an application for such subsidies, or is otherwise identified as an individual who is potentially eligible for such subsidies, the Commissioner shall do the following:
     - **(A)** Provide information describing the low-income subsidy program under section 1395w–114 of this title and the Medicare Savings Program (as defined in paragraph (7)).

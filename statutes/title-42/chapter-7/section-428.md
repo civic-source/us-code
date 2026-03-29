@@ -3,9 +3,9 @@ title: "Section 428 - Benefits at age 72 for certain uninsured individuals"
 usc_title: 42
 usc_section: "428"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 428"
-generated_at: "2026-03-29T02:15:35.978Z"
+generated_at: "2026-03-29T17:53:34.450Z"
 ---
 
 # § 428. Benefits at age 72 for certain uninsured individuals
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:15:35.978Z"
   - **(1)** has attained the age of 72,
   - **(2)**
     - **(A)** attained such age before 1968, or (B)(i) attained such age after 1967 and before 1972, and (ii) has not less than 3 quarters of coverage, whenever acquired, for each calendar year elapsing after 1966 and before the year in which he or she attained such age,
-  - **(3)** is a resident of the United States (as defined in subsection (e)), and is (A) a citizen of the United States or (B) an alien lawfully admitted for permanent residence who has resided in the United States (as defined in section 410(i) of this title ) continuously during the 5 years immediately preceding the month in which he or she files application under this section, and
+  - **(3)** is a resident of the United States (as defined in subsection (e) of this section), and is (A) a citizen of the United States or (B) an alien lawfully admitted for permanent residence who has resided in the United States (as defined in section 410(i) of this title ) continuously during the 5 years immediately preceding the month in which he or she files application under this section, and
   - **(4)** has filed application for benefits under this section,
 - **(b)** The benefit amount to which an individual is entitled under this section for any month shall be the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title .
 - **(c)**
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T02:15:35.978Z"
   - **(7)** If any benefit amount computed under the foregoing provisions of this section is not a multiple of $0.10, it shall be raised to the next higher multiple of $0.10.
   - **(8)** Under regulations prescribed by the Commissioner of Social Security, benefit payments under this section to an individual (or aggregate benefit payments under this section in the case of a husband and wife) of less than $5 may be accumulated until they equal or exceed $5.
 - **(d)** The benefit to which any individual is entitled under this section for any month shall not be paid for such month if—
-  - **(1)** such individual receives aid or assistance in the form of money payments in such month under a State plan approved under subchapter I, X, XIV, or XVI, or under a State program funded under part A of subchapter IV, or
+  - **(1)** such individual receives aid or assistance in the form of money payments in such month under a State plan approved under subchapter I, X, XIV, or XVI of this chapter, or under a State program funded under part A of subchapter IV of this chapter, or
   - **(2)** such individual’s husband or wife receives such aid or assistance in such month, and under the State plan the needs of such individual were taken into account in determining eligibility for (or amount of) such aid or assistance,
 - **(e)** The benefit to which any individual is entitled under this section for any month shall not be paid if, during such month, such individual is not a resident of the United States. For purposes of this subsection, the term “United States” means the 50 States and the District of Columbia.
 - **(f)** For purposes of subsections (t) and (u) of section 402 of this title , and of section 1395s of this title , a monthly benefit under this section shall be treated as a monthly insurance benefit payable under section 402 of this title .

@@ -3,9 +3,9 @@ title: "Section 9611 - Uses of Fund"
 usc_title: 42
 usc_section: "9611"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 9611"
-generated_at: "2026-03-29T02:15:37.059Z"
+generated_at: "2026-03-29T17:53:35.631Z"
 ---
 
 # § 9611. Uses of Fund
@@ -56,7 +56,7 @@ generated_at: "2026-03-29T02:15:37.059Z"
   - **(2)** the claimant is not otherwise compensated for his loss;
   - **(3)** the hazardous substance was released from a facility or from a vessel located adjacent to or within the navigable waters or was discharged in connection with activities conducted under the Outer Continental Shelf Lands Act, as amended ( 43 U.S.C. 1331 et seq.) or the Deepwater Port Act of 1974, as amended ( 33 U.S.C. 1501 et seq.); and
   - **(4)** recovery is authorized by a treaty or an executive agreement between the United States and foreign country involved, or if the Secretary of State, in consultation with the Attorney General and other appropriate officials, certifies that such country provides a comparable remedy for United States claimants.
-- **(m)** There shall be directly available to the Agency for Toxic Substances and Disease Registry to be used for the purpose of carrying out activities described in subsection (c)(4) and section 9604(i) of this title not less than $50,000,000 per fiscal year for each of fiscal years 1987 and 1988, not less than $55,000,000 for fiscal year 1989, and not less than $60,000,000 per fiscal year for each of fiscal years 1990, 1991, 1992, 1993, and 1994. Any funds so made available which are not obligated by the end of the fiscal year in which made available shall be returned to the Fund.
+- **(m)** There shall be directly available to the Agency for Toxic Substances and Disease Registry to be used for the purpose of carrying out activities described in subsection (c)(4) of this section and section 9604(i) of this title not less than $50,000,000 per fiscal year for each of fiscal years 1987 and 1988, not less than $55,000,000 for fiscal year 1989, and not less than $60,000,000 per fiscal year for each of fiscal years 1990, 1991, 1992, 1993, and 1994. Any funds so made available which are not obligated by the end of the fiscal year in which made available shall be returned to the Fund.
 - **(n)**
   - **(1)** For each of the fiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, and 1994, not more than $20,000,000 of the amounts available in the Fund may be used for the purposes of carrying out the applied research, development, and demonstration program for alternative or innovative technologies and training program authorized under section 9660(b) of this title (relating to research, development, and demonstration) other than basic research. Such amounts shall remain available until expended.
   - **(2)** From the amounts available in the Fund, not more than the following amounts may be used for the purposes of section 9660(a) of this title (relating to hazardous substance research, demonstration, and training activities):

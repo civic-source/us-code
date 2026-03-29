@@ -3,18 +3,18 @@ title: "Section 1397b - Allotments"
 usc_title: 42
 usc_section: "1397b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1397b"
-generated_at: "2026-03-29T02:15:36.397Z"
+generated_at: "2026-03-29T17:53:34.864Z"
 ---
 
 # § 1397b. Allotments
 
-- **(a)** The allotment for any fiscal year to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, and the Northern Mariana Islands shall be an amount which bears the same ratio to the amount specified in subsection (c) as the amount which was specified for allocation to the particular jurisdiction involved for the fiscal year 1981 under section 1397a(a)(2)(C) of this title (as in effect prior to Aug. 13, 1981 ) bore to $2,900,000,000. The allotment for fiscal year 1989 and each succeeding fiscal year to American Samoa shall be an amount which bears the same ratio to the amount allotted to the Northern Mariana Islands for that fiscal year as the population of American Samoa bears to the population of the Northern Mariana Islands determined on the basis of the most recent data available at the time such allotment is determined.
+- **(a)** The allotment for any fiscal year to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, and the Northern Mariana Islands shall be an amount which bears the same ratio to the amount specified in subsection (c) of this section as the amount which was specified for allocation to the particular jurisdiction involved for the fiscal year 1981 under section 1397a(a)(2)(C) of this title (as in effect prior to Aug. 13, 1981 ) bore to $2,900,000,000. The allotment for fiscal year 1989 and each succeeding fiscal year to American Samoa shall be an amount which bears the same ratio to the amount allotted to the Northern Mariana Islands for that fiscal year as the population of American Samoa bears to the population of the Northern Mariana Islands determined on the basis of the most recent data available at the time such allotment is determined.
 - **(b)** The allotment for any fiscal year for each State other than the jurisdictions of Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Northern Mariana Islands shall be an amount which bears the same ratio to—
-  - **(1)** the amount specified in subsection (c), reduced by
-  - **(2)** the total amount allotted to those jurisdictions for that fiscal year under subsection (a),
-- **(c)** The amount specified for purposes of subsections (a) and (b) shall be—
+  - **(1)** the amount specified in subsection (c) of this section, reduced by
+  - **(2)** the total amount allotted to those jurisdictions for that fiscal year under subsection (a) of this section,
+- **(c)** The amount specified for purposes of subsections (a) and (b) of this section shall be—
   - **(1)** $2,400,000,000 for the fiscal year 1982;
   - **(2)** $2,450,000,000 for the fiscal year 1983;
   - **(3)** $2,700,000,000 for the fiscal years 1984, 1985, 1986, 1987, and 1989;

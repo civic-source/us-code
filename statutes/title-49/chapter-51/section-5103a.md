@@ -3,22 +3,20 @@ title: "Section 5103a - Limitation on issuance of hazmat licenses"
 usc_title: 49
 usc_section: "5103a"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 5103a"
-generated_at: "2026-03-29T02:16:08.863Z"
+generated_at: "2026-03-29T17:53:47.956Z"
 ---
 
 # § 5103a. Limitation on issuance of hazmat licenses
 
 - **(a)**
-  - **(1)** A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless—
-    - **(A)** “the Secretary of Homeland Security”; 1 1 So in original. The quotation marks and semicolon probably should not appear. has first determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license; or
-    - **(B)** the individual holds a valid transportation security card issued under section 70105 of title 46 .
+  - **(1)** A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless the Secretary of Homeland Security has first determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license.
   - **(2)** For the purposes of this section, the term “issue”, with respect to a license, includes renewal of the license.
 - **(b)** The limitation in subsection (a) shall apply with respect to any material defined as hazardous material by the Secretary of Transportation for which the Secretary of Transportation requires placarding of a commercial motor vehicle transporting that material in commerce.
 - **(c)** The Secretary of Health and Human Services shall recommend to the Secretary of Transportation any chemical or biological material or agent for regulation as a hazardous material under section 5103(a) if the Secretary of Health and Human Services determines that such material or agent poses a significant risk to the health of individuals.
 - **(d)**
-  - **(1)** Upon the request of a State regarding issuance of a license under subsection (a)(1)(A) to an individual, the Attorney General—
+  - **(1)** Upon the request of a State regarding issuance of a license described in subsection (a)(1) to an individual, the Attorney General—
     - **(A)** shall carry out a background records check regarding the individual; and
     - **(B)** upon completing the background records check, shall notify the Secretary of Homeland Security of the completion and results of the background records check.
   - **(2)** A background records check regarding an individual under this subsection shall consist of the following:
@@ -33,7 +31,7 @@ generated_at: "2026-03-29T02:16:08.863Z"
   - **(1)**
     - **(A)** Not later than 90 days after the date of enactment of this subsection, the Director of the Transportation Security Administration, after receiving comments from interested parties, shall develop and implement a process for notifying hazmat employers designated by an applicant of the results of the applicant’s background record check, if—
       - **(i)** such notification is appropriate considering the potential security implications; and
-      - **(ii)** the Director, in a final notification of threat assessment, 2 2 So in original. Comma probably should appear after “applicant”. served on the applicant 2 determines that the applicant does not meet the standards set forth in regulations issued to carry out this section.
+      - **(ii)** the Director, in a final notification of threat assessment, 1 1 So in original. Comma probably should appear after “applicant”. served on the applicant 1 determines that the applicant does not meet the standards set forth in regulations issued to carry out this section.
     - **(B)**
       - **(i)** An individual with respect to whom the Transportation Security Administration—
         - **(I)** has performed a security threat assessment under this section; and

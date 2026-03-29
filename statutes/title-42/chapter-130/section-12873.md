@@ -3,9 +3,9 @@ title: "Section 12873 - Implementation grants"
 usc_title: 42
 usc_section: "12873"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 12873"
-generated_at: "2026-03-29T02:15:37.238Z"
+generated_at: "2026-03-29T17:53:35.822Z"
 ---
 
 # § 12873. Implementation grants
@@ -41,9 +41,9 @@ generated_at: "2026-03-29T02:15:37.238Z"
     - **(A)** a request for an implementation grant, specifying the amount of the grant requested and its proposed uses;
     - **(B)** if applicable, an application for assistance under section 1437f of this title , specifying the proposed uses of such assistance and the period during which the assistance will be needed;
     - **(C)** a description of the qualifications and experience of the applicant in providing low-income housing;
-    - **(D)** a description of the proposed homeownership program, consistent with section 12874 1 of this title and the other requirements of this part, specifying the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating the program will comply with the affordability requirements under section 12874(b) 1 of this title;
+    - **(D)** a description of the proposed homeownership program, consistent with section 12874 3 3 See References in Text note below. of this title and the other requirements of this part, specifying the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating the program will comply with the affordability requirements under section 12874(b) 3 of this title;
     - **(E)** identification and description of the property involved, and a description of the composition of the tenants, including family size and income;
-    - **(F)** a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) and of other resources that are expected to be made available in support of the homeownership program;
+    - **(F)** a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) of this section and of other resources that are expected to be made available in support of the homeownership program;
     - **(G)** identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the property, by an entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
     - **(H)** the proposed sales price, the basis for such price determination, and terms to an entity, if any, that will purchase the property for resale to eligible families;
     - **(I)** the proposed sales prices, if any, and terms to eligible families;
@@ -57,6 +57,6 @@ generated_at: "2026-03-29T02:15:37.238Z"
   - **(3)** the extent of tenant interest in the development of a homeownership program for the property;
   - **(4)** the potential for developing an affordable homeownership program and the suitability of the property for homeownership;
   - **(5)** national geographic diversity among housing for which applicants are selected to receive assistance;
-  - **(6)** the extent to which a sufficient supply of affordable rental housing of the type assisted under this title 1 exists in the locality, so that the implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units; and
-  - **(7)** such other factors as the Secretary determines to be appropriate for purposes of carrying out the program established by the 3 3 So in original. Probably should be “this”. part in an effective and efficient manner.
+  - **(6)** the extent to which a sufficient supply of affordable rental housing of the type assisted under this title 5 5 See References in Text note below. exists in the locality, so that the implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units; and
+  - **(7)** such other factors as the Secretary determines to be appropriate for purposes of carrying out the program established by the 6 6 So in original. Probably should be “this”. part in an effective and efficient manner.
 - **(e)** The Secretary shall notify each applicant, not later than 6 months after the date of the submission of the application, whether the application is approved or not approved. The Secretary may approve the application for an implementation grant with a statement that the application for the section 8 [ 42 U.S.C. 1437f ] assistance for residents of the project not purchasing units is conditionally approved, subject to the availability of appropriations in subsequent fiscal years.

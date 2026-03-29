@@ -3,9 +3,9 @@ title: "Section 2453 - Future-years nuclear security program"
 usc_title: 50
 usc_section: "2453"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2453"
-generated_at: "2026-03-29T02:16:14.748Z"
+generated_at: "2026-03-29T17:53:51.014Z"
 ---
 
 # § 2453. Future-years nuclear security program
@@ -24,11 +24,15 @@ generated_at: "2026-03-29T02:16:14.748Z"
       - **(iii)** fissile materials disposition.
     - **(C)** For naval reactors, naval reactors operations and maintenance.
   - **(2)** A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support each program element specified pursuant to paragraph (1).
-  - **(3)** A detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help ensure that the nuclear weapons stockpile is safe and reliable, as determined in accordance with the criteria established under section 2522(a) 1 1 See References in Text note below. of this title.
+  - **(3)** A detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help ensure that the nuclear weapons stockpile is safe and reliable, as determined in accordance with the criteria established under section 2522(a) of this title .
   - **(4)** A description of the anticipated workload requirements for each Administration site during that five-fiscal-year period.
+  - **(5)** A plan, developed in consultation with the Director of the Office of Health, Safety, and Security of the Department of Energy, for the research and development, deployment, and lifecycle sustainment of the technologies employed within the nuclear security enterprise to address physical and cyber security threats during the applicable five-fiscal-year period, together with—
+    - **(A)** for each site in the nuclear security enterprise, a description of the technologies deployed to address the physical and cyber security threats posed to that site;
+    - **(B)** for each site and for the nuclear security enterprise, the methods used by the Administration to establish priorities among investments in physical and cyber security technologies; and
+    - **(C)** a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help carry out that plan.
 - **(c)**
   - **(1)** The Administrator shall ensure that amounts described in subparagraph (A) of paragraph (2) for any fiscal year are consistent with amounts described in subparagraph (B) of paragraph (2) for that fiscal year.
   - **(2)** Amounts referred to in paragraph (1) are the following:
-    - **(A)** The amounts specified in program and budget information submitted to Congress by the Administrator in support of expenditure estimates and proposed appropriations in the budget submitted to Congress by the President under section 1105(a) of title 31 for any fiscal year, as shown in the future-years nuclear security program submitted pursuant to subsection (a).
+    - **(A)** The amounts specified in program and budget information submitted to Congress by the Administrator in support of expenditure estimates and proposed appropriations in the budget submitted to Congress by the President under section 1105(a) of title 31 for any fiscal year, as shown in the future-years nuclear security program submitted pursuant to subsection (a) of this section.
     - **(B)** The total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Administration included pursuant to paragraph (5) of section 1105(a) of such title in the budget submitted to Congress under that section for any fiscal year.
-- **(d)** Nothing in this section shall be construed to prohibit the inclusion in the future-years nuclear security program of amounts for management contingencies, subject to the requirements of subsection (c).
+- **(d)** Nothing in this section shall be construed to prohibit the inclusion in the future-years nuclear security program of amounts for management contingencies, subject to the requirements of subsection (c) of this section.

@@ -3,9 +3,9 @@ title: "Section 1802 - Electronic surveillance authorization without court order
 usc_title: 50
 usc_section: "1802"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 1802"
-generated_at: "2026-03-29T02:16:14.709Z"
+generated_at: "2026-03-29T17:53:50.974Z"
 ---
 
 # § 1802. Electronic surveillance authorization without court order; certification by Attorney General; reports to Congressional committees; transmittal under seal; duties and compensation of communication common carrier; applications; jurisdiction of court
@@ -24,4 +24,4 @@ generated_at: "2026-03-29T02:16:14.709Z"
   - **(4)** With respect to electronic surveillance authorized by this subsection, the Attorney General may direct a specified communication common carrier to—
     - **(A)** furnish all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier is providing its customers; and
     - **(B)** maintain under security procedures approved by the Attorney General and the Director of National Intelligence any records concerning the surveillance or the aid furnished which such carrier wishes to retain.
-- **(b)** Applications for a court order under this subchapter are authorized if the President has, by written authorization, empowered the Attorney General to approve applications to the court having jurisdiction under section 1803 of this title , and a judge to whom an application is made may, notwithstanding any other law, grant an order, in conformity with section 1805 of this title , approving electronic surveillance of a foreign power or an agent of a foreign power for the purpose of obtaining foreign intelligence information, except that the court shall not have jurisdiction to grant any order approving electronic surveillance directed solely as described in paragraph (1)(A) of subsection (a) unless such surveillance may involve the acquisition of communications of any United States person.
+- **(b)** Applications for a court order under this subchapter are authorized if the President has, by written authorization, empowered the Attorney General to approve applications to the court having jurisdiction under section 1803 of this title , and a judge to whom an application is made may, notwithstanding any other law, grant an order, in conformity with section 1805 of this title , approving electronic surveillance of a foreign power or an agent of a foreign power for the purpose of obtaining foreign intelligence information, except that the court shall not have jurisdiction to grant any order approving electronic surveillance directed solely as described in paragraph (1)(A) of subsection (a) of this section unless such surveillance may involve the acquisition of communications of any United States person.

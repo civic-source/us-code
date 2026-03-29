@@ -3,9 +3,9 @@ title: "Section 9909 - Designation and redesignation of eligible entities in uns
 usc_title: 42
 usc_section: "9909"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 9909"
-generated_at: "2026-03-29T02:15:37.109Z"
+generated_at: "2026-03-29T17:53:35.675Z"
 ---
 
 # § 9909. Designation and redesignation of eligible entities in unserved areas
@@ -17,5 +17,5 @@ generated_at: "2026-03-29T02:15:37.109Z"
   - **(2)** In order to serve as the eligible entity for the area, an entity described in paragraph (1)(B) shall agree to add additional members to the board of the entity to ensure adequate representation—
     - **(A)** in each of the three required categories described in subparagraphs (A), (B), and (C) of section 9910(a)(2) of this title , by members that reside in the community comprised by the unserved area; and
     - **(B)** in the category described in section 9910(a)(2)(B) of this title , by members that reside in the neighborhood to be served.
-- **(b)** In designating an eligible entity under subsection (a), the chief executive officer shall grant the designation to an organization of demonstrated effectiveness in meeting the goals and purposes of this chapter and may give priority, in granting the designation, to eligible entities that are providing related services in the unserved area, consistent with the needs identified by a community-needs assessment.
-- **(c)** If no private, nonprofit organization is identified or determined to be qualified under subsection (a) to serve the unserved area as an eligible entity the chief executive officer may designate an appropriate political subdivision of the State to serve as an eligible entity for the area. In order to serve as the eligible entity for that area, the political subdivision shall have a board or other mechanism as required in section 9910(b) of this title .
+- **(b)** In designating an eligible entity under subsection (a) of this section, the chief executive officer shall grant the designation to an organization of demonstrated effectiveness in meeting the goals and purposes of this chapter and may give priority, in granting the designation, to eligible entities that are providing related services in the unserved area, consistent with the needs identified by a community-needs assessment.
+- **(c)** If no private, nonprofit organization is identified or determined to be qualified under subsection (a) of this section to serve the unserved area as an eligible entity the chief executive officer may designate an appropriate political subdivision of the State to serve as an eligible entity for the area. In order to serve as the eligible entity for that area, the political subdivision shall have a board or other mechanism as required in section 9910(b) of this title .

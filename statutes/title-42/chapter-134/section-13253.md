@@ -3,9 +3,9 @@ title: "Section 13253 - Replacement fuel demand estimates and supply information
 usc_title: 42
 usc_section: "13253"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 13253"
-generated_at: "2026-03-29T02:15:37.252Z"
+generated_at: "2026-03-29T17:53:35.837Z"
 ---
 
 # § 13253. Replacement fuel demand estimates and supply information
@@ -23,4 +23,4 @@ generated_at: "2026-03-29T02:15:37.252Z"
     - **(A)** has made available in the previous calendar year; and
     - **(B)** plans to make available for the following calendar year; and
   - **(3)** such fuel suppliers to provide the Secretary information necessary to determine the greenhouse gas emissions from the replacement fuels used, taking into account the entire fuel cycle.
-- **(c)** Information provided to the Secretary under subsection (b) shall be subject to applicable provisions of law protecting the confidentiality of trade secrets and business and financial information, including section 1905 of title 18 .
+- **(c)** Information provided to the Secretary under subsection (b) of this section shall be subject to applicable provisions of law protecting the confidentiality of trade secrets and business and financial information, including section 1905 of title 18 .

@@ -3,13 +3,13 @@ title: "Section 1541 - Purpose and policy"
 usc_title: 50
 usc_section: "1541"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 1541"
-generated_at: "2026-03-29T02:16:14.703Z"
+generated_at: "2026-03-29T17:53:50.972Z"
 ---
 
 # § 1541. Purpose and policy
 
 - **(a)** It is the purpose of this chapter to fulfill the intent of the framers of the Constitution of the United States and insure that the collective judgment of both the Congress and the President will apply to the introduction of United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, and to the continued use of such forces in hostilities or in such situations.
-- **(b)** Under article I, section 8, of the Constitution, it is specifically provided that the Congress shall have the power to make all laws necessary and proper for carrying into execution, not only its own powers but also all other powers vested by the Constitution in the Government of the United States, or in any department or officer thereof.
+- **(b)** Under article I, section 8, of the Constitution, it is specifically provided that the Congress shall have the power to make all laws necessary and proper for carrying into execution, not only its own powers but also all other powers vested by the Constitution in the Government of the United States, or in any department or officer hereof.
 - **(c)** The constitutional powers of the President as Commander-in-Chief to introduce United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, are exercised only pursuant to (1) a declaration of war, (2) specific statutory authorization, or (3) a national emergency created by attack upon the United States, its territories or possessions, or its armed forces.

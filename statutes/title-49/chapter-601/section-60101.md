@@ -3,9 +3,9 @@ title: "Section 60101 - Definitions"
 usc_title: 49
 usc_section: "60101"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 60101"
-generated_at: "2026-03-29T02:16:09.083Z"
+generated_at: "2026-03-29T17:53:48.147Z"
 ---
 
 # § 60101. Definitions
@@ -52,7 +52,7 @@ generated_at: "2026-03-29T02:16:09.083Z"
     - **(A)** means—
       - **(i)** the gathering, transmission, or distribution of gas by pipeline, or the storage of gas, in interstate or foreign commerce; and
       - **(ii)** the movement of gas through regulated gathering lines; but
-    - **(B)** does not include gathering gas (except through regulated gathering lines) in a rural area outside a populated area designated by the Secretary as a nonrural area;
+    - **(B)** does not include gathering gas (except through regulated gathering lines) in a rural area outside a populated area designated by the Secretary as a nonrural area. 1 1 So in original. The period probably should be a semicolon.
   - **(22)** “transporting hazardous liquid”—
     - **(A)** means—
       - **(i)** the movement of hazardous liquid by pipeline, or the storage of hazardous liquid incidental to the movement of hazardous liquid by pipeline, in or affecting interstate or foreign commerce; and
@@ -60,14 +60,10 @@ generated_at: "2026-03-29T02:16:09.083Z"
     - **(B)** does not include moving hazardous liquid through—
       - **(i)** gathering lines (except regulated gathering lines) in a rural area;
       - **(ii)** onshore production, refining, or manufacturing facilities; or
-      - **(iii)** storage or in-plant piping systems associated with onshore production, refining, or manufacturing facilities;
+      - **(iii)** storage or in-plant piping systems associated with onshore production, refining, or manufacturing facilities. 1
   - **(23)** “risk management” means the systematic application, by the owner or operator of a pipeline facility, of management policies, procedures, finite resources, and practices to the tasks of identifying, analyzing, assessing, reducing, and controlling risk in order to protect employees, the general public, the environment, and pipeline facilities;
-  - **(24)** “risk management plan” means a management plan utilized by a gas or hazardous liquid pipeline facility owner or operator that encompasses risk management;
-  - **(25)** “Secretary” means the Secretary of Transportation; and
-  - **(26)** “underground natural gas storage facility” means a gas pipeline facility that stores natural gas in an underground facility, including—
-    - **(A)** a depleted hydrocarbon reservoir;
-    - **(B)** an aquifer reservoir; or
-    - **(C)** a solution-mined salt cavern reservoir.
+  - **(24)** “risk management plan” means a management plan utilized by a gas or hazardous liquid pipeline facility owner or operator that encompasses risk management; and
+  - **(25)** “Secretary” means the Secretary of Transportation.
 - **(b)**
   - **(1)**
     - **(A)** Not later than October 24, 1994 , the Secretary shall prescribe standards defining the term “gathering line”.

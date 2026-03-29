@@ -3,9 +3,9 @@ title: "Section 280m - Young women’s breast health awareness and support of yo
 usc_title: 42
 usc_section: "280m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 280m"
-generated_at: "2026-03-29T02:15:35.675Z"
+generated_at: "2026-03-29T17:53:34.155Z"
 ---
 
 # § 280m. Young women’s breast health awareness and support of young women diagnosed with breast cancer
@@ -49,4 +49,4 @@ generated_at: "2026-03-29T02:15:35.675Z"
   - **(2)** not less than every 3 years, measure the impact of such activities; and
   - **(3)** submit reports to the Congress on the results of such measurements.
 - **(g)** In this section, the term “young women” means women 15 to 44 years of age.
-- **(h)** To carry out subsections (a), (b), (c)(1), and (d), there are authorized to be appropriated $9,000,000 for each of fiscal years 2022 through 2026.
+- **(h)** To carry out subsections (a), (b), (c)(1), and (d), there are authorized to be appropriated $9,000,000 for each of the fiscal years 2010 through 2014.

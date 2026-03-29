@@ -3,12 +3,12 @@ title: "Section 1526 - Effective use of resources for nonproliferation programs"
 usc_title: 50
 usc_section: "1526"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 1526"
-generated_at: "2026-03-29T02:16:14.703Z"
+generated_at: "2026-03-29T17:53:50.972Z"
 ---
 
 # § 1526. Effective use of resources for nonproliferation programs
 
-- **(a)** Except as provided in subsection (b), no assistance may be provided by the United States Government to any person who is involved in the research, development, design, testing, or evaluation of chemical or biological weapons for offensive purposes.
-- **(b)** The prohibition contained in subsection (a) shall not apply to any activity conducted pursuant to title V of the National Security Act of 1947 [ 50 U.S.C. 3091 et seq.].
+- **(a)** Except as provided in subsection (b) of this section, no assistance may be provided by the United States Government to any person who is involved in the research, development, design, testing, or evaluation of chemical or biological weapons for offensive purposes.
+- **(b)** The prohibition contained in subsection (a) of this section shall not apply to any activity conducted pursuant to title V of the National Security Act of 1947 [ 50 U.S.C. 3091 et seq.].

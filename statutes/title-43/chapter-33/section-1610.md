@@ -3,16 +3,16 @@ title: "Section 1610 - Withdrawal of public lands"
 usc_title: 43
 usc_section: "1610"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1610"
-generated_at: "2026-03-29T02:15:47.615Z"
+generated_at: "2026-03-29T17:53:03.708Z"
 ---
 
 # § 1610. Withdrawal of public lands
 
 - **(a)**
   - **(1)** The following public lands are withdrawn, subject to valid existing rights, from all forms of appropriation under the public land laws, including the mining and mineral leasing laws, and from selection under the Alaska Statehood Act, as amended:
-    - **(A)** The lands in each township that encloses all or part of any Native village identified pursuant to subsection (b);
+    - **(A)** The lands in each township that encloses all or part of any Native village identified pursuant to subsection (b) of this section;
     - **(B)** The lands in each township that is contiguous to or corners on the township that encloses all or part of such Native village; and
     - **(C)** The lands in each township that is contiguous to or corners on a township containing lands withdrawn by paragraph (B) of this subsection.
   - **(2)** All lands located within the townships described in subsection (a)(1) hereof that have been selected by, or tentatively approved to, but not yet patented to, the State under the Alaska Statehood Act are withdrawn, subject to valid existing rights, from all forms of appropriation under the public land laws, including the mining and mineral leasing laws, and from the creation of third party interests by the State under the Alaska Statehood Act.

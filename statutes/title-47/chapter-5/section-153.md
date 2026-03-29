@@ -3,9 +3,9 @@ title: "Section 153 - Definitions"
 usc_title: 47
 usc_section: "153"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 153"
-generated_at: "2026-03-29T02:15:59.169Z"
+generated_at: "2026-03-29T17:53:43.598Z"
 ---
 
 # § 153. Definitions
@@ -15,9 +15,8 @@ For the purposes of this chapter, unless the context otherwise requires—
   - **(1)** The term “advanced communications services” means—
     - **(A)** interconnected VoIP service;
     - **(B)** non-interconnected VoIP service;
-    - **(C)** electronic messaging service;
-    - **(D)** interoperable video conferencing service; and
-    - **(E)** any audio or video communications service used by inmates for the purpose of communicating with individuals outside the correctional institution where the inmate is held, regardless of technology used.
+    - **(C)** electronic messaging service; and
+    - **(D)** interoperable video conferencing service.
   - **(2)** The term “affiliate” means a person that (directly or indirectly) owns or controls, is owned or controlled by, or is under common ownership or control with, another person. For purposes of this paragraph, the term “own” means to own an equity interest (or the equivalent thereof) of more than 10 percent.
   - **(3)** The term “amateur station” means a radio station operated by a duly authorized person interested in radio technique solely with a personal aim and without pecuniary interest.
   - **(4)** The term “AT&T Consent Decree” means the order entered August 24, 1982 , in the antitrust action styled United States v. Western Electric, Civil Action No. 82–0192, in the United States District Court for the District of Columbia, and includes any judgment or order with respect to such action entered on or after August 24, 1982 .

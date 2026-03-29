@@ -3,9 +3,9 @@ title: "Section 911 - Regulations"
 usc_title: 43
 usc_section: "911"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 911"
-generated_at: "2026-03-29T02:15:47.578Z"
+generated_at: "2026-03-29T17:53:03.671Z"
 ---
 
 # § 911. Regulations

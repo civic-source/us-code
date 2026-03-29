@@ -3,9 +3,9 @@ title: "Section 1770 - Applicability of provisions to other Federal laws"
 usc_title: 43
 usc_section: "1770"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1770"
-generated_at: "2026-03-29T02:15:47.644Z"
+generated_at: "2026-03-29T17:53:03.734Z"
 ---
 
 # § 1770. Applicability of provisions to other Federal laws
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T02:15:47.644Z"
 - **(b)** Nothing in this subchapter shall be construed to preclude the use of lands covered by this subchapter for highway purposes pursuant to sections 107 and 317 of title 23.
 - **(c)**
   - **(1)** Nothing in this subchapter shall be construed as exempting any holder of a right-of-way issued under this subchapter from any provision of the antitrust laws of the United States.
-  - **(2)** For the purposes of this subsection, the term “antitrust laws” includes the Act of July 2, 1890 (26 Stat. 1 1 So in original. Probably should be followed by “209”. 15 U.S.C. 1 et seq.); the Act of October 15, 1914 ( 38 Stat. 730 , 15 U.S.C. 12 et seq.); the Federal Trade Commission Act ( 38 Stat. 717 ; 15 U.S.C. 41 et seq.); and sections 73 and 74 of the Act of August 27, 1894 [ 15 U.S.C. 8 , 9].
+  - **(2)** For the purposes of this subsection, the term “antitrust laws” includes the Act of July 2, 1890 ( 26 Stat. 15 U.S.C. 1 et seq.); the Act of October 15, 1914 ( 38 Stat. 730 , 15 U.S.C. 12 et seq.); the Federal Trade Commission Act ( 38 Stat. 717 ; 15 U.S.C. 41 et seq.); and sections 73 and 74 of the Act of August 27, 1894 [ 15 U.S.C. 8 , 9].

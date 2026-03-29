@@ -3,9 +3,9 @@ title: "Section 1844 - Authorization during time of war"
 usc_title: 50
 usc_section: "1844"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 1844"
-generated_at: "2026-03-29T02:16:14.719Z"
+generated_at: "2026-03-29T17:53:50.982Z"
 ---
 
 # § 1844. Authorization during time of war

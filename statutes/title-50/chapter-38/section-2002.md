@@ -3,14 +3,14 @@ title: "Section 2002 - Definitions relating to participants and annuitants"
 usc_title: 50
 usc_section: "2002"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2002"
-generated_at: "2026-03-29T02:16:14.730Z"
+generated_at: "2026-03-29T17:53:50.992Z"
 ---
 
 # § 2002. Definitions relating to participants and annuitants
 
-- **(a)** When used in subchapter II:
+- **(a)** When used in subchapter II of this chapter:
   - **(1)** The term “former participant” means a person who—
     - **(A)** while an employee of the Agency was a participant in the system; and
     - **(B)** separates from the Agency without entitlement to immediate receipt of an annuity from the fund.
@@ -47,5 +47,5 @@ generated_at: "2026-03-29T02:16:14.730Z"
   - **(2)**
     - **(A)** For purposes of this subsection, a child whose 22nd birthday occurs before July 1 or after August 31 of a calendar year, and while regularly pursuing such a course of study or training, shall be treated as having attained the age of 22 on the first day of July following that birthday.
     - **(B)** A child who is a student is deemed not to have ceased to be a student during an interim between school years if the interim does not exceed 5 months and if the child shows to the satisfaction of the Director that the child has a bona fide intention of continuing to pursue a course of study or training in the same or different school during the school semester (or other period into which the school year is divided) immediately following the interim.
-  - **(3)** For purposes of this subsection, the term “dependent”, with respect to the child of a participant or retired participant, means that the participant or retired participant was, at the time of the death of the participant or retired participant, either living with or contributing to the support of the child, as determined in accordance with regulations prescribed under subchapter II.
+  - **(3)** For purposes of this subsection, the term “dependent”, with respect to the child of a participant or retired participant, means that the participant or retired participant was, at the time of the death of the participant or retired participant, either living with or contributing to the support of the child, as determined in accordance with regulations prescribed under subchapter II of this chapter.
   - **(4)** For purposes of section 2071(c) of this title , the term “child” includes an adopted child and a natural child, but does not include a stepchild.

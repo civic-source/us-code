@@ -3,9 +3,9 @@ title: "Section 32705 - Disclosure requirements on transfer of motor vehicles"
 usc_title: 49
 usc_section: "32705"
 chapter: 327
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 32705"
-generated_at: "2026-03-29T02:16:08.987Z"
+generated_at: "2026-03-29T17:53:48.062Z"
 ---
 
 # § 32705. Disclosure requirements on transfer of motor vehicles
@@ -56,11 +56,4 @@ generated_at: "2026-03-29T02:16:08.987Z"
 - **(f)**
   - **(1)** Except as provided in paragraph (2) of this subsection, subsections (b)–(e) of this section apply to the transfer of a motor vehicle after April 28, 1989 .
   - **(2)** If a State requests, the Secretary shall assist the State in revising its laws to comply with subsection (b) of this section. If a State requires time beyond April 28, 1989 , to revise its laws to achieve compliance, the Secretary, on request of the State, may grant additional time that the Secretary considers reasonable by publishing a notice in the Federal Register. The notice shall include the reasons for granting the additional time. In granting additional time, the Secretary shall ensure that the State is making reasonable efforts to achieve compliance.
-- **(g)**
-  - **(1)** Not later than 18 months after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, in carrying out this section, the Secretary shall prescribe regulations permitting any written disclosures or notices and related matters to be provided electronically.
-  - **(2)** Notwithstanding paragraph (1) and subject to paragraph (3), a State, without approval from the Secretary under subsection (d), may allow for written disclosures or notices and related matters to be provided electronically if—
-    - **(A)** in compliance with—
-      - **(i)** the requirements of subchapter 1 of chapter 96 of title 15; 1 1 See References in Text note below. or
-      - **(ii)** the requirements of a State law under section 7002(a) of title 15 ; 1 and
-    - **(B)** the disclosures or notices otherwise meet the requirements under this section, including appropriate authentication and security measures.
-  - **(3)** Paragraph (2) ceases to be effective on the date the regulations under paragraph (1) become effective.
+- **(g)** Not later than 18 months after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, in carrying out this section, the Secretary shall prescribe regulations permitting any written disclosures or notices and related matters to be provided electronically.

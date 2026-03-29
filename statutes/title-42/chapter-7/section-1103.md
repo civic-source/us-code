@@ -3,15 +3,15 @@ title: "Section 1103 - Amounts transferred to State accounts"
 usc_title: 42
 usc_section: "1103"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1103"
-generated_at: "2026-03-29T02:15:36.056Z"
+generated_at: "2026-03-29T17:53:34.528Z"
 ---
 
 # § 1103. Amounts transferred to State accounts
 
 - **(a)**
-  - **(1)** If as of the close of any fiscal year after the fiscal year ending June 30, 1972 , the amount in the extended unemployment compensation account has reached the limit provided in section 1105(b)(2) of this title and the amount in the Federal unemployment account has reached the limit provided in section 1102(a) of this title and all advances and interest pursuant to section 1105(d) of this title and section 1323 of this title have been repaid, and there remains in the employment security administration account any amount over the amount provided in section 1101(f)(3)(A) of this title , such excess amount, except as provided in subsection (b), shall be transferred (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund.
+  - **(1)** If as of the close of any fiscal year after the fiscal year ending June 30, 1972 , the amount in the extended unemployment compensation account has reached the limit provided in section 1105(b)(2) of this title and the amount in the Federal unemployment account has reached the limit provided in section 1102(a) of this title and all advances and interest pursuant to section 1105(d) of this title and section 1323 of this title have been repaid, and there remains in the employment security administration account any amount over the amount provided in section 1101(f)(3)(A) of this title , such excess amount, except as provided in subsection (b) of this section, shall be transferred (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund.
   - **(2)** Each State’s share of the funds to be transferred under this subsection as of any October 1—
     - **(A)** shall be determined by the Secretary of Labor and certified by such Secretary to the Secretary of the Treasury before such date, and
     - **(B)** shall bear the same ratio to the total amount to be so transferred as—
@@ -21,13 +21,13 @@ generated_at: "2026-03-29T02:15:36.056Z"
   - **(1)** If the Secretary of Labor finds that on October 1 of any fiscal year—
     - **(A)** a State is not eligible for certification under section 503 of this title , or
     - **(B)** the law of a State is not approvable under section 3304 of the Federal Unemployment Tax Act [ 26 U.S.C. 3304 ],
-  - **(2)** The amount which, but for this paragraph, would be transferred to the account of a State under subsection (a) or paragraph (1) of this subsection shall be reduced (but not below zero) by the balance of advances made to the State under section 1321 of this title . The sum by which such amount is reduced shall—
+  - **(2)** The amount which, but for this paragraph, would be transferred to the account of a State under subsection (a) of this section or paragraph (1) of this subsection shall be reduced (but not below zero) by the balance of advances made to the State under section 1321 of this title . The sum by which such amount is reduced shall—
     - **(A)** be transferred to or retained in (as the case may be) the Federal unemployment account, and
     - **(B)** be credited against, and operate to reduce—
       - **(i)** first, any balance of advances made before September 13, 1960 , to the State under section 1321 of this title , and
       - **(ii)** second, any balance of advances made on or after September 13, 1960 , to the State under section 1321 of this title .
 - **(c)**
-  - **(1)** Except as provided in paragraph (2), amounts transferred to the account of a State pursuant to subsections (a) and (b) shall be used only in the payment of cash benefits to individuals with respect to their unemployment, exclusive of expenses of administration.
+  - **(1)** Except as provided in paragraph (2), amounts transferred to the account of a State pursuant to subsections (a) and (b) of this section shall be used only in the payment of cash benefits to individuals with respect to their unemployment, exclusive of expenses of administration.
   - **(2)** A State may, pursuant to a specific appropriation made by the legislative body of the State, use money withdrawn from its account in the payment of expenses incurred by it for the administration of its unemployment compensation law and public employment offices if and only if—
     - **(A)** the purposes and amounts were specified in the law making the appropriation,
     - **(B)** the appropriation law did not authorize the obligation of such money after the close of the two-year period which began on the date of enactment of the appropriation law,
@@ -72,7 +72,7 @@ generated_at: "2026-03-29T02:15:36.056Z"
         - **(I)** Individuals who are seeking, or available for, only part-time (and not full-time) work.
         - **(II)** Individuals who would be eligible for regular compensation under the unemployment compensation law of such State under an alternative base period.
     - **(D)** Amounts transferred to a State account under this subsection may be used in the payment of cash benefits to individuals only for weeks of unemployment beginning after March 9, 2002 .
-  - **(4)** Amounts transferred to a State account under this subsection may be used for the administration of its unemployment compensation law and public employment offices (including in connection with benefits described in paragraph (3) and any recipients thereof), subject to the same conditions as set forth in subsection (c)(2) (excluding subparagraph (B) thereof, and deeming the reference to “subsections (a) and (b)” in subparagraph (D) thereof to include this subsection).
+  - **(4)** Amounts transferred to a State account under this subsection may be used for the administration of its unemployment compensation law and public employment offices (including in connection with benefits described in paragraph (3) and any recipients thereof), subject to the same conditions as set forth in subsection (c)(2) of this section (excluding subparagraph (B) thereof, and deeming the reference to “subsections (a) and (b)” in subparagraph (D) thereof to include this subsection).
   - **(5)** Transfers under this subsection shall be made within 10 days after March 9, 2002 .
 - **(e)** Not later than 10 days after October 20, 2005 , the Secretary of the Treasury shall transfer from the Federal unemployment account—
   - **(1)** $15,000,000 to the account of Alabama in the Unemployment Trust Fund;
@@ -99,7 +99,7 @@ generated_at: "2026-03-29T02:15:36.056Z"
         - **(I)** to a place from which it is impractical for such individual to commute; and
         - **(II)** due to a change in location of the spouse’s employment.
     - **(C)**
-      - **(i)** Weekly unemployment compensation is payable under this subparagraph to any individual who is unemployed (as determined under the State unemployment compensation law), has exhausted all rights to regular unemployment compensation under the State law, and is enrolled and making satisfactory progress in a State-approved training program or in a job training program authorized under the Workforce Investment Act of 1998, 1 1 See References in Text note below. except that such compensation is not required to be paid to an individual who is receiving similar stipends or other training allowances for non-training costs.
+      - **(i)** Weekly unemployment compensation is payable under this subparagraph to any individual who is unemployed (as determined under the State unemployment compensation law), has exhausted all rights to regular unemployment compensation under the State law, and is enrolled and making satisfactory progress in a State-approved training program or in a job training program authorized under the Workforce Investment Act of 1998, except that such compensation is not required to be paid to an individual who is receiving similar stipends or other training allowances for non-training costs.
       - **(ii)** Each State-approved training program or job training program referred to in clause (i) shall prepare individuals who have been separated from a declining occupation, or who have been involuntarily and indefinitely separated from employment as a result of a permanent reduction of operations at the individual’s place of employment, for entry into a high-demand occupation.
       - **(iii)** The amount of unemployment compensation payable under this subparagraph to an individual for a week of unemployment shall be equal to—
         - **(I)** the individual’s average weekly benefit amount (including dependents’ allowances) for the most recent benefit year, less
@@ -127,33 +127,3 @@ generated_at: "2026-03-29T02:15:36.056Z"
     - **(B)** improved outreach to individuals who might be eligible for regular unemployment compensation by virtue of any provisions of the State law which are described in subparagraph (A);
     - **(C)** the improvement of unemployment benefit and unemployment tax operations, including responding to increased demand for unemployment compensation; and
     - **(D)** staff-assisted reemployment services for unemployment compensation claimants.
-- **(h)**
-  - **(1)**
-    - **(A)** In addition to any other amounts, the Secretary of Labor shall provide for the making of emergency administration grants in fiscal year 2020 to the accounts of the States in the Unemployment Trust Fund, in accordance with succeeding provisions of this subsection.
-    - **(B)** The amount of an emergency administration grant with respect to a State shall, as determined by the Secretary of Labor, be equal to the amount obtained by multiplying $1,000,000,000 by the same ratio as would apply under subsection (a)(2)(B) for purposes of determining such State’s share of any excess amount (as described in subsection (a)(1)) that would have been subject to transfer to State accounts, as of October 1, 2019 , under the provisions of subsection (a).
-    - **(C)** Of the emergency administration grant determined under subparagraph (B) with respect to a State—
-      - **(i)** not later than 60 days after March 18, 2020 , 50 percent shall be transferred to the account of such State upon a certification by the Secretary of Labor to the Secretary of the Treasury that the State meets the requirements of paragraph (2); and
-      - **(ii)** only with respect to a State in which the number of unemployment compensation claims has increased by at least 10 percent over the same quarter in the previous calendar year, the remainder shall be transferred to the account of such State upon a certification by the Secretary of Labor to the Secretary of the Treasury that the State meets the requirements of paragraph (3).
-  - **(2)** The requirements of this paragraph with respect to a State are the following:
-    - **(A)** The State requires employers to provide notification of the availability of unemployment compensation to employees at the time of separation from employment. Such notification may be based on model notification language issued by the Secretary of Labor.
-    - **(B)** The State ensures that applications for unemployment compensation, and assistance with the application process, are accessible, to the extent practicable in at least two of the following: in person, by phone, or online.
-    - **(C)** The State notifies applicants when an application is received and is being processed, and in any case in which an application is unable to be processed, provides information about steps the applicant can take to ensure the successful processing of the application.
-  - **(3)** The requirements of this paragraph with respect to a State are the following:
-    - **(A)** The State has expressed its commitment to maintain and strengthen access to the unemployment compensation system, including through initial and continued claims.
-    - **(B)** The State has demonstrated steps it has taken or will take to ease eligibility requirements and access to unemployment compensation for claimants, including waiving work search requirements and the waiting week, and non-charging employers directly impacted by COVID–19 due to an illness in the workplace or direction from a public health official to isolate or quarantine workers.
-  - **(4)** Any amount transferred to the account of a State under this subsection may be used by such State only for the administration of its unemployment compensation law, including by taking such steps as may be necessary to ensure adequate resources in periods of high demand.
-  - **(5)** Not later than 1 year after March 18, 2020 , each State receiving emergency administration grant funding under paragraph (1)(C)(i) shall submit to the Secretary of Labor, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate, a report that includes—
-    - **(A)** an analysis of the recipiency rate for unemployment compensation in the State as such rate has changed over time; 2 2 So in original. Probably should be followed by “and”.
-    - **(B)** a description of steps the State intends to take to increase such recipiency rate.
-  - **(6)**
-    - **(A)** Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the employment security administration account (as established by section 1101 of this title ) such sums as the Secretary of Labor estimates to be necessary for purposes of making the transfers described in paragraph (1)(C).
-    - **(B)** There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
-- **(i)**
-  - **(1)**
-    - **(A)** In addition to any other amounts, the Secretary of Labor shall provide for the transfer of funds with respect to the applicable period to the accounts of the States in the Unemployment Trust Fund, by transfer from amounts reserved for that purpose in the Federal unemployment account, in accordance with the succeeding provisions of this subsection.
-    - **(B)** The amount of funds transferred to the account of a State under subparagraph (A) during the applicable period shall, as determined by the Secretary of Labor and except as otherwise provided in this subparagraph, be equal to one-half of the amounts of compensation (as defined in section 3306(h) of the Internal Revenue Code of 1986) attributable under the State law to service to which section 3309(a) of such Code applies and to service provided by employees of an entity created by Public Law 85–874 ( 20 U.S.C. 76h et seq.) that were paid by the State for weeks of unemployment beginning and ending during such period. With respect to the amounts of such compensation paid for weeks of unemployment beginning after March 31, 2021 , and ending on or before September 6, 2021 , the preceding sentence shall be applied by substituting “75 percent” for “one-half”. Such transfers shall be made at such times as the Secretary of Labor considers appropriate.
-    - **(C)** Notwithstanding any other provision of law, funds transferred to the account of a State under subparagraph (A) shall be used exclusively to reduce the amounts required to be paid in lieu of contributions into the State unemployment fund pursuant to such section by governmental entities and other organizations described in section 3309(a) of such Code or an entity created by Public Law 85–874 ( 20 U.S.C. 76h et seq.).
-    - **(D)** For purposes of this paragraph, the term “applicable period” means the period beginning on March 13, 2020 , and ending on September 6, 2021 .
-  - **(2)**
-    - **(A)** Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the Federal unemployment account such sums as the Secretary of Labor estimates to be necessary for purposes of making the transfers described in paragraph (1).
-    - **(B)** There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in subparagraph (A) and such sums shall not be required to be repaid.

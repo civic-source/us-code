@@ -3,9 +3,9 @@ title: "Section 1531 - Partial-birth abortions prohibited"
 usc_title: 18
 usc_section: "1531"
 chapter: 74
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 1531"
-generated_at: "2026-03-29T17:53:15.647Z"
+generated_at: "2026-03-29T17:53:59.624Z"
 ---
 
 # § 1531. Partial-birth abortions prohibited

@@ -3,27 +3,25 @@ title: "Section 47175 - Definitions"
 usc_title: 49
 usc_section: "47175"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 47175"
-generated_at: "2026-03-29T02:16:09.077Z"
+generated_at: "2026-03-29T17:53:48.136Z"
 ---
 
 # § 47175. Definitions
 
 In this subchapter, the following definitions apply:
 
-  - **(1)** The term “airport capacity enhancement project” means—
-    - **(A)** a project for construction or extension of a runway, including any land acquisition, taxiway, or safety area associated with the runway or runway extension; or
+  - **(1)** The term “airport sponsor” has the meaning given the term “sponsor” under section 47102.
+  - **(2)** The term “congested airport” means an airport that accounted for at least 1 percent of all delayed aircraft operations in the United States in the most recent year for which such data is available and an airport listed in table 1 of the Federal Aviation Administration’s Airport Capacity Benchmark Report 2004 or any successor report.
+  - **(3)** The term “airport capacity enhancement project” means—
+    - **(A)** a project for construction or extension of a runway, including any land acquisition, taxiway, or safety area associated with the runway or runway extension; and
     - **(B)** such other airport development projects as the Secretary may designate as facilitating a reduction in air traffic congestion and delays.
-  - **(2)** The term “airport sponsor” has the meaning given the term “sponsor” under section 47102.
-  - **(3)** The term “aviation safety project” means an aviation project that—
-    - **(A)** has as its primary purpose reducing the risk of injury to persons or damage to aircraft and property, as determined by the Administrator;
-    - **(B)** is needed to respond to a recommendation from the National Transportation Safety Board, as determined by the Administrator; or
-    - **(C)** is necessary for an airport to comply with part 139 of title 14, Code of Federal Regulations (relating to airport certification).
-  - **(4)** The term “congested airport” means an airport that accounted for at least 1 percent of all delayed aircraft operations in the United States in the most recent year for which such data is available and an airport listed in table 1 of the Federal Aviation Administration’s Airport Capacity Benchmark Report 2004 or any successor report.
-  - **(5)** The term “Federal agency” means a department or agency of the United States Government.
-  - **(6)** The term “general aviation airport construction or improvement project” means—
-    - **(A)** a project for the construction or extension of a runway, including any land acquisition, helipad, taxiway, safety area, apron, or navigational aids associated with the runway or runway extension, at a general aviation airport, a reliever airport, or a commercial service airport that is not a primary airport (as such terms are defined in section 47102); and
-    - **(B)** any other airport development project that the Secretary designates as facilitating aviation capacity building projects at a general aviation airport.
+  - **(4)** The term “aviation safety project” means an aviation project that—
+    - **(A)** has as its primary purpose reducing the risk of injury to persons or damage to aircraft and property, as determined by the Administrator; and
+    - **(B)**
+      - **(i)** is needed to respond to a recommendation from the National Transportation Safety Board, as determined by the Administrator; or
+      - **(ii)** is necessary for an airport to comply with part 139 of title 14, Code of Federal Regulations (relating to airport certification).
+  - **(5)** The term “aviation security project” means a security project at an airport required by the Department of Homeland Security.
+  - **(6)** The term “Federal agency” means a department or agency of the United States Government.
   - **(7)** The term “joint use airport” means an airport owned by the Department of Defense, at which both military and civilian aircraft make shared use of the airfield.
-  - **(8)** The term “terminal development” has the meaning given such term in section 47102.

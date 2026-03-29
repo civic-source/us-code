@@ -1,17 +1,17 @@
 ---
-title: "Section 1155 - Penalties"
+title: "Section 1155 - Aviation penalties"
 usc_title: 49
 usc_section: "1155"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 1155"
-generated_at: "2026-03-29T02:16:08.861Z"
+generated_at: "2026-03-29T17:53:47.956Z"
 ---
 
-# § 1155. Penalties
+# § 1155. Aviation penalties
 
 - **(a)**
-  - **(1)** A person violating section 1132, section 1134(b), section 1134(f)(1), section 1136(g), or section 1139(g) of this title or a regulation prescribed or order issued under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000. A separate violation occurs for each day a violation continues.
+  - **(1)** A person violating section 1132, section 1134(b), section 1134(f)(1), or section 1136(g) (related to an aircraft accident) of this title or a regulation prescribed or order issued under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000. A separate violation occurs for each day a violation continues.
   - **(2)** This subsection does not apply to a member of the armed forces of the United States or an employee of the Department of Defense subject to the Uniform Code of Military Justice when the member or employee is performing official duties. The appropriate military authorities are responsible for taking necessary disciplinary action and submitting to the National Transportation Safety Board a timely report on action taken.
   - **(3)** The Board may compromise the amount of a civil penalty imposed under this subsection.
   - **(4)** The Government may deduct the amount of a civil penalty imposed or compromised under this subsection from amounts it owes the person liable for the penalty.

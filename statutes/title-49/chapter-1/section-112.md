@@ -1,12 +1,41 @@
 ---
-title: "Section 112 - Repealed. Pub. L. 114–94, div. A, title VI, § 6012(a) , Dec. 4, 2015 , 129 Stat. 1570 ]"
+title: "Section 112 - Research and Innovative Technology Administration"
 usc_title: 49
 usc_section: "112"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 112"
-generated_at: "2026-03-29T02:16:08.843Z"
+generated_at: "2026-03-29T17:53:47.940Z"
 ---
 
-# [§ 112. Repealed. Pub. L. 114–94, div. A, title VI, § 6012(a) , Dec. 4, 2015 , 129 Stat. 1570 ]
+# § 112. Research and Innovative Technology Administration
 
+- **(a)** The Research and Innovative Technology Administration shall be an administration in the Department of Transportation.
+- **(b)**
+  - **(1)** The Administration shall be headed by an Administrator who shall be appointed by the President, by and with the advice and consent of the Senate.
+  - **(2)** The Administrator shall report directly to the Secretary.
+- **(c)** The Administration shall have a Deputy Administrator who shall be appointed by the Secretary of Transportation. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
+- **(d)** The Administrator shall carry out—
+  - **(1)** powers and duties prescribed by the Secretary for—
+    - **(A)** coordination, facilitation, and review of the Department’s research and development programs and activities;
+    - **(B)** advancement, and research and development, of innovative technologies, including intelligent transportation systems;
+    - **(C)** comprehensive transportation statistics research, analysis, and reporting;
+    - **(D)** education and training in transportation and transportation-related fields; and
+    - **(E)** activities of the Volpe National Transportation Center; and
+  - **(2)** other powers and duties prescribed by the Secretary.
+- **(e)** The Administrator may enter into grants and cooperative agreements with Federal agencies, State and local government agencies, other public entities, private organizations, and other persons—
+  - **(1)** to conduct research into transportation service and infrastructure assurance; and
+  - **(2)** to carry out other research activities of the Administration.
+- **(f)** For each of fiscal years 2013 and 2014, the Administrator is authorized to expend not more than 1 ½ percent of the amounts authorized to be appropriated for necessary expenses for administration and operations of the Research and Innovative Technology Administration for the coordination, evaluation, and oversight of the programs administered by the Administration.
+- **(g)**
+  - **(1)** To encourage innovative solutions to multimodal transportation problems and stimulate the deployment of new technology, the Administrator may carry out, on a cost-shared basis, collaborative research and development with—
+    - **(A)** non-Federal entities, including State and local governments, foreign governments, institutions of higher education, corporations, institutions, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State;
+    - **(B)** Federal laboratories; and
+    - **(C)** other Federal agencies.
+  - **(2)** Notwithstanding any other provision of law, the Administrator may directly initiate contracts, grants, cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3710a )), and other agreements to fund, and accept funds from, the Transportation Research Board of the National Research Council of the National Academy of Sciences, State departments of transportation, cities, counties, institutions of higher education, associations, and the agents of those entities to carry out joint transportation research and technology efforts.
+  - **(3)**
+    - **(A)** Subject to subparagraph (B), the Federal share of the cost of an activity carried out under paragraph (2) shall not exceed 50 percent.
+    - **(B)** If the Secretary determines that the activity is of substantial public interest or benefit, the Secretary may approve a greater Federal share.
+    - **(C)** All costs directly incurred by the non-Federal partners, including personnel, travel, facility, and hardware development costs, shall be credited toward the non-Federal share of the cost of an activity described in subparagraph (A).
+  - **(4)** The research, development, or use of a technology under a contract, grant, cooperative research and development agreement, or other agreement entered into under this subsection, including the terms under which the technology may be licensed and the resulting royalties may be distributed, shall be subject to the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3701 et seq.).
+  - **(5)** Section 6101 of title 41 shall not apply to a contract, grant, or other agreement entered into under this section.

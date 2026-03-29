@@ -3,9 +3,9 @@ title: "Section 30117 - Providing information to, and maintaining records on, pu
 usc_title: 49
 usc_section: "30117"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 30117"
-generated_at: "2026-03-29T02:16:08.960Z"
+generated_at: "2026-03-29T17:53:48.034Z"
 ---
 
 # § 30117. Providing information to, and maintaining records on, purchasers
@@ -19,12 +19,16 @@ generated_at: "2026-03-29T02:16:08.960Z"
     - **(A)** Except as provided in paragraph (3) of this subsection, the Secretary may require a distributor or dealer to maintain a record under paragraph (1) of this subsection only if the business of the distributor or dealer is owned or controlled by a manufacturer of tires.
     - **(B)** The Secretary shall require each distributor and dealer whose business is not owned or controlled by a manufacturer of tires to give a registration form (containing the tire identification number) to the first purchaser of a tire. The Secretary shall prescribe the form, which shall be standardized for all tires and designed to allow the purchaser to complete and return it directly to the manufacturer of the tire. The manufacturer shall give sufficient copies of forms to distributors and dealers.
   - **(3)**
-    - **(A)** The Secretary shall initiate a rulemaking to require a distributor or dealer of tires that is not owned or controlled by a manufacturer of tires to maintain records of—
-      - **(i)** the name and address of tire purchasers and lessors;
-      - **(ii)** information identifying the tire that was purchased or leased; and
-      - **(iii)** any additional records the Secretary considers appropriate.
-    - **(B)** The rulemaking carried out under subparagraph (A) shall require a distributor or dealer of tires that is not owned or controlled by a manufacturer of tires to electronically transmit the records described in clauses (i), (ii), and (iii) of subparagraph (A) to the manufacturer of the tires or the designee of the manufacturer by secure means at no cost to tire purchasers or lessors.
-    - **(C)** A regulation promulgated under subparagraph (A) may be considered to satisfy the requirements of paragraph (2)(B).
+    - **(A)** The Secretary shall evaluate from time to time how successful the procedures under paragraph (2) of this subsection have been in helping to maintain records about first purchasers of tires. After each evaluation, the Secretary shall decide—
+      - **(i)** the extent to which distributors and dealers have complied with the procedures;
+      - **(ii)** the extent to which distributors and dealers have encouraged first purchasers of tires to register the tires; and
+      - **(iii)** whether to prescribe for manufacturers, distributors, or dealers other requirements that the Secretary decides will increase significantly the percentage of first purchasers of tires about whom records are maintained.
+    - **(B)** The Secretary may prescribe a requirement under subparagraph (A) of this paragraph only if the Secretary decides it is necessary to reduce the risk to motor vehicle safety, after considering—
+      - **(i)** the cost of the requirement to manufacturers and the burden of the requirement on distributors and dealers, compared to the increase in the percentage of first purchasers of tires about whom records would be maintained as a result of the requirement;
+      - **(ii)** the extent to which distributors and dealers have complied with the procedures in paragraph (2) of this subsection; and
+      - **(iii)** the extent to which distributors and dealers have encouraged first purchasers of tires to register the tires.
+    - **(C)** A manufacturer of tires shall reimburse distributors and dealers of that manufacturer’s tires for all reasonable costs incurred by the distributors and dealers in complying with a requirement prescribed by the Secretary under subparagraph (A) of this paragraph.
+    - **(D)** After making a decision under subparagraph (A) of this paragraph, the Secretary shall submit to each House of Congress a report containing a detailed statement of the decision and an explanation of the reasons for the decision.
 - **(c)**
   - **(1)** Not later than 2 years from the date of the enactment of this subsection, the Secretary shall—
     - **(A)** develop a dynamic test on rollovers by motor vehicles for the purposes of a consumer information program; and

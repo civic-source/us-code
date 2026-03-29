@@ -3,9 +3,9 @@ title: "Section 1908 - Definitions"
 usc_title: 50
 usc_section: "1908"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 1908"
-generated_at: "2026-03-29T02:16:14.729Z"
+generated_at: "2026-03-29T17:53:50.991Z"
 ---
 
 # § 1908. Definitions
@@ -16,7 +16,7 @@ For the purpose of this chapter:
   - **(2)** The term “Fund” means the National Security Education Trust Fund established pursuant to section 1904 of this title .
   - **(3)** The term “institution of higher education” has the meaning given that term by section 1001 of title 20 .
   - **(4)** The term “national security position” means a position—
-    - **(A)** having national security responsibilities in an agency or office of the Federal Government that has national security responsibilities, as determined under section 1902(g) of this title ; and
+    - **(A)** having national security responsibilities in a 1 1 So in original. Probably should be “an”. agency or office of the Federal Government that has national security responsibilities, as determined under section 1902(g) of this title ; and
     - **(B)** in which the individual in such position makes their foreign language skills available to such agency or office.
   - **(5)** The term “congressional intelligence committees” means—
     - **(A)** the Select Committee on Intelligence of the Senate; and

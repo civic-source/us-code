@@ -3,9 +3,9 @@ title: "Section 1320d - Definitions"
 usc_title: 42
 usc_section: "1320d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1320d"
-generated_at: "2026-03-29T02:15:36.100Z"
+generated_at: "2026-03-29T17:53:34.568Z"
 ---
 
 # § 1320d. Definitions
@@ -24,8 +24,8 @@ For purposes of this part:
       - **(ii)** is administered by an entity other than the employer who established and maintains the plan.
     - **(B)** A health insurance issuer (as defined in section 300gg–91(b) of this title ).
     - **(C)** A health maintenance organization (as defined in section 300gg–91(b) of this title ).
-    - **(D)** Parts 1 1 So in original. Probably should be “Part”. A, B, C, or D of the Medicare program under subchapter XVIII.
-    - **(E)** The medicaid program under subchapter XIX.
+    - **(D)** Parts 1 1 So in original. Probably should be “Part”. A, B, C, or D of the Medicare program under subchapter XVIII of this chapter.
+    - **(E)** The medicaid program under subchapter XIX of this chapter.
     - **(F)** A Medicare supplemental policy (as defined in section 1395ss(g)(1) of this title ).
     - **(G)** A long-term care policy, including a nursing home fixed indemnity policy (unless the Secretary determines that such a policy does not provide sufficiently comprehensive coverage of a benefit so that the policy should be treated as a health plan).
     - **(H)** An employee welfare benefit plan or any other arrangement which is established or maintained for the purpose of offering or providing health benefits to the employees of 2 or more employers.

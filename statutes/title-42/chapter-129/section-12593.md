@@ -3,18 +3,18 @@ title: "Section 12593 - Terms of service"
 usc_title: 42
 usc_section: "12593"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 12593"
-generated_at: "2026-03-29T02:15:37.201Z"
+generated_at: "2026-03-29T17:53:35.782Z"
 ---
 
 # § 12593. Terms of service
 
-- **(a)** As a condition of receiving a national service education award under division D, a participant in an approved national service position shall be required to perform full- or part-time national service for at least one term of service specified in subsection (b).
+- **(a)** As a condition of receiving a national service education award under division D of this subchapter, a participant in an approved national service position shall be required to perform full- or part-time national service for at least one term of service specified in subsection (b) of this section.
 - **(b)**
   - **(1)** An individual performing full-time national service in an approved national service position shall agree to participate in the program sponsoring the position for not less than 1,700 hours during a period of not more than 1 year.
   - **(2)** Except as provided in paragraph (3), an individual performing part-time national service in an approved national service position shall agree to participate in the program sponsoring the position for not less than 900 hours during a period of not more than 2 years.
-  - **(3)** The Corporation may reduce the number of hours required to be served to successfully complete part-time national service to a level determined by the Corporation, except that any reduction in the required term of service shall include a corresponding reduction in the amount of any national service educational award that may be available under division D with regard to that service.
+  - **(3)** The Corporation may reduce the number of hours required to be served to successfully complete part-time national service to a level determined by the Corporation, except that any reduction in the required term of service shall include a corresponding reduction in the amount of any national service educational award that may be available under division D of this subchapter with regard to that service.
   - **(4)**
     - **(A)** An individual in an approved national service position performing service directly related to disaster relief efforts may continue in a term of service for a period of 90 days beyond the period otherwise specified in, as appropriate, this subsection or section 12613(d) of this title or in section 4954 of this title .
     - **(B)** A period of service performed by an individual in an originally-agreed to 1 1 So in original. Probably should be “originally-agreed-to”. term of service and service performed under this paragraph shall constitute a single term of service for purposes of subsections (b)(1) and (c) of section 12602 of this title .

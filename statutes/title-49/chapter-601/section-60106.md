@@ -3,9 +3,9 @@ title: "Section 60106 - State pipeline safety agreements"
 usc_title: 49
 usc_section: "60106"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 60106"
-generated_at: "2026-03-29T02:16:09.085Z"
+generated_at: "2026-03-29T17:53:48.149Z"
 ---
 
 # § 60106. State pipeline safety agreements
@@ -25,7 +25,6 @@ generated_at: "2026-03-29T02:16:09.085Z"
     - **(A)** the State authority fails to comply with the terms of the agreement;
     - **(B)** implementation of the agreement has resulted in a gap in the oversight responsibilities of intrastate pipeline transportation by the State authority; or
     - **(C)** continued participation by the State authority in the oversight of interstate pipeline transportation has had an adverse impact on pipeline safety.
-  - **(4)** If a State authority requests an interstate agreement under this section and the Secretary denies such request, the Secretary shall provide written notification to the State authority of the denial that includes an explanation of the reasons for such denial.
 - **(c)**
   - **(1)** Each agreement shall require the State authority to notify the Secretary promptly of a violation or probable violation of an applicable safety standard discovered as a result of action taken in carrying out an agreement under this section.
   - **(2)** If a State authority notifies the Secretary under paragraph (1) of a violation or probable violation of an applicable safety standard, the Secretary, not later than 60 days after the date of receipt of the notification, shall—
@@ -39,4 +38,3 @@ generated_at: "2026-03-29T02:16:09.085Z"
     - **(B)** the State actions under the agreement have failed to meet the requirements under subsection (b); or
     - **(C)** continued participation by the State authority in the oversight of interstate pipeline transportation would not promote pipeline safety.
   - **(3)** The Secretary shall give notice and an opportunity for a hearing to a State authority before ending an agreement under this section. The Secretary may provide a State an opportunity to correct any deficiencies before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication unless the Secretary finds that continuation of an agreement poses an imminent hazard.
-- **(f)** At the request of a State authority, the Secretary shall allow for a certified State authority under section 60105 to participate in the inspection of an interstate pipeline facility.

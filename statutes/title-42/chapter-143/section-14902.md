@@ -3,17 +3,17 @@ title: "Section 14902 - Definitions"
 usc_title: 42
 usc_section: "14902"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 14902"
-generated_at: "2026-03-29T02:15:37.283Z"
+generated_at: "2026-03-29T17:53:35.916Z"
 ---
 
 # § 14902. Definitions
 
 As used in this chapter:
 
-  - **(1)** The term “accredited agency” means an agency accredited under subchapter II to provide adoption services in the United States in cases subject to the Convention.
-  - **(2)** The term “accrediting entity” means an entity designated under section 14922(a) of this title to accredit agencies and approve persons under subchapter II.
+  - **(1)** The term “accredited agency” means an agency accredited under subchapter II of this chapter to provide adoption services in the United States in cases subject to the Convention.
+  - **(2)** The term “accrediting entity” means an entity designated under section 14922(a) of this title to accredit agencies and approve persons under subchapter II of this chapter.
   - **(3)** The term “adoption service” means—
     - **(A)** identifying a child for adoption and arranging an adoption;
     - **(B)** securing necessary consent to termination of parental rights and to adoption;
@@ -22,7 +22,7 @@ As used in this chapter:
     - **(E)** post-placement monitoring of a case until final adoption; and
     - **(F)** where made necessary by disruption before final adoption, assuming custody and providing child care or any other social service pending an alternative placement.
   - **(4)** The term “agency” means any person other than an individual.
-  - **(5)** The term “approved person” means a person approved under subchapter II to provide adoption services in the United States in cases subject to the Convention.
+  - **(5)** The term “approved person” means a person approved under subchapter II of this chapter to provide adoption services in the United States in cases subject to the Convention.
   - **(6)** Except as used in section 14944 of this title , the term “Attorney General” means the Attorney General, acting through the Commissioner of Immigration and Naturalization.
   - **(7)** The term “central authority” means the entity designated as such by any Convention country under Article 6(1) of the Convention.
   - **(8)** The term “central authority function” means any duty required to be carried out by a central authority under the Convention.

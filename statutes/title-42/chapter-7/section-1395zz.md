@@ -3,14 +3,14 @@ title: "Section 1395zz - Provider education and technical assistance"
 usc_title: 42
 usc_section: "1395zz"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1395zz"
-generated_at: "2026-03-29T02:15:36.312Z"
+generated_at: "2026-03-29T17:53:34.779Z"
 ---
 
 # § 1395zz. Provider education and technical assistance
 
-- **(a)** The Secretary shall coordinate the educational activities provided through medicare contractors (as defined in subsection (g), including under section 1395ddd of this title ) in order to maximize the effectiveness of Federal education efforts for providers of services and suppliers.
+- **(a)** The Secretary shall coordinate the educational activities provided through medicare contractors (as defined in subsection (g) of this section, including under section 1395ddd of this title ) in order to maximize the effectiveness of Federal education efforts for providers of services and suppliers.
 - **(b)**
   - **(1)** There are authorized to be appropriated to the Secretary (in appropriate part from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund) such sums as may be necessary for fiscal years beginning with fiscal year 2005.
   - **(2)** The funds made available under paragraph (1) shall be used to increase the conduct by medicare contractors of education and training of providers of services and suppliers regarding billing, coding, and other appropriate items and may also be used to improve the accuracy, consistency, and timeliness of contractor responses.

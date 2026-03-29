@@ -3,19 +3,19 @@ title: "Section 2421 - Definitions"
 usc_title: 43
 usc_section: "2421"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 2421"
-generated_at: "2026-03-29T02:15:47.658Z"
+generated_at: "2026-03-29T17:53:03.746Z"
 ---
 
 # § 2421. Definitions
 
 In this subchapter:
 
-  - **(1)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
+  - **(1)** The term “Indian tribe” has the meaning given the term in section 450b of title 25 .
   - **(2)** The term “lender” means—
     - **(A)** a non-Federal qualified institutional buyer (as defined in section 230.144A(a) of title 17, Code of Federal Regulation 1 1 So in original. Probably should be “Regulations”. (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 ( 15 U.S.C. 77a et seq.)); or
-    - **(B)** a clean renewable energy bond lender (as defined in section 54(j)(2) 2 2 See References in Text note below. of title 26 (as in effect on December 22, 2006 )).
+    - **(B)** a clean renewable energy bond lender (as defined in section 54(j)(2) of title 26 (as in effect on December 22, 2006 )).
   - **(3)** The term “loan guarantee” has the meaning given the term “loan guarantee” in section 661a of title 2 .
   - **(4)** The term “non-Federal borrower” means—
     - **(A)** a State (including a department, agency, or political subdivision of a State); or

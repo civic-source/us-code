@@ -3,9 +3,9 @@ title: "Section 423a - Construction charges on permanently unproductive lands al
 usc_title: 43
 usc_section: "423a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 423a"
-generated_at: "2026-03-29T02:15:47.543Z"
+generated_at: "2026-03-29T17:53:03.632Z"
 ---
 
 # § 423a. Construction charges on permanently unproductive lands already paid; disposition

@@ -3,9 +3,9 @@ title: "Section 2206 - Comptroller General audit"
 usc_title: 42
 usc_section: "2206"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 2206"
-generated_at: "2026-03-29T02:15:36.594Z"
+generated_at: "2026-03-29T17:53:35.088Z"
 ---
 
 # § 2206. Comptroller General audit

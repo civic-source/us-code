@@ -3,9 +3,9 @@ title: "Section 7625 - Vapor recovery for small business marketers of petroleum 
 usc_title: 42
 usc_section: "7625"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7625"
-generated_at: "2026-03-29T02:15:36.969Z"
+generated_at: "2026-03-29T17:53:35.539Z"
 ---
 
 # § 7625. Vapor recovery for small business marketers of petroleum products
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:15:36.969Z"
   - **(1)** 33 percent of such outlets in compliance at the end of the first year during which such regulations apply to such marketers,
   - **(2)** 66 percent at the end of such second year, and
   - **(3)** 100 percent at the end of the third year.
-- **(b)** Nothing in subsection (a) shall be construed to prohibit any State from adopting or enforcing, with respect to independent small business marketers of gasoline having monthly sales of less than 50,000 gallons, any vapor recovery requirements for mobile source fuels at retail outlets. Any vapor recovery requirement which is adopted by a State and submitted to the Administrator as part of its implementation plan may be approved and enforced by the Administrator as part of the applicable implementation plan for that State.
+- **(b)** Nothing in subsection (a) of this section shall be construed to prohibit any State from adopting or enforcing, with respect to independent small business marketers of gasoline having monthly sales of less than 50,000 gallons, any vapor recovery requirements for mobile source fuels at retail outlets. Any vapor recovery requirement which is adopted by a State and submitted to the Administrator as part of its implementation plan may be approved and enforced by the Administrator as part of the applicable implementation plan for that State.
 - **(c)** For purposes of this section, an independent small business marketer of gasoline is a person engaged in the marketing of gasoline who would be required to pay for procurement and installation of vapor recovery equipment under section 7624 1 1 See References in Text note below. of this title or under regulations of the Administrator, unless such person—
   - **(1)**
     - **(A)** is a refiner, or 2 2 So in original. The word “or” probably should appear at the end of subpar. (B).

@@ -3,9 +3,9 @@ title: "Section 8243 - Duties of Secretary"
 usc_title: 42
 usc_section: "8243"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 8243"
-generated_at: "2026-03-29T02:15:37.010Z"
+generated_at: "2026-03-29T17:53:35.577Z"
 ---
 
 # § 8243. Duties of Secretary
@@ -19,6 +19,6 @@ generated_at: "2026-03-29T02:15:37.010Z"
   - **(4)** provide, by rule, that Federal agencies report to the Secretary periodically such information as they acquire respecting maintenance and operation of solar energy equipment for which assistance is provided under paragraph (3);
   - **(5)** require that a life cycle cost analysis in accordance with part B be done for any Federal building for which a proposal is submitted under this section and the results of such analysis be included in such proposal; and
   - **(6)** if solar energy equipment for which assistance is to be provided under paragraph (3) is not the minimum life-cycle cost alternative, require the Federal agency involved to submit a report to the Secretary stating the amount by which the life-cycle cost of such equipment exceeds the minimum life-cycle cost.
-- **(b)** Proposals under paragraph (1)(A) of subsection (a) shall include a list of the specific Federal buildings proposed to be provided with solar energy equipment, the funds necessary for the acquisition and installation of such equipment, the proposed implementation schedule, maintenance costs, the estimated savings in fossil fuels and electricity, the estimated payback time, and such other information as may be required by the Secretary.
-- **(c)** Under the requirements established under subsection (a)(1)(A), initial proposals for the installation of solar energy equipment in Federal buildings selected under subsection (a)(1)(A) shall be submitted not later than 180 days after the date of promulgation of the rule under subsection (a)(1).
+- **(b)** Proposals under paragraph (1)(A) of subsection (a) of this section shall include a list of the specific Federal buildings proposed to be provided with solar energy equipment, the funds necessary for the acquisition and installation of such equipment, the proposed implementation schedule, maintenance costs, the estimated savings in fossil fuels and electricity, the estimated payback time, and such other information as may be required by the Secretary.
+- **(c)** Under the requirements established under subsection (a)(1)(A) of this section, initial proposals for the installation of solar energy equipment in Federal buildings selected under subsection (a)(1)(A) of this section shall be submitted not later than 180 days after the date of promulgation of the rule under subsection (a)(1) of this section.
 - **(d)** In order to more widely disseminate information about the program under this part and under part B and the benefits of renewable energy and energy efficiency technology, the Secretary shall establish a program which includes site visits and technical briefings, to disseminate such information to Federal procurement officers and Federal loan officers. The Secretary shall utilize available funds for the program under this subsection.

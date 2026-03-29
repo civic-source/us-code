@@ -3,9 +3,9 @@ title: "Section 16811 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "16811"
 chapter: 150
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 16811"
-generated_at: "2026-03-29T02:15:37.375Z"
+generated_at: "2026-03-29T17:53:36.007Z"
 ---
 
 # § 16811. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

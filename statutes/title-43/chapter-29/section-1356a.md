@@ -3,9 +3,9 @@ title: "Section 1356a - Coastal impact assistance program"
 usc_title: 43
 usc_section: "1356a"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1356a"
-generated_at: "2026-03-29T02:15:47.597Z"
+generated_at: "2026-03-29T17:53:03.691Z"
 ---
 
 # § 1356a. Coastal impact assistance program
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T02:15:47.597Z"
     - **(C)** The term “qualified Outer Continental Shelf revenues” does not include any revenues from a leased tract or portion of a leased tract that is located in a geographic area subject to a leasing moratorium on January 1, 2005 , unless the lease was in production on January 1, 2005 .
 - **(b)**
   - **(1)** The Secretary shall, without further appropriation, disburse to producing States and coastal political subdivisions in accordance with this section $250,000,000 for each of fiscal years 2007 through 2010.
-  - **(2)** In each fiscal year, the Secretary shall disburse to each producing State for which the Secretary has approved a plan under subsection (c), and to coastal political subdivisions under paragraph (4), such funds as are allocated to the producing State or coastal political subdivision, respectively, under this section for the fiscal year.
+  - **(2)** In each fiscal year, the Secretary shall disburse to each producing State for which the Secretary has approved a plan under subsection (c) of this section, and to coastal political subdivisions under paragraph (4), such funds as are allocated to the producing State or coastal political subdivision, respectively, under this section for the fiscal year.
   - **(3)**
     - **(A)** Except as provided in subparagraph (C) and subject to subparagraph (D), the amounts available under paragraph (1) shall be allocated to each producing State based on the ratio that—
       - **(i)** the amount of qualified outer Continental Shelf revenues generated off the coastline of the producing State; bears to
@@ -60,9 +60,9 @@ generated_at: "2026-03-29T02:15:47.597Z"
     - **(D)** For the purposes of carrying out subparagraph (B)(iii) in the State of Alaska, the amounts allocated shall be divided equally among the two coastal political subdivisions that are closest to the geographic center of a leased tract.
     - **(E)** For purposes of subparagraph (B)(iii), a leased tract or portion of a leased tract shall be excluded if the tract or portion of a leased tract is located in a geographic area subject to a leasing moratorium on January 1, 2005 , unless the lease was in production on that date.
   - **(5)**
-    - **(A)** Subject to subparagraph (B) and except as provided in subparagraph (C), in a case in which any amount allocated to a producing State or coastal political subdivision under paragraph (4) or (5) is not disbursed because the producing State does not have in effect a plan that has been approved by the Secretary under subsection (c), the Secretary shall allocate the undisbursed amount equally among all other producing States.
-    - **(B)** The Secretary shall hold in escrow an undisbursed amount described in subparagraph (A) until such date as the final appeal regarding the disapproval of a plan submitted under subsection (c) is decided.
-    - **(C)** The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable share in escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c).
+    - **(A)** Subject to subparagraph (B) and except as provided in subparagraph (C), in a case in which any amount allocated to a producing State or coastal political subdivision under paragraph (4) or (5) is not disbursed because the producing State does not have in effect a plan that has been approved by the Secretary under subsection (c) of this section, the Secretary shall allocate the undisbursed amount equally among all other producing States.
+    - **(B)** The Secretary shall hold in escrow an undisbursed amount described in subparagraph (A) until such date as the final appeal regarding the disapproval of a plan submitted under subsection (c) of this section is decided.
+    - **(C)** The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable share in escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c) of this section.
 - **(c)**
   - **(1)**
     - **(A)** Not later than July 1, 2008 , the Governor of a producing State shall submit to the Secretary a coastal impact assistance plan.
@@ -70,7 +70,7 @@ generated_at: "2026-03-29T02:15:47.597Z"
   - **(2)**
     - **(A)** The Secretary shall approve a plan of a producing State submitted under paragraph (1) before disbursing any amount to the producing State, or to a coastal political subdivision located in the producing State, under this section.
     - **(B)** The Secretary shall approve a plan submitted under paragraph (1) if—
-      - **(i)** the Secretary determines that the plan is consistent with the uses described in subsection (d); and
+      - **(i)** the Secretary determines that the plan is consistent with the uses described in subsection (d) of this section; and
       - **(ii)** the plan contains—
         - **(I)** the name of the State agency that will have the authority to represent and act on behalf of the producing State in dealing with the Secretary for purposes of this section;
         - **(II)** a program for the implementation of the plan that describes how the amounts provided under this section to the producing State will be used;

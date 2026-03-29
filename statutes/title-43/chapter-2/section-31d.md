@@ -3,9 +3,9 @@ title: "Section 31d - Advisory committee"
 usc_title: 43
 usc_section: "31d"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 31d"
-generated_at: "2026-03-29T02:15:47.506Z"
+generated_at: "2026-03-29T17:53:03.596Z"
 ---
 
 # § 31d. Advisory committee
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:15:47.506Z"
 - **(a)**
   - **(1)** There shall be established a 11-member geologic mapping advisory committee to advise the Director on planning and implementation of the geologic mapping program.
   - **(2)** Federal agency members shall include the Administrator of the Environmental Protection Agency or a designee, the Secretary of the Interior or a designee from a land management agency of the Department of the Interior, the Secretary of Energy or a designee, and the Secretary of Agriculture or a designee.
-  - **(3)** In consultation with the Association, the Secretary shall appoint to the advisory committee two representatives from the Survey (including the Associate Director for Core Science Systems, as Chair), two representatives from the State geological surveys, one representative from academia, and 2 representatives from the private sector.
+  - **(3)** In consultation with the Association, the Secretary shall appoint to the advisory committee two representatives from the Survey (including the Associate Director for Geology, as Chair), two representatives from the State geological surveys, one representative from academia, and 2 representatives from the private sector.
 - **(b)** The advisory committee shall—
   - **(1)** review and update the 5-year plan prepared by the Director pursuant to section 31e of this title ;
   - **(2)** review the scientific progress of the geologic mapping program;

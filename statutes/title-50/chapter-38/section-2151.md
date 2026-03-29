@@ -3,14 +3,14 @@ title: "Section 2151 - Application of Federal Employees’ Retirement System to 
 usc_title: 50
 usc_section: "2151"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2151"
-generated_at: "2026-03-29T02:16:14.739Z"
+generated_at: "2026-03-29T17:53:51.001Z"
 ---
 
 # § 2151. Application of Federal Employees’ Retirement System to Agency employees
 
-- **(a)** Except as provided in subsections (b) and (c), all employees of the Agency, any of whose service after December 31, 1983 , is employment for the purpose of title II of the Social Security Act [ 42 U.S.C. 401 et seq.] and chapter 21 of title 26, shall be subject to chapter 84 of title 5.
+- **(a)** Except as provided in subsections (b) and (c) of this section, all employees of the Agency, any of whose service after December 31, 1983 , is employment for the purpose of title II of the Social Security Act [ 42 U.S.C. 401 et seq.] and chapter 21 of title 26, shall be subject to chapter 84 of title 5.
 - **(b)** Participants in the Central Intelligence Agency Retirement and Disability System who were participants in such system on or before December 31, 1983 , and who have not had a break in service in excess of one year since that date, are not subject to chapter 84 of title 5 without regard to whether they are subject to title II of the Social Security Act [ 42 U.S.C. 401 et seq.].
 - **(c)**
   - **(1)** The provisions of chapter 84 of title 5 shall not apply with respect to—
@@ -22,4 +22,4 @@ generated_at: "2026-03-29T02:16:14.739Z"
   - **(1)** shall not be effective unless it is made during the six-month period beginning on the date on which the employee is so designated;
   - **(2)** shall take effect beginning with the first pay period beginning after the date of the election; and
   - **(3)** shall be irrevocable.
-- **(e)** The application of the provisions of chapter 84 of title 5 to an employee referred to in subsection (a) shall be subject to the exceptions and special rules provided in this subchapter. Any provision of that chapter which is inconsistent with a special rule provided in this subchapter shall not apply to such employees.
+- **(e)** The application of the provisions of chapter 84 of title 5 to an employee referred to in subsection (a) of this section shall be subject to the exceptions and special rules provided in this subchapter. Any provision of that chapter which is inconsistent with a special rule provided in this subchapter shall not apply to such employees.

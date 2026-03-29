@@ -3,16 +3,16 @@ title: "Section 5102 - Advisory board on child abuse and neglect"
 usc_title: 42
 usc_section: "5102"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5102"
-generated_at: "2026-03-29T02:15:36.732Z"
+generated_at: "2026-03-29T17:53:35.278Z"
 ---
 
 # § 5102. Advisory board on child abuse and neglect
 
 - **(a)** The Secretary may appoint an advisory board to make recommendations to the Secretary and to the appropriate committees of Congress concerning specific issues relating to child abuse and neglect.
-- **(b)** The Secretary shall publish a notice in the Federal Register soliciting nominations for the appointment of members of the advisory board under subsection (a).
-- **(c)** In establishing the board under subsection (a), the Secretary shall appoint members from the general public who are individuals knowledgeable in child abuse and neglect prevention, intervention, treatment, or research, and with due consideration to representation of ethnic or racial minorities and diverse geographic areas, and who represent—
+- **(b)** The Secretary shall publish a notice in the Federal Register soliciting nominations for the appointment of members of the advisory board under subsection (a) of this section.
+- **(c)** In establishing the board under subsection (a) of this section, the Secretary shall appoint members from the general public who are individuals knowledgeable in child abuse and neglect prevention, intervention, treatment, or research, and with due consideration to representation of ethnic or racial minorities and diverse geographic areas, and who represent—
   - **(1)** law (including the judiciary);
   - **(2)** psychology (including child development);
   - **(3)** social services (including child protective services);
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T02:15:36.732Z"
   - **(14)** Indian tribes or tribal organizations.
 - **(d)** Any vacancy in the membership of the board shall be filled in the same manner in which the original appointment was made.
 - **(e)** The board shall elect a chairperson and vice-chairperson at its first meeting from among the members of the board.
-- **(f)** Not later than 1 year after the establishment of the board under subsection (a), the board shall submit to the Secretary and the appropriate committees of Congress a report, or interim report, containing—
+- **(f)** Not later than 1 year after the establishment of the board under subsection (a) of this section, the board shall submit to the Secretary and the appropriate committees of Congress a report, or interim report, containing—
   - **(1)** recommendations on coordinating Federal, State, tribal, and local child abuse and neglect activities with similar activities at the Federal, State, tribal, and local level pertaining to family violence prevention;
   - **(2)** specific modifications needed in Federal, State, and tribal laws and programs to reduce the number of unfounded or unsubstantiated reports of child abuse or neglect while enhancing the ability to identify and substantiate legitimate cases of child abuse or neglect which place a child in danger; and
   - **(3)** recommendations for modifications needed to facilitate coordinated national data collection with respect to child protection and child welfare.

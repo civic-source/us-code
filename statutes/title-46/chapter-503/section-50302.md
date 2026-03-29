@@ -3,9 +3,9 @@ title: "Section 50302 - Port development"
 usc_title: 46
 usc_section: "50302"
 chapter: 503
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 50302"
-generated_at: "2026-03-29T02:15:53.758Z"
+generated_at: "2026-03-29T17:53:41.820Z"
 ---
 
 # § 50302. Port development
@@ -18,3 +18,26 @@ generated_at: "2026-03-29T02:15:53.758Z"
   - **(5)** investigate the practicability and advantages of harbor, river, and port improvements in connection with foreign and coastwise trade; and
   - **(6)** investigate any other matter that may tend to promote and encourage the use by vessels of ports adequate to care for the freight that naturally would pass through those ports.
 - **(b)** After an investigation under subsection (a), if the Secretary of Transportation believes that the rates or practices of a rail carrier subject to the jurisdiction of the Surface Transportation Board are detrimental to the objective specified in subsection (a), or that new rates or practices, new or additional port terminal facilities, or affirmative action by a rail carrier is necessary to promote that objective, the Secretary may submit findings to the Board for action the Board considers appropriate under existing law.
+- **(c)**
+  - **(1)** The Secretary of Transportation, through the Maritime Administrator, shall establish a port infrastructure development program for the improvement of port facilities as provided in this subsection.
+  - **(2)** In order to carry out any project under the program established under paragraph (1), the Administrator may—
+    - **(A)** receive funds provided for the project from Federal, non-Federal, and private entities that have a specific agreement or contract with the Administrator to further the purposes of this subsection;
+    - **(B)** coordinate with other Federal agencies to expedite the process established under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) for the improvement of port facilities to improve the efficiency of the transportation system, to increase port security, or to provide greater access to port facilities;
+    - **(C)** seek to coordinate all reviews or requirements with appropriate local, State, and Federal agencies; and
+    - **(D)** provide such technical assistance to port authorities or commissions or their subdivisions and agents as needed for project planning, design, and construction.
+  - **(3)**
+    - **(A)** There is a Port Infrastructure Development Fund for use by the Administrator in carrying out projects under the port infrastructure development program. The Fund shall be available to the Administrator—
+      - **(i)** to administer and carry out projects under the program;
+      - **(ii)** to receive Federal, non-Federal, and private funds from entities which have specific agreements or contracts with the Administrator; and
+      - **(iii)** to make refunds for projects that will not be completed.
+    - **(B)** There may be deposited into the Fund—
+      - **(i)** funds from Federal, non-Federal, and private entities which have agreements or contracts with the Administrator and which shall remain in the Fund until expended or refunded; and
+      - **(ii)** such amounts as may be appropriated or transferred, subject to subparagraph (C), to the Fund under this subsection.
+    - **(C)**
+      - **(i)** Subject to clauses (ii) and (iii), amounts appropriated or otherwise made available for any fiscal year for a marine facility or intermodal facility that includes maritime transportation may be transferred, at the option of the recipient of such amounts, to the Fund and administered by the Administrator as a component of a project under the program.
+      - **(ii)** Except as provided in clause (iii), no funds appropriated or made available under title 23 or chapter 53 of title 49, United States Code, including funds from the Highway Trust Fund (section 9503(c) of the Internal Revenue Code of 1986), funds from the Mass Transit Account of the Highway Trust Fund (section 9503(e) of Internal Revenue Code of 1986), and funds provided for public transportation programs within the mass transit category (as defined in section 250(c)(4)(C) of the Balanced Budget and Emergency Deficit Control Act of 1985), shall be transferred into the Fund.
+      - **(iii)**
+        - **(I)** Amounts described in subclause (II) are eligible for transfer into the Fund if—
+        - **(II)** The amounts referred to in subclause (I) are amounts appropriated or made available—
+    - **(D)** Nothing in this section shall be construed to alter or otherwise affect existing authorities to conduct port infrastructure programs in Hawaii (as authorized by section 9008 of Public Law 109–59 ), Alaska (as authorized by section 10205 of Public Law 109–59 ), or Guam (as authorized by section 3512 of Public Law 110–417 ).
+  - **(4)** There are authorized to be appropriated to the Fund such sums as may be necessary to carry out the program, taking into account amounts received under paragraph (3)(A)(ii).

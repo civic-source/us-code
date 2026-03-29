@@ -3,9 +3,9 @@ title: "Section 12623 - Advisory Board"
 usc_title: 42
 usc_section: "12623"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 12623"
-generated_at: "2026-03-29T02:15:37.208Z"
+generated_at: "2026-03-29T17:53:35.787Z"
 ---
 
 # § 12623. Advisory Board
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T02:15:37.208Z"
   - **(12)** The Secretary of Energy.
   - **(13)** Individuals appointed by the Director from among persons who are broadly representative of educational institutions, voluntary organizations, public and private organizations, youth, and labor unions.
   - **(14)** The Chief Executive Officer.
-- **(c)** Section 1013 of title 5 shall not apply to the Advisory Board.
+- **(c)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Board.

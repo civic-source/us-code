@@ -3,9 +3,9 @@ title: "Section 5912 - Water resource assessments"
 usc_title: 42
 usc_section: "5912"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5912"
-generated_at: "2026-03-29T02:15:36.789Z"
+generated_at: "2026-03-29T17:53:35.353Z"
 ---
 
 # § 5912. Water resource assessments
@@ -20,6 +20,6 @@ generated_at: "2026-03-29T02:15:36.789Z"
   - **(7)** consult with the Council on Environmental Quality.
 - **(b)** For any proposed demonstration project which may involve a significant impact on water resources, the Secretary shall, as a precondition of Federal assistance to that proj­ect, request the Water Resources Council to prepare an assessment of water requirements and availability for such project. A report on the assessment shall be published in the Federal Register for public review thirty days prior to the expenditure of Federal funds on the demonstration.
 - **(c)** For any proposed Federal assistance for commercial application of energy technologies pursuant to this chapter, the Water Resource 1 1 So in original. Probably should be “Resources”. Council shall, as a precondition of such Federal assistance, provide to the Secretary an assessment of the availability of adequate water resources for such commercial application and an evaluation of the environmental, social, and economic impacts of the dedication of water to such uses.
-- **(d)** Reports of assessments and evaluations prepared by the Council pursuant to subsections (a) and (c) shall be published in the Federal Register and at least ninety days shall be provided for public review and comment. Comments received shall accompany the reports when they are submitted to the Secretary and shall be available to the public.
+- **(d)** Reports of assessments and evaluations prepared by the Council pursuant to subsections (a) and (c) of this section shall be published in the Federal Register and at least ninety days shall be provided for public review and comment. Comments received shall accompany the reports when they are submitted to the Secretary and shall be available to the public.
 - **(e)** The Council shall include a broad survey and analysis of regional and national water resource availability for energy development in the biennial assessment required by section 1962a–1(a) of this title .
 - **(f)** The Secretary shall, upon enactment of this subsection, be a member of the Council.

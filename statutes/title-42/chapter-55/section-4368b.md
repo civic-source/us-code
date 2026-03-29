@@ -3,9 +3,9 @@ title: "Section 4368b - General assistance program"
 usc_title: 42
 usc_section: "4368b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 4368b"
-generated_at: "2026-03-29T02:15:36.704Z"
+generated_at: "2026-03-29T17:53:35.251Z"
 ---
 
 # § 4368b. General assistance program

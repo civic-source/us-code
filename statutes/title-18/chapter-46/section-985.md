@@ -3,9 +3,9 @@ title: "Section 985 - Civil forfeiture of real property"
 usc_title: 18
 usc_section: "985"
 chapter: 46
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 985"
-generated_at: "2026-03-29T17:53:15.610Z"
+generated_at: "2026-03-29T17:53:59.604Z"
 ---
 
 # § 985. Civil forfeiture of real property

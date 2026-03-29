@@ -3,9 +3,9 @@ title: "Section 44721 - Aeronautical charts and related products and services"
 usc_title: 49
 usc_section: "44721"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 44721"
-generated_at: "2026-03-29T02:16:09.029Z"
+generated_at: "2026-03-29T17:53:48.104Z"
 ---
 
 # § 44721. Aeronautical charts and related products and services
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:16:09.029Z"
   - **(2)** depicted accurately on the map or chart; and
   - **(3)** not obviously defective or deficient.
 - **(c)** Effective October 1, 2000 , the Administrator is vested with and shall exercise the functions, powers, and duties of the Secretary of Commerce and other officers of the Department of Commerce that relate to the Office of Aeronautical Charting and Cartography to provide aeronautical charts and related products and services for the safe and efficient navigation of air commerce, under the following authorities:
-  - **(1)** Sections 1 through 9 of the Act entitled “An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes”, approved August 6, 1947 ( 33 U.S.C. 883a–883h ).
+  - **(1)** Sections 1 through 9 of the Act entitled “An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes”, approved August 6, 1947 , 1 1 So in original. The comma probably should not appear. ( 33 U.S.C. 883a–883h ).
   - **(2)** Section 6082 of the Consolidated Omnibus Budget Reconciliation Act of 1985 ( 33 U.S.C. 883j ).
 - **(d)** In order that full public benefit may be derived from the dissemination of data resulting from activities under this section and of related data from other sources, the Administrator may—
   - **(1)** develop, process, disseminate and publish digital and analog data, information, compilations, and reports;

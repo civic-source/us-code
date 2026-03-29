@@ -3,12 +3,12 @@ title: "Section 1105 - Form and style of work for departments"
 usc_title: 44
 usc_section: "1105"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "44 U.S.C. § 1105"
-generated_at: "2026-03-29T02:15:49.321Z"
+generated_at: "2026-03-29T17:53:10.494Z"
 ---
 
 # § 1105. Form and style of work for departments
 
-The Director of the Government Publishing Office shall determine the form and style in which the printing or binding ordered by a department is executed, and the material and the size of type used, having proper regard to economy, workmanship, and the purposes for which the work is needed.
+The Public Printer shall determine the form and style in which the printing or binding ordered by a department is executed, and the material and the size of type used, having proper regard to economy, workmanship, and the purposes for which the work is needed.
 

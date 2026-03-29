@@ -3,9 +3,9 @@ title: "Section 7706 - Authorization of appropriations"
 usc_title: 42
 usc_section: "7706"
 chapter: 86
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7706"
-generated_at: "2026-03-29T02:15:36.994Z"
+generated_at: "2026-03-29T17:53:35.562Z"
 ---
 
 # § 7706. Authorization of appropriations
@@ -18,8 +18,8 @@ generated_at: "2026-03-29T02:15:36.994Z"
     - **(C)** $500,000 for prediction response planning,
     - **(D)** $600,000 for architectural and engineering planning and practice programs,
     - **(E)** $1,000,000 for development and application of a public education program,
-    - **(F)** $3,000,000 for use by the National Science Foundation in addition to the amount authorized to be appropriated under subsection (c), which amount includes $2,400,000 for earthquake policy research and $600,000 for the strong ground motion element of the siting program, and
-    - **(G)** $1,000,000 for use by the Center for Building Technology, National Institute of Standards and Technology in addition to the amount authorized to be appropriated under subsection (d) for earthquake activities in the Center.
+    - **(F)** $3,000,000 for use by the National Science Foundation in addition to the amount authorized to be appropriated under subsection (c) of this section, which amount includes $2,400,000 for earthquake policy research and $600,000 for the strong ground motion element of the siting program, and
+    - **(G)** $1,000,000 for use by the Center for Building Technology, National Institute of Standards and Technology in addition to the amount authorized to be appropriated under subsection (d) of this section for earthquake activities in the Center.
   - **(3)** There are authorized to be appropriated to the Director for the fiscal year ending September 30, 1982 , $2,000,000 to carry out the provisions of sections 7704 and 7705 1 of this title.
   - **(4)** There are authorized to be appropriated to the Director, to carry out the provisions of sections 7704 and 7705 1 of this title, $1,281,000 for the fiscal year ending September 30, 1983 .
   - **(5)** There are authorized to be appropriated to the Director, to carry out the provisions of sections 7704 and 7705 1 of this title, for the fiscal year ending September 30, 1984 , $3,705,000, and for the fiscal year ending September 30, 1985 , $6,096,000.
@@ -29,13 +29,8 @@ generated_at: "2026-03-29T02:15:36.994Z"
     - **(A)** $21,000,000 for fiscal year 2005,
     - **(B)** $21,630,000 for fiscal year 2006,
     - **(C)** $22,280,000 for fiscal year 2007,
-    - **(D)** $22,950,000 for fiscal year 2008,
+    - **(D)** $22,950,000 for fiscal year 2008, and
     - **(E)** $23,640,000 for fiscal year 2009,
-    - **(F)** $8,758,000 for fiscal year 2019,
-    - **(G)** $8,758,000 for fiscal year 2020,
-    - **(H)** $8,758,000 for fiscal year 2021,
-    - **(I)** $8,758,000 for fiscal year 2022, and
-    - **(J)** $8,758,000 for fiscal year 2023,
 - **(b)**
   - **(1)** There are authorized to be appropriated to the Secretary of the Interior for purposes for carrying out, through the Director of the United States Geological Survey, the responsibilities that may be assigned to the Director under this chapter not to exceed $27,500,000 for the fiscal year ending September 30, 1978 ; not to exceed $35,000,000 for the fiscal year ending September 30, 1979 ; not to exceed $40,000,000 for the fiscal year ending September 30, 1980 ; $32,484,000 for the fiscal year ending September 30, 1981 ; $34,425,000 for the fiscal year ending September 30, 1982 ; $31,843,000 for the fiscal year ending September 30, 1983 ; $35,524,000 for the fiscal year ending September 30, 1984 ; $37,300,200 for the fiscal year ending September 30, 1985 2 2 So in original. Probably should be followed by a semicolon. $35,578,000 for the fiscal year ending September 30, 1986 ; $37,179,000 for the fiscal year ending September 30, 1987 ; $38,540,000 for the fiscal year ending September 30, 1988 ; $41,819,000 for the fiscal year ending September 30, 1989 ; $55,283,000 for the fiscal year ending September 30, 1990 , of which $8,000,000 shall be for earthquake investigations under section 7705e of this title ; $50,000,000 for the fiscal year ending September 30, 1991 ; $54,500,000 for the fiscal year ending September 30, 1992 ; $62,500,000 for the fiscal year ending September 30, 1993 ; $49,200,000 for the fiscal year ending September 30, 1995 ; $50,676,000 for the fiscal year ending September 30, 1996 ; $52,565,000 for the fiscal year ending September 30, 1998 , of which $3,800,000 shall be used for the Global Seismic Network operated by the Agency; and $54,052,000 for the fiscal year ending September 30, 1999 , of which $3,800,000 shall be used for the Global Seismic Network operated by the Agency. There are authorized to be appropriated to the Secretary of the Interior for purposes of carrying out, through the Director of the United States Geological Survey, the responsibilities that may be assigned to the Director under this chapter $48,360,000 for fiscal year 2001, of which $3,500,000 is for the Global Seismic Network and $100,000 is for the Scientific Earthquake Studies Advisory Committee established under section 7709 of this title ; $50,415,000 for fiscal year 2002, of which $3,600,000 is for the Global Seismic Network and $100,000 is for the Scientific Earthquake Studies Advisory Committee; and $52,558,000 for fiscal year 2003, of which $3,700,000 is for the Global Seismic Network and $100,000 is for the Scientific Earthquake Studies Advisory Committee. Of the amounts authorized to be appropriated under this paragraph, at least—
     - **(A)** $8,000,000 of the amount authorized to be appropriated for the fiscal year ending September 30, 1998 ;
@@ -44,39 +39,24 @@ generated_at: "2026-03-29T02:15:36.994Z"
     - **(D)** $9,250,000 of the amount authorized to be appropriated for fiscal year 2002; and
     - **(E)** $9,500,000 of the amount authorized to be appropriated for fiscal year 2003,
   - **(2)** There are authorized to be appropriated to the United States Geological Survey for carrying out this chapter—
-    - **(A)** $77,000,000 for fiscal year 2005, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title ;
-    - **(B)** $84,410,000 for fiscal year 2006, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title ;
-    - **(C)** $85,860,000 for fiscal year 2007, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title ;
-    - **(D)** $87,360,000 for fiscal year 2008, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title ;
-    - **(E)** $88,900,000 for fiscal year 2009, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title ;
-    - **(F)** $83,403,000 for fiscal year 2019, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title ; 1
-    - **(G)** $83,403,000 for fiscal year 2020, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title ; 1
-    - **(H)** $83,403,000 for fiscal year 2021, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title ; 1
-    - **(I)** $83,403,000 for fiscal year 2022, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title ; 1 and
-    - **(J)** $83,403,000 for fiscal year 2023, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title . 1
+    - **(A)** $77,000,000 for fiscal year 2005, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under section 7707 of this title ;
+    - **(B)** $84,410,000 for fiscal year 2006, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under section 7707 of this title ;
+    - **(C)** $85,860,000 for fiscal year 2007, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under section 7707 of this title ;
+    - **(D)** $87,360,000 for fiscal year 2008, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under section 7707 of this title ; and
+    - **(E)** $88,900,000 for fiscal year 2009, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under section 7707 of this title .
 - **(c)**
   - **(1)** To enable the Foundation to carry out responsibilities that may be assigned to it under this chapter, there are authorized to be appropriated to the Foundation not to exceed $27,500,000 for the fiscal year ending September 30, 1978 ; not to exceed $35,000,000 for the fiscal year ending September 30, 1979 ; not to exceed $40,000,000 for the fiscal year ending September 30, 1980 ; $26,600,000 for the fiscal year ending September 30, 1981 ; $27,150,000 for the fiscal year ending September 30, 1982 ; $25,000,000 for the fiscal year ending September 30, 1983 ; $25,800,000 for the fiscal year ending September 30, 1984 ; $28,665,000 for the fiscal year ending September 30, 1985 2 $27,760,000 for the fiscal year ending September 30, 1986 ; $29,009,000 for the fiscal year ending September 30, 1987 ; $28,235,000 for the fiscal year ending September 30, 1988 ; $31,634,000 for the fiscal year ending September 30, 1989 ; $38,454,000 for the fiscal year ending September 30, 1990 . Of the amounts authorized for Engineering under section 101(d)(1)(B) of the National Science Foundation Authorization Act of 1988, $24,000,000 is authorized for carrying out this chapter for the fiscal year ending September 30, 1991 , and of the amounts authorized for Geosciences 3 3 So in original. Probably should not be capitalized. under section 101(d)(1)(D) of the National Science Foundation Authorization Act of 1988, $13,000,000 is authorized for carrying out this chapter for the fiscal year ending September 30, 1991 . Of the amounts authorized for Research and Related Activities under section 101(e)(1) of the National Science Foundation Authorization Act of 1988, $29,000,000 is authorized for engineering research under this chapter, and $14,750,000 is authorized for geosciences research under this chapter, for the fiscal year ending September 30, 1992 . Of the amounts authorized for Research and Related Activities under section 101(f)(1) of the National Science Foundation Authorization Act of 1988, $34,500,000 is authorized for engineering research under this chapter, and $17,500,000 is authorized for geosciences research under this chapter, for the fiscal year ending September 30, 1993 . There are authorized to be appropriated, out of funds otherwise authorized to be appropriated to the National Science Foundation: (1) $16,200,000 for engineering research and $10,900,000 for geosciences research for the fiscal year ending September 30, 1995 , (2) $16,686,000 for engineering research and $11,227,000 for geosciences research for the fiscal year ending September 30, 1996 , (3) $18,450,000 for engineering research and $11,920,000 for geosciences research for the fiscal year ending September 30, 1998 , (4) $19,000,000 for engineering research and $12,280,000 for geosciences research for the fiscal year ending September 30, 1999 . There are authorized to be appropriated to the National Science Foundation $19,000,000 for engineering research and $11,900,000 for geosciences research for fiscal year 2001; $19,808,000 for engineering research and $12,406,000 for geosciences research for fiscal year 2002; and $20,650,000 for engineering research and $12,933,000 for geosciences research for fiscal year 2003.
   - **(2)** There are authorized to be appropriated to the National Science Foundation for carrying out this chapter—
     - **(A)** $38,000,000 for fiscal year 2005;
     - **(B)** $39,140,000 for fiscal year 2006;
     - **(C)** $40,310,000 for fiscal year 2007;
-    - **(D)** $41,520,000 for fiscal year 2008;
-    - **(E)** $42,770,000 for fiscal year 2009;
-    - **(F)** $54,000,000 for fiscal year 2019,
-    - **(G)** $54,000,000 for fiscal year 2020,
-    - **(H)** $54,000,000 for fiscal year 2021,
-    - **(I)** $54,000,000 for fiscal year 2022, and
-    - **(J)** $54,000,000 for fiscal year 2023.
+    - **(D)** $41,520,000 for fiscal year 2008; and
+    - **(E)** $42,770,000 for fiscal year 2009.
 - **(d)**
   - **(1)** To enable the National Institute of Standards and Technology to carry out responsibilities that may be assigned to it under this chapter, there are authorized to be appropriated $425,000 for the fiscal year ending September 30, 1981 ; $425,000 for the fiscal year ending September 30, 1982 ; $475,000 for the fiscal year ending September 30, 1983 ; $475,000 for the fiscal year ending September 30, 1984 ; $498,750 for the fiscal year ending September 30, 1985 2 $499,000 for the fiscal year ending September 30, 1986 ; $521,000 for the fiscal year ending September 30, 1987 ; $525,000 for the fiscal year ending September 30, 1988 ; $525,000 for the fiscal year ending September 30, 1989 ; $2,525,000 for the fiscal year ending September 30, 1990 ; $1,000,000 for the fiscal year ending September 30, 1991 ; $3,000,000 for the fiscal year ending September 30, 1992 ; and $4,750,000 for the fiscal year ending September 30, 1993 . There are authorized to be appropriated, out of funds otherwise authorized to be appropriated to the National Institute of Standards and Technology, $1,900,000 for the fiscal year ending September 30, 1995 , $1,957,000 for the fiscal year ending September 30, 1996 , $2,000,000 for the fiscal year ending September 30, 1998 , $2,060,000 for the fiscal year ending September 30, 1999 , $2,332,000 for fiscal year 2001, $2,431,000 for fiscal year 2002, and $2,534,300 for fiscal year 2003.
   - **(2)** There are authorized to be appropriated to the National Institute of Standards and Technology for carrying out this chapter—
     - **(A)** $10,000,000 for fiscal year 2005,
     - **(B)** $11,000,000 for fiscal year 2006,
     - **(C)** $12,100,000 for fiscal year 2007,
-    - **(D)** $13,310,000 for fiscal year 2008,
+    - **(D)** $13,310,000 for fiscal year 2008, and
     - **(E)** $14,640,000 for fiscal year 2009,
-    - **(F)** $5,900,000 for fiscal year 2019,
-    - **(G)** $5,900,000 for fiscal year 2020,
-    - **(H)** $5,900,000 for fiscal year 2021,
-    - **(I)** $5,900,000 for fiscal year 2022, and
-    - **(J)** $5,900,000 for fiscal year 2023. 4 4 So in original. The period probably should be a comma.

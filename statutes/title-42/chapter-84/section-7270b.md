@@ -3,12 +3,12 @@ title: "Section 7270b - Trespass on Strategic Petroleum Reserve facilities"
 usc_title: 42
 usc_section: "7270b"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7270b"
-generated_at: "2026-03-29T02:15:36.889Z"
+generated_at: "2026-03-29T17:53:35.458Z"
 ---
 
 # § 7270b. Trespass on Strategic Petroleum Reserve facilities
 
 - **(a)** The Secretary may issue regulations relating to the entry upon or carrying, transporting, or otherwise introducing or causing to be introduced any dangerous weapon, explosive, or other dangerous instrument or material likely to produce substantial injury or damage to persons or property into or onto the Strategic Petroleum Reserve, its storage or related facilities, or real property subject to the jurisdiction, administration, or in the custody of the Secretary under part B of title I of the Energy Policy and Conservation Act ( 42 U.S.C. 6231–624 7). The Secretary shall post conspicuously, on the property subject to the regulations, notification that the property is subject to the regulations.
-- **(b)** Whoever willfully violates a regulation of the Secretary issued under subsection (a) shall be guilty of a misdemeanor and punished upon conviction by a fine of not more than $5,000, imprisonment for not more than one year, or both.
+- **(b)** Whoever willfully violates a regulation of the Secretary issued under subsection (a) of this section shall be guilty of a misdemeanor and punished upon conviction by a fine of not more than $5,000, imprisonment for not more than one year, or both.

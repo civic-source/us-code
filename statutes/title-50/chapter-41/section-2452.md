@@ -3,9 +3,9 @@ title: "Section 2452 - Planning, programming, and budgeting process"
 usc_title: 50
 usc_section: "2452"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2452"
-generated_at: "2026-03-29T02:16:14.748Z"
+generated_at: "2026-03-29T17:53:51.014Z"
 ---
 
 # § 2452. Planning, programming, and budgeting process
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:16:14.748Z"
   - **(1)** Each year, the Administrator shall prepare a plan for the obligation of the amounts that, in the President’s budget submitted to Congress that year under section 1105(a) of title 31 , are proposed to be appropriated for the Administration for the fiscal year that begins in that year (in this section referred to as the “budget year”) and the two succeeding fiscal years.
   - **(2)** For each program element and construction line item of the Administration, the plan shall provide the goal of the Administration for the obligation of those amounts for that element or item for each fiscal year of the plan, expressed as a percentage of the total amount proposed to be appropriated in that budget for that element or item.
 - **(c)** The Administrator shall submit to Congress each year, at or about the time that the President’s budget is submitted to Congress under section 1105(a) of title 31 , each of the following:
-  - **(1)** The plan required by subsection (b) prepared with respect to that budget.
+  - **(1)** The plan required by subsection (b) of this section prepared with respect to that budget.
   - **(2)** A report on the plans prepared with respect to the preceding years’ budgets, which shall include, for each goal provided in those plans—
     - **(A)** the assessment of the Administrator as to whether or not that goal was met; and
     - **(B)** if that assessment is that the goal was not met—

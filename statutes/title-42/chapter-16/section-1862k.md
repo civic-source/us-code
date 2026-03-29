@@ -3,9 +3,9 @@ title: "Section 1862k - Findings; core strategies"
 usc_title: 42
 usc_section: "1862k"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1862k"
-generated_at: "2026-03-29T02:15:36.525Z"
+generated_at: "2026-03-29T17:53:35.004Z"
 ---
 
 # § 1862k. Findings; core strategies
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T02:15:36.525Z"
       - **(i)** enable the United States to maintain a position of world leadership in all aspects of science, mathematics, engineering, and technology;
       - **(ii)** promote the discovery, integration, dissemination, and application of new knowledge in service to society; and
       - **(iii)** achieve excellence in United States science, mathematics, engineering, and technology education at all levels.
-- **(b)** In carrying out activities designed to achieve the goals described in subsection (a), the Foundation shall use the following core strategies:
+- **(b)** In carrying out activities designed to achieve the goals described in subsection (a) of this section, the Foundation shall use the following core strategies:
   - **(1)** Develop intellectual capital, both people and ideas, with particular emphasis on groups and regions that traditionally have not participated fully in science, mathematics, and engineering.
   - **(2)** Strengthen the scientific infrastructure by investing in facilities planning and modernization, instrument acquisition, instrument design and development, and shared-use research platforms.
   - **(3)** Integrate research and education through activities that emphasize and strengthen the natural connections between learning and inquiry.

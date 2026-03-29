@@ -3,9 +3,9 @@ title: "Section 7254 - Rules and regulations"
 usc_title: 42
 usc_section: "7254"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7254"
-generated_at: "2026-03-29T02:15:36.884Z"
+generated_at: "2026-03-29T17:53:35.455Z"
 ---
 
 # § 7254. Rules and regulations

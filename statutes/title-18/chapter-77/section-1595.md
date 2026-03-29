@@ -3,9 +3,9 @@ title: "Section 1595 - Civil remedy"
 usc_title: 18
 usc_section: "1595"
 chapter: 77
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 1595"
-generated_at: "2026-03-29T17:53:15.651Z"
+generated_at: "2026-03-29T17:53:59.626Z"
 ---
 
 # § 1595. Civil remedy
@@ -14,4 +14,6 @@ generated_at: "2026-03-29T17:53:15.651Z"
 - **(b)**
   - **(1)** Any civil action filed under this section shall be stayed during the pendency of any criminal action arising out of the same occurrence in which the claimant is the victim.
   - **(2)** In this subsection, a “criminal action” includes investigation and prosecution and is pending until final adjudication in the trial court.
-- **(c)** No action may be maintained under this section unless it is commenced not later than 10 years after the cause of action arose.
+- **(c)** No action may be maintained under this section unless it is commenced not later than the later of—
+  - **(1)** 10 years after the cause of action arose; or
+  - **(2)** 10 years after the victim reaches 18 years of age, if the victim was a minor at the time of the alleged offense.

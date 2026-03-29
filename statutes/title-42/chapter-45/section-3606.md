@@ -3,9 +3,9 @@ title: "Section 3606 - Discrimination in the provision of brokerage services"
 usc_title: 42
 usc_section: "3606"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3606"
-generated_at: "2026-03-29T02:15:36.676Z"
+generated_at: "2026-03-29T17:53:35.182Z"
 ---
 
 # § 3606. Discrimination in the provision of brokerage services

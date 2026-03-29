@@ -3,12 +3,12 @@ title: "Section 239c - Medical benefits"
 usc_title: 42
 usc_section: "239c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 239c"
-generated_at: "2026-03-29T02:15:35.573Z"
+generated_at: "2026-03-29T17:53:34.054Z"
 ---
 
 # § 239c. Medical benefits
 
 - **(a)** Subject to the succeeding provisions of this section, the Secretary shall make payment or reimbursement for medical items and services as reasonable and necessary to treat a covered injury of an eligible individual, including the services, appliances, and supplies prescribed or recommended by a qualified physician, which the Secretary considers likely to cure, give relief, reduce the degree or the period of disability, or aid in lessening the amount of monthly compensation.
-- **(b)** Payment or reimbursement for services or benefits under subsection (a) shall be secondary to any obligation of the United States or any third party (including any State or local governmental entity, private insurance carrier, or employer) under any other provision of law or contractual agreement, to pay for or provide such services or benefits.
+- **(b)** Payment or reimbursement for services or benefits under subsection (a) of this section shall be secondary to any obligation of the United States or any third party (including any State or local governmental entity, private insurance carrier, or employer) under any other provision of law or contractual agreement, to pay for or provide such services or benefits.

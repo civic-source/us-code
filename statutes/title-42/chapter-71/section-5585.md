@@ -1,0 +1,23 @@
+---
+title: "Section 5585 - Contracts, grants and arrangements"
+usc_title: 42
+usc_section: "5585"
+chapter: 71
+current_through: "PL 113-100"
+classification: "42 U.S.C. § 5585"
+generated_at: "2026-03-29T17:53:35.329Z"
+---
+
+# § 5585. Contracts, grants and arrangements
+
+- **(a)** The Secretary is authorized to select on the basis of open competitions—
+  - **(1)** a number of readily available photovoltaic components and systems;
+  - **(2)** a number of design concepts for various types of applications which demonstrate adaptability to the utilization of photovoltaic components and systems; and
+  - **(3)** a number of designs for applications selected under paragraph (2), so that each design includes specific provisions for the utilization of solar photovoltaic components and systems selected under paragraph (1).
+- **(b)** The Secretary, in accordance with the applicable provisions of sections 5906, 5907, and 5908 of this title and with such program guidelines as the Secretary may establish, shall—
+  - **(1)** enter into such contracts and grants as may be necessary or appropriate for the development for commercial production and utilization of photovoltaic components and systems, including any further planning and design which may be required to conform with the specifications set forth in any applicable criteria;
+  - **(2)** select, as being compatible with the design concepts chosen under subsection (a)(2) of this section, a reasonable number of photovoltaic components and systems; and
+  - **(3)** enter into contracts with a number of persons or firms for the procurement of photovoltaic components and systems, including adequate numbers of spare and replacement parts for such systems.
+- **(c)** The Secretary is authorized to award contracts for the design integration between the application concepts and the photovoltaic systems procured by the Secretary under subsection (b)(3) of this section, and for the demonstration of prototype solar photovoltaic systems, and, when appropriate, for the utilization of such systems in existing facilities. Title to and ownership of the facilities so constructed and of photovoltaic systems installed hereunder may be conveyed to purchasers of such facilities under terms and conditions prescribed by the Secretary, including an express agreement that any such purchaser shall, in such manner and form and on such terms and conditions as the Secretary may prescribe, observe and monitor (or permit the Secretary to observe and monitor) the performance and operation of such systems for a period of five years, and that such purchaser (including any subsequent owner) shall regularly furnish the Secretary with such reports thereon as the agreement may require.
+- **(d)** The Secretary, in consultation with the Administrator of General Services or the Secretary of Defense or both (as may be appropriate) shall enter into arrangements with appropriate Federal agencies concurrently with the conduct of the programs under this section and section 5586 of this title , to carry out such projects and activities (including demonstration projects), with respect to Federal buildings and facilities, as may be appropriate for the demonstration of photovoltaic systems suitable and effective for use in such applications.
+- **(e)** The Secretary shall, as he deems appropriate, undertake any projects or activities (including demonstration projects) to further the attainment of the objectives of this section.

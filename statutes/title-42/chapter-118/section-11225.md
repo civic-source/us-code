@@ -3,9 +3,9 @@ title: "Section 11225 - The National Alzheimer’s Project"
 usc_title: 42
 usc_section: "11225"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 11225"
-generated_at: "2026-03-29T02:15:37.152Z"
+generated_at: "2026-03-29T17:53:35.726Z"
 ---
 
 # § 11225. The National Alzheimer’s Project
@@ -14,20 +14,18 @@ generated_at: "2026-03-29T02:15:37.152Z"
 - **(b)** There is established in the Office of the Secretary of Health and Human Services the National Alzheimer’s Project (referred to in this Act as the “Project”).
 - **(c)** The Secretary of Health and Human Services, or the Secretary’s designee, shall—
   - **(1)** be responsible for the creation and maintenance of an integrated national plan to overcome Alzheimer’s;
-  - **(2)** provide information on, and coordination of, Alzheimer’s research and services across all Federal agencies;
+  - **(2)** provide information and coordination of Alzheimer’s research and services across all Federal agencies;
   - **(3)** accelerate the development of treatments that would prevent, halt, or reverse the course of Alzheimer’s;
   - **(4)** improve the—
-    - **(A)** promotion of healthy aging and reduction and mitigation of risk factors for Alzheimer’s;
-    - **(B)** early diagnosis of Alzheimer’s disease; and
-    - **(C)** coordination of the care and treatment of citizens with Alzheimer’s;
-  - **(5)** ensure the inclusion of ethnic and racial populations and other underserved populations, including individuals with developmental disabilities such as Down syndrome, at higher risk for Alzheimer’s or least likely to receive care, in clinical, research, and service efforts with the purpose of decreasing health disparities in Alzheimer’s;
-  - **(6)** provide information on, and promote the adoption of, healthy behaviors that may reduce the risk of cognitive decline and promote and protect cognitive health; and
-  - **(7)** coordinate with international bodies to integrate and inform the fight against Alzheimer’s globally.
+    - **(A)** early diagnosis of Alzheimer’s disease; and
+    - **(B)** coordination of the care and treatment of citizens with Alzheimer’s;
+  - **(5)** ensure the inclusion of ethnic and racial populations at higher risk for Alzheimer’s or least likely to receive care, in clinical, research, and service efforts with the purpose of decreasing health disparities in Alzheimer’s; and
+  - **(6)** coordinate with international bodies to integrate and inform the fight against Alzheimer’s globally.
 - **(d)**
   - **(1)** The Secretary of Health and Human Services, or the Secretary’s designee, shall—
     - **(A)** oversee the creation and updating of the national plan described in paragraph (2); and
     - **(B)** use discretionary authority to evaluate all Federal programs around Alzheimer’s, including budget requests and approvals.
-  - **(2)** The Secretary of Health and Human Services, or the Secretary’s designee, shall carry out an annual assessment of the Nation’s progress, across public and private sectors, in preparing for the escalating burden of Alzheimer’s, including both implementation steps and recommendations for priority actions based on the assessment, including consideration of public-private collaborations, as appropriate.
+  - **(2)** The Secretary of Health and Human Services, or the Secretary’s designee, shall carry out an annual assessment of the Nation’s progress in preparing for the escalating burden of Alzheimer’s, including both implementation steps and recommendations for priority actions based on the assessment.
 - **(e)**
   - **(1)** There is established an Advisory Council on Alzheimer’s Research, Care, and Services (referred to in this Act as the “Advisory Council”).
   - **(2)**
@@ -42,45 +40,36 @@ generated_at: "2026-03-29T02:15:37.152Z"
       - **(viii)** A designee of the Department of Veterans Affairs.
       - **(ix)** A designee of the Food and Drug Administration.
       - **(x)** A designee of the Agency for Healthcare Research and Quality.
-      - **(xi)** A designee of the Department of Justice.
-      - **(xii)** A designee of the Federal Emergency Management Agency.
-      - **(xiii)** A designee of the Social Security Administration.
-      - **(xiv)** 2 or more other designees, as determined by the Secretary of Health and Human Services, at least one of whom has expertise in risk factors associated with the development or the progression of Alzheimer’s.
-    - **(B)** In addition to the members outlined in subparagraph (A), the Advisory Council shall include 15 expert members from outside the Federal Government, which shall include—
+    - **(B)** In addition to the members outlined in subparagraph (A), the Advisory Council shall include 12 expert members from outside the Federal Government, which shall include—
       - **(i)** 2 Alzheimer’s patient advocates;
       - **(ii)** 2 Alzheimer’s caregivers;
       - **(iii)** 2 health care providers;
       - **(iv)** 2 representatives of State health departments;
-      - **(v)** 3 researchers with Alzheimer’s-related expertise in basic, translational, clinical, or drug development science, including at least one researcher with demonstrated experience in recruitment and retention of underrepresented groups into research or clinical trials related to dementia;
-      - **(vi)** 2 voluntary health association representatives, including a national Alzheimer’s disease organization that has demonstrated experience in research, care, and patient services, and a State-based advocacy organization that provides services to families and professionals, including information and referral, support groups, care consultation, education, and safety services;
-      - **(vii)** 1 individual with a diagnosis of Alzheimer’s disease; and
-      - **(viii)** 1 representative from a historically underserved population whose lifetime risk for developing Alzheimer’s is markedly higher than that of other populations.
+      - **(v)** 2 researchers with Alzheimer’s-related expertise in basic, translational, clinical, or drug development science; and
+      - **(vi)** 2 voluntary health association representatives, including a national Alzheimer’s disease organization that has demonstrated experience in research, care, and patient services, and a State-based advocacy organization that provides services to families and professionals, including information and referral, support groups, care consultation, education, and safety services.
   - **(3)** The Advisory Council shall meet quarterly and such meetings shall be open to the public.
   - **(4)** The Advisory Council shall advise the Secretary of Health and Human Services, or the Secretary’s designee.
   - **(5)** The Advisory Council shall provide to the Secretary of Health and Human Services, or the Secretary’s designee and Congress—
-    - **(A)** annual evaluations of all federally funded efforts in Alzheimer’s research, risk reduction, public health, clinical care, and institutional-, home-, and community-based programs and their outcomes;
-    - **(B)** recommendations for priority actions to expand, eliminate, coordinate, or condense programs based on the program’s performance, mission, and purpose;
-    - **(C)** recommendations to—
+    - **(A)** an initial evaluation of all federally funded efforts in Alzheimer’s research, clinical care, and institutional-, home-, and community-based programs and their outcomes;
+    - **(B)** initial recommendations for priority actions to expand, eliminate, coordinate, or condense programs based on the program’s performance, mission, and purpose;
+    - **(C)** initial recommendations to—
       - **(i)** reduce the financial impact of Alzheimer’s on—
         - **(I)** Medicare and other federally funded programs; and
         - **(II)** families living with Alzheimer’s disease; and
-      - **(ii)** improve health outcomes and reduce disparities; and
-    - **(D)** annual evaluations of the implementation, including outcomes, of the recommendations, including priorities if necessary, through an updated national plan under subsection (d)(2).
-  - **(6)** The Advisory Council shall terminate on December 31, 2035 .
+      - **(ii)** improve health outcomes; and
+    - **(D)** annually thereafter, an evaluation of the implementation, including outcomes, of the recommendations, including priorities if necessary, through an updated national plan under subsection (d)(2).
+  - **(6)** The Advisory Council shall terminate on December 31, 2025 .
 - **(f)** Agencies both within the Department of Health and Human Services and outside of the Department that have data relating to Alzheimer’s shall share such data with the Secretary of Health and Human Services, or the Secretary’s designee, to enable the Secretary, or the Secretary’s designee, to complete the report described in subsection (g).
 - **(g)** The Secretary of Health and Human Services, or the Secretary’s designee, shall submit to Congress—
-  - **(1)** an annual report that includes—
-    - **(A)** an evaluation; 1 1 So in original. The semicolon probably should not appear. of all federally funded efforts in Alzheimer’s research, clinical care, and institutional-, home-, and community-based programs and their outcomes; and
-    - **(B)** a summary of the Secretary’s process for identifying and updating what conditions constitute Alzheimer’s disease;
+  - **(1)** an annual report that includes an evaluation of all federally funded efforts in Alzheimer’s research, clinical care, and institutional-, home-, and community-based programs and their outcomes;
   - **(2)** an evaluation of all federally funded programs based on program performance, mission, and purpose related to Alzheimer’s disease;
   - **(3)** recommendations for—
     - **(A)** priority actions based on the evaluation conducted by the Secretary and the Advisory Council to—
       - **(i)** reduce the financial impact of Alzheimer’s on—
         - **(I)** Medicare and other federally funded programs; and
         - **(II)** families living with Alzheimer’s disease; and
-      - **(ii)** improve health outcomes and reduce disparities;
+      - **(ii)** improve health outcomes;
     - **(B)** implementation steps; and
     - **(C)** priority actions to improve the prevention, diagnosis, treatment, care, institutional-, home-, and community-based programs of Alzheimer’s disease for individuals with Alzheimer’s disease and their caregivers; and
   - **(4)** an annually updated national plan.
-- **(h)** For fiscal year 2024 and each subsequent fiscal year, the Director of the National Institutes of Health shall prepare and submit, directly to the President for review and transmittal to Congress, after reasonable opportunity for comment, but without change, by the Secretary of Health and Human Services and the Advisory Council, an annual budget estimate for the initiatives of the National Institutes of Health pursuant to the reports and recommendations made under this Act, including an estimate of the number and type of personnel needs for the National Institutes of Health.
-- **(i)** The Project shall expire on December 31, 2035 .
+- **(h)** The Project shall expire on December 31, 2025 .

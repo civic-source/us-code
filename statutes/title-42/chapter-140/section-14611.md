@@ -1,12 +1,19 @@
 ---
-title: "Section 14611 - Transferred"
+title: "Section 14611 - Findings"
 usc_title: 42
 usc_section: "14611"
 chapter: 140
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 14611"
-generated_at: "2026-03-29T02:15:37.282Z"
+generated_at: "2026-03-29T17:53:35.911Z"
 ---
 
-# § 14611. Transferred
+# § 14611. Findings
 
+Congress finds that—
+
+  - **(1)** both the Federal Bureau of Investigation and State criminal history record repositories maintain fingerprint-based criminal history records;
+  - **(2)** these criminal history records are shared and exchanged for criminal justice purposes through a Federal-State program known as the Interstate Identification Index System;
+  - **(3)** although these records are also exchanged for legally authorized, noncriminal justice uses, such as governmental licensing and employment background checks, the purposes for and procedures by which they are exchanged vary widely from State to State;
+  - **(4)** an interstate and Federal-State compact is necessary to facilitate authorized interstate criminal history record exchanges for noncriminal justice purposes on a uniform basis, while permitting each State to effectuate its own dissemination policy within its own borders; and
+  - **(5)** such a compact will allow Federal and State records to be provided expeditiously to governmental and nongovernmental agencies that use such records in accordance with pertinent Federal and State law, while simultaneously enhancing the accuracy of the records and safeguarding the information contained therein from unauthorized disclosure or use.

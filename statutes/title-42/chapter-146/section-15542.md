@@ -1,12 +1,23 @@
 ---
-title: "Section 15542 - Transferred"
+title: "Section 15542 - Audits and repayment of funds"
 usc_title: 42
 usc_section: "15542"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 15542"
-generated_at: "2026-03-29T02:15:37.301Z"
+generated_at: "2026-03-29T17:53:35.949Z"
 ---
 
-# § 15542. Transferred
+# § 15542. Audits and repayment of funds
 
+- **(a)** Each recipient of a grant or other payment made under this chapter shall keep such records with respect to the payment as are consistent with sound accounting principles, including records which fully disclose the amount and disposition by such recipient of funds, the total cost of the project or undertaking for which such funds are used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+- **(b)**
+  - **(1)** Except as provided in paragraph (5), each office making a grant or other payment under this chapter, or any duly authorized representative of such office, may audit or examine any recipient of the grant or payment and shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient which in the opinion of the entity may be related or pertinent to the grant or payment.
+  - **(2)** The provisions of this section shall apply to all recipients of grants or other payments under this chapter, whether by direct grant, cooperative agreement, or contract under this chapter or by subgrant or subcontract from primary grantees or contractors under this chapter.
+  - **(3)** In addition to audits conducted pursuant to paragraph (1), all funds provided under this chapter shall be subject to mandatory audit by the Comptroller General at least once during the lifetime of the program involved. For purposes of an audit under this paragraph, the Comptroller General shall have access to books, documents, papers, and records of recipients of funds in the same manner as the office making the grant or payment involved has access to such books, documents, papers, and records under paragraph (1).
+  - **(4)** With respect to any grant or payment made under this chapter by the Administrator of General Services, the Election Assistance Commission shall be deemed to be the office making the grant or payment for purposes of this section.
+  - **(5)** In the case of grants or payments made under section 15401 of this title , audits and examinations conducted under paragraph (1) shall be performed on a regular basis (as determined by the Commission).
+  - **(6)** In addition to the audits described in paragraph (1), the Election Assistance Commission may conduct a special audit or special examination of a recipient described in paragraph (1) upon a vote of the Commission.
+- **(c)** If the Comptroller General determines as a result of an audit conducted under subsection (b) of this section that—
+  - **(1)** a recipient of funds under this chapter is not in compliance with each of the requirements of the program under which the funds are provided; or
+  - **(2)** an excess payment has been made to the recipient under the program,

@@ -3,9 +3,9 @@ title: "Section 1405q - Laws continued in force until modified; patent, trade ma
 usc_title: 48
 usc_section: "1405q"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "48 U.S.C. § 1405q"
-generated_at: "2026-03-29T02:16:00.802Z"
+generated_at: "2026-03-29T17:53:42.696Z"
 ---
 
 # § 1405q. Laws continued in force until modified; patent, trade mark, and copyright laws extended to Virgin Islands; jurisdiction of district court

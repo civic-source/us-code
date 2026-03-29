@@ -3,9 +3,9 @@ title: "Section 40c - Comprehensive plan for expenditure of appropriations"
 usc_title: 42
 usc_section: "40c"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 40c"
-generated_at: "2026-03-29T02:15:35.866Z"
+generated_at: "2026-03-29T17:53:34.352Z"
 ---
 
 # § 300cc–40c. Comprehensive plan for expenditure of appropriations
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T02:15:35.866Z"
       - **(iii)** Such other budget estimates as the Director of the Office determines to be appropriate.
 - **(d)**
   - **(1)** For the purpose of carrying out AIDS activities under the Plan, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 1996.
-  - **(2)** For the first fiscal year beginning after the date on which the Plan first established under subsection (a)(1) has been in effect for 12 months, and for each subsequent fiscal year, the Director of the Office shall receive directly from the President and the Director of the Office of Management and Budget all funds available for AIDS activities of the National Institutes of Health.
+  - **(2)** For the first fiscal year beginning after the date on which the Plan first established under subsection (a)(1) of this section has been in effect for 12 months, and for each subsequent fiscal year, the Director of the Office shall receive directly from the President and the Director of the Office of Management and Budget all funds available for AIDS activities of the National Institutes of Health.
   - **(3)**
-    - **(A)** Each fiscal year the Director of the Office shall, from the amounts received under paragraph (2) for the fiscal year, allocate to the agencies of the National Institutes of Health (in accordance with the Plan) all amounts available for such year for carrying out the AIDS activities specified in subsection (c)(2)(B)(ii)(I) for such year. Such allocation shall, to the extent practicable, be made not later than 15 days after the date on which the Director receives amounts under paragraph (2).
+    - **(A)** Each fiscal year the Director of the Office shall, from the amounts received under paragraph (2) for the fiscal year, allocate to the agencies of the National Institutes of Health (in accordance with the Plan) all amounts available for such year for carrying out the AIDS activities specified in subsection (c)(2)(B)(ii)(I) of this section for such year. Such allocation shall, to the extent practicable, be made not later than 15 days after the date on which the Director receives amounts under paragraph (2).
     - **(B)** Each fiscal year the Director of the Office shall, from the amounts received under paragraph (2) for the fiscal year, allocate to the agencies of the National Institutes of Health (in accordance with the Plan) all amounts available for such year for carrying out AIDS activities that are not referred to in subparagraph (A). Such allocation shall, to the extent practicable, be made not later than 30 days after the date on which the Director receives amounts under paragraph (2).

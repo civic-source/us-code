@@ -3,9 +3,9 @@ title: "Section 8235c - Approval of applications for plans for prototype residen
 usc_title: 42
 usc_section: "8235c"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 8235c"
-generated_at: "2026-03-29T02:15:37.009Z"
+generated_at: "2026-03-29T17:53:35.576Z"
 ---
 
 # § 8235c. Approval of applications for plans for prototype residential energy efficiency programs
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:15:37.009Z"
     - **(B)** by the State regulatory authority having ratemaking authority over such public utility, in the case of a regulated utility; and
     - **(C)** by the Governor (or any State agency specifically authorized under State law to approve such plans) of the State whose government is submitting the application (if the application is submitted by a State government) or of the State in which the local government is located (if the application is submitted by a local government); and
   - **(2)** the application has been published, a public hearing on the application has been conducted, after notice to the public, at which representatives of the public utility which is to enter into the contract under the plan, persons engaged in the supply or installation of residential energy conservation measures, and members of the public (including ratepayers of such public utility and other interested individuals) had an opportunity to provide comment on the application, and any amendments to the application, which may be made to take into account the proceedings of the hearing, are made.
-- **(b)** The Secretary shall take into consideration in approving an application under subsection (a) for a plan establishing a prototype residential energy efficiency program—
+- **(b)** The Secretary shall take into consideration in approving an application under subsection (a) of this section for a plan establishing a prototype residential energy efficiency program—
   - **(1)** the potential for energy savings from the demonstration of the program;
   - **(2)** the likelihood that the value of the energy saved by public utilities under the program will be sufficient to cover the estimated cost of the energy conservation measures to be supplied and installed under the program;
   - **(3)** the anticipated effects of the program on competition in the portion of the service area of the public utility designated in the contract entered into under the plan; and

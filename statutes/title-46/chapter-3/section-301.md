@@ -1,20 +1,30 @@
 ---
-title: "Section 301 - Automatic execution of conforming changes"
+title: "Section 301 - General organization"
 usc_title: 46
 usc_section: "301"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 301"
-generated_at: "2026-03-29T02:15:53.703Z"
+generated_at: "2026-03-29T17:53:41.779Z"
 ---
 
-# § 301. Automatic execution of conforming changes
+# § 301. General organization
 
-- **(a)** When an amendment to a covered maritime law adds a section or larger organizational unit to the covered maritime law, repeals or transfers a section or larger organizational unit in the covered maritime law, or amends the designation or heading of a section or larger organizational unit in the covered maritime law, that amendment also shall have the effect of amending any analysis, table of contents, or similar tabular entries in the covered maritime law to alter the table to conform to the changes made by the amendment.
-- **(b)** Subsection (a) shall not apply to an amendment described in such subsection when—
-  - **(1)** the amendment or a clerical amendment enacted at the same time expressly amends a table of sections, table of contents, or similar tabular entries in the covered maritime law to alter the table to conform to the changes made by the amendment; or
-  - **(2)** the amendment otherwise expressly exempts itself from the operation of this section.
-- **(c)** In this section, the term “covered maritime law” means—
-  - **(1)** this title;
-  - **(2)** any Maritime Administration authorization Act that authorizes funds to be appropriated for a fiscal year to the Maritime Administration; and
-  - **(3)** any other law designated in the text thereof as a covered maritime law for purposes of application of this section.
+- **(a)** The Federal Maritime Commission is an independent establishment of the United States Government.
+- **(b)**
+  - **(1)** The Commission is composed of 5 Commissioners, appointed by the President by and with the advice and consent of the Senate. Not more than 3 Commissioners may be appointed from the same political party.
+  - **(2)** The term of each Commissioner is 5 years, with each term beginning one year apart. An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded. A vacancy shall be filled in the same manner as the original appointment. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified.
+  - **(3)** The President may remove a Commissioner for inefficiency, neglect of duty, or malfeasance in office.
+- **(c)**
+  - **(1)** The President shall designate one of the Commissioners as Chairman.
+  - **(2)** The Chairman is the chief executive and administrative officer of the Commission. In carrying out the duties and powers of the Commission (other than under paragraph (3)), the Chairman is subject to the policies, regulatory decisions, findings, and determinations of the Commission.
+  - **(3)**
+    - **(A)** The Chairman shall—
+      - **(i)** appoint and supervise officers and employees of the Commission;
+      - **(ii)** appoint the heads of major organizational units, but only after consultation with the other Commissioners;
+      - **(iii)** distribute the business of the Commission among personnel and organizational units;
+      - **(iv)** supervise the expenditure of money for administrative purposes; and
+      - **(v)** assign Commission personnel, including Commissioners, to perform duties and powers delegated by the Commission under section 304 of this title .
+    - **(B)** Subparagraph (A) (other than clause (v)) does not apply to personnel employed regularly and full-time in the offices of Commissioners other than the Chairman.
+  - **(4)** The Chairman may designate officers and employees under the Chairman’s jurisdiction to perform duties and powers of the Chairman, subject to the Chairman’s supervision and direction.
+- **(d)** The Commission shall have a seal which shall be judicially recognized.

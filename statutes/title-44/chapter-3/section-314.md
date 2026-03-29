@@ -3,12 +3,12 @@ title: "Section 314 - Inks, glues, and other supplies furnished to other Governm
 usc_title: 44
 usc_section: "314"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "44 U.S.C. § 314"
-generated_at: "2026-03-29T02:15:49.317Z"
+generated_at: "2026-03-29T17:53:10.489Z"
 ---
 
 # § 314. Inks, glues, and other supplies furnished to other Government agencies: payment
 
-Inks, glues, and other supplies manufactured by the Government Publishing Office in connection with its work may be furnished to departments and other establishments of the Government upon requisition, and payment made from appropriations available.
+Inks, glues, and other supplies manufactured by the Government Printing Office in connection with its work may be furnished to departments and other establishments of the Government upon requisition, and payment made from appropriations available.
 

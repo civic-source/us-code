@@ -3,9 +3,9 @@ title: "Section 1766 - Child and adult care food program"
 usc_title: 42
 usc_section: "1766"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1766"
-generated_at: "2026-03-29T02:15:36.500Z"
+generated_at: "2026-03-29T17:53:34.972Z"
 ---
 
 # § 1766. Child and adult care food program
@@ -23,13 +23,13 @@ generated_at: "2026-03-29T02:15:36.500Z"
     - **(B)** any other private organization providing nonresidential child care or day care outside school hours for school children, if—
       - **(i)** at least 25 percent of the children served by the organization meet the income eligibility criteria established under section 1758(b) of this title for free or reduced price meals; or
       - **(ii)** the organization receives compensation from amounts granted to the States under title XX of the Social Security Act ( 42 U.S.C. 1397 et seq.) (but only if the organization receives compensation under that title for at least 25 percent of its enrolled children or 25 percent of its licensed capacity, whichever is less);
-    - **(C)** any public or private nonprofit organization acting as a sponsoring organization for one or more of the organizations described in subparagraph (A) or (B) or for an adult day care center (as defined in subsection ( o )(2));
+    - **(C)** any public or private nonprofit organization acting as a sponsoring organization for one or more of the organizations described in subparagraph (A) or (B) or for an adult day care center (as defined in subsection ( o )(2) of this section);
     - **(D)** any other private organization acting as a sponsoring organization for, and that is part of the same legal entity as, one or more organizations that are—
       - **(i)** described in subparagraph (B); or
-      - **(ii)** proprietary title XIX or title XX centers (as defined in subsection ( o )(2));
+      - **(ii)** proprietary title XIX or title XX centers (as defined in subsection ( o )(2) of this section);
     - **(E)** any public or private nonprofit organization acting as a sponsoring organization for one or more family or group day care homes; and
-    - **(F)** any emergency shelter (as defined in subsection (t)).
-  - **(3)** Except as provided in subsection (r), reimbursement may be provided under this section only for meals or supplements served to children not over 12 years of age (except that such age limitation shall not be applicable for children of migrant workers if 15 years of age or less or for children with disabilities).
+    - **(F)** any emergency shelter (as defined in subsection (t) of this section).
+  - **(3)** Except as provided in subsection (r) of this section, reimbursement may be provided under this section only for meals or supplements served to children not over 12 years of age (except that such age limitation shall not be applicable for children of migrant workers if 15 years of age or less or for children with disabilities).
   - **(4)** The Secretary may establish separate guidelines for institutions that provide care to school children outside of school hours.
   - **(5)** In order to be eligible, an institution (except a school or family or group day care home sponsoring organization) or family or group day care home shall—
     - **(A)**
@@ -50,9 +50,9 @@ generated_at: "2026-03-29T02:15:36.500Z"
     - **(F)** in the case of a sponsoring organization that applies for initial participation in the program on or after June 20, 2000 , and that operates in a State that requires such institutions to be bonded under State law, regulation, or policy, the institution is bonded in accordance with such law, regulation, or policy.
 - **(b)** For the fiscal year ending September 30, 1979 , and for each subsequent fiscal year, the Secretary shall provide cash assistance to States for meals as provided in subsection (f) of this section, except that, in any fiscal year, the aggregate amount of assistance provided to a State by the Secretary under this section shall not exceed the sum of (1) the Federal funds provided by the State to participating institutions within the State for that fiscal year and (2) any funds used by the State under section 10 of the Child Nutrition Act of 1966 [ 42 U.S.C. 1779 ].
 - **(c)**
-  - **(1)** For purposes of this section, except as provided in subsection (f)(3), the national average payment rate for free lunches and suppers, the national average payment rate for reduced price lunches and suppers, and the national average payment rate for paid lunches and suppers shall be the same as the national average payment rates for free lunches, reduced price lunches, and paid lunches, respectively, under sections 1753 and 1759a of this title as appropriate (as adjusted pursuant to section 1759a(a) of this title ).
-  - **(2)** For purposes of this section, except as provided in subsection (f)(3), the national average payment rate for free breakfasts, the national average payment rate for reduced price breakfasts, and the national average payment rate for paid breakfasts shall be the same as the national average payment rates for free breakfasts, reduced price breakfasts, and paid breakfasts, respectively, under section 4(b) of the Child Nutrition Act of 1966 [ 42 U.S.C. 1773(b) ] (as adjusted pursuant to section 1759a(a) of this title ).
-  - **(3)** For purposes of this section, except as provided in subsection (f)(3), the national average payment rate for free supplements shall be 30 cents, the national average payment rate for reduced price supplements shall be one-half the rate for free supplements, and the national average payment rate for paid supplements shall be 2.75 cents (as adjusted pursuant to section 1759a(a) of this title ).
+  - **(1)** For purposes of this section, except as provided in subsection (f)(3) of this section, the national average payment rate for free lunches and suppers, the national average payment rate for reduced price lunches and suppers, and the national average payment rate for paid lunches and suppers shall be the same as the national average payment rates for free lunches, reduced price lunches, and paid lunches, respectively, under sections 1753 and 1759a of this title as appropriate (as adjusted pursuant to section 1759a(a) of this title ).
+  - **(2)** For purposes of this section, except as provided in subsection (f)(3) of this section, the national average payment rate for free breakfasts, the national average payment rate for reduced price breakfasts, and the national average payment rate for paid breakfasts shall be the same as the national average payment rates for free breakfasts, reduced price breakfasts, and paid breakfasts, respectively, under section 4(b) of the Child Nutrition Act of 1966 [ 42 U.S.C. 1773(b) ] (as adjusted pursuant to section 1759a(a) of this title ).
+  - **(3)** For purposes of this section, except as provided in subsection (f)(3) of this section, the national average payment rate for free supplements shall be 30 cents, the national average payment rate for reduced price supplements shall be one-half the rate for free supplements, and the national average payment rate for paid supplements shall be 2.75 cents (as adjusted pursuant to section 1759a(a) of this title ).
   - **(4)** Determinations with regard to eligibility for free and reduced price meals and supplements shall be made in accordance with the income eligibility guidelines for free lunches and reduced price lunches, respectively, under section 1758 of this title .
   - **(5)** A child shall be considered automatically eligible for benefits under this section without further application or eligibility determination, if the child is enrolled as a participant in a Head Start program authorized under the Head Start Act ( 42 U.S.C. 9831 et seq.), on the basis of a determination that the child meets the eligibility criteria prescribed under section 645(a)(1)(B) of the Head Start Act ( 42 U.S.C. 9840(a)(1)(B) ).
   - **(6)** A child who has not yet entered kindergarten shall be considered automatically eligible for benefits under this section without further application or eligibility determination if the child is enrolled as a participant in the Even Start program under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 2741 et seq.). 1 1 See References in Text note below.
@@ -119,12 +119,12 @@ generated_at: "2026-03-29T02:15:36.500Z"
       - **(i)** shall require an entity described in subparagraph (B) to undertake corrective action; and
       - **(ii)** may require the immediate suspension of operation of the program by an entity described in subparagraph (B), without the opportunity for corrective action, if the State agency determines that there is imminent threat to the health or safety of a participant at the entity or the entity engages in any activity that poses a threat to public health or safety.
     - **(D)**
-      - **(i)** Except as provided in clause (ii), an institution or family or group day care home shall be provided a fair hearing in accordance with subsection (e)(1) prior to any determination to terminate participation by the institution or family or group day care home under the program.
+      - **(i)** Except as provided in clause (ii), an institution or family or group day care home shall be provided a fair hearing in accordance with subsection (e)(1) of this section prior to any determination to terminate participation by the institution or family or group day care home under the program.
       - **(ii)**
         - **(I)** If a State agency determines that an institution has knowingly submitted a false or fraudulent claim for reimbursement, the State agency may suspend the participation of the institution in the program in accordance with this clause.
         - **(II)** Prior to any determination to suspend participation of an institution under subclause (I), the State agency shall provide for an independent review of the proposed suspension in accordance with subclause (III).
         - **(III)** The review shall—
-        - **(IV)** A State agency shall provide an institution that has been suspended from participation in the program under this clause an opportunity for a fair hearing on the suspension conducted in accordance with subsection (e)(1).
+        - **(IV)** A State agency shall provide an institution that has been suspended from participation in the program under this clause an opportunity for a fair hearing on the suspension conducted in accordance with subsection (e)(1) of this section.
     - **(E)**
       - **(i)** The Secretary shall maintain a list of institutions, sponsored family or group day care homes, and individuals that have been terminated or otherwise disqualified from participation in the program.
       - **(ii)** The Secretary shall make the list available to State agencies for use in approving or renewing applications by institutions, sponsored family or group day care homes, and individuals for participation in the program.
@@ -144,9 +144,9 @@ generated_at: "2026-03-29T02:15:36.500Z"
       - **(ii)** Amounts recovered under clause (i)—
         - **(I)** may be paid by the institution to the State over a period of one or more years; and
         - **(II)** shall not be paid from funds used to provide meals and supplements.
-      - **(iii)** An institution shall be provided a fair hearing in accordance with subsection (e)(1) prior to any determination to recover funds under this subparagraph.
+      - **(iii)** An institution shall be provided a fair hearing in accordance with subsection (e)(1) of this section prior to any determination to recover funds under this subparagraph.
   - **(2)**
-    - **(A)** Subject to subparagraph (B) of this paragraph, the disbursement for any fiscal year to any State for disbursement to institutions, other than family or group day care home sponsoring organizations, for meals provided under this section shall be equal to the sum of the products obtained by multiplying the total number of each type of meal (breakfast, lunch or supper, or supplement) served in such institution in that fiscal year by the applicable national average payment rate for each such type of meal, as determined under subsection (c).
+    - **(A)** Subject to subparagraph (B) of this paragraph, the disbursement for any fiscal year to any State for disbursement to institutions, other than family or group day care home sponsoring organizations, for meals provided under this section shall be equal to the sum of the products obtained by multiplying the total number of each type of meal (breakfast, lunch or supper, or supplement) served in such institution in that fiscal year by the applicable national average payment rate for each such type of meal, as determined under subsection (c) of this section.
     - **(B)** No reimbursement may be made to any institution under this paragraph, or to family or group day care home sponsoring organizations under paragraph (3) of this subsection, for more than two meals and one supplement per day per child, or in the case of an institution (but not in the case of a family or group day care home sponsoring organization), 2 meals and 1 supplement per day per child, for children that are maintained in a child care setting for eight or more hours per day.
     - **(C)**
       - **(i)** Except as provided in clause (ii), a sponsoring organization of a day care center may reserve not more than 15 percent of the funds provided under paragraph (1) for the administrative expenses of the organization.
@@ -270,8 +270,8 @@ generated_at: "2026-03-29T02:15:36.500Z"
   - **(4)**
     - **(A)** An institution may claim reimbursement under this subsection only for one meal per child per day and one supplement per child per day served under a program organized primarily to provide care to at-risk school children during after-school hours, weekends, or holidays during the regular school year.
     - **(B)**
-      - **(i)** A meal shall be reimbursed under this subsection at the rate established for free meals under subsection (c).
-      - **(ii)** A supplement shall be reimbursed under this subsection at the rate established for a free supplement under subsection (c)(3).
+      - **(i)** A meal shall be reimbursed under this subsection at the rate established for free meals under subsection (c) of this section.
+      - **(ii)** A supplement shall be reimbursed under this subsection at the rate established for a free supplement under subsection (c)(3) of this section.
     - **(C)** A meal or supplement claimed for reimbursement under this subsection shall be served without charge.
   - **(5)** An institution participating in the program under this subsection may not claim reimbursement for meals and snacks that are served under section 1769(h) of this title on the same day.
   - **(6)**
@@ -294,8 +294,8 @@ generated_at: "2026-03-29T02:15:36.500Z"
   - **(1)** In this subsection, the term “emergency shelter” means—
     - **(A)** an emergency shelter (as defined in section 11351 of this title ); or
     - **(B)** a site operated by the shelter.
-  - **(2)** Except as otherwise provided in this subsection, an emergency shelter shall be eligible to participate in the program authorized under this section in accordance with the terms and conditions applicable to eligible institutions described in subsection (a).
-  - **(3)** The licensing requirements contained in subsection (a)(5) shall not apply to an emergency shelter.
+  - **(2)** Except as otherwise provided in this subsection, an emergency shelter shall be eligible to participate in the program authorized under this section in accordance with the terms and conditions applicable to eligible institutions described in subsection (a) of this section.
+  - **(3)** The licensing requirements contained in subsection (a)(5) of this section shall not apply to an emergency shelter.
   - **(4)** To be eligible to participate in the program authorized under this section, an emergency shelter shall comply with applicable State or local health and safety standards.
   - **(5)**
     - **(A)** An emergency shelter may claim reimbursement under this subsection—
@@ -303,7 +303,7 @@ generated_at: "2026-03-29T02:15:36.500Z"
         - **(I)** not more than 18 years of age; or
         - **(II)** children with disabilities; and
       - **(ii)** for not more than 3 meals, or 2 meals and a supplement, per child per day.
-    - **(B)** A meal or supplement eligible for reimbursement shall be reimbursed at the rate at which free meals and supplements are reimbursed under subsection (c).
+    - **(B)** A meal or supplement eligible for reimbursement shall be reimbursed at the rate at which free meals and supplements are reimbursed under subsection (c) of this section.
     - **(C)** A meal or supplement claimed for reimbursement shall be served without charge.
 - **(u)**
   - **(1)** The Secretary shall encourage participating child care centers and family or group day care homes—

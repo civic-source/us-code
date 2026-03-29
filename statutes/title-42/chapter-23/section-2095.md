@@ -3,12 +3,13 @@ title: "Section 2095 - Reports"
 usc_title: 42
 usc_section: "2095"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 2095"
-generated_at: "2026-03-29T02:15:36.581Z"
+generated_at: "2026-03-29T17:53:35.075Z"
 ---
 
 # § 2095. Reports
 
-The Commission is authorized to issue such rules, regulations, or orders requiring reports of ownership, possession, extraction, refining, shipment, or other handling of source material as it may deem necessary, except that such reports shall not be required with respect to (a) any source material prior to removal from its place of deposit in nature, or (b) quantities of source material which in the opinion of the Commission are unimportant or the reporting of which will discourage independent prospecting for new deposits.
+- **(a)** any source material prior to removal from its place of deposit in nature, or
+- **(b)** quantities of source material which in the opinion of the Commission are unimportant or the reporting of which will discourage independent prospecting for new deposits.
 

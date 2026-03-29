@@ -3,9 +3,9 @@ title: "Section 2902 - Definitions"
 usc_title: 50
 usc_section: "2902"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2902"
-generated_at: "2026-03-29T02:16:14.751Z"
+generated_at: "2026-03-29T17:53:51.035Z"
 ---
 
 # § 2902. Definitions
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:16:14.751Z"
 In this chapter:
 
   - **(1)** The terms “prevention of weapons of mass destruction proliferation and terrorism” and “prevention of WMD proliferation and terrorism” include activities under—
-    - **(A)** the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 ( Public Law 104–201 ; 110 Stat. 2731 ; 50 U.S.C. 2362 note); 1 1 See References in Text note below.
+    - **(A)** the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 ( Public Law 104–201 ; 110 Stat. 2731 ; 50 U.S.C. 2362 note);
     - **(B)** the programs for which appropriations are authorized by section 3101(a)(2) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 ( Public Law 107–314 ; 116 Stat. 2729 );
     - **(C)** programs authorized by section 5854 of title 22 and programs authorized by section 5902 of title 22 ; and
     - **(D)** a program of any agency of the Federal Government having a purpose similar to that of any of the programs identified in subparagraphs (A) through (C), as designated by the United States Coordinator for the Prevention of Weapons of Mass Destruction Proliferation and Terrorism and the head of the agency.

@@ -3,9 +3,9 @@ title: "Section 9661 - Love Canal property acquisition"
 usc_title: 42
 usc_section: "9661"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 9661"
-generated_at: "2026-03-29T02:15:37.074Z"
+generated_at: "2026-03-29T17:53:35.645Z"
 ---
 
 # § 9661. Love Canal property acquisition
@@ -22,6 +22,6 @@ generated_at: "2026-03-29T02:15:37.074Z"
 - **(g)** The provisions of this section shall not affect the implementation of other response actions within the Emergency Declaration Area that the Administrator has determined (before October 17, 1986 ) to be necessary to protect the public health or welfare or the environment.
 - **(h)** For purposes of this section:
   - **(1)** The terms “Emergency Declaration Area” and “Love Canal Emergency Declaration Area” mean the Emergency Declaration Area as defined in section 950, paragraph (2) of the General Municipal Law of the State of New York, Chapter 259, Laws of 1980, as in effect on October 17, 1986 .
-  - **(2)** As used in subsection (a), the term “private property” means all property which is not owned by a department, agency, or instrumentality of—
+  - **(2)** As used in subsection (a) of this section, the term “private property” means all property which is not owned by a department, agency, or instrumentality of—
     - **(A)** the United States, or
     - **(B)** the State of New York (or any public agency or authority thereof).

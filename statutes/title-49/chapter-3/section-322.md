@@ -3,15 +3,15 @@ title: "Section 322 - General powers"
 usc_title: 49
 usc_section: "322"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 322"
-generated_at: "2026-03-29T02:16:08.851Z"
+generated_at: "2026-03-29T17:53:47.944Z"
 ---
 
 # § 322. General powers
 
 - **(a)** The Secretary of Transportation may prescribe regulations to carry out the duties and powers of the Secretary. An officer of the Department of Transportation may prescribe regulations to carry out the duties and powers of the officer.
-- **(b)** The Secretary may delegate, and authorize successive delegations of, duties and powers of the Secretary to an officer or employee of the Department. An officer of the Department may delegate, and authorize successive delegations of, duties and powers of the officer to another officer or employee of the Department. However, the duties and powers specified in sections 103(c)(1), 1 1 See References in Text note below. 104(c)(1), and 106(g)(1) 1 of this title may not be delegated to an officer or employee outside the Administration concerned.
+- **(b)** The Secretary may delegate, and authorize successive delegations of, duties and powers of the Secretary to an officer or employee of the Department. An officer of the Department may delegate, and authorize successive delegations of, duties and powers of the officer to another officer or employee of the Department. However, the duties and powers specified in sections 103(c)(1), 1 1 See References in Text note below. 104(c)(1), and 106(g)(1) of this title may not be delegated to an officer or employee outside the Administration concerned.
 - **(c)** On a reimbursable basis when appropriate, the Secretary may, in carrying out aviation duties and powers—
   - **(1)** use the available services, equipment, personnel, and facilities of other civilian or military departments, agencies, and instrumentalities of the United States Government, with their consent;
   - **(2)** cooperate with those departments, agencies, and instrumentalities in establishing and using aviation services, equipment, and facilities of the Department; and

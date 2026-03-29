@@ -3,9 +3,9 @@ title: "Section 44702 - Issuance of certificates"
 usc_title: 49
 usc_section: "44702"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 44702"
-generated_at: "2026-03-29T02:16:09.024Z"
+generated_at: "2026-03-29T17:53:48.099Z"
 ---
 
 # § 44702. Issuance of certificates
@@ -25,7 +25,3 @@ generated_at: "2026-03-29T02:16:09.024Z"
     - **(B)** issuing the certificate.
   - **(2)** The Administrator may rescind a delegation under this subsection at any time for any reason the Administrator considers appropriate.
   - **(3)** A person affected by an action of a private person under this subsection may apply for reconsideration of the action by the Administrator. On the Administrator’s own initiative, the Administrator may reconsider the action of a private person at any time. If the Administrator decides on reconsideration that the action is unreasonable or unwarranted, the Administrator shall change, modify, or reverse the action. If the Administrator decides the action is warranted, the Administrator shall affirm the action.
-  - **(4)**
-    - **(A)** With respect to a critical system design feature of a transport category airplane, the Administrator may not delegate any finding of compliance with applicable airworthiness standards or review of any system safety assessment required for the issuance of a certificate, including a type certificate, or amended or supplemental type certificate, under section 44704, until the Administrator has reviewed and validated any underlying assumptions related to human factors.
-    - **(B)** The requirement under subparagraph (A) shall not apply if the Administrator determines the matter involved is a routine task.
-    - **(C)** For purposes of subparagraph (A), the term critical system design feature includes any feature (including a novel or unusual design feature) for which the failure of such feature, either independently or in combination with other failures, could result in catastrophic or hazardous failure conditions, as those terms are defined by the Administrator.

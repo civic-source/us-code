@@ -3,9 +3,9 @@ title: "Section 12340 - Authorization of appropriation and allotment"
 usc_title: 42
 usc_section: "12340"
 chapter: 127
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 12340"
-generated_at: "2026-03-29T02:15:37.190Z"
+generated_at: "2026-03-29T17:53:35.765Z"
 ---
 
 # § 12340. Authorization of appropriation and allotment
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T02:15:37.190Z"
   - **(2)** a State has failed to qualify under the State plan required under section 12335 of this title ;
 - **(d)**
 - **(e)** A State shall not use in excess of 10 percent of a grant awarded under section 12338 or 12339 1 1 See References in Text note below. of this title for administrative activities at the State level.
-- **(f)** The Commissioner shall use 1 percent of the amount appropriated under this section for each fiscal year to make allotments to Indian tribes and tribal organizations (such terms having the same meaning given to such terms in section 5304(b) and (c) 1 of title 25) that submit to the Commissioner a plan that meets criteria consistent with the provisions of this part and that comply with other requirements established by the Commissioner.
+- **(f)** The Commissioner shall use 1 percent of the amount appropriated under this section for each fiscal year to make allotments to Indian tribes and tribal organizations (such terms having the same meaning given to such terms in section 450b(b) and (c) 1 of title 25) that submit to the Commissioner a plan that meets criteria consistent with the provisions of this part and that comply with other requirements established by the Commissioner.
 - **(g)** Grants made under this subchapter may be used to pay not more than 80 percent of the cost of—
   - **(1)** the preparation, administration, and evaluation of State plans under section 12337 of this title ;
   - **(2)** the development of comprehensive, efficient, coordinated supportive services under section 12338 of this title ; and

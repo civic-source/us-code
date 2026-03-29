@@ -1,12 +1,14 @@
 ---
-title: "Section 15251 - Transferred"
+title: "Section 15251 - Authorization of a Badge"
 usc_title: 42
 usc_section: "15251"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 15251"
-generated_at: "2026-03-29T02:15:37.300Z"
+generated_at: "2026-03-29T17:53:35.934Z"
 ---
 
-# § 15251. Transferred
+# § 15251. Authorization of a Badge
+
+The Attorney General may award, and a Member of Congress or the Attorney General may present, in the name of Congress a State and Local Law Enforcement Congressional Badge of Bravery to a State or local law enforcement officer who is cited by the Attorney General, upon the recommendation of the State and Local Board, for performing an act of bravery while in the line of duty.
 

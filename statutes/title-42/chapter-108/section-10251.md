@@ -3,12 +3,14 @@ title: "Section 10251 - Authorization of appropriations"
 usc_title: 42
 usc_section: "10251"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 10251"
-generated_at: "2026-03-29T02:15:37.128Z"
+generated_at: "2026-03-29T17:53:35.694Z"
 ---
 
 # § 10251. Authorization of appropriations
 
-Notwithstanding subsection (d) of section 10222 of this title , and subject to subsection (e) of such section, there are authorized to be appropriated for expenditures from amounts in the Waste Fund established in subsection (c) of such section, such sums as may be necessary to carry out the provisions of this subchapter.
+- **(d)** of section 10222 of this title , and subject to subsection
+- **(e)** of such section, there are authorized to be appropriated for expenditures from amounts in the Waste Fund established in subsection
+- **(c)** of such section, such sums as may be necessary to carry out the provisions of this subchapter.
 

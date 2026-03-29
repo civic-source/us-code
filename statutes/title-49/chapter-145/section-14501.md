@@ -3,9 +3,9 @@ title: "Section 14501 - Federal authority over intrastate transportation"
 usc_title: 49
 usc_section: "14501"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 14501"
-generated_at: "2026-03-29T02:16:08.917Z"
+generated_at: "2026-03-29T17:53:48.004Z"
 ---
 
 # § 14501. Federal authority over intrastate transportation
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T02:16:08.917Z"
   - **(2)** Paragraph (1)—
     - **(A)** shall not restrict the safety regulatory authority of a State with respect to motor vehicles, the authority of a State to impose highway route controls or limitations based on the size or weight of the motor vehicle or the hazardous nature of the cargo, or the authority of a State to regulate motor carriers with regard to minimum amounts of financial responsibility relating to insurance requirements and self-insurance authorization;
     - **(B)** does not apply to the intrastate transportation of household goods; and
-    - **(C)** does not apply to the authority of a State or a political subdivision of a State to enact or enforce a law, regulation, or other provision relating to the regulation of tow truck operations performed without the prior consent or authorization of the owner or operator of the motor vehicle.
+    - **(C)** does not apply to the authority of a State or a political subdivision of a State to enact or enforce a law, regulation, or other provision relating to the price of for-hire motor vehicle transportation by a tow truck, if such transportation is performed without the prior consent or authorization of the owner or operator of the motor vehicle.
   - **(3)**
     - **(A)** Paragraph (1) shall not affect any authority of a State, political subdivision of a State, or political authority of 2 or more States to enact or enforce a law, regulation, or other provision, with respect to the intrastate transportation of property by motor carriers, related to—
       - **(i)** uniform cargo liability rules,

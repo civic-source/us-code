@@ -3,9 +3,9 @@ title: "Section 3237 - Offenses begun in one district and completed in another"
 usc_title: 18
 usc_section: "3237"
 chapter: 211
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 3237"
-generated_at: "2026-03-29T17:53:15.724Z"
+generated_at: "2026-03-29T17:53:59.673Z"
 ---
 
 # § 3237. Offenses begun in one district and completed in another

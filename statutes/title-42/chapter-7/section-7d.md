@@ -3,9 +3,9 @@ title: "Section 7d - Guidance regarding application of health care fraud and abu
 usc_title: 42
 usc_section: "7d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7d"
-generated_at: "2026-03-29T02:15:36.077Z"
+generated_at: "2026-03-29T17:53:34.543Z"
 ---
 
 # § 1320a–7d. Guidance regarding application of health care fraud and abuse sanctions
@@ -15,10 +15,10 @@ generated_at: "2026-03-29T02:15:36.077Z"
     - **(A)** Not later than January 1, 1997 , and not less than annually thereafter, the Secretary shall publish a notice in the Federal Register soliciting proposals, which will be accepted during a 60-day period, for—
       - **(i)** modifications to existing safe harbors issued pursuant to section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987 ( 42 U.S.C. 1320a–7b note);
       - **(ii)** additional safe harbors specifying payment practices that shall not be treated as a criminal offense under section 1320a–7b(b) of this title and shall not serve as the basis for an exclusion under section 1320a–7(b)(7) of this title ;
-      - **(iii)** advisory opinions to be issued pursuant to subsection (b); and
-      - **(iv)** special fraud alerts to be issued pursuant to subsection (c).
+      - **(iii)** advisory opinions to be issued pursuant to subsection (b) of this section; and
+      - **(iv)** special fraud alerts to be issued pursuant to subsection (c) of this section.
     - **(B)** After considering the proposals described in clauses (i) and (ii) of subparagraph (A), the Secretary, in consultation with the Attorney General, shall publish in the Federal Register proposed modifications to existing safe harbors and proposed additional safe harbors, if appropriate, with a 60-day comment period. After considering any public comments received during this period, the Secretary shall issue final rules modifying the existing safe harbors and establishing new safe harbors, as appropriate.
-    - **(C)** The Inspector General of the Department of Health and Human Services (in this section referred to as the “Inspector General”) shall, in an annual report to Congress or as part of the year-end semiannual report required by section 405 of title 5 , describe the proposals received under clauses (i) and (ii) of subparagraph (A) and explain which proposals were included in the publication described in subparagraph (B), which proposals were not included in that publication, and the reasons for the rejection of the proposals that were not included.
+    - **(C)** The Inspector General of the Department of Health and Human Services (in this section referred to as the “Inspector General”) shall, in an annual report to Congress or as part of the year-end semiannual report required by section 5 of the Inspector General Act of 1978 (5 U.S.C. App.), describe the proposals received under clauses (i) and (ii) of subparagraph (A) and explain which proposals were included in the publication described in subparagraph (B), which proposals were not included in that publication, and the reasons for the rejection of the proposals that were not included.
   - **(2)** In modifying and establishing safe harbors under paragraph (1)(B), the Secretary may consider the extent to which providing a safe harbor for the specified payment practice may result in any of the following:
     - **(A)** An increase or decrease in access to health care services.
     - **(B)** An increase or decrease in the quality of health care services.
@@ -31,16 +31,13 @@ generated_at: "2026-03-29T02:15:36.077Z"
       - **(i)** whether to order a health care item or service; or
       - **(ii)** whether to arrange for a referral of health care items or services to a particular practitioner or provider.
     - **(I)** Any other factors the Secretary deems appropriate in the interest of preventing fraud and abuse in Federal health care programs (as so defined).
-  - **(3)**
-    - **(A)** Not later than one year after December 29, 2022 , the Inspector General shall conduct a review on whether to establish a safe harbor described in paragraph (1)(A)(ii) for evidence-based contingency management incentives and the parameters for such a safe harbor. In conducting the review under the previous sentence, the Inspector General shall consider the extent to which providing such a safe harbor for evidence-based contingency management incentives may result in any of the factors described in paragraph (2).
-    - **(B)** Not later than two years after December 29, 2022 , the Secretary and the Inspector General shall submit to Congress recommendations, including based on the review conducted under subparagraph (A), for improving access to evidence-based contingency management interventions while ensuring quality of care, ensuring fidelity to evidence-based practices, and including strong program integrity safeguards that prevent increased waste, fraud, and abuse and prevent medically unnecessary or inappropriate items or services reimbursed in whole or in part by a Federal health care program.
 - **(b)**
   - **(1)** The Secretary, in consultation with the Attorney General, shall issue written advisory opinions as provided in this subsection.
   - **(2)** The Secretary shall issue advisory opinions as to the following matters:
     - **(A)** What constitutes prohibited remuneration within the meaning of section 1320a–7b(b) of this title or section 1320a–7a(i)(6) of this title .
     - **(B)** Whether an arrangement or proposed arrangement satisfies the criteria set forth in section 1320a–7b(b)(3) of this title for activities which do not result in prohibited remuneration.
     - **(C)** Whether an arrangement or proposed arrangement satisfies the criteria which the Secretary has established, or shall establish by regulation for activities which do not result in prohibited remuneration.
-    - **(D)** What constitutes an inducement to reduce or limit services to individuals entitled to benefits under subchapter XVIII or subchapter XIX within the meaning of section 1320a–7a(b) of this title .
+    - **(D)** What constitutes an inducement to reduce or limit services to individuals entitled to benefits under subchapter XVIII of this chapter or subchapter XIX of this chapter within the meaning of section 1320a–7a(b) of this title .
     - **(E)** Whether any activity or proposed activity constitutes grounds for the imposition of a sanction under section 1320a–7, 1320a–7a, or 1320a–7b of this title.
   - **(3)** Such advisory opinions shall not address the following matters:
     - **(A)** Whether the fair market value shall be, or was paid or received for any goods, services or property.
@@ -61,8 +58,8 @@ generated_at: "2026-03-29T02:15:36.077Z"
   - **(6)** This subsection shall apply to requests for advisory opinions made on or after the date which is 6 months after August 21, 1996 .
 - **(c)**
   - **(1)**
-    - **(A)** Any person may present, at any time, a request to the Inspector General for a notice which informs the public of practices which the Inspector General considers to be suspect or of particular concern under the Medicare program under subchapter XVIII or a State health care program, as defined in section 1320a–7(h) of this title (in this subsection referred to as a “special fraud alert”).
+    - **(A)** Any person may present, at any time, a request to the Inspector General for a notice which informs the public of practices which the Inspector General considers to be suspect or of particular concern under the Medicare program under subchapter XVIII of this chapter or a State health care program, as defined in section 1320a–7(h) of this title (in this subsection referred to as a “special fraud alert”).
     - **(B)** Upon receipt of a request described in subparagraph (A), the Inspector General shall investigate the subject matter of the request to determine whether a special fraud alert should be issued. If appropriate, the Inspector General shall issue a special fraud alert in response to the request. All special fraud alerts issued pursuant to this subparagraph shall be published in the Federal Register.
   - **(2)** In determining whether to issue a special fraud alert upon a request described in paragraph (1), the Inspector General may consider—
-    - **(A)** whether and to what extent the practices that would be identified in the special fraud alert may result in any of the consequences described in subsection (a)(2); and
+    - **(A)** whether and to what extent the practices that would be identified in the special fraud alert may result in any of the consequences described in subsection (a)(2) of this section; and
     - **(B)** the volume and frequency of the conduct that would be identified in the special fraud alert.

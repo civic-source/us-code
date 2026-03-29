@@ -3,9 +3,9 @@ title: "Section 18011 - Preservation of right to maintain existing coverage"
 usc_title: 42
 usc_section: "18011"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 18011"
-generated_at: "2026-03-29T02:15:37.419Z"
+generated_at: "2026-03-29T17:53:36.055Z"
 ---
 
 # § 18011. Preservation of right to maintain existing coverage
@@ -23,7 +23,6 @@ generated_at: "2026-03-29T02:15:37.419Z"
     - **(B)**
       - **(i)** Those provisions of section 2711 [ 42 U.S.C. 300gg–11 ] relating to annual limits and the provisions of section 2704 [ 42 U.S.C. 300gg–3 ] (relating to pre-existing condition exclusions) of the Public Health Service Act (as added by this subtitle) shall apply to grandfathered health plans that are group health plans for plan years beginning with the first plan year to which such provisions otherwise apply.
       - **(ii)** For plan years beginning before January 1, 2014 , the provisions of section 2714 of the Public Health Service Act [ 42 U.S.C. 300gg–14 ] (as added by this subtitle) shall apply in the case of an adult child with respect to a grandfathered health plan that is a group health plan only if such adult child is not eligible to enroll in an eligible employer-sponsored health plan (as defined in section 5000A(f)(2) of title 26 ) other than such grandfathered health plan.
-  - **(5)** Sections 300gg–111, 300gg–112, and 300gg–117 of this title shall apply to grandfathered health plans for plan years beginning on or after January 1, 2022 .
 - **(b)** With respect to a group health plan or health insurance coverage in which an individual was enrolled on March 23, 2010 , and which is renewed after such date, family members of such individual shall be permitted to enroll in such plan or coverage if such enrollment is permitted under the terms of the plan in effect as of March 23, 2010 .
 - **(c)** A group health plan that provides coverage on March 23, 2010 , may provide for the enrolling of new employees (and their families) in such plan, and this subtitle and subtitle A (and the amendments made by such subtitles) shall not apply with respect to such plan and such new employees (and their families).
 - **(d)** In the case of health insurance coverage maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers that was ratified before March 23, 2010 , the provisions of this subtitle and subtitle A (and the amendments made by such subtitles) shall not apply until the date on which the last of the collective bargaining agreements relating to the coverage terminates. Any coverage amendment made pursuant to a collective bargaining agreement relating to the coverage which amends the coverage solely to conform to any requirement added by this subtitle or subtitle A (or amendments) shall not be treated as a termination of such collective bargaining agreement.

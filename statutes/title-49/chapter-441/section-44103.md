@@ -3,9 +3,9 @@ title: "Section 44103 - Registration of aircraft"
 usc_title: 49
 usc_section: "44103"
 chapter: 441
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 44103"
-generated_at: "2026-03-29T02:16:09.018Z"
+generated_at: "2026-03-29T17:53:48.092Z"
 ---
 
 # § 44103. Registration of aircraft
@@ -26,18 +26,3 @@ generated_at: "2026-03-29T02:16:09.018Z"
   - **(1)** conclusive evidence of the nationality of an aircraft for international purposes, but not conclusive evidence in a proceeding under the laws of the United States; and
   - **(2)** not evidence of ownership of an aircraft in a proceeding in which ownership is or may be in issue.
 - **(d)** An operator of an aircraft shall make available for inspection a certificate of registration for the aircraft when requested by a United States Government, State, or local law enforcement officer.
-- **(e)**
-  - **(1)** An aircraft may be operated on or after the expiration date found on the certificate of registration issued for such aircraft under this section as if it were not expired if the operator of such aircraft has aboard the aircraft—
-    - **(A)** documentation validating that—
-      - **(i)** an aircraft registration renewal application form (AC Form 8050–1B, or a succeeding form) has been submitted to the Administrator for such aircraft but not yet approved or denied; and
-      - **(ii)** such aircraft is compliant with maintenance, inspections, and any other requirements for the aircraft’s airworthiness certificate issued under section 44704(d); and
-    - **(B)** the most recent aircraft registration.
-  - **(2)** The Administrator shall provide an applicant for renewal of registration under this section with documentation described in paragraph (1)(A). Such documentation shall—
-    - **(A)** be made electronically available to the applicant immediately upon submitting an aircraft registration renewal application to the Civil Aviation Registry for an aircraft;
-    - **(B)** notify the applicant of the operational allowance described in paragraph (1);
-    - **(C)** deem an aircraft’s airworthiness certificate issued under section 44704(d) as valid provided that the applicant confirms acknowledgment of the requirements of paragraph (1)(A)(ii);
-    - **(D)** confirm the applicant acknowledged the limitations described in paragraph (3)(A) and (3)(B); and
-    - **(E)** include identifying information pertaining to such aircraft and to the registered owner.
-  - **(3)** Nothing in this subsection shall be construed to permit any person to operate an aircraft—
-    - **(A)** with an expired registration, except as specifically provided for under this subsection; or
-    - **(B)** if the Administrator has denied an application to renew the registration of such aircraft.

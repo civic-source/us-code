@@ -3,15 +3,15 @@ title: "Section 4364 - Expenditure of funds for research and development related
 usc_title: 42
 usc_section: "4364"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 4364"
-generated_at: "2026-03-29T02:15:36.703Z"
+generated_at: "2026-03-29T17:53:35.249Z"
 ---
 
 # § 4364. Expenditure of funds for research and development related to regulatory program activities
 
 - **(a)** The Administrator of the Environmental Protection Agency shall assure that the expenditure of any funds appropriated pursuant to this Act or any other provision of law for environmental research and development related to regulatory program activities shall be coordinated with and reflect the research needs and priorities of the program offices, as well as the overall research needs and priorities of the Agency, including those defined in the five-year research plan.
-- **(b)** For purposes of subsection (a), the appropriate program offices are—
+- **(b)** For purposes of subsection (a) of this section, the appropriate program offices are—
   - **(1)** the Office of Air and Waste Management, for air quality activities;
   - **(2)** the Office of Water and Hazardous Materials, for water quality activities and water supply activities;
   - **(3)** the Office of Pesticides, for environmental effects of pesticides;

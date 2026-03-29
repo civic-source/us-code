@@ -3,9 +3,9 @@ title: "Section 13506 - Miscellaneous motor carrier transportation exemptions"
 usc_title: 49
 usc_section: "13506"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 13506"
-generated_at: "2026-03-29T02:16:08.911Z"
+generated_at: "2026-03-29T17:53:47.997Z"
 ---
 
 # § 13506. Miscellaneous motor carrier transportation exemptions
@@ -38,16 +38,11 @@ generated_at: "2026-03-29T02:16:08.911Z"
   - **(11)** transportation of used pallets and used empty shipping containers (including intermodal cargo containers), and other used shipping devices (other than containers or devices used in the transportation of motor vehicles or parts of motor vehicles);
   - **(12)** transportation of natural, crushed, vesicular rock to be used for decorative purposes;
   - **(13)** transportation of wood chips;
-  - **(14)** brokers for motor carriers of passengers, except as provided in section 13904(d); 1 1 See References in Text note below.
-  - **(15)** transportation of broken, crushed, or powdered glass; or
-  - **(16)** the transportation of passengers by 9 to 15 passenger motor vehicles operated by youth or family camps that provide recreational or educational activities.
+  - **(14)** brokers for motor carriers of passengers, except as provided in section 13904(d); 1 1 See References in Text note below. or
+  - **(15)** transportation of broken, crushed, or powdered glass.
 - **(b)** Except to the extent the Secretary or Board, as applicable, finds it necessary to exercise jurisdiction to carry out the transportation policy of section 13101, neither the Secretary nor the Board has jurisdiction under this part over—
   - **(1)** transportation provided entirely in a municipality, in contiguous municipalities, or in a zone that is adjacent to, and commercially a part of, the municipality or municipalities, except—
     - **(A)** when the transportation is under common control, management, or arrangement for a continuous carriage or shipment to or from a place outside the municipality, municipalities, or zone; or
     - **(B)** that in transporting passengers over a route between a place in a State and a place in another State, or between a place in a State and another place in the same State through another State, the transportation is exempt from jurisdiction under this part only if the motor carrier operating the motor vehicle also is lawfully providing intrastate transportation of passengers over the entire route under the laws of each State through which the route runs;
-  - **(2)** transportation by motor vehicle provided casually, occasionally, or reciprocally but not as a regular occupation or business, except when a broker or other person sells or offers for sale passenger transportation provided by a person authorized to transport passengers by motor vehicle under an application pending, or registration issued, under this part;
-  - **(3)** the emergency towing of an accidentally wrecked or disabled motor vehicle; or
-  - **(4)** transportation by a motor vehicle designed or used to transport not fewer than 9, and not more than 15, passengers (including the driver), whether operated alone or with a trailer attached for the transport of recreational equipment, if—
-    - **(A)** the motor vehicle is operated by a person that provides recreational activities;
-    - **(B)** the transportation is provided within a 150 air-mile radius of the location at which passengers initially boarded the motor vehicle at the outset of the trip; and
-    - **(C)** in the case of a motor vehicle transporting passengers over a route between a place in a State and a place in another State, the person operating the motor vehicle is lawfully providing transportation of passengers over the entire route in accordance with applicable State law.
+  - **(2)** transportation by motor vehicle provided casually, occasionally, or reciprocally but not as a regular occupation or business, except when a broker or other person sells or offers for sale passenger transportation provided by a person authorized to transport passengers by motor vehicle under an application pending, or registration issued, under this part; or
+  - **(3)** the emergency towing of an accidentally wrecked or disabled motor vehicle.

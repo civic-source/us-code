@@ -3,9 +3,9 @@ title: "Section 13632 - Grants for costs of providing service coordinators in ce
 usc_title: 42
 usc_section: "13632"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 13632"
-generated_at: "2026-03-29T02:15:37.276Z"
+generated_at: "2026-03-29T17:53:35.864Z"
 ---
 
 # § 13632. Grants for costs of providing service coordinators in certain federally assisted housing

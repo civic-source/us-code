@@ -3,9 +3,9 @@ title: "Section 44711 - Prohibitions and exemption"
 usc_title: 49
 usc_section: "44711"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 44711"
-generated_at: "2026-03-29T02:16:09.027Z"
+generated_at: "2026-03-29T17:53:48.102Z"
 ---
 
 # § 44711. Prohibitions and exemption
@@ -21,15 +21,12 @@ generated_at: "2026-03-29T02:16:09.027Z"
   - **(6)** operate a seaplane or other aircraft of United States registry on the high seas in violation of a regulation under section 3 of the International Navigational Rules Act of 1977 ( 33 U.S.C. 1602 );
   - **(7)** violate a term of an air agency, design organization certificate, or production certificate or a regulation prescribed or order issued under section 44701(a) or (b) or any of sections 44702–44716 of this title related to the holder of the certificate;
   - **(8)** operate an airport without an airport operating certificate required under section 44706 of this title or in violation of a term of the certificate;
-  - **(9)** manufacture, deliver, sell, or offer for sale any aviation fuel or additive in violation of a regulation prescribed under section 44714 of this title ;
-  - **(10)** work as an aircraft dispatcher outside of a physical location designated as a dispatching center or flight following center of an air carrier, except as provided under section 44747; or
-  - **(11)** violate section 44732 or any regulation issued thereunder.
+  - **(9)** manufacture, deliver, sell, or offer for sale any aviation fuel or additive in violation of a regulation prescribed under section 44714 of this title ; or
+  - **(10)** violate section 44732 or any regulation issued thereunder.
 - **(b)** On terms the Administrator of the Federal Aviation Administration prescribes as being in the public interest, the Administrator may exempt a foreign aircraft and airmen serving on the aircraft from subsection (a) of this section. However, an exemption from observing air traffic regulations may not be granted.
 - **(c)** No person subject to this chapter may knowingly employ anyone to perform a function related to the procurement, sale, production, or repair of a part or material, or the installation of a part into a civil aircraft, who has been convicted in a court of law of a violation of any Federal law relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material.
 - **(d)**
-  - **(1)** A person holding a certificate issued under part 21 or 119 of title 14, Code of Federal Regulations, may not knowingly employ, or make a contractual arrangement that permits, an individual to act as an agent or representative of such person in any matter before the Administration if the individual, in the preceding 2-year period—
-    - **(A)** served as, or was responsible for oversight of—
-      - **(i)** a flight standards inspector of the Administration; or
-      - **(ii)** an employee of the Administration with responsibility for certification functions with respect to a holder of a certificate issued under section 44704(a); and
-    - **(B)** had responsibility to inspect, or oversee inspection of, the operations of such person.
-  - **(2)** For purposes of paragraph (1), an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the Administration if the individual makes any written or oral communication on behalf of the certificate holder to the Administration (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as an individual covered under paragraph (1).
+  - **(1)** A person holding an operating certificate issued under title 14, Code of Federal Regulations, may not knowingly employ, or make a contractual arrangement that permits, an individual to act as an agent or representative of the certificate holder in any matter before the Federal Aviation Administration if the individual, in the preceding 2-year period—
+    - **(A)** served as, or was responsible for oversight of, a flight standards inspector of the Administration; and
+    - **(B)** had responsibility to inspect, or oversee inspection of, the operations of the certificate holder.
+  - **(2)** For purposes of paragraph (1), an individual shall be considered to be acting as an agent or representative of a certificate holder in a matter before the Administration if the individual makes any written or oral communication on behalf of the certificate holder to the Administration (or any of its officers or employees) in connection with a particular matter, whether or not involving a specific party and without regard to whether the individual has participated in, or had responsibility for, the particular matter while serving as a flight standards inspector of the Administration.

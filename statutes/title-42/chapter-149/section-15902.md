@@ -3,9 +3,9 @@ title: "Section 15902 - Program on oil and gas royalties in-kind"
 usc_title: 42
 usc_section: "15902"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 15902"
-generated_at: "2026-03-29T02:15:37.306Z"
+generated_at: "2026-03-29T17:53:35.958Z"
 ---
 
 # § 15902. Program on oil and gas royalties in-kind
@@ -35,23 +35,29 @@ generated_at: "2026-03-29T02:15:37.306Z"
   - **(2)** allow the lessee to deduct the transportation or processing costs in reporting and paying royalties in-value for other Federal oil and gas leases.
 - **(d)** The Secretary may receive oil or gas royalties in-kind only if the Secretary determines that receiving royalties in-kind provides benefits to the United States that are greater than or equal to the benefits that are likely to have been received had royalties been taken in-value.
 - **(e)**
+  - **(1)** Not later than September 30, 2006 , the Secretary shall submit to Congress a report that addresses—
+    - **(A)** actions taken to develop business processes and automated systems to fully support the royalty-in-kind capability to be used in tandem with the royalty-in-value approach in managing Federal oil and gas revenue; and
+    - **(B)** future royalty-in-kind businesses operation plans and objectives.
+  - **(2)** For each of fiscal years 2006 through 2015 in which the United States takes oil or gas royalties in-kind from production in any State or from the outer Continental Shelf, excluding royalties taken in-kind and sold to refineries under subsection (h), the Secretary shall submit to Congress a report that describes—
+    - **(A)** the 1 or more methodologies used by the Secretary to determine compliance with subsection (d), including the performance standard for comparing amounts received by the United States derived from royalties in-kind to amounts likely to have been received had royalties been taken in-value;
+    - **(B)** an explanation of the evaluation that led the Secretary to take royalties in-kind from a lease or group of leases, including the expected revenue effect of taking royalties in-kind;
+    - **(C)** actual amounts received by the United States derived from taking royalties in-kind and costs and savings incurred by the United States associated with taking royalties in-kind, including administrative savings and any new or increased administrative costs; and
+    - **(D)** an evaluation of other relevant public benefits or detriments associated with taking royalties in-kind.
+- **(f)**
   - **(1)** Before making payments under section 191 of title 30 or section 1337(g) of title 43 of revenues derived from the sale of royalty production taken in-kind from a lease, the Secretary shall deduct amounts paid or deducted under subsections (b)(4) and (c) and deposit the amount of the deductions in the miscellaneous receipts of the Treasury.
   - **(2)** When the Secretary allows the lessee to deduct transportation or processing costs under subsection (c), the Secretary may not reduce any payments to recipients of revenues derived from any other Federal oil and gas lease as a consequence of that deduction.
-- **(f)** The Secretary—
+- **(g)** The Secretary—
   - **(1)** shall consult with a State before conducting a royalty in-kind program under this part within the State;
   - **(2)** may delegate management of any portion of the Federal royalty in-kind program to the State except as otherwise prohibited by Federal law; and
   - **(3)** shall consult annually with any State from which Federal oil or gas royalty is being taken in-kind to ensure, to the maximum extent practicable, that the royalty in-kind program provides revenues to the State greater than or equal to the revenues likely to have been received had royalties been taken in-value.
-- **(g)**
+- **(h)**
   - **(1)** If the Secretary finds that sufficient supplies of crude oil are not available in the open market to refineries that do not have their own source of supply for crude oil, the Secretary may grant preference to those refineries in the sale of any royalty oil accruing or reserved to the United States under Federal oil and gas leases issued under any mineral leasing law, for processing or use in those refineries at private sale at not less than the market price.
   - **(2)** In disposing of oil under this subsection, the Secretary may, at the discretion of the Secretary, prorate the oil among refineries described in paragraph (1) in the area in which the oil is produced.
-- **(h)**
+- **(i)**
   - **(1)** Any royalty oil or gas taken by the Secretary in-kind from onshore oil and gas leases may be sold at not less than the market price to any Federal agency.
   - **(2)** Any royalty oil or gas taken in-kind from a Federal oil or gas lease on the outer Continental Shelf may be disposed of only under section 1353 of title 43 .
-- **(i)**
+- **(j)**
   - **(1)** In disposing of royalty oil or gas taken in-kind under this section, the Secretary may grant a preference to any person, including any Federal or State agency, for the purpose of providing additional resources to any Federal low-income energy assistance program.
   - **(2)** Not later than 3 years after August 8, 2005 , the Secretary shall submit a report to Congress—
     - **(A)** assessing the effectiveness of granting preferences specified in paragraph (1); and
     - **(B)** providing a specific recommendation on the continuation of authority to grant preferences.
-- **(j)** At the request of the Secretary of Defense, the Secretary shall—
-  - **(1)** take in-kind royalty gas from any lease on the McAlester Army Ammunition Plant in McAlester, Oklahoma; and
-  - **(2)** sell such royalty gas to the Department of Defense in accordance with subsection (h)(1), for use only at that plant, only for energy resilience purposes, and only to the extent necessary to meet the natural gas needs of that plant.

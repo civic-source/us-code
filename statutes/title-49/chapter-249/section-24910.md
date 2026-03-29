@@ -3,9 +3,9 @@ title: "Section 24910 - Rail cooperative research program"
 usc_title: 49
 usc_section: "24910"
 chapter: 249
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 24910"
-generated_at: "2026-03-29T02:16:08.954Z"
+generated_at: "2026-03-29T17:53:48.031Z"
 ---
 
 # § 24910. Rail cooperative research program
@@ -27,15 +27,13 @@ generated_at: "2026-03-29T02:16:08.954Z"
   - **(9)** to recommend objective methodologies for determining intercity passenger rail routes and services, including the establishment of new routes, the elimination of existing routes, and the contraction or expansion of services or frequencies over such routes;
   - **(10)** to review the impact of equipment and operational safety standards on the further development of high-speed passenger rail operations connected to or integrated with non-high-speed freight or passenger rail operations;
   - **(11)** to recommend any legislative or regulatory changes necessary to foster further development and implementation of high-speed passenger rail operations while ensuring the safety of such operations that are connected to or integrated with non-high-speed freight or passenger rail operations;
-  - **(12)** to review rail crossing safety improvements, including improvements using new safety technology;
-  - **(13)** to review and develop technology designed to reduce train horn noise and its effect on communities, including broadband horn technology; and
-  - **(14)** to improve overall safety of intercity passenger and freight rail operations.
+  - **(12)** to review rail crossing safety improvements, including improvements using new safety technology; and
+  - **(13)** to review and develop technology designed to reduce train horn noise and its effect on communities, including broadband horn technology.
 - **(c)**
   - **(1)** In consultation with the heads of appropriate Federal departments and agencies, the Secretary shall establish an advisory board to recommend research, technology, and technology transfer activities related to rail passenger and freight transportation.
   - **(2)** The advisory board shall include—
     - **(A)** representatives of State transportation agencies;
     - **(B)** transportation and environmental economists, scientists, and engineers; and
     - **(C)** representatives of Amtrak, the Alaska Railroad, freight railroads, transit operating agencies, intercity rail passenger agencies, railway labor organizations, and environmental organizations.
-  - **(3)** The advisory board established under this subsection ceases to exist effective January 1, 2019 .
 - **(d)** The Secretary may make grants to, and enter into cooperative agreements with, the National Academy of Sciences to carry out such activities relating to the research, technology, and technology transfer activities described in subsection (b) as the Secretary deems appropriate.
 - **(e)** There are authorized to be appropriated to the Secretary of Transportation $5,000,000 for each of fiscal years 2010 through 2013 for carrying out this section.

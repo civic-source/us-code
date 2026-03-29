@@ -3,15 +3,15 @@ title: "Section 8102 - Drug-free workplace requirements for Federal contractors"
 usc_title: 41
 usc_section: "8102"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "41 U.S.C. § 8102"
-generated_at: "2026-03-29T02:15:00.469Z"
+generated_at: "2026-03-29T17:53:04.488Z"
 ---
 
 # § 8102. Drug-free workplace requirements for Federal contractors
 
 - **(a)**
-  - **(1)** A person other than an individual shall not be considered a responsible source (as defined in section 113 of this title ) for the purposes of being awarded a contract for the procurement of any property or services of a value greater than the simplified acquisition threshold (as defined in section 134 of this title ) by a Federal agency, other than a contract for the procurement of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title), unless the person agrees to provide a drug-free workplace by—
+  - **(1)** A person other than an individual shall not be considered a responsible source (as defined in section 113 of this title ) for the purposes of being awarded a contract for the procurement of any property or services of a value greater than the simplified acquisition threshold (as defined in section 134 of this title ) by a Federal agency, other than a contract for the procurement of commercial items (as defined in section 103 of this title ), unless the person agrees to provide a drug-free workplace by—
     - **(A)** publishing a statement notifying employees that the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance is prohibited in the person’s workplace and specifying the actions that will be taken against employees for violations of the prohibition;
     - **(B)** establishing a drug-free awareness program to inform employees about—
       - **(i)** the dangers of drug abuse in the workplace;

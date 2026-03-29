@@ -3,9 +3,9 @@ title: "Section 244 - Public access defibrillation programs"
 usc_title: 42
 usc_section: "244"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 244"
-generated_at: "2026-03-29T02:15:35.580Z"
+generated_at: "2026-03-29T17:53:34.062Z"
 ---
 
 # § 244. Public access defibrillation programs
@@ -17,10 +17,10 @@ generated_at: "2026-03-29T02:15:35.580Z"
   - **(4)** by providing training to members of the public in cardiopulmonary resuscitation and automated external defibrillation;
   - **(5)** by integrating the emergency medical services system with the public access defibrillation programs so that emergency medical services personnel, including dispatchers, are informed about the location of automated external defibrillators in their community; and
   - **(6)** by encouraging private companies, including small businesses, to purchase automated external defibrillators and provide training for their employees to administer cardiopulmonary resuscitation and external automated defibrillation to cardiac arrest victims in their community.
-- **(b)** In awarding grants under subsection (a), the Secretary shall give a preference to a State, political subdivision of a State, Indian tribe, or tribal organization that—
+- **(b)** In awarding grants under subsection (a) of this section, the Secretary shall give a preference to a State, political subdivision of a State, Indian tribe, or tribal organization that—
   - **(1)** has a particularly low local survival rate for cardiac arrests, or a particularly low local response rate for cardiac arrest victims; or
   - **(2)** demonstrates in its application the greatest commitment to establishing and maintaining a public access defibrillation program.
-- **(c)** A State, political subdivision of a State, Indian tribe, or tribal organization that receives a grant under subsection (a) may use funds received through such grant to—
+- **(c)** A State, political subdivision of a State, Indian tribe, or tribal organization that receives a grant under subsection (a) of this section may use funds received through such grant to—
   - **(1)** purchase automated external defibrillators that have been approved, or cleared for marketing, by the Food and Drug Administration;
   - **(2)** provide automated external defibrillation and basic life support training in automated external defibrillator usage through nationally recognized courses;
   - **(3)** provide information to community members about the public access defibrillation program to be funded with the grant;
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T02:15:35.580Z"
   - **(6)** establish an information clearinghouse, that shall be administered by an organization that has substantial expertise in pediatric education, pediatric medicine, and electrophysiology and sudden death, that provides information to increase public access to defibrillation in schools; and
   - **(7)** further develop strategies to improve access to automated external defibrillators in public places.
 - **(d)**
-  - **(1)** To be eligible to receive a grant under subsection (a), a State, political subdivision of a State, Indian tribe, or tribal organization shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+  - **(1)** To be eligible to receive a grant under subsection (a) of this section, a State, political subdivision of a State, Indian tribe, or tribal organization shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
   - **(2)** An application submitted under paragraph (1) shall—
     - **(A)** describe the comprehensive public access defibrillation program to be funded with the grant and demonstrate how such program would make automated external defibrillation accessible and available to cardiac arrest victims in the community;
     - **(B)** contain procedures for implementing appropriate nationally recognized training courses in performing cardiopulmonary resuscitation and the use of automated external defibrillators;

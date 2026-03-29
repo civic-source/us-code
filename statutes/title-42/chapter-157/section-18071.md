@@ -3,9 +3,9 @@ title: "Section 18071 - Reduced cost-sharing for individuals enrolling in qualif
 usc_title: 42
 usc_section: "18071"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 18071"
-generated_at: "2026-03-29T02:15:37.431Z"
+generated_at: "2026-03-29T17:53:36.068Z"
 ---
 
 # § 18071. Reduced cost-sharing for individuals enrolling in qualified health plans
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T02:15:37.431Z"
   - **(4)** If a qualified health plan under section 18022(b)(5) of this title offers benefits in addition to the essential health benefits required to be provided by the plan, or a State requires a qualified health plan under section 18031(d)(3)(B) of this title to cover benefits in addition to the essential health benefits required to be provided by the plan, the reductions in cost-sharing under this section shall not apply to such additional benefits.
   - **(5)** If an individual enrolls in both a qualified health plan and a plan described in section 18031(d)(2)(B)(ii)(I) 2 2 So in original. Probably should be “18031(d)(3)(B)(ii)(I)”. of this title for any plan year, subsection (a) shall not apply to that portion of any reduction in cost-sharing under subsection (c) that (under regulations prescribed by the Secretary) is properly allocable to pediatric dental benefits which are included in the essential health benefits required to be provided by a qualified health plan under section 18022(b)(1)(J) of this title .
 - **(d)**
-  - **(1)** If an individual enrolled in any qualified health plan in the individual market through an Exchange is an Indian (as defined in section 5304(d) of title 25 ) whose household income is not more than 300 percent of the poverty line for a family of the size involved, then, for purposes of this section—
+  - **(1)** If an individual enrolled in any qualified health plan in the individual market through an Exchange is an Indian (as defined in section 450b(d) of title 25 ) whose household income is not more than 300 percent of the poverty line for a family of the size involved, then, for purposes of this section—
     - **(A)** such individual shall be treated as an eligible insured; and
     - **(B)** the issuer of the plan shall eliminate any cost-sharing under the plan.
   - **(2)** If an Indian (as so defined) enrolled in a qualified health plan is furnished an item or service directly by the Indian Health Service, an Indian Tribe, Tribal Organization, or Urban Indian Organization or through referral under contract health services—
@@ -56,10 +56,7 @@ generated_at: "2026-03-29T02:15:37.431Z"
       - **(ii)** A comparable method reaching the same result as the method under clause (i).
   - **(2)** For purposes of this section, an individual shall be treated as lawfully present only if the individual is, and is reasonably expected to be for the entire period of enrollment for which the cost-sharing reduction under this section is being claimed, a citizen or national of the United States or an alien lawfully present in the United States.
   - **(3)** The Secretary, in consultation with the Secretary of the Treasury, shall prescribe rules setting forth the methods by which calculations of family size and household income are made for purposes of this subsection. Such rules shall be designed to ensure that the least burden is placed on individuals enrolling in qualified health plans through an Exchange and taxpayers eligible for the credit allowable under this section.
-- **(f)** For purposes of this section, in the case of an individual who has received, or has been approved to receive, unemployment compensation for any week beginning during 2021, for the plan year in which such week begins—
-  - **(1)** such individual shall be treated as meeting the requirements of subsection (b)(2), and
-  - **(2)** for purposes of subsections (c) and (d), there shall not be taken into account any household income of the individual in excess of 133 percent of the poverty line for a family of the size involved.
-- **(g)** In this section:
+- **(f)** In this section:
   - **(1)** Any term used in this section which is also used in section 36B of title 26 shall have the meaning given such term by such section.
   - **(2)** No cost-sharing reduction shall be allowed under this section with respect to coverage for any month unless the month is a coverage month with respect to which a credit is allowed to the insured (or an applicable taxpayer on behalf of the insured) under section 36B of such title.
   - **(3)** Any determination under this section shall be made on the basis of the taxable year for which the advance determination is made under section 18082 of this title and not the taxable year for which the credit under section 36B of title 26 is allowed.

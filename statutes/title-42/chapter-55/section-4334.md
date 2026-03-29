@@ -3,12 +3,14 @@ title: "Section 4334 - Other statutory obligations of agencies"
 usc_title: 42
 usc_section: "4334"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 4334"
-generated_at: "2026-03-29T02:15:36.701Z"
+generated_at: "2026-03-29T17:53:35.248Z"
 ---
 
 # § 4334. Other statutory obligations of agencies
 
-Nothing in section 4332 or 4333 of this title shall in any way affect the specific statutory obligations of any Federal agency (1) to comply with criteria or standards of environmental quality, (2) to coordinate or consult with any other Federal or State agency, or (3) to act, or refrain from acting contingent upon the recommendations or certification of any other Federal or State agency.
+  - **(1)** to comply with criteria or standards of environmental quality,
+  - **(2)** to coordinate or consult with any other Federal or State agency, or
+  - **(3)** to act, or refrain from acting contingent upon the recommendations or certification of any other Federal or State agency.
 

@@ -3,9 +3,9 @@ title: "Section 12742 - Eligible uses of investment"
 usc_title: 42
 usc_section: "12742"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 12742"
-generated_at: "2026-03-29T02:15:37.229Z"
+generated_at: "2026-03-29T17:53:35.811Z"
 ---
 
 # § 12742. Eligible uses of investment
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T02:15:37.229Z"
 - **(b)** Participating jurisdictions shall have discretion to invest funds made available under this part as equity investments, interest-bearing loans or advances, noninterest-bearing loans or advances, interest subsidies or other forms of assistance that the Secretary has determined to be consistent with the purposes of this subchapter. Each participating jurisdiction shall have the right to establish the terms of assistance.
 - **(c)** In each fiscal year, each participating jurisdiction may use not more than 10 percent of the funds made available under this part to the jurisdiction for such year for any administrative and planning costs of the jurisdiction in carrying out this part, including the costs of the salaries of persons engaged in administering and managing activities assisted with funds made available under this part.
 - **(d)** Funds made available under this part may not be used to—
-  - **(1)** defray any administrative cost of a participating jurisdiction that exceed the amount specified under subsection (c),
+  - **(1)** defray any administrative cost of a participating jurisdiction that exceed the amount specified under subsection (c) of this section,
   - **(2)** provide tenant-based rental assistance for the special purposes of the existing section 8 [ 42 U.S.C. 1437f ] program, including replacing public housing that is demolished or disposed of, preserving federally assisted housing, assisting in the disposition of housing owned or held by the Secretary, preventing displacement from rental rehabilitation projects, or extending or renewing tenant-based assistance under section 1437f of this title ,
   - **(3)** provide non-Federal matching contributions required under any other Federal program,
   - **(4)** provide assistance authorized under section 1437g of this title ,

@@ -3,17 +3,17 @@ title: "Section 8285b - Grants"
 usc_title: 42
 usc_section: "8285b"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 8285b"
-generated_at: "2026-03-29T02:15:37.017Z"
+generated_at: "2026-03-29T17:53:35.586Z"
 ---
 
 # § 8285b. Grants
 
 - **(a)** The Secretary may make grants to any Governor of a State for the training and certification of individuals to conduct energy audits.
-- **(b)** Before making a grant under subsection (a) to a Governor, the Secretary must receive from the Governor an application containing—
+- **(b)** Before making a grant under subsection (a) of this section to a Governor, the Secretary must receive from the Governor an application containing—
     - **(A)** any information which the Secretary deems is necessary to carry out this subchapter; and
     - **(B)** an assurance that the grant will supplement and not supplant other funds available for such training and certification and will be used to increase the total amount of funds available for such training and certification.
 - **(c)**
-  - **(1)** Before making any grant under subsection (a) the Secretary shall establish minimum standards for the training and certification of individuals to conduct energy audits.
+  - **(1)** Before making any grant under subsection (a) of this section the Secretary shall establish minimum standards for the training and certification of individuals to conduct energy audits.
   - **(2)** The Secretary shall require each Governor receiving any grant under this subchapter to agree to meet the standards established pursuant to paragraph (1) in any training and certification conducted using funds provided under this subchapter.

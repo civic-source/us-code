@@ -3,18 +3,18 @@ title: "Section 11202 - Qualified service"
 usc_title: 46
 usc_section: "11202"
 chapter: 112
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 11202"
-generated_at: "2026-03-29T02:15:53.736Z"
+generated_at: "2026-03-29T17:53:41.804Z"
 ---
 
 # § 11202. Qualified service
 
-For purposes of this chapter, an individual shall be considered to have engaged in qualified service if, between August 16, 1945 , and December 31, 1946 , the individual—
+For purposes of this chapter, a person shall be considered to have engaged in qualified service if, between August 16, 1945 , and December 31, 1946 , the person—
 
   - **(1)** was a member of the United States merchant marine (including the Army Transport Service and the Naval Transport Service) serving as a crewmember of a vessel that was—
     - **(A)** operated by the War Shipping Administration or the Office of Defense Transportation (or an agent of the Administration or Office);
     - **(B)** operated in waters other than inland waters, the Great Lakes, and other lakes, bays, and harbors of the United States;
     - **(C)** under contract or charter to, or property of, the Government of the United States; and
     - **(D)** serving the Armed Forces; and
-  - **(2)** while so serving, was licensed or otherwise documented for service as a crewmember of such a vessel by an officer or employee of the United States authorized to license or document the individual for such service.
+  - **(2)** while so serving, was licensed or otherwise documented for service as a crewmember of such a vessel by an officer or employee of the United States authorized to license or document the person for such service.

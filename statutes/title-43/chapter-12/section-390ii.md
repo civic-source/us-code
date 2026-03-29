@@ -3,9 +3,9 @@ title: "Section 390ii - Disposition of excess lands"
 usc_title: 43
 usc_section: "390ii"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 390ii"
-generated_at: "2026-03-29T02:15:47.533Z"
+generated_at: "2026-03-29T17:53:03.622Z"
 ---
 
 # § 390ii. Disposition of excess lands
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:15:47.533Z"
 - **(b)** Lands held in excess of the ownership limitations imposed by Federal reclamation law, including this subchapter, which, on October 12, 1982 , are, or are capable of, receiving delivery of irrigation water made available by the operation of existing reclamation project facilities may receive such deliveries only—
   - **(1)** if the disposal of the owner’s interest in such lands is required by an existing recordable contract with the Secretary, or
   - **(2)** if the owners of such lands have requested that a recordable contract be executed by the Secretary.
-- **(c)** Recordable contracts existing on October 12, 1982 , shall be amended at the request of the landowner to conform with the ownership limitations contained in this subchapter: Provided , That the time period for disposal of excess lands specified in the existing recordable contract shall not be extended except as provided in subsection (e).
+- **(c)** Recordable contracts existing on October 12, 1982 , shall be amended at the request of the landowner to conform with the ownership limitations contained in this subchapter: Provided , That the time period for disposal of excess lands specified in the existing recordable contract shall not be extended except as provided in subsection (e) of this section.
 - **(d)** Any recordable contract covering excess lands sales shall provide that a power of attorney shall vest in the Secretary to sell any excess lands not disposed of by the owners thereof within the period of time specified in the recordable contract. In the exercise of that power, the Secretary shall sell such lands through an impartial selection process only to qualified purchasers according to such reasonable rules and regulations as the Secretary may establish: Provided , That the Secretary shall recover for the owner the fair market value of the land unrelated to irrigation water deliveries plus the fair market value of improvements thereon.
 - **(e)** In the event that the owner of any lands in excess of the ownership limitations of Federal reclamation law has heretofore entered into a recordable contract with the Secretary for the disposition of such excess lands and has been prevented from disposing of them because the Secretary may have withheld the processing or approval of the disposition of the lands (whether he may have been compelled to do so by court order or for other reasons), the period of time for the disposal of such lands by the owner thereof pursuant to the contract shall be extended from the date on which the Secretary again commences the processing or the approval of the disposition of such lands for a period which shall be equal to the remaining period of time under the recordable contract for the disposal thereof by the owner at the time the decision of the Secretary to withhold the processing or approval of such disposition first became effective.
 - **(f)** Excess lands which have been or may be disposed of in compliance with Federal reclamation law, including this subchapter, shall not be considered eligible to receive irrigation water unless—

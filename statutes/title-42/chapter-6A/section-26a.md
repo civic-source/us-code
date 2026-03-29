@@ -1,12 +1,17 @@
 ---
-title: "Section 26a - Repealed. Pub. L. 116–94, div. N, title I, § 604(c) , Dec. 20, 2019 , 133 Stat. 3127"
+title: "Section 26a - Withholding of substance abuse funding under section 300x–26"
 usc_title: 42
 usc_section: "26a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 26a"
-generated_at: "2026-03-29T02:15:35.846Z"
+generated_at: "2026-03-29T17:53:34.333Z"
 ---
 
-# § 300x–26a. Repealed. Pub. L. 116–94, div. N, title I, § 604(c) , Dec. 20, 2019 , 133 Stat. 3127
+# § 300x–26a. Withholding of substance abuse funding under section 300x–26
 
+- **(a)** Except as provided by subsection (e) none of the funds appropriated for fiscal year 2010 or any subsequent fiscal year by this or any subsequent appropriations Act may be used to withhold substance abuse funding from a State pursuant to section 300x–26 of this title if such State certifies to the Secretary of Health and Human Services by May 1 of the fiscal year for which the funds are appropriated, that the State will commit additional State funds, in accordance with subsection (b), to ensure compliance with State laws prohibiting the sale of tobacco products to individuals under 18 years of age.
+- **(b)** The amount of funds to be committed by a State under subsection (a) shall be equal to 1 percent of such State’s substance abuse block grant allocation for each percentage point by which the State misses the retailer compliance rate goal established by the Secretary under section 300x–26 of this title .
+- **(c)** The State is to maintain State expenditures in such fiscal year for tobacco prevention programs and for compliance activities at a level that is not less than the level of such expenditures maintained by the State for the preceding fiscal year, and adding to that level the additional funds for tobacco compliance activities required under subsection (a). The State is to submit a report to the Secretary on all State obligations of funds for such fiscal year and all State expenditures for the preceding fiscal year for tobacco prevention and compliance activities by program activity by July 31 of such fiscal year.
+- **(d)** The Secretary shall exercise discretion in enforcing the timing of the State obligation of the additional funds required by the certification described in subsection (a) as late as July 31 of such fiscal year.
+- **(e)** None of the funds appropriated by this or any subsequent appropriations Act may be used to withhold substance abuse funding pursuant to section 300x–26 of this title from a territory that receives less than $1,000,000.

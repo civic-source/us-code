@@ -3,14 +3,14 @@ title: "Section 1618 - Revocation of reserved rights; excepted reserve; acquisit
 usc_title: 43
 usc_section: "1618"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1618"
-generated_at: "2026-03-29T02:15:47.618Z"
+generated_at: "2026-03-29T17:53:03.711Z"
 ---
 
 # § 1618. Revocation of reserved rights; excepted reserve; acquisition of title to surface and subsurface estates in reserve; election of Village Corporations; restoration of land to Elim Native Corporation
 
-- **(a)** Notwithstanding any other provision of law, and except where inconsistent with the provisions of this chapter, the various reserves set aside by legislation or by Executive or Secretarial Order for Native use or for administration of Native affairs, including those created under the Act of May 31, 1938 ( 52 Stat. 593 ), are hereby revoked subject to any valid existing rights of non-Natives. This section shall not apply to the Annette Island Reserve established by the Act of March 3, 1891 ( 26 Stat. 1101 ) and no person enrolled in the Metlakatla Indian community of the Annette Island Reserve shall be eligible for benefits under this chapter.
+- **(a)** Notwithstanding any other provision of law, and except where inconsistent with the provisions of this chapter, the various reserves set aside by legislation or by Executive or Secretarial Order for Native use or for administration of Native affairs, including those created under section 497 of title 25 , are hereby revoked subject to any valid existing rights of non-Natives. This section shall not apply to the Annette Island Reserve established by section 495 of title 25 and no person enrolled in the Metlakatla Indian community of the Annette Island Reserve shall be eligible for benefits under this chapter.
 - **(b)** Notwithstanding any other provision of law or of this chapter, any Village Corporation or Corporations may elect within two years to acquire title to the surface and subsurface estates in any reserve set aside for the use or benefit of its stockholders or members prior to December 18, 1971 . If two or more villages are located on such reserve, the election must be made by all of the members or stockholders of the Village Corporations concerned. In such event, the Secretary shall convey the land to the Village Corporation or Corporations, subject to valid existing rights as provided in section 1613(g) of this title , and the Village Corporation shall not be eligible for any other land selections under this chapter or to any distribution of Regional Corporations funds pursuant to section 1606 of this title , and the enrolled residents of the Village Corporation shall not be eligible to receive Regional Corporation stock.
 - **(c)**
   - **(1)** The Congress finds that—

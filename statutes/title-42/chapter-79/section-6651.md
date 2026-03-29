@@ -3,15 +3,15 @@ title: "Section 6651 - Establishment, membership, and functions of Council"
 usc_title: 42
 usc_section: "6651"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6651"
-generated_at: "2026-03-29T02:15:36.838Z"
+generated_at: "2026-03-29T17:53:35.407Z"
 ---
 
 # § 6651. Establishment, membership, and functions of Council
 
 - **(a)** There is established the Federal Coordinating Council for Science, Engineering, and Technology (hereinafter referred to as the “Council”).
-- **(b)** The Council shall be composed of the Director of the Office of Science and Technology Policy, the Director of the Office of Pandemic Preparedness and Response Policy, and one representative of each of the following Federal agencies: Department of Agriculture, Department of Commerce, Department of Defense, Department of Health and Human Services, Department of Housing and Urban Development, Department of the Interior, Department of State, Department of Transportation, Department of Veterans Affairs, National Aeronautics and Space Administration, National Science Foundation, Environmental Protection Agency, and Department of Energy. Each such representative shall be an official of policy rank designated by the head of the Federal agency concerned.
+- **(b)** The Council shall be composed of the Director of the Office of Science and Technology Policy and one representative of each of the following Federal agencies: Department of Agriculture, Department of Commerce, Department of Defense, Department of Health and Human Services, Department of Housing and Urban Development, Department of the Interior, Department of State, Department of Transportation, Department of Veterans Affairs, National Aeronautics and Space Administration, National Science Foundation, Environmental Protection Agency, and Department of Energy. Each such representative shall be an official of policy rank designated by the head of the Federal agency concerned.
 - **(c)** The Director of the Office of Science and Technology Policy shall serve as Chairman of the Council. The Chairman may designate another member of the Council to act temporarily in the Chairman’s absence as Chairman.
 - **(d)** The Chairman may (1) request the head of any Federal agency not named in subsection (b) of this section to designate a representative to participate in meetings or parts of meetings of the Council concerned with matters of substantial interest to such agency, and (2) invite other persons to attend meetings of the Council.
 - **(e)** The Council shall consider problems and developments in the fields of science, engineering, and technology and related activities affecting more than one Federal agency, and shall recommend policies and other measures designed to—

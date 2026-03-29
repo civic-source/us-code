@@ -3,14 +3,14 @@ title: "Section 658a - Incentive payments to States"
 usc_title: 42
 usc_section: "658a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 658a"
-generated_at: "2026-03-29T02:15:36.016Z"
+generated_at: "2026-03-29T17:53:34.495Z"
 ---
 
 # § 658a. Incentive payments to States
 
-- **(a)** In addition to any other payment under this part, the Secretary shall, subject to subsection (f), make an incentive payment to each State for each fiscal year in an amount determined under subsection (b).
+- **(a)** In addition to any other payment under this part, the Secretary shall, subject to subsection (f) of this section, make an incentive payment to each State for each fiscal year in an amount determined under subsection (b) of this section.
 - **(b)**
   - **(1)** The incentive payment for a State for a fiscal year is equal to the incentive payment pool for the fiscal year, multiplied by the State incentive payment share for the fiscal year.
   - **(2)**
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T02:15:36.016Z"
     - **(B)** Notwithstanding subparagraph (A), the maximum incentive base amount for a State for a fiscal year with respect to a performance measure described in paragraph (4) is zero, unless the Secretary determines, on the basis of an audit performed under section 652(a)(4)(C)(i) of this title , that the data which the State submitted pursuant to section 654(15)(B) of this title for the fiscal year and which is used to determine the performance level involved is complete and reliable.
     - **(C)** For purposes of subparagraph (A), the State collections base for a fiscal year is equal to the sum of—
       - **(i)** 2 times the sum of—
-        - **(I)** the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved is required to be assigned to the State pursuant to part A or E of this subchapter or subchapter XIX; and
+        - **(I)** the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved is required to be assigned to the State pursuant to part A or E of this subchapter or subchapter XIX of this chapter; and
         - **(II)** the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved was so assigned but, at the time of collection, is not required to be so assigned; and
       - **(ii)** the total amount of support collected during the fiscal year under the State plan approved under this part in all other cases.
   - **(6)**

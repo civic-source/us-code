@@ -3,9 +3,9 @@ title: "Section 3 - Compensation schedule for survivors"
 usc_title: 42
 usc_section: "3"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T02:15:36.901Z"
+generated_at: "2026-03-29T17:53:35.473Z"
 ---
 
 # § 7385s–3. Compensation schedule for survivors
@@ -16,8 +16,8 @@ generated_at: "2026-03-29T02:15:36.901Z"
     - **(B)** it is at least as likely as not that exposure to a toxic substance at a Department of Energy facility was a significant factor in aggravating, contributing to, or causing the death of such employee.
   - **(2)** The survivor shall receive the amount of $150,000, if paragraph (1) applies to the employee and the Secretary also determines that there was an aggregate period of not less than 10 years, before the employee attained normal retirement age (for purposes of the Social Security Act [ 42 U.S.C. 301 et seq.]), during which, as the result of any covered illness contracted by that employee through exposure to a toxic substance at a Department of Energy facility, the employee’s annual wage did not exceed 50 percent of the average annual wage of that employee, as determined under section 7385s–2(a)(2)(A)(ii) of this title .
   - **(3)** The survivor shall receive the amount of $175,000, if paragraph (1) applies to the employee and the Secretary also determines that there was an aggregate period of not less than 20 years, before the employee attained normal retirement age (for purposes of the Social Security Act [ 42 U.S.C. 301 et seq.]), during which, as the result of any covered illness contracted by that employee through exposure to a toxic substance at a Department of Energy facility, the employee’s annual wage did not exceed 50 percent of the average annual wage of that employee, as determined under section 7385s–2(a)(2)(A)(ii) of this title .
-- **(b)** The survivor of a covered DOE contractor employee to whom more than one amount under subsection (a) applies shall receive only the highest such amount.
-- **(c)** The amount under subsection (a) shall be paid only as follows:
+- **(b)** The survivor of a covered DOE contractor employee to whom more than one amount under subsection (a) of this section applies shall receive only the highest such amount.
+- **(c)** The amount under subsection (a) of this section shall be paid only as follows:
   - **(1)** If a covered spouse is alive at the time of payment, such payment shall be made to such surviving spouse.
   - **(2)** If there is no covered spouse described in paragraph (1), such payment shall be made in equal shares to all covered children who are alive at the time of payment.
   - **(3)** Notwithstanding the other provisions of this subsection, if there is—

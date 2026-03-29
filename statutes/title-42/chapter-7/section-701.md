@@ -3,9 +3,9 @@ title: "Section 701 - Authorization of appropriations; purposes; definitions"
 usc_title: 42
 usc_section: "701"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 701"
-generated_at: "2026-03-29T02:15:36.038Z"
+generated_at: "2026-03-29T17:53:34.514Z"
 ---
 
 # § 701. Authorization of appropriations; purposes; definitions
@@ -13,13 +13,13 @@ generated_at: "2026-03-29T02:15:36.038Z"
 - **(a)** To improve the health of all mothers and children consistent with the applicable health status goals and national health objectives established by the Secretary under the Public Health Service Act [ 42 U.S.C. 201 et seq.] for the year 2000, there are authorized to be appropriated $850,000,000 for fiscal year 2001 and each fiscal year thereafter—
   - **(1)** for the purpose of enabling each State—
     - **(A)** to provide and to assure mothers and children (in particular those with low income or with limited availability of health services) access to quality maternal and child health services;
-    - **(B)** to reduce infant mortality and the incidence of preventable diseases and handicapping conditions among children, to reduce the incidence of stillbirth, to reduce the need for inpatient and long-term care services, to increase the number of children (especially preschool children) appropriately immunized against disease and the number of low income children receiving health assessments and follow-up diagnostic and treatment services, and otherwise to promote the health of mothers and infants by providing prenatal, delivery, and postpartum care for low income, at-risk pregnant women, and to promote the health of children by providing preventive and primary care services for low income children;
-    - **(C)** to provide rehabilitation services for blind and disabled individuals under the age of 16 receiving benefits under subchapter XVI, to the extent medical assistance for such services is not provided under subchapter XIX; and
-    - **(D)** to provide and to promote family-centered, community-based, coordinated care (including care coordination services, as defined in subsection (b)(3)) for children with special health care needs and to facilitate the development of community-based systems of services for such children and their families;
-  - **(2)** for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance, research, and training with respect to maternal and child health and children with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for the screening of newborns for sickle cell anemia, and other genetic disorders and follow-up services, and for evidence-based programs and activities and outcome research to reduce the incidence of stillbirth (including tracking and awareness of fetal movements, improvement of birth timing for pregnancies with risk factors, initiatives that encourage safe sleeping positions during pregnancy, screening and surveillance for fetal growth restriction, efforts to achieve smoking cessation during pregnancy, community-based programs that provide home visits or other types of support, and any other research or evidence-based programming to prevent stillbirths); and
+    - **(B)** to reduce infant mortality and the incidence of preventable diseases and handicapping conditions among children, to reduce the need for inpatient and long-term care services, to increase the number of children (especially preschool children) appropriately immunized against disease and the number of low income children receiving health assessments and follow-up diagnostic and treatment services, and otherwise to promote the health of mothers and infants by providing prenatal, delivery, and postpartum care for low income, at-risk pregnant women, and to promote the health of children by providing preventive and primary care services for low income children;
+    - **(C)** to provide rehabilitation services for blind and disabled individuals under the age of 16 receiving benefits under subchapter XVI of this chapter, to the extent medical assistance for such services is not provided under subchapter XIX of this chapter; and
+    - **(D)** to provide and to promote family-centered, community-based, coordinated care (including care coordination services, as defined in subsection (b)(3) of this section) for children with special health care needs and to facilitate the development of community-based systems of services for such children and their families;
+  - **(2)** for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance, research, and training with respect to maternal and child health and children with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for the screening of newborns for sickle cell anemia, and other genetic disorders and follow-up services; and
   - **(3)** subject to section 702(b) of this title for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for developing and expanding the following—
-    - **(A)** maternal and infant health home visiting programs in which case management services as defined in subparagraphs (A) and (B) of subsection (b)(4), health education services, and related social support services are provided in the home to pregnant women or families with an infant up to the age one by an appropriate health professional or by a qualified nonprofessional acting under the supervision of a health care professional,
-    - **(B)** projects designed to increase the participation of obstetricians and pediatricians under the program under this subchapter and under state 1 1 So in original. Probably should be capitalized. plans approved under subchapter XIX,
+    - **(A)** maternal and infant health home visiting programs in which case management services as defined in subparagraphs (A) and (B) of subsection (b)(4) of this section, health education services, and related social support services are provided in the home to pregnant women or families with an infant up to the age one by an appropriate health professional or by a qualified nonprofessional acting under the supervision of a health care professional,
+    - **(B)** projects designed to increase the participation of obstetricians and pediatricians under the program under this subchapter and under state 1 1 So in original. Probably should be capitalized. plans approved under subchapter XIX of this chapter,
     - **(C)** integrated maternal and child health service delivery systems (of the type described in section 1320b–6 2 2 See References in Text note below. of this title and using, once developed, the model application form developed under section 6506(a) of the Omnibus Budget Reconciliation Act of 1989),
     - **(D)** maternal and child health centers which (i) provide prenatal, delivery, and postpartum care for pregnant women and preventive and primary care services for infants up to age one, and (ii) operate under the direction of a not-for-profit hospital,
     - **(E)** maternal and child health projects to serve rural populations, and
@@ -42,11 +42,8 @@ generated_at: "2026-03-29T02:15:36.038Z"
       - **(ii)** $4,000,000 for fiscal year 2008;
       - **(iii)** $5,000,000 for each of fiscal years 2009 through 2013;
       - **(iv)** $2,500,000 for the portion of fiscal year 2014 before April 1, 2014 ;
-      - **(v)** $2,500,000 for the portion of fiscal year 2014 on or after April 1, 2014 ;
-      - **(vi)** $5,000,000 for each of fiscal years 2015 through 2017;
-      - **(vii)** $6,000,000 for each of fiscal years 2018 through 2024;
-      - **(viii)** $6,000,000 for fiscal year 2025; and
-      - **(ix)** for the period beginning on October 1, 2025 , and ending on January 30, 2026 , an amount equal to the pro rata portion of the amount appropriated for fiscal year 2025.
+      - **(v)** $2,500,000 for the portion of fiscal year 2014 on or after April 1, 2014 ; and
+      - **(vi)** $2,500,000 for the portion of fiscal year 2015 before April 1, 2015 .
     - **(B)** Funds appropriated or authorized to be appropriated under subparagraph (A) shall—
       - **(i)** be in addition to amounts appropriated under subsection (a) and retained under section 702(a)(1) of this title for the purpose of carrying out activities described in subsection (a)(2); and
       - **(ii)** remain available until expended.
@@ -63,9 +60,6 @@ generated_at: "2026-03-29T02:15:36.038Z"
   - **(3)** The Secretary shall develop family-to-family health information centers described in paragraph (2) in accordance with the following:
     - **(A)** With respect to fiscal year 2007, such centers shall be developed in not less than 25 States.
     - **(B)** With respect to fiscal year 2008, such centers shall be developed in not less than 40 States.
-    - **(C)** With respect to fiscal year 2009 and each fiscal year thereafter, such centers shall be developed in all States, and with respect to fiscal year 2018 and each fiscal year thereafter, such centers shall also be developed in all territories and at least one such center shall be developed for Indian tribes.
+    - **(C)** With respect to fiscal year 2009 and each fiscal year thereafter, such centers shall be developed in all States.
   - **(4)** The provisions of this subchapter that are applicable to the funds made available to the Secretary under section 702(a)(1) of this title apply in the same manner to funds made available to the Secretary under paragraph (1)(A).
-  - **(5)** For purposes of this subsection—
-    - **(A)** the term “Indian tribe” has the meaning given such term in section 1603 of title 25 ;
-    - **(B)** the term “State” means each of the 50 States and the District of Columbia; and
-    - **(C)** the term “territory” means Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands.
+  - **(5)** For purposes of this subsection, the term “State” means each of the 50 States and the District of Columbia.

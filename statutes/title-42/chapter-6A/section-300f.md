@@ -3,9 +3,9 @@ title: "Section 300f - Definitions"
 usc_title: 42
 usc_section: "300f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 300f"
-generated_at: "2026-03-29T02:15:35.806Z"
+generated_at: "2026-03-29T17:53:34.293Z"
 ---
 
 # § 300f. Definitions
@@ -41,7 +41,7 @@ For purposes of this subchapter:
   - **(13)**
     - **(A)** Except as provided in subparagraph (B), the term “State” includes, in addition to the several States, only the District of Columbia, Guam, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands.
     - **(B)** For purposes of section 300j–12 of this title , the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
-  - **(14)** The term “Indian Tribe” means any Indian tribe having a Federally recognized governing body carrying out substantial governmental duties and powers over any area. For purposes of sections 300j–12, 300j–19a, and 300j–19b of this title, the term includes any Native village (as defined in section 1602(c) of title 43 ).
+  - **(14)** The term “Indian Tribe” means any Indian tribe having a Federally recognized governing body carrying out substantial governmental duties and powers over any area. For purposes of section 300j–12 of this title , the term includes any Native village (as defined in section 1602(c) of title 43 ).
   - **(15)** The term “community water system” means a public water system that—
     - **(A)** serves at least 15 service connections used by year-round residents of the area served by the system; or
     - **(B)** regularly serves at least 25 year-round residents.

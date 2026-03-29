@@ -3,9 +3,9 @@ title: "Section 7424 - Assurance of adequacy of State plans"
 usc_title: 42
 usc_section: "7424"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7424"
-generated_at: "2026-03-29T02:15:36.924Z"
+generated_at: "2026-03-29T17:53:35.496Z"
 ---
 
 # § 7424. Assurance of adequacy of State plans
@@ -15,5 +15,5 @@ generated_at: "2026-03-29T02:15:36.924Z"
   - **(2)** the extent to which such plan may reasonably be anticipated to be inadequate to meet the requirements of this chapter in such State on a reliable and long-term basis by reason of its dependence upon the use of such fuels, and
   - **(3)** the extent to which compliance with the requirements of such plan is dependent upon use of coal or coal derivatives which is not locally or regionally available.
 - **(b)**
-  - **(1)** Not later than eighteen months after August 7, 1977 , the Administrator shall review the submissions of the States under subsection (a) and shall require each State to revise its plan if, in the judgment of the Administrator, such plan revision is necessary to assure that such plan will be adequate to assure compliance with the requirements of this chapter in such State on a reliable and long-term basis, taking into account the actual or potential prohibitions on use of petroleum products or natural gas, or both, under any other authority of law.
+  - **(1)** Not later than eighteen months after August 7, 1977 , the Administrator shall review the submissions of the States under subsection (a) of this section and shall require each State to revise its plan if, in the judgment of the Administrator, such plan revision is necessary to assure that such plan will be adequate to assure compliance with the requirements of this chapter in such State on a reliable and long-term basis, taking into account the actual or potential prohibitions on use of petroleum products or natural gas, or both, under any other authority of law.
   - **(2)** Before requiring a plan revision under this subsection, with respect to any State the Administrator shall take into account the report of the review conducted by such State under paragraph (1) and shall consult with the Governor of the State respecting such required revision.

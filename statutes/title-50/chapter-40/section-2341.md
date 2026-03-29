@@ -3,9 +3,9 @@ title: "Section 2341 - Elimination of plutonium production"
 usc_title: 50
 usc_section: "2341"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2341"
-generated_at: "2026-03-29T02:16:14.742Z"
+generated_at: "2026-03-29T17:53:51.008Z"
 ---
 
 # § 2341. Elimination of plutonium production
@@ -19,6 +19,6 @@ generated_at: "2026-03-29T02:16:14.742Z"
       - **(ii)** clearly defined milestones to be achieved; and
     - **(B)** include estimates of the costs of the program.
 - **(c)** Not later than 180 days after September 23, 1996 , the Secretary of Defense shall submit to Congress—
-  - **(1)** a plan for the program under subsection (a);
+  - **(1)** a plan for the program under subsection (a) of this section;
   - **(2)** an estimate of the United States funding that is necessary for carrying out the activities under the program for each fiscal year covered by the program; and
   - **(3)** a comparison of the benefits of the program with the benefits of other nonproliferation programs.

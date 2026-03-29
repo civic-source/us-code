@@ -3,9 +3,9 @@ title: "Section 2410 - Status of Administration and contractor personnel within 
 usc_title: 50
 usc_section: "2410"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2410"
-generated_at: "2026-03-29T02:16:14.745Z"
+generated_at: "2026-03-29T17:53:51.012Z"
 ---
 
 # § 2410. Status of Administration and contractor personnel within Department of Energy
@@ -17,9 +17,7 @@ generated_at: "2026-03-29T02:16:14.745Z"
     - **(C)** the Administrator’s designee within the Administration; and
   - **(2)** shall not be responsible to, or subject to the authority, direction, or control of, any other officer, employee, or agent of the Department of Energy.
 - **(b)** Each officer or employee of a contractor of the Administration shall not be responsible to, or subject to the authority, direction, or control of, any officer, employee, or agent of the Department of Energy who is not an employee of the Administration, except for the Secretary of Energy consistent with section 7132(c)(3) of title 42 .
-- **(c)** Subsections (a) and (b) may not be interpreted to in any way preclude or interfere with the communication of technical findings derived from, and in accord with, duly authorized activities between—
-  - **(1)** the head, or any contractor employee, of a national security laboratory or of a nuclear weapons production facility; and
-  - **(2)** the Department of Energy, the President, or Congress.
+- **(c)** Subsections (a) and (b) of this section may not be interpreted to in any way preclude or interfere with the communication of technical findings derived from, and in accord with, duly authorized activities between (1) the head, or any contractor employee, of a national security laboratory or of a nuclear weapons production facility, and (2) the Department of Energy, the President, or Congress.
 - **(d)** Except in accordance with sections 2402(a)(2) and 2406(a)(1) of this title:
   - **(1)** An individual may not concurrently hold or carry out the responsibilities of—
     - **(A)** a position within the Administration; and

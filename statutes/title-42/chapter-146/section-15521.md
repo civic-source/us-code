@@ -1,12 +1,16 @@
 ---
-title: "Section 15521 - Transferred"
+title: "Section 15521 - Establishment of program"
 usc_title: 42
 usc_section: "15521"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 15521"
-generated_at: "2026-03-29T02:15:37.301Z"
+generated_at: "2026-03-29T17:53:35.948Z"
 ---
 
-# § 15521. Transferred
+# § 15521. Establishment of program
 
+- **(a)** Not later than 1 year after the appointment of its members, the Election Assistance Commission shall develop a program to be known as the “Help America Vote College Program” (hereafter in this subchapter referred to as the “Program”).
+- **(b)** The purpose of the Program shall be—
+  - **(1)** to encourage students enrolled at institutions of higher education (including community colleges) to assist State and local governments in the administration of elections by serving as nonpartisan poll workers or assistants; and
+  - **(2)** to encourage State and local governments to use the services of the students participating in the Program.

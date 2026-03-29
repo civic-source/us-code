@@ -3,9 +3,9 @@ title: "Section 2901 - Definitions"
 usc_title: 44
 usc_section: "2901"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "44 U.S.C. § 2901"
-generated_at: "2026-03-29T02:15:49.333Z"
+generated_at: "2026-03-29T17:53:10.506Z"
 ---
 
 # § 2901. Definitions
@@ -32,13 +32,8 @@ As used in this chapter, and chapters 21, 25, 31, and 33 of this title—
     - **(A)** by furnishing the records or other materials, or information from them, or copies or reproductions thereof, to any Federal agency for official use, or to the public; or
     - **(B)** by making and furnishing authenticated or unauthenticated copies or reproductions of the records or other materials;
   - **(10)** the term “unauthenticated copies” means exact copies or reproductions of records or other materials that are not certified as such under seal and that need not be legally accepted as evidence;
-  - **(11)** the term “National Archives of the United States” means those official records which have been determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the Federal Government, and which have been accepted by the Archivist for deposit in the Archivist’s custody;
+  - **(11)** the term “National Archives of the United States” means those official records which have been determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the Federal Government, and which have been accepted by the Archivist for deposit in his custody;
   - **(12)** the term “Archivist” means the Archivist of the United States;
   - **(13)** the term “executive agency” shall have the meaning given such term by section 102 of title 40 ;
-  - **(14)** the term “Federal agency” means any executive agency or any establishment in the legislative or judicial branch of the Government (except the Supreme Court, the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol);
-  - **(15)** the term “electronic messages” means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals; and
-  - **(16)** the term “electronic records management system” means software designed to manage electronic records, including by—
-    - **(A)** categorizing and locating records;
-    - **(B)** ensuring that records are retained as long as necessary;
-    - **(C)** identifying records that are due for disposition; and
-    - **(D)** ensuring the storage, retrieval, and disposition of records.
+  - **(14)** the term “Federal agency” means any executive agency or any establishment in the legislative or judicial branch of the Government (except the Supreme Court, the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol); and
+  - **(15)** the term “Administrator” means the Administrator of General Services.

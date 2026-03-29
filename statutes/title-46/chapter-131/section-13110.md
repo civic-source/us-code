@@ -1,12 +1,23 @@
 ---
-title: "Section 13110 - Repealed. Pub. L. 115–282, title VI, § 601(c)(4)(A) , Dec. 4, 2018 , 132 Stat. 4289 ]"
+title: "Section 13110 - National Boating Safety Advisory Council"
 usc_title: 46
 usc_section: "13110"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 13110"
-generated_at: "2026-03-29T02:15:53.742Z"
+generated_at: "2026-03-29T17:53:41.808Z"
 ---
 
-# [§ 13110. Repealed. Pub. L. 115–282, title VI, § 601(c)(4)(A) , Dec. 4, 2018 , 132 Stat. 4289 ]
+# § 13110. National Boating Safety Advisory Council
 
+- **(a)** The Secretary shall establish a National Boating Safety Advisory Council. The Council shall consist of 21 members appointed by the Secretary, whom the Secretary considers to have a particular expertise, knowledge, and experience in recreational boating safety.
+- **(b)**
+  - **(1)** The membership of the Council shall consist of—
+    - **(A)** 7 representatives of State officials responsible for State boating safety programs;
+    - **(B)** 7 representatives of recreational vessel manufacturers and associated equipment manufacturers; and
+    - **(C)** 7 representatives of national recreational boating organizations and from the general public, at least 5 of whom shall be representatives of national recreational boating organizations.
+  - **(2)** Additional individuals from the sources referred to in paragraph (1) of this subsection may be appointed to panels of the Council to assist the Council in performing its duties.
+  - **(3)** At least once a year, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the Council.
+- **(c)** In addition to the consultation required by section 4302 of this title , the Secretary shall consult with the Council on other major boating safety matters related to this chapter. The Council may make available to Congress information, advice, and recommendations that the Council is authorized to give to the Secretary.
+- **(d)** When serving away from home or regular place of business, the member may be allowed travel expenses, including per diem in lieu of subsistence as authorized by section 5703 of title 5 for individuals employed intermittently in the Government service. A payment under this section does not make a member of the Council an officer or employee of the United States Government for any purpose.
+- **(e)** The Council shall terminate on September 30, 2020 .

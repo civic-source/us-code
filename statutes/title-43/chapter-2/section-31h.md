@@ -3,14 +3,14 @@ title: "Section 31h - Authorization of appropriations"
 usc_title: 43
 usc_section: "31h"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 31h"
-generated_at: "2026-03-29T02:15:47.506Z"
+generated_at: "2026-03-29T17:53:03.597Z"
 ---
 
 # § 31h. Authorization of appropriations
 
-- **(a)** There is authorized to be appropriated to carry out sections 31a to 31h of this title $64,000,000 for each of fiscal years 2009 through 2031.
+- **(a)** There is authorized to be appropriated to carry out sections 31a to 31h of this title $64,000,000 for each of fiscal years 2009 through 2018.
 - **(b)** Of any amounts appropriated for any fiscal year in excess of the amount appropriated for fiscal year 2005—
   - **(1)** 50 percent shall be available for the State component; and
   - **(2)** 4 percent shall be available for the education component.

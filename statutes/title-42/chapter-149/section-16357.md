@@ -1,14 +1,14 @@
 ---
-title: "Section 16357 - Strategy for facilities and infrastructure"
+title: "Section 16357 - Strategy and plan for science and energy facilities and infrastructure"
 usc_title: 42
 usc_section: "16357"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 16357"
-generated_at: "2026-03-29T02:15:37.356Z"
+generated_at: "2026-03-29T17:53:35.994Z"
 ---
 
-# § 16357. Strategy for facilities and infrastructure
+# § 16357. Strategy and plan for science and energy facilities and infrastructure
 
 - **(a)**
   - **(1)** The Secretary shall develop and implement a strategy for facilities and infrastructure supported primarily from the Office of Science, the Office of Energy Efficiency and Renewable Energy, the Office of Fossil Energy, or the Office of Nuclear Energy, Science and Technology Programs at all National Laboratories and single-purpose research facilities.
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:15:37.356Z"
     - **(C)** making facility modifications; and
     - **(D)** building new facilities.
 - **(b)**
-  - **(1)** The Secretary shall prepare and submit, along with the budget request of the President submitted to Congress for fiscal year 2018, a report describing the strategy developed under subsection (a).
+  - **(1)** The Secretary shall prepare and submit, along with the budget request of the President submitted to Congress for fiscal year 2008, a report describing the strategy developed under subsection (a).
   - **(2)** For each National Laboratory and single-purpose research facility that is primarily used for science and energy research, the report shall contain—
     - **(A)** the current priority list of proposed facilities and infrastructure projects, including cost and schedule requirements;
     - **(B)** a current 10-year plan that demonstrates the reconfiguration of its facilities and infrastructure to meet its missions and to address its long-term operational costs and return on investment;

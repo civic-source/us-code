@@ -3,9 +3,9 @@ title: "Section 1084 - Transmission of wagering information; penalties"
 usc_title: 18
 usc_section: "1084"
 chapter: 50
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 1084"
-generated_at: "2026-03-29T17:53:15.620Z"
+generated_at: "2026-03-29T17:53:59.611Z"
 ---
 
 # § 1084. Transmission of wagering information; penalties

@@ -3,14 +3,14 @@ title: "Section 40902 - Financial responsibility"
 usc_title: 46
 usc_section: "40902"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 40902"
-generated_at: "2026-03-29T02:15:53.752Z"
+generated_at: "2026-03-29T17:53:41.817Z"
 ---
 
 # § 40902. Financial responsibility
 
-- **(a)** A person may not advertise, hold oneself out, or act as an ocean transportation intermediary unless the person furnishes a bond, proof of insurance, or other surety—
+- **(a)** A person may not act as an ocean transportation intermediary unless the person furnishes a bond, proof of insurance, or other surety—
   - **(1)** in a form and amount determined by the Federal Maritime Commission to insure financial responsibility; and
   - **(2)** issued by a surety company found acceptable by the Secretary of the Treasury.
 - **(b)** A bond, insurance, or other surety obtained under this section—

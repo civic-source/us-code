@@ -3,9 +3,9 @@ title: "Section 1 - Grants to promote comprehensive State elder justice systems"
 usc_title: 42
 usc_section: "1"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T02:15:36.653Z"
+generated_at: "2026-03-29T17:53:35.160Z"
 ---
 
 # § 3058aa–1. Grants to promote comprehensive State elder justice systems

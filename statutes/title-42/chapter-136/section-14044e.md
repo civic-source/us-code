@@ -1,12 +1,17 @@
 ---
-title: "Section 14044e - Transferred"
+title: "Section 14044e - Definitions"
 usc_title: 42
 usc_section: "14044e"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 14044e"
-generated_at: "2026-03-29T02:15:37.278Z"
+generated_at: "2026-03-29T17:53:35.892Z"
 ---
 
-# § 14044e. Transferred
+# § 14044e. Definitions
 
+In this part:
+
+  - **(1)** The term “severe forms of trafficking in persons” has the meaning given the term in section 7102(9) of title 22 .
+  - **(2)** The term “sex trafficking” has the meaning given the term in section 7102(10) of title 22 .
+  - **(3)** The term “commercial sex act” has the meaning given the term in section 7102(4) of title 22 .

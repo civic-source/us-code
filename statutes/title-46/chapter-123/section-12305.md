@@ -3,9 +3,9 @@ title: "Section 12305 - Displaying numbers"
 usc_title: 46
 usc_section: "12305"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 12305"
-generated_at: "2026-03-29T02:15:53.740Z"
+generated_at: "2026-03-29T17:53:41.807Z"
 ---
 
 # § 12305. Displaying numbers

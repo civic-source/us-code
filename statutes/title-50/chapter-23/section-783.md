@@ -3,9 +3,9 @@ title: "Section 783 - Offenses"
 usc_title: 50
 usc_section: "783"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 783"
-generated_at: "2026-03-29T02:16:14.697Z"
+generated_at: "2026-03-29T17:53:50.966Z"
 ---
 
 # § 783. Offenses
@@ -23,5 +23,5 @@ generated_at: "2026-03-29T02:16:14.697Z"
     - **(A)** property subject to forfeiture under this subsection;
     - **(B)** any seizure or disposition of such property; and
     - **(C)** any administrative or judicial proceeding in relation to such property,
-  - **(4)** Notwithstanding section 524(c) of title 28 , there shall be deposited in the Crime Victims Fund established under section 20101 of title 34 all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
+  - **(4)** Notwithstanding section 524(c) of title 28 , there shall be deposited in the Crime Victims Fund established under section 10601 of title 42 all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
   - **(5)** As used in this subsection, the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.

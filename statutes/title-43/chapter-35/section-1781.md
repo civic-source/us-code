@@ -3,9 +3,9 @@ title: "Section 1781 - California Desert Conservation Area"
 usc_title: 43
 usc_section: "1781"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1781"
-generated_at: "2026-03-29T02:15:47.645Z"
+generated_at: "2026-03-29T17:53:03.734Z"
 ---
 
 # § 1781. California Desert Conservation Area
@@ -14,12 +14,12 @@ generated_at: "2026-03-29T02:15:47.645Z"
   - **(1)** the California desert contains historical, scenic, archeological, environmental, biological, cultural, scientific, educational, recreational, and economic resources that are uniquely located adjacent to an area of large population;
   - **(2)** the California desert environment is a total ecosystem that is extremely fragile, easily scarred, and slowly healed;
   - **(3)** the California desert environment and its resources, including certain rare and endangered species of wildlife, plants, and fishes, and numerous archeological and historic sites, are seriously threatened by air pollution, inadequate Federal management authority, and pressures of increased use, particularly recreational use, which are certain to intensify because of the rapidly growing population of southern California;
-  - **(4)** the use of all California desert resources can and should be provided for in a multiple use and sustained yield management plant 1 1 So in original. Probably should be “plan”. to conserve these resources for future generations, and to provide present and future use and enjoyment, particularly outdoor recreation uses, including the use, where appropriate, of off-road recreational vehicles;
+  - **(4)** the use of all California desert resources can and should be provided for in a multiple use and sustained yield management plant to conserve these resources for future generations, and to provide present and future use and enjoyment, particularly outdoor recreation uses, including the use, where appropriate, of off-road recreational vehicles;
   - **(5)** the Secretary has initiated a comprehensive planning process and established an interim management program for the public lands in the California desert; and
   - **(6)** to insure further study of the relationship of man and the California desert environment, preserve the unique and irreplaceable resources, including archeological values, and conserve the use of the economic resources of the California desert, the public must be provided more opportunity to participate in such planning and management, and additional management authority must be provided to the Secretary to facilitate effective implementation of such planning and management.
 - **(b)** It is the purpose of this section to provide for the immediate and future protection and administration of the public lands in the California desert within the framework of a program of multiple use and sustained yield, and the maintenance of environmental quality.
 - **(c)**
-  - **(1)** For the purpose of this section, the term “California desert” means the area generally depicted on a map entitled “California Desert Conservation Area—Proposed” dated April 1974, and described as provided in subsection (c)(2).
+  - **(1)** For the purpose of this section, the term “California desert” means the area generally depicted on a map entitled “California Desert Conservation Area—Proposed” dated April 1974, and described as provided in subsection (c)(2) of this section.
   - **(2)** As soon as practicable after October 21, 1976 , the Secretary shall file a revised map and a legal description of the California Desert Conservation Area with the Committees on Interior and Insular Affairs of the United States Senate and the House of Representatives, and such map and description shall have the same force and effect as if included in this Act. Correction of clerical and typographical errors in such legal description and a map may be made by the Secretary. To the extent practicable, the Secretary shall make such legal description and map available to the public promptly upon request.
 - **(d)** The Secretary, in accordance with section 1712 of this title , shall prepare and implement a comprehensive, long-range plan for the management, use, development, and protection of the public lands within the California Desert Conservation Area. Such plan shall take into account the principles of multiple use and sustained yield in providing for resource use and development, including, but not limited to, maintenance of environmental quality, rights-of-way, and mineral development. Such plan shall be completed and implementation thereof initiated on or before September 30, 1980 .
 - **(e)** During the period beginning on October 21, 1976 , and ending on the effective date of implementation of the comprehensive, long-range plan, the Secretary shall execute an interim program to manage, use, and protect the public lands, and their resources now in danger of destruction, in the California Desert Conservation Area, to provide for the public use of such lands in an orderly and reasonable manner such as through the development of campgrounds and visitor centers, and to provide for a uniformed desert ranger force.

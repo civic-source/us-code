@@ -3,9 +3,9 @@ title: "Section 2426 - Congressional oversight of special access programs"
 usc_title: 50
 usc_section: "2426"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2426"
-generated_at: "2026-03-29T02:16:14.746Z"
+generated_at: "2026-03-29T17:53:51.013Z"
 ---
 
 # § 2426. Congressional oversight of special access programs
@@ -18,10 +18,7 @@ generated_at: "2026-03-29T02:16:14.746Z"
       - **(i)** A brief description of the program.
       - **(ii)** A brief discussion of the major milestones established for the program.
       - **(iii)** The actual cost of the program for each fiscal year during which the program has been conducted before the fiscal year during which that budget is submitted.
-      - **(iv)** The estimated total cost of the program and the estimated cost of the program for—
-        - **(I)** the current fiscal year;
-        - **(II)** the fiscal year for which the budget is submitted; and
-        - **(III)** each of the four succeeding fiscal years during which the program is expected to be conducted.
+      - **(iv)** The estimated total cost of the program and the estimated cost of the program for (I) the current fiscal year, (II) the fiscal year for which the budget is submitted, and (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
 - **(b)**
   - **(1)** Not later than February 1 of each year, the Administrator shall submit to the congressional defense committees a report that, with respect to each new special access program, provides—
     - **(A)** notice of the designation of the program as a special access program; and
@@ -36,7 +33,7 @@ generated_at: "2026-03-29T02:16:14.746Z"
   - **(3)** If the Administrator determines that because of exceptional circumstances the requirement of paragraph (2) cannot be met with respect to a proposed change or public announcement concerning a special access program of the Administration, the Administrator may submit the report required by paragraph (1) regarding the proposed change or public announcement at any time before the proposed change or public announcement is made and shall include in the report an explanation of the exceptional circumstances.
 - **(d)** Whenever there is a modification or termination of the policy and criteria used for designating a program of the Administration as a special access program, the Administrator shall promptly notify the congressional defense committees of such modification or termination. Any such notification shall contain the reasons for the modification or termination and, in the case of a modification, the provisions of the policy as modified.
 - **(e)**
-  - **(1)** The Administrator may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Administrator determines that inclusion of that information in the report would adversely affect the national security. The Administrator may waive the report-and-wait requirement in subsection (f) if the Administrator determines that compliance with such requirement would adversely affect the national security. Any waiver under this paragraph shall be made on a case-by-case basis.
+  - **(1)** The Administrator may waive any requirement under subsection (a), (b), or (c) of this section that certain information be included in a report under that subsection if the Administrator determines that inclusion of that information in the report would adversely affect the national security. The Administrator may waive the report-and-wait requirement in subsection (f) of this section if the Administrator determines that compliance with such requirement would adversely affect the national security. Any waiver under this paragraph shall be made on a case-by-case basis.
   - **(2)** If the Administrator exercises the authority provided under paragraph (1), the Administrator shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the congressional defense committees.
 - **(f)** A special access program may not be initiated until—
   - **(1)** the congressional defense committees are notified of the program; and

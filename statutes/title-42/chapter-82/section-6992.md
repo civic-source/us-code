@@ -3,17 +3,17 @@ title: "Section 6992 - Scope of demonstration program for medical waste"
 usc_title: 42
 usc_section: "6992"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6992"
-generated_at: "2026-03-29T02:15:36.876Z"
+generated_at: "2026-03-29T17:53:35.447Z"
 ---
 
 # § 6992. Scope of demonstration program for medical waste
 
-- **(a)** The States within the demonstration program established under this subchapter for tracking medical wastes shall be New York, New Jersey, Connecticut, the States contiguous to the Great Lakes and any State included in the program through the petition procedure described in subsection (c), except for any of such States in which the Governor notifies the Administrator under subsection (b) that such State shall not be covered by the program.
+- **(a)** The States within the demonstration program established under this subchapter for tracking medical wastes shall be New York, New Jersey, Connecticut, the States contiguous to the Great Lakes and any State included in the program through the petition procedure described in subsection (c) of this section, except for any of such States in which the Governor notifies the Administrator under subsection (b) of this section that such State shall not be covered by the program.
 - **(b)**
-  - **(1)** If the Governor of any State covered under subsection (a) which is not contiguous to the Atlantic Ocean notifies the Administrator that such State elects not to participate in the demonstration program, the Administrator shall remove such State from the program.
-  - **(2)** If the Governor of any other State covered under subsection (a) notifies the Administrator that such State has implemented a medical waste tracking program that is no less stringent than the demonstration program under this subchapter and that such State elects not to participate in the demonstration program, the Administrator shall, if the Administrator determines that such State program is no less stringent than the demonstration program under this subchapter, remove such State from the demonstration program.
+  - **(1)** If the Governor of any State covered under subsection (a) of this section which is not contiguous to the Atlantic Ocean notifies the Administrator that such State elects not to participate in the demonstration program, the Administrator shall remove such State from the program.
+  - **(2)** If the Governor of any other State covered under subsection (a) of this section notifies the Administrator that such State has implemented a medical waste tracking program that is no less stringent than the demonstration program under this subchapter and that such State elects not to participate in the demonstration program, the Administrator shall, if the Administrator determines that such State program is no less stringent than the demonstration program under this subchapter, remove such State from the demonstration program.
   - **(3)** Notifications under paragraphs (1) or (2) shall be submitted to the Administrator no later than 30 days after the promulgation of regulations implementing the demonstration program under this subchapter.
 - **(c)** The Governor of any State may petition the Administrator to be included in the demonstration program and the Administrator may, in his discretion, include any such State. Such petition may not be made later than 30 days after promulgation of regulations establishing the demonstration program under this subchapter, and the Administrator shall determine whether to include the State within 30 days after receipt of the State’s petition.
 - **(d)** The demonstration program shall expire on the date 24 months after the effective date of the regulations under this subchapter.

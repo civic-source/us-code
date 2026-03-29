@@ -3,12 +3,12 @@ title: "Section 3020 - Advance funding"
 usc_title: 42
 usc_section: "3020"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3020"
-generated_at: "2026-03-29T02:15:36.632Z"
+generated_at: "2026-03-29T17:53:35.134Z"
 ---
 
 # § 3020. Advance funding
 
 - **(a)** For the purpose of affording adequate notice of funding available under this chapter, appropriations under this chapter are authorized to be included in the appropriation Act for the fiscal year preceding the fiscal year for which they are available for obligation.
-- **(b)** In order to effect a transition to the advance funding method of timing appropriation action, subsection (a) shall apply notwithstanding that its initial application will result in the enactment in the same year (whether in the same appropriation Act or otherwise) of two separate appropriations, one for the then current fiscal year and one for the succeeding fiscal year.
+- **(b)** In order to effect a transition to the advance funding method of timing appropriation action, subsection (a) of this section shall apply notwithstanding that its initial application will result in the enactment in the same year (whether in the same appropriation Act or otherwise) of two separate appropriations, one for the then current fiscal year and one for the succeeding fiscal year.

@@ -3,9 +3,9 @@ title: "Section 11903 - Eligible activities"
 usc_title: 42
 usc_section: "11903"
 chapter: 124
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 11903"
-generated_at: "2026-03-29T02:15:37.176Z"
+generated_at: "2026-03-29T17:53:35.751Z"
 ---
 
 # § 11903. Eligible activities
@@ -21,6 +21,6 @@ generated_at: "2026-03-29T02:15:37.176Z"
   - **(6)** programs designed to reduce use of drugs in and around public or other federally assisted low-income housing projects, including drug-abuse prevention, intervention, referral, and treatment programs;
   - **(7)** where a public housing agency, an Indian tribe, or recipient of assistance under the Native American Housing Assistance and Self-Determination Act of 1996 [ 25 U.S.C. 4101 et seq.] receives a grant, providing funding to nonprofit resident management corporations and resident councils to develop security and drug abuse prevention programs involving site residents; and
   - **(8)** sports programs and sports activities that serve primarily youths from public or other federally assisted low-income housing projects and are operated in conjunction with, or in furtherance of, an organized program or plan designed to reduce or eliminate drugs and drug-related problems in and around such projects.
-- **(b)** Notwithstanding any other provision of this subchapter, grants under this subchapter may be used to eliminate drug-related crime in and around housing owned by public housing agencies that is not public housing assisted under the United States Housing Act of 1937 [ 42 U.S.C. 1437 et seq.] and is not otherwise federally assisted, for the activities described in paragraphs (1) through (7) of subsection (a), but only if—
+- **(b)** Notwithstanding any other provision of this subchapter, grants under this subchapter may be used to eliminate drug-related crime in and around housing owned by public housing agencies that is not public housing assisted under the United States Housing Act of 1937 [ 42 U.S.C. 1437 et seq.] and is not otherwise federally assisted, for the activities described in paragraphs (1) through (7) of subsection (a) of this section, but only if—
   - **(1)** the housing is located in a high intensity drug trafficking area designated pursuant to section 1504 1 1 See References in Text note below. of title 21; and
   - **(2)** the public housing agency owning the housing demonstrates, to the satisfaction of the Secretary, that drug-related or violent activity in or around the housing has a detrimental effect on or about the real property comprising any public or other federally assisted low-income housing.

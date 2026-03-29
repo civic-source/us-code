@@ -3,9 +3,9 @@ title: "Section 8627 - Withholding of funds"
 usc_title: 42
 usc_section: "8627"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 8627"
-generated_at: "2026-03-29T02:15:37.032Z"
+generated_at: "2026-03-29T17:53:35.600Z"
 ---
 
 # § 8627. Withholding of funds
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T02:15:37.032Z"
   - **(2)** Whenever the Secretary determines that there is a pattern of complaints from any State in any fiscal year, the Secretary shall conduct an investigation of the use of funds received under this subchapter by such State in order to ensure compliance with the provisions of this subchapter.
   - **(3)** The Comptroller General of the United States may conduct an investigation of the use of funds received under this subchapter by a State in order to ensure compliance with the provisions of this subchapter.
 - **(c)** Pursuant to an investigation conducted under subsection (b) of this section, a State shall make appropriate books, documents, papers, and records available to the Secretary or the Comptroller General of the United States, or any of their duly authorized representatives, for examination, copying, or mechanical reproduction on or off the premises of the appropriate entity upon a reasonable request therefor.
-- **(d)** In conducting any investigation under subsection (b), the Secretary may not request any information not readily available to such State or require that any information be compiled, collected, or transmitted in any new form not already available.
+- **(d)** In conducting any investigation under subsection (b) of this section, the Secretary may not request any information not readily available to such State or require that any information be compiled, collected, or transmitted in any new form not already available.

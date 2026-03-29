@@ -3,16 +3,16 @@ title: "Section 12653 - Additional Corporation activities to support national se
 usc_title: 42
 usc_section: "12653"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 12653"
-generated_at: "2026-03-29T02:15:37.215Z"
+generated_at: "2026-03-29T17:53:35.799Z"
 ---
 
 # § 12653. Additional Corporation activities to support national service
 
 - **(a)** The Corporation may carry out this section directly (except as provided in subsection (g)) or through grants, contracts, and cooperative agreements with other entities.
 - **(b)** The Corporation may undertake activities to address emergent needs through summer programs and other activities, and to support service-learning programs and national service programs, including—
-  - **(1)** programs, including programs for rural youth, under division B or C;
+  - **(1)** programs, including programs for rural youth, under division B or C of this subchapter;
   - **(2)** employer-based retiree programs;
   - **(3)** intergenerational programs;
   - **(4)** programs involving individuals with disabilities as participants providing service; and

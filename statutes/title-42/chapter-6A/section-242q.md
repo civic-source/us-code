@@ -3,9 +3,9 @@ title: "Section 242q - Task Force on Aging Research; establishment and duties"
 usc_title: 42
 usc_section: "242q"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 242q"
-generated_at: "2026-03-29T02:15:35.578Z"
+generated_at: "2026-03-29T17:53:34.061Z"
 ---
 
 # § 242q. Task Force on Aging Research; establishment and duties
@@ -15,4 +15,4 @@ generated_at: "2026-03-29T02:15:35.578Z"
   - **(1)** make recommendations to the Secretary specifying the particular projects of research, or the particular categories of research, that should be conducted or supported by the Secretary;
   - **(2)** of the projects specified under paragraph (1), make recommendations to the Secretary of the projects that should be given priority in the provision of funds; and
   - **(3)** make recommendations to the Secretary of the amount of funds that should be appropriated for such research.
-- **(c)** The Task Force may make available to health professionals, and to other members of the public, information regarding the research described in subsection (b).
+- **(c)** The Task Force may make available to health professionals, and to other members of the public, information regarding the research described in subsection (b) of this section.

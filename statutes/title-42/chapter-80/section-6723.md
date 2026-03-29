@@ -3,18 +3,18 @@ title: "Section 6723 - Allocation of amounts"
 usc_title: 42
 usc_section: "6723"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6723"
-generated_at: "2026-03-29T02:15:36.840Z"
+generated_at: "2026-03-29T17:53:35.409Z"
 ---
 
 # § 6723. Allocation of amounts
 
 - **(a)**
-  - **(1)** The Secretary shall reserve one-third of the amounts appropriated pursuant to authorization under section 6722 of this title for each calendar quarter for the purpose of making payments to eligible State governments under subsection (b).
-  - **(2)** The Secretary shall reserve two-thirds of such amounts for the purpose of making payments to eligible units of local government under subsection (c).
+  - **(1)** The Secretary shall reserve one-third of the amounts appropriated pursuant to authorization under section 6722 of this title for each calendar quarter for the purpose of making payments to eligible State governments under subsection (b) of this section.
+  - **(2)** The Secretary shall reserve two-thirds of such amounts for the purpose of making payments to eligible units of local government under subsection (c) of this section.
 - **(b)**
-  - **(1)** The Secretary shall allocate from amounts reserved under subsection (a)(1) an amount for the purpose of making payments to each State equal to the total amount reserved under subsection (a)(1) for the calendar quarter multiplied by the applicable State percentage.
+  - **(1)** The Secretary shall allocate from amounts reserved under subsection (a)(1) of this section an amount for the purpose of making payments to each State equal to the total amount reserved under subsection (a)(1) of this section for the calendar quarter multiplied by the applicable State percentage.
   - **(2)** For purposes of this subsection, the applicable State percentage is equal to the quotient resulting from the division of the product of—
     - **(A)** the State excess unemployment percentage, multiplied by
     - **(B)** the State revenue sharing amount by the sum of such products for all the States.
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T02:15:36.840Z"
     - **(C)** the State unemployment rate is equal to the rate of unemployment in the State during the appropriate calendar quarter, as determined by the Secretary of Labor and reported to the Secretary; and
     - **(D)** the State revenue sharing amount is the amount determined under sections 6705–6707(a) of title 31 1 1 See References in Text note below. for the most recently completed entitlement period, as defined under section 6701(a)(1) of title 31 .
 - **(c)**
-  - **(1)** The Secretary shall allocate from amounts reserved under subsection (a)(2) an amount for the purpose of making payments to each local government, subject to the provisions of paragraph (4), equal to the total amount reserved under such subsection for calendar quarter multiplied by the local government percentage.
+  - **(1)** The Secretary shall allocate from amounts reserved under subsection (a)(2) of this section an amount for the purpose of making payments to each local government, subject to the provisions of paragraph (4), equal to the total amount reserved under such subsection for calendar quarter multiplied by the local government percentage.
   - **(2)** For purposes of this subsection, the local government percentage is equal to the quotient resulting from the division of the product of—
     - **(A)** the local excess unemployment percentage, multiplied by
     - **(B)** the local revenue sharing amount, by the sum of such products for all local governments.

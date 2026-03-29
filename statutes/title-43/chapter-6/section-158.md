@@ -3,9 +3,9 @@ title: "Section 158 - Mineral resources on withdrawn lands; disposition and expl
 usc_title: 43
 usc_section: "158"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 158"
-generated_at: "2026-03-29T02:15:47.515Z"
+generated_at: "2026-03-29T17:53:03.602Z"
 ---
 
 # § 158. Mineral resources on withdrawn lands; disposition and exploration

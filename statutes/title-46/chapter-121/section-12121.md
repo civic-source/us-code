@@ -3,22 +3,19 @@ title: "Section 12121 - Small passenger vessels and uninspected passenger vessel
 usc_title: 46
 usc_section: "12121"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 12121"
-generated_at: "2026-03-29T02:15:53.739Z"
+generated_at: "2026-03-29T17:53:41.806Z"
 ---
 
 # § 12121. Small passenger vessels and uninspected passenger vessels
 
 - **(a)** In this section:
   - **(1)** The term “eligible vessel” means a vessel that—
-    - **(A)** was built in the United States;
-    - **(B)** was not built in the United States and is at least 3 years old; or
-    - **(C)** if rebuilt, was rebuilt—
-      - **(i)** in the United States; or
-      - **(ii)** outside the United States at least 3 years before the certificate requested under subsection (b) would take effect.
+    - **(A)** was not built in the United States and is at least 3 years old; or
+    - **(B)** if rebuilt, was rebuilt outside the United States at least 3 years before the certificate requested under subsection (b) would take effect.
   - **(2)** The terms “small passenger vessel”, “uninspected passenger vessel”, and “passenger for hire” have the meaning given those terms in section 2101 of this title .
-- **(b)** Notwithstanding sections 12112, 12113, 12132, 55102, and 55103 of this title, the Secretary may issue a certificate of documentation with an appropriate endorsement for employment in the coastwise trade as a small passenger vessel or an uninspected passenger vessel in the case of an eligible vessel authorized to carry no more than 12 passengers for hire if the Secretary of Transportation, after notice and an opportunity for public comment, determines that the employment of the vessel in the coastwise trade will not adversely affect—
+- **(b)** Notwithstanding sections 12112, 12113, 55102, and 55103 of this title, the Secretary may issue a certificate of documentation with an appropriate endorsement for employment in the coastwise trade as a small passenger vessel or an uninspected passenger vessel in the case of an eligible vessel authorized to carry no more than 12 passengers for hire if the Secretary of Transportation, after notice and an opportunity for public comment, determines that the employment of the vessel in the coastwise trade will not adversely affect—
   - **(1)** United States vessel builders; or
   - **(2)** the coastwise trade business of any person that employs vessels built in the United States in that business.
 - **(c)**

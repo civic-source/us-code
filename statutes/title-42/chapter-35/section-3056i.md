@@ -1,16 +1,16 @@
 ---
-title: "Section 3056i - Coordination with the Workforce Innovation and Opportunity Act"
+title: "Section 3056i - Coordination with the Workforce Investment Act of 1998"
 usc_title: 42
 usc_section: "3056i"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3056i"
-generated_at: "2026-03-29T02:15:36.647Z"
+generated_at: "2026-03-29T17:53:35.153Z"
 ---
 
-# § 3056i. Coordination with the Workforce Innovation and Opportunity Act
+# § 3056i. Coordination with the Workforce Investment Act of 1998
 
-- **(a)** Grantees under this subchapter shall be one-stop partners as described in subparagraphs (A) and (B)(v) of section 121(b)(1) of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3151(b)(1) ] in the one-stop delivery system established under section 121(e) of such Act [ 29 U.S.C. 3151(e) ] for the appropriate local workforce development areas, and shall carry out the responsibilities relating to such partners.
+- **(a)** Grantees under this subchapter shall be one-stop partners as described in subparagraphs (A) and (B)(vi) of section 121(b)(1) of the Workforce Investment Act of 1998 ( 29 U.S.C. 2841(b)(1) ) in the one-stop delivery system established under section 134(c) of such Act ( 29 U.S.C. 2864(c) ) for the appropriate local workforce investment areas, and shall carry out the responsibilities relating to such partners.
 - **(b)** In local workforce investment areas where more than 1 grantee under this subchapter provides services, the grantees shall—
   - **(1)** coordinate their activities related to the one-stop delivery systems; and
-  - **(2)** be signatories of the memorandum of understanding established under section 121(c) of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3151(c) ].
+  - **(2)** be signatories of the memorandum of understanding established under section 121(c) of the Workforce Investment Act of 1998 ( 29 U.S.C. 2841(c) ).

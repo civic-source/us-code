@@ -1,12 +1,14 @@
 ---
-title: "Section 14137b - Transferred"
+title: "Section 14137b - Expungement of profiles"
 usc_title: 42
 usc_section: "14137b"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 14137b"
-generated_at: "2026-03-29T02:15:37.279Z"
+generated_at: "2026-03-29T17:53:35.902Z"
 ---
 
-# § 14137b. Transferred
+# § 14137b. Expungement of profiles
+
+The expungement requirements under section 14132(d) of this title shall apply to any DNA profile or DNA data collected pursuant to sections 14137 to 14137c of this title for purposes of inclusion in the National DNA Index System.
 

@@ -3,9 +3,9 @@ title: "Section 1 - Additional requirements applicable to rulemaking"
 usc_title: 42
 usc_section: "1"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T02:15:36.625Z"
+generated_at: "2026-03-29T17:53:35.126Z"
 ---
 
 # § 2992b–1. Additional requirements applicable to rulemaking
@@ -25,5 +25,5 @@ generated_at: "2026-03-29T02:15:36.625Z"
   - **(1)** is issued to carry out this subchapter; or
   - **(2)** applies exclusively to any program, project, or activity authorized by, or carried out under, this subchapter;
 - **(d)** Each rule (including an interpretative rule) and each general statement of policy to which this section applies shall contain after each of its sections, paragraphs, or similar textual units a citation to the particular provision of statutory or other law that is the legal authority for such section, paragraph, or unit.
-- **(e)** Except as provided in subsection (c), if as a result of the enactment of any law affecting the administration of this subchapter it is necessary or appropriate for the Secretary to issue any rule (including any interpretative rule) or a general statement of policy, the Secretary shall issue such rule or such general statement of policy not later than 180 days after the date of the enactment of such law.
-- **(f)** Whenever an agency publishes in the Federal Register a rule (including an interpretative rule) or a general statement of policy to which subsection (c) applies, such agency shall transmit a copy of such rule or such general statement of policy to the Speaker of the House of Representatives and the President pro tempore of the Senate.
+- **(e)** Except as provided in subsection (c) of this section, if as a result of the enactment of any law affecting the administration of this subchapter it is necessary or appropriate for the Secretary to issue any rule (including any interpretative rule) or a general statement of policy, the Secretary shall issue such rule or such general statement of policy not later than 180 days after the date of the enactment of such law.
+- **(f)** Whenever an agency publishes in the Federal Register a rule (including an interpretative rule) or a general statement of policy to which subsection (c) of this section applies, such agency shall transmit a copy of such rule or such general statement of policy to the Speaker of the House of Representatives and the President pro tempore of the Senate.

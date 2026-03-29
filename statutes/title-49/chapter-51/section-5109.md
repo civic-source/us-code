@@ -3,9 +3,9 @@ title: "Section 5109 - Motor carrier safety permits"
 usc_title: 49
 usc_section: "5109"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 5109"
-generated_at: "2026-03-29T02:16:08.864Z"
+generated_at: "2026-03-29T17:53:47.957Z"
 ---
 
 # § 5109. Motor carrier safety permits
@@ -30,6 +30,4 @@ generated_at: "2026-03-29T02:16:08.864Z"
   - **(4)** other procedures the Secretary considers appropriate to carry out this section.
 - **(f)** A person offering hazardous material for motor vehicle transportation in commerce may offer the material to a motor carrier only if the carrier has a safety permit issued under this section authorizing the transportation.
 - **(g)** A motor carrier may provide transportation under a safety permit issued under this section only if the carrier complies with conditions the Secretary finds are required to protect public safety.
-- **(h)** The Secretary may not deny a non-temporary permit held by a motor carrier pursuant to this section based on a comprehensive review of that carrier triggered by safety management system scores or out-of-service disqualification standards, unless—
-  - **(1)** the carrier has the opportunity, prior to the denial of such permit, to submit a written description of corrective actions taken and other documentation the carrier wishes the Secretary to consider, including a corrective action plan; and
-  - **(2)** the Secretary determines the actions or plan is insufficient to address the safety concerns identified during the course of the comprehensive review.
+- **(h)** The Secretary shall prescribe regulations necessary to carry out this section not later than November 16, 1991 .

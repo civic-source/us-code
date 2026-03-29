@@ -3,9 +3,9 @@ title: "Section 3096 - Specificity of National Intelligence Program budget amoun
 usc_title: 50
 usc_section: "3096"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 3096"
-generated_at: "2026-03-29T02:16:14.769Z"
+generated_at: "2026-03-29T17:53:51.048Z"
 ---
 
 # § 3096. Specificity of National Intelligence Program budget amounts for counterterrorism, counterproliferation, counternarcotics, and counterintelligence
@@ -15,4 +15,4 @@ generated_at: "2026-03-29T02:16:14.769Z"
   - **(2)** Counterproliferation.
   - **(3)** Counternarcotics.
   - **(4)** Counterintelligence.
-- **(b)** Amounts set forth under subsection (a) may be set forth in unclassified form or classified form, at the election of the Director of National Intelligence.
+- **(b)** Amounts set forth under subsection (a) of this section may be set forth in unclassified form or classified form, at the election of the Director of National Intelligence.

@@ -3,9 +3,9 @@ title: "Section 2211 - Assistance during drought; water purchases"
 usc_title: 43
 usc_section: "2211"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 2211"
-generated_at: "2026-03-29T02:15:47.651Z"
+generated_at: "2026-03-29T17:53:03.742Z"
 ---
 
 # § 2211. Assistance during drought; water purchases

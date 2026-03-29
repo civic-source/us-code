@@ -3,9 +3,9 @@ title: "Section 17373 - Convention on Supplementary Compensation for Nuclear Dam
 usc_title: 42
 usc_section: "17373"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 17373"
-generated_at: "2026-03-29T02:15:37.409Z"
+generated_at: "2026-03-29T17:53:36.040Z"
 ---
 
 # § 17373. Convention on Supplementary Compensation for Nuclear Damage contingent cost allocation
@@ -120,8 +120,8 @@ generated_at: "2026-03-29T02:15:37.409Z"
 - **(j)** This section does not provide to an operator of a covered installation any right of recourse under the Convention.
 - **(k)** Nothing in the Convention or this section requires the disclosure of—
   - **(1)** any data that, at any time, was Restricted Data (as defined in section 2014 of this title );
-  - **(2)** information relating to intelligence sources or methods protected by section 3024(h) of title 50 ; or
-  - **(3)** national security information classified under Executive Order 12958 ([former] 50 U.S.C. 435 note; relating to classified national security information) (or a successor Executive Order or regulation).
+  - **(2)** information relating to intelligence sources or methods protected by section 3024(i) of title 50 ; or
+  - **(3)** national security information classified under Executive Order 12958 ([former] 50 U.S.C. 435 note [now 50 U.S.C. 3161 note]; relating to classified national security information) (or a successor Executive Order or regulation).
 - **(l)**
   - **(1)** The Secretary or the Commission, as appropriate, may prescribe regulations to carry out section 2210 of this title and this section.
   - **(2)** Rules prescribed under this subsection shall ensure, to the maximum extent practicable, that—

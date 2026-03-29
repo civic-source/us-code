@@ -3,9 +3,9 @@ title: "Section 14303 - Tonnage Certificate"
 usc_title: 46
 usc_section: "14303"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 14303"
-generated_at: "2026-03-29T02:15:53.742Z"
+generated_at: "2026-03-29T17:53:41.809Z"
 ---
 
 # § 14303. Tonnage Certificate

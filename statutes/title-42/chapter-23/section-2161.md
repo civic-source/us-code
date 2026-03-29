@@ -3,9 +3,9 @@ title: "Section 2161 - Policy of Commission"
 usc_title: 42
 usc_section: "2161"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 2161"
-generated_at: "2026-03-29T02:15:36.589Z"
+generated_at: "2026-03-29T17:53:35.083Z"
 ---
 
 # § 2161. Policy of Commission

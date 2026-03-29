@@ -3,9 +3,9 @@ title: "Section 53710 - Contents of obligations"
 usc_title: 46
 usc_section: "53710"
 chapter: 537
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 53710"
-generated_at: "2026-03-29T02:15:53.776Z"
+generated_at: "2026-03-29T17:53:41.830Z"
 ---
 
 # § 53710. Contents of obligations
@@ -19,9 +19,8 @@ generated_at: "2026-03-29T02:15:53.776Z"
       - **(i)** 25 years after the date of delivery of the vessel; or
       - **(ii)** the remaining years of useful life of the vessel as determined by the Secretary or Administrator; and
   - **(4)** provide, or a related agreement must provide, that if the vessel used as security for the guarantee is a delivered vessel, the vessel shall be—
-    - **(A)** in class A–1, American Bureau of Shipping, or meet other standards acceptable to the Secretary or Administrator, with all required certificates, including marine inspection certificates of the Coast Guard, and with all outstanding requirements and recommendations necessary for class retention accomplished, unless the Secretary or Administrator permits a deferment of repairs necessary to meet these requirements;
-    - **(B)** well equipped, in good repair, and in every respect seaworthy and fit for service; and
-    - **(C)** documented under the laws of the United States for the term of the guarantee of the obligation or until the obligation is paid in full, whichever is sooner.
+    - **(A)** in class A–1, American Bureau of Shipping, or meet other standards acceptable to the Secretary or Administrator, with all required certificates, including marine inspection certificates of the Coast Guard or, in the case of an eligible export vessel, of the appropriate foreign authorities under a treaty, convention, or other international agreement to which the United States is a party, and with all outstanding requirements and recommendations necessary for class retention accomplished, unless the Secretary or Administrator permits a deferment of repairs necessary to meet these requirements; and
+    - **(B)** well equipped, in good repair, and in every respect seaworthy and fit for service.
 - **(b)**
   - **(1)** With the Administrator’s approval, if the vessel used as security for the guarantee is a passenger vessel having the tonnage, speed, passenger accommodations, and other characteristics described in section 503 of the Merchant Marine Act, 1936, an obligation guaranteed under this chapter or a related agreement may provide that—
     - **(A)** the only recourse by the United States Government against the obligor for payments under the guarantee will be repossession of the vessel and assignment of insurance claims; and
@@ -32,6 +31,4 @@ generated_at: "2026-03-29T02:15:53.776Z"
       - **(ii)** in class; and
       - **(iii)** in as good order and condition (ordinary wear and tear excepted) as when acquired by the obligor.
     - **(B)** To the extent covered by insurance, a deficiency related to a requirement in subparagraph (A) may be satisfied by assignment of the obligor’s insurance claims to the Government.
-- **(c)** An obligation guaranteed under this chapter and any related agreement must contain other provisions, which shall include—
-  - **(1)** provisions for the protection of the security interests of the Government (including acceleration, assumption, and subrogation provisions and the issuance of notes by the obligor to the Secretary or Administrator), liens and releases of liens, payment of taxes; and
-  - **(2)** any other provisions that the Secretary or Administrator may prescribe.
+- **(c)** An obligation guaranteed under this chapter and any related agreement must contain other provisions for the protection of the security interests of the Government (including acceleration, assumption, and subrogation provisions and the issuance of notes by the obligor to the Secretary or Administrator), liens and releases of liens, payment of taxes, and other matters that the Secretary or Administrator may prescribe.

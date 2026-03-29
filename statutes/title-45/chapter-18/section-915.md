@@ -3,9 +3,9 @@ title: "Section 915 - Court approved abandonment and sales in pending cases"
 usc_title: 45
 usc_section: "915"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "45 U.S.C. § 915"
-generated_at: "2026-03-29T02:15:50.558Z"
+generated_at: "2026-03-29T17:53:02.132Z"
 ---
 
 # § 915. Court approved abandonment and sales in pending cases

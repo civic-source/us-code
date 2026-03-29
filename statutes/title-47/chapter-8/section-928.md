@@ -3,9 +3,9 @@ title: "Section 928 - Spectrum Relocation Fund"
 usc_title: 47
 usc_section: "928"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 928"
-generated_at: "2026-03-29T02:15:59.262Z"
+generated_at: "2026-03-29T17:53:43.670Z"
 ---
 
 # § 928. Spectrum Relocation Fund
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:15:59.262Z"
 - **(b)** The Fund shall be credited with the amounts specified in section 309(j)(8)(D) of this title .
 - **(c)** The amounts in the Fund from auctions of eligible frequencies are authorized to be used to pay relocation or sharing costs of an eligible Federal entity incurring such costs with respect to relocation from or sharing of those frequencies.
 - **(d)**
-  - **(1)** There are hereby appropriated from the Fund such sums as are required to pay the relocation or sharing costs specified in subsection (c).
+  - **(1)** There are hereby appropriated from the Fund such sums as are required to pay the relocation or sharing costs specified in subsection (c) of this section.
   - **(2)** None of the funds provided under this subsection may be transferred to any eligible Federal entity—
     - **(A)** unless the eligible Federal entity has submitted a transition plan to the NTIA as required by paragraph (1) of section 923(h) of this title , the Technical Panel has found such plan sufficient under paragraph (4) of such section, and the NTIA has made available such plan on its website as required by paragraph (5) of such section;
     - **(B)** unless the Director of OMB has determined, in consultation with the NTIA, the appropriateness of such costs and the timeline for relocation or sharing; and
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T02:15:59.262Z"
     - **(B)** No funds may be transferred pursuant to subparagraph (A) unless—
       - **(i)** the notification provided under paragraph (2)(C) includes a certification from the Director of OMB that—
         - **(I)** funds transferred before an auction will likely allow for timely implementation of relocation or sharing, thereby increasing net expected auction proceeds by an amount not less than the time value of the amount of funds transferred; and
-        - **(II)** the auction is intended to occur not later than 8 years after transfer of funds; and
+        - **(II)** the auction is intended to occur not later than 5 years after transfer of funds; and
       - **(ii)** the transition plan submitted by the eligible Federal entity under section 923(h)(1) of this title provides—
         - **(I)** to the fullest extent possible, for sharing and coordination of eligible frequencies with non-Federal users, including reasonable accommodation by the eligible Federal entity for the use of eligible frequencies by non-Federal users during the period that the entity is relocating its spectrum uses (in this clause referred to as the “transition period”);
         - **(II)** for non-Federal users to be able to use eligible frequencies during the transition period in geographic areas where the eligible Federal entity does not use such frequencies;
@@ -36,17 +36,13 @@ generated_at: "2026-03-29T02:15:59.262Z"
   - **(4)** Any amounts in the Fund that are remaining after the payment of the relocation or sharing costs that are payable from the Fund shall revert to and be deposited in the general fund of the Treasury, for the sole purpose of deficit reduction, not later than 8 years after the date of the deposit of such proceeds to the Fund, unless within 60 days in advance of the reversion of such funds, the Director of OMB, in consultation with the NTIA, notifies the congressional committees described in paragraph (2)(C) that such funds are needed to complete or to implement current or future relocation or sharing arrangements.
 - **(e)**
   - **(1)**
-    - **(A)** Amounts made available pursuant to subsection (d) shall be transferred to eligible Federal entities, as defined in section 923(g)(1) of this title .
+    - **(A)** Amounts made available pursuant to subsection (d) of this section shall be transferred to eligible Federal entities, as defined in section 923(g)(1) of this title .
     - **(B)** An eligible Federal entity may receive more than one such transfer, but if the sum of the subsequent transfer or transfers exceeds 10 percent of the original transfer—
-      - **(i)** such subsequent transfers are subject to prior approval by the Director of OMB as required by subsection (d)(2)(B);
-      - **(ii)** the notice to the committees containing the plan required by subsection (d)(2)(C) shall be not less than 45 days prior to the date of the transfer that causes such excess above 10 percent; and
+      - **(i)** such subsequent transfers are subject to prior approval by the Director of OMB as required by subsection (d)(2)(B) of this section;
+      - **(ii)** the notice to the committees containing the plan required by subsection (d)(2)(C) of this section shall be not less than 45 days prior to the date of the transfer that causes such excess above 10 percent; and
       - **(iii)** such notice shall include, in addition to such plan, an explanation of need for such subsequent transfer or transfers.
     - **(C)** Such transferred amounts shall be credited to the appropriations account of the eligible Federal entity which has incurred, or will incur, such costs, and shall, subject to paragraph (2), remain available until expended.
-    - **(D)** At the request of an eligible Federal entity, the Director of the Office of Management and Budget (in this subsection referred to as “OMB”) may transfer the amount under subparagraph (A) immediately—
-      - **(i)** after the frequencies are reallocated by competitive bidding under section 309(j) of this title ; or
-      - **(ii)** in the case of an incumbent Federal entity that is incurring relocation or sharing costs to accommodate sharing spectrum frequencies with another Federal entity, after the frequencies from which the other eligible Federal entity is relocating are reallocated by competitive bidding under section 309(j) of this title , without regard to the availability of such sums in the Fund.
-    - **(E)** Prior to the deposit of proceeds into the Fund from an auction, the Director of OMB may borrow from the Treasury the amount under subparagraph (A) for a transfer under subparagraph (D). The Treasury shall immediately be reimbursed, without interest, from funds deposited into the Fund.
-  - **(2)** An eligible Federal entity that has received such amounts shall report its expenditures to OMB and shall transfer any amounts in excess of actual relocation or sharing costs back to the Fund immediately after the NTIA has notified the Commission that the relocation of the entity or implementation of the sharing arrangement by the entity is complete, or has determined that such entity has unreasonably failed to complete such relocation or the implementation of such arrangement in accordance with the timeline required by subsection (d)(2)(B).
+  - **(2)** An eligible Federal entity that has received such amounts shall report its expenditures to OMB and shall transfer any amounts in excess of actual relocation or sharing costs back to the Fund immediately after the NTIA has notified the Commission that the relocation of the entity or implementation of the sharing arrangement by the entity is complete, or has determined that such entity has unreasonably failed to complete such relocation or the implementation of such arrangement in accordance with the timeline required by subsection (d)(2)(B) of this section.
 - **(f)**
   - **(1)** Notwithstanding subsections (c) through (e), after February 22, 2012 , there are appropriated from the Fund and available to the Director of OMB for use in accordance with paragraph (2) not more than 10 percent of the amounts deposited in the Fund from auctions occurring after such date of licenses for the use of spectrum vacated by eligible Federal entities.
   - **(2)**
@@ -56,31 +52,6 @@ generated_at: "2026-03-29T02:15:59.262Z"
       - **(ii)** the eligible Federal entity shall use such payment for the purposes specified in clauses (i) through (v) of section 923(g)(3)(A) of this title to achieve comparable capability of systems affected by the reallocation of eligible frequencies from Federal use to exclusive non-Federal use or to shared use;
       - **(iii)** such payment may not be made if the amount remaining in the Fund after such payment will be less than 10 percent of the winning bids in the auction of the spectrum with respect to which the Federal entity is incurring relocation or sharing costs; and
       - **(iv)** such payment may not be made until 30 days after the Director of OMB has notified the congressional committees described in subsection (d)(2)(C).
-- **(g)**
-  - **(1)** Notwithstanding subsections (c) through (e)—
-    - **(A)** there are appropriated from the Fund on November 2, 2015 , and available to the Director of OMB for use in accordance with paragraph (2), not more than $500,000,000 from amounts in the Fund on November 2, 2015 ; and
-    - **(B)** there are appropriated from the Fund after November 2, 2015 , and available to the Director of OMB for use in accordance with such paragraph, not more than 10 percent of the amounts deposited in the Fund after November 2, 2015 .
-  - **(2)**
-    - **(A)** The Director of OMB may use amounts made available under paragraph (1) to make payments requested by Federal entities for research and development, engineering studies, economic analyses, activities with respect to systems, or other planning activities intended to improve the efficiency and effectiveness of the spectrum use of Federal entities in order to make available frequencies described in subparagraph (C) for reallocation for non-Federal use or shared Federal and non-Federal use, or a combination thereof, and for auction in accordance with such reallocation.
-    - **(B)** For purposes of a payment under subparagraph (A) for activities with respect to systems that improve the efficiency and effectiveness of the spectrum use of Federal entities, such systems include the following:
-      - **(i)** Systems that have increased functionality or that increase the ability of a Federal entity to accommodate spectrum sharing with non-Federal entities.
-      - **(ii)** Systems that consolidate functions or services that have been provided using separate systems.
-      - **(iii)** Non-spectrum technology or systems.
-    - **(C)** The frequencies described in this subparagraph are, with respect to a payment under subparagraph (A), frequencies that—
-      - **(i)** are assigned to a Federal entity; and
-      - **(ii)** at the time of the activities conducted with such payment, are not identified for auction.
-    - **(D)** The Director of OMB may not make a payment to a Federal entity under subparagraph (A)—
-      - **(i)** unless—
-        - **(I)** the Federal entity has submitted to the Technical Panel established under section 923(h)(3) of this title a plan describing the activities that the Federal entity will conduct with such payment;
-        - **(II)** the Technical Panel has approved such plan under subparagraph (E); and
-        - **(III)** the Director of OMB has submitted the plan approved under subparagraph (E) to the congressional committees described in subsection (d)(2)(C); and
-      - **(ii)** until 60 days have elapsed after submission of the plan under clause (i)(III).
-    - **(E)**
-      - **(i)** Not later than 120 days after a Federal entity submits a plan under subparagraph (D)(i)(I) to the Technical Panel established under section 923(h)(3) of this title , the Technical Panel shall approve or disapprove such plan.
-      - **(ii)** In considering whether to approve or disapprove a plan under this subparagraph, the Technical Panel shall consider whether—
-        - **(I)** the activities that the Federal entity will conduct with the payment will—
-        - **(II)** the transfer will leave sufficient amounts in the Fund for the other purposes of the Fund.
-- **(h)** In determining whether to make payments under subsections (f) and (g), the Director of OMB shall, to the extent practicable, prioritize payments under subsection (g).
-- **(i)** No amounts in the Fund on the day before February 22, 2012 , may be used for any purpose except—
+- **(g)** No amounts in the Fund on the day before February 22, 2012 , may be used for any purpose except—
   - **(1)** to pay the relocation or sharing costs incurred by eligible Federal entities in order to relocate from the frequencies the auction of which generated such amounts; or
   - **(2)** to pay relocation or sharing costs related to pre-auction estimates or research, in accordance with subsection (d)(3).

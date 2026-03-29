@@ -3,9 +3,9 @@ title: "Section 44511 - Aviation research grants"
 usc_title: 49
 usc_section: "44511"
 chapter: 445
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 44511"
-generated_at: "2026-03-29T02:16:09.022Z"
+generated_at: "2026-03-29T17:53:48.095Z"
 ---
 
 # § 44511. Aviation research grants
@@ -22,6 +22,6 @@ generated_at: "2026-03-29T02:16:09.022Z"
   - **(1)** The Secretary of Transportation shall maintain an airport cooperative research program to—
     - **(A)** identify problems that are shared by airport operating agencies and can be solved through applied research but that are not being adequately addressed by existing Federal research programs; and
     - **(B)** fund research to address those problems.
-  - **(2)** The Secretary of Transportation shall appoint an independent governing board for the research program established under this subsection. The governing board shall be appointed from candidates nominated by national associations representing public airport operating agencies, airport executives, State aviation officials, and the scheduled airlines, and shall include representatives of appropriate Federal agencies. Section 1013 of title 5 shall not apply to the governing board.
+  - **(2)** The Secretary of Transportation shall appoint an independent governing board for the research program established under this subsection. The governing board shall be appointed from candidates nominated by national associations representing public airport operating agencies, airport executives, State aviation officials, and the scheduled airlines, and shall include representatives of appropriate Federal agencies. Section 14 of the Federal Advisory Committee Act shall not apply to the governing board.
   - **(3)** The Secretary of Transportation shall enter into an arrangement with the National Academy of Sciences to provide staff support to the governing board established under paragraph (2) and to carry out projects proposed by the governing board that the Secretary considers appropriate.
   - **(4)** Not later than September 30, 2012 , the Secretary shall transmit to the Congress a report on the program.

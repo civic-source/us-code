@@ -3,14 +3,14 @@ title: "Section 12704 - Definitions"
 usc_title: 42
 usc_section: "12704"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 12704"
-generated_at: "2026-03-29T02:15:37.226Z"
+generated_at: "2026-03-29T17:53:35.808Z"
 ---
 
 # § 12704. Definitions
 
-As used in this subchapter and in subchapter II:
+As used in this subchapter and in subchapter II of this chapter:
 
   - **(1)** The term “unit of general local government” means a city, town, township, county, parish, village, or other general purpose political subdivision of a State; the Federated States of Micronesia and Palau, the Marshall Islands, or a general purpose political subdivision thereof; a consortium of such political subdivisions recognized by the Secretary in accordance with section 12746(2) of this title ; and any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive to act on behalf of the jurisdiction with regard to provisions of this Act.
   - **(2)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive officer to act on behalf of the State with regard to the provisions of this Act.
@@ -36,7 +36,7 @@ As used in this subchapter and in subchapter II:
     - **(A)** is an adult;
     - **(B)** has not worked full-time full-year in the labor force for a number of years but has, during such years, worked primarily without remuneration to care for the home and family; and
     - **(C)** is unemployed or underemployed and is experiencing difficulty in obtaining or upgrading employment.
-  - **(14)** The term “first-time homebuyer” means an individual and his or her spouse who have not owned a home during the 3-year period prior to purchase of a home with assistance under subchapter II, except that—
+  - **(14)** The term “first-time homebuyer” means an individual and his or her spouse who have not owned a home during the 3-year period prior to purchase of a home with assistance under subchapter II of this chapter, except that—
     - **(A)** any individual who is a displaced homemaker may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while a homemaker, owned a home with his or her spouse or resided in a home owned by the spouse;
     - **(B)** any individual who is a single parent may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse; and
     - **(C)** an individual shall not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual owns or owned, as a principal residence during such 3-year period, a dwelling unit whose structure is—

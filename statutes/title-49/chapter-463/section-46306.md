@@ -3,9 +3,9 @@ title: "Section 46306 - Registration violations involving aircraft not providing
 usc_title: 49
 usc_section: "46306"
 chapter: 463
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 46306"
-generated_at: "2026-03-29T02:16:09.057Z"
+generated_at: "2026-03-29T17:53:48.122Z"
 ---
 
 # § 46306. Registration violations involving aircraft not providing air transportation
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T02:16:09.057Z"
     - **(B)** that is provided is related to an act punishable by death or imprisonment for more than one year under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance).
   - **(3)** A term of imprisonment imposed under paragraph (2) of this subsection shall be served in addition to, and not concurrently with, any other term of imprisonment imposed on the individual.
 - **(d)**
-  - **(1)** The Administrator of Drug Enforcement or the Commissioner of U.S. Customs and Border Protection may seize and forfeit under the customs laws an aircraft whose use is related to a violation of subsection (b) of this section, or to aid or facilitate a violation, regardless of whether a person is charged with the violation.
+  - **(1)** The Administrator of Drug Enforcement or the Commissioner of Customs may seize and forfeit under the customs laws an aircraft whose use is related to a violation of subsection (b) of this section, or to aid or facilitate a violation, regardless of whether a person is charged with the violation.
   - **(2)** An aircraft’s use is presumed to have been related to a violation of, or to aid or facilitate a violation of—
     - **(A)** subsection (b)(1) of this section if the aircraft certificate of registration has been forged or altered;
     - **(B)** subsection (b)(3) of this section if there is an external display of false or misleading registration numbers or country of registration;

@@ -3,9 +3,9 @@ title: "Section 5911 - Acquisition of essential materials"
 usc_title: 42
 usc_section: "5911"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5911"
-generated_at: "2026-03-29T02:15:36.789Z"
+generated_at: "2026-03-29T17:53:35.353Z"
 ---
 
 # § 5911. Acquisition of essential materials
@@ -13,4 +13,4 @@ generated_at: "2026-03-29T02:15:36.789Z"
 - **(a)** The President may, by rule or order, require the allocation of, or the performance under contracts or orders (other than contracts of employment) relating to, supplies of materials and equipment if he finds that—
   - **(1)** such supplies are scarce, critical, and essential to carry out the purposes of this chapter; and
   - **(2)** such supplies cannot reasonably be obtained without exercising the authority granted by this section.
-- **(b)** A rule or order under subsection (a) shall be considered to be a major rule subject to chapter 8 of title 5.
+- **(b)** A rule or order under subsection (a) of this section shall be considered to be a major rule subject to chapter 8 of title 5.

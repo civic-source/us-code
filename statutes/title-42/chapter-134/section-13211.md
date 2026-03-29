@@ -3,14 +3,14 @@ title: "Section 13211 - Definitions"
 usc_title: 42
 usc_section: "13211"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 13211"
-generated_at: "2026-03-29T02:15:37.246Z"
+generated_at: "2026-03-29T17:53:35.833Z"
 ---
 
 # § 13211. Definitions
 
-For purposes of this subchapter, subchapter II, and subchapter III (unless otherwise specified)—
+For purposes of this subchapter, subchapter II of this chapter, and subchapter III of this chapter (unless otherwise specified)—
 
   - **(1)** the term “Administrator” means the Administrator of the Environmental Protection Agency;
   - **(2)** the term “alternative fuel” means methanol, denatured ethanol, and other alcohols; mixtures containing 85 percent or more (or such other percentage, but not less than 70 percent, as determined by the Secretary, by rule, to provide for requirements relating to cold start, safety, or vehicle functions) by volume of methanol, denatured ethanol, and other alcohols with gasoline or other fuels; natural gas, including liquid fuels domestically produced from natural gas; liquefied petroleum gas; hydrogen; coal-derived liquid fuels; fuels (other than alcohol) derived from biological materials; electricity (including electricity from solar energy); and any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits;

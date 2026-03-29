@@ -3,9 +3,9 @@ title: "Section 654b - Collection and disbursement of support payments"
 usc_title: 42
 usc_section: "654b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 654b"
-generated_at: "2026-03-29T02:15:36.014Z"
+generated_at: "2026-03-29T17:53:34.493Z"
 ---
 
 # § 654b. Collection and disbursement of support payments
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T02:15:36.014Z"
   - **(1)** for receipt of payments from parents, employers, and other States, and for disbursements to custodial parents and other obligees, the State agency, and the agencies of other States;
   - **(2)** for accurate identification of payments;
   - **(3)** to ensure prompt disbursement of the custodial parent’s share of any payment; and
-  - **(4)** to furnish to any parent, upon request, timely information on the current status of support payments under an order requiring payments to be made by or to the parent, except that in cases described in subsection (a)(1)(B), the State disbursement unit shall not be required to convert and maintain in automated form records of payments kept pursuant to section 666(a)(8)(B)(iii) of this title before the effective date of this section.
+  - **(4)** to furnish to any parent, upon request, timely information on the current status of support payments under an order requiring payments to be made by or to the parent, except that in cases described in subsection (a)(1)(B) of this section, the State disbursement unit shall not be required to convert and maintain in automated form records of payments kept pursuant to section 666(a)(8)(B)(iii) of this title before the effective date of this section.
 - **(c)**
   - **(1)** Except as provided in paragraph (2), the State disbursement unit shall distribute all amounts payable under section 657(a) of this title within 2 business days after receipt from the employer or other source of periodic income, if sufficient information identifying the payee is provided. The date of collection for amounts collected and distributed under this part is the date of receipt by the State disbursement unit, except that if current support is withheld by an employer in the month when due and is received by the State disbursement unit in a month other than the month when due, the date of withholding may be deemed to be the date of collection.
   - **(2)** The State disbursement unit may delay the distribution of collections toward arrearages until the resolution of any timely appeal with respect to such arrearages.

@@ -1,12 +1,26 @@
 ---
-title: "Section 13842 - Transferred"
+title: "Section 13842 - Emerging community development corporation revolving loan funds"
 usc_title: 42
 usc_section: "13842"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 13842"
-generated_at: "2026-03-29T02:15:37.277Z"
+generated_at: "2026-03-29T17:53:35.873Z"
 ---
 
-# § 13842. Transferred
+# § 13842. Emerging community development corporation revolving loan funds
 
+- **(a)** The Secretary may award grants to emerging community development corporations to enable such corporations to establish, maintain or expand revolving loan funds, to make or guarantee loans, or to make capital investments in new or expanding local businesses.
+- **(b)** To be eligible to receive a grant under subsection (a) of this section, an entity shall—
+  - **(1)** be a community development corporation;
+  - **(2)** have completed not less than one nor more than two community economic development projects or related projects that improve or provide job and employment opportunities to low-income individuals;
+  - **(3)** prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a strategic investment plan that identifies and describes the economic characteristics of the target area to be served, the types of business to be assisted using amounts received under the grant and the impact of such assistance on low-income individuals; and
+  - **(4)** have secured one or more commitments from local sources for contributions (either in cash or in kind, letters of credit, or letters of commitment) in an amount that is equal to at least 10 percent of the amounts requested in the application submitted under paragraph (2). 1 1 So in original. Probably should be paragraph “(3)”.
+- **(c)**
+  - **(1)** A revolving loan fund established or maintained with amounts received under this section may be utilized to provide financial and technical assistance, loans, loan guarantees or investments to private business enterprises to—
+    - **(A)** finance projects intended to provide business and employment opportunities for low-income individuals and to improve the quality of life in urban and rural areas; and
+    - **(B)** build and expand the capacity of emerging community development corporations and serve the economic needs of local residents.
+  - **(2)** The Secretary shall encourage emerging community development corporations that receive grants under this section to seek technical assistance from established community development corporations, with expertise in the planning, development and management of economic development projects and shall facilitate the receipt of such assistance.
+  - **(3)** Not to exceed 10 percent of the amounts received under this section by a grantee shall be used for training, technical assistance and administrative purposes.
+- **(d)** Proceeds derived from investments made with amounts provided under this section may be utilized only for the purposes described in this part and shall be reinvested in the community in which they were generated.
+- **(e)** Amounts provided under this section to a community development corporation shall not exceed $500,000 per year.

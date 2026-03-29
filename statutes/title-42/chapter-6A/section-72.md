@@ -1,18 +1,21 @@
 ---
-title: "Section 72 - Promoting poison control center utilization"
+title: "Section 72 - Nationwide media campaign to promote poison control center utilization"
 usc_title: 42
 usc_section: "72"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 72"
-generated_at: "2026-03-29T02:15:35.801Z"
+generated_at: "2026-03-29T17:53:34.289Z"
 ---
 
-# § 300d–72. Promoting poison control center utilization
+# § 300d–72. Nationwide media campaign to promote poison control center utilization
 
-- **(a)** The Secretary shall carry out, and expand upon, a national media campaign to educate and support outreach to the public and health care providers about poisoning and toxic exposure prevention and the availability of poison control center resources in local communities and to conduct advertising campaigns concerning the nationwide toll-free number and other available communication technologies established, implemented, or maintained under section 300d–71(a) of this title .
-- **(b)** The Secretary may carry out subsection (a) by entering into contracts with one or more public or private entities, including nationally recognized organizations in the field of poison control and national media firms, for the development and implementation of a nationwide poisoning and toxic exposure prevention and poison control center awareness campaign, which may include—
-  - **(1)** the development and distribution of poisoning and toxic exposure prevention awareness materials, applicable public health emergency preparedness and response information, and poison control center awareness materials;
+- **(a)** The Secretary shall carry out, and expand upon, a national media campaign to educate the public and health care providers about poison prevention and the availability of poison control center resources in local communities and to conduct advertising campaigns concerning the nationwide toll-free number established under section 300d–71(a) of this title .
+- **(b)** The Secretary may carry out subsection (a) by entering into contracts with one or more public or private entities, including nationally recognized organizations in the field of poison control and national media firms, for the development and implementation of a nationwide poison prevention and poison control center awareness campaign, which may include—
+  - **(1)** the development and distribution of poison prevention and poison control center awareness materials;
   - **(2)** television, radio, Internet, and newspaper public service announcements; and
   - **(3)** other activities to provide for public and professional awareness and education.
-- **(c)** There is authorized to be appropriated to carry out this section, $800,000 for each of fiscal years 2025 through 2029.
+- **(c)** The Secretary shall—
+  - **(1)** establish baseline measures and benchmarks to quantitatively evaluate the impact of the nationwide media campaign carried out under this section; and
+  - **(2)** on an annual basis, prepare and submit to the appropriate committees of Congress an evaluation of the nationwide media campaign.
+- **(d)** There is authorized to be appropriated to carry out this section, $800,000 for each of fiscal years 2015 through 2019.

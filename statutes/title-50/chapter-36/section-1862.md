@@ -1,30 +1,27 @@
 ---
-title: "Section 1862 - Access to certain business records for foreign intelligence and international terrorism investigations"
+title: "Section 1862 - Congressional oversight"
 usc_title: 50
 usc_section: "1862"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 1862"
-generated_at: "2026-03-29T02:16:14.719Z"
+generated_at: "2026-03-29T17:53:50.984Z"
 ---
 
-# § 1862. Access to certain business records for foreign intelligence and international terrorism investigations
+# § 1862. Congressional oversight
 
-- **(a)** The Director of the Federal Bureau of Investigation or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge) may make an application for an order authorizing a common carrier, public accommodation facility, physical storage facility, or vehicle rental facility to release records in its possession for an investigation to gather foreign intelligence information or an investigation concerning international terrorism which investigation is being conducted by the Federal Bureau of Investigation under such guidelines as the Attorney General approves pursuant to Executive Order No. 12333, or a successor order.
-- **(b)** Each application under this section—
-  - **(1)** shall be made to—
-    - **(A)** a judge of the court established by section 1803(a) of this title ; or
-    - **(B)** a United States Magistrate Judge under chapter 43 of title 28 who is publicly designated by the Chief Justice of the United States to have the power to hear applications and grant orders for the release of records under this section on behalf of a judge of that court; and
-  - **(2)** shall specify that—
-    - **(A)** the records concerned are sought for an investigation described in subsection (a);
-    - **(B)** there are specific and articulable facts giving reason to believe that the person to whom the records pertain is a foreign power or an agent of a foreign power;
-    - **(E)** 1 1 So in original. No subpar. (C) or (D) has been enacted. a statement by the applicant that, to the best knowledge of the applicant, the application fairly reflects all information that might reasonably—
-      - **(i)** call into question the accuracy of the application or the reasonableness of any assessment in the application conducted by the department or agency on whose behalf the application is made; or
-      - **(ii)** otherwise raise doubts with respect to the findings required under subsection (c); and
-    - **(F)** non-cumulative information known to the applicant that is potentially exculpatory regarding the requested legal findings or any assessment in the application.
+- **(a)** On an annual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate concerning all requests for the production of tangible things under section 1861 of this title .
+- **(b)** In April of each year, the Attorney General shall submit to the House and Senate Committees on the Judiciary and the House Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence a report setting forth with respect to the preceding calendar year—
+  - **(1)** the total number of applications made for orders approving requests for the production of tangible things under section 1861 of this title ;
+  - **(2)** the total number of such orders either granted, modified, or denied; and
+  - **(3)** the number of such orders either granted, modified, or denied for the production of each of the following:
+    - **(A)** Library circulation records, library patron lists, book sales records, or book customer lists.
+    - **(B)** Firearms sales records.
+    - **(C)** Tax return records.
+    - **(D)** Educational records.
+    - **(E)** Medical records containing information that would identify a person.
 - **(c)**
-  - **(1)** Upon application made pursuant to this section, the judge shall enter an ex parte order as requested, or as modified, approving the release of records if the judge finds that the application satisfies the requirements of this section.
-  - **(2)** An order under this subsection shall not disclose that it is issued for purposes of an investigation described in subsection (a).
-- **(d)**
-  - **(1)** Any common carrier, public accommodation facility, physical storage facility, or vehicle rental facility shall comply with an order under subsection (c).
-  - **(2)** No common carrier, public accommodation facility, physical storage facility, or vehicle rental facility, or officer, employee, or agent thereof, shall disclose to any person (other than those officers, agents, or employees of such common carrier, public accommodation facility, physical storage facility, or vehicle rental facility necessary to fulfill the requirement to disclose information to the Federal Bureau of Investigation under this section) that the Federal Bureau of Investigation has sought or obtained records pursuant to an order under this section.
+  - **(1)** In April of each year, the Attorney General shall submit to Congress a report setting forth with respect to the preceding year—
+    - **(A)** the total number of applications made for orders approving requests for the production of tangible things under section 1861 of this title ; and
+    - **(B)** the total number of such orders either granted, modified, or denied.
+  - **(2)** Each report under this subsection shall be submitted in unclassified form.

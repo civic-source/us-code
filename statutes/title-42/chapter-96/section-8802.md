@@ -3,9 +3,9 @@ title: "Section 8802 - Definitions"
 usc_title: 42
 usc_section: "8802"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 8802"
-generated_at: "2026-03-29T02:15:37.033Z"
+generated_at: "2026-03-29T17:53:35.601Z"
 ---
 
 # § 8802. Definitions
@@ -15,7 +15,7 @@ As used in this chapter—
   - **(1)** The term “alcohol” means alcohol (including methanol and ethanol) which is produced from biomass and which is suitable for use by itself or in combination with other substances as a fuel or as a substitute for petroleum or petrochemical feedstocks.
   - **(2)**
     - **(A)** The term “biomass” means any organic matter which is available on a renewable basis, including agricultural crops and agricultural wastes and residues, wood and wood wastes and residues, animal wastes, municipal wastes, and aquatic plants.
-    - **(B)** For purposes of subchapter I, such term does not include municipal wastes; and for purposes of subchapter III, such term does not include aquatic plants and municipal wastes.
+    - **(B)** For purposes of subchapter I of this chapter, such term does not include municipal wastes; and for purposes of subchapter III of this chapter, such term does not include aquatic plants and municipal wastes.
   - **(3)** The term “biomass fuel” means any gaseous, liquid, or solid fuel produced by conversion of biomass.
   - **(4)** The term “biomass energy” means—
     - **(A)** biomass fuel; or

@@ -3,9 +3,9 @@ title: "Section 2093 - Domestic distribution of source material"
 usc_title: 42
 usc_section: "2093"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 2093"
-generated_at: "2026-03-29T02:15:36.581Z"
+generated_at: "2026-03-29T17:53:35.075Z"
 ---
 
 # § 2093. Domestic distribution of source material
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T02:15:36.581Z"
   - **(1)** the physical characteristics of the source material to be distributed;
   - **(2)** the quantities of source material to be distributed; and
   - **(3)** the intended use of the source material to be distributed.
-- **(c)** The Commission may make a reasonable charge determined pursuant to section 2201(m) of this title for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4) and shall make a reasonable charge determined pursuant to section 2201(m) of this title , for the source material licensed and distributed under subsection (a)(3). The Commission shall establish criteria in writing for the determination of whether a charge will be made for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4), considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the source material will be used.
+- **(c)** The Commission may make a reasonable charge determined pursuant to section 2201(m) of this title for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4) of this section and shall make a reasonable charge determined pursuant to section 2201(m) of this title , for the source material licensed and distributed under subsection (a)(3) of this section. The Commission shall establish criteria in writing for the determination of whether a charge will be made for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4) of this section, considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the source material will be used.

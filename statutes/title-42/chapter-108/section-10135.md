@@ -3,15 +3,15 @@ title: "Section 10135 - Review of repository site selection"
 usc_title: 42
 usc_section: "10135"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 10135"
-generated_at: "2026-03-29T02:15:37.115Z"
+generated_at: "2026-03-29T17:53:35.682Z"
 ---
 
 # § 10135. Review of repository site selection
 
 - **(a)** For purposes of this section, the term “resolution of repository siting approval” means a joint resolution of the Congress, the matter after the resolving clause of which is as follows: “That there hereby is approved the site at .......... for a repository, with respect to which a notice of disapproval was submitted by .......... on ...........”. The first blank space in such resolution shall be filled with the name of the geographic location of the proposed site of the repository to which such resolution pertains; the second blank space in such resolution shall be filled with the designation of the State Governor and legislature or Indian tribe governing body submitting the notice of disapproval to which such resolution pertains; and the last blank space in such resolution shall be filled with the date of such submission.
-- **(b)** The designation of a site as suitable for application for a construction authorization for a repository shall be effective at the end of the 60-day period beginning on the date that the President recommends such site to the Congress under section 10134 of this title , unless the Governor and legislature of the State in which such site is located, or the governing body of an Indian tribe on whose reservation such site is located, as the case may be, has submitted to the Congress a notice of disapproval under section 10136 or 10138 of this title. If any such notice of disapproval has been submitted, the designation of such site shall not be effective except as provided under subsection (c).
+- **(b)** The designation of a site as suitable for application for a construction authorization for a repository shall be effective at the end of the 60-day period beginning on the date that the President recommends such site to the Congress under section 10134 of this title , unless the Governor and legislature of the State in which such site is located, or the governing body of an Indian tribe on whose reservation such site is located, as the case may be, has submitted to the Congress a notice of disapproval under section 10136 or 10138 of this title. If any such notice of disapproval has been submitted, the designation of such site shall not be effective except as provided under subsection (c) of this section.
 - **(c)** If any notice of disapproval of a repository site designation has been submitted to the Congress under section 10136 or 10138 of this title after a recommendation for approval of such site is made by the President under section 10134 of this title , such site shall be disapproved unless, during the first period of 90 calendar days of continuous session of the Congress after the date of the receipt by the Congress of such notice of disapproval, the Congress passes a resolution of repository siting approval in accordance with this subsection approving such site, and such resolution thereafter becomes law.
 - **(d)**
   - **(1)** The provisions of this subsection are enacted by the Congress—
@@ -45,5 +45,5 @@ generated_at: "2026-03-29T02:15:37.115Z"
       - **(ii)** on any vote on final passage of a resolution of the House with respect to such site, a resolution from the Senate with respect to such site where the text is identical shall be automatically substituted for the resolution of the House.
 - **(f)** For purposes of this section—
   - **(1)** continuity of session of Congress is broken only by an adjournment sine die; and
-  - **(2)** the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the 90-day period referred to in subsection (c) and the 60-day period referred to in subsections (d) and (e).
+  - **(2)** the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the 90-day period referred to in subsection (c) of this section and the 60-day period referred to in subsections (d) and (e) of this section.
 - **(g)** In considering any notice of disapproval submitted to the Congress under section 10136 or 10138 of this title, the Congress may obtain any comments of the Commission with respect to such notice of disapproval. The provision of such comments by the Commission shall not be construed as binding the Commission with respect to any licensing or authorization action concerning the repository involved.

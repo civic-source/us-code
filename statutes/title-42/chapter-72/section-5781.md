@@ -1,12 +1,14 @@
 ---
-title: "Section 5781 - Transferred"
+title: "Section 5781 - Definition"
 usc_title: 42
 usc_section: "5781"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5781"
-generated_at: "2026-03-29T02:15:36.780Z"
+generated_at: "2026-03-29T17:53:35.342Z"
 ---
 
-# § 5781. Transferred
+# § 5781. Definition
+
+In this subchapter, the term “State advisory group” means the advisory group appointed by the chief executive officer of a State under a plan described in section 5633(a) of this title .
 

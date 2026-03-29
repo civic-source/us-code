@@ -3,9 +3,9 @@ title: "Section 1397j - Definitions"
 usc_title: 42
 usc_section: "1397j"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1397j"
-generated_at: "2026-03-29T02:15:36.399Z"
+generated_at: "2026-03-29T17:53:34.869Z"
 ---
 
 # § 1397j. Definitions
@@ -39,7 +39,7 @@ In this division:
     - **(B)** the manner in which the court-appointed surrogate decisionmaker carries out duties to the individual and the court; or
     - **(C)** the manner in which the court exercises oversight of the surrogate decisionmaker.
   - **(12)**
-    - **(A)** The term “Indian tribe” has the meaning given such term in section 5304 of title 25 .
+    - **(A)** The term “Indian tribe” has the meaning given such term in section 450b of title 25 .
     - **(B)** The term “Indian tribe” includes any Pueblo or Rancheria.
   - **(13)** The term “law enforcement” means the full range of potential responders to elder abuse, neglect, and exploitation including—
     - **(A)** police, sheriffs, detectives, public safety officers, and corrections personnel;

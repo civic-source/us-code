@@ -3,9 +3,9 @@ title: "Section 1758 - Program requirements"
 usc_title: 42
 usc_section: "1758"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1758"
-generated_at: "2026-03-29T02:15:36.486Z"
+generated_at: "2026-03-29T17:53:34.959Z"
 ---
 
 # § 1758. Program requirements
@@ -18,18 +18,16 @@ generated_at: "2026-03-29T02:15:36.486Z"
     - **(B)** The Secretary shall provide technical assistance and training, including technical assistance and training in the preparation of lower-fat versions of foods commonly used in the school lunch program under this chapter, to schools participating in the school lunch program to assist the schools in complying with the nutritional requirements prescribed by the Secretary pursuant to subparagraph (A) and in providing appropriate meals to children with medically certified special dietary needs. The Secretary shall provide additional technical assistance to schools that are having difficulty maintaining compliance with the requirements.
   - **(2)**
     - **(A)** Lunches served by schools participating in the school lunch program under this chapter—
-      - **(i)** shall offer students a variety of fluid milk;
-      - **(ii)** may offer students options which may include flavored and unflavored organic or nonorganic whole, reduced-fat, low-fat, and fat-free fluid milk and lactose-free fluid milk, and nondairy beverages that are nutritionally equivalent to fluid milk and meet the nutritional standards established by the Secretary (which shall, among other requirements to be determined by the Secretary, include fortification of calcium, protein, vitamin A, and vitamin D to levels found in cow’s milk); and
-      - **(iii)** shall provide a substitute for fluid milk for students whose disability restricts their diet, on receipt of a written statement from a licensed physician, parent, or legal guardian that identifies the disability that restricts the student’s diet and that specifies the substitute for fluid milk.
+      - **(i)** shall offer students a variety of fluid milk. Such milk shall be consistent with the most recent Dietary Guidelines for Americans published under section 5341 of title 7 ;
+      - **(ii)** may offer students flavored and unflavored fluid milk and lactose-free fluid milk; and
+      - **(iii)** shall provide a substitute for fluid milk for students whose disability restricts their diet, on receipt of a written statement from a licensed physician that identifies the disability that restricts the student’s diet and that specifies the substitute for fluid milk.
     - **(B)**
       - **(i)** A school may substitute for the fluid milk provided under subparagraph (A), a nondairy beverage that is nutritionally equivalent to fluid milk and meets nutritional standards established by the Secretary (which shall, among other requirements to be determined by the Secretary, include fortification of calcium, protein, vitamin A, and vitamin D to levels found in cow’s milk) for students who cannot consume fluid milk because of a medical or other special dietary need other than a disability described in subparagraph (A)(iii).
       - **(ii)** The substitutions may be made if the school notifies the State agency that the school is implementing a variation allowed under this subparagraph, and if the substitution is requested by written statement of a medical authority or by a student’s parent or legal guardian that identifies the medical or other special dietary need that restricts the student’s diet, except that the school shall not be required to provide beverages other than beverages the school has identified as acceptable substitutes.
       - **(iii)** Expenses incurred in providing substitutions under this subparagraph that are in excess of expenses covered by reimbursements under this chapter shall be paid by the school food authority.
-    - **(C)** A school that participates in the school lunch program under this chapter shall not directly or indirectly restrict the sale or marketing of products described in subparagraph (A)(ii) by the school (or by a person approved by the school) at any time or any place—
+    - **(C)** A school that participates in the school lunch program under this chapter shall not directly or indirectly restrict the sale or marketing of fluid milk products by the school (or by a person approved by the school) at any time or any place—
       - **(i)** on the school premises; or
       - **(ii)** at any school-sponsored event.
-    - **(D)** Milk fat included in any fluid milk provided under subparagraph (A) shall not be considered saturated fat for purposes of measuring compliance with the allowable average saturated fat content of a meal under section 210.10 of title 7, Code of Federal Regulations (or successor regulations).
-    - **(E)** Subparagraph (B)(ii) is not applicable to a school that offers nondairy beverages under subparagraph (A)(ii).
   - **(3)** Students in senior high schools that participate in the school lunch program under this chapter (and, when approved by the local school district or nonprofit private schools, students in any other grade level) shall not be required to accept offered foods they do not intend to consume, and any such failure to accept offered foods shall not affect the full charge to the student for a lunch meeting the requirements of this subsection or the amount of payments made under this chapter to any such school for such lunch.
   - **(4)**
     - **(A)** Prior to the beginning of the school year beginning July 2004, the Secretary shall issue guidance to States and school food authorities to increase the consumption of foods and food ingredients that are recommended for increased serving consumption in the most recent Dietary Guidelines for Americans published under section 5341 of title 7 .
@@ -172,7 +170,7 @@ generated_at: "2026-03-29T02:15:36.486Z"
   - **(5)** Subject to paragraph (6), any local educational agency may certify any child as eligible for free lunches or breakfasts, without further application, by directly communicating with the appropriate State or local agency to obtain documentation of the status of the child as—
     - **(A)** a member of a family that is receiving assistance under the temporary assistance for needy families program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.) that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995 ;
     - **(B)** a homeless child or youth (defined as 1 of the individuals described in section 11434a(2) of this title );
-    - **(C)** served by the runaway and homeless youth grant program established under the Runaway and Homeless Youth Act ( 42 U.S.C. 5701 et seq.); 1 1 See References in Text note below.
+    - **(C)** served by the runaway and homeless youth grant program established under the Runaway and Homeless Youth Act ( 42 U.S.C. 5701 et seq.);
     - **(D)** a migratory child (as defined in section 6399 of title 20 ); or
     - **(E)**
       - **(i)** a foster child whose care and placement is the responsibility of an agency that administers a State plan under part B or E of title IV of the Social Security Act [ 42 U.S.C. 620 et seq., 670 et seq.]; or
@@ -203,7 +201,7 @@ generated_at: "2026-03-29T02:15:36.486Z"
     - **(A)** After the initial submission, a local educational agency shall not be required to submit a free and reduced price policy statement to a State educational agency under this chapter unless there is a substantive change in the free and reduced price policy of the local educational agency.
     - **(B)** A routine change in the policy of a local educational agency (such as an annual adjustment of the income eligibility guidelines for free and reduced price meals) shall not be sufficient cause for requiring the local educational agency to submit a policy statement.
   - **(8)**
-    - **(A)** Any communication with a household under this subsection or subsection (d) shall be in an understandable and uniform format and, to the maximum extent practicable, in a language that parents and legal guardians can understand.
+    - **(A)** Any communication with a household under this subsection or subsection (d) of this section shall be in an understandable and uniform format and, to the maximum extent practicable, in a language that parents and legal guardians can understand.
     - **(B)** In addition to the distribution of applications and descriptive material in paper form as provided for in this paragraph, the applications and material may be made available electronically via the Internet.
   - **(9)**
     - **(A)** Any child who is a member of a household whose income, at the time the application is submitted, is at an annual rate which does not exceed the applicable family size income level of the income eligibility guidelines for free lunches, as determined under paragraph (1), shall be served a free lunch.
@@ -213,7 +211,7 @@ generated_at: "2026-03-29T02:15:36.486Z"
     - **(C)** Except as otherwise specified in paragraph (3)(E), (3)(H)(ii), and section 1759a(a) of this title , eligibility for free or reduced price meals for any school year shall remain in effect—
       - **(i)** beginning on the date of eligibility approval for the current school year; and
       - **(ii)** ending on a date during the subsequent school year determined by the Secretary.
-  - **(10)** No physical segregation of or other discrimination against any child eligible for a free lunch or a reduced price lunch under this subsection shall be made by the school nor shall there by 2 2 So in original. Probably should be “be”. any overt identification of any child by special tokens or tickets, announced or published lists of names, or by other means.
+  - **(10)** No physical segregation of or other discrimination against any child eligible for a free lunch or a reduced price lunch under this subsection shall be made by the school nor shall there by 1 1 So in original. Probably should be “be”. any overt identification of any child by special tokens or tickets, announced or published lists of names, or by other means.
   - **(11)** Any child who has a parent or guardian who (A) is responsible for the principal support of such child and (B) is unemployed shall be served a free or reduced price lunch, respectively, during any period (i) in which such child’s parent or guardian continues to be unemployed and (ii) the income of the child’s parents or guardians during such period of unemployment falls within the income eligibility criteria for free lunches or reduced price lunches, respectively, based on the current rate of income of such parents or guardians. Local educational agencies shall publicly announce that such children are eligible for a free or reduced price lunch, and shall make determinations with respect to the status of any parent or guardian of any child under clauses (A) and (B) of the preceding sentence on the basis of a statement executed in such form as the Secretary may prescribe by such parent or guardian. No physical segregation of, or other discrimination against, any child eligible for a free or reduced price lunch under this paragraph shall be made by the school nor shall there be any overt identification of any such child by special tokens or tickets, announced or published lists of names, or by any other means.
   - **(12)**
     - **(A)** A child shall be considered automatically eligible for a free lunch and breakfast under this chapter and the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.), respectively, without further application or eligibility determination, if the child is—
@@ -221,7 +219,7 @@ generated_at: "2026-03-29T02:15:36.486Z"
       - **(ii)** a member of a family (under the State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.)) that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995 ;
       - **(iii)** enrolled as a participant in a Head Start program authorized under the Head Start Act ( 42 U.S.C. 9831 et seq.), on the basis of a determination that the child meets the eligibility criteria prescribed under section 645(a)(1)(B) of the Head Start Act ( 42 U.S.C. 9840(a)(1)(B) );
       - **(iv)** a homeless child or youth (defined as 1 of the individuals described in section 11434a(2) of this title );
-      - **(v)** served by the runaway and homeless youth grant program established under the Runaway and Homeless Youth Act ( 42 U.S.C. 5701 et seq.); 1
+      - **(v)** served by the runaway and homeless youth grant program established under the Runaway and Homeless Youth Act ( 42 U.S.C. 5701 et seq.);
       - **(vi)** a migratory child (as defined in section 6399 of title 20 ); or
       - **(vii)**
         - **(I)** a foster child whose care and placement is the responsibility of an agency that administers a State plan under part B or E of title IV of the Social Security Act [ 42 U.S.C. 620 et seq., 670 et seq.]; or
@@ -237,7 +235,7 @@ generated_at: "2026-03-29T02:15:36.486Z"
     - **(A)** In this paragraph:
       - **(i)** The term “eligible child” means a child—
         - **(I)**
-        - **(II)** who is a member of a household (as that term is defined in section 245.2 of title 7, Code of Federal Regulations (or successor regulations) 3 3 So in original. Another closing parenthesis probably should appear. with a child described in subclause (I).
+        - **(II)** who is a member of a household (as that term is defined in section 245.2 of title 7, Code of Federal Regulations (or successor regulations) 2 2 So in original. Another closing parenthesis probably should appear. with a child described in subclause (I).
       - **(ii)** The term “Medicaid program” means the program of medical assistance established under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.).
     - **(B)**
       - **(i)** The Secretary, acting through the Administrator of the Food and Nutrition Service and in cooperation with selected State agencies, shall conduct a demonstration project in selected local educational agencies to determine whether direct certification of eligible children is an effective method of certifying children for free lunches and breakfasts under subsection (b)(1)(A) and section 4(e)(1)(A) of the Child Nutrition Act of 1966 ( 42 U.S.C. 1773(e)(1)(A) ).
@@ -282,7 +280,7 @@ generated_at: "2026-03-29T02:15:36.486Z"
     - **(A)** appropriate documentation relating to the income of such household (as prescribed by the Secretary) has been provided to the appropriate local educational agency so that the local educational agency may calculate the total income of such household;
     - **(B)** documentation showing that the household is participating in the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 [ 7 U.S.C. 2011 et seq.] has been provided to the appropriate local educational agency;
     - **(C)** documentation has been provided to the appropriate local educational agency showing that the family is receiving assistance under the State program funded under part A of title IV of the Social Security Act [ 42 U.S.C. 601 et seq.] that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995 ;
-    - **(D)** documentation has been provided to the appropriate local educational agency showing that the child meets the criteria specified in clauses (iv) or (v) of subsection (b)(12)(A);
+    - **(D)** documentation has been provided to the appropriate local educational agency showing that the child meets the criteria specified in clauses (iv) or (v) of subsection (b)(12)(A) of this section;
     - **(E)** documentation has been provided to the appropriate local educational agency showing the status of the child as a migratory child (as defined in section 6399 of title 20 );
     - **(F)**
       - **(i)** documentation has been provided to the appropriate local educational agency showing the status of the child as a foster child whose care and placement is the responsibility of an agency that administers a State plan under part B or E of title IV of the Social Security Act [ 42 U.S.C. 620 et seq., 670 et seq.]; or
@@ -311,10 +309,10 @@ generated_at: "2026-03-29T02:15:36.486Z"
     - **(B)** post in a publicly visible location a report on the most recent inspection conducted under subparagraph (A); and
     - **(C)** on request, provide a copy of the report to a member of the public.
   - **(2)** Nothing in paragraph (1) prevents any State or local government from adopting or enforcing any requirement for more frequent food safety inspections of schools.
-  - **(3)** For fiscal year 2026, each State shall annually—
+  - **(3)** For each of fiscal years 2011 through 2015, each State shall annually—
     - **(A)** audit food safety inspections of schools conducted under paragraphs (1) and (2); and
     - **(B)** submit to the Secretary a report of the results of the audit.
-  - **(4)** For fiscal year 2026, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
+  - **(4)** For each of fiscal years 2011 through 2015, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
   - **(5)**
     - **(A)** Each school food authority shall implement a school food safety program, in the preparation and service of each meal served to children, that complies with any hazard analysis and critical control point system established by the Secretary.
     - **(B)** Subparagraph (A) shall apply to any facility or part of a facility in which food is stored, prepared, or served for the purposes of the school nutrition programs under this chapter or section 4 of the Child Nutrition Act of 1966 ( 42 U.S.C. 1773 ).

@@ -1,12 +1,14 @@
 ---
-title: "Section 3796kk - Transferred"
+title: "Section 3796kk - Grant authorization"
 usc_title: 42
 usc_section: "3796kk"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3796kk"
-generated_at: "2026-03-29T02:15:36.683Z"
+generated_at: "2026-03-29T17:53:35.215Z"
 ---
 
-# § 3796kk. Transferred
+# § 3796kk. Grant authorization
+
+The Attorney General may make funds available under this subchapter to States and units of local government, or combinations thereof, to carry out all or a substantial part of a program or project intended to develop or improve the capability to analyze deoxyribonucleic acid (referred to in this subchapter as “DNA”) in a forensic laboratory.
 

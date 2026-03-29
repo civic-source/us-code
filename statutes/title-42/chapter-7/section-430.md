@@ -3,17 +3,17 @@ title: "Section 430 - Adjustment of contribution and benefit base"
 usc_title: 42
 usc_section: "430"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 430"
-generated_at: "2026-03-29T02:15:35.978Z"
+generated_at: "2026-03-29T17:53:34.451Z"
 ---
 
 # § 430. Adjustment of contribution and benefit base
 
-- **(a)** Whenever the Commissioner of Social Security pursuant to section 415(i) of this title increases benefits effective with the December following a cost-of-living computation quarter, the Commissioner shall also determine and publish in the Federal Register on or before November 1 of the calendar year in which such quarter occurs the contribution and benefit base determined under subsection (b) or (c) which shall be effective with respect to remuneration paid after the calendar year in which such quarter occurs and taxable years beginning after such year.
-- **(b)** The amount of such contribution and benefit base shall (subject to subsection (c)) be the amount of the contribution and benefit base in effect in the year in which the determination is made or, if larger, the product of—
+- **(a)** Whenever the Commissioner of Social Security pursuant to section 415(i) of this title increases benefits effective with the December following a cost-of-living computation quarter, the Commissioner shall also determine and publish in the Federal Register on or before November 1 of the calendar year in which such quarter occurs the contribution and benefit base determined under subsection (b) or (c) of this section which shall be effective with respect to remuneration paid after the calendar year in which such quarter occurs and taxable years beginning after such year.
+- **(b)** The amount of such contribution and benefit base shall (subject to subsection (c) of this section) be the amount of the contribution and benefit base in effect in the year in which the determination is made or, if larger, the product of—
   - **(1)** $60,600, and
-  - **(2)** the ratio of (A) the national average wage index (as defined in section 409(k)(1) of this title ) for the calendar year before the calendar year in which the determination under subsection (a) is made to (B) the national average wage index (as so defined) for 1992,
+  - **(2)** the ratio of (A) the national average wage index (as defined in section 409(k)(1) of this title ) for the calendar year before the calendar year in which the determination under subsection (a) of this section is made to (B) the national average wage index (as so defined) for 1992,
 - **(c)** For purposes of this section, and for purposes of determining wages and self-employment income under sections 409, 411, 413, and 415 of this title and sections 1402, 3121, 3122, 3125, 6413, and 6654 of the Internal Revenue Code of 1986, (1) the “contribution and benefit base” with respect to remuneration paid in (and taxable years beginning in) any calendar year after 1973 and prior to the calendar year with the June of which the first increase in benefits pursuant to section 415(i) of this title becomes effective shall be $13,200 or (if applicable) such other amount as may be specified in a law enacted subsequent to the law which added this section, and (2) the “contribution and benefit base” with respect to remuneration paid (and taxable years beginning)—
     - **(A)** in 1978 shall be $17,700,
     - **(B)** in 1979 shall be $22,900,

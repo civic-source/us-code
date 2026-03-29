@@ -3,12 +3,13 @@ title: "Section 1408c - Grants-in-aid by Federal Government"
 usc_title: 48
 usc_section: "1408c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "48 U.S.C. § 1408c"
-generated_at: "2026-03-29T02:16:00.803Z"
+generated_at: "2026-03-29T17:53:42.697Z"
 ---
 
 # § 1408c. Grants-in-aid by Federal Government
 
-Notwithstanding the limitation contained in the last sentence of section 110(d) [ 42 U.S.C. 1460(d) ] or in any other provision of title I [ 42 U.S.C. 1450 et seq.] of the Housing Act of 1949 (Public Law 171, Eighty-first Congress), as amended, the Secretary of Housing and Urban Development is authorized to allow and credit to such authority as may be created for the Virgin Islands under this Act, as amended, (1) such local grants-in-aid as are otherwise approvable pursuant to the first sentence of said section 110(d) with respect to any slum clearance and urban redevelopment or urban renewal project or projects undertaken by such authority with Federal assistance made available under title I of the Housing Act of 1949, as amended, and (2) such grants-in-aid made or assistance given to the local community by any Federal department or agency pursuant to authority of law other than the Housing Act of 1949 [ 42 U.S.C. 1441 et seq.] which would, if made or given by a State or local community, be approvable pursuant to said first sentence of section 110(d) with respect to any such project or projects so undertaken.
+  - **(1)** such local grants-in-aid as are otherwise approvable pursuant to the first sentence of said section 110(d) with respect to any slum clearance and urban redevelopment or urban renewal project or projects undertaken by such authority with Federal assistance made available under title I of the Housing Act of 1949, as amended, and
+  - **(2)** such grants-in-aid made or assistance given to the local community by any Federal department or agency pursuant to authority of law other than the Housing Act of 1949 [ 42 U.S.C. 1441 et seq.] which would, if made or given by a State or local community, be approvable pursuant to said first sentence of section 110(d) with respect to any such project or projects so undertaken.
 

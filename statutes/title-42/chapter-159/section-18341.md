@@ -3,14 +3,14 @@ title: "Section 18341 - Commercial Cargo Development program"
 usc_title: 42
 usc_section: "18341"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 18341"
-generated_at: "2026-03-29T02:15:37.438Z"
+generated_at: "2026-03-29T17:53:36.075Z"
 ---
 
 # § 18341. Commercial Cargo Development program
 
-The Administrator shall continue to support the existing Commercial Resupply Services program, aimed at enabling the commercial space industry in support of NASA to develop reliable means of launching cargo and supplies to the ISS throughout the duration of the facility’s operation. The Administrator may apply funds towards the reduction of risk to the timely start of these services, specifically—
+The Administrator shall continue to support the existing Commercial Orbital Transportation Services program, aimed at enabling the commercial space industry in support of NASA to develop reliable means of launching cargo and supplies to the ISS throughout the duration of the facility’s operation. The Administrator may apply funds towards the reduction of risk to the timely start of these services, specifically—
 
   - **(1)** efforts to conduct a flight test;
   - **(2)** accelerate development; and

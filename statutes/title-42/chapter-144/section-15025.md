@@ -3,14 +3,14 @@ title: "Section 15025 - State Councils on Developmental Disabilities and designa
 usc_title: 42
 usc_section: "15025"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 15025"
-generated_at: "2026-03-29T02:15:37.290Z"
+generated_at: "2026-03-29T17:53:35.925Z"
 ---
 
 # § 15025. State Councils on Developmental Disabilities and designated State agencies
 
-- **(a)** Each State that receives assistance under this part shall establish and maintain a Council to undertake advocacy, capacity building, and systemic change activities (consistent with subsections (b) and (c) of section 15001 of this title ) that contribute to a coordinated, consumer- and family-centered, consumer- and family-directed, comprehensive system of community services, individualized supports, and other forms of assistance that contribute to the achievement of the purpose of this part. The Council shall have the authority to fulfill the responsibilities described in subsection (c).
+- **(a)** Each State that receives assistance under this part shall establish and maintain a Council to undertake advocacy, capacity building, and systemic change activities (consistent with subsections (b) and (c) of section 15001 of this title ) that contribute to a coordinated, consumer- and family-centered, consumer- and family-directed, comprehensive system of community services, individualized supports, and other forms of assistance that contribute to the achievement of the purpose of this part. The Council shall have the authority to fulfill the responsibilities described in subsection (c) of this section.
 - **(b)**
   - **(1)**
     - **(A)** The members of the Council of a State shall be appointed by the Governor of the State from among the residents of that State.

@@ -3,12 +3,14 @@ title: "Section 1544 - Power of Secretary of Housing and Urban Development to ma
 usc_title: 42
 usc_section: "1544"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1544"
-generated_at: "2026-03-29T02:15:36.473Z"
+generated_at: "2026-03-29T17:53:34.945Z"
 ---
 
 # § 1544. Power of Secretary of Housing and Urban Development to manage, convey, etc., housing properties
 
-Notwithstanding any other provisions of law, whether relating to the acquisition, handling, or disposal of real or other property by the United States or to other matters, the Secretary of Housing and Urban Development, with respect to any property acquired or constructed under the provisions of subchapters II to VII of this chapter, is authorized by means of Government personnel, selected qualified private agencies, or public agencies (a) to deal with, maintain, operate, administer, and insure; (b) to pursue to final collection by way of compromise or otherwise, all claims arising therefrom; (c) to rent, lease, exchange, sell for cash or credit, and convey the whole or any part of such property and to convey without cost portions thereof to local municipalities for street or other public use: Provided , That any such transaction shall be upon such terms, including the period of any lease, as may be deemed by the Secretary of Housing and Urban Development to be in the public interest: Provided further , That the Secretary of Housing and Urban Development shall fix fair rentals, on projects developed pursuant to subchapters II to VII of this chapter, which shall be based on the value thereof as determined by him, with power during the emergency, in exceptional cases, to adjust the rent to the income of the persons to be housed, and that rentals to be charged for Army, Air Force, and Navy personnel shall be fixed by the Departments of the Army, Air Force, and Navy: Provided further , That any lease authorized hereunder shall not be subject to the provisions of section 1302 of title 40 . As used in this section the term “local municipalities” shall include the District of Columbia.
+- **(a)** to deal with, maintain, operate, administer, and insure;
+- **(b)** to pursue to final collection by way of compromise or otherwise, all claims arising therefrom;
+- **(c)** to rent, lease, exchange, sell for cash or credit, and convey the whole or any part of such property and to convey without cost portions thereof to local municipalities for street or other public use: Provided , That any such transaction shall be upon such terms, including the period of any lease, as may be deemed by the Secretary of Housing and Urban Development to be in the public interest: Provided further , That the Secretary of Housing and Urban Development shall fix fair rentals, on projects developed pursuant to subchapters II to VII of this chapter, which shall be based on the value thereof as determined by him, with power during the emergency, in exceptional cases, to adjust the rent to the income of the persons to be housed, and that rentals to be charged for Army, Air Force, and Navy personnel shall be fixed by the Departments of the Army, Air Force, and Navy: Provided further , That any lease authorized hereunder shall not be subject to the provisions of section 1302 of title 40 . As used in this section the term “local municipalities” shall include the District of Columbia.
 

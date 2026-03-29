@@ -3,15 +3,15 @@ title: "Section 3038 - Responsibilities of Secretary of Defense pertaining to Na
 usc_title: 50
 usc_section: "3038"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 3038"
-generated_at: "2026-03-29T02:16:14.761Z"
+generated_at: "2026-03-29T17:53:51.044Z"
 ---
 
 # § 3038. Responsibilities of Secretary of Defense pertaining to National Intelligence Program
 
 - **(a)** Consistent with sections 3023 and 3024 of this title, the Secretary of Defense, in consultation with the Director of National Intelligence, shall—
-  - **(1)** ensure that the budgets of the elements of the intelligence community within the Department of Defense are adequate to satisfy the overall intelligence needs of the Department of Defense, including the needs of the Chairman of the Joint Chiefs of Staff and the commanders of the unified and specified commands and, wherever such elements are performing governmentwide functions, the needs of other departments and agencies;
+  - **(1)** ensure that the budgets of the elements of the intelligence community within the Department of Defense are adequate to satisfy the overall intelligence needs of the Department of Defense, including the needs of the chairman 1 1 So in original. Probably should be capitalized. of the Joint Chiefs of Staff and the commanders of the unified and specified commands and, wherever such elements are performing governmentwide functions, the needs of other departments and agencies;
   - **(2)** ensure appropriate implementation of the policies and resource decisions of the Director by elements of the Department of Defense within the National Intelligence Program;
   - **(3)** ensure that the tactical intelligence activities of the Department of Defense complement and are compatible with intelligence activities under the National Intelligence Program;
   - **(4)** ensure that the elements of the intelligence community within the Department of Defense are responsive and timely with respect to satisfying the needs of operational military forces;
@@ -37,8 +37,8 @@ generated_at: "2026-03-29T02:16:14.761Z"
 - **(c)**
   - **(1)** Subject to paragraphs (2) and (3), the Director of the Defense Intelligence Agency may expend amounts made available to the Director under the National Intelligence Program for human intelligence and counterintelligence activities for objects of a confidential, extraordinary, or emergency nature, without regard to the provisions of law or regulation relating to the expenditure of Government funds.
   - **(2)** The Director of the Defense Intelligence Agency may not expend more than five percent of the amounts made available to the Director under the National Intelligence Program for human intelligence and counterintelligence activities for a fiscal year for objects of a confidential, extraordinary, or emergency nature in accordance with paragraph (1) during such fiscal year unless—
-    - **(A)** the Director notifies the congressional intelligence committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives of the intent to expend the amounts; and
-    - **(B)** 30 days have elapsed from the date on which the Director notifies the congressional intelligence committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives in accordance with subparagraph (A).
+    - **(A)** the Director notifies the congressional intelligence committees of the intent to expend the amounts; and
+    - **(B)** 30 days have elapsed from the date on which the Director notifies the congressional intelligence committees in accordance with subparagraph (A).
   - **(3)** For each expenditure referred to in paragraph (1), the Director shall certify that such expenditure was made for an object of a confidential, extraordinary, or emergency nature.
-  - **(4)** Not later than December 31 of each year, the Director of the Defense Intelligence Agency shall submit to the congressional intelligence committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives a report on any expenditures made during the preceding fiscal year in accordance with paragraph (1).
+  - **(4)** Not later than December 31 of each year, the Director of the Defense Intelligence Agency shall submit to the congressional intelligence committees a report on any expenditures made during the preceding fiscal year in accordance with paragraph (1).
 - **(d)** The Secretary of Defense, in carrying out the functions described in this section, may use such elements of the Department of Defense as may be appropriate for the execution of those functions, in addition to, or in lieu of, the elements identified in this section.

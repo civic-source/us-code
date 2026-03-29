@@ -3,9 +3,9 @@ title: "Section 641c - Requirements of application for quitclaim deed"
 usc_title: 43
 usc_section: "641c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 641c"
-generated_at: "2026-03-29T02:15:47.569Z"
+generated_at: "2026-03-29T17:53:03.660Z"
 ---
 
 # § 641c. Requirements of application for quitclaim deed

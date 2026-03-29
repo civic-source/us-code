@@ -3,9 +3,9 @@ title: "Section 1708 - Procurement notice"
 usc_title: 41
 usc_section: "1708"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "41 U.S.C. § 1708"
-generated_at: "2026-03-29T02:15:00.445Z"
+generated_at: "2026-03-29T17:53:04.468Z"
 ---
 
 # § 1708. Procurement notice
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T02:15:00.445Z"
     - **(F)** the procurement is for utility services, other than telecommunication services, and only one source is available; or
     - **(G)** the procurement is for the services of an expert for use in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government in a trial, hearing, or proceeding before a court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify.
   - **(2)** The requirements of subsection (a)(2) do not apply to a procurement—
-    - **(A)** under conditions described in paragraph (2), (3), (4), (5), or (7) of section 3304(a) of this title or paragraph (2), (3), (4), (5), or (7) of section 3204(a) of title 10 ; or
+    - **(A)** under conditions described in paragraph (2), (3), (4), (5), or (7) of section 3304(a) of this title or paragraph (2), (3), (4), (5), or (7) of section 2304(c) of title 10 ; or
     - **(B)** for which the head of the executive agency makes a determination in writing, after consultation with the Administrator and the Administrator of the Small Business Administration, that it is not appropriate or reasonable to publish a notice before issuing a solicitation.
   - **(3)** Paragraph (1)(A) shall be implemented in a manner consistent with applicable international agreements.
 - **(c)** Each notice of solicitation required by paragraph (1) or (2) of subsection (a) shall include—
@@ -47,7 +47,7 @@ generated_at: "2026-03-29T02:15:00.445Z"
   - **(3)** the name, business address, and telephone number of the contracting officer;
   - **(4)** a statement that all responsible sources may submit a bid, proposal, or quotation (as appropriate) that the agency shall consider;
   - **(5)** in the case of a procurement using procedures other than competitive procedures, a statement of the reason justifying the use of those procedures and the identity of the intended source; and
-  - **(6)** in the case of a contract in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold, or a contract for the procurement of commercial products or commercial services using special simplified procedures—
+  - **(6)** in the case of a contract in an amount estimated to be greater than $25,000 but not greater than the simplified acquisition threshold, or a contract for the procurement of commercial items using special simplified procedures—
     - **(A)** a description of the procedures to be used in awarding the contract; and
     - **(B)** a statement specifying the periods for prospective offerors and the contracting officer to take the necessary preaward and award actions.
 - **(d)** A notice of solicitation, award, or order required to be published under subsection (a) shall be published by electronic means. The notice must be electronically accessible in a form that allows convenient and universal user access through the single Government-wide point of entry designated in the Federal Acquisition Regulation.
@@ -59,6 +59,6 @@ generated_at: "2026-03-29T02:15:00.445Z"
       - **(ii)** in the case of an order under a basic agreement, basic ordering agreement, or similar arrangement, is earlier than 30 days after the date the notice required for an order described in subsection (a)(2)(B) is published; or
       - **(iii)** in any other case, is earlier than 30 days after the date the solicitation is issued.
   - **(2)** An executive agency shall establish a deadline for the submission of all bids or proposals in response to a solicitation for which a deadline is not provided by statute. Each deadline for the submission of offers shall afford potential offerors a reasonable opportunity to respond.
-  - **(3)** The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (1) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial products or commercial services.
+  - **(3)** The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (1) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial items.
 - **(f)** An executive agency intending to solicit offers for a contract for which a notice of solicitation is required to be posted under subsection (a)(1) shall ensure that contracting officers consider each responsive offer timely received from an offeror.
 - **(g)** An executive agency shall make available to a business concern, or the authorized representative of a concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of the package.

@@ -3,9 +3,9 @@ title: "Section 2312 - Repealed. Pub. L. 109–163, div. A, title X, § 1034 , J
 usc_title: 50
 usc_section: "2312"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2312"
-generated_at: "2026-03-29T02:16:14.741Z"
+generated_at: "2026-03-29T17:53:51.007Z"
 ---
 
 # § 2312. Repealed. Pub. L. 109–163, div. A, title X, § 1034 , Jan. 6, 2006 , 119 Stat. 3429

@@ -3,12 +3,15 @@ title: "Section 3536 - Annual reports"
 usc_title: 42
 usc_section: "3536"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3536"
-generated_at: "2026-03-29T02:15:36.671Z"
+generated_at: "2026-03-29T17:53:35.178Z"
 ---
 
 # § 3536. Annual reports
 
-The Secretary shall, as soon as practicable after the end of each calendar year, make a report to the President for submission to the Congress on the activities of the Department during the preceding calendar year. The report required under this section shall include the reports required under paragraphs (2) and (6) of section 3608(e) of this title , the reports required under subsections (a) and (b) of section 4856 of this title , the report required under section 1701 o of title 12, and the report required under section 3533(e)(2) of this title .
+  - **(2)** and
+  - **(6)** of section 3608(e) of this title , the reports required under subsections
+- **(a)** and
+- **(b)** of section 4856 of this title , the report required under section 1701 o of title 12, and the report required under section 3533(e)(2) of this title .
 

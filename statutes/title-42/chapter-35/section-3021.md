@@ -3,9 +3,9 @@ title: "Section 3021 - Purpose and program"
 usc_title: 42
 usc_section: "3021"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3021"
-generated_at: "2026-03-29T02:15:36.633Z"
+generated_at: "2026-03-29T17:53:35.135Z"
 ---
 
 # § 3021. Purpose and program
@@ -14,9 +14,8 @@ generated_at: "2026-03-29T02:15:36.633Z"
   - **(1)** It is the purpose of this subchapter to encourage and assist State agencies and area agencies on aging to concentrate resources in order to develop greater capacity and foster the development and implementation of comprehensive and coordinated systems to serve older individuals by entering into new cooperative arrangements in each State with the persons described in paragraph (2), for the planning, and for the provision of, supportive services, and multipurpose senior centers, in order to—
     - **(A)** secure and maintain maximum independence and dignity in a home environment for older individuals capable of self care with appropriate supportive services;
     - **(B)** remove individual and social barriers to economic and personal independence for older individuals;
-    - **(C)** provide a continuum of care for vulnerable older individuals;
-    - **(D)** secure the opportunity for older individuals to receive managed in-home and community-based long-term care services; and
-    - **(E)** measure impacts related to social determinants of health of older individuals.
+    - **(C)** provide a continuum of care for vulnerable older individuals; and
+    - **(D)** secure the opportunity for older individuals to receive managed in-home and community-based long-term care services.
   - **(2)** The persons referred to in paragraph (1) include—
     - **(A)** State agencies and area agencies on aging;
     - **(B)** other State agencies, including agencies that administer home and community care programs;

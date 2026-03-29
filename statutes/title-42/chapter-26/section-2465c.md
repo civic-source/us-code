@@ -3,9 +3,9 @@ title: "Section 2465c - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "2465c"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 2465c"
-generated_at: "2026-03-29T02:15:36.616Z"
+generated_at: "2026-03-29T17:53:35.114Z"
 ---
 
 # § 2465c. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

@@ -3,9 +3,9 @@ title: "Section 50104 - Restriction on airport projects using products or servic
 usc_title: 49
 usc_section: "50104"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 50104"
-generated_at: "2026-03-29T02:16:09.083Z"
+generated_at: "2026-03-29T17:53:48.146Z"
 ---
 
 # § 50104. Restriction on airport projects using products or services of foreign countries denying fair market opportunities
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:16:09.083Z"
   - **(3)** an article substantially produced or manufactured in a foreign country is a product of the country.
   - **(4)** a service provided by a person that is a national of a foreign country or that is controlled by a national of a foreign country is a service of the country.
 - **(b)**
-  - **(1)** An amount made available under subchapter I of chapter 471 of this title may not be used for a project that uses a product or service of a foreign country during any period the country is on the list maintained by the United States Trade Representative under subsection (d)(1) of this section.
+  - **(1)** An amount made available under subchapter I of chapter 471 of this title (except section 47127) may not be used for a project that uses a product or service of a foreign country during any period the country is on the list maintained by the United States Trade Representative under subsection (d)(1) of this section.
   - **(2)** Paragraph (1) of this subsection does not apply when the Secretary of Transportation decides that—
     - **(A)** applying paragraph (1) to the product, service, or project is not in the public interest;
     - **(B)** a product or service of the same class or type and of satisfactory quality is not produced or offered in the United States, or in a foreign country not listed under subsection (d)(1) of this section, in a sufficient and reasonably available amount; and

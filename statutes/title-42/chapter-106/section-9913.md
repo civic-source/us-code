@@ -3,9 +3,9 @@ title: "Section 9913 - Training, technical assistance, and other activities"
 usc_title: 42
 usc_section: "9913"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 9913"
-generated_at: "2026-03-29T02:15:37.109Z"
+generated_at: "2026-03-29T17:53:35.676Z"
 ---
 
 # § 9913. Training, technical assistance, and other activities
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:15:37.109Z"
 - **(a)**
   - **(1)** The Secretary shall use amounts reserved in section 9903(b)(2) of this title —
     - **(A)** for training, technical assistance, planning, evaluation, and performance measurement, to assist States in carrying out corrective action activities and monitoring (to correct programmatic deficiencies of eligible entities), and for reporting and data collection activities, related to programs carried out under this chapter; and
-    - **(B)** to distribute amounts in accordance with subsection (c).
+    - **(B)** to distribute amounts in accordance with subsection (c) of this section.
   - **(2)** The activities described in paragraph (1)(A) may be carried out by the Secretary through grants, contracts, or cooperative agreements with appropriate entities.
 - **(b)** The process for determining the training and technical assistance to be carried out under this section shall—
   - **(1)** ensure that the needs of eligible entities and programs relating to improving program quality (including quality of financial management practices) are addressed to the maximum extent feasible; and

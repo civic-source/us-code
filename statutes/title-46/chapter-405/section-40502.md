@@ -3,9 +3,9 @@ title: "Section 40502 - Service contracts"
 usc_title: 46
 usc_section: "40502"
 chapter: 405
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 40502"
-generated_at: "2026-03-29T02:15:53.749Z"
+generated_at: "2026-03-29T17:53:41.817Z"
 ---
 
 # § 40502. Service contracts
@@ -21,9 +21,8 @@ generated_at: "2026-03-29T02:15:53.749Z"
   - **(4)** the minimum volume or portion;
   - **(5)** the line-haul rate;
   - **(6)** the duration;
-  - **(7)** service commitments;
-  - **(8)** the liquidated damages for nonperformance, if any; and
-  - **(9)** any other essential terms that the Federal Maritime Commission determines necessary or appropriate through a rulemaking process.
+  - **(7)** service commitments; and
+  - **(8)** the liquidated damages for nonperformance, if any.
 - **(d)** When a service contract is filed confidentially with the Commission, a concise statement of the essential terms specified in paragraphs (1), (3), (4), and (6) of subsection (c) shall be published and made available to the general public in tariff format.
 - **(e)**
   - **(1)** In this subsection, the terms “dock area” and “within the port area” have the same meaning and scope as in the applicable collective bargaining agreement between the requesting labor organization and the carrier.

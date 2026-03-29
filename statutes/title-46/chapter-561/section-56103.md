@@ -3,9 +3,9 @@ title: "Section 56103 - Conditional approvals"
 usc_title: 46
 usc_section: "56103"
 chapter: 561
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 56103"
-generated_at: "2026-03-29T02:15:53.785Z"
+generated_at: "2026-03-29T17:53:41.836Z"
 ---
 
 # § 56103. Conditional approvals

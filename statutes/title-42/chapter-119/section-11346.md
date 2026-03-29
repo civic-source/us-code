@@ -3,9 +3,9 @@ title: "Section 11346 - Program guidelines"
 usc_title: 42
 usc_section: "11346"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 11346"
-generated_at: "2026-03-29T02:15:37.156Z"
+generated_at: "2026-03-29T17:53:35.730Z"
 ---
 
 # § 11346. Program guidelines
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T02:15:37.156Z"
   - **(4)** guidelines specifying the responsibilities and reporting requirements of the National Board, its recipients, and service providers;
   - **(5)** guidelines requiring each private nonprofit organization and local government carrying out a local emergency food and shelter program with amounts provided under this part, to the maximum extent practicable, to involve homeless individuals and families, through employment, volunteer services, or otherwise, in providing emergency food and shelter and in otherwise carrying out the local program; and
   - **(6)** guidelines requiring each private nonprofit organization and local government carrying out a local emergency food and shelter program with amounts provided under this part to provide for the participation of not less than 1 homeless individual or former homeless individual on the board of directors or other equivalent policy making entity of the organization or governmental agency to the extent that such entity considers and makes policies and decisions regarding the local program of the organization or locality; except that such guidelines may grant waivers to applicants unable to meet such requirement if the organization or government agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
-- **(b)** Guidelines established under subsection (a) shall be published annually, and whenever modified, in the Federal Register. The National Board shall not be subject to the procedural rulemaking requirements of subchapter II of chapter 5 of title 5.
+- **(b)** Guidelines established under subsection (a) of this section shall be published annually, and whenever modified, in the Federal Register. The National Board shall not be subject to the procedural rulemaking requirements of subchapter II of chapter 5 of title 5.

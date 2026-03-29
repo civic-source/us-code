@@ -3,15 +3,15 @@ title: "Section 6865 - Limitations on financial assistance"
 usc_title: 42
 usc_section: "6865"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6865"
-generated_at: "2026-03-29T02:15:36.847Z"
+generated_at: "2026-03-29T17:53:35.413Z"
 ---
 
 # § 6865. Limitations on financial assistance
 
 - **(a)**
-  - **(1)** Not more than an amount equal to 15 percent of any grant made by the Secretary under this part may be used for administrative purposes in carrying out duties under this part, except that not more than one-half of such amount may be used by any State for such purposes, and a State may provide in the plan adopted pursuant to subsection (b) for recipients of grants of less than $350,000 to use up to an additional 5 percent of such grant for administration if the State has determined that such recipient requires such additional amount to implement effectively the administrative requirements established by the Secretary pursuant to this part.
+  - **(1)** Not more than an amount equal to 10 percent of any grant made by the Secretary under this part may be used for administrative purposes in carrying out duties under this part, except that not more than one-half of such amount may be used by any State for such purposes, and a State may provide in the plan adopted pursuant to subsection (b) of this section for recipients of grants of less than $350,000 to use up to an additional 5 percent of such grant for administration if the State has determined that such recipient requires such additional amount to implement effectively the administrative requirements established by the Secretary pursuant to this part.
   - **(2)** The Secretary shall establish energy audit procedures and techniques which (i) meet standards established by the Secretary after consultation with the State Energy Advisory Board established under section 6325(g) of this title , (ii) establish priorities for selection of weatherization measures based on their cost and contribution to energy efficiency, (iii) measure the energy requirement of individual dwellings and the rate of return of the total conservation investment in a dwelling, and (iv) account for interaction among energy efficiency measures.
 - **(b)** The Secretary shall insure that financial assistance provided under this part will—
   - **(1)** be allocated within the State or area in accordance with a published State or area plan, which is adopted by such State after notice and a public hearing, describing the proposed funding distributions and recipients;
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T02:15:36.847Z"
     - **(C)** the cost of having onsite supervisory personnel;
     - **(D)** the cost of making incidental repairs to a dwelling unit if such repairs are necessary to make the installation of weatherization materials effective, 1 1 So in original. The comma probably should be a semicolon. and
     - **(E)** the cost of making heating and cooling modifications, including replacement 2 2 So in original. Probably should be followed by a period.
-  - **(2)** Dwelling units weatherized (including dwelling units partially weatherized) under this part, or under other Federal programs (in this paragraph referred to as “previous weatherization”), may not receive further financial assistance for weatherization under this part until the date that is 15 years after the date such previous weatherization was completed. This paragraph does not preclude dwelling units that have received previous weatherization from receiving assistance and services (including the provision of information and education to assist with energy management and evaluation of the effectiveness of installed weatherization materials) other than weatherization under this part or under other Federal programs, or from receiving non-Federal assistance for weatherization.
+  - **(2)** Dwelling units partially weatherized under this part or under other Federal programs during the period September 30, 1975 , through September 30, 1994 , may receive further financial assistance for weatherization under this part.
   - **(3)** Beginning with fiscal year 2000, the dwelling unit averages provided in paragraphs (1) and (4) shall be adjusted annually by increasing the average amount by an amount equal to—
     - **(A)** the average amount for the previous fiscal year, multiplied by
     - **(B)** the lesser of (i) the percentage increase in the Consumer Price Index (all items, United States city average) for the most recent calendar year completed before the beginning of the fiscal year for which the determination is being made, or (ii) three percent.
@@ -57,4 +57,4 @@ generated_at: "2026-03-29T02:15:36.847Z"
   - **(1)**
     - **(A)** Beginning with fiscal year 1992, the Secretary may allocate, from funds appropriated pursuant to section 6872(b) 3 of this title, among the States an equal amount for each State not to exceed $100,000 per State. Each State shall make available amounts received under this subsection to provide supplementary financial assistance to recipients of grants under this part that have achieved the best performance during the previous fiscal year in advancing the purposes of this part.
     - **(B)** None of the funds made available under this subsection may be used by any State for administrative purposes.
-  - **(2)** The Secretary shall, after consulting with the State Energy Advisory Board referred to in subsection (d)(1), prescribe guidelines to be used by each State in making available supplementary financial assistance under this subsection, with a priority being given to subgrantees that, by law or through administrative or other executive action, provided non-Federal resources (including private resources) to supplement Federal financial assistance under this part during the previous fiscal year.
+  - **(2)** The Secretary shall, after consulting with the State Energy Advisory Board referred to in subsection (d)(1) of this section, prescribe guidelines to be used by each State in making available supplementary financial assistance under this subsection, with a priority being given to subgrantees that, by law or through administrative or other executive action, provided non-Federal resources (including private resources) to supplement Federal financial assistance under this part during the previous fiscal year.

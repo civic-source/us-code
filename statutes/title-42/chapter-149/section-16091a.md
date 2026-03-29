@@ -1,14 +1,14 @@
 ---
-title: "Section 16091a - Clean school bus program"
+title: "Section 16091a - Clean school bus program 1 1 This section is substantially identical to section 16091 of this title ."
 usc_title: 42
 usc_section: "16091a"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 16091a"
-generated_at: "2026-03-29T02:15:37.321Z"
+generated_at: "2026-03-29T17:53:35.973Z"
 ---
 
-# § 16091a. Clean school bus program
+# § 16091a. Clean school bus program 1 1 This section is substantially identical to section 16091 of this title .
 
 - **(a)** In this section, the following definitions apply:
   - **(1)** The term “Administrator” means the Administrator of the Environmental Protection Agency.
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T02:15:37.321Z"
 - **(b)**
   - **(1)**
     - **(A)** The Administrator, in consultation with the Secretary and other appropriate Federal departments and agencies, shall establish a program for awarding grants on a competitive basis to eligible recipients for the replacement of, retrofit (including repowering, aftertreatment, and remanufactured engines) of, or purchase of alternative fuels for, certain existing school buses. The awarding of grants for the purchase of alternative fuels should be consistent with the historic funding levels of the program for such purchase.
-    - **(B)** In awarding grants under this section, the Administrator shall achieve, to the maximum extent practicable, achieve 1 1 So in original. The word “achieve” probably should not appear. an appropriate balance between awarding grants—
+    - **(B)** In awarding grants under this section, the Administrator shall achieve, to the maximum extent practicable, achieve 2 2 So in original. The word “achieve” probably should not appear. an appropriate balance between awarding grants—
       - **(i)** to replace school buses;
       - **(ii)** to install retrofit technologies; and
       - **(iii)** to purchase and use alternative fuel.

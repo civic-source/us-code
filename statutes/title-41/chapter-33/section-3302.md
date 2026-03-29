@@ -3,9 +3,9 @@ title: "Section 3302 - Requirements for purchase of property and services pursua
 usc_title: 41
 usc_section: "3302"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "41 U.S.C. § 3302"
-generated_at: "2026-03-29T02:15:00.452Z"
+generated_at: "2026-03-29T17:53:04.474Z"
 ---
 
 # § 3302. Requirements for purchase of property and services pursuant to multiple award contracts
@@ -14,15 +14,15 @@ generated_at: "2026-03-29T02:15:00.452Z"
   - **(1)** The term “executive agency” has the same meaning given in section 133 of this title .
   - **(2)** The term “individual purchase” means a task order, delivery order, or other purchase.
   - **(3)** The term “multiple award contract” means—
-    - **(A)** a contract that is entered into by the Administrator of General Services under the multiple award schedule program referred to in section 3012(3) of title 10 ;
-    - **(B)** a multiple award task order contract that is entered into under the authority of chapter 245 of title 10 or chapter 41 of this title; and
+    - **(A)** a contract that is entered into by the Administrator of General Services under the multiple award schedule program referred to in section 2302(2)(C) of title 10 ;
+    - **(B)** a multiple award task order contract that is entered into under the authority of sections 2304a to 2304d of title 10, or chapter 41 of this title; and
     - **(C)** any other indefinite delivery, indefinite quantity contract that is entered into by the head of an executive agency with 2 or more sources pursuant to the same solicitation.
   - **(4)** The term “sole source task or delivery order” means any order that does not follow the competitive procedures in paragraph (2) or (3) of subsection (c).
 - **(b)** The Federal Acquisition Regulation shall require enhanced competition in the purchase of property and services by all executive agencies pursuant to multiple award contracts.
 - **(c)**
   - **(1)** The regulations required by subsection (b) shall provide that each individual purchase of property or services in excess of the simplified acquisition threshold that is made under a multiple award contract shall be made on a competitive basis unless a contracting officer—
     - **(A)** waives the requirement on the basis of a determination that—
-      - **(i)** one of the circumstances described in paragraphs (1) to (4) of section 4106(c) of this title or section 3406(c) of title 10 applies to the individual purchase; or
+      - **(i)** one of the circumstances described in paragraphs (1) to (4) of section 4106(c) of this title or section 2304c(b) of title 10 applies to the individual purchase; or
       - **(ii)** a law expressly authorizes or requires that the purchase be made from a specified source; and
     - **(B)** justifies the determination in writing.
   - **(2)** For purposes of this subsection, an individual purchase of property or services is made on a competitive basis only if it is made pursuant to procedures that—
@@ -36,7 +36,6 @@ generated_at: "2026-03-29T02:15:00.452Z"
 - **(d)**
   - **(1)** The Federal Acquisition Regulation shall require the head of each executive agency to—
     - **(A)** publish on FedBizOpps notice of all sole source task or delivery orders in excess of the simplified acquisition threshold that are placed against multiple award contracts not later than 14 days after the orders are placed, except in the event of extraordinary circumstances or classified orders; and
-    - **(B)** disclose the determination required by subsection (c)(1) related to sole source task or delivery orders in excess of the simplified acquisition threshold placed against multiple award contracts through the same mechanism and to the same extent as the disclosure of documents containing a justification and approval required by section 3204(e)(1) of title 10 and section 3304(e)(1) of this title , except in the event of extraordinary circumstances or classified orders.
+    - **(B)** disclose the determination required by subsection (c)(1) related to sole source task or delivery orders in excess of the simplified acquisition threshold placed against multiple award contracts through the same mechanism and to the same extent as the disclosure of documents containing a justification and approval required by section 2304(f)(1) of title 10 and section 3304(e)(1) of this title , except in the event of extraordinary circumstances or classified orders.
   - **(2)** This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5 .
 - **(e)** The regulations required by subsection (b) shall apply to all individual purchases of property or services that are made under multiple award contracts on or after the effective date of the regulations, without regard to whether the multiple award contracts were entered into before, on, or after the effective date.
-- **(f)** The regulations required by subsection (b) shall not apply to individual purchases for commercial leasing services that are made on a no cost basis and made under a multiple award contract awarded in accordance with the requirements for full and open competition.

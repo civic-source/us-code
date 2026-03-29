@@ -3,9 +3,9 @@ title: "Section 109 - Maritime Administration"
 usc_title: 49
 usc_section: "109"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 109"
-generated_at: "2026-03-29T02:16:08.843Z"
+generated_at: "2026-03-29T17:53:47.940Z"
 ---
 
 # § 109. Maritime Administration
@@ -35,3 +35,4 @@ generated_at: "2026-03-29T02:16:08.843Z"
     - **(G)** National Defense Reserve Fleet expenses;
     - **(H)** expenses necessary to carry out part B of subtitle V of title 46; and
     - **(I)** other operations and training expenses related to the development of waterborne transportation systems, the use of waterborne transportation systems, and general administration.
+  - **(3)** Amounts may not be appropriated for the purchase or construction of training vessels for State maritime academies unless the Secretary has approved a plan for sharing training vessels between State maritime academies.

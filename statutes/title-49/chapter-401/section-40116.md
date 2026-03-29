@@ -3,9 +3,9 @@ title: "Section 40116 - State taxation"
 usc_title: 49
 usc_section: "40116"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 40116"
-generated_at: "2026-03-29T02:16:09.000Z"
+generated_at: "2026-03-29T17:53:48.073Z"
 ---
 
 # § 40116. State taxation
@@ -29,7 +29,6 @@ generated_at: "2026-03-29T02:16:09.000Z"
       - **(ii)** levy or collect a tax on an assessment that may not be made under clause (i) of this subparagraph.
       - **(iii)** levy or collect an ad valorem property tax on air carrier transportation property at a tax rate greater than the tax rate applicable to commercial and industrial property in the same assessment jurisdiction.
       - **(iv)** levy or collect a tax, fee, or charge, first taking effect after August 23, 1994 , exclusively upon any business located at a commercial service airport or operating as a permittee of such an airport other than a tax, fee, or charge wholly utilized for airport or aeronautical purposes.
-      - **(v)** except as otherwise provided under section 47133, levy or collect a tax, fee, or charge, first taking effect after the date of enactment of this clause, upon any business located at a commercial service airport or operating as a permittee of such an airport that is not generally imposed on sales or services by that State, political subdivision, or authority unless wholly utilized for airport or aeronautical purposes.
     - **(B)** Subparagraph (A) of this paragraph does not apply to an in lieu tax completely used for airport and aeronautical purposes.
 - **(e)** Except as provided in subsection (d) of this section, a State or political subdivision of a State may levy or collect—
   - **(1)** taxes (except those taxes enumerated in subsection (b) of this section), including property taxes, net income taxes, franchise taxes, and sales or use taxes on the sale of goods or services; and

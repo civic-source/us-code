@@ -3,26 +3,17 @@ title: "Section 1506 - Administrative Committee of the Federal Register; establi
 usc_title: 44
 usc_section: "1506"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "44 U.S.C. § 1506"
-generated_at: "2026-03-29T02:15:49.326Z"
+generated_at: "2026-03-29T17:53:10.497Z"
 ---
 
 # § 1506. Administrative Committee of the Federal Register; establishment and composition; powers and duties
 
-- **(a)** The Administrative Committee of the Federal Register shall consist of the Archivist of the United States or Acting Archivist, who shall chair the committee, an officer of the Department of Justice designated by the Attorney General, and the Director of the Government Publishing Office or Acting Director of the Government Publishing Office. The Director of the Federal Register shall act as secretary of the committee. The committee shall prescribe, with the approval of the President or their designee, regulations for carrying out this chapter. The regulations shall provide for, among other things, the following:
-  - **(1)** The documents which shall be authorized under section 1505(b) to be published in the Federal Register.
-  - **(2)** The manner and form in which the Federal Register shall be published.
-  - **(3)** The manner and form in which agencies submit documents for publication in the Federal Register and special editions of the Federal Register.
-  - **(4)** Subject to subsection (b), the manner of distribution to Members of Congress, officers and employees of the United States, or Federal agency, for official use, and the number which shall be available for distribution to the public.
-  - **(5)** The prices to be charged for individual copies of, and subscriptions to, the Federal Register and any reprints and bound volumes of it.
-  - **(6)** The manner and form by which the Federal Register may receive information and comments from the public, if practicable and efficient.
-  - **(7)** Special editions of the Federal Register.
-- **(b)**
-  - **(1)** Under the regulations prescribed to carry out subsection (a)(4), the Director of the Government Publishing Office may not provide a printed copy of the Federal Register without charge to any Member of Congress or any other office of the United States during a year unless—
-    - **(A)** the Member or office requests a printed copy of a specific issue of the Federal Register; or
-    - **(B)** during that year or during the previous year, the Member or office requested a subscription to printed copies of the Federal Register for that year, as described in paragraph (2).
-  - **(2)** The regulations prescribed to carry out subsection (a)(4) shall include—
-    - **(A)** provisions regarding notifications to offices of Members of Congress and other offices of the United States of the restrictions of paragraph (1);
-    - **(B)** provisions describing the process by which Members and other offices may request a specific issue of the Federal Register for purposes of paragraph (1)(A); and
-    - **(C)** provisions describing the process by which Members and other offices may request a subscription to the Federal Register for purposes of paragraph (1)(B), except that such regulations shall limit the period for such a subscription to not longer than 1 year.
+The Administrative Committee of the Federal Register shall consist of the Archivist of the United States or Acting Archivist, who shall be chairman, an officer of the Department of Justice designated by the Attorney General, and the Public Printer or Acting Public Printer. The Director of the Federal Register shall act as secretary of the committee. The committee shall prescribe, with the approval of the President, regulations for carrying out this chapter. The regulations shall provide, among other things—
+
+  - **(1)** the manner of certification of copies required to be certified under section 1503 of this title , which certification may be permitted to be based upon confirmed communications from outside the District of Columbia;
+  - **(2)** the documents which shall be authorized under section 1505(b) of this title to be published in the Federal Register;
+  - **(3)** the manner and form in which the Federal Register shall be printed, reprinted, and compiled, indexed, bound, and distributed;
+  - **(4)** the number of copies of the Federal Register, which shall be printed, reprinted, and compiled, the number which shall be distributed without charge to Members of Congress, officers and employees of the United States, or Federal agency, for official use, and the number which shall be available for distribution to the public; and
+  - **(5)** the prices to be charged for individual copies of, and subscriptions to, the Federal Register and reprints and bound volumes of it.

@@ -3,9 +3,9 @@ title: "Section 44308 - Administrative"
 usc_title: 49
 usc_section: "44308"
 chapter: 443
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 44308"
-generated_at: "2026-03-29T02:16:09.020Z"
+generated_at: "2026-03-29T17:53:48.093Z"
 ---
 
 # § 44308. Administrative

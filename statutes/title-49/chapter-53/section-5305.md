@@ -3,9 +3,9 @@ title: "Section 5305 - Planning programs"
 usc_title: 49
 usc_section: "5305"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 5305"
-generated_at: "2026-03-29T02:16:08.872Z"
+generated_at: "2026-03-29T17:53:47.964Z"
 ---
 
 # § 5305. Planning programs
@@ -38,22 +38,12 @@ generated_at: "2026-03-29T02:16:08.872Z"
     - **(B)** The Secretary shall apportion amounts referred to in subparagraph (A) under a formula that reflects the additional cost of carrying out planning, programming, and project selection responsibilities under sections 5303 and 5306 in certain urbanized areas.
 - **(e)**
   - **(1)**
-    - **(A)** The Secretary shall apportion the amounts made available under subsection (g)(2) among the States for grants and contracts to carry out this section and sections 5304 and 5306 in the ratio that—
+    - **(A)** The Secretary shall apportion the amounts made available under subsection (g)(2) among the States for grants and contracts to carry out this section and section 1 1 So in original. Probably should be “sections”. 5304 and 5306 in the ratio that—
       - **(i)** the population of urbanized areas in each State, as shown by the latest available decennial census; bears to
       - **(ii)** the population of urbanized areas in all States, as shown by that census.
     - **(B)** Notwithstanding subparagraph (A), a State may not receive less than 0.5 percent of the amount apportioned under this paragraph.
   - **(2)** A State, as the State considers appropriate, may authorize part of the amount made available under this subsection to be used to supplement amounts made available under subsection (d).
-- **(f)**
-  - **(1)** Except as provided in paragraph (2), the Government share of the cost of an activity funded using amounts made available under this section may not exceed 80 percent of the cost of the activity unless the Secretary determines that it is in the interests of the Government—
-    - **(A)** not to require a State or local match; or
-    - **(B)** to allow a Government share greater than 80 percent.
-  - **(2)**
-    - **(A)** The Government share of the cost of an activity funded using amounts made available under this section shall be not less than 90 percent for an activity that assists parts of an urbanized area or rural area with lower population density or lower average income levels compared to—
-      - **(i)** the applicable urbanized area;
-      - **(ii)** the applicable rural area;
-      - **(iii)** an adjoining urbanized area; or
-      - **(iv)** an adjoining rural area.
-    - **(B)** A State or metropolitan planning organization that carries out an activity described in subparagraph (A) with an increased Government share described in that subparagraph shall report to the Secretary, in a form as determined by the Secretary, how the increased Government share for transportation planning activities benefits commuting and other essential travel in parts of the applicable urbanized area or rural area described in subparagraph (A) with lower population density or lower average income levels.
+- **(f)** The Government share of the cost of an activity funded using amounts made available under this section may not exceed 80 percent of the cost of the activity unless the Secretary determines that it is in the interests of the Government not to require a State or local match.
 - **(g)** Of the funds made available by or appropriated to carry out this section under section 5338(a)(2)(A) for a fiscal year—
   - **(1)** 82.72 percent shall be available for the metropolitan planning program under subsection (d); and
   - **(2)** 17.28 percent shall be available to carry out subsection (e).

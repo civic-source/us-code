@@ -3,9 +3,9 @@ title: "Section 4042 - Duties of Bureau of Prisons"
 usc_title: 18
 usc_section: "4042"
 chapter: 303
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 4042"
-generated_at: "2026-03-29T17:53:15.761Z"
+generated_at: "2026-03-29T17:53:59.695Z"
 ---
 
 # § 4042. Duties of Bureau of Prisons
@@ -42,6 +42,6 @@ generated_at: "2026-03-29T17:53:15.761Z"
     - **(B)** a State, tribal, or local agency responsible for the receipt or maintenance of sex offender registration information in the State, tribal, or local jurisdiction in which the person will reside.
   - **(2)** Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall register as required by the Sex Offender Registration and Notification Act. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (3) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
   - **(3)** The Director of the Bureau of Prisons shall inform a person who is released from prison and required to register under the Sex Offender Registration and Notification Act of the requirements of that Act as they apply to that person and the same information shall be provided to a person sentenced to probation by the probation officer responsible for supervision of that person.
-  - **[(4)** Repealed. Pub. L. 109–248, title I, § 141(h) , July 27, 2006 , 120 Stat. 604 .]
+  - **[(4)** Repealed. Pub. L. 109–248, title I , § 141(h), July 27, 2006 , 120 Stat. 604 .]
   - **(5)** The United States and its agencies, officers, and employees shall be immune from liability based on good faith conduct in carrying out this subsection and subsection (b).
 - **(d)** This section shall not apply to military or naval penal or correctional institutions or the persons confined therein.

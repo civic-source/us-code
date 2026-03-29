@@ -3,9 +3,9 @@ title: "Section 13541 - Research, development, demonstration, and commercial app
 usc_title: 42
 usc_section: "13541"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 13541"
-generated_at: "2026-03-29T02:15:37.273Z"
+generated_at: "2026-03-29T17:53:35.859Z"
 ---
 
 # § 13541. Research, development, demonstration, and commercial application activities
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T02:15:37.273Z"
 - **(b)** Except as otherwise provided in this Act, in carrying out commercial application programs and commercial application activities under this Act, the Secretary may use, to the extent authorized under applicable provisions of law, contracts, cooperative agreements, cooperative research and development agreements under the Stevenson-Wydler Technology Innovation Act of 1980 [ 15 U.S.C. 3701 et seq.], grants, joint ventures, and any other form of agreement available to the Secretary. An objective of any commercial application program under this Act shall be to accelerate the transition of technologies from the research and development stage.
 - **(c)** For purposes of this section, the term “joint venture” has the meaning given the term “joint research and development venture” under section 4301(a)(6) and (b) of title 15, except that such term may apply under this section to research, development, demonstration, and commercial application joint ventures.
 - **(d)** Section 12(c)(7) of the Stevenson-Wydler Technology Innovation Act of 1980 [ 15 U.S.C. 3710a(c)(7) ], relating to the protection of information, shall apply to research, development, demonstration, and commercial application programs and activities under this Act.
-- **(e)** The Secretary shall provide guidelines and procedures for the transition, where appropriate, of energy technologies from research through development and demonstration under subsection (a) to commercial application under subsection (b). Nothing in this section shall preclude the Secretary from—
+- **(e)** The Secretary shall provide guidelines and procedures for the transition, where appropriate, of energy technologies from research through development and demonstration under subsection (a) of this section to commercial application under subsection (b) of this section. Nothing in this section shall preclude the Secretary from—
   - **(1)** entering into a contract, cooperative agreement, cooperative research and development agreement under the Stevenson-Wydler Technology Innovation Act of 1980 [ 15 U.S.C. 3701 et seq.], grant, joint venture, or any other form of agreement available to the Secretary under this section that relates to research, development, demonstration, and commercial application; or
   - **(2)** extending a contract, cooperative agreement, cooperative research and development agreement under the Stevenson-Wydler Technology Innovation Act of 1980, grant, joint venture, or any other form of agreement available to the Secretary that relates to research, development, and demonstration to cover commercial application.
 - **(f)** This section shall not apply to any contract, cooperative agreement, cooperative research and development agreement under the Stevenson-Wydler Technology Innovation Act of 1980 [ 15 U.S.C. 3701 et seq.], grant, joint venture, or any other form of agreement available to the Secretary that is in effect as of October 24, 1992 .

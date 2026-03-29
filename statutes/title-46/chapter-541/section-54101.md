@@ -1,59 +1,42 @@
 ---
-title: "Section 54101 - Assistance for small shipyards"
+title: "Section 54101 - Assistance for small shipyards and maritime communities"
 usc_title: 46
 usc_section: "54101"
 chapter: 541
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 54101"
-generated_at: "2026-03-29T02:15:53.779Z"
+generated_at: "2026-03-29T17:53:41.833Z"
 ---
 
-# § 54101. Assistance for small shipyards
+# § 54101. Assistance for small shipyards and maritime communities
 
 - **(a)** Subject to the availability of appropriations, the Administrator of the Maritime Administration shall execute agreements with shipyards to provide assistance—
   - **(1)** in the form of grants, loans, and loan guarantees to small shipyards for capital improvements; and
-  - **(2)** for maritime training programs to foster technical skills and operational productivity relating to shipbuilding, ship repair, and associated industries.
-- **(b)**
-  - **(1)** In providing assistance under the program, the Administrator shall consider projects that foster—
-    - **(A)** efficiency, competitive operations, and quality ship construction, repair, and reconfiguration; and
-    - **(B)** employee skills and enhanced productivity related to shipbuilding, ship repair, and associated industries.
-  - **(2)** The Administrator shall post a Notice of Funding Opportunity regarding grants awarded under this section not more than 15 days after the date of enactment of the appropriations Act for the fiscal year concerned.
-  - **(3)** The Administrator shall award grants under this section not later than 120 days after the date of the enactment of the appropriations Act for the fiscal year concerned.
-  - **(4)** Notwithstanding paragraph (3), amounts awarded as a grant under this section that are not expended by the grantee shall remain available to the Administrator for use for grants under this section.
+  - **(2)** for maritime training programs to foster technical skills and operational productivity in communities whose economies are related to or dependent upon the maritime industry.
+- **(b)** In providing assistance under the program, the Administrator shall—
+  - **(1)** take into account—
+    - **(A)** the economic circumstances and conditions of maritime communities;
+    - **(B)** projects that would be effective in fostering efficiency, competitive operations, and quality ship construction, repair, and reconfiguration; and
+    - **(C)** projects that would be effective in fostering employee skills and enhancing productivity; and
+  - **(2)** make grants within 120 days after the date of enactment of the appropriations Act for the fiscal year concerned.
 - **(c)**
-  - **(1)** Assistance provided under this section may be used to—
-    - **(A)** make capital and related improvements in small shipyards; and
-    - **(B)** provide training for workers in shipbuilding, ship repair, and associated industries.
+  - **(1)** Assistance provided under this section may be used—
+    - **(A)** to make capital and related improvements in small shipyards located in or near maritime communities;
+    - **(B)** to provide training for workers in communities whose economies are related to the maritime industry; and
+    - **(C)** for such other purposes as the Administrator determines to be consistent with and supplemental to such activities.
   - **(2)** Not more than 2 percent of amounts made available to carry out the program may be used for the necessary costs of grant administration.
-- **(d)**
-  - **(1)** Grants awarded under this section may not be used to construct buildings or other physical facilities or to acquire land.
-  - **(2)**
-    - **(A)** Subject to subparagraph (B), no funds may be obligated by the Administrator of the Maritime Administration under this section, unless each product and material purchased with those funds (including products and materials purchased by a grantee), and including any commercially available off-the-shelf item, is—
-      - **(i)** an unmanufactured article, material, or supply that has been mined or produced in the United States; or
-      - **(ii)** a manufactured article, material, or supply that has been manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States.
-    - **(B)**
-      - **(i)** Notwithstanding subparagraph (A), the requirements of that subparagraph shall not apply with respect to a particular product or material if the Administrator determines—
-        - **(I)** that the application of those requirements would be inconsistent with the public interest;
-        - **(II)** that such product or material is not available in the United States in sufficient and reasonably available quantities, of a satisfactory quality, or on a timely basis; or
-        - **(III)** that inclusion of a domestic product or material will increase the cost of that product or material by more than 25 percent, with respect to a certain contract between a grantee and that grantee’s supplier.
-      - **(ii)** A determination made by the Administrator under this subparagraph shall be published in the Federal Register.
-    - **(C)** ln this paragraph:
-      - **(i)** The term “commercially available off-the-shelf item” means—
-        - **(I)** any item of supply (including construction material) that is—
-        - **(II)** does not include bulk cargo, as defined in section 40102(4) of this title , such as agricultural products and petroleum products.
-      - **(ii)** The term “product or material” means an article, material, or supply brought to the site by the recipient for incorporation into the building, work, or project. The term also includes an item brought to the site preassembled from articles, materials, or supplies. However, emergency life safety systems, such as emergency lighting, fire alarm, and audio evacuation systems, that are discrete systems incorporated into a public building or work and that are produced as complete systems, are evaluated as a single and distinct construction material regardless of when or how the individual parts or components of those systems are delivered to the construction site.
-      - **(iii)** The term “United States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
+- **(d)** Grants awarded under this section may not be used to construct buildings or other physical facilities or to acquire land unless such use is specifically approved by the Administrator in support of subsection (c)(1)(C).
 - **(e)**
-  - **(1)** Federal funds for any eligible project under this section shall not exceed 75 percent of the total cost of such project.
-  - **(2)**
-    - **(A)** The Administrator may not award more than 25 percent of the funds made available to carry out this section for any fiscal year to any small shipyard in one geographic location that has more than 600 employees.
-    - **(B)** A maritime training center that has received funds awarded under section 51706 of title 46 , United States Code, shall not be eligible for grants under this subsection for training purposes in the same fiscal year.
+  - **(1)** Except as provided in paragraph (2), Federal funds for any eligible project under this section shall not exceed 75 percent of the total cost of such project.
+  - **(2)** If the Administrator determines that a proposed project merits support and cannot be undertaken without a higher percentage of Federal financial assistance, the Administrator may award a grant for such project with a lesser matching requirement than is described in paragraph (1).
+  - **(3)** The Administrator may not award more than 25 percent of the funds appropriated to carry out this section for any fiscal year to any small shipyard in one geographic location that has more than 600 employees.
 - **(f)**
   - **(1)** To be eligible for assistance under this section, an applicant shall submit an application, in such form, and containing such information and assurances as the Administrator may require, within 60 days after the date of enactment of the appropriations Act for the fiscal year concerned.
-  - **(2)** Each application submitted under paragraph (1) shall include a comprehensive description of—
-    - **(A)** the need for the project;
-    - **(B)** the methodology for implementing the project; and
-    - **(C)** any existing programs or arrangements that can be used to supplement or leverage assistance under the program.
+  - **(2)** Each application submitted under paragraph (1) shall include—
+    - **(A)** 1 1 So in original. There is no subpar. (B). a comprehensive description of—
+      - **(i)** the need for the project;
+      - **(ii)** the methodology for implementing the project; and
+      - **(iii)** any existing programs or arrangements that can be used to supplement or leverage assistance under the program.
   - **(3)** The Administrator, in consultation with the Office of the Inspector General, shall issue guidelines to establish appropriate accounting, reporting, and review procedures to ensure that—
     - **(A)** grant funds are used for the purposes for which they were made available;
     - **(B)** grantees have properly accounted for all expenditures of grant funds; and
@@ -64,3 +47,6 @@ generated_at: "2026-03-29T02:15:53.779Z"
     - **(C)** the recipient has authority to carry out the proposed project.
 - **(g)** All grantees under this section shall maintain such records as the Administrator may require and make such records available for review and audit by the Administrator.
 - **(h)** In this section, the term “small shipyard” means a shipyard facility in one geographic location that does not have more than 1,200 employees.
+- **(i)** There are authorized to be appropriated to the Administrator of the Maritime Administration for each of fiscal years 2009 through 2013 to carry out this section—
+  - **(1)** $5,000,000 for training grants; and
+  - **(2)** $25,000,000 for capital and related improvements.

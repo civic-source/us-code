@@ -1,12 +1,15 @@
 ---
-title: "Section 31107 - Repealed. Pub. L. 114–94, div. A, title V, § 5101(e)(3) , Dec. 4, 2015 , 129 Stat. 1525 ]"
+title: "Section 31107 - Border enforcement grants"
 usc_title: 49
 usc_section: "31107"
 chapter: 311
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 31107"
-generated_at: "2026-03-29T02:16:08.970Z"
+generated_at: "2026-03-29T17:53:48.046Z"
 ---
 
-# [§ 31107. Repealed. Pub. L. 114–94, div. A, title V, § 5101(e)(3) , Dec. 4, 2015 , 129 Stat. 1525 ]
+# § 31107. Border enforcement grants
 
+- **(a)** The Secretary of Transportation may make a grant in a fiscal year to an entity or State that shares a land border with another country for carrying out border commercial motor vehicle safety programs and related enforcement activities and projects.
+- **(b)** The Secretary shall reimburse a State under a grant made under this section an amount that is not more than 100 percent of the costs incurred by the State in a fiscal year for carrying out border commercial motor vehicle safety programs and related enforcement activities and projects.
+- **(c)** Allocations to a State remain available for expenditure in the State for the fiscal year in which they are allocated and for the next fiscal year. Amounts not expended by a State during those 2 fiscal years are available to the Secretary for reallocation under this section.

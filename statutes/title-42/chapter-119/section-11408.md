@@ -3,9 +3,9 @@ title: "Section 11408 - Rural housing stability grant program"
 usc_title: 42
 usc_section: "11408"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 11408"
-generated_at: "2026-03-29T02:15:37.164Z"
+generated_at: "2026-03-29T17:53:35.737Z"
 ---
 
 # § 11408. Rural housing stability grant program
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:15:37.164Z"
   - **(2)** stabilizing the housing of individuals and families who are in imminent danger of losing housing; and
   - **(3)** improving the ability of the lowest-income residents of the community to afford stable housing.
 - **(b)**
-  - **(1)** An eligible organization may use a grant awarded under subsection (a) to provide, in rural areas—
+  - **(1)** An eligible organization may use a grant awarded under subsection (a) of this section to provide, in rural areas—
     - **(A)** rent, mortgage, or utility assistance after 2 months of nonpayment in order to prevent eviction, foreclosure, or loss of utility service;
     - **(B)** security deposits, rent for the first month of residence at a new location, and relocation assistance;
     - **(C)** short-term emergency lodging in motels or shelters, either directly or through vouchers;
@@ -43,14 +43,14 @@ generated_at: "2026-03-29T02:15:37.164Z"
       - **(xv)** entitlement assistance; and
       - **(xvi)** referrals to veterans services and legal services; and
     - **(K)** costs associated with making use of Federal inventory property programs to house homeless families, including the program established under subchapter V of this chapter and the Single Family Property Disposition Program established pursuant to section 1710(g) of title 12 .
-  - **(2)** Not more than 20 percent of the funds transferred under subsection ( l )(1) for a fiscal year may be used by eligible organizations for capacity building activities, including payment of operating costs and staff retention.
+  - **(2)** Not more than 20 percent of the funds transferred under subsection ( l )(1) of this section for a fiscal year may be used by eligible organizations for capacity building activities, including payment of operating costs and staff retention.
 - **(c)**
   - **(1)**
-    - **(A)** In awarding grants under subsection (a) for a fiscal year, the Secretary shall make available not less than 50 percent of the funds transferred under subsection ( l )(1) for the fiscal year for grants to eligible organizations serving communities that have populations of less than 10,000.
+    - **(A)** In awarding grants under subsection (a) of this section for a fiscal year, the Secretary shall make available not less than 50 percent of the funds transferred under subsection ( l )(1) of this section for the fiscal year for grants to eligible organizations serving communities that have populations of less than 10,000.
     - **(B)** In awarding grants in accordance with subparagraph (A), the Secretary shall give priority to eligible organizations serving communities with populations of less than 5,000.
-  - **(2)** In awarding grants under subsection (a), including grants awarded in accordance with paragraph (1), the Secretary shall give priority to eligible organizations serving communities not currently receiving significant Federal assistance under this chapter.
-  - **(3)** In awarding grants under subsection (a) for a fiscal year, the Secretary shall not award to eligible organizations within a State an aggregate sum of more than 10 percent of the funds transferred under subsection ( l )(1), for the fiscal year.
-- **(d)** In order to be eligible to receive a grant under subsection (a), an organization shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The application shall include, at a minimum—
+  - **(2)** In awarding grants under subsection (a) of this section, including grants awarded in accordance with paragraph (1), the Secretary shall give priority to eligible organizations serving communities not currently receiving significant Federal assistance under this chapter.
+  - **(3)** In awarding grants under subsection (a) of this section for a fiscal year, the Secretary shall not award to eligible organizations within a State an aggregate sum of more than 10 percent of the funds transferred under subsection ( l )(1) of this section, for the fiscal year.
+- **(d)** In order to be eligible to receive a grant under subsection (a) of this section, an organization shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The application shall include, at a minimum—
   - **(1)** a description of the target population and geographic area to be served;
   - **(2)** a description of the types of assistance to be provided;
   - **(3)** an assurance that the assistance to be provided is closely related to the identified needs of the target population;
@@ -59,7 +59,7 @@ generated_at: "2026-03-29T02:15:37.164Z"
   - **(6)** a description of how individuals and families who are homeless or who have the lowest incomes in the community will be involved by the organization through employment, volunteer services, and otherwise, in providing, operating, and rehabilitating housing assisted under this section and in providing services assisted under this section and services for occupants of housing assisted under this section;
   - **(7)** a description of consultations that took place within the community to ascertain the most important uses for funding under this section, including the involvement of potential beneficiaries of the project; and
   - **(8)** a description of the extent and nature of homelessness and of the worst housing situations in the community.
-- **(e)** Organizations eligible to receive a grant under subsection (a) shall include private nonprofit entities and county and local governments.
+- **(e)** Organizations eligible to receive a grant under subsection (a) of this section shall include private nonprofit entities and county and local governments.
 - **(f)**
   - **(1)** An organization eligible to receive a grant under subsection (a) shall specify matching contributions from any source other than a grant awarded under this part, that shall be made available in the geographic area in an amount equal to not less than 25 percent of the funds provided for the project or activity, except that grants for leasing shall not be subject to any match requirement.
   - **(2)** The cash value of services provided to the beneficiaries or clients of an eligible organization by an entity other than the organization may count toward the contributions in paragraph (1) only when documented by a memorandum of understanding between the organization and the other entity that such services will be provided.

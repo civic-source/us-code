@@ -3,9 +3,9 @@ title: "Section 13504 - Math and science education program"
 usc_title: 42
 usc_section: "13504"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 13504"
-generated_at: "2026-03-29T02:15:37.269Z"
+generated_at: "2026-03-29T17:53:35.858Z"
 ---
 
 # § 13504. Math and science education program
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T02:15:37.269Z"
     - **(G)** the development of opportunities for research; and
     - **(H)** such other activities that may promote the participation of low-income and first generation college students in post-secondary science and mathematics education.
 - **(c)**
-  - **(1)** In carrying out the purpose of this section, the entities may provide support under subsection (b)(2) to—
+  - **(1)** In carrying out the purpose of this section, the entities may provide support under subsection (b)(2) of this section to—
     - **(A)** low-income and first generation college students; and
     - **(B)** institutions of higher education, public and private agencies and organizations, and secondary and middle schools that principally benefit low-income students.
   - **(2)** The qualified entities shall, to the extent practicable, coordinate support activities under this section with the Secretary of Education and the Secretary.

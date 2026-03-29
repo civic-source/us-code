@@ -3,9 +3,9 @@ title: "Section 242l - International cooperation"
 usc_title: 42
 usc_section: "242l"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 242l"
-generated_at: "2026-03-29T02:15:35.577Z"
+generated_at: "2026-03-29T17:53:34.060Z"
 ---
 
 # § 242l. International cooperation
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:15:35.577Z"
 - **(a)** The Secretary may participate with other countries in cooperative endeavors in—
   - **(1)** biomedical research, health care technology, and the health services research and statistical analysis authorized under section 242k of this title and subchapter VII; and
   - **(2)** biomedical research, health care services, health care research, or other related activities in furtherance of the activities, objectives or goals authorized under the Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008.
-- **(b)** In connection with the cooperative endeavors authorized by subsection (a), the Secretary may—
+- **(b)** In connection with the cooperative endeavors authorized by subsection (a) of this section, the Secretary may—
   - **(1)** make such use of resources offered by participating foreign countries as he may find necessary and appropriate;
   - **(2)** establish and maintain fellowships in the United States and in participating foreign countries;
   - **(3)** make grants to public institutions or agencies and to nonprofit private institutions or agencies in the United States and in participating foreign countries for the purpose of establishing and maintaining the fellowships authorized by paragraph (2);

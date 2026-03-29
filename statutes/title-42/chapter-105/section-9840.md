@@ -3,9 +3,9 @@ title: "Section 9840 - Participation in Head Start programs"
 usc_title: 42
 usc_section: "9840"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 9840"
-generated_at: "2026-03-29T02:15:37.088Z"
+generated_at: "2026-03-29T17:53:35.659Z"
 ---
 
 # § 9840. Participation in Head Start programs
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T02:15:37.088Z"
       - **(i)** The term “dependent” has the meaning given the term in paragraphs (2)(A) and (4)(A)(i) of section 401(a) of title 37 .
       - **(ii)** The terms “member” and “uniformed services” have the meanings given the terms in paragraphs (23) and (3), respectively, of section 101 of title 37 .
     - **(B)** The following amounts of pay and allowance of a member of the uniformed services shall not be considered to be income for purposes of determining the eligibility of a dependent of such member for programs funded under this subchapter:
-      - **(i)** The amount of any special pay payable under section 310 or 351 of title 37, relating to duty subject to hostile fire or imminent danger.
+      - **(i)** The amount of any special pay payable under section 310 of title 37 , relating to duty subject to hostile fire or imminent danger.
       - **(ii)** The amount of basic allowance payable under section 403 of such title, including any such amount that is provided on behalf of the member for housing that is acquired or constructed under the alternative authority for the acquisition and improvement of military housing under subchapter IV of chapter 169 of title 10 or any other related provision of law.
   - **(4)** After demonstrating a need through a communitywide strategic planning and needs assessment, a Head Start agency may apply to the Secretary to convert part-day sessions, particularly consecutive part-day sessions, into full-working-day sessions.
   - **(5)**
@@ -61,7 +61,7 @@ generated_at: "2026-03-29T02:15:37.088Z"
 - **(d)**
   - **(1)** An Indian tribe that—
     - **(A)** operates a Head Start program;
-    - **(B)** enrolls as participants in the program all children in the community served by the tribe (including a community that is an off-reservation area, designated by an appropriate tribal government, in consultation with the Secretary) from families that meet the low-income criteria prescribed under subsection (a)(1)(A); and
+    - **(B)** enrolls as participants in the program all children in the community served by the tribe (including a community that is an off-reservation area, designated by an appropriate tribal government, in consultation with the Secretary) from families that meet the low-income criteria prescribed under subsection (a)(1)(A) of this section; and
     - **(C)** has the resources to enroll additional children in the community who do not meet the low-income criteria;
   - **(2)** The Indian tribe shall enroll the children in the Head Start program in accordance with such requirements as the Secretary may specify by regulation promulgated after consultation with Indian tribes.
   - **(3)** Notwithstanding any other provision of this Act, an Indian tribe or tribes that operates both an Early Head Start program under section 9840a of this title and a Head Start program may, at its discretion, at any time during the grant period involved, reallocate funds between the Early Head Start program and the Head Start program in order to address fluctuations in client populations, including pregnant women and children from birth to compulsory school age. The reallocation of such funds between programs by an Indian tribe or tribes during a year shall not serve as the basis for the Secretary to reduce a base grant (as defined in section 9835(a)(7) of this title ) for either program in succeeding years.

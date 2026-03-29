@@ -3,14 +3,14 @@ title: "Section 47128 - State block grant program"
 usc_title: 49
 usc_section: "47128"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 47128"
-generated_at: "2026-03-29T02:16:09.069Z"
+generated_at: "2026-03-29T17:53:48.132Z"
 ---
 
 # § 47128. State block grant program
 
-- **(a)** The Secretary of Transportation shall issue guidance to carry out a State block grant program. The guidance shall provide that the Secretary may designate not more than 20 qualified States for each fiscal year to assume administrative responsibility for all airport grant amounts available under this subchapter, except for amounts designated for use at primary airports.
+- **(a)** The Secretary of Transportation shall issue guidance to carry out a State block grant program. The guidance shall provide that the Secretary may designate not more than 9 qualified States for fiscal years 2000 and 2001 and 10 qualified States for each fiscal year thereafter to assume administrative responsibility for all airport grant amounts available under this subchapter, except for amounts designated for use at primary airports.
 - **(b)** A State wishing to participate in the program must submit an application to the Secretary. The Secretary shall select a State on the basis of its application only after—
   - **(1)** deciding the State has an organization capable of effectively administering a block grant made under this section;
   - **(2)** deciding the State uses a satisfactory airport system planning process;
@@ -22,20 +22,3 @@ generated_at: "2026-03-29T02:16:09.069Z"
   - **(1)** coordinate and consult with the State;
   - **(2)** use the environmental analysis prepared by the State for the project or activity if such analysis is adequate; and
   - **(3)** as necessary, consult with the State to describe the supplemental analysis the State must provide to meet applicable Federal requirements.
-- **(e)**
-  - **(1)** The Secretary shall provide to each State participating in the block grant program under this section training or updated training materials for the administrative responsibilities assumed by the State under such program at no cost to the State.
-  - **(2)** The training or updated training materials provided under paragraph (1) shall be provided at least once during each 2-year period and at any time there is a material change in the program.
-- **(f)**
-  - **(1)** Unless a State participating in the block grant program under this section expressly agrees in a memorandum of agreement, the Secretary shall not require the State to manage functions and responsibilities for airport actions or projects that do not relate to such program.
-  - **(2)**
-    - **(A)** Any grant agreement providing funds to be administered under such program shall be consistent with the most recently executed memorandum of agreement between the State and the Federal Aviation Administration.
-    - **(B)** The Administrator of the Federal Aviation Administration shall provide parity to participating States and shall only require the same type of information and level of detail for any program agreements and documentation that the Administrator would perform with respect to such action if the State did not participate in the program.
-  - **(3)** Unless the State expressly agrees to retain responsibility, the Administrator shall retain responsibility for the following:
-    - **(A)** Grant compliance investigations, determinations, and enforcement.
-    - **(B)** Obstruction evaluation and airport airspace analysis, determinations, and enforcement off airport property.
-    - **(C)** Non-rulemaking analysis, determinations, and enforcement for proposed improvements on airport properties not associated with this subchapter, or off airport property.
-    - **(D)** Land use determinations, compatibility planning, and airport layout plan review and approval (consistent with section 47107(x)) for projects not funded by amounts available under this subchapter.
-    - **(E)** Nonaeronautical and special event recommendations and approvals.
-    - **(F)** Instrument approach procedure evaluations and determinations.
-    - **(G)** Environmental review for projects not funded by amounts available under this subchapter.
-    - **(H)** Review and approval of land leases, land releases, changes in on-airport land-use designation, and through-the-fence agreements.

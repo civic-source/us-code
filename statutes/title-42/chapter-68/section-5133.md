@@ -3,45 +3,41 @@ title: "Section 5133 - Predisaster hazard mitigation"
 usc_title: 42
 usc_section: "5133"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5133"
-generated_at: "2026-03-29T02:15:36.740Z"
+generated_at: "2026-03-29T17:53:35.288Z"
 ---
 
 # § 5133. Predisaster hazard mitigation
 
 - **(a)** In this section, the term “small impoverished community” means a community of 3,000 or fewer individuals that is economically disadvantaged, as determined by the State in which the community is located and based on criteria established by the President.
 - **(b)** The President may establish a program to provide technical and financial assistance to States and local governments to assist in the implementation of predisaster hazard mitigation measures that are cost-effective and are designed to reduce injuries, loss of life, and damage and destruction of property, including damage to critical services and facilities under the jurisdiction of the States or local governments.
-- **(c)** If the President determines that a State or local government has identified natural disaster hazards in areas under its jurisdiction and has demonstrated the ability to form effective public-private natural disaster hazard mitigation partnerships, the President, using amounts in the National Public Infrastructure Predisaster Mitigation Fund established under subsection (i) (referred to in this section as the “Fund”), may provide technical and financial assistance to the State or local government to be used in accordance with subsection (e).
+- **(c)** If the President determines that a State or local government has identified natural disaster hazards in areas under its jurisdiction and has demonstrated the ability to form effective public-private natural disaster hazard mitigation partnerships, the President, using amounts in the National Predisaster Mitigation Fund established under subsection (i) of this section (referred to in this section as the “Fund”), may provide technical and financial assistance to the State or local government to be used in accordance with subsection (e) of this section.
 - **(d)**
   - **(1)**
     - **(A)** The Governor of each State may recommend to the President not fewer than five local governments to receive assistance under this section.
     - **(B)** The recommendations under subparagraph (A) shall be submitted to the President not later than October 1, 2001 , and each October 1st thereafter or such later date in the year as the President may establish.
-    - **(C)** In making recommendations under subparagraph (A), a Governor shall consider the criteria specified in subsection (g).
+    - **(C)** In making recommendations under subparagraph (A), a Governor shall consider the criteria specified in subsection (g) of this section.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), in providing assistance to local governments under this section, the President shall select from local governments recommended by the Governors under this subsection.
     - **(B)** In providing assistance to local governments under this section, the President may select a local government that has not been recommended by a Governor under this subsection if the President determines that extraordinary circumstances justify the selection and that making the selection will further the purpose of this section.
-  - **(3)** If a Governor of a State fails to submit recommendations under this subsection in a timely manner, the President may select, subject to the criteria specified in subsection (g), any local governments of the State to receive assistance under this section.
+  - **(3)** If a Governor of a State fails to submit recommendations under this subsection in a timely manner, the President may select, subject to the criteria specified in subsection (g) of this section, any local governments of the State to receive assistance under this section.
 - **(e)**
   - **(1)** Technical and financial assistance provided under this section—
     - **(A)** shall be used by States and local governments principally to implement predisaster hazard mitigation measures that are cost-effective and are described in proposals approved by the President under this section; and
     - **(B)** may be used—
       - **(i)** to support effective public-private natural disaster hazard mitigation partnerships;
-      - **(ii)** to improve the assessment of a community’s vulnerability to natural hazards;
-      - **(iii)** to establish hazard mitigation priorities, and an appropriate hazard mitigation plan, for a community; or
-      - **(iv)** to establish and carry out enforcement activities and implement the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings’ users against disasters.
+      - **(ii)** to improve the assessment of a community’s vulnerability to natural hazards; or
+      - **(iii)** to establish hazard mitigation priorities, and an appropriate hazard mitigation plan, for a community.
   - **(2)** A State or local government may use not more than 10 percent of the financial assistance received by the State or local government under this section for a fiscal year to fund activities to disseminate information regarding cost-effective mitigation technologies.
 - **(f)**
-  - **(1)** The President shall award financial assistance under this section on a competitive basis for mitigation activities that are cost effective and in accordance with the criteria in subsection (g).
+  - **(1)** The President shall award financial assistance under this section on a competitive basis and in accordance with the criteria in subsection (g).
   - **(2)** In providing financial assistance under this section, the President shall ensure that the amount of financial assistance made available to a State (including amounts made available to local governments of the State) for a fiscal year—
     - **(A)** is not less than the lesser of—
       - **(i)** $575,000; or
       - **(ii)** the amount that is equal to 1 percent of the total funds appropriated to carry out this section for the fiscal year; and
     - **(B)** does not exceed the amount that is equal to 15 percent of the total funds appropriated to carry out this section for the fiscal year.
-  - **(3)** The President may—
-    - **(A)** withdraw amounts of financial assistance made available to a State (including amounts made available to local governments of a State) under this subsection that remain unobligated by the end of the third fiscal year after the fiscal year for which the amounts were allocated; and
-    - **(B)** in the fiscal year following a fiscal year in which amounts were withdrawn under subparagraph (A), add the amounts to any other amounts available to be awarded on a competitive basis pursuant to paragraph (1).
-- **(g)** In determining whether to provide technical and financial assistance to a State or local government under this section, the President shall provide financial assistance only in States that have received a major disaster declaration in the previous 7 years, or to any Indian tribal government located partially or entirely within the boundaries of such States, and take into account—
+- **(g)** In determining whether to provide technical and financial assistance to a State or local government under this section, the President shall take into account—
   - **(1)** the extent and nature of the hazards to be mitigated;
   - **(2)** the degree of commitment of the State or local government to reduce damages from future natural disasters;
   - **(3)** the degree of commitment by the State or local government to support ongoing non-Federal support for the hazard mitigation measures to be carried out using the technical and financial assistance;
@@ -50,18 +46,29 @@ generated_at: "2026-03-29T02:15:36.740Z"
   - **(6)** the extent to which prioritized, cost-effective mitigation activities that produce meaningful and definable outcomes are clearly identified;
   - **(7)** if the State or local government has submitted a mitigation plan under section 5165 of this title , the extent to which the activities identified under paragraph (6) are consistent with the mitigation plan;
   - **(8)** the opportunity to fund activities that maximize net benefits to society;
-  - **(9)** the extent to which assistance will fund mitigation activities in small impoverished communities;
-  - **(10)** the extent to which the State, local, Indian tribal, or territorial government has facilitated the adoption and enforcement of the latest published editions of relevant consensus-based codes, specifications, and standards, including amendments made by State, local, Indian tribal, or territorial governments during the adoption process that incorporate the latest hazard-resistant designs and establish criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings’ users against disasters;
-  - **(11)** the extent to which the assistance will fund activities that increase the level of resiliency; and
-  - **(12)** such other criteria as the President establishes in consultation with State and local governments.
+  - **(9)** the extent to which assistance will fund mitigation activities in small impoverished communities; and
+  - **(10)** such other criteria as the President establishes in consultation with State and local governments.
 - **(h)**
   - **(1)** Financial assistance provided under this section may contribute up to 75 percent of the total cost of mitigation activities approved by the President.
   - **(2)** Notwithstanding paragraph (1), the President may contribute up to 90 percent of the total cost of a mitigation activity carried out in a small impoverished community.
 - **(i)**
-  - **(1)** The President may set aside from the Disaster Relief Fund, with respect to each major disaster, an amount equal to 6 percent of the estimated aggregate amount of the grants to be made pursuant to sections 5170b, 5172, 5173, 5174, 5177, 5183, and 5189f of this title for the major disaster in order to provide technical and financial assistance under this section and such set aside shall be deemed to be related to activities carried out pursuant to major disasters under this chapter.
-  - **(2)** Not later than 180 days after each major disaster declaration pursuant to this chapter, the estimated aggregate amount of grants for purposes of paragraph (1) shall be determined by the President and such estimated amount need not be reduced, increased, or changed due to variations in estimates.
-  - **(3)** The amount set aside pursuant to paragraph (1) shall not reduce the amounts otherwise made available for sections 5170b, 5170c, 5172, 5173, 5174, 5177, 5183, and 5189f of this title under this chapter.
-- **(j)**
+  - **(1)** The President may establish in the Treasury of the United States a fund to be known as the “National Predisaster Mitigation Fund”, to be used in carrying out this section.
+  - **(2)** There shall be deposited in the Fund—
+    - **(A)** amounts appropriated to carry out this section, which shall remain available until expended; and
+    - **(B)** sums available from gifts, bequests, or donations of services or property received by the President for the purpose of predisaster hazard mitigation.
+  - **(3)** Upon request by the President, the Secretary of the Treasury shall transfer from the Fund to the President such amounts as the President determines are necessary to provide technical and financial assistance under this section.
+  - **(4)**
+    - **(A)** The Secretary of the Treasury shall invest such portion of the Fund as is not, in the judgment of the Secretary of the Treasury, required to meet current withdrawals. Investments may be made only in interest-bearing obligations of the United States.
+    - **(B)** For the purpose of investments under subparagraph (A), obligations may be acquired—
+      - **(i)** on original issue at the issue price; or
+      - **(ii)** by purchase of outstanding obligations at the market price.
+    - **(C)** Any obligation acquired by the Fund may be sold by the Secretary of the Treasury at the market price.
+    - **(D)** The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to and form a part of the Fund.
+    - **(E)**
+      - **(i)** The amounts required to be transferred to the Fund under this subsection shall be transferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the Secretary of the Treasury.
+      - **(ii)** Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
+- **(j)** The President shall not provide financial assistance under this section in an amount greater than the amount available in the Fund.
+- **(k)**
   - **(1)** In this subsection, the term “multihazard advisory map” means a map on which hazard data concerning each type of natural disaster is identified simultaneously for the purpose of showing areas of hazard overlap.
   - **(2)** In consultation with States, local governments, and appropriate Federal agencies, the President shall develop multihazard advisory maps for areas, in not fewer than five States, that are subject to commonly recurring natural hazards (including flooding, hurricanes and severe winds, and seismic events).
   - **(3)** In developing multihazard advisory maps under this subsection, the President shall use, to the maximum extent practicable, the most cost-effective and efficient technology available.
@@ -69,10 +76,14 @@ generated_at: "2026-03-29T02:15:36.740Z"
     - **(A)** The multihazard advisory maps shall be considered to be advisory and shall not require the development of any new policy by, or impose any new policy on, any government or private entity.
     - **(B)** The multihazard advisory maps shall be made available to the appropriate State and local governments for the purposes of—
       - **(i)** informing the general public about the risks of natural hazards in the areas described in paragraph (2);
-      - **(ii)** supporting the activities described in subsection (e); and
+      - **(ii)** supporting the activities described in subsection (e) of this section; and
       - **(iii)** other public uses.
-- **(k)** Not later than 18 months after October 30, 2000 , the President, in consultation with State and local governments, shall submit to Congress a report evaluating efforts to implement this section and recommending a process for transferring greater authority and responsibility for administering the assistance program established under this section to capable States.
-- **(l)**
+- **(l)** Not later than 18 months after October 30, 2000 , the President, in consultation with State and local governments, shall submit to Congress a report evaluating efforts to implement this section and recommending a process for transferring greater authority and responsibility for administering the assistance program established under this section to capable States.
+- **(m)** There are authorized to be appropriated to carry out this section—
+  - **(1)** $180,000,000 for fiscal year 2011;
+  - **(2)** $200,000,000 for fiscal year 2012; and
+  - **(3)** $200,000,000 for fiscal year 2013.
+- **(n)**
   - **(1)** In this subsection, the term “congressionally directed spending” means a statutory provision or report language included primarily at the request of a Senator or a Member, Delegate or Resident Commissioner of the House of Representatives providing, authorizing, or recommending a specific amount of discretionary budget authority, credit authority, or other spending authority for a contract, loan, loan guarantee, grant, loan authority, or other expenditure with or to an entity, or targeted to a specific State, locality, or Congressional district, other than through a statutory or administrative formula-driven or competitive award process.
   - **(2)** None of the funds appropriated or otherwise made available to carry out this section may be used for congressionally directed spending.
   - **(3)** The Administrator of the Federal Emergency Management Agency shall submit to Congress a certification regarding whether all financial assistance under this section was awarded in accordance with this section.

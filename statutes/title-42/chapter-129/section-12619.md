@@ -3,9 +3,9 @@ title: "Section 12619 - Administrative provisions"
 usc_title: 42
 usc_section: "12619"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 12619"
-generated_at: "2026-03-29T02:15:37.207Z"
+generated_at: "2026-03-29T17:53:35.786Z"
 ---
 
 # § 12619. Administrative provisions
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T02:15:37.207Z"
       - **(iii)** ensure that the cadre is comprised of males and females of diverse ethnic, economic, professional, and geographic backgrounds;
       - **(iv)** give consideration to retired and other former law enforcement, fire, rescue, and emergency personnel, and other individuals with backgrounds in disaster preparedness, relief, and recovery; and
       - **(v)** consider applicants’ experience in other youth service programs.
-    - **(D)** Service as a member of the cadre shall be considered as a community service opportunity for purposes of section 4403 of the National Defense Authorization Act for Fiscal Year 1993.
+    - **(D)** Service as a member of the cadre shall be considered as a community service opportunity for purposes of section 4403 of the National Defense Authorization Act for Fiscal Year 1993 and as employment with a public service or community service organization for purposes of section 4464 of that Act.
     - **(E)** The Director shall provide to other members of the permanent cadre appropriate training in youth development techniques, including techniques for working with and enhancing the development of disadvantaged youth, and the principles of service-learning. All members of the permanent cadre shall be required to participate in the training.
   - **(3)** The Director, other members of the permanent cadre, and the other staff personnel shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service. The rates of pay of such persons may be established without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. In the case of a member of the permanent cadre who was recommended for appointment in accordance with 12622(b)(1) 1 1 So in original. Probably should be preceded by “section”. of this title and is entitled to retired or retainer pay, section 5532 2 2 See References in Text note below. of title 5 shall not apply to reduce the member’s retired or retainer pay by reason of the member being paid as a member of the cadre.
   - **(4)** Notwithstanding any other provision of law, the Director may accept the voluntary services of individuals. While away from their homes or regular places of business on the business of the Corps, such individuals may be allowed travel expenses, including per diem in lieu of subsistence, in the same amounts and to the same extent, as authorized under section 5703 of title 5 for persons employed intermittently in Federal Government service.

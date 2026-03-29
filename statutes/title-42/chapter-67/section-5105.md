@@ -3,9 +3,9 @@ title: "Section 5105 - Research and assistance activities"
 usc_title: 42
 usc_section: "5105"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5105"
-generated_at: "2026-03-29T02:15:36.732Z"
+generated_at: "2026-03-29T17:53:35.278Z"
 ---
 
 # § 5105. Research and assistance activities
@@ -58,7 +58,7 @@ generated_at: "2026-03-29T02:15:36.732Z"
   - **(2)** Such technical assistance may include an evaluation or identification of—
     - **(A)** various methods and procedures for the investigation, assessment, and prosecution of child physical and sexual abuse cases;
     - **(B)** ways to mitigate psychological trauma to the child victim;
-    - **(C)** effective programs carried out by the States under this subchapter and subchapter III; and
+    - **(C)** effective programs carried out by the States under this subchapter and subchapter III of this chapter; and
     - **(D)** effective approaches being utilized to link child protective service agencies with health care, mental health care, and developmental services to improve forensic diagnosis and health evaluations, and barriers and shortages to such linkages.
   - **(3)** The Secretary may provide for and disseminate information relating to various training resources available at the State and local level to—
     - **(A)** individuals who are engaged, or who intend to engage, in the prevention, identification, and treatment of child abuse and neglect; and
@@ -66,7 +66,7 @@ generated_at: "2026-03-29T02:15:36.732Z"
 - **(c)**
   - **(1)** The functions of the Secretary under this section may be carried out either directly or through grant or contract.
   - **(2)** Grants under this section shall be made for periods of not more than 5 years.
-  - **(3)** In making grants for purposes of conducting research under subsection (a), the Secretary shall give special consideration to applications for long-term projects.
+  - **(3)** In making grants for purposes of conducting research under subsection (a) of this section, the Secretary shall give special consideration to applications for long-term projects.
 - **(d)**
   - **(1)**
     - **(A)** To enhance the quality and usefulness of research in the field of child abuse and neglect, the Secretary shall, in consultation with experts in the field and other Federal agencies, establish a formal, rigorous, and meritorious peer review process for purposes of evaluating and reviewing applications for assistance through a grant or contract under this section and determining the relative merits of the project for which such assistance is requested.

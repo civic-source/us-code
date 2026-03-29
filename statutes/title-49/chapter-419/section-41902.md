@@ -3,14 +3,14 @@ title: "Section 41902 - Schedules for certain transportation of mail"
 usc_title: 49
 usc_section: "41902"
 chapter: 419
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 41902"
-generated_at: "2026-03-29T02:16:09.016Z"
+generated_at: "2026-03-29T17:53:48.090Z"
 ---
 
 # § 41902. Schedules for certain transportation of mail
 
-- **(a)** Except as provided in section 41905 of this title and section 5402 of title 39 , an air carrier may transport mail by aircraft between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
+- **(a)** Except as provided in section 41906 1 1 See References in Text note below. of this title and section 5402 of title 39 , an air carrier may transport mail by aircraft between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
 - **(b)** Every air carrier shall file with the United States Postal Service a statement showing—
   - **(1)** the places between which the carrier is authorized to transport mail in Alaska;
   - **(2)** every schedule of aircraft regularly operated by the carrier between places described in paragraph (1) and every change in each schedule; and

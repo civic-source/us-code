@@ -3,9 +3,9 @@ title: "Section 7384v - Assistance for claimants and potential claimants"
 usc_title: 42
 usc_section: "7384v"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7384v"
-generated_at: "2026-03-29T02:15:36.900Z"
+generated_at: "2026-03-29T17:53:35.471Z"
 ---
 
 # § 7384v. Assistance for claimants and potential claimants
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T02:15:36.900Z"
     - **(A)** medical protocols for medical testing and diagnosis to establish the existence of a covered beryllium illness, chronic silicosis, or cancer; and
     - **(B)** lists of vendors approved for providing laboratory services related to such medical testing and diagnosis; and
   - **(3)** provide such additional assistance to such covered employees and other potential claimants as may be required for the development of facts pertinent to a claim.
-- **(c)** As part of the assistance program provided under subsections (a) and (b), and as permitted by law, the Secretary of Energy shall, upon the request of the President, require a beryllium vendor or other Department of Energy contractor or subcontractor to provide information relevant to a claim or potential claim under the compensation program to the President.
+- **(c)** As part of the assistance program provided under subsections (a) and (b) of this section, and as permitted by law, the Secretary of Energy shall, upon the request of the President, require a beryllium vendor or other Department of Energy contractor or subcontractor to provide information relevant to a claim or potential claim under the compensation program to the President.

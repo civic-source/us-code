@@ -3,9 +3,9 @@ title: "Section 16b - Discriminatory practices prohibited"
 usc_title: 42
 usc_section: "16b"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 16b"
-generated_at: "2026-03-29T02:15:36.562Z"
+generated_at: "2026-03-29T17:53:35.054Z"
 ---
 
 # § 2000e–16b. Discriminatory practices prohibited
@@ -15,6 +15,6 @@ generated_at: "2026-03-29T02:15:36.562Z"
   - **(2)** age, within the meaning of section 633a of title 29 ; or
   - **(3)** disability, within the meaning of section 791 of title 29 and sections 12112 to 12114 of this title.
 - **(b)** The remedies referred to in sections 1219(a)(1) 1 of title 2 and 2000e–16c(a) of this title—
-  - **(1)** may include, in the case of a determination that a violation of subsection (a)(1) or (a)(3) has occurred, such remedies as would be appropriate if awarded under sections 2000e–5(g), 2000e–5(k), and 2000e–16(d) of this title, and such compensatory damages as would be appropriate if awarded under section 1981 or sections 1981a(a) and 1981a(b)(2) of this title;
-  - **(2)** may include, in the case of a determination that a violation of subsection (a)(2) has occurred, such remedies as would be appropriate if awarded under section 633a(c) of title 29 ; and
+  - **(1)** may include, in the case of a determination that a violation of subsection (a)(1) or (a)(3) of this section has occurred, such remedies as would be appropriate if awarded under sections 2000e–5(g), 2000e–5(k), and 2000e–16(d) of this title, and such compensatory damages as would be appropriate if awarded under section 1981 or sections 1981a(a) and 1981a(b)(2) of this title;
+  - **(2)** may include, in the case of a determination that a violation of subsection (a)(2) of this section has occurred, such remedies as would be appropriate if awarded under section 633a(c) of title 29 ; and
   - **(3)** may not include punitive damages.

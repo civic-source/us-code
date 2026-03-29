@@ -3,19 +3,18 @@ title: "Section 60134 - State damage prevention programs"
 usc_title: 49
 usc_section: "60134"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 60134"
-generated_at: "2026-03-29T02:16:09.091Z"
+generated_at: "2026-03-29T17:53:48.156Z"
 ---
 
 # § 60134. State damage prevention programs
 
 - **(a)** The Secretary may make a grant to a State authority (including a municipality with respect to intrastate gas pipeline transportation) to assist in improving the overall quality and effectiveness of a damage prevention program of the State authority under subsection (e) if the State authority—
-  - **(1)** has in effect an annual certification under section 60105 or an agreement under section 60106;
+  - **(1)** has in effect an annual certification under section 60105 or an agreement under section 60106; and
   - **(2)**
     - **(A)** has in effect an effective damage prevention program that meets the requirements of subsection (b); or
-    - **(B)** demonstrates that it has made substantial progress toward establishing such a program, and that such program will meet the requirements of subsection (b); and
-  - **(3)** does not provide any exemptions to municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
+    - **(B)** demonstrates that it has made substantial progress toward establishing such a program, and that such program will meet the requirements of subsection (b).
 - **(b)** An effective damage prevention program includes the following elements:
   - **(1)** Participation by operators, excavators, and other stakeholders in the development and implementation of methods for establishing and maintaining effective communications between stakeholders from receipt of an excavation notification until successful completion of the excavation, as appropriate.
   - **(2)** A process for fostering and ensuring the support and partnership of stakeholders, including excavators, operators, locators, designers, and local government in all phases of the program.
@@ -32,4 +31,4 @@ generated_at: "2026-03-29T02:16:09.091Z"
 - **(f)** A grant made under this section is not subject to the section 60107(a) limitation on the maximum percentage of funds to be paid by the Secretary.
 - **(g)** Funds provided to carry out this section may not be used for lobbying or in direct support of litigation.
 - **(h)** In this section, the term “damage prevention process” means a process that incorporates the principles described in sections 60114(b), 60114(d), and 60114(e).
-- **(i)** There is authorized to be appropriated to the Secretary to provide grants under this section $1,500,000 for each of fiscal years 2021 through 2023. Such funds shall remain available until expended.
+- **(i)** There is authorized to be appropriated to the Secretary to provide grants under this section $1,500,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.

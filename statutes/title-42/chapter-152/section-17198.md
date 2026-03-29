@@ -1,16 +1,14 @@
 ---
-title: "Section 17198 - Geothermal workforce development"
+title: "Section 17198 - GeoPowering America"
 usc_title: 42
 usc_section: "17198"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 17198"
-generated_at: "2026-03-29T02:15:37.395Z"
+generated_at: "2026-03-29T17:53:36.029Z"
 ---
 
-# § 17198. Geothermal workforce development
+# § 17198. GeoPowering America
 
-The Secretary shall support the development of a geothermal energy workforce through a program that—
+The Secretary shall expand the Department of Energy’s GeoPowering the West program to extend its geothermal technology transfer activities throughout the entire United States. The program shall be renamed “GeoPowering America”. The program shall continue to be based in the Department of Energy office in Golden, Colorado.
 
-  - **(1)** facilitates collaboration between university students and researchers at the National Laboratories; and
-  - **(2)** prioritizes science in areas relevant to the mission of the Department through the application of geothermal energy tools and technologies.

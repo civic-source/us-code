@@ -3,9 +3,9 @@ title: "Section 8287 - Authority to enter into contracts"
 usc_title: 42
 usc_section: "8287"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 8287"
-generated_at: "2026-03-29T02:15:37.017Z"
+generated_at: "2026-03-29T17:53:35.586Z"
 ---
 
 # § 8287. Authority to enter into contracts
@@ -17,23 +17,18 @@ generated_at: "2026-03-29T02:15:37.017Z"
     - **(B)** Aggregate annual payments by an agency to both utilities and energy savings performance contractors, under an energy savings performance contract, may not exceed the amount that the agency would have paid for utilities without an energy savings performance contract (as estimated through the procedures developed pursuant to this section) during contract years. The contract shall provide for a guarantee of savings to the agency, and shall establish payment schedules reflecting such guarantee, taking into account any capital costs under the contract.
     - **(C)** Federal agencies may incur obligations pursuant to such contracts to finance energy conservation measures provided guaranteed savings exceed the debt service requirements.
     - **(D)** A Federal agency may enter into a multiyear contract under this subchapter for a period not to exceed 25 years beginning on the date of the delivery order, without funding of cancellation charges before cancellation, if—
-      - **(i)** such contract was awarded in a competitive manner pursuant to subsection (b)(2), using procedures and methods established under this subchapter;
+      - **(i)** such contract was awarded in a competitive manner pursuant to subsection (b)(2) of this section, using procedures and methods established under this subchapter;
       - **(ii)** funds are available and adequate for payment of the costs of such contract for the first fiscal year; and
       - **(iii)** such contract is governed by part 17.1 of the Federal Acquisition Regulation promulgated under section 1303 of title 41 or the applicable rules promulgated under this subchapter.
     - **(E)** In carrying out a contract under this subchapter, a Federal agency may use any combination of—
       - **(i)** appropriated funds; and
       - **(ii)** private financing under an energy savings performance contract.
     - **(F)** In carrying out this section, a Federal agency shall not—
-      - **(i)** establish a Federal agency policy that limits the maximum contract term under subparagraph (D) to a period shorter than 25 years;
-      - **(ii)** limit the total amount of obligations under energy savings performance contracts or other private financing of energy savings measures; or
-      - **(iii)** limit the recognition of operation and maintenance savings associated with systems modernized or replaced with the implementation of energy conservation measures, water conservation measures, or any combination of energy conservation measures and water conservation measures.
+      - **(i)** establish a Federal agency policy that limits the maximum contract term under subparagraph (D) to a period shorter than 25 years; or
+      - **(ii)** limit the total amount of obligations under energy savings performance contracts or other private financing of energy savings measures.
     - **(G)**
       - **(i)** In the case of energy savings performance contracts, the evaluations and savings measurement and verification required under paragraphs (2) and (4) of section 8253(f) of this title shall be used by a Federal agency to meet the requirements for the need for energy audits, calculation of energy savings, and any other evaluation of costs and savings needed to implement the guarantee of savings under this section.
       - **(ii)** Not later than 18 months after December 19, 2007 , each Federal agency shall, to the maximum extent practicable, modify any indefinite delivery and indefinite quantity energy savings performance contracts, and other indefinite delivery and indefinite quantity contracts using private financing, to conform to the amendments made by subtitle B of title V of the Energy Independence and Security Act of 2007.
-    - **(H)** Notwithstanding subtitle I of title 40, a Federal agency may accept, retain, sell, or transfer, and apply the proceeds of the sale or transfer of, any energy and water incentive, rebate, grid services revenue, or credit (including a renewable energy certificate) to fund a contract under this subchapter.
-    - **(I)** A contract entered into under this subchapter may not be for work performed—
-      - **(i)** at a Federal hydroelectric facility that provides power marketed by a Power Marketing Administration; or
-      - **(ii)** at a hydroelectric facility owned and operated by the Tennessee Valley Authority established under the Tennessee Valley Authority Act of 1933 ( 16 U.S.C. 831 et seq.).
 - **(b)**
   - **(1)**
     - **(A)** The Secretary, with the concurrence of the Federal Acquisition Regulatory Council established under section 1302(a) of title 41 , not later than 180 days after October 24, 1992 , shall, by rule, establish appropriate procedures and methods for use by Federal agencies to select, monitor, and terminate contracts with energy service contractors in accordance with laws governing Federal procurement that will achieve the intent of this section in a cost-effective manner. In developing such procedures and methods, the Secretary, with the concurrence of the Federal Acquisition Regulatory Council, shall determine which existing regulations are inconsistent with the intent of this section and shall formulate substitute regulations consistent with laws governing Federal procurement.
@@ -62,5 +57,5 @@ generated_at: "2026-03-29T02:15:37.017Z"
     - **(E)** providing a debriefing to any contractor not selected under subparagraph (D);
     - **(F)** negotiating a task or delivery order for energy savings performance contracting services with the contractor or contractors selected under subparagraph (D) based on the energy conservation measures identified; and
     - **(G)** issuing a task or delivery order for energy savings performance contracting services to such contractor or contractors.
-  - **(2)** The issuance of a task or delivery order for energy savings performance contracting services pursuant to paragraph (1) is deemed to satisfy the task and delivery order competition requirements in section 3406(d) of title 10 and section 4106(d) of title 41 .
+  - **(2)** The issuance of a task or delivery order for energy savings performance contracting services pursuant to paragraph (1) is deemed to satisfy the task and delivery order competition requirements in section 2304c(d) of title 10 and section 4106(d) of title 41 .
   - **(3)** The Secretary may issue guidance as necessary to agencies issuing task or delivery orders pursuant to paragraph (1).

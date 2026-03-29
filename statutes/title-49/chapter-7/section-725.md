@@ -1,12 +1,14 @@
 ---
-title: "Section 725 - Repealed. Pub. L. 114–110, § 3(a)(4) , Dec. 18, 2015 , 129 Stat. 2228 ]"
+title: "Section 725 - Administrative support"
 usc_title: 49
 usc_section: "725"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 725"
-generated_at: "2026-03-29T02:16:08.854Z"
+generated_at: "2026-03-29T17:53:47.948Z"
 ---
 
-# [§ 725. Repealed. Pub. L. 114–110, § 3(a)(4) , Dec. 18, 2015 , 129 Stat. 2228 ]
+# § 725. Administrative support
+
+The Secretary of Transportation shall provide administrative support for the Board.
 

@@ -3,27 +3,27 @@ title: "Section 12645g - Criminal history checks"
 usc_title: 42
 usc_section: "12645g"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 12645g"
-generated_at: "2026-03-29T02:15:37.212Z"
+generated_at: "2026-03-29T17:53:35.795Z"
 ---
 
 # § 12645g. Criminal history checks
 
 - **(a)** Each entity selecting individuals to serve in a position in which the individuals receive a living allowance, stipend, national service educational award, or salary through a program receiving assistance under the national service laws, shall, subject to regulations and requirements established by the Corporation, conduct criminal history checks for such individuals.
 - **(b)** A criminal history check under subsection (a) shall, except in cases approved for good cause by the Corporation, include—
-  - **(1)** a name-based search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ( 42 U.S.C. 16901 et seq.); 1 1 See References in Text note below. and
+  - **(1)** a name-based search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ( 42 U.S.C. 16901 et seq.); and
   - **(2)**
     - **(A)** a search of the State criminal registry or repository in the State in which the program is operating and the State in which the individual resides at the time of application; or
     - **(B)** submitting fingerprints to the Federal Bureau of Investigation for a national criminal history background check.
 - **(c)** An individual shall be ineligible to serve in a position described under subsection (a) if such individual—
   - **(1)** refuses to consent to the criminal history check described in subsection (b);
   - **(2)** makes a false statement in connection with such criminal history check;
-  - **(3)** is registered, or is required to be registered, on a State sex offender registry or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ( 42 U.S.C. 16901 et seq.); 1 or
+  - **(3)** is registered, or is required to be registered, on a State sex offender registry or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ( 42 U.S.C. 16901 et seq.); or
   - **(4)** has been convicted of murder, as described in section 1111 of title 18 .
 - **(d)**
   - **(1)** Notwithstanding subsection (b), on and after the date that is 2 years after April 21, 2009 , a criminal history check under subsection (a) for each individual described in paragraph (2) shall, except for an entity described in paragraph (3), include—
-    - **(A)** a name-based search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ( 42 U.S.C. 16901 et seq.); 1
+    - **(A)** a name-based search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ( 42 U.S.C. 16901 et seq.);
     - **(B)** a search of the State criminal registry or repository in the State in which the program is operating and the State in which the individual resides at the time of application; and
     - **(C)** submitting fingerprints to the Federal Bureau of Investigation for a national criminal history background check.
   - **(2)** An individual described in this paragraph is an individual age 18 or older who—

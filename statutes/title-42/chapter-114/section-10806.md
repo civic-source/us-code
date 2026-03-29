@@ -3,14 +3,14 @@ title: "Section 10806 - Access to records"
 usc_title: 42
 usc_section: "10806"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 10806"
-generated_at: "2026-03-29T02:15:37.143Z"
+generated_at: "2026-03-29T17:53:35.714Z"
 ---
 
 # § 10806. Access to records
 
-- **(a)** An eligible system which, pursuant to section 10805(a)(4) of this title , has access to records which, under Federal or State law, are required to be maintained in a confidential manner by a provider of mental health services, shall, except as provided in subsection (b), maintain the confidentiality of such records to the same extent as is required of the provider of such services.
+- **(a)** An eligible system which, pursuant to section 10805(a)(4) of this title , has access to records which, under Federal or State law, are required to be maintained in a confidential manner by a provider of mental health services, shall, except as provided in subsection (b) of this section, maintain the confidentiality of such records to the same extent as is required of the provider of such services.
 - **(b)**
   - **(1)** Except as provided in paragraph (2), an eligible system which has access to records pursuant to section 10805(a)(4) of this title may not disclose information from such records to the individual who is the subject of the information if the mental health professional responsible for supervising the provision of mental health services to such individual has provided the system with a written determination that disclosure of such information to such individual would be detrimental to such individual’s health.
   - **(2)**
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T02:15:37.143Z"
       - **(ii)** the expiration of the 2-year period beginning on May 23, 1986 ,
   - **(3)**
     - **(A)** As used in this section, the term “records” includes reports prepared by any staff of a facility rendering care and treatment or reports prepared by an agency charged with investigating reports of incidents of abuse, neglect, and injury occurring at such facility that describe incidents of abuse, neglect, and injury occurring at such facility and the steps taken to investigate such incidents, and discharge planning records.
-    - **(B)** An eligible system shall have access to the type of records described in subparagraph (A) in accordance with the provisions of subsection (a) and paragraphs (1) and (2) of subsection (b).
+    - **(B)** An eligible system shall have access to the type of records described in subparagraph (A) in accordance with the provisions of subsection (a) of this section and paragraphs (1) and (2) of subsection (b) of this section.

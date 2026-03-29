@@ -1,12 +1,14 @@
 ---
-title: "Section 3784 - Transferred"
+title: "Section 3784 - Finality of determinations"
 usc_title: 42
 usc_section: "3784"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3784"
-generated_at: "2026-03-29T02:15:36.682Z"
+generated_at: "2026-03-29T17:53:35.200Z"
 ---
 
-# § 3784. Transferred
+# § 3784. Finality of determinations
+
+In carrying out the functions vested by this chapter in the Bureau of Justice Assistance, the Bureau of Justice Statistics, or the National Institute of Justice, their determinations, findings, and conclusions shall be final and conclusive upon all applications.
 

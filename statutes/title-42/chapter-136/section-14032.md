@@ -1,12 +1,14 @@
 ---
-title: "Section 14032 - Transferred"
+title: "Section 14032 - Authorization of appropriations"
 usc_title: 42
 usc_section: "14032"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 14032"
-generated_at: "2026-03-29T02:15:37.278Z"
+generated_at: "2026-03-29T17:53:35.881Z"
 ---
 
-# § 14032. Transferred
+# § 14032. Authorization of appropriations
+
+There is authorized to be appropriated to carry out this part $3,000,000 for fiscal years 2014 through 2018.
 

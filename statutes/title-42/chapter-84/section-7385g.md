@@ -3,15 +3,15 @@ title: "Section 7385g - Attorney fees"
 usc_title: 42
 usc_section: "7385g"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7385g"
-generated_at: "2026-03-29T02:15:36.901Z"
+generated_at: "2026-03-29T17:53:35.472Z"
 ---
 
 # § 7385g. Attorney fees
 
-- **(a)** Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the claim of an individual for payment of lump-sum compensation under part B, more than that percentage specified in subsection (b) of a payment made under part B on such claim.
-- **(b)** The percentage referred to in subsection (a) is—
+- **(a)** Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the claim of an individual for payment of lump-sum compensation under part B, more than that percentage specified in subsection (b) of this section of a payment made under part B on such claim.
+- **(b)** The percentage referred to in subsection (a) of this section is—
   - **(1)** 2 percent for the filing of an initial claim for payment of lump-sum compensation; and
   - **(2)** 10 percent with respect to objections to a recommended decision denying payment of lump-sum compensation.
 - **(c)** This section shall not apply with respect to services rendered that are not in connection with such a claim for payment of lump-sum compensation.

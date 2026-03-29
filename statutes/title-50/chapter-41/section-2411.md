@@ -1,20 +1,20 @@
 ---
-title: "Section 2411 - Director for Cost Estimating and Program Evaluation"
+title: "Section 2411 - Director for cost estimating and program evaluation"
 usc_title: 50
 usc_section: "2411"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2411"
-generated_at: "2026-03-29T02:16:14.745Z"
+generated_at: "2026-03-29T17:53:51.012Z"
 ---
 
-# § 2411. Director for Cost Estimating and Program Evaluation
+# § 2411. Director for cost estimating and program evaluation
 
 - **(a)**
   - **(1)** There is in the Administration a Director for Cost Estimating and Program Evaluation (in this section referred to as the “Director”).
   - **(2)** The position of the Director shall be a Senior Executive Service position (as defined in section 3132(a) of title 5 ).
 - **(b)**
-  - **(1)** The Director shall be the principal advisor to the Administrator, the Deputy Secretary of Energy, and the Secretary of Energy with respect to cost estimation and program evaluation for the Administration. The Director shall report directly to the Administrator.
+  - **(1)** The Director shall be the principal advisor to the Administrator, the Deputy Secretary of Energy, and the Secretary of Energy with respect to cost estimation and program evaluation for the Administration.
   - **(2)** The Administrator may not delegate responsibility for receiving or acting on communications from the Director with respect to cost estimation and program evaluation for the Administration.
 - **(c)**
   - **(1)** The Director shall be the responsible for the following activities relating to cost estimation:
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T02:16:14.745Z"
     - **(B)** Reviewing the future-years nuclear security program on an annual basis to ensure that the program is accurate and thorough.
     - **(C)** Advising the Administrator on policies and procedures for analyses of alternatives for major atomic energy defense acquisition programs.
     - **(D)** As part of the planning, programming, and budgeting process of the Administration under sections 2451 and 2452 of this title, analyzing the planning phase of that process, advising on programmatic and fiscal year guidance, and managing the program review phase of that process.
-    - **(E)** Developing and managing the submittal of the Selected Acquisition Reports and independent cost estimates on nuclear weapons systems undergoing major life extension under section 2537 1 1 See References in Text note below. of this title.
+    - **(E)** Developing and managing the submittal of the Selected Acquisition Reports and independent cost estimates on nuclear weapons systems undergoing major life extension under section 2537 of this title .
     - **(F)** Reviewing cost and schedule baselines for projects under section 2753 of this title and managing notifications to the congressional defense committees of cost overruns under that section.
   - **(2)** A review conducted under paragraph (1)(B) shall be considered an inherently governmental function, but the Director may use data collected by a national security laboratory or a management and operating contractor of the Administration in conducting such a review.
   - **(3)** The Director shall submit to Congress a report on any major programmatic deviations from the future-years nuclear security program discovered in conducting a review under paragraph (1)(B) at or about the time the budget of the President is submitted to Congress under section 1105(a) of title 31 for the next fiscal year.
@@ -42,10 +42,10 @@ generated_at: "2026-03-29T02:16:14.745Z"
 - **(g)** The Director shall submit to Congress at or about the time that the budget of the President is submitted to Congress pursuant to section 1105(a) of title 31 for each of fiscal years 2015 through 2018, a report that includes the following:
   - **(1)** A description of activities conducted by the Director during the calendar year preceding the submission of the report that are related to the duties and activities described in this section.
   - **(2)** A list of all major atomic energy defense acquisition programs and a concise description of the status of each such program and project in meeting cost and critical schedule milestones.
-- **(h)** Nothing in this section shall be construed to require duplicate reviews or cost estimates for major atomic energy defense acquisition programs by the Administration or other elements of the Department of Energy.
-- **(i)** In this section:
-  - **(1)** The term “Administration”, with respect to any authority, duty, or responsibility provided by this section, does not include the Office of Naval Reactors.
-  - **(2)** The term “major atomic energy defense acquisition program” means an atomic energy defense acquisition program of the Administration—
-    - **(A)** the total project cost of which is more than $500,000,000; or
-    - **(B)** the total lifetime cost of which is more than $1,000,000,000.
-  - **(3)** The term “performance baseline”, with respect to a major atomic energy defense acquisition program, means the key parameters with respect to performance, scope, cost, and schedule for the project budget of the program.
+- **(h)** In this section:
+  - **(1)**
+    - **(A)** Except as provided in subparagraph (B), the term “major atomic energy defense acquisition program” means an atomic energy defense acquisition program of the Administration—
+      - **(i)** the total project cost of which is more than $500,000,000; or
+      - **(ii)** the total lifetime cost of which is more than $1,000,000,000.
+    - **(B)** The term “major atomic energy defense acquisition program” does not include a project covered by Department of Energy Order 413.3 (or a successor order) for the acquisition of capital assets for atomic energy defense activities.
+  - **(2)** The term “performance baseline”, with respect to a major atomic energy defense acquisition program, means the key parameters with respect to performance, scope, cost, and schedule for the project budget of the program.

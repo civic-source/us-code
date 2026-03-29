@@ -3,9 +3,9 @@ title: "Section 297o - Eligible individual student loan repayment"
 usc_title: 42
 usc_section: "297o"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 297o"
-generated_at: "2026-03-29T02:15:35.780Z"
+generated_at: "2026-03-29T17:53:34.267Z"
 ---
 
 # § 297o. Eligible individual student loan repayment
@@ -32,3 +32,4 @@ generated_at: "2026-03-29T02:15:35.780Z"
   - **(2)** holds an unencumbered license as a registered nurse; and
   - **(3)** has either already completed a master’s or doctorate nursing program at an accredited school of nursing or is currently enrolled on a full-time or part-time basis in such a program.
 - **(f)** For the purposes of this section and section 297n–1 of this title , funding priority will be awarded to School of Nursing Student Loans 2 2 So in original. Probably should not be capitalized. that support doctoral nursing students or Individual Student Loan Repayment 3 3 So in original. Probably should be “individual student loan repayments”. that support doctoral nursing students.
+- **(g)** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.

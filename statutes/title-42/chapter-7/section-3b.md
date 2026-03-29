@@ -3,9 +3,9 @@ title: "Section 3b - Competitive acquisition of outpatient drugs and biologicals
 usc_title: 42
 usc_section: "3b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3b"
-generated_at: "2026-03-29T02:15:36.181Z"
+generated_at: "2026-03-29T17:53:34.646Z"
 ---
 
 # § 1395w–3b. Competitive acquisition of outpatient drugs and biologicals
@@ -67,7 +67,7 @@ generated_at: "2026-03-29T02:15:36.181Z"
   - **(4)**
     - **(A)** A contract entered into with an entity under the competition conducted pursuant to paragraph (1) is subject to terms and conditions that the Secretary may specify consistent with this section.
     - **(B)** A contract under this section shall be for a term of 3 years, but may be terminated by the Secretary or the entity with appropriate, advance notice.
-    - **(C)** A contractor (as defined in subsection (a)(2)(D)) shall—
+    - **(C)** A contractor (as defined in subsection (a)(2)(D) of this section) shall—
       - **(i)** acquire all drug and biological products it distributes directly from the manufacturer or from a distributor that has acquired the products directly from the manufacturer; and
       - **(ii)** comply with any product integrity safeguards as may be determined to be appropriate by the Secretary.
     - **(D)** Under the contract—
@@ -83,14 +83,14 @@ generated_at: "2026-03-29T02:15:36.181Z"
     - **(D)** The drugs or biologicals were administered in an emergency situation.
   - **(6)** Nothing in this section shall be construed as waiving applicable State requirements relating to licensing of pharmacies.
 - **(c)**
-  - **(1)** In awarding a contract for a category of drugs and biologicals in an area under the program, the Secretary shall consider with respect to each entity seeking to be awarded a contract the bid price and the other factors referred to in subsection (b)(3).
+  - **(1)** In awarding a contract for a category of drugs and biologicals in an area under the program, the Secretary shall consider with respect to each entity seeking to be awarded a contract the bid price and the other factors referred to in subsection (b)(3) of this section.
   - **(2)** In this section, the term “bid” means an offer to furnish a competitively biddable drug or biological for a particular price and time period.
   - **(3)** Nothing in this section shall be construed as precluding a bidder from bidding for contracts in all areas of the United States or as requiring a bidder to submit a bid for all areas of the United States.
   - **(4)** The amount of the bid submitted under a contract offer for any competitively biddable drug or biological for an area shall be the same for that drug or biological for all portions of that area.
   - **(5)** The provisions of subparagraph (D) of section 1396r–8(b)(3) of this title shall apply to periods during which a bid is submitted with respect to a competitively biddable drug or biological under this section in the same manner as it applies to information disclosed under such section, except that any reference—
     - **(A)** in that subparagraph to a “manufacturer or wholesaler” is deemed a reference to a “bidder” under this section;
     - **(B)** in that section to “prices charged for drugs” is deemed a reference to a “bid” submitted under this section; and
-    - **(C)** in clause (i) of that section to “this section”, is deemed a reference to “part B of subchapter XVIII”.
+    - **(C)** in clause (i) of that section to “this section”, is deemed a reference to “part B of subchapter XVIII of this chapter”.
   - **(6)** The bid price submitted in a contract offer for a competitively biddable drug or biological shall—
     - **(A)** include all costs related to the delivery of the drug or biological to the selecting physician (or other point of delivery); and
     - **(B)** include the costs of dispensing (including shipping) of such drug or biological and management fees, but shall not include any costs related to the administration of the drug or biological, or wastage, spillage, or spoilage.
@@ -103,17 +103,17 @@ generated_at: "2026-03-29T02:15:36.181Z"
     - **(A)** A competitively biddable drug or biological for which a payment and billing code has not been established.
     - **(B)** Such other exceptional cases as the Secretary may specify in regulations.
 - **(e)**
-  - **(1)** Payment under this section for competitively biddable drugs and biologicals shall be in an amount equal to 80 percent of the payment basis described in subsection (d)(1).
+  - **(1)** Payment under this section for competitively biddable drugs and biologicals shall be in an amount equal to 80 percent of the payment basis described in subsection (d)(1) of this section.
   - **(2)** Before applying paragraph (1), the individual shall be required to meet the deductible described in section 1395 l (b) of this title.
-  - **(3)** Such coinsurance and deductible shall be collected by the contractor that supplies the drug or biological involved. Subject to subsection (a)(3)(B), such coinsurance and deductible may be collected in a manner similar to the manner in which the coinsurance and deductible are collected for durable medical equipment under this part.
+  - **(3)** Such coinsurance and deductible shall be collected by the contractor that supplies the drug or biological involved. Subject to subsection (a)(3)(B) of this section, such coinsurance and deductible may be collected in a manner similar to the manner in which the coinsurance and deductible are collected for durable medical equipment under this part.
 - **(f)**
-  - **(1)** If the Secretary excludes a drug or biological (or class of drugs or biologicals) under subsection (a)(1)(D), the Secretary may provide for payment to be made under this part for such drugs and biologicals (or class) using the payment methodology under section 1395w–3a of this title .
+  - **(1)** If the Secretary excludes a drug or biological (or class of drugs or biologicals) under subsection (a)(1)(D) of this section, the Secretary may provide for payment to be made under this part for such drugs and biologicals (or class) using the payment methodology under section 1395w–3a of this title .
   - **(2)** For provision requiring assignment of claims for competitively biddable drugs and biologicals, see section 1395u( o )(3) of this title.
   - **(3)** For protection of individuals against liability in the case of medical necessity determinations, see section 1395u(b)(3)(B)(ii)(III) of this title .
 - **(g)** There shall be no administrative or judicial review under section 1395ff of this title , section 1395 oo of this title, or otherwise, of—
-  - **(1)** the establishment of payment amounts under subsection (d)(1);
+  - **(1)** the establishment of payment amounts under subsection (d)(1) of this section;
   - **(2)** the awarding of contracts under this section;
-  - **(3)** the establishment of competitive acquisition areas under subsection (a)(2)(C);
-  - **(4)** the phased-in implementation under subsection (a)(1)(B);
+  - **(3)** the establishment of competitive acquisition areas under subsection (a)(2)(C) of this section;
+  - **(4)** the phased-in implementation under subsection (a)(1)(B) of this section;
   - **(5)** the selection of categories of competitively biddable drugs and biologicals for competitive acquisition under such subsection or the selection of a drug in the case of multiple source drugs; or
   - **(6)** the bidding structure and number of contractors selected under this section.

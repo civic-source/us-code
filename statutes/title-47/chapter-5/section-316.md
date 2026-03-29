@@ -3,9 +3,9 @@ title: "Section 316 - Modification by Commission of station licenses or construc
 usc_title: 47
 usc_section: "316"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 316"
-generated_at: "2026-03-29T02:15:59.209Z"
+generated_at: "2026-03-29T17:53:43.632Z"
 ---
 
 # § 316. Modification by Commission of station licenses or construction permits; burden of proof
@@ -14,4 +14,4 @@ generated_at: "2026-03-29T02:15:59.209Z"
   - **(1)** Any station license or construction permit may be modified by the Commission either for a limited time or for the duration of the term thereof, if in the judgment of the Commission such action will promote the public interest, convenience, and necessity, or the provisions of this chapter or of any treaty ratified by the United States will be more fully complied with. No such order of modification shall become final until the holder of the license or permit shall have been notified in writing of the proposed action and the grounds and reasons therefor, and shall be given reasonable opportunity, of at least thirty days, to protest such proposed order of modification; except that, where safety of life or property is involved, the Commission may by order provide, for a shorter period of notice.
   - **(2)** Any other licensee or permittee who believes its license or permit would be modified by the proposed action may also protest the proposed action before its effective date.
   - **(3)** A protest filed pursuant to this subsection shall be subject to the requirements of section 309 of this title for petitions to deny.
-- **(b)** In any case where a hearing is conducted pursuant to the provisions of this section, both the burden of proceeding with the introduction of evidence and the burden of proof shall be upon the Commission; except that, with respect to any issue that addresses the question of whether the proposed action would modify the license or permit of a person described in subsection (a)(2), such burdens shall be as determined by the Commission.
+- **(b)** In any case where a hearing is conducted pursuant to the provisions of this section, both the burden of proceeding with the introduction of evidence and the burden of proof shall be upon the Commission; except that, with respect to any issue that addresses the question of whether the proposed action would modify the license or permit of a person described in subsection (a)(2) of this section, such burdens shall be as determined by the Commission.

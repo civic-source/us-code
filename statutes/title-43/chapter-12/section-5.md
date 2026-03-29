@@ -1,12 +1,14 @@
 ---
-title: "Section 5 - Omitted"
+title: "Section 5 - Supplement to Federal reclamation laws"
 usc_title: 43
 usc_section: "5"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 5"
-generated_at: "2026-03-29T02:15:47.557Z"
+generated_at: "2026-03-29T17:53:03.643Z"
 ---
 
-# §§ 616ww to 616ww–5. Omitted
+# § 485h–5. Supplement to Federal reclamation laws
+
+Sections 485h–1 to 485h–5 of this title shall be a supplement to the Federal reclamation laws (Act of June 17, 1902 , 32 Stat. 388 , and Acts amendatory thereof or supplementary thereto).
 

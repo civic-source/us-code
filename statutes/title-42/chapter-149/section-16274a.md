@@ -1,44 +1,18 @@
 ---
-title: "Section 16274a - University Nuclear Leadership Program"
+title: "Section 16274a - Integrated University Program"
 usc_title: 42
 usc_section: "16274a"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 16274a"
-generated_at: "2026-03-29T02:15:37.340Z"
+generated_at: "2026-03-29T17:53:35.989Z"
 ---
 
-# § 16274a. University Nuclear Leadership Program
+# § 16274a. Integrated University Program
 
-- **(a)** The Secretary of Energy, the Administrator of the National Nuclear Security Administration, and the Chairman of the Commission shall jointly establish a program, to be known as the “University Nuclear Leadership Program”.
-- **(b)**
-  - **(1)** Except as provided in paragraph (2) and subsection (c), amounts made available to carry out the Program shall be used to provide financial assistance for scholarships, fellowships, and research and development projects at institutions of higher education in areas relevant to the programmatic mission of the applicable Federal agency, with an emphasis on providing the financial assistance with respect to research, development, demonstration, and commercial application activities relevant to civilian advanced nuclear reactors including, but not limited to—
-    - **(A)** relevant fuel cycle technologies;
-    - **(B)** project management; and
-    - **(C)** advanced construction, manufacturing, and fabrication methods.
-  - **(2)** Notwithstanding paragraph (1), amounts made available to carry out the Program may be used to provide financial assistance for a scholarship, fellowship, or multiyear research and development project that does not align directly with a programmatic mission of the Department of Energy, if the activity for which assistance is provided would facilitate the maintenance of the discipline of nuclear science or engineering, which may include nontechnical nuclear research.. 1 1 So in original.
-- **(c)**
-  - **(1)** The Commission shall establish, as a subprogram of the Program, a nuclear energy traineeship subprogram under which the Commission, in coordination with institutions of higher education and trade schools, shall competitively award traineeships that provide focused training to meet critical mission needs of the Commission and nuclear workforce needs, including needs relating to the nuclear tradecraft workforce.
-  - **(2)** In carrying out the nuclear energy traineeship subprogram described in paragraph (1), the Commission shall—
-    - **(A)** coordinate with the Secretary of Energy to prioritize the funding of traineeships that focus on—
-      - **(i)** nuclear workforce needs; and
-      - **(ii)** critical mission needs of the Commission;
-    - **(B)** encourage appropriate partnerships among—
-      - **(i)** National Laboratories;
-      - **(ii)** institutions of higher education;
-      - **(iii)** trade schools;
-      - **(iv)** the nuclear energy industry; and
-      - **(v)** other entities, as the Commission determines to be appropriate; and
-    - **(C)** on an annual basis, evaluate nuclear workforce needs for the purpose of implementing traineeships in focused topical areas that—
-      - **(i)** address the workforce needs of the nuclear energy community; and
-      - **(ii)** support critical mission needs of the Commission.
-- **(d)** In this section:
-  - **(1)** The term “advanced nuclear reactor” has the meaning given the term in section 16271(b) of this title .
-  - **(2)** The term “Commission” means the Nuclear Regulatory Commission.
-  - **(3)** The term “institution of higher education” has the meaning given the term in section 15801 of this title .
-  - **(4)** The term “National Laboratory” has the meaning given the term in section 16271(b) of this title .
-  - **(5)** The term “Program” means the University Nuclear Leadership Program established under this section.
-  - **(3)** The term “nontechnical nuclear research” means research with specializations such as social sciences or law that can support an increase in community engagement, participation, and confidence in nuclear energy systems, including the navigation of the licensing required for advanced reactor deployment, aligned with the objectives in section 16271(a)(2) of this title .
-- **(e)** There are authorized to be appropriated to carry out the Program for each of fiscal years 2021 through 2025—
-  - **(1)** $45,000,000 to the Secretary of Energy, of which $15,000,000 shall be for use by the Administrator of the National Nuclear Security Administration; and
-  - **(2)** $15,000,000 to the Commission.
+- **(a)** The Secretary of Energy, along with the Administrator of the National Nuclear Security Administration and the Chairman of the Nuclear Regulatory Commission, shall establish an Integrated University Program.
+- **(b)** For the purposes of carrying out this section, $45,000,000 is authorized to be appropriated in each of fiscal years 2009 to 2019 as follows:
+  - **(1)** $15,000,000 for the Department of Energy;
+  - **(2)** $15,000,000 for the Nuclear Regulatory Commission; and
+  - **(3)** $15,000,000 for the National Nuclear Security Administration.
+- **(c)** Of the amounts authorized to carry out this section, $10,000,000 shall be used by each organization to support university research and development in areas relevant to their respective organization’s mission, and $5,000,000 shall be used by each organization to support a jointly implemented Nuclear Science and Engineering Grant Program that will support multiyear research projects that do not align with programmatic missions but are critical to maintaining the discipline of nuclear science and engineering.

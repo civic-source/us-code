@@ -3,9 +3,9 @@ title: "Section 5301 - Policies and purposes"
 usc_title: 49
 usc_section: "5301"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 5301"
-generated_at: "2026-03-29T02:16:08.868Z"
+generated_at: "2026-03-29T17:53:47.961Z"
 ---
 
 # § 5301. Policies and purposes

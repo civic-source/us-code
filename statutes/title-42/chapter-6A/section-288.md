@@ -3,9 +3,9 @@ title: "Section 288 - Ruth L. Kirschstein National Research Service Awards"
 usc_title: 42
 usc_section: "288"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 288"
-generated_at: "2026-03-29T02:15:35.714Z"
+generated_at: "2026-03-29T17:53:34.194Z"
 ---
 
 # § 288. Ruth L. Kirschstein National Research Service Awards
@@ -18,18 +18,18 @@ generated_at: "2026-03-29T02:15:35.714Z"
       - **(iii)** biomedical and behavioral research and health services research (including research in primary medical care) at public and nonprofit private entities; and
       - **(iv)** pre-doctoral and post-doctoral training at public and private institutions of individuals to undertake biomedical and behavioral research;
     - **(B)** make grants to public and nonprofit private institutions to enable such institutions to make Ruth L. Kirschstein National Research Service Awards for research (and training to undertake biomedical and behavioral research) in the matters described in subparagraph (A)(i) to individuals selected by such institutions; and
-    - **(C)** provide contracts for scholarships and loan repayments in accordance with sections 288–4 and 288–5 2 2 See References in Text note below. of this title, subject to providing not more than an aggregate 50 such contracts during the fiscal years 1994 through 1996.
+    - **(C)** provide contracts for scholarships and loan repayments in accordance with sections 288–4 and 288–5 of this title, subject to providing not more than an aggregate 50 such contracts during the fiscal years 1994 through 1996.
   - **(2)** Ruth L. Kirschstein National Research Service Awards may not be used to support residency training of physicians and other health professionals.
   - **(3)** In awarding Ruth L. Kirschstein National Research Service Awards under this section, the Secretary shall take account of the Nation’s overall need for biomedical research personnel by giving special consideration to physicians who agree to undertake a minimum of two years of biomedical research.
   - **(4)** The Secretary shall carry out paragraph (1) in a manner that will result in the recruitment of women, and individuals from disadvantaged backgrounds (including racial and ethnic minorities), into fields of biomedical or behavioral research and in the provision of research training to women and such individuals.
 - **(b)**
   - **(1)** No Ruth L. Kirschstein National Research Service Award may be made by the Secretary to any individual unless—
     - **(A)** the individual has submitted to the Secretary an application therefor and the Secretary has approved the application;
-    - **(B)** the individual provides, in such form and manner as the Secretary shall by regulation prescribe, assurances satisfactory to the Secretary that the individual will meet the service requirement of subsection (c); and
-    - **(C)** in the case of a Ruth L. Kirschstein National Research Service Award for a purpose described in subsection (a)(1)(A)(iii), the individual has been sponsored (in such manner as the Secretary may by regulation require) by the institution at which the research or training under the award will be conducted.
-  - **(2)** The making of grants under subsection (a)(1)(B) for Ruth L. Kirschstein National Research Service Awards shall be subject to review and approval by the appropriate advisory councils within the Department of Health and Human Services (A) whose activities relate to the research or training under the awards, or (B) for the entity at which such research or training will be conducted.
-  - **(3)** No grant may be made under subsection (a)(1)(B) unless an application therefor has been submitted to and approved by the Secretary. Such application shall be in such form, submitted in such manner, and contain such information, as the Secretary may by regulation prescribe. Subject to the provisions of this section (other than paragraph (1)), Ruth L. Kirschstein National Research Service Awards made under a grant under subsection (a)(1)(B) shall be made in accordance with such regulations as the Secretary shall prescribe.
-  - **(4)** The period of any Ruth L. Kirschstein National Research Service Award made to any individual under subsection (a) may not exceed—
+    - **(B)** the individual provides, in such form and manner as the Secretary shall by regulation prescribe, assurances satisfactory to the Secretary that the individual will meet the service requirement of subsection (c) of this section; and
+    - **(C)** in the case of a Ruth L. Kirschstein National Research Service Award for a purpose described in subsection (a)(1)(A)(iii) of this section, the individual has been sponsored (in such manner as the Secretary may by regulation require) by the institution at which the research or training under the award will be conducted.
+  - **(2)** The making of grants under subsection (a)(1)(B) of this section for Ruth L. Kirschstein National Research Service Awards shall be subject to review and approval by the appropriate advisory councils within the Department of Health and Human Services (A) whose activities relate to the research or training under the awards, or (B) for the entity at which such research or training will be conducted.
+  - **(3)** No grant may be made under subsection (a)(1)(B) of this section unless an application therefor has been submitted to and approved by the Secretary. Such application shall be in such form, submitted in such manner, and contain such information, as the Secretary may by regulation prescribe. Subject to the provisions of this section (other than paragraph (1)), Ruth L. Kirschstein National Research Service Awards made under a grant under subsection (a)(1)(B) of this section shall be made in accordance with such regulations as the Secretary shall prescribe.
+  - **(4)** The period of any Ruth L. Kirschstein National Research Service Award made to any individual under subsection (a) of this section may not exceed—
     - **(A)** five years in the aggregate for pre-doctoral training; and
     - **(B)** three years in the aggregate for post-doctoral training;
   - **(5)** Ruth L. Kirschstein National Research Service Awards shall provide for such stipends, tuition, fees, and allowances (including travel and subsistence expenses and dependency allowances), adjusted periodically to reflect increases in the cost of living, for the recipients of the awards as the Secretary may deem necessary. A Ruth L. Kirschstein National Research Service Award made to an individual for research or research training at a non-Federal public or nonprofit private institution shall also provide for payments to be made to the institution for the cost of support services (including the cost of faculty salaries, supplies, equipment, general research support, and related items) provided such individual by such institution. The amount of any such payments to any institution shall be determined by the Secretary and shall bear a direct relationship to the reasonable costs of the institution for establishing and maintaining the quality of its biomedical and behavioral research and training programs.

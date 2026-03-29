@@ -3,17 +3,17 @@ title: "Section 274 - Organ procurement and transplantation network"
 usc_title: 42
 usc_section: "274"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 274"
-generated_at: "2026-03-29T02:15:35.651Z"
+generated_at: "2026-03-29T17:53:34.133Z"
 ---
 
 # § 274. Organ procurement and transplantation network
 
-- **(a)** The Secretary shall provide for the continued operation of an Organ Procurement and Transplantation Network which meets the requirements of subsection (b). The Secretary may award grants, contracts, or cooperative agreements, as the Secretary determines appropriate, for purposes of carrying out this section.
+- **(a)** The Secretary shall by contract provide for the establishment and operation of an Organ Procurement and Transplantation Network which meets the requirements of subsection (b) of this section. The amount provided under such contract in any fiscal year may not exceed $7,000,000. Funds for such contracts shall be made available from funds available to the Public Health Service from appropriations for fiscal years beginning after fiscal year 1984.
 - **(b)**
-  - **(1)** The Organ Procurement and Transplantation Network shall—
-    - **(A)** be operated through awards to public or private entities made by the Secretary that are distinct from the awards made to support the organization tasked with supporting the board of directors described in subparagraph (B); and
+  - **(1)** The Organ Procurement and Transplantation Network shall carry out the functions described in paragraph (2) and shall—
+    - **(A)** be a private nonprofit entity that has an expertise in organ procurement and transplantation, and
     - **(B)** have a board of directors—
       - **(i)** that includes representatives of organ procurement organizations (including organizations that have received grants under section 273 of this title ), transplant centers, voluntary health associations, and the general public; and
       - **(ii)** that shall establish an executive committee and other committees, whose chairpersons shall be selected to ensure continuity of leadership for the board.
@@ -41,5 +41,5 @@ generated_at: "2026-03-29T02:15:35.651Z"
       - **(i)** are participating in clinical research approved by an institutional review board under the criteria, standards, and regulations described in subsections (a) and (b) of section 274f–5 of this title ; or
       - **(ii)** if the Secretary has determined under section 274f–5(c) of this title that participation in such clinical research, as a requirement for such transplants, is no longer warranted, are receiving a transplant under the standards and regulations under section 274f–5(c) of this title .
 - **(c)** The Secretary shall establish procedures for—
-  - **(1)** receiving from interested persons critical comments relating to the manner in which the Organ Procurement and Transplantation Network is carrying out the duties of the Network under subsection (b); and
+  - **(1)** receiving from interested persons critical comments relating to the manner in which the Organ Procurement and Transplantation Network is carrying out the duties of the Network under subsection (b) of this section; and
   - **(2)** the consideration by the Secretary of such critical comments.

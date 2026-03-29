@@ -3,9 +3,9 @@ title: "Section 2110 - Fees"
 usc_title: 46
 usc_section: "2110"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 2110"
-generated_at: "2026-03-29T02:15:53.705Z"
+generated_at: "2026-03-29T17:53:41.781Z"
 ---
 
 # § 2110. Fees
@@ -17,9 +17,21 @@ generated_at: "2026-03-29T02:15:53.705Z"
   - **(4)** The Secretary may not collect a fee or charge under this subsection that is in conflict with the international obligations of the United States.
   - **(5)** The Secretary may not collect a fee or charge under this subsection for any search or rescue service.
 - **(b)**
-  - **(1)** In addition to the collection of fees and charges established under subsection (a), in providing a service or thing of value under this subtitle the Secretary may accept in-kind transportation, travel, and subsistence.
-  - **(2)** The value of in-kind transportation, travel, and subsistence accepted under this paragraph may not exceed applicable per diem rates set forth in regulations prescribed under section 464 of title 37 .
-- **(c)** In addition to the collection of fees and charges established under subsection (a), the Secretary may recover appropriate collection and enforcement costs associated with delinquent payments of the fees and charges.
+  - **(1)** The Secretary shall establish a fee or charge as provided in paragraph (2) of this subsection, and collect it annually in fiscal years 1993 and 1994, from the owner or operator of each recreational vessel to which paragraph (2) of this subsection applies.
+  - **(2)** The fee or charge established under paragraph (1) of this subsection is as follows:
+    - **(A)** in fiscal year 1993—
+      - **(i)** for vessels of more than 21 feet in length but less than 27 feet, not more than $35;
+      - **(ii)** for vessels of at least 27 feet in length but less than 40 feet, not more than $50; and
+      - **(iii)** for vessels of at least 40 feet in length, not more than $100; and
+    - **(B)** in fiscal year 1994—
+      - **(i)** for vessels of at least 37 feet in length but less than 40 feet, not more than $50; and
+      - **(ii)** for vessels of at least 40 feet in length, not more than $100.
+  - **(3)** The fee or charge established under this subsection applies only to vessels operated on the navigable waters of the United States where the Coast Guard has a presence.
+  - **(4)** The fee or charge established under this subsection does not apply to a—
+    - **(A)** public vessel; or
+    - **(B)** vessel deemed to be a public vessel under section 827 of title 14 .
+  - **(5)** The Secretary shall provide to each person who pays a fee or charge under this subsection a separate document on which appears, in readily discernible print, only the following statement: “The fee for which this document was provided was established under the Omnibus Budget Reconciliation Act of 1990. Persons paying this fee can expect no increase in the quantity, quality, or variety of services the person receives from the Coast Guard as a result of that payment.”
+- **(c)** In addition to the collection of fees and charges established under subsections (a) and (b), the Secretary may recover appropriate collection and enforcement costs associated with delinquent payments of the fees and charges.
 - **(d)**
   - **(1)** The Secretary may employ any Federal, State, or local agency or instrumentality, or any private enterprise or business, to collect a fee or charge established under this section. A private enterprise or business selected by the Secretary to collect fees or charges—
     - **(A)** shall be subject to reasonable terms and conditions agreed to by the Secretary and the enterprise or business;
@@ -32,3 +44,4 @@ generated_at: "2026-03-29T02:15:53.705Z"
 - **(h)** Fees and charges collected by the Secretary under this section shall be deposited in the general fund of the Treasury as offsetting receipts of the department in which the Coast Guard is operating and ascribed to Coast Guard activities.
 - **(i)** The collection of a fee or charge under this section does not alter or expand the functions, powers, responsibilities, or liability of the United States under any law for the performance of services or the provision of a thing of value for which a fee or charge is collected under this section.
 - **(j)** The Secretary may not establish or collect a fee or charge for the inspection under part B of this subtitle of training vessels operated by State maritime academies.
+- **(k)** The Secretary may not plan, implement or finalize any regulation that would promulgate any new maritime user fee which was not implemented and collected prior to January 1, 1998 , including a fee or charge for any domestic icebreaking service or any other navigational assistance service. This subsection expires on September 30, 2006 .

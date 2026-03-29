@@ -3,9 +3,9 @@ title: "Section 1997c - Intervention in actions"
 usc_title: 42
 usc_section: "1997c"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1997c"
-generated_at: "2026-03-29T02:15:36.554Z"
+generated_at: "2026-03-29T17:53:35.044Z"
 ---
 
 # § 1997c. Intervention in actions
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:15:36.554Z"
   - **(1)** Whenever an action has been commenced in any court of the United States seeking relief from egregious or flagrant conditions which deprive persons residing in institutions of any rights, privileges, or immunities secured or protected by the Constitution or laws of the United States causing them to suffer grievous harm and the Attorney General has reasonable cause to believe that such deprivation is pursuant to a pattern or practice of resistance to the full enjoyment of such rights, privileges, or immunities, the Attorney General, for or in the name of the United States, may intervene in such action upon motion by the Attorney General.
   - **(2)** The Attorney General shall not file a motion to intervene under paragraph (1) before 90 days after the commencement of the action, except that if the court determines it would be in the interests of justice, the court may shorten or waive the time period.
 - **(b)**
-  - **(1)** The Attorney General shall certify to the court in the motion to intervene filed under subsection (a)—
+  - **(1)** The Attorney General shall certify to the court in the motion to intervene filed under subsection (a) of this section—
     - **(A)** that the Attorney General has notified in writing, at least fifteen days previously, the Governor or chief executive officer, attorney general or chief legal officer of the appropriate State or political subdivision, and the director of the institution of—
       - **(i)** the alleged conditions which deprive rights, privileges, or immunities secured or protected by the Constitution or laws of the United States and the alleged pattern or practice of resistance to the full enjoyment of such rights, privileges, or immunities;
       - **(ii)** the supporting facts giving rise to the alleged conditions, including the dates and time period during which the alleged conditions and pattern or practice of resistance occurred; and

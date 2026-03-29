@@ -3,12 +3,13 @@ title: "Section 13614 - General availability of units"
 usc_title: 42
 usc_section: "13614"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 13614"
-generated_at: "2026-03-29T02:15:37.275Z"
+generated_at: "2026-03-29T17:53:35.864Z"
 ---
 
 # § 13614. General availability of units
 
-If an owner of a covered section 8 housing project in which disabled families who are near-elderly families are given a preference for occupancy pursuant to subsection (a) or (b) of section 13613 of this title determines (in accordance with regulations established by the Secretary) that there are an insufficient number of such families to fill all the units in the project for which the preference is applicable, the owner shall make such units generally available for occupancy by families who have applied, and are eligible, for occupancy in the housing, without regard to the preferences established pursuant to this subchapter.
+- **(a)** or
+- **(b)** of section 13613 of this title determines (in accordance with regulations established by the Secretary) that there are an insufficient number of such families to fill all the units in the project for which the preference is applicable, the owner shall make such units generally available for occupancy by families who have applied, and are eligible, for occupancy in the housing, without regard to the preferences established pursuant to this subchapter.
 

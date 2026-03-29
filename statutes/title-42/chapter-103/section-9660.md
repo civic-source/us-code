@@ -3,9 +3,9 @@ title: "Section 9660 - Research, development, and demonstration"
 usc_title: 42
 usc_section: "9660"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 9660"
-generated_at: "2026-03-29T02:15:37.073Z"
+generated_at: "2026-03-29T17:53:35.643Z"
 ---
 
 # § 9660. Research, development, and demonstration
@@ -89,6 +89,6 @@ generated_at: "2026-03-29T02:15:37.073Z"
   - **(8)** Administrative responsibility for carrying out this subsection shall be in the Office of the Administrator.
   - **(9)** The Administrator shall allocate funds made available to carry out this subsection equitably among the regions of the United States.
   - **(10)** Not less than five percent of the funds made available to carry out this subsection for any fiscal year shall be available to carry out technology transfer activities.
-- **(e)** At the time of the submission of the annual budget request to Congress, the Administrator shall submit to the appropriate committees of the House of Representatives and the Senate and to the advisory council established under subsection (a), a report on the progress of the research, development, and demonstration program authorized by subsection (b), including an evaluation of each demonstration project completed in the preceding fiscal year, findings with respect to the efficacy of such demonstrated technologies in achieving permanent and significant reductions in risk from hazardous wastes, the costs of such demonstration projects, and the potential applicability of, and projected costs for, such technologies at other hazardous substance sites.
+- **(e)** At the time of the submission of the annual budget request to Congress, the Administrator shall submit to the appropriate committees of the House of Representatives and the Senate and to the advisory council established under subsection (a) of this section, a report on the progress of the research, development, and demonstration program authorized by subsection (b) of this section, including an evaluation of each demonstration project completed in the preceding fiscal year, findings with respect to the efficacy of such demonstrated technologies in achieving permanent and significant reductions in risk from hazardous wastes, the costs of such demonstration projects, and the potential applicability of, and projected costs for, such technologies at other hazardous substance sites.
 - **(f)** Nothing in this section shall be construed to affect the provisions of the Solid Waste Disposal Act [ 42 U.S.C. 6901 et seq.].
-- **(g)** The Administrator shall ensure, to the maximum extent practicable, an adequate opportunity for small business participation in the program established by subsection (b).
+- **(g)** The Administrator shall ensure, to the maximum extent practicable, an adequate opportunity for small business participation in the program established by subsection (b) of this section.

@@ -3,9 +3,9 @@ title: "Section 204 - Hearings on new charges; suspension pending hearing; refun
 usc_title: 47
 usc_section: "204"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 204"
-generated_at: "2026-03-29T02:15:59.174Z"
+generated_at: "2026-03-29T17:53:43.608Z"
 ---
 
 # § 204. Hearings on new charges; suspension pending hearing; refunds; duration of hearing; appeal of order concluding hearing
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T02:15:59.174Z"
     - **(B)** The Commission shall, with respect to any such hearing initiated prior to November 3, 1988 , issue an order concluding the hearing not later than 12 months after November 3, 1988 .
     - **(C)** Any order concluding a hearing under this section shall be a final order and may be appealed under section 402(a) of this title .
   - **(3)** A local exchange carrier may file with the Commission a new or revised charge, classification, regulation, or practice on a streamlined basis. Any such charge, classification, regulation, or practice shall be deemed lawful and shall be effective 7 days (in the case of a reduction in rates) or 15 days (in the case of an increase in rates) after the date on which it is filed with the Commission unless the Commission takes action under paragraph (1) before the end of that 7-day or 15-day period, as is appropriate.
-- **(b)** Notwithstanding the provisions of subsection (a) of this section, the Commission may allow part of a charge, classification, regulation, or practice to go into effect, based upon a written showing by the carrier or carriers affected, and an opportunity for written comment thereon by affected persons, that such partial authorization is just, fair, and reasonable. Additionally, or in combination with a partial authorization, the Commission, upon a similar showing, may allow all or part of a charge, classification, regulation, or practice to go into effect on a temporary basis pending further order of the Commission. Authorizations of temporary new or increased charges may include an accounting order of the type provided for in subsection (a).
+- **(b)** Notwithstanding the provisions of subsection (a) of this section, the Commission may allow part of a charge, classification, regulation, or practice to go into effect, based upon a written showing by the carrier or carriers affected, and an opportunity for written comment thereon by affected persons, that such partial authorization is just, fair, and reasonable. Additionally, or in combination with a partial authorization, the Commission, upon a similar showing, may allow all or part of a charge, classification, regulation, or practice to go into effect on a temporary basis pending further order of the Commission. Authorizations of temporary new or increased charges may include an accounting order of the type provided for in subsection (a) of this section.

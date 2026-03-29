@@ -1,12 +1,36 @@
 ---
-title: "Section 2582a - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458"
+title: "Section 2582a - Future-years defense environmental cleanup plan"
 usc_title: 50
 usc_section: "2582a"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 2582a"
-generated_at: "2026-03-29T02:16:14.750Z"
+generated_at: "2026-03-29T17:53:51.022Z"
 ---
 
-# §§ 2581 to 2582a. Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b)(1) , Dec. 18, 2025 , 139 Stat. 1458
+# § 2582a. Future-years defense environmental cleanup plan
 
+- **(a)** The Secretary of Energy shall submit to Congress each year, at or about the same time that the President’s budget is submitted to Congress for a fiscal year under section 1105(a) of title 31 , a future-years defense environmental cleanup plan that—
+  - **(1)** reflects the estimated expenditures and proposed appropriations included in that budget for the Department of Energy for defense environmental cleanup; and
+  - **(2)** covers a period that includes the fiscal year for which that budget is submitted and not less than the four succeeding fiscal years.
+- **(b)** Each future-years defense environmental cleanup plan required by subsection (a) shall contain the following:
+  - **(1)** A detailed description of the projects and activities relating to defense environmental cleanup to be carried out during the period covered by the plan at the sites specified in subsection (c) and with respect to the activities specified in subsection (d).
+  - **(2)** A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support such projects and activities.
+  - **(3)** With respect to each site specified in subsection (c), the following:
+    - **(A)** A statement of each milestone included in an enforceable agreement governing cleanup and waste remediation for that site for each fiscal year covered by the plan.
+    - **(B)** For each such milestone, a statement with respect to whether each such milestone will be met in each such fiscal year.
+    - **(C)** For any milestone that will not be met, an explanation of why the milestone will not be met and the date by which the milestone is expected to be met.
+- **(c)** The sites specified in this subsection are the following:
+  - **(1)** The Idaho National Laboratory, Idaho.
+  - **(2)** The Waste Isolation Pilot Plant, Carlsbad, New Mexico.
+  - **(3)** The Savannah River Site, Aiken, South Carolina.
+  - **(4)** The Oak Ridge National Laboratory, Oak Ridge, Tennessee.
+  - **(5)** The Hanford Site, Richland, Washington.
+  - **(6)** Any defense closure site of the Department of Energy.
+  - **(7)** Any site of the National Nuclear Security Administration.
+- **(d)** The activities specified in this subsection are the following:
+  - **(1)** Program support.
+  - **(2)** Program direction.
+  - **(3)** Safeguards and security.
+  - **(4)** Technology development and deployment.
+  - **(5)** Federal contributions to the Uranium Enrichment Decontamination and Decommissioning Fund established under section 2297g of title 42 .

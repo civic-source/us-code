@@ -1,19 +1,17 @@
 ---
-title: "Section 55604 - Research on marine highway transportation"
+title: "Section 55604 - Research on short sea transportation"
 usc_title: 46
 usc_section: "55604"
 chapter: 556
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 55604"
-generated_at: "2026-03-29T02:15:53.784Z"
+generated_at: "2026-03-29T17:53:41.836Z"
 ---
 
-# § 55604. Research on marine highway transportation
+# § 55604. Research on short sea transportation
 
-The Secretary of Transportation, in consultation with the Administrator of the Environmental Protection Agency, may conduct research on marine highway transportation, regarding—
+The Secretary of Transportation, in consultation with the Administrator of the Environmental Protection Agency, may conduct research on short sea transportation, regarding—
 
-  - **(1)** the economic effects of marine highway transportation on the United States economy;
-  - **(2)** the effects of marine highway transportation, including with respect to the provision of additional transportation options, on rural areas;
-  - **(3)** the environmental and transportation benefits to be derived from marine highway transportation alternatives for other forms of transportation;
-  - **(4)** technology, vessel design, and other improvements that would reduce emissions, increase fuel economy, and lower costs of marine highway transportation and increase the efficiency of intermodal transfers; and
-  - **(5)** solutions to impediments to marine highway transportation projects designated under section 55601.
+  - **(1)** the environmental and transportation benefits to be derived from short sea transportation alternatives for other forms of transportation;
+  - **(2)** technology, vessel design, and other improvements that would reduce emissions, increase fuel economy, and lower costs of short sea transportation and increase the efficiency of intermodal transfers; and
+  - **(3)** solutions to impediments to short sea transportation projects designated under section 55601.

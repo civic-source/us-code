@@ -3,9 +3,9 @@ title: "Section 13492 - Program, goals, and plan"
 usc_title: 42
 usc_section: "13492"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 13492"
-generated_at: "2026-03-29T02:15:37.267Z"
+generated_at: "2026-03-29T17:53:35.856Z"
 ---
 
 # § 13492. Program, goals, and plan
@@ -15,9 +15,9 @@ generated_at: "2026-03-29T02:15:37.267Z"
   - **(2)** facilitate the design, licensing, construction, and operation of a nuclear powerplant using a standardized design;
   - **(3)** exhibit enhanced safety features; and
   - **(4)** incorporate features that advance the objectives of the Nuclear Non-Proliferation Act of 1978 [ 22 U.S.C. 3201 et seq.].
-- **(b)** The goals of the program established under subsection (a) shall include—
+- **(b)** The goals of the program established under subsection (a) of this section shall include—
   - **(1)** for the near-term—
-    - **(A)** to facilitate the completion, by September 30, 1996 , for certification by the Commission, of standardized advanced light water reactor technology designs that the Secretary determines have the characteristics described in subsection (a)(1) through (4);
+    - **(A)** to facilitate the completion, by September 30, 1996 , for certification by the Commission, of standardized advanced light water reactor technology designs that the Secretary determines have the characteristics described in subsection (a)(1) through (4) of this section;
     - **(B)** to facilitate the completion of submissions, by September 30, 1996 , for preliminary design approvals by the Commission of standardized designs for the modular high-temperature gas-cooled reactor technology and the liquid metal reactor technology; and
     - **(C)** to evaluate by September 30, 1996 , actinide burn technology to determine if it can reduce the volume of long-lived fission byproducts;
   - **(2)** for the mid-term—
@@ -28,5 +28,5 @@ generated_at: "2026-03-29T02:15:37.267Z"
 - **(c)** Within 180 days after October 24, 1992 , the Secretary shall prepare and submit to the Congress a 5-year program plan to guide the activities under this section. The program plan shall include schedule milestones, Federal funding requirements, and non-Federal cost sharing requirements. In preparing the program plan, the Secretary shall take into consideration—
   - **(1)** the need for, and the potential for future adoption by electric utilities or other entities of, advanced nuclear reactor technologies that are available, under development, or have the potential for being developed, for the generation of energy from nuclear fission;
   - **(2)** how the Federal Government, acting through the Secretary, can be effective in ensuring the availability of such technologies when they are needed;
-  - **(3)** how the Federal Government can most effectively cooperate with the private sector in the accomplishment of the goals set forth in subsection (b); and
+  - **(3)** how the Federal Government can most effectively cooperate with the private sector in the accomplishment of the goals set forth in subsection (b) of this section; and
   - **(4)** potential alternative funding sources for carrying out this section.

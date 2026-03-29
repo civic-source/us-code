@@ -3,9 +3,9 @@ title: "Section 5170a - General Federal assistance"
 usc_title: 42
 usc_section: "5170a"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5170a"
-generated_at: "2026-03-29T02:15:36.749Z"
+generated_at: "2026-03-29T17:53:35.293Z"
 ---
 
 # § 5170a. General Federal assistance
@@ -21,8 +21,7 @@ In any major disaster, the President may—
     - **(D)** provision of health and safety measures;
     - **(E)** management, control, and reduction of immediate threats to public health and safety; and
     - **(F)** recovery activities, including disaster impact assessments and planning;
-  - **(4)** assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance;
-  - **(5)** provide assistance to State and local governments for building code and floodplain management ordinance administration and enforcement, including inspections for substantial damage compliance; and
-  - **(6)** provide accelerated Federal assistance and Federal support where necessary to save lives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—
+  - **(4)** assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance; and
+  - **(5)** provide accelerated Federal assistance and Federal support where necessary to save lives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—
     - **(A)** shall, to the fullest extent practicable, promptly notify and coordinate with officials in a State in which such assistance or support is provided; and
     - **(B)** shall not, in notifying and coordinating with a State under subparagraph (A), delay or impede the rapid deployment, use, and distribution of critical resources to victims of a major disaster.

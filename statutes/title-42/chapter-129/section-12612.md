@@ -3,15 +3,15 @@ title: "Section 12612 - Establishment of National Civilian Community Corps Progr
 usc_title: 42
 usc_section: "12612"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 12612"
-generated_at: "2026-03-29T02:15:37.206Z"
+generated_at: "2026-03-29T17:53:35.785Z"
 ---
 
 # § 12612. Establishment of National Civilian Community Corps Program
 
 - **(a)** The Corporation may establish the National Civilian Community Corps Program to carry out the purpose of this division.
-- **(b)** Under the National Civilian Community Corps Program authorized by subsection (a), the members of a National Civilian Community Corps shall receive training and perform service in at least one of the following two program components:
+- **(b)** Under the National Civilian Community Corps Program authorized by subsection (a) of this section, the members of a National Civilian Community Corps shall receive training and perform service in at least one of the following two program components:
   - **(1)** A national service program.
   - **(2)** A summer national service program.
 - **(c)** Both programs referred to in subsection (b) may include a residential component.

@@ -3,9 +3,9 @@ title: "Section 1490i - Repealed. Pub. L. 98–181, title I [title V, § 506(b)]
 usc_title: 42
 usc_section: "1490i"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1490i"
-generated_at: "2026-03-29T02:15:36.468Z"
+generated_at: "2026-03-29T17:53:34.937Z"
 ---
 
 # § 1490i. Repealed. Pub. L. 98–181, title I [title V, § 506(b)], Nov. 30, 1983 , 97 Stat. 1242

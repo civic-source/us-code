@@ -3,13 +3,13 @@ title: "Section 3045 - National mission of National Geospatial-Intelligence Agen
 usc_title: 50
 usc_section: "3045"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 3045"
-generated_at: "2026-03-29T02:16:14.763Z"
+generated_at: "2026-03-29T17:53:51.045Z"
 ---
 
 # § 3045. National mission of National Geospatial-Intelligence Agency
 
 - **(a)** In addition to the Department of Defense missions set forth in section 442 of title 10 , the National Geospatial-Intelligence Agency shall support the geospatial intelligence requirements of the Department of State and other departments and agencies of the United States outside the Department of Defense.
-- **(b)** The Director of National Intelligence shall establish requirements and priorities governing the collection of national intelligence by the National Geospatial-Intelligence Agency under subsection (a).
+- **(b)** The Director of National Intelligence shall establish requirements and priorities governing the collection of national intelligence by the National Geospatial-Intelligence Agency under subsection (a) of this section.
 - **(c)** The Director of National Intelligence shall develop and implement such programs and policies as the Director and the Secretary of Defense jointly determine necessary to review and correct deficiencies identified in the capabilities of the National Geospatial-Intelligence Agency to accomplish assigned national missions, including support to the all-source analysis and production process. The Director shall consult with the Secretary of Defense on the development and implementation of such programs and policies. The Secretary shall obtain the advice of the Chairman of the Joint Chiefs of Staff regarding the matters on which the Director and the Secretary are to consult under the preceding sentence.

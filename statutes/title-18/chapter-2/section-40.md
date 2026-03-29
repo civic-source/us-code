@@ -3,9 +3,9 @@ title: "Section 40 - Commercial motor vehicles required to stop for inspections"
 usc_title: 18
 usc_section: "40"
 chapter: 2
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 40"
-generated_at: "2026-03-29T17:53:15.534Z"
+generated_at: "2026-03-29T17:53:59.551Z"
 ---
 
 # § 40. Commercial motor vehicles required to stop for inspections

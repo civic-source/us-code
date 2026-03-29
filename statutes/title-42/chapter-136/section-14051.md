@@ -1,12 +1,14 @@
 ---
-title: "Section 14051 - Transferred"
+title: "Section 14051 - Increased penalties for drug-dealing in “drug-free” zones"
 usc_title: 42
 usc_section: "14051"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 14051"
-generated_at: "2026-03-29T02:15:37.278Z"
+generated_at: "2026-03-29T17:53:35.894Z"
 ---
 
-# § 14051. Transferred
+# § 14051. Increased penalties for drug-dealing in “drug-free” zones
+
+Pursuant to its authority under section 994 of title 28 , the United States Sentencing Commission shall amend its sentencing guidelines to provide an appropriate enhancement for a defendant convicted of violating section 860 of title 21 .
 

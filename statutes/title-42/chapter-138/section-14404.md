@@ -3,9 +3,9 @@ title: "Section 14404 - Restriction on use of Federal funds by advocacy programs
 usc_title: 42
 usc_section: "14404"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 14404"
-generated_at: "2026-03-29T02:15:37.281Z"
+generated_at: "2026-03-29T17:53:35.909Z"
 ---
 
 # § 14404. Restriction on use of Federal funds by advocacy programs
@@ -15,10 +15,10 @@ generated_at: "2026-03-29T02:15:37.281Z"
   - **(2)** compelling any person, institution, governmental entity 1 1 So in original. Probably should be “or governmental entity”. to provide or fund any item, benefit, program, or service for such purpose; or
   - **(3)** asserting or advocating a legal right to cause, or to assist in causing, the suicide, euthanasia, or mercy killing of any individual.
 - **(b)**
-  - **(1)** Subsection (a) applies to funds appropriated under or to carry out the following:
+  - **(1)** Subsection (a) of this section applies to funds appropriated under or to carry out the following:
     - **(A)** Subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [ 42 U.S.C. 15041 et seq.].
     - **(B)** The Protection and Advocacy for Mentally Ill Individuals Act of 1986 2 2 See References in Text note below. [ 42 U.S.C. 10801 et seq.].
     - **(C)** Section 509 of the Rehabilitation Act of 1973 ( 29 U.S.C. 794e ).
     - **(D)** Ombudsman programs under the Older Americans Act of 1965 [ 42 U.S.C. 3001 et seq.].
     - **(E)** Legal assistance programs under the Legal Services Corporation Act [ 42 U.S.C. 2996 et seq.].
-  - **(2)** Nothing in this subsection shall be construed as limiting the application of subsection (a) to the programs specified in paragraph (1).
+  - **(2)** Nothing in this subsection shall be construed as limiting the application of subsection (a) of this section to the programs specified in paragraph (1).

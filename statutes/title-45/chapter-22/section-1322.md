@@ -3,9 +3,9 @@ title: "Section 1322 - Ownership limitations"
 usc_title: 45
 usc_section: "1322"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "45 U.S.C. § 1322"
-generated_at: "2026-03-29T02:15:50.569Z"
+generated_at: "2026-03-29T17:53:02.139Z"
 ---
 
 # § 1322. Ownership limitations
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T02:15:50.569Z"
   - **(2)** This subsection shall not apply—
     - **(A)** to the employee stock ownership plan (or successor plans) of the Corporation,
     - **(B)** to the Secretary of Transportation,
-    - **(C)** to a railroad as described under subsection (b),
+    - **(C)** to a railroad as described under subsection (b) of this section,
     - **(D)** to underwriting syndicates holding shares for resale, or
     - **(E)** in the case of shares beneficially held for others, to commercial banks, broker-dealers, clearing corporations, or other nominees.
 - **(b)**

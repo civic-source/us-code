@@ -3,9 +3,9 @@ title: "Section 60109 - High-density population areas and environmentally sensit
 usc_title: 49
 usc_section: "60109"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 60109"
-generated_at: "2026-03-29T02:16:09.086Z"
+generated_at: "2026-03-29T17:53:48.150Z"
 ---
 
 # § 60109. High-density population areas and environmentally sensitive areas
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T02:16:09.086Z"
   - **(2)** provide that the identification be carried out through the inventory required under section 60102(e) of this title .
 - **(b)** When describing areas that are unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider areas where a pipeline rupture would likely cause permanent or long-term environmental damage, including—
   - **(1)** locations near pipeline rights-of-way that are critical to drinking water, including intake locations for community water systems and critical sole source aquifer protection areas; and
-  - **(2)** locations near pipeline rights-of-way that are part of the Great Lakes or have been identified as coastal beaches, certain coastal waters, critical wetlands, riverine or estuarine systems, national parks, wilderness areas, wildlife preservation areas or refuges, wild and scenic rivers, or critical habitat areas for threatened and endangered species.
+  - **(2)** locations near pipeline rights-of-way that have been identified as critical wetlands, riverine or estuarine systems, national parks, wilderness areas, wildlife preservation areas or refuges, wild and scenic rivers, or critical habitat areas for threatened and endangered species.
 - **(c)**
   - **(1)** Each operator of a gas pipeline facility shall conduct an analysis of the risks to each facility of the operator located in an area identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, and shall adopt and implement a written integrity management program for such facility to reduce the risks.
   - **(2)**
@@ -57,13 +57,6 @@ generated_at: "2026-03-29T02:16:09.086Z"
     - **(C)** The Secretary shall provide a copy of each risk analysis and integrity management program reviewed by the Secretary under this paragraph to any appropriate State authority with which the Secretary has entered into an agreement under section 60106.
   - **(10)** A State authority that enters into an agreement pursuant to section 60106, permitting the State authority to review the risk analysis and integrity management program pursuant to paragraph (9), may provide the Secretary with a written assessment of the risk analysis and integrity management program, make recommendations, as appropriate, to address safety concerns not adequately addressed by the operator’s risk analysis or integrity management program, and submit documentation explaining the State-proposed revisions. The Secretary shall consider carefully the State’s proposals and work in consultation with the States and operators to address safety concerns.
   - **(11)** Section 60104(b) shall not apply to this section.
-  - **(12)**
-    - **(A)** The Secretary shall conduct a study of methods that may be used under paragraph (3), other than direct assessment, to assess distribution pipelines to determine whether any such method—
-      - **(i)** would provide a greater level of safety than direct assessment of the pipelines; and
-      - **(ii)** is feasible.
-    - **(B)** Not later than 2 years after the date of enactment of this paragraph, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Energy and Commerce and Transportation and Infrastructure of the House of Representatives a report describing—
-      - **(i)** the results of the study under subparagraph (A); and
-      - **(ii)** recommendations based on that study, if any.
 - **(d)** Not later than 4 years after the date of enactment of this subsection, the Comptroller General shall complete an assessment and evaluation of the effects on public safety and the environment of the requirements for the implementation of integrity management programs contained in the standards prescribed as described in subsection (c)(2).
 - **(e)**
   - **(1)** Not later than December 31, 2007 , the Secretary shall prescribe minimum standards for integrity management programs for distribution pipelines.
@@ -80,40 +73,6 @@ generated_at: "2026-03-29T02:16:09.086Z"
   - **(4)** The Secretary shall determine which distribution pipelines will be subject to the minimum standards.
   - **(5)** Each operator of a distribution pipeline that the Secretary determines is subject to the minimum standards prescribed by the Secretary under this subsection shall develop and implement an integrity management program in accordance with those standards.
   - **(6)** Subject to section 60104(c), a State authority having a current certification under section 60105 may adopt or continue in force additional integrity management requirements, including additional requirements for installation of excess flow valves, for gas distribution pipelines within the boundaries of that State.
-  - **(7)**
-    - **(A)** Not later than 2 years after the date of enactment of this paragraph, the Secretary shall promulgate regulations to ensure that each distribution integrity management plan developed by an operator of a distribution system includes an evaluation of—
-      - **(i)** the risks resulting from the presence of cast iron pipes and mains in the distribution system; and
-      - **(ii)** the risks that could lead to or result from the operation of a low-pressure distribution system at a pressure that makes the operation of any connected and properly adjusted low-pressure gas burning equipment unsafe, as determined by the Secretary.
-    - **(B)** In carrying out subparagraph (A)(ii), the Secretary shall ensure that an operator of a distribution system—
-      - **(i)** considers factors other than past observed abnormal operating conditions (as defined in section 192.803 of title 49, Code of Federal Regulations (or a successor regulation)) in ranking risks and identifying measures to mitigate those risks; and
-      - **(ii)** may not determine that there are no potential consequences associated with low probability events unless that determination is otherwise supported by engineering analysis or operational knowledge.
-    - **(C)**
-      - **(i)** Not later than 2 years after the date of enactment of this paragraph, each operator of a distribution system shall make available to the Secretary or the relevant State authority with a certification in effect under section 60105, as applicable, a copy of—
-        - **(I)** the distribution integrity management plan of the operator;
-        - **(II)** the emergency response plan under section 60102(d)(5); and
-        - **(III)** the procedural manual for operations, maintenance, and emergencies under section 60102(d)(4).
-      - **(ii)** Each operator of a distribution system shall make available to the Secretary or make available for inspection to the relevant State authority described in clause (i), if applicable, an updated plan or manual described in that clause by not later than 60 days after the date of a significant update, as determined by the Secretary.
-      - **(iii)** Nothing in this subsection shall be construed to authorize the disclosure of any information that is exempt from disclosure under section 552(b) of title 5 .
-    - **(D)**
-      - **(i)**
-        - **(I)** Not later than 2 years after the date of promulgation of the regulations under subparagraph (A), and not less frequently than once every 5 years thereafter, the Secretary or relevant State authority with a certification in effect under section 60105 shall review the distribution integrity management plan, the emergency response plan, and the procedural manual for operations, maintenance, and emergencies of each operator of a distribution system and record the results of that review for use in the next review of the program of that operator.
-        - **(II)** For the third, fourth, and fifth years after the date of promulgation of the regulations under subparagraph (A), the Secretary—
-      - **(ii)** Each plan or procedural manual made available under subparagraph (C)(i) shall be reexamined—
-        - **(I)** on significant change to the plans or procedural manual, as applicable;
-        - **(II)** on significant change to the gas distribution system of the operator, as applicable; and
-        - **(III)** not less frequently than once every 5 years.
-      - **(iii)** The Secretary may conduct a review under clause (i) or (ii) as an element of the inspection of the operator carried out by the Secretary.
-      - **(iv)** If the Secretary determines that the documents reviewed under clause (i) or (ii) do not comply with the requirements of this chapter (including regulations to implement this chapter), have not been adequately implemented, or are inadequate for the safe operation of a pipeline facility, the Secretary may conduct proceedings under this chapter.
 - **(f)** The Secretary shall establish procedures requiring certification of annual and semiannual pipeline integrity management program performance reports by a senior executive officer of the company operating a pipeline subject to this chapter. The procedures shall require a signed statement, which may be effected electronically in accordance with the provisions of the Electronic Signatures in Global and National Commerce Act ( 15 U.S.C. 7001 et seq.), certifying that—
   - **(1)** the signing officer has reviewed the report; and
   - **(2)** to the best of such officer’s knowledge and belief, the report is true and complete.
-- **(g)**
-  - **(1)** Notwithstanding any pipeline integrity management program or integrity assessment schedule otherwise required by the Secretary, each operator of a pipeline facility to which this subsection applies shall ensure that pipeline integrity assessments—
-    - **(A)** using internal inspection technology appropriate for the integrity threat are completed not less often than once every 12 months; and
-    - **(B)** using pipeline route surveys, depth of cover surveys, pressure tests, external corrosion direct assessment, or other technology that the operator demonstrates can further the understanding of the condition of the pipeline facility are completed on a schedule based on the risk that the pipeline facility poses to the high consequence area in which the pipeline facility is located, but not less often than once every 12 months.
-  - **(2)** This subsection shall apply to any underwater hazardous liquid pipeline facility located in a high consequence area—
-    - **(A)** that is not an offshore pipeline facility; and
-    - **(B)** any portion of which is located at depths greater than 150 feet under the surface of the water.
-  - **(3)** For purposes of this subsection, the term “high consequence area” has the meaning given that term in section 195.450 of title 49, Code of Federal Regulations.
-  - **(4)** The Secretary shall conduct inspections under section 60117(d) to determine whether each operator of a pipeline facility to which this subsection applies is complying with this section.
-  - **(5)** In carrying out this subsection, each operator shall implement procedures that assess potential impacts by maritime equipment or other vessels, including anchors, anchor chains, or any other attached equipment.

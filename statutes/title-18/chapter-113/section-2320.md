@@ -3,9 +3,9 @@ title: "Section 2320 - Trafficking in counterfeit goods or services"
 usc_title: 18
 usc_section: "2320"
 chapter: 113
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 2320"
-generated_at: "2026-03-29T17:53:15.692Z"
+generated_at: "2026-03-29T17:53:59.652Z"
 ---
 
 # § 2320. Trafficking in counterfeit goods or services
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T17:53:15.692Z"
   - **(1)** traffics in goods or services and knowingly uses a counterfeit mark on or in connection with such goods or services,
   - **(2)** traffics in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive,
   - **(3)** traffics in goods or services knowing that such good or service is a counterfeit military good or service the use, malfunction, or failure of which is likely to cause serious bodily injury or death, the disclosure of classified information, impairment of combat operations, or other significant harm to a combat operation, a member of the Armed Forces, or to national security, or
-  - **(4)** traffics in a counterfeit drug,
+  - **(4)** traffics in a drug and knowingly uses a counterfeit mark on or in connection with such drug,
 - **(b)**
   - **(1)** Whoever commits an offense under subsection (a)—
     - **(A)** if an individual, shall be fined not more than $2,000,000 or imprisoned not more than 10 years, or both, and, if a person other than an individual, shall be fined not more than $5,000,000; and
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T17:53:15.692Z"
   - **(2)**
     - **(A)** Whoever knowingly or recklessly causes or attempts to cause serious bodily injury from conduct in violation of subsection (a), if an individual, shall be fined not more than $5,000,000 or imprisoned for not more than 20 years, or both, and if other than an individual, shall be fined not more than $15,000,000.
     - **(B)** Whoever knowingly or recklessly causes or attempts to cause death from conduct in violation of subsection (a), if an individual, shall be fined not more than $5,000,000 or imprisoned for any term of years or for life, or both, and if other than an individual, shall be fined not more than $15,000,000.
-  - **(3)** Whoever commits an offense under subsection (a) involving a counterfeit military good or service or counterfeit drug—
+  - **(3)** Whoever commits an offense under subsection (a) involving a counterfeit military good or service or drug that uses a counterfeit mark on or in connection with the drug—
     - **(A)** if an individual, shall be fined not more than $5,000,000, imprisoned not more than 20 years, or both, and if other than an individual, be fined not more than $15,000,000; and
     - **(B)** for a second or subsequent offense, if an individual, shall be fined not more than $15,000,000, imprisoned not more than 30 years, or both, and if other than an individual, shall be fined not more than $30,000,000.
 - **(c)** Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
@@ -47,7 +47,7 @@ generated_at: "2026-03-29T17:53:15.692Z"
     - **(A)** is falsely identified or labeled as meeting military specifications, or
     - **(B)** is intended for use in a military or national security application;
   - **(5)** the term “traffic” means to transport, transfer, or otherwise dispose of, to another, for purposes of commercial advantage or private financial gain, or to make, import, export, obtain control of, or possess, with intent to so transport, transfer, or otherwise dispose of; and
-  - **(6)** the term “counterfeit drug” means a drug, as defined by section 201 of the Federal Food, Drug, and Cosmetic Act, that uses a counterfeit mark on or in connection with the drug.
+  - **(6)** the term “drug” means a drug, as defined in section 201 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 321 ).
 - **(g)** Nothing in this section shall entitle the United States to bring a criminal cause of action under this section for the repackaging of genuine goods or services not intended to deceive or confuse.
 - **(h)**
   - **(1)** Beginning with the first year after the date of enactment of this subsection, the Attorney General shall include in the report of the Attorney General to Congress on the business of the Department of Justice prepared pursuant to section 522 of title 28 , an accounting, on a district by district basis, of the following with respect to all actions taken by the Department of Justice that involve trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, copies of motion pictures or other audiovisual works (as defined in section 2318 of this title ), criminal infringement of copyrights (as defined in section 2319 of this title ), unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances (as defined in section 2319A of this title ), or trafficking in goods or services bearing counterfeit marks (as defined in section 2320 of this title ):

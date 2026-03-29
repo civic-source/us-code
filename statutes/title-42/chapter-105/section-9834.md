@@ -3,9 +3,9 @@ title: "Section 9834 - Authorization of appropriations"
 usc_title: 42
 usc_section: "9834"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 9834"
-generated_at: "2026-03-29T02:15:37.079Z"
+generated_at: "2026-03-29T17:53:35.649Z"
 ---
 
 # § 9834. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 26 - Establishment of standards"
 usc_title: 42
 usc_section: "26"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 26"
-generated_at: "2026-03-29T02:15:36.214Z"
+generated_at: "2026-03-29T17:53:34.674Z"
 ---
 
 # § 1395w–26. Establishment of standards
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T02:15:36.214Z"
   - **(8)** The Secretary shall publish a rule under this subsection in the Federal Register by not later than the target date of publication. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 60 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications of entities to be certified as provider-sponsored organizations pursuant to such rules and consistent with this subsection.
   - **(9)** The Secretary shall provide for consideration of such comments and republication of such rule by not later than 1 year after the target date of publication.
 - **(b)**
-  - **(1)** The Secretary shall establish by regulation other standards (not described in subsection (a)) for Medicare+Choice organizations and plans consistent with, and to carry out, this part. The Secretary shall publish such regulations by June 1, 1998 . In order to carry out this requirement in a timely manner, the Secretary may promulgate regulations that take effect on an interim basis, after notice and pending opportunity for public comment.
+  - **(1)** The Secretary shall establish by regulation other standards (not described in subsection (a) of this section) for Medicare+Choice organizations and plans consistent with, and to carry out, this part. The Secretary shall publish such regulations by June 1, 1998 . In order to carry out this requirement in a timely manner, the Secretary may promulgate regulations that take effect on an interim basis, after notice and pending opportunity for public comment.
   - **(2)** Consistent with the requirements of this part, standards established under this subsection shall be based on standards established under section 1395mm of this title to carry out analogous provisions of such section.
   - **(3)** The standards established under this part shall supersede any State law or regulation (other than State licensing laws or State laws relating to plan solvency) with respect to MA plans which are offered by MA organizations under this part.
   - **(4)** The Secretary may not implement, other than at the beginning of a calendar year, regulations under this section that impose new, significant regulatory requirements on a Medicare+Choice organization or plan.

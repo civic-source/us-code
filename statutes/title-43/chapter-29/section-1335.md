@@ -3,9 +3,9 @@ title: "Section 1335 - Validation and maintenance of prior leases"
 usc_title: 43
 usc_section: "1335"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1335"
-generated_at: "2026-03-29T02:15:47.590Z"
+generated_at: "2026-03-29T17:53:03.684Z"
 ---
 
 # § 1335. Validation and maintenance of prior leases

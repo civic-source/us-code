@@ -3,9 +3,9 @@ title: "Section 21 - Identification of WTC responders and provision of WTC-relat
 usc_title: 42
 usc_section: "21"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-29T02:15:35.938Z"
+generated_at: "2026-03-29T17:53:34.405Z"
 ---
 
 # § 300mm–21. Identification of WTC responders and provision of WTC-related monitoring services
@@ -37,10 +37,8 @@ generated_at: "2026-03-29T02:15:35.938Z"
       - **(v)** was a vehicle-maintenance worker who was exposed to debris from the former World Trade Center while retrieving, driving, cleaning, repairing, and maintaining vehicles contaminated by airborne toxins from the September 11, 2001 , terrorist attacks during a duration and period described in subparagraph (A).
     - **(C)** The individual—
       - **(i)**
-        - **(I)** was a member of a fire or police department (whether fire or emergency personnel, active or retired), worked for a recovery or cleanup contractor, or was a volunteer; and performed rescue, recovery, demolition, debris cleanup, or other related services at the Pentagon site of the terrorist-related aircraft crash of September 11, 2001 , during the period beginning on September 11, 2001 , and ending on the date on which the cleanup of the site was concluded, as determined by the WTC Program Administrator;
-        - **(II)** was a member of a fire or police department (whether fire or emergency personnel, active or retired), worked for a recovery or cleanup contractor, or was a volunteer; and performed rescue, recovery, demolition, debris cleanup, or other related services at the Shanksville, Pennsylvania, site of the terrorist-related aircraft crash of September 11, 2001 , during the period beginning on September 11, 2001 , and ending on the date on which the cleanup of the site was concluded, as determined by the WTC Program Administrator;
-        - **(III)** was an employee of the Department of Defense or any other Federal agency, worked during the period beginning on September 11, 2001 , and ending on September 18, 2001 , for a contractor of the Department of Defense or any other Federal agency, or was a member of a regular or reserve component of the uniformed services; and performed rescue, recovery, demolition, debris cleanup, or other related services at the Pentagon site of the terrorist-related aircraft crash of September 11, 2001 , during the period beginning on September 11, 2001 , and ending on the date on which the cleanup of the site was concluded, as determined by the WTC Program Administrator; or
-        - **(IV)** was an employee of the Department of Defense or any other Federal agency, worked during the period beginning on September 11, 2001 , and ending on September 18, 2001 , for a contractor of the Department of Defense or any other Federal agency, or was a member of a regular or reserve component of the uniformed services; and performed rescue, recovery, demolition, debris cleanup, or other related services at the Shanksville, Pennsylvania, site of the terrorist-related aircraft crash of September 11, 2001 , during the period beginning on September 11, 2001 , and ending on the date on which the cleanup of the site was concluded, as determined by the WTC Program Administrator; and
+        - **(I)** was a member of a fire or police department (whether fire or emergency personnel, active or retired), worked for a recovery or cleanup contractor, or was a volunteer; and performed rescue, recovery, demolition, debris cleanup, or other related services at the Pentagon site of the terrorist-related aircraft crash of September 11, 2001 , during the period beginning on September 11, 2001 , and ending on the date on which the cleanup of the site was concluded, as determined by the WTC Program Administrator; or
+        - **(II)** was a member of a fire or police department (whether fire or emergency personnel, active or retired), worked for a recovery or cleanup contractor, or was a volunteer; and performed rescue, recovery, demolition, debris cleanup, or other related services at the Shanksville, Pennsylvania, site of the terrorist-related aircraft crash of September 11, 2001 , during the period beginning on September 11, 2001 , and ending on the date on which the cleanup of the site was concluded, as determined by the WTC Program Administrator; and
       - **(ii)** is determined by the WTC Program Administrator to be at an increased risk of developing a WTC-related health condition as a result of exposure to airborne toxins, other hazards, or adverse conditions resulting from the September 11, 2001 , terrorist attacks, and meets such eligibility criteria related to such exposures, as the WTC Program Administrator determines are appropriate, after consultation with the WTC Scientific/Technical Advisory Committee.
   - **(3)**
     - **(A)** The WTC Program Administrator shall establish a process for enrolling WTC responders in the WTC Program. Under such process—
@@ -54,13 +52,11 @@ generated_at: "2026-03-29T02:15:35.938Z"
       - **(i)** In accordance with subparagraph (A)(i), the WTC Program Administrator shall enroll an individual described in paragraph (1)(A) in the WTC Program not later than July 1, 2011 .
       - **(ii)** In accordance with subparagraph (A)(ii) and consistent with paragraph (4), the WTC Program Administrator shall enroll any other individual who is determined to be a WTC responder in the WTC Program at the time of such determination.
   - **(4)**
-    - **(A)**
-      - **(i)** The total number of individuals not described in paragraph (1)(A) or (2)(A)(ii) or subclause (III) or (IV) of paragraph (2)(C)(i) who may be enrolled under paragraph (3)(A)(ii) shall not exceed 75,000 at any time, of which no more than 2,500 may be individuals enrolled based on modified eligibility criteria established under paragraph (1)(C).
-      - **(ii)** The total number of individuals who may be enrolled under paragraph (3)(A)(ii) based on eligibility criteria described in subclause (III) or (IV) of paragraph (2)(C)(i) shall not exceed 500 at any time.
+    - **(A)** The total number of individuals not described in paragraph (1)(A) or (2)(A)(ii) who may be enrolled under paragraph (3)(A)(ii) shall not exceed 25,000 at any time, of which no more than 2,500 may be individuals enrolled based on modified eligibility criteria established under paragraph (1)(C).
     - **(B)** In implementing subparagraph (A), the WTC Program Administrator shall—
       - **(i)** limit the number of enrollments made under paragraph (3)—
         - **(I)** in accordance with such subparagraph; and
-        - **(II)** to such number, as determined by the Administrator based on the best available information and subject to amounts available under this subchapter, that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals who are enrolled; and
+        - **(II)** to such number, as determined by the Administrator based on the best available information and subject to amounts available under section 300mm–61 of this title , that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals who are enrolled through the end of fiscal year 2020; and
       - **(ii)** provide priority (subject to paragraph (3)(A)(i)) in such enrollments in the order in which individuals apply for enrollment under paragraph (3).
   - **(5)** No individual who is on the terrorist watch list maintained by the Department of Homeland Security shall qualify as an eligible WTC responder. Before enrolling any individual as a WTC responder in the WTC Program under paragraph (3), the Administrator, in consultation with the Secretary of Homeland Security, shall determine whether the individual is on such list.
 - **(b)**

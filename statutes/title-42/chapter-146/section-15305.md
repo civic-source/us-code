@@ -1,12 +1,14 @@
 ---
-title: "Section 15305 - Transferred"
+title: "Section 15305 - Administration of programs"
 usc_title: 42
 usc_section: "15305"
 chapter: 146
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 15305"
-generated_at: "2026-03-29T02:15:37.300Z"
+generated_at: "2026-03-29T17:53:35.936Z"
 ---
 
-# § 15305. Transferred
+# § 15305. Administration of programs
+
+In administering the programs under this subchapter, the Administrator shall take such actions as the Administrator considers appropriate to expedite the payment of funds to States.
 

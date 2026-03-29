@@ -3,9 +3,9 @@ title: "Section 1769a - Fresh fruit and vegetable program"
 usc_title: 42
 usc_section: "1769a"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1769a"
-generated_at: "2026-03-29T02:15:36.505Z"
+generated_at: "2026-03-29T17:53:34.977Z"
 ---
 
 # § 1769a. Fresh fruit and vegetable program
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:15:36.505Z"
 - **(b)** A school participating in the program shall make free fresh fruits and vegetables available to students throughout the school day (or at such other times as are considered appropriate by the Secretary) in 1 or more areas designated by the school.
 - **(c)**
   - **(1)** Except as provided in subsection (i)(2), the Secretary shall provide to each of the 50 States and the District of Columbia an annual grant in an amount equal to 1 percent of the funds made available for a year to carry out the program.
-  - **(2)** Of the funds remaining after grants are made under paragraph (1), the Secretary shall allocate additional funds to each State that is operating a school lunch program under section 1753 of this title based on the proportion that—
+  - **(2)** Of the funds remaining after grants are made under paragraph (1), the Secretary shall allocate additional funds to each State that is operating a school lunch program under section 4 based on the proportion that—
     - **(A)** the population of the State; bears to
     - **(B)** the population of the United States.
 - **(d)**
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T02:15:36.505Z"
       - **(i)** in which not less than 50 percent of the students are eligible for free or reduced price meals under this chapter; and
       - **(ii)** that submits an application in accordance with subparagraph (D);
     - **(B)** to the maximum extent practicable, give the highest priority to schools with the highest proportion of children who are eligible for free or reduced price meals under this chapter;
-    - **(C)** ensure that each school selected is an elementary school (as defined in section 7801 1 1 See References in Text note below. of title 20);
+    - **(C)** ensure that each school selected is an elementary school (as defined in section 7801 of title 20 );
     - **(D)** solicit applications from interested schools that include—
       - **(i)** information pertaining to the percentage of students enrolled in the school submitting the application who are eligible for free or reduced price school lunches under this chapter;
       - **(ii)** a certification of support for participation in the program signed by the school food manager, the school principal, and the district superintendent (or equivalent positions, as determined by the school);

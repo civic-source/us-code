@@ -1,12 +1,14 @@
 ---
-title: "Section 14223 - Transferred"
+title: "Section 14223 - Edward Byrne Memorial Formula Grant Program"
 usc_title: 42
 usc_section: "14223"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 14223"
-generated_at: "2026-03-29T02:15:37.279Z"
+generated_at: "2026-03-29T17:53:35.907Z"
 ---
 
-# § 14223. Transferred
+# § 14223. Edward Byrne Memorial Formula Grant Program
+
+Nothing in this Act shall be construed to prohibit or exclude the expenditure of appropriations to grant recipients that would have been or are eligible to receive grants under subpart 1 of part E of the Omnibus Crime Control and Safe Streets Act of 1968 [ 42 U.S.C. 3751 et seq.].
 

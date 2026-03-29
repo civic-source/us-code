@@ -1,12 +1,17 @@
 ---
-title: "Section 15261 - Transferred"
+title: "Section 15261 - Congressional Badge of Bravery Office"
 usc_title: 42
 usc_section: "15261"
 chapter: 145
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 15261"
-generated_at: "2026-03-29T02:15:37.300Z"
+generated_at: "2026-03-29T17:53:35.935Z"
 ---
 
-# § 15261. Transferred
+# § 15261. Congressional Badge of Bravery Office
 
+- **(a)** There is established within the Department of Justice a Congressional Badge of Bravery Office.
+- **(b)** The Office shall—
+  - **(1)** receive nominations from Federal agency heads on behalf of the Federal Board and deliver such nominations to the Federal Board at Federal Board meetings described in section 15243(d)(2) of this title ;
+  - **(2)** receive nominations from State or local agency heads on behalf of the State and Local Board and deliver such nominations to the State and Local Board at State and Local Board meetings described in section 15253(d)(2) of this title ; and
+  - **(3)** provide staff support to the Federal Board and the State and Local Board to carry out the duties described in section 15243(b) and section 15253(b) of this title , respectively.

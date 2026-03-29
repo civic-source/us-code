@@ -1,12 +1,14 @@
 ---
-title: "Section 22505 - Repealed. Pub. L. 114–94, div. A, title XI, § 11301(c)(3) , Dec. 4, 2015 , 129 Stat. 1648 ]"
+title: "Section 22505 - Authorization of appropriations"
 usc_title: 49
 usc_section: "22505"
 chapter: 225
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 22505"
-generated_at: "2026-03-29T02:16:08.943Z"
+generated_at: "2026-03-29T17:53:48.023Z"
 ---
 
-# [§§ 22501 to 22505. Repealed. Pub. L. 114–94, div. A, title XI, § 11301(c)(3) , Dec. 4, 2015 , 129 Stat. 1648 ]
+# § 22505. Authorization of appropriations
+
+There are authorized to be appropriated to the Secretary $1,500,000 for each of fiscal years 2010 through 2013 to carry out the provisions of section 22501(1) of this chapter. There are authorized to be appropriated to the Secretary $1,500,000 for each of fiscal years 2010 through 2013 to carry out the provisions of section 22501(2) of this chapter. Amounts appropriated pursuant to this section shall remain available until expended.
 

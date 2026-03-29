@@ -3,9 +3,9 @@ title: "Section 11904 - Applications"
 usc_title: 42
 usc_section: "11904"
 chapter: 124
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 11904"
-generated_at: "2026-03-29T02:15:37.176Z"
+generated_at: "2026-03-29T17:53:35.751Z"
 ---
 
 # § 11904. Applications
@@ -18,12 +18,12 @@ generated_at: "2026-03-29T02:15:37.176Z"
     - **(B)** the agency is in the class established under paragraph (3).
   - **(3)** The Secretary shall, by regulations issued after notice and opportunity for public comment, set forth criteria for establishing a class of public housing agencies that have urgent or serious crime problems. The Secretary may reserve a portion of the amount appropriated to carry out this subchapter in each fiscal year only for grants for public housing agencies in such class, except that any amounts from such portion reserved that are not obligated to agencies in the class shall be made available only for agencies that are subject to a preference under paragraph (2)(A).
   - **(4)** The provisions of this subsection shall not apply to federally assisted low-income housing.
-- **(c)** The Secretary shall approve applications under subsection (b) that are not subject to a preference under subsection (b)(2)(A) on the basis of thresholds or criteria such as—
+- **(c)** The Secretary shall approve applications under subsection (b) of this section that are not subject to a preference under subsection (b)(2)(A) of this section on the basis of thresholds or criteria such as—
   - **(1)** the extent of the drug-related or violent crime problem in and around the public or federally assisted low-income housing project or projects proposed for assistance;
   - **(2)** the quality of the plan to address the crime problem in the public or federally assisted low-income housing project or projects proposed for assistance, including the extent to which the plan includes initiatives that can be sustained over a period of several years;
   - **(3)** the capability of the applicant to carry out the plan; and
   - **(4)** the extent to which tenants, the local government and the local community support and participate in the design and implementation of the activities proposed to be funded under the application.
-- **(d)** In addition to the selection criteria specified in subsection (c), the Secretary may establish other criteria for the evaluation of applications submitted by owners of federally assisted low-income housing, except that such additional criteria shall be designed only to reflect—
+- **(d)** In addition to the selection criteria specified in subsection (c) of this section, the Secretary may establish other criteria for the evaluation of applications submitted by owners of federally assisted low-income housing, except that such additional criteria shall be designed only to reflect—
   - **(1)** relevant differences between the financial resources and other characteristics of public housing authorities and owners of federally assisted low-income housing, or
   - **(2)** relevant differences between the problem of drug-related or violent crime in public housing and the problem of drug-related or violent crime in federally assisted low-income housing.
-- **(e)** In evaluating the extent of the drug-related crime problem pursuant to subsection (c), the Secretary may consider whether housing projects proposed for assistance are located in a high intensity drug trafficking area designated pursuant to section 1504 3 3 See References in Text note below. of title 21.
+- **(e)** In evaluating the extent of the drug-related crime problem pursuant to subsection (c) of this section, the Secretary may consider whether housing projects proposed for assistance are located in a high intensity drug trafficking area designated pursuant to section 1504 3 3 See References in Text note below. of title 21.

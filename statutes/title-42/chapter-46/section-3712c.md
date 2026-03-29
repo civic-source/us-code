@@ -1,12 +1,14 @@
 ---
-title: "Section 3712c - Transferred"
+title: "Section 3712c - Inclusion of Indian tribes"
 usc_title: 42
 usc_section: "3712c"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3712c"
-generated_at: "2026-03-29T02:15:36.681Z"
+generated_at: "2026-03-29T17:53:35.187Z"
 ---
 
-# § 3712c. Transferred
+# § 3712c. Inclusion of Indian tribes
+
+For purposes of sections 3712a and 3712b of this title, the term “State” includes an Indian tribal government.
 

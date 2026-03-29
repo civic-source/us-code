@@ -3,28 +3,25 @@ title: "Section 60130 - Pipeline safety information grants to communities"
 usc_title: 49
 usc_section: "60130"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 60130"
-generated_at: "2026-03-29T02:16:09.091Z"
+generated_at: "2026-03-29T17:53:48.155Z"
 ---
 
 # § 60130. Pipeline safety information grants to communities
 
 - **(a)**
-  - **(1)** The Secretary of Transportation may make grants for technical assistance to local communities, Indian Tribes, and groups of individuals (not including for-profit entities) relating to the safety of pipeline facilities in local communities, other than facilities regulated under Public Law 93–153 ( 43 U.S.C. 1651 et seq.). No grants may be awarded under section 60114(g) until the Secretary has established competitive procedures for awarding grants under this section and criteria for selecting grant recipients. Except as provided in subsection (c)(2), the amount of any grant under this section may not exceed $100,000 for a single grant recipient. The Secretary shall establish appropriate procedures to ensure the proper use of funds provided under this section.
+  - **(1)** The Secretary of Transportation may make grants for technical assistance to local communities and groups of individuals (not including for-profit entities) relating to the safety of pipeline facilities in local communities, other than facilities regulated under Public Law 93–153 ( 43 U.S.C. 1651 et seq.). No grants may be awarded under section 60114(g) until the Secretary has established competitive procedures for awarding grants under this section and criteria for selecting grant recipients. The amount of any grant under this section may not exceed $100,000 for a single grant recipient. The Secretary shall establish appropriate procedures to ensure the proper use of funds provided under this section.
   - **(2)** At least the first 3 grants awarded under this section shall be demonstration grants for the purpose of demonstrating and evaluating the utility of grants under this section. Each such demonstration grant shall not exceed $25,000.
   - **(3)** Each recipient of a grant under this section shall ensure that—
     - **(A)** the technical findings made possible by the grants are made available to the relevant operators; and
     - **(B)** open communication between the grant recipients, local operators, local communities, and other interested parties is encouraged.
+  - **(4)** In this subsection, the term “technical assistance” means engineering and other scientific analysis of pipeline safety issues, including the promotion of public participation in official proceedings conducted under this chapter.
 - **(b)** Funds provided under this section to grant recipients and their contractors may not be used for lobbying, for direct advocacy for or against a pipeline construction or expansion project, or in direct support of litigation.
 - **(c)**
-  - **(1)** Subject to paragraph (2), out of amounts made available under section 2(b) of the PIPES Act of 2016 ( Public Law 114–183 ; 130 Stat. 515 ), the Secretary shall use $2,000,000 for each of fiscal years 2021 through 2023 to carry out this section.
-  - **(2)** From the amounts used to carry out this section under paragraph (1) each fiscal year, the Secretary shall award $1,000,000 to an eligible applicant through a competitive selection process for the purpose of improving the quality of technical assistance provided to communities or individuals under this section.
-  - **(3)** Any amounts used to carry out this section shall not be derived from user fees collected under section 60301.
-- **(d)** In this section:
-  - **(1)** The term “technical assistance” means engineering, research, and other scientific analysis of pipeline safety issues, including the promotion of public participation on technical pipeline safety issues in proceedings related to this chapter.
-  - **(2)** The term “eligible applicant” means a nonprofit entity that—
-    - **(A)** is a public safety advocate;
-    - **(B)** has pipeline safety expertise;
-    - **(C)** is able to provide individuals and communities with technical assistance; and
-    - **(D)** was established with funds designated for the purpose of community service through the implementation of section 3553 of title 18 relating to violations of this chapter.
+  - **(1)** Not later than 90 days after the last day of each fiscal year for which grants are made by the Secretary under this section, the Secretary shall report to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives on grants made under this section in the preceding fiscal year.
+  - **(2)** The report shall include—
+    - **(A)** a listing of the identity and location of each recipient of a grant under this section in the preceding fiscal year and the amount received by the recipient;
+    - **(B)** a description of the purpose for which each grant was made; and
+    - **(C)** a description of how each grant was used by the recipient.
+- **(d)** There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $1,500,000 for each of fiscal years 2012 through 2015. Such amounts shall not be derived from user fees collected under section 60301.

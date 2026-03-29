@@ -3,16 +3,16 @@ title: "Section 12204 - Regulations by Architectural and Transportation Barriers
 usc_title: 42
 usc_section: "12204"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 12204"
-generated_at: "2026-03-29T02:15:37.187Z"
+generated_at: "2026-03-29T17:53:35.762Z"
 ---
 
 # § 12204. Regulations by Architectural and Transportation Barriers Compliance Board
 
 - **(a)** Not later than 9 months after July 26, 1990 , the Architectural and Transportation Barriers Compliance Board shall issue minimum guidelines that shall supplement the existing Minimum Guidelines and Requirements for Accessible Design for purposes of subchapters II and III of this chapter.
-- **(b)** The supplemental guidelines issued under subsection (a) shall establish additional requirements, consistent with this chapter, to ensure that buildings, facilities, rail passenger cars, and vehicles are accessible, in terms of architecture and design, transportation, and communication, to individuals with disabilities.
+- **(b)** The supplemental guidelines issued under subsection (a) of this section shall establish additional requirements, consistent with this chapter, to ensure that buildings, facilities, rail passenger cars, and vehicles are accessible, in terms of architecture and design, transportation, and communication, to individuals with disabilities.
 - **(c)**
-  - **(1)** The supplemental guidelines issued under subsection (a) shall include procedures and requirements for alterations that will threaten or destroy the historic significance of qualified historic buildings and facilities as defined in 4.1.7(1)(a) of the Uniform Federal Accessibility Standards.
-  - **(2)** With respect to alterations of buildings or facilities that are eligible for listing in the National Register of Historic Places under division A of subtitle III of title 54, the guidelines described in paragraph (1) shall, at a minimum, maintain the procedures and requirements established in 4.1.7(1) and (2) of the Uniform Federal Accessibility Standards.
+  - **(1)** The supplemental guidelines issued under subsection (a) of this section shall include procedures and requirements for alterations that will threaten or destroy the historic significance of qualified historic buildings and facilities as defined in 4.1.7(1)(a) of the Uniform Federal Accessibility Standards.
+  - **(2)** With respect to alterations of buildings or facilities that are eligible for listing in the National Register of Historic Places under the National Historic Preservation Act ( 16 U.S.C. 470 et seq.), the guidelines described in paragraph (1) shall, at a minimum, maintain the procedures and requirements established in 4.1.7(1) and (2) of the Uniform Federal Accessibility Standards.
   - **(3)** With respect to alterations of buildings or facilities designated as historic under State or local law, the guidelines described in paragraph (1) shall establish procedures equivalent to those established by 4.1.7(1)(b) and (c) of the Uniform Federal Accessibility Standards, and shall require, at a minimum, compliance with the requirements established in 4.1.7(2) of such standards.

@@ -3,9 +3,9 @@ title: "Section 10363 - Reclamation climate change and water program"
 usc_title: 42
 usc_section: "10363"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 10363"
-generated_at: "2026-03-29T02:15:37.130Z"
+generated_at: "2026-03-29T17:53:35.697Z"
 ---
 
 # § 10363. Reclamation climate change and water program
@@ -58,4 +58,4 @@ generated_at: "2026-03-29T02:15:37.130Z"
       - **(ii)** The Secretary may increase the Federal share of the cost of a study described in paragraph (1) to exceed 50 percent of the cost of the study if the Secretary determines that, due to a financial hardship, the non-Federal participant of the study is unable to contribute an amount equal to 50 percent of the cost of the study.
     - **(B)** The non-Federal share of the cost of a study described in paragraph (1) may be provided in the form of any in-kind services that substantially contribute toward the completion of the study, as determined by the Secretary.
 - **(e)** Nothing in this section amends or otherwise affects any existing authority under reclamation laws that govern the operation of any Federal reclamation project.
-- **(f)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2023, 1 1 See Extension of Authorization of Appropriations note below. to remain available until expended.
+- **(f)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2023, to remain available until expended.

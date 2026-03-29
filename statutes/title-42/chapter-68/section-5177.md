@@ -3,9 +3,9 @@ title: "Section 5177 - Unemployment assistance"
 usc_title: 42
 usc_section: "5177"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5177"
-generated_at: "2026-03-29T02:15:36.752Z"
+generated_at: "2026-03-29T17:53:35.299Z"
 ---
 
 # § 5177. Unemployment assistance
@@ -14,8 +14,3 @@ generated_at: "2026-03-29T02:15:36.752Z"
 - **(b)**
   - **(1)** A State shall provide, without reimbursement from any funds provided under this chapter, reemployment assistance services under any other law administered by the State to individuals receiving benefits under this section.
   - **(2)** The President may provide reemployment assistance services under other laws to individuals who are unemployed as a result of a major disaster and who reside in a State which does not provide such services.
-- **(c)**
-  - **(1)** With respect to a major disaster for which assistance is provided under this section and section 5174 of this title , the application deadline for an individual seeking assistance under this section shall match the application deadline for individuals and households seeking assistance under section 5174 of this title .
-  - **(2)** The President may accept an application from an individual described in paragraph (1) that is submitted after the deadline described in paragraph (1) if—
-    - **(A)** the individual has good cause for the late submission; and
-    - **(B)** the individual submits the application before the date on which the period during which assistance is provided under this section for the applicable major disaster expires.

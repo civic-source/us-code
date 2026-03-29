@@ -3,13 +3,13 @@ title: "Section 17931 - Application of security provisions and penalties to busi
 usc_title: 42
 usc_section: "17931"
 chapter: 156
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 17931"
-generated_at: "2026-03-29T02:15:37.415Z"
+generated_at: "2026-03-29T17:53:36.050Z"
 ---
 
 # § 17931. Application of security provisions and penalties to business associates of covered entities; annual guidance on security provisions
 
 - **(a)** Sections 164.308, 164.310, 164.312, and 164.316 of title 45, Code of Federal Regulations, shall apply to a business associate of a covered entity in the same manner that such sections apply to the covered entity. The additional requirements of this title 1 1 See References in Text note below. that relate to security and that are made applicable with respect to covered entities shall also be applicable to such a business associate and shall be incorporated into the business associate agreement between the business associate and the covered entity.
 - **(b)** In the case of a business associate that violates any security provision specified in subsection (a), sections 1320d–5 and 1320d–6 of this title shall apply to the business associate with respect to such violation in the same manner such sections apply to a covered entity that violates such security provision.
-- **(c)** For the first year beginning after February 17, 2009 , and annually thereafter, the Secretary of Health and Human Services shall, after consultation with stakeholders, annually issue guidance on the most effective and appropriate technical safeguards for use in carrying out the sections referred to in subsection (a) and the security standards in subpart C of part 164 of title 45, Code of Federal Regulations, including the use of standards developed under section 300jj–12(b)(2)(B)(vi) 1 of this title, as added by section 13101 of this Act, as such provisions are in effect as of the date before February 17, 2009 .
+- **(c)** For the first year beginning after February 17, 2009 , and annually thereafter, the Secretary of Health and Human Services shall, after consultation with stakeholders, annually issue guidance on the most effective and appropriate technical safeguards for use in carrying out the sections referred to in subsection (a) and the security standards in subpart C of part 164 of title 45, Code of Federal Regulations, including the use of standards developed under section 300jj–12(b)(2)(B)(vi) of this title , as added by section 13101 of this Act, as such provisions are in effect as of the date before February 17, 2009 . 2 2 So in original. Section 300jj–12 of this title was enacted on Feb. 17, 2009 .

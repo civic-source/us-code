@@ -3,9 +3,9 @@ title: "Section 6864a - Private sector investments"
 usc_title: 42
 usc_section: "6864a"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6864a"
-generated_at: "2026-03-29T02:15:36.844Z"
+generated_at: "2026-03-29T17:53:35.413Z"
 ---
 
 # § 6864a. Private sector investments

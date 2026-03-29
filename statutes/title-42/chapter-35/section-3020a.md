@@ -3,9 +3,9 @@ title: "Section 3020a - Application of other laws; costs of projects under this 
 usc_title: 42
 usc_section: "3020a"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3020a"
-generated_at: "2026-03-29T02:15:36.632Z"
+generated_at: "2026-03-29T17:53:35.134Z"
 ---
 
 # § 3020a. Application of other laws; costs of projects under this chapter not treated as income or benefits under other laws

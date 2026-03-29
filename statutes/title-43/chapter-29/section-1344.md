@@ -3,9 +3,9 @@ title: "Section 1344 - Outer Continental Shelf leasing program"
 usc_title: 43
 usc_section: "1344"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1344"
-generated_at: "2026-03-29T02:15:47.594Z"
+generated_at: "2026-03-29T17:53:03.687Z"
 ---
 
 # § 1344. Outer Continental Shelf leasing program
@@ -45,4 +45,3 @@ generated_at: "2026-03-29T02:15:47.594Z"
   - **(5)** consideration of the coastal zone management program being developed or administered by an affected coastal State pursuant to section 1454 or section 1455 of title 16 .
 - **(g)** The Secretary may obtain from public sources, or purchase from private sources, any survey, data, report, or other information (including interpretations of such data, survey, report, or other information) which may be necessary to assist him in preparing any environmental impact statement and in making other evaluations required by this subchapter. Data of a classified nature provided to the Secretary under the provisions of this subsection shall remain confidential for such period of time as agreed to by the head of the department or agency from whom the information is requested. The Secretary shall maintain the confidentiality of all privileged or proprietary data or information for such period of time as is provided for in this subchapter, established by regulation, or agreed to by the parties.
 - **(h)** The heads of all Federal departments and agencies shall provide the Secretary with any nonpriviledged 1 1 So in original. Probably should be “nonprivileged”. or nonproprietary information he requests to assist him in preparing the leasing program and may provide the Secretary with any privileged or proprietary information he requests to assist him in preparing the leasing program. Privileged or proprietary information provided to the Secretary under the provisions of this subsection shall remain confidential for such period of time as agreed to by the head of the department or agency from whom the information is requested. In addition, the Secretary shall utilize the existing capabilities and resources of such Federal departments and agencies by appropriate agreement.
-- **(i)** This section shall not apply to the scheduling of any lease sale in an area of the outer Continental Shelf that is adjacent to the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands.

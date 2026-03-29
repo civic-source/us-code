@@ -1,12 +1,25 @@
 ---
-title: "Section 17531 - Transferred"
+title: "Section 17531 - Mentoring grants to nonprofit organizations"
 usc_title: 42
 usc_section: "17531"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 17531"
-generated_at: "2026-03-29T02:15:37.414Z"
+generated_at: "2026-03-29T17:53:36.044Z"
 ---
 
-# § 17531. Transferred
+# § 17531. Mentoring grants to nonprofit organizations
 
+- **(a)** From amounts made available to carry out this section, the Attorney General shall make grants to nonprofit organizations and Indian Tribes for the purpose of providing mentoring and other transitional services essential to reintegrating offenders into the community.
+- **(b)** A grant awarded under subsection (a) may be used for—
+  - **(1)** mentoring adult and juvenile offenders during incarceration, through transition back to the community, and post-release;
+  - **(2)** transitional services to assist in the reintegration of offenders into the community; and
+  - **(3)** training regarding offender and victims issues.
+- **(c)**
+  - **(1)** To be eligible to receive a grant under this section, a nonprofit organization or Indian Tribe shall submit an application to the Attorney General at such time, in such manner, and accompanied by such information as the Attorney General may require.
+  - **(2)** Priority consideration shall be given to any application under this section that—
+    - **(A)** includes a plan to implement activities that have been demonstrated effective in facilitating the successful reentry of offenders; and
+    - **(B)** provides for an independent evaluation that includes, to the maximum extent feasible, random assignment of offenders to program delivery and control groups.
+- **(d)** The Attorney General shall require each applicant under this section to identify specific performance outcomes related to the long-term goal of stabilizing communities by reducing recidivism (using a measure that is consistent with the research undertaken by the Bureau of Justice Statistics under section 17551(b)(6) of this title ), and reintegrating offenders into the community.
+- **(e)** An entity that receives a grant under subsection (a) during a fiscal year shall, not later than the last day of the following fiscal year, submit to the Attorney General a report that describes and assesses the uses of that grant during that fiscal year and that identifies the progress of the grantee toward achieving its strategic performance outcomes.
+- **(f)** There are authorized to be appropriated to the Attorney General to carry out this section $15,000,000 for each of fiscal years 2009 and 2010.

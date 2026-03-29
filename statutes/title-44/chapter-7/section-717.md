@@ -3,9 +3,9 @@ title: "Section 717 - Appropriation chargeable for printing of document or repor
 usc_title: 44
 usc_section: "717"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "44 U.S.C. § 717"
-generated_at: "2026-03-29T02:15:49.318Z"
+generated_at: "2026-03-29T17:53:10.491Z"
 ---
 
 # § 717. Appropriation chargeable for printing of document or report by order of Congress

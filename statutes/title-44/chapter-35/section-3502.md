@@ -3,9 +3,9 @@ title: "Section 3502 - Definitions"
 usc_title: 44
 usc_section: "3502"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "44 U.S.C. § 3502"
-generated_at: "2026-03-29T02:15:49.335Z"
+generated_at: "2026-03-29T17:53:10.508Z"
 ---
 
 # § 3502. Definitions
@@ -42,20 +42,5 @@ As used in this subchapter—
     - **(A)** retain such records;
     - **(B)** notify third parties, the Federal Government, or the public of the existence of such records;
     - **(C)** disclose such records to third parties, the Federal Government, or the public; or
-    - **(D)** report to third parties, the Federal Government, or the public regarding such records;
-  - **(14)** the term “penalty” includes the imposition by an agency or court of a fine or other punishment; a judgment for monetary damages or equitable relief; or the revocation, suspension, reduction, or denial of a license, privilege, right, grant, or benefit;
-  - **(15)** the term “comprehensive data inventory” means the inventory created under section 3511(a), but does not include any underlying data asset listed on the inventory;
-  - **(16)** the term “data” means recorded information, regardless of form or the media on which the data is recorded;
-  - **(17)** the term “data asset” means a collection of data elements or data sets that may be grouped together;
-  - **(18)** the term “machine-readable”, when used with respect to data, means data in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost;
-  - **(19)** the term “metadata” means structural or descriptive information about data such as content, format, source, rights, accuracy, provenance, frequency, periodicity, granularity, publisher or responsible party, contact information, method of collection, and other descriptions;
-  - **(20)** the term “open Government data asset” means a public data asset that is—
-    - **(A)** machine-readable;
-    - **(B)** available (or could be made available) in an open format;
-    - **(C)** not encumbered by restrictions, other than intellectual property rights, including under titles 17 and 35, that would impede the use or reuse of such asset; and
-    - **(D)** based on an underlying open standard that is maintained by a standards organization;
-  - **(21)** the term “open license” means a legal guarantee that a data asset is made available—
-    - **(A)** at no cost to the public; and
-    - **(B)** with no restrictions on copying, publishing, distributing, transmitting, citing, or adapting such asset;
-  - **(22)** the term “public data asset” means a data asset, or part thereof, maintained by the Federal Government that has been, or may be, released to the public, including any data asset, or part thereof, subject to disclosure under section 552 of title 5 ; and
-  - **(23)** the term “statistical laws” means subchapter III of this chapter and other laws pertaining to the protection of information collected for statistical purposes as designated by the Director.
+    - **(D)** report to third parties, the Federal Government, or the public regarding such records; and
+  - **(14)** the term “penalty” includes the imposition by an agency or court of a fine or other punishment; a judgment for monetary damages or equitable relief; or the revocation, suspension, reduction, or denial of a license, privilege, right, grant, or benefit.

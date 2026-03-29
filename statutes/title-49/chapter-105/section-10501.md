@@ -3,9 +3,9 @@ title: "Section 10501 - General jurisdiction"
 usc_title: 49
 usc_section: "10501"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 10501"
-generated_at: "2026-03-29T02:16:08.903Z"
+generated_at: "2026-03-29T17:53:47.985Z"
 ---
 
 # § 10501. General jurisdiction
@@ -27,11 +27,11 @@ generated_at: "2026-03-29T02:16:08.903Z"
 - **(c)**
   - **(1)** In this subsection—
     - **(A)** the term “local governmental authority”—
-      - **(i)** has the same meaning given that term by section 5302 of this title ; and
+      - **(i)** has the same meaning given that term by section 5302(a) 1 1 See References in Text note below. of this title; and
       - **(ii)** includes a person or entity that contracts with the local governmental authority to provide transportation services; and
-    - **(B)** the term “public transportation” means transportation services described in section 5302 of this title that are provided by rail.
+    - **(B)** the term “mass transportation” means transportation services described in section 5302(a) 1 of this title that are provided by rail.
   - **(2)** Except as provided in paragraph (3), the Board does not have jurisdiction under this part over—
-    - **(A)** public transportation provided by a local government authority; or
+    - **(A)** mass transportation provided by a local government authority; or
     - **(B)** a solid waste rail transfer facility as defined in section 10908 of this title , except as provided under sections 10908 and 10909 of this title.
   - **(3)**
     - **(A)** Notwithstanding paragraph (2) of this subsection, a local governmental authority, described in paragraph (2), is subject to applicable laws of the United States related to—

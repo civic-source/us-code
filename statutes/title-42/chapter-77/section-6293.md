@@ -3,14 +3,14 @@ title: "Section 6293 - Test procedures"
 usc_title: 42
 usc_section: "6293"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6293"
-generated_at: "2026-03-29T02:15:36.800Z"
+generated_at: "2026-03-29T17:53:35.365Z"
 ---
 
 # § 6293. Test procedures
 
-- **(a)** All test procedures and related determinations prescribed or made by the Secretary with respect to any covered product (or class thereof) which are in effect on March 17, 1987 , shall remain in effect until the Secretary amends such test procedures and related determinations under subsection (b).
+- **(a)** All test procedures and related determinations prescribed or made by the Secretary with respect to any covered product (or class thereof) which are in effect on March 17, 1987 , shall remain in effect until the Secretary amends such test procedures and related determinations under subsection (b) of this section.
 - **(b)**
   - **(1)**
     - **(A)** At least once every 7 years, the Secretary shall review test procedures for all covered products and—
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T02:15:36.800Z"
   - **(11)** Test procedures for traffic signal modules and pedestrian modules shall be based on the test method used under the Energy Star program of the Environmental Protection Agency for traffic signal modules, as in effect on August 8, 2005 .
   - **(12)**
     - **(A)** Test procedures for medium base compact fluorescent lamps shall be based on the test methods for compact fluorescent lamps used under the August 9, 2001 , version of the Energy Star program of the Environmental Protection Agency and the Department of Energy.
-    - **(B)** Except as provided in subparagraph (C), medium base compact fluorescent lamps shall meet all test requirements for regulated parameters of section 6295(cc) 1 1 So in original. Probably should be section “6295(bb)”. of this title.
+    - **(B)** Except as provided in subparagraph (C), medium base compact fluorescent lamps shall meet all test requirements for regulated parameters of section 6295(cc) of this title .
     - **(C)** Notwithstanding subparagraph (B), if manufacturers document engineering predictions and analysis that support expected attainment of lumen maintenance at 40 percent rated life and lamp lifetime, medium base compact fluorescent lamps may be marketed before completion of the testing of lamp life and lumen maintenance at 40 percent of rated life.
   - **(13)** Test procedures for dehumidifiers shall be based on the test criteria used under the Energy Star Program Requirements for Dehumidifiers developed by the Environmental Protection Agency, as in effect on August 8, 2005 , unless revised by the Secretary pursuant to this section.
   - **(14)** The test procedure for measuring flow rate for commercial prerinse spray valves shall be based on American Society for Testing and Materials Standard F2324, entitled “Standard Test Method for Pre-Rinse Spray Valves”.
@@ -55,12 +55,12 @@ generated_at: "2026-03-29T02:15:36.800Z"
   - **(1)** No manufacturer, distributor, retailer, or private labeler may make any representation—
     - **(A)** in writing (including a representation on a label); or
     - **(B)** in any broadcast advertisement,
-  - **(2)** Effective 180 days after an amended or new test procedure applicable to a covered product is prescribed or established under subsection (b), no manufacturer, distributor, retailer, or private labeler may make any representation—
+  - **(2)** Effective 180 days after an amended or new test procedure applicable to a covered product is prescribed or established under subsection (b) of this section, no manufacturer, distributor, retailer, or private labeler may make any representation—
     - **(A)** in writing (including a representation on a label); or
     - **(B)** in any broadcast advertisement,
   - **(3)** On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (2) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if the Secretary determines that the requirements of paragraph (2) would impose an undue hardship on such petitioner.
 - **(d)**
-  - **(1)** The Secretary is not required to publish and prescribe test procedures for a covered product (or class thereof) if the Secretary determines, by rule, that test procedures cannot be developed which meet the requirements of subsection (b)(3) and publishes such determination in the Federal Register, together with the reasons therefor.
+  - **(1)** The Secretary is not required to publish and prescribe test procedures for a covered product (or class thereof) if the Secretary determines, by rule, that test procedures cannot be developed which meet the requirements of subsection (b)(3) of this section and publishes such determination in the Federal Register, together with the reasons therefor.
   - **(2)** For purposes of section 6297 of this title , a determination under paragraph (1) with respect to any covered product or class shall have the same effect as would a standard prescribed for a covered product (or class).
 - **(e)**
   - **(1)** In the case of any amended test procedure which is prescribed pursuant to this section, the Secretary shall determine, in the rulemaking carried out with respect to prescribing such procedure, to what extent, if any, the proposed test procedure would alter the measured energy efficiency, measured energy use, or measured water use of any covered product as determined under the existing test procedure.

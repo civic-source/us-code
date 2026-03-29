@@ -1,31 +1,22 @@
 ---
-title: "Section 20167 - Reports on highway-rail grade crossing safety"
+title: "Section 20167 - Railroad safety infrastructure improvement grants"
 usc_title: 49
 usc_section: "20167"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 20167"
-generated_at: "2026-03-29T02:16:08.933Z"
+generated_at: "2026-03-29T17:53:48.020Z"
 ---
 
-# § 20167. Reports on highway-rail grade crossing safety
+# § 20167. Railroad safety infrastructure improvement grants
 
-- **(a)** Not later than 4 years after the date by which States are required to submit State highway-rail grade crossing action plans under section 11401(b) of the Fixing America’s Surface Transportation Act ( 49 U.S.C. 22907 note), the Administrator of the Federal Railroad Administration, in consultation with the Administrator of the Federal Highway Administration, shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that summarizes the State highway-rail grade crossing action plans, including—
-  - **(1)** an analysis and evaluation of each State railway-highway crossings program under section 130 of title 23 , including—
-    - **(A)** compliance with section 11401 of the Fixing America’s Surface Transportation Act and section 130(g) of title 23 ; and
-    - **(B)** the specific strategies identified by each State to improve safety at highway-rail grade crossings, including crossings with multiple accidents or incidents;
-  - **(2)** the progress of each State in implementing its State highway-rail grade crossings action plan;
-  - **(3)** the number of highway-rail grade crossing projects undertaken pursuant to section 130 of title 23 , including the distribution of such projects by cost range, road system, nature of treatment, and subsequent accident experience at improved locations;
-  - **(4)** which States are not in compliance with their schedule of projects under section 130(d) of title 23 ; and
-  - **(5)** any recommendations for future implementation of the railway-highway crossings program under section 130 of title 23 .
-- **(b)** Not later than 5 years after the submission of the report required under subsection (a), the Administrator of the Federal Railroad Administration, in consultation with the Administrator of the Federal Highway Administration, shall—
-  - **(1)** update the report based on the State annual reports submitted pursuant to section 130(g) of title 23 and any other information obtained by or available to the Administrator of the Federal Railroad Administration; and
-  - **(2)** submit the updated report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
-- **(c)** In this section:
-  - **(1)** The term “highway-rail grade crossing” means a location within a State, other than a location at which 1 or more railroad tracks cross 1 or more railroad tracks at grade, at which—
-    - **(A)** a public highway, road, or street, or a private roadway, including associated sidewalks and pathways, crosses 1 or more railroad tracks, either at grade or grade-separated; or
-    - **(B)** a pathway explicitly authorized by a public authority or a railroad carrier that—
-      - **(i)** is dedicated for the use of nonvehicular traffic, including pedestrians, bicyclists, and others;
-      - **(ii)** is not associated with a public highway, road, or street, or a private roadway; and
-      - **(iii)** crosses 1 or more railroad tracks, either at grade or grade-separated.
-  - **(2)** The term “State” means a State of the United States or the District of Columbia.
+- **(a)** The Secretary of Transportation shall establish a grant program for safety improvements to railroad infrastructure, including the acquisition, improvement, or rehabilitation of intermodal or rail equipment or facilities, including track, bridges, tunnels, yards, buildings, passenger stations, facilities, and maintenance and repair shops.
+- **(b)** Grants shall be made under this section to eligible passenger and freight railroad carriers, and State and local governments for projects described in subsection (a). Grants shall also be made available to assist a State or political subdivision thereof in establishing a quiet zone pursuant to part 222 of title 49, Code of Federal Regulations.
+- **(c)** In awarding grants, the Secretary shall consider, at a minimum—
+  - **(1)** the age and condition of the rail infrastructure of the applicant;
+  - **(2)** the railroad carrier’s safety record, including accident and incident numbers and rates;
+  - **(3)** the volume of hazardous materials transported by the railroad;
+  - **(4)** the operation of passenger trains over the railroad; and
+  - **(5)** whether the railroad carrier has submitted a railroad safety risk reduction program, as required by section 20156.
+- **(d)** Federal funds for any eligible project under this section shall not exceed 50 percent of the total cost of such project.
+- **(e)** There are authorized to be appropriated to the Secretary of Transportation $5,000,000 for each of fiscal years 2010 through 2013 to carry out this section. Amounts appropriated pursuant to this subsection shall remain available until expended.

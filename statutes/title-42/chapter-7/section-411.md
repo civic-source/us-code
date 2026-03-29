@@ -3,9 +3,9 @@ title: "Section 411 - Definitions relating to self-employment"
 usc_title: 42
 usc_section: "411"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 411"
-generated_at: "2026-03-29T02:15:35.965Z"
+generated_at: "2026-03-29T17:53:34.434Z"
 ---
 
 # § 411. Definitions relating to self-employment
@@ -21,7 +21,7 @@ For the purposes of this subchapter—
     - **(A)** If any of the income derived from a trade or business (other than a trade or business carried on by a partnership) is community income under community property laws applicable to such income, the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the spouse carrying on such trade or business or, if such trade or business is jointly operated, treated as the gross income and deductions of each spouse on the basis of their respective distributive share of the gross income and deductions;
     - **(B)** If any portion of a partner’s distributive share of the ordinary net income or loss from a trade or business carried on by a partnership is community income or loss under the community property laws applicable to such share, all of such distributive share shall be included in computing the net earnings from self-employment of such partner, and no part of such share shall be taken into account in computing the net earnings from self-employment of the spouse of such partner;
   - **(6)** A resident of the Commonwealth of Puerto Rico shall compute his net earnings from self-employment in the same manner as a citizen of the United States but without regard to the provisions of section 933 of the Internal Revenue Code of 1986;
-  - **(7)** An individual who is a duly ordained, commissioned, or licensed minister of a church or a member of a religious order shall compute his net earnings from self-employment derived from the performance of service described in subsection (c)(4) without regard to section 107 (relating to rental value of parsonages), section 119 (relating to meals and lodging furnished for the convenience of the employer), and section 911 (relating to earned income from sources without the United States) of the Internal Revenue Code of 1986, but shall not include in any such net earnings from self-employment the rental value of any parsonage or any parsonage allowance (whether or not excluded under section 107 of the Internal Revenue Code of 1986) provided after the individual retires, or any other retirement benefit received by such individual from a church plan (as defined in section 414(e) of such Code) after the individual retires;
+  - **(7)** An individual who is a duly ordained, commissioned, or licensed minister of a church or a member of a religious order shall compute his net earnings from self-employment derived from the performance of service described in subsection (c)(4) of this section without regard to section 107 (relating to rental value of parsonages), section 119 (relating to meals and lodging furnished for the convenience of the employer), and section 911 (relating to earned income from sources without the United States) of the Internal Revenue Code of 1986, but shall not include in any such net earnings from self-employment the rental value of any parsonage or any parsonage allowance (whether or not excluded under section 107 of the Internal Revenue Code of 1986) provided after the individual retires, or any other retirement benefit received by such individual from a church plan (as defined in section 414(e) of such Code) after the individual retires;
   - **(8)** The exclusion from gross income provided by section 931 of the Internal Revenue Code of 1986 shall not apply;
   - **(9)** There shall be excluded amounts received by a partner pursuant to a written plan of the partnership, which meets such requirements as are prescribed by the Secretary of the Treasury or his delegate, and which provides for payments on account of retirement, on a periodic basis, to partners generally or to a class or classes of partners, such payments to continue at least until such partner’s death, if—
     - **(A)** such partner rendered no services with respect to any trade or business carried on by such partnership (or its successors) during the taxable year of such partnership (or its successors), ending within or with his taxable year, in which such amounts were received, and
@@ -32,7 +32,7 @@ For the purposes of this subchapter—
     - **(A)** the taxpayer’s net earnings from self-employment for the taxable year (determined without regard to this paragraph), and
     - **(B)** one-half of the sum of the rates imposed by subsections (a) and (b) of section 1401 of such Code for such year;
   - **(12)** There shall be excluded the distributive share of any item of income or loss of a limited partner, as such, other than guaranteed payments described in section 707(c) of the Internal Revenue Code of 1986 to that partner for services actually rendered to or on behalf of the partnership to the extent that those payments are established to be in the nature of remuneration for those services;
-  - **(13)** In the case of church employee income, the special rules of subsection (i)(1) shall apply;
+  - **(13)** In the case of church employee income, the special rules of subsection (i)(1) of this section shall apply;
   - **(14)** There shall be excluded income excluded from taxation under section 7873 of the Internal Revenue Code of 1986 (relating to income derived by Indians from exercise of fishing rights);
   - **(15)** The deduction under section 162( l ) of the Internal Revenue Code of 1986 (relating to health insurance costs of self-employed individuals) shall not be allowed; and
   - **(16)** Notwithstanding the preceding provisions of this subsection, each spouse’s share of income or loss from a qualified joint venture shall be taken into account as provided in section 761(f) of the Internal Revenue Code of 1986 in determining net earnings from self-employment of such spouse.
@@ -73,27 +73,27 @@ For the purposes of this subchapter—
 - **(f)** In computing a partner’s net earnings from self-employment for his taxable year which ends as a result of his death (but only if such taxable year ends within, and not with, the taxable year of the partnership), there shall be included so much of the deceased partner’s distributive share of the partnership’s ordinary income or loss for the partnership taxable year as is not attributable to an interest in the partnership during any period beginning on or after the first day of the first calendar month following the month in which such partner died. For purposes of this subsection—
   - **(1)** in determining the portion of the distributive share which is attributable to any period specified in the preceding sentence, the ordinary income or loss of the partnership shall be treated as having been realized or sustained ratably over the partnership taxable year; and
   - **(2)** the term “deceased partner’s distributive share” includes the share of his estate or of any other person succeeding, by reason of his death, to rights with respect to his partnership interest.
-- **(g)** An individual shall be deemed to be self-employed on a regular basis in a taxable year, or to be a member of a partnership on a regular basis in such year, if he had net earnings from self-employment, as defined in the first sentence of subsection (a), of not less than $400 in at least two of the three consecutive taxable years immediately preceding such taxable year from trades or businesses carried on by such individual or such partnership.
+- **(g)** An individual shall be deemed to be self-employed on a regular basis in a taxable year, or to be a member of a partnership on a regular basis in such year, if he had net earnings from self-employment, as defined in the first sentence of subsection (a) of this section, of not less than $400 in at least two of the three consecutive taxable years immediately preceding such taxable year from trades or businesses carried on by such individual or such partnership.
 - **(h)**
   - **(1)** In determining the net earnings from self-employment of any options dealer or commodities dealer—
-    - **(A)** notwithstanding subsection (a)(3)(A), there shall not be excluded any gain or loss (in the normal course of the taxpayer’s activity of dealing in or trading section 1256 contracts) from section 1256 contracts or property related to such contracts, and
+    - **(A)** notwithstanding subsection (a)(3)(A) of this section, there shall not be excluded any gain or loss (in the normal course of the taxpayer’s activity of dealing in or trading section 1256 contracts) from section 1256 contracts or property related to such contracts, and
     - **(B)** the deduction provided by section 1202 of the Internal Revenue Code of 1986 shall not apply.
   - **(2)** For purposes of this subsection—
     - **(A)** The term “options dealer” has the meaning given such term by section 1256(g)(8) of such Code.
     - **(B)** The term “commodities dealer” means a person who is actively engaged in trading section 1256 contracts and is registered with a domestic board of trade which is designated as a contract market by the Commodities Futures Trading Commission.
     - **(C)** The term “section 1256 contracts” has the meaning given to such term by section 1256(b) of such Code.
 - **(i)**
-  - **(1)** In applying subsection (a)—
+  - **(1)** In applying subsection (a) of this section—
     - **(A)** church employee income shall not be reduced by any deduction;
     - **(B)** church employee income and deductions attributable to such income shall not be taken into account in determining the amount of other net earnings from self-employment.
   - **(2)**
-    - **(A)** Subsection (b)(2) shall be applied separately—
+    - **(A)** Subsection (b)(2) of this section shall be applied separately—
       - **(i)** to church employee income, and
       - **(ii)** to other net earnings from self-employment.
-    - **(B)** In applying subsection (b)(2) to church employee income, “$100” shall be substituted for “$400”.
-  - **(3)** Paragraph (1) shall not apply to any amount allowable as a deduction under subsection (a)(11), and paragraph (1) shall be applied before determining the amount so allowable.
+    - **(B)** In applying subsection (b)(2) of this section to church employee income, “$100” shall be substituted for “$400”.
+  - **(3)** Paragraph (1) shall not apply to any amount allowable as a deduction under subsection (a)(11) of this section, and paragraph (1) shall be applied before determining the amount so allowable.
   - **(4)** For purposes of this section, the term “church employee income” means gross income for services which are described in section 410(a)(8)(B) of this title (and are not described in section 410(a)(8)(A) of this title ).
-- **(j)** Nothing in subsection (a) shall be construed as including in the net earnings from self-employment of an individual any amount received during the taxable year from an insurance company on account of services performed by such individual as an insurance salesman for such company if—
+- **(j)** Nothing in subsection (a) of this section shall be construed as including in the net earnings from self-employment of an individual any amount received during the taxable year from an insurance company on account of services performed by such individual as an insurance salesman for such company if—
   - **(1)** such amount is received after termination of such individual’s agreement to perform such services for such company,
   - **(2)** such individual performs no services for such company after such termination and before the close of such taxable year,
   - **(3)** such individual enters into a covenant not to compete against such company which applies to at least the 1-year period beginning on the date of such termination, and

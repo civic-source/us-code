@@ -3,9 +3,9 @@ title: "Section 1626 - Relation to other programs"
 usc_title: 43
 usc_section: "1626"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1626"
-generated_at: "2026-03-29T02:15:47.620Z"
+generated_at: "2026-03-29T17:53:03.715Z"
 ---
 
 # § 1626. Relation to other programs
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T02:15:47.620Z"
     - **(B)** stock (including stock issued or distributed by a Native Corporation as a dividend or distribution on stock) or bonds issued by a Native Corporation which bonds shall be subject to the protection of section 1606(h) of this title until voluntarily and expressly sold or pledged by the shareholder subsequent to the date of distribution;
     - **(C)** a partnership interest;
     - **(D)** land or an interest in land (including land or an interest in land received from a Native Corporation as a dividend or distribution on stock); and
-    - **(E)** an interest in a Settlement Trust and, for the 5-year period beginning on July 7, 2025 , an amount distributed from or benefit provided by a Settlement Trust to a Native or descendant of a Native who is an aged, blind, or disabled individual (as defined in section 1614(a) of the Social Security Act ( 42 U.S.C. 1382c(a) )).
+    - **(E)** an interest in a settlement trust.
 - **(d)** Notwithstanding any other provision of law, Alaska Natives shall remain eligible for all Federal Indian programs on the same basis as other Native Americans.
 - **(e)**
   - **(1)** For all purposes of Federal law, a Native Corporation shall be considered to be a corporation owned and controlled by Natives and a minority and economically disadvantaged business enterprise if the Settlement Common Stock of the corporation and other stock of the corporation held by holders of Settlement Common Stock and by Natives and descendants of Natives, represents a majority of both the total equity of the corporation and the total voting power of the corporation for the purposes of electing directors.

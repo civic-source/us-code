@@ -3,9 +3,9 @@ title: "Section 13302 - Intervention"
 usc_title: 49
 usc_section: "13302"
 chapter: 133
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 13302"
-generated_at: "2026-03-29T02:16:08.911Z"
+generated_at: "2026-03-29T17:53:47.997Z"
 ---
 
 # § 13302. Intervention

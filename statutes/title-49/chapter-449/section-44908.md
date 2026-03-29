@@ -3,15 +3,15 @@ title: "Section 44908 - Travel advisory and suspension of foreign assistance"
 usc_title: 49
 usc_section: "44908"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 44908"
-generated_at: "2026-03-29T02:16:09.044Z"
+generated_at: "2026-03-29T17:53:48.109Z"
 ---
 
 # § 44908. Travel advisory and suspension of foreign assistance
 
-- **(a)** On being notified by the Administrator of the Transportation Security Administration that the Administrator of the Transportation Security Administration has decided under section 44907(d)(2)(A)(ii) of this title that a condition exists that threatens the security of passengers, aircraft, or crew traveling to or from a foreign airport that the Administrator of the Transportation Security Administration has decided under section 44907 of this title does not maintain and carry out effective security measures, the Secretary of State—
+- **(a)** On being notified by the Secretary of Transportation that the Secretary of Transportation has decided under section 44907(d)(2)(A)(ii) of this title that a condition exists that threatens the safety or security of passengers, aircraft, or crew traveling to or from a foreign airport that the Secretary of Transportation has decided under section 44907 of this title does not maintain and carry out effective security measures, the Secretary of State—
   - **(1)** immediately shall issue a travel advisory for that airport; and
   - **(2)** shall publicize the advisory widely.
 - **(b)** The President shall suspend assistance provided under the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 et seq.) or the Arms Export Control Act ( 22 U.S.C. 2751 et seq.) to a country in which is located an airport with respect to which section 44907(d)(1) of this title becomes effective if the Secretary of State decides the country is a high terrorist threat country. The President may waive this subsection if the President decides, and reports to Congress, that the waiver is required because of national security interests or a humanitarian emergency.
-- **(c)** An action required under this section is no longer required only if the Administrator of the Transportation Security Administration has made a decision as provided under section 44907(d)(4) of this title . The Administrator shall notify Congress when the action is no longer required to be taken.
+- **(c)** An action required under this section is no longer required only if the Secretary of Transportation has made a decision as provided under section 44907(d)(4) of this title . The Secretary shall notify Congress when the action is no longer required to be taken.

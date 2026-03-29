@@ -3,17 +3,17 @@ title: "Section 653a - State Directory of New Hires"
 usc_title: 42
 usc_section: "653a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 653a"
-generated_at: "2026-03-29T02:15:36.012Z"
+generated_at: "2026-03-29T17:53:34.491Z"
 ---
 
 # § 653a. State Directory of New Hires
 
 - **(a)**
   - **(1)**
-    - **(A)** Except as provided in subparagraph (B), not later than October 1, 1997 , each State shall establish an automated directory (to be known as the “State Directory of New Hires”) which shall contain information supplied in accordance with subsection (b) by employers on each newly hired employee.
-    - **(B)** A State which has a new hire reporting law in existence on August 22, 1996 , may continue to operate under the State law, but the State must meet the requirements of subsection (g)(2) not later than October 1, 1997 , and the requirements of this section (other than subsection (g)(2)) not later than October 1, 1998 .
+    - **(A)** Except as provided in subparagraph (B), not later than October 1, 1997 , each State shall establish an automated directory (to be known as the “State Directory of New Hires”) which shall contain information supplied in accordance with subsection (b) of this section by employers on each newly hired employee.
+    - **(B)** A State which has a new hire reporting law in existence on August 22, 1996 , may continue to operate under the State law, but the State must meet the requirements of subsection (g)(2) of this section not later than October 1, 1997 , and the requirements of this section (other than subsection (g)(2) of this section) not later than October 1, 1998 .
   - **(2)** As used in this section:
     - **(A)** The term “employee”—
       - **(i)** means an individual who is an employee within the meaning of chapter 24 of the Internal Revenue Code of 1986; and
@@ -32,13 +32,13 @@ generated_at: "2026-03-29T02:15:36.012Z"
   - **(2)** Each State may provide the time within which the report required by paragraph (1) shall be made with respect to an employee, but such report shall be made—
     - **(A)** not later than 20 days after the date the employer hires the employee; or
     - **(B)** in the case of an employer transmitting reports magnetically or electronically, by 2 monthly transmissions (if necessary) not less than 12 days nor more than 16 days apart.
-- **(c)** Each report required by subsection (b) shall, to the extent practicable, be made on a W–4 form or, at the option of the employer, an equivalent form, and may be transmitted by 1st class mail, magnetically, or electronically.
+- **(c)** Each report required by subsection (b) of this section shall, to the extent practicable, be made on a W–4 form or, at the option of the employer, an equivalent form, and may be transmitted by 1st class mail, magnetically, or electronically.
 - **(d)** The State shall have the option to set a State civil money penalty which shall not exceed—
   - **(1)** $25 per failure to meet the requirements of this section with respect to a newly hired employee; or
   - **(2)** $500 if, under State law, the failure is the result of a conspiracy between the employer and the employee to not supply the required report or to supply a false or incomplete report.
-- **(e)** Information shall be entered into the data base maintained by the State Directory of New Hires within 5 business days of receipt from an employer pursuant to subsection (b).
+- **(e)** Information shall be entered into the data base maintained by the State Directory of New Hires within 5 business days of receipt from an employer pursuant to subsection (b) of this section.
 - **(f)**
-  - **(1)** Not later than May 1, 1998 , an agency designated by the State shall, directly or by contract, conduct automated comparisons of the social security numbers reported by employers pursuant to subsection (b) and the social security numbers appearing in the records of the State case registry for cases being enforced under the State plan.
+  - **(1)** Not later than May 1, 1998 , an agency designated by the State shall, directly or by contract, conduct automated comparisons of the social security numbers reported by employers pursuant to subsection (b) of this section and the social security numbers appearing in the records of the State case registry for cases being enforced under the State plan.
   - **(2)** When an information comparison conducted under paragraph (1) reveals a match with respect to the social security number of an individual required to provide support under a support order, the State Directory of New Hires shall provide the agency administering the State plan approved under this part of the appropriate State with the name, address, and social security number of the employee to whom the social security number is assigned, and the name and address of, and identifying number assigned under section 6109 of the Internal Revenue Code of 1986 to, the employer.
 - **(g)**
   - **(1)** Within 2 business days after the date information regarding a newly hired employee is entered into the State Directory of New Hires, the State agency enforcing the employee’s child support obligation shall transmit a notice to the employer of the employee directing the employer to withhold from the income of the employee an amount equal to the monthly (or other periodic) child support obligation (including any past due support obligation) of the employee, unless the employee’s income is not subject to withholding pursuant to section 666(b)(3) of this title .
@@ -47,7 +47,6 @@ generated_at: "2026-03-29T02:15:36.012Z"
     - **(B)** The State Directory of New Hires shall, on a quarterly basis, furnish to the National Directory of New Hires information concerning the wages and unemployment compensation paid to individuals, by such dates, in such format, and containing such information as the Secretary of Health and Human Services shall specify in regulations.
   - **(3)** As used in this subsection, the term “business day” means a day on which State offices are open for regular business.
 - **(h)**
-  - **(1)** The agency administering the State plan approved under this part shall use information received pursuant to subsection (f)(2) to locate individuals for purposes of establishing paternity and establishing, modifying, and enforcing child support obligations, and may disclose such information to any agent of the agency that is under contract with the agency to carry out such purposes.
+  - **(1)** The agency administering the State plan approved under this part shall use information received pursuant to subsection (f)(2) of this section to locate individuals for purposes of establishing paternity and establishing, modifying, and enforcing child support obligations, and may disclose such information to any agent of the agency that is under contract with the agency to carry out such purposes.
   - **(2)** A State agency responsible for administering a program specified in section 1320b–7(b) of this title shall have access to information reported by employers pursuant to subsection (b) of this section for purposes of verifying eligibility for the program.
-  - **(3)** State agencies operating employment security and workers’ compensation programs shall have access to information reported by employers pursuant to subsection (b) for the purposes of administering such programs.
-  - **(4)** The Secretaries of Labor and of Veterans Affairs shall have access to information reported by employers pursuant to subsection (b) of this section for purposes of tracking employment of veterans.
+  - **(3)** State agencies operating employment security and workers’ compensation programs shall have access to information reported by employers pursuant to subsection (b) of this section for the purposes of administering such programs.

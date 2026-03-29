@@ -1,12 +1,14 @@
 ---
-title: "Section 13991 - Transferred"
+title: "Section 13991 - Grants authorized"
 usc_title: 42
 usc_section: "13991"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 13991"
-generated_at: "2026-03-29T02:15:37.278Z"
+generated_at: "2026-03-29T17:53:35.880Z"
 ---
 
-# § 13991. Transferred
+# § 13991. Grants authorized
+
+The State Justice Institute may award grants for the purpose of developing, testing, presenting, and disseminating model programs to be used by States (as defined in section 10701 of this title ) in training judges and court personnel in the laws of the States and by Indian tribes in training tribal judges and court personnel in the laws of the tribes on rape, sexual assault, domestic violence, dating violence, and other crimes of violence motivated by the victim’s gender. Nothing shall preclude the attendance of tribal judges and court personnel at programs funded under this section for States to train judges and court personnel on the laws of the States.
 

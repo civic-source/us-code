@@ -1,26 +1,20 @@
 ---
-title: "Section 55605 - Definitions"
+title: "Section 55605 - Short sea transportation defined"
 usc_title: 46
 usc_section: "55605"
 chapter: 556
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 55605"
-generated_at: "2026-03-29T02:15:53.784Z"
+generated_at: "2026-03-29T17:53:41.836Z"
 ---
 
-# § 55605. Definitions
+# § 55605. Short sea transportation defined
 
-In this chapter:
+In this chapter, the term “short sea transportation” means the carriage by a documented vessel of cargo—
 
-  - **(1)** The term “marine highway transportation” means the carriage by a documented vessel of cargo (including such carriage of cargo and passengers), if such cargo—
-    - **(A)** is—
-      - **(i)** contained in intermodal cargo containers and loaded by crane on the vessel;
-      - **(ii)** loaded on the vessel by means of wheeled technology, including roll-on roll-off cargo;
-      - **(iii)** shipped in discrete units or packages that are handled individually, palletized, or unitized for purposes of transportation;
-      - **(iv)** bulk, liquid, or loose cargo loaded in tanks, holds, hoppers, or on deck; or
-      - **(v)** freight vehicles carried aboard commuter ferry boats; and
-    - **(B)** is—
-      - **(i)** loaded at a port in the United States and unloaded either at another port in the United States or at a port in Canada or Mexico; or
-      - **(ii)** loaded at a port in Canada or Mexico and unloaded at a port in the United States.
-  - **(2)** The term “Tribal government” means the recognized governing body of any Indian or Alaska Native Tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently, as of the date of enactment of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 5131 ).
-  - **(3)** The term “Alaska Native Corporation” has the meaning given the term “Native Corporation” under section 3 of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1602 ).
+  - **(1)** that is—
+    - **(A)** contained in intermodal cargo containers and loaded by crane on the vessel; or
+    - **(B)** loaded on the vessel by means of wheeled technology; and
+  - **(2)** that is—
+    - **(A)** loaded at a port in the United States and unloaded either at another port in the United States or at a port in Canada located in the Great Lakes Saint Lawrence Seaway System; or
+    - **(B)** loaded at a port in Canada located in the Great Lakes Saint Lawrence Seaway System and unloaded at a port in the United States.

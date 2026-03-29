@@ -3,9 +3,9 @@ title: "Section 6991 - Definitions and exemptions"
 usc_title: 42
 usc_section: "6991"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6991"
-generated_at: "2026-03-29T02:15:36.872Z"
+generated_at: "2026-03-29T17:53:35.442Z"
 ---
 
 # § 6991. Definitions and exemptions
@@ -23,7 +23,7 @@ In this subchapter:
   - **(5)** The term “person” has the same meaning as provided in section 6903(15) of this title , except that such term includes a consortium, a joint venture, and a commercial entity, and the United States Government.
   - **(6)** The term “petroleum” means petroleum, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure (60 degrees Fahrenheit and 14.7 pounds per square inch absolute).
   - **(7)** The term “regulated substance” means—
-    - **(A)** any substance defined in section 9601(14) of this title (but not including any substance regulated as a hazardous waste under subchapter III), and
+    - **(A)** any substance defined in section 9601(14) of this title (but not including any substance regulated as a hazardous waste under subchapter III of this chapter), and
     - **(B)** petroleum.
   - **(8)** The term “release” means any spilling, leaking, emitting, discharging, escaping, leaching, or disposing from an underground storage tank into ground water, surface water or subsurface soils.
   - **(9)** The term “Trust Fund” means the Leaking Underground Storage Tank Trust Fund established by section 9508 of title 26 .

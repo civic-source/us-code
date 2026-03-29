@@ -3,9 +3,9 @@ title: "Section 5108 - Registration"
 usc_title: 49
 usc_section: "5108"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 5108"
-generated_at: "2026-03-29T02:16:08.864Z"
+generated_at: "2026-03-29T17:53:47.957Z"
 ---
 
 # § 5108. Registration
@@ -45,8 +45,8 @@ generated_at: "2026-03-29T02:16:08.864Z"
       - **(vii)** the percentage of gross revenue derived from transporting hazardous material.
       - **(viii)** the amount to be made available to carry out sections 5108(g)(2), 5115, and 5116 of this title.
       - **(ix)** other factors the Secretary considers appropriate.
-    - **(B)** The Secretary shall adjust the amount being collected under this paragraph to reflect any unexpended balance in the account established under section 5116(h) of this title . However, the Secretary is not required to refund any fee collected under this paragraph.
-    - **(C)** The Secretary shall transfer to the Secretary of the Treasury amounts the Secretary of Transportation collects under this paragraph for deposit in the Hazardous Materials Emergency Preparedness Fund established under section 5116(h) of this title .
+    - **(B)** The Secretary shall adjust the amount being collected under this paragraph to reflect any unexpended balance in the account established under section 5116(i) of this title . However, the Secretary is not required to refund any fee collected under this paragraph.
+    - **(C)** The Secretary shall transfer to the Secretary of the Treasury amounts the Secretary of Transportation collects under this paragraph for deposit in the Hazardous Materials Emergency Preparedness Fund established under section 5116(i) of this title .
   - **(3)** Notwithstanding subsection (a)(4), the Secretary shall impose and collect a fee of $25 from a person who is required to register under this section but who is otherwise exempted by the Secretary from paying any fee under this section. The fee shall be used to pay the costs incurred by the Secretary in processing registration statements filed by such persons.
 - **(h)** The Secretary may prescribe regulations requiring a person required to file a registration statement under subsection (a) of this section to maintain proof of the filing and payment of fees imposed under subsection (g) of this section.
 - **(i)**

@@ -3,9 +3,9 @@ title: "Section 5102 - Definitions"
 usc_title: 49
 usc_section: "5102"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 5102"
-generated_at: "2026-03-29T02:16:08.863Z"
+generated_at: "2026-03-29T17:53:47.956Z"
 ---
 
 # § 5102. Definitions
@@ -40,7 +40,7 @@ In this chapter—
         - **(III)** designs, manufactures, fabricates, inspects, marks, maintains, reconditions, repairs, or tests a package, container, or packaging component that is represented, marked, certified, or sold as qualified for use in transporting hazardous material in commerce; and
     - **(B)** includes a department, agency, or instrumentality of the United States Government, or an authority of a State, political subdivision of a State, or Indian tribe, carrying out an activity described in clause (ii).
   - **(5)** “imminent hazard” means the existence of a condition relating to hazardous material that presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before the reasonably foreseeable completion date of a formal proceeding begun to lessen the risk of that death, illness, injury, or endangerment.
-  - **(6)** “Indian tribe” has the same meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b ). 1 1 See References in Text note below.
+  - **(6)** “Indian tribe” has the same meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b ).
   - **(7)** “motor carrier”—
     - **(A)** means a motor carrier, motor private carrier, and freight forwarder as those terms are defined in section 13102; but
     - **(B)** does not include a freight forwarder, as so defined, if the freight forwarder is not performing a function relating to highway transportation.

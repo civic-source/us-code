@@ -3,9 +3,9 @@ title: "Section 20108 - Research, development, testing, and training"
 usc_title: 49
 usc_section: "20108"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 20108"
-generated_at: "2026-03-29T02:16:08.928Z"
+generated_at: "2026-03-29T17:53:48.011Z"
 ---
 
 # § 20108. Research, development, testing, and training
@@ -13,18 +13,3 @@ generated_at: "2026-03-29T02:16:08.928Z"
 - **(a)** The Secretary of Transportation shall carry out, as necessary, research, development, testing, evaluation, and training for every area of railroad safety.
 - **(b)** To carry out this part, the Secretary may make contracts for, and carry out, research, development, testing, evaluation, and training (particularly for those areas of railroad safety found to need prompt attention).
 - **(c)** The Secretary may request, receive, and expend amounts received from non-United States Government sources for expenses incurred in training safety employees of private industry, State and local authorities, or other public authorities, except State rail safety inspectors participating in training under section 20105 of this title .
-- **(d)** The Secretary may erect, alter, and repair buildings and make other public improvements to carry out necessary railroad research, safety, and training activities at the Transportation Technology Center in Pueblo, Colorado.
-- **(e)** The Secretary may collect fees or rents from facility users to offset appropriated amounts for the cost of providing facilities or research, development, testing, training, or other services, including long-term sustainment of the on-site physical plant.
-- **(f)** Amounts appropriated to carry out subsection (d) and all fees and rents collected pursuant to subsection (e) shall be credited to a revolving fund and remain available until expended. The Secretary may use such fees and rents for operation, maintenance, repair, or improvement of the Transportation Technology Center.
-- **(g)** Notwithstanding section 1302 of title 40 , the Secretary may lease to others or enter into contracts for terms of up to 20 years, for such consideration and subject to such terms and conditions as the Secretary determines to be in the best interests of the Government of the United States, for the operation, maintenance, repair, and improvement of the Transportation Technology Center.
-- **(h)** The Secretary may allow its lessees and contractors to purchase property and casualty loss insurance for its assets and activities at the Transportation Technology Center to mitigate the lessee’s or contractor’s risk associated with operating a facility.
-- **(i)** Notwithstanding section 1341 of title 31 , the Secretary may enter into contracts or agreements, or commit to obligations in connection with third-party contracts or agreements, including contingent liability for the purchase of electric power in connection with such contracts or agreements, for terms not to exceed 20 years, to enable the use of the land at the Transportation Technology Center for projects to produce energy from renewable sources.
-- **(j)**
-  - **(1)** The Secretary shall award grants to establish and maintain a center of excellence to advance research and development that improves the safety, efficiency, and reliability of passenger and freight rail transportation.
-  - **(2)** An institution of higher education (as defined in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 )) or a consortium of nonprofit institutions of higher education shall be eligible to receive a grant from the center established pursuant to paragraph (1).
-  - **(3)** In awarding a grant under this subsection, the Secretary shall—
-    - **(A)** give preference to applicants with strong past performance related to rail research, education, and workforce development activities;
-    - **(B)** consider the extent to which the applicant would involve public and private sector passenger and freight railroad operators; and
-    - **(C)** consider the regional and national impacts of the applicant’s proposal.
-  - **(4)** Grant funds awarded pursuant to this subsection shall be used for basic and applied research, evaluation, education, workforce development, and training efforts related to safety, project delivery, efficiency, reliability, resiliency, and sustainability of urban commuter, intercity high-speed, and freight rail transportation, to include advances in rolling stock, advanced positive train control, human factors, rail infrastructure, shared corridors, grade crossing safety, inspection technology, remote sensing, rail systems maintenance, network resiliency, operational reliability, energy efficiency, and other advanced technologies.
-  - **(5)** The Federal share of a grant awarded under this subsection shall be 50 percent of the cost of establishing and operating the center of excellence and related research activities carried out by the grant recipient.

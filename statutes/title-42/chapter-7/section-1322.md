@@ -3,9 +3,9 @@ title: "Section 1322 - Repayment by State; certification; transfer; interest on 
 usc_title: 42
 usc_section: "1322"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1322"
-generated_at: "2026-03-29T02:15:36.109Z"
+generated_at: "2026-03-29T17:53:34.577Z"
 ---
 
 # § 1322. Repayment by State; certification; transfer; interest on loan; credit of interest on loan
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T02:15:36.109Z"
   - **(5)** Interest required to be paid under paragraph (1) shall not be paid (directly or indirectly) by a State from amounts in its unemployment fund. If the Secretary of Labor determines that any State action results in the paying of such interest directly or indirectly (by an equivalent reduction in State unemployment taxes or otherwise) from such unemployment fund, the Secretary of Labor shall not certify such State’s unemployment compensation law under section 3304 of the Internal Revenue Code of 1986. Such noncertification shall be made in accordance with section 3304(c) of such Code.
   - **(6)**
     - **(A)** For purposes of paragraph (2), any voluntary repayment shall be applied against advances made under section 1321 of this title on the last made first repaid basis. Any other repayment of such an advance shall be applied against advances on a first made first repaid basis.
-    - **(B)** For purposes of this paragraph, the term “voluntary repayment” means any repayment made under subsection (a).
+    - **(B)** For purposes of this paragraph, the term “voluntary repayment” means any repayment made under subsection (a) of this section.
   - **(7)** This subsection shall only apply to advances made on or after April 1, 1982 .
   - **(8)**
     - **(A)** With respect to interest due under this section on September 30 of 1983, 1984, or 1985 (other than interest previously deferred under paragraph (3)(C)), a State may pay 80 percent of such interest in four annual installments of at least 20 percent beginning with the year after the year in which it is otherwise due, if such State meets the criteria of subparagraph (B). No interest shall accrue on such deferred interest.
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T02:15:36.109Z"
     - **(D)** In the case of a State which produces a solvency effort of 50 percent, 80 percent, and 90 percent rather than the 25 percent, 35 percent, and 50 percent required under subparagraph (B), the interest shall be computed at an interest rate which is 1 percentage point less than the otherwise applicable interest rate.
   - **(9)** Any interest otherwise due from a State on September 30 of a calendar year after 1982 may be deferred (and no interest shall accrue on such deferred interest) for a grace period of not to exceed 9 months if, for the most recent 12-month period for which data are available before the date such interest is otherwise due, the State had an average total unemployment rate of 13.5 percent or greater.
   - **(10)**
-    - **(A)** With respect to the period beginning on March 18, 2020 , and ending on September 6, 2021 —
+    - **(A)** With respect to the period beginning on February 17, 2009 , and ending on December 31, 2010 —
       - **(i)** any interest payment otherwise due from a State under this subsection during such period shall be deemed to have been made by the State; and
       - **(ii)** no interest shall accrue during such period on any advance or advances made under section 1321 of this title to a State.
     - **(B)** The provisions of subparagraph (A) shall have no effect on the requirement for interest payments under this subsection after the period described in such subparagraph or on the accrual of interest under this subsection after such period.

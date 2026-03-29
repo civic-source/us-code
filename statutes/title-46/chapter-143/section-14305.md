@@ -3,9 +3,9 @@ title: "Section 14305 - Optional regulatory measurement"
 usc_title: 46
 usc_section: "14305"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 14305"
-generated_at: "2026-03-29T02:15:53.742Z"
+generated_at: "2026-03-29T17:53:41.809Z"
 ---
 
 # § 14305. Optional regulatory measurement
@@ -14,13 +14,13 @@ generated_at: "2026-03-29T02:15:53.742Z"
   - **(1)** parts A, B, C, E, F, and G of this subtitle and section 12116 of this title ;
   - **(2)** section 3(d)(3) of the Longshore and Harbor Workers’ Compensation Act ( 33 U.S.C. 903(d)(3) );
   - **(3)** section 4 of the Bridge to Bridge Radiotelephone Act ( 33 U.S.C. 1203(a) );
-  - **(4)** section 4(a)(3) 1 1 See References in Text note below. of the Ports and Waterways Safety Act ( 33 U.S.C. 1223(a)(3) );
-  - **(5)** section 30524 of this title ;
+  - **(4)** section 4(a)(3) of the Ports and Waterways Safety Act ( 33 U.S.C. 1223(a)(3) );
+  - **(5)** section 30506 of this title ;
   - **(6)** sections 12118 and 12132 of this title;
   - **(7)** section 12139(b) of this title ;
   - **(8)** sections 351, 352, 355, and 356 of the Ship Radio Act ( 47 U.S.C. 351 , 352, 354, and 354a);
   - **(9)** section 403 of the Commercial Fishing Industry Vessel Act ( 46 U.S.C. 3302 note);
-  - **(10)** the Officers’ Competency Certificates Convention, 1936, and section 8304 of this title ;
+  - **(10)** the Officers’ Competency Certificates Convention, 1936, and sections 8303 and 8304 of this title;
   - **(11)** the International Convention for the Safety of Life at Sea as provided by IMCO Resolution A.494 (XII) of November 19, 1981 ;
   - **(12)** the International Convention on Standards of Training, Certification, and Watchkeeping for Seafarers, 1978, as provided by IMO Resolution A.540 (XIII) of November 17, 1983 ;
   - **(13)** the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973, as provided by IMO Resolution A.541 (XIII) of November 17, 1983 ;

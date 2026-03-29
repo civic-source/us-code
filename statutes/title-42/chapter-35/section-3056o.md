@@ -3,15 +3,15 @@ title: "Section 3056o - Authorization of appropriations"
 usc_title: 42
 usc_section: "3056o"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3056o"
-generated_at: "2026-03-29T02:15:36.649Z"
+generated_at: "2026-03-29T17:53:35.155Z"
 ---
 
 # § 3056o. Authorization of appropriations
 
-- **(a)** There are authorized to be appropriated to carry out this subchapter $428,000,000 for fiscal year 2020, $453,680,000 for fiscal year 2021, $480,900,800 for fiscal year 2022, $509,754,848 for fiscal year 2023, and $540,340,139 for fiscal year 2024.
-- **(b)** Amounts appropriated under this section for any fiscal year shall be available for Federal obligation during the annual period that begins on April 1 of the calendar year immediately following the beginning of such fiscal year and that ends on June 30 of the following calendar year. Such amounts obligated to grantees shall be available for obligation and expenditure by grantees during the program year that begins on July 1 of the calendar year immediately following the beginning of the fiscal year in which the amounts are appropriated and that ends on June 30 of the following calendar year. The Secretary may extend the period during which such amounts may be obligated or expended in the case of a particular organization or agency that receives funds under this subchapter if the Secretary determines that such extension is necessary to ensure the effective use of such funds by such organization or agency.
+- **(a)** There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+- **(b)** Amounts appropriated under this section for any fiscal year shall be available for obligation during the annual period that begins on July 1 of the calendar year immediately following the beginning of such fiscal year and that ends on June 30 of the following calendar year. The Secretary may extend the period during which such amounts may be obligated or expended in the case of a particular organization or agency that receives funds under this subchapter if the Secretary determines that such extension is necessary to ensure the effective use of such funds by such organization or agency.
 - **(c)** At the end of the program year, the Secretary may recapture any unexpended funds for the program year, and reobligate such funds within the 2 succeeding program years for—
   - **(1)** incentive grants to entities that are State grantees or national grantees under section 3056(b) of this title ;
   - **(2)** technical assistance; or

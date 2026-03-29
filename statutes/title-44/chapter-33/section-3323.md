@@ -1,0 +1,14 @@
+---
+title: "Section 3323 - Termination"
+usc_title: 44
+usc_section: "3323"
+chapter: 33
+current_through: "PL 113-100"
+classification: "44 U.S.C. § 3323"
+generated_at: "2026-03-29T17:53:10.508Z"
+---
+
+# § 3323. Termination
+
+The Commission shall cease to exist sixty days after transmitting its report under section 3322 of this title .
+

@@ -1,12 +1,14 @@
 ---
-title: "Section 5667 - Transferred"
+title: "Section 5667 - Eligibility"
 usc_title: 42
 usc_section: "5667"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5667"
-generated_at: "2026-03-29T02:15:36.779Z"
+generated_at: "2026-03-29T17:53:35.336Z"
 ---
 
-# § 5667. Transferred
+# § 5667. Eligibility
+
+To be eligible to receive a grant made under this part, a public or private agency, Indian tribal government, organization, institution, individual, or combination thereof shall submit an application to the Administrator at such time, in such form, and containing such information as the Administrator may reasonably require by rule.
 

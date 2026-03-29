@@ -3,9 +3,9 @@ title: "Section 7101 - Issuing and classifying licenses and certificates of regi
 usc_title: 46
 usc_section: "7101"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 7101"
-generated_at: "2026-03-29T02:15:53.721Z"
+generated_at: "2026-03-29T17:53:41.792Z"
 ---
 
 # § 7101. Issuing and classifying licenses and certificates of registry
@@ -39,6 +39,3 @@ generated_at: "2026-03-29T02:15:53.721Z"
 - **(g)** The Secretary may not issue a license or certificate of registry under this section unless an individual applying for the license or certificate makes available to the Secretary, under section 206(b)(7) of the National Driver Register Act of 1982 ( 23 U.S.C. 401 note), any information contained in the National Driver Register related to an offense described in section 205(a)(3)(A) or (B) of that Act committed by the individual.
 - **(h)** The Secretary may review the criminal record of an individual who applies for a license or certificate of registry under this section.
 - **(i)** The Secretary shall require the testing of an individual who applies for issuance or renewal of a license or certificate of registry under this chapter for use of a dangerous drug in violation of law or Federal regulation.
-- **(j)** The Secretary may issue a license under this section in a class under subsection (c) to an applicant that—
-  - **(1)** has at least 3 months of qualifying service on vessels of the uniformed services (as that term is defined in section 101(a) of title 10 ) of appropriate tonnage or horsepower within the 7-year period immediately preceding the date of application; and
-  - **(2)** satisfies all other requirements for such a license.

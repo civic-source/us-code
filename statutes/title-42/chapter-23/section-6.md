@@ -3,9 +3,9 @@ title: "Section 6 - Transfer of contracts"
 usc_title: 42
 usc_section: "6"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-29T02:15:36.609Z"
+generated_at: "2026-03-29T17:53:35.106Z"
 ---
 
 # § 2297h–6. Transfer of contracts
@@ -15,11 +15,11 @@ generated_at: "2026-03-29T02:15:36.609Z"
   - **(2)** entered into by the Corporation before the privatization date.
 - **(b)** The Corporation shall transfer to the private corporation the right to purchase power from the Secretary under the power purchase contracts for the gaseous diffusion plants executed by the Secretary before July 1, 1993 . The Secretary shall continue to receive power for the gaseous diffusion plants under such contracts and shall continue to resell such power to the private corporation at cost during the term of such contracts.
 - **(c)**
-  - **(1)** Notwithstanding subsection (a), the United States shall remain obligated to the parties to the contracts, agreements, and leases transferred under subsection (a) for the performance of its obligations under such contracts, agreements, or leases during their terms. Performance of such obligations by the private corporation shall be considered performance by the United States.
-  - **(2)** If a contract, agreement, or lease transferred under subsection (a) is terminated, extended, or materially amended after the privatization date—
+  - **(1)** Notwithstanding subsection (a) of this section, the United States shall remain obligated to the parties to the contracts, agreements, and leases transferred under subsection (a) of this section for the performance of its obligations under such contracts, agreements, or leases during their terms. Performance of such obligations by the private corporation shall be considered performance by the United States.
+  - **(2)** If a contract, agreement, or lease transferred under subsection (a) of this section is terminated, extended, or materially amended after the privatization date—
     - **(A)** the private corporation shall be responsible for any obligation arising under such contract, agreement, or lease after any extension or material amendment, and
     - **(B)** the United States shall be responsible for any obligation arising under the contract, agreement, or lease before the termination, extension, or material amendment.
   - **(3)** The private corporation shall reimburse the United States for any amount paid by the United States under a settlement agreement entered into with the consent of the private corporation or under a judgment, if the settlement or judgment—
-    - **(A)** arises out of an obligation under a contract, agreement, or lease transferred under subsection (a), and
+    - **(A)** arises out of an obligation under a contract, agreement, or lease transferred under subsection (a) of this section, and
     - **(B)** arises out of actions of the private corporation between the privatization date and the date of a termination, extension, or material amendment of such contract, agreement, or lease.
 - **(d)** The Corporation may establish prices for its products, materials, and services provided to customers on a basis that will allow it to attain the normal business objectives of a profit making corporation.

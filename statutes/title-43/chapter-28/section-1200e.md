@@ -1,12 +1,14 @@
 ---
-title: "Section 1200e - Omitted"
+title: "Section 1200e - Authorization of appropriations for relocating certain Sioux tribe members after condemnation of lands for dam purposes; conditions; title to lands acquired"
 usc_title: 43
 usc_section: "1200e"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1200e"
-generated_at: "2026-03-29T02:15:47.585Z"
+generated_at: "2026-03-29T17:53:03.681Z"
 ---
 
-# § 1200e. Omitted
+# § 1200e. Authorization of appropriations for relocating certain Sioux tribe members after condemnation of lands for dam purposes; conditions; title to lands acquired
+
+There is authorized to be appropriated to the Secretary of the Interior the sum of $106,500, which shall be available until expended for the purpose of relocating the members of the Yankton Sioux Tribe, South Dakota, who reside or have resided, on tribal and allotted lands acquired by the United States for the Fort Randall Dam and Reservoir project, Missouri River Development, in a manner that will reestablish and protect their economic, social, religious, and community life. Title to any lands acquired within Indian country pursuant to this section shall be taken in the name of the United States in trust for the Yankton Sioux Tribe or members thereof. The said sum of $106,500 shall be assessed against the costs of the Fort Randall Dam and Reservoir, Missouri River Development.
 

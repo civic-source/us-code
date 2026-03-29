@@ -3,9 +3,9 @@ title: "Section 10141 - Certain standards and criteria"
 usc_title: 42
 usc_section: "10141"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 10141"
-generated_at: "2026-03-29T02:15:37.117Z"
+generated_at: "2026-03-29T17:53:35.684Z"
 ---
 
 # § 10141. Certain standards and criteria
@@ -18,6 +18,6 @@ generated_at: "2026-03-29T02:15:37.117Z"
       - **(ii)** applications for licenses to receive and possess spent nuclear fuel and high-level radioactive waste in such repositories; and
       - **(iii)** applications for authorization for closure and decommissioning of such repositories.
     - **(B)** Such criteria shall provide for the use of a system of multiple barriers in the design of the repository and shall include such restrictions on the retrievability of the solidified high-level radioactive waste and spent fuel emplaced in the repository as the Commission deems appropriate.
-    - **(C)** Such requirements and criteria shall not be inconsistent with any comparable standards promulgated by the Administrator under subsection (a).
-  - **(2)** For purposes of this chapter, nothing in this section shall be construed to prohibit the Commission from promulgating requirements and criteria under paragraph (1) before the Administrator promulgates standards under subsection (a). If the Administrator promulgates standards under subsection (a) after requirements and criteria are promulgated by the Commission under paragraph (1), such requirements and criteria shall be revised by the Commission if necessary to comply with paragraph (1)(C).
+    - **(C)** Such requirements and criteria shall not be inconsistent with any comparable standards promulgated by the Administrator under subsection (a) of this section.
+  - **(2)** For purposes of this chapter, nothing in this section shall be construed to prohibit the Commission from promulgating requirements and criteria under paragraph (1) before the Administrator promulgates standards under subsection (a) of this section. If the Administrator promulgates standards under subsection (a) of this section after requirements and criteria are promulgated by the Commission under paragraph (1), such requirements and criteria shall be revised by the Commission if necessary to comply with paragraph (1)(C).
 - **(c)** The promulgation of standards or criteria in accordance with the provisions of this section shall not require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4332(2)(C) ), or to require any environmental review under subparagraph (E) or (F) of section 102(2) of such Act.

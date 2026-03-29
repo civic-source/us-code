@@ -1,29 +1,35 @@
 ---
-title: "Section 39 - Peer-supported mental health services"
+title: "Section 39 - Improving outcomes for children and adolescents through services integration between child welfare and mental health services"
 usc_title: 42
 usc_section: "39"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 39"
-generated_at: "2026-03-29T02:15:35.735Z"
+generated_at: "2026-03-29T17:53:34.222Z"
 ---
 
-# § 290bb–39. Peer-supported mental health services
+# § 290bb–39. Improving outcomes for children and adolescents through services integration between child welfare and mental health services
 
-- **(a)** The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall award grants to eligible entities to enable such entities to develop, expand, and enhance access to mental health peer-delivered services.
-- **(b)** Grants awarded under subsection (a) shall be used to develop, expand, and enhance national, statewide, or community-focused programs, including virtual peer-support services and technology-related capabilities, including by—
-  - **(1)** carrying out workforce development, recruitment, and retention activities, to train, recruit, and retain peer-support providers;
-  - **(2)** building connections between mental health treatment programs, including between community organizations and peer-support networks, including virtual peer-support networks, and with other mental health support services;
-  - **(3)** reducing stigma associated with mental health disorders;
-  - **(4)** expanding and improving virtual peer mental health support services, including through the adoption of technologies and capabilities to expand access to virtual peer mental health support services, such as by acquiring equipment and software necessary to efficiently run virtual peer-support services; and
-  - **(5)** conducting research on issues relating to mental illness and the impact peer-support has on resiliency, including identifying—
-    - **(A)** the signs of mental illness;
-    - **(B)** the resources available to individuals with mental illness and to their families; and
-    - **(C)** the resources available to help support individuals living with mental illness.
-- **(c)** In carrying out this section, the Secretary shall give special consideration to the unique needs of rural areas.
-- **(d)** In this section, the term “eligible entity” means—
-  - **(1)** a consumer-run nonprofit organization that—
-    - **(A)** is principally governed by people living with a mental health condition; and
-    - **(B)** mobilizes resources within and outside of the mental health community, which may include through peer-support networks, to increase the prevalence and quality of long-term wellness of individuals living with a mental health condition, including those with a co-occurring substance use disorder; or
-  - **(2)** an Indian Tribe, Tribal organization, Urban Indian organization, or consortium of Tribes or Tribal organizations.
-- **(e)** There is authorized to be appropriated to carry out this section $13,000,000 for each of fiscal years 2023 through 2027.
+- **(a)** The Secretary shall award grants, contracts or cooperative agreements to States, political subdivisions of States, Indian tribes, and tribal organizations to provide integrated child welfare and mental health services for children and adolescents under 19 years of age in the child welfare system or at risk for becoming part of the system, and parents or caregivers with a mental illness or a mental illness and a co-occurring substance abuse disorder.
+- **(b)** With respect to a grant, contract or cooperative agreement awarded under this section, the period during which payments under such award are made to the recipient may not exceed 5 years.
+- **(c)**
+  - **(1)** To be eligible to receive an award under subsection (a) of this section, a State, political subdivision of a State, Indian tribe, or tribal organization shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
+  - **(2)** An application submitted under paragraph (1) shall—
+    - **(A)** describe the program to be funded under the grant, contract or cooperative agreement;
+    - **(B)** explain how such program reflects best practices in the provision of child welfare and mental health services; and
+    - **(C)** provide assurances that—
+      - **(i)** persons providing services under the grant, contract or cooperative agreement are adequately trained to provide such services; and
+      - **(ii)** the services will be provided in accordance with subsection (d) of this section.
+- **(d)** A State, political subdivision of a State, Indian tribe, or tribal organization that receives a grant, contract, or cooperative agreement under subsection (a) of this section shall use amounts made available through such grant, contract or cooperative agreement to—
+  - **(1)** provide family-centered, comprehensive, and coordinated child welfare and mental health services, including prevention, early intervention and treatment services for children and adolescents, and for their parents or caregivers;
+  - **(2)** ensure a single point of access for such coordinated services;
+  - **(3)** provide integrated mental health and substance abuse treatment for children, adolescents, and parents or caregivers with a mental illness and a co-occurring substance abuse disorder;
+  - **(4)** provide training for the child welfare, mental health and substance abuse professionals who will participate in the program carried out under this section;
+  - **(5)** provide technical assistance to child welfare and mental health agencies;
+  - **(6)** develop cooperative efforts with other service entities in the community, including education, social services, juvenile justice, and primary health care agencies;
+  - **(7)** coordinate services with services provided under the Medicaid program and the State Children’s Health Insurance Program under titles XIX and XXI of the Social Security Act [ 42 U.S.C. 1396 et seq., 1397aa et seq.];
+  - **(8)** provide linguistically appropriate and culturally competent services; and
+  - **(9)** evaluate the effectiveness and cost-efficiency of the integrated services that measure the level of coordination, outcome measures for parents or caregivers with a mental illness or a mental illness and a co-occurring substance abuse disorder, and outcome measures for children.
+- **(e)** The Secretary shall ensure that grants, contracts, and cooperative agreements awarded under subsection (a) of this section are equitably distributed among the geographical regions of the United States and between urban and rural populations.
+- **(f)** The Secretary shall evaluate each program carried out by a State, political subdivision of a State, Indian tribe, or tribal organization under subsection (a) of this section and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
+- **(g)** There is authorized to be appropriated to carry out this section, $10,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.

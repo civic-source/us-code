@@ -3,18 +3,18 @@ title: "Section 5170c - Hazard mitigation"
 usc_title: 42
 usc_section: "5170c"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5170c"
-generated_at: "2026-03-29T02:15:36.749Z"
+generated_at: "2026-03-29T17:53:35.294Z"
 ---
 
 # § 5170c. Hazard mitigation
 
-- **(a)** The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster, or any area affected by a fire for which assistance was provided under section 5187 of this title . Such measures shall be identified following the evaluation of natural hazards under section 5165 of this title and shall be subject to approval by the President. Subject to section 5165 of this title , the total of contributions under this section for a major disaster or event under section 5187 of this title shall not exceed 15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000 of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster or event under section 5187 of this title .
+- **(a)** The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost-effective and which substantially reduce the risk of future damage, hardship, loss, or suffering in any area affected by a major disaster. Such measures shall be identified following the evaluation of natural hazards under section 5165 of this title and shall be subject to approval by the President. Subject to section 5165 of this title , the total of contributions under this section for a major disaster shall not exceed 15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000 of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster.
 - **(b)**
   - **(1)** In providing hazard mitigation assistance under this section in connection with flooding, the Administrator of the Federal Emergency Management Agency may provide property acquisition and relocation assistance for projects that meet the requirements of paragraph (2).
   - **(2)** An acquisition or relocation project shall be eligible to receive assistance pursuant to paragraph (1) only if—
-    - **(A)** the applicant for the assistance is otherwise eligible to receive assistance under the hazard mitigation grant program established under subsection (a); and
+    - **(A)** the applicant for the assistance is otherwise eligible to receive assistance under the hazard mitigation grant program established under subsection (a) of this section; and
     - **(B)** on or after December 3, 1993 , the applicant for the assistance enters into an agreement with the Administrator that provides assurances that—
       - **(i)** any property acquired, accepted, or from which a structure will be removed pursuant to the project will be dedicated and maintained in perpetuity for a use that is compatible with open space, recreational, or wetlands management practices;
       - **(ii)** no new structure will be erected on property acquired, accepted or from which a structure was removed under the acquisition or relocation program other than—
@@ -36,28 +36,7 @@ generated_at: "2026-03-29T02:15:36.749Z"
   - **(5)** The President shall provide for periodic audits of the hazard mitigation grant programs administered by States under this subsection.
 - **(d)**
   - **(1)** For the purpose of providing assistance under this section, the President shall ensure that—
-    - **(A)** adequate resources are devoted to ensure that applicable environmental reviews under the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.] and historic preservation reviews under the National Historic Preservation Act 1 1 See References in Text note below. are completed on an expeditious basis; and
-    - **(B)** the shortest existing applicable process under the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.] and the National Historic Preservation Act 1 is utilized.
+    - **(A)** adequate resources are devoted to ensure that applicable environmental reviews under the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.] and historic preservation reviews under the National Historic Preservation Act [ 16 U.S.C. 470 et seq.] are completed on an expeditious basis; and
+    - **(B)** the shortest existing applicable process under the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.] and the National Historic Preservation Act [ 16 U.S.C. 470 et seq.] is utilized.
   - **(2)** The President may utilize expedited procedures in addition to those required under paragraph (1) for the purpose of providing assistance under this section, such as procedures under the Prototype Programmatic Agreement of the Federal Emergency Management Agency, for the consideration of multiple structures as a group and for an analysis of the cost-effectiveness and fulfillment of cost-share requirements for proposed hazard mitigation measures.
 - **(e)** The President may provide not more than 25 percent of the amount of the estimated cost of hazard mitigation measures to a State grantee eligible for a grant under this section before eligible costs are incurred.
-- **(f)** Recipients of hazard mitigation assistance provided under this section and section 5133 of this title may use the assistance to conduct activities to help reduce the risk of future damage, hardship, loss, or suffering in any area affected by a wildfire or windstorm, such as—
-  - **(1)** reseeding ground cover with quick-growing or native species;
-  - **(2)** mulching with straw or chipped wood;
-  - **(3)** constructing straw, rock, or log dams in small tributaries to prevent flooding;
-  - **(4)** placing logs and other erosion barriers to catch sediment on hill slopes;
-  - **(5)** installing debris traps to modify road and trail drainage mechanisms;
-  - **(6)** modifying or removing culverts to allow drainage to flow freely;
-  - **(7)** adding drainage dips and constructing emergency spillways to keep roads and bridges from washing out during floods;
-  - **(8)** planting grass to prevent the spread of noxious weeds;
-  - **(9)** installing warning signs;
-  - **(10)** establishing defensible space measures;
-  - **(11)** reducing hazardous fuels;
-  - **(12)** mitigating windstorm and wildfire damage, including—
-    - **(A)** replacing or installing electrical transmission or distribution utility pole structures with poles that are resilient to extreme wind, wildfire, and combined ice and wind loadings for the basic wind speeds and ice conditions associated with the relevant location; and
-    - **(B)** the installation of fire-resistant wires and infrastructure and the undergrounding of wires;
-  - **(13)** removing standing burned trees; and
-  - **(14)** replacing water systems that have been burned and have caused contamination.
-- **(g)** Recipients of hazard mitigation assistance provided under this section and section 5133 of this title may use the assistance to conduct activities to help reduce the risk of future damage, hardship, loss, or suffering in any area affected by earthquake hazards, including—
-  - **(1)** improvements to regional seismic networks in support of building a capability for earthquake early warning;
-  - **(2)** improvements to geodetic networks in support of building a capability for earthquake early warning; and
-  - **(3)** improvements to seismometers, Global Positioning System receivers, and associated infrastructure in support of building a capability for earthquake early warning.

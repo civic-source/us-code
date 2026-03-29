@@ -3,14 +3,14 @@ title: "Section 11331 - Emergency Food and Shelter Program National Board"
 usc_title: 42
 usc_section: "11331"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 11331"
-generated_at: "2026-03-29T02:15:37.155Z"
+generated_at: "2026-03-29T17:53:35.730Z"
 ---
 
 # § 11331. Emergency Food and Shelter Program National Board
 
-- **(a)** There is established to carry out the provisions of this subchapter the Emergency Food and Shelter Program National Board. The Administrator of the Federal Emergency Management Agency shall constitute the National Board in accordance with subsection (b) in administering the program under this subchapter.
+- **(a)** There is established to carry out the provisions of this subchapter the Emergency Food and Shelter Program National Board. The Administrator of the Federal Emergency Management Agency shall constitute the National Board in accordance with subsection (b) of this section in administering the program under this subchapter.
 - **(b)** The National Board shall consist of the Director and 6 members appointed by the Director. The initial members of the National Board shall be appointed by the Director not later than 30 days after July 22, 1987 . Each such member shall be appointed from among individuals nominated by 1 of the following organizations:
   - **(1)** The United Way of America.
   - **(2)** The Salvation Army.
@@ -20,6 +20,6 @@ generated_at: "2026-03-29T02:15:37.155Z"
   - **(6)** The American Red Cross.
 - **(c)** The Director shall be the Chairperson of the National Board.
 - **(d)** Except as otherwise specifically provided in this subchapter, the National Board shall establish its own procedures and policies for the conduct of its affairs.
-- **(e)** Upon the appointment of members to the National Board under subsection (b)—
+- **(e)** Upon the appointment of members to the National Board under subsection (b) of this section—
   - **(1)** the national board constituted under the emergency food and shelter program established pursuant to section 101(g) of Public Law 99–500 or Public Law 99–591 shall cease to exist; and
   - **(2)** the personnel, property, records, and undistributed program funds of such national board shall be transferred to the National Board.

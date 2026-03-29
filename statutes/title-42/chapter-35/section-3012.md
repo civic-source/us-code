@@ -3,9 +3,9 @@ title: "Section 3012 - Functions of Assistant Secretary"
 usc_title: 42
 usc_section: "3012"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3012"
-generated_at: "2026-03-29T02:15:36.630Z"
+generated_at: "2026-03-29T17:53:35.131Z"
 ---
 
 # § 3012. Functions of Assistant Secretary
@@ -14,12 +14,10 @@ generated_at: "2026-03-29T02:15:36.630Z"
   - **(1)** serve as the effective and visible advocate for older individuals within the Department of Health and Human Services and with other departments, agencies, and instrumentalities of the Federal Government by maintaining active review and commenting responsibilities over all Federal policies affecting older individuals;
   - **(2)** collect and disseminate information related to problems of the aged and aging;
   - **(3)** directly assist the Secretary in all matters pertaining to problems of the aged and aging;
-  - **(4)** administer the grants provided by this chapter, but not approve an application submitted by an applicant for a grant for an activity under a provision of this chapter for which such applicant previously received a grant under such provision unless the Assistant Secretary determines—
-    - **(A)** the activity for which such application was submitted is being operated, or was operated, effectively to achieve its stated purpose; and
-    - **(B)** such applicant has complied with the assurances provided to the Assistant Secretary with the application for such previous grant. 1 1 So in original. The period probably should be a semicolon.
-  - **(5)** develop plans, conduct and arrange for research in the field of aging, and assist in the establishment and implementation of programs designed to meet the health and economic needs of older individuals for supportive services, including nutrition, hospitalization, education and training services (including preretirement training, and continuing education), cultural experiences, activities, and services, including in the arts, low-cost transportation and housing, assistive technology, and health (including mental and behavioral health) services;
+  - **(4)** administer the grants provided by this chapter;
+  - **(5)** develop plans, conduct and arrange for research in the field of aging, and assist in the establishment and implementation of programs designed to meet the needs of older individuals for supportive services, including nutrition, hospitalization, education and training services (including preretirement training, and continuing education), low-cost transportation and housing, assistive technology, and health (including mental health) services;
   - **(6)** provide technical assistance and consultation to States and political subdivisions thereof with respect to programs for the aged and aging;
-  - **(7)** prepare, publish, and disseminate educational materials dealing with the health and economic welfare of older individuals;
+  - **(7)** prepare, publish, and disseminate educational materials dealing with the welfare of older individuals;
   - **(8)** gather statistics in the field of aging which other Federal agencies are not collecting, and take whatever action is necessary to achieve coordination of activities carried out or assisted by all departments, agencies, and instrumentalities of the Federal Government with respect to the collection, preparation, and dissemination of information relevant to older individuals;
   - **(9)** develop basic policies and set priorities with respect to the development and operation of programs and activities conducted under authority of this chapter;
   - **(10)** coordinate Federal programs and activities related to such purposes;
@@ -31,7 +29,7 @@ generated_at: "2026-03-29T02:15:36.630Z"
       - **(ii)** the Age Discrimination in Employment Act of 1967 ( 29 U.S.C. 621 et seq.); and
       - **(iii)** the National Housing Act ( 12 U.S.C. 1701 et seq.) relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;
   - **(13)** provide information and assistance to private organizations for the establishment and operation by them of programs and activities related to the objectives of this chapter;
-  - **(14)** develop, in coordination with other agencies (including the Health Resources and Services Administration), a national plan for meeting the needs for trained personnel in the field of aging, and for training persons for carrying out programs related to the objectives of this chapter, and conduct and provide for the conducting of such training;
+  - **(14)** develop, in coordination with other agencies, a national plan for meeting the needs for trained personnel in the field of aging, and for training persons for carrying out programs related to the objectives of this chapter, and conduct and provide for the conducting of such training;
   - **(15)** consult with national organizations representing minority individuals to develop and disseminate training packages and to provide technical assistance efforts designed to assist State and area agencies on aging, and service providers, in providing services to older individuals with greatest economic need or individuals with greatest social need, with particular attention to and specific objectives for providing services to low-income minority individuals and older individuals residing in rural areas;
   - **(16)** collect for each fiscal year, for fiscal years beginning after September 30, 1988 , directly or by contract, statistical data regarding programs and activities carried out with funds provided under this chapter, including—
     - **(A)** with respect to each type of service or activity provided with such funds—
@@ -67,7 +65,7 @@ generated_at: "2026-03-29T02:15:36.630Z"
       - **(v)** provide, in collaboration with related Federal agency partners administering the Federal programs, training and technical assistance on effective outreach, screening, enrollment, and follow-up strategies;
   - **(21)** establish information and assistance services as priority services for older individuals, and develop and operate, either directly or through contracts, grants, or cooperative agreements, a National Eldercare Locator Service, providing information and assistance services through a nationwide toll-free number to identify community resources for older individuals;
   - **(22)** develop guidelines for area agencies on aging to follow in choosing and evaluating providers of legal assistance;
-  - **(23)** develop guidelines and a model job description for choosing and evaluating legal assistance developers referred to in sections 3027(a)(13) and 3058j of this title;
+  - **(23)** develop guidelines and a model job description for choosing and evaluating legal assistance developers referred to in section 3027(a)(13) of this title and section 3058j of this title ;
   - **(24)** establish and carry out pension counseling and information programs described in section 3020e–1 of this title ;
   - **(25)** provide technical assistance, training, and other means of assistance to State agencies, area agencies on aging, and service providers regarding State and local data collection and analysis;
   - **(26)** design and implement, for purposes of compliance with paragraph (19), uniform data collection procedures for use by State agencies, including—
@@ -79,14 +77,8 @@ generated_at: "2026-03-29T02:15:36.630Z"
   - **(27)** improve the delivery of services to older individuals living in rural areas through—
     - **(A)** synthesizing results of research on how best to meet the service needs of older individuals in rural areas;
     - **(B)** developing a resource guide on best practices for States, area agencies on aging, and service providers; and
-    - **(C)** providing training and technical assistance to States to implement these best practices of service delivery;
-  - **(28)** make available to States, area agencies on aging, and service providers information and technical assistance to support the provision of evidence-based disease prevention and health promotion services, including information and technical assistance on delivery of such services in different settings;
-  - **(29)** provide information and technical assistance to States, area agencies on aging, and service providers, in collaboration with relevant Federal agencies, on providing efficient, person-centered transportation services, including across geographic boundaries;
-  - **(30)** identify model programs and provide information and technical assistance to States, area agencies on aging, and service providers (including providers operating multipurpose senior centers), to support the modernization of multipurpose senior centers;
-  - **(31)** provide technical assistance to and share best practices with States, area agencies on aging, and Aging and Disability Resource Centers, on how to collaborate and coordinate services with health care entities, such as Federally-qualified health centers, as defined in section 1905( l )(2)(B) of the Social Security Act ( 42 U.S.C. 1396d ( l )(2)(B)), in order to improve care coordination for individuals with multiple chronic illnesses;
-  - **(32)** provide technical assistance to, and share best practices with, State agencies and area agencies on aging on how to collaborate and coordinate activities and develop long-range emergency preparedness plans with local and State emergency response agencies, relief organizations, local and State governments, Federal agencies as appropriate, and any other institutions that have responsibility for disaster relief service delivery;
-  - **(33)** with input from aging network stakeholders, including caregivers, develop objectives, priorities, and a long-term plan for supporting State and local efforts involving education about prevention of, detection of, and response to negative health effects associated with social isolation among older individuals, and submit a report to Congress on this effort by January 2021; and
-  - **(34)** provide (to the extent practicable) a standardized notification to State agencies, area agencies on aging, providers of services under this chapter, and grantees or contract awardees under this chapter, through an electronic format (e-mail or other electronic notification), of the availability of, or updates to, policies, practices, and procedures under this chapter.
+    - **(C)** providing training and technical assistance to States to implement these best practices of service delivery; and
+  - **(28)** make available to States, area agencies on aging, and service providers information and technical assistance to support the provision of evidence-based disease prevention and health promotion services.
 - **(b)** To promote the development and implementation of comprehensive, coordinated systems at Federal, State, and local levels that enable older individuals to receive long-term care in home and community-based settings, in a manner responsive to the needs and preferences of older individuals and their family caregivers, the Assistant Secretary shall, consistent with the applicable provisions of this subchapter—
   - **(1)** collaborate, coordinate, and consult with other Federal entities responsible for formulating and implementing programs, benefits, and services related to providing long-term care, and may make grants, contracts, and cooperative agreements with funds received from other Federal entities;
   - **(2)** conduct research and demonstration projects to identify innovative, cost-effective strategies for modifying State systems of long-term care to—
@@ -101,24 +93,21 @@ generated_at: "2026-03-29T02:15:36.630Z"
     - **(C)** assist an older individual (or, as appropriate, a representative of the individual) to develop a plan for long-term support, including selecting, budgeting for, and purchasing home and community-based long-term care and supportive services;
   - **(5)** provide for the Administration to play a lead role with respect to issues concerning home and community-based long-term care, including—
     - **(A)** directing (as the Secretary or the President determines to be appropriate) or otherwise participating in departmental and interdepartmental activities concerning long-term care;
-    - **(B)** reviewing and commenting on departmental rules, regulations, and policies related to providing long-term care;
-    - **(C)** making recommendations to the Secretary with respect to home and community-based long-term care, including recommendations based on findings made through projects conducted under paragraph (2); and
-    - **(D)** when feasible, developing, in consultation with States and national organizations, a consumer-friendly tool to assist older individuals and their families in choosing home and community-based services, with a particular focus on ways for consumers to assess how providers protect the health, safety, welfare, and rights, including the rights provided under section 3030c–1 of this title , of older individuals;
+    - **(B)** reviewing and commenting on departmental rules, regulations, and policies related to providing long-term care; and
+    - **(C)** making recommendations to the Secretary with respect to home and community-based long-term care, including recommendations based on findings made through projects conducted under paragraph (2);
   - **(6)** promote, in coordination with other appropriate Federal agencies—
     - **(A)** enhanced awareness by the public of the importance of planning in advance for long-term care; and
     - **(B)** the availability of information and resources to assist in such planning;
   - **(7)** ensure access to, and the dissemination of, information about all long-term care options and service providers, including the availability of integrated long-term care;
   - **(8)** implement in all States Aging and Disability Resource Centers—
     - **(A)** to serve as visible and trusted sources of information on the full range of long-term care options, including both institutional and home and community-based care, which are available in the community;
-    - **(B)** to provide personalized and consumer-friendly assistance to empower individuals to identify and articulate goals of care and to make informed decisions about their care options;
+    - **(B)** to provide personalized and consumer-friendly assistance to empower individuals to make informed decisions about their care options;
     - **(C)** to provide coordinated and streamlined access to all publicly supported long-term care options so that consumers can obtain the care they need through a single intake, assessment, and eligibility determination process;
-    - **(D)** to help individuals to respond to or plan ahead for their long-term care needs;
-    - **(E)** to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under section 1395b–4 of this title ) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act ( 42 U.S.C. 1395 et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003; and
-    - **(F)** to provide information and referrals regarding available home and community-based services for individuals who are at risk for residing in, or who reside in, institutional settings, so that the individuals have the choice to remain in or to return to the community;
+    - **(D)** to help individuals to plan ahead for their future long-term care needs; and
+    - **(E)** to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under section 1395b–4 of this title ) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act ( 42 U.S.C. 1395 et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003;
   - **(9)** establish, either directly or through grants or contracts, national technical assistance programs to assist State agencies, area agencies on aging, and community-based service providers funded under this chapter in implementing—
     - **(A)** home and community-based long-term care systems, including evidence-based programs; and
-    - **(B)** evidence-based disease prevention and health promotion services programs, including delivery of such services in different settings; and
-    - **(C)** activities for increasing business acumen, capacity building, organizational development, innovation, and other methods of growing and sustaining the capacity of the aging network to serve older individuals and caregivers most effectively;
+    - **(B)** evidence-based disease prevention and health promotion services programs;
   - **(10)** develop, in collaboration with the Administrator of the Centers for Medicare & Medicaid Services, performance standards and measures for use by States to determine the extent to which their State systems of long-term care fulfill the objectives described in this subsection; and
   - **(11)** conduct such other activities as the Assistant Secretary determines to be appropriate.
 - **(c)** The Assistant Secretary, in consultation with the Chief Executive Officer of the Corporation for National and Community Service, shall—
@@ -143,9 +132,9 @@ generated_at: "2026-03-29T02:15:36.630Z"
 - **(e)**
   - **(1)**
     - **(A)** The Assistant Secretary shall make grants or enter into contracts with eligible entities to establish the National Aging Information Center (in this subsection referred to as the “Center”) to—
-      - **(i)** provide information about grants and projects under subchapter IV;
+      - **(i)** provide information about grants and projects under subchapter IV of this chapter;
       - **(ii)** annually compile, analyze, publish, and disseminate—
-        - **(I)** statistical data collected under subsection (a)(19);
+        - **(I)** statistical data collected under subsection (a)(19) of this section;
         - **(II)** census data on aging demographics; and
         - **(III)** data from other Federal agencies on the health, social, and economic status of older individuals and on the services provided to older individuals;
       - **(iii)** biennially compile, analyze, publish, and disseminate statistical data collected on the functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
@@ -173,6 +162,3 @@ generated_at: "2026-03-29T02:15:36.630Z"
     - **(B)** development of a proposed set of such measures that provides information about the major activities performed and services provided under this chapter;
     - **(C)** pilot testing of the proposed set of such measures, including an identification of resource, infrastructure, and data collection issues at the State and local levels; and
     - **(D)** evaluation of the pilot test and recommendations for modification of the proposed set of such measures.
-- **(g)** The Assistant Secretary shall, as appropriate, ensure that programs authorized under this chapter include appropriate training in the prevention of abuse, neglect, and exploitation and provision of services that address elder justice and the exploitation of older individuals.
-- **(h)** The Assistant Secretary shall publish, on an annual basis, a list of centers and demonstration projects funded under each subchapter of this chapter. The Assistant Secretary shall ensure that this information is also directly provided to State agencies and area agencies on aging.
-- **(i)** The Assistant Secretary shall carry out the RAISE Family Caregivers Act ( 42 U.S.C. 3030s note).

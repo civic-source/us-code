@@ -1,12 +1,53 @@
 ---
-title: "Section 17532 - Transferred"
+title: "Section 17532 - Responsible reintegration of offenders"
 usc_title: 42
 usc_section: "17532"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 17532"
-generated_at: "2026-03-29T02:15:37.414Z"
+generated_at: "2026-03-29T17:53:36.044Z"
 ---
 
-# § 17532. Transferred
+# § 17532. Responsible reintegration of offenders
 
+- **(a)**
+  - **(1)** In this section, the term “eligible offender” means an individual who—
+    - **(A)** is 18 years of age or older;
+    - **(B)** has been convicted as an adult and imprisoned under Federal or State law;
+    - **(C)** has never been convicted of a violent or sex-related offense; and
+    - **(D)** except as provided in paragraph (2), has been released from a prison or jail for not more than 180 days before the date on which the individual begins participating in a grant program carried out under this section.
+  - **(2)** Each grantee under this section may permit not more than 10 percent of the individuals served with a grant under this section to be individuals who—
+    - **(A)** meet the conditions of subparagraphs (A) through (C) of paragraph (1); and
+    - **(B)** have been released from a prison or jail for more than 180 days before the date on which the individuals begin participating in the grant program carried out under this section.
+  - **(3)** Grantees shall provide a priority of service in projects funded under this section to individuals meeting the requirements of paragraph (1) who have been released from State correctional facilities.
+- **(b)** The Secretary of Labor may make grants to nonprofit organizations for the purpose of providing mentoring, job training and job placement services, and other comprehensive transitional services to assist eligible offenders in obtaining and retaining employment.
+- **(c)**
+  - **(1)** A grant awarded under this section may be used for—
+    - **(A)** mentoring eligible offenders, including the provision of support, guidance, and assistance in the community and the workplace to address the challenges faced by such offenders;
+    - **(B)** providing job training and job placement services to eligible offenders, including work readiness activities, job referrals, basic skills remediation, educational services, occupational skills training, on-the-job training, work experience, and post-placement support, in coordination with the one-stop partners and one-stop operators (as such terms are defined in section 2801 of title 29 ) that provide services at any center operated under a one-stop delivery system established under section 2864(c) of title 29 , businesses, and educational institutions; and
+    - **(C)** providing outreach, orientation, intake, assessments, counseling, case management, and other transitional services to eligible offenders, including prerelease outreach and orientation.
+  - **(2)**
+    - **(A)** A grant under this section may not be used to provide substance abuse treatment services, mental health treatment services, or housing services, except that such a grant may be used to coordinate with other programs and entities to arrange for such programs and entities to provide substance abuse treatment services, mental health treatment services, or housing services to eligible offenders.
+    - **(B)** Not more than 15 percent of the amounts awarded to a grantee under this section may be used for the costs of administration, as determined by the Secretary of Labor.
+- **(d)**
+  - **(1)**
+    - **(A)** A nonprofit organization desiring a grant under this section shall submit an application to the Secretary of Labor at such time, in such manner, and accompanied by such information as the Secretary of Labor may require.
+    - **(B)** At a minimum, an application for a grant under this section shall include—
+      - **(i)** the identification of the eligible area that is to be served and a description of the need for support in such area;
+      - **(ii)** a description of the mentoring, job training and job placement, and other services to be provided;
+      - **(iii)** a description of partnerships that have been established with the criminal justice system (including coordination with demonstration projects carried out under section 3797w of this title , as amended by this Act, where applicable), the local workforce investment boards established under section 2832 of title 29 ), 1 1 So in original. The closing parenthesis probably should not appear. and housing authorities that will be used to assist in carrying out grant activities under this section; and
+      - **(iv)** a description of how other Federal, State, local, or private funding will be leveraged to provide support services that are not directly funded under this section, such as mental health and substance abuse treatment and housing.
+  - **(2)** In this subsection, the term “eligible area” means an area that—
+    - **(A)** is located within an urbanized area or urban cluster, as determined by the Bureau of the Census in the most recently available census;
+    - **(B)** has a large number of prisoners returning to the area each year; and
+    - **(C)** has a high rate of recidivism among prisoners returning to the area.
+- **(e)**
+  - **(1)** Each nonprofit organization receiving a grant under this section shall report to the Secretary of Labor on the results of services provided to eligible offenders with that grant with respect to the following indicators of performance:
+    - **(A)** Rates of recidivism.
+    - **(B)** Entry into employment.
+    - **(C)** Retention in employment.
+    - **(D)** Average earnings.
+  - **(2)** In addition to the indicators described in paragraph (1), the Secretary of Labor may require a nonprofit organization receiving a grant under this section to report on additional indicators of performance.
+- **(f)** Each nonprofit organization receiving a grant under this section shall maintain such records and submit such reports, in such form and containing such information, as the Secretary of Labor may require regarding the activities carried out under this section.
+- **(g)** The Secretary of Labor may reserve not more than 4 percent of the amounts appropriated to carry out this section to provide technical assistance and for management information systems to assist grantees under this section.
+- **(h)** There are authorized to be appropriated to the Secretary of Labor to carry out this section $20,000,000 for each of fiscal years 2009 and 2010.

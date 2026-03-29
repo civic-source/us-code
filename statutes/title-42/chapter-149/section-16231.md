@@ -3,9 +3,9 @@ title: "Section 16231 - Renewable energy"
 usc_title: 42
 usc_section: "16231"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 16231"
-generated_at: "2026-03-29T02:15:37.332Z"
+generated_at: "2026-03-29T17:53:35.983Z"
 ---
 
 # § 16231. Renewable energy
@@ -20,16 +20,28 @@ generated_at: "2026-03-29T02:15:37.332Z"
     - **(F)** Decreasing the environmental impact of energy-related activities.
     - **(G)** Increasing the export of renewable generation equipment from the United States.
   - **(2)**
-    - **(A)** The Secretary shall conduct a program of research, development, demonstration, and commercial application for geothermal energy. The program shall focus on developing improved technologies for reducing the costs of geothermal energy installations, including technologies for—
+    - **(A)** The Secretary shall conduct a program of research, development, demonstration, and commercial application for solar energy, including—
+      - **(i)** photovoltaics;
+      - **(ii)** solar hot water and solar space heating;
+      - **(iii)** concentrating solar power;
+      - **(iv)** lighting systems that integrate sunlight and electrical lighting in complement to each other in common lighting fixtures for the purpose of improving energy efficiency;
+      - **(v)** manufacturability of low cost, high quality solar systems; and
+      - **(vi)** development of products that can be easily integrated into new and existing buildings.
+    - **(B)** The Secretary shall conduct a program of research, development, demonstration, and commercial application for wind energy, including—
+      - **(i)** low speed wind energy;
+      - **(ii)** offshore wind energy;
+      - **(iii)** testing and verification (including construction and operation of a research and testing facility capable of testing wind turbines); and
+      - **(iv)** distributed wind energy generation.
+    - **(C)** The Secretary shall conduct a program of research, development, demonstration, and commercial application for geothermal energy. The program shall focus on developing improved technologies for reducing the costs of geothermal energy installations, including technologies for—
       - **(i)** improving detection of geothermal resources;
       - **(ii)** decreasing drilling costs;
       - **(iii)** decreasing maintenance costs through improved materials;
       - **(iv)** increasing the potential for other revenue sources, such as mineral production; and
       - **(v)** increasing the understanding of reservoir life cycle and management.
-    - **(B)** The Secretary shall conduct a program of research, development, demonstration, and commercial application for cost competitive technologies that enable the development of new and incremental hydropower capacity, adding to the diversity of the energy supply of the United States, including:
+    - **(D)** The Secretary shall conduct a program of research, development, demonstration, and commercial application for cost competitive technologies that enable the development of new and incremental hydropower capacity, adding to the diversity of the energy supply of the United States, including:
       - **(i)** Fish-friendly large turbines.
       - **(ii)** Advanced technologies to enhance environmental performance and yield greater energy efficiencies.
-    - **(C)** The Secretary shall conduct research, development, demonstration, and commercial application programs for—
+    - **(E)** The Secretary shall conduct research, development, demonstration, and commercial application programs for—
       - **(i)** ocean energy, including wave energy;
       - **(ii)** the combined use of renewable energy technologies with one another and with other energy technologies, including the combined use of wind power and coal gasification technologies;
       - **(iii)** renewable energy technologies for cogeneration of hydrogen and electricity; and
@@ -44,15 +56,19 @@ generated_at: "2026-03-29T02:15:37.332Z"
   - **(2)** $377,000,000 for fiscal year 2008, of which $125,000,000 shall be for section 16232(d) of this title ;
   - **(3)** $398,000,000 for fiscal year 2009, of which $150,000,000 shall be for section 16232(d) of this title ; and
   - **(4)** $419,000,000 for fiscal year 2010, of which $150,000,000 shall be for section 16232(d) of this title .
-- **(d)** Of the funds authorized under subsection (c), not less than $5,000,000 for each fiscal year shall be made available for grants to—
+- **(d)** From amounts authorized under subsection (b), there is authorized to be appropriated to carry out activities under subsection (a)(2)(A)—
+  - **(1)** $140,000,000 for fiscal year 2007, of which $40,000,000 shall be for activities under section 16235 of this title ;
+  - **(2)** $200,000,000 for fiscal year 2008, of which $50,000,000 shall be for activities under section 16235 of this title ; and
+  - **(3)** $250,000,000 for fiscal year 2009, of which $50,000,000 shall be for activities under section 16235 of this title .
+- **(e)** Of the funds authorized under subsection (c), not less than $5,000,000 for each fiscal year shall be made available for grants to—
   - **(1)** part B institutions;
   - **(2)** Tribal Colleges or Universities (as defined in section 1059c(b) of title 20 ); and
   - **(3)** Hispanic-serving institutions.
-- **(e)** In carrying out this section, the Secretary, in consultation with the Secretary of Agriculture, shall demonstrate the use of renewable energy technologies to assist in delivering electricity to rural and remote locations including —
+- **(f)** In carrying out this section, the Secretary, in consultation with the Secretary of Agriculture, shall demonstrate the use of renewable energy technologies to assist in delivering electricity to rural and remote locations including —
   - **(1)** advanced wind power technology, including combined use with coal gasification;
   - **(2)** biomass; and
   - **(3)** geothermal energy systems.
-- **(f)**
+- **(g)**
   - **(1)** The Secretary shall conduct analysis and evaluation in support of the renewable energy programs under this part. These activities shall be used to guide budget and program decisions, and shall include—
     - **(A)** economic and technical analysis of renewable energy potential, including resource assessment;
     - **(B)** analysis of past program performance, both in terms of technical advances and in market introduction of renewable energy; and

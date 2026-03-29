@@ -3,9 +3,9 @@ title: "Section 617e - Uses to be made of dam and reservoir; title in whom; leas
 usc_title: 43
 usc_section: "617e"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 617e"
-generated_at: "2026-03-29T02:15:47.558Z"
+generated_at: "2026-03-29T17:53:03.651Z"
 ---
 
 # § 617e. Uses to be made of dam and reservoir; title in whom; leases, regulations; limitation on authority

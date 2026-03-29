@@ -3,9 +3,9 @@ title: "Section 1782 - Bureau of Land Management Wilderness Study"
 usc_title: 43
 usc_section: "1782"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1782"
-generated_at: "2026-03-29T02:15:47.645Z"
+generated_at: "2026-03-29T17:53:03.735Z"
 ---
 
 # § 1782. Bureau of Land Management Wilderness Study

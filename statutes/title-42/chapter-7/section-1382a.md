@@ -3,9 +3,9 @@ title: "Section 1382a - Income; earned and unearned income defined; exclusions f
 usc_title: 42
 usc_section: "1382a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1382a"
-generated_at: "2026-03-29T02:15:36.111Z"
+generated_at: "2026-03-29T17:53:34.579Z"
 ---
 
 # § 1382a. Income; earned and unearned income defined; exclusions from income
@@ -52,7 +52,7 @@ generated_at: "2026-03-29T02:15:36.111Z"
   - **(17)** any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime;
   - **(18)** relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions 2 2 So in original. Probably should be “Acquisition”. Policies Act of 1970 which is subject to the treatment required by section 216 of such Act [ 42 U.S.C. 4636 ];
   - **(19)** any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);
-  - **(20)** special pay received pursuant to section 310, or paragraph (1) or (3) of section 351(a), of title 37;
+  - **(20)** special pay received pursuant to section 310 of title 37 ;
   - **(21)** the interest or other earnings on any account established and maintained in accordance with section 1383(a)(2)(F) of this title ;
   - **(22)** any gift to, or for the benefit of, an individual who has not attained 18 years of age and who has a life-threatening condition, from an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 which is exempt from taxation under section 501(a) of such Code—
     - **(A)** in the case of an in-kind gift, if the gift is not converted to cash; or

@@ -3,9 +3,9 @@ title: "Section 312 - Administrative sanctions"
 usc_title: 47
 usc_section: "312"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 312"
-generated_at: "2026-03-29T02:15:59.208Z"
+generated_at: "2026-03-29T17:53:43.631Z"
 ---
 
 # § 312. Administrative sanctions
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T02:15:59.208Z"
   - **(6)** for violation of section 1304, 1343, or 1464 of title 18; or
   - **(7)** for willful or repeated failure to allow reasonable access to or to permit purchase of reasonable amounts of time for the use of a broadcasting station, other than a non-commercial educational broadcast station, by a legally qualified candidate for Federal elective office on behalf of his candidacy.
 - **(b)** Where any person (1) has failed to operate substantially as set forth in a license, (2) has violated or failed to observe any of the provisions of this chapter, or section 1304, 1343, or 1464 of title 18, or (3) has violated or failed to observe any rule or regulation of the Commission authorized by this chapter or by a treaty ratified by the United States, the Commission may order such person to cease and desist from such action.
-- **(c)** Before revoking a license or permit pursuant to subsection (a), or issuing a cease and desist order pursuant to subsection (b), the Commission shall serve upon the licensee, permittee, or person involved an order to show cause why an order of revocation or a cease and desist order should not be issued. Any such order to show cause shall contain a statement of the matters with respect to which the Commission is inquiring and shall call upon said licensee, permittee, or person to appear before the Commission at a time and place stated in the order, but in no event less than thirty days after the receipt of such order, and give evidence upon the matter specified therein; except that where safety of life or property is involved, the Commission may provide in the order for a shorter period. If after hearing, or a waiver thereof, the Commission determines that an order of revocation or a cease and desist order should issue, it shall issue such order, which shall include a statement of the findings of the Commission and the grounds and reasons therefor and specify the effective date of the order, and shall cause the same to be served on said licensee, permittee, or person.
+- **(c)** Before revoking a license or permit pursuant to subsection (a) of this section, or issuing a cease and desist order pursuant to subsection (b) of this section, the Commission shall serve upon the licensee, permittee, or person involved an order to show cause why an order of revocation or a cease and desist order should not be issued. Any such order to show cause shall contain a statement of the matters with respect to which the Commission is inquiring and shall call upon said licensee, permittee, or person to appear before the Commission at a time and place stated in the order, but in no event less than thirty days after the receipt of such order, and give evidence upon the matter specified therein; except that where safety of life or property is involved, the Commission may provide in the order for a shorter period. If after hearing, or a waiver thereof, the Commission determines that an order of revocation or a cease and desist order should issue, it shall issue such order, which shall include a statement of the findings of the Commission and the grounds and reasons therefor and specify the effective date of the order, and shall cause the same to be served on said licensee, permittee, or person.
 - **(d)** In any case where a hearing is conducted pursuant to the provisions of this section, both the burden of proceeding with the introduction of evidence and the burden of proof shall be upon the Commission.
 - **(e)** The provisions of section 558(c) of title 5 which apply with respect to the institution of any proceeding for the revocation of a license or permit shall apply also with respect to the institution, under this section, of any proceeding for the issuance of a cease and desist order.
 - **(f)** For purposes of this section:

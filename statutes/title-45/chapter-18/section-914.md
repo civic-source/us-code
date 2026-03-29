@@ -3,9 +3,9 @@ title: "Section 914 - Obligation guarantees"
 usc_title: 45
 usc_section: "914"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "45 U.S.C. § 914"
-generated_at: "2026-03-29T02:15:50.558Z"
+generated_at: "2026-03-29T17:53:02.132Z"
 ---
 
 # § 914. Obligation guarantees
@@ -15,4 +15,4 @@ generated_at: "2026-03-29T02:15:50.558Z"
 - **(c)** The aggregate unpaid principal amount of obligations which may be guaranteed by the Secretary pursuant to this section shall not exceed $75,000,000.
 - **(d)** The total liability of the Milwaukee Railroad in connection with benefits and allowances provided under an employee protection agreement entered into under section 908 of this title shall not exceed $75,000,000.
 - **(e)** Except in connection with obligations guaranteed under this section, the United States shall incur no liability to employees in connection with any employee protection agreement entered into under section 908 of this title .
-- **(f)** Section 22404 of title 49 shall not apply to any obligation guaranteed under this section.
+- **(f)** Section 836 of this title shall not apply to any obligation guaranteed under this section.

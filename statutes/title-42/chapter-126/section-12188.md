@@ -3,9 +3,9 @@ title: "Section 12188 - Enforcement"
 usc_title: 42
 usc_section: "12188"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 12188"
-generated_at: "2026-03-29T02:15:37.187Z"
+generated_at: "2026-03-29T17:53:35.761Z"
 ---
 
 # § 12188. Enforcement
@@ -31,5 +31,5 @@ generated_at: "2026-03-29T02:15:37.187Z"
       - **(i)** not exceeding $50,000 for a first violation; and
       - **(ii)** not exceeding $100,000 for any subsequent violation.
   - **(3)** For purposes of paragraph (2)(C), in determining whether a first or subsequent violation has occurred, a determination in a single action, by judgment or settlement, that the covered entity has engaged in more than one discriminatory act shall be counted as a single violation.
-  - **(4)** For purposes of subsection (b)(2)(B), the term “monetary damages” and “such other relief” does not include punitive damages.
+  - **(4)** For purposes of subsection (b)(2)(B) of this section, the term “monetary damages” and “such other relief” does not include punitive damages.
   - **(5)** In a civil action under paragraph (1)(B), the court, when considering what amount of civil penalty, if any, is appropriate, shall give consideration to any good faith effort or attempt to comply with this chapter by the entity. In evaluating good faith, the court shall consider, among other factors it deems relevant, whether the entity could have reasonably anticipated the need for an appropriate type of auxiliary aid needed to accommodate the unique needs of a particular individual with a disability.

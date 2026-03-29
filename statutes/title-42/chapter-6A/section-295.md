@@ -3,15 +3,15 @@ title: "Section 295 - General provisions"
 usc_title: 42
 usc_section: "295"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 295"
-generated_at: "2026-03-29T02:15:35.772Z"
+generated_at: "2026-03-29T17:53:34.255Z"
 ---
 
 # § 295. General provisions
 
 - **(a)** The Secretary may award grants or contracts to eligible entities to increase the number of individuals in the public health workforce, to enhance the quality of such workforce, and to enhance the ability of the workforce to meet national, State, and local health care needs.
-- **(b)** To be eligible to receive a grant or contract under subsection (a) an entity shall—
+- **(b)** To be eligible to receive a grant or contract under subsection (a) of this section an entity shall—
   - **(1)** be—
     - **(A)** a health professions school, including an accredited school or program of public health, health administration, preventive medicine, or dental public health or a school providing health management programs;
     - **(B)** an academic health center;

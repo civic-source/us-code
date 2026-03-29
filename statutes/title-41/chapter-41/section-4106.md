@@ -3,9 +3,9 @@ title: "Section 4106 - Orders"
 usc_title: 41
 usc_section: "4106"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "41 U.S.C. § 4106"
-generated_at: "2026-03-29T02:15:00.461Z"
+generated_at: "2026-03-29T17:53:04.481Z"
 ---
 
 # § 4106. Orders
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T02:15:00.461Z"
 - **(b)** The following actions are not required for issuance of a task or delivery order under a task or delivery order contract:
   - **(1)** A separate notice for the order under section 1708 of this title or section 8(e) of the Small Business Act ( 15 U.S.C. 637(e) ).
   - **(2)** Except as provided in subsection (c), a competition (or a waiver of competition approved in accordance with section 3304(e) of this title ) that is separate from that used for entering into the contract.
-- **(c)** When multiple contracts are awarded under section 4103(d)(1)(B) or 4105(f) of this title, all contractors awarded the contracts shall be provided a fair opportunity to be considered, pursuant to procedures set forth in the contracts, for each task or delivery order in excess of the micro-purchase threshold under section 1902 of this title that is to be issued under any of the contracts, unless—
+- **(c)** When multiple contracts are awarded under section 4103(d)(1)(B) or 4105(f) of this title, all contractors awarded the contracts shall be provided a fair opportunity to be considered, pursuant to procedures set forth in the contracts, for each task or delivery order in excess of $2,500 that is to be issued under any of the contracts, unless—
   - **(1)** the executive agency’s need for the services or property ordered is of such unusual urgency that providing the opportunity to all of those contractors would result in unacceptable delays in fulfilling that need;
   - **(2)** only one of those contractors is capable of providing the services or property required at the level of quality required because the services or property ordered are unique or highly specialized;
   - **(3)** the task or delivery order should be issued on a sole-source basis in the interest of economy and efficiency because it is a logical follow-on to a task or delivery order already issued on a competitive basis; or
@@ -33,6 +33,7 @@ generated_at: "2026-03-29T02:15:00.461Z"
     - **(A)** a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued; or
     - **(B)** a protest of an order valued in excess of $10,000,000.
   - **(2)** Notwithstanding section 3556 of title 31 , the Comptroller General shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
+  - **(3)** Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016 .
 - **(g)**
   - **(1)** The head of each executive agency who awards multiple task or delivery order contracts under section 4103(d)(1)(B) or 4105(f) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on those contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (c).
   - **(2)** The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the executive agency’s advocate for competition.

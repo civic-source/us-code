@@ -3,17 +3,17 @@ title: "Section 3 - Grant program to ensure survival and continuing vitality of 
 usc_title: 42
 usc_section: "3"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T02:15:36.623Z"
+generated_at: "2026-03-29T17:53:35.124Z"
 ---
 
 # § 2991b–3. Grant program to ensure survival and continuing vitality of Native American languages
 
 - **(a)** The Secretary shall award a grant to any agency or organization that is—
   - **(1)** eligible for financial assistance under section 2991b(a) of this title ; and
-  - **(2)** selected under subsection (c);
-- **(b)** The purposes for which each grant awarded under subsection (a) may be used include, but are not limited to—
+  - **(2)** selected under subsection (c) of this section;
+- **(b)** The purposes for which each grant awarded under subsection (a) of this section may be used include, but are not limited to—
   - **(1)** the establishment and support of a community Native American language project to bring older and younger Native Americans together to facilitate and encourage the transfer of Native American language skills from one generation to another;
   - **(2)** the establishment of a project to train Native Americans to teach a Native American language to others or to enable them to serve as interpreters or translators of such language;
   - **(3)** the development, printing, and dissemination of materials to be used for the teaching and enhancement of a Native American language;
@@ -22,11 +22,11 @@ generated_at: "2026-03-29T02:15:36.623Z"
   - **(6)** the purchase of equipment (including audio and video recording equipment, computers, and software) required to conduct a Native American language project; and
   - **(7)**
     - **(A)** Native American language nests, which are site-based educational programs that—
-      - **(i)** provide instruction and child care through the use of a Native American language for at least 5 children under the age of 7 for an average of at least 500 hours per year per student;
+      - **(i)** provide instruction and child care through the use of a Native American language for at least 10 children under the age of 7 for an average of at least 500 hours per year per student;
       - **(ii)** provide classes in a Native American language for parents (or legal guardians) of students enrolled in a Native American language nest (including Native American language-speaking parents); and
       - **(iii)** ensure that a Native American language is the dominant medium of instruction in the Native American language nest;
     - **(B)** Native American language survival schools, which are site-based educational programs for school-age students that—
-      - **(i)** provide an average of at least 500 hours of instruction through the use of 1 or more Native American languages for at least 10 students for whom a Native American language survival school is their principal place of instruction;
+      - **(i)** provide an average of at least 500 hours of instruction through the use of 1 or more Native American languages for at least 15 students for whom a Native American language survival school is their principal place of instruction;
       - **(ii)** develop instructional courses and materials for learning Native American languages and for instruction through the use of Native American languages;
       - **(iii)** provide for teacher training;
       - **(iv)** work toward a goal of all students achieving—
@@ -43,52 +43,51 @@ generated_at: "2026-03-29T02:15:36.623Z"
         - **(I)** Native American language programs, such as Native American language immersion programs, Native American language and culture camps, Native American language programs provided in coordination and cooperation with educational entities, Native American language programs provided in coordination and cooperation with local universities and colleges, Native American language programs that use a master-apprentice model of learning languages, and Native American language programs provided through a regional program to better serve geographically dispersed students;
         - **(II)** Native American language teacher training programs, such as training programs in Native American language translation for fluent speakers, training programs for Native American language teachers, training programs for teachers in schools to utilize Native American language materials, tools, and interactive media to teach Native American language; and
         - **(III)** the development of Native American language materials, such as books, audio and visual tools, and interactive media programs.
-- **(c)** For the purpose of making grants under subsection (a), the Secretary shall select applicants from among agencies and organizations described in such subsection on the basis of applications submitted to the Secretary at such time, in such form, and containing such information as the Secretary shall require, but each application shall include at a minimum—
-  - **(1)** a detailed description of the current status of the Native American language to be addressed by the project for which a grant under subsection (a) is requested, including a description of existing programs and projects, if any, in support of such language;
+- **(c)** For the purpose of making grants under subsection (a) of this section, the Secretary shall select applicants from among agencies and organizations described in such subsection on the basis of applications submitted to the Secretary at such time, in such form, and containing such information as the Secretary shall require, but each application shall include at a minimum—
+  - **(1)** a detailed description of the current status of the Native American language to be addressed by the project for which a grant under subsection (a) of this section is requested, including a description of existing programs and projects, if any, in support of such language;
   - **(2)** a detailed description of the project for which such grant is requested;
-  - **(3)** a statement of objectives that are consonant with the purpose described in subsection (a);
+  - **(3)** a statement of objectives that are consonant with the purpose described in subsection (a) of this section;
   - **(4)** a detailed description of a plan to be carried out by the applicant to evaluate such project, consonant with the purpose for which such grant is made;
   - **(5)** if appropriate, an identification of opportunities for the replication of such project or the modification of such project for use by other Native Americans;
   - **(6)** a plan for the preservation of the products of the Native American language project for the benefit of future generations of Native Americans and other interested persons; and
   - **(7)** in the case of an application for a grant to carry out any purpose specified in subsection (b)(7)(B), a certification by the applicant that the applicant has not less than 3 years of experience in operating and administering a Native American language survival school, a Native American language nest, or any other educational program in which instruction is conducted in a Native American language.
-- **(d)** If a Tribal organization or other eligible applicant decides that the objectives of its proposed Native American language project would be accomplished more effectively through a partnership arrangement with a school, college, or university, the applicant shall identify such school, college, or university as a participating organization in the application submitted under subsection (c).
+- **(d)** If a tribal organization or other eligible applicant decides that the objectives of its proposed Native American language project would be accomplished more effectively through a partnership arrangement with a school, college, or university, the applicant shall identify such school, college, or university as a participating organization in the application submitted under subsection (c) of this section.
 - **(e)**
-  - **(1)** Notwithstanding any other provision of this subchapter, a grant made under subsection (a) may not be expended to pay more than 80 percent of the cost of the project that is assisted by such grant. Not less than 20 percent of such cost—
+  - **(1)** Notwithstanding any other provision of this subchapter, a grant made under subsection (a) of this section may not be expended to pay more than 80 percent of the cost of the project that is assisted by such grant. Not less than 20 percent of such cost—
     - **(A)** shall be in cash or in kind, fairly evaluated, including plant, equipment, or services; and
     - **(B)**
       - **(i)** may be provided from any private or non-Federal source; and
-      - **(ii)** may include funds (including interest) distributed to a Tribe—
+      - **(ii)** may include funds (including interest) distributed to a tribe—
         - **(I)** by the Federal Government pursuant to the satisfaction of a claim made under Federal law;
-        - **(II)** from funds collected and administered by the Federal Government on behalf of such Tribe or its constituent members; or
-        - **(III)** by the Federal Government for general Tribal administration or Tribal development under a formula or subject to a Tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act ( 25 U.S.C. 450f et seq.) 1 1 See References in Text note below. or Tribal budget priority system.
-  - **(2)** The Secretary may make grants made under subsection (a) on a 1-year, 2-year, 3-year, 4-year, or 5-year basis, except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year, 4-year, or 5-year basis.
+        - **(II)** from funds collected and administered by the Federal Government on behalf of such tribe or its constituent members; or
+        - **(III)** by the Federal Government for general tribal administration or tribal development under a formula or subject to a tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act ( 25 U.S.C. 450f et seq.) or tribal budget priority system.
+  - **(2)** The Secretary may make grants made under subsection (a) of this section on a 1-year, 2-year, or 3-year basis, except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis.
 - **(f)**
   - **(1)** The Secretary shall carry out this section through the Administration for Native Americans.
   - **(2)**
     - **(A)** Not later than 180 days after October 26, 1992 , the Secretary shall appoint a panel of experts for the purpose of assisting the Secretary to review—
-      - **(i)** applications submitted under subsection (a);
-      - **(ii)** evaluations carried out to comply with subsection (c)(4); and
-      - **(iii)** the preservation of products required by subsection (c)(5).
+      - **(i)** applications submitted under subsection (a) of this section;
+      - **(ii)** evaluations carried out to comply with subsection (c)(4) of this section; and
+      - **(iii)** the preservation of products required by subsection (c)(5) of this section.
     - **(B)** Such panel shall include, but not be limited to—
       - **(i)** a designee of the Institute of American Indian and Alaska Native Culture and Arts Development;
-      - **(ii)** a designee of the regional centers funded under section 3215 1 of title 20;
-      - **(iii)** representatives of national, Tribal, and regional organizations that focus on Native American language, or Native American cultural, 2 2 So in original. The comma probably should not appear. research, development, or training; and
+      - **(ii)** a designee of the regional centers funded under section 3215 1 1 See References in Text note below. of title 20;
+      - **(iii)** representatives of national, tribal, and regional organizations that focus on Native American language, or Native American cultural, 2 2 So in original. The comma probably should not appear. research, development, or training; and
       - **(iv)** other individuals who are recognized for their expertise in the area of Native American language.
     - **(C)** The duties of such panel include—
       - **(i)** making recommendations regarding the development and implementation of regulations, policies, procedures, and rules of general applicability with respect to the administration of this section;
-      - **(ii)** reviewing applications received under subsection (c);
+      - **(ii)** reviewing applications received under subsection (c) of this section;
       - **(iii)** providing to the Secretary a list of recommendations for the approval of such applications—
         - **(I)** in accordance with regulations issued by the Secretary; and
         - **(II)** the relative need for the project; and
-      - **(iv)** reviewing evaluations submitted to comply with subsection (c)(4).
+      - **(iv)** reviewing evaluations submitted to comply with subsection (c)(4) of this section.
     - **(D)**
-      - **(i)** Subject to clause (ii), a copy of the products of the Native American language project for which a grant is made under subsection (a)—
+      - **(i)** Subject to clause (ii), a copy of the products of the Native American language project for which a grant is made under subsection (a) of this section—
         - **(I)** shall be transmitted to the Institute of American Indian and Alaska Native Culture and Arts Development; and
         - **(II)** may be transmitted, in the discretion of the grantee, to national and regional repositories of similar material;
-      - **(ii)** Based on the Federal recognition of the sovereign authority of Indian Tribes over all aspects of their cultures and language and except as provided in clause (iii), an Indian Tribe may make a determination—
+      - **(ii)** Based on the Federal recognition of the sovereign authority of Indian tribes over all aspects of their cultures and language and except as provided in clause (iii), an Indian tribe may make a determination—
         - **(I)** not to transmit copies of such products under clause (i) or not to permit the redistribution of such copies; or
         - **(II)** to restrict in any manner the use or redistribution of such copies after transmission under such clause.
-      - **(iii)** Clause (ii) shall not be construed to authorize Indian Tribes—
+      - **(iii)** Clause (ii) shall not be construed to authorize Indian tribes—
         - **(I)** to limit the access of the Secretary to such products for purposes of administering this section or evaluating such products; or
         - **(II)** to sell such products, or copies of such products, for profit to the entities referred to in clause (i).
-- **(g)** Not later than 180 days after the effective date of this subsection, the Secretary shall award grants to entities eligible to receive assistance under subsection (a)(1) to ensure the survival and continuing vitality of Native American languages during and after the public health emergency declared by the Secretary pursuant to section 247d of this title with respect to the COVID–19 pandemic.

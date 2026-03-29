@@ -3,9 +3,9 @@ title: "Section 80505 - Enforcement"
 usc_title: 46
 usc_section: "80505"
 chapter: 805
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 80505"
-generated_at: "2026-03-29T02:15:53.801Z"
+generated_at: "2026-03-29T17:53:41.851Z"
 ---
 
 # § 80505. Enforcement
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T02:15:53.801Z"
 - **(b)**
   - **(1)** The owner of a container involved in an action by the Secretary under this section related to an examination of the container shall pay or reimburse the Secretary for the expenses arising from that action, except for the costs of routine examinations of the container or a safety approval plate.
   - **(2)** The owner of a container submitted to the procedure established by the Secretary for testing, inspection, and initial approval, and the manufacturer of a container that submits a design to the procedure established by the Secretary for testing, inspection, and initial approval, shall pay or reimburse the Secretary for the expenses arising from the testing, inspection, or approval.
-  - **(3)** Amounts received by the Secretary as reimbursement shall be credited to the appropriation for operations and support of the Coast Guard.
+  - **(3)** Amounts received by the Secretary as reimbursement shall be credited to the appropriation for operating expenses of the Coast Guard.
 - **(c)** A container bearing a safety approval plate authorized by a country that is a party to the Convention is presumed to be in a safe condition unless there is significant evidence that the container is in a condition that creates an obvious risk to safety.
 - **(d)**
   - **(1)** When the Secretary issues a detention or other order under this section, the Secretary promptly shall notify in writing—

@@ -3,9 +3,9 @@ title: "Section 3 - Federal agency data mining reporting"
 usc_title: 42
 usc_section: "3"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T02:15:36.567Z"
+generated_at: "2026-03-29T17:53:35.059Z"
 ---
 
 # § 2000ee–3. Federal agency data mining reporting
@@ -37,7 +37,7 @@ generated_at: "2026-03-29T02:15:36.567Z"
       - **(ii)** law enforcement sensitive information;
       - **(iii)** proprietary business information; or
       - **(iv)** trade secrets (as that term is defined in section 1839 of title 18 ).
-    - **(B)** Any annex described in clause (i)— 3 3 So in original. Probably should be “subparagraph (A)—”.
+    - **(B)** Any annex described in clause (i)—
       - **(i)** shall be available, as appropriate, and consistent with the National Security Act of 1947 [ 50 U.S.C. 3001 et seq.], to the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Homeland Security, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Financial Services of the House of Representatives; and
       - **(ii)** shall not be made available to the public.
   - **(4)** Each report required under subparagraph (A) 2 shall be—

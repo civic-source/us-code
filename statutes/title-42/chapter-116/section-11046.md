@@ -3,15 +3,15 @@ title: "Section 11046 - Civil actions"
 usc_title: 42
 usc_section: "11046"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 11046"
-generated_at: "2026-03-29T02:15:37.149Z"
+generated_at: "2026-03-29T17:53:35.723Z"
 ---
 
 # § 11046. Civil actions
 
 - **(a)**
-  - **(1)** Except as provided in subsection (e), any person may commence a civil action on his own behalf against the following:
+  - **(1)** Except as provided in subsection (e) of this section, any person may commence a civil action on his own behalf against the following:
     - **(A)** An owner or operator of a facility for failure to do any of the following:
       - **(i)** Submit a followup emergency notice under section 11004(c) of this title .
       - **(ii)** Submit a material safety data sheet or a list under section 11021(a) of this title .
@@ -35,13 +35,13 @@ generated_at: "2026-03-29T02:15:37.149Z"
     - **(B)** Any State emergency response commission or local emergency planning committee may commence a civil action against an owner or operator of a facility for failure to provide information under section 11003(d) of this title or for failure to submit tier II information under section 11022(e)(1) of this title .
     - **(C)** Any State may commence a civil action against the Administrator for failure to provide information to the State under section 11042(g) of this title .
 - **(b)**
-  - **(1)** Any action under subsection (a) against an owner or operator of a facility shall be brought in the district court for the district in which the alleged violation occurred.
-  - **(2)** Any action under subsection (a) against the Administrator may be brought in the United States District Court for the District of Columbia.
-- **(c)** The district court shall have jurisdiction in actions brought under subsection (a) against an owner or operator of a facility to enforce the requirement concerned and to impose any civil penalty provided for violation of that requirement. The district court shall have jurisdiction in actions brought under subsection (a) against the Administrator to order the Administrator to perform the act or duty concerned.
+  - **(1)** Any action under subsection (a) of this section against an owner or operator of a facility shall be brought in the district court for the district in which the alleged violation occurred.
+  - **(2)** Any action under subsection (a) of this section against the Administrator may be brought in the United States District Court for the District of Columbia.
+- **(c)** The district court shall have jurisdiction in actions brought under subsection (a) of this section against an owner or operator of a facility to enforce the requirement concerned and to impose any civil penalty provided for violation of that requirement. The district court shall have jurisdiction in actions brought under subsection (a) of this section against the Administrator to order the Administrator to perform the act or duty concerned.
 - **(d)**
-  - **(1)** No action may be commenced under subsection (a)(1)(A) prior to 60 days after the plaintiff has given notice of the alleged violation to the Administrator, the State in which the alleged violation occurs, and the alleged violator. Notice under this paragraph shall be given in such manner as the Administrator shall prescribe by regulation.
-  - **(2)** No action may be commenced under subsection (a)(1)(B) or (a)(1)(C) prior to 60 days after the date on which the plaintiff gives notice to the Administrator, State Governor, or State emergency response commission (as the case may be) that the plaintiff will commence the action. Notice under this paragraph shall be given in such manner as the Administrator shall prescribe by regulation.
-- **(e)** No action may be commenced under subsection (a) against an owner or operator of a facility if the Administrator has commenced and is diligently pursuing an administrative order or civil action to enforce the requirement concerned or to impose a civil penalty under this Act with respect to the violation of the requirement.
+  - **(1)** No action may be commenced under subsection (a)(1)(A) of this section prior to 60 days after the plaintiff has given notice of the alleged violation to the Administrator, the State in which the alleged violation occurs, and the alleged violator. Notice under this paragraph shall be given in such manner as the Administrator shall prescribe by regulation.
+  - **(2)** No action may be commenced under subsection (a)(1)(B) or (a)(1)(C) of this section prior to 60 days after the date on which the plaintiff gives notice to the Administrator, State Governor, or State emergency response commission (as the case may be) that the plaintiff will commence the action. Notice under this paragraph shall be given in such manner as the Administrator shall prescribe by regulation.
+- **(e)** No action may be commenced under subsection (a) of this section against an owner or operator of a facility if the Administrator has commenced and is diligently pursuing an administrative order or civil action to enforce the requirement concerned or to impose a civil penalty under this Act with respect to the violation of the requirement.
 - **(f)** The court, in issuing any final order in any action brought pursuant to this section, may award costs of litigation (including reasonable attorney and expert witness fees) to the prevailing or the substantially prevailing party whenever the court determines such an award is appropriate. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.
 - **(g)** Nothing in this section shall restrict or expand any right which any person (or class of persons) may have under any Federal or State statute or common law to seek enforcement of any requirement or to seek any other relief (including relief against the Administrator or a State agency).
 - **(h)**

@@ -3,12 +3,12 @@ title: "Section 517 - Purchase of paper in open market"
 usc_title: 44
 usc_section: "517"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "44 U.S.C. § 517"
-generated_at: "2026-03-29T02:15:49.317Z"
+generated_at: "2026-03-29T17:53:10.490Z"
 ---
 
 # § 517. Purchase of paper in open market
 
-The Joint Committee on Printing may authorize the Director of the Government Publishing Office to purchase paper in open market when they consider the quantity required so small or the want so immediate as not to justify advertisement for proposals.
+The Joint Committee on Printing may authorize the Public Printer to purchase paper in open market when they consider the quantity required so small or the want so immediate as not to justify advertisement for proposals.
 

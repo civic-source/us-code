@@ -3,16 +3,16 @@ title: "Section 1134 - Inspections and autopsies"
 usc_title: 49
 usc_section: "1134"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 1134"
-generated_at: "2026-03-29T02:16:08.857Z"
+generated_at: "2026-03-29T17:53:47.954Z"
 ---
 
 # § 1134. Inspections and autopsies
 
 - **(a)** An officer or employee of the National Transportation Safety Board—
   - **(1)** on display of appropriate credentials and written notice of inspection authority, may enter property where a transportation accident has occurred or wreckage from the accident is located and do anything necessary to conduct an investigation; and
-  - **(2)** during reasonable hours, may inspect any record, including an electronic record, process, control, or facility related to an accident investigation under this chapter.
+  - **(2)** during reasonable hours, may inspect any record, process, control, or facility related to an accident investigation under this chapter.
 - **(b)**
   - **(1)** In investigating an aircraft accident under this chapter, the Board may inspect and test, to the extent necessary, any civil aircraft, aircraft engine, propeller, appliance, or property on an aircraft involved in an accident in air commerce.
   - **(2)** Any civil aircraft, aircraft engine, propeller, appliance, or property on an aircraft involved in an accident in air commerce shall be preserved, and may be moved, only as provided by regulations of the Board.
@@ -24,7 +24,3 @@ generated_at: "2026-03-29T02:16:08.857Z"
 - **(f)**
   - **(1)** The Board may order an autopsy to be performed and have other tests made when necessary to investigate an accident under this chapter. However, local law protecting religious beliefs related to autopsies shall be observed to the extent consistent with the needs of the accident investigation.
   - **(2)** With or without reimbursement, the Board may obtain a copy of an autopsy report performed by a State or local official on an individual who died because of a transportation accident investigated by the Board under this chapter.
-- **(g)** In investigating an accident under this chapter, the Board may require from a transportation operator or equipment manufacturer or the vendors, suppliers, subsidiaries, or parent companies of such manufacturer, or operator of a product or service which is subject to an investigation by the Board—
-  - **(1)** any recorder or recorded information pertinent to the accident;
-  - **(2)** without undue delay, information the Board determines necessary to enable the Board to read and interpret any recording device or recorded information pertinent to the accident; and
-  - **(3)** design specifications or data related to the operation and performance of the equipment the Board determines necessary to enable the Board to perform independent physics-based simulations and analyses of the accident situation.

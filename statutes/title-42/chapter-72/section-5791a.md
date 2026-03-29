@@ -1,12 +1,23 @@
 ---
-title: "Section 5791a - Transferred"
+title: "Section 5791a - Minimum standards for issuance and dissemination of alerts through AMBER Alert communications network"
 usc_title: 42
 usc_section: "5791a"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 5791a"
-generated_at: "2026-03-29T02:15:36.780Z"
+generated_at: "2026-03-29T17:53:35.342Z"
 ---
 
-# § 5791a. Transferred
+# § 5791a. Minimum standards for issuance and dissemination of alerts through AMBER Alert communications network
 
+- **(a)** Subject to subsection (b) of this section, the AMBER Alert Coordinator of the Department of Justice shall establish minimum standards for—
+  - **(1)** the issuance of alerts through the AMBER Alert communications network; and
+  - **(2)** the extent of the dissemination of alerts issued through the network.
+- **(b)**
+  - **(1)** The minimum standards established under subsection (a) of this section shall be adoptable on a voluntary basis only.
+  - **(2)** The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State and local law enforcement agencies), provide that appropriate information relating to the special needs of an abducted child (including health care needs) are disseminated to the appropriate law enforcement, public health, and other public officials.
+  - **(3)** The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State and local law enforcement agencies), provide that the dissemination of an alert through the AMBER Alert communications network be limited to the geographic areas most likely to facilitate the recovery of the abducted child concerned.
+  - **(4)** In carrying out activities under subsection (a) of this section, the Coordinator may not interfere with the current system of voluntary coordination between local broadcasters and State and local law enforcement agencies for purposes of the AMBER Alert communications network.
+- **(c)**
+  - **(1)** The Coordinator shall cooperate with the Secretary of Transportation and the Federal Communications Commission in carrying out activities under this section.
+  - **(2)** The Coordinator shall also cooperate with local broadcasters and State and local law enforcement agencies in establishing minimum standards under this section.

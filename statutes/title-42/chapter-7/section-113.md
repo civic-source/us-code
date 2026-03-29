@@ -3,30 +3,30 @@ title: "Section 113 - Premiums; late enrollment penalty"
 usc_title: 42
 usc_section: "113"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 113"
-generated_at: "2026-03-29T02:15:36.230Z"
+generated_at: "2026-03-29T17:53:34.686Z"
 ---
 
 # § 1395w–113. Premiums; late enrollment penalty
 
 - **(a)**
   - **(1)**
-    - **(A)** The monthly beneficiary premium for a prescription drug plan is the base beneficiary premium computed under paragraph (2) or (8) (as applicable) as adjusted under this paragraph.
+    - **(A)** The monthly beneficiary premium for a prescription drug plan is the base beneficiary premium computed under paragraph (2) as adjusted under this paragraph.
     - **(B)**
       - **(i)** If for a month the amount of the standardized bid amount (as defined in paragraph (5)) exceeds the amount of the adjusted national average monthly bid amount (as defined in clause (iii)), the base beneficiary premium for the month shall be increased by the amount of such excess.
       - **(ii)** If for a month the amount of the adjusted national average monthly bid amount for the month exceeds the standardized bid amount, the base beneficiary premium for the month shall be decreased by the amount of such excess.
       - **(iii)** For purposes of this subparagraph, the term “adjusted national average monthly bid amount” means the national average monthly bid amount computed under paragraph (4), as adjusted under section 1395w–115(c)(2) of this title .
     - **(C)** The base beneficiary premium shall be increased by the portion of the PDP approved bid that is attributable to supplemental prescription drug benefits.
-    - **(D)** The base beneficiary premium shall be increased by the amount of any late enrollment penalty under subsection (b).
+    - **(D)** The base beneficiary premium shall be increased by the amount of any late enrollment penalty under subsection (b) of this section.
     - **(E)** The monthly beneficiary premium is subject to decrease in the case of a subsidy eligible individual under section 1395w–114 of this title .
     - **(F)** The monthly beneficiary premium shall be increased pursuant to paragraph (7).
     - **(G)** Except as provided in subparagraphs (D), (E), and (F), the monthly beneficiary premium for a prescription drug plan in a PDP region is the same for all part D eligible individuals enrolled in the plan.
-  - **(2)** Subject to paragraph (8), the base beneficiary premium under this paragraph for a prescription drug plan for a month is equal to the product 1 1 So in original. The word “of” probably should appear after “product”. —
+  - **(2)** The base beneficiary premium under this paragraph for a prescription drug plan for a month is equal to the product 1 1 So in original. The word “of” probably should appear after “product”. —
     - **(A)** the beneficiary premium percentage (as specified in paragraph (3)); and
     - **(B)** the national average monthly bid amount (computed under paragraph (4)) for the month.
   - **(3)** For purposes of this subsection, the beneficiary premium percentage for any year is the percentage equal to a fraction—
-    - **(A)** the numerator of which is 25.5 percent (or, for 2030 and each subsequent year, the percent specified under paragraph (9)); and
+    - **(A)** the numerator of which is 25.5 percent; and
     - **(B)** the denominator of which is 100 percent minus a percentage equal to—
       - **(i)** the total reinsurance payments which the Secretary estimates are payable under section 1395w–115(b) of this title with respect to the coverage year; divided by
       - **(ii)** the sum of—
@@ -47,56 +47,30 @@ generated_at: "2026-03-29T02:15:36.230Z"
     - **(A)** In the case of an individual whose modified adjusted gross income exceeds the threshold amount applicable under paragraph (2) of section 1395r(i) of this title (including application of paragraph (5) of such section) for the calendar year, the monthly amount of the beneficiary premium applicable under this section for a month after December 2010 shall be increased by the monthly adjustment amount specified in subparagraph (B).
     - **(B)** The monthly adjustment amount specified in this subparagraph for an individual for a month in a year is equal to the product of—
       - **(i)** the quotient obtained by dividing—
-        - **(I)** the applicable percentage determined under paragraph (3)(C) of section 1395r(i) of this title (including application of paragraph (5) of such section) for the individual for the calendar year reduced by 25.5 percent (or, for 2030 and each subsequent year, the percent specified under paragraph (9)); by
-        - **(II)** 25.5 percent (or, for 2030 and each subsequent year, the percent specified under paragraph (9)); and
-      - **(ii)** the base beneficiary premium (as computed under paragraph (2) or (8) (as applicable)).
+        - **(I)** the applicable percentage determined under paragraph (3)(C) of section 1395r(i) of this title (including application of paragraph (5) of such section) for the individual for the calendar year reduced by 25.5 percent; by
+        - **(II)** 25.5 percent; and
+      - **(ii)** the base beneficiary premium (as computed under paragraph (2)).
     - **(C)** For purposes of this paragraph, the term “modified adjusted gross income” has the meaning given such term in subparagraph (A) of section 1395r(i)(4) of this title , determined for the taxable year applicable under subparagraphs (B) and (C) of such section.
     - **(D)** The Commissioner of Social Security shall make any determination necessary to carry out the income-related increase in the base beneficiary premium under this paragraph.
     - **(E)**
-      - **(i)** Not later than September 15 of each year beginning with 2010, the Secretary shall disclose to the Commissioner of Social Security the amount of the base beneficiary premium (as computed under paragraph (2) or (8) (as applicable)) for the purpose of carrying out the income-related increase in the base beneficiary premium under this paragraph with respect to the following year.
+      - **(i)** Not later than September 15 of each year beginning with 2010, the Secretary shall disclose to the Commissioner of Social Security the amount of the base beneficiary premium (as computed under paragraph (2)) for the purpose of carrying out the income-related increase in the base beneficiary premium under this paragraph with respect to the following year.
       - **(ii)** Not later than October 15 of each year beginning with 2010, the Secretary shall disclose to the Commissioner of Social Security the following information for the purpose of carrying out the income-related increase in the base beneficiary premium under this paragraph with respect to the following year:
         - **(I)** The modified adjusted gross income threshold applicable under paragraph (2) of section 1395r(i) of this title (including application of paragraph (5) of such section).
         - **(II)** The applicable percentage determined under paragraph (3)(C) of section 1395r(i) of this title (including application of paragraph (5) of such section).
         - **(III)** The monthly adjustment amount specified in subparagraph (B).
         - **(IV)** Any other information the Commissioner of Social Security determines necessary to carry out the income-related increase in the base beneficiary premium under this paragraph.
     - **(F)** The formula used to determine the monthly adjustment amount specified under subparagraph (B) shall only be used for the purpose of determining such monthly adjustment amount under such subparagraph.
-  - **(8)**
-    - **(A)** The base beneficiary premium under this paragraph for a prescription drug plan for a month in 2024 through 2029 shall be computed as follows:
-      - **(i)** The base beneficiary premium for a month in 2024 shall be equal to the lesser of—
-        - **(I)** the base beneficiary premium computed under paragraph (2) for a month in 2023 increased by 6 percent; or
-        - **(II)** the base beneficiary premium computed under paragraph (2) for a month in 2024 that would have applied if this paragraph had not been enacted.
-      - **(ii)** The base beneficiary premium for a month in 2025 shall be equal to the lesser of—
-        - **(I)** the base beneficiary premium computed under clause (i) for a month in 2024 increased by 6 percent; or
-        - **(II)** the base beneficiary premium computed under paragraph (2) for a month in 2025 that would have applied if this paragraph had not been enacted.
-      - **(iii)** The base beneficiary premium for a month in 2026 shall be equal to the lesser of—
-        - **(I)** the base beneficiary premium computed under clause (ii) for a month in 2025 increased by 6 percent; or
-        - **(II)** the base beneficiary premium computed under paragraph (2) for a month in 2026 that would have applied if this paragraph had not been enacted.
-      - **(iv)** The base beneficiary premium for a month in 2027 shall be equal to the lesser of—
-        - **(I)** the base beneficiary premium computed under clause (iii) for a month in 2026 increased by 6 percent; or
-        - **(II)** the base beneficiary premium computed under paragraph (2) for a month in 2027 that would have applied if this paragraph had not been enacted.
-      - **(v)** The base beneficiary premium for a month in 2028 shall be equal to the lesser of—
-        - **(I)** the base beneficiary premium computed under clause (iv) for a month in 2027 increased by 6 percent; or
-        - **(II)** the base beneficiary premium computed under paragraph (2) for a month in 2028 that would have applied if this paragraph had not been enacted.
-      - **(vi)** The base beneficiary premium for a month in 2029 shall be equal to the lesser of—
-        - **(I)** the base beneficiary premium computed under clause (v) for a month in 2028 increased by 6 percent; or
-        - **(II)** the base beneficiary premium computed under paragraph (2) for a month in 2029 that would have applied if this paragraph had not been enacted.
-    - **(B)** The base beneficiary premium for a month in 2030 or a subsequent year shall be computed under paragraph (2) without regard to this paragraph.
-  - **(9)**
-    - **(A)** Subject to subparagraph (B), for purposes of paragraph (3)(A), the percent specified under this paragraph for 2030 and each subsequent year is the percent that the Secretary determines is necessary to ensure that the base beneficiary premium computed under paragraph (2) for a month in 2030 is equal to the lesser of—
-      - **(i)** the base beneficiary premium computed under paragraph (8)(A)(vi) for a month in 2029 increased by 6 percent; or
-      - **(ii)** the base beneficiary premium computed under paragraph (2) for a month in 2030 that would have applied if this paragraph had not been enacted.
-    - **(B)** The percent specified under subparagraph (A) may not be less than 20 percent.
 - **(b)**
-  - **(1)** Subject to the succeeding provisions of this subsection, in the case of a part D eligible individual described in paragraph (2) with respect to a continuous period of eligibility, there shall be an increase in the monthly beneficiary premium established under subsection (a) in an amount determined under paragraph (3).
+  - **(1)** Subject to the succeeding provisions of this subsection, in the case of a part D eligible individual described in paragraph (2) with respect to a continuous period of eligibility, there shall be an increase in the monthly beneficiary premium established under subsection (a) of this section in an amount determined under paragraph (3).
   - **(2)** A part D eligible individual described in this paragraph is, with respect to a continuous period of eligibility, an individual for whom there is a continuous period of 63 days or longer (all of which in such continuous period of eligibility) beginning on the day after the last date of the individual’s initial enrollment period under section 1395w–101(b)(2) of this title and ending on the date of enrollment under a prescription drug plan or MA–PD plan during all of which the individual was not covered under any creditable prescription drug coverage.
   - **(3)**
     - **(A)** The amount determined under this paragraph for a part D eligible individual for a continuous period of eligibility is the greater of—
       - **(i)** an amount that the Secretary determines is actuarially sound for each uncovered month (as defined in subparagraph (B)) in the same continuous period of eligibility; or
-      - **(ii)** 1 percent of the base beneficiary premium (computed under paragraph (2) or (8) of subsection (a) (as applicable)) for each such uncovered month in such period.
+      - **(ii)** 1 percent of the base beneficiary premium (computed under subsection (a)(2) of this section) for each such uncovered month in such period.
     - **(B)** For purposes of this subsection, the term “uncovered month” means, with respect to a part D eligible individual, any month beginning after the end of the initial enrollment period under section 1395w–101(b)(2) of this title unless the individual can demonstrate that the individual had creditable prescription drug coverage (as defined in paragraph (4)) for any portion of such month.
   - **(4)** For purposes of this part, the term “creditable prescription drug coverage” means any of the following coverage, but only if the coverage meets the requirement of paragraph (5):
     - **(A)** Coverage under a prescription drug plan or under an MA–PD plan.
-    - **(B)** Coverage under a medicaid plan under subchapter XIX or under a waiver under section 1315 of this title .
+    - **(B)** Coverage under a medicaid plan under subchapter XIX of this chapter or under a waiver under section 1315 of this title .
     - **(C)** Coverage under a group health plan, including a health benefits plan under chapter 89 of title 5 (commonly known as the Federal employees health benefits program), and a qualified retiree prescription drug plan (as defined in section 1395w–132(a)(2) of this title ).
     - **(D)** Coverage under a State pharmaceutical assistance program described in section 1395w–133(b)(1) of this title .
     - **(E)** Coverage for veterans, and survivors and dependents of veterans, under chapter 17 of title 38.
@@ -112,14 +86,14 @@ generated_at: "2026-03-29T02:15:36.230Z"
     - **(C)** In the case of a part D eligible individual who was enrolled in prescription drug coverage of the type described in subparagraphs (B) through (H) of paragraph (4) which is not creditable prescription drug coverage because it does not meet the requirement of paragraph (5), the individual may apply to the Secretary to have such coverage treated as creditable prescription drug coverage if the individual establishes that the individual was not adequately informed that such coverage did not meet such requirement.
   - **(7)**
     - **(A)** Subject to subparagraph (B), for purposes of this subsection, the term “continuous period of eligibility” means, with respect to a part D eligible individual, the period that begins with the first day on which the individual is eligible to enroll in a prescription drug plan under this part and ends with the individual’s death.
-    - **(B)** Any period during all of which a part D eligible individual is entitled to hospital insurance benefits under part A and—
+    - **(B)** Any period during all of which a part D eligible individual is entitled to hospital insurance benefits under part A of this subchapter and—
       - **(i)** which terminated in or before the month preceding the month in which the individual attained age 65; or
       - **(ii)** for which the basis for eligibility for such entitlement changed between section 426(b) of this title and section 426(a) of this title , between 426(b) 2 2 So in original. Probably should be “section 426(b)”. of this title and section 426–1 of this title , or between section 426–1 of this title and section 426(a) of this title ,
   - **(8)** In no case shall a part D eligible individual who is determined to be a subsidy eligible individual (as defined in section 1395w–114(a)(3) of this title ) be subject to an increase in the monthly beneficiary premium established under subsection (a).
 - **(c)**
-  - **(1)** Subject to paragraphs (2), (3), and (4), the provisions of section 1395w–24(d) of this title shall apply to PDP sponsors and premiums (and any late enrollment penalty) under this part in the same manner as they apply to MA organizations and beneficiary premiums under part C, except that any reference to a Trust Fund is deemed for this purpose a reference to the Medicare Prescription Drug Account.
+  - **(1)** Subject to paragraphs (2), (3), and (4), the provisions of section 1395w–24(d) of this title shall apply to PDP sponsors and premiums (and any late enrollment penalty) under this part in the same manner as they apply to MA organizations and beneficiary premiums under part C of this subchapter, except that any reference to a Trust Fund is deemed for this purpose a reference to the Medicare Prescription Drug Account.
   - **(2)**
-    - **(A)** With respect to late enrollment penalties imposed under subsection (b), the Secretary shall specify the portion of such a penalty that the Secretary estimates is attributable to increased actuarial costs assumed by the PDP sponsor or MA organization (and not taken into account through risk adjustment provided under section 1395w–115(c)(1) of this title or through reinsurance payments under section 1395w–115(b) of this title ) as a result of such late enrollment.
+    - **(A)** With respect to late enrollment penalties imposed under subsection (b) of this section, the Secretary shall specify the portion of such a penalty that the Secretary estimates is attributable to increased actuarial costs assumed by the PDP sponsor or MA organization (and not taken into account through risk adjustment provided under section 1395w–115(c)(1) of this title or through reinsurance payments under section 1395w–115(b) of this title ) as a result of such late enrollment.
     - **(B)** In the case of a late enrollment penalty that is collected from a part D eligible individual in the manner described in section 1395w–24(d)(2)(A) of this title , the Secretary shall provide that only the portion of such penalty estimated under subparagraph (A) shall be paid to the PDP sponsor or MA organization offering the part D plan in which the individual is enrolled.
     - **(C)** In the case of a late enrollment penalty that is collected from a part D eligible individual in a manner other than the manner described in section 1395w–24(d)(2)(A) of this title , the Secretary shall establish procedures for reducing payments otherwise made to the PDP sponsor or MA organization by an amount equal to the amount of such penalty less the portion of such penalty estimated under subparagraph (A).
   - **(3)** In applying this subsection in the case of a fallback prescription drug plan, paragraph (2) shall not apply and the monthly beneficiary premium shall be collected in the manner specified in section 1395w–24(d)(2)(A) of this title (or such other manner as may be provided under section 1395s of this title in the case of monthly premiums under section 1395r of this title ).

@@ -3,9 +3,9 @@ title: "Section 6982 - Special studies; plans for research, development, and dem
 usc_title: 42
 usc_section: "6982"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6982"
-generated_at: "2026-03-29T02:15:36.870Z"
+generated_at: "2026-03-29T17:53:35.440Z"
 ---
 
 # § 6982. Special studies; plans for research, development, and demonstrations
@@ -51,7 +51,7 @@ generated_at: "2026-03-29T02:15:36.870Z"
   - **(4)** The results of such investigation and study, including recommendations, shall be reported to the President and the Congress not later than two years after October 21, 1976 .
   - **(5)** There are authorized to be appropriated not to exceed $2,000,000 to carry out this subsection.
 - **(k)** The Administrator shall undertake a comprehensive study and analysis of and publish a report on systems to alleviate the hazards to aviation from birds congregating and feeding on landfills in the vicinity of airports.
-- **(l)** The Administrator shall complete the research and studies, and submit the reports, required under subsections (b), (c), (d), (e), (f), (g), and (k) not later than October 1, 1978 . The Administrator shall complete the research and studies, and submit the reports, required under subsections (a), (h), and (i) not later than October 1, 1979 . Upon completion, each study specified in subsections (a) through (k) of this section, the Administrator shall prepare a plan for research, development, and demonstration respecting the findings of the study and shall submit any legislative recommendations resulting from such study to appropriate committees of Congress.
+- **(l)** The Administrator shall complete the research and studies, and submit the reports, required under subsections (b), (c), (d), (e), (f), (g), and (k) of this section not later than October 1, 1978 . The Administrator shall complete the research and studies, and submit the reports, required under subsections (a), (h), and (i) of this section not later than October 1, 1979 . Upon completion, each study specified in subsections (a) through (k) of this section, the Administrator shall prepare a plan for research, development, and demonstration respecting the findings of the study and shall submit any legislative recommendations resulting from such study to appropriate committees of Congress.
 - **(m)**
   - **(1)** The Administrator shall conduct a detailed and comprehensive study and submit a report on the adverse effects, if any, of drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy on human health and the environment, including, but not limited to, the effects of such wastes on humans, water, air, health, welfare, and natural resources and on the adequacy of means and measures currently employed by the oil and gas and geothermal drilling and production industry, Government agencies, and others to dispose of and utilize such wastes and to prevent or substantially mitigate such adverse effects. Such study shall include an analysis of—
     - **(A)** the sources and volume of discarded material generated per year from such wastes;
@@ -90,7 +90,7 @@ generated_at: "2026-03-29T02:15:36.870Z"
   - **(6)** the costs of such alternatives;
   - **(7)** the impact of those alternatives on the use of phosphate rock and uranium ore, and other natural resources; and
   - **(8)** the current and potential utilization of such materials.
-- **(q)** There are authorized to be appropriated not to exceed $8,000,000 for the fiscal years 1978 and 1979 to carry out this section other than subsection (j).
+- **(q)** There are authorized to be appropriated not to exceed $8,000,000 for the fiscal years 1978 and 1979 to carry out this section other than subsection (j) of this section.
 - **(r)** The Administrator shall compile, and not later than October 1, 1986 , submit to the Congress, a report on the feasibility and desirability of establishing standards of performance or of taking other additional actions under this chapter to require the generators of hazardous waste to reduce the volume or quantity and toxicity of the hazardous waste they generate, and of establishing with respect to hazardous wastes required management practices or other requirements to assure such wastes are managed in ways that minimize present and future risks to human health and the environment. Such report shall include any recommendations for legislative changes which the Administrator determines are feasible and desirable to implement the national policy established by section 6902 of this title .
 - **(s)** The Administrator shall conduct detailed, comprehensive studies of methods to extend the useful life of sanitary landfills and to better use sites in which filled or closed landfills are located. Such studies shall address—
   - **(1)** methods to reduce the volume of materials before placement in landfills;

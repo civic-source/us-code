@@ -3,9 +3,9 @@ title: "Section 3302 - Exemptions"
 usc_title: 46
 usc_section: "3302"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "46 U.S.C. § 3302"
-generated_at: "2026-03-29T02:15:53.707Z"
+generated_at: "2026-03-29T17:53:41.783Z"
 ---
 
 # § 3302. Exemptions
@@ -50,7 +50,7 @@ generated_at: "2026-03-29T02:15:53.707Z"
   - **(1)** Except when compliance with major structural or major equipment requirements is necessary to remove an especially hazardous condition, an offshore supply vessel is not subject to regulations or standards for those requirements if the vessel—
     - **(A)** was operating as an offshore supply vessel before January 2, 1979 ; or
     - **(B)** was contracted for before January 2, 1979 , and entered into service as an offshore supply vessel before October 6, 1980 .
-  - **(2)** This subsection does not apply to an offshore supply vessel that is at least 20 years of age.
+  - **(2)** After December 31, 1988 , this subsection does not apply to an offshore supply vessel that is at least 20 years of age.
 - **(h)** An offshore supply vessel operating on January 1, 1979 , under a certificate of inspection issued by the Secretary, is subject to an inspection standard or requirement only if the standard or requirement could have been prescribed for the vessel under authority existing under law on October 5, 1980 .
 - **(i)**
   - **(1)** The Secretary may issue a permit exempting a vessel from any part of the requirements of this part for vessels transporting cargo, including bulk fuel, from one place in Alaska to another place in Alaska only if the vessel—
@@ -77,33 +77,6 @@ generated_at: "2026-03-29T02:15:53.707Z"
     - **(F)** The LST–325, owned by USS LST Ship Memorial, Incorporated, located in Mobile, Alabama.
   - **(2)** The Secretary may issue a permit for a specific voyage or for not more than one year. The Secretary may impose specific requirements about the number of passengers to be carried, manning, the areas or specific routes over which the vessel may operate, or other similar matters.
   - **(3)** A designated Coast Guard official who has reason to believe that a vessel operating under this subsection is in a condition or is operated in a manner that creates an immediate threat to life or the environment or is operated in a manner that is inconsistent with this section, may direct the master or individual in charge to take immediate and reasonable steps to safeguard life and the environment, including directing the vessel to a port or other refuge.
-- **(m)** A seagoing barge or a Great Lakes barge is not subject to inspection under paragraph (6) or (13) of section 3301 of this title if the vessel is unmanned and does not carry—
+- **(m)** A seagoing barge is not subject to inspection under section 3301(6) of this title if the vessel is unmanned and does not carry—
   - **(1)** a hazardous material as cargo; or
   - **(2)** a flammable or combustible liquid, including oil, in bulk.
-- **(n)**
-  - **(1)** A seagoing motor vessel is not subject to inspection under section 3301(7) of this title if the vessel—
-    - **(A)** is a recreational vessel (as defined in section 2101 of this title ) over 300 gross tons as measured under section 14502, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title ;
-    - **(B)** does not carry any cargo or passengers for hire; and
-    - **(C)** is found by the Secretary to comply with large recreational vessel regulations issued by the Secretary.
-  - **(2)** This subsection shall apply only on and after the effective date of regulations referred to in paragraph (1)(C).
-- **(o)**
-  - **(1)** Except as otherwise provided in this subsection, a qualified vessel engaged in a qualified oil spill response shall not be subject to inspection if the qualified vessel—
-    - **(A)** has—
-      - **(i)** an agreement by contract or other approved means with an oil spill removal organization to support a response plan under section 311(j) of the Federal Water Pollution Control Act ( 33 U.S.C. 1321(j) ), including training and exercises related to oil spill response activities; or
-      - **(ii)** been approved by the Secretary to respond to a discharge of oil or to participate in training and exercises related to oil spill response activities;
-    - **(B)** is normally and substantially involved in activities other than, and not adapted to, spill response;
-    - **(C)** complies with all applicable laws for the use of such vessel in the activities for which such vessel is normally and substantially operated, including any inspection requirement under this title for such use; and
-    - **(D)** has at least 1 person aboard possessing certifications for, or who are in training for, applicable hazardous waste operations and emergency response.
-  - **(2)** A qualified vessel under paragraph (1) may—
-    - **(A)** unless otherwise inspected as a towing vessel under this title, tow only—
-      - **(i)** another vessel or a device, including a bladder, designed to carry oil or oil residues with the capacity of less than 250 barrels; or
-      - **(ii)** oil spill response equipment, including boom, skimmers, or other response equipment;
-    - **(B)** carry—
-      - **(i)** temporary storage containers on board for recovered oil or oil-contaminated materials collected during an oil spill response, including bags, drums, and totes as approved by the Secretary;
-      - **(ii)** oil spill response equipment; or
-      - **(iii)** no more than 6 passengers for hire in support of a response plan under Section 311(j) of the Federal Water Pollution Control Act ( 33 U.S.C. 1321(j) ) approved by the Secretary unless the vessel has been inspected under paragraph (4) or (8) of section 3301 or is authorized by the Secretary to carry more than 6 passengers for hire;
-    - **(C)** if the qualified vessel is a tank vessel, be used for storage of recovered oil;
-    - **(D)** conduct any other operation, or engage in training or exercises, in support of a response plan under section 311(j) of the Federal Water Pollution Control Act ( 33 U.S.C. 1321(j) ) approved by the Secretary.
-  - **(3)** In this subsection:
-    - **(A)** The term “qualified vessel” means a vessel operating in Coast Guard District Arctic.
-    - **(B)** The term “qualified oil spill” means an oil spill occurring in waters subject to the jurisdiction of Coast Guard District Arctic.

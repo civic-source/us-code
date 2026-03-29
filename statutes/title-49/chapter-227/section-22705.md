@@ -3,9 +3,9 @@ title: "Section 22705 - Content"
 usc_title: 49
 usc_section: "22705"
 chapter: 227
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 22705"
-generated_at: "2026-03-29T02:16:08.943Z"
+generated_at: "2026-03-29T17:53:48.024Z"
 ---
 
 # § 22705. Content
@@ -22,6 +22,7 @@ generated_at: "2026-03-29T02:16:08.943Z"
   - **(9)** A review of publicly funded projects within the State to improve rail transportation safety and security, including all major projects funded under section 130 of title 23 .
   - **(10)** A performance evaluation of passenger rail services operating in the State, including possible improvements in those services, and a description of strategies to achieve those improvements.
   - **(11)** A compilation of studies and reports on high-speed rail corridor development within the State not included in a previous plan under this subchapter, 1 1 So in original. Probably should be “chapter,”. and a plan for funding any recommended development of such corridors in the State.
+  - **(12)** A statement that the State is in compliance with the requirements of section 22102.
 - **(b)**
   - **(1)** A long-range rail investment program included in a State rail plan under subsection (a)(5) shall, at a minimum, include the following matters:
     - **(A)** A list of any rail capital projects expected to be undertaken or supported in whole or in part by the State.

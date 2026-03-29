@@ -3,9 +3,9 @@ title: "Section 2151 - Definitions"
 usc_title: 18
 usc_section: "2151"
 chapter: 105
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 2151"
-generated_at: "2026-03-29T17:53:15.678Z"
+generated_at: "2026-03-29T17:53:59.642Z"
 ---
 
 # § 2151. Definitions

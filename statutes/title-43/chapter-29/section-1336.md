@@ -3,9 +3,9 @@ title: "Section 1336 - Controversies over jurisdiction; agreements; payments; fi
 usc_title: 43
 usc_section: "1336"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1336"
-generated_at: "2026-03-29T02:15:47.591Z"
+generated_at: "2026-03-29T17:53:03.684Z"
 ---
 
 # § 1336. Controversies over jurisdiction; agreements; payments; final settlement or adjudication; approval of notice concerning oil and gas operations in Gulf of Mexico

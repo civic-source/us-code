@@ -3,9 +3,9 @@ title: "Section 1736 - Restrictive use of information"
 usc_title: 18
 usc_section: "1736"
 chapter: 83
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 1736"
-generated_at: "2026-03-29T17:53:15.660Z"
+generated_at: "2026-03-29T17:53:59.630Z"
 ---
 
 # § 1736. Restrictive use of information

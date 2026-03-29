@@ -1,61 +1,25 @@
 ---
-title: "Section 24904 - Northeast Corridor planning"
+title: "Section 24904 - General authority"
 usc_title: 49
 usc_section: "24904"
 chapter: 249
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 24904"
-generated_at: "2026-03-29T02:16:08.952Z"
+generated_at: "2026-03-29T17:53:48.030Z"
 ---
 
-# § 24904. Northeast Corridor planning
+# § 24904. General authority
 
-- **(a)**
-  - **(1)** Not later than March 31, 2022 , the Northeast Corridor Commission established under section 24905 (referred to in this section as the “Commission”) shall submit a service development plan to Congress.
-  - **(2)** The plan required under paragraph (1) shall—
-    - **(A)** identify key state-of-good-repair, capacity expansion, and capital improvement projects planned for the Northeast Corridor;
-    - **(B)** provide a coordinated and consensus-based plan covering a 15-year period;
-    - **(C)** identify service objectives and the capital investments required to meet such objectives;
-    - **(D)** provide a delivery-constrained strategy that identifies—
-      - **(i)** capital investment phasing;
-      - **(ii)** an evaluation of workforce needs; and
-      - **(iii)** strategies for managing resources and mitigating construction impacts on operations; and
-    - **(E)** include a financial strategy that identifies funding needs and potential funding sources.
-  - **(3)** The Commission shall update the service development plan not less frequently than once every 5 years.
-- **(b)**
-  - **(1)** Not later than November 1 of each year, the Commission shall—
-    - **(A)** develop an annual capital investment plan for the Northeast Corridor; and
-    - **(B)** submit the capital investment plan to—
-      - **(i)** the Secretary of Transportation;
-      - **(ii)** the Committee on Commerce, Science, and Transportation of the Senate; and
-      - **(iii)** the Committee on Transportation and Infrastructure of the House of Representatives.
-  - **(2)** The plan required under paragraph (1) shall—
-    - **(A)** reflect coordination across the entire Northeast Corridor;
-    - **(B)** integrate the individual capital plans developed by Amtrak, States, and commuter authorities in accordance with the cost allocation policy developed and approved under section 24905(c);
-    - **(C)** cover a period of 5 fiscal years, beginning with the fiscal year during which the plan is submitted;
-    - **(D)** notwithstanding section 24902(b), document the projects and programs being undertaken to advance the service objectives and capital investments identified in the Northeast Corridor service development plan developed under subsection (a), and the asset condition needs identified in the Northeast Corridor asset management plans, after considering—
-      - **(i)** the benefits and costs of capital investments in the plan;
-      - **(ii)** project and program readiness;
-      - **(iii)** the operational impacts; and
-      - **(iv)** Federal and non-Federal funding availability;
-    - **(E)** categorize capital projects and programs as primarily associated with 1 of the categories listed under section 24319(c)(2)(C);
-    - **(F)** identify capital projects and programs that are associated with more than 1 category described in subparagraph (E); and
-    - **(G)** include a financial plan that identifies—
-      - **(i)** funding sources and financing methods;
-      - **(ii)** the status of cost sharing agreements pursuant to the cost allocation policy developed under section 24905(c);
-      - **(iii)** the projects and programs that the Commission expects will receive Federal financial assistance; and
-      - **(iv)** the eligible entity or entities that the Commission expects—
-        - **(I)** to receive the Federal financial assistance referred to in clause (iii); and
-        - **(II)** to implement each capital project.
-  - **(3)** The Commission shall require that the information described in paragraph (2) be submitted in a timely manner to allow for a reasonable period of review by, and coordination with, affected agencies before the Commission submits the capital investment plan pursuant to paragraph (1).
-- **(c)** If a capital investment plan has not been developed by the Commission for a given fiscal year, then the funds assigned to the Northeast Corridor account established under section 24317(b) for that fiscal year may be spent only on capital projects and programs contained in the Commission’s capital investment plan for the prior fiscal year.
-- **(d)**
-  - **(1)** Amtrak and other infrastructure owners that provide or support intercity rail passenger transportation along the Northeast Corridor shall develop an asset management system and use and update such system, as necessary, to develop submissions to the Northeast Corridor capital investment plan described in subsection (b).
-  - **(2)** The system required under paragraph (1) shall develop submissions that—
-    - **(A)** are consistent with the transit asset management system (as defined in section 5326(a)(3)); and
-    - **(B)** include—
-      - **(i)** an inventory of all capital assets owned by the developer of the plan;
-      - **(ii)** an assessment of condition of such capital assets;
-      - **(iii)** a description of the resources and processes that will be necessary to bring or to maintain such capital assets in a state of good repair; and
-      - **(iv)** a description of changes in the condition of such capital assets since the submission of the prior version of the plan.
-- **(e)** In this section, the term “Northeast Corridor” means the main line between Boston, Massachusetts, and the District of Columbia, and the Northeast Corridor branch lines connecting to Harrisburg, Pennsylvania, Springfield, Massachusetts, and Spuyten Duyvil, New York, including the facilities and services used to operate and maintain those lines.
+- **(a)** To carry out this chapter and the Regional Rail Reorganization Act of 1973 ( 45 U.S.C. 701 et seq.), Amtrak may—
+  - **(1)** acquire, maintain, and dispose of any interest in property used to provide improved high-speed rail transportation under section 24902 of this title ;
+  - **(2)** acquire, by condemnation or otherwise, any interest in real property that Amtrak considers necessary to carry out the goals of section 24902;
+  - **(3)** provide for rail freight, intercity rail passenger, and commuter rail passenger transportation over property acquired under this section;
+  - **(4)** improve rail rights of way between Boston, Massachusetts, and the District of Columbia (including the route through Springfield, Massachusetts, and routes to Harrisburg, Pennsylvania, and Albany, New York, from the Northeast Corridor main line) to achieve the goals of section 24902 of providing improved high-speed rail passenger transportation between Boston, Massachusetts, and the District of Columbia, and intermediate intercity markets;
+  - **(5)** acquire, build, improve, and install passenger stations, communications and electric power facilities and equipment, public and private highway and pedestrian crossings, and other facilities and equipment necessary to provide improved high-speed rail passenger transportation over rights of way improved under clause (4) of this subsection;
+  - **(6)** make agreements with other carriers and commuter authorities to grant, acquire, or make arrangements for rail freight or commuter rail passenger transportation over, rights of way and facilities acquired under the Regional Rail Reorganization Act of 1973 ( 45 U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 ( 45 U.S.C. 801 et seq.); and
+  - **(7)** appoint a general manager of the Northeast Corridor improvement program.
+- **(b)** Rail freight and commuter rail passenger transportation provided under subsection (a)(3) of this section shall be provided under compensatory agreements with the responsible carriers.
+- **(c)**
+  - **(1)** An agreement under subsection (a)(6) of this section shall provide for reasonable reimbursement of costs but may not cross-subsidize intercity rail passenger, commuter rail passenger, and rail freight transportation.
+  - **(2)** If the parties do not agree, the Surface Transportation Board shall order that the transportation continue over facilities acquired under the Regional Rail Reorganization Act of 1973 ( 45 U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 ( 45 U.S.C. 801 et seq.) and shall determine compensation (without allowing cross-subsidization between commuter rail passenger and intercity rail passenger and rail freight transportation) for the transportation not later than 120 days after the dispute is submitted. The Board shall assign to a rail carrier obtaining transportation under this subsection the costs Amtrak incurs only for the benefit of the carrier, plus a proportionate share of all other costs of providing transportation under this paragraph incurred for the common benefit of Amtrak and the carrier. The proportionate share shall be based on relative measures of volume of car operations, tonnage, or other factors that reasonably reflect the relative use of rail property covered by this subsection.
+  - **(3)** This subsection does not prevent the parties from making an agreement under subsection (a)(6) of this section after the Board makes a decision under this subsection.

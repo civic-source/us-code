@@ -3,9 +3,9 @@ title: "Section 1408e - Additional powers"
 usc_title: 48
 usc_section: "1408e"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "48 U.S.C. § 1408e"
-generated_at: "2026-03-29T02:16:00.803Z"
+generated_at: "2026-03-29T17:53:42.697Z"
 ---
 
 # § 1408e. Additional powers

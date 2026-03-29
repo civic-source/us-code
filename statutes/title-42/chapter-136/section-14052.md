@@ -1,12 +1,17 @@
 ---
-title: "Section 14052 - Transferred"
+title: "Section 14052 - Enhanced penalties for illegal drug use in Federal prisons and for smuggling drugs into Federal prisons"
 usc_title: 42
 usc_section: "14052"
 chapter: 136
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 14052"
-generated_at: "2026-03-29T02:15:37.278Z"
+generated_at: "2026-03-29T17:53:35.894Z"
 ---
 
-# § 14052. Transferred
+# § 14052. Enhanced penalties for illegal drug use in Federal prisons and for smuggling drugs into Federal prisons
 
+- **(a)** It is the policy of the Federal Government that the use or distribution of illegal drugs in the Nation’s Federal prisons will not be tolerated and that such crimes shall be prosecuted to the fullest extent of the law.
+- **(b)** Pursuant to its authority under section 994 of title 28 , the United States Sentencing Commission shall amend its sentencing guidelines to appropriately enhance the penalty for a person convicted of an offense—
+  - **(1)** under section 844 of title 21 involving simple possession of a controlled substance within a Federal prison or other Federal detention facility; or
+  - **(2)** under section 841(b) of title 21 involving the smuggling of a controlled substance into a Federal prison or other Federal detention facility or the distribution or intended distribution of a controlled substance within a Federal prison or other Federal detention facility.
+- **(c)** Notwithstanding any other law, the court shall not sentence a person convicted of an offense described in subsection (b) of this section to probation.

@@ -3,9 +3,9 @@ title: "Section 5326 - Transit asset management"
 usc_title: 49
 usc_section: "5326"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 5326"
-generated_at: "2026-03-29T02:16:08.886Z"
+generated_at: "2026-03-29T17:53:47.976Z"
 ---
 
 # § 5326. Transit asset management

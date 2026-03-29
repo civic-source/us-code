@@ -3,9 +3,9 @@ title: "Section 7257d - Expanded research by Secretary of Energy"
 usc_title: 42
 usc_section: "7257d"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7257d"
-generated_at: "2026-03-29T02:15:36.885Z"
+generated_at: "2026-03-29T17:53:35.456Z"
 ---
 
 # § 7257d. Expanded research by Secretary of Energy
@@ -16,5 +16,5 @@ generated_at: "2026-03-29T02:15:36.885Z"
     - **(A)** the improvement of methods for detecting biological agents or toxins of potential use in a biological attack and the testing of such methods under variable conditions;
     - **(B)** the improvement or pursuit of methods for testing, verifying, and calibrating new detection and surveillance tools and techniques; and
     - **(C)** carrying out other research activities in relevant areas.
-  - **(3)** Not later than 180 days after June 12, 2002 , the Administrator of the National Nuclear Security Administration shall submit to the Committee on Energy and Natural Resources and the Committee on Armed Services of the Senate, and the Committee on Energy and Commerce and the Committee on Armed Services of the House of Representatives, a report setting forth the programs and projects that will be funded prior to the obligation of funds appropriated under subsection (b).
+  - **(3)** Not later than 180 days after June 12, 2002 , the Administrator of the National Nuclear Security Administration shall submit to the Committee on Energy and Natural Resources and the Committee on Armed Services of the Senate, and the Committee on Energy and Commerce and the Committee on Armed Services of the House of Representatives, a report setting forth the programs and projects that will be funded prior to the obligation of funds appropriated under subsection (b) of this section.
 - **(b)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary in each of fiscal years 2002 through 2006.

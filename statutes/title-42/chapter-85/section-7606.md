@@ -3,14 +3,14 @@ title: "Section 7606 - Federal procurement"
 usc_title: 42
 usc_section: "7606"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7606"
-generated_at: "2026-03-29T02:15:36.966Z"
+generated_at: "2026-03-29T17:53:35.536Z"
 ---
 
 # § 7606. Federal procurement
 
 - **(a)** No Federal agency may enter into any contract with any person who is convicted of any offense under section 7413(c) of this title for the procurement of goods, materials, and services to perform such contract at any facility at which the violation which gave rise to such conviction occurred if such facility is owned, leased, or supervised by such person. The prohibition in the preceding sentence shall continue until the Administrator certifies that the condition giving rise to such a conviction has been corrected. For convictions arising under section 7413(c)(2) of this title , the condition giving rise to the conviction also shall be considered to include any substantive violation of this chapter associated with the violation of 7413(c)(2) of this title. The Administrator may extend this prohibition to other facilities owned or operated by the convicted person.
-- **(b)** The Administrator shall establish procedures to provide all Federal agencies with the notification necessary for the purposes of subsection (a).
+- **(b)** The Administrator shall establish procedures to provide all Federal agencies with the notification necessary for the purposes of subsection (a) of this section.
 - **(c)** In order to implement the purposes and policy of this chapter to protect and enhance the quality of the Nation’s air, the President shall, not more than 180 days after December 31, 1970 , cause to be issued an order (1) requiring each Federal agency authorized to enter into contracts and each Federal agency which is empowered to extend Federal assistance by way of grant, loan, or contract to effectuate the purpose and policy of this chapter in such contracting or assistance activities, and (2) setting forth procedures, sanctions, penalties, and such other provisions, as the President determines necessary to carry out such requirement.
 - **(d)** The President may exempt any contract, loan, or grant from all or part of the provisions of this section where he determines such exemption is necessary in the paramount interest of the United States and he shall notify the Congress of such exemption.

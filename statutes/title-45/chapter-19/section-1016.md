@@ -3,9 +3,9 @@ title: "Section 1016 - Temporary rail banking"
 usc_title: 45
 usc_section: "1016"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "45 U.S.C. § 1016"
-generated_at: "2026-03-29T02:15:50.560Z"
+generated_at: "2026-03-29T17:53:02.134Z"
 ---
 
 # § 1016. Temporary rail banking

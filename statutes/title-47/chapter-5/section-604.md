@@ -3,9 +3,9 @@ title: "Section 604 - Effect of transfer"
 usc_title: 47
 usc_section: "604"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 604"
-generated_at: "2026-03-29T02:15:59.243Z"
+generated_at: "2026-03-29T17:53:43.658Z"
 ---
 
 # § 604. Effect of transfer

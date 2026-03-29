@@ -3,9 +3,9 @@ title: "Section 1548 - Separability"
 usc_title: 50
 usc_section: "1548"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "50 U.S.C. § 1548"
-generated_at: "2026-03-29T02:16:14.704Z"
+generated_at: "2026-03-29T17:53:50.972Z"
 ---
 
 # § 1548. Separability

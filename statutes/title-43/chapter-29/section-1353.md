@@ -3,9 +3,9 @@ title: "Section 1353 - Federal purchase and disposition of oil and gas"
 usc_title: 43
 usc_section: "1353"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1353"
-generated_at: "2026-03-29T02:15:47.596Z"
+generated_at: "2026-03-29T17:53:03.691Z"
 ---
 
 # § 1353. Federal purchase and disposition of oil and gas

@@ -3,9 +3,9 @@ title: "Section 6241 - Drawdown and sale of petroleum products"
 usc_title: 42
 usc_section: "6241"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6241"
-generated_at: "2026-03-29T02:15:36.793Z"
+generated_at: "2026-03-29T17:53:35.357Z"
 ---
 
 # § 6241. Drawdown and sale of petroleum products
@@ -30,23 +30,17 @@ generated_at: "2026-03-29T02:15:36.793Z"
   - **(5)** The Secretary may cancel any offer to sell or exchange crude oil as part of any test under this subsection if the Secretary determines that there are insufficient acceptable offers to obtain such crude oil.
   - **(6)** In the case of a sale of any petroleum products under this subsection, the Secretary shall, to the extent funds are available in the SPR Petroleum Account as a result of such sale, acquire petroleum products for the Reserve within the 12-month period beginning after completion of the sale.
   - **(7)** Rules, regulations, or orders issued in order to carry out this subsection which have the applicability and effect of a rule as defined in section 551(4) of title 5 shall not be subject to the requirements of subchapter II of chapter 5 of such title or to section 6393 of this title .
-  - **(8)**
-    - **(A)** Not less than 14 days before the date on which a test is carried out under this subsection, the Secretary shall notify both Houses of Congress of the test.
-    - **(B)** The prior notice requirement in subparagraph (A) shall not apply if the Secretary determines that an emergency exists which requires a test to be carried out, in which case the Secretary shall notify both Houses of Congress of the test as soon as possible.
-    - **(C)**
-      - **(i)** Not later than 180 days after the date on which a test is completed under this subsection, the Secretary shall submit to both Houses of Congress a detailed description of the test.
-      - **(ii)** A detailed description submitted under clause (i) may be included as part of a report made to the President and Congress under section 6245 of this title .
+  - **(8)** The Secretary shall transmit to both Houses of the Congress a detailed explanation of the test carried out under this subsection. Such explanation may be a part of any report made to the President and the Congress under section 6245 of this title .
 - **(h)**
   - **(1)** If the President finds that—
-    - **(A)** a circumstance, other than those described in subsection (d), exists that constitutes, or is likely to become, a domestic or international energy supply shortage of significant scope or duration;
-    - **(B)** action taken under this subsection would assist directly and significantly in preventing or reducing the adverse impact of such shortage;
-    - **(C)** the Secretary has found that action taken under this subsection will not impair the ability of the United States to carry out obligations of the United States under the international energy program; and
-    - **(D)** the Secretary of Defense has found that action taken under this subsection will not impair national security,
+    - **(A)** a circumstance, other than those described in subsection (d) of this section, exists that constitutes, or is likely to become, a domestic or international energy supply shortage of significant scope or duration;
+    - **(B)** action taken under this subsection would assist directly and significantly in preventing or reducing the adverse impact of such shortage; and
+    - **(C)** the Secretary of Defense has found that action taken under this subsection will not impair national security,
   - **(2)** Petroleum products from the Reserve may not be drawn down under this subsection—
     - **(A)** in excess of an aggregate of 30,000,000 barrels with respect to each such shortage;
     - **(B)** for more than 60 days with respect to each such shortage;
-    - **(C)** if there are fewer than 252,400,000 barrels of petroleum product stored in the Reserve; or
-    - **(D)** below the level of an aggregate of 252,400,000 barrels of petroleum product stored in the Reserve.
+    - **(C)** if there are fewer than 500,000,000 barrels of petroleum product stored in the Reserve; or
+    - **(D)** below the level of an aggregate of 500,000,000 barrels of petroleum product stored in the Reserve.
   - **(3)** During any period in which there is a drawdown and sale of the Reserve in effect under this subsection, the Secretary shall transmit a monthly report to the Congress containing an account of the drawdown and sale of petroleum products under this subsection and an assessment of its effect.
   - **(4)** In no case may the drawdown under this subsection be extended beyond 60 days with respect to any domestic energy supply shortage.
 - **(i)** Notwithstanding any other law, the President may permit any petroleum products withdrawn from the Strategic Petroleum Reserve in accordance with this section to be sold and delivered for refining or exchange outside of the United States, in connection with an arrangement for the delivery of refined petroleum products to the United States.

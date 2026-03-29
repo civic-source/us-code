@@ -3,15 +3,15 @@ title: "Section 1303 - Functions and authority"
 usc_title: 41
 usc_section: "1303"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "41 U.S.C. § 1303"
-generated_at: "2026-03-29T02:15:00.439Z"
+generated_at: "2026-03-29T17:53:04.465Z"
 ---
 
 # § 1303. Functions and authority
 
 - **(a)**
-  - **(1)** Subject to sections 1121, 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305 of this title, the Administrator of General Services, the Secretary of Defense, and the Administrator of National Aeronautics and Space, pursuant to their respective authorities under division C of this subtitle, chapter 4 of title 10, chapter 137 legacy provisions (as such term is defined in section 3016 of title 10 ), and the National Aeronautics and Space Act of 1958 ( 42 U.S.C. 2451 et seq.), 1 1 See References in Text note below. shall jointly issue and maintain in accordance with subsection (d) a single Government-wide procurement regulation, to be known as the Federal Acquisition Regulation.
+  - **(1)** Subject to sections 1121, 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305 of this title, the Administrator of General Services, the Secretary of Defense, and the Administrator of National Aeronautics and Space, pursuant to their respective authorities under division C of this subtitle, chapters 4 and 137 of title 10, and the National Aeronautics and Space Act of 1958 ( 42 U.S.C. 2451 et seq.), 1 1 See References in Text note below. shall jointly issue and maintain in accordance with subsection (d) a single Government-wide procurement regulation, to be known as the Federal Acquisition Regulation.
   - **(2)** Other regulations relating to procurement issued by an executive agency shall be limited to—
     - **(A)** regulations essential to implement Government-wide policies and procedures within the agency; and
     - **(B)** additional policies and procedures required to satisfy the specific and unique needs of the agency.

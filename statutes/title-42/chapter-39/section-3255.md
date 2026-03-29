@@ -3,9 +3,9 @@ title: "Section 3255 - Repealed. Pub. L. 91–512, title I, § 104(a) , Oct. 26,
 usc_title: 42
 usc_section: "3255"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3255"
-generated_at: "2026-03-29T02:15:36.664Z"
+generated_at: "2026-03-29T17:53:35.167Z"
 ---
 
 # § 3255. Repealed. Pub. L. 91–512, title I, § 104(a) , Oct. 26, 1970 , 84 Stat. 1228

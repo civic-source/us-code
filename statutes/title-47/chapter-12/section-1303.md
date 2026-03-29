@@ -3,16 +3,16 @@ title: "Section 1303 - Improving Federal data on broadband"
 usc_title: 47
 usc_section: "1303"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "47 U.S.C. § 1303"
-generated_at: "2026-03-29T02:15:59.268Z"
+generated_at: "2026-03-29T17:53:43.676Z"
 ---
 
 # § 1303. Improving Federal data on broadband
 
 - **(a)**
 - **(b)**
-  - **(1)** As part of its report under section 163 of this title , the Federal Communications Commission shall include information comparing the extent of broadband service capability (including data transmission speeds and price for broadband service capability) in a total of 75 communities in at least 25 countries abroad for each of the data rate benchmarks for broadband service utilized by the Commission to reflect different speed tiers.
+  - **(1)** As part of the assessment and report required by section 1302 of this title , the Federal Communications Commission shall include information comparing the extent of broadband service capability (including data transmission speeds and price for broadband service capability) in a total of 75 communities in at least 25 countries abroad for each of the data rate benchmarks for broadband service utilized by the Commission to reflect different speed tiers.
   - **(2)** The Commission shall choose communities for the comparison under this subsection in a manner that will offer, to the extent possible, communities of a population size, population density, topography, and demographic profile that are comparable to the population size, population density, topography, and demographic profile of various communities within the United States. The Commission shall include in the comparison under this subsection—
     - **(A)** a geographically diverse selection of countries; and
     - **(B)** communities including the capital cities of such countries.

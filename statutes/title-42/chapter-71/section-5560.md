@@ -1,0 +1,16 @@
+---
+title: "Section 5560 - International cooperation in solar energy research and programs of education"
+usc_title: 42
+usc_section: "5560"
+chapter: 71
+current_through: "PL 113-100"
+classification: "42 U.S.C. § 5560"
+generated_at: "2026-03-29T17:53:35.328Z"
+---
+
+# § 5560. International cooperation in solar energy research and programs of education
+
+- **(a)** The Chairman, in furtherance of the objectives of this subchapter, is authorized to cooperate and participate jointly with other nations, especially those with agreements for scientific cooperation with the United States, in the following activities:
+  - **(1)** interinstitutional, bilateral, or multilateral research projects in the field of solar energy; and
+  - **(2)** agreements and programs which will facilitate the exchange of information and data relating to solar energy resource assessment and solar energy technologies.
+- **(b)** The National Science Foundation is authorized to encourage, to the maximum extent practicable and consistent with the other objectives of this subchapter, international participation and cooperation in the development and maintenance of programs of education to carry out the policy set forth in section 5558 of this title .

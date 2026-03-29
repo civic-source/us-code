@@ -3,9 +3,9 @@ title: "Section 31c - Geologic mapping program"
 usc_title: 43
 usc_section: "31c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 31c"
-generated_at: "2026-03-29T02:15:47.505Z"
+generated_at: "2026-03-29T17:53:03.596Z"
 ---
 
 # § 31c. Geologic mapping program
@@ -13,20 +13,20 @@ generated_at: "2026-03-29T02:15:47.505Z"
 - **(a)**
   - **(1)** There is established a national cooperative geologic mapping program between the United States Geological Survey and the State geological surveys, acting through the Association.
   - **(2)** The cooperative geologic mapping program shall be—
-    - **(A)** designed and administered to achieve the objectives set forth in subsection (c);
+    - **(A)** designed and administered to achieve the objectives set forth in subsection (c) of this section;
     - **(B)** developed in consultation with the advisory committee; and
     - **(C)** administered through the Survey.
 - **(b)**
   - **(1)** The Survey shall be the lead Federal agency responsible for planning, developing national priorities and standards for, coordinating, and managing the geologic mapping program. In carrying out this paragraph, the Secretary, acting through the Director, shall—
-    - **(A)** develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title , which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after March 12, 2019 ;
-    - **(B)** appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after March 12, 2019 , in accordance with section 31d of this title ; and
+    - **(A)** develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title , which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after March 30, 2009 ;
+    - **(B)** appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after March 30, 2009 , in accordance with section 31d of this title ; and
     - **(C)** submit biennially a report to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Resources of the House of Representatives identifying—
       - **(i)** how the Survey and the Association are coordinating the development and implementation of the geologic mapping program;
       - **(ii)** how the Survey and the Association establish goals, mapping priorities, and target dates for implementation of the geologic mapping program; and
       - **(iii)** how long-term staffing plans for the various components of the geologic mapping program affect successful implementation of the geologic mapping program.
   - **(2)** In addition to paragraph (1), the Secretary, acting through the Director, shall be responsible for developing, as soon as practicable—
     - **(A)** in cooperation with the Association, other Federal and State agencies, public and private sector organizations and academia, the geologic-map data base; and
-    - **(B)** maps and mapping techniques which achieve the objectives specified in subsection (c).
+    - **(B)** maps and mapping techniques which achieve the objectives specified in subsection (c) of this section.
 - **(c)** The objectives of the geologic mapping program shall include—
   - **(1)** determining the Nation’s geologic framework through systematic development of geologic maps at scales appropriate to the geologic setting and the perceived applications, such maps to be contributed to the national geologic map data base;
   - **(2)** development of a complementary national geochronologic and paleontologic data base that provides value-added descriptive and interpretative information to the geologic-map data base;
@@ -69,6 +69,3 @@ generated_at: "2026-03-29T02:15:47.505Z"
       - **(ii)** shall respond to mapping priorities identified for the Federal component and the State component.
     - **(C)** The Survey and recipients of grants under the education component shall not use more than 15.25 percent of the Federal funds made available under the education component for any fiscal year to pay indirect, servicing, or program management charges.
     - **(D)** The Federal share of the cost of activities under the education component for any fiscal year shall not exceed 50 percent.
-  - **(4)**
-    - **(A)** The geologic mapping program shall include an abandoned mine land and mine waste geologic mapping component, the objective of which shall be to establish the geologic framework of abandoned mine land and other land containing mine waste.
-    - **(B)** For the component described in subparagraph (A), the priority shall be mapping abandoned mine land and other land containing mine waste where multiple critical mineral (as defined in section 1606(a) of title 30 ) and metal commodities are anticipated to be present, rather than single mineral resources.

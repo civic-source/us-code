@@ -3,9 +3,9 @@ title: "Section 101 - Special projects of national significance"
 usc_title: 42
 usc_section: "101"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 101"
-generated_at: "2026-03-29T02:15:35.889Z"
+generated_at: "2026-03-29T17:53:34.371Z"
 ---
 
 # § 300ff–101. Special projects of national significance

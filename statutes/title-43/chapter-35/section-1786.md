@@ -3,9 +3,9 @@ title: "Section 1786 - Piedras Blancas Historic Light Station"
 usc_title: 43
 usc_section: "1786"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1786"
-generated_at: "2026-03-29T02:15:47.646Z"
+generated_at: "2026-03-29T17:53:03.736Z"
 ---
 
 # § 1786. Piedras Blancas Historic Light Station
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T02:15:47.646Z"
     - **(B)** objectives to restore the historic Light Station and ancillary buildings;
     - **(C)** an implementation plan for a continuing program of interpretation and public education about the Light Station and its importance to the surrounding community;
     - **(D)** a proposal for minimal administrative and public facilities to be developed or improved at a level compatible with achieving the resources objectives for the Outstanding Natural Area as described in paragraph (1) and with other proposed management activities to accommodate visitors and researchers to the Outstanding Natural Area; and
-    - **(E)** cultural resources management strategies for the Outstanding Natural Area, prepared in consultation with appropriate departments of the State of California, with emphasis on the preservation of the resources of the Outstanding Natural Area and the interpretive, education, and long-term scientific uses of the resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 ( 16 U.S.C. 470aa et seq.) and division A of subtitle III of title 54 within the Outstanding Natural Area.
+    - **(E)** cultural resources management strategies for the Outstanding Natural Area, prepared in consultation with appropriate departments of the State of California, with emphasis on the preservation of the resources of the Outstanding Natural Area and the interpretive, education, and long-term scientific uses of the resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 ( 16 U.S.C. 470aa et seq.) and the National Historic Preservation Act ( 16 U.S.C. 470 et seq.) within the Outstanding Natural Area.
   - **(4)** In order to better implement the management plan and to continue the successful partnerships with the local communities and the Hearst San Simeon State Historical Monument, administered by the California Department of Parks and Recreation, the Secretary may enter into cooperative agreements with the appropriate Federal, State, and local agencies pursuant to section 307(b) of the Federal Land Management 3 3 So in original. The word “Management” probably should not appear. Policy and Management Act of 1976 ( 43 U.S.C. 1737(b) ).
   - **(5)** In order to continue the successful partnership with research organizations and agencies and to assist in the development and implementation of the management plan, the Secretary may authorize within the Outstanding Natural Area appropriate research activities for the purposes identified in subsection (c)(1) and pursuant to section 307(a) of the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1737(a) ).
   - **(6)** State and privately held lands or interests in lands adjacent to the Outstanding Natural Area and identified as appropriate for acquisition in the management plan may be acquired by the Secretary as part of the Outstanding Natural Area only by—

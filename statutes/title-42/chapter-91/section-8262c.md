@@ -3,9 +3,9 @@ title: "Section 8262c - Federal agency energy management training"
 usc_title: 42
 usc_section: "8262c"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 8262c"
-generated_at: "2026-03-29T02:15:37.015Z"
+generated_at: "2026-03-29T17:53:35.584Z"
 ---
 
 # § 8262c. Federal agency energy management training
@@ -19,17 +19,17 @@ generated_at: "2026-03-29T02:15:37.015Z"
     - **(B)** Federal agencies; or
     - **(C)** professional associations.
 - **(b)**
-  - **(1)** Each department and agency described in subsection (a)(1) shall, not later than 60 days following October 24, 1992 , report to the Task Force the following information:
+  - **(1)** Each department and agency described in subsection (a)(1) of this section shall, not later than 60 days following October 24, 1992 , report to the Task Force the following information:
     - **(A)** Those individuals employed by such department or agency on October 24, 1992 , who qualify as trained energy managers.
     - **(B)** The General Schedule (GS) or grade level at which each of the individuals described in subparagraph (A) is employed.
     - **(C)** The facility or facilities for which such individuals are responsible or otherwise stationed.
   - **(2)** The Secretary shall provide a summary of the reports described in paragraph (1) to the Congress as part of the first report submitted under section 8258 of this title after October 24, 1992 .
 - **(c)**
-  - **(1)** Not later than one year after October 24, 1992 , the departments and agencies described under subsection (a)(1) shall upgrade their energy management capabilities by—
+  - **(1)** Not later than one year after October 24, 1992 , the departments and agencies described under subsection (a)(1) of this section shall upgrade their energy management capabilities by—
     - **(A)** designating facility energy supervisors;
     - **(B)** encouraging facility energy supervisors to become trained energy managers; and
     - **(C)** increasing the overall number of trained energy managers within such department or agency to a sufficient level to ensure effective implementation of this Act.
-  - **(2)** Departments and agencies described in subsection (a)(1) may hire trained energy managers to be facility energy supervisors. Trained energy managers, including those who are facility supervisors as well as other trained personnel, shall focus their efforts on improving energy efficiency in the following facilities—
+  - **(2)** Departments and agencies described in subsection (a)(1) of this section may hire trained energy managers to be facility energy supervisors. Trained energy managers, including those who are facility supervisors as well as other trained personnel, shall focus their efforts on improving energy efficiency in the following facilities—
     - **(A)** department or agency facilities identified as most costly to operate or most energy inefficient; or
     - **(B)** other facilities identified by the department or agency head as having significant energy savings potential.
-- **(d)** Each department and agency listed in subsection (a)(1) shall report to the Secretary on the status and implementation of the requirements of this section. The Secretary shall include a summary of each such report in the annual report to Congress as required under section 8258(b) of this title .
+- **(d)** Each department and agency listed in subsection (a)(1) of this section shall report to the Secretary on the status and implementation of the requirements of this section. The Secretary shall include a summary of each such report in the annual report to Congress as required under section 8258(b) of this title .

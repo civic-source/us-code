@@ -3,9 +3,9 @@ title: "Section 403 - Protection of the privacy of child victims and child witne
 usc_title: 18
 usc_section: "403"
 chapter: 21
-current_through: "PL 113-100"
+current_through: "PL 114-254"
 classification: "18 U.S.C. § 403"
-generated_at: "2026-03-29T17:53:15.565Z"
+generated_at: "2026-03-29T17:53:59.570Z"
 ---
 
 # § 403. Protection of the privacy of child victims and child witnesses

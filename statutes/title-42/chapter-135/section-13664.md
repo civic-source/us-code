@@ -3,9 +3,9 @@ title: "Section 13664 - Definitions"
 usc_title: 42
 usc_section: "13664"
 chapter: 135
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 13664"
-generated_at: "2026-03-29T02:15:37.277Z"
+generated_at: "2026-03-29T17:53:35.865Z"
 ---
 
 # § 13664. Definitions

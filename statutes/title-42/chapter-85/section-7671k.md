@@ -3,9 +3,9 @@ title: "Section 7671k - Safe alternatives policy"
 usc_title: 42
 usc_section: "7671k"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7671k"
-generated_at: "2026-03-29T02:15:36.988Z"
+generated_at: "2026-03-29T17:53:35.557Z"
 ---
 
 # § 7671k. Safe alternatives policy
@@ -19,5 +19,5 @@ generated_at: "2026-03-29T02:15:36.988Z"
 - **(c)** Within 2 years after November 15, 1990 , the Administrator shall promulgate rules under this section providing that it shall be unlawful to replace any class I or class II substance with any substitute substance which the Administrator determines may present adverse effects to human health or the environment, where the Administrator has identified an alternative to such replacement that—
   - **(1)** reduces the overall risk to human health and the environment; and
   - **(2)** is currently or potentially available.
-- **(d)** Any person may petition the Administrator to add a substance to the lists under subsection (c) or to remove a substance from either of such lists. The Administrator shall grant or deny the petition within 90 days after receipt of any such petition. If the Administrator denies the petition, the Administrator shall publish an explanation of why the petition was denied. If the Administrator grants such petition the Administrator shall publish such revised list within 6 months thereafter. Any petition under this subsection shall include a showing by the petitioner that there are data on the substance adequate to support the petition. If the Administrator determines that information on the substance is not sufficient to make a determination under this subsection, the Administrator shall use any authority available to the Administrator, under any law administered by the Administrator, to acquire such information.
+- **(d)** Any person may petition the Administrator to add a substance to the lists under subsection (c) of this section or to remove a substance from either of such lists. The Administrator shall grant or deny the petition within 90 days after receipt of any such petition. If the Administrator denies the petition, the Administrator shall publish an explanation of why the petition was denied. If the Administrator grants such petition the Administrator shall publish such revised list within 6 months thereafter. Any petition under this subsection shall include a showing by the petitioner that there are data on the substance adequate to support the petition. If the Administrator determines that information on the substance is not sufficient to make a determination under this subsection, the Administrator shall use any authority available to the Administrator, under any law administered by the Administrator, to acquire such information.
 - **(e)** The Administrator shall require any person who produces a chemical substitute for a class I substance to provide the Administrator with such person’s unpublished health and safety studies on such substitute and require producers to notify the Administrator not less than 90 days before new or existing chemicals are introduced into interstate commerce for significant new uses as substitutes for a class I substance. This subsection shall be subject to section 7414(c) of this title .

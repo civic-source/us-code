@@ -3,14 +3,14 @@ title: "Section 6873 - Availability of labor"
 usc_title: 42
 usc_section: "6873"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6873"
-generated_at: "2026-03-29T02:15:36.848Z"
+generated_at: "2026-03-29T17:53:35.417Z"
 ---
 
 # § 6873. Availability of labor
 
-The following actions shall be taken in order to assure that there is a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.] and the Community Service Senior Opportunities Act [ 42 U.S.C. 3056 et seq.], available to work in support of weatherization programs conducted under part A of the Energy Conservation in Existing Buildings Act of 1976 [ 42 U.S.C. 6861 et seq.], section 222(a)(12) 1 1 See References in Text note below. of the Economic Opportunity Act of 1964 [ 42 U.S.C. 2809(a)(12) ], and section 504 of the Housing Act of 1949 [ 42 U.S.C. 1474 ]:
+The following actions shall be taken in order to assure that there is a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 [ 29 U.S.C. 2801 et seq.] and the Older American Community Service Employment Act, 1 1 See References in Text note below. available to work in support of weatherization programs conducted under part A of the Energy Conservation in Existing Buildings Act of 1976 [ 42 U.S.C. 6861 et seq.], section 222(a)(12) 1 of the Economic Opportunity Act of 1964 [ 42 U.S.C. 2809(a)(12) ], and section 504 of the Housing Act of 1949 [ 42 U.S.C. 1474 ]:
 
   - **(1)** First, the Secretary of Energy (in consultation with the Director of the Community Services Administration, the Secretary of Agriculture, and the Secretary of Labor) shall determine the number of individuals needed to supply sufficient labor to carry out such weatherization programs in the various areas of the country.
   - **(2)** After the determination in paragraph (1) is made, the Secretary of Labor shall identify the areas of the country in which there is an insufficient number of such volunteers and training participants and public service employment workers.

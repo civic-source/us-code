@@ -3,9 +3,9 @@ title: "Section 256 - Grants to strengthen the effectiveness, efficiency, and co
 usc_title: 42
 usc_section: "256"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 256"
-generated_at: "2026-03-29T02:15:35.632Z"
+generated_at: "2026-03-29T17:53:34.113Z"
 ---
 
 # § 256. Grants to strengthen the effectiveness, efficiency, and coordination of services for the uninsured and underinsured
@@ -37,17 +37,17 @@ generated_at: "2026-03-29T02:15:35.632Z"
     - **(L)** includes such other information as the Secretary may prescribe.
 - **(c)**
   - **(1)**
-    - **(A)** For each of fiscal years 2003, 2004, 2005, and 2006, the Secretary may not make more than 35 new awards under subsection (a) (excluding renewals of such awards).
+    - **(A)** For each of fiscal years 2003, 2004, 2005, and 2006, the Secretary may not make more than 35 new awards under subsection (a) of this section (excluding renewals of such awards).
     - **(B)** This paragraph shall not be construed to affect awards made before fiscal year 2003.
   - **(2)** An eligible entity may not receive a grant under this section (including with respect to any such grant made before fiscal year 2003) for more than 3 consecutive fiscal years, except that such entity may receive such a grant award for not more than 1 additional fiscal year if—
     - **(A)** the eligible entity submits to the Secretary a request for a grant for such an additional fiscal year;
     - **(B)** the Secretary determines that extraordinary circumstances (as defined in paragraph (3)) justify the granting of such request; and
-    - **(C)** the Secretary determines that granting such request is necessary to further the objectives described in subsection (a).
+    - **(C)** the Secretary determines that granting such request is necessary to further the objectives described in subsection (a) of this section.
   - **(3)**
-    - **(A)** In paragraph (2), the term “extraordinary circumstances” means an event (or events) that is outside of the control of the eligible entity that has prevented the eligible entity from fulfilling the objectives described by such entity in the application submitted under subsection (b)(2).
+    - **(A)** In paragraph (2), the term “extraordinary circumstances” means an event (or events) that is outside of the control of the eligible entity that has prevented the eligible entity from fulfilling the objectives described by such entity in the application submitted under subsection (b)(2) of this section.
     - **(B)** Extraordinary circumstances include—
       - **(i)** natural disasters or other major disruptions to the security or health of the community or geographic area served by the eligible entity; or
-      - **(ii)** a significant economic deterioration in the community or geographic area served by such eligible entity, that directly and adversely affects the entity receiving an award under subsection (a).
+      - **(ii)** a significant economic deterioration in the community or geographic area served by such eligible entity, that directly and adversely affects the entity receiving an award under subsection (a) of this section.
 - **(d)** In awarding grants under this section, the Secretary—
   - **(1)** shall accord priority to applicants that demonstrate the extent of unmet need in the community involved for a more coordinated system of care; and
   - **(2)** may accord priority to applicants that best promote the objectives of this section, taking into consideration the extent to which the application involved—
@@ -80,7 +80,7 @@ generated_at: "2026-03-29T02:15:35.632Z"
 - **(f)**
   - **(1)** A grantee under this section shall—
     - **(A)** report to the Secretary annually regarding—
-      - **(i)** progress in meeting the goals and measurable objectives set forth in the grant application submitted by the grantee under subsection (b); and
+      - **(i)** progress in meeting the goals and measurable objectives set forth in the grant application submitted by the grantee under subsection (b) of this section; and
       - **(ii)** the extent to which activities conducted by such grantee have—
         - **(I)** improved the effectiveness, efficiency, and coordination of services for uninsured and underinsured individuals in the communities or geographic areas served by such grantee;
         - **(II)** resulted in the provision of better quality health care for such individuals; and
@@ -91,7 +91,7 @@ generated_at: "2026-03-29T02:15:35.632Z"
 - **(h)** The Secretary may, either directly or by grant or contract, provide any entity that receives a grant under this section with technical and other nonfinancial assistance necessary to meet the requirements of this section.
 - **(i)** Not later than September 30, 2005 , the Secretary shall prepare and submit to the appropriate committees of Congress a report that describes the extent to which projects funded under this section have been successful in improving the effectiveness, efficiency, and coordination of services for uninsured and underinsured individuals in the communities or geographic areas served by such projects, including whether the projects resulted in the provision of better quality health care for such individuals, and whether such care was provided at lower costs, than would have been provided in the absence of such projects.
 - **(j)** The Secretary may make demonstration awards under this section to historically black health professions schools for the purposes of—
-  - **(1)** developing patient-based research infrastructure at historically black health professions schools, which have an affiliation, or affiliations, with any of the providers identified in subsection (b)(1)(B);
+  - **(1)** developing patient-based research infrastructure at historically black health professions schools, which have an affiliation, or affiliations, with any of the providers identified in subsection (b)(1)(B) of this section;
   - **(2)** establishment of joint and collaborative programs of medical research and data collection between historically black health professions schools and such providers, whose goal is to improve the health status of medically underserved populations; or
   - **(3)** supporting the research-related costs of patient care, data collection, and academic training resulting from such affiliations.
 - **(k)** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2002 through 2006.

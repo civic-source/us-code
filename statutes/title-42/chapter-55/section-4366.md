@@ -3,9 +3,9 @@ title: "Section 4366 - Identification and coordination of research, development,
 usc_title: 42
 usc_section: "4366"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 4366"
-generated_at: "2026-03-29T02:15:36.704Z"
+generated_at: "2026-03-29T17:53:35.250Z"
 ---
 
 # § 4366. Identification and coordination of research, development, and demonstration activities
@@ -16,5 +16,5 @@ generated_at: "2026-03-29T02:15:36.704Z"
   - **(3)** to determine the additional legislative actions which would be needed to assure such coordination to the maximum extent possible.
 - **(b)** The Administrator of the Environmental Protection Agency shall coordinate environmental research, development, and demonstration programs of such Agency with the heads of other Federal agencies in order to minimize unnecessary duplication of programs, projects, and research facilities.
 - **(c)**
-  - **(1)** In order to promote the coordination of environmental research and development activities, and to assure that the action taken and methods used (under subsection (a) and otherwise) to bring about such coordination will be as effective as possible for that purpose, the Council on Environmental Quality in consultation with the Office of Science and Technology Policy shall promptly undertake and carry out a joint study of all aspects of the coordination of environmental research and development. The Chairman of the Council shall prepare a report on the results of such study, together with such recommendations (including legislative recommendations) as he deems appropriate, and shall submit such report to the President and the Congress not later than May 31, 1978 .
+  - **(1)** In order to promote the coordination of environmental research and development activities, and to assure that the action taken and methods used (under subsection (a) of this section and otherwise) to bring about such coordination will be as effective as possible for that purpose, the Council on Environmental Quality in consultation with the Office of Science and Technology Policy shall promptly undertake and carry out a joint study of all aspects of the coordination of environmental research and development. The Chairman of the Council shall prepare a report on the results of such study, together with such recommendations (including legislative recommendations) as he deems appropriate, and shall submit such report to the President and the Congress not later than May 31, 1978 .
   - **(2)** Not later than September 30, 1978 , the President shall report to the Congress on steps he has taken to implement the recommendations included in the report under paragraph (1), including any recommendations he may have for legislation.

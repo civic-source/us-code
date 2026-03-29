@@ -1,12 +1,14 @@
 ---
-title: "Section 1162 - Transferred"
+title: "Section 1162 - Adjudications as to suspended entries; ap­proval"
 usc_title: 43
 usc_section: "1162"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1162"
-generated_at: "2026-03-29T02:15:47.585Z"
+generated_at: "2026-03-29T17:53:03.678Z"
 ---
 
-# § 1162. Transferred
+# § 1162. Adjudications as to suspended entries; ap­proval
+
+Every such adjudication shall be approved by the Secretary of the Interior and shall operate only to divest the United States of the title to the land embraced thereby, without prejudice to the rights of conflicting claimants.
 

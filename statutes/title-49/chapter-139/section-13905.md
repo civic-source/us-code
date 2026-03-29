@@ -3,9 +3,9 @@ title: "Section 13905 - Effective periods of registration"
 usc_title: 49
 usc_section: "13905"
 chapter: 139
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "49 U.S.C. § 13905"
-generated_at: "2026-03-29T02:16:08.915Z"
+generated_at: "2026-03-29T17:53:48.001Z"
 ---
 
 # § 13905. Effective periods of registration
@@ -38,7 +38,8 @@ generated_at: "2026-03-29T02:16:08.915Z"
       - **(i)** this part;
       - **(ii)** an applicable regulation or order of the Secretary or the Board; or
       - **(iii)** a condition of its registration; or
-    - **(D)** withhold, suspend, amend, or revoke any part of a registration of a motor carrier, foreign motor carrier, foreign motor private carrier, broker, or freight forwarder if the Secretary finds that the motor carrier, broker, or freight forwarder does not disclose any relationship through common ownership, common management, common control, or common familial relationship to any other motor carrier, broker, or freight forwarder, or any other applicant for motor carrier, broker, or freight forwarder registration that the Secretary determines is or was unwilling or unable to comply with the relevant requirements listed in section 13902, 13903, or 13904.
+    - **(D)** withhold, suspend, amend, or revoke any part of a registration of a motor carrier, foreign motor carrier, foreign motor private carrier, broker, or freight forwarder if the Secretary finds that—
+      - **(i)** 2 2 So in original. No cl. (ii) has been enacted. the motor carrier, broker, or freight forwarder does not disclose any relationship through common ownership, common management, common control, or common familial relationship to any other motor carrier, broker, or freight forwarder, or any other applicant for motor carrier, broker, or freight forwarder registration that the Secretary determines is or was unwilling or unable to comply with the relevant requirements listed in section 13902, 13903, or 13904 3 3 So in original. Probably should be followed by a period.
   - **(3)** Paragraph (2)(B) shall not apply to a person who is unable to pay a civil penalty because the person is a debtor in a case under chapter 11 of title 11.
   - **(4)** Not later than 12 months after the date of the enactment of this paragraph, the Secretary, after notice and opportunity for public comment, shall issue regulations to provide for the suspension, amendment, or revocation of a registration under this part for failure to pay a civil penalty as provided in paragraph (2)(B).
 - **(e)** Except on application of the registrant, or if the Secretary determines that the registrant failed to disclose a material fact in an application for registration in accordance with subsection (d)(2)(C), the Secretary may revoke a registration of a motor carrier, freight forwarder, or broker, only after—
@@ -50,4 +51,3 @@ generated_at: "2026-03-29T02:16:08.915Z"
     - **(B)** shall revoke the registration of a motor carrier that has been prohibited from operating in interstate commerce for failure to comply with the safety fitness requirements of section 31144.
   - **(2)** Notwithstanding subchapter II of chapter 5 of title 5, the Secretary shall revoke the registration of a motor carrier if the Secretary finds that the carrier is or was conducting unsafe operations that are or were an imminent hazard to public health or property.
   - **(3)** The Secretary may suspend or revoke under this subsection the registration only after giving notice of the suspension or revocation to the registrant. A suspension remains in effect until the registrant complies with the applicable sections or, in the case of a suspension under paragraph (2), until the Secretary revokes the suspension.
-- **(g)** Notwithstanding any other provision of this section, upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by revoking or imposing limitations on existing registrations of Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.

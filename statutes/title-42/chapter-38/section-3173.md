@@ -3,9 +3,9 @@ title: "Section 3173 - Repealed. Pub. L. 108–373, title IV, § 401(a) , Oct. 2
 usc_title: 42
 usc_section: "3173"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3173"
-generated_at: "2026-03-29T02:15:36.661Z"
+generated_at: "2026-03-29T17:53:35.165Z"
 ---
 
 # § 3173. Repealed. Pub. L. 108–373, title IV, § 401(a) , Oct. 27, 2004 , 118 Stat. 1767

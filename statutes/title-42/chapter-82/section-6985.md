@@ -3,9 +3,9 @@ title: "Section 6985 - Special study and demonstration projects on recovery of u
 usc_title: 42
 usc_section: "6985"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 6985"
-generated_at: "2026-03-29T02:15:36.872Z"
+generated_at: "2026-03-29T17:53:35.441Z"
 ---
 
 # § 6985. Special study and demonstration projects on recovery of useful energy and materials
@@ -21,5 +21,5 @@ generated_at: "2026-03-29T02:15:36.872Z"
   - **(8)** the legal constraints and institutional barriers to the acquisition of land needed for solid waste management, including land for facilities and disposal sites;
   - **(9)** in consultation with the Secretary of Agriculture, agricultural waste management problems and practices, the extent of reuse and recovery of resources in such wastes, the prospects for improvement, Federal, State, and local regulations governing such practices, and the economic, social, and environmental consequences of such practices; and
   - **(10)** in consultation with the Secretary of the Interior, mining waste management problems, and practices, including an assessment of existing authorities, technologies, and economics, and the environmental and public health consequences of such practices.
-- **(b)** The Administrator is also authorized to carry out demonstration projects to test and demonstrate methods and techniques developed pursuant to subsection (a).
+- **(b)** The Administrator is also authorized to carry out demonstration projects to test and demonstrate methods and techniques developed pursuant to subsection (a) of this section.
 - **(c)** Section 6981(b) and (c) of this title shall be applicable to investigations, studies, and projects carried out under this section.

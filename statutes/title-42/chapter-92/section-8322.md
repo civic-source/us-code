@@ -3,9 +3,9 @@ title: "Section 8322 - Permanent exemptions"
 usc_title: 42
 usc_section: "8322"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 8322"
-generated_at: "2026-03-29T02:15:37.020Z"
+generated_at: "2026-03-29T17:53:35.588Z"
 ---
 
 # § 8322. Permanent exemptions
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T02:15:37.020Z"
   - **(2)** The demonstration required to be made by a petitioner under paragraph (1) shall be made with respect to the site of such powerplant and reasonable alternative sites.
 - **(b)** After consideration of a petition (and comments thereon) for an exemption for a powerplant from the prohibitions of part A, the Secretary may, by order, grant a permanent exemption under this subsection with respect to natural gas or petroleum, if he finds that the petitioner has demonstrated that—
   - **(1)** with respect to the proposed site of the powerplant, the construction or operation of such a facility using coal or any other alternate fuel is infeasible because of a State or local requirement (other than a building code or a nuisance or zoning law);
-  - **(2)** there is no reasonable alternative site for such powerplant which meets the criteria set forth in subsection (a)(1)(A) through (D); and
+  - **(2)** there is no reasonable alternative site for such powerplant which meets the criteria set forth in subsection (a)(1)(A) through (D) of this section; and
   - **(3)** the granting of the exemption would be in the public interest and would be consistent with the purposes of this chapter.
 - **(c)** After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a cogeneration facility, the Secretary may, by order, grant a permanent exemption under this subsection with respect to natural gas or petroleum, if he—
   - **(1)** finds that the petitioner has demonstrated that economic and other benefits of cogeneration are unobtainable unless petroleum or natural gas, or both, are used in such facility, and
@@ -30,4 +30,4 @@ generated_at: "2026-03-29T02:15:37.020Z"
 - **(e)** After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection with respect to natural gas or petroleum, if he finds that the petitioner has demonstrated that such powerplant will be maintained and operated only for emergency purposes (as defined by rule by the Secretary).
 - **(f)** After consideration of a petition (and comments thereon) for an exemption for a powerplant from one or more of the prohibitions of part A, the Secretary may, by order, grant a permanent exemption under this subsection with respect to natural gas or petroleum if he finds that the petitioner has demonstrated that—
   - **(1)** such exemption is necessary to prevent impairment of reliability of service, and
-  - **(2)** the petitioner, despite diligent good faith efforts, is not able to make the demonstration necessary to obtain an exemption under subsection (a) or (b) in the time required to prevent such impairment of service.
+  - **(2)** the petitioner, despite diligent good faith efforts, is not able to make the demonstration necessary to obtain an exemption under subsection (a) or (b) of this section in the time required to prevent such impairment of service.

@@ -3,9 +3,9 @@ title: "Section 7409 - National primary and secondary ambient air quality standa
 usc_title: 42
 usc_section: "7409"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 7409"
-generated_at: "2026-03-29T02:15:36.907Z"
+generated_at: "2026-03-29T17:53:35.478Z"
 ---
 
 # § 7409. National primary and secondary ambient air quality standards
@@ -16,8 +16,8 @@ generated_at: "2026-03-29T02:15:36.907Z"
     - **(B)** after a reasonable time for interested persons to submit written comments thereon (but no later than 90 days after the initial publication of such proposed standards) shall by regulation promulgate such proposed national primary and secondary ambient air quality standards with such modifications as he deems appropriate.
   - **(2)** With respect to any air pollutant for which air quality criteria are issued after December 31, 1970 , the Administrator shall publish, simultaneously with the issuance of such criteria and information, proposed national primary and secondary ambient air quality standards for any such pollutant. The procedure provided for in paragraph (1)(B) of this subsection shall apply to the promulgation of such standards.
 - **(b)**
-  - **(1)** National primary ambient air quality standards, prescribed under subsection (a) shall be ambient air quality standards the attainment and maintenance of which in the judgment of the Administrator, based on such criteria and allowing an adequate margin of safety, are requisite to protect the public health. Such primary standards may be revised in the same manner as promulgated.
-  - **(2)** Any national secondary ambient air quality standard prescribed under subsection (a) shall specify a level of air quality the attainment and maintenance of which in the judgment of the Administrator, based on such criteria, is requisite to protect the public welfare from any known or anticipated adverse effects associated with the presence of such air pollutant in the ambient air. Such secondary standards may be revised in the same manner as promulgated.
+  - **(1)** National primary ambient air quality standards, prescribed under subsection (a) of this section shall be ambient air quality standards the attainment and maintenance of which in the judgment of the Administrator, based on such criteria and allowing an adequate margin of safety, are requisite to protect the public health. Such primary standards may be revised in the same manner as promulgated.
+  - **(2)** Any national secondary ambient air quality standard prescribed under subsection (a) of this section shall specify a level of air quality the attainment and maintenance of which in the judgment of the Administrator, based on such criteria, is requisite to protect the public welfare from any known or anticipated adverse effects associated with the presence of such air pollutant in the ambient air. Such secondary standards may be revised in the same manner as promulgated.
 - **(c)** The Administrator shall, not later than one year after August 7, 1977 , promulgate a national primary ambient air quality standard for NO 2 concentrations over a period of not more than 3 hours unless, based on the criteria issued under section 7408(c) of this title , he finds that there is no significant evidence that such a standard for such a period is requisite to protect public health.
 - **(d)**
   - **(1)** Not later than December 31, 1980 , and at five-year intervals thereafter, the Administrator shall complete a thorough review of the criteria published under section 7408 of this title and the national ambient air quality standards promulgated under this section and shall make such revisions in such criteria and standards and promulgate such new standards as may be appropriate in accordance with section 7408 of this title and subsection (b) of this section. The Administrator may review and revise criteria or promulgate new standards earlier or more frequently than required under this paragraph.

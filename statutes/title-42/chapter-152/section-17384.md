@@ -3,14 +3,14 @@ title: "Section 17384 - Smart grid technology research, development, and demonst
 usc_title: 42
 usc_section: "17384"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 17384"
-generated_at: "2026-03-29T02:15:37.411Z"
+generated_at: "2026-03-29T17:53:36.042Z"
 ---
 
 # § 17384. Smart grid technology research, development, and demonstration
 
-- **(a)** The Secretary, in consultation with the Federal Energy Regulatory Commission and other appropriate agencies, electric utilities, the States, and other stakeholders, shall carry out a research, development, and demonstration program—
+- **(a)** The Secretary, in consultation with the Federal Energy Regulatory Commission and other appropriate agencies, electric utilities, the States, and other stakeholders, shall carry out a program—
   - **(1)** to develop advanced techniques for measuring peak load reductions and energy-efficiency savings from smart metering, demand response, distributed generation, and electricity storage systems;
   - **(2)** to investigate means for demand response, distributed generation, and storage to provide ancillary services;
   - **(3)** to conduct research to advance the use of wide-area measurement and control networks, including data mining, visualization, advanced computing, and secure and dependable communications in a highly-distributed environment;
@@ -21,14 +21,13 @@ generated_at: "2026-03-29T02:15:37.411Z"
   - **(8)** to promote the use of underutilized electricity generation capacity in any substitution of electricity for liquid fuels in the transportation system of the United States; and
   - **(9)** in consultation with the Federal Energy Regulatory Commission, to propose interconnection protocols to enable electric utilities to access electricity stored in vehicles to help meet peak demand loads.
 - **(b)**
-  - **(1)** The Secretary shall establish a smart grid regional demonstration initiative (referred to in this subsection as the “Initiative”) composed of demonstration projects focused on cost-effective, advanced technologies for use in power grid sensing, communications, analysis, power flow control, visualization, distribution automation, industrial control systems, dynamic line rating systems, grid redesign, and the integration of distributed energy resources.
+  - **(1)** The Secretary shall establish a smart grid regional demonstration initiative (referred to in this subsection as the “Initiative”) composed of demonstration projects specifically focused on advanced technologies for use in power grid sensing, communications, analysis, and power flow control. The Secretary shall seek to leverage existing smart grid deployments.
   - **(2)** The goals of the Initiative shall be—
     - **(A)** to demonstrate the potential benefits of concentrated investments in advanced grid technologies on a regional grid;
     - **(B)** to facilitate the commercial transition from the current power transmission and distribution system technologies to advanced technologies;
     - **(C)** to facilitate the integration of advanced technologies in existing electric networks to improve system performance, power flow control, and reliability;
-    - **(D)** to demonstrate protocols and standards that allow for the measurement and validation of the energy savings and fossil fuel emission reductions associated with the installation and use of energy efficiency and demand response technologies and practices;
-    - **(E)** to investigate differences in each region and regulatory environment regarding best practices in implementing smart grid technologies; and
-    - **(F)** to encourage the commercial application of advanced distribution automation technologies that exert intelligent control over electrical grid functions at the distribution level to improve system resilience.
+    - **(D)** to demonstrate protocols and standards that allow for the measurement and validation of the energy savings and fossil fuel emission reductions associated with the installation and use of energy efficiency and demand response technologies and practices; and
+    - **(E)** to investigate differences in each region and regulatory environment regarding best practices in implementing smart grid technologies.
   - **(3)**
     - **(A)** In carrying out the initiative, 2 2 So in original. Probably should be “Initiative,”. the Secretary shall provide financial support to smart grid demonstration projects in urban, suburban, tribal, and rural areas, including areas where electric system assets are controlled by nonprofit entities and areas where electric system assets are controlled by investor-owned utilities.
     - **(B)** A demonstration project under subparagraph (A) shall be carried out in cooperation with the electric utility that owns the grid facilities in the electricity control area in which the demonstration project is carried out.

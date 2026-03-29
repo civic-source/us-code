@@ -1,12 +1,14 @@
 ---
-title: "Section 1212 - Transferred"
+title: "Section 1212 - Unsworn written statements subject to penalties of presenting false claims"
 usc_title: 43
 usc_section: "1212"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1212"
-generated_at: "2026-03-29T02:15:47.585Z"
+generated_at: "2026-03-29T17:53:03.681Z"
 ---
 
-# § 1212. Transferred
+# § 1212. Unsworn written statements subject to penalties of presenting false claims
+
+Unsworn written statements made in public land matters within the jurisdiction of the Department of the Interior shall remain subject to section 1001 of title 18 .
 

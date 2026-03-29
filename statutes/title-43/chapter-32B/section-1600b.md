@@ -3,9 +3,9 @@ title: "Section 1600b - Colorado River Floodway Task Force"
 usc_title: 43
 usc_section: "1600b"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "43 U.S.C. § 1600b"
-generated_at: "2026-03-29T02:15:47.607Z"
+generated_at: "2026-03-29T17:53:03.704Z"
 ---
 
 # § 1600b. Colorado River Floodway Task Force
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T02:15:47.607Z"
   - **(10)** the Department of Agriculture;
   - **(11)** the Department of the Interior; and
   - **(12)** the Department of State.
-- **(b)** The task force shall be chartered and operate under the provisions of chapter 10 of title 5 and shall prepare recommendations concerning the Colorado River Floodway, which recommendations shall deal with:
+- **(b)** The task force shall be chartered and operate under the provisions of the Federal Advisory Committee Act ( Public Law 92–463 ; 5 U.S.C. App.) and shall prepare recommendations concerning the Colorado River Floodway, which recommendations shall deal with:
   - **(1)** the means to restore and maintain the Floodway specified in section 1600c of this title , including, but not limited to, specific instances where land transfers or relocations, or other changes in land management, might best effect the purposes of this chapter;
   - **(2)** the necessity for additional Floodway management legislation at local, tribal, State, and Federal levels;
   - **(3)** the development of specific design criteria for the creation of the Floodway boundaries;

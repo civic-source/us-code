@@ -3,9 +3,9 @@ title: "Section 1397g - Demonstration projects to address health professions wor
 usc_title: 42
 usc_section: "1397g"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 1397g"
-generated_at: "2026-03-29T02:15:36.398Z"
+generated_at: "2026-03-29T17:53:34.868Z"
 ---
 
 # § 1397g. Demonstration projects to address health professions workforce needs
@@ -16,18 +16,18 @@ generated_at: "2026-03-29T02:15:36.398Z"
     - **(A)**
       - **(i)** A demonstration project conducted by an eligible entity awarded a grant under this section shall, if appropriate, provide eligible individuals participating in the project with financial aid, child care, case management, and other supportive services.
       - **(ii)** Any aid, services, or incentives provided to an eligible beneficiary participating in a demonstration project under this section shall not be considered income, and shall not be taken into account for purposes of determining the individual’s eligibility for, or amount of, benefits under any means-tested program.
-    - **(B)** An eligible entity applying for a grant to carry out a demonstration project under this section shall demonstrate in the application that the entity has consulted with the State agency responsible for administering the State TANF program, the local workforce investment board in the area in which the project is to be conducted (unless the applicant is such board), the State workforce development board established under section 3111 of title 29 , and the State Apprenticeship Agency recognized under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”) [ 29 U.S.C. 50 et seq.] (or if no agency has been recognized in the State, the Office of Apprenticeship of the Department of Labor) and that the project will be carried out in coordination with such entities.
+    - **(B)** An eligible entity applying for a grant to carry out a demonstration project under this section shall demonstrate in the application that the entity has consulted with the State agency responsible for administering the State TANF program, the local workforce investment board in the area in which the project is to be conducted (unless the applicant is such board), the State workforce investment board established under section 2821 of title 29 , and the State Apprenticeship Agency recognized under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”) [ 29 U.S.C. 50 et seq.] (or if no agency has been recognized in the State, the Office of Apprenticeship of the Department of Labor) and that the project will be carried out in coordination with such entities.
     - **(C)** The Secretary shall award at least 3 grants under this subsection to an eligible entity that is an Indian tribe, tribal organization, or Tribal College or University.
   - **(3)**
     - **(A)** An eligible entity awarded a grant to conduct a demonstration project under this subsection shall submit interim reports to the Secretary on the activities carried out under the project and a final report on such activities upon the conclusion of the entities’ participation in the project. Such reports shall include assessments of the effectiveness of such activities with respect to improving outcomes for the eligible individuals participating in the project and with respect to addressing health professions workforce needs in the areas in which the project is conducted.
     - **(B)** The Secretary shall, by grant, contract, or interagency agreement, evaluate the demonstration projects conducted under this subsection. Such evaluation shall include identification of successful activities for creating opportunities for developing and sustaining, particularly with respect to low-income individuals and other entry-level workers, a health professions workforce that has accessible entry points, that meets high standards for education, training, certification, and professional development, and that provides increased wages and affordable benefits, including health care coverage, that are responsive to the workforce’s needs.
     - **(C)** The Secretary shall submit interim reports and, based on the evaluation conducted under subparagraph (B), a final report to Congress on the demonstration projects conducted under this subsection.
   - **(4)** In this subsection:
-    - **(A)** The term “eligible entity” means a State, an Indian tribe or tribal organization, an institution of higher education, a local workforce development board established under section 3122 of title 29 , a sponsor of an apprenticeship program registered under the National Apprenticeship Act [ 29 U.S.C. 50 et seq.] or a community-based organization.
+    - **(A)** The term “eligible entity” means a State, an Indian tribe or tribal organization, an institution of higher education, a local workforce investment board established under section 2832 of title 29 , a sponsor of an apprenticeship program registered under the National Apprenticeship Act [ 29 U.S.C. 50 et seq.] or a community-based organization.
     - **(B)**
       - **(i)** The term “eligible individual” means a 1 1 So in original. Probably should be “an”. individual receiving assistance under the State TANF program.
       - **(ii)** Such term may include other low-income individuals described by the eligible entity in its application for a grant under this section.
-    - **(C)** The terms “Indian tribe” and “tribal organization” have the meaning given such terms in section 5304 of title 25 .
+    - **(C)** The terms “Indian tribe” and “tribal organization” have the meaning given such terms in section 450b of title 25 .
     - **(D)** The term “institution of higher education” has the meaning given that term in section 1001 of title 20 .
     - **(E)** The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, and American Samoa.
     - **(F)** The term “State TANF program” means the temporary assistance for needy families program funded under part A of subchapter IV.
@@ -92,7 +92,7 @@ generated_at: "2026-03-29T02:15:36.398Z"
     - **(C)** The term “personal or home care aide” means an individual who helps individuals who are elderly, disabled, ill, or mentally disabled (including an individual with Alzheimer’s disease or other dementia) to live in their own home or a residential care facility (such as a nursing home, assisted living facility, or any other facility the Secretary determines appropriate) by providing routine personal care services and other appropriate services to the individual.
     - **(D)** The term “State” has the meaning given that term for purposes of subchapter XIX.
 - **(c)**
-  - **(1)** Subject to paragraph (2), out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out subsections (a) and (b), $85,000,000 for each of fiscal years 2010 through 2019.
+  - **(1)** Subject to paragraph (2), out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out subsections (a) and (b), $85,000,000 for each of fiscal years 2010 through 2015.
   - **(2)** With respect to the demonstration projects under subsection (b), the Secretary shall use $5,000,000 of the amount appropriated under paragraph (1) for each of fiscal years 2010 through 2012 to carry out such projects. No funds appropriated under paragraph (1) shall be used to carry out demonstration projects under subsection (b) after fiscal year 2012.
 - **(d)**
   - **(1)** Except as provided in paragraph (2), the preceding sections of this division shall not apply to grant 2 2 So in original. awarded under this section.

@@ -3,9 +3,9 @@ title: "Section 3022 - Definitions"
 usc_title: 42
 usc_section: "3022"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "42 U.S.C. § 3022"
-generated_at: "2026-03-29T02:15:36.633Z"
+generated_at: "2026-03-29T17:53:35.135Z"
 ---
 
 # § 3022. Definitions
@@ -18,7 +18,7 @@ For the purpose of this subchapter—
     - **(C)** use available resources efficiently and with a minimum of duplication; and
     - **(D)** encourage and assist public and private entities that have unrealized potential for meeting the service needs of older individuals to assist the older individuals on a voluntary basis.
   - **(2)** The term “education and training service” means a supportive service designed to assist older individuals to better cope with their economic, health, and personal needs through services such as consumer education, continuing education, health education, pre­retirement education, financial planning, and other education and training services which will advance the objectives of this chapter.
-  - **(3)** The term “family caregiver” means an adult family member, or another individual, who is an informal provider of in-home and community care to an older individual or to an individual of any age with Alzheimer’s disease or a related disorder with neurological and organic brain dysfunction.
+  - **(3)** The term “family caregiver” means an adult family member, or another individual, who is an informal provider of in-home and community care to an older individual or to an individual with Alzheimer’s disease or a related disorder with neurological and organic brain dysfunction.
   - **(4)** The term “unit of general purpose local government” means—
     - **(A)** a political subdivision of the State whose authority is general and not limited to only one function or combination of related functions; or
     - **(B)** an Indian tribal organization.
