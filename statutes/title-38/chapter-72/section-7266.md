@@ -3,14 +3,14 @@ title: "Section 7266 - Notice of appeal"
 usc_title: 38
 usc_section: "7266"
 chapter: 72
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 7266"
-generated_at: "2026-03-29T19:43:27.069Z"
+generated_at: "2026-03-29T20:00:43.138Z"
 ---
 
 # § 7266. Notice of appeal
 
-- **(a)** In order to obtain review by the Court of Appeals for Veterans Claims of a final decision of the Board of Veterans’ Appeals, a person adversely affected by such decision shall file a notice of appeal with the Court within 120 days after the date on which notice of the decision is mailed pursuant to section 7104(e) of this title .
+- **(a)** In order to obtain review by the Court of Appeals for Veterans Claims of a final decision of the Board of Veterans’ Appeals, a person adversely affected by such decision shall file a notice of appeal with the Court within 120 days after the date on which notice of the decision is issued pursuant to section 7104(e) of this title .
 - **(b)** An appellant shall file a notice of appeal under this section by delivering or mailing the notice to the Court.
 - **(c)** A notice of appeal shall be deemed to be received by the Court as follows:
   - **(1)** On the date of receipt by the Court, if the notice is delivered.

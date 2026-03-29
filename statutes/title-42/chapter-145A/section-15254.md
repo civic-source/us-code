@@ -1,15 +1,12 @@
 ---
-title: "Section 15254 - Presentation of State and Local Law Enforcement Badges"
+title: "Section 15254 - Transferred"
 usc_title: 42
 usc_section: "15254"
 chapter: 145
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 15254"
-generated_at: "2026-03-29T19:31:45.801Z"
+generated_at: "2026-03-29T20:00:55.514Z"
 ---
 
-# § 15254. Presentation of State and Local Law Enforcement Badges
+# § 15254. Transferred
 
-- **(a)** A Member of Congress may present a State and Local Law Enforcement Badge to any State and Local Law Enforcement Badge recipient who resides in such Member’s congressional district. If both a Senator and Representative choose to present a State and Local Law Enforcement Badge, such Senator and Representative shall make a joint presentation.
-- **(b)** If no Member of Congress chooses to present the State and Local Law Enforcement Badge as described in subsection (a), the Attorney General, or a designee of the Attorney General, shall present such State and Local Law Enforcement Badge.
-- **(c)** The office of the Member of Congress presenting each State and Local Law Enforcement Badge may make arrangements for the presentation of such State and Local Law Enforcement Badge, and if a Senator and Representative choose to participate jointly as described in subsection (a), the Members shall make joint arrangements. The State and Local Board shall facilitate any such presentation arrangements as requested by the congressional office presenting the State and Local Law Enforcement Badge and shall make arrangements in cases not undertaken by Members of Congress.

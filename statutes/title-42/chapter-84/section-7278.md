@@ -3,9 +3,9 @@ title: "Section 7278 - Availability of appropriations for Department of Energy f
 usc_title: 42
 usc_section: "7278"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7278"
-generated_at: "2026-03-29T19:31:45.354Z"
+generated_at: "2026-03-29T20:00:55.104Z"
 ---
 
 # § 7278. Availability of appropriations for Department of Energy for transportation, uniforms, security, and price support and loan guarantee programs; transfer of funds; acceptance of contributions

@@ -3,9 +3,9 @@ title: "Section 16164 - Time limitation for use of entitlement"
 usc_title: 10
 usc_section: "16164"
 chapter: 1607
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 16164"
-generated_at: "2026-03-29T19:43:38.166Z"
+generated_at: "2026-03-29T19:58:02.385Z"
 ---
 
 # § 16164. Time limitation for use of entitlement

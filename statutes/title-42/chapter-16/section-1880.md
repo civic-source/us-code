@@ -3,9 +3,9 @@ title: "Section 1880 - National Medal of Science"
 usc_title: 42
 usc_section: "1880"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1880"
-generated_at: "2026-03-29T19:31:44.980Z"
+generated_at: "2026-03-29T20:00:54.730Z"
 ---
 
 # § 1880. National Medal of Science

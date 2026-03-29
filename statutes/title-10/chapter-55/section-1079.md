@@ -3,9 +3,9 @@ title: "Section 1079 - Contracts for medical care for spouses and children: plan
 usc_title: 10
 usc_section: "1079"
 chapter: 55
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1079"
-generated_at: "2026-03-29T19:43:37.890Z"
+generated_at: "2026-03-29T19:58:02.056Z"
 ---
 
 # § 1079. Contracts for medical care for spouses and children: plans
@@ -39,13 +39,15 @@ generated_at: "2026-03-29T19:43:37.890Z"
   - **(15)** Hospice care may be provided only in the manner and under the conditions provided in section 1861(dd) of the Social Security Act ( 42 U.S.C. 1395x(dd) ), except that hospice care may be provided to an individual under the age of 21 concurrently with health care services or hospitalization for the same condition.
   - **(16)** Forensic examinations following a sexual assault or domestic violence may be provided.
   - **(17)** Breastfeeding support, supplies (including breast pumps and associated equipment), and counseling shall be provided as appropriate during pregnancy and the postpartum period.
-  - **(19)** 1 1 For delayed enactment of par. (18), see Amendment of Section note below. Preconception and prenatal carrier screening tests shall be provided to eligible covered beneficiaries, with a limit per beneficiary of one test per condition per lifetime, for the following conditions:
+  - **(18)** Treatment for eating disorders may be provided in accordance with subsection (r).
+  - **(19)** Preconception and prenatal carrier screening tests shall be provided to eligible covered beneficiaries, with a limit per beneficiary of one test per condition per lifetime, for the following conditions:
     - **(A)** Cystic Fibrosis.
     - **(B)** Spinal Muscular Atrophy.
     - **(C)** Fragile X Syndrome.
     - **(D)** Tay-Sachs Disease.
     - **(E)** Hemoglobinopathies.
     - **(F)** Conditions linked with Ashkenazi Jewish descent.
+  - **(20)** Medical interventions for the treatment of gender dysphoria that could result in sterilization may not be provided to a child under the age of 18.
 - **(b)** Plans covered by subsection (a) shall include provisions for payment by the patient of the following amounts:
   - **(1)** $25 for each admission to a hospital, or the amount the patient would have been charged under section 1078(a) of this title had the care being paid for been obtained in a hospital of the uniformed services, whichever amount is the greater. The Secretary of Defense may exempt a patient from paying such amount if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
   - **(2)** Except as provided in clause (3), the first $150 each calendar year of the charges for all types of care authorized by subsection (a) and received while in an outpatient status and 20 percent of all subsequent charges for such care during a calendar year. Notwithstanding the preceding sentence, in the case of a dependent of an enlisted member in a pay grade below E–5, the initial deductible each calendar year under this paragraph shall be limited to $50.
@@ -145,3 +147,11 @@ generated_at: "2026-03-29T19:43:37.890Z"
   - **(5)** The Secretary of Defense shall consult with the other administering Secretaries in the administration of this subsection.
 - **(p)** Subject to subsection (a), a physician or other health care practitioner who is eligible to receive reimbursement for services provided under medicare (as defined in section 1086(d)(3)(C) of this title ) shall be considered approved to provide medical care authorized under this section and section 1086 of this title unless the administering Secretaries have information indicating medicare, TRICARE, or other Federal health care program integrity violations by the physician or other health care practitioner.
 - **(q)** In the case of any pharmaceutical agent (as defined in section 1074g(i) of this title ) provided under a contract entered into under this section by a physician, in an outpatient department of a hospital, or otherwise as part of any medical services provided under such a contract, the Secretary of Defense may, under regulations prescribed by the Secretary, adopt special reimbursement methods, amounts, and procedures to encourage the use of high-value products and discourage the use of low-value products, as determined by the Secretary.
+- **(r)**
+  - **(1)** The provision of health care services for an eating disorder under subsection (a)(18) may include the following services:
+    - **(A)** Outpatient services for in-person or telehealth care, including partial hospitalization services and intensive outpatient services.
+    - **(B)** Inpatient services, which shall include residential services only if medically indicated for treatment of a primary diagnosis of an eating disorder.
+  - **(2)** A dependent provided health care services for an eating disorder under subsection (a)(18) shall be provided such services without regard to—
+    - **(A)** the age of the dependent, except with respect to residential services under paragraph (1)(B), which may be provided only to a dependent who is not eligible for hospital insurance benefits under part A of title XVIII of the Social Security Act ( 42 U.S.C. 1395c et seq.); and
+    - **(B)** except as otherwise specified in paragraph (1)(B), whether the eating disorder is the primary or secondary diagnosis of the dependent.
+  - **(3)** In this section, the term “eating disorder” has the meaning given the term “feeding and eating disorders” in the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (or successor edition), published by the American Psychiatric Association.

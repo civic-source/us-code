@@ -3,9 +3,9 @@ title: "Section 8629 - Studies and reports"
 usc_title: 42
 usc_section: "8629"
 chapter: 94
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 8629"
-generated_at: "2026-03-29T19:31:45.479Z"
+generated_at: "2026-03-29T20:00:55.249Z"
 ---
 
 # § 8629. Studies and reports
@@ -17,6 +17,6 @@ generated_at: "2026-03-29T19:31:45.479Z"
   - **(4)** the number and income levels of households assisted by this subchapter;
   - **(5)** the number of households which received such assistance and include one or more individuals who are 60 years or older or disabled or include young children; and
   - **(6)** any other information which the Secretary determines to be reasonably necessary to carry out the provisions of this subchapter.
-- **(b)** The Secretary shall, no later than June 30 of each fiscal year, submit a report to the Congress containing a detailed compilation of the data under subsection (a) of this section with respect to the prior fiscal year, and a report that describes for the prior fiscal year—
+- **(b)** The Secretary shall, no later than June 30 of each fiscal year, submit a report to the Congress containing a detailed compilation of the data under subsection (a) with respect to the prior fiscal year, and a report that describes for the prior fiscal year—
   - **(1)** the manner in which States carry out the requirements of clauses (2), (5), (8), and (15) of section 8624(b) of this title ; and
   - **(2)** the impact of each State’s program on recipient and eligible households.

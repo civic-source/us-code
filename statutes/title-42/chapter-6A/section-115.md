@@ -3,9 +3,9 @@ title: "Section 115 - Protecting patients and improving the accuracy of provider
 usc_title: 42
 usc_section: "115"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 115"
-generated_at: "2026-03-29T02:15:35.915Z"
+generated_at: "2026-03-29T20:00:54.098Z"
 ---
 
 # § 300gg–115. Protecting patients and improving the accuracy of provider directory information

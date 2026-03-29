@@ -3,9 +3,9 @@ title: "Section 2464 - Core logistics capabilities"
 usc_title: 10
 usc_section: "2464"
 chapter: 146
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2464"
-generated_at: "2026-03-29T19:43:37.983Z"
+generated_at: "2026-03-29T19:58:02.167Z"
 ---
 
 # § 2464. Core logistics capabilities
@@ -39,4 +39,3 @@ generated_at: "2026-03-29T19:43:37.983Z"
   - **(8)** In the case of any shortfall that is identified, a description of the shortfall and an identification of the subcategory of the work breakdown structure in which the shortfall occurred.
   - **(9)** In the case of any work breakdown structure category designated as a special interest item or other pursuant to such Instruction, or any successor instruction, an explanation for such designation.
   - **(10)** Whether the core depot-level maintenance and repair capability requirements described in the report submitted under this subsection for the preceding fiscal year have been executed.
-- **(e)** The Comptroller General of the United States shall review each report submitted under subsection (d) for completeness and compliance and shall submit to the congressional defense committees findings and recommendations with respect to the report by not later than 60 days after the date on which the report is submitted to Congress.

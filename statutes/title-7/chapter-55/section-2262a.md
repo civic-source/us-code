@@ -3,9 +3,9 @@ title: "Section 2262a - Overseas tort claims"
 usc_title: 7
 usc_section: "2262a"
 chapter: 55
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 2262a"
-generated_at: "2026-03-29T19:43:58.260Z"
+generated_at: "2026-03-29T19:57:39.151Z"
 ---
 
 # § 2262a. Overseas tort claims

@@ -1,14 +1,12 @@
 ---
-title: "Section 14034 - Disbursement"
+title: "Section 14034 - Transferred"
 usc_title: 42
 usc_section: "14034"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14034"
-generated_at: "2026-03-29T19:31:45.750Z"
+generated_at: "2026-03-29T20:00:55.491Z"
 ---
 
-# § 14034. Disbursement
-
-Not later than 90 days after the receipt of an application under this part, the Attorney General shall either provide grant funds or shall inform the applicant why grant funds are not being provided.
+# § 14034. Transferred
 

@@ -1,16 +1,12 @@
 ---
-title: "Section 3712f - Division of Applied Law Enforcement Technology"
+title: "Section 3712f - Transferred"
 usc_title: 42
 usc_section: "3712f"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3712f"
-generated_at: "2026-03-29T19:31:45.104Z"
+generated_at: "2026-03-29T20:00:54.882Z"
 ---
 
-# § 3712f. Division of Applied Law Enforcement Technology
+# § 3712f. Transferred
 
-- **(a)** There is established within the Office of Science and Technology, the Division of Applied Law Enforcement Technology, headed by an individual appointed by the Attorney General. The purpose of the Division shall be to provide leadership and focus to those grants of the Department of Justice that are made for the purpose of using or improving law enforcement computer systems.
-- **(b)** In carrying out the purpose of the Division, the head of the Division shall—
-  - **(1)** establish clear minimum standards for computer systems that can be purchased using amounts awarded under such grants; and
-  - **(2)** ensure that recipients of such grants use such systems to participate in crime reporting programs administered by the Department, such as Uniform Crime Reports or the National Incident-Based Reporting System.

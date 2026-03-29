@@ -3,9 +3,9 @@ title: "Section 2326a - Dredged material disposal facility partnerships"
 usc_title: 33
 usc_section: "2326a"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2326a"
-generated_at: "2026-03-29T19:43:07.707Z"
+generated_at: "2026-03-29T20:00:31.401Z"
 ---
 
 # § 2326a. Dredged material disposal facility partnerships
@@ -29,10 +29,29 @@ generated_at: "2026-03-29T19:43:07.707Z"
       - **(ii)** provides a written basis for the determination under clause (i) to the non-Federal interest.
   - **(4)** The Secretary shall afford the public an opportunity to comment on the determinations required under this subsection for a use permitted under paragraph (1)(A)(ii).
 - **(b)**
-  - **(1)** The Secretary—
-    - **(A)** may permit the use of any dredged material disposal facility under the jurisdiction of, or managed by, the Secretary by a non-Federal interest if the Secretary determines that such use will not reduce the availability of the facility for project purposes; and
-    - **(B)** may impose fees to recover capital, operation, and maintenance costs associated with such use.
-  - **(2)** Notwithstanding section 1341(c) of this title but subject to advance appropriations, any monies received through collection of fees under this subsection shall be available to the Secretary, and shall be used by the Secretary, for the operation and maintenance of the disposal facility from which the fees were collected.
+  - **(1)**
+    - **(A)** The Secretary—
+      - **(i)** at the request of a non-Federal entity, may permit the use of any dredged material disposal facility under the jurisdiction of, or managed by, the Secretary by the non-Federal entity if the Secretary determines that such use will not reduce the availability of the facility for the authorized water resources development project on a channel in the vicinity of the disposal facility;
+      - **(ii)** at the request of a non-Federal entity, shall permit the non-Federal entity to use a non-Federal disposal facility for the disposal of material dredged by the non-Federal entity, regardless of any connection to a Federal navigation project, if—
+        - **(I)** permission for such use has been granted by the owner of the non-Federal disposal facility; and
+        - **(II)** the Secretary determines that the dredged material disposal needs required to maintain, perform authorized deepening, or restore the navigability and functionality of authorized navigation channels in the vicinity of the non-Federal disposal facility for the 20-year period following the date of the request, including all planned and routine dredging operations necessary to maintain such channels for the authorized purposes during such period, can be met by the available gross capacity of other dredged material disposal facilities in the vicinity of the non-Federal disposal facility; and
+      - **(iii)** shall impose fees to recover capital, operation, and maintenance costs associated with such uses.
+    - **(B)** The Secretary shall—
+      - **(i)** delegate determinations under clauses (i) and (ii)(II) of subparagraph (A) to the District Commander of the district in which the relevant disposal facility is located; and
+      - **(ii)** make such determinations not later than 90 days after receiving the applicable request.
+  - **(2)**
+    - **(A)** Notwithstanding section 1341(c) of this title but subject to advance appropriations, any monies received through collection of fees under this subsection shall be available to the Secretary, and shall be used by the Secretary, for the operation and maintenance of the disposal facility from which the fees were collected.
+    - **(B)** In collecting any fee under this subsection, the Secretary shall reduce the amount imposed under paragraph (1)(A)(iii) to account for improvements made to the non-Federal disposal facility by the non-Federal entity to recover the capacity of the non-Federal disposal facility.
+  - **(3)**
+    - **(A)** Upon request by the owner of a non-Federal disposal facility, the Secretary shall carry out a disposition study of the non-Federal disposal facility, in accordance with section 578b of this title , if—
+      - **(i)** the Secretary has not used the non-Federal disposal facility for the disposal of dredged material during the 20-year period preceding the date of the request; and
+      - **(ii)** the Secretary determines that the non-Federal disposal facility is not needed for such use by the Secretary during the 20-year period following the date of the request.
+    - **(B)** For purposes of carrying out a disposition study required under subparagraph (A), the Secretary shall—
+      - **(i)** consider the non-Federal disposal facility to be a separable element of a project; and
+      - **(ii)** consider a Federal interest in the non-Federal disposal facility to no longer exist.
+  - **(4)** In this subsection:
+    - **(A)** The term “gross capacity” means the total quantity of dredged material that may be placed in a dredged material disposal facility, taking into consideration any additional capacity that can be constructed at the facility.
+    - **(B)** The term “non-Federal disposal facility” means a dredged material disposal facility under the jurisdiction of, or managed by, the Secretary that is owned by a non-Federal entity.
 - **(c)**
   - **(1)** The Secretary may enter into a partnership agreement under section 1962d–5b of title 42 with one or more non-Federal interests with respect to a water resources project, or group of water resources projects within a geographic region, if appropriate, for the acquisition, design, construction, management, or operation of a dredged material processing, treatment, contaminant reduction, or disposal facility (including any facility used to demonstrate potential beneficial uses of dredged material, which may include effective sediment contaminant reduction technologies) using funds provided in whole or in part by the Federal Government.
   - **(2)** One or more of the parties to a partnership agreement under this subsection may perform the acquisition, design, construction, management, or operation of a dredged material processing, treatment, contaminant reduction, or disposal facility.

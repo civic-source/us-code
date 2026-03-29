@@ -3,9 +3,9 @@ title: "Section 299c - Advisory Council for Healthcare Research and Quality"
 usc_title: 42
 usc_section: "299c"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 299c"
-generated_at: "2026-03-29T19:31:44.361Z"
+generated_at: "2026-03-29T20:00:53.962Z"
 ---
 
 # § 299c. Advisory Council for Healthcare Research and Quality
@@ -41,4 +41,4 @@ generated_at: "2026-03-29T19:31:44.361Z"
   - **(1)** Members of the Advisory Council appointed under subsection (c)(2) shall receive compensation for each day (including travel time) engaged in carrying out the duties of the Advisory Council unless declined by the member. Such compensation may not be in an amount in excess of the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day during which such member is engaged in the performance of the duties of the Advisory Council.
   - **(2)** Officials designated under subsection (c)(3) as ex officio members of the Advisory Council may not receive compensation for service on the Advisory Council in addition to the compensation otherwise received for duties carried out as officers of the United States.
 - **(i)** The Director shall provide to the Advisory Council such staff, information, and other assistance as may be necessary to carry out the duties of the Council.
-- **(j)** Notwithstanding section 14(a) of the Federal Advisory Committee Act, the Advisory Council shall continue in existence until otherwise provided by law.
+- **(j)** Notwithstanding section 1013(a) of title 5 , the Advisory Council shall continue in existence until otherwise provided by law.

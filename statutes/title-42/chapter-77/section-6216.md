@@ -3,9 +3,9 @@ title: "Section 6216 - Annual Home Heating Readiness Reports"
 usc_title: 42
 usc_section: "6216"
 chapter: 77
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6216"
-generated_at: "2026-03-29T19:31:45.261Z"
+generated_at: "2026-03-29T20:00:54.992Z"
 ---
 
 # § 6216. Annual Home Heating Readiness Reports
@@ -23,4 +23,4 @@ generated_at: "2026-03-29T19:31:45.261Z"
     - **(G)** any other factor affecting the functional capability of the heating oil industry and propane industry that has the potential to affect national or regional supplies and prices;
   - **(3)** recommendations on steps that the Federal, State, and local governments can take to prevent or alleviate the impact of sharp and sustained increases in the price of natural gas, heating oil, and propane; and
   - **(4)** recommendations on steps that companies engaged in the production, refining, storage, transportation of heating oil or propane, or any other activity related to the heating oil industry or propane industry, can take to prevent or alleviate the impact of sharp and sustained increases in the price of heating oil and propane.
-- **(c)** The Secretary may request information necessary to prepare the Home Heating Readiness Report from companies described in subsection (b)(4) of this section.
+- **(c)** The Secretary may request information necessary to prepare the Home Heating Readiness Report from companies described in subsection (b)(4).

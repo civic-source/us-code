@@ -3,9 +3,9 @@ title: "Section 2601 - General gift funds"
 usc_title: 10
 usc_section: "2601"
 chapter: 155
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2601"
-generated_at: "2026-03-29T19:43:37.993Z"
+generated_at: "2026-03-29T19:58:02.178Z"
 ---
 
 # § 2601. General gift funds
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:43:37.993Z"
 - **(a)**
   - **(1)** The Secretary concerned may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, or money made on the condition that the gift, devise, or bequest be used for the benefit, or in connection with, the establishment, operation, or maintenance, of a school, hospital, library, museum, cemetery, or other institution or organization under the jurisdiction of the Secretary.
   - **(2)**
-    - **(A)** Notwithstanding section 1342 of title 31 , the Secretary concerned may accept a gift of services for a military museum program from a nonprofit entity established for the purpose of supporting a military museum program. Employees or personnel of a nonprofit entity who provide a gift of services under this subparagraph may not be considered to be employees of the United States.
+    - **(A)** Notwithstanding section 1342 of title 31 , the Secretary concerned may accept a gift of services for a military museum program or a professional military education institution from a nonprofit entity established for the purpose of supporting a military museum program or a professional military education institution. Employees or personnel of a nonprofit entity who provide a gift of services under this subparagraph may not be considered to be employees of the United States.
     - **(B)** For the use and benefit of a military museum program, the Secretary concerned may solicit from a bona fide collector a gift of books, manuscripts, works of art, historical artifacts, drawings, plans, models, or condemned or obsolete combat materiel.
 - **(b)**
   - **(1)** The Secretary concerned may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, money, or services made on the condition that the gift, devise, or bequest be used for the benefit of—

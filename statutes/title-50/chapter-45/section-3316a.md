@@ -3,9 +3,9 @@ title: "Section 3316a - Reports on intelligence community participation in vulne
 usc_title: 50
 usc_section: "3316a"
 chapter: 45
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3316a"
-generated_at: "2026-03-29T19:44:52.855Z"
+generated_at: "2026-03-29T20:01:07.353Z"
 ---
 
 # § 3316a. Reports on intelligence community participation in vulnerabilities equities process of Federal Government
@@ -31,3 +31,4 @@ generated_at: "2026-03-29T19:44:52.855Z"
     - **(A)** the aggregate number of vulnerabilities disclosed to vendors or the public pursuant to the Vulnerabilities Equities Process; and
     - **(B)** the aggregate number of vulnerabilities disclosed to vendors or the public pursuant to the Vulnerabilities Equities Process known to have been patched.
   - **(3)** The Director of National Intelligence may forgo submission of an annual report required under this subsection for a calendar year, if the Director notifies the intelligence committees in writing that, with respect to the same calendar year, an annual report required by paragraph 4.3 of the Vulnerabilities Equities Policy and Process document already has been submitted to Congress, and such annual report contains the information that would otherwise be required to be included in an annual report under this subsection.
+  - **(4)** The Director of National Intelligence shall make available to the public each unclassified appendix submitted with a report under paragraph (1) pursuant to paragraph (2).

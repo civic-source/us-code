@@ -1,12 +1,12 @@
 ---
-title: "Section 3789c - Repealed. Pub. L. 98–473, title II , § 609B(e), Oct. 12, 1984 , 98 Stat. 2093"
+title: "Section 3789c - Repealed. Pub. L. 98–473, title II, § 609B(e) , Oct. 12, 1984 , 98 Stat. 2093"
 usc_title: 42
 usc_section: "3789c"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3789c"
-generated_at: "2026-03-29T19:31:45.111Z"
+generated_at: "2026-03-29T20:00:54.882Z"
 ---
 
-# §§ 3789a to 3789c. Repealed. Pub. L. 98–473, title II , § 609B(e), Oct. 12, 1984 , 98 Stat. 2093
+# §§ 3789a to 3789c. Repealed. Pub. L. 98–473, title II, § 609B(e) , Oct. 12, 1984 , 98 Stat. 2093
 

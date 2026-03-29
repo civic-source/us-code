@@ -3,9 +3,9 @@ title: "Section 471h - Cooperation with public and private agencies, organizatio
 usc_title: 16
 usc_section: "471h"
 chapter: 2
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 471h"
-generated_at: "2026-03-29T19:41:13.510Z"
+generated_at: "2026-03-29T19:59:08.095Z"
 ---
 
 # § 471h. Cooperation with public and private agencies, organizations, and individuals; acceptance of contributions and gifts

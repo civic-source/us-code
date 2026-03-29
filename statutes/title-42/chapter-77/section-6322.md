@@ -3,9 +3,9 @@ title: "Section 6322 - State energy conservation plans"
 usc_title: 42
 usc_section: "6322"
 chapter: 77
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6322"
-generated_at: "2026-03-29T19:31:45.288Z"
+generated_at: "2026-03-29T20:00:55.022Z"
 ---
 
 # § 6322. State energy conservation plans
@@ -21,12 +21,17 @@ generated_at: "2026-03-29T19:31:45.288Z"
   - **(2)** programs to promote the availability and use of carpools, vanpools, and public transportation (except that no Federal funds provided under this part shall be used for subsidizing fares for public transportation);
   - **(3)** mandatory standards and policies relating to energy efficiency to govern the procurement practices of such State and its political subdivisions;
   - **(4)** mandatory thermal efficiency standards and insulation requirements for new and renovated buildings (except buildings owned or leased by the United States);
-  - **(5)** a traffic law or regulation which, to the maximum extent practicable consistent with safety, permits the operator of a motor vehicle to turn such vehicle right at a red stop light after stopping and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and
-  - **(6)** procedures for ensuring effective coordination among various local, State, and Federal energy conservation programs within the State, including any program administered within the Office of Technical and Financial Assistance of the Department of Energy and the Low Income Home Energy Assistance Program administered by the Department of Health and Human Services.
+  - **(5)** a traffic law or regulation which, to the maximum extent practicable consistent with safety, permits the operator of a motor vehicle to turn such vehicle right at a red stop light after stopping and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping;
+  - **(6)** procedures for ensuring effective coordination among various local, State, and Federal energy conservation programs within the State, including any program administered within the Office of Technical and Financial Assistance of the Department of Energy and the Low Income Home Energy Assistance Program administered by the Department of Health and Human Services; and
+  - **(7)** the mandatory conduct of activities to support transmission and distribution planning, including—
+    - **(A)** support for local governments and Indian Tribes;
+    - **(B)** feasibility studies for transmission line routes and alternatives;
+    - **(C)** preparation of necessary project design and permits; and
+    - **(D)** outreach to affected stakeholders.
 - **(d)** Each proposed State energy conservation plan may include—
   - **(1)** restrictions governing the hours and conditions of operation of public buildings (except buildings owned or leased by the United States);
   - **(2)** restrictions on the use of decorative or nonessential lighting;
-  - **(3)** programs to increase transportation energy efficiency, including programs to accelerate the use of alternative transportation fuels for State government vehicles, fleet vehicles, taxies, mass transit, and privately owned vehicles;
+  - **(3)** programs to increase transportation energy efficiency, including programs to help reduce carbon emissions in the transportation sector by 2050 and accelerate the use of alternative transportation fuels for, and the electrification of, State government vehicles, fleet vehicles, taxis and ridesharing services, mass transit, school buses, ferries, and privately owned passenger and medium- and heavy-duty vehicles;
   - **(4)** programs of public education to promote energy conservation;
   - **(5)** programs for financing energy efficiency and renewable energy capital investments, projects, and programs—
     - **(A)** which may include loan programs and performance contracting programs for leveraging of additional public and private sector funds, and programs which allow rebates, grants, or other incentives for the purchase and installation of energy efficiency and renewable energy measures; or
@@ -41,19 +46,20 @@ generated_at: "2026-03-29T19:31:45.288Z"
   - **(9)** programs to identify unfair or deceptive acts or practices which relate to the implementation of energy efficiency measures and renewable resource energy measures and to educate consumers concerning such acts or practices;
   - **(10)** programs to modify patterns of energy consumption so as to reduce peak demands for energy and improve the efficiency of energy supply systems, including electricity supply systems;
   - **(11)** programs to promote energy efficiency as an integral component of economic development planning conducted by State, local, or other governmental entities or by energy utilities;
-  - **(12)** in accordance with subsection (f)(2) of this section, programs to implement the Energy Technology Commercialization Services Program;
+  - **(12)** in accordance with subsection (f)(2), programs to implement the Energy Technology Commercialization Services Program;
   - **(13)** programs (enlisting appropriate trade and professional organizations in the development and financing of such programs) to provide training and education (including, if appropriate, training workshops, practice manuals, and testing for each area of energy efficiency technology) to building designers and contractors involved in building design and construction or in the sale, installation, and maintenance of energy systems and equipment to promote building energy efficiency improvements;
   - **(14)** programs for the development of building retrofit standards and regulations, including retrofit ordinances enforced at the time of the sale of a building;
   - **(15)** support for prefeasibility and feasibility studies for projects that utilize renewable energy and energy efficiency resource technologies in order to facilitate access to capital and credit for such projects;
-  - **(16)** programs to facilitate and encourage the voluntary use of renewable energy technologies for eligible participants in Federal agency programs, including the Rural Electrification Administration and the Farmers Home Administration; and
-  - **(17)** any other appropriate method or programs to conserve and to promote efficiency in the use of energy.
+  - **(16)** programs to facilitate and encourage the voluntary use of renewable energy technologies for eligible participants in Federal agency programs, including the Rural Electrification Administration and the Farmers Home Administration;
+  - **(17)** programs that promote the installation and use of demand-response technology and demand-response practices; and
+  - **(18)** any other appropriate method or programs to conserve and to promote efficiency in the use of energy.
 - **(e)** The Governor of any State may submit to the Secretary a State energy conservation plan which is a standby energy conservation plan to significantly reduce energy demand by regulating the public and private consumption of energy during a severe energy supply interruption, which plan may be separately eligible for Federal assistance under this part without regard to subsections (c) and (d) of this section.
 - **(f)**
   - **(1)** The purposes of this subsection are to—
     - **(A)** strengthen State outreach programs to aid small and start-up businesses;
     - **(B)** foster a broader application of engineering principles and techniques to energy technology products, manufacturing, and commercial production by small and start-up businesses; and
     - **(C)** foster greater assistance to small and start-up businesses in dealing with the Federal Government on energy technology related matters.
-  - **(2)** The programs to implement the functions of the Energy Technology Commercialization Services Program, as provided for by subsection (d)(12) of this section, shall—
+  - **(2)** The programs to implement the functions of the Energy Technology Commercialization Services Program, as provided for by subsection (d)(12), shall—
     - **(A)** aid small and start-up businesses in discovering useful and practical information relating to manufacturing and commercial production techniques and costs associated with new energy technologies;
     - **(B)** encourage the application of such information in order to solve energy technology product development and manufacturing problems;
     - **(C)** establish an Energy Technology Commercialization Services Program affiliated with an existing entity in each State;
@@ -66,4 +72,4 @@ generated_at: "2026-03-29T19:31:45.288Z"
     - **(A)** “institution of higher education” has the same meaning as such term is defined in section 1001 of title 20 ;
     - **(B)** “small business” means a private firm that does not exceed the numerical size standard promulgated by the Small Business Administration under section 632(a) of title 15 for the Standard Industrial Classification (SIC) codes designated by the Secretary of Energy; and
     - **(C)** “start-up business” means a small business which has been in existence for 5 years or less.
-- **(g)** The Secretary shall, at least once every 3 years, invite the Governor of each State to review and, if necessary, revise the energy conservation plan of such State submitted under subsection (b) or (e) of this section. Such reviews should consider the energy conservation plans of other States within the region, and identify opportunities and actions carried out in pursuit of common energy conservation goals.
+- **(g)** The Secretary shall, at least once every 3 years, invite the Governor of each State to review and, if necessary, revise the energy conservation plan of such State submitted under subsection (b) or (e). Such reviews should consider the energy conservation plans of other States within the region, and identify opportunities and actions carried out in pursuit of common energy conservation goals.

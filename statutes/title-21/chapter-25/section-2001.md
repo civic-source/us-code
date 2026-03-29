@@ -3,9 +3,9 @@ title: "Section 2001 - Designation of United States Anti-Doping Agency"
 usc_title: 21
 usc_section: "2001"
 chapter: 25
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 2001"
-generated_at: "2026-03-29T19:41:41.744Z"
+generated_at: "2026-03-29T19:59:28.550Z"
 ---
 
 # § 2001. Designation of United States Anti-Doping Agency
@@ -15,7 +15,12 @@ generated_at: "2026-03-29T19:41:41.744Z"
   - **(2)** The term “amateur athletic competition” means a contest, game, meet, match, tournament, regatta, or other event in which amateur athletes compete ( 36 U.S.C. 220501(b)(2) ).
   - **(3)** The term “amateur athlete” means an athlete who meets the eligibility standards established by the national governing body or paralympic sports organization for the sport in which the athlete competes ( 36 U.S.C. 22501(b)(1) ). 1 1 So in original. Probably should be “220501(b)(1)).”
 - **(b)** The United States Anti-Doping Agency shall—
-  - **(1)** serve as the independent anti-doping organization for the amateur athletic competitions recognized by the United States Olympic Committee and be recognized worldwide as the independent national anti-doping organization for the United States;
+  - **(1)**
+    - **(A)** serve as the independent anti-doping organization for the amateur athletic competitions recognized by the United States Olympic and Paralympic Committee;
+    - **(B)** be responsible for certifying in advance any testing conducted by international organizations under the World Anti-Doping Code for international amateur athletes and athletic competitions occurring within the jurisdiction of the United States; and
+    - **(C)** be recognized worldwide as the independent national anti-doping organization for the United States;
   - **(2)** ensure that athletes participating in amateur athletic activities recognized by the United States Olympic Committee are prevented from using performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency;
   - **(3)** implement anti-doping education, research, testing, and adjudication programs to prevent United States Amateur Athletes participating in any activity recognized by the United States Olympic Committee from using performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency;
-  - **(4)** serve as the United States representative responsible for coordination with other anti-doping organizations coordinating amateur athletic competitions recognized by the United States Olympic Committee to ensure the integrity of athletic competition, the health of the athletes, and the prevention of use by United States amateur athletes of performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency.
+  - **(4)** serve as the United States representative responsible for coordination with other anti-doping organizations coordinating amateur athletic competitions recognized by the United States Olympic Committee to ensure the integrity of athletic competition, the health of the athletes, and the prevention of use by United States amateur athletes of performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency; and
+  - **(5)** promote a positive youth sport experience by using a portion of the funding of the United States Anti-Doping Agency to provide educational materials on sportsmanship, character building, and healthy performance for the athletes, parents, and coaches who participate in youth sports.
+- **(c)** Any action taken by the United States Anti-Doping Agency to enforce a policy, procedure, or requirement of the United States Anti-Doping Agency against a person with respect to a violation of Federal law, including an investigation, a disciplinary action, a sanction, or any other administrative action, shall be carried out in a manner that provides due process protection to the person.

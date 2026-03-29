@@ -3,9 +3,9 @@ title: "Section 7031 - Electronic filing and retrieval"
 usc_title: 7
 usc_section: "7031"
 chapter: 98
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 7031"
-generated_at: "2026-03-29T19:43:58.387Z"
+generated_at: "2026-03-29T19:57:39.422Z"
 ---
 
 # § 7031. Electronic filing and retrieval

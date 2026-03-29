@@ -3,9 +3,9 @@ title: "Section 3844 - Administrative requirements for conservation programs"
 usc_title: 16
 usc_section: "3844"
 chapter: 58
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 3844"
-generated_at: "2026-03-29T19:41:13.823Z"
+generated_at: "2026-03-29T19:59:08.448Z"
 ---
 
 # § 3844. Administrative requirements for conservation programs
@@ -117,7 +117,7 @@ generated_at: "2026-03-29T19:41:13.823Z"
       - **(ii)** subject to subparagraph (B), for practices described in paragraph (1), offer to producers increased incentives and higher payment rates than are otherwise statutorily authorized by the applicable conservation program administered by the Secretary.
     - **(B)** An increased payment under subparagraph (A)(ii) shall not exceed 90 percent of practice costs associated with planning, design, materials, equipment, installation, labor, management, maintenance, or training.
   - **(3)**
-    - **(A)** In each of fiscal years 2019 through 2023, the Secretary shall use to carry out this subsection not less than 10 percent of any funds available for conservation programs administered by the Secretary under this chapter (other than the conservation reserve program established under subpart B of part I of subchapter IV).
+    - **(A)** In each of fiscal years 2019 through 2031, the Secretary shall use to carry out this subsection not less than 10 percent of any funds available for conservation programs administered by the Secretary under this chapter (other than the conservation reserve program established under subpart B of part I of subchapter IV).
     - **(B)** Funds available for a specific conservation program shall not be transferred to fund a different conservation program under this chapter.
 - **(o)** The Secretary may not prohibit, through a contract, easement, or agreement under this chapter, a participant in a conservation program administered by the Secretary under this chapter from participating in, and receiving compensation from, an environmental services market if 1 of the purposes of the market is the facilitation of additional conservation benefits that are consistent with the purposes of the conservation program administered by the Secretary.
 - **(p)**

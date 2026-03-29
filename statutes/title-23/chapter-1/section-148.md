@@ -3,9 +3,9 @@ title: "Section 148 - Highway safety improvement program"
 usc_title: 23
 usc_section: "148"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "23 U.S.C. § 148"
-generated_at: "2026-03-29T19:41:43.006Z"
+generated_at: "2026-03-29T19:59:25.819Z"
 ---
 
 # § 148. Highway safety improvement program
@@ -62,7 +62,7 @@ generated_at: "2026-03-29T19:41:43.006Z"
     - **(A)** The term “safety data” means crash, roadway, and traffic data on a public road.
     - **(B)** The term “safety data” includes, in the case of a railway-highway grade crossing, the characteristics of highway and train traffic, licensing, and vehicle data.
   - **(11)**
-    - **(A)** The term“specified safety project” means a project carried out for the purpose of safety under any other section of this title that is consistent with the State strategic highway safety plan.
+    - **(A)** The term “specified safety project” means a project carried out for the purpose of safety under any other section of this title that is consistent with the State strategic highway safety plan.
     - **(B)** The term “specified safety project” includes a project that—
       - **(i)** promotes public awareness and informs the public regarding highway safety matters (including safety for motorcyclists, bicyclists, pedestrians, individuals with disabilities, and other road users);
       - **(ii)** facilitates enforcement of traffic safety laws;

@@ -3,16 +3,16 @@ title: "Section 15101 - Definitions"
 usc_title: 40
 usc_section: "15101"
 chapter: 151
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "40 U.S.C. § 15101"
-generated_at: "2026-03-29T19:43:21.281Z"
+generated_at: "2026-03-29T20:00:35.907Z"
 ---
 
 # § 15101. Definitions
 
 In this subtitle, the following definitions apply:
 
-  - **(1)** The term “Commission” means a Commission established under section 15301.
+  - **(1)** The term “Commission” means a Commission or Authority established under section 15301.
   - **(2)** The term “local development district” means an entity that—
     - **(A)**
       - **(i)** is an economic development district that is—

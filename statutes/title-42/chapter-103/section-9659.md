@@ -3,9 +3,9 @@ title: "Section 9659 - Citizens suits"
 usc_title: 42
 usc_section: "9659"
 chapter: 103
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 9659"
-generated_at: "2026-03-29T19:31:45.523Z"
+generated_at: "2026-03-29T20:00:55.293Z"
 ---
 
 # § 9659. Citizens suits
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:31:45.523Z"
   - **(2)** against the President or any other officer of the United States (including the Administrator of the Environmental Protection Agency and the Administrator of the ATSDR) where there is alleged a failure of the President or of such other officer to perform any act or duty under this chapter, including an act or duty under section 9620 of this title (relating to Federal facilities), which is not discretionary with the President or such other officer.
 - **(b)**
   - **(1)** Any action under subsection (a)(1) shall be brought in the district court for the district in which the alleged violation occurred.
-  - **(2)** Any action brought under subsection (a)(2) section may be brought in the United States District Court for the District of Columbia.
+  - **(2)** Any action brought under subsection (a)(2) may be brought in the United States District Court for the District of Columbia.
 - **(c)** The district court shall have jurisdiction in actions brought under subsection (a)(1) to enforce the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title ), to order such action as may be necessary to correct the violation, and to impose any civil penalty provided for the violation. The district court shall have jurisdiction in actions brought under subsection (a)(2) to order the President or other officer to perform the act or duty concerned.
 - **(d)**
   - **(1)** No action may be commenced under subsection (a)(1) before 60 days after the plaintiff has given notice of the violation to each of the following:

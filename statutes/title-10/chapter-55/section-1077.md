@@ -3,9 +3,9 @@ title: "Section 1077 - Medical care for dependents: authorized care in facilitie
 usc_title: 10
 usc_section: "1077"
 chapter: 55
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1077"
-generated_at: "2026-03-29T19:43:37.889Z"
+generated_at: "2026-03-29T19:58:02.055Z"
 ---
 
 # § 1077. Medical care for dependents: authorized care in facilities of uniformed services
@@ -26,7 +26,11 @@ generated_at: "2026-03-29T19:43:37.889Z"
   - **(13)** Primary and preventive health care services for women (as defined in section 1074d(b) of this title ).
   - **(14)** Preventive health care screening for colon or prostate cancer, at the intervals and using the screening methods prescribed under section 1074d(a)(2) of this title .
   - **(15)** Prosthetic devices, as determined by the Secretary of Defense to be necessary because of significant conditions resulting from trauma, congenital anomalies, or disease.
-  - **(16)** Except as provided by subsection (g), a hearing aid, but only for a dependent of a member of the uniformed services on active duty and only if the dependent has a profound hearing loss, as determined under standards prescribed in regulations by the Secretary of Defense in consultation with the administering Secretaries.
+  - **(16)** Except as provided by subsection (g), a hearing aid, but only if the dependent has a profound hearing loss, as determined under standards prescribed in regulations by the Secretary of Defense in consultation with the administering Secretaries, and only for the following dependents:
+    - **(A)** A dependent of a member of the uniformed services on active duty.
+    - **(B)** A dependent under subparagraph (D) or (I) of section 1072(2) of this title of a former member of the uniformed services who—
+      - **(i)** is entitled to retired or retainer pay, or equivalent pay; and
+      - **(ii)** is enrolled in family coverage under TRICARE Prime.
   - **(17)** Any rehabilitative therapy to improve, restore, or maintain function, or to minimize or prevent deterioration of function, of a patient when prescribed by a physician.
   - **(18)** In accordance with subsection (h), medically necessary food and the medical equipment and supplies necessary to administer such food (other than durable medical equipment and supplies).
 - **(b)** The following types of health care may not be provided under section 1076 of this title :
@@ -34,12 +38,17 @@ generated_at: "2026-03-29T19:43:37.889Z"
   - **(2)** Orthopedic footwear and spectacles, except that, outside of the United States and at stations inside the United States where adequate civilian facilities are unavailable, such items may be sold to dependents at cost to the United States.
   - **(3)** The elective correction of minor dermatological blemishes and marks or minor anatomical anomalies.
 - **(c)**
-  - **(1)** Except as specified in paragraph (2), a dependent participating under a dental plan established under section 1076a of this title may not be provided dental care under section 1076(a) of this title except for emergency dental care, dental care provided outside the United States, and dental care that is not covered by such plan.
+  - **(1)** Except as specified in paragraphs (2) and (3), a dependent participating under a dental plan established under section 1076a of this title may not be provided dental care under section 1076(a) of this title except for emergency dental care, dental care provided outside the United States, and dental care that is not covered by such plan.
   - **(2)**
     - **(A)** Dependents who are 12 years of age or younger and are covered by a dental plan established under section 1076a of this title may be treated by postgraduate dental residents in a dental treatment facility of the uniformed services under a graduate dental education program accredited by the American Dental Association if—
       - **(i)** treatment of pediatric dental patients is necessary in order to satisfy an accreditation standard of the American Dental Association that is applicable to such program, or training in pediatric dental care is necessary for the residents to be professionally qualified to provide dental care for dependent children accompanying members of the uniformed services outside the United States; and
       - **(ii)** the number of pediatric patients at such facility is insufficient to support satisfaction of the accreditation or professional requirements in pediatric dental care that apply to such program or students.
     - **(B)** The total number of dependents treated in all facilities of the uniformed services under subparagraph (A) in a fiscal year may not exceed 2,000.
+  - **(3)**
+    - **(A)** Dependents who reside within a specified geographic area and are covered by a dental plan established under section 1076a may receive dental care in a dental treatment facility of the uniformed services on a space available basis if the Secretary of Defense determines that—
+      - **(i)** civilian dental care within the specified geographic area is inadequate or is not sufficiently available; and
+      - **(ii)** adequate resources exist to provide space available dental care to the dependents at the facility.
+    - **(B)** Care under subparagraph (A) shall be provided on a reimbursable basis.
 - **(d)**
   - **(1)** Notwithstanding subsection (b)(1), hospice care may be provided under section 1076 of this title in facilities of the uniformed services to a terminally ill patient who chooses (pursuant to regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries) to receive hospice care rather than continuing hospitalization or other health care services for treatment of the patient’s terminal illness.
   - **(2)** In this section, the term “hospice care” means the items and services described in section 1861(dd) of the Social Security Act ( 42 U.S.C. 1395x(dd) ).

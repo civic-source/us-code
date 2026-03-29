@@ -3,9 +3,9 @@ title: "Section 1320 - Geological Survey: distribution of publications to public
 usc_title: 44
 usc_section: "1320"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "44 U.S.C. § 1320"
-generated_at: "2026-03-29T19:30:59.105Z"
+generated_at: "2026-03-29T19:59:33.817Z"
 ---
 
 # § 1320. Geological Survey: distribution of publications to public libraries

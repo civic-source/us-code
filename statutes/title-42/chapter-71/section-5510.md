@@ -3,9 +3,9 @@ title: "Section 5510 - Dissemination of information to promote practical use of 
 usc_title: 42
 usc_section: "5510"
 chapter: 71
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5510"
-generated_at: "2026-03-29T19:31:45.231Z"
+generated_at: "2026-03-29T20:00:54.979Z"
 ---
 
 # § 5510. Dissemination of information to promote practical use of solar heating and cooling technologies
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:31:45.231Z"
   - **(2)** determine the extent to which such laws, codes, ordinances, and practices should be changed to permit or facilitate such use, and the methods by which any such changes may best be brought about; and
   - **(3)** study the necessity of a program of incentives to accelerate the commercial application of solar heating and cooling technology.
 - **(c)**
-  - **(1)** In carrying out his functions under subsections (a) and (b) of this section the Secretary, utilizing the capabilities of the National Aeronautics and Space Administration, the Department of Commerce, and the Secretary of Energy to the maximum extent possible, shall establish and operate a Solar Heating and Cooling Information Data Bank (hereinafter in this subsection referred to as the “bank”) for the purpose of collecting, reviewing, processing, and disseminating solar heating and cooling information and data in a timely and accurate manner in support of the objectives of this subchapter.
+  - **(1)** In carrying out his functions under subsections (a) and (b) the Secretary, utilizing the capabilities of the National Aeronautics and Space Administration, the Department of Commerce, and the Secretary of Energy to the maximum extent possible, shall establish and operate a Solar Heating and Cooling Information Data Bank (hereinafter in this subsection referred to as the “bank”) for the purpose of collecting, reviewing, processing, and disseminating solar heating and cooling information and data in a timely and accurate manner in support of the objectives of this subchapter.
   - **(2)** Information and data compiled in the bank shall include—
     - **(A)** technical information (including reports, journal articles, dissertions, 1 1 So in original. Probably should be “dissertations,”. monographs, and project descriptions) on solar energy research, development, and applications;
     - **(B)** technical information on the design, construction, and maintenance of buildings compatible with solar heating and cooling concepts;

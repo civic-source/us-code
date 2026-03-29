@@ -3,14 +3,14 @@ title: "Section 1523 - Federal cybersecurity requirements"
 usc_title: 6
 usc_section: "1523"
 chapter: 6
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 1523"
-generated_at: "2026-03-29T19:43:43.863Z"
+generated_at: "2026-03-29T19:57:32.964Z"
 ---
 
 # § 1523. Federal cybersecurity requirements
 
-- **(a)** Consistent with section 3553 of title 44 , the Secretary, in consultation with the Director, shall exercise the authority to issue binding operational directives to assist the Director in ensuring timely agency adoption of and compliance with policies and standards promulgated under section 11331 of title 40 for securing agency information systems.
+- **(a)** Consistent with section 3553 of title 44 , the Secretary, in consultation with the Director, shall exercise the authority to issue binding operational directives to assist the Director in ensuring timely agency adoption of and compliance with policies and standards promulgated under section 11331 of title 40 1 1 See References in Text note below. for securing agency information systems.
 - **(b)**
   - **(1)** Consistent with policies, standards, guidelines, and directives on information security under subchapter II of chapter 35 of title 44 and the standards and guidelines promulgated under section 11331 of title 40 and except as provided in paragraph (2), not later than 1 year after December 18, 2015 , the head of each agency shall—
     - **(A)** identify sensitive and mission critical data stored by the agency consistent with the inventory required under the first subsection (c) (relating to the inventory of major information systems) and the second subsection (c) (relating to the inventory of information systems) of section 3505 of title 44 ;

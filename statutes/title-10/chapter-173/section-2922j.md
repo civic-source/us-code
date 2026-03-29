@@ -3,9 +3,9 @@ title: "Section 2922j - Annual report on purchase of drop-in fuel"
 usc_title: 10
 usc_section: "2922j"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2922j"
-generated_at: "2026-03-29T02:10:45.169Z"
+generated_at: "2026-03-29T19:58:02.219Z"
 ---
 
 # § 2922j. Annual report on purchase of drop-in fuel

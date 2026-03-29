@@ -3,9 +3,9 @@ title: "Section 2217 - Reports to Congress"
 usc_title: 25
 usc_section: "2217"
 chapter: 24
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 2217"
-generated_at: "2026-03-29T19:41:28.428Z"
+generated_at: "2026-03-29T19:59:16.388Z"
 ---
 
 # § 2217. Reports to Congress

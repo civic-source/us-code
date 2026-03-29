@@ -3,9 +3,9 @@ title: "Section 906 - Wireless supply chain innovation and multilateral security
 usc_title: 47
 usc_section: "906"
 chapter: 8
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "47 U.S.C. § 906"
-generated_at: "2026-03-29T19:44:37.246Z"
+generated_at: "2026-03-29T20:01:01.614Z"
 ---
 
 # § 906. Wireless supply chain innovation and multilateral security
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T19:44:37.246Z"
     - **(D)** To the greatest extent practicable, the Secretary, acting through the NTIA Administrator, shall ensure that any research funded by a grant awarded under this paragraph avoids duplication of other Federal or private sector research.
     - **(E)** Not later than one year after the date on which funds are appropriated to the Innovation Fund, the Secretary, acting through the NTIA Administrator, shall begin awarding grants under this paragraph.
     - **(F)**
-      - **(i)** The Secretary, acting through the NTIA Administrator, and in consultation with the Under Secretary of Commerce for Standards and Technology, shall establish a Federal advisory committee, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.), composed of government and private sector experts, to advise the Secretary and the NTIA Administrator on the administration of the Innovation Fund.
+      - **(i)** The Secretary, acting through the NTIA Administrator, and in consultation with the Under Secretary of Commerce for Standards and Technology, shall establish a Federal advisory committee, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.), 1 1 See References in Text note below. composed of government and private sector experts, to advise the Secretary and the NTIA Administrator on the administration of the Innovation Fund.
       - **(ii)** The advisory committee established under clause (i) shall be composed of—
         - **(I)** representatives from—
         - **(II)** other representatives from the private and public sectors, at the discretion of the NTIA Administrator.
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T19:44:37.246Z"
         - **(I)** additional recommendations on promoting the competitiveness and sustainability of trusted suppliers in the wireless supply chain; and
         - **(II)** any additional authorities needed to facilitate the timely adoption of open standards-based equipment, including authority to provide loans, loan guarantees, and other forms of credit extension that would maximize the use of funds.
       - **(ii)** For each fiscal year for which amounts in the Innovation Fund are available under this paragraph, the Secretary, acting through the NTIA Administrator, shall submit to Congress a report that—
-        - **(I)** describes how, and to whom, amounts in the Innovation Fund have been deployed;
+        - **(I)** describes how, and to whom (including whether recipients are majority owned and controlled by minority individuals and majority owned and controlled by women), amounts in the Innovation Fund have been deployed;
         - **(II)** details the progress of the Secretary and the NTIA Administrator in meeting the objectives described in subparagraph (C); and
         - **(III)** includes any additional information that the Secretary and the NTIA Administrator determine appropriate.
   - **(2)**
@@ -57,15 +57,7 @@ generated_at: "2026-03-29T19:44:37.246Z"
       - **(i)** Advancing research and development of secure and trusted communications technologies.
       - **(ii)** Strengthening supply chains.
       - **(iii)** Promoting the use of trusted vendors.
-    - **(C)** Not later than 1 year after January 1, 2021 , and annually thereafter for each fiscal year during which amounts in the Multilateral Telecommunications Security Fund are available, the Secretary of State shall submit to the relevant committees of Congress a report on the status and progress of the funding mechanism established under subparagraph (B), including—
-      - **(i)** any funding commitments from foreign partners, including each specific amount committed;
-      - **(ii)** governing criteria for use of the Multilateral Telecommunications Security Fund;
-      - **(iii)** an account of—
-        - **(I)** how, and to whom, funds have been deployed;
-        - **(II)** amounts remaining in the Multilateral Telecommunications Security Fund; and
-        - **(III)** the progress of the Secretary of State in meeting the objective described in subparagraph (B); and
-      - **(iv)** additional authorities needed to enhance the effectiveness of the Multilateral Telecommunications Security Fund in achieving the security goals of the United States.
-    - **(D)**
+    - **(C)**
       - **(i)** Not later than 15 days prior to the Fund making a financial commitment associated with the provision of expenditures under subparagraph (A)(ii) in an amount in excess of $1,000,000, the Secretary of State shall submit to the appropriate congressional committees a report in writing that contains the information required by clause (ii).
       - **(ii)** The information required by this clause includes—
         - **(I)** the amount of each such expenditure;

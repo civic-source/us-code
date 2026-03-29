@@ -3,17 +3,17 @@ title: "Section 303 - Payments to States and certain territories; computation of
 usc_title: 42
 usc_section: "303"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 303"
-generated_at: "2026-03-29T19:31:44.476Z"
+generated_at: "2026-03-29T20:00:54.130Z"
 ---
 
 # § 303. Payments to States and certain territories; computation of amount; eligibility of State to receive payment
 
 - **(a)** From the sums appropriated therefor, the Secretary of the Treasury shall pay to each State which has a plan approved under this subchapter, for each quarter, beginning with the quarter commencing October 1, 1960 —
-  - **(1)** Repealed. Pub. L. 97–35, title XXI , § 2184(a)(4)(A), Aug. 13, 1981 , 95 Stat. 816 .
+  - **(1)** Repealed. Pub. L. 97–35, title XXI, § 2184(a)(4)(A) , Aug. 13, 1981 , 95 Stat. 816 .
   - **(2)** in the case of Puerto Rico, the Virgin Islands, and Guam, an amount equal to one-half of the total of the sums expended during such quarter as old-age assistance under the State plan, not counting so much of any expenditure with respect to any month as exceeds $37.50 multiplied by the total number of recipients of old-age assistance for such month; plus
-  - **(3)** Repealed. Pub. L. 97–35, title XXI , § 2184(a)(4)(A), Aug. 13, 1981 , 95 Stat. 816 .
+  - **(3)** Repealed. Pub. L. 97–35, title XXI, § 2184(a)(4)(A) , Aug. 13, 1981 , 95 Stat. 816 .
   - **(4)** in the case of any State, an amount equal to 50 percent of the total amounts expended during such quarter as found necessary by the Secretary for the proper and efficient administration of the State plan.
 - **(b)** The method of computing and paying such amounts shall be as follows:
   - **(1)** The Secretary of Health and Human Services shall, prior to the beginning of each quarter, estimate the amount to be paid to the State for such quarter under the provisions of subsection (a), such estimate to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State’s proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, (B) records showing the number of aged individuals in the State, and (C) such other investigation as the Secretary of Health and Human Services may find necessary.

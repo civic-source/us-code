@@ -3,9 +3,9 @@ title: "Section 246A - Dividends received deduction reduced where portfolio stoc
 usc_title: 26
 usc_section: "246A"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 246A"
-generated_at: "2026-03-29T19:42:47.602Z"
+generated_at: "2026-03-29T19:59:49.197Z"
 ---
 
 # § 246A. Dividends received deduction reduced where portfolio stock is debt financed

@@ -3,9 +3,9 @@ title: "Section 124k - Interagency Threat Assessment and Coordination Group"
 usc_title: 6
 usc_section: "124k"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 124k"
-generated_at: "2026-03-29T19:43:43.752Z"
+generated_at: "2026-03-29T19:57:32.850Z"
 ---
 
 # § 124k. Interagency Threat Assessment and Coordination Group
@@ -54,5 +54,5 @@ generated_at: "2026-03-29T19:43:43.752Z"
     - **(C)** all detailees under subsection (d)(5) 2 have appropriate access to all relevant information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, available at the National Counterterrorism Center in order to accomplish the objectives under that paragraph;
     - **(D)** all detailees under subsection (d)(5) 2 have the appropriate security clearances and are trained in the procedures for handling, processing, storing, and disseminating classified products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information; and
     - **(E)** all detailees under subsection (d)(5) 2 complete appropriate privacy and civil liberties training.
-- **(g)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the ITACG or any subsidiary groups thereof.
+- **(g)** Chapter 10 of title 5 shall not apply to the ITACG or any subsidiary groups thereof.
 - **(h)** There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2008 through 2012 to carry out this section, including to obtain security clearances for the State, local, and tribal participants in the ITACG.

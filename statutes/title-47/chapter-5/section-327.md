@@ -3,9 +3,9 @@ title: "Section 327 - Naval stations; use for commercial messages; rates"
 usc_title: 47
 usc_section: "327"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "47 U.S.C. § 327"
-generated_at: "2026-03-29T19:44:37.196Z"
+generated_at: "2026-03-29T20:01:01.564Z"
 ---
 
 # § 327. Naval stations; use for commercial messages; rates

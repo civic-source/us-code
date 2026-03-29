@@ -3,13 +3,13 @@ title: "Section 2861 - Military construction projects in connection with industr
 usc_title: 10
 usc_section: "2861"
 chapter: 169
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2861"
-generated_at: "2026-03-29T19:43:38.018Z"
+generated_at: "2026-03-29T19:58:02.208Z"
 ---
 
 # § 2861. Military construction projects in connection with industrial facility investment program
 
 - **(a)** The Secretary of Defense may carry out a military construction project, not previously authorized, for the purpose of carrying out activities under section 2474(a)(2) of this title , using funds appropriated or otherwise made available for that purpose in military construction accounts.
-- **(b)** Funds appropriated or otherwise made available in a fiscal year for the purpose of carrying out a military construction project with respect to a covered depot (as defined in subsection (e) of section 2476 of this title ) may be credited to the amount required by subsection (a) of such section to be invested in the capital budgets of the covered depots in that fiscal year.
+- **(b)** Funds appropriated or otherwise made available in a fiscal year for the purpose of carrying out a military construction project with respect to a covered depot (as defined in subsection (f) of section 2476 of this title ) may be credited to the amount required by subsection (a)(1) of such section to be invested in the capital budgets of the covered depots in that fiscal year.
 - **(c)** When a decision is made to carry out a project under subsection (a), the Secretary of Defense shall notify the appropriate committees of Congress of that decision and the savings estimated to be realized from the project. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by such committees in an electronic medium pursuant to section 480 of this title .

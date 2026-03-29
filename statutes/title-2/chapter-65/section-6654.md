@@ -3,9 +3,9 @@ title: "Section 6654 - Payment of expenses of the Chaplain of the Senate from th
 usc_title: 2
 usc_section: "6654"
 chapter: 65
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 6654"
-generated_at: "2026-03-29T19:42:59.724Z"
+generated_at: "2026-03-29T19:56:57.278Z"
 ---
 
 # § 6654. Payment of expenses of the Chaplain of the Senate from the contingent fund of the Senate

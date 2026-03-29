@@ -3,9 +3,9 @@ title: "Section 3929 - Inspector General"
 usc_title: 22
 usc_section: "3929"
 chapter: 52
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 3929"
-generated_at: "2026-03-29T19:42:08.160Z"
+generated_at: "2026-03-29T19:59:24.193Z"
 ---
 
 # § 3929. Inspector General
@@ -54,7 +54,7 @@ generated_at: "2026-03-29T19:42:08.160Z"
     - **(A)** specifically prohibited from disclosure by any other provision of law; or
     - **(B)** specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs.
 - **(e)**
-  - **(1)** The Inspector General shall have the same authority in carrying out the provisions of this section as is granted under section 6 of the Inspector General Act of 1978 to each Inspector General of an establishment (as defined in section 11(2) of such Act) for carrying out the provisions of that Act, and the responsibilities of other officers of the Government to the Inspector General shall be the same as the responsibilities of the head of an agency or establishment under section 6(b) and (c) of such Act.
+  - **(1)** The Inspector General shall have the same authority in carrying out the provisions of this section as is granted under section 406 of title 5 to each Inspector General of an establishment (as defined in section 401 of title 5 ) for carrying out the provisions of chapter 4 of title 5, and the responsibilities of other officers of the Government to the Inspector General shall be the same as the responsibilities of the head of an agency or establishment under section 406(c) and (d) of title 5.
   - **(2)** At the request of the Inspector General, employees of the Department and members of the Service may be assigned as employees of the Inspector General. The individuals so assigned and individuals appointed pursuant to paragraph (1) shall be responsible solely to the Inspector General, and the Inspector General or his or her designee shall prepare the performance evaluation reports for such individuals.
   - **(3)** The Inspector General shall ensure that only officials from the Office of the Inspector General may participate in formal interviews or other formal meetings with the individual who is the subject of an investigation, other than an intelligence-related or sensitive undercover investigation, or except in those situations when the Inspector General has a reasonable basis to believe that such notice would cause tampering with witnesses, destroying evidence, or endangering the lives of individuals, unless that individual receives prior adequate notice regarding participation by officials of any other agency, including the Department of Justice, in such interviews or meetings.
 - **(f)**

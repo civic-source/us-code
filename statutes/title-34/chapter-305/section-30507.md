@@ -3,9 +3,9 @@ title: "Section 30507 - Jabara-Heyer NO HATE Act"
 usc_title: 34
 usc_section: "30507"
 chapter: 305
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 30507"
-generated_at: "2026-03-29T19:42:53.184Z"
+generated_at: "2026-03-29T20:00:27.507Z"
 ---
 
 # § 30507. Jabara-Heyer NO HATE Act
@@ -27,11 +27,11 @@ generated_at: "2026-03-29T19:42:53.184Z"
     - **(B)** a law enforcement agency of a unit of local government that—
       - **(i)** serves a population of not less than 50,000 and less than 100,000, as computed by the Federal Bureau of Investigation; and
       - **(ii)** has reported no hate crimes through the Uniform Crime Reports program in each of the 3 most recent calendar years for which such data is available.
-  - **(3)** The term “State” has the meaning given the term in section 10251of this title.
+  - **(3)** The term “State” has the meaning given the term in section 10251 of this title .
   - **(4)** The term “Uniform Crime Reports” means the reports authorized under section 534 of title 28 and administered by the Federal Bureau of Investigation that compile nationwide criminal statistics for use—
     - **(A)** in law enforcement administration, operation, and management; and
     - **(B)** to assess the nature and type of crime in the United States.
-  - **(5)** The term “unit of local government” has the meaning given the term in section 10251of this title.
+  - **(5)** The term “unit of local government” has the meaning given the term in section 10251 of this title .
 - **(d)**
   - **(1)**
     - **(A)** The Attorney General may make grants to States and units of local government to assist the State or unit of local government in implementing the National Incident-Based Reporting System, including to train employees in identifying and classifying hate crimes in the National Incident-Based Reporting System.

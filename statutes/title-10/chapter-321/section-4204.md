@@ -3,9 +3,9 @@ title: "Section 4204 - Milestone decision authority"
 usc_title: 10
 usc_section: "4204"
 chapter: 321
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4204"
-generated_at: "2026-03-29T19:43:38.059Z"
+generated_at: "2026-03-29T19:58:02.254Z"
 ---
 
 # § 4204. Milestone decision authority
@@ -26,4 +26,3 @@ generated_at: "2026-03-29T19:43:38.059Z"
 - **(e)** The Secretary of Defense shall review the acquisition oversight process for major defense acquisition programs and shall—
   - **(1)** limit outside requirements for documentation to an absolute minimum on those programs where the service acquisition executive of the military department that is managing the program is the milestone decision authority; and
   - **(2)** ensure that any policies, procedures, and activities related to oversight efforts conducted outside of the military departments with regard to major defense acquisition programs shall be implemented in a manner that does not unnecessarily increase program costs or impede program schedules.
-- **(f)** The authority of the Secretary of Defense to designate an alternative milestone decision authority for a program with respect to which the Secretary determines that the program is addressing a joint requirement, as set forth in subsection (b)(1), shall apply only for a major defense acquisition program that reaches Milestone A after October 1, 2016 , and before October 1, 2019 .

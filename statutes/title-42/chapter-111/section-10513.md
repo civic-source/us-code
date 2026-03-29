@@ -1,14 +1,12 @@
 ---
-title: "Section 10513 - Authorization of appropriations"
+title: "Section 10513 - Transferred"
 usc_title: 42
 usc_section: "10513"
 chapter: 111
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 10513"
-generated_at: "2026-03-29T19:31:45.588Z"
+generated_at: "2026-03-29T20:00:55.356Z"
 ---
 
-# § 10513. Authorization of appropriations
+# § 10513. Transferred
 
-- **(a)** There is authorized to be appropriated $20,000,000 for each fiscal year ending after September 30, 2021 , to provide under this chapter Federal law enforcement assistance in the form of funds.
-- **(b)** There are authorized to be appropriated for each fiscal year ending after September 30, 1984 , such sums as may be necessary to provide under this chapter Federal law enforcement assistance other than funds.

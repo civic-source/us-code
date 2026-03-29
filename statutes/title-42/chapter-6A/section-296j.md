@@ -3,9 +3,9 @@ title: "Section 296j - Advanced education nursing grants"
 usc_title: 42
 usc_section: "296j"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 296j"
-generated_at: "2026-03-29T19:31:44.349Z"
+generated_at: "2026-03-29T20:00:53.948Z"
 ---
 
 # § 296j. Advanced education nursing grants
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:31:44.349Z"
 - **(a)** The Secretary may award grants to and enter into contracts with eligible entities to meet the costs of—
   - **(1)** projects that support the enhancement of advanced nursing education and practice; and
   - **(2)** traineeships for individuals in advanced nursing education programs.
-- **(b)** For purposes of this section, the term “advanced education nurses” means individuals trained in advanced degree programs including individuals in combined R.N./Master’s degree programs, post-nursing master’s certificate programs, or, in the case of nurse midwives, in certificate programs in existence on the date that is one day prior to November 13, 1998 , to serve as nurse practitioners, clinical nurse specialists, nurse midwives, nurse anesthetists, nurse educators, nurse administrators, or public health nurses, or in other nurse specialties determined by the Secretary to require advanced education.
+- **(b)** For purposes of this section, the term “advanced education nurses” means individuals trained in advanced degree programs including individuals in combined R.N./graduate degree programs, post-nursing master’s certificate programs, or, in the case of nurse midwives, in certificate programs in existence on the date that is one day prior to November 13, 1998 , to serve as nurse practitioners, clinical nurse specialists, nurse midwives, nurse anesthetists, nurse educators, nurse administrators, clinical nurse leaders, or public health nurses, or in other nurse specialties determined by the Secretary to require advanced education.
 - **(c)** Nurse practitioner programs eligible for support under this section are educational programs for registered nurses (irrespective of the type of school of nursing in which the nurses received their training) that—
   - **(1)** meet guidelines prescribed by the Secretary; and
   - **(2)** have as their objective the education of nurses who will upon completion of their studies in such programs, be qualified to effectively provide primary health care, including primary health care in homes and in ambulatory care facilities, long-term care facilities, acute care, and other health care settings.
@@ -23,8 +23,11 @@ generated_at: "2026-03-29T19:31:44.349Z"
 - **(e)** Nurse anesthesia programs eligible for support under this section are education programs that—
   - **(1)** provide registered nurses with full-time anesthetist education; and
   - **(2)** are accredited by the Council on Accreditation of Nurse Anesthesia Educational Programs.
-- **(f)** The Secretary shall prescribe guidelines as appropriate for other advanced nurse education programs eligible for support under this section.
-- **(g)**
+- **(f)** Clinical nurse specialist programs eligible for support under this section are education programs that—
+  - **(1)** provide registered nurses with full-time clinical nurse specialist education; and
+  - **(2)** have as their objective the education of clinical nurse specialists who will, upon completion of such a program, be qualified to effectively provide care through the wellness and illness continuum to inpatients and outpatients experiencing acute and chronic illness.
+- **(g)** The Secretary shall prescribe guidelines as appropriate for other advanced nurse education programs eligible for support under this section.
+- **(h)**
   - **(1)** The Secretary may not award a grant to an applicant under subsection (a) unless the applicant involved agrees that traineeships provided with the grant will only pay all or part of the costs of—
     - **(A)** the tuition, books, and fees of the program of advanced nurse education with respect to which the traineeship is provided; and
     - **(B)** the reasonable living expenses of the individual during the period for which the traineeship is provided.

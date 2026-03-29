@@ -1,14 +1,12 @@
 ---
-title: "Section 14115 - Eligibility"
+title: "Section 14115 - Transferred"
 usc_title: 42
 usc_section: "14115"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14115"
-generated_at: "2026-03-29T19:31:45.765Z"
+generated_at: "2026-03-29T20:00:55.492Z"
 ---
 
-# § 14115. Eligibility
+# § 14115. Transferred
 
-- **(a)** A person shall be eligible to receive a scholarship under this part if the person has been employed in law enforcement for the 2-year period immediately preceding the date on which assistance is sought.
-- **(b)** A person who has been employed as a law enforcement officer is ineligible to participate in a student employment program carried out under this part.

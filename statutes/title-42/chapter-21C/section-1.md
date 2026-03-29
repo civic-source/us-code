@@ -3,9 +3,9 @@ title: "Section 1 - Protection of religious exercise of institutionalized person
 usc_title: 42
 usc_section: "1"
 chapter: 21
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T19:31:45.000Z"
+generated_at: "2026-03-29T20:00:54.752Z"
 ---
 
 # § 2000cc–1. Protection of religious exercise of institutionalized persons

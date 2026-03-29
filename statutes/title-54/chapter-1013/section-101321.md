@@ -3,9 +3,9 @@ title: "Section 101321 - Service employee training"
 usc_title: 54
 usc_section: "101321"
 chapter: 1013
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "54 U.S.C. § 101321"
-generated_at: "2026-03-29T19:45:03.239Z"
+generated_at: "2026-03-29T20:01:18.401Z"
 ---
 
 # § 101321. Service employee training

@@ -3,9 +3,9 @@ title: "Section 4071d - Entitlement to annuity"
 usc_title: 22
 usc_section: "4071d"
 chapter: 52
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 4071d"
-generated_at: "2026-03-29T19:42:08.176Z"
+generated_at: "2026-03-29T19:59:24.211Z"
 ---
 
 # § 4071d. Entitlement to annuity
@@ -30,5 +30,5 @@ generated_at: "2026-03-29T19:42:08.176Z"
   - **(6)**
     - **(A)** The amount of a survivor annuity for a widow or widower of a participant or former participant shall be 50 percent of an annuity computed for the deceased under this part rather than under section 8415 of such title 5 (as stated in sections 8442(a)(1), (b)(1)(B), and (c)(2) of such title).
     - **(B)** Any calculation for a widow or widower of a participant or former participant under section 8442(f)(2)(A) shall be based on an “assumed FSRDS annuity” rather than an “assumed CSRS annuity” as stated in such section. For the purpose of this subparagraph, the term “assumed FSRDS annuity” means the amount of the survivor annuity to which the widow or widower would be entitled under part I based on the service of the deceased annuitant determined under section 8442(f)(5) of such title 5.
-- **(c)** A participant who is entitled to an immediate annuity under subsection (b) shall be entitled to receive an annuity supplement while the annuitant is under 62 years of age. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) of such title.
+- **(c)** A participant who is entitled to an immediate annuity under subsection (b) shall be entitled to receive an annuity supplement while the annuitant is under 62 years of age. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) 1 of such title.
 - **(d)** Any participant who is separated for cause under section 4010 of this title shall not be entitled to an annuity under this System when the Secretary determines that the separation was based in whole or in part on disloyalty to the United States.

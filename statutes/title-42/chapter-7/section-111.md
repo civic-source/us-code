@@ -3,9 +3,9 @@ title: "Section 111 - PDP regions; submission of bids; plan approval"
 usc_title: 42
 usc_section: "111"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 111"
-generated_at: "2026-03-29T19:31:44.707Z"
+generated_at: "2026-03-29T20:00:54.413Z"
 ---
 
 # § 1395w–111. PDP regions; submission of bids; plan approval
@@ -82,7 +82,7 @@ generated_at: "2026-03-29T19:31:44.707Z"
       - **(ii)** With respect to all fallback service areas in any PDP region for a contract period, the Secretary shall approve the offering of only 1 fallback prescription drug plan.
       - **(iii)** Competitive procedures (as defined in section 132 of title 41 ) shall be used to enter into a contract under this subsection. The provisions of subsection (d) of section 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
       - **(iv)** The Secretary shall approve a fallback prescription drug plan for a PDP region in a manner so that, if there are any fallback service areas in the region for a year, the fallback prescription drug plan is offered at the same time as prescription drug plans would otherwise be offered.
-    - **(V)** The Secretary shall not enter into a contract with a single fallback entity for the offering of fallback plans throughout the United States.
+      - **(V)** The Secretary shall not enter into a contract with a single fallback entity for the offering of fallback plans throughout the United States.
   - **(2)** For purposes of this section, the term “eligible fallback entity” means, with respect to all fallback service areas in a PDP region for a contract period, an entity that—
     - **(A)** meets the requirements to be a PDP sponsor (or would meet such requirements but for the fact that the entity is not a risk-bearing entity); and
     - **(B)** does not submit a bid under subsection (b) for any prescription drug plan for any PDP region for the first year of such contract period.
@@ -99,7 +99,7 @@ generated_at: "2026-03-29T19:31:44.707Z"
       - **(ii)** The entity provides such enrollees with quality programs that avoid adverse drug reactions and overutilization and reduce medical errors.
       - **(iii)** The entity provides timely and accurate delivery of services and pharmacy and beneficiary support services.
       - **(iv)** The entity provides efficient and effective benefit administration and claims adjudication.
-  - **(6)** Except as provided in section 1395w–113(b) of this title (relating to late enrollment penalty) and subject to section 1395w–114 of this title (relating to low-income assistance), the monthly beneficiary premium to be charged under a fallback prescription drug plan offered in all fallback service areas in a PDP region shall be uniform and shall be equal to 25.5 percent of an amount equal to the Secretary’s estimate of the average monthly per capita actuarial cost, including administrative expenses, under the fallback prescription drug plan of providing coverage in the region, as calculated by the Chief Actuary of the Centers for Medicare & Medicaid Services. In calculating such administrative expenses, the Chief Actuary shall use a factor that is based on similar expenses of prescription drug plans that are not fallback prescription drug plans.
+  - **(6)** Except as provided in section 1395w–113(b) of this title (relating to late enrollment penalty) and subject to section 1395w–114 of this title (relating to low-income assistance), the monthly beneficiary premium to be charged under a fallback prescription drug plan offered in all fallback service areas in a PDP region shall be uniform and shall be equal to 25.5 percent (or, for 2030 and each subsequent year, the percent specified under section 1395w–113(a)(9) of this title ) of an amount equal to the Secretary’s estimate of the average monthly per capita actuarial cost, including administrative expenses, under the fallback prescription drug plan of providing coverage in the region, as calculated by the Chief Actuary of the Centers for Medicare & Medicaid Services. In calculating such administrative expenses, the Chief Actuary shall use a factor that is based on similar expenses of prescription drug plans that are not fallback prescription drug plans.
   - **(7)**
     - **(A)** Except as may be appropriate to carry out this section, the terms and conditions of contracts with eligible fallback entities offering fallback prescription drug plans under this subsection shall be the same as the terms and conditions of contracts under this part for prescription drug plans.
     - **(B)**
@@ -108,6 +108,7 @@ generated_at: "2026-03-29T19:31:44.707Z"
     - **(C)** An eligible fallback entity with a contract under this subsection may not engage in any marketing or branding of a fallback prescription drug plan.
 - **(h)** The Secretary shall submit to Congress an annual report that describes instances in which limited risk plans and fallback prescription drug plans were offered under subsections (f) and (g). The Secretary shall include in such report such recommendations as may be appropriate to limit the need for the provision of such plans and to maximize the assumption of financial risk under section subsection 3 3 So in original. (f).
 - **(i)** In order to promote competition under this part and in carrying out this part, the Secretary—
-  - **(1)** may not interfere with the negotiations between drug manufacturers and pharmacies and PDP sponsors; and
-  - **(2)** may not require a particular formulary or institute a price structure for the reimbursement of covered part D drugs.
+  - **(1)** may not interfere with the negotiations between drug manufacturers and pharmacies and PDP sponsors;
+  - **(2)** may not require a particular formulary, except as provided under section 1395w–104(b)(3)( l ) 4 4 So in original. Probably should be “(b)(3)(I)”. of this title; and
+  - **(3)** may not institute a price structure for the reimbursement of covered part D drugs, except as provided under part E of subchapter XI.
 - **(j)** A PDP sponsor offering a prescription drug plan shall permit State Pharmaceutical Assistance Programs and Rx plans under sections 1395w–133 and 1395w–134 of this title to coordinate benefits with the plan and, in connection with such coordination with such a Program, not to impose fees that are unrelated to the cost of coordination.

@@ -3,9 +3,9 @@ title: "Section 9859d - State applications"
 usc_title: 42
 usc_section: "9859d"
 chapter: 105
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 9859d"
-generated_at: "2026-03-29T19:31:45.554Z"
+generated_at: "2026-03-29T20:00:55.323Z"
 ---
 
 # § 9859d. State applications

@@ -3,9 +3,9 @@ title: "Section 757 - Utilization of State services; expenditure of funds"
 usc_title: 16
 usc_section: "757"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 757"
-generated_at: "2026-03-29T19:41:13.596Z"
+generated_at: "2026-03-29T19:59:08.198Z"
 ---
 
 # § 757. Utilization of State services; expenditure of funds

@@ -3,9 +3,9 @@ title: "Section 300n - Additional required agreements"
 usc_title: 42
 usc_section: "300n"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 300n"
-generated_at: "2026-03-29T19:31:44.396Z"
+generated_at: "2026-03-29T20:00:54.012Z"
 ---
 
 # § 300n. Additional required agreements

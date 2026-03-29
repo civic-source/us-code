@@ -3,17 +3,17 @@ title: "Section 4024 - Merit-based award of grants for research and development"
 usc_title: 10
 usc_section: "4024"
 chapter: 301
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4024"
-generated_at: "2026-03-29T19:43:38.054Z"
+generated_at: "2026-03-29T19:58:02.246Z"
 ---
 
 # § 4024. Merit-based award of grants for research and development
 
-- **(a)** It is the policy of Congress that an agency named in section 2303(a) 1 1 See References in Text note below. of this title should not be required by legislation to award a new grant for research, development, test, or evaluation to a non-Federal Government entity. It is further the policy of Congress that any program, project, or technology identified in legislation be awarded through merit-based selection procedures.
+- **(a)** It is the policy of Congress that an agency named in section 3063 of this title should not be required by legislation to award a new grant for research, development, test, or evaluation to a non-Federal Government entity. It is further the policy of Congress that any program, project, or technology identified in legislation be awarded through merit-based selection procedures.
 - **(b)** A provision of law may not be construed as requiring a new grant to be awarded to a specified non-Federal Government entity unless that provision of law—
   - **(1)** specifically refers to this subsection;
   - **(2)** specifically identifies the particular non-Federal Government entity involved; and
   - **(3)** specifically states that the award to that entity is required by such provision of law in contravention of the policy set forth in subsection (a).
 - **(c)** For purposes of this section, a grant is a new grant unless the work provided for in the grant is a continuation of the work performed by the specified entity under a preceding grant.
-- **(d)** This section shall not apply with respect to any grant that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 2303(a) 1 of this title and to report on such matters to the Congress or any agency of the Federal Government.
+- **(d)** This section shall not apply with respect to any grant that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 3063 of this title and to report on such matters to the Congress or any agency of the Federal Government.

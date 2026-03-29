@@ -3,9 +3,9 @@ title: "Section 3323 - Cost-plus contracting prohibited for military constructio
 usc_title: 10
 usc_section: "3323"
 chapter: 242
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3323"
-generated_at: "2026-03-29T19:43:38.038Z"
+generated_at: "2026-03-29T19:58:02.228Z"
 ---
 
 # § 3323. Cost-plus contracting prohibited for military construction and military family housing projects
@@ -13,4 +13,4 @@ generated_at: "2026-03-29T19:43:38.038Z"
 - **(a)** A contract entered into by the United States in connection with a military construction project or a military family housing project may not use any form of cost-plus contracting.
 - **(b)** The prohibition specified in subsection (a)—
   - **(1)** is in addition to the prohibition specified in section 3322(a) of this title on the use of the cost-plus-a-percentage-of-cost system of contracting; and
-  - **(2)** applies notwithstanding. 1 1 So in original. The period probably should not appear. a declaration of war or the declaration by the President of a national emergency under section 201 of the National Emergencies Act ( 50 U.S.C. 1621 ) that includes the use of the armed forces.
+  - **(2)** applies notwithstanding a declaration of war or the declaration by the President of a national emergency under section 201 of the National Emergencies Act ( 50 U.S.C. 1621 ) that includes the use of the armed forces.

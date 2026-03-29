@@ -3,9 +3,9 @@ title: "Section 2216a - Rapidly meeting urgent needs: Joint Urgent Operational N
 usc_title: 10
 usc_section: "2216a"
 chapter: 131
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2216a"
-generated_at: "2026-03-29T19:43:37.966Z"
+generated_at: "2026-03-29T19:58:02.147Z"
 ---
 
 # § 2216a. Rapidly meeting urgent needs: Joint Urgent Operational Needs Fund
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:43:37.966Z"
   - **(2)** Amounts transferred to the Fund.
   - **(3)** Any other amounts made available to the Fund by law.
 - **(c)**
-  - **(1)** Amounts in the Fund shall be available to the Secretary of Defense for capabilities that are determined by the Secretary, pursuant to the review process required by section 804(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 ( 10 U.S.C. 2302 note), to be suitable for rapid fielding in response to urgent operational needs.
+  - **(1)** Amounts in the Fund shall be available to the Secretary of Defense for capabilities that are determined by the Secretary, pursuant to the review process required by Department of Defense Instruction 5000.81 (or any successor instruction), dated December 31, 2019 , and titled “Urgent Capability Acquisition”, to be suitable for rapid fielding in response to urgent operational needs.
   - **(2)** The Secretary shall establish a merit-based process for identifying equipment, supplies, services, training, and facilities suitable for funding through the Fund.
   - **(3)** Nothing in this section shall be interpreted to require or enable any official of the Department of Defense to provide funding under this section pursuant to a congressional earmark, as defined in clause 9 of Rule XXI of the Rules of the House of Representatives, or a congressionally directed spending item, as defined in paragraph 5 of Rule XLIV of the Standing Rules of the Senate.
 - **(d)**

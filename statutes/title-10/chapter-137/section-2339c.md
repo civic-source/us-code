@@ -1,12 +1,12 @@
 ---
-title: "Section 2339c - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881(a) , Jan. 1, 2021 , 134 Stat. 4293 ]"
+title: "Section 2339c - Renumbered § 8755]"
 usc_title: 10
 usc_section: "2339c"
 chapter: 137
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2339c"
-generated_at: "2026-03-29T19:43:37.975Z"
+generated_at: "2026-03-29T19:58:02.159Z"
 ---
 
-# [§ 2339c. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881(a) , Jan. 1, 2021 , 134 Stat. 4293 ]
+# [§ 2339c. Renumbered § 8755]
 

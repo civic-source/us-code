@@ -3,9 +3,9 @@ title: "Section 2306 - Headstones, markers, and burial receptacles"
 usc_title: 38
 usc_section: "2306"
 chapter: 23
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 2306"
-generated_at: "2026-03-29T19:43:26.996Z"
+generated_at: "2026-03-29T20:00:43.049Z"
 ---
 
 # § 2306. Headstones, markers, and burial receptacles
@@ -20,8 +20,8 @@ generated_at: "2026-03-29T19:43:26.996Z"
   - **(1)** The Secretary shall furnish, when requested, an appropriate memorial headstone or marker for the purpose of commemorating an eligible individual whose remains are unavailable. Such a headstone or marker shall be furnished for placement in a national cemetery area reserved for that purpose under section 2403 of this title , a veterans’ cemetery owned by a State, a veterans’ cemetery of a tribal organization or on land owned by or held in trust for a tribal organization, or, in the case of a veteran, in a State, local, or private cemetery.
   - **(2)** For purposes of paragraph (1), an eligible individual is any of the following:
     - **(A)** A veteran.
-    - **(B)** An individual who dies on or after November 11, 1998 , who is the spouse or surviving spouse of a veteran, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s death if such death occurs before October 1, 2024 .
-    - **(C)** An individual who dies on or after November 11, 1998 , who is an eligible dependent child of a veteran, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child’s death if such death occurs before October 1, 2024 .
+    - **(B)** An individual who dies on or after November 11, 1998 , who is the spouse or surviving spouse of a veteran, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s death if such death occurs before September 30, 2032 .
+    - **(C)** An individual who dies on or after November 11, 1998 , who is an eligible dependent child of a veteran, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child’s death if such death occurs before September 30, 2032 .
   - **(3)** For purposes of paragraph (1), the remains of an individual shall be considered to be unavailable if the individual’s remains—
     - **(A)** have not been recovered or identified;
     - **(B)** were buried at sea, whether by the individual’s own choice or otherwise;
@@ -47,16 +47,18 @@ generated_at: "2026-03-29T19:43:26.996Z"
     - **(A)** In carrying out this subsection with respect to a deceased individual described in subparagraph (C), the Secretary shall furnish, upon request, a headstone or marker under paragraph (1) or a medallion under paragraph (4) that signifies the deceased’s status as a medal of honor recipient.
     - **(B)** If the Secretary furnished a headstone, marker, or medallion under paragraph (1) or (4) for a deceased individual described in subparagraph (C) that does not signify the deceased’s status as a medal of honor recipient, the Secretary shall, upon request, replace such headstone, marker, or medallion with a headstone, marker, or medallion, as the case may be, that so signifies the deceased’s status as a medal of honor recipient.
     - **(C)** A deceased individual described in this subparagraph is a deceased individual who—
-      - **(i)** served in the Armed Forces on or after April 6, 1917 ;
-      - **(ii)** is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
-      - **(iii)** was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 1 See References in Text note below. of title 14 (including posthumously).
-    - **(D)** In this paragraph, the term “medal of honor recipient” means an individual who is awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 of title 14.
+      - **(i)** is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (except that subparagraph (B)(i) of such paragraph shall not apply) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
+      - **(ii)** was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 2732 of title 14 (including posthumously).
+    - **(D)** In this paragraph, the term “medal of honor recipient” means an individual who is awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 2732 of title 14 .
 - **(e)**
   - **(1)**
-    - **(A)** The Secretary of Veterans Affairs shall provide an outer burial receptacle for each new grave in an open cemetery under the control of the National Cemetery Administration in which remains are interred in a casket.
+    - **(A)** The Secretary of Veterans Affairs may provide an outer burial receptacle for each new grave in an open cemetery under the control of the National Cemetery Administration, or in a cemetery that is the subject of a grant to a State or a tribal organization under section 2408 of this title , in which remains are interred in a casket.
     - **(B)** The Secretary of the Army may provide an outer burial receptacle for such a grave in the Arlington National Cemetery.
-    - **(C)** The Secretary of the Interior shall provide an outer burial receptacle for each such a grave in an open national cemetery administered by the National Park Service.
-  - **(2)** The use of outer burial receptacles in a cemetery under the control of the National Cemetery Administration, in the Arlington National Cemetery, or in a national cemetery administered by the National Park Service shall be in accordance with regulations or procedures approved by the Secretary of Veterans Affairs, the Secretary of the Army, or the Secretary of the Interior, respectively.
+    - **(C)** The Secretary of the Interior may provide an outer burial receptacle for each such a grave in an open national cemetery administered by the National Park Service.
+  - **(2)**
+    - **(A)** The use of outer burial receptacles in a cemetery under the control of the National Cemetery Administration or in a cemetery that is the subject of a grant to a State or a tribal organization under section 2408 of this title shall be in accordance with regulations or procedures approved by the Secretary of Veterans Affairs.
+    - **(B)** The use of outer burial receptacles in Arlington National Cemetery shall be in accordance with regulations or procedures approved by the Secretary of the Army.
+    - **(C)** The use of outer burial receptacles in a national cemetery administered by the National Park Service shall be in accordance with regulations or procedures approved by the Secretary of the Interior.
   - **(3)** Regulations or procedures under paragraph (2) may specify that—
     - **(A)** an outer burial receptacle other than a grave liner be provided in lieu of a grave liner at the election of the survivors of the interred veteran; and
     - **(B)** if an outer burial receptacle other than a grave liner is provided in lieu of a grave liner upon an election of such survivors, such survivors be required—
@@ -75,11 +77,26 @@ generated_at: "2026-03-29T19:43:26.996Z"
   - **(1)** When the Secretary has furnished a headstone or marker under subsection (a) for the unmarked grave of an individual, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate headstone or marker under that subsection for the surviving spouse or eligible dependent child of such individual.
   - **(2)** When the Secretary has furnished a memorial headstone or marker under subsection (b) for purposes of commemorating a veteran or an individual who died in the active military, naval, air, or space service, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate memorial headstone or marker under that subsection for the surviving spouse or eligible dependent child of such individual.
 - **(h)**
+  - **(1)** In lieu of furnishing a headstone or marker under this section for a deceased individual described in paragraph (3), the Secretary shall furnish, upon request and at the expense of the United States—
+    - **(A)** an urn made of any material to signify the individual’s status as a veteran, in which the remains of such individual may be placed at private expense; or
+    - **(B)** a commemorative plaque signifying the individual’s status as a veteran.
+  - **(2)** If the Secretary furnishes an urn or commemorative plaque for an individual under paragraph (1), the Secretary may not provide for such individual—
+    - **(A)** a headstone or marker under this section; or
+    - **(B)** any burial benefit under section 2402 of this title .
+  - **(3)** A deceased individual described in this paragraph is an individual—
+    - **(A)** who served in the Armed Forces on or after April 6, 1917 ;
+    - **(B)** who is eligible for a headstone or marker furnished under subsection (d) (or would be so eligible but for the date of the death of the individual); and
+    - **(C)** whose remains were cremated and not interred in a national cemetery, a State veterans’ cemetery, a tribal cemetery, a county cemetery, or a private cemetery.
+  - **(4)**
+    - **(A)** Any urn or commemorative plaque furnished under this subsection shall be the personal property of the next of kin or such other individual as the Secretary considers appropriate.
+    - **(B)** The Federal Government shall not be liable for any damage to an urn or commemorative plaque furnished under this subsection that occurs after the date on which the urn or commemorative plaque is so furnished.
+  - **(5)** The Secretary shall prescribe regulations to carry out this subsection.
+- **(i)**
   - **(1)** A headstone or marker may not be furnished under subsection (a) for the unmarked grave of a person described in section 2411(b) of this title .
   - **(2)** A memorial headstone or marker may not be furnished under subsection (b) for the purpose of commemorating a person described in section 2411(b) of this title .
   - **(3)** A headstone or marker may not be furnished under subsection (d) for the grave of a person described in section 2411(b) of this title .
   - **(4)** A casket or urn may not be furnished under subsection (f) for burial of a person described in section 2411(b) of this title .
-- **(i)**
+- **(j)**
   - **(1)** In addition to any other authority under this section, in the case of an individual whose grave is not in a covered cemetery (as that term is defined in subsection (f)(2)) and for whom the Secretary has furnished a headstone or marker under subsection (a) or (d), the Secretary, if feasible and upon request, may replace the headstone or marker to add an inscription for the surviving spouse or eligible dependent child of such individual following the death of the surviving spouse or eligible dependent child.
   - **(2)** If the spouse or eligible dependent child of an individual referred to in paragraph (1) predeceases the individual, the Secretary may, if feasible and upon request, include an inscription for the spouse or dependent child on the headstone or marker furnished for the individual under subsection (a) or (d).
-- **(j)** In this section, the term “tribal organization” has the meaning given such term in section 3765 of this title .
+- **(k)** In this section, the term “tribal organization” has the meaning given such term in section 3765 of this title .

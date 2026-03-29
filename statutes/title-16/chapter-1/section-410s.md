@@ -3,9 +3,9 @@ title: "Section 410s - Establishment"
 usc_title: 16
 usc_section: "410s"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 410s"
-generated_at: "2026-03-29T19:41:13.342Z"
+generated_at: "2026-03-29T19:59:07.905Z"
 ---
 
 # § 410s. Establishment

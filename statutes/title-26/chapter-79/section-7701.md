@@ -3,9 +3,9 @@ title: "Section 7701 - Definitions"
 usc_title: 26
 usc_section: "7701"
 chapter: 79
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 7701"
-generated_at: "2026-03-29T19:42:48.029Z"
+generated_at: "2026-03-29T19:59:49.674Z"
 ---
 
 # § 7701. Definitions
@@ -231,15 +231,17 @@ generated_at: "2026-03-29T19:42:48.029Z"
     - **(A)** Notwithstanding paragraphs (1) and (2), and except as provided in paragraph (4), any contract or arrangement between a service provider and a service recipient—
       - **(i)** with respect to—
         - **(I)** the operation of a qualified solid waste disposal facility,
-        - **(II)** the sale to the service recipient of electrical or thermal energy produced at a cogeneration or alternative energy facility, or
-        - **(III)** the operation of a water treatment works facility, and
+        - **(II)** the sale to the service recipient of electrical or thermal energy produced at a cogeneration or alternative energy facility,
+        - **(III)** the operation of a water treatment works facility, or
+        - **(IV)** the operation of a storage facility, and
       - **(ii)** which purports to be a service contract,
     - **(B)** For purposes of subparagraph (A), the term “qualified solid waste disposal facility” means any facility if such facility provides solid waste disposal services for residents of part or all of 1 or more governmental units and substantially all of the solid waste processed at such facility is collected from the general public.
     - **(C)** For purposes of subparagraph (A), the term “cogeneration facility” means a facility which uses the same energy source for the sequential generation of electrical or mechanical power in combination with steam, heat, or other forms of useful energy.
     - **(D)** For purposes of subparagraph (A), the term “alternative energy facility” means a facility for producing electrical or thermal energy if the primary energy source for the facility is not oil, natural gas, coal, or nuclear power.
     - **(E)** For purposes of subparagraph (A), the term “water treatment works facility” means any treatment works within the meaning of section 212(2) of the Federal Water Pollution Control Act.
+    - **(F)** For purposes of subparagraph (A), the term “storage facility” means a facility which uses energy storage technology within the meaning of section 48(c)(6).
   - **(4)**
-    - **(A)** Paragraph (3) shall not apply to any qualified solid waste disposal facility, cogeneration facility, alternative energy facility, or water treatment works facility used under a contract or arrangement if—
+    - **(A)** Paragraph (3) shall not apply to any qualified solid waste disposal facility, cogeneration facility, alternative energy facility, water treatment works facility, or storage facility used under a contract or arrangement if—
       - **(i)** the service recipient (or a related entity) operates such facility,
       - **(ii)** the service recipient (or a related entity) bears any significant financial burden if there is nonperformance under the contract or arrangement (other than for reasons beyond the control of the service provider),
       - **(iii)** the service recipient (or a related entity) receives any significant financial benefit if the operating costs of such facility are less than the standards of performance or operation under the contract or arrangement, or
@@ -296,7 +298,7 @@ generated_at: "2026-03-29T19:42:48.029Z"
   - **(3)** Paragraph (1) shall not be construed to provide that any amount of the employee’s or Member’s basic pay which is contributed to the Thrift Savings Fund shall not be included in the term “wages” for the purposes of section 209 of the Social Security Act or section 3121(a) of this title .
   - **(4)** For purposes of this subsection, the terms “Member”, “employee”, and “Thrift Savings Fund” shall have the same respective meanings as when used in subchapter III of chapter 84 of title 5, United States Code.
   - **(5)** No provision of law not contained in this title shall apply for purposes of determining the treatment under this title of the Thrift Savings Fund or any contribution to, or distribution from, such Fund.
-- **(k)** In the case of any payment which, except for section 501(b) of the Ethics in Government Act of 1978, might be made to any officer or employee of the Federal Government but which is made instead on behalf of such officer or employee to an organization described in section 170(c)—
+- **(k)** In the case of any payment which, except for section 13143(b) of title 5 , United States Code, might be made to any officer or employee of the Federal Government but which is made instead on behalf of such officer or employee to an organization described in section 170(c)—
   - **(1)** such payment shall not be treated as received by such officer or employee for all purposes of this title and for all purposes of any tax law of a State or political subdivision thereof, and
   - **(2)** no deduction shall be allowed under any provision of this title (or of any tax law of a State or political subdivision thereof) to such officer or employee by reason of having such payment made to such organization.
 - **(l)** The Secretary may prescribe regulations recharacterizing any multiple-party financing transaction as a transaction directly among any 2 or more of such parties where the Secretary determines that such recharacterization is appropriate to prevent avoidance of any tax imposed by this title.

@@ -1,12 +1,38 @@
 ---
-title: "Section 2810 - Repealed. Pub. L. 107–314, div. A, title III, § 313(b) , Dec. 2, 2002 , 116 Stat. 2507 ]"
+title: "Section 2810 - Military construction projects for innovation, research, development, test, and evaluation"
 usc_title: 10
 usc_section: "2810"
 chapter: 169
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2810"
-generated_at: "2026-03-29T19:43:38.013Z"
+generated_at: "2026-03-29T19:58:02.201Z"
 ---
 
-# [§ 2810. Repealed. Pub. L. 107–314, div. A, title III, § 313(b) , Dec. 2, 2002 , 116 Stat. 2507 ]
+# § 2810. Military construction projects for innovation, research, development, test, and evaluation
 
+- **(a)** The Secretary of Defense may carry out such military construction projects for innovation, research, development, test, and evaluation as are authorized by law, using funds appropriated or otherwise made available for that purpose.
+- **(b)** As part of the defense budget materials for each fiscal year, the Secretary of Defense shall include the following information for each military construction project covered by subsection (a):
+  - **(1)** The project title.
+  - **(2)** The location of the project.
+  - **(3)** A brief description of the scope of work.
+  - **(4)** A completed Department of Defense Form 1391 budget justification that includes the original project cost estimate.
+  - **(5)** A current working cost estimate, if different that the cost estimate contained in such Form 1391.
+  - **(6)** Such other information as the Secretary considers appropriate.
+- **(c)** The Secretary of Defense shall include with the defense budget materials for each fiscal year a consolidated budget justification display that individually identifies each military construction project covered by subsection (a) and the amount requested for such project for such fiscal year.
+- **(d)** This section shall apply to military construction projects covered by subsection (a) for which a Department of Defense Form 1391 is submitted to the appropriate committees of Congress in connection with the budget of the Department of Defense for fiscal year 2023 and thereafter.
+- **(e)**
+  - **(1)** Along with the budget for each fiscal year submitted by the President pursuant to section 1105(a) of title 31 , each Secretary of a military department and the Secretary of Defense shall submit to the congressional defense committees a plan that describes the objectives of that Secretary to improve innovation infrastructure during the five fiscal years following the fiscal year for which such budget is submitted.
+  - **(2)** Each plan submitted by a Secretary of a military department under paragraph (1) shall include the following:
+    - **(A)** With respect to the five-year period covered by the plan, an identification of the major lines of effort, milestones, and investment goals of the Secretary over such period relating to the improvement of innovation infrastructure and a description of how such goals support such goals, including the use of—
+      - **(i)** military construction, facilities restoration and modernization funds;
+      - **(ii)** the defense lab modernization program under section 2805(d) of this title ; and
+      - **(iii)** military construction projects for innovation, research, development, test, and evaluation under this section.
+    - **(B)** The estimated costs of necessary innovation infrastructure improvements and a description of how such costs would be addressed by the Department of Defense budget request submitted during the same year as the plan and the applicable future-years defense program.
+    - **(C)** Information regarding the plan of the Secretary to initiate such environmental and engineering studies as may be necessary to carry out planned innovation infrastructure improvements.
+    - **(D)** Detailed information regarding how innovation infrastructure improvement projects will be paced and sequenced to ensure continuous operations.
+  - **(3)** Each plan under subsection (a) shall incorporate the leading results-oriented management practices identified in the report of the Comptroller General of the United States titled “Actions Needed to Improve Poor Conditions of Facilities and Equipment that Affect Maintenance Timeliness and Efficiency” (GAO–19–242), or any successor report, including—
+    - **(A)** analytically based goals;
+    - **(B)** results-oriented metrics;
+    - **(C)** the identification of required resources, risks, and stakeholders; and
+    - **(D)** regular reporting on progress to decision makers.
+  - **(4)** In this subsection, the term “innovation infrastructure” includes laboratories, test and evaluation ranges, and any other infrastructure whose primary purpose is research, development, test, and evaluation.

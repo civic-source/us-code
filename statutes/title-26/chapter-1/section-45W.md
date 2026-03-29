@@ -3,9 +3,9 @@ title: "Section 45W - Credit for qualified commercial clean vehicles"
 usc_title: 26
 usc_section: "45W"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 45W"
-generated_at: "2026-03-29T02:14:00.754Z"
+generated_at: "2026-03-29T19:59:49.093Z"
 ---
 
 # § 45W. Credit for qualified commercial clean vehicles
@@ -35,4 +35,4 @@ generated_at: "2026-03-29T02:14:00.754Z"
   - **(3)** No credit shall be allowed under this section with respect to any vehicle for which a credit was allowed under section 30D.
 - **(e)** No credit shall be determined under subsection (a) with respect to any vehicle unless the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year.
 - **(f)** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this section, including regulations or other guidance relating to determination of the incremental cost of any qualified commercial clean vehicle.
-- **(g)** No credit shall be determined under this section with respect to any vehicle acquired after September 30, 2025 .
+- **(g)** No credit shall be determined under this section with respect to any vehicle acquired after December 31, 2032 .

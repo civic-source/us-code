@@ -3,9 +3,9 @@ title: "Section 21 - Expenses for household and dependent care services necessar
 usc_title: 26
 usc_section: "21"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 21"
-generated_at: "2026-03-29T19:42:47.477Z"
+generated_at: "2026-03-29T19:59:49.047Z"
 ---
 
 # § 21. Expenses for household and dependent care services necessary for gainful employment
@@ -66,7 +66,7 @@ generated_at: "2026-03-29T19:42:47.477Z"
 - **(g)** In the case of any taxable year beginning after December 31, 2020 , and before January 1, 2022 —
   - **(1)** If the taxpayer (in the case of a joint return, either spouse) has a principal place of abode in the United States (determined as provided in section 32) for more than one-half of the taxable year, the credit allowed under subsection (a) shall be treated as a credit allowed under subpart C (and not allowed under this subpart).
   - **(2)** Subsection (c) shall be applied—
-    - **(A)** by substituting“$8,000” for “$3,000” in paragraph (1) thereof, and
+    - **(A)** by substituting “$8,000” for “$3,000” in paragraph (1) thereof, and
     - **(B)** by substituting “$16,000” for “$6,000” in paragraph (2) thereof.
   - **(3)** Subsection (a)(2) shall be applied—
     - **(A)** by substituting “50 percent” for “35 percent”, and

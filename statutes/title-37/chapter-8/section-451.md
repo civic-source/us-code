@@ -3,9 +3,9 @@ title: "Section 451 - Definitions"
 usc_title: 37
 usc_section: "451"
 chapter: 8
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "37 U.S.C. § 451"
-generated_at: "2026-03-29T19:43:17.256Z"
+generated_at: "2026-03-29T20:00:34.794Z"
 ---
 
 # § 451. Definitions
@@ -25,11 +25,11 @@ generated_at: "2026-03-29T19:43:17.256Z"
     - **(F)** An applicant or rejected applicant for enlistment.
     - **(G)** Any person whose employment or service is considered directly related to a Government official activity or function under regulations prescribed under section 464 of this title .
     - **(H)** Any other person not covered by subparagraphs (A) through (G) who is determined by the administering Secretary pursuant to regulations prescribed under section 464 of this title as warranting the provision of travel benefits for purposes of the following:
-      - **(i)** Transportation of survivors to attend burial services or transfer of deceased members after death overseas as provided in section 481f 1 1 See References in Text note below. of this title.
-      - **(ii)** Transportation of designated individuals incident to the hospitalization of members as provided in section 481h 1 of this title.
-      - **(iii)** Transportation of designated individuals incident to the repatriation of members as provided in section 481j 1 of this title.
-      - **(iv)** Transportation of non-medical attendants as provided in section 481k 1 of this title.
-      - **(v)** Transportation of designated individuals to attend Yellow Ribbon Reintegration Program events as provided in section 481 l 1 of this title.
+      - **(i)** Transportation of survivors to attend burial services or transfer of deceased members after death overseas as provided in section 453(f) of this title .
+      - **(ii)** Transportation of designated individuals incident to the hospitalization of members as provided in section 452(b)(12) of this title .
+      - **(iii)** Transportation of designated individuals incident to the repatriation of members as provided in section 452(b)(13) of this title .
+      - **(iv)** Transportation of non-medical attendants as provided in section 452(b)(14) of this title .
+      - **(v)** Transportation of designated individuals to attend Yellow Ribbon Reintegration Program events as provided in section 452(b)(15) of this title .
       - **(vi)** Transportation of a person with regard to a single event when the administering Secretary determines that the travel is necessary to ensure fairness and equity, respond to emergency or humanitarian circumstances, or serve the best interests of the Government.
       - **(vii)** Transportation of a dependent child of a member of the uniformed services to the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member is outside the continental United States (other than in Alaska or Hawaii).
       - **(viii)** Transportation of a dependent child of a member of the uniformed services within the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member is in Alaska or Hawaii and the school is located in a State outside of the permanent duty assignment location.

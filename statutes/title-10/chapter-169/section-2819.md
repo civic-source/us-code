@@ -3,9 +3,9 @@ title: "Section 2819 - Strategy and assessment with respect to non-operational, 
 usc_title: 10
 usc_section: "2819"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2819"
-generated_at: "2026-03-29T02:10:45.149Z"
+generated_at: "2026-03-29T19:58:02.203Z"
 ---
 
 # § 2819. Strategy and assessment with respect to non-operational, underutilized, and other Department of Defense facilities: assessments of historical significance
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T02:10:45.149Z"
       - **(ii)** the initial determination required by subparagraph (B).
   - **(3)** If, during the course of any assessment of a facility described in paragraph (1), the Secretary concerned changes a determination with respect to the historic significance of the facility or plans of such Secretary to modernize or demolish the facility, such Secretary shall revise the information submitted to the applicable digital facilities management system pursuant to subparagraph (C) of paragraph (2).
 - **(e)**
-  - **(1)** Along with the budget for fiscal year 2027 submitted by the President pursuant to section 1105(a) of title 31 , United States Code, and on an annual basis thereafter, each Secretary concerned shall provide to the congressional defense committees a briefing on—
+  - **(1)** Along with the budget for fiscal year 2027 submitted by the President pursuant to section 1105(a) of title 31 , United States Code, and on an annual basis thereafter, each Secretary concerned shall provide to 1 1 So in original. Probably should be followed by “the”. congressional defense committees a briefing on—
     - **(A)** the strategy required by subsection (a); and
     - **(B)** the results of the assessments required by subsections (b) and (d).
   - **(2)** Each such briefing shall include—

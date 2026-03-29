@@ -1,22 +1,12 @@
 ---
-title: "Section 13706 - Formula for grants"
+title: "Section 13706 - Transferred"
 usc_title: 42
 usc_section: "13706"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 13706"
-generated_at: "2026-03-29T19:31:45.736Z"
+generated_at: "2026-03-29T20:00:55.490Z"
 ---
 
-# § 13706. Formula for grants
+# § 13706. Transferred
 
-- **(a)**
-  - **(1)** 85 percent of the amount available for grants under section 13703 of this title for any fiscal year shall be allocated as follows (except that a State may not receive more than 9 percent of the total amount of funds made available under this paragraph):
-    - **(A)** 0.75 percent shall be allocated to each State that meets the requirements of section 13703(a) of this title , except that the United States Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands, if eligible under section 13703(a) of this title , shall each be allocated 0.05 percent.
-    - **(B)** The amount remaining after application of subparagraph (A) shall be allocated to each State that meets the requirements of section 13703(b) of this title , in the ratio that the number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made, bears to the average annual number of part 1 violent crimes reported by all States that meet the requirements of section 13703(b) of this title to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made.
-  - **(2)** 15 percent of the amount available for grants under section 13703 of this title for any fiscal year shall be allocated to each State that meets the requirements of section 13703(c) of this title as follows:
-    - **(A)** 3.0 percent shall be allocated to each State that meets the requirements of section 13703(c) of this title , except that the United States Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands, if eligible under such subsection, shall each be allocated 0.03 percent.
-    - **(B)** The amount remaining after application of subparagraph (A) shall be allocated to each State that meets the requirements of section 13703(c) of this title , in the ratio that the number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made, bears to the average annual number of part 1 violent crimes reported by all States that meet the requirements of section 13702(c) of this title to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made.
-- **(b)** The amounts available for grants for section 13704 of this title shall be allocated to each State that meets the requirements of section 13704 of this title in the ratio that the average annual number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made bears to the average annual number of part 1 violent crimes reported by States that meet the requirements of section 13704 of this title to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made, except that a State may not receive more than 25 percent of the total amount available for such grants.
-- **(c)** If data regarding part 1 violent crimes in any State is substantially inaccurate or is unavailable for the 3 years preceding the year in which the determination is made, the Attorney General shall utilize the best available comparable data regarding the number of violent crimes for the previous year for the State for the purposes of allocation of funds under this part.
-- **(d)** In determining the amount of funds that States organized as a regional compact may receive, the Attorney General shall first apply the formula in either subsection (a) or (b) and (c) of this section to each member State of the compact. The States organized as a regional compact may receive the sum of the amounts so determined.

@@ -3,9 +3,9 @@ title: "Section 8103 - Board of Directors"
 usc_title: 42
 usc_section: "8103"
 chapter: 90
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 8103"
-generated_at: "2026-03-29T19:31:45.455Z"
+generated_at: "2026-03-29T20:00:55.218Z"
 ---
 
 # § 8103. Board of Directors
@@ -22,6 +22,6 @@ generated_at: "2026-03-29T19:31:45.455Z"
 - **(d)** The directors of the corporation, as full-time officers of the United States, shall serve without additional compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of their duties as directors of the corporation.
 - **(e)** The directors of the corporation shall adopt such bylaws, policies, and administrative provisions as are necessary to the functioning of the corporation and consistent with the provisions of this subchapter.
 - **(f)** A director who is necessarily absent from a meeting of the board, or of a committee of the board, may participate in such meeting through a duly designated representative who is serving, pursuant to appointment by the President of the United States, by and with the advice and consent of the Senate, in the same department, agency, corporation, or instrumentality as the absent director, or in the case of the Comptroller of the Currency, through a duly designated Deputy Comptroller.
-- **(g)** The presence of a majority of the board members, or their representatives as provided in subsection (f) of this section, shall constitute a quorum.
+- **(g)** The presence of a majority of the board members, or their representatives as provided in subsection (f), shall constitute a quorum.
 - **(h)** The corporation shall be subject to the provisions of section 552 of title 5 .
 - **(i)** All meetings of the board of directors will be conducted in accordance with the provisions of section 552b of title 5 .

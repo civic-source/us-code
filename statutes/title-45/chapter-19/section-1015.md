@@ -1,12 +1,12 @@
 ---
-title: "Section 1015 - Repealed. Pub. L. 104–88, title III , § 329(2), Dec. 29, 1995 , 109 Stat. 952"
+title: "Section 1015 - Repealed. Pub. L. 104–88, title III, § 329(2) , Dec. 29, 1995 , 109 Stat. 952"
 usc_title: 45
 usc_section: "1015"
 chapter: 19
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "45 U.S.C. § 1015"
-generated_at: "2026-03-29T19:31:12.249Z"
+generated_at: "2026-03-29T19:59:46.773Z"
 ---
 
-# § 1015. Repealed. Pub. L. 104–88, title III , § 329(2), Dec. 29, 1995 , 109 Stat. 952
+# § 1015. Repealed. Pub. L. 104–88, title III, § 329(2) , Dec. 29, 1995 , 109 Stat. 952
 

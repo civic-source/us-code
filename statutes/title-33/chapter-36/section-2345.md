@@ -3,9 +3,9 @@ title: "Section 2345 - Electronic submission and tracking of permit applications
 usc_title: 33
 usc_section: "2345"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2345"
-generated_at: "2026-03-29T19:43:07.713Z"
+generated_at: "2026-03-29T20:00:31.408Z"
 ---
 
 # § 2345. Electronic submission and tracking of permit applications
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T19:43:07.713Z"
   - **(1)** The Secretary shall make the records of all permit decisions and jurisdictional determinations made by the Secretary available to the public for review and reproduction.
   - **(2)** The Secretary shall provide for the protection of personal, private, privileged, confidential, and proprietary information, and information the disclosure of which is prohibited by law, which may be excluded from disclosure.
 - **(f)**
-  - **(1)** The Secretary shall develop and implement, to the maximum extent practicable, the electronic system required under subsection (a) not later than 2 years after December 16, 2016 .
-  - **(2)** Not later than 180 days after the expiration of the deadline under paragraph (1), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the measures implemented and barriers faced in carrying out this section.
+  - **(1)** The Secretary shall develop and implement, to the maximum extent practicable, the electronic system required under subsection (a) not later than 2 years after December 23, 2022 .
+  - **(2)** The Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a quarterly update describing the status of the implementation of this section.
 - **(g)** The requirements described in subsections (c), (d), and (e) shall apply to permit applications and requests for jurisdictional determinations submitted to the Secretary after December 16, 2016 .
 - **(h)** This section shall not preclude the submission to the Secretary, acting through the Chief of Engineers, of a physical copy of a permit application or a request for a jurisdictional determination.

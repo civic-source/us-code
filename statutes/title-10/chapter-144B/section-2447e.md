@@ -3,9 +3,9 @@ title: "Section 2447e - Renumbered § 4425]"
 usc_title: 10
 usc_section: "2447e"
 chapter: 144
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2447e"
-generated_at: "2026-03-29T19:43:37.981Z"
+generated_at: "2026-03-29T19:58:02.165Z"
 ---
 
 # [§ 2447e. Renumbered § 4425]

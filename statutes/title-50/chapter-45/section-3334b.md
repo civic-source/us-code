@@ -3,16 +3,16 @@ title: "Section 3334b - Collection, analysis, and dissemination of workforce dat
 usc_title: 50
 usc_section: "3334b"
 chapter: 45
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3334b"
-generated_at: "2026-03-29T19:44:52.858Z"
+generated_at: "2026-03-29T20:01:07.356Z"
 ---
 
 # § 3334b. Collection, analysis, and dissemination of workforce data
 
 - **(a)**
 - **(b)**
-  - **(1)** Not later than 180 days after December 20, 2019 , and subject to paragraph (3), 1 1 So in original. There is no par. (3). the Director of National Intelligence shall make available to the public, the appropriate congressional committees, and the workforce of the intelligence community a report which includes aggregate demographic data and other information regarding the diversity and inclusion efforts of the workforce of the intelligence community.
+  - **(1)** Not later than 180 days after December 20, 2019 , the Director of National Intelligence shall make available to the public, the appropriate congressional committees, and the workforce of the intelligence community a report which includes aggregate demographic data and other information regarding the diversity and inclusion efforts of the workforce of the intelligence community.
   - **(2)** A report made available under paragraph (1)—
     - **(A)** shall include unclassified reports and barrier analyses relating to diversity and inclusion efforts;
     - **(B)** shall include aggregate demographic data—
@@ -24,8 +24,11 @@ generated_at: "2026-03-29T19:44:52.858Z"
     - **(D)** shall include demographic data relating to participants in professional development programs of the intelligence community and the rate of placement into senior positions for participants in such programs;
     - **(E)** shall include any voluntarily collected demographic data relating to the membership of any external advisory committee or board to which individuals in senior positions in the intelligence community appoint members; and
     - **(F)** may include data in proportions or percentages to account for concerns relating to the protection of classified information.
-- **(c)** After making available a report under subsection (b), the Director of National Intelligence shall annually provide a report (which may be provided as part of an annual report required under another provision of law) to the workforce of the intelligence community (including senior leadership), the public, and the appropriate congressional committees that includes—
-  - **(1)** demographic data and information on the status of diversity and inclusion efforts of the intelligence community;
+- **(c)** Not later than March 31 of each year, the Director of National Intelligence shall provide a report (which may be provided as part of an annual report required under another provision of law) to the workforce of the intelligence community (including senior leadership), the public, and the appropriate congressional committees that includes—
+  - **(1)** demographic data and information on the status of diversity and inclusion efforts of the intelligence community, including demographic data relating to—
+    - **(A)** the average years of service;
+    - **(B)** the average number of years of service for each level in the General Schedule, Senior Executive Service, Senior Intelligence Service, or equivalent; and
+    - **(C)** career categories;
   - **(2)** an analysis of applicant flow data, including the percentage and level of positions for which data are collected, and a discussion of any resulting policy changes or recommendations; and
   - **(3)** demographic data relating to participants in professional development programs of the intelligence community and the rate of placement into senior positions for participants in such programs.
 - **(d)**

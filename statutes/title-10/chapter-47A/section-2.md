@@ -3,9 +3,9 @@ title: "Section 2 - Pretrial conference"
 usc_title: 10
 usc_section: "2"
 chapter: 47
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2"
-generated_at: "2026-03-29T19:43:37.865Z"
+generated_at: "2026-03-29T19:58:02.030Z"
 ---
 
 # § 949p–2. Pretrial conference

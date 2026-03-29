@@ -3,9 +3,9 @@ title: "Section 10752 - Applications"
 usc_title: 34
 usc_section: "10752"
 chapter: 101
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 10752"
-generated_at: "2026-03-29T19:42:53.102Z"
+generated_at: "2026-03-29T20:00:27.418Z"
 ---
 
 # § 10752. Applications

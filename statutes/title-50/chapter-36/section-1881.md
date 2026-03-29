@@ -3,9 +3,9 @@ title: "Section 1881 - Definitions"
 usc_title: 50
 usc_section: "1881"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 1881"
-generated_at: "2026-03-29T19:44:52.772Z"
+generated_at: "2026-03-29T20:01:07.253Z"
 ---
 
 # § 1881. Definitions
@@ -21,6 +21,11 @@ generated_at: "2026-03-29T19:44:52.772Z"
     - **(A)** a telecommunications carrier, as that term is defined in section 153 of title 47 ;
     - **(B)** a provider of electronic communication service, as that term is defined in section 2510 of title 18 ;
     - **(C)** a provider of a remote computing service, as that term is defined in section 2711 of title 18 ;
-    - **(D)** any other communication service provider who has access to wire or electronic communications either as such communications are transmitted or as such communications are stored; or
-    - **(E)** an officer, employee, or agent of an entity described in subparagraph (A), (B), (C), or (D).
+    - **(D)** any other communication service provider who has access to wire or electronic communications either as such communications are transmitted or as such communications are stored;
+    - **(E)** any other service provider who has access to equipment that is being or may be used to transmit or store wire or electronic communications, but not including any entity that serves primarily as—
+      - **(i)** a public accommodation facility, as that term is defined in section 1861(4) of this title ;
+      - **(ii)** a dwelling, as that term is defined in section 3602 of title 42 ;
+      - **(iii)** a community facility, as that term is defined in section 1592n of title 42 ; or
+      - **(iv)** a food service establishment, as that term is defined in section 1638 of title 7 ; or
+    - **(F)** an officer, employee, custodian, or agent of an entity described in subparagraph (A), (B), (C), (D), or (E).
   - **(5)** The term “intelligence community” has the meaning given the term in section 3003(4) of this title .

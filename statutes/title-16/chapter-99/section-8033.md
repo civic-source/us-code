@@ -3,9 +3,9 @@ title: "Section 8033 - Reports"
 usc_title: 16
 usc_section: "8033"
 chapter: 99
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 8033"
-generated_at: "2026-03-29T19:41:13.902Z"
+generated_at: "2026-03-29T19:59:08.540Z"
 ---
 
 # § 8033. Reports
@@ -26,5 +26,6 @@ Not later than 5 years after the submission of the 5-year integrated strategic p
     - **(D)** an assessment of the capacity of countries in priority regions to implement shiprider agreements;
     - **(E)** an assessment of the capacity of countries in priority regions to increase maritime domain awareness; and
     - **(F)** an assessment of the capacity of governments of relevant countries in priority regions to sustain the programs for which the United States has provided assistance under this chapter;
-  - **(7)** an assessment of the capacity of priority flag states to track the movement of and police their fleet, prevent their flagged vessels from engaging in IUU fishing, and enforce applicable laws and regulations; and
-  - **(8)** an assessment of the extent of involvement in IUU fishing of organizations designated as foreign terrorist organizations under section 1189 of title 8 .
+  - **(7)** an assessment of the capacity of priority flag states to track the movement of and police their fleet, prevent their flagged vessels from engaging in IUU fishing, and enforce applicable laws and regulations;
+  - **(8)** an assessment of the extent of involvement in IUU fishing of organizations designated as foreign terrorist organizations under section 1189 of title 8 ; and
+  - **(9)** the status of work with global enforcement partners.

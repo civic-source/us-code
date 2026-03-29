@@ -3,14 +3,22 @@ title: "Section 256h - Program of payments to teaching health centers that opera
 usc_title: 42
 usc_section: "256h"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 256h"
-generated_at: "2026-03-29T19:31:44.228Z"
+generated_at: "2026-03-29T20:00:53.780Z"
 ---
 
 # § 256h. Program of payments to teaching health centers that operate graduate medical education programs
 
-- **(a)** Subject to subsection (h)(2), the Secretary shall make payments under this section for direct expenses and for indirect expenses to qualified teaching health centers that are listed as sponsoring institutions by the relevant accrediting body for expansion of existing or establishment of new approved graduate medical residency training programs.
+- **(a)**
+  - **(1)** Subject to subsection (h)(2), the Secretary shall make payments under this section for direct expenses and indirect expenses to qualified teaching health centers that are listed as sponsoring institutions by the relevant accrediting body for, as appropriate—
+    - **(A)** maintenance of filled positions at existing approved graduate medical residency training programs;
+    - **(B)** expansion of existing approved graduate medical residency training programs; and
+    - **(C)** establishment of new approved graduate medical residency training programs.
+  - **(2)** In making payments under paragraph (1), the Secretary shall consider the cost of training residents at teaching health centers and the implications of the per resident amount on approved graduate medical residency training programs at teaching health centers.
+  - **(3)** In making payments under paragraph (1)(C), the Secretary shall give priority to qualified teaching health centers that—
+    - **(A)** serve a health professional shortage area with a designation in effect under section 254e of this title or a medically underserved community (as defined in section 295p of this title ); or
+    - **(B)** are located in a rural area (as defined in section 1395ww(d)(2)(D) of this title ).
 - **(b)**
   - **(1)** Subject to paragraph (2), the amounts payable under this section to qualified teaching health centers for an approved graduate medical residency training program for a fiscal year are each of the following amounts:
     - **(A)** The amount determined under subsection (c) for direct expenses associated with sponsoring approved graduate medical residency training programs.
@@ -18,6 +26,7 @@ generated_at: "2026-03-29T19:31:44.228Z"
   - **(2)**
     - **(A)** The total of the payments made to qualified teaching health centers under paragraph (1)(A) or paragraph (1)(B) in a fiscal year shall not exceed the amount of funds appropriated under subsection (g) for such payments for that fiscal year.
     - **(B)** The Secretary shall limit the funding of full-time equivalent residents in order to ensure the direct and indirect payments as determined under subsection 1 1 So in original. Probably should be “subsections”. (c) and (d) do not exceed the total amount of funds appropriated in a fiscal year under subsection (g).
+    - **(C)** Notwithstanding any provision of this section, for the period beginning on October 1, 2023 , and ending on December 31, 2024 , the Secretary may use any amounts made available in any fiscal year to carry out this section (including amounts recouped under subsection (f)) to make payments described in paragraphs (1)(A) and (1)(B), in addition to the total amount of funds appropriated under subsection (g).
 - **(c)**
   - **(1)** The amount determined under this subsection for payments to qualified teaching health centers for direct graduate expenses relating to approved graduate medical residency training programs for a fiscal year is equal to the product of—
     - **(A)** the updated national per resident amount for direct graduate medical education, as determined under paragraph (2); and
@@ -41,14 +50,28 @@ generated_at: "2026-03-29T19:31:44.228Z"
     - **(C)** for direct costs of medical education under section 1395ww(k) of this title ;
   - **(2)** shall not be taken into account in applying the limitation on the number of total full-time equivalent residents under subparagraphs (F) and (G) of section 1395ww(h)(4) of this title and clauses (v), (vi)(I), and (vi)(II) of section 1395ww(d)(5)(B) of this title for the portion of time that a resident rotates to a hospital; and
   - **(3)** shall not include the time in which a resident is counted toward full-time equivalency by a hospital under paragraph (2) or under section 1395ww(d)(5)(B)(iv) of this title , section 1395ww(h)(4)(E) of this title , or section 256e of this title .
-- **(f)** The Secretary shall determine any changes to the number of residents reported by a hospital in the application of the hospital for the current fiscal year to determine the final amount payable to the hospital for the current fiscal year for both direct expense and indirect expense amounts. Based on such determination, the Secretary shall recoup any overpayments made to pay any balance due to the extent possible. The final amount so determined shall be considered a final intermediary determination for the purposes of section 1395 oo of this title and shall be subject to administrative and judicial review under that section in the same manner as the amount of payment under section 1395ww(d) 2 2 See References in Text note below. of this title is subject to review under such section.
-- **(g)** To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015 and $60,000,000 for each of fiscal years 2016 and 2017.
+- **(f)** The Secretary shall determine any changes to the number of residents reported by a teaching health center in the application of the teaching health center for the current fiscal year to determine the final amount payable to the teaching health center for the current fiscal year for both direct expense and indirect expense amounts. Based on such determination, the Secretary shall recoup any overpayments made to pay any balance due to the extent possible. The final amount so determined shall be considered a final intermediary determination for the purposes of section 1395 oo of this title and shall be subject to administrative and judicial review under that section in the same manner as the amount of payment under section 1395ww(d) 2 2 See References in Text note below. of this title is subject to review under such section.
+- **(g)**
+  - **(1)** To carry out this section, there are appropriated such sums as may be necessary, to remain available until expended, not to exceed—
+    - **(A)** $230,000,000, for the period of fiscal years 2011 through 2015;
+    - **(B)** $60,000,000 for each of fiscal years 2016 and 2017;
+    - **(C)** $126,500,000 for each of fiscal years 2018 through 2023;
+    - **(D)** $16,635,616 for the period beginning on October 1, 2023 , and ending on November 17, 2023 , $21,834,247 for the period beginning on November 18, 2023 , and ending on January 19, 2024 , $16,982,192 for the period beginning on January 20, 2024 , and ending on March 8, 2024 , and $164,136,986 for the period beginning on October 1, 2023 , 3 3 So in original. and ending on December 31, 2024 ;
+    - **(E)** $43,150,685 for the period beginning on January 1, 2025 , and ending on March 31, 2025 ; and
+    - **(F)** $87,739,726 for the period beginning on April 1, 2025 , and ending on September 30, 2025 .
+  - **(2)** Of the amount made available to carry out this section for any fiscal year, the Secretary may not use more than 5 percent of such amount for the expenses of administering this section.
 - **(h)**
   - **(1)** The report required under this paragraph for a qualified teaching health center for a fiscal year is a report that includes (in a form and manner specified by the Secretary) the following information for the residency academic year completed immediately prior to such fiscal year:
     - **(A)** The types of primary care resident approved training programs that the qualified teaching health center provided for residents.
     - **(B)** The number of approved training positions for residents described in paragraph (4).
     - **(C)** The number of residents described in paragraph (4) who completed their residency training at the end of such residency academic year and care for vulnerable populations living in underserved areas.
-    - **(D)** Other information as deemed appropriate by the Secretary.
+    - **(D)** The number of patients treated by residents described in paragraph (4).
+    - **(E)** The number of visits by patients treated by residents described in paragraph (4).
+    - **(F)** Of the number of residents described in paragraph (4) who completed their residency training at the end of such residency academic year, the number and percentage of such residents entering primary care practice (meaning any of the areas of practice listed in the definition of a primary care residency program in section 293 l –1 of this title).
+    - **(G)** Of the number of residents described in paragraph (4) who completed their residency training at the end of such residency academic year, the number and percentage of such residents who entered practice at a health care facility—
+      - **(i)** primarily serving a health professional shortage area with a designation in effect under section 254e of this title or a medically underserved community (as defined in section 295p of this title ); or
+      - **(ii)** located in a rural area (as defined in section 1395ww(d)(2)(D) of this title ).
+    - **(H)** Other information as deemed appropriate by the Secretary.
   - **(2)**
     - **(A)** The Secretary may audit a qualified teaching health center to ensure the accuracy and completeness of the information submitted in a report under paragraph (1).
     - **(B)** A teaching health center may only receive payment in a cost reporting period for a number of such resident positions that is greater than the base level of primary care resident positions, as determined by the Secretary. For purposes of this subparagraph, the “base level of primary care residents” for a teaching health center is the level of such residents as of a base period.
@@ -63,5 +86,6 @@ generated_at: "2026-03-29T19:31:44.228Z"
   - **(1)** The term “approved graduate medical residency training program” means a residency or other postgraduate medical training program—
     - **(A)** participation in which may be counted toward certification in a specialty or subspecialty and includes formal postgraduate training programs in geriatric medicine approved by the Secretary; and
     - **(B)** that meets criteria for accreditation (as established by the Accreditation Council for Graduate Medical Education, the American Osteopathic Association, or the American Dental Association).
-  - **(2)** The term “primary care residency program” has the meaning given that term in section 293 l –1 of this title.
-  - **(3)** The term “qualified teaching health center” has the meaning given the term “teaching health center” in section 293 l –1 of this title.
+  - **(2)** The term “new approved graduate medical residency training program” means an approved graduate medical residency training program for which the sponsoring qualified teaching health center has not received a payment under this section for a previous fiscal year (other than pursuant to subsection (a)(1)(C)).
+  - **(3)** The term “primary care residency program” has the meaning given that term in section 293 l –1 of this title.
+  - **(4)** The term “qualified teaching health center” has the meaning given the term “teaching health center” in section 293 l –1 of this title.

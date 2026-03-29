@@ -3,9 +3,9 @@ title: "Section 3352g - Requirement to authorize additional security clearances 
 usc_title: 50
 usc_section: "3352g"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3352g"
-generated_at: "2026-03-29T02:16:14.794Z"
+generated_at: "2026-03-29T20:01:07.365Z"
 ---
 
 # § 3352g. Requirement to authorize additional security clearances for certain contractors

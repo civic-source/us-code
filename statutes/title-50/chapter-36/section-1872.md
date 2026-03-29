@@ -3,14 +3,14 @@ title: "Section 1872 - Declassification of significant decisions, orders, and op
 usc_title: 50
 usc_section: "1872"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 1872"
-generated_at: "2026-03-29T19:44:52.771Z"
+generated_at: "2026-03-29T20:01:07.252Z"
 ---
 
 # § 1872. Declassification of significant decisions, orders, and opinions
 
-- **(a)** Subject to subsection (b), the Director of National Intelligence, in consultation with the Attorney General, shall conduct a declassification review of each decision, order, or opinion issued by the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review (as defined in section 1871(e) of this title ) that includes a significant construction or interpretation of any provision of law, including any novel or significant construction or interpretation of the term “specific selection term”, and, consistent with that review, make publicly available to the greatest extent practicable each such decision, order, or opinion.
+- **(a)** Subject to subsection (b), the Director of National Intelligence, in consultation with the Attorney General, shall conduct a declassification review, to be concluded as soon as practicable, but not later than 180 days after the commencement of such review, of each decision, order, or opinion issued by the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review (as defined in section 1871(e) of this title ) that includes a significant construction or interpretation of any provision of law, including any novel or significant construction or interpretation of the term “specific selection term”, and, consistent with that review, make publicly available to the greatest extent practicable each such decision, order, or opinion.
 - **(b)** The Director of National Intelligence, in consultation with the Attorney General, may satisfy the requirement under subsection (a) to make a decision, order, or opinion described in such subsection publicly available to the greatest extent practicable by making such decision, order, or opinion publicly available in redacted form.
 - **(c)** The Director of National Intelligence, in consultation with the Attorney General, may waive the requirement to declassify and make publicly available a particular decision, order, or opinion under subsection (a), if—
   - **(1)** the Director of National Intelligence, in consultation with the Attorney General, determines that a waiver of such requirement is necessary to protect the national security of the United States or properly classified intelligence sources or methods; and

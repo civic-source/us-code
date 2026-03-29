@@ -3,9 +3,9 @@ title: "Section 1437 - Declaration of policy and public housing agency organizat
 usc_title: 42
 usc_section: "1437"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1437"
-generated_at: "2026-03-29T19:31:44.882Z"
+generated_at: "2026-03-29T20:00:54.613Z"
 ---
 
 # § 1437. Declaration of policy and public housing agency organization
@@ -31,5 +31,6 @@ generated_at: "2026-03-29T19:31:44.882Z"
     - **(A)** A covered agency (as such term is defined in subparagraph (C) of this paragraph) shall not be required to include on the board of directors or a similar governing board of such agency a member described in paragraph (1).
     - **(B)** Each covered agency that administers Federal housing assistance under section 1437f of this title that chooses not to include a member described in paragraph (1) on the board of directors or a similar governing board of the agency shall establish an advisory board of not less than 6 residents of public housing or recipients of assistance under section 1437f of this title to provide advice and comment to the agency or other administering entity on issues related to public housing and section 1437f of this title . Such advisory board shall meet not less than quarterly.
     - **(C)** For purposes of this paragraph, the term “covered agency” means a public housing agency or such other entity that administers Federal housing assistance for—
-        - **(I)** 1 1 So in original. Probably should be “(i)”. the Housing Authority of the county of Los Angeles, California; or
-- **(ii)** any of the States of Alaska, Iowa, and Mississippi.
+      - **(I)** 1 1 So in original. Probably should be “(i)”. the Housing Authority of the county of Los Angeles, California; or
+      - **(ii)** any of the States of Alaska, Iowa, and Mississippi.
+  - **(4)** No person shall be prohibited from serving on the board of directors or similar governing body of a public housing agency because of the residence of that person in a public housing project or status as assisted under section 1437f of this title .

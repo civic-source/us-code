@@ -3,14 +3,14 @@ title: "Section 532 - Qualifications for original appointment as a commissioned 
 usc_title: 10
 usc_section: "532"
 chapter: 33
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 532"
-generated_at: "2026-03-29T19:43:37.822Z"
+generated_at: "2026-03-29T19:58:01.986Z"
 ---
 
 # § 532. Qualifications for original appointment as a commissioned officer
 
-- **(a)** Under regulations prescribed by the Secretary of Defense, an original appointment as a commissioned officer (other than as a commissioned warrant officer) in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force may be given only to a person who—
+- **(a)** Under regulations prescribed by the Secretary of Defense, an original appointment as a commissioned officer (other than as a commissioned warrant officer) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps may be given only to a person who—
   - **(1)** is a citizen of the United States;
   - **(2)** is of good moral character;
   - **(3)** is physically qualified for active service; and

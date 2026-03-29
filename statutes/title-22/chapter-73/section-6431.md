@@ -3,9 +3,9 @@ title: "Section 6431 - Establishment and composition"
 usc_title: 22
 usc_section: "6431"
 chapter: 73
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 6431"
-generated_at: "2026-03-29T19:42:08.225Z"
+generated_at: "2026-03-29T19:59:24.262Z"
 ---
 
 # § 6431. Establishment and composition

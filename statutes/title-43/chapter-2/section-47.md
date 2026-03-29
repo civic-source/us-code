@@ -1,12 +1,12 @@
 ---
-title: "Section 47 - Repealed. Aug. 7, 1946, ch. 770 , § 1(11), 60 Stat. 867"
+title: "Section 47 - Repealed. Aug. 7, 1946, ch. 770, § 1(11) , 60 Stat. 867"
 usc_title: 43
 usc_section: "47"
 chapter: 2
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 47"
-generated_at: "2026-03-29T19:31:49.020Z"
+generated_at: "2026-03-29T19:59:41.357Z"
 ---
 
-# § 47. Repealed. Aug. 7, 1946, ch. 770 , § 1(11), 60 Stat. 867
+# § 47. Repealed. Aug. 7, 1946, ch. 770, § 1(11) , 60 Stat. 867
 

@@ -3,15 +3,15 @@ title: "Section 5323 - Whistleblower incentives and protections"
 usc_title: 31
 usc_section: "5323"
 chapter: 53
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "31 U.S.C. § 5323"
-generated_at: "2026-03-29T19:42:56.147Z"
+generated_at: "2026-03-29T20:00:25.363Z"
 ---
 
 # § 5323. Whistleblower incentives and protections
 
 - **(a)** In this section:
-  - **(1)** The term “covered judicial or administrative action” means any judicial or administrative action brought by the Secretary of the Treasury (referred to in this section as the “Secretary”) or the Attorney General under this subchapter or subchapter III that results in monetary sanctions exceeding $1,000,000.
+  - **(1)** The term “covered judicial or administrative action” means any judicial or administrative action brought by the Secretary of the Treasury (referred to in this section as the “Secretary”) or the Attorney General under this subchapter, chapter 35 or section 4305 or 4312 of title 50, the Foreign Narcotics Kingpin Designation Act ( 21 U.S.C. 1901 et seq.), or .), 1 1 So in original. and for conspiracies to violate the aforementioned provisions that results in monetary sanctions exceeding $1,000,000.
   - **(2)** The term “monetary sanctions”, when used with respect to any judicial or administrative action—
     - **(A)** means any monies, including penalties, disgorgement, and interest, ordered to be paid; and
     - **(B)** does not include—
@@ -22,20 +22,38 @@ generated_at: "2026-03-29T19:42:56.147Z"
     - **(A)** is derived from the independent knowledge or analysis of a whistleblower;
     - **(B)** is not known to the Secretary or the Attorney General from any other source, unless the whistleblower is the original source of the information; and
     - **(C)** is not exclusively derived from an allegation made in a judicial or administrative hearing, in a governmental report, hearing, audit, or investigation, or from the news media, unless the whistleblower is a source of the information.
-  - **(4)** The term “related action”, when used with respect to any judicial or administrative action brought by the Secretary or the Attorney General under this subchapter or subchapter III, means any judicial or administrative action brought by an entity described in any of subclauses (I) through (III) of subsection (g)(4)(D)(i) that is based upon the original information provided by a whistleblower pursuant to subsection (b) that led to the successful enforcement of the action by the Secretary or the Attorney General.
+  - **(4)** The term “related action”, when used with respect to any covered judicial or administrative action brought by the Secretary or the Attorney General, means any judicial or administrative action brought by an entity described in any of subclauses (I) through (III) of subsection (g)(4)(D)(i) that is based upon the original information provided by a whistleblower pursuant to subsection (b) that led to the successful enforcement of the covered action.
   - **(5)**
-    - **(A)** The term “whistleblower” means any individual who provides, or 2 or more individuals acting jointly who provide, information relating to a violation of this subchapter or subchapter III to the employer of the individual or individuals, including as part of the job duties of the individual or individuals, or to the Secretary or the Attorney General.
+    - **(A)** The term “whistleblower” means any individual who provides, or 2 or more individuals acting jointly who provide, information relating to a violation of this subchapter, chapter 35 or section 4305 or 4312 of title 50, the Foreign Narcotics Kingpin Designation Act ( 21 U.S.C. 1901 et seq.), or .), 1 and for conspiracies to violate the aforementioned provisions to the employer of the individual or individuals, including as part of the job duties of the individual or individuals, or to the Secretary or the Attorney General.
     - **(B)** Solely for the purposes of subsection (g)(1), the term “whistleblower” includes any individual who takes, or 2 or more individuals acting jointly who take, an action described in subsection (g)(1)(A).
 - **(b)**
-  - **(1)** In any covered judicial or administrative action, or related action, the Secretary, under regulations prescribed by the Secretary, in consultation with the Attorney General and subject to subsection (c) and to amounts made available in advance by appropriation Acts, shall pay an award or awards to 1 or more whistleblowers who voluntarily provided original information to the employer of the individual, the Secretary, or the Attorney General, as applicable, that led to the successful enforcement of the covered judicial or administrative action, or related action, in an aggregate amount equal to not more than 30 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions.
-  - **(2)** For the purposes of paying any award under this section, the Secretary may, subject to amounts made available in advance by appropriation Acts, use monetary sanction amounts recovered based on the original information with respect to which the award is being paid.
+  - **(1)** In any covered judicial or administrative action, or related action, the Secretary, under regulations prescribed by the Secretary, in consultation with the Attorney General and subject to subsection (c), shall pay an award or awards to 1 or more whistleblowers who voluntarily provided original information to the employer of the individual, the Secretary, or the Attorney General, as applicable, that led to the successful enforcement of the covered judicial or administrative action, or related action, in an aggregate amount equal to—
+    - **(A)** not less than 10 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions; and
+    - **(B)** not more than 30 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions.
+  - **(2)**
+    - **(A)** Any amount paid under paragraph (1) shall be paid from the Fund established under paragraph (3).
+    - **(B)** The Secretary may pay awards less than the amount described in paragraph (1)(A) for related actions in which a whistleblower may be paid by another whistleblower award program.
+  - **(3)**
+    - **(A)** There shall be established in the Treasury of the United States a revolving fund to be known as the Financial Integrity Fund (referred to in this subsection as the “Fund”).
+    - **(B)** The Fund shall be available to the Secretary, without further appropriation or fiscal year limitations, only for the payment of awards to whistleblowers as provided in subsection (b).
+    - **(C)** The Fund shall not be available to pay any personnel or administrative expenses.
+  - **(4)**
+    - **(A)** There shall be deposited into or credited to the Fund an amount equal to—
+      - **(i)** any monetary sanction collected by the Secretary or Attorney General in any judicial or administrative action under this title, chapter 35 or section 4305 or 4312 of title 50, or the Foreign Narcotics Kingpin Designation Act ( 21 U.S.C. 1901 et seq.), unless the balance of the Fund at the time the monetary sanction is collected exceeds $300,000,000; and
+      - **(ii)** all income from investments made under paragraph (5).
+    - **(B)** If the amounts deposited into or credited to the Fund under subparagraph (A) are not sufficient to satisfy an award made under this subsection, there shall be deposited into or credited to the Fund an amount equal to the unsatisfied portion of the award from any monetary sanction collected by the Secretary of the Treasury or Attorney General in the covered judicial or administrative action on which the award is based.
+    - **(C)** No amounts to be deposited or transferred into the United States Victims of State Sponsored Terrorism Fund pursuant to the Justice for United States Victims of State Sponsored Terrorism Act ( 34 U.S.C. 20144 ) or the Crime Victims Fund pursuant section 1402 of the Victims of Crime Act of 1984 ( 34 U.S.C. 20101 ) shall be deposited into or credited to the Fund.
+  - **(5)**
+    - **(A)** The Secretary of the Treasury may invest the portion of the Fund that is not required to meet the current needs of the Fund.
+    - **(B)** Investments shall be made by the Secretary of the Treasury in obligations of the United States or obligations that are guaranteed as to principal and interest by the United States, with maturities suitable to the needs of the Fund as determined by the Secretary.
+    - **(C)** The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to, and form a part of, the Fund.
 - **(c)**
   - **(1)**
     - **(A)** The determination of the amount of an award made under subsection (b) shall be in the discretion of the Secretary.
     - **(B)** In determining the amount of an award made under subsection (b), the Secretary shall take into consideration—
       - **(i)** the significance of the information provided by the whistleblower to the success of the covered judicial or administrative action;
       - **(ii)** the degree of assistance provided by the whistleblower and any legal representative of the whistleblower in a covered judicial or administrative action;
-      - **(iii)** the programmatic interest of the Department of the Treasury in deterring violations of this subchapter and subchapter III by making awards to whistleblowers who provide information that lead to the successful enforcement of either such subchapter; and
+      - **(iii)** the programmatic interest of the Department of the Treasury in deterring violations of this this 1 subchapter, chapter 35 or section 4305 or 4312 of title 50, and the Foreign Narcotics Kingpin Designation Act ( 21 U.S.C. 1901 et seq.) by making awards to whistleblowers who provide information that lead to the successful enforcement of the covered judicial or administrative action; and
       - **(iv)** such additional relevant factors as the Secretary, in consultation with the Attorney General, may establish by rule or regulation.
   - **(2)** No award under subsection (b) may be made—
     - **(A)** to any whistleblower who is, or was at the time the whistleblower acquired the original information submitted to the Secretary or the Attorney General, as applicable, a member, officer, or employee—
@@ -92,7 +110,7 @@ generated_at: "2026-03-29T19:42:56.147Z"
     - **(B)** For purposes of section 552 of title 5 , this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
     - **(C)** Nothing in this section is intended to limit, or shall be construed to limit, the ability of the Attorney General to present such evidence to a grand jury or to share such evidence with potential witnesses or defendants in the course of an ongoing criminal investigation.
     - **(D)**
-      - **(i)** Without the loss of its status as confidential in the hands of the Secretary or the Attorney General, as applicable, all information referred to in subparagraph (A) may, in the discretion of the appropriate such official, when determined by that official to be necessary to accomplish the purposes of this subchapter, be made available to—
+      - **(i)** Without the loss of its status as confidential in the hands of the Secretary or the Attorney General, as applicable, all information referred to in subparagraph (A) may, in the discretion of the appropriate such official, when determined by that official to be necessary to accomplish the purposes of this subchapter, chapter 35 or section 4305 or 4312 of title 50, or the Foreign Narcotics Kingpin Designation Act ( 21 U.S.C. 1901 et seq.), be made available to—
         - **(I)** any appropriate Federal authority;
         - **(II)** a State attorney general in connection with any criminal investigation;
         - **(III)** any appropriate State regulatory authority; and

@@ -3,9 +3,9 @@ title: "Section 239c - Certain multiyear contracts for acquisition of property: 
 usc_title: 10
 usc_section: "239c"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 239c"
-generated_at: "2026-03-29T19:43:37.793Z"
+generated_at: "2026-03-29T19:58:01.952Z"
 ---
 
 # § 239c. Certain multiyear contracts for acquisition of property: budget justification materials
@@ -14,10 +14,11 @@ generated_at: "2026-03-29T19:43:37.793Z"
   - **(1)** the head of an agency intends to cancel during the fiscal year; or
   - **(2)** with respect to which the head of an agency intends to effect a covered modification during the fiscal year.
 - **(b)** Each proposal required by subsection (a) shall include the following:
-  - **(1)** A detailed assessment of any expected termination costs associated with the proposed cancellation or covered modification of the multiyear contract.
-  - **(2)** An updated assessment of estimated savings of such cancellation or carrying out the multiyear contract as modified by such covered modification.
-  - **(3)** An explanation of the proposed use of previously appropriated funds for advance procurement or procurement of property planned under the multiyear contract before such cancellation or covered modification.
-  - **(4)** An assessment of expected impacts of the proposed cancellation or covered modification on the defense industrial base, including workload stability, loss of skilled labor, and reduced efficiencies.
+  - **(1)** A detailed explanation of the rationale for the proposed cancellation or covered modification of the multiyear contract.
+  - **(2)** A detailed assessment of any expected termination costs associated with the proposed cancellation or covered modification of the multiyear contract.
+  - **(3)** An updated assessment of estimated savings of such cancellation or carrying out the multiyear contract as modified by such covered modification.
+  - **(4)** An explanation of the proposed use of previously appropriated funds for advance procurement or procurement of property planned under the multiyear contract before such cancellation or covered modification.
+  - **(5)** An assessment of expected impacts of the proposed cancellation or covered modification on the defense industrial base, including workload stability, loss of skilled labor, and reduced efficiencies.
 - **(c)** In this section:
   - **(1)** The term “covered modification” means a modification that will result in a reduction in the quantity of end items to be procured.
   - **(2)** The term “head of an agency” means—

@@ -3,9 +3,9 @@ title: "Section 3372 - Undefinitized contractual actions: requirements and limit
 usc_title: 10
 usc_section: "3372"
 chapter: 244
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3372"
-generated_at: "2026-03-29T19:43:38.039Z"
+generated_at: "2026-03-29T19:58:02.229Z"
 ---
 
 # § 3372. Undefinitized contractual actions: requirements and limitations relating to definitization of contractual terms, specifications, and price
@@ -21,10 +21,12 @@ generated_at: "2026-03-29T19:43:38.039Z"
     - **(A)** A contingency operation.
     - **(B)** A humanitarian or peacekeeping operation.
   - **(4)** This subsection does not apply to an undefinitized contractual action for the purchase of initial spares.
-- **(b)** With respect to any undefinitized contractual action with a value greater than $50,000,000, if agreement is not reached on contractual terms, specifications, and price within the period or by the date provided in subsection (a)(1), the contracting officer may not unilaterally definitize those terms, specifications, or price over the objection of the contractor until—
-  - **(1)** the service acquisition executive for the military department that awarded the contract, or the Under Secretary of Defense for Acquisition and Sustainment if the contract was awarded by a Defense Agency or other component of the Department of Defense, approves the definitization in writing;
-  - **(2)** the contracting officer provides a copy of the written approval to the contractor; and
-  - **(3)** a period of 30 calendar days has elapsed after the written approval is provided to the contractor.
+- **(b)**
+  - **(1)** With respect to any undefinitized contractual action with a value greater than $50,000,000, if agreement is not reached on contractual terms, specifications, and price within the period or by the date provided in subsection (a)(1), the contracting officer may not unilaterally definitize those terms, specifications, or price over the objection of the contractor until—
+    - **(A)** the service acquisition executive for the military department that awarded the contract, or the Under Secretary of Defense for Acquisition and Sustainment if the contract was awarded by a Defense Agency or other component of the Department of Defense, approves the definitization in writing;
+    - **(B)** the contracting officer provides a copy of the written approval to the contractor; and
+    - **(C)** a period of 30 calendar days has elapsed after the written approval is provided to the contractor.
+  - **(2)** A unilateral definitization by a contracting officer shall be considered a final decision under chapter 71 of title 41, and a contractor may appeal this decision to the Armed Services Board of Contract Appeals or the United States Court of Federal Claims.
 - **(c)**
   - **(1)** Except as provided in paragraph (2), a contracting officer of the Department of Defense may not enter into an undefinitized contractual action for a foreign military sale unless the contractual action provides for agreement upon contractual terms, specifications, and price by the end of the 180-day period described in subsection (a)(1)(A).
   - **(2)** The requirement under paragraph (1) may be waived in accordance with subsection (a)(3).

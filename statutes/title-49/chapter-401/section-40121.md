@@ -3,9 +3,9 @@ title: "Section 40121 - Air traffic control modernization reviews"
 usc_title: 49
 usc_section: "40121"
 chapter: 401
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 40121"
-generated_at: "2026-03-29T19:44:57.973Z"
+generated_at: "2026-03-29T20:01:14.952Z"
 ---
 
 # § 40121. Air traffic control modernization reviews

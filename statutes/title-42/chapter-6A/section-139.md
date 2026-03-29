@@ -1,14 +1,23 @@
 ---
-title: "Section 139 - Injunctions regarding violation of prohibition"
+title: "Section 139 - Provider requirements to protect patients and improve the accuracy of provider directory information"
 usc_title: 42
 usc_section: "139"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 139"
-generated_at: "2026-03-29T19:31:44.447Z"
+generated_at: "2026-03-29T20:00:54.101Z"
 ---
 
-# § 300ff–139. Injunctions regarding violation of prohibition
+# § 300gg–139. Provider requirements to protect patients and improve the accuracy of provider directory information
 
-- **(a)** The Secretary may, in any court of competent jurisdiction, commence a civil action for the purpose of obtaining temporary or permanent injunctive relief with respect to any violation of this part.
-- **(b)** The Secretary shall establish an administrative process for encouraging emergency response employees to provide information to the Secretary regarding violations of this part. As appropriate, the Secretary shall investigate alleged such 1 1 So in original. violations and seek appropriate injunctive relief.
+- **(a)** Beginning not later than January 1, 2022 , each health care provider and each health care facility shall have in place business processes to ensure the timely provision of provider directory information to a group health plan or a health insurance issuer offering group or individual health insurance coverage to support compliance by such plans or issuers with section 300gg–115(a)(1) of this title , section 1185i(a)(1) of title 29 , or section 9820(a)(1) of title 26 , as applicable. Such providers shall submit provider directory information to a plan or issuers, at a minimum—
+  - **(1)** when the provider or facility begins a network agreement with a plan or with an issuer with respect to certain coverage;
+  - **(2)** when the provider or facility terminates a network agreement with a plan or with an issuer with respect to certain coverage;
+  - **(3)** when there are material changes to the content of provider directory information of the provider or facility described in section 300gg–115(a)(1) of this title , section 1185i(a)(1) of title 29 , or section 9820(a)(1) of title 26 , as applicable; and
+  - **(4)** at any other time (including upon the request of such issuer or plan) determined appropriate by the provider, facility, or the Secretary.
+- **(b)** If a health care provider submits a bill to an enrollee based on cost-sharing for treatment or services provided by the health care provider that is in excess of the normal cost-sharing applied for such treatment or services provided in-network, as prohibited under section 300gg–115(b) of this title , section 1185i(b) of title 29 , or section 9820(b) of title 26 , as applicable, and the enrollee pays such bill, the provider shall reimburse the enrollee for the full amount paid by the enrollee in excess of the in-network cost-sharing amount for the treatment or services involved, plus interest, at an interest rate determined by the Secretary.
+- **(c)** Nothing in this section shall prohibit a provider from requiring in the terms of a contract, or contract termination, with a group health plan or health insurance issuer—
+  - **(1)** that the plan or issuer remove, at the time of termination of such contract, the provider from a directory of the plan or issuer described in section 300gg–115(a) of this title , section 1185i(a) of title 29 , or section 9820(a) of title 26 , as applicable; or
+  - **(2)** that the plan or issuer bear financial responsibility, including under section 300gg–115(b) of this title , section 1185i(b) of title 29 , or section 9820(b) of title 26 , as applicable, for providing inaccurate network status information to an enrollee.
+- **(d)** For purposes of this section, the term “provider directory information” includes the names, addresses, specialty, telephone numbers, and digital contact information of individual health care providers, and the names, addresses, telephone numbers, and digital contact information of each medical group, clinic, or facility contracted to participate in any of the networks of the group health plan or health insurance coverage involved.
+- **(e)** Nothing in this section shall be construed to preempt any provision of State law relating to health care provider directories.

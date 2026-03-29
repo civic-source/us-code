@@ -1,12 +1,12 @@
 ---
-title: "Section 2698b - Repealed. Pub. L. 91–230, title VI , § 662(4), Apr. 13, 1970 , 84 Stat. 188"
+title: "Section 2698b - Repealed. Pub. L. 91–230, title VI, § 662(4) , Apr. 13, 1970 , 84 Stat. 188"
 usc_title: 42
 usc_section: "2698b"
 chapter: 33
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2698b"
-generated_at: "2026-03-29T19:31:45.051Z"
+generated_at: "2026-03-29T20:00:54.820Z"
 ---
 
-# §§ 2698 to 2698b. Repealed. Pub. L. 91–230, title VI , § 662(4), Apr. 13, 1970 , 84 Stat. 188
+# §§ 2698 to 2698b. Repealed. Pub. L. 91–230, title VI, § 662(4) , Apr. 13, 1970 , 84 Stat. 188
 

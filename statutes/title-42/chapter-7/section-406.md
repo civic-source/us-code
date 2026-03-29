@@ -3,9 +3,9 @@ title: "Section 406 - Representation of claimants before Commissioner"
 usc_title: 42
 usc_section: "406"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 406"
-generated_at: "2026-03-29T19:31:44.490Z"
+generated_at: "2026-03-29T20:00:54.150Z"
 ---
 
 # § 406. Representation of claimants before Commissioner

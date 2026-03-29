@@ -3,16 +3,16 @@ title: "Section 295a - Public health training centers"
 usc_title: 42
 usc_section: "295a"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 295a"
-generated_at: "2026-03-29T19:31:44.345Z"
+generated_at: "2026-03-29T20:00:53.942Z"
 ---
 
 # § 295a. Public health training centers
 
 - **(a)** The Secretary may make grants or contracts for the operation of public health training centers.
 - **(b)**
-  - **(1)** A public health training center shall be an accredited school of public health, or another public or nonprofit private institution accredited for the provision of graduate or specialized training in public health, that plans, develops, operates, and evaluates projects that are in furtherance of the goals established by the Secretary for the year 2000 in the areas of preventive medicine, health promotion and disease prevention, or improving access to and quality of health services in medically underserved communities.
+  - **(1)** A public health training center shall be an accredited school of public health, or another public or nonprofit private institution accredited for the provision of graduate or specialized training in public health, that plans, develops, operates, and evaluates projects to improve preventive medicine, health promotion and disease prevention, or access to and quality of health care services in rural or medically underserved communities.
   - **(2)** In awarding grants or contracts under this section the Secretary shall give preference to accredited schools of public health.
 - **(c)** With respect to a public health training center, an award may not be made under subsection (a) unless the program agrees that it—
   - **(1)** will establish or strengthen field placements for students in public or nonprofit private health agencies or organizations;

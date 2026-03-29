@@ -3,9 +3,9 @@ title: "Section 903 - Social Security Advisory Board"
 usc_title: 42
 usc_section: "903"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 903"
-generated_at: "2026-03-29T19:31:44.559Z"
+generated_at: "2026-03-29T20:00:54.238Z"
 ---
 
 # § 903. Social Security Advisory Board
@@ -45,6 +45,6 @@ generated_at: "2026-03-29T19:31:44.559Z"
 - **(g)**
   - **(1)** The Board shall meet at the call of the Chairman (in consultation with the other members of the Board) not less than 4 times each year to consider a specific agenda of issues, as determined by the Chairman in consultation with the other members of the Board.
   - **(2)** Four members of the Board (not more than 3 of whom may be of the same political party) shall constitute a quorum for purposes of conducting business.
-- **(h)** The Board shall be exempt from the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
+- **(h)** The Board shall be exempt from the provisions of chapter 10 of title 5.
 - **(i)** The Board shall, without regard to the provisions of title 5 relating to the competitive service, appoint a Staff Director who shall be paid at a rate equivalent to a rate established for the Senior Executive Service under section 5382 of title 5 . The Board shall appoint such additional personnel as the Board determines to be necessary to provide adequate support for the Board, and may compensate such additional personnel without regard to the provisions of title 5 relating to the competitive service.
 - **(j)** There are authorized to be appropriated, out of the Federal Disability Insurance Trust Fund, the Federal Old-Age and Survivors Insurance Trust Fund, and the general fund of the Treasury, such sums as are necessary to carry out the purposes of this section.

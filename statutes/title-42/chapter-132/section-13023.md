@@ -1,24 +1,12 @@
 ---
-title: "Section 13023 - Specialized technical assistance and training programs"
+title: "Section 13023 - Transferred"
 usc_title: 42
 usc_section: "13023"
 chapter: 132
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 13023"
-generated_at: "2026-03-29T19:31:45.702Z"
+generated_at: "2026-03-29T20:00:55.463Z"
 ---
 
-# § 13023. Specialized technical assistance and training programs
+# § 13023. Transferred
 
-- **(a)**
-  - **(1)** The Administrator shall make grants to national organizations to develop 1 or more model technical assistance and training programs to improve the judicial system’s handling of child abuse and neglect cases.
-  - **(2)** An organization to which a grant is made pursuant to paragraph (1) shall be one that has broad membership among juvenile and family court judges and has demonstrated experience in providing training and technical assistance for judges, attorneys, child welfare personnel, and lay child advocates.
-- **(b)**
-  - **(1)** In order to improve the judicial system’s handling of child abuse and neglect cases, the Administrator shall make grants to State courts or judicial administrators for programs that provide or contract for, the implementation of—
-    - **(A)** training and technical assistance to judicial personnel and attorneys in juvenile and family courts; and
-    - **(B)** administrative reform in juvenile and family courts.
-  - **(2)** The criteria established for the making of grants pursuant to paragraph (1) shall give priority to programs that improve—
-    - **(A)** procedures for determining whether child service agencies have made reasonable efforts to prevent placement of children in foster care;
-    - **(B)** procedures for determining whether child service agencies have, after placement of children in foster care, made reasonable efforts to reunite the family; and
-    - **(C)** procedures for coordinating information and services among health professionals, social workers, law enforcement professionals, prosecutors, defense attorneys, and juvenile and family court personnel, consistent with subchapter I.
-- **(c)** The Administrator shall make grants under subsections (a) and (b) consistent with sections 5666, 5673, and 5676 of this title.

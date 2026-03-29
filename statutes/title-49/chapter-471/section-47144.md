@@ -3,9 +3,9 @@ title: "Section 47144 - Use of funds for repairs for runway safety repairs"
 usc_title: 49
 usc_section: "47144"
 chapter: 471
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 47144"
-generated_at: "2026-03-29T19:44:58.035Z"
+generated_at: "2026-03-29T20:01:15.037Z"
 ---
 
 # § 47144. Use of funds for repairs for runway safety repairs
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:44:58.035Z"
   - **(1)** the airport is a public-use airport;
   - **(2)** the airport is listed in the National Plan of Integrated Airport Systems of the Federal Aviation Administration;
   - **(3)** the runway safety area of the airport was damaged as a result of a natural disaster;
-  - **(4)** the airport was denied funding under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 4121 et seq.) 1 1 See References in Text note below. with respect to the disaster;
+  - **(4)** the airport was denied funding under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.) with respect to the disaster;
   - **(5)** the operator of the airport has exhausted all legal remedies, including legal action against any parties (or insurers thereof) whose action or inaction may have contributed to the need for the repair of the runway safety area;
   - **(6)** there is still a demonstrated need for the runway safety area to accommodate current or imminent aeronautical demand; and
   - **(7)** the cost of repairing or replacing the runway safety area is reasonable in relation to the anticipated operational benefit of repairing the runway safety area, as determined by the Administrator of the Federal Aviation Administration.

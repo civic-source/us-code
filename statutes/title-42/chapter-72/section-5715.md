@@ -1,29 +1,12 @@
 ---
-title: "Section 5715 - Reports"
+title: "Section 5715 - Transferred"
 usc_title: 42
 usc_section: "5715"
 chapter: 72
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5715"
-generated_at: "2026-03-29T19:31:45.245Z"
+generated_at: "2026-03-29T20:00:54.981Z"
 ---
 
-# § 5715. Reports
+# § 5715. Transferred
 
-- **(a)** Not later than April 1, 2000 , and biennially thereafter, the Secretary shall submit, to the Committee on Education and the Workforce of the House of Representatives and the Committee on the Judiciary of the Senate, a report on the status, activities, and accomplishments of entities that receive grants under parts A, B, C, D, and E, with particular attention to—
-  - **(1)** in the case of centers funded under part A, the ability or effectiveness of such centers in—
-    - **(A)** alleviating the problems of runaway and homeless youth;
-    - **(B)** if applicable or appropriate, reuniting such youth with their families and encouraging the resolution of intrafamily problems through counseling and other services;
-    - **(C)** strengthening family relationships and encouraging stable living conditions for such youth; and
-    - **(D)** assisting such youth to decide upon a future course of action; and
-  - **(2)** in the case of projects funded under part B—
-    - **(A)** the number and characteristics of homeless youth served by such projects;
-    - **(B)** the types of activities carried out by such projects;
-    - **(C)** the effectiveness of such projects in alleviating the problems of homeless youth;
-    - **(D)** the effectiveness of such projects in preparing homeless youth for self-sufficiency;
-    - **(E)** the effectiveness of such projects in assisting homeless youth to decide upon future education, employment, and independent living;
-    - **(F)** the ability of such projects to encourage the resolution of intrafamily problems through counseling and development of self-sufficient living skills; and
-    - **(G)** activities and programs planned by such projects for the following fiscal year.
-- **(b)** The Secretary shall include in each report submitted under subsection (a) of this section, summaries of—
-  - **(1)** the evaluations performed by the Secretary under section 5732 of this title ; and
-  - **(2)** descriptions of the qualifications of, and training provided to, individuals involved in carrying out such evaluations.

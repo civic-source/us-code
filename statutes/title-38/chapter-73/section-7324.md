@@ -3,9 +3,9 @@ title: "Section 7324 - Annual report on use of authorities to enhance retention 
 usc_title: 38
 usc_section: "7324"
 chapter: 73
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 7324"
-generated_at: "2026-03-29T19:43:27.077Z"
+generated_at: "2026-03-29T20:00:43.148Z"
 ---
 
 # § 7324. Annual report on use of authorities to enhance retention of experienced nurses
@@ -15,5 +15,5 @@ generated_at: "2026-03-29T19:43:27.077Z"
   - **(2)** The authority under VA Directive 5102.1, relating to the Department of Veterans Affairs nurse qualification standard, dated November 10, 1999 , or any successor directive.
   - **(3)** Any other authorities available to the Secretary for those purposes.
 - **(b)** Each report under subsection (a) shall specify for the period covered by such report, for each Department medical facility and for each geographic service area of the Department, the following:
-  - **(1)** The number of waivers requested under the authority referred to in subsection (a)(2), and the number of waivers granted under that authority, to promote to the Nurse II grade or Nurse III grade under the Nurse Schedule under section 7404(b)(1) of this title any nurse who has not completed a baccalaureate degree in nursing in a recognized school of nursing, set forth by age, race, and years of experience of the individuals subject to such waiver requests and waivers, as the case may be.
+  - **(1)** The number of waivers requested under the authority referred to in subsection (a)(2), and the number of waivers granted under that authority, to promote to the Nurse II grade or Nurse III grade under the Nurse Schedule under section 7404(b)(1) 1 1 See References in Text note below. of this title any nurse who has not completed a baccalaureate degree in nursing in a recognized school of nursing, set forth by age, race, and years of experience of the individuals subject to such waiver requests and waivers, as the case may be.
   - **(2)** The programs carried out to facilitate the use of nursing education programs by experienced nurses, including programs for flexible scheduling, scholarships, salary replacement pay, and on-site classes.

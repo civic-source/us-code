@@ -3,9 +3,9 @@ title: "Section 18 - Information regarding early defaults and foreclosures on in
 usc_title: 12
 usc_section: "18"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 18"
-generated_at: "2026-03-29T19:44:54.080Z"
+generated_at: "2026-03-29T19:58:40.851Z"
 ---
 
 # § 1735f–18. Information regarding early defaults and foreclosures on insured mortgages

@@ -3,9 +3,9 @@ title: "Section 3801 - Definitions"
 usc_title: 31
 usc_section: "3801"
 chapter: 38
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "31 U.S.C. § 3801"
-generated_at: "2026-03-29T19:42:56.128Z"
+generated_at: "2026-03-29T20:00:25.344Z"
 ---
 
 # § 3801. Definitions
@@ -14,10 +14,10 @@ generated_at: "2026-03-29T19:42:56.128Z"
   - **(1)** “authority” means—
     - **(A)** an executive department;
     - **(B)** a military department;
-    - **(C)** an establishment (as such term is defined in section 11(2) 1 1 See References in Text note below. of the Inspector General Act of 1978) which is not an executive department;
+    - **(C)** an establishment (as such term is defined in section 401 of title 5 ) which is not an executive department;
     - **(D)** the United States Postal Service;
     - **(E)** the National Science Foundation; and
-    - **(F)** a designated Federal entity (as such term is defined under section 8G(a)(2) of the Inspector General Act of 1978);
+    - **(F)** a designated Federal entity (as such term is defined under section 415(a) of title 5 );
   - **(2)** “authority head” means—
     - **(A)** the head of an authority; or
     - **(B)** an official or employee of the authority designated, in regulations promulgated by the head of the authority, to act on behalf of the head of the authority;
@@ -31,11 +31,11 @@ generated_at: "2026-03-29T19:42:56.128Z"
       - **(ii)** for the payment of money (including money representing grants, loans, insurance, or benefits) if the United States—
         - **(I)** provided any portion of the money requested or demanded; or
         - **(II)** will reimburse such recipient or party for any portion of the money paid on such request or demand; or
-    - **(C)** made to an authority which has the effect of decreasing an obligation to pay or account for property, services, or money,
+    - **(C)** made to an authority which has the effect of concealing or improperly avoiding or decreasing an obligation to pay or transmit property, services, or money to the authority,
   - **(4)** “investigating official” means an individual who—
     - **(A)**
-      - **(i)** in the case of an authority in which an Office of Inspector General is established by the Inspector General Act of 1978 or by any other Federal law, is the Inspector General of that authority or an officer or employee of such Office designated by the Inspector General;
-      - **(ii)** in the case of an authority in which an Office of Inspector General is not established by the Inspector General Act of 1978 or by any other Federal law, is an officer or employee of the authority designated by the authority head to conduct investigations under section 3803(a)(1) of this title ; or
+      - **(i)** in the case of an authority in which an Office of Inspector General is established by chapter 4 of title 5 or by any other Federal law, is the Inspector General of that authority or an officer or employee of such Office designated by the Inspector General;
+      - **(ii)** in the case of an authority in which an Office of Inspector General is not established by chapter 4 of title 5 or by any other Federal law, is an officer or employee of the authority designated by the authority head to conduct investigations under section 3803(a)(1) of this title ; or
       - **(iii)** in the case of a military department, is the Inspector General of the Department of Defense or an officer or employee of the Office of Inspector General of the Department of Defense who is designated by the Inspector General; and
     - **(B)** who, if a member of the Armed Forces of the United States on active duty, is serving in grade O–7 or above or, if a civilian employee, is serving in a position for which the rate of basic pay is not less than the minimum rate of basic pay for grade GS–16 under the General Schedule;
   - **(5)** “knows or has reason to know”, for purposes of establishing liability under section 3802, means that a person, with respect to a claim or statement—
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T19:42:56.128Z"
     - **(C)** acts in reckless disregard of the truth or falsity of the claim or statement,
   - **(6)** “person” means any individual, partnership, corporation, association, or private organization;
   - **(7)** “presiding officer” means—
-    - **(A)** in the case of an authority to which the provisions of subchapter II of chapter 5 of title 5 apply, an administrative law judge appointed in the authority pursuant to section 3105 of such title or detailed to the authority pursuant to section 3344 of such title; or
+    - **(A)** in the case of an authority to which the provisions of subchapter II of chapter 5 of title 5 apply, an administrative law judge appointed in the authority pursuant to section 3105 of such title or detailed to the authority pursuant to section 3344 of such title;
     - **(B)** in the case of an authority to which the provisions of such subchapter do not apply, an officer or employee of the authority who—
       - **(i)** is selected under chapter 33 of title 5 pursuant to the competitive examination process applicable to administrative law judges;
       - **(ii)** is appointed by the authority head to conduct hearings under section 3803 of this title ;
@@ -52,18 +52,21 @@ generated_at: "2026-03-29T19:42:56.128Z"
       - **(iv)** may not perform duties inconsistent with the duties and responsibilities of a presiding officer;
       - **(v)** is entitled to pay prescribed by the Office of Personnel Management independently of ratings and recommendations made by the authority and in accordance with chapter 51 of such title and subchapter III of chapter 53 of such title;
       - **(vi)** is not subject to performance appraisal pursuant to chapter 43 of such title; and
-      - **(vii)** may be removed, suspended, furloughed, or reduced in grade or pay only for good cause established and determined by the Merit Systems Protection Board on the record after opportunity for hearing by such Board;
+      - **(vii)** may be removed, suspended, furloughed, or reduced in grade or pay only for good cause established and determined by the Merit Systems Protection Board on the record after opportunity for hearing by such Board; or
+    - **(C)** a member of the board of contract appeals pursuant to section 7105 of title 41 , if the authority does not employ an available presiding officer under subparagraph (A);
   - **(8)** “reviewing official” means any officer or employee of an authority—
     - **(A)** who is designated by the authority head to make the determination required under section 3803(a)(2) of this title ;
     - **(B)** who, if a member of the Armed Forces of the United States on active duty, is serving in grade O–7 or above or, if a civilian employee, is serving in a position for which the rate of basic pay is not less than the minimum rate of basic pay for grade GS–16 under the General Schedule; and
     - **(C)** who is—
       - **(i)** not subject to supervision by, or required to report to, the investigating official; and
-      - **(ii)** not employed in the organizational unit of the authority in which the investigating official is employed; and
+      - **(ii)** not employed in the organizational unit of the authority in which the investigating official is employed;
   - **(9)** “statement” means any representation, certification, affirmation, document, record, or accounting or bookkeeping entry made—
     - **(A)** with respect to a claim or to obtain the approval or payment of a claim (including relating to eligibility to make a claim); or
     - **(B)** with respect to (including relating to eligibility for)—
       - **(i)** a contract with, or a bid or proposal for a contract with; or
       - **(ii)** a grant, loan, or benefit from,
+  - **(10)** “material” has the meaning given the term in section 3729(b) of this title ; and
+  - **(11)** “obligation” has the meaning given the term in section 3729(b) of this title .
 - **(b)** For purposes of paragraph (3) of subsection (a)—
   - **(1)** each voucher, invoice, claim form, or other individual request or demand for property, services, or money constitutes a separate claim;
   - **(2)** each claim for property, services, or money is subject to this chapter regardless of whether such property, services, or money is actually delivered or paid; and
@@ -71,3 +74,4 @@ generated_at: "2026-03-29T19:42:56.128Z"
 - **(c)** For purposes of paragraph (9) of subsection (a)—
   - **(1)** each written representation, certification, or affirmation constitutes a separate statement; and
   - **(2)** a statement shall be considered made, presented, or submitted to an authority when such statement is actually made to an agent, fiscal intermediary, or other entity, including any State or political subdivision thereof, acting for or on behalf of such authority.
+- **(d)** For purposes of subsection (a)(10), materiality shall be determined in the same manner as under section 3729 of this title .

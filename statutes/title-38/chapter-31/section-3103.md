@@ -3,14 +3,14 @@ title: "Section 3103 - Periods of eligibility"
 usc_title: 38
 usc_section: "3103"
 chapter: 31
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3103"
-generated_at: "2026-03-29T19:43:27.007Z"
+generated_at: "2026-03-29T20:00:43.063Z"
 ---
 
 # § 3103. Periods of eligibility
 
-- **(a)** Except as provided in subsection (b), (c), (d), (e), or (g) of this section, a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran’s discharge or release from active military, naval, air, or space service.
+- **(a)** Except as provided in subsection (b), (c), (d), (e), (g), or (h) 1 1 See References in Text note below. of this section, a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran’s discharge or release from active military, naval, air, or space service.
 - **(b)**
   - **(1)** In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because a medical condition of such veteran made it infeasible for such veteran to participate in such a program, the twelve-year period of eligibility shall not run during the period of time that such veteran was so prevented from participating in such a program, and such period of eligibility shall again begin to run on the first day following such veteran’s recovery from such condition on which it is reasonably feasible, as determined under regulations which the Secretary shall prescribe, for such veteran to participate in such a program.
   - **(2)** In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because—
@@ -27,3 +27,15 @@ generated_at: "2026-03-29T19:43:27.007Z"
   - **(2)** A rehabilitation program described in this paragraph is a rehabilitation program pursued by a veteran under section 3102(b) of this title .
 - **(f)** In any case in which the Secretary has determined that a veteran was prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility otherwise prescribed in this section as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of title 10, such period of eligibility shall not run for the period of such active duty service plus four months.
 - **(g)** Subsection (a) shall not apply to a veteran who was discharged or released from active military, naval, or air service on or after January 1, 2013 .
+- **(h)**
+  - **(1)** 2 2 So in original. Two subsecs. (h) have been enacted. In the case of a veteran who is eligible for a vocational rehabilitation program under this chapter and who is prevented from participating in the vocational rehabilitation program within the period of eligibility prescribed in subsection (a) because of a covered reason, as determined by the Secretary, such period of eligibility—
+    - **(A)** shall not run during the period the veteran is so prevented from participating in such program; and
+    - **(B)** shall again begin running on a date determined by the Secretary that is—
+      - **(i)** not earlier than the first day after the veteran is able to resume participation in a vocational rehabilitation program under this chapter; and
+      - **(ii)** not later than 90 days after that day.
+  - **(2)** In this subsection, a covered reason is—
+    - **(A)** the temporary or permanent closure of an educational institution by reason of an emergency situation; or
+    - **(B)** another reason that prevents the veteran from participating in the vocational rehabilitation program, as determined by the Secretary.
+- **(h)** 2 In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the 12-year period of eligibility prescribed in subsection (a) due to an emergency situation, such 12-year period—
+  - **(1)** shall not run during the period the individual is so prevented from participating 3 3 So in original. Probably should be followed by “in”. such program; and
+  - **(2)** shall again begin running on the first day after the individual is able to resume participation in such program.

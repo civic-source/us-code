@@ -3,9 +3,9 @@ title: "Section 136r - Research and monitoring"
 usc_title: 7
 usc_section: "136r"
 chapter: 6
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 136r"
-generated_at: "2026-03-29T19:43:58.008Z"
+generated_at: "2026-03-29T19:57:38.903Z"
 ---
 
 # § 136r. Research and monitoring

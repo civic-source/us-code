@@ -3,14 +3,21 @@ title: "Section 2103 - Number and distribution of commissioned officers on activ
 usc_title: 14
 usc_section: "2103"
 chapter: 21
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "14 U.S.C. § 2103"
-generated_at: "2026-03-29T19:45:04.310Z"
+generated_at: "2026-03-29T19:58:08.513Z"
 ---
 
 # § 2103. Number and distribution of commissioned officers on active duty promotion list
 
-- **(a)** The total number of Coast Guard commissioned officers on the active duty promotion list, excluding warrant officers, shall not exceed 6,900; except that the Commandant may temporarily increase that number by up to 2 percent for no more than 60 days following the date of the commissioning of a Coast Guard Academy class.
+- **(a)**
+  - **(1)** The total number of Coast Guard commissioned officers on the active duty promotion list, excluding warrant officers, shall not exceed—
+    - **(A)** 7,100 in fiscal year 2022;
+    - **(B)** 7,200 in fiscal year 2023;
+    - **(C)** 7,300 in fiscal year 2024; and
+    - **(D)** 7,400 in fiscal year 2025 and each subsequent fiscal year.
+  - **(2)** Notwithstanding paragraph (1), the Commandant may temporarily increase the total number of commissioned officers permitted under such paragraph by up to 4 percent for not more than 60 days after the date of the commissioning of a Coast Guard Academy class.
+  - **(3)** Not later than 30 days after exceeding the total number of commissioned officers permitted under paragraphs (1) and (2), and each 30 days thereafter until the total number of commissioned officers no longer exceeds the number of such officers permitted under paragraphs (1) and (2), the Commandant shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the number of officers on the active duty promotion list on the last day of the preceding 30-day period.
 - **(b)**
   - **(1)** The total number of commissioned officers authorized by this section shall be distributed in grade in the following percentages: 0.375 percent for rear admiral; 0.375 percent for rear admiral (lower half); 6.0 percent for captain; 15.0 percent for commander; and 22.0 percent for lieutenant commander.
   - **(2)** The Secretary shall prescribe the percentages applicable to the grades of lieutenant, lieutenant (junior grade), and ensign.

@@ -1,25 +1,12 @@
 ---
-title: "Section 14163b - Applications"
+title: "Section 14163b - Transferred"
 usc_title: 42
 usc_section: "14163b"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14163b"
-generated_at: "2026-03-29T19:31:45.770Z"
+generated_at: "2026-03-29T20:00:55.492Z"
 ---
 
-# § 14163b. Applications
+# § 14163b. Transferred
 
-- **(a)** The Attorney General shall establish a process through which a State may apply for a grant under this part.
-- **(b)**
-  - **(1)** A State desiring a grant under this part shall submit an application to the Attorney General at such time, in such manner, and containing such information as the Attorney General may reasonably require.
-  - **(2)** Each application submitted under paragraph (1) shall contain—
-    - **(A)** a certification by an appropriate officer of the State that the State authorizes capital punishment under its laws and conducts, or will conduct, prosecutions in which capital punishment is sought;
-    - **(B)** a description of the communities to be served by the grant, including the nature of existing capital defender services and capital prosecution programs within such communities;
-    - **(C)** a long-term statewide strategy and detailed implementation plan that—
-      - **(i)** reflects consultation with the judiciary, the organized bar, and State and local prosecutor and defender organizations; and
-      - **(ii)** establishes as a priority improvement in the quality of trial-level representation of indigents charged with capital crimes and trial-level prosecution of capital crimes;
-    - **(D)** in the case of a State that employs a statutory procedure described in section 14163(e)(1)(C) of this title , a certification by an appropriate officer of the State that the State is in substantial compliance with the requirements of the applicable State statute; and
-    - **(E)** assurances that Federal funds received under this part shall be—
-      - **(i)** used to supplement and not supplant non-Federal funds that would otherwise be available for activities funded under this part; and
-      - **(ii)** allocated in accordance with section 14163e(b) of this title .

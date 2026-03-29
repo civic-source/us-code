@@ -1,16 +1,12 @@
 ---
-title: "Section 17534 - Bureau of Prisons policy on chapel library materials"
+title: "Section 17534 - Transferred"
 usc_title: 42
 usc_section: "17534"
 chapter: 153
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 17534"
-generated_at: "2026-03-29T19:31:45.906Z"
+generated_at: "2026-03-29T20:00:55.632Z"
 ---
 
-# § 17534. Bureau of Prisons policy on chapel library materials
+# § 17534. Transferred
 
-- **(a)** Not later than 30 days after April 9, 2008 , the Director of the Bureau of Prisons shall discontinue the Standardized Chapel Library project, or any other project by whatever designation that seeks to compile, list, or otherwise restrict prisoners’ access to reading materials, audiotapes, videotapes, or any other materials made available in a chapel library, except that the Bureau of Prisons may restrict access to—
-  - **(1)** any materials in a chapel library that seek to incite, promote, or otherwise suggest the commission of violence or criminal activity; and
-  - **(2)** any other materials prohibited by any other law or regulation.
-- **(b)** Nothing in this section shall be construed to impact policies of the Bureau of Prisons related to access by specific prisoners to materials for security, safety, sanitation, or disciplinary reasons.

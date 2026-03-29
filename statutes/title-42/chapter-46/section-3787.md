@@ -1,14 +1,12 @@
 ---
-title: "Section 3787 - Subpoena power; employment of hearing officers; authority to hold hearings"
+title: "Section 3787 - Transferred"
 usc_title: 42
 usc_section: "3787"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3787"
-generated_at: "2026-03-29T19:31:45.110Z"
+generated_at: "2026-03-29T20:00:54.882Z"
 ---
 
-# § 3787. Subpoena power; employment of hearing officers; authority to hold hearings
-
-The Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics may appoint such hearing examiners or administrative law judges or request the use of such administrative law judges selected by the Office of Personnel Management pursuant to section 3344 of title 5 , as shall be necessary to carry out their respective powers and duties under this chapter. The Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics or upon authorization, any member thereof or any hearing examiner or administrative law judge assigned to or employed thereby shall have the power to hold hearings and issue subpoenas, administer oaths, examine witnesses, and receive evidence at any place in the United States they respectively may designate.
+# § 3787. Transferred
 

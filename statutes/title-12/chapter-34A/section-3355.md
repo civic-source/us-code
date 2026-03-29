@@ -3,9 +3,9 @@ title: "Section 3355 - Broker price opinions"
 usc_title: 12
 usc_section: "3355"
 chapter: 34
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 3355"
-generated_at: "2026-03-29T19:44:54.247Z"
+generated_at: "2026-03-29T19:58:41.014Z"
 ---
 
 # § 3355. Broker price opinions

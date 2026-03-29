@@ -3,9 +3,9 @@ title: "Section 903 - Congressional Record: daily and permanent forms"
 usc_title: 44
 usc_section: "903"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "44 U.S.C. § 903"
-generated_at: "2026-03-29T19:30:59.101Z"
+generated_at: "2026-03-29T19:59:33.812Z"
 ---
 
 # § 903. Congressional Record: daily and permanent forms

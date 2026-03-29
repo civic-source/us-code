@@ -3,9 +3,9 @@ title: "Section 9858f - Criminal background checks"
 usc_title: 42
 usc_section: "9858f"
 chapter: 105
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 9858f"
-generated_at: "2026-03-29T19:31:45.550Z"
+generated_at: "2026-03-29T20:00:55.319Z"
 ---
 
 # § 9858f. Criminal background checks
@@ -18,12 +18,12 @@ generated_at: "2026-03-29T19:31:45.550Z"
   - **(2)** a search of State-based child abuse and neglect registries and databases in the State where the child care staff member resides, and each State where such staff member resided during the preceding 5 years;
   - **(3)** a search of the National Crime Information Center;
   - **(4)** a Federal Bureau of Investigation fingerprint check using the Integrated Automated Fingerprint Identification System; and
-  - **(5)** a search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ( 42 U.S.C. 16901 et seq.).
+  - **(5)** a search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ( 42 U.S.C. 16901 et seq.). 1 1 See References in Text note below.
 - **(c)**
   - **(1)** A child care staff member shall be ineligible for employment by a child care provider that is receiving assistance under this subchapter if such individual—
     - **(A)** refuses to consent to the criminal background check described in subsection (b);
     - **(B)** knowingly makes a materially false statement in connection with such criminal background check;
-    - **(C)** is registered, or is required to be registered, on a State sex offender registry or repository or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ( 42 U.S.C. 16901 et seq.); or
+    - **(C)** is registered, or is required to be registered, on a State sex offender registry or repository or the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 ( 42 U.S.C. 16901 et seq.); 1 or
     - **(D)** has been convicted of a felony consisting of—
       - **(i)** murder, as described in section 1111 of title 18 ;
       - **(ii)** child abuse or neglect;

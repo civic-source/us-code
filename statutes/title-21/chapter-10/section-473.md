@@ -3,9 +3,9 @@ title: "Section 473 - Grants for improvements to meat and poultry facilities to 
 usc_title: 21
 usc_section: "473"
 chapter: 10
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 473"
-generated_at: "2026-03-29T19:41:41.685Z"
+generated_at: "2026-03-29T19:59:28.500Z"
 ---
 
 # § 473. Grants for improvements to meat and poultry facilities to allow for interstate shipment
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T19:41:41.685Z"
     - **(B)** is not making a good faith effort to be subject to such inspection or to be eligible under such a cooperative interstate shipment program, as applicable.
   - **(3)**
     - **(A)** The Secretary shall require a recipient of a grant under this section to provide matching non-Federal funds in an amount equal to the amount of the grant.
-    - **(B)** The Secretary shall not require any recipient of a grant under this section to provide matching funds with respect to a grant awarded in fiscal year 2021.
+    - **(B)** The Secretary shall not require any recipient of a grant under this section to provide matching funds with respect to a grant awarded in fiscal year 2021 and fiscal year 2022.
 - **(e)**
   - **(1)** Beginning not later than 1 year after the date on which the first grant is awarded under this section, and continuing annually thereafter through the year that is 10 years after the date on which the final grant is awarded under this section, the Secretary shall submit to the Committee on Agriculture and the Committee on Appropriations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry and the Committee on Appropriations of the Senate a report on grants made under this section, including—
     - **(A)** any facilities that used a grant awarded under this section to carry out eligible activities described in subsection (c) during the year covered by the report; and

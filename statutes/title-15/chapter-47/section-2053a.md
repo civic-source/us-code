@@ -3,9 +3,9 @@ title: "Section 2053a - Employee training exchanges"
 usc_title: 15
 usc_section: "2053a"
 chapter: 47
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 2053a"
-generated_at: "2026-03-29T19:44:42.789Z"
+generated_at: "2026-03-29T19:58:17.746Z"
 ---
 
 # § 2053a. Employee training exchanges
@@ -16,5 +16,5 @@ generated_at: "2026-03-29T19:44:42.789Z"
 - **(b)** The Commission may execute the authority contained in subsection (a) with or without reimbursement in money or in kind, and with or without reciprocal arrangements by or on behalf of the foreign government agency involved. Any amounts received as reimbursement for expenses incurred by the Commission under this section shall be credited to the appropriations account from which such expenses were paid.
 - **(c)** An individual retained or employed under subsection (a)(1) shall be considered to be a Federal employee while so retained or employed, only for purposes of—
   - **(1)** injury compensation as provided in chapter 81 of title 5 and tort claims liability under chapter 171 of title 28;
-  - **(2)** the Ethics in Government Act (5 U.S.C. App.) and the provisions of chapter 11 of title 18; and
+  - **(2)** chapter 131 of title 5 and the provisions of chapter 11 of title 18; and
   - **(3)** any other statute or regulation governing the conduct of Federal employees.

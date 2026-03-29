@@ -3,9 +3,9 @@ title: "Section 392a - Principal Cyber Advisors"
 usc_title: 10
 usc_section: "392a"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 392a"
-generated_at: "2026-03-29T02:10:44.863Z"
+generated_at: "2026-03-29T19:58:01.967Z"
 ---
 
 # § 392a. Principal Cyber Advisors
@@ -34,14 +34,17 @@ generated_at: "2026-03-29T02:10:44.863Z"
     - **(C)** The officer designated pursuant to this paragraph shall have the grade of major general or rear admiral (upper half) while serving in that position, without vacating the officer’s permanent grade.
   - **(2)**
     - **(A)** The officer designated pursuant to paragraph (1) is each of the following:
-      - **(i)** The Senior Military Advisor for Cyber Policy to the Assistant Secretary of Defense for Cyber Policy.
+      - **(i)** The Senior Military Advisor for Cyber Policy to the Under Secretary of Defense for Policy.
       - **(ii)** The Deputy Principal Cyber Advisor to the Secretary of Defense.
-    - **(B)** In carrying out duties under this section, the officer designated pursuant to paragraph (1) shall be subject to the authority, direction, and control of, and shall report directly to, the Assistant Secretary of Defense for Cyber Policy.
+    - **(B)** In carrying out duties under this section, the officer designated pursuant to paragraph (1) shall be subject to the authority, direction, and control of, and shall report directly to, the following:
+      - **(i)** The Under Secretary with respect to Senior Military Advisor for Cyber Policy duties.
+      - **(ii)** The Principal Cyber Advisor with respect to Deputy Principal Cyber Advisor duties.
   - **(3)**
     - **(A)** The duties of the officer designated pursuant to paragraph (1) as Senior Military Advisor for Cyber Policy are as follows:
-      - **(i)** To serve as the principal uniformed military advisor on military cyber forces and activities to the Assistant Secretary of Defense for Cyber Policy.
-      - **(ii)** To assess and advise the Assistant Secretary of Defense for Cyber Policy on aspects of policy relating to military cyberspace operations, resources, personnel, cyber force readiness, cyber workforce development, and defense of Department of Defense networks.
-      - **(iii)** To advocate, in consultation with the Joint Staff, and senior officers of the Armed Forces and the combatant commands, for consideration of military issues within the Office of the Assistant Secretary of Defense for Cyber Policy, including coordination and synchronization of Department cyber forces and activities.
+      - **(i)** To serve as the principal uniformed military advisor on military cyber forces and activities to the Under Secretary of Defense for Policy.
+      - **(ii)** To assess and advise the Under Secretary on aspects of policy relating to military cyberspace operations, resources, personnel, cyber force readiness, cyber workforce development, and defense of Department of Defense networks.
+      - **(iii)** To advocate, in consultation with the Joint Staff, and senior officers of the Armed Forces and the combatant commands, for consideration of military issues within the Office of the Under Secretary of Defense for Policy, including coordination and synchronization of Department cyber forces and activities.
+      - **(iv)** To maintain open lines of communication between the Chief Information Officer of the Department of Defense, senior civilian leaders within the Office of the Under Secretary, and senior officers on the Joint Staff, the Armed Forces, and the combatant commands on cyber matters, and to ensure that military leaders are informed on cyber policy decisions.
     - **(B)** The duties of the officer designated pursuant to paragraph (1) as Deputy Principal Cyber Advisor are as follows:
       - **(i)** To synchronize, coordinate, and oversee implementation of the Cyber Strategy of the Department of Defense and other relevant policy and planning.
       - **(ii)** To advise the Secretary of Defense on cyber programs, projects, and activities of the Department, including with respect to policy, training, resources, personnel, manpower, and acquisitions and technology.

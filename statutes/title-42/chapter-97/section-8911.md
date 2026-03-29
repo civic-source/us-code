@@ -3,9 +3,9 @@ title: "Section 8911 - Comprehensive study of projected impact on atmospheric le
 usc_title: 42
 usc_section: "8911"
 chapter: 97
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 8911"
-generated_at: "2026-03-29T19:31:45.486Z"
+generated_at: "2026-03-29T20:00:55.254Z"
 ---
 
 # § 8911. Comprehensive study of projected impact on atmospheric levels of fossil fuel combustion, etc.
@@ -20,4 +20,4 @@ generated_at: "2026-03-29T19:31:45.486Z"
   - **(4)** how the ongoing United States Government carbon dioxide assessment program should be modified so as to be of increased utility in providing information and recommendations of the highest possible value to government policy makers; and
   - **(5)** the need for periodic reports to the Congress in conjunction with any long-term program the Office and the Academy may recommend under this section.
 - **(c)** The Secretary of Energy, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, and the Director of the National Science Foundation shall furnish to the Office or the Academy upon request any information which the Office or the Academy determines to be necessary for purposes of conducting the study required by this section.
-- **(d)** The Office shall provide a separate assessment of the interagency requirements to implement a comprehensive program of the type described in the third sentence of subsection (b) of this section.
+- **(d)** The Office shall provide a separate assessment of the interagency requirements to implement a comprehensive program of the type described in the third sentence of subsection (b).

@@ -3,9 +3,9 @@ title: "Section 1771 - Conversion from Federal to State credit union and from St
 usc_title: 12
 usc_section: "1771"
 chapter: 14
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 1771"
-generated_at: "2026-03-29T19:44:54.095Z"
+generated_at: "2026-03-29T19:58:40.865Z"
 ---
 
 # § 1771. Conversion from Federal to State credit union and from State to Federal credit union

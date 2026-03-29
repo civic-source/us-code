@@ -3,9 +3,9 @@ title: "Section 2331 - Director of National Intelligence program on use of intel
 usc_title: 21
 usc_section: "2331"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 2331"
-generated_at: "2026-03-29T19:41:41.751Z"
+generated_at: "2026-03-29T19:59:28.557Z"
 ---
 
 # § 2331. Director of National Intelligence program on use of intelligence resources in efforts to sanction foreign opioid traffickers
@@ -17,7 +17,9 @@ generated_at: "2026-03-29T19:41:41.751Z"
     - **(B)** be developed in consultation with the Undersecretary of the Treasury for Terrorism and Financial Crimes, appropriate officials of the Office of Intelligence and Analysis of the Department of the Treasury, the Director of the Financial Crimes Enforcement Network, and appropriate Federal law enforcement agencies.
 - **(b)** The Director of National Intelligence shall, in coordination with the Director of the Office of National Drug Control Policy, carry out a comprehensive review of the current intelligence collection priorities of the intelligence community for counternarcotics purposes in order to identify whether such priorities are appropriate and sufficient in light of the number of lives lost in the United States each year due to use of illegal drugs.
 - **(c)**
-  - **(1)** Not later than 90 days after December 20, 2019 , and every 90 days thereafter, the Director of National Intelligence and the Director of the Office of National Drug Control Policy shall jointly submit to the appropriate congressional committees and leadership a report on the status and accomplishments of the program required by subsection (a) during the 90-day period ending on the date of the report. The first report under this paragraph shall also include a description of the amount of funds devoted by the intelligence community to the efforts described in subsection (a) during each of fiscal years 2017 and 2018.
+  - **(1)**
+    - **(A)** Not later than 90 days after December 20, 2019 , and annually thereafter, the Director of National Intelligence and the Director of the Office of National Drug Control Policy shall jointly submit to the appropriate congressional committees and leadership a report on the status and accomplishments of the program required by subsection (a) during the year ending on the date of the report. The first report under this subparagraph shall also include a description of the amount of funds devoted by the intelligence community to the efforts described in subsection (a) during each of fiscal years 2017 and 2018.
+    - **(B)** On a semiannual basis, the Director of National Intelligence and the Director of the Office of National Drug Control Policy shall jointly brief the appropriate congressional committees and leadership on the status and accomplishments of the program required by subsection (a).
   - **(2)** Not later than 120 days after December 20, 2019 , the Director of National Intelligence, in consultation with the Director of the Office of National Drug Control Policy and other relevant agencies, shall submit to the appropriate congressional committees and leadership—
     - **(A)** a comprehensive description of the results of the review required by subsection (b); and
     - **(B)** an assessment of whether—

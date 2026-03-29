@@ -1,28 +1,12 @@
 ---
-title: "Section 16915 - Duration of registration requirement"
+title: "Section 16915 - Transferred"
 usc_title: 42
 usc_section: "16915"
 chapter: 151
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 16915"
-generated_at: "2026-03-29T19:31:45.863Z"
+generated_at: "2026-03-29T20:00:55.590Z"
 ---
 
-# § 16915. Duration of registration requirement
+# § 16915. Transferred
 
-- **(a)** A sex offender shall keep the registration current for the full registration period (excluding any time the sex offender is in custody or civilly committed) unless the offender is allowed a reduction under subsection (b). The full registration period is—
-  - **(1)** 15 years, if the offender is a tier I sex offender;
-  - **(2)** 25 years, if the offender is a tier II sex offender; and
-  - **(3)** the life of the offender, if the offender is a tier III sex offender.
-- **(b)**
-  - **(1)** The full registration period shall be reduced as described in paragraph (3) for a sex offender who maintains a clean record for the period described in paragraph (2) by—
-    - **(A)** not being convicted of any offense for which imprisonment for more than 1 year may be imposed;
-    - **(B)** not being convicted of any sex offense;
-    - **(C)** successfully completing any periods of supervised release, probation, and parole; and
-    - **(D)** successfully completing of 1 1 So in original. The word “of” probably should not appear. an appropriate sex offender treatment program certified by a jurisdiction or by the Attorney General.
-  - **(2)** In the case of—
-    - **(A)** a tier I sex offender, the period during which the clean record shall be maintained is 10 years; and
-    - **(B)** a tier III sex offender adjudicated delinquent for the offense which required registration in a sex registry under this subchapter, the period during which the clean record shall be maintained is 25 years.
-  - **(3)** In the case of—
-    - **(A)** a tier I sex offender, the reduction is 5 years;
-    - **(B)** a tier III sex offender adjudicated delinquent, the reduction is from life to that period for which the clean record under paragraph (2) is maintained.

@@ -3,9 +3,9 @@ title: "Section 629a - Definitions"
 usc_title: 42
 usc_section: "629a"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 629a"
-generated_at: "2026-03-29T19:31:44.525Z"
+generated_at: "2026-03-29T20:00:54.196Z"
 ---
 
 # § 629a. Definitions
@@ -25,16 +25,17 @@ generated_at: "2026-03-29T19:31:44.525Z"
     - **(B)** The purposes described in this subparagraph are the following:
       - **(i)** To promote the safety and well-being of children and families.
       - **(ii)** To increase the strength and stability of families (including adoptive, foster, and extended families).
-      - **(iii)** To increase parents’ confidence and competence in their parenting abilities.
-      - **(iv)** To afford children a safe, stable, and supportive family environment.
-      - **(v)** To strengthen parental relationships and promote healthy marriages.
-      - **(vi)** To enhance child development, including through mentoring (as defined in section 629i(b)(2) of this title ).
+      - **(iii)** To support and retain foster families so they can provide quality family-based settings for children in foster care.
+      - **(iv)** To increase parents’ confidence and competence in their parenting abilities.
+      - **(v)** To afford children a safe, stable, and supportive family environment.
+      - **(vi)** To strengthen parental relationships and promote healthy marriages.
+      - **(vii)** To enhance child development, including through mentoring (as defined in section 629i(b)(2) of this title ).
   - **(3)** The term “State agency” means the State agency responsible for administering the program under subpart 1.
   - **(4)** The term “State” includes an Indian tribe or tribal organization, in addition to the meaning given such term for purposes of subpart 1.
   - **(5)** The term “Indian tribe” has the meaning given the term in section 628(c) of this title .
   - **(6)** The term “tribal organization” has the meaning given the term in section 628(c) of this title .
   - **(7)**
-    - **(A)** The term “time-limited family reunification services” means the services and activities described in subparagraph (B) that are provided to a child that is removed from the child’s home and placed in a foster family home or a child care institution and to the parents or primary caregiver of such a child, in order to facilitate the reunification of the child safely and appropriately within a timely fashion, but only during the 15-month period that begins on the date that the child, pursuant to section 675(5)(F) of this title , is considered to have entered foster care.
+    - **(A)** The term “family reunification services” means the services and activities described in subparagraph (B) that are provided to a child that is removed from the child’s home and placed in a foster family home or a child care institution or a child who has been returned home and to the parents or primary caregiver of such a child, in order to facilitate the reunification of the child safely and appropriately within a timely fashion and to ensure the strength and stability of the reunification. In the case of a child who has been returned home, the services and activities shall only be provided during the 15-month period that begins on the date that the child returns home.
     - **(B)** The services and activities described in this subparagraph are the following:
       - **(i)** Individual, group, and family counseling.
       - **(ii)** Inpatient, residential, or outpatient substance abuse treatment services.

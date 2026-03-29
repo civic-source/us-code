@@ -1,20 +1,12 @@
 ---
-title: "Section 13013a - Report"
+title: "Section 13013a - Omitted"
 usc_title: 42
 usc_section: "13013a"
 chapter: 132
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 13013a"
-generated_at: "2026-03-29T19:31:45.702Z"
+generated_at: "2026-03-29T20:00:55.463Z"
 ---
 
-# § 13013a. Report
+# § 13013a. Omitted
 
-- **(a)** Not later than December 31, 2006 , the Inspector General of the Department of Justice shall submit to Congress a report on the types of activities funded by the National Court-Appointed Special Advocate Association and a comparison of outcomes in cases where court-appointed special advocates are involved and cases where court-appointed special advocates are not involved.
-- **(b)** The report submitted under subsection (a) shall include information on the following:
-  - **(1)** The types of activities the National Court-Appointed Special Advocate Association has funded since 1993.
-  - **(2)** The outcomes in cases where court-appointed special advocates are involved as compared to cases where court-appointed special advocates are not involved, including—
-    - **(A)** the length of time a child spends in foster care;
-    - **(B)** the extent to which there is an increased provision of services;
-    - **(C)** the percentage of cases permanently closed; and
-    - **(D)** achievement of the permanent plan for reunification or adoption.

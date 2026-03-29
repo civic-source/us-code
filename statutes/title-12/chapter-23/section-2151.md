@@ -3,9 +3,9 @@ title: "Section 2151 - Repealed. Pub. L. 115–334, title V, § 5411(17) , Dec. 
 usc_title: 12
 usc_section: "2151"
 chapter: 23
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 2151"
-generated_at: "2026-03-29T19:44:54.193Z"
+generated_at: "2026-03-29T19:58:40.965Z"
 ---
 
 # § 2151. Repealed. Pub. L. 115–334, title V, § 5411(17) , Dec. 20, 2018 , 132 Stat. 4680

@@ -3,22 +3,22 @@ title: "Section 710 - Career flexibility to enhance retention of members"
 usc_title: 10
 usc_section: "710"
 chapter: 40
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 710"
-generated_at: "2026-03-29T19:43:37.839Z"
+generated_at: "2026-03-29T19:58:02.001Z"
 ---
 
 # § 710. Career flexibility to enhance retention of members
 
-- **(a)** Each Secretary of a military department may carry out programs under which members of the regular components and members on Active Guard and Reserve duty of the armed forces under the jurisdiction of such Secretary may be inactivated from active service in order to meet personal or professional needs and returned to active service at the end of such period of inactivation from active service.
+- **(a)** Each Secretary of a military department may carry out programs under which members of the regular components or of the Space Force and members on Active Guard and Reserve duty of the armed forces under the jurisdiction of such Secretary may be inactivated from active service in order to meet personal or professional needs and returned to active service at the end of such period of inactivation from active service.
 - **(b)**
   - **(1)** The period of inactivation from active service under a program under this section of a member participating in the program shall be such period as the Secretary of the military department concerned shall specify in the agreement of the member under subsection (c), except that such period may not exceed three years.
-  - **(2)** Any service by a Reserve officer while participating in a program under this section shall be excluded from computation of the total years of service of that officer pursuant to section 14706(a) of this title .
+  - **(2)** Any service by a Reserve officer, or a Space Force officer in a space force active status not on active duty under section 20105(b) of this title , while participating in a program under this section shall be excluded from computation of the total years of service of that officer pursuant to section 14706(a) of this title .
   - **(3)** Any period of participation of a member in a program under this section shall not count toward—
     - **(A)** eligibility for retirement or transfer to the Ready Reserve under either chapter 571 or 1223 of this title; or
     - **(B)** computation of retired or retainer pay under chapter 71 or 1223 of this title.
 - **(c)** Each member of the armed forces who participates in a program under this section shall enter into a written agreement with the Secretary of the military department concerned under which agreement that member shall agree as follows:
-  - **(1)** To accept an appointment or enlist, as applicable, and serve in the Ready Reserve of an armed force during the period of the inactivation of the member from active service under the program.
+  - **(1)** To accept an appointment or enlist, as applicable, and serve in the Ready Reserve of an armed force during the period of the inactivation of the member from active service under the program or, in the case of a member of the Space Force on sustained duty, to accept release from sustained duty orders and to serve in a space force active status.
   - **(2)** To undergo during the period of the inactivation of the member from active service under the program such inactive service training as the Secretary concerned shall require in order to ensure that the member retains proficiency, at a level determined by the Secretary concerned to be sufficient, in the military skills, professional qualifications, and physical readiness of the member during the inactivation of the member from active service.
   - **(3)** Following completion of the period of the inactivation of the member from active service under the program, to serve one month as a member of the armed forces on active service for each month of the period of the inactivation of the member from active service under the program.
 - **(d)** The Secretary of Defense shall prescribe regulations specifying the guidelines regarding the conditions of release that must be considered and addressed in the agreement required by subsection (c). At a minimum, the Secretary shall prescribe the procedures and standards to be used to instruct a member on the obligations to be assumed by the member under paragraph (2) of such subsection while the member is released from active service.
@@ -40,14 +40,14 @@ generated_at: "2026-03-29T19:43:37.839Z"
     - **(C)** A member who is ineligible for payment of a special or incentive pay or bonus otherwise covered by this paragraph by reason of subparagraph (B)(i)(II) shall be subject to the requirements for repayment of such pay or bonus in accordance with the terms of the applicable agreement of the member under chapter 5 of title 37.
     - **(D)** Any service required of a member under an agreement covered by this paragraph after the member returns to active service as described in subparagraph (A) shall be in addition to any service required of the member under an agreement under subsection (c).
   - **(4)**
-    - **(A)** Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 1 1 See References in Text note below. of title 37 for—
+    - **(A)** Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 452 of title 37 for—
       - **(i)** travel performed from the residence of the member, at the time of release from active service to participate in the program, to the location in the United States designated by the member as his residence during the period of participation in the program; and
       - **(ii)** travel performed to the residence of the member upon return to active service at the end of the participation of the member in the program.
     - **(B)** An allowance is payable under this paragraph only with respect to travel of a member to and from a single residence.
   - **(5)** A member who participates in a program is entitled to carry forward the leave balance existing as of the day on which the member begins participation and accumulated in accordance with section 701 of this title , but not to exceed 60 days.
 - **(g)**
   - **(1)**
-    - **(A)** An officer participating in a program under this section shall not, while participating in the program, be eligible for consideration for promotion under chapter 36 or 1405 of this title.
+    - **(A)** An officer participating in a program under this section shall not, while participating in the program, be eligible for consideration for promotion under chapter 36, 1405, or 2005 of this title.
     - **(B)** Upon the return of an officer to active service after completion by the officer of participation in a program—
       - **(i)** the Secretary of the military department concerned shall adjust the date of rank of the officer in such manner as the Secretary of Defense shall prescribe in regulations for purposes of this section; and
       - **(ii)** the officer shall be eligible for consideration for promotion when officers of the same competitive category, grade, and seniority are eligible for consideration for promotion.
@@ -58,5 +58,5 @@ generated_at: "2026-03-29T19:43:37.839Z"
   - **(1)** the entitlement of the member and of the dependents of the member to medical and dental care under the provisions of chapter 55 of this title;
   - **(2)** retirement or separation for physical disability under the provisions of chapters 55 and 61 of this title;
   - **(3)** the entitlement of the member and of the survivors of the member to all death benefits under the provisions of chapter 75 of this title;
-  - **(4)** the provision of all travel and transportation allowances for the survivors of deceased members to attend burial ceremonies under section 481f 1 of title 37; and
+  - **(4)** the provision of all travel and transportation allowances for the survivors of deceased members to attend burial ceremonies under section 453(f) of title 37 ; and
   - **(5)** the eligibility of the member for general benefits as provided in part II of title 38.

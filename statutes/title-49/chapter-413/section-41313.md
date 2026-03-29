@@ -3,9 +3,9 @@ title: "Section 41313 - Plans to address needs of families of passengers involve
 usc_title: 49
 usc_section: "41313"
 chapter: 413
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 41313"
-generated_at: "2026-03-29T19:44:57.978Z"
+generated_at: "2026-03-29T20:01:14.958Z"
 ---
 
 # § 41313. Plans to address needs of families of passengers involved in foreign air carrier accidents
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T19:44:57.978Z"
   - **(13)** An assurance that the foreign air carrier will commit sufficient resources to carry out the plan.
   - **(14)** If a foreign air carrier does not wish to comply with paragraph (10), (11), or (12), a description of proposed adequate substitute measures for the requirements of each paragraph with which the foreign air carrier does not wish to comply.
   - **(15)** An assurance that the foreign air carrier will provide adequate training to the employees and agents of the carrier to meet the needs of survivors and family members following an accident.
-  - **(16)** An assurance that, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving any loss of life, will consult 1 1 So in original. Probably should be “the foreign air carrier will consult”. with the Board and the Department of State on the provision of the assistance.
+  - **(16)** An assurance that, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving any loss of life, the foreign air carrier shall consult with the Board and the Department of State on the provision of the assistance.
   - **(17)**
     - **(A)** An assurance that, in the case of an accident that results in any damage to a manmade structure or other property on the ground that is not government-owned, the foreign air carrier will promptly provide notice, in writing, to the extent practicable, directly to the owner of the structure or other property about liability for any property damage and means for obtaining compensation.
     - **(B)** At a minimum, the written notice shall advise an owner (i) to contact the insurer of the property as the authoritative source for information about coverage and compensation; (ii) to not rely on unofficial information offered by foreign air carrier representatives about compensation by the foreign air carrier for accident-site property damage; and (iii) to obtain photographic or other detailed evidence of property damage as soon as possible after the accident, consistent with restrictions on access to the accident site.

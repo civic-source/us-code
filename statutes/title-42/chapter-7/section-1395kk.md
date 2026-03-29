@@ -3,9 +3,9 @@ title: "Section 1395kk - Administration of insurance programs"
 usc_title: 42
 usc_section: "1395kk"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1395kk"
-generated_at: "2026-03-29T19:31:44.749Z"
+generated_at: "2026-03-29T20:00:54.458Z"
 ---
 
 # § 1395kk. Administration of insurance programs
@@ -46,3 +46,14 @@ generated_at: "2026-03-29T19:31:44.749Z"
   - **(1)** An individual who is incarcerated.
   - **(2)** An individual who is not lawfully present in the United States and who is not eligible for coverage under this subchapter.
   - **(3)** A deceased individual.
+- **(g)**
+  - **(1)** Each year (beginning with 2016), the Secretary shall submit to the Committees on Ways and Means and Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate a report on Medicare enrollment data (and, in the case of part A, on data on individuals receiving benefits under such part) as of a date in such year specified by the Secretary. Such data shall be presented—
+    - **(A)** by Congressional district and State; and
+    - **(B)** in a manner that provides for such data based on—
+      - **(i)** fee-for-service enrollment (as defined in paragraph (2));
+      - **(ii)** enrollment under part C (including separate for aggregate enrollment in MA–PD plans and aggregate enrollment in MA plans that are not MA–PD plans); and
+      - **(iii)** enrollment under part D.
+  - **(2)** For purpose of paragraph (1)(B)(i), the term “fee-for-service enrollment” means aggregate enrollment (including receipt of benefits other than through enrollment) under—
+    - **(A)** part A only;
+    - **(B)** part B only; and
+    - **(C)** both part A and part B.

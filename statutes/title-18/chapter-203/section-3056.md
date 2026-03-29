@@ -3,9 +3,9 @@ title: "Section 3056 - Powers, authorities, and duties of United States Secret S
 usc_title: 18
 usc_section: "3056"
 chapter: 203
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "18 U.S.C. § 3056"
-generated_at: "2026-03-29T19:41:06.849Z"
+generated_at: "2026-03-29T19:58:59.742Z"
 ---
 
 # § 3056. Powers, authorities, and duties of United States Secret Service
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T19:41:06.849Z"
   - **(4)** Children of a former President who are under 16 years of age.
   - **(5)** Visiting heads of foreign states or foreign governments.
   - **(6)** Other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad when the President directs that such protection be provided.
-  - **(7)** Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term “major Presidential and Vice Presidential candidates” means those individuals identified as such by the Secretary of Homeland Security after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee. The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).
+  - **(7)** Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term “major Presidential and Vice Presidential candidates” means those individuals identified as such by the Secretary of Homeland Security after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee. The Committee shall not be subject to chapter 10 of title 5.
   - **(8)** Former Vice Presidents, their spouses, and their children who are under 16 years of age, for a period of not more than six months after the date the former Vice President leaves office. The Secretary of Homeland Security shall have the authority to direct the Secret Service to provide temporary protection for any of these individuals at any time thereafter if the Secretary of Homeland Security or designee determines that information or conditions warrant such protection.
 - **(b)** Under the direction of the Secretary of Homeland Security, the Secret Service is authorized to detect and arrest any person who violates—
   - **(1)** section 508, 509, 510, 871, or 879 of this title or, with respect to the Federal Deposit Insurance Corporation, Federal land banks, and Federal land bank associations, section 213, 216, 1 1 See References in Text note below. 433, 493, 657, 709, 1006, 1007, 1011, 1013, 1014, 1907, or 1909 of this title;

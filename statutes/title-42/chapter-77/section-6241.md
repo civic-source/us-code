@@ -3,9 +3,9 @@ title: "Section 6241 - Drawdown and sale of petroleum products"
 usc_title: 42
 usc_section: "6241"
 chapter: 77
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6241"
-generated_at: "2026-03-29T19:31:45.262Z"
+generated_at: "2026-03-29T20:00:54.993Z"
 ---
 
 # § 6241. Drawdown and sale of petroleum products
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T19:31:45.262Z"
 - **(f)**
 - **(g)**
   - **(1)** The Secretary shall conduct a continuing evaluation of the drawdown and sales procedures. In the conduct of an evaluation, the Secretary is authorized to carry out a test drawdown and sale or exchange of petroleum products from the Reserve. Such a test drawdown and sale or exchange may not exceed 5,000,000 barrels of petroleum products.
-  - **(2)** Repealed. Pub. L. 106–469, title I , § 103(15)(F)(ii), Nov. 9, 2000 , 114 Stat. 2031 .
+  - **(2)** Repealed. Pub. L. 106–469, title I, § 103(15)(F)(ii) , Nov. 9, 2000 , 114 Stat. 2031 .
   - **(3)** At least part of the crude oil that is sold or exchanged under this subsection shall be sold or exchanged to or with entities that are not part of the Federal Government.
   - **(4)** The Secretary may not sell any crude oil under this subsection at a price less than that which the Secretary determines appropriate and, in no event, at a price less than 95 percent of the sales price, as estimated by the Secretary, of comparable crude oil being sold in the same area at the time the Secretary is offering crude oil for sale in such area under this subsection.
   - **(5)** The Secretary may cancel any offer to sell or exchange crude oil as part of any test under this subsection if the Secretary determines that there are insufficient acceptable offers to obtain such crude oil.
@@ -38,14 +38,15 @@ generated_at: "2026-03-29T19:31:45.262Z"
       - **(ii)** A detailed description submitted under clause (i) may be included as part of a report made to the President and Congress under section 6245 of this title .
 - **(h)**
   - **(1)** If the President finds that—
-    - **(A)** a circumstance, other than those described in subsection (d) of this section, exists that constitutes, or is likely to become, a domestic or international energy supply shortage of significant scope or duration;
-    - **(B)** action taken under this subsection would assist directly and significantly in preventing or reducing the adverse impact of such shortage; and
-    - **(C)** the Secretary of Defense has found that action taken under this subsection will not impair national security,
+    - **(A)** a circumstance, other than those described in subsection (d), exists that constitutes, or is likely to become, a domestic or international energy supply shortage of significant scope or duration;
+    - **(B)** action taken under this subsection would assist directly and significantly in preventing or reducing the adverse impact of such shortage;
+    - **(C)** the Secretary has found that action taken under this subsection will not impair the ability of the United States to carry out obligations of the United States under the international energy program; and
+    - **(D)** the Secretary of Defense has found that action taken under this subsection will not impair national security,
   - **(2)** Petroleum products from the Reserve may not be drawn down under this subsection—
     - **(A)** in excess of an aggregate of 30,000,000 barrels with respect to each such shortage;
     - **(B)** for more than 60 days with respect to each such shortage;
-    - **(C)** if there are fewer than 500,000,000 barrels of petroleum product stored in the Reserve; or
-    - **(D)** below the level of an aggregate of 500,000,000 barrels of petroleum product stored in the Reserve.
+    - **(C)** if there are fewer than 252,400,000 barrels of petroleum product stored in the Reserve; or
+    - **(D)** below the level of an aggregate of 252,400,000 barrels of petroleum product stored in the Reserve.
   - **(3)** During any period in which there is a drawdown and sale of the Reserve in effect under this subsection, the Secretary shall transmit a monthly report to the Congress containing an account of the drawdown and sale of petroleum products under this subsection and an assessment of its effect.
   - **(4)** In no case may the drawdown under this subsection be extended beyond 60 days with respect to any domestic energy supply shortage.
 - **(i)** Notwithstanding any other law, the President may permit any petroleum products withdrawn from the Strategic Petroleum Reserve in accordance with this section to be sold and delivered for refining or exchange outside of the United States, in connection with an arrangement for the delivery of refined petroleum products to the United States.

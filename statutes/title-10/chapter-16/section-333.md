@@ -3,9 +3,9 @@ title: "Section 333 - Foreign security forces: authority to build capacity"
 usc_title: 10
 usc_section: "333"
 chapter: 16
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 333"
-generated_at: "2026-03-29T19:43:37.799Z"
+generated_at: "2026-03-29T19:58:01.957Z"
 ---
 
 # § 333. Foreign security forces: authority to build capacity
@@ -50,12 +50,30 @@ generated_at: "2026-03-29T19:43:37.799Z"
   - **(9)** In the case of a program described in subsection (a), each of the following:
     - **(A)** A description of whether assistance under the program could be provided pursuant to other authorities under this title, the Foreign Assistance Act of 1961, or any other train and equip authorities of the Department of Defense.
     - **(B)** An identification of each such authority described in subparagraph (A).
-- **(f)** The Director of the Defense Security Cooperation Agency shall, on a quarterly basis, submit to the appropriate committees of Congress a report setting forth, for the preceding calendar quarter, the following:
+- **(f)** The Director of the Defense Security Cooperation Agency shall, on a semi-annual basis, submit to the appropriate committees of Congress a report setting forth, for the preceding 180 days, the following:
   - **(1)** Information, by recipient country, of the delivery and execution status of all defense articles, training, defense services, supplies (including consumables), and small-scale construction under programs under subsection (a).
   - **(2)** Information on the timeliness of delivery of defense articles, defense services, supplies (including consumables), and small-scale construction when compared with delivery schedules for such articles, services, supplies, and construction previously provided to Congress.
   - **(3)** Information, by recipient country, on the status of funds allocated for programs under subsection (a), including amounts of unobligated funds, unliquidated obligations, and disbursements.
 - **(g)**
   - **(1)** Amounts for programs carried out pursuant to subsection (a) in a fiscal year, and for other purposes in connection with such programs as authorized by this section, may be derived only from amounts authorized to be appropriated for such fiscal year for the Department of Defense for operation and maintenance, Defense-wide, and available for the Defense Security Cooperation Agency for such programs and purposes.
-  - **(2)**
-    - **(A)** Amounts available in a fiscal year to carry out the authority in subsection (a) may be used for programs under that authority that begin in such fiscal year and end not later than the end of the second fiscal year thereafter.
-    - **(B)** If, in accordance with subparagraph (A), equipment or training is delivered under a program under the authority in subsection (a) in the fiscal year after the fiscal year in which the program begins, amounts for defense articles, training, defense services, supplies (including consumables), and small-scale construction associated with such equipment or training and necessary to ensure that the recipient unit achieves full operational capability for such equipment or training may be used in the fiscal year in which the foreign country takes receipt of such equipment and in the next two fiscal years.
+  - **(2)** Amounts made available in fiscal year 2025 or any subsequent fiscal year to carry out the authority in subsection (a) may be used for programs under that authority that begin in such fiscal year and end not later than the end of the third fiscal year thereafter.
+- **(h)**
+  - **(1)** The Secretary of Defense may treat as stocks of the Department of Defense—
+    - **(A)** equipment procured to carry out a program pursuant to subsection (a) that has not yet been transferred to a foreign country and is no longer needed to support such program or any other program carried out pursuant to such subsection; and
+    - **(B)** equipment that has been transferred to a foreign country to carry out a program pursuant to subsection (a) and is returned by the foreign country to the United States.
+  - **(2)** Not later than 15 days before initiating activities under a program under subsection (a), the Secretary of Defense shall submit to the appropriate committees of Congress a written and electronic notice of the following:
+    - **(A)** The foreign country, and specific unit, whose capacity was intended to be built under the program, and the amount, type, and purpose of the equipment that was to be provided.
+    - **(B)** An explanation why the equipment is no longer needed to support such program or another program carried out pursuant to such subsection.
+- **(i)**
+  - **(1)** The Secretary of Defense, with the concurrence of the Secretary of State, may—
+    - **(A)** allow a foreign country to provide sole-source direction for assistance in support of a program carried out pursuant to subsection (a); and
+    - **(B)** enter into an agreement with a foreign country to provide such sole-source direction.
+  - **(2)** Not later than 72 hours after the Secretary of Defense enters into an agreement under paragraph (1), the Secretary shall submit to the congressional defense committees a written notification that includes the following:
+    - **(A)** A description of the parameters of the agreement, including types of support, objectives, and duration of support and cooperation under the agreement.
+    - **(B)** A description and justification of any anticipated use of sole-source direction pursuant to such agreement.
+    - **(C)** An assessment of the extent to which the equipment to be provided under the agreement—
+      - **(i)** responds to the needs of the foreign country; and
+      - **(ii)** can be sustained by the foreign country.
+    - **(D)** A determination as to whether the anticipated costs to be incurred under the agreement are fair and reasonable.
+    - **(E)** A certification that the agreement is in the national security interests of the United States.
+    - **(F)** Any other matter relating to the agreement, as determined by the Secretary of Defense.

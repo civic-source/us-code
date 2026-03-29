@@ -1,15 +1,12 @@
 ---
-title: "Section 14199 - Authorization of appropriations"
+title: "Section 14199 - Omitted"
 usc_title: 42
 usc_section: "14199"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14199"
-generated_at: "2026-03-29T19:31:45.773Z"
+generated_at: "2026-03-29T20:00:55.493Z"
 ---
 
-# § 14199. Authorization of appropriations
+# § 14199. Omitted
 
-There are authorized to be appropriated to carry out this subchapter—
-
-  - **(1)** 1 1 So in original. No par. (2) has been enacted. $1,000,000 for fiscal year 1996.

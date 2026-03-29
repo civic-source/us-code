@@ -1,15 +1,12 @@
 ---
-title: "Section 1 - Performance standards"
+title: "Section 1 - Transferred"
 usc_title: 42
 usc_section: "1"
 chapter: 72
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T19:31:45.245Z"
+generated_at: "2026-03-29T20:00:54.981Z"
 ---
 
-# § 5732–1. Performance standards
+# § 5732–1. Transferred
 
-- **(a)** Not later than 1 year after October 8, 2008 , the Secretary shall issue rules that specify performance standards for public and nonprofit private entities and agencies that receive grants under sections 5711, 5714–1, and 5714–41 of this title.
-- **(b)** The Secretary shall consult with representatives of public and nonprofit private entities and agencies that receive grants under this subchapter, including statewide and regional nonprofit organizations (including combinations of such organizations) that receive grants under this subchapter, and national nonprofit organizations concerned with youth homelessness, in developing the performance standards required by subsection (a).
-- **(c)** The Secretary shall integrate the performance standards into the processes of the Department of Health and Human Services for grantmaking, monitoring, and evaluation for programs under sections 5711, 5714–1, and 5714–41 of this title.

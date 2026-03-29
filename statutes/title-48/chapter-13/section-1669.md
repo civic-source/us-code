@@ -3,9 +3,9 @@ title: "Section 1669 - Administration and enforcement of collection of customs d
 usc_title: 48
 usc_section: "1669"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "48 U.S.C. § 1669"
-generated_at: "2026-03-29T19:44:59.796Z"
+generated_at: "2026-03-29T20:01:08.589Z"
 ---
 
 # § 1669. Administration and enforcement of collection of customs duties; employment and training of residents

@@ -3,9 +3,9 @@ title: "Section 8437 - Thrift Savings Fund"
 usc_title: 5
 usc_section: "8437"
 chapter: 84
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 8437"
-generated_at: "2026-03-29T19:43:20.445Z"
+generated_at: "2026-03-29T19:57:14.990Z"
 ---
 
 # § 8437. Thrift Savings Fund

@@ -3,9 +3,9 @@ title: "Section 7351d - Choice of participation"
 usc_title: 20
 usc_section: "7351d"
 chapter: 70
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 7351d"
-generated_at: "2026-03-29T19:41:03.424Z"
+generated_at: "2026-03-29T19:58:56.916Z"
 ---
 
 # § 7351d. Choice of participation

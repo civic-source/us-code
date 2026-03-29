@@ -3,9 +3,9 @@ title: "Section 8330 - Enlisted members: transfer to Fleet Reserve and Fleet Mar
 usc_title: 10
 usc_section: "8330"
 chapter: 841
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 8330"
-generated_at: "2026-03-29T19:43:38.105Z"
+generated_at: "2026-03-29T19:58:02.306Z"
 ---
 
 # § 8330. Enlisted members: transfer to Fleet Reserve and Fleet Marine Corps Reserve; retainer pay

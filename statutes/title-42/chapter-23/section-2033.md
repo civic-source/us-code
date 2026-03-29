@@ -3,9 +3,9 @@ title: "Section 2033 - Principal office"
 usc_title: 42
 usc_section: "2033"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2033"
-generated_at: "2026-03-29T19:31:45.015Z"
+generated_at: "2026-03-29T20:00:54.770Z"
 ---
 
 # § 2033. Principal office

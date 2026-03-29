@@ -3,9 +3,9 @@ title: "Section 58 - Mojave National Preserve Advisory Commission"
 usc_title: 16
 usc_section: "58"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 58"
-generated_at: "2026-03-29T19:41:13.366Z"
+generated_at: "2026-03-29T19:59:07.928Z"
 ---
 
 # § 410aaa–58. Mojave National Preserve Advisory Commission
@@ -14,5 +14,5 @@ generated_at: "2026-03-29T19:41:13.366Z"
 - **(b)**
   - **(1)** The advisory commission shall include an elected official for each County within which any part of the preserve is located, a representative of the owners of private properties located within or immediately adjacent to the preserve, and other members representing persons actively engaged in grazing and range management, mineral exploration and development, and persons with expertise in relevant fields, including geology, biology, ecology, law enforcement, and the protection and management of National Park resources and values.
   - **(2)** Vacancies in the advisory commission shall be filled by the Secretary so as to maintain the full diversity of views required to be represented on the advisory commission.
-- **(c)** The Federal Advisory Committee Act shall apply to the procedures and activities of the advisory commission.
+- **(c)** Chapter 10 of title 5 shall apply to the procedures and activities of the advisory commission.
 - **(d)** The advisory commission shall cease to exist ten years after the date of its establishment.

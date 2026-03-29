@@ -3,9 +3,9 @@ title: "Section 40508 - Records and inspection"
 usc_title: 36
 usc_section: "40508"
 chapter: 405
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "36 U.S.C. § 40508"
-generated_at: "2026-03-29T19:43:23.289Z"
+generated_at: "2026-03-29T20:00:38.612Z"
 ---
 
 # § 40508. Records and inspection

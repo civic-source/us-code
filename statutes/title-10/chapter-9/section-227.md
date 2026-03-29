@@ -1,12 +1,23 @@
 ---
-title: "Section 227 - Repealed. Pub. L. 104–106, div. A, title X, § 1061(f)(1) , Feb. 10, 1996 , 110 Stat. 443 ]"
+title: "Section 227 - Budget justification for covered military unaccompanied housing Facilities Sustainment, Restoration, and Modernization projects"
 usc_title: 10
 usc_section: "227"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 227"
-generated_at: "2026-03-29T19:43:37.791Z"
+generated_at: "2026-03-29T19:58:01.949Z"
 ---
 
-# [§ 227. Repealed. Pub. L. 104–106, div. A, title X, § 1061(f)(1) , Feb. 10, 1996 , 110 Stat. 443 ]
+# § 227. Budget justification for covered military unaccompanied housing Facilities Sustainment, Restoration, and Modernization projects
 
+- **(a)** Along with the budget for each fiscal year submitted by the President pursuant to section 1105(a) of title 31 , United States Code, each Secretary of a military department shall include a consolidated budget justification display for the congressional defense committees that individually identifies—
+  - **(1)** for the fiscal year covered by the budget, the total requested expenditure for Facilities Sustainment, Restoration, and Modernization projects for covered military unaccompanied housing compared to the total expenditure required by such projects, disaggregated by military department; and
+  - **(2)** the total expenditure for Facilities Sustainment, Restoration, and Modernization projects made during the fiscal year beginning two years before the fiscal year covered by the budget, disaggregated by—
+    - **(A)** military installation;
+    - **(B)** the type of facility repaired or restored under such repair projects;
+    - **(C)** the number of such repair projects that were for sustainment or repair of a facility; and
+    - **(D)** the number of such repair projects that were for restoration or modernization of a facility.
+- **(b)** In this section:
+  - **(1)** The term “covered military unaccompanied housing” has the meaning given in section 2856 of this title .
+  - **(2)** The terms “facility” and “military installation” have the meanings given, respectively, in section 2801 of this title .
+  - **(3)** The term “repair project” has the meaning given in section 2811 of this title .

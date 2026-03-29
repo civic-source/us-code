@@ -3,14 +3,14 @@ title: "Section 24316 - Plans to address needs of families of passengers involve
 usc_title: 49
 usc_section: "24316"
 chapter: 243
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 24316"
-generated_at: "2026-03-29T19:44:57.920Z"
+generated_at: "2026-03-29T20:01:14.888Z"
 ---
 
 # § 24316. Plans to address needs of families of passengers involved in rail passenger accidents
 
-- **(a)** Not later than 6 months after the date of the enactment of the Rail Safety Improvement Act of 2008, a rail passenger carrier shall submit to the Chairman of the National Transportation Safety Board, the Secretary of Transportation, and the Secretary of Homeland Security a plan for addressing the needs of the families of passengers involved in any rail passenger accident involving a rail passenger carrier intercity train and resulting in a major loss of life.
+- **(a)** Not later than 6 months after the date of the enactment of the Rail Safety Improvement Act of 2008, a rail passenger carrier shall submit to the Chairman of the National Transportation Safety Board, the Secretary of Transportation, and the Secretary of Homeland Security a plan for addressing the needs of the families of passengers involved in any rail passenger accident involving a rail passenger carrier intercity train and resulting in any loss of life.
 - **(b)** A plan to be submitted by a rail passenger carrier under subsection (a) shall include, at a minimum, the following:
   - **(1)** A process by which a rail passenger carrier will maintain and provide to the National Transportation Safety Board, the Secretary of Transportation, and the Secretary of Homeland Security immediately upon request, a list (which is based on the best available information at the time of the request) of the names of the passengers aboard the train (whether or not such names have been verified), and will periodically update the list. The plan shall include a procedure, with respect to unreserved trains and passengers not holding reservations on other trains, for the rail passenger carrier to use reasonable efforts to ascertain the names of passengers aboard a train involved in an accident.
   - **(2)** A process for notifying the families of the passengers, before providing any public notice of the names of the passengers, either by utilizing the services of the organization designated for the accident under section 1139(a)(2) of this title or the services of other suitably trained individuals.

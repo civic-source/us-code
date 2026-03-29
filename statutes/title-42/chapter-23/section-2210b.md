@@ -3,16 +3,16 @@ title: "Section 2210b - Uranium supply"
 usc_title: 42
 usc_section: "2210b"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2210b"
-generated_at: "2026-03-29T19:31:45.033Z"
+generated_at: "2026-03-29T20:00:54.795Z"
 ---
 
 # § 2210b. Uranium supply
 
 - **(a)** The Secretary of Energy shall monitor and for the years 1983 to 1992 report annually to the Congress and to the President a determination of the viability of the domestic uranium mining and milling industry and shall establish by rule, after public notice and in accordance with the requirements of section 2231 of this title , within 9 months of January 4, 1983 , specific criteria which shall be assessed in the annual reports on the domestic uranium industry’s viability. The Secretary of Energy is authorized to issue regulations providing for the collection of such information as the Secretary of Energy deems necessary to carry out the monitoring and reporting requirements of this section.
 - **(b)** Upon a satisfactory showing to the Secretary of Energy by any person that any information, or portion thereof obtained under this section, would, if made public, divulge proprietary information of such person, the Secretary shall not disclose such information and disclosure thereof shall be punishable under section 1905 of title 18 .
-- **(c)** The criteria referred to in subsection (a) of this section shall also include, but not be limited to—
+- **(c)** The criteria referred to in subsection (a) shall also include, but not be limited to—
   - **(1)** an assessment of whether executed contracts or options for source material or special nuclear material will result in greater than 37½ percent of actual or projected domestic uranium requirements for any two-consecutive-year period being supplied by source material or special nuclear material from foreign sources;
   - **(2)** projections of uranium requirements and inventories of domestic utilities for a 10 year period;
   - **(3)** present and probable future use of the domestic market by foreign imports;

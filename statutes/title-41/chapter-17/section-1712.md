@@ -3,9 +3,9 @@ title: "Section 1712 - Record requirements"
 usc_title: 41
 usc_section: "1712"
 chapter: 17
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "41 U.S.C. § 1712"
-generated_at: "2026-03-29T19:31:15.744Z"
+generated_at: "2026-03-29T19:59:34.751Z"
 ---
 
 # § 1712. Record requirements
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T19:31:15.744Z"
     - **(D)** the total cost of the procurement; or
   - **(2)** procedures other than competitive procedures—
     - **(A)** the information described in paragraph (1);
-    - **(B)** the reason under section 3304(a) of this title or section 2304(c) of title 10 for using the procedures; and
+    - **(B)** the reason under section 3304(a) of this title or section 3204(a) of title 10 for using the procedures; and
     - **(C)** the identity of the organization or activity that conducted the procurement.
 - **(c)** Information included in a record pursuant to subsection (b)(1) that relates to procurements resulting in the submission of a bid or proposal by only one responsible source shall be separately categorized from the information relating to other procurements included in the record. The record of that information shall be designated “noncompetitive procurements using competitive procedures”.
 - **(d)** The head of each executive agency shall—

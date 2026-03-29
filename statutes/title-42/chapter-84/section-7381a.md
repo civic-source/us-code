@@ -3,9 +3,9 @@ title: "Section 7381a - Science education programs"
 usc_title: 42
 usc_section: "7381a"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7381a"
-generated_at: "2026-03-29T19:31:45.358Z"
+generated_at: "2026-03-29T20:00:55.109Z"
 ---
 
 # § 7381a. Science education programs
@@ -25,10 +25,10 @@ generated_at: "2026-03-29T19:31:45.358Z"
     - **(A)** The Secretary shall offer to enter into a contract with the National Academy of Sciences under which the National Academy, not later than 5 years after, and not later than 10 years after, August 9, 2007 , shall assess the performance of the science, engineering, and mathematics education programs of the Department.
     - **(B)** An assessment under this paragraph shall be conducted taking into consideration, where applicable, the effect of science, engineering, and mathematics education programs of the Department on student academic achievement in science and mathematics.
   - **(6)** There are authorized to be appropriated such sums as are necessary to carry out this subsection.
-- **(c)** The programs described in subsection (a) of this section shall supplement and be coordinated with current activities of the Department, but shall not supplant them.
+- **(c)** The programs described in subsection (a) shall supplement and be coordinated with current activities of the Department, but shall not supplant them.
 - **(d)** The Secretary shall establish a Science, Engineering, and Mathematics Education Fund, using not less than 0.3 percent of the amount made available to the Department for research, development, demonstration, and commercial application for each fiscal year, to carry out sections 7381b, 7381c, and 7381c–1 of this title.
 - **(e)** The Secretary shall submit to Congress as part of the annual budget submission for a fiscal year a report describing the manner in which the Department has complied with subsection (d) for the prior fiscal year and the manner in which the Department proposes to comply with subsection (d) during the following fiscal year, including—
   - **(1)** the total amount of funding for research, development, demonstration, and commercial application activities for the corresponding fiscal year;
   - **(2)** the amounts set aside for the Science, Engineering, and Mathematics Education Fund under subsection (d) from funding for research activities, development activities, demonstration activities, and commercial application activities for the corresponding fiscal year; and
   - **(3)** a description of how the funds set aside under subsection (d) were allocated for the prior fiscal year and will be allocated for the following fiscal year.
-- **(f)** In carrying out a program under subsection (a) of this section, the Secretary shall give priority to activities that are designed to encourage students from under-represented groups to pursue scientific and technical careers.
+- **(f)** In carrying out a program under subsection (a), the Secretary shall give priority to activities that are designed to encourage students from under-represented groups to pursue scientific and technical careers.

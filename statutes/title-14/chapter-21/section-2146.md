@@ -3,9 +3,9 @@ title: "Section 2146 - Discharge in lieu of retirement; separation pay"
 usc_title: 14
 usc_section: "2146"
 chapter: 21
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "14 U.S.C. § 2146"
-generated_at: "2026-03-29T19:45:04.313Z"
+generated_at: "2026-03-29T19:58:08.520Z"
 ---
 
 # § 2146. Discharge in lieu of retirement; separation pay

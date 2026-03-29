@@ -1,18 +1,12 @@
 ---
-title: "Section 16961 - Access to national crime information databases"
+title: "Section 16961 - Transferred"
 usc_title: 42
 usc_section: "16961"
 chapter: 151
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 16961"
-generated_at: "2026-03-29T19:31:45.867Z"
+generated_at: "2026-03-29T20:00:55.591Z"
 ---
 
-# § 16961. Access to national crime information databases
+# § 16961. Transferred
 
-- **(a)** Notwithstanding any other provision of law, the Attorney General shall ensure access to the national crime information databases (as defined in section 534 of title 28 ) by—
-  - **(1)** the National Center for Missing and Exploited Children, to be used only within the scope of the Center’s duties and responsibilities under Federal law to assist or support law enforcement agencies in administration of criminal justice functions; and
-  - **(2)** governmental social service agencies with child protection responsibilities, to be used by such agencies only in investigating or responding to reports of child abuse, neglect, or exploitation.
-- **(b)** The access provided under this section, and associated rules of dissemination, shall be—
-  - **(1)** defined by the Attorney General; and
-  - **(2)** limited to personnel of the Center or such agencies that have met all requirements set by the Attorney General, including training, certification, and background screening.

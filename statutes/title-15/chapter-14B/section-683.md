@@ -3,9 +3,9 @@ title: "Section 683 - Borrowing operations"
 usc_title: 15
 usc_section: "683"
 chapter: 14
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 683"
-generated_at: "2026-03-29T19:44:42.661Z"
+generated_at: "2026-03-29T19:58:17.622Z"
 ---
 
 # § 683. Borrowing operations

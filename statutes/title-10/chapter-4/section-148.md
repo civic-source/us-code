@@ -3,9 +3,9 @@ title: "Section 148 - Joint Energetics Transition Office"
 usc_title: 10
 usc_section: "148"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 148"
-generated_at: "2026-03-29T02:10:44.826Z"
+generated_at: "2026-03-29T19:58:01.933Z"
 ---
 
 # § 148. Joint Energetics Transition Office
@@ -22,9 +22,8 @@ generated_at: "2026-03-29T02:10:44.826Z"
     - **(A)** developing or supporting the development of strategic plans for energetic materials and technologies, including associated performance metrics for the Office, over the periods covered by the future-years defense program required under section 221 of this title and the program objective memorandum process;
     - **(B)** initiating special studies or analyses—
       - **(i)** to determine targets that would be optimally addressed or defeated by weapons that incorporate novel energetic materials; and
-      - **(ii)** to inform the program objective memorandum process;
-    - **(C)** identifying any shortfalls in the supply chain for energetic materials and developing plans to alleviate any shortfalls through the expansion of the energetic materials industrial base to include critical contractors, subcontractors, and suppliers; and
-    - **(D)** identifying raw material waste produced during the explosives manufacturing process and developing plans to reduce waste and optimize production.
+      - **(ii)** to inform the program objective memorandum process; and
+    - **(C)** identifying any shortfalls in the supply chain for energetic materials and developing plans to alleviate any shortfalls through the expansion of the energetic materials industrial base to include critical contractors, subcontractors, and suppliers.
   - **(2)** Coordinate and ensure consistency and congruity among research, development, test, and evaluation efforts in energetic materials across the Department of Defense—
     - **(A)** to identify promising new energetic materials and technologies;
     - **(B)** to mature, integrate, prototype, test, and demonstrate novel energetic materials and technologies, including new materials and manufacturing technologies;

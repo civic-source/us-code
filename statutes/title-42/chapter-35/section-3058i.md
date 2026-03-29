@@ -3,15 +3,15 @@ title: "Section 3058i - Prevention of elder abuse, neglect, and exploitation"
 usc_title: 42
 usc_section: "3058i"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3058i"
-generated_at: "2026-03-29T19:31:45.083Z"
+generated_at: "2026-03-29T20:00:54.856Z"
 ---
 
 # § 3058i. Prevention of elder abuse, neglect, and exploitation
 
 - **(a)** In order to be eligible to receive an allotment under section 3058b of this title from funds appropriated under section 3058a of this title and made available to carry out this subpart, a State agency shall, in accordance with this section, and in consultation with area agencies on aging, develop and enhance programs to address elder abuse, neglect, and exploitation.
-- **(b)** The State agency shall use an allotment made under subsection (a) of this section to carry out, through the programs described in subsection (a) of this section, activities to develop, strengthen, and carry out programs for the prevention, detection, assessment, and treatment of, intervention in, investigation of, and response to elder abuse, neglect, and exploitation, including—
+- **(b)** The State agency shall use an allotment made under subsection (a) to carry out, through the programs described in subsection (a), activities to develop, strengthen, and carry out programs for the prevention, detection, assessment, and treatment of, intervention in, investigation of, and response to elder abuse, neglect, and exploitation, including—
   - **(1)** providing for public education and outreach to identify and prevent elder abuse, neglect, and exploitation;
   - **(2)** providing for public education and outreach to promote financial literacy and prevent identity theft and financial exploitation of older individuals;
   - **(3)** ensuring the coordination of services provided by area agencies on aging with services instituted under the State adult protection service program, State and local law enforcement systems, and courts of competent jurisdiction;
@@ -43,16 +43,16 @@ generated_at: "2026-03-29T19:31:45.083Z"
   - **(12)** supporting multidisciplinary elder justice activities, such as—
     - **(A)** supporting and studying team approaches for bringing a coordinated multidisciplinary or interdisciplinary response to elder abuse, neglect, and exploitation, including a response from individuals in social service, health care, public safety, and legal disciplines;
     - **(B)** establishing a State coordinating council, which shall identify the individual State’s needs and provide the Assistant Secretary with information and recommendations relating to efforts by the State to combat elder abuse, neglect, and exploitation;
-    - **(C)** providing training, technical assistance, and other methods of support to groups carrying out multidisciplinary efforts at the State (referred to in some States as “State Working Groups”);
+    - **(C)** providing training, technical assistance, community outreach and education, and other methods of support to groups carrying out multidisciplinary efforts at the State (referred to in some States as “State Working Groups”);
     - **(D)** broadening and studying various models for elder fatality and serious injury review teams, to make recommendations about their composition, protocols, functions, timing, roles, and responsibilities, with a goal of producing models and information that will allow for replication based on the needs of States and communities (other than the ones in which the review teams were used);
     - **(E)** developing best practices, for use in long-term care facilities, that reduce the risk of elder abuse for residents, including the risk of resident-to-resident abuse; and
-    - **(F)** supporting and studying innovative practices in communities to develop partnerships across disciplines for the prevention, investigation, and prosecution of abuse, neglect, and exploitation; and
+    - **(F)** supporting and implementing innovative practices, programs, and materials in communities to develop partnerships across disciplines for the prevention, investigation, and prosecution of abuse, neglect, and exploitation; and
   - **(13)** addressing underserved populations of older individuals, such as—
     - **(A)** older individuals living in rural locations;
     - **(B)** older individuals in minority populations; or
     - **(C)** low-income older individuals.
-- **(c)** In developing and enhancing programs under subsection (a) of this section, the State agency shall use a comprehensive approach, in consultation with area agencies on aging, to identify and assist older individuals who are subject to abuse, neglect, and exploitation, including older individuals who live in State licensed facilities, unlicensed facilities, or domestic or community-based settings.
-- **(d)** In developing and enhancing programs under subsection (a) of this section, the State agency shall coordinate the programs with other State and local programs and services for the protection of vulnerable adults, particularly vulnerable older individuals, including programs and services such as—
+- **(c)** In developing and enhancing programs under subsection (a), the State agency shall use a comprehensive approach, in consultation with area agencies on aging, to identify and assist older individuals who are subject to abuse, neglect, and exploitation, including older individuals who live in State licensed facilities, unlicensed facilities, or domestic or community-based settings.
+- **(d)** In developing and enhancing programs under subsection (a), the State agency shall coordinate the programs with other State and local programs and services for the protection of vulnerable adults, particularly vulnerable older individuals, including programs and services such as—
   - **(1)** area agency on aging programs;
   - **(2)** adult protective service programs;
   - **(3)** the State Long-Term Care Ombudsman program established in subpart II of this part;
@@ -61,9 +61,9 @@ generated_at: "2026-03-29T19:31:45.083Z"
   - **(6)** medicaid fraud and abuse services, including services provided by a State medicaid fraud control unit, as defined in section 1396b(q) of this title ;
   - **(7)** victim assistance programs; and
   - **(8)** consumer protection and State and local law enforcement programs, as well as other State and local programs that identify and assist vulnerable older individuals, and services provided by agencies and courts of competent jurisdiction.
-- **(e)** In developing and enhancing programs under subsection (a) of this section, the State agency shall—
+- **(e)** In developing and enhancing programs under subsection (a), the State agency shall—
   - **(1)** not permit involuntary or coerced participation in such programs by alleged victims, abusers, or members of their households;
-  - **(2)** require that all information gathered in the course of receiving a report described in subsection (b)(10)(B)(i) of this section, and making a referral described in subsection (b)(10)(B)(ii) of this section, shall remain confidential except—
+  - **(2)** require that all information gathered in the course of receiving a report described in subsection (b)(10)(B)(i), and making a referral described in subsection (b)(10)(B)(ii), shall remain confidential except—
     - **(A)** if all parties to such complaint or report consent in writing to the release of such information;
     - **(B)** if the release of such information is to a law enforcement agency, public protective service agency, licensing or certification agency, ombudsman program, or protection or advocacy system; or
     - **(C)** upon court order; and
@@ -75,5 +75,5 @@ generated_at: "2026-03-29T19:31:45.083Z"
     - **(A)** the results of the study conducted under this subsection; and
     - **(B)** recommendations for future actions to combat the financial exploitation of older individuals.
 - **(h)** The Assistant Secretary shall develop accountability measures to ensure the effectiveness of the activities carried out under this section.
-- **(i)** The Assistant Secretary shall evaluate the activities carried out under this section, using funds made available under section 3017(g) of this title .
+- **(i)** The Assistant Secretary shall evaluate the activities carried out under this section, using funds made available under section 3017(h) of this title .
 - **(j)** In order to receive funds made available to carry out this section, an entity shall comply with all applicable laws, regulations, and guidelines.

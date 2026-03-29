@@ -3,9 +3,9 @@ title: "Section 24 - Premiums and bid amounts"
 usc_title: 42
 usc_section: "24"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 24"
-generated_at: "2026-03-29T19:31:44.693Z"
+generated_at: "2026-03-29T20:00:54.399Z"
 ---
 
 # § 1395w–24. Premiums and bid amounts
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T19:31:44.693Z"
       - **(i)** the adjusted community rate (as defined in subsection (f)(3));
       - **(ii)** the Medicare+Choice monthly basic beneficiary premium (as defined in subsection (b)(2)(A));
       - **(iii)** a description of deductibles, coinsurance, and copayments applicable under the plan and the actuarial value of such deductibles, coinsurance, and copayments, described in subsection (e)(1)(A); and
-      - **(iv)** if required under subsection (f)(1) , a description of the additional benefits to be provided pursuant to such subsection and the value determined for such proposed benefits under such subsection.
+      - **(iv)** if required under subsection (f)(1), a description of the additional benefits to be provided pursuant to such subsection and the value determined for such proposed benefits under such subsection.
     - **(B)** For benefits described in section 1395w–22(a)(3) of this title —
       - **(i)** the adjusted community rate (as defined in subsection (f)(3));
       - **(ii)** the Medicare+Choice monthly supplemental beneficiary premium (as defined in subsection (b)(2)(B)); and
@@ -50,7 +50,7 @@ generated_at: "2026-03-29T19:31:44.693Z"
     - **(A)** For an MA plan (other than an MSA plan) for a plan year beginning on or after January 1, 2006 , the information described in this subparagraph is as follows:
       - **(i)** The monthly aggregate bid amount for the provision of all items and services under the plan, which amount shall be based on average revenue requirements (as used for purposes of section 300e–1(8) of this title ) in the payment area for an enrollee with a national average risk profile for the factors described in section 1395w–23(a)(1)(C) of this title (as specified by the Secretary).
       - **(ii)** The proportions of such bid amount that are attributable to—
-        - **(I)** the provision of benefits under the original medicare fee-for-service program option (as defined in section 1395w–22(a)(1)(B) of this title );
+        - **(I)** the provision of benefits under the original medicare fee-for-service program option (as defined in section 1395w–22(a)(1)(B) of this title ), including, for plan year 2020 and subsequent plan years, the provision of additional telehealth benefits as described in section 1395w–22(m) of this title ;
         - **(II)** the provision of basic prescription drug coverage; and
         - **(III)** the provision of supplemental health care benefits.
       - **(iii)** The actuarial basis for determining the amount under clause (i) and the proportions described in clause (ii) and such additional information as the Secretary may require to verify such actuarial bases and the projected number of enrollees in each MA local area.
@@ -91,7 +91,7 @@ generated_at: "2026-03-29T19:31:44.693Z"
     - **(A)** The term “MA monthly basic beneficiary premium” means, with respect to an MA plan—
       - **(i)** described in section 1395w–23(a)(1)(B)(i) of this title (relating to plans providing rebates), zero; or
       - **(ii)** described in section 1395w–23(a)(1)(B)(ii) of this title , the amount (if any) by which the unadjusted MA statutory non-drug monthly bid amount (as defined in subparagraph (E)) exceeds the applicable unadjusted MA area-specific non-drug monthly benchmark amount (as defined in section 1395w–23(j) of this title ).
-    - **(B)** The term “MA monthly prescription drug beneficiary premium” means, with respect to an MA plan, the base beneficiary premium (as determined under section 1395w–113(a)(2) of this title and as adjusted under section 1395w–113(a)(1)(B) of this title ), less the amount of rebate credited toward such amount under subsection (b)(1)(C)(ii)(II).
+    - **(B)** The term “MA monthly prescription drug beneficiary premium” means, with respect to an MA plan, the base beneficiary premium (as determined under paragraph (2) or (8) (as applicable) of section 1395w–113(a) of this title and as adjusted under section 1395w–113(a)(1)(B) of this title ), less the amount of rebate credited toward such amount under subsection (b)(1)(C)(ii)(II).
     - **(C)**
       - **(i)** The term “MA monthly supplemental beneficiary premium” means, with respect to an MA plan, the portion of the aggregate monthly bid amount submitted under clause (i) of subsection (a)(6)(A) for the year that is attributable under clause (ii)(III) of such subsection to the provision of supplemental health care benefits, less the amount of rebate credited toward such portion under subsection (b)(1)(C)(ii)(I).
       - **(ii)** For plan years beginning on or after January 1, 2012 , any MA monthly supplementary beneficiary premium charged to an individual enrolled in an MA plan shall be used for the purposes, and in the priority order, described in subclauses (I) through (III) of paragraph (1)(C)(iii). 3 3 See References in Text note below.

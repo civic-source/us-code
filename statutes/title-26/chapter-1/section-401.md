@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-29T19:42:47.625Z"
+generated_at: "2026-03-29T19:59:49.223Z"
 ---
 
 # § 401. Qualified pension, profit-sharing, and stock bonus plans
@@ -49,18 +49,22 @@ generated_at: "2026-03-29T19:42:47.625Z"
         - **(I)** any portion of the employee’s interest is payable to (or for the benefit of) a designated beneficiary,
         - **(II)** such portion will be distributed (in accordance with regulations) over the life of such designated beneficiary (or over a period not extending beyond the life expectancy of such beneficiary), and
         - **(III)** such distributions begin not later than 1 year after the date of the employee’s death or such later date as the Secretary may by regulations prescribe,
-      - **(iv)** If the designated beneficiary referred to in clause (iii)(I) is the surviving spouse of the employee—
-        - **(I)** the date on which the distributions are required to begin under clause (iii)(III) shall not be earlier than the date on which the employee would have attained age 72, and
-        - **(II)** if the surviving spouse dies before the distributions to such spouse begin, this subparagraph shall be applied as if the surviving spouse were the employee.
+      - **(iv)** If the designated beneficiary referred to in clause (iii)(I) is the surviving spouse of the employee and the surviving spouse elects the treatment in this clause—
+        - **(I)** the regulations referred to in clause (iii)(II) shall treat the surviving spouse as if the surviving spouse were the employee,
+        - **(II)** the date on which the distributions are required to begin under clause (iii)(III) shall not be earlier than the date on which the employee would have attained the applicable age, and
+        - **(III)** if the surviving spouse dies before the distributions to such spouse begin, this subparagraph shall be applied as if the surviving spouse is the employee.
     - **(C)** For purposes of this paragraph—
       - **(i)** The term “required beginning date” means April 1 of the calendar year following the later of—
-        - **(I)** the calendar year in which the employee attains age 72, or
+        - **(I)** the calendar year in which the employee attains the applicable age, or
         - **(II)** the calendar year in which the employee retires.
       - **(ii)** Subclause (II) of clause (i) shall not apply—
-        - **(I)** except as provided in section 409(d), in the case of an employee who is a 5-percent owner (as defined in section 416) with respect to the plan year ending in the calendar year in which the employee attains age 72, or
+        - **(I)** except as provided in section 409(d), in the case of an employee who is a 5-percent owner (as defined in section 416) with respect to the plan year ending in the calendar year in which the employee attains the applicable age, or
         - **(II)** for purposes of section 408(a)(6) or (b)(3).
       - **(iii)** In the case of an employee to whom clause (i)(II) applies who retires in a calendar year after the calendar year in which the employee attains age 70½, the employee’s accrued benefit shall be actuarially increased to take into account the period after age 70½ in which the employee was not receiving any benefits under the plan.
       - **(iv)** Clauses (ii) and (iii) shall not apply in the case of a governmental plan or church plan. For purposes of this clause, the term “church plan” means a plan maintained by a church for church employees, and the term “church” means any church (as defined in section 3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
+      - **(v)**
+        - **(I)** In the case of an individual who attains age 72 after December 31, 2022 , and age 73 before January 1, 2033 , the applicable age is 73.
+        - **(II)** In the case of an individual who attains age 74 after December 31, 2032 , the applicable age is 75.
     - **(D)** For purposes of this paragraph, the life expectancy of an employee and the employee’s spouse (other than in the case of a life annuity) may be redetermined but not more frequently than annually.
     - **(E)** For purposes of this paragraph—
       - **(i)** The term “designated beneficiary” means any individual designated as a beneficiary by the employee.
@@ -81,7 +85,7 @@ generated_at: "2026-03-29T19:42:47.625Z"
       - **(iii)** If an eligible designated beneficiary dies before the portion of the employee’s interest to which this subparagraph applies is entirely distributed, the exception under clause (ii) shall not apply to any beneficiary of such eligible designated beneficiary and the remainder of such portion shall be distributed within 10 years after the death of such eligible designated beneficiary.
       - **(iv)** In the case of an applicable multi-beneficiary trust, if under the terms of the trust—
         - **(I)** it is to be divided immediately upon the death of the employee into separate trusts for each beneficiary, or
-        - **(II)** no individual (other than a 1 1 So in original. Probably should be “an”. eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii)) has any right to the employee’s interest in the plan until the death of all such eligible designated beneficiaries with respect to the trust,
+        - **(II)** no beneficiary (other than a 1 1 So in original. Probably should be “an”. eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii)) has any right to the employee’s interest in the plan until the death of all such eligible designated beneficiaries with respect to the trust,
       - **(v)** For purposes of this subparagraph, the term “applicable multi-beneficiary trust” means a trust—
         - **(I)** which has more than one beneficiary,
         - **(II)** all of the beneficiaries of which are treated as designated beneficiaries for purposes of determining the distribution period pursuant to this paragraph, and
@@ -98,6 +102,13 @@ generated_at: "2026-03-29T19:42:47.625Z"
       - **(iii)** For purposes of this paragraph—
         - **(I)** the required beginning date with respect to any individual shall be determined without regard to this subparagraph for purposes of applying this paragraph for calendar years after 2020, and
         - **(II)** if clause (ii) of subparagraph (B) applies, the 5-year period described in such clause shall be determined without regard to calendar year 2020.
+    - **(J)** Nothing in this section shall prohibit a commercial annuity (within the meaning of section 3405(e)(6)) that is issued in connection with any eligible retirement plan (within the meaning of section 402(c)(8)(B), other than a defined benefit plan) from providing one or more of the following types of payments on or after the annuity starting date:
+      - **(i)** annuity payments that increase by a constant percentage, applied not less frequently than annually, at a rate that is less than 5 percent per year,
+      - **(ii)** a lump sum payment that—
+        - **(I)** results in a shortening of the payment period with respect to an annuity or a full or partial commutation of the future annuity payments, provided that such lump sum is determined using reasonable actuarial methods and assumptions, as determined in good faith by the issuer of the contract, or
+        - **(II)** accelerates the receipt of annuity payments that are scheduled to be received within the ensuing 12 months, regardless of whether such acceleration shortens the payment period with respect to the annuity, reduces the dollar amount of benefits to be paid under the contract, or results in a suspension of annuity payments during the period being accelerated,
+      - **(iii)** an amount which is in the nature of a dividend or similar distribution, provided that the issuer of the contract determines such amount using reasonable actuarial methods and assumptions, as determined in good faith by the issuer of the contract, when calculating the initial annuity payments and the issuer’s experience with respect to those factors, or
+      - **(iv)** a final payment upon death that does not exceed the excess of the total amount of the consideration paid for the annuity payments, less the aggregate amount of prior distributions or payments from or under the contract.
   - **(10)**
     - **(A)** In the case of any plan which provides contributions or benefits for employees some or all of whom are owner-employees (as defined in subsection (c)(3)), a trust forming part of such plan shall constitute a qualified trust under this section only if the requirements of subsection (d) are also met.
     - **(B)**
@@ -222,7 +233,7 @@ generated_at: "2026-03-29T19:42:47.625Z"
       - **(i)** In case of a trust which is part of an eligible plan, such trust shall not constitute a qualified trust under this section unless the plan of which such trust is a part provides that if—
         - **(I)** a distribution described in clause (ii) in excess of $1,000 is made, and
         - **(II)** the distributee does not make an election under subparagraph (A) and does not elect to receive the distribution directly,
-      - **(ii)** For purposes of clause (i), the term “eligible plan” means a plan which provides that any nonforfeitable accrued benefit for which the present value (as determined under section 411(a)(11)) does not exceed $5,000 shall be immediately distributed to the participant.
+      - **(ii)** For purposes of clause (i), the term “eligible plan” means a plan which provides that any nonforfeitable accrued benefit for which the present value (as determined under section 411(a)(11)) does not exceed $7,000 shall be immediately distributed to the participant.
     - **(C)** Subparagraphs (A) and (B) shall apply only to the extent that the eligible rollover distribution would be includible in gross income if not transferred as provided in subparagraph (A) (determined without regard to sections 402(c), 403(a)(4), 403(b)(8), and 457(e)(16)). The preceding sentence shall not apply to such distribution if the plan to which such distribution is transferred—
       - **(i)** is a qualified trust which is part of a plan which is a defined contribution plan and agrees to separately account for amounts so transferred, including separately accounting for the portion of such distribution which is includible in gross income and the portion of such distribution which is not so includible, or
       - **(ii)** is an eligible retirement plan described in clause (i) or (ii) of section 402(c)(8)(B).
@@ -312,7 +323,11 @@ generated_at: "2026-03-29T19:42:47.625Z"
       - **(iv)** the term “qualified plan distribution annuity contract” means an annuity contract purchased for a participant and distributed to the participant by a plan or contract described in subparagraph (B) of section 402(c)(8) (without regard to clauses (i) and (ii) thereof).
 - **(b)**
   - **(1)** A stock bonus, pension, profit-sharing, or annuity plan shall be considered as satisfying the requirements of subsection (a) for the period beginning with the date on which it was put into effect, or for the period beginning with the earlier of the date on which there was adopted or put into effect any amendment which caused the plan to fail to satisfy such requirements, and ending with the time prescribed by law for filing the return of the employer for his taxable year in which such plan or amendment was adopted (including extensions thereof) or such later time as the Secretary may designate, if all provisions of the plan which are necessary to satisfy such requirements are in effect by the end of such period and have been made effective for all purposes for the whole of such period.
-  - **(2)** If an employer adopts a stock bonus, pension, profit-sharing, or annuity plan after the close of a taxable year but before the time prescribed by law for filing the return of the employer for the taxable year (including extensions thereof), the employer may elect to treat the plan as having been adopted as of the last day of the taxable year.
+  - **(2)** If an employer adopts a stock bonus, pension, profit-sharing, or annuity plan after the close of a taxable year but before the time prescribed by law for filing the return of the employer for the taxable year (including extensions thereof), the employer may elect to treat the plan as having been adopted as of the last day of the taxable year. In the case of an individual who owns the entire interest in an unincorporated trade or business, and who is the only employee of such trade or business, any elective deferrals (as defined in section 402(g)(3)) under a qualified cash or deferred arrangement to which the preceding sentence applies, which are made by such individual before the time for filing the return of such individual for the taxable year (determined without regard to any extensions) ending after or with the end of the plan’s first plan year, shall be treated as having been made before the end of such first plan year.
+  - **(3)** If—
+    - **(A)** an employer amends a stock bonus, pension, profit-sharing, or annuity plan to increase benefits accrued under the plan effective as of any date during the immediately preceding plan year (other than increasing the amount of matching contributions (as defined in subsection (m)(4)(A))),
+    - **(B)** such amendment would not otherwise cause the plan to fail to meet any of the requirements of this subchapter, and
+    - **(C)** such amendment is adopted before the time prescribed by law for filing the return of the employer for the taxable year (including extensions thereof) which includes the date described in subparagraph (A),
 - **(c)** For purposes of this section—
   - **(1)**
     - **(A)** The term “employee” includes, for any taxable year, an individual who is a self-employed individual for such taxable year.
@@ -394,7 +409,7 @@ generated_at: "2026-03-29T19:42:47.625Z"
     - **(F)** If an employer elects to apply section 410(b)(4)(B) in determining whether a cash or deferred arrangement meets the requirements of subparagraph (A)(i), the employer may, in determining whether the arrangement meets the requirements of subparagraph (A)(ii), exclude from consideration all eligible employees (other than highly compensated employees) who have not met the minimum age and service requirements of section 410(a)(1)(A).
     - **(G)** A governmental plan (within the meaning of section 414(d)) shall be treated as meeting the requirements of this paragraph.
   - **(4)**
-    - **(A)** A cash or deferred arrangement of any employer shall not be treated as a qualified cash or deferred arrangement if any other benefit is conditioned (directly or indirectly) on the employee electing to have the employer make or not make contributions under the arrangement in lieu of receiving cash. The preceding sentence shall not apply to any matching contribution (as defined in section 401(m)) made by reason of such an election.
+    - **(A)** A cash or deferred arrangement of any employer shall not be treated as a qualified cash or deferred arrangement if any other benefit (other than a de minimis financial incentive (not paid for with plan assets) provided to employees who elect to have the employer make contributions under the arrangement in lieu of receiving cash) is conditioned (directly or indirectly) on the employee electing to have the employer make or not make contributions under the arrangement in lieu of receiving cash. The preceding sentence shall not apply to any matching contribution (as defined in section 401(m)) made by reason of such an election.
     - **(B)**
       - **(i)** Except as provided in clause (ii), any organization exempt from tax under this subtitle may include a qualified cash or deferred arrangement as part of a plan maintained by it.
       - **(ii)** A cash or deferred arrangement shall not be treated as a qualified cash or deferred arrangement if it is part of a plan maintained by a State or local government or political subdivision thereof, or any agency or instrumentality thereof. This clause shall not apply to a rural cooperative plan or to a plan of an employer described in clause (iii).
@@ -446,9 +461,10 @@ generated_at: "2026-03-29T19:42:47.625Z"
       - **(iii)** the vesting requirements of section 408(p)(3).
     - **(B)**
       - **(i)** The requirements of this subparagraph are met if, under the arrangement—
-        - **(I)** an employee may elect to have the employer make elective contributions for the year on behalf of the employee to a trust under the plan in an amount which is expressed as a percentage of compensation of the employee but which in no event exceeds the amount in effect under section 408(p)(2)(A)(ii),
-        - **(II)** the employer is required to make a matching contribution to the trust for the year in an amount equal to so much of the amount the employee elects under subclause (I) as does not exceed 3 percent of compensation for the year, and
-        - **(III)** no other contributions may be made other than contributions described in subclause (I) or (II).
+        - **(I)** an employee may elect to have the employer make elective contributions for the year on behalf of the employee to a trust under the plan in an amount which is expressed as a percentage of compensation of the employee but which in no event exceeds the amount in effect under section 408(p)(2)(A)(ii) (after the application of any election under section 408(p)(2)(E)(i)(II)),
+        - **(II)** the employer is required to make a matching contribution to the trust for the year in an amount equal to so much of the amount the employee elects under subclause (I) as does not exceed 3 percent of compensation for the year,
+        - **(III)** the employer may make nonelective contributions of a uniform percentage (up to 10 percent) of compensation, but not to exceed the amount in effect under section 408(p)(2)(A)(iv) in any year, for each employee who is eligible to participate in the arrangement and who has at least $5,000 of compensation from the employer for the year, and
+        - **(IV)** no other contributions may be made other than contributions described in subclause (I), (II), or (III).
       - **(ii)** An employer shall be treated as meeting the requirements of clause (i)(II) for any year if, in lieu of the contributions described in such clause, the employer elects (pursuant to the terms of the arrangement) to make nonelective contributions of 2 percent of compensation for each employee who is eligible to participate in the arrangement and who has at least $5,000 of compensation from the employer for the year. If an employer makes an election under this subparagraph for any year, the employer shall notify employees of such election within a reasonable period of time before the 60th day before the beginning of such year.
       - **(iii)**
         - **(I)** Rules similar to the rules of subparagraphs (B) and (C) of section 408(p)(5) shall apply for purposes of this subparagraph.
@@ -457,6 +473,7 @@ generated_at: "2026-03-29T19:42:47.625Z"
     - **(D)**
       - **(i)** For purposes of this paragraph, any term used in this paragraph which is also used in section 408(p) shall have the meaning given such term by such section.
       - **(ii)** A plan meeting the requirements of this paragraph for any year shall not be treated as a top-heavy plan under section 416 for such year if such plan allows only contributions required under this paragraph.
+    - **(E)** In the case of an employer which applies an election under section 408(p)(2)(E)(i)(II) for purposes of the contribution requirements of this paragraph under subparagraph (B)(i)(I), rules similar to the rules of subparagraphs (B)(iii), (C)(ii)(IV), and (G) of section 408(p)(2) shall apply for purposes of subparagraphs (B)(i)(II) and (B)(ii) of this paragraph.
   - **(12)**
     - **(A)** A cash or deferred arrangement shall be treated as meeting the requirements of paragraph (3)(A)(ii) if such arrangement—
       - **(i)** meets the contribution requirements of subparagraph (B) and the notice requirements of subparagraph (D), or
@@ -482,7 +499,7 @@ generated_at: "2026-03-29T19:42:47.625Z"
         - **(II)** at any time before the last day under paragraph (8)(A) for distributing excess contributions for the plan year.
       - **(ii)** Clause (i) shall not apply to any plan year if the plan provided at any time during the plan year that the requirements of subparagraph (B) or paragraph (13)(D)(i)(I) applied to the plan year.
       - **(iii)** Clause (i)(II) shall not apply to an arrangement unless the amount of the contributions described in subparagraph (C) which the employer is required to make under the arrangement for the plan year with respect to any employee is an amount equal to at least 4 percent of the employee’s compensation.
-    - **(G)** An arrangement shall be treated as meeting the requirements under subparagraph (A)(i) if any other plan maintained by the employer meets such requirements with respect to employees eligible under the arrangement.
+    - **(G)** An arrangement shall be treated as meeting the contribution requirements under subparagraph (B) or (C) if any other plan maintained by the employer meets such requirements with respect to employees eligible under the arrangement.
   - **(13)**
     - **(A)** A qualified automatic contribution arrangement shall be treated as meeting the requirements of paragraph (3)(A)(ii).
     - **(B)** For purposes of this paragraph, the term “qualified automatic contribution arrangement” means a cash or deferred arrangement—
@@ -509,7 +526,7 @@ generated_at: "2026-03-29T19:42:47.625Z"
       - **(iii)** An arrangement shall not be treated as meeting the requirements of clause (i) unless, with respect to employer contributions (including matching contributions) taken into account in determining whether the requirements of clause (i) are met—
         - **(I)** any employee who has completed at least 2 years of service (within the meaning of section 411(a)) has a nonforfeitable right to 100 percent of the employee’s accrued benefit derived from such employer contributions, and
         - **(II)** the requirements of subparagraph (B) of paragraph (2) are met with respect to all such employer contributions.
-      - **(iv)** The rules of subparagraphs (E)(ii) and (F) of paragraph (12) shall apply for purposes of subclauses (I) and (II) of clause (i).
+      - **(iv)** The rules of subparagraphs (E)(ii) and (G) of paragraph (12) shall apply for purposes of subclauses (I) and (II) of clause (i).
     - **(E)**
       - **(i)** The requirements of this subparagraph are met if, within a reasonable period before each plan year, each employee eligible to participate in the arrangement for such year receives written notice of the employee’s rights and obligations under the arrangement which—
         - **(I)** is sufficiently accurate and comprehensive to apprise the employee of such rights and obligations, and
@@ -531,19 +548,47 @@ generated_at: "2026-03-29T19:42:47.625Z"
       - **(iii)** Qualified matching contributions described in paragraph (3)(D)(ii)(I).
       - **(iv)** Earnings on any contributions described in clause (i), (ii), or (iii).
     - **(B)** A distribution shall not be treated as failing to be made upon the hardship of an employee solely because the employee does not take any available loan under the plan.
+    - **(C)** In determining whether a distribution is upon the hardship of an employee, the administrator of the plan may rely on a written certification by the employee that the distribution is—
+      - **(i)** on account of a financial need of a type which is deemed in regulations prescribed by the Secretary to be an immediate and heavy financial need, and
+      - **(ii)** not in excess of the amount required to satisfy such financial need, and
   - **(15)** For purposes of paragraph (2)(D)(ii)—
     - **(A)** Paragraph (2)(D)(ii) shall not apply to an employee unless the employee has met the requirement of section 410(a)(1)(A)(i) by the close of the last of the 12-month periods described in such paragraph.
     - **(B)**
       - **(i)** In the case of employees who are eligible to participate in the arrangement solely by reason of paragraph (2)(D)(ii)—
         - **(I)** notwithstanding subsection (a)(4), an employer shall not be required to make nonelective or matching contributions on behalf of such employees even if such contributions are made on behalf of other employees eligible to participate in the arrangement, and
-        - **(II)** an employer may elect to exclude such employees from the application of subsection (a)(4), paragraphs (3), (12), and (13), subsection (m)(2), and section 410(b).
+        - **(II)** an employer may elect to exclude such employees from the application of subsection (a)(4), paragraphs (3), (12), and (13), paragraphs (2), (11), and (12) of subsection (m), and section 410(b).
       - **(ii)** An employer may elect to exclude all employees who are eligible to participate in a plan maintained by the employer solely by reason of paragraph (2)(D)(ii) from the application of the vesting and benefit requirements under subsections (b) and (c) of section 416.
-      - **(iii)** For purposes of determining whether an employee described in clause (i) has a nonforfeitable right to employer contributions (other than contributions described in paragraph (3)(D)(i)) under the arrangement, each 12-month period for which the employee has at least 500 hours of service shall be treated as a year of service, and section 411(a)(6) shall be applied by substituting “at least 500 hours of service” for “more than 500 hours of service” in subparagraph (A) thereof.
-      - **(iv)** This subparagraph (other than clause (iii)) shall cease to apply to any employee as of the first plan year beginning after the plan year in which the employee meets the requirements of section 410(a)(1)(A)(ii) without regard to paragraph (2)(D)(ii).
+      - **(iii)** For purposes of determining whether an employee described in clause (i) has a nonforfeitable right to employer contributions (other than contributions described in paragraph (3)(D)(i)) under the plan, each 12-month period for which the employee has at least 500 hours of service shall be treated as a year of service, and section 411(a)(6) shall be applied by substituting “at least 500 hours of service” for “more than 500 hours of service” in subparagraph (A) thereof.
+      - **(iv)** This subparagraph (other than clause (iii)) shall cease to apply to any employee as of the first plan year beginning after the plan year in which the employee meets the requirements of paragraph (2)(D) without regard to paragraph (2)(D)(ii).
     - **(C)** Paragraph (2)(D)(ii) shall not apply to employees described in section 410(b)(3).
     - **(D)**
       - **(i)** The rules of section 410(a)(4) shall apply to an employee eligible to participate in an arrangement solely by reason of paragraph (2)(D)(ii).
       - **(ii)** 12-month periods shall be determined in the same manner as under the last sentence of section 410(a)(3)(A).
+  - **(16)**
+    - **(A)** A starter 401(k) deferral-only arrangement maintained by an eligible employer shall be treated as meeting the requirements of paragraph (3)(A)(ii).
+    - **(B)** For purposes of this paragraph, the term “starter 401(k) deferral-only arrangement” means any cash or deferred arrangement which meets—
+      - **(i)** the automatic deferral requirements of subparagraph (C),
+      - **(ii)** the contribution limitations of subparagraph (D), and
+      - **(iii)** the requirements of subparagraph (E) of paragraph (13).
+    - **(C)**
+      - **(i)** The requirements of this subparagraph are met if, under the arrangement, each eligible employee is treated as having elected to have the employer make elective contributions in an amount equal to a qualified percentage of compensation.
+      - **(ii)** The election treated as having been made under clause (i) shall cease to apply with respect to any employee if such employee makes an affirmative election—
+        - **(I)** to not have such contributions made, or
+        - **(II)** to make elective contributions at a level specified in such affirmative election.
+      - **(iii)** For purposes of this subparagraph, the term “qualified percentage” means, with respect to any employee, any percentage determined under the arrangement if such percentage is applied uniformly and is not less than 3 or more than 15 percent.
+    - **(D)**
+      - **(i)** The requirements of this subparagraph are met if, under the arrangement—
+        - **(I)** the only contributions which may be made are elective contributions of employees described in subparagraph (C), and
+        - **(II)** the aggregate amount of such elective contributions which may be made with respect to any employee for any calendar year shall not exceed $6,000.
+      - **(ii)** In the case of any calendar year beginning after December 31, 2024 , the $6,000 amount under clause (i) shall be adjusted in the same manner as under section 402(g)(4), except that “2023” shall be substituted for “2005”.
+      - **(iii)** In the case of an individual who has attained the age of 50 before the close of the taxable year, the limitation under clause (i)(II) shall be increased by the applicable amount determined under section 219(b)(5)(B)(ii) (after the application of section 219(b)(5)(C)(iii)).
+    - **(E)** For purposes of this paragraph—
+      - **(i)** The term “eligible employer” means any employer if the employer does not maintain a qualified plan with respect to which contributions are made, or benefits are accrued, for service in the year for which the determination is being made. If only individuals other than employees described in subparagraph (A) of section 410(b)(3) are eligible to participate in such arrangement, then the preceding sentence shall be applied without regard to any qualified plan in which only employees described in such subparagraph are eligible to participate.
+      - **(ii)** Rules similar to the rules of section 408(p)(10) shall apply for purposes of clause (i).
+      - **(iii)** The term “qualified plan” means a plan, contract, pension, account, or trust described in subparagraph (A) or (B) of paragraph (5) of section 219(g) (determined without regard to the last sentence of such paragraph (5)).
+    - **(F)** For purposes of this paragraph—
+      - **(i)** The term “eligible employee” means any employee of the employer who meets the minimum age and service conditions described in section 410(a)(1).
+      - **(ii)** The employer may elect to exclude from such definition any employee described in paragraph (3) or (4) of section 410(b).
 - **(l)**
   - **(1)** The requirements of this subsection are met with respect to a plan if—
     - **(A)** in the case of a defined contribution plan, the requirements of paragraph (2) are met, and
@@ -615,12 +660,18 @@ generated_at: "2026-03-29T19:42:47.625Z"
     - **(B)** the employee’s compensation (within the meaning of section 414(s)) for such plan year.
   - **(4)** For purposes of this subsection—
     - **(A)** The term “matching contribution” means—
-      - **(i)** any employer contribution made to a defined contribution plan on behalf of an employee on account of an employee contribution made by such employee, and
-      - **(ii)** any employer contribution made to a defined contribution plan on behalf of an employee on account of an employee’s elective deferral.
+      - **(i)** any employer contribution made to a defined contribution plan on behalf of an employee on account of an employee contribution made by such employee,
+      - **(ii)** any employer contribution made to a defined contribution plan on behalf of an employee on account of an employee’s elective deferral, and
+      - **(iii)** subject to the requirements of paragraph (14), any employer contribution made to a defined contribution plan on behalf of an employee on account of a qualified student loan payment.
     - **(B)** The term “elective deferral” means any employer contribution described in section 402(g)(3).
     - **(C)** The term “qualified nonelective contribution” means any employer contribution (other than a matching contribution) with respect to which—
       - **(i)** the employee may not elect to have the contribution paid to the employee in cash instead of being contributed to the plan, and
       - **(ii)** the requirements of subparagraphs (B) and (C) of subsection (k)(2) are met.
+    - **(D)** The term “qualified student loan payment” means a payment made by an employee in repayment of a qualified education loan (as defined in section 221(d)(1)) incurred by the employee to pay qualified higher education expenses, but only—
+      - **(i)** to the extent such payments in the aggregate for the year do not exceed an amount equal to—
+        - **(I)** the limitation applicable under section 402(g) for the year (or, if lesser, the employee’s compensation (as defined in section 415(c)(3)) for the year), reduced by
+        - **(II)** the elective deferrals made by the employee for such year, and
+      - **(ii)** if the employee certifies annually to the employer making the matching contribution under this paragraph that such payment has been made on such loan.
   - **(5)**
     - **(A)** Any employee who is eligible to make an employee contribution (or, if the employer takes elective contributions into account, elective contributions) or to receive a matching contribution under the plan being tested under paragraph (1) shall be considered an eligible employee for purposes of this subsection.
     - **(B)** If an employee contribution is required as a condition of participation in the plan, any employee who would be a participant in the plan if such employee made such a contribution shall be treated as an eligible employee on behalf of whom no employer contributions are made.
@@ -653,9 +704,22 @@ generated_at: "2026-03-29T19:42:47.625Z"
       - **(ii)** the rate of an employer’s matching contribution does not increase as the rate of an employee’s contributions or elective deferrals increase, and
       - **(iii)** the matching contribution with respect to any highly compensated employee at any rate of an employee contribution or rate of elective deferral is not greater than that with respect to an employee who is not a highly compensated employee.
   - **(12)** A defined contribution plan shall be treated as meeting the requirements of paragraph (2) with respect to matching contributions if the plan—
-    - **(A)** is a qualified automatic contribution arrangement (as defined in subsection (k)(13)), and
-    - **(B)** meets the requirements of paragraph (11)(B).
-  - **(13)** For excise tax on certain excess contributions, see section 4979.
+    - **(A)** is a qualified automatic contribution arrangement (as defined in subsection (k)(13)),
+    - **(B)** meets the notice requirements of subsection (k)(13)(E), and
+    - **(C)** meets the requirements of paragraph (11)(B).
+  - **(13)**
+    - **(A)** For purposes of paragraph (4)(A)(iii), an employer contribution made to a defined contribution plan on account of a qualified student loan payment shall be treated as a matching contribution for purposes of this title if—
+      - **(i)** the plan provides matching contributions on account of elective deferrals at the same rate as contributions on account of qualified student loan payments,
+      - **(ii)** the plan provides matching contributions on account of qualified student loan payments only on behalf of employees otherwise eligible to receive matching contributions on account of elective deferrals,
+      - **(iii)** under the plan, all employees eligible to receive matching contributions on account of elective deferrals are eligible to receive matching contributions on account of qualified student loan payments, and
+      - **(iv)** the plan provides that matching contributions on account of qualified student loan payments vest in the same manner as matching contributions on account of elective deferrals.
+    - **(B)**
+      - **(i)** For purposes of subparagraph (A)(iii), subsection (a)(4), and section 410(b), matching contributions described in paragraph (4)(A)(iii) shall not fail to be treated as available to an employee solely because such employee does not have debt incurred under a qualified education loan (as defined in section 221(d)(1)).
+      - **(ii)** Except as provided in clause (iii), a qualified student loan payment shall not be treated as a contribution to a plan under this title.
+      - **(iii)** Solely for purposes of meeting the requirements of paragraph (11)(B), (12), or (13) of this subsection, or paragraph (11)(B)(i)(II), (12)(B), (13)(D), or (16)(D) of subsection (k), a plan may treat a qualified student loan payment as an elective deferral or an elective contribution, whichever is applicable.
+      - **(iv)** In determining whether a plan meets the requirements of subsection (k)(3)(A)(ii) for a plan year, the plan may apply the requirements of such subsection separately with respect to all employees who receive matching contributions described in paragraph (4)(A)(iii) for the plan year.
+    - **(C)** The employer may rely on an employee certification of payment under paragraph (4)(D)(ii).
+  - **(14)** For excise tax on certain excess contributions, see section 4979.
 - **(n)** The Secretary shall prescribe such rules or regulations as may be necessary to coordinate the requirements of subsection (a)(13)(B) and section 414(p) (and the regulations issued by the Secretary of Labor thereunder) with the other provisions of this chapter.
 - **(o)**
   - **(1)**

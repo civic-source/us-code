@@ -3,9 +3,9 @@ title: "Section 2391 - Military base reuse studies and community planning assist
 usc_title: 10
 usc_section: "2391"
 chapter: 141
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2391"
-generated_at: "2026-03-29T19:43:37.979Z"
+generated_at: "2026-03-29T19:58:02.163Z"
 ---
 
 # § 2391. Military base reuse studies and community planning assistance
@@ -24,10 +24,11 @@ generated_at: "2026-03-29T19:43:37.979Z"
     - **(C)** The Secretary shall carry out this paragraph in coordination with the Secretary of Commerce.
   - **(5)**
     - **(A)** The Secretary of Defense may also make grants, conclude cooperative agreements, and supplement other Federal funds in order to assist a State or local government in planning community adjustments and economic diversification even though the State or local government is not currently eligible for assistance under paragraph (1) if the Secretary determines that a substantial portion of the economic activity or population of the geographic area to be subject to the advance planning is dependent on defense expenditures.
-    - **(B)** The Secretary of Defense may also make grants, conclude cooperative agreements, and supplement other Federal funds in order to assist a State in enhancing its capacities—
+    - **(B)** The Secretary of Defense may also make grants, conclude cooperative agreements, and supplement other Federal funds in order to assist a State or local government in enhancing its capacities—
       - **(i)** to assist communities, businesses, and workers adversely affected by an action described in paragraph (1);
-      - **(ii)** to support local adjustment and diversification initiatives; and
-      - **(iii)** to stimulate cooperation between statewide and local adjustment and diversification efforts.
+      - **(ii)** to support local adjustment and diversification initiatives;
+      - **(iii)** to stimulate cooperation between statewide and local adjustment and diversification efforts; and
+      - **(iv)** to support public infrastructure projects and services that enhance the capabilities and resilience of the defense industrial base and the defense industrial base workers, if the Secretary determines such support will improve operations of the Department of Defense.
     - **(C)** The Secretary of Defense may also make grants, conclude cooperative agreements, and supplement other Federal funds in order to assist a State or local government in enhancing the capabilities of the government to support efforts of the Department of Defense to privatize, contract for, or diversify the performance of military family support services in cases in which the capability of the Department to provide such services is adversely affected by an action described in paragraph (1).
     - **(D)** The Secretary of Defense may also make grants, conclude cooperative agreements, and supplement other Federal funds, in order to assist a State or local government in planning, enhancing infrastructure, and implementing measures and projects (to include resilience measures and projects involving the protection, restoration, and maintenance of natural features) that, as determined by the Secretary of Defense, will contribute to maintaining or improving military installation resilience or will prevent or mitigate encroachment that could affect operations of the Department of Defense.
   - **(6)** Funds provided to State and local governments and regional organizations under this section may be used as part or all of any required non-Federal contribution to a Federal grant-in-aid program for the purposes stated in paragraph (1).
@@ -40,25 +41,26 @@ generated_at: "2026-03-29T19:43:37.979Z"
 - **(c)** The Secretary of Defense may make grants to, or conclude cooperative agreements or enter into contracts with, another Federal agency, a State or local government, or any private entity to conduct research and provide technical assistance in support of activities under this section or Executive Order 12788 (57 Fed. Reg. 2213), as amended by section 33 of Executive Order 13286 (68 Fed. Reg. 10625) and Executive Order 13378 (70 Fed. Reg. 28413).
 - **(d)**
   - **(1)**
-    - **(A)** The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense to assist State and local governments to address deficiencies in community infrastructure supportive of a military installation.
+    - **(A)** The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense to assist State governments, local governments, and not-for-profit, member-owned utility services to address deficiencies in community infrastructure supportive of a military installation.
     - **(B)** The Secretary shall establish criteria for the selection of community infrastructure projects to receive assistance under this subsection, including selection of community infrastructure projects in the following order of priority:
       - **(i)** Projects that will enhance military value at a military installation, taking into consideration the military value criteria originally developed by the Secretary in compliance with the amendment made by section 3002 of the Military Construction Authorization Act for Fiscal Year 2002 (division B of Public Law 107–107 ; 115 Stat. 1344 ).
-      - **(ii)** Projects that will enhance military installation resilience, as defined in section 101(e)(8) of this title .
-      - **(iii)** Projects that will enhance military family quality of life at a military installation, taking into consideration subsection (e)(4)(C).
+      - **(ii)** Projects that will contribute to the training of cadets enrolled in an independent Reserve Officer Training Corps program at a covered educational institution.
+      - **(iii)** Projects that will enhance military installation resilience, as defined in section 101 of this title .
+      - **(iv)** Projects that will enhance military family quality of life at a military installation, taking into consideration subsection (e)(4)(C).
   - **(2)**
-    - **(A)** The criteria established for the selection of community infrastructure projects to receive assistance under this subsection shall include a requirement that, except as provided in subparagraph (B), the State or local government agree to contribute not less than 30 percent of the funding for the community infrastructure project.
+    - **(A)** The criteria established for the selection of community infrastructure projects to receive assistance under this subsection shall include a requirement that, except as provided in subparagraph (B), the recipient of such assistance agrees to contribute not less than 30 percent of the funding for the community infrastructure project.
     - **(B)** If a proposed community infrastructure project will be carried out in a rural area or the Secretary of Defense determines that a proposed community infrastructure project is advantageous for reasons related to national security, the Secretary—
       - **(i)** shall not penalize a State or local government for offering to make a contribution of 30 percent or less of the funding for the community infrastructure project; and
       - **(ii)** may reduce the requirement for a State or local government contribution to 30 percent or less or waive the cost-sharing requirement entirely.
-  - **(3)** Amounts appropriated or otherwise made available for assistance under paragraph (1) may remain available until expended.
-  - **(4)** The authority under this subsection shall expire on September 30, 2028 .
+  - **(3)** In selecting community infrastructure projects to receive assistance under this subsection, the Secretary shall consider infrastructure improvements identified in the report on strategic seaports required by section 3515 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ; 133 Stat. 1985 ).
+  - **(4)** Amounts appropriated or otherwise made available for assistance under paragraph (1) may remain available until expended.
 - **(e)** In this section:
   - **(1)** The terms “military installation” and “realignment” have the meanings given those terms in section 2687 of this title . For purposes of paragraphs (1)(D) and (E) and (5)(D) of subsection (b) and subsection (d), the term “military installation” includes a military facility owned and operated by any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.
   - **(2)** The term “defense facility” means any private facility producing goods or services pursuant to a defense contract.
   - **(3)** The terms “community adjustment” and “economic diversification” include the development of feasibility studies and business plans for market diversification within a community adversely affected by an action described in clause (A), (B), (C), or (E) of subsection (b)(1) by adversely affected businesses and labor organizations located in the community.
   - **(4)**
     - **(A)** The term “community infrastructure” means a project or facility described in subparagraph (B) that—
-      - **(i)** is located off of a military installation; and
+      - **(i)** is located off of a military installation or on property under the jurisdiction of a Secretary of a military department that is subject to a real estate agreement (including a lease or easement); and
       - **(ii)** is—
         - **(I)** owned by a State or local government; or
         - **(II)** a not-for-profit, member-owned utility service.
@@ -68,4 +70,9 @@ generated_at: "2026-03-29T19:43:37.979Z"
       - **(iii)** A water, waste-water, telecommunications, electric, gas, or other utility infrastructure project.
     - **(C)** For the purposes of determining whether proposed community infrastructure will enhance quality of life, the Secretary of Defense shall consider the impact of the community infrastructure on alleviating installation commuter workforce issues and the benefit of schools or other local infrastructure located off of a military installation that will support members of the armed forces and their dependents residing in the community.
   - **(5)** The term “rural area” means a city, town, or unincorporated area that has a population of not more than 100,000 inhabitants.
+  - **(6)** The term “covered educational institution” means a college or university that is—
+    - **(A)** a part B institution, as defined in section 322 of the Higher Education Act of 1965 ( 20 U.S.C. 1061 );
+    - **(B)** an 1890 Institution, as defined in section 2 of the Agricultural Research, Extension, and Education Reform Act of 1998 ( 7 U.S.C. 7601 );
+    - **(C)** not affiliated with a consortium; and
+    - **(D)** located at least 40 miles from a major military installation.
 - **(f)** The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.

@@ -3,25 +3,25 @@ title: "Section 1104a - Shared medical facilities with Department of Veterans Af
 usc_title: 10
 usc_section: "1104a"
 chapter: 55
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1104a"
-generated_at: "2026-03-29T19:43:37.899Z"
+generated_at: "2026-03-29T19:58:02.063Z"
 ---
 
 # § 1104a. Shared medical facilities with Department of Veterans Affairs
 
-- **(a)** Secretary of Defense may enter into agreements with the Secretary of Veterans Affairs for the planning, design, and construction of facilities to be operated as shared medical facilities.
+- **(a)** Secretary of Defense may enter into agreements with the Secretary of Veterans Affairs for the planning, design, and construction, or the leasing, of facilities to be operated as shared medical facilities.
 - **(b)**
   - **(1)** The Secretary of Defense may transfer to the Secretary of Veterans Affairs amounts as follows:
     - **(A)** For the construction of a shared medical facility, amounts not in excess of the amount authorized under subsection (a)(2) of section 2805 of this title , if—
       - **(i)** the amount of the share of the Department of Defense for the estimated cost of the project does not exceed the amount authorized under such subsection; and
       - **(ii)** the other requirements of such section have been met with respect to funds identified for transfer.
-    - **(B)** For the planning, design, and construction of space for a shared medical facility, amounts appropriated for the Defense Health Program.
+    - **(B)** For the planning, design, and construction, or the leasing, of space for a shared medical facility, amounts appropriated for the Defense Health Program.
   - **(2)** The authority to transfer funds under this section is in addition to any other authority to transfer funds available to the Secretary of Defense.
   - **(3)** Section 2215 of this title does not apply to a transfer of funds under this subsection.
 - **(c)**
-  - **(1)** Any amount transferred to the Secretary of Defense by the Secretary of Veterans Affairs for necessary expenses for the planning, design, and construction of a shared medical facility, if the amount of the share of the Department of Defense for the cost of such project does not exceed the amount specified in section 2805(a)(2) of this title , may be credited to accounts of the Department of Defense available for the construction of a shared medical facility.
-  - **(2)** Any amount transferred to the Secretary of Defense by the Secretary of Veterans Affairs for the purpose of the planning and design of space for a shared medical facility may be credited to accounts of the Department of Defense available for such purposes, and may be used for such purposes.
+  - **(1)** Any amount transferred to the Secretary of Defense by the Secretary of Veterans Affairs for necessary expenses for the planning, design, and construction, or the leasing, of a shared medical facility, if the amount of the share of the Department of Defense for the cost of such project does not exceed the amount specified in section 2805(a)(2) of this title , may be credited to accounts of the Department of Defense available for the construction of a shared medical facility.
+  - **(2)** Any amount transferred to the Secretary of Defense by the Secretary of Veterans Affairs for the purpose of the planning and design, or the leasing, of space for a shared medical facility may be credited to accounts of the Department of Defense available for such purposes, and may be used for such purposes.
   - **(3)** Using accounts credited with transfers from the Secretary of Veterans Affairs under paragraph (1), the Secretary of Defense may carry out unspecified minor military construction projects, if the share of the Department of Defense for the cost of such project does not exceed the amount specified in section 2805(a)(2) of this title .
 - **(d)** Any amount transferred to the Secretary of Veterans Affairs under subsection (b) and any amount transferred to the Secretary of Defense under subsection (c) shall be merged with and available for the same purposes and the same period as the appropriation or fund to which transferred.
 - **(e)** Amounts may be transferred pursuant to the authority under this section only to the extent and in the amounts provided in advance in appropriations Acts.

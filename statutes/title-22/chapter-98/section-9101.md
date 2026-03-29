@@ -3,9 +3,9 @@ title: "Section 9101 - Definitions"
 usc_title: 22
 usc_section: "9101"
 chapter: 98
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 9101"
-generated_at: "2026-03-29T19:42:08.299Z"
+generated_at: "2026-03-29T19:59:24.332Z"
 ---
 
 # § 9101. Definitions
@@ -14,9 +14,11 @@ In this chapter:
 
   - **(1)** The term “abducted child” means a child who is the victim of international child abduction.
   - **(2)** The term “abduction” means the alleged wrongful removal of a child from the child’s country of habitual residence, or the wrongful retention of a child outside such country, in violation of a left-behind parent’s custodial rights, including the rights of a military parent.
-  - **(3)** The term “abduction case” means a case that—
-    - **(A)** has been reported to the Central Authority of the United States by a left-behind parent for the resolution of an abduction; and
-    - **(B)** meets the criteria for an international child abduction under the Hague Abduction Convention, regardless of whether the country at issue is a Convention country.
+  - **(3)** The term abduction case 1 1 So in original. Probably should be “ ‘abduction case’ ”. means—
+    - **(A)** a case that—
+      - **(i)** has been reported to the Central Authority of the United States by a left-behind parent for the resolution of an abduction;
+      - **(ii)** meets the criteria for an international child abduction under the Hague Abduction Convention, regardless of whether the country at issue is a Convention country; and
+    - **(B)** includes any case reported involving an application filed with the Central Authority of the United States or directly with the foreign central authority by a parent seeking rights of access or return.
   - **(4)** The term “access case” means a case involving an application filed with the Central Authority of the United States by a parent seeking rights of access.
   - **(5)** The term “Annual Report” means the Annual Report on International Child Abduction required under section 9111 of this title .
   - **(6)** The term “application” means—
@@ -30,7 +32,7 @@ In this chapter:
     - **(A)** in the case of a Convention country, the meaning given such term in article 6 of the Hague Abduction Convention;
     - **(B)** in the case of a bilateral procedures country, the official entity designated by the government of the bilateral procedures country within the applicable memorandum of understanding pursuant to section 9113(b)(1) of this title to discharge the duties imposed on the entity; and
     - **(C)** in the case of a non-Convention country, the foreign ministry or other appropriate authority of such country.
-  - **(11)** The term “child” means an individual who has not attained 16 years of age.
+  - **(11)** The term “child” means an individual who has not attained 18 years of age.
   - **(12)** The term “Convention country” means a country for which the Hague Abduction Convention has entered into force with respect to the United States.
   - **(13)** The term “Hague Abduction Convention” means the Convention on the Civil Aspects of International Child Abduction, done at The Hague October 25, 1980 .
   - **(14)** The term “interim contact” means the ability of a left-behind parent to communicate with or visit an abducted child during the pendency of an abduction case.

@@ -3,9 +3,9 @@ title: "Section 379dd - Establishment and functions of the Foundation"
 usc_title: 21
 usc_section: "379dd"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 379dd"
-generated_at: "2026-03-29T19:41:41.658Z"
+generated_at: "2026-03-29T19:59:28.474Z"
 ---
 
 # § 379dd. Establishment and functions of the Foundation
@@ -116,4 +116,4 @@ generated_at: "2026-03-29T19:41:41.658Z"
     - **(B)** provides a specific accounting of the source and use of all funds used by the Foundation to carry out such activities; and
     - **(C)** provides information on how the results of Foundation activities could be incorporated into the regulatory and product review activities of the Food and Drug Administration.
 - **(m)** The Executive Director shall ensure that the funds received from the Treasury are managed as individual programmatic funds under subsection (i), according to best accounting practices.
-- **(n)** From amounts appropriated to the Food and Drug Administration for each fiscal year, the Commissioner shall transfer not less than $500,000 and not more than $1,250,000, to the Foundation to carry out subsections (a), (b), and (d) through (m).
+- **(n)** From amounts appropriated to the Food and Drug Administration for each fiscal year, the Commissioner shall transfer not less than $1,250,000 and not more than $5,000,000, to the Foundation to carry out subsections (a), (b), and (d) through (m).

@@ -3,9 +3,9 @@ title: "Section 104 - Mississippi"
 usc_title: 28
 usc_section: "104"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "28 U.S.C. § 104"
-generated_at: "2026-03-29T19:42:27.317Z"
+generated_at: "2026-03-29T20:00:05.252Z"
 ---
 
 # § 104. Mississippi

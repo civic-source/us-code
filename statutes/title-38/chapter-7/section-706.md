@@ -3,9 +3,9 @@ title: "Section 706 - Additional authority relating to recruitment and retention
 usc_title: 38
 usc_section: "706"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 706"
-generated_at: "2026-03-29T02:14:50.336Z"
+generated_at: "2026-03-29T20:00:42.973Z"
 ---
 
 # § 706. Additional authority relating to recruitment and retention of personnel
@@ -25,19 +25,6 @@ generated_at: "2026-03-29T02:14:50.336Z"
   - **(4)** An incentive provided under paragraph (1) shall not be considered basic pay for any purpose.
   - **(5)** The Secretary may prescribe conditions, including with respect to eligibility, and limitations on provision of incentive 2 2 So in original. Probably should be preceded by “an”. under paragraph (1).
   - **(6)** Incentive 3 3 So in original. Probably should be “An incentive”. provided under paragraph (1) shall not be included in the calculation of total amount of compensation under section 7431(e)(4) of this title .
-  - **(7)**
-    - **(A)** Subject to subparagraph (B)(ii), a critical skill incentive may not be provided under paragraph (1) to an employee of the Department employed in a Senior Executive Service position, or a position in another comparable system for senior-level Government employees, as defined by the Secretary, whose position is at the Central Office of the Department, including the Veterans Health Administration, the Veterans Benefits Administration, and the National Cemetery Administration, regardless of the actual location where the employee performs the functions of the position.
-    - **(B)**
-      - **(i)** A critical skill incentive provided under paragraph (1) to an employee of the Department employed in a Senior Executive Service position, or a position in another comparable system for senior-level Government employees, as defined by the Secretary, not described in subparagraph (A) of this paragraph may only be provided—
-        - **(I)** on an individual basis and may not be provided to a group of such employees; and
-        - **(II)** upon approval of the following officers or those serving in an acting capacity:
-      - **(ii)** In the case of an employee of the Department employed in a Senior Executive Service position, or a position in another comparable system for senior-level Government employees, as defined by the Secretary, whose position is primarily at the Central Office of the Department, but who performs some portion of the employee’s job function at other facilities of the Department, as defined by the Secretary, not at Central 4 4 So in original. Probably should be preceded by “the”. Office—
-        - **(I)** the employee shall not be considered described in subparagraph (A) with respect to the portion of the employee’s job function that is based out of non-Central Office facilities of the Department; and
-        - **(II)** any critical skill incentive provided under paragraph (1) to the employee for the portion of the employee’s job function that is based out of facilities of the Department other than the Central Office shall be proportionate to the time spent at those Department facilities.
-    - **(C)**
-      - **(i)** Not later than one year after the date of the enactment of the Protecting Regular Order for Veterans Act of 2025, and not less frequently than once each year thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives an annual report on the employees of the Department employed in a Senior Executive Service position, or a position in another comparable system for senior-level Government employees, as defined by the Secretary, who were provided a critical skill incentive under paragraph (1).
-      - **(ii)** Reports submitted pursuant to clause (i) may be submitted by incorporating their contents into other congressionally mandated reports to the committees described in such clause.
-    - **(D)** In this paragraph, the term “Senior Executive Service position” has the meaning given such term in section 3132(a) of title 5 .
 - **(e)**
   - **(1)** Subject to the provisions of this subsection, the Secretary may repay a student loan pursuant to section 5379(b) of title 5 .
   - **(2)** Paragraph (2) of such section shall not apply to payment under this subsection.

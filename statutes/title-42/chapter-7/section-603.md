@@ -3,18 +3,18 @@ title: "Section 603 - Grants to States"
 usc_title: 42
 usc_section: "603"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 603"
-generated_at: "2026-03-29T19:31:44.511Z"
+generated_at: "2026-03-29T20:00:54.176Z"
 ---
 
 # § 603. Grants to States
 
 - **(a)**
   - **(1)**
-    - **(A)** Each eligible State shall be entitled to receive from the Secretary, for fiscal year 2012, a grant in an amount equal to the State family assistance grant.
-    - **(B)** The State family assistance grant payable to a State for a fiscal year shall be the amount that bears the same ratio to the amount specified in subparagraph (C) of this paragraph (as in effect just before February 22, 2012 ) as the amount required to be paid to the State under this paragraph (as so in effect) for fiscal year 2002 (determined without regard to any reduction pursuant to section 609 or 612(a)(1) of this title) bears to the total amount required to be paid under this paragraph for fiscal year 2002 (as so determined).
-    - **(C)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2012 $16,566,542,000 for grants under this paragraph.
+    - **(A)** Each eligible State shall be entitled to receive from the Secretary, for each of fiscal years 2017 and 2018, a grant in an amount equal to the State family assistance grant.
+    - **(B)** The State family assistance grant payable to a State for a fiscal year shall be the amount that bears the same ratio to the amount specified in subparagraph (C) of this paragraph (as in effect just before February 22, 2012 ), reduced by the percentage specified in section 613(h)(1) of this title with respect to the fiscal year, as the amount required to be paid to the State under this paragraph (as so in effect) for fiscal year 2002 (determined without regard to any reduction pursuant to section 609 or 612(a)(1) of this title) bears to the total amount required to be paid under this paragraph for fiscal year 2002 (as so determined).
+    - **(C)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for each of fiscal years 2017 and 2018 $16,566,542,000 for grants under this paragraph.
   - **(2)**
     - **(A)**
       - **(i)** Subject to subparagraphs (B), (C), and (E), the Secretary may use the funds made available under subparagraph (D) for the purpose of conducting and supporting research and demonstration projects by public or private entities, and providing technical assistance to States, Indian tribes and tribal organizations, and such other entities as the Secretary may specify that are receiving a grant under another provision of this part.
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T19:31:44.511Z"
         - **(II)** Activities to promote responsible parenting through activities such as counseling, mentoring, and mediation, disseminating information about good parenting practices, skills-based parenting education, encouraging child support payments, and other methods.
         - **(III)** Activities to foster economic stability by helping fathers improve their economic status by providing activities such as work first services, job search, job training, subsidized employment, job retention, job enhancement, and encouraging education, including career-advancing education, dissemination of employment materials, coordination with existing employment services such as welfare-to-work programs, referrals to local employment training initiatives, and other methods.
         - **(IV)** Activities to promote responsible fatherhood that are conducted through a contract with a nationally recognized, nonprofit fatherhood promotion organization, such as the development, promotion, and distribution of a media campaign to encourage the appropriate involvement of parents in the life of any child and specifically the issue of responsible fatherhood, and the development of a national clearinghouse to assist States and communities in efforts to promote and support marriage and responsible fatherhood.
-    - **(D)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2012 for expenditure in accordance with this paragraph—
+    - **(D)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for each of fiscal years 2017 and 2018 for expenditure in accordance with this paragraph—
       - **(i)** $75,000,000 for awarding funds for the purpose of carrying out healthy marriage promotion activities; and
       - **(ii)** $75,000,000 for awarding funds for the purpose of carrying out activities promoting responsible fatherhood.
     - **(E)** In awarding funds under this paragraph for fiscal year 2011, the Secretary shall give preference to entities that were awarded funds under this paragraph for any prior fiscal year and that have demonstrated the ability to successfully carry out the programs funded under this paragraph.
@@ -169,7 +169,7 @@ generated_at: "2026-03-29T19:31:44.511Z"
         - **(I)** based on the methodology used by the Bureau of the Census to produce and publish intercensal poverty data for States and counties (or, in the case of Puerto Rico, the Virgin Islands, Guam, and American Samoa, other poverty data selected by the Secretary of Labor); and
         - **(II)** using data for the most recent year for which such data is available before the beginning of the fiscal year.
       - **(ii)** As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce development board established for the local workforce development area pursuant to title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.], as appropriate.
-      - **(iii)** As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or. 6 6 So in original.
+      - **(iii)** As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or. 5 5 So in original.
     - **(E)** 1 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $15,000,000 of the amount so specified for fiscal year 1999 shall be reserved for grants to Indian tribes under section 612(a)(3) of this title .
     - **(F)** 0.6 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $9,000,000 of the amount so specified for fiscal year 1999 shall be reserved for use by the Secretary to carry out section 613(j) of this title .
     - **(G)**
@@ -199,7 +199,7 @@ generated_at: "2026-03-29T19:31:44.511Z"
     - **(J)** If a State to which a grant is made under this section establishes safeguards against the use or disclosure of information about applicants or recipients of assistance under the State program funded under this part, the safeguards shall not prevent the State agency administering the program from furnishing to a private industry council the names, addresses, telephone numbers, and identifying case number information in the State program funded under this part, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under this paragraph.
 - **(b)**
   - **(1)** There is hereby established in the Treasury of the United States a fund which shall be known as the “Contingency Fund for State Welfare Programs” (in this section referred to as the “Fund”).
-  - **(2)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 2013 and 2014 such sums as are necessary for payment to the Fund in a total amount not to exceed $612,000,000 for each fiscal year, of which $2,000,000 shall be reserved for carrying out the activities of the commission established by the Protect our Kids Act of 2012 to reduce fatalities resulting from child abuse and neglect.
+  - **(2)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2018 such sums as are necessary for payment to the Fund in a total amount not to exceed $608,000,000.
   - **(3)**
     - **(A)** If an eligible State submits to the Secretary a request for funds under this paragraph during an eligible month, the Secretary shall, subject to this paragraph, pay to the State, from amounts appropriated pursuant to paragraph (2), an amount equal to the amount of funds so requested.
     - **(B)** The Secretary shall make payments under subparagraph (A) in the order in which the Secretary receives requests for such payments.
@@ -245,3 +245,35 @@ generated_at: "2026-03-29T19:31:44.511Z"
         - **(II)** the amount that, in the absence of this subparagraph, would be required by subparagraph (A) or by section 609(a)(10) of this title to be remitted by the State in respect of the payment.
   - **(7)** As used in this subsection, the term “State” means each of the 50 States and the District of Columbia.
   - **(8)** The Secretary shall annually report to the Congress on the status of the Fund.
+- **(c)**
+  - **(1)** In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury of the United States not otherwise appropriated, $1,000,000,000, to remain available until expended, to carry out this subsection.
+  - **(2)** Of the amount specified in paragraph (1), the Secretary shall reserve $2,000,000 for administrative expenses and the provision of technical assistance to States and Indian tribes with respect to the use of funds provided under this subsection.
+  - **(3)**
+    - **(A)**
+      - **(i)** The Secretary shall allot a total of 92.5 percent of the amount specified in paragraph (1) that is not reserved under paragraph (2) among the States that are not a territory and that are operating a program funded under this part, in accordance with clause (ii) of this subparagraph.
+      - **(ii)** The Secretary shall allot to each such State the sum of the following percentages of the total amount described in clause (i):
+        - **(I)** 50 percent, multiplied by—
+        - **(II)** 50 percent, multiplied by—
+    - **(B)** The Secretary shall allot among the territories and Indian tribes otherwise eligible for a grant under this part such portions of 7.5 percent of the amount specified in paragraph (1) that are not reserved under paragraph (2) as the Secretary deems appropriate based on the needs of the territory or Indian tribe involved.
+    - **(C)** To receive the full amount of funding payable under this subsection, a State or Indian tribe shall inform the Secretary as to whether it intends to use all of its allotment under this paragraph and provide that information—
+      - **(i)** in the case of a State that is not a territory, within 45 days after March 11, 2021 ; or
+      - **(ii)** in the case of a territory or an Indian tribe, within 90 days after such date.
+  - **(4)**
+    - **(A)** The Secretary shall provide funds to each State and Indian tribe to which an amount is allotted under paragraph (3), from the amount so allotted.
+    - **(B)**
+      - **(i)** The Secretary shall reallot in accordance with paragraph (3) all funds provided to any State or Indian tribe under this subsection that are unused, among the other States and Indian tribes eligible for funds under this subsection. For purposes of paragraph (3), the Secretary shall treat the funds as if included in the amount specified in paragraph (1).
+      - **(ii)** The Secretary shall provide funds to each such other State or Indian tribe in an amount equal to the amount so reallotted.
+  - **(5)** In the case of a territory not operating a program funded under this part, the Secretary shall provide the funds required to be provided to the territory under this subsection, to the agency that administers the bulk of local human services programs in the territory.
+  - **(6)**
+    - **(A)** A State or Indian tribe to which funds are provided under this subsection may use the funds only for non-recurrent short term benefits, whether in the form of cash or in other forms.
+    - **(B)** A State to which funds are provided under this subsection shall not expend more than 15 percent of the funds for administrative purposes.
+    - **(C)** Funds provided under this subsection shall be used to supplement and not supplant other Federal, State, or tribal funds for services and activities that promote the purposes of this part.
+    - **(D)**
+      - **(i)** Except as provided in clause (ii), a State or Indian tribe to which funds are provided under this subsection shall expend the funds not later than the end of fiscal year 2022.
+      - **(ii)** A State or Indian tribe to which funds are provided under paragraph (4)(B) shall expend the funds within 12 months after receipt.
+  - **(7)** Section 1308 of this title shall not apply with respect to any funds provided under this subsection.
+  - **(8)** In this subsection:
+    - **(A)** The term “applicable period” means the period that begins with April 1, 2021 , and ends with September 30, 2022 .
+    - **(B)** The term “non-recurrent short term benefits” has the meaning given the term in OMB approved Form ACF–196R, published on July 31, 2014 .
+    - **(C)** The term “State” means the 50 States of the United States, the District of Columbia, and the territories.
+    - **(D)** The term “territory” means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.

@@ -3,9 +3,9 @@ title: "Section 366 - Utility service"
 usc_title: 11
 usc_section: "366"
 chapter: 3
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "11 U.S.C. § 366"
-generated_at: "2026-03-29T19:44:19.518Z"
+generated_at: "2026-03-29T19:58:09.455Z"
 ---
 
 # § 366. Utility service
@@ -30,7 +30,3 @@ generated_at: "2026-03-29T19:44:19.518Z"
       - **(ii)** the payment by the debtor of charges for utility service in a timely manner before the date of the filing of the petition; or
       - **(iii)** the availability of an administrative expense priority.
   - **(4)** Notwithstanding any other provision of law, with respect to a case subject to this subsection, a utility may recover or set off against a security deposit provided to the utility by the debtor before the date of the filing of the petition without notice or order of the court.
-- **(d)** Notwithstanding any other provision of this section, a utility may not alter, refuse, or discontinue service to a debtor who does not furnish adequate assurance of payment under this section if the debtor—
-  - **(1)** is an individual;
-  - **(2)** makes a payment to the utility for any debt owed to the utility for service provided during the 20-day period beginning on the date of the order for relief; and
-  - **(3)** after the date on which the 20-day period beginning on the date of the order for relief ends, makes a payment to the utility for services provided during the pendency of case when such a payment becomes due.

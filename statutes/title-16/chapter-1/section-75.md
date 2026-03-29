@@ -3,14 +3,14 @@ title: "Section 75 - Native American uses and interests"
 usc_title: 16
 usc_section: "75"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 75"
-generated_at: "2026-03-29T19:41:13.366Z"
+generated_at: "2026-03-29T19:59:07.928Z"
 ---
 
 # § 410aaa–75. Native American uses and interests
 
-- **(a)** The Secretary shall ensure access to areas designated under this Act by members of Indian Tribes for traditional cultural and religious purposes, consistent with applicable law, including Public Law 95–341 (commonly known as the “American Indian Religious Freedom Act”) ( 42 U.S.C. 1996 ).
+- **(a)** The Secretary shall ensure access to areas designated under this Act by members of Indian Tribes for traditional cultural and religious purposes, consistent with applicable law, including Public Law 95–341 (commonly known as the “American Indian Religious Freedom Act”) ( 42 U.S.C. 1996 [, 1996a]).
 - **(b)**
   - **(1)** In accordance with applicable law, including Public Law 95–341 (commonly known as the “American Indian Religious Freedom Act”) ( 42 U.S.C. 1996 [, 1996a]), and subject to paragraph (2), the Secretary, on request of an Indian Tribe or Indian religious community, shall temporarily close to general public use any portion of an area designated as a national monument, special management area, wild and scenic river, area of critical environmental concern, or National Park System unit under this Act (referred to in this subsection as a “designated area”) to protect the privacy of traditional cultural and religious activities in the designated area by members of the Indian Tribe or Indian religious community.
   - **(2)** In closing a portion of a designated area under paragraph (1), the Secretary shall limit the closure to the smallest practicable area for the minimum period necessary for the traditional cultural and religious activities.
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T19:41:13.366Z"
     - **(A)** be based on a completed Tribal cultural resources survey; and
     - **(B)** include procedures for identifying, protecting, and preserving petroglyphs, ancient trails, intaglios, sleeping circles, artifacts, and other resources of cultural, archaeological, or historical significance in accordance with all applicable laws and policies, including—
       - **(i)** chapter 2003 of title 54;
-      - **(ii)** Public Law 95–341 (commonly known as the ‘American Indian Religious Freedom Act’) ( 42 U.S.C. 1996 [, 1996a]);
+      - **(ii)** Public Law 95–341 (commonly known as the “American Indian Religious Freedom Act”) ( 42 U.S.C. 1996 [, 1996a]);
       - **(iii)** the Archaeological Resources Protection Act of 1979 ( 16 U.S.C. 470aa et seq.);
       - **(iv)** the Native American Graves Protection and Repatriation Act ( 25 U.S.C. 3001 et seq.); and
       - **(v)** Public Law 103–141 (commonly known as the “Religious Freedom Restoration Act of 1993”) ( 42 U.S.C. 2000bb et seq.).

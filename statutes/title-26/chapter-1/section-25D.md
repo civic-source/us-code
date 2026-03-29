@@ -1,14 +1,14 @@
 ---
-title: "Section 25D - Residential energy efficient property"
+title: "Section 25D - Residential clean energy credit"
 usc_title: 26
 usc_section: "25D"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 25D"
-generated_at: "2026-03-29T19:42:47.481Z"
+generated_at: "2026-03-29T19:59:49.054Z"
 ---
 
-# § 25D. Residential energy efficient property
+# § 25D. Residential clean energy credit
 
 - **(a)** In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the applicable percentages of—
   - **(1)** the qualified solar electric property expenditures,
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:42:47.481Z"
   - **(3)** the qualified fuel cell property expenditures,
   - **(4)** the qualified small wind energy property expenditures,
   - **(5)** the qualified geothermal heat pump property expenditures, and
-  - **(6)** the qualified biomass fuel property expenditures, and
+  - **(6)** the qualified battery storage technology expenditures,
 - **(b)**
   - **(1)** In the case of any qualified fuel cell property expenditure, the credit allowed under subsection (a) (determined without regard to subsection (c)) for any taxable year shall not exceed $500 with respect to each half kilowatt of capacity of the qualified fuel cell property (as defined in section 48(c)(1)) to which such expenditure relates.
   - **(2)** No credit shall be allowed under this section for an item of property described in subsection (d)(1) unless such property is certified for performance by the non-profit Solar Rating Certification Corporation or a comparable entity endorsed by the government of the State in which such property is installed.
@@ -24,18 +24,16 @@ generated_at: "2026-03-29T19:42:47.481Z"
 - **(d)** For purposes of this section—
   - **(1)** The term “qualified solar water heating property expenditure” means an expenditure for property to heat water for use in a dwelling unit located in the United States and used as a residence by the taxpayer if at least half of the energy used by such property for such purpose is derived from the sun.
   - **(2)** The term “qualified solar electric property expenditure” means an expenditure for property which uses solar energy to generate electricity for use in a dwelling unit located in the United States and used as a residence by the taxpayer.
-  - **(3)** The term “qualified fuel cell property expenditure” means an expenditure for qualified fuel cell property (as defined in section 48(c)(1)) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section 121) by the taxpayer.
+  - **(3)** The term “qualified fuel cell property expenditure” means an expenditure for qualified fuel cell property (as defined in section 48(c)(1), without regard to subparagraph (D) thereof) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section 121) by the taxpayer.
   - **(4)** The term “qualified small wind energy property expenditure” means an expenditure for property which uses a wind turbine to generate electricity for use in connection with a dwelling unit located in the United States and used as a residence by the taxpayer.
   - **(5)**
     - **(A)** The term “qualified geothermal heat pump property expenditure” means an expenditure for qualified geothermal heat pump property installed on or in connection with a dwelling unit located in the United States and used as a residence by the taxpayer.
     - **(B)** The term “qualified geothermal heat pump property” means any equipment which—
       - **(i)** uses the ground or ground water as a thermal energy source to heat the dwelling unit referred to in subparagraph (A) or as a thermal energy sink to cool such dwelling unit, and
       - **(ii)** meets the requirements of the Energy Star program which are in effect at the time that the expenditure for such equipment is made.
-  - **(6)**
-    - **(A)** The term “qualified biomass fuel property expenditure” means an expenditure for property—
-      - **(i)** which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and
-      - **(ii)** which has a thermal efficiency rating of at least 75 percent (measured by the higher heating value of the fuel).
-    - **(B)** For purposes of this section, the term “biomass fuel” means any plant-derived fuel available on a renewable or recurring basis.
+  - **(6)** The term “qualified battery storage technology expenditure” means an expenditure for battery storage technology which—
+    - **(A)** is installed in connection with a dwelling unit located in the United States and used as a residence by the taxpayer, and
+    - **(B)** has a capacity of not less than 3 kilowatt hours.
 - **(e)** For purposes of this section—
   - **(1)** Expenditures for labor costs properly allocable to the onsite preparation, assembly, or original installation of the property described in subsection (d) and for piping or wiring to interconnect such property to the dwelling unit shall be taken into account for purposes of this section.
   - **(2)** No expenditure relating to a solar panel or other property installed as a roof (or portion thereof) shall fail to be treated as property described in paragraph (1) or (2) of subsection (d) solely because it constitutes a structural component of the structure on which it is installed.
@@ -58,6 +56,8 @@ generated_at: "2026-03-29T19:42:47.481Z"
 - **(f)** For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 - **(g)** For purposes of subsection (a), the applicable percentage shall be—
   - **(1)** in the case of property placed in service after December 31, 2016 , and before January 1, 2020 , 30 percent,
-  - **(2)** in the case of property placed in service after December 31, 2019 , and before January 1, 2023 , 26 percent, and
-  - **(3)** in the case of property placed in service after December 31, 2022 , and before January 1, 2024 , 22 percent.
-- **(h)** The credit allowed under this section shall not apply to property placed in service after December 31, 2023 .
+  - **(2)** in the case of property placed in service after December 31, 2019 , and before January 1, 2022 , 26 percent,
+  - **(3)** in the case of property placed in service after December 31, 2021 , and before January 1, 2033 , 30 percent,
+  - **(4)** in the case of property placed in service after December 31, 2032 , and before January 1, 2034 , 26 percent, and
+  - **(5)** in the case of property placed in service after December 31, 2033 , and before January 1, 2035 , 22 percent.
+- **(h)** The credit allowed under this section shall not apply to property placed in service after December 31, 2034 .

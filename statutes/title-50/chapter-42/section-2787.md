@@ -3,9 +3,9 @@ title: "Section 2787 - Cost-benefit analyses for competition of management and o
 usc_title: 50
 usc_section: "2787"
 chapter: 42
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 2787"
-generated_at: "2026-03-29T19:44:52.821Z"
+generated_at: "2026-03-29T20:01:07.309Z"
 ---
 
 # § 2787. Cost-benefit analyses for competition of management and operating contracts
@@ -28,15 +28,15 @@ generated_at: "2026-03-29T19:44:52.821Z"
   - **(1)** the information quality guidelines of the Department of Energy that are relevant to the clear and complete presentation of the matters described in subsection (c); and
   - **(2)** best practices of the Government Accountability Office and relevant industries for cost estimating, if appropriate.
 - **(e)**
-  - **(1)** The Comptroller General of the United States shall provide a briefing to the congressional defense committees that includes a review of each report required by subsection (b) not later than 180 days after the report is submitted to such committees.
-  - **(2)**
-    - **(A)** The Comptroller General shall determine, in consultation with the congressional defense committees, whether to conduct a comprehensive review of a report required by subsection (b).
-    - **(B)** The Comptroller General shall submit a comprehensive review conducted under subparagraph (A) of a report required by subsection (b) to the congressional defense committees not later than 3 years after that report is submitted to such committees.
-    - **(C)** A comprehensive review conducted under subparagraph (A) of a report required by subsection (b) shall include an assessment, based on the most current information available, of the following:
+  - **(1)** The Comptroller General of the United States shall determine, in consultation with the congressional defense committees, whether to conduct an initial review, a comprehensive review, or both, of a report required by subsection (b).
+  - **(2)** The Comptroller General shall provide any initial review of a report required by subsection (b) as a briefing to the congressional defense committees not later than 180 days after that report is submitted to the congressional defense committees.
+  - **(3)**
+    - **(A)** The Comptroller General shall submit any comprehensive review of a report required by subsection (b) to the congressional defense committees not later than 3 years after that report is submitted to the congressional defense committees.
+    - **(B)** A comprehensive review of a report required by subsection (b) shall include an assessment, based on the most current information available, of the following:
       - **(i)** The actual cost savings achieved compared to cost savings estimated under subsection (c)(1), and any increased costs incurred under the contract that were unexpected or uncertain at the time the contract was awarded.
       - **(ii)** Any disruptions or delays in mission activities or deliverables resulting from the competition for the contract compared to the disruptions and delays estimated under subsection (c)(4).
       - **(iii)** Whether expected benefits of the competition with respect to mission performance or operations have been achieved.
       - **(iv)** Such other matters as the Comptroller General considers appropriate.
 - **(f)**
-  - **(1)** The requirements for briefings under subsection (a) and reports under subsection (b) shall apply with respect to requests for proposals issued or contracts awarded, as applicable, by the Administrator during fiscal years 2019 through 2022.
+  - **(1)** The requirements for briefings under subsection (a) and reports under subsection (b) shall apply with respect to requests for proposals issued or contracts awarded, as applicable, by the Administrator during fiscal years 2019 through 2032.
   - **(2)** The requirements for briefings under subsection (a) and reports under subsection (b) shall not apply with respect to a management and operations contract for a Naval Reactor facility.

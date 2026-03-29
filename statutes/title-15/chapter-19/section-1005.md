@@ -3,9 +3,9 @@ title: "Section 1005 - San Francisco-Oakland Bay Bridge tolls; Government traffi
 usc_title: 15
 usc_section: "1005"
 chapter: 19
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 1005"
-generated_at: "2026-03-29T19:44:42.695Z"
+generated_at: "2026-03-29T19:58:17.656Z"
 ---
 
 # § 1005. San Francisco-Oakland Bay Bridge tolls; Government traffic and personnel on official business exempted; Government personnel on Yerba Buena Island or Treasure Island exempted

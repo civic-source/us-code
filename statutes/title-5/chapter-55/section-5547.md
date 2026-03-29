@@ -3,14 +3,14 @@ title: "Section 5547 - Limitation on premium pay"
 usc_title: 5
 usc_section: "5547"
 chapter: 55
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 5547"
-generated_at: "2026-03-29T19:43:20.366Z"
+generated_at: "2026-03-29T19:57:14.916Z"
 ---
 
 # § 5547. Limitation on premium pay
 
-- **(a)** An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, 5546(a) and (b), and 5550 only to the extent that the payment does not cause the aggregate of basic pay and such premium pay for any pay period for such employee to exceed the greater of—
+- **(a)** An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, 5545c, 5546(a) and (b), and 5550 only to the extent that the payment does not cause the aggregate of basic pay and such premium pay for any pay period for such employee to exceed the greater of—
   - **(1)** the maximum rate of basic pay payable for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law); or
   - **(2)** the rate payable for level V of the Executive Schedule.
 - **(b)**

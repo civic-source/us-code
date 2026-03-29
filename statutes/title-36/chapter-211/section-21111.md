@@ -3,9 +3,9 @@ title: "Section 21111 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "21111"
 chapter: 211
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "36 U.S.C. § 21111"
-generated_at: "2026-03-29T19:43:23.281Z"
+generated_at: "2026-03-29T20:00:38.602Z"
 ---
 
 # § 21111. Liability for acts of officers and agents

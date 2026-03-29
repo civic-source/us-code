@@ -3,12 +3,12 @@ title: "Section 1513 - No additional funds authorized"
 usc_title: 47
 usc_section: "1513"
 chapter: 14
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "47 U.S.C. § 1513"
-generated_at: "2026-03-29T19:44:37.274Z"
+generated_at: "2026-03-29T20:01:01.640Z"
 ---
 
 # § 1513. No additional funds authorized
 
-No additional funds are authorized to be appropriated to carry out this chapter. This chapter shall be carried out using amounts otherwise authorized.
+No additional funds are authorized to be appropriated to carry out this chapter, or the amendments made by this title. 1 1 See References in Text note below. This chapter, and the amendments made by this title, 1 shall be carried out using amounts otherwise authorized.
 

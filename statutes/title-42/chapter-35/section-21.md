@@ -1,37 +1,17 @@
 ---
-title: "Section 21 - Nutrition"
+title: "Section 21 - Program"
 usc_title: 42
 usc_section: "21"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-29T19:31:45.071Z"
+generated_at: "2026-03-29T20:00:54.854Z"
 ---
 
-# § 3030g–21. Nutrition
+# § 3057k–21. Program
 
-A State that establishes and operates a nutrition project under this chapter 1 1 So in original. Title III of Pub. L. 89–73 , as amended, contained parts and subparts, but not chapters. shall—
-
-  - **(1)** utilize the expertise of a dietitian or other individual with equivalent education and training in nutrition science, or if such an individual is not available, an individual with comparable expertise in the planning of nutritional services, and
-  - **(2)** ensure that the project—
-    - **(A)** provides meals that—
-      - **(i)** comply with the most recent Dietary Guidelines for Americans, published by the Secretary and the Secretary of Agriculture, and
-      - **(ii)** provide to each participating older individual—
-        - **(I)** a minimum of 33⅓ percent of the dietary reference intakes established by the Food and Nutrition Board of the Institute of Medicine of the National Academy of Sciences, if the project provides one meal per day,
-        - **(II)** a minimum of 66⅔ percent of the allowances if the project provides two meals per day, and
-        - **(III)** 100 percent of the allowances if the project provides three meals per day, and
-      - **(iii)** to the maximum extent practicable, are adjusted to meet any special dietary needs of program participants,
-    - **(B)** provides flexibility to local nutrition providers in designing meals that are appealing to program participants,
-    - **(C)** encourages providers to enter into contracts that limit the amount of time meals must spend in transit before they are consumed,
-    - **(D)** where feasible, encourages joint arrangements with schools and other facilities serving meals to children in order to promote intergenerational meal programs,
-    - **(E)** provides that meals, other than in-home meals, are provided in settings in as close proximity to the majority of eligible older individuals’ residences as feasible,
-    - **(F)** comply 2 2 So in original. Probably should be “complies”. with applicable provisions of State or local laws regarding the safe and sanitary handling of food, equipment, and supplies used in the storage, preparation, service, and delivery of meals to an older individual,
-    - **(G)** ensures that meal providers solicit the advice and expertise of—
-      - **(i)** a dietitian or other individual described in paragraph (1),
-      - **(ii)** meal participants, and
-      - **(iii)** other individuals knowledgeable with regard to the needs of older individuals,
-    - **(H)** ensures that each participating area agency on aging establishes procedures that allow nutrition project administrators the option to offer a meal, on the same basis as meals provided to participating older individuals, to individuals providing volunteer services during the meal hours, and to individuals with disabilities who reside at home with older individuals eligible under this chapter, 1
-    - **(I)** ensures that nutrition services will be available to older individuals and to their spouses, and may be made available to individuals with disabilities who are not older individuals but who reside in housing facilities occupied primarily by older individuals at which congregate nutrition services are provided,
-    - **(J)** provides for nutrition screening and nutrition education, and nutrition assessment and counseling if appropriate,
-    - **(K)** encourages individuals who distribute nutrition services under subpart II to provide, to homebound older individuals, available medical information approved by health care professionals, such as informational brochures and information on how to get vaccines, including vaccines for influenza, pneumonia, and shingles, in the individuals’ communities, and
-    - **(L)** where feasible, encourages the use of locally grown foods in meal programs and identifies potential partnerships and contracts with local producers and providers of locally grown foods.
+- **(a)** The Assistant Secretary may carry out a competitive demonstration program for making grants to tribal organizations or organizations serving Native Hawaiians with applications approved under parts A and B, to pay for the Federal share of carrying out programs, to enable the organizations described in this subsection to build their capacity to provide a wider range of in-home and community supportive services to enable older individuals to maintain their health and independence and to avoid long-term care facility placement.
+- **(b)**
+  - **(1)** Subject to paragraph (2), supportive services described in subsection (a) may include any of the activities described in section 3030d(a) of this title .
+  - **(2)** The Assistant Secretary, in making grants under this section, shall give priority to organizations that will use the grant funds for supportive services described in subsection (a) that are for in-home assistance, transportation, information and referral, case management, health and wellness programs, legal services, family caregiver support services, and other services that directly support the independence of the older individuals served.
+  - **(3)** Nothing in this section shall be construed or interpreted to prohibit the provision of supportive services under part A or B.

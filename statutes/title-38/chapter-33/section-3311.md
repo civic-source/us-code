@@ -3,9 +3,9 @@ title: "Section 3311 - Educational assistance for service in the Armed Forces co
 usc_title: 38
 usc_section: "3311"
 chapter: 33
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3311"
-generated_at: "2026-03-29T19:43:27.012Z"
+generated_at: "2026-03-29T20:00:43.070Z"
 ---
 
 # § 3311. Educational assistance for service in the Armed Forces commencing on or after September 11, 2001 : entitlement
@@ -17,9 +17,13 @@ generated_at: "2026-03-29T19:43:27.012Z"
     - **(B)** after completion of service described in subparagraph (A)—
       - **(i)** continues on active duty; or
       - **(ii)** is discharged or released from active duty as described in subsection (c).
-  - **(2)** An individual who—
-    - **(A)** commencing on or after September 11, 2001 , serves at least 30 continuous days on active duty in the Armed Forces; and
-    - **(B)** after completion of service described in subparagraph (A), is discharged or released from active duty in the Armed Forces for a service-connected disability.
+  - **(2)** An individual—
+    - **(A)** who—
+      - **(i)** commencing on or after September 11, 2001 , serves at least 30 continuous days on active duty in the Armed Forces; and
+      - **(ii)** after completion of service described in clause (i), is discharged or released from active duty in the Armed Forces for a service-connected disability or by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10 ); or
+    - **(B)** who—
+      - **(i)** commencing on or after September 11, 2001 , completes at least 30 continuous days of service described in subsection (d)(1) or (2); and
+      - **(ii)** after completion of service described in clause (i), is discharged or released by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10 ).
   - **(3)** An individual who—
     - **(A)** commencing on or after September 11, 2001 , serves an aggregate of at least 30 months, but less than 36 months, on active duty in the Armed Forces (including service on active duty in entry level and skill training); and
     - **(B)** after completion of service described in subparagraph (A)—
@@ -52,12 +56,12 @@ generated_at: "2026-03-29T19:43:27.012Z"
 - **(c)** A discharge or release from active duty of an individual described in this subsection is a discharge or release as follows:
   - **(1)** A discharge from active duty in the Armed Forces with an honorable discharge.
   - **(2)** A release after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service and placement on the retired list, transfer to the Fleet Reserve or Fleet Marine Corps Reserve, or placement on the temporary disability retired list.
-  - **(3)** A release from active duty in the Armed Forces for further service in a reserve component of the Armed Forces after service on active duty characterized by the Secretary concerned as honorable service.
+  - **(3)** A release from active duty in the Armed Forces for further service in a reserve component of the Armed Forces, or for further service in the Space Force in a space force active status not on sustained duty under section 20105 of title 10 , after service on active duty characterized by the Secretary concerned as honorable service.
   - **(4)** A discharge or release from active duty in the Armed Forces after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service for—
     - **(A)** a medical condition which preexisted the service of the individual as described in the applicable paragraph of subsection (b) and which the Secretary determines is not service-connected;
     - **(B)** hardship; or
     - **(C)** a physical or mental condition that was not characterized as a disability and did not result from the individual’s own willful misconduct but did interfere with the individual’s performance of duty, as determined by the Secretary concerned in accordance with regulations prescribed by the Secretary of Defense.
-- **(d)** The following periods of service shall not be considered a part of the period of active duty on which an individual’s entitlement to educational assistance under this chapter is based:
+- **(d)** Except as provided in subsection (b)(2)(B), the following periods of service shall not be considered a part of the period of active duty on which an individual’s entitlement to educational assistance under this chapter is based:
   - **(1)** A period of service on active duty of an officer pursuant to an agreement under section 2107(b) of title 10 .
   - **(2)** A period of service on active duty of an officer pursuant to an agreement under section 7448, 8459, or 9448 of title 10 or section 182 1 1 See References in Text note below. of title 14.
   - **(3)** A period of service that is terminated because of a defective enlistment and induction based on—
@@ -67,13 +71,10 @@ generated_at: "2026-03-29T19:43:27.012Z"
 - **(e)** In the event an individual entitled to educational assistance under this chapter is entitled by reason of both paragraphs (4) and (5) of subsection (b), the individual shall be treated as being entitled to educational assistance under this chapter by reason of paragraph (5) of subsection (b).
 - **(f)**
   - **(1)** Educational assistance payable by reason of paragraphs (8), (9), and (10) of subsection (b) shall be known as the “Marine Gunnery Sergeant John David Fry scholarship”.
-  - **(2)** The entitlement of an individual to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) because the individual was a spouse of a person described in such paragraph shall expire on the earlier of—
-    - **(A)** the date that is 15 years after the date on which the person died; or
-    - **(B)** the date on which the individual remarries.
-  - **(3)** Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
-  - **(4)**
-    - **(A)** An election made under paragraph (3) by a spouse described in subparagraph (B) may not be treated as irrevocable if such election occurred before the date of the enactment of this paragraph.
+  - **(2)** Except as provided in paragraph (3), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
+  - **(3)**
+    - **(A)** An election made under paragraph (2) by a spouse described in subparagraph (B) may not be treated as irrevocable if such election occurred before the date of the enactment of this paragraph.
     - **(B)** A spouse described in this subparagraph is an individual—
       - **(i)** who is entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b); and
       - **(ii)** who was the spouse of a member of the Armed Forces who died during the period beginning on September 11, 2001 , and ending on December 31, 2005 .
-  - **(5)** For purposes of paragraphs (8), (9), and (10) of subsection (b), the term “child” includes a married individual or an individual who is above the age of twenty-three years.
+  - **(4)** For purposes of paragraphs (8), (9), and (10) of subsection (b), the term “child” includes a married individual or an individual who is above the age of twenty-three years.

@@ -3,9 +3,9 @@ title: "Section 1395h - Provisions relating to the administration of part A"
 usc_title: 42
 usc_section: "1395h"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1395h"
-generated_at: "2026-03-29T19:31:44.624Z"
+generated_at: "2026-03-29T20:00:54.321Z"
 ---
 
 # § 1395h. Provisions relating to the administration of part A
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:31:44.624Z"
 - **(a)** The administration of this part shall be conducted through contracts with medicare administrative contractors under section 1395kk–1 of this title .
 - **(b)**
 - **(c)**
-  - **(1)** Repealed. Pub. L. 108–173, title IX , § 911(b)(4)(A), Dec. 8, 2003 , 117 Stat. 2383 .
+  - **(1)** Repealed. Pub. L. 108–173, title IX, § 911(b)(4)(A) , Dec. 8, 2003 , 117 Stat. 2383 .
   - **(2)**
     - **(A)** Each contract under section 1395kk–1 of this title that provides for making payments under this part shall provide that payment shall be issued, mailed, or otherwise transmitted with respect to not less than 95 percent of all claims submitted under this subchapter—
       - **(i)** which are clean claims, and

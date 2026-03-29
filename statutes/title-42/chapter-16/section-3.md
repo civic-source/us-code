@@ -1,18 +1,15 @@
 ---
-title: "Section 3 - Sustainable chemistry basic research"
+title: "Section 3 - Personnel oversight"
 usc_title: 42
 usc_section: "3"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T19:31:44.977Z"
+generated_at: "2026-03-29T20:00:54.725Z"
 ---
 
-# § 1862p–3. Sustainable chemistry basic research
+# § 1862s–3. Personnel oversight
 
-The Director shall establish a Green Chemistry Basic Research program to award competitive, merit-based grants to support research into green and sustainable chemistry which will lead to clean, safe, and economical alternatives to traditional chemical products and practices. The research program shall provide sustained support for green chemistry research, education, and technology transfer through—
-
-  - **(1)** merit-reviewed competitive grants to individual investigators and teams of investigators, including, to the extent practicable, young investigators, for research;
-  - **(2)** grants to fund collaborative research partnerships among universities, industry, and nonprofit organizations;
-  - **(3)** symposia, forums, and conferences to increase outreach, collaboration, and dissemination of green chemistry advances and practices; and
-  - **(4)** education, training, and retraining of undergraduate and graduate students and professional chemists and chemical engineers, including through partnerships with industry, in green chemistry science and engineering.
+- **(a)** The Director of the Foundation shall update the policy and procedure of the Foundation relating to conflicts of interest to improve documentation and management of any known conflict of interest of an individual on temporary assignment at the Foundation, including an individual on assignment under the Intergovernmental Personnel Act of 1970 ( 42 U.S.C. 4701 et seq.).
+- **(b)** The Deputy Director of the Foundation shall submit annually to the appropriate committees of Congress written justification for each rotator employed under the Intergovernmental Personnel Act of 1970 ( 42 U.S.C. 4701 et seq.), or other rotator employed, by the Foundation that year that is paid at a rate that exceeds the maximum rate of pay for the Senior Executive Service, including, if applicable, the level of adjustment for the certified Senior Executive Service Performance Appraisal System.
+- **(c)** Not later than 1 year after January 6, 2017 , the Director of the Foundation shall submit to the appropriate committees of Congress a report on the Foundation’s efforts to control costs associated with employing rotators, including the results of and participation in the Foundation’s cost-sharing pilot program and the Foundation’s progress in responding to the findings and implementing the recommendations of the Office of Inspector General of the Foundation related to the employment of rotators.

@@ -3,9 +3,9 @@ title: "Section 1064 - Use of commissary stores and MWR retail facilities: membe
 usc_title: 10
 usc_section: "1064"
 chapter: 54
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1064"
-generated_at: "2026-03-29T19:43:37.880Z"
+generated_at: "2026-03-29T19:58:02.044Z"
 ---
 
 # § 1064. Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency
@@ -14,5 +14,5 @@ generated_at: "2026-03-29T19:43:37.880Z"
 - **(b)** A dependent of a member of the National Guard who is permitted under subsection (a) to use commissary stores and MWR retail facilities shall be permitted to use such stores and facilities, during the same period as the member, on the same basis as dependents of members of the armed forces on active duty.
 - **(c)** In this section:
   - **(1)** The term “federally declared disaster” means a disaster or other situation for which a Presidential declaration of major disaster is issued under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5170 ).
-  - **(2)** The term “MWR retail facilities” has the meaning given that term in section 1063(e) of this title .
+  - **(2)** The term “MWR retail facilities” has the meaning given that term in section 1063(e) 1 1 See References in text note below. of this title.
   - **(3)** The term “national emergency” means a national emergency declared by the President or Congress.

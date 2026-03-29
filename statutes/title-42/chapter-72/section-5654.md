@@ -1,21 +1,12 @@
 ---
-title: "Section 5654 - Grants for local projects"
+title: "Section 5654 - Transferred"
 usc_title: 42
 usc_section: "5654"
 chapter: 72
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5654"
-generated_at: "2026-03-29T19:31:45.241Z"
+generated_at: "2026-03-29T20:00:54.980Z"
 ---
 
-# § 5654. Grants for local projects
+# § 5654. Transferred
 
-- **(a)** Using a grant received under section 5651 of this title , a State may make grants to eligible entities whose applications are received by the State, and reviewed by the State advisory group, to carry out projects and activities described in section 5651 of this title .
-- **(b)** For purposes of making grants under subsection (a) of this section, the State shall give special consideration to eligible entities that—
-  - **(1)** propose to carry out such projects in geographical areas in which there is—
-    - **(A)** a disproportionately high level of serious crime committed by juveniles; or
-    - **(B)** a recent rapid increase in the number of nonstatus offenses committed by juveniles;
-  - **(2)**
-    - **(A)** agreed to carry out such projects or activities that are multidisciplinary and involve more than 2 private nonprofit agencies, organizations, and institutions that have experience dealing with juveniles; or
-    - **(B)** represent communities that have a comprehensive plan designed to identify at-risk juveniles and to prevent or reduce the rate of juvenile delinquency, and that involve other entities operated by individuals who have a demonstrated history of involvement in activities designed to prevent juvenile delinquency; and
-  - **(3)** the amount of resources (in cash or in kind) such entities will provide to carry out such projects and activities.

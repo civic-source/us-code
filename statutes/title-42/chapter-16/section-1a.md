@@ -3,9 +3,9 @@ title: "Section 1a - National Science Foundation Teaching Fellowships and Master
 usc_title: 42
 usc_section: "1a"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1a"
-generated_at: "2026-03-29T19:31:44.973Z"
+generated_at: "2026-03-29T20:00:54.718Z"
 ---
 
 # § 1862n–1a. National Science Foundation Teaching Fellowships and Master Teaching Fellowships
@@ -33,8 +33,9 @@ generated_at: "2026-03-29T19:31:44.973Z"
     - **(A)** offering academic courses and leadership training to prepare individuals to become master teachers in elementary schools and secondary schools; and
     - **(B)** offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields; and
   - **(4)** in the case of National Science Foundation Master Teaching Fellowships for teachers with bachelor’s degrees in their field and working toward a master’s degree—
-    - **(A)** offering academic courses leading to a master’s degree and leadership training to prepare individuals to become master teachers in elementary and secondary schools; and
-    - **(B)** offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields.
+    - **(A)** offering academic courses leading to a master’s degree and leadership training to prepare individuals to become master teachers in elementary and secondary schools;
+    - **(B)** offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields; and
+    - **(C)** providing internship opportunities for fellows, including research experiences at national laboratories and NASA Centers.
 - **(d)**
   - **(1)** Grants shall be awarded under this section on a competitive, merit-reviewed basis.
   - **(2)** An eligible entity desiring a grant under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum—
@@ -55,14 +56,14 @@ generated_at: "2026-03-29T19:31:44.973Z"
     - **(C)** the extent to which the applicant (and participating institutions of higher education of the consortium, if applicable) is committed to making the program a central organizational focus;
     - **(D)** the degree to which the proposed programming will enable participants to become highly effective mathematics and science teachers and prepare such participants to assume leadership roles in their schools, in addition to their regular classroom duties, including serving as mentor or master teachers, developing curriculum, and assisting in the development and implementation of professional development activities;
     - **(E)** the number and quality of the individuals that will be served by the program; and
-    - **(F)** in the case of the National Science Foundation Teaching Fellowship, the ability of the applicant (and participating institutions of higher education of the consortium, if applicable) to recruit individuals who would otherwise not pursue a career in teaching and individuals identified in section 1885a or 1885b of this title.
+    - **(F)** in the case of the National Science Foundation Teaching Fellowship, the ability of the applicant (and participating institutions of higher education of the consortium, if applicable) to recruit individuals who would otherwise not pursue a career in teaching, individuals identified in section 1885a or 1885b of this title, and veterans.
   - **(4)**
     - **(A)** Individuals shall be selected to receive fellowships under this section primarily on the basis of—
       - **(i)** professional achievement;
       - **(ii)** academic merit;
       - **(iii)** content knowledge of science, technology, engineering, or mathematics, as demonstrated by their performance on an assessment in accordance with paragraph (2)(D)(i); and
       - **(iv)** in the case of National Science Foundation Master Teaching Fellows, demonstrated success in improving student academic achievement in science, technology, engineering, or mathematics.
-    - **(B)** Among individuals demonstrating equivalent qualifications, consideration may be given to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title.
+    - **(B)** Among individuals demonstrating equivalent qualifications, consideration may be given to the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title and veterans.
 - **(e)** A National Science Foundation Teaching Fellow or a National Science Foundation Master Teaching Fellow, while fulfilling the service obligation under subsection (h) and in addition to regular classroom activities, shall take on a leadership role within the school or local educational agency in which the fellow is employed, as defined by the partnership according to such fellow’s expertise, including serving as a mentor or master teacher, developing curricula, and assisting in the development and implementation of professional development activities.
 - **(f)**
   - **(1)** An eligible entity receiving a grant under this section shall provide salary supplements to individuals who participate in the program under this section during the period of their service obligation under subsection (h). A local educational agency through which the service obligation is fulfilled shall agree not to reduce the base salary normally paid to an individual solely because such individual receives a salary supplement under this subsection.
@@ -84,3 +85,13 @@ generated_at: "2026-03-29T19:31:44.973Z"
   - **(2)** If a circumstance described in subparagraph (D) or (E) of section 1862n–1(g)(1) of this title occurs after the completion of 1 year of a service obligation under this section—
     - **(A)** for a National Science Foundation Teaching Fellow, the total amount of fellowship award received by the individual under this section while enrolled in the master’s degree program, reduced by one-fourth of the total amount for each year of service completed, plus one-half of the total teaching fellowship salary supplements received by such individual under this section, shall be repaid or such amount shall be treated as a loan to be repaid in accordance with section 1862n–1(g)(1)(C) of this title ; and
     - **(B)** for a National Science Foundation Master Teaching Fellow, the total amount of teaching fellowship salary supplements received by the individual under this section, reduced by one-half, shall be repaid or such amount shall be treated as a loan to be repaid in accordance with section 1862n–1(g)(1)(C) of this title .
+- **(k)**
+  - **(1)** The Director shall develop and implement practices for increasing the proportion of individuals receiving fellowships under this section who—
+    - **(A)** fulfill the service obligation required under subsection (h); and
+    - **(B)** remain in the teaching profession in a high need local educational agency beyond the service obligation.
+  - **(2)** The practices described under paragraph (1) may include—
+    - **(A)** partnering with nonprofit or professional associations or with other government entities to provide individuals receiving fellowships under this section with opportunities for professional development, including mentorship programs that pair those individuals with currently employed and recently retired science, technology, engineering, mathematics, or computer science professionals;
+    - **(B)** increasing recruitment from high need districts;
+    - **(C)** establishing a system to better collect, track, and respond to data on the career decisions of individuals receiving fellowships under this section;
+    - **(D)** conducting research to better understand factors relevant to teacher service and retention, including factors specifically impacting the retention of teachers who are individuals identified in sections 1885a and 1885b of this title; and
+    - **(E)** conducting pilot programs to improve teacher service and retention.

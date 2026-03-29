@@ -3,9 +3,9 @@ title: "Section 8104 - Watches"
 usc_title: 46
 usc_section: "8104"
 chapter: 81
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 8104"
-generated_at: "2026-03-29T19:44:39.406Z"
+generated_at: "2026-03-29T20:01:03.881Z"
 ---
 
 # § 8104. Watches

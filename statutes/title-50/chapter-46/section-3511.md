@@ -3,9 +3,9 @@ title: "Section 3511 - Benefits available in event of the death of personnel"
 usc_title: 50
 usc_section: "3511"
 chapter: 46
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3511"
-generated_at: "2026-03-29T19:44:52.874Z"
+generated_at: "2026-03-29T20:01:07.380Z"
 ---
 
 # § 3511. Benefits available in event of the death of personnel

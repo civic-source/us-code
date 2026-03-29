@@ -3,9 +3,9 @@ title: "Section 1494 - Expense of weighing and measuring"
 usc_title: 19
 usc_section: "1494"
 chapter: 4
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 1494"
-generated_at: "2026-03-29T19:41:21.554Z"
+generated_at: "2026-03-29T19:58:51.697Z"
 ---
 
 # § 1494. Expense of weighing and measuring

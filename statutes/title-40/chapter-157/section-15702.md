@@ -3,9 +3,9 @@ title: "Section 15702 - Distressed counties and areas"
 usc_title: 40
 usc_section: "15702"
 chapter: 157
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "40 U.S.C. § 15702"
-generated_at: "2026-03-29T19:43:21.283Z"
+generated_at: "2026-03-29T20:00:35.909Z"
 ---
 
 # § 15702. Distressed counties and areas
@@ -23,6 +23,9 @@ generated_at: "2026-03-29T19:43:21.283Z"
     - **(B)** A Commission may waive the application of the funding prohibition under paragraph (1) with respect to—
       - **(i)** a multicounty project that includes participation by an attainment county; and
       - **(ii)** any other type of project, if a Commission determines that the project could bring significant benefits to areas of the region outside an attainment county.
-  - **(3)** For a designation of an isolated area of distress to be effective, the designation shall be supported—
+  - **(3)** Paragraph (2) shall not apply to—
+    - **(A)** a county described in paragraph (2) or (3) of section 15735; or
+    - **(B)** the Southern New England Regional Commission.
+  - **(4)** For a designation of an isolated area of distress to be effective, the designation shall be supported—
     - **(A)** by the most recent Federal data available; or
     - **(B)** if no recent Federal data are available, by the most recent data available through the government of the State in which the isolated area of distress is located.

@@ -3,9 +3,9 @@ title: "Section 4803 - Designation of high risk, high threat posts"
 usc_title: 22
 usc_section: "4803"
 chapter: 58
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 4803"
-generated_at: "2026-03-29T19:42:08.194Z"
+generated_at: "2026-03-29T19:59:24.231Z"
 ---
 
 # § 4803. Designation of high risk, high threat posts

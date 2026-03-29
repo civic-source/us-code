@@ -1,19 +1,12 @@
 ---
-title: "Section 14082 - Rural drug enforcement training"
+title: "Section 14082 - Transferred"
 usc_title: 42
 usc_section: "14082"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14082"
-generated_at: "2026-03-29T19:31:45.763Z"
+generated_at: "2026-03-29T20:00:55.492Z"
 ---
 
-# § 14082. Rural drug enforcement training
+# § 14082. Transferred
 
-- **(a)** The Director of the Federal Law Enforcement Training Center shall develop a specialized course of instruction devoted to training law enforcement officers from rural agencies in the investigation of drug trafficking and related crimes.
-- **(b)** There are authorized to be appropriated to carry out subsection (a)—
-  - **(1)** $1,000,000 for fiscal year 1996;
-  - **(2)** $1,000,000 for fiscal year 1997;
-  - **(3)** $1,000,000 for fiscal year 1998;
-  - **(4)** $1,000,000 for fiscal year 1999; and
-  - **(5)** $1,000,000 for fiscal year 2000.

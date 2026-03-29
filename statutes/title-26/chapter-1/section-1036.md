@@ -3,9 +3,9 @@ title: "Section 1036 - Stock for stock of same corporation"
 usc_title: 26
 usc_section: "1036"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 1036"
-generated_at: "2026-03-29T19:42:47.790Z"
+generated_at: "2026-03-29T19:59:49.401Z"
 ---
 
 # § 1036. Stock for stock of same corporation

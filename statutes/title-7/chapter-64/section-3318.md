@@ -3,9 +3,9 @@ title: "Section 3318 - Contract, grant, and cooperative agreement authorities"
 usc_title: 7
 usc_section: "3318"
 chapter: 64
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 3318"
-generated_at: "2026-03-29T19:43:58.298Z"
+generated_at: "2026-03-29T19:57:39.329Z"
 ---
 
 # § 3318. Contract, grant, and cooperative agreement authorities

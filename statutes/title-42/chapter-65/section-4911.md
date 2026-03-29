@@ -3,23 +3,23 @@ title: "Section 4911 - Citizen suits"
 usc_title: 42
 usc_section: "4911"
 chapter: 65
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4911"
-generated_at: "2026-03-29T19:31:45.179Z"
+generated_at: "2026-03-29T20:00:54.927Z"
 ---
 
 # § 4911. Citizen suits
 
-- **(a)** Except as provided in subsection (b) of this section, any person (other than the United States) may commence a civil action on his own behalf—
-  - **(1)** against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any noise control requirement (as defined in subsection (e) 1 1 So in original. Probably should be subsection “(f)”. of this section), or
+- **(a)** Except as provided in subsection (b), any person (other than the United States) may commence a civil action on his own behalf—
+  - **(1)** against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any noise control requirement (as defined in subsection (e) 1 1 So in original. Probably should be subsection “(f)”. ), or
   - **(2)** against—
     - **(A)** the Administrator of the Environmental Protection Agency where there is alleged a failure of such Administrator to perform any act or duty under this chapter which is not discretionary with such Administrator, or
     - **(B)** the Administrator of the Federal Aviation Administration where there is alleged a failure of such Administrator to perform any act or duty under section 44715 of title 49 which is not discretionary with such Administrator.
 - **(b)** No action may be commenced—
-  - **(1)** under subsection (a)(1) of this section—
+  - **(1)** under subsection (a)(1)—
     - **(A)** prior to sixty days after the plaintiff has given notice of the violation (i) to the Administrator of the Environmental Protection Agency (and to the Federal Aviation Administrator in the case of a violation of a noise control requirement under such section 44715 of title 49 ) and (ii) to any alleged violator of such requirement, or
     - **(B)** if an Administrator has commenced and is diligently prosecuting a civil action to require compliance with the noise control requirement, but in any such action in a court of the United States any person may intervene as a matter of right, or
-  - **(2)** under subsection (a)(2) of this section prior to sixty days after the plaintiff has given notice to the defendant that he will commence such action.
+  - **(2)** under subsection (a)(2) prior to sixty days after the plaintiff has given notice to the defendant that he will commence such action.
 - **(c)** In an action under this section, the Administrator of the Environmental Protection Agency, if not a party, may intervene as a matter of right. In an action under this section respecting a noise control requirement under section 44715 of title 49 , the Administrator of the Federal Aviation Administration, if not a party, may also intervene as a matter of right.
 - **(d)** The court, in issuing any final order in any action brought pursuant to subsection (a) of this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such an award is appropriate.
 - **(e)** Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any noise control requirement or to seek any other relief (including relief against an Administrator).

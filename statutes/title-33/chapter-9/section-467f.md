@@ -3,9 +3,9 @@ title: "Section 467f - National dam safety program"
 usc_title: 33
 usc_section: "467f"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 467f"
-generated_at: "2026-03-29T19:43:07.562Z"
+generated_at: "2026-03-29T20:00:31.239Z"
 ---
 
 # § 467f. National dam safety program
@@ -93,4 +93,4 @@ generated_at: "2026-03-29T19:43:07.562Z"
   - **(8)**
     - **(A)** To the extent amounts are made available in advance in appropriations Acts, each member of the Board who represents a Federal agency shall be reimbursed of appropriations for travel expenses by his or her agency, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of services for the Board.
     - **(B)** To the extent amounts are made available in advance in appropriations Acts, each member of the Board who represents a State agency, the member of the Board who represents the private sector, and each member of a work group created under paragraph (1) shall be reimbursed for travel expenses by FEMA, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from home or regular place of business of the member in performance of services for the Board.
-  - **(9)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board.
+  - **(9)** Chapter 10 of title 5 shall not apply to the Board.

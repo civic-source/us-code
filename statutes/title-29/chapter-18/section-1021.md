@@ -3,9 +3,9 @@ title: "Section 1021 - Duty of disclosure and reporting"
 usc_title: 29
 usc_section: "1021"
 chapter: 18
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "29 U.S.C. § 1021"
-generated_at: "2026-03-29T19:42:21.473Z"
+generated_at: "2026-03-29T19:59:56.624Z"
 ---
 
 # § 1021. Duty of disclosure and reporting
@@ -30,23 +30,23 @@ generated_at: "2026-03-29T19:42:21.473Z"
     - **(A)** Not later than 60 days before the date of any qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account or applicable life insurance account, the employer maintaining the plan from which the transfer is made shall provide the Secretary, the Secretary of the Treasury, the administrator, and each employee organization representing participants in the plan a written notice of such transfer. A copy of any such notice shall be available for inspection in the principal office of the administrator.
     - **(B)** Such notice shall identify the plan from which the transfer is made, the amount of the transfer, a detailed accounting of assets projected to be held by the plan immediately before and immediately after the transfer, and the current liabilities under the plan at the time of the transfer.
     - **(C)** The Secretary may prescribe such additional reporting requirements as may be necessary to carry out the purposes of this section.
-  - **(3)** For purposes of paragraph (1), any term used in such paragraph which is also used in section 420 of title 26 (as in effect on July 31, 2015 ) shall have the same meaning as when used in such section.
+  - **(3)** For purposes of paragraph (1), any term used in such paragraph which is also used in section 420 of title 26 (as in effect on December 29, 2022 ) shall have the same meaning as when used in such section.
 - **(f)**
   - **(1)** The administrator of a defined benefit plan to which subchapter III applies shall for each plan year provide a plan funding notice to the Pension Benefit Guaranty Corporation, to each plan participant and beneficiary, to each labor organization representing such participants or beneficiaries, and, in the case of a multiemployer plan, to each employer that has an obligation to contribute to the plan.
   - **(2)**
     - **(A)** Each notice required under paragraph (1) shall contain identifying information, including the name of the plan, the address and phone number of the plan administrator and the plan’s principal administrative officer, each plan sponsor’s employer identification number, and the plan number of the plan.
     - **(B)** A plan funding notice under paragraph (1) shall include—
       - **(i)**
-        - **(I)** in the case of a single-employer plan, a statement as to whether the plan’s funding target attainment percentage (as defined in section 1083(d)(2) of this title ) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages), or
+        - **(I)** in the case of a single-employer plan, a statement as to whether the plan’s percentage of plan liabilities funded (as described in clause (ii)(I)(bb)) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages), or
         - **(II)** in the case of a multiemployer plan, a statement as to whether the plan’s funded percentage (as defined in section 1085(i) 1 of this title) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages),
       - **(ii)**
-        - **(I)** in the case of a single-employer plan, a statement of—
-        - **(II)** in the case of a multiemployer plan, a statement, for the plan year to which the notice relates and the preceding 2 plan years, of the value of the plan assets (determined both in the same manner as under section 1084 of this title and under the rules of subclause (I)(bb)) and the value of the plan liabilities (determined in the same manner as under section 1084 of this title except that the method specified in section 1085(i)(8) 1 of this title shall be used),
-      - **(iii)** a statement of the number of participants who are—
+        - **(I)** in the case of a single-employer plan—
+        - **(II)** in the case of a multiemployer plan, a statement, for the plan year to which the notice relates and the preceding 2 plan years, of the value of the plan assets (determined both in the same manner as under section 1084 of this title and under the rules of subclause (I)(aa)) and the value of the plan liabilities (determined in the same manner as under section 1084 of this title except that the method specified in section 1085(i)(8) 1 of this title shall be used),
+      - **(iii)** a statement of the number of participants for the plan year to which the notice relates as of the last day of such plan year and the preceding 2 plan years, in tabular format, who are—
         - **(I)** retired or separated from service and are receiving benefits,
         - **(II)** retired or separated participants entitled to future benefits, and
         - **(III)** active participants under the plan,
-      - **(iv)** a statement setting forth the funding policy of the plan and the asset allocation of investments under the plan (expressed as percentages of total assets) as of the end of the plan year to which the notice relates,
+      - **(iv)** a statement setting forth the funding policy of the plan, the asset allocation of investments under the plan (expressed as percentages of total assets), and the average return on assets for the plan year, as of the end of the plan year to which the notice relates,
       - **(v)** in the case of a multiemployer plan, whether the plan was in critical or endangered status under section 1085 of this title for such plan year and, if so—
         - **(I)** a statement describing how a person may obtain a copy of the plan’s funding improvement or rehabilitation plan, as appropriate, adopted under section 1085 of this title and the actuarial and financial data that demonstrate any action taken by the plan toward fiscal improvement, and
         - **(II)** a summary of any funding improvement plan, rehabilitation plan, or modification thereof adopted under section 1085 of this title during the plan year to which the notice relates,
@@ -58,15 +58,21 @@ generated_at: "2026-03-29T19:42:21.473Z"
       - **(viii)**
         - **(I)** in the case of a single-employer plan, a summary of the rules governing termination of single-employer plans under subtitle C of subchapter III, or
         - **(II)** in the case of a multiemployer plan, a summary of the rules governing reorganization or insolvency, including the limitations on benefit payments,
-      - **(ix)** a general description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation, along with an explanation of the limitations on the guarantee and the circumstances under which such limitations apply,
-      - **(x)** a statement that a person may obtain a copy of the annual report of the plan filed under section 1024(a) of this title upon request, through the Internet website of the Department of Labor, or through an Intranet website maintained by the applicable plan sponsor (or plan administrator on behalf of the plan sponsor), and
-      - **(xi)** if applicable, a statement that each contributing sponsor, and each member of the contributing sponsor’s controlled group, of the single-employer plan was required to provide the information under section 1310 of this title for the plan year to which the notice relates.
+      - **(ix)** in the case of a single-employer plan, a statement as to whether the plan’s funded status, based on the plan’s liabilities described under subclause (II) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages), that includes—
+        - **(I)** the plan’s assets, as of the last day of the plan year and for the 2 preceding plan years, as determined under clause (ii)(I)(aa),
+        - **(II)** the plan’s liabilities, as of the last day of the plan year and for the 2 preceding plan years, as determined under clause (ii)(1)(aa), and
+        - **(III)** the funded status of the plan, determined as the ratio of the plan’s assets and liabilities calculated under subclauses (I) and (II), for the plan year to which the notice relates, and for the 2 preceding plan years,
+      - **(x)** a general description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation, along with an explanation of the limitations on the guarantee and the circumstances under which such limitations apply and a statement that, in the case of a single-employer plan—
+        - **(I)** if plan assets are determined to be sufficient to pay vested benefits that are not guaranteed by the Pension Benefit Guaranty Corporation, participants and beneficiaries may receive benefits in excess of the guaranteed amount, and
+        - **(II)** such a determination generally uses assumptions that result in a plan having a lower funded status as compared to the plan’s funded status disclosed in this notice.
+      - **(xi)** a statement that a person may obtain a copy of the annual report of the plan filed under section 1024(a) of this title upon request, through the Internet website of the Department of Labor, or through an Intranet website maintained by the applicable plan sponsor (or plan administrator on behalf of the plan sponsor), and
+      - **(xii)** if applicable, a statement that each contributing sponsor, and each member of the contributing sponsor’s controlled group, of the single-employer plan was required to provide the information under section 1310 of this title for the plan year to which the notice relates.
     - **(C)** Each notice under paragraph (1) shall include—
       - **(i)** in the case of a multiemployer plan, a statement that the plan administrator shall provide, upon written request, to any labor organization representing plan participants and beneficiaries and any employer that has an obligation to contribute to the plan, a copy of the annual report filed with the Secretary under section 1024(a) of this title , and
       - **(ii)** any additional information which the plan administrator elects to include to the extent not inconsistent with regulations prescribed by the Secretary.
     - **(D)**
       - **(i)** In the case of a single-employer plan for an applicable plan year, each notice under paragraph (1) shall include—
-        - **(I)** a statement that the MAP-21, the Highway and Transportation Funding Act of 2014,, 3 3 So in original. The second comma probably should not appear. the Bipartisan Budget Act of 2015,, 3 the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
+        - **(I)** a statement that the MAP-21, the Highway and Transportation Funding Act of 2014,, 3 3 So in original. the Bipartisan Budget Act of 2015,, 3 the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
         - **(II)** a statement that, as a result of the MAP-21, the Highway and Transportation Funding Act of 2014,, 3 the Bipartisan Budget Act of 2015,, 3 the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
         - **(III)** a table which shows (determined both with and without regard to section 1083(h)(2)(C)(iv) of this title ) the funding target attainment percentage (as defined in section 1083(d)(2) of this title ), the funding shortfall (as defined in section 1083(c)(4) of this title ), and the minimum required contribution (as determined under section 1083 of this title ), for the applicable plan year and each of the 2 preceding plan years.
       - **(ii)** For purposes of this subparagraph, the term “applicable plan year” means any plan year beginning after December 31, 2011 , and before January 1, 2034 , for which—
@@ -162,4 +168,5 @@ generated_at: "2026-03-29T19:42:21.473Z"
 - **(m)** Not later than 30 days before the first date on which an applicable individual of an applicable individual account plan is eligible to exercise the right under section 1054(j) of this title to direct the proceeds from the divestment of employer securities with respect to any type of contribution, the administrator shall provide to such individual a notice—
   - **(1)** setting forth such right under such section, and
   - **(2)** describing the importance of diversifying the investment of retirement account assets.
-- **(n)** For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title .
+- **(n)** Nothing in this section shall preclude the Secretary from providing, by regulations or otherwise, simplified reporting procedures or requirements regarding such a pension-linked emergency savings account.
+- **(o)** For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title .

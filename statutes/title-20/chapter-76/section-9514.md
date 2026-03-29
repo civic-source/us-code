@@ -3,9 +3,9 @@ title: "Section 9514 - Office of the Director"
 usc_title: 20
 usc_section: "9514"
 chapter: 76
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 9514"
-generated_at: "2026-03-29T19:41:03.458Z"
+generated_at: "2026-03-29T19:58:56.959Z"
 ---
 
 # § 9514. Office of the Director
@@ -33,5 +33,5 @@ generated_at: "2026-03-29T19:41:03.458Z"
   - **(10)** To solicit and consider the recommendations of education stakeholders, in order to ensure that there is broad and regular public and professional input from the educational field in the planning and carrying out of the Institute’s activities.
   - **(11)** To coordinate the wide dissemination of information on scientifically valid research.
   - **(12)** To carry out and support other activities consistent with the priorities and mission of the Institute.
-- **(g)** The Director may establish technical and scientific peer-review groups and scientific program advisory committees for research and evaluations that the Director determines are necessary to carry out the requirements of this subchapter. The Director shall appoint such personnel, except that officers and employees of the United States shall comprise no more than ¼ of the members of any such group or committee and shall not receive additional compensation for their service as members of such a group or committee. The Director shall ensure that reviewers are highly qualified and capable to appraise education research and development projects. The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a peer-review group or an advisory committee established under this subsection.
+- **(g)** The Director may establish technical and scientific peer-review groups and scientific program advisory committees for research and evaluations that the Director determines are necessary to carry out the requirements of this subchapter. The Director shall appoint such personnel, except that officers and employees of the United States shall comprise no more than ¼ of the members of any such group or committee and shall not receive additional compensation for their service as members of such a group or committee. The Director shall ensure that reviewers are highly qualified and capable to appraise education research and development projects. Chapter 10 of title 5 shall not apply to a peer-review group or an advisory committee established under this subsection.
 - **(h)** The Director may, when requested by other officers of the Department, and shall, when directed by the Secretary, review the products and publications of other offices of the Department to certify that evidence-based claims about those products and publications are scientifically valid.

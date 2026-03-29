@@ -3,9 +3,9 @@ title: "Section 7504 - Agreement"
 usc_title: 38
 usc_section: "7504"
 chapter: 75
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 7504"
-generated_at: "2026-03-29T19:43:27.089Z"
+generated_at: "2026-03-29T20:00:43.165Z"
 ---
 
 # § 7504. Agreement

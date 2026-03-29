@@ -3,9 +3,9 @@ title: "Section 1116 - Reports, studies, and retrospective reviews"
 usc_title: 49
 usc_section: "1116"
 chapter: 11
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 1116"
-generated_at: "2026-03-29T19:44:57.829Z"
+generated_at: "2026-03-29T20:01:14.781Z"
 ---
 
 # § 1116. Reports, studies, and retrospective reviews
@@ -24,10 +24,13 @@ generated_at: "2026-03-29T19:44:57.829Z"
 - **(c)** The National Transportation Safety Board shall submit a report to Congress on July 1 of each year. The report shall include—
   - **(1)** a statistical and analytical summary of the transportation accident investigations conducted and reviewed by the Board during the prior calendar year;
   - **(2)** a survey and summary of the recommendations made by the Board to reduce the likelihood of recurrence of those accidents together with the observed response to each recommendation;
-  - **(3)** a detailed appraisal of the accident investigation and accident prevention activities of other departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities having responsibility for those activities under a law of the United States or a State;
-  - **(4)** a description of the activities and operations of the National Transportation Safety Board Training Center during the prior calendar year;
-  - **(5)** a list of accidents, during the prior calendar year, that the Board was required to investigate under section 1131 but did not investigate and an explanation of why they were not investigated; and
-  - **(6)** a list of ongoing investigations that have exceeded the expected time allotted for completion by Board order and an explanation for the additional time required to complete each such investigation.
+  - **(3)** a list of each recommendation made by the Board to the Secretary of Transportation or the Commandant of the Coast Guard that was closed in an unacceptable status in the preceding 12 months, including—
+    - **(A)** any explanation the Board received from the Secretary or Commandant; and
+    - **(B)** any explanation from the Board as to why the recommendation was closed in an unacceptable status, including a discussion of why alternate means, if any, taken by the Secretary or Commandant to address the Board’s recommendation were inadequate;
+  - **(4)** a detailed appraisal of the accident investigation and accident prevention activities of other departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities having responsibility for those activities under a law of the United States or a State;
+  - **(5)** a description of the activities and operations of the National Transportation Safety Board Training Center during the prior calendar year;
+  - **(6)** a list of accidents, during the prior calendar year, that the Board was required to investigate under section 1131 but did not investigate and an explanation of why they were not investigated; and
+  - **(7)** a list of ongoing investigations that have exceeded the expected time allotted for completion by Board order and an explanation for the additional time required to complete each such investigation.
 - **(d)**
   - **(1)** Subject to paragraph (2), not later than June 1, 2019 , and at least every 5 years thereafter, the Chairman shall complete a retrospective review of recommendations issued by the Board that are classified as open by the Board.
   - **(2)** A review under paragraph (1) shall include—

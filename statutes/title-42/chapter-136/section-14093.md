@@ -1,14 +1,12 @@
 ---
-title: "Section 14093 - Establishment of Office of the Police Corps and Law Enforcement Education"
+title: "Section 14093 - Transferred"
 usc_title: 42
 usc_section: "14093"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14093"
-generated_at: "2026-03-29T19:31:45.763Z"
+generated_at: "2026-03-29T20:00:55.492Z"
 ---
 
-# § 14093. Establishment of Office of the Police Corps and Law Enforcement Education
-
-There is established in the Department of Justice, under the general authority of the Attorney General, an Office of the Police Corps and Law Enforcement Education.
+# § 14093. Transferred
 

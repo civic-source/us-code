@@ -1,14 +1,14 @@
 ---
-title: "Section 2691 - Restoration of land used by permit or damaged by mishap; reimbursement of state costs of fighting wildland fires"
+title: "Section 2691 - Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires"
 usc_title: 10
 usc_section: "2691"
 chapter: 159
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2691"
-generated_at: "2026-03-29T19:43:38.004Z"
+generated_at: "2026-03-29T19:58:02.189Z"
 ---
 
-# § 2691. Restoration of land used by permit or damaged by mishap; reimbursement of state costs of fighting wildland fires
+# § 2691. Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires
 
 - **(a)** The Secretary of the military department concerned may remove improvements and take any other action necessary in the judgment of the Secretary to restore land used by that military department by permit from another military department or Federal agency if the restoration is required by the permit making that land available to the military department. The Secretary concerned may carry out this section using funds available for operations and maintenance or for military construction.
 - **(b)** Unless otherwise prohibited by law or the terms of the permit, before restoration of any land under subsection (a) is begun, the Secretary concerned shall determine, under the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, whether another military department or Federal agency has a use for the land in its existing, improved state. During the period required to make such a determination, the Secretary may provide for maintenance and repair of improvements on the land to the standards established for excess property by the Administrator of General Services.

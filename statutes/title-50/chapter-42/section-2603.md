@@ -3,14 +3,14 @@ title: "Section 2603 - Plan for deactivation and decommissioning of nonoperation
 usc_title: 50
 usc_section: "2603"
 chapter: 42
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 2603"
-generated_at: "2026-03-29T19:44:52.812Z"
+generated_at: "2026-03-29T20:01:07.299Z"
 ---
 
 # § 2603. Plan for deactivation and decommissioning of nonoperational defense nuclear facilities
 
-- **(a)** The Secretary of Energy shall, during each even-numbered year beginning in 2016, develop and subsequently carry out a plan for the activities of the Department of Energy relating to the deactivation and decommissioning of nonoperational defense nuclear facilities.
+- **(a)** The Secretary of Energy shall, every four years beginning in 2025, develop and subsequently carry out a plan for the activities of the Department of Energy relating to the deactivation and decommissioning of nonoperational defense nuclear facilities.
 - **(b)** The plan required by subsection (a) shall include the following:
   - **(1)** A list of nonoperational defense nuclear facilities, prioritized for deactivation and decommissioning based on the potential to reduce risks to human health, property, or the environment and to maximize cost savings.
   - **(2)** An assessment of the life cycle costs of each nonoperational defense nuclear facility during the period beginning on the date on which the plan is submitted under subsection (d) and ending on the earlier of—
@@ -21,15 +21,13 @@ generated_at: "2026-03-29T19:44:52.812Z"
   - **(5)** An estimate of costs that could be avoided by—
     - **(A)** accelerating the cleanup of nonoperational defense nuclear facilities; or
     - **(B)** other means, such as reusing such facilities for another purpose.
-- **(c)** The Secretary shall, during 2016, develop and subsequently carry out a plan under which the Administrator shall transfer, by March 31, 2019 , to the Assistant Secretary for Environmental Management the responsibility for decontaminating and decommissioning facilities of the Administration that the Secretary determines—
-  - **(1)** are nonoperational as of September 30, 2015 ; and
-  - **(2)** meet the requirements of the Office of Environmental Management for such transfer.
-- **(d)** Not later than March 31 of each even-numbered year beginning in 2016, the Secretary shall submit to the appropriate congressional committees a report that includes—
+- **(c)** The Secretary shall, during 2025, develop and subsequently carry out a plan under which the Administrator shall transfer, by March 31, 2029 , to the Assistant Secretary for Environmental Management the responsibility for decontaminating and decommissioning facilities of the Administration that the Secretary determines are nonoperational as of September 30, 2024 .
+- **(d)** Not later than March 31, 2025 , and every four years thereafter,, 1 1 So in original. the Secretary shall submit to the appropriate congressional committees a report that includes—
   - **(1)** the plan required by subsection (a);
   - **(2)** a description of the deactivation and decommissioning actions expected to be taken during the following fiscal year pursuant to the plan;
-  - **(3)** in the case of the report submitting 1 1 So in original. Probably should be “submitted”. during 2016, the plan required by subsection (c); and
-  - **(4)** in the case of a report submitted during 2018 or any year thereafter, a description of the deactivation and decommissioning actions taken at each nonoperational defense nuclear facility during the preceding fiscal year.
-- **(e)** The requirements of this section shall terminate after the submission to the appropriate congressional committees of the report required by subsection (d) to be submitted not later than March 31, 2026 .
+  - **(3)** in the case of the report submitted during 2025, the plan required by subsection (c); and
+  - **(4)** a description of the deactivation and decommissioning actions taken at each nonoperational defense nuclear facility during the period following the date on which the previous report required by this section was submitted.
+- **(e)** The requirements of this section shall terminate after the submission to the appropriate congressional committees of the report required by subsection (d) to be submitted not later than March 31, 2033 .
 - **(f)** In this section:
   - **(1)** The term “appropriate congressional committees” means—
     - **(A)** the congressional defense committees; and

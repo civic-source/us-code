@@ -3,9 +3,9 @@ title: "Section 3123 - National Agricultural Research, Extension, Education, and
 usc_title: 7
 usc_section: "3123"
 chapter: 64
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 3123"
-generated_at: "2026-03-29T19:43:58.282Z"
+generated_at: "2026-03-29T19:57:39.313Z"
 ---
 
 # § 3123. National Agricultural Research, Extension, Education, and Economics Advisory Board
@@ -66,7 +66,7 @@ generated_at: "2026-03-29T19:43:58.282Z"
     - **(A)** solicit the written opinions and recommendations of the Advisory Board; and
     - **(B)** provide a written response to the Advisory Board regarding the manner and extent to which the Secretary will implement recommendations submitted by the Advisory Board.
 - **(e)** A member of the Advisory Board shall be appointed by the Secretary for a term of up to 3 years. The members of the Advisory Board shall be appointed to serve staggered terms.
-- **(f)** The Advisory Board shall be deemed to have filed a charter for the purpose of section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
+- **(f)** The Advisory Board shall be deemed to have filed a charter for the purpose of section 1008(c) of title 5 .
 - **(g)**
   - **(1)** Not more than $500,000 may be used to cover the necessary expenses of the Advisory Board for each fiscal year.
   - **(2)** The expenses of the Advisory Board shall not be counted toward any general limitation on the expenses of advisory committees, panels, commissions, and task forces of the Department of Agriculture contained in any Act making appropriations for the Department of Agriculture, whether enacted before, on, or after June 23, 1998 , unless the appropriation Act specifically refers to this subsection and specifically includes this Advisory Board within the general limitation.

@@ -3,9 +3,9 @@ title: "Section 11302 - General definition of homeless individual"
 usc_title: 42
 usc_section: "11302"
 chapter: 119
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 11302"
-generated_at: "2026-03-29T19:31:45.608Z"
+generated_at: "2026-03-29T20:00:55.370Z"
 ---
 
 # § 11302. General definition of homeless individual
@@ -26,7 +26,10 @@ generated_at: "2026-03-29T19:31:45.608Z"
     - **(A)** have experienced a long term period without living independently in permanent housing,
     - **(B)** have experienced persistent instability as measured by frequent moves over such period, and
     - **(C)** can be expected to continue in such status for an extended period of time because of chronic disabilities, chronic physical health or mental health conditions, substance addiction, histories of domestic violence or childhood abuse, the presence of a child or youth with a disability, or multiple barriers to employment.
-- **(b)** Notwithstanding any other provision of this section, the Secretary shall consider to be homeless any individual or family who is fleeing, or is attempting to flee, domestic violence, dating violence, sexual assault, stalking, or other dangerous or life-threatening conditions in the individual’s or family’s current housing situation, including where the health and safety of children are jeopardized, and who have no other residence and lack the resources or support networks to obtain other permanent housing.
+- **(b)** Notwithstanding any other provision of this section, the Secretary shall consider to be homeless any individual or family who—
+  - **(1)** is experiencing trauma or a lack of safety related to, or fleeing or attempting to flee, domestic violence, dating violence, sexual assault, stalking, or other dangerous, traumatic, or life-threatening conditions related to the violence against the individual or a family member in the individual’s or family’s current housing situation, including where the health and safety of children are jeopardized;
+  - **(2)** has no other safe residence; and
+  - **(3)** lacks the resources to obtain other safe permanent housing.
 - **(c)**
   - **(1)** A homeless individual shall be eligible for assistance under any program provided by this chapter, only if the individual complies with the income eligibility requirements otherwise applicable to such program.
   - **(2)** Notwithstanding paragraph (1), a homeless individual shall be eligible for assistance under title I of the Workforce Innovation and Opportunity Act [ 29 U.S.C. 3111 et seq.].

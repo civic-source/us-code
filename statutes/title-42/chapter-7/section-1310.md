@@ -1,14 +1,14 @@
 ---
-title: "Section 1310 - Cooperative research or demonstration proj­ects"
+title: "Section 1310 - Cooperative research or demonstration projects"
 usc_title: 42
 usc_section: "1310"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1310"
-generated_at: "2026-03-29T19:31:44.568Z"
+generated_at: "2026-03-29T20:00:54.253Z"
 ---
 
-# § 1310. Cooperative research or demonstration proj­ects
+# § 1310. Cooperative research or demonstration projects
 
 - **(a)**
   - **(1)** There are hereby authorized to be appropriated for the fiscal year ending June 30, 1957 , $5,000,000 and for each fiscal year thereafter such sums as the Congress may determine for (A) making grants to States and public and other organizations and agencies for paying part of the cost of research or demonstration projects such as those relating to the prevention and reduction of dependency, or which will aid in effecting coordination of planning between private and public welfare agencies or which will help improve the administration and effectiveness of programs carried on or assisted under this chapter and programs related thereto, and (B) making contracts or jointly financed cooperative arrangements with States and public and other organizations and agencies for the conduct of research or demonstration projects relating to such matters.

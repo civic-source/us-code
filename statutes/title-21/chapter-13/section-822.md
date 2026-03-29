@@ -3,9 +3,9 @@ title: "Section 822 - Persons required to register"
 usc_title: 21
 usc_section: "822"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 822"
-generated_at: "2026-03-29T19:41:41.700Z"
+generated_at: "2026-03-29T19:59:28.512Z"
 ---
 
 # § 822. Persons required to register
@@ -34,6 +34,7 @@ generated_at: "2026-03-29T19:41:41.700Z"
 - **(e)**
   - **(1)** A separate registration shall be required at each principal place of business or professional practice where the applicant manufactures, distributes, or dispenses controlled substances or list I chemicals.
   - **(2)** Notwithstanding paragraph (1), a registrant who is a veterinarian shall not be required to have a separate registration in order to transport and dispense controlled substances in the usual course of veterinary practice at a site other than the registrant’s registered principal place of business or professional practice, so long as the site of transporting and dispensing is located in a State where the veterinarian is licensed to practice veterinary medicine and is not a principal place of business or professional practice.
+  - **(3)** Notwithstanding paragraph (1), a registrant that is dispensing pursuant to section 823(g) 1 of this title narcotic drugs to individuals for maintenance treatment or detoxification treatment shall not be required to have a separate registration to incorporate one or more mobile medication units into the registrant’s practice to dispense such narcotics at locations other than the registrant’s principal place of business or professional practice described in paragraph (1), so long as the registrant meets such standards for operation of a mobile medication unit as the Attorney General may establish.
 - **(f)** The Attorney General is authorized to inspect the establishment of a registrant or applicant for registration in accordance with the rules and regulations promulgated by him.
 - **(g)**
   - **(1)** An ultimate user who has lawfully obtained a controlled substance in accordance with this subchapter may, without being registered, deliver the controlled substance to another person for the purpose of disposal of the controlled substance if—

@@ -3,9 +3,9 @@ title: "Section 42 - Territorial application"
 usc_title: 12
 usc_section: "42"
 chapter: 2
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 42"
-generated_at: "2026-03-29T19:44:53.922Z"
+generated_at: "2026-03-29T19:58:40.691Z"
 ---
 
 # § 42. Territorial application

@@ -3,9 +3,9 @@ title: "Section 7844 - General applicability of State educational agency assuran
 usc_title: 20
 usc_section: "7844"
 chapter: 70
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 7844"
-generated_at: "2026-03-29T19:41:03.441Z"
+generated_at: "2026-03-29T19:58:56.940Z"
 ---
 
 # § 7844. General applicability of State educational agency assurances

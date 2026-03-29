@@ -3,9 +3,9 @@ title: "Section 407d - Charges for special services to purchasers of timber"
 usc_title: 25
 usc_section: "407d"
 chapter: 12
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 407d"
-generated_at: "2026-03-29T19:41:28.353Z"
+generated_at: "2026-03-29T19:59:16.299Z"
 ---
 
 # § 407d. Charges for special services to purchasers of timber

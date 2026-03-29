@@ -3,14 +3,14 @@ title: "Section 3902 - Assistance for providing automobile and adaptive equipmen
 usc_title: 38
 usc_section: "3902"
 chapter: 39
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3902"
-generated_at: "2026-03-29T19:43:27.041Z"
+generated_at: "2026-03-29T20:00:43.107Z"
 ---
 
 # § 3902. Assistance for providing automobile and adaptive equipment
 
-- **(a)** The Secretary, under regulations which the Secretary shall prescribe, shall provide or assist in providing an automobile or other conveyance to each eligible person by paying the total purchase price of the automobile or other conveyance (including all State, local, and other taxes) or $18,900 (as adjusted from time to time under subsection (e)), whichever is the lesser, to the seller from whom the eligible person is purchasing under a sales agreement between the seller and the eligible person.
+- **(a)** The Secretary, under regulations which the Secretary shall prescribe, shall provide or assist in providing an automobile or other conveyance to each eligible person by paying the total purchase price of the automobile or other conveyance (including all State, local, and other taxes) or $18,900 (as adjusted from time to time under subsection (e)), 1 1 See Special Benefit Allowance Rates note below. whichever is the lesser, to the seller from whom the eligible person is purchasing under a sales agreement between the seller and the eligible person.
 - **(b)**
   - **(1)** The Secretary, under regulations which the Secretary shall prescribe, shall provide each eligible person the adaptive equipment deemed necessary to insure that the eligible person will be able to operate the automobile or other conveyance in a manner consistent with such person’s own safety and the safety of others and so as to satisfy the applicable standards of licensure established by the State of such person’s residency or other proper licensing authority.
   - **(2)** In the case of any veteran (other that a person eligible for assistance under paragraph (1) of this subsection) who is entitled to compensation for ankylosis of one or both knees, or one or both hips, the Secretary, under the terms and conditions set forth in subsections (a), (c), and (d) of section 3903 of this title and under regulations which the Secretary shall prescribe, shall provide such adaptive equipment to overcome the disability resulting from such ankylosis as (A) is necessary to meet the applicable standards of licensure established by the State of such veteran’s residency or other proper licensing authority for the operation of such veteran’s automobile or other conveyance by such veteran, and (B) is determined to be necessary by the Under Secretary for Health for the safe operation of such automobile or other conveyance by such veteran.

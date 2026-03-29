@@ -3,9 +3,9 @@ title: "Section 11 - Rules, regulations, and orders of Commission"
 usc_title: 15
 usc_section: "11"
 chapter: 2
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 11"
-generated_at: "2026-03-29T19:44:42.581Z"
+generated_at: "2026-03-29T19:58:17.366Z"
 ---
 
 # § 80b–11. Rules, regulations, and orders of Commission

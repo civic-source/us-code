@@ -3,9 +3,9 @@ title: "Section 2410g - Renumbered § 4603]"
 usc_title: 10
 usc_section: "2410g"
 chapter: 141
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2410g"
-generated_at: "2026-03-29T19:43:37.980Z"
+generated_at: "2026-03-29T19:58:02.164Z"
 ---
 
 # [§ 2410g. Renumbered § 4603]

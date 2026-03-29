@@ -3,15 +3,15 @@ title: "Section 4704 - Barry Goldwater scholarship and excellence in education a
 usc_title: 20
 usc_section: "4704"
 chapter: 59
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 4704"
-generated_at: "2026-03-29T19:41:03.368Z"
+generated_at: "2026-03-29T19:58:56.853Z"
 ---
 
 # § 4704. Barry Goldwater scholarship and excellence in education awards
 
 - **(a)**
-  - **(1)** The Foundation may award cholarships, fellowships, and research internships to eligible persons for study in the fields of the natural sciences, engineering, and mathematics. Such scholarships and fellowships shall be awarded to persons as provided in this chapter who meet the minimum criteria established by the Foundation.
+  - **(1)** The Foundation may award scholarships, fellowships, and research internships to eligible persons for study in the fields of the natural sciences, engineering, and mathematics. Such scholarships, fellowships, and research internships shall be awarded to persons as provided in this chapter who meet the minimum criteria established by the Foundation.
   - **(2)** Scholarships shall be awarded to outstanding undergraduate students who intend to pursue careers in the natural sciences, engineering, and mathematics, which shall be prioritized for students attending community colleges and minority-serving institutions specified in section 1067q(a) of this title .
   - **(3)** Fellowships shall be awarded to outstanding graduate students who intend to pursue advanced degrees in the natural sciences, engineering, and mathematics.
   - **(4)** Research internships shall be awarded to outstanding undergraduate students who intend to pursue careers in the natural sciences, engineering, and mathematics, which shall be prioritized for students attending community colleges and minority-serving institutions specified in section 1067q(a) of this title .

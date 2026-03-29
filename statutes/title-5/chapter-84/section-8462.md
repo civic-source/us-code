@@ -3,9 +3,9 @@ title: "Section 8462 - Cost-of-living adjustments"
 usc_title: 5
 usc_section: "8462"
 chapter: 84
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 8462"
-generated_at: "2026-03-29T19:43:20.450Z"
+generated_at: "2026-03-29T19:57:14.995Z"
 ---
 
 # § 8462. Cost-of-living adjustments
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T19:43:20.450Z"
     - **(A)** An adjustment under subsection (b) for any year shall not be effective with respect to the annuity of an annuitant who is under 62 years of age as of the date on which such adjustment would otherwise first take effect.
     - **(B)**
       - **(i)** Except as provided in clause (ii), this paragraph applies only with respect to an annuitant under section 8412, 8413, or 8414.
-      - **(ii)** This paragraph does not apply with respect to an annuitant under subsection (d) or (e) of section 8412 or (in the case of an annuitant separated from service as a military reserve technician as a result of disability) under section 8414(c).
+      - **(ii)** This paragraph does not apply with respect to an annuitant under subsection (d)(1) or (e) of section 8412 or (in the case of an annuitant separated from service as a military reserve technician as a result of disability) under section 8414(c).
   - **(4)** The first increase (if any) made under subsection (b) to an annuity which is payable from the Fund to a widow or widower whose annuity is computed under section 8442(g) shall be equal to the product (adjusted to the nearest one-tenth of 1 percent) of—
     - **(A)** one-twelfth of the applicable percent change computed under subsection (b), multiplied by
     - **(B)** the number of months (not to exceed 12 months, counting any portion of a month as a month) since—

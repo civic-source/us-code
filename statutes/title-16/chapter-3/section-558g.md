@@ -3,9 +3,9 @@ title: "Section 558g - Liability insurance"
 usc_title: 16
 usc_section: "558g"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 558g"
-generated_at: "2026-03-29T02:11:53.606Z"
+generated_at: "2026-03-29T19:59:08.135Z"
 ---
 
 # § 558g. Liability insurance

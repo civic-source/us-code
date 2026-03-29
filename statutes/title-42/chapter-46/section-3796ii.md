@@ -1,20 +1,12 @@
 ---
-title: "Section 3796ii - Grant authority"
+title: "Section 3796ii - Transferred"
 usc_title: 42
 usc_section: "3796ii"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3796ii"
-generated_at: "2026-03-29T19:31:45.127Z"
+generated_at: "2026-03-29T20:00:54.884Z"
 ---
 
-# § 3796ii. Grant authority
+# § 3796ii. Transferred
 
-The Attorney General shall make grants to States, State courts, local courts, units of local government, and Indian tribal governments, acting directly or through agreements with other public or nonprofit entities, for not more than 100 programs that involve—
-
-  - **(1)** continuing judicial supervision, including periodic review, over preliminarily qualified offenders with mental illness, mental retardation, or co-occurring mental illness and substance abuse disorders, who are charged with misdemeanors or nonviolent offenses; and
-  - **(2)** the coordinated delivery of services, which includes—
-    - **(A)** specialized training of law enforcement and judicial personnel to identify and address the unique needs of a mentally ill or mentally retarded offender;
-    - **(B)** voluntary outpatient or inpatient mental health treatment, in the least restrictive manner appropriate, as determined by the court, that carries with it the possibility of dismissal of charges or reduced sentencing upon successful completion of treatment;
-    - **(C)** centralized case management involving the consolidation of all of a mentally ill or mentally retarded defendant’s cases, including violations of probation, and the coordination of all mental health treatment plans and social services, including life skills training, such as housing placement, vocational training, education, job placement, health care, and relapse prevention for each participant who requires such services; and
-    - **(D)** continuing supervision of treatment plan compliance for a term not to exceed the maximum allowable sentence or probation for the charged or relevant offense and, to the extent practicable, continuity of psychiatric care at the end of the supervised period.

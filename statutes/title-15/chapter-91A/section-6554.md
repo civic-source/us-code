@@ -3,9 +3,9 @@ title: "Section 6554 - Online Safety and Technology working group"
 usc_title: 15
 usc_section: "6554"
 chapter: 91
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 6554"
-generated_at: "2026-03-29T19:44:42.916Z"
+generated_at: "2026-03-29T19:58:17.870Z"
 ---
 
 # § 6554. Online Safety and Technology working group
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T19:44:42.916Z"
 - **(b)** Within 1 year after the working group is first convened, it shall submit a report to the Assistant Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Energy and Commerce of the House of Representatives that—
   - **(1)** describes in detail its findings, including any information related to the effectiveness of such strategies and technologies and any information about the prevalence within industry of educational campaigns, parental control technologies, blocking and filtering software, labeling, or other technologies to assist parents; and
   - **(2)** includes recommendations as to what types of incentives could be used or developed to increase the effectiveness and implementation of such strategies and technologies.
-- **(c)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group.
+- **(c)** Chapter 10 of title 5 shall not apply to the working group.

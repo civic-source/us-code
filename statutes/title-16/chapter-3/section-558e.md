@@ -3,9 +3,9 @@ title: "Section 558e - Consideration as Federal employee"
 usc_title: 16
 usc_section: "558e"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 558e"
-generated_at: "2026-03-29T02:11:53.606Z"
+generated_at: "2026-03-29T19:59:08.135Z"
 ---
 
 # § 558e. Consideration as Federal employee

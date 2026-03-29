@@ -1,14 +1,12 @@
 ---
-title: "Section 16982 - Assistance for prosecution of cases cleared through use of DNA backlog clearance funds"
+title: "Section 16982 - Transferred"
 usc_title: 42
 usc_section: "16982"
 chapter: 151
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 16982"
-generated_at: "2026-03-29T19:31:45.868Z"
+generated_at: "2026-03-29T20:00:55.591Z"
 ---
 
-# § 16982. Assistance for prosecution of cases cleared through use of DNA backlog clearance funds
+# § 16982. Transferred
 
-- **(a)** The Attorney General may make grants to train and employ personnel to help prosecute cases cleared through use of funds provided for DNA backlog elimination.
-- **(b)** There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2007 through 2011 to carry out this section.

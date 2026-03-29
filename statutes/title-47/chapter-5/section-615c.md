@@ -3,9 +3,9 @@ title: "Section 615c - Emergency Access Advisory Committee"
 usc_title: 47
 usc_section: "615c"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "47 U.S.C. § 615c"
-generated_at: "2026-03-29T19:44:37.235Z"
+generated_at: "2026-03-29T20:01:01.603Z"
 ---
 
 # § 615c. Emergency Access Advisory Committee
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T19:44:37.235Z"
   - **(1)** One-third of the members of the Advisory Committee shall constitute a quorum for conducting business of the Advisory Committee.
   - **(2)** To assist the Advisory Committee in carrying out its functions, the chair may establish appropriate subcommittees composed of members of the Advisory Committee and other subject matter experts as determined to be necessary.
   - **(3)** The Advisory Committee may adopt other rules as needed.
-- **(f)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee.
+- **(f)** Chapter 10 of title 5 shall not apply to the Advisory Committee.
 - **(g)** The Commission shall have the authority to promulgate regulations to implement the recommendations proposed by the Advisory Committee, as well as any other regulations, technical standards, protocols, and procedures as are necessary to achieve reliable, interoperable communication that ensures access by individuals with disabilities to an Internet protocol-enabled emergency network, where achievable and technically feasible.
 - **(h)** In this section—
   - **(1)** the term “Commission” means the Federal Communications Commission;

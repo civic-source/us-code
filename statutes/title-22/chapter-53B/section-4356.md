@@ -3,9 +3,9 @@ title: "Section 4356 - Advisory Committee"
 usc_title: 22
 usc_section: "4356"
 chapter: 53
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 4356"
-generated_at: "2026-03-29T19:42:08.189Z"
+generated_at: "2026-03-29T19:59:24.225Z"
 ---
 
 # § 4356. Advisory Committee
@@ -33,4 +33,4 @@ generated_at: "2026-03-29T19:42:08.189Z"
     - **(A)** shall each receive compensation at a rate of not to exceed the daily equivalent of the annual rate of basic pay payable for positions at GS–15 of the General Schedule under section 5332 of title 5 for each day such member is engaged in the actual performance of the duties of the Advisory Committee; and
     - **(B)** shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services of the Advisory Committee.
   - **(2)** The Secretary of State is authorized to provide for necessary secretarial and staff assistance for the Advisory Committee.
-  - **(3)** The Federal Advisory Committee Act shall not apply to the Advisory Committee to the extent that the provisions of this chapter are inconsistent with that Act.
+  - **(3)** Chapter 10 of title 5 shall not apply to the Advisory Committee to the extent that the provisions of this chapter are inconsistent with that chapter.

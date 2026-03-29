@@ -1,12 +1,12 @@
 ---
-title: "Section 2533e - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881(a) , Jan. 1, 2021 , 134 Stat. 4293 ]"
+title: "Section 2533e - Renumbered § 4875]"
 usc_title: 10
 usc_section: "2533e"
 chapter: 148
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2533e"
-generated_at: "2026-03-29T19:43:37.989Z"
+generated_at: "2026-03-29T19:58:02.174Z"
 ---
 
-# [§ 2533e. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881(a) , Jan. 1, 2021 , 134 Stat. 4293 ]
+# [§ 2533e. Renumbered § 4875]
 

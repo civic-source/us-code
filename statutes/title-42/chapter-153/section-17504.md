@@ -1,16 +1,12 @@
 ---
-title: "Section 17504 - Rule of construction"
+title: "Section 17504 - Transferred"
 usc_title: 42
 usc_section: "17504"
 chapter: 153
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 17504"
-generated_at: "2026-03-29T19:31:45.904Z"
+generated_at: "2026-03-29T20:00:55.632Z"
 ---
 
-# § 17504. Rule of construction
+# § 17504. Transferred
 
-Nothing in this Act or an amendment made by this Act shall be construed as creating a right or entitlement to assistance or services for any individual, program, or grant recipient. Each grant made under this Act or an amendment made by this Act shall—
-
-  - **(1)** be made as competitive grants 1 1 So in original. Probably should be “a competitive grant”. to eligible entities for a 12-month period, except that grants awarded under section 113 2 2 See References in Text note below. , section 17521 of this title , section 17531 of this title , and section 17532 of this title may be made for a 24-month period; and
-  - **(2)** require that services for participants, when necessary and appropriate, be transferred from programs funded under this Act or the amendment made by this Act, respectively, to State and community-based programs not funded under this Act or the amendment made by this Act, respectively, before the expiration of the grant.

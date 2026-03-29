@@ -1,16 +1,12 @@
 ---
-title: "Section 16924 - Period for implementation by jurisdictions"
+title: "Section 16924 - Transferred"
 usc_title: 42
 usc_section: "16924"
 chapter: 151
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 16924"
-generated_at: "2026-03-29T19:31:45.864Z"
+generated_at: "2026-03-29T20:00:55.590Z"
 ---
 
-# § 16924. Period for implementation by jurisdictions
+# § 16924. Transferred
 
-- **(a)** Each jurisdiction shall implement this subchapter before the later of—
-  - **(1)** 3 years after July 27, 2006 ; and
-  - **(2)** 1 year after the date on which the software described in section 16923 of this title is available.
-- **(b)** The Attorney General may authorize up to two 1-year extensions of the deadline.

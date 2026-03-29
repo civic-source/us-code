@@ -3,9 +3,9 @@ title: "Section 2344 - Safety assurance review"
 usc_title: 33
 usc_section: "2344"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2344"
-generated_at: "2026-03-29T19:43:07.713Z"
+generated_at: "2026-03-29T20:00:31.407Z"
 ---
 
 # § 2344. Safety assurance review
@@ -23,4 +23,4 @@ generated_at: "2026-03-29T19:43:07.713Z"
 - **(d)** A safety assurance review under this section shall include a review of the design and construction activities prior to the initiation of physical construction and periodically thereafter until construction activities are completed on a regular schedule sufficient to inform the Chief of Engineers on the adequacy, appropriateness, and acceptability of the design and construction activities for the purpose of assuring public health, safety, and welfare. The Chief of Engineers shall ensure that reviews under this section do not create any unnecessary delays in design and construction activities.
 - **(e)** The written recommendations of a reviewer or panel of reviewers under this section and the responses of the Chief of Engineers shall be available to the public, including through electronic means on the Internet.
 - **(f)** This section shall apply to any project in design or under construction on November 8, 2007 , and to any project with respect to which design or construction is initiated during the period beginning on November 8, 2007 , and ending 7 years after November 8, 2007 .
-- **(g)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a safety assurance review conducted under this section.
+- **(g)** Chapter 10 of title 5 shall not apply to a safety assurance review conducted under this section.

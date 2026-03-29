@@ -3,9 +3,9 @@ title: "Section 7425 - Measures to prevent economic disruption or unemployment"
 usc_title: 42
 usc_section: "7425"
 chapter: 85
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7425"
-generated_at: "2026-03-29T19:31:45.385Z"
+generated_at: "2026-03-29T20:00:55.139Z"
 ---
 
 # § 7425. Measures to prevent economic disruption or unemployment
@@ -18,11 +18,11 @@ generated_at: "2026-03-29T19:31:45.385Z"
     - **(B)** petroleum products,
     - **(C)** natural gas, or
     - **(D)** any combination of fuels referred to in subparagraphs (A) through (C),
-- **(b)** Upon a determination under subsection (a) of this section—
+- **(b)** Upon a determination under subsection (a)—
   - **(1)** such Governor, with the written consent of the President or his designee,
   - **(2)** the President’s designee with the written consent of such Governor, or
   - **(3)** the President
-- **(c)** The Governor, in the case of action under subsection (b)(1) of this section, or the Administrator, in the case of an action under subsection (b)(2) or (3) of this section shall, by rule or order, require each source to which such action applies to—
+- **(c)** The Governor, in the case of action under subsection (b)(1), or the Administrator, in the case of an action under subsection (b)(2) or (3) shall, by rule or order, require each source to which such action applies to—
   - **(1)** enter into long-term contracts of at least ten years in duration (except as the President or his designee may otherwise permit or require by rule or order for good cause) for supplies of regionally available coal or coal derivatives,
   - **(2)** enter into contracts to acquire any additional means of emission limitation which the Administrator or the State determines may be necessary to comply with the requirements of this chapter while using such coal or coal derivatives as fuel, and
   - **(3)** comply with such schedules (including increments of progress), timetables and other requirements as may be necessary to assure compliance with the requirements of this chapter.
@@ -30,6 +30,6 @@ generated_at: "2026-03-29T19:31:45.385Z"
   - **(1)** which have the design capacity to produce 250,000,000 Btu’s per hour (or its equivalent), as determined by the Administrator, and
   - **(2)** which are not in compliance with the requirements of an applicable implementation plan or which are prohibited from burning oil or natural gas, or both, under any other authority of law.
 - **(e)** Except as may otherwise be provided by rule by the State or the Administrator for good cause, any action required to be taken by a major fuel burning stationary source under this section shall not be deemed to constitute a modification for purposes of section 7411(a)(2) and (4) of this title.
-- **(f)** For purposes of sections 7413 and 7420 of this title a prohibition under subsection (b) of this section, and a corresponding rule or order under subsection (c) of this section, shall be treated as a requirement of section 7413 of this title . For purposes of any plan (or portion thereof) promulgated under section 7410(c) of this title , any rule or order under subsection (c) of this section corresponding to a prohibition under subsection (b) of this section, shall be treated as a part of such plan. For purposes of section 7413 of this title , a prohibition under subsection (b) of this section, applicable to any source, and a corresponding rule or order under subsection (c) of this section, shall be treated as part of the applicable implementation plan for the State in which subject source is located.
+- **(f)** For purposes of sections 7413 and 7420 of this title a prohibition under subsection (b), and a corresponding rule or order under subsection (c), shall be treated as a requirement of section 7413 of this title . For purposes of any plan (or portion thereof) promulgated under section 7410(c) of this title , any rule or order under subsection (c) corresponding to a prohibition under subsection (b), shall be treated as a part of such plan. For purposes of section 7413 of this title , a prohibition under subsection (b), applicable to any source, and a corresponding rule or order under subsection (c), shall be treated as part of the applicable implementation plan for the State in which subject source is located.
 - **(g)** The President may delegate his authority under this section to an officer or employee of the United States designated by him on a case-by-case basis or in any other manner he deems suitable.
 - **(h)** For the purpose of this section the term “locally or regionally available coal or coal derivatives” means coal or coal derivatives which is, or can in the judgment of the State or the Administrator feasibly be, mined or produced in the local or regional area (as determined by the Administrator) in which the major fuel burning stationary source is located.

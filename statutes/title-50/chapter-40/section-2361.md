@@ -3,9 +3,9 @@ title: "Section 2361 - Sense of Congress concerning contracting policy"
 usc_title: 50
 usc_section: "2361"
 chapter: 40
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 2361"
-generated_at: "2026-03-29T19:44:52.796Z"
+generated_at: "2026-03-29T20:01:07.280Z"
 ---
 
 # § 2361. Sense of Congress concerning contracting policy

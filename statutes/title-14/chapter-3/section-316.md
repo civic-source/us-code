@@ -3,9 +3,9 @@ title: "Section 316 - National Coast Guard Museum"
 usc_title: 14
 usc_section: "316"
 chapter: 3
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "14 U.S.C. § 316"
-generated_at: "2026-03-29T19:45:04.296Z"
+generated_at: "2026-03-29T19:58:08.496Z"
 ---
 
 # § 316. National Coast Guard Museum
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T19:45:04.296Z"
   - **(1)** estimated planning, engineering, design, construction, operation, and maintenance costs;
   - **(2)** the extent to which appropriated, nonappropriated, and non-Federal funds will be used for such purposes, including the extent to which there is any shortfall in funding for engineering, design, or construction;
   - **(3)** an explanation of any environmental remediation issues related to the land associated with the Museum; and
-  - **(4)** a certification by the Inspector General of the department in which the Coast Guard is operating that the estimates provided pursuant to paragraphs (1) and (2) are reasonable and realistic.
+  - **(4)** a certification by a third party entity qualified to undertake such a certification process that the estimates provided pursuant to paragraphs (1) and (2) are reasonable and realistic.
 - **(d)**
   - **(1)** The Association may construct the Museum described in subsection (a).
   - **(2)** The Museum shall be designed and constructed in compliance with the International Building Code 2018, and construction performed on Federal land under this section shall be exempt from State and local requirements for building or demolition permits.

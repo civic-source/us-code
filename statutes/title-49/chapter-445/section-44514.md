@@ -1,16 +1,12 @@
 ---
-title: "Section 44514 - Flight service stations"
+title: "Section 44514 - Repealed. Pub. L. 118–63, title III, § 337 , May 16, 2024 , 138 Stat. 1093"
 usc_title: 49
 usc_section: "44514"
 chapter: 445
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 44514"
-generated_at: "2026-03-29T19:44:57.993Z"
+generated_at: "2026-03-29T20:01:14.979Z"
 ---
 
-# § 44514. Flight service stations
+# § 44514. Repealed. Pub. L. 118–63, title III, § 337 , May 16, 2024 , 138 Stat. 1093
 
-- **(a)**
-  - **(1)** The Secretary of Transportation may close, or reduce the hours of operation of, a flight service station in an area only if the service provided in the area after the closing or during the hours the station is not in operation is provided by an automated flight service station with at least model 1 equipment.
-  - **(2)** The Secretary shall reopen a flight service station closed after March 24, 1987 , but before July 15, 1987 , as soon as practicable if the service in the area in which the station is located has not been provided since the closing by an automatic flight service station with at least model 1 equipment. The hours of operation for the reopened station shall be the same as were the hours of operation for the station on March 25, 1987 . After reopening the station, the Secretary may close, or reduce the hours of operation of, the station only as provided in paragraph (1) of this subsection.
-- **(b)** The Secretary and the Administrator of the Federal Aviation Administration shall establish a system of manned auxiliary flight service stations. The manned auxiliary flight service stations shall supplement the services of the planned consolidation to 61 automated flight service stations under the flight service station modernization program. A manned auxiliary flight service station shall be located in an area of unique weather or operational conditions that are critical to the safety of flight.

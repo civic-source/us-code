@@ -3,12 +3,12 @@ title: "Section 12402 - Authorization of appropriations"
 usc_title: 34
 usc_section: "12402"
 chapter: 121
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 12402"
-generated_at: "2026-03-29T19:42:53.131Z"
+generated_at: "2026-03-29T20:00:27.447Z"
 ---
 
 # § 12402. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this part $3,000,000 for fiscal years 2014 through 2018.
+There is authorized to be appropriated to carry out this part $3,000,000 for fiscal years 2023 through 2027.
 

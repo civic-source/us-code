@@ -3,9 +3,9 @@ title: "Section 2229a - Staffing for adequate fire and emergency response"
 usc_title: 15
 usc_section: "2229a"
 chapter: 49
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 2229a"
-generated_at: "2026-03-29T19:44:42.812Z"
+generated_at: "2026-03-29T19:58:17.767Z"
 ---
 
 # § 2229a. Staffing for adequate fire and emergency response
@@ -73,11 +73,8 @@ generated_at: "2026-03-29T19:44:42.812Z"
     - **(D)** $1,093,000,000 for fiscal year 2007;
     - **(E)** $1,126,000,000 for fiscal year 2008;
     - **(F)** $1,159,000,000 for fiscal year 2009;
-    - **(G)** $1,194,000,000 for fiscal year 2010;
-    - **(H)** $750,000,000 for fiscal year 2013; and
-    - **(I)** for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
-      - **(i)** the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds
-      - **(ii)** the Consumer Price Index for the fiscal year preceding the fiscal year described in subparagraph (A).
+    - **(G)** $1,194,000,000 for fiscal year 2010; and
+    - **(H)** $750,000,000 for each of fiscal years 2024 through 2028.
   - **(2)** Of the amounts appropriated pursuant to paragraph (1) for a fiscal year, the Administrator of FEMA may use not more than 5 percent of such amounts to cover salaries and expenses and other administrative costs incurred by the Administrator of FEMA to make grants and provide assistance under this section.
   - **(3)** Consistent with the requirement in subsection (a) that grants under this section be awarded on a competitive basis, none of the funds appropriated pursuant to this subsection may be used for any congressionally direct spending item (as defined under the rules of the Senate and the House of Representatives).
-- **(k)** The authority to award assistance and grants under this section shall expire on September 30, 2024 .
+- **(k)** The authority to award assistance and grants under this section shall expire on September 30, 2030 .

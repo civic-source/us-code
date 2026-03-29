@@ -3,9 +3,9 @@ title: "Section 6 - Free passage to harbor of Michigan City, Indiana"
 usc_title: 33
 usc_section: "6"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 6"
-generated_at: "2026-03-29T19:43:07.542Z"
+generated_at: "2026-03-29T20:00:31.217Z"
 ---
 
 # § 6. Free passage to harbor of Michigan City, Indiana

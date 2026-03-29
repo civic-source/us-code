@@ -3,9 +3,9 @@ title: "Section 21109 - Regulatory authority"
 usc_title: 49
 usc_section: "21109"
 chapter: 211
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 21109"
-generated_at: "2026-03-29T19:44:57.907Z"
+generated_at: "2026-03-29T20:01:14.875Z"
 ---
 
 # § 21109. Regulatory authority

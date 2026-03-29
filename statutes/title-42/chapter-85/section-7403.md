@@ -3,9 +3,9 @@ title: "Section 7403 - Research, investigation, training, and other activities"
 usc_title: 42
 usc_section: "7403"
 chapter: 85
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7403"
-generated_at: "2026-03-29T19:31:45.367Z"
+generated_at: "2026-03-29T20:00:55.119Z"
 ---
 
 # § 7403. Research, investigation, training, and other activities
@@ -25,10 +25,10 @@ generated_at: "2026-03-29T19:31:45.367Z"
   - **(6)** collect and disseminate, in cooperation with other Federal departments and agencies, and with other public or private agencies, institutions, and organizations having related responsibilities, basic data on chemical, physical, and biological effects of varying air quality and other information pertaining to air pollution and the prevention and control thereof;
   - **(7)** develop effective and practical processes, methods, and prototype devices for the prevention or control of air pollution; and
   - **(8)** construct facilities, provide equipment, and employ staff as necessary to carry out this chapter.
-- **(c)** In carrying out subsection (a) of this section, the Administrator shall conduct a program of research, testing, and development of methods for sampling, measurement, monitoring, analysis, and modeling of air pollutants. Such program shall include the following elements:
+- **(c)** In carrying out subsection (a), the Administrator shall conduct a program of research, testing, and development of methods for sampling, measurement, monitoring, analysis, and modeling of air pollutants. Such program shall include the following elements:
   - **(1)** Consideration of individual, as well as complex mixtures of, air pollutants and their chemical transformations in the atmosphere.
   - **(2)** Establishment of a national network to monitor, collect, and compile data with quantification of certainty in the status and trends of air emissions, deposition, air quality, surface water quality, forest condition, and visibility impairment, and to ensure the comparability of air quality data collected in different States and obtained from different nations.
-  - **(3)** Development of improved methods and technologies for sampling, measurement, monitoring, analysis, and modeling to increase understanding of the sources of ozone percursors, 1 1 So in original. Probably should be “precursors,”. ozone formation, ozone transport, regional influences on urban ozone, regional ozone trends, and interactions of ozone with other pollutants. Emphasis shall be placed on those techniques which—
+  - **(3)** Development of improved methods and technologies for sampling, measurement, monitoring, analysis, and modeling to increase understanding of the sources of ozone precursors, ozone formation, ozone transport, regional influences on urban ozone, regional ozone trends, and interactions of ozone with other pollutants. Emphasis shall be placed on those techniques which—
     - **(A)** improve the ability to inventory emissions of volatile organic compounds and nitrogen oxides that contribute to urban air pollution, including anthropogenic and natural sources;
     - **(B)** improve the understanding of the mechanism through which anthropogenic and biogenic volatile organic compounds react to form ozone and other oxidants; and
     - **(C)** improve the ability to identify and evaluate region-specific prevention and control options for ozone pollution.
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T19:31:45.367Z"
       - **(i)** an examination, summary, and evaluation of available toxicological and epidemiological information for the pollutant to ascertain the levels of human exposure which pose a significant threat to human health and the associated acute, subacute, and chronic adverse health effects;
       - **(ii)** a determination of gaps in available information related to human health effects and exposure levels; and
       - **(iii)** where appropriate, an identification of additional activities, including toxicological and inhalation testing, needed to identify the types or levels of exposure which may present significant risk of adverse health effects in humans.
-- **(e)** In carrying out subsection (a) of this section, the Administrator, in cooperation, where appropriate, with the Under Secretary of Commerce for Oceans and Atmosphere, the Director of the Fish and Wildlife Service, and the Secretary of Agriculture, shall conduct a research program to improve understanding of the short-term and long-term causes, effects, and trends of ecosystems damage from air pollutants on ecosystems. Such program shall include the following elements:
+- **(e)** In carrying out subsection (a), the Administrator, in cooperation, where appropriate, with the Under Secretary of Commerce for Oceans and Atmosphere, the Director of the Fish and Wildlife Service, and the Secretary of Agriculture, shall conduct a research program to improve understanding of the short-term and long-term causes, effects, and trends of ecosystems damage from air pollutants on ecosystems. Such program shall include the following elements:
   - **(1)** Identification of regionally representative and critical ecosystems for research.
   - **(2)** Evaluation of risks to ecosystems exposed to air pollutants, including characterization of the causes and effects of chronic and episodic exposures to air pollutants and determination of the reversibility of those effects.
   - **(3)** Development of improved atmospheric dispersion models and monitoring systems and networks for evaluating and quantifying exposure to and effects of multiple environmental stresses associated with air pollution.
@@ -66,11 +66,57 @@ generated_at: "2026-03-29T19:31:45.367Z"
       - **(ii)** the application of such methodology to current dense gas dispersion models using data generated from field experiments; and
     - **(C)** evaluate the effectiveness of hazard mitigation and emergency response technology for fixed site and transportation related accidental releases of toxic chemicals.
   - **(3)** The Secretary of Energy shall make available to interested persons (including other Federal agencies and businesses) the use of the Liquefied Gaseous Fuels Spill Test Facility to conduct research and other activities in connection with the activities described in this subsection.
-- **(g)** In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
-  - **(1)** Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
-  - **(2)** Improvements in nonregulatory strategies and technologies for reducing air emissions from area sources.
-  - **(3)** Improvements in nonregulatory strategies and technologies for preventing, detecting, and correcting accidental releases of hazardous air pollutants.
-  - **(4)** Improvements in nonregulatory strategies and technologies that dispose of tires in ways that avoid adverse air quality impacts.
+- **(g)**
+  - **(1)** In carrying out subsection (a), the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention.
+  - **(2)** Such strategies and technologies described in paragraph (1) shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, States, institutions of higher education, and other interested persons in the development of such strategies and technologies.
+  - **(3)** The program under this subsection shall include the following elements:
+    - **(A)** Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
+    - **(B)** Improvements in nonregulatory strategies and technologies for reducing air emissions from area sources.
+    - **(C)** Improvements in nonregulatory strategies and technologies for preventing, detecting, and correcting accidental releases of hazardous air pollutants.
+    - **(D)** Improvements in nonregulatory strategies and technologies that dispose of tires in ways that avoid adverse air quality impacts.
+  - **(4)** Nothing in this subsection shall be construed to authorize the imposition on any person of air pollution control requirements.
+  - **(5)** The Administrator shall consult with other appropriate Federal agencies to ensure coordination and to avoid duplication of activities authorized under this subsection.
+  - **(6)**
+    - **(A)** In carrying out paragraph (3)(A) with respect to carbon dioxide, the Administrator—
+      - **(i)** is authorized to carry out the activities described in subparagraph (B); and
+      - **(ii)** shall carry out the activities described in subparagraph (C).
+    - **(B)**
+      - **(i)** In this subparagraph:
+        - **(I)** The term “Board” means the Direct Air Capture Technology Advisory Board established by clause (iii)(I).
+        - **(II)** The term “dilute” means a concentration of less than 1 percent by volume.
+        - **(III)**
+        - **(IV)** The term “intellectual property” means—
+      - **(ii)**
+        - **(I)** Not later than 1 year after December 27, 2020 , the Administrator, in consultation with the Secretary of Energy, is authorized to establish a program to provide financial awards on a competitive basis for direct air capture from media in which the concentration of carbon dioxide is dilute.
+        - **(II)** In carrying out this clause, the Administrator shall—
+        - **(III)** In carrying out subclause (II)(aa), the Administrator shall—
+      - **(iii)**
+        - **(I)** The Administrator may establish an advisory board to be known as the “Direct Air Capture Technology Advisory Board”.
+        - **(II)** The Board, on the establishment of the Board, shall be composed of 9 members appointed by the Administrator, who shall provide expertise in—
+        - **(III)**
+        - **(IV)** Not later than 30 days after the date on which all members of the Board have been appointed, the Board shall hold the initial meeting of the Board.
+        - **(V)** The Board shall meet at the call of the Chairperson or on the request of the Administrator.
+        - **(VI)** A majority of the members of the Board shall constitute a quorum, but a lesser number of members may hold hearings.
+        - **(VII)** The Board shall select a Chairperson and Vice Chairperson from among the members of the Board.
+        - **(VIII)** Each member of the Board may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level V of the Executive Schedule under section 5316 of title 5 for each day during which the member is engaged in the actual performance of the duties of the Board.
+        - **(IX)** The Board shall—
+      - **(iv)**
+        - **(I)** As a condition of receiving a financial award under this subparagraph, an applicant shall agree to vest the intellectual property of the applicant derived from the technology in 1 or more entities that are incorporated in the United States.
+        - **(II)** The United States—
+        - **(III)** Title to any intellectual property described in subclause (I) shall not be transferred or passed, except to an entity that is incorporated in the United States, until the expiration of the first patent obtained in connection with the intellectual property.
+      - **(v)** There is authorized to be appropriated to carry out this subparagraph $35,000,000, to remain available until expended.
+      - **(vi)** Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), 1 1 See References in Text note below. the Board and all authority provided under this subparagraph shall terminate not later than 12 years after December 27, 2020 .
+    - **(C)**
+      - **(i)**
+        - **(I)** In this subparagraph, the term “deep saline formation” means a formation of subsurface geographically extensive sedimentary rock layers saturated with waters or brines that have a high total dissolved solids content and that are below the depth where carbon dioxide can exist in the formation as a supercritical fluid.
+        - **(II)** In this subparagraph, the term “deep saline formation” does not include oil and gas reservoirs.
+      - **(ii)** In consultation with the Secretary of Energy, and, as appropriate, with the head of any other relevant Federal agency and relevant stakeholders, not later than 1 year after December 27, 2020 , the Administrator shall prepare, submit to Congress, and make publicly available a report that includes—
+        - **(I)** a comprehensive identification of potential risks and benefits to project developers associated with increased storage of carbon dioxide captured from stationary sources in deep saline formations, using existing research;
+        - **(II)** recommendations for managing the potential risks identified under subclause (I), including potential risks unique to public land; and
+        - **(III)** recommendations for Federal legislation or other policy changes to mitigate any potential risks identified under subclause (I).
+    - **(D)** Not later than 5 years after December 27, 2020 , the Comptroller General of the United States shall submit to Congress a report that—
+      - **(i)** identifies all Federal grant programs in which a purpose of a grant under the program is to perform research on carbon capture and utilization technologies, including direct air capture technologies; and
+      - **(ii)** examines the extent to which the Federal grant programs identified pursuant to clause (i) overlap or are duplicative.
 - **(h)**
   - **(1)** The Director of the National Institute of Environmental Health Sciences may conduct a program of basic research to identify, characterize, and quantify risks to human health from air pollutants. Such research shall be conducted primarily through a combination of university and medical school-based grants, as well as through intramural studies and contracts.
   - **(2)** The Director of the National Institute of Environmental Health Sciences shall conduct a program for the education and training of physicians in environmental health.
@@ -78,8 +124,8 @@ generated_at: "2026-03-29T19:31:45.367Z"
   - **(4)** There are authorized to be appropriated to the National Institute of Environmental Health Sciences such sums as may be necessary to carry out the purposes of this subsection.
 - **(i)** The Administrator shall develop and implement a plan for identifying areas in which activities authorized under this section can be carried out in conjunction with other Federal ecological and air pollution research efforts. The plan, which shall be submitted to Congress within 6 months after November 15, 1990 , shall include—
   - **(1)** an assessment of ambient monitoring stations and networks to determine cost effective ways to expand monitoring capabilities in both urban and rural environments;
-  - **(2)** a consideration of the extent of the feasibility and scientific value of conducting the research program under subsection (e) of this section to include consideration of the effects of atmospheric processes and air pollution effects; and
-  - **(3)** a methodology for evaluating and ranking pollution prevention technologies, such as those developed under subsection (g) of this section, in terms of their ability to reduce cost effectively the emissions of air pollutants and other airborne chemicals of concern.
+  - **(2)** a consideration of the extent of the feasibility and scientific value of conducting the research program under subsection (e) to include consideration of the effects of atmospheric processes and air pollution effects; and
+  - **(3)** a methodology for evaluating and ranking pollution prevention technologies, such as those developed under subsection (g), in terms of their ability to reduce cost effectively the emissions of air pollutants and other airborne chemicals of concern.
 - **(j)**
   - **(1)** The acid precipitation research program set forth in the Acid Precipitation Act of 1980 [ 42 U.S.C. 8901 et seq.] shall be continued with modifications pursuant to this subsection.
   - **(2)** The Acid Precipitation Task Force shall consist of the Administrator of the Environmental Protection Agency, the Secretary of Energy, the Secretary of the Interior, the Secretary of Agriculture, the Administrator of the National Oceanic and Atmospheric Administration, the Administrator of the National Aeronautics and Space Administration, and such additional members as the President may select. The President shall appoint a chairman for the Task Force from among its members within 30 days after November 15, 1990 .

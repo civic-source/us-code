@@ -3,9 +3,9 @@ title: "Section 12143 - Paratransit as a complement to fixed route service"
 usc_title: 42
 usc_section: "12143"
 chapter: 126
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 12143"
-generated_at: "2026-03-29T19:31:45.634Z"
+generated_at: "2026-03-29T20:00:55.396Z"
 ---
 
 # § 12143. Paratransit as a complement to fixed route service

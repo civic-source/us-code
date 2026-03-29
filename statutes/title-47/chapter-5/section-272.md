@@ -3,9 +3,9 @@ title: "Section 272 - Separate affiliate; safeguards"
 usc_title: 47
 usc_section: "272"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "47 U.S.C. § 272"
-generated_at: "2026-03-29T19:44:37.178Z"
+generated_at: "2026-03-29T20:01:01.548Z"
 ---
 
 # § 272. Separate affiliate; safeguards

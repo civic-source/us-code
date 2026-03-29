@@ -1,12 +1,12 @@
 ---
-title: "Section 7385o - Repealed. Pub. L. 108–375, div. C, title XXXI , § 3162(i), Oct. 28, 2004 , 118 Stat. 2186"
+title: "Section 7385o - Repealed. Pub. L. 108–375, div. C, title XXXI, § 3162(i) , Oct. 28, 2004 , 118 Stat. 2186"
 usc_title: 42
 usc_section: "7385o"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7385o"
-generated_at: "2026-03-29T19:31:45.365Z"
+generated_at: "2026-03-29T20:00:55.117Z"
 ---
 
-# § 7385o. Repealed. Pub. L. 108–375, div. C, title XXXI , § 3162(i), Oct. 28, 2004 , 118 Stat. 2186
+# § 7385o. Repealed. Pub. L. 108–375, div. C, title XXXI, § 3162(i) , Oct. 28, 2004 , 118 Stat. 2186
 

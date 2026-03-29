@@ -3,9 +3,9 @@ title: "Section 852 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 15
 usc_section: "852"
 chapter: 17
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 852"
-generated_at: "2026-03-29T19:44:42.694Z"
+generated_at: "2026-03-29T19:58:17.656Z"
 ---
 
 # §§ 828 to 852. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 649 , 651

@@ -3,9 +3,9 @@ title: "Section 311 - Definitions"
 usc_title: 5
 usc_section: "311"
 chapter: 3
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 311"
-generated_at: "2026-03-29T19:43:20.296Z"
+generated_at: "2026-03-29T19:57:14.836Z"
 ---
 
 # § 311. Definitions

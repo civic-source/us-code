@@ -3,9 +3,9 @@ title: "Section 10173 - Marine Forces Reserve"
 usc_title: 10
 usc_section: "10173"
 chapter: 1006
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 10173"
-generated_at: "2026-03-29T19:43:38.141Z"
+generated_at: "2026-03-29T19:58:02.353Z"
 ---
 
 # § 10173. Marine Forces Reserve

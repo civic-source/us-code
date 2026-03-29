@@ -3,9 +3,9 @@ title: "Section 2419 - Administration"
 usc_title: 19
 usc_section: "2419"
 chapter: 12
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 2419"
-generated_at: "2026-03-29T19:41:21.629Z"
+generated_at: "2026-03-29T19:58:51.779Z"
 ---
 
 # § 2419. Administration

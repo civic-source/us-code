@@ -3,15 +3,15 @@ title: "Section 2077a - Interagency review of applications for the transfer of U
 usc_title: 42
 usc_section: "2077a"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2077a"
-generated_at: "2026-03-29T19:31:45.018Z"
+generated_at: "2026-03-29T20:00:54.773Z"
 ---
 
 # § 2077a. Interagency review of applications for the transfer of United States civil nuclear technology
 
-- **(a)** Not less frequently than every 90 days, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
-  - **(1)** a description of the authorizations under section 2077(b) of this title to transfer United States civil nuclear technology to a covered foreign country during the preceding 90 days; and
+- **(a)** At the same time as the President submits to Congress the annual budget request under section 1105 of title 31 for a fiscal year, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
+  - **(1)** a description of the authorizations under section 2077(b) of this title to transfer United States civil nuclear technology to a covered foreign country during the preceding year; and
   - **(2)** a statement of whether any agency required to be consulted under that section or pursuant to regulation objected to or sought conditions on each such transfer.
 - **(b)**
   - **(1)** Not later than 90 days after November 25, 2015 , and every five years thereafter, the Secretary of Energy shall—
@@ -45,8 +45,9 @@ generated_at: "2026-03-29T19:31:45.018Z"
   - **(2)** The report required by paragraph (1) shall include—
     - **(A)** the number of applications for authorization under section 2077(b) of this title to transfer United States civil nuclear technology to a foreign country submitted during the year preceding the submission of the report;
     - **(B)** the length of time each such application was under review;
-    - **(C)** the number of such applications that were granted; and
-    - **(D)** a description of efforts to streamline the review of such applications, taking into account the proliferation and diversion potential of end-users in the country to which United States civil nuclear technology would be transferred pursuant to such applications.
+    - **(C)** for each such application, an identification of any officer to which the authorization under such section 2077(b) of this title was delegated pursuant to section 2201(n) of this title ;
+    - **(D)** the number of such applications that were granted; and
+    - **(E)** a description of efforts to streamline the review of such applications, taking into account the proliferation and diversion potential of end-users in the country to which United States civil nuclear technology would be transferred pursuant to such applications.
 - **(f)** The Director of National Intelligence shall notify the Department of Energy and the appropriate congressional committees not later than 30 days after the date on which the Director determines that there is credible intelligence that United States civil nuclear technology is being or has been diverted—
   - **(1)** to a military program in a foreign country to which the transfer of the technology was authorized under section 2077(b) of this title ; or
   - **(2)** to a foreign country to which the transfer of the technology was not so authorized.
@@ -56,7 +57,8 @@ generated_at: "2026-03-29T19:31:45.018Z"
     - **(A)** describing the efforts of covered foreign countries to prevent the transfer of sensitive items, including efforts to improve the prevention of the transfer of such items; and
     - **(B)** assessing the adequacy of such efforts.
   - **(2)** In this subsection, the term “sensitive items” means goods, services, and technologies described in section 2(a) of the Iran, North Korea, and Syria Nonproliferation Act ( Public Law 106–178 ; 50 U.S.C. 1701 note).
-- **(i)** In this section:
+- **(i)** The Secretary of Energy may submit the annual reports required by subsections (a), (d), and (e) as a single annual report, including by providing portions of the information so required as an annex to the single annual report.
+- **(j)** In this section:
   - **(1)** The term “appropriate congressional committees” means—
     - **(A)** the congressional defense committees;
     - **(B)** the Committee on Energy and Natural Resources, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and

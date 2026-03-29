@@ -3,9 +3,9 @@ title: "Section 861 - Art. 61. Waiver of right to appeal; withdrawal of appeal"
 usc_title: 10
 usc_section: "861"
 chapter: 47
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 861"
-generated_at: "2026-03-29T19:43:37.851Z"
+generated_at: "2026-03-29T19:58:02.015Z"
 ---
 
 # § 861. Art. 61. Waiver of right to appeal; withdrawal of appeal
@@ -15,4 +15,4 @@ generated_at: "2026-03-29T19:43:37.851Z"
   - **(2)** attached to the record of trial.
 - **(b)** In a general or special court-martial, the accused may withdraw an appeal at any time.
 - **(c)** Notwithstanding subsections (a) and (b), an accused may not waive the right to appeal or withdraw an appeal with respect to a judgment that includes a sentence of death.
-- **(d)** A waiver or withdrawal under this section bars review under section 866 of this title (article 66).
+- **(d)** Except as provided by section 869(c)(2) of this title (article 69(c)(2)), a waiver or withdrawal under this section bars review under section 866 of this title (article 66).

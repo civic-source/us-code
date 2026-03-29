@@ -3,9 +3,9 @@ title: "Section 2242 - Identification of countries that deny adequate protection
 usc_title: 19
 usc_section: "2242"
 chapter: 12
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 2242"
-generated_at: "2026-03-29T19:41:21.613Z"
+generated_at: "2026-03-29T19:58:51.764Z"
 ---
 
 # § 2242. Identification of countries that deny adequate protection, or market access, for intellectual property rights

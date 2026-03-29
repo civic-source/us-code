@@ -3,9 +3,9 @@ title: "Section 14522 - Measurement"
 usc_title: 46
 usc_section: "14522"
 chapter: 145
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 14522"
-generated_at: "2026-03-29T19:44:39.424Z"
+generated_at: "2026-03-29T20:01:03.900Z"
 ---
 
 # § 14522. Measurement

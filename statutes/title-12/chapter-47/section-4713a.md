@@ -3,9 +3,9 @@ title: "Section 4713a - Guarantees for bonds and notes issued for community or e
 usc_title: 12
 usc_section: "4713a"
 chapter: 47
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 4713a"
-generated_at: "2026-03-29T19:44:54.310Z"
+generated_at: "2026-03-29T19:58:41.068Z"
 ---
 
 # § 4713a. Guarantees for bonds and notes issued for community or economic development purposes
@@ -102,4 +102,4 @@ generated_at: "2026-03-29T19:44:54.310Z"
 - **(j)**
   - **(1)** Not later than 1 year after September 27, 2010 , the Secretary shall promulgate regulations to carry out this section.
   - **(2)** Not later than 2 years after September 27, 2010 , the Secretary shall implement this section.
-- **(k)** This section is repealed, and the authority provided under this section shall terminate, on September 30, 2014 .
+- **(k)** This section is repealed, and the authority provided under this section shall terminate, on September 30, 2014 . 1 1 See Termination of Section note below.

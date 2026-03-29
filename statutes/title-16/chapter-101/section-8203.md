@@ -3,9 +3,9 @@ title: "Section 8203 - National Fish Habitat Board"
 usc_title: 16
 usc_section: "8203"
 chapter: 101
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 8203"
-generated_at: "2026-03-29T19:41:13.903Z"
+generated_at: "2026-03-29T19:59:08.541Z"
 ---
 
 # § 8203. National Fish Habitat Board
@@ -16,19 +16,19 @@ generated_at: "2026-03-29T19:41:13.903Z"
     - **(B)** to establish national goals and priorities for fish habitat conservation;
     - **(C)** to recommend to Congress entities for designation as Partnerships; and
     - **(D)** to review and make recommendations regarding fish habitat conservation projects.
-  - **(2)** The Board shall be composed of 26 members, of whom—
-    - **(A)** 1 shall be a representative of the Department of the Interior;
+  - **(2)** The Board shall be composed of 28 members, of whom—
+    - **(A)** 2 shall be representatives of the Department of the Interior, including the United States Fish and Wildlife Service and the Bureau of Land Management;
     - **(B)** 1 shall be a representative of the United States Geological Survey;
     - **(C)** 1 shall be a representative of the Department of Commerce;
     - **(D)** 1 shall be a representative of the Department of Agriculture;
     - **(E)** 1 shall be a representative of the Association of Fish and Wildlife Agencies;
     - **(F)** 4 shall be representatives of State agencies, 1 of whom shall be nominated by a regional association of fish and wildlife agencies from each of the Northeast, Southeast, Midwest, and Western regions of the United States;
-    - **(G)** 2 shall be representatives of either—
-      - **(i)** Indian Tribes in the State of Alaska; or
-      - **(ii)** Indian Tribes in States other than the State of Alaska;
-    - **(H)** 1 shall be a representative of either—
-      - **(i)** the Regional Fishery Management Councils established under section 1852 of this title ; or
-      - **(ii)** a representative of the Marine Fisheries Commissions;
+    - **(G)** 2 shall be representatives of Indian Tribes, of whom—
+      - **(i)** 1 shall be a representative of Indian Tribes in the State of Alaska; and
+      - **(ii)** 1 shall be a representative of Indian Tribes in States other than the State of Alaska;
+    - **(H)** 2 shall be representatives of—
+      - **(i)** the Regional Fishery Management Councils established by section 1852(a)(1) of this title ; or
+      - **(ii)** the Marine Fisheries Commissions;
     - **(I)** 1 shall be a representative of the Sport Fishing and Boating Partnership Council;
     - **(J)** 7 shall be representatives selected from at least one from each of the following:
       - **(i)** the recreational sportfishing industry;
@@ -75,7 +75,7 @@ generated_at: "2026-03-29T19:41:13.903Z"
 - **(e)**
   - **(1)** The Board shall establish procedures to carry out the business of the Board, including—
     - **(A)** a requirement that a quorum of the members of the Board be present to transact business;
-    - **(B)** a requirement that no recommendations may be adopted by the Board, except by the vote of two-thirds of all members;
+    - **(B)** a requirement that no recommendations may be adopted by the Board, except by the vote of two-thirds of the members present;
     - **(C)** procedures for establishing national goals and priorities for fish habitat conservation for the purposes of this chapter;
     - **(D)** procedures for designating Partnerships under section 8204 of this title ; and
     - **(E)** procedures for reviewing, evaluating, and making recommendations regarding fish habitat conservation projects.

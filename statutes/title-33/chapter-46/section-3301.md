@@ -3,9 +3,9 @@ title: "Section 3301 - Definitions"
 usc_title: 33
 usc_section: "3301"
 chapter: 46
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 3301"
-generated_at: "2026-03-29T19:43:07.741Z"
+generated_at: "2026-03-29T20:00:31.437Z"
 ---
 
 # § 3301. Definitions
@@ -60,7 +60,9 @@ In this chapter, the following definitions apply:
   - **(10)** The term “national levee database” means the levee database established under section 3303 of this title .
   - **(11)** The term “participating program” means a levee safety program developed by a State, regional district, or Indian tribe that includes the minimum components necessary for recognition by the Secretary.
   - **(12)** The term “regional district” means a subdivision of a State government, or a subdivision of multiple State governments, that is authorized to acquire, construct, operate, and maintain projects for the purpose of flood damage reduction.
-  - **(13)** The term “rehabilitation” means the repair, replacement, reconstruction, removal of a levee, or reconfiguration of a levee system, including a setback levee, that is carried out to reduce flood risk or meet national levee safety guidelines.
+  - **(13)**
+    - **(A)** The term “rehabilitation” means the repair, replacement, reconstruction, removal of a levee, or reconfiguration of a levee system, including a setback levee, that is carried out to reduce flood risk, increase resiliency to extreme weather events, or meet national levee safety guidelines.
+    - **(B)** The term “rehabilitation” includes improvements to a levee in conjunction with any repair, replacement, reconstruction, or reconfiguration.
   - **(14)** The term “risk” means a measure of the probability and severity of undesirable consequences.
   - **(15)** The term “State” means—
     - **(A)** a State;

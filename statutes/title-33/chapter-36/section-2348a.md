@@ -3,9 +3,9 @@ title: "Section 2348a - NEPA reporting"
 usc_title: 33
 usc_section: "2348a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2348a"
-generated_at: "2026-03-29T02:14:18.633Z"
+generated_at: "2026-03-29T20:00:31.411Z"
 ---
 
 # § 2348a. NEPA reporting

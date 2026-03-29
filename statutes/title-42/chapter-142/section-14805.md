@@ -1,12 +1,12 @@
 ---
-title: "Section 14805 - Repealed. Pub. L. 108–194 , § 4, Dec. 19, 2003 , 117 Stat. 2891"
+title: "Section 14805 - Repealed. Pub. L. 108–194, § 4 , Dec. 19, 2003 , 117 Stat. 2891"
 usc_title: 42
 usc_section: "14805"
 chapter: 142
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14805"
-generated_at: "2026-03-29T19:31:45.782Z"
+generated_at: "2026-03-29T20:00:55.496Z"
 ---
 
-# §§ 14801 to 14805. Repealed. Pub. L. 108–194 , § 4, Dec. 19, 2003 , 117 Stat. 2891
+# §§ 14801 to 14805. Repealed. Pub. L. 108–194, § 4 , Dec. 19, 2003 , 117 Stat. 2891
 

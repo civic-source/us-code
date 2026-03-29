@@ -3,9 +3,9 @@ title: "Section 8463 - Pay-for-performance projects"
 usc_title: 16
 usc_section: "8463"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 8463"
-generated_at: "2026-03-29T02:11:54.015Z"
+generated_at: "2026-03-29T19:59:08.548Z"
 ---
 
 # § 8463. Pay-for-performance projects

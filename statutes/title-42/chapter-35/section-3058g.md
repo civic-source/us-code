@@ -3,9 +3,9 @@ title: "Section 3058g - State Long-Term Care Ombudsman program"
 usc_title: 42
 usc_section: "3058g"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3058g"
-generated_at: "2026-03-29T19:31:45.081Z"
+generated_at: "2026-03-29T20:00:54.855Z"
 ---
 
 # § 3058g. State Long-Term Care Ombudsman program
@@ -64,6 +64,7 @@ generated_at: "2026-03-29T19:31:45.081Z"
       - **(i)** The State agency shall establish, in accordance with the Office, policies and procedures for monitoring local Ombudsman entities designated to carry out the duties of the Office.
       - **(ii)** In a case in which the entities are grantees, or the representatives are employees, of area agencies on aging, the State agency shall develop the policies in consultation with the area agencies on aging. The policies shall provide for participation and comment by the agencies and for resolution of concerns with respect to case activity.
       - **(iii)** The State agency shall develop the policies and procedures in accordance with all provisions of this part regarding confidentiality and conflict of interest.
+    - **(E)** Nothing in this paragraph shall be construed as prohibiting the program from providing and financially supporting recognition for an individual designated under subparagraph (A) as a volunteer to represent the Ombudsman program, or from reimbursing or otherwise providing financial support to such an individual for any costs, such as transportation costs, incurred by the individual in serving as such volunteer.
 - **(b)**
   - **(1)** The State shall ensure that representatives of the Office shall have—
     - **(A)** private and unimpeded access to long-term care facilities and residents;
@@ -87,7 +88,7 @@ generated_at: "2026-03-29T19:31:45.081Z"
     - **(C)** the Assistant Secretary; and
     - **(D)** the National Ombudsman Resource Center established in section 3012(a)(18) of this title .
 - **(d)**
-  - **(1)** The State agency shall establish procedures for the disclosure by the Ombudsman or local Ombudsman entities of files, records, and other information maintained by the program, including records described in subsection (b)(1) or (c) of this section.
+  - **(1)** The State agency shall establish procedures for the disclosure by the Ombudsman or local Ombudsman entities of files, records, and other information maintained by the program, including records described in subsection (b)(1) or (c).
   - **(2)** The procedures described in paragraph (1) shall—
     - **(A)** provide that, subject to subparagraph (B), the files, records, and other information described in paragraph (1) may be disclosed only at the discretion of the Ombudsman (or the person designated by the Ombudsman to disclose the files, records, and other information);
     - **(B)** prohibit the disclosure of the identity of any complainant or resident with respect to whom the Office maintains such files, records, or other information unless—
@@ -138,7 +139,7 @@ generated_at: "2026-03-29T19:31:45.081Z"
 - **(h)** The State agency shall require the Office to—
   - **(1)** prepare an annual report—
     - **(A)** describing the activities carried out by the Office in the year for which the report is prepared;
-    - **(B)** containing and analyzing the data collected under subsection (c) of this section;
+    - **(B)** containing and analyzing the data collected under subsection (c);
     - **(C)** evaluating the problems experienced by, and the complaints made by or on behalf of, residents;
     - **(D)** containing recommendations for—
       - **(i)** improving quality of the care and life of the residents; and
@@ -161,7 +162,7 @@ generated_at: "2026-03-29T19:31:45.081Z"
       - **(ii)** investigative techniques; and
       - **(iii)** such other matters as the State determines to be appropriate; and
     - **(C)** specify an annual number of hours of in-service training for all designated representatives;
-  - **(6)** prohibit any representative of the Office (other than the Ombudsman) from carrying out any activity described in subparagraphs (A) through (G) of subsection (a)(3) of this section unless the representative—
+  - **(6)** prohibit any representative of the Office (other than the Ombudsman) from carrying out any activity described in subparagraphs (A) through (G) of subsection (a)(3) unless the representative—
     - **(A)** has received the training required under paragraph (5); and
     - **(B)** has been approved by the Ombudsman as qualified to carry out the activity on behalf of the Office;
   - **(7)** coordinate ombudsman services with the protection and advocacy systems for individuals with developmental disabilities and mental illnesses established under—

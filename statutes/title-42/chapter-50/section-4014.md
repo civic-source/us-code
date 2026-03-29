@@ -3,9 +3,9 @@ title: "Section 4014 - Estimates of premium rates"
 usc_title: 42
 usc_section: "4014"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4014"
-generated_at: "2026-03-29T19:31:45.143Z"
+generated_at: "2026-03-29T20:00:54.891Z"
 ---
 
 # § 4014. Estimates of premium rates
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T19:31:45.143Z"
       - **(i)** substantial damage exceeding 50 percent of the fair market value of such property; or
       - **(ii)** substantial improvement exceeding 50 percent of the fair market value of such property; and
   - **(3)** the extent, if any, to which federally assisted or other flood protection measures initiated after August 1, 1968 , affect such rates.
-- **(b)** In carrying out subsection (a) of this section, the Administrator shall, to the maximum extent feasible and on a reimbursement basis, utilize the services of the Department of the Army, the Department of the Interior, the Department of Agriculture, the Department of Commerce, and the Tennessee Valley Authority, and, as appropriate, other Federal departments or agencies, and for such purposes may enter into agreements or other appropriate arrangements with any persons.
+- **(b)** In carrying out subsection (a), the Administrator shall, to the maximum extent feasible and on a reimbursement basis, utilize the services of the Department of the Army, the Department of the Interior, the Department of Agriculture, the Department of Commerce, and the Tennessee Valley Authority, and, as appropriate, other Federal departments or agencies, and for such purposes may enter into agreements or other appropriate arrangements with any persons.
 - **(c)** The Administrator shall give priority to conducting studies and investigations and making estimates under this section in those States or areas (or subdivisions thereof) which he has determined have evidenced a positive interest in securing flood insurance coverage under the flood insurance program.
 - **(d)** Notwithstanding any other provision of law, any structure existing on December 31, 1973 , and located within Avoyelles, Evangeline, Rapides, or Saint Landry Parish in the State of Louisiana, which the Secretary determines is subject to additional flood hazards as a result of the construction or operation of the Atchafalaya Basin Levee System, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates that shall not exceed those which would be applicable if such additional hazards did not exist.
 - **(e)** Notwithstanding any other provision of law, any community that has made adequate progress, acceptable to the Administrator, on the construction or reconstruction of a flood protection system which will afford flood protection for the one-hundred year frequency flood as determined by the Administrator, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates not exceeding those which would be applicable under this section if such flood protection system had been completed. The Administrator shall find that adequate progress on the construction or reconstruction of a flood protection system, based on the present value of the completed flood protection system, has been made only if: (1) 100 percent of the cost of the system has been authorized; (2) at least 60 percent of the cost of the system has been appropriated; (3) at least 50 percent of the cost of the system has been expended; and (4) the system is at least 50 percent completed. Notwithstanding any other provision of law, in determining whether a community has made adequate progress on the construction, reconstruction, or improvement of a flood protection system, the Administrator shall consider all sources of funding, including Federal, State, and local funds.

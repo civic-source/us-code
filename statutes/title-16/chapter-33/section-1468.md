@@ -3,16 +3,16 @@ title: "Section 1468 - Regional Ocean Partnerships"
 usc_title: 16
 usc_section: "1468"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 1468"
-generated_at: "2026-03-29T02:11:53.800Z"
+generated_at: "2026-03-29T19:59:08.330Z"
 ---
 
 # § 1468. Regional Ocean Partnerships
 
 - **(a)** In this section:
   - **(1)** The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
-  - **(2)** The term “coastal State” has the meaning given the term “Coastal state” 1 1 So in original. Probably should be “ ‘coastal state’ ” as it appears in section 1453 of this title . in section 1453 of this title .
+  - **(2)** The term “coastal State” has the meaning given the term “Coastal state” 1 1 So in original. Probably should be “ ‘coastal state’ ”. in section 1453 of this title .
   - **(3)** The term “Indian Tribe” has the meaning given that term in section 5304 of title 25 .
   - **(4)** The term “Regional Ocean Partnership” means a Regional Ocean Partnership designated under subsection (b).
 - **(b)**

@@ -3,9 +3,9 @@ title: "Section 535a - Forest development roads: prohibition on credits; inclusi
 usc_title: 16
 usc_section: "535a"
 chapter: 2
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 535a"
-generated_at: "2026-03-29T19:41:13.520Z"
+generated_at: "2026-03-29T19:59:08.107Z"
 ---
 
 # § 535a. Forest development roads: prohibition on credits; inclusion of construction costs in notice of sale; special election by small business concerns; construction standards; authorization of harvesting; treatment of road value

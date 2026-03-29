@@ -1,12 +1,12 @@
 ---
-title: "Section 2865 - Repealed. Pub. L. 95–568 , § 8(a)(2), Nov. 2, 1978 , 92 Stat. 2428"
+title: "Section 2865 - Repealed. Pub. L. 95–568, § 8(a)(2) , Nov. 2, 1978 , 92 Stat. 2428"
 usc_title: 42
 usc_section: "2865"
 chapter: 34
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2865"
-generated_at: "2026-03-29T19:31:45.051Z"
+generated_at: "2026-03-29T20:00:54.821Z"
 ---
 
-# §§ 2861 to 2865. Repealed. Pub. L. 95–568 , § 8(a)(2), Nov. 2, 1978 , 92 Stat. 2428
+# §§ 2861 to 2865. Repealed. Pub. L. 95–568, § 8(a)(2) , Nov. 2, 1978 , 92 Stat. 2428
 

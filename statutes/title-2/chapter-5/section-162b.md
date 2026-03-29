@@ -3,9 +3,9 @@ title: "Section 162b - Little Scholars Child Development Center; employee compen
 usc_title: 2
 usc_section: "162b"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 162b"
-generated_at: "2026-03-29T19:42:59.590Z"
+generated_at: "2026-03-29T19:56:57.143Z"
 ---
 
 # § 162b. Little Scholars Child Development Center; employee compensation and personnel matters
@@ -30,9 +30,10 @@ generated_at: "2026-03-29T19:42:59.590Z"
   - **(2)** maintain appropriate personnel and payroll records for Center employees, and transmit appropriate information and records to the Office of Personnel Management; and
   - **(3)** transmit funds for Government and employee contributions under this section to the Office of Personnel Management.
 - **(f)** The Center shall—
-  - **(1)** pay to the Library of Congress funds sufficient to cover the gross salary and the employer’s share of taxes under section 3111 of title 26 for Center employees, in amounts computed by the Library of Congress;
+  - **(1)** except as provided in subsection (g), pay to the Library of Congress funds sufficient to cover the gross salary and the employer’s share of taxes under section 3111 of title 26 for Center employees, in amounts computed by the Library of Congress;
   - **(2)** as required by the Library of Congress, reimburse the Library of Congress for reasonable administrative costs incurred under subsection (e)(1);
   - **(3)** comply with regulations and procedures prescribed by the Librarian of Congress for administration of this section;
   - **(4)** maintain appropriate records on all Center employees, as required by the Librarian of Congress; and
   - **(5)** consult with the Librarian of Congress on the administration and implementation of this section.
-- **(g)** The Librarian of Congress may prescribe regulations to carry out this section.
+- **(g)** Notwithstanding paragraph (1) of subsection (f), in the case of expenses described in such paragraph which are attributable to the compensation of the Executive Director and Deputy Executive Director of the Center, the Librarian of Congress may reimburse the Center for such expenses from amounts appropriated or otherwise made available for salaries and expenses of the Library of Congress.
+- **(h)** The Librarian of Congress may prescribe regulations to carry out this section.

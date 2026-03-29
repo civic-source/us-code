@@ -3,9 +3,9 @@ title: "Section 4819 - Modernization of acquisition processes to ensure integrit
 usc_title: 10
 usc_section: "4819"
 chapter: 382
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4819"
-generated_at: "2026-03-29T19:43:38.073Z"
+generated_at: "2026-03-29T19:58:02.266Z"
 ---
 
 # § 4819. Modernization of acquisition processes to ensure integrity of industrial base
@@ -56,8 +56,8 @@ generated_at: "2026-03-29T19:43:38.073Z"
       - **(ii)** limitations and acquisition guidance relevant to section 4862 of this title ;
       - **(iii)** the Industrial Base Analysis and Sustainment program of the Department, including direct support and common design activities;
       - **(iv)** the Small Business Innovation Research Program (as defined in section 9(e) of the Small Business Act ( 15 U.S.C. 638(e) );
-      - **(v)** the Manufacturing Technology Program established under section 4841 of this title ;
-      - **(vi)** programs relating to the Defense Production Act of 1950 ( 50 U.S.C. 4511 et seq.); 1 1 See References in Text note below. and
+      - **(v)** the Manufacturing Technology Program established under sections 4841 and 4842 of this title;
+      - **(vi)** programs relating to the Defense Production Act of 1950 ( 50 U.S.C. 4511 1 1 See References in Text note below. et seq.); and
       - **(vii)** programs operating in each military department.
 - **(d)** The Secretary of Defense shall designate the roles and responsibilities of organizations and individuals to execute activities under this section, including—
   - **(1)** the Under Secretary of Defense for Acquisition and Sustainment, including the Office of Defense Pricing and Contracting and the Office of Industrial Policy;

@@ -3,9 +3,9 @@ title: "Section 664 - Collection of past-due support from Federal tax refunds"
 usc_title: 42
 usc_section: "664"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 664"
-generated_at: "2026-03-29T19:31:44.541Z"
+generated_at: "2026-03-29T20:00:54.214Z"
 ---
 
 # § 664. Collection of past-due support from Federal tax refunds
@@ -26,3 +26,4 @@ generated_at: "2026-03-29T19:31:44.541Z"
     - **(A)** The withholding shall apply only in the case where the State determines that the amount of the past-due support which will be owed at the time the withholding is to be made, based upon the pattern of payment of support and other enforcement actions being pursued to collect the past-due support, is equal to or greater than $500. The State may limit the $500 threshold amount to amounts of past-due support accrued since the time that the State first began to enforce the child support order involved under the State plan, and may limit the application of the withholding to past-due support accrued since such time.
     - **(B)** The fee which the Secretary of the Treasury may impose to cover the costs of the withholding and notification may not exceed $25 per case submitted.
 - **(c)** In this part the term “past-due support” means the amount of a delinquency, determined under a court order, or an order of an administrative process established under State law, for support and maintenance of a child (whether or not a minor), or of a child (whether or not a minor) and the parent with whom the child is living.
+- **(d)** This section, except for the requirement to distribute amounts in accordance with section 657 of this title , shall apply to an Indian tribe or tribal organization receiving a grant under section 655(f) of this title in the same manner in which this section applies to a State with a plan approved under this part.

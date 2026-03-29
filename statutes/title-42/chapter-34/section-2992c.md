@@ -3,9 +3,9 @@ title: "Section 2992c - Definitions"
 usc_title: 42
 usc_section: "2992c"
 chapter: 34
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2992c"
-generated_at: "2026-03-29T19:31:45.054Z"
+generated_at: "2026-03-29T20:00:54.824Z"
 ---
 
 # § 2992c. Definitions
@@ -14,7 +14,7 @@ As used in this subchapter, the term—
 
   - **(1)** “average” means the aggregate number of hours of instruction through the use of a Native American language to all students enrolled in a native language immersion program during a school year divided by the total number of students enrolled in the immersion program;
   - **(2)** “financial assistance” includes assistance advanced by grant, agreement, or contract, but does not include the procurement of plant or equipment, or goods or services;
-  - **(3)** “Indian reservation or Alaska Native village” includes the reservation of any federally or State recognized Indian tribe, including any band, nation, pueblo, or rancheria, any former reservation in Oklahoma, and community under the jurisdiction of an Indian tribe, including a band, nation, pueblo, or rancheria, with allotted lands or lands subject to a restriction against alienation imposed by the United States or a State, and any lands of or under the jurisdiction of an Alaska Native village or group, including any lands selected by Alaska Natives or Alaska Native organizations under the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.];
+  - **(3)** “Indian reservation or Alaska Native village” includes the reservation of any federally or State recognized Indian Tribe, including any band, nation, pueblo, or rancheria, any former reservation in Oklahoma, and community under the jurisdiction of an Indian Tribe, including a band, nation, pueblo, or rancheria, with allotted lands or lands subject to a restriction against alienation imposed by the United States or a State, and any lands of or under the jurisdiction of an Alaska Native village or group, including any lands selected by Alaska Natives or Alaska Native organizations under the Alaska Native Claims Settlement Act [ 43 U.S.C. 1601 et seq.];
   - **(4)** “Native Hawaiian” means any individual any of whose ancestors were natives of the area which consists of the Hawaiian Islands prior to 1778;
   - **(5)** the term “rule” has the meaning given it in section 551(4) of title 5 , as amended from time to time;
   - **(6)** “Secretary” means the Secretary of Health and Human Services; and

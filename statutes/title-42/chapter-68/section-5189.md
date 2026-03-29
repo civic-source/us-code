@@ -3,9 +3,9 @@ title: "Section 5189 - Simplified procedure"
 usc_title: 42
 usc_section: "5189"
 chapter: 68
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5189"
-generated_at: "2026-03-29T19:31:45.208Z"
+generated_at: "2026-03-29T20:00:54.959Z"
 ---
 
 # § 5189. Simplified procedure
@@ -21,4 +21,4 @@ generated_at: "2026-03-29T19:31:45.208Z"
   - **(2)** After the Administrator submits the report required under paragraph (1), the President shall direct the Administrator to—
     - **(A)** immediately establish a threshold for eligibility under this section in an appropriate amount, without regard to chapter 5 of title 5; and
     - **(B)** adjust the threshold annually to reflect changes in the Consumer Price Index for all Urban Consumers published by the Department of Labor.
-  - **(3)** Not later than 3 years after the date on which the Administrator establishes a threshold under paragraph (2), and every 3 years thereafter, the President, acting through the Administrator, shall review the threshold for eligibility under this section.
+  - **(3)** Not later than 3 years after the date on which the Administrator establishes a threshold under paragraph (2), and every 3 years thereafter, the President, acting through the Administrator, shall review the threshold for eligibility under this section and submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report regarding such review, including any recommendations developed pursuant to such review.

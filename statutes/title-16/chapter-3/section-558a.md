@@ -1,14 +1,14 @@
 ---
-title: "Section 558a - Volunteers in the National Forests Program"
+title: "Section 558a - Purpose"
 usc_title: 16
 usc_section: "558a"
 chapter: 3
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 558a"
-generated_at: "2026-03-29T19:41:13.546Z"
+generated_at: "2026-03-29T19:59:08.135Z"
 ---
 
-# § 558a. Volunteers in the National Forests Program
+# § 558a. Purpose
 
-The Secretary of Agriculture (hereinafter referred to as the “Secretary”) is authorized to recruit, train, and accept without regard to the civil service 1 1 So in original. The word “and” probably should appear after “civil service”. classification laws, rules, or regulations the services of individuals without compensation as volunteers for or in aid of interpretive functions, visitor services, conservation measures and development, or other activities in and related to areas administered by the Secretary through the Forest Service. In carrying out this section, the Secretary shall consider referrals of prospective volunteers made by the Corporation for National and Community Service.
+The purpose of this Act is to leverage volunteer engagement to supplement projects that are carried out by the Secretaries to fulfill the missions of the Forest Service and the Bureau of Land Management and are accomplished with appropriated funds.
 

@@ -3,9 +3,9 @@ title: "Section 2291n - Exchange program on demand reduction matters relating to
 usc_title: 22
 usc_section: "2291n"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2291n"
-generated_at: "2026-03-29T02:12:40.052Z"
+generated_at: "2026-03-29T19:59:24.092Z"
 ---
 
 # § 2291n. Exchange program on demand reduction matters relating to illicit use of covered synthetic drugs

@@ -3,9 +3,9 @@ title: "Section 360 - Registration of producers of drugs or devices"
 usc_title: 21
 usc_section: "360"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 360"
-generated_at: "2026-03-29T19:41:41.581Z"
+generated_at: "2026-03-29T19:59:28.395Z"
 ---
 
 # § 360. Registration of producers of drugs or devices
@@ -43,14 +43,22 @@ generated_at: "2026-03-29T19:41:41.581Z"
     - **(C)** The inherent risk of the drug or device manufactured, prepared, propagated, compounded, or processed at the establishment.
     - **(D)** The inspection frequency and history of the establishment, including whether the establishment has been inspected pursuant to section 374 of this title within the last 4 years.
     - **(E)** Whether the establishment has been inspected by a foreign government or an agency of a foreign government recognized under section 384e of this title .
-    - **(F)** Any other criteria deemed necessary and appropriate by the Secretary for purposes of allocating inspection resources.
+    - **(F)** The compliance history of establishments in the country or region in which the establishment is located that are subject to regulation under this chapter, including the history of violations related to products exported from such country or region that are subject to such regulation.
+    - **(G)** Any other criteria deemed necessary and appropriate by the Secretary for purposes of allocating inspection resources.
   - **(5)** In determining the risk associated with an establishment for purposes of establishing a risk-based schedule under paragraph (3), the Secretary shall not consider whether the drugs manufactured, prepared, propagated, compounded, or processed by such establishment are drugs described in section 353(b) of this title .
-  - **(6)** Beginning in 2014, not later than May 1 of each year, the Secretary shall make available on the Internet Web site of the Food and Drug Administration a report regarding—
+  - **(6)** Not later than May 1 of each year, the Secretary shall make available on the Internet Web site of the Food and Drug Administration a report regarding—
     - **(A)**
-      - **(i)** the number of domestic and foreign establishments registered pursuant to this section in the previous calendar year; and
-      - **(ii)** the number of such domestic establishments and the number of such foreign establishments that the Secretary inspected in the previous calendar year;
-    - **(B)** with respect to establishments that manufacture, prepare, propagate, compound, or process an active ingredient of a drug or a finished drug product, the number of each such type of establishment; and
-    - **(C)** the percentage of the budget of the Food and Drug Administration used to fund the inspections described under subparagraph (A).
+      - **(i)** the number of domestic and foreign establishments registered pursuant to this section in the previous fiscal year;
+      - **(ii)** the number of such registered establishments in each region of interest;
+      - **(iii)** the number of such domestic establishments and the number of such foreign establishments, including the number of establishments in each region of interest, that the Secretary inspected in the previous fiscal year;
+      - **(iv)** the number of inspections to support actions by the Secretary on applications under section 355 of this title or section 262 of title 42 , including the number of inspections to support actions by the Secretary on supplemental applications, including changes to manufacturing processes, the Secretary conducted in the previous fiscal year;
+      - **(v)** the number of routine surveillance inspections the Secretary conducted in the previous fiscal year, including in each region of interest;
+      - **(vi)** the number of for-cause inspections the Secretary conducted in the previous fiscal year, not including inspections described in clause (iv), including in each region of interest; and
+      - **(vii)** the number of inspections the Secretary has recognized pursuant to an agreement entered into pursuant to section 384e of this title , or otherwise recognized, for each of the types of inspections described in clauses (v) and (vi), including for inspections of establishments in each region of interest. 2 2 So in original. The period probably should be a semicolon.
+    - **(B)** with respect to establishments that manufacture, prepare, propagate, compound, or process an active ingredient of a drug or a finished drug product, the number of each such type of establishment;
+    - **(C)** the percentage of the budget of the Food and Drug Administration used to fund the inspections described under subparagraph (A); and
+    - **(D)** the status of the efforts of the Food and Drug Administration to expand its recognition of inspections conducted or recognized by foreign regulatory authorities under section 384e of this title , including any obstacles to expanding the use of such recognition.
+  - **(7)** For purposes of paragraph (6)(A), the term “region of interest” means a foreign geographic region or country, including the People’s Republic of China, India, the European Union, the United Kingdom, and any other country or geographic region, as the Secretary determines appropriate.
 - **(i)**
   - **(1)** Every person who owns or operates any establishment within any foreign country engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device that is imported or offered for import into the United States shall, through electronic means in accordance with the criteria of the Secretary—
     - **(A)** upon first engaging in any such activity, immediately submit a registration to the Secretary that includes—
@@ -60,6 +68,7 @@ generated_at: "2026-03-29T19:41:41.581Z"
   - **(2)** The establishment shall also provide the information required by subsection (j).
   - **(3)** The Secretary is authorized to enter into cooperative arrangements with officials of foreign countries to ensure that adequate and effective means are available for purposes of determining, from time to time, whether drugs or devices manufactured, prepared, propagated, compounded, or processed by an establishment described in paragraph (1), if imported or offered for import into the United States, shall be refused admission on any of the grounds set forth in section 381(a) of this title .
   - **(4)** The Secretary shall specify the unique facility identifier system that shall be used by registrants under paragraph (1) with respect to drugs. The requirement to include a unique facility identifier in a registration under paragraph (1) with respect to drugs shall not apply until the date that the identifier system is specified by the Secretary under the preceding sentence.
+  - **(5)** The requirements of paragraphs (1) and (2) shall apply regardless of whether the drug or device undergoes further manufacture, preparation, propagation, compounding, or processing at a separate establishment outside the United States prior to being imported or offered for import into the United States.
 - **(j)**
   - **(1)** Every person who registers with the Secretary under subsection (b), (c), (d), or (i) shall, at the time of registration under any such subsection, file with the Secretary a list of all drugs and a list of all devices and a brief statement of the basis for believing that each device included in the list is a device rather than a drug (with each drug and device in each list listed by its established name (as defined in section 352(e) of this title ) and by any proprietary name) which are being manufactured, prepared, propagated, compounded, or processed by him for commercial distribution and which he has not included in any list of drugs or devices filed by him with the Secretary under this paragraph or paragraph (2) before such time of registration. Such list shall be prepared in such form and manner as the Secretary may prescribe and shall be accompanied by—
     - **(A)** in the case of a drug contained in the applicable list and subject to section 355 or 360b of this title, or a device intended for human use contained in the applicable list with respect to which a performance standard has been established under section 360d of this title or which is subject to section 360e of this title , a reference to the authority for the marketing of such drug or device and a copy of all labeling for such drug or device;
@@ -83,7 +92,7 @@ generated_at: "2026-03-29T19:41:41.581Z"
   - **(1)** the class in which the device is classified under section 360c of this title or if such person determines that the device is not classified under such section, a statement of that determination and the basis for such person’s determination that the device is or is not so classified, and
   - **(2)** action taken by such person to comply with requirements under section 360d or 360e of this title which are applicable to the device.
 - **(l)**
-  - **(1)** A report under subsection (k) is not required for a device intended for human use that is exempted from the requirements of this subsection under subsection (m) or is within a type that has been classified into class I under section 360c of this title . The exception established in the preceding sentence does not apply to any class I device that is intended for a use which is of substantial importance in preventing impairment of human health, or to any class I device that presents a potential unreasonable risk of illness or injury.
+  - **(1)** A report under subsection (k) is not required for a device intended for human use that is exempted from the requirements of this subsection under subsection (m) or is within a type that has been classified into class I under section 360c of this title , or with respect to a change that is consistent with a predetermined change control plan cleared under section 360e–4 of this title . The exception established in the preceding sentence does not apply to any class I device that is intended for a use which is of substantial importance in preventing impairment of human health, or to any class I device that presents a potential unreasonable risk of illness or injury.
   - **(2)** Not later than 120 calendar days after December 13, 2016 , and at least once every 5 years thereafter, as the Secretary determines appropriate, the Secretary shall identify, through publication in the Federal Register, any type of class I device that the Secretary determines no longer requires a report under subsection (k) to provide reasonable assurance of safety and effectiveness. Upon such publication—
     - **(A)** each type of class I device so identified shall be exempt from the requirement for a report under subsection (k); and
     - **(B)** the classification regulation applicable to each such type of device shall be deemed amended to incorporate such exemption.
@@ -127,5 +136,5 @@ generated_at: "2026-03-29T19:41:41.581Z"
   - **(1)** Not later than 180 days after December 13, 2016 , the Secretary shall identify and publish a list of reusable device types for which reports under subsection (k) are required to include—
     - **(A)** instructions for use, which have been validated in a manner specified by the Secretary; and
     - **(B)** validation data, the types of which shall be specified by the Secretary;
-  - **(2)** The Secretary shall revise the list under paragraph (2), 2 2 So in original. Probably should be “paragraph (1),”. as the Secretary determines appropriate, with notice in the Federal Register.
+  - **(2)** The Secretary shall revise the list under paragraph (2), 3 3 So in original. Probably should be “paragraph (1),”. as the Secretary determines appropriate, with notice in the Federal Register.
   - **(3)** Reports under subsection (k) that are submitted after the publication of the list described in paragraph (1), for devices or types of devices included on such list, shall include such instructions for use and validation data.

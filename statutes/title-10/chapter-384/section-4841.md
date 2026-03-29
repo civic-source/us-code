@@ -3,9 +3,9 @@ title: "Section 4841 - Manufacturing Technology Program"
 usc_title: 10
 usc_section: "4841"
 chapter: 384
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4841"
-generated_at: "2026-03-29T19:43:38.074Z"
+generated_at: "2026-03-29T19:58:02.267Z"
 ---
 
 # § 4841. Manufacturing Technology Program

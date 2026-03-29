@@ -1,20 +1,12 @@
 ---
-title: "Section 3796jj - Duties"
+title: "Section 3796jj - Transferred"
 usc_title: 42
 usc_section: "3796jj"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3796jj"
-generated_at: "2026-03-29T19:31:45.127Z"
+generated_at: "2026-03-29T20:00:54.884Z"
 ---
 
-# § 3796jj. Duties
+# § 3796jj. Transferred
 
-The Attorney General shall—
-
-  - **(1)** establish guidelines and oversee the implementation of family-friendly policies within law enforcement-related offices and divisions in the Department of Justice;
-  - **(2)** study the effects of stress on law enforcement personnel and family well-being and disseminate the findings of such studies to Federal, State, and local law enforcement agencies, related organizations, and other interested parties;
-  - **(3)** identify and evaluate model programs that provide support services to law enforcement personnel and families;
-  - **(4)** provide technical assistance and training programs to develop stress reduction and family support to State and local law enforcement agencies;
-  - **(5)** collect and disseminate information regarding family support, stress reduction, and psychological services to Federal, State, and local law enforcement agencies, law enforcement-related organizations, and other interested entities; and
-  - **(6)** determine issues to be researched by the Department of Justice and by grant recipients.

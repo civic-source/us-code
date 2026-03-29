@@ -1,14 +1,12 @@
 ---
-title: "Section 1221 - Issuance of patents; application"
+title: "Section 1221 - Omitted"
 usc_title: 43
 usc_section: "1221"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1221"
-generated_at: "2026-03-29T19:31:49.094Z"
+generated_at: "2026-03-29T19:59:41.434Z"
 ---
 
-# § 1221. Issuance of patents; application
-
-Whenever it shall be shown to the satisfaction of the Secretary of the Interior that a tract of public land, lying between the meander line of an inland lake or river in Wisconsin as originally surveyed and the meander line of that lake or river as subsequently resurveyed, has been held in good faith and in peaceful, adverse possession by a person, or his predecessors in interest, who had been issued a patent, prior to January 21, 1953 , for lands lying along the meander line as originally determined, the Secretary of the Interior shall cause a patent to be issued to such person for such land upon the payment of the same price per acre as that at which the land included in the original patent was purchased and upon the same terms and conditions. All persons seeking to purchase lands under this subchapter shall make application to the Secretary within one year from August 24, 1954 , or from the date of the official filing of the plat or resurvey, whichever is later, and the Secretary of the Interior shall cause no patents to be issued for land lying between the original meander line and the resurveyed meander line until the conclusion of such periods.
+# § 1221. Omitted
 

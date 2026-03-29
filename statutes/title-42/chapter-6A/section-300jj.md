@@ -3,9 +3,9 @@ title: "Section 300jj - Definitions"
 usc_title: 42
 usc_section: "300jj"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 300jj"
-generated_at: "2026-03-29T19:31:44.465Z"
+generated_at: "2026-03-29T20:00:54.111Z"
 ---
 
 # § 300jj. Definitions
@@ -18,17 +18,21 @@ In this subchapter:
   - **(4)** The term “health information” has the meaning given such term in section 1320d(4) of this title .
   - **(5)** The term “health information technology” means hardware, software, integrated technologies or related licenses, intellectual property, upgrades, or packaged solutions sold as services that are designed for or support the use by health care entities or patients for the electronic creation, maintenance, access, or exchange of health information 2 2 So in original. Probably should be followed by a period.
   - **(6)** The term “health plan” has the meaning given such term in section 1320d(5) of this title .
-  - **(7)** The term “HIT Policy Committee” means such Committee established under section 300jj–12(a) of this title .
-  - **(8)** The term “HIT Standards Committee” means such Committee established under section 300jj–13(a) of this title .
-  - **(9)** The term “individually identifiable health information” has the meaning given such term in section 1320d(6) of this title .
+  - **(7)** The term “HIT Advisory Committee” means such Committee established under section 300jj–12(a) of this title .
+  - **(8)** The term “individually identifiable health information” has the meaning given such term in section 1320d(6) of this title .
+  - **(9)** The term “interoperability”, with respect to health information technology, means such health information technology that—
+    - **(A)** enables the secure exchange of electronic health information with, and use of electronic health information from, other health information technology without special effort on the part of the user;
+    - **(B)** allows for complete access, exchange, and use of all electronically accessible health information for authorized use under applicable State or Federal law; and
+    - **(C)** does not constitute information blocking as defined in section 300jj–52(a) of this title .
   - **(10)** The term “laboratory” has the meaning given such term in section 263a(a) of this title .
   - **(11)** The term “National Coordinator” means the head of the Office of the National Coordinator for Health Information Technology established under section 300jj–11(a) of this title .
-  - **(12)** The term “pharmacist” has the meaning given such term in section 384(2) of title 21 .
+  - **(12)** The term “pharmacist” has the meaning given such term in section 384(2) 3 3 So in original. Probably should be “(a)(2)”. of title 21.
   - **(13)** The term “qualified electronic health record” means an electronic record of health-related information on an individual that—
-    - **(A)** includes patient demographic and clinical health information, such as medical history and problem lists; and
+    - **(A)** includes patient demographic and clinical health information, such as medical history and problem lists;
     - **(B)** has the capacity—
       - **(i)** to provide clinical decision support;
       - **(ii)** to support physician order entry;
       - **(iii)** to capture and query information relevant to health care quality; and
-      - **(iv)** to exchange electronic health information with, and integrate such information from other sources.
-  - **(14)** The term “State” means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
+      - **(iv)** to exchange electronic health information with, and integrate such information from other sources; and
+    - **(C)** includes, or is capable of including, a real-time benefit tool that conveys patient-specific real-time cost and coverage information with respect to prescription drugs that, with respect to any health information technology certified for electronic prescribing, the technology shall be capable of incorporating the information described in clauses (i) through (iii) of paragraph (2)(B) of section 1395w–104( o ) of this title at a time specified by the Secretary but not before the Secretary adopts a standard for such tools as described in paragraph (1) of such section.
+  - **(15)** The term “State” means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.

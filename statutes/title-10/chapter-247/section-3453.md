@@ -3,9 +3,9 @@ title: "Section 3453 - Preference for commercial products and commercial service
 usc_title: 10
 usc_section: "3453"
 chapter: 247
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3453"
-generated_at: "2026-03-29T19:43:38.040Z"
+generated_at: "2026-03-29T19:58:02.230Z"
 ---
 
 # § 3453. Preference for commercial products and commercial services
@@ -22,8 +22,9 @@ generated_at: "2026-03-29T19:43:38.040Z"
   - **(2)** require prime contractors and subcontractors at all levels under the agency contracts to incorporate commercial services, commercial products, or nondevelopmental items other than commercial products as components of items supplied to the agency;
   - **(3)** modify requirements in appropriate cases to ensure that the requirements can be met by commercial services or commercial products or, to the extent that commercial products suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial products;
   - **(4)** state specifications in terms that enable and encourage bidders and offerors to supply commercial services or commercial products or, to the extent that commercial products suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial products in response to the agency solicitations;
-  - **(5)** revise the agency’s procurement policies, practices, and procedures not required by law to reduce any impediments in those policies, practices, and procedures to the acquisition of commercial products and commercial services; and
-  - **(6)** require training of appropriate personnel in the acquisition of commercial products and commercial services.
+  - **(5)** revise the agency’s procurement policies, practices, and procedures not required by law to reduce any impediments in those policies, practices, and procedures to the acquisition of commercial products and commercial services;
+  - **(6)** require training of appropriate personnel in the acquisition of commercial products and commercial services; and
+  - **(7)** establish criteria in performance evaluations for appropriate personnel to reward risk-informed decisions that maximize the acquisition of commercial products, commercial services, or nondevelopmental items other than commercial products.
 - **(c)**
   - **(1)** The head of an agency shall conduct market research appropriate to the circumstances—
     - **(A)** before developing new specifications for a procurement by that agency;

@@ -3,9 +3,9 @@ title: "Section 294d - Quentin N. Burdick program for rural interdisciplinary tr
 usc_title: 42
 usc_section: "294d"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 294d"
-generated_at: "2026-03-29T19:31:44.338Z"
+generated_at: "2026-03-29T20:00:53.936Z"
 ---
 
 # § 294d. Quentin N. Burdick program for rural interdisciplinary training
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:31:44.338Z"
 - **(a)** The Secretary may make grants or contracts under this section to help entities fund authorized activities under an application approved under subsection (c).
 - **(b)**
   - **(1)** Amounts provided under subsection (a) shall be used by the recipients to fund interdisciplinary training projects designed to—
-    - **(A)** use new and innovative methods to train health care practitioners to provide services in rural areas;
+    - **(A)** use innovative or evidence-based methods to train health care practitioners to provide services in rural areas;
     - **(B)** demonstrate and evaluate innovative interdisciplinary methods and models designed to provide access to cost-effective comprehensive health care;
     - **(C)** deliver health care services to individuals residing in rural areas;
     - **(D)** enhance the amount of relevant research conducted concerning health care issues in rural areas; and

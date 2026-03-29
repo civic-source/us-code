@@ -3,16 +3,16 @@ title: "Section 407 - Humanitarian demining assistance and stockpiled convention
 usc_title: 10
 usc_section: "407"
 chapter: 20
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 407"
-generated_at: "2026-03-29T19:43:37.806Z"
+generated_at: "2026-03-29T19:58:01.969Z"
 ---
 
 # § 407. Humanitarian demining assistance and stockpiled conventional munitions assistance: authority; limitations
 
 - **(a)**
-  - **(1)** Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may carry out humanitarian demining assistance and stockpiled conventional munitions assistance in a country if the Secretary concerned determines that the assistance will promote either—
-    - **(A)** the security interests of both the United States and the country in which the activities are to be carried out; or
+  - **(1)** Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may provide humanitarian demining assistance and stockpiled conventional munitions assistance to a country if the Secretary concerned determines that the assistance will promote either—
+    - **(A)** the security interests of both the United States and the country to which the assistance is to be provided; or
     - **(B)** the specific operational readiness skills of the members of the armed forces who participate in the activities.
   - **(2)** Humanitarian demining assistance and stockpiled conventional munitions assistance under this section shall complement, and may not duplicate, any other form of social or economic assistance which may be provided to the country concerned by any other department or agency of the United States.
   - **(3)** The Secretary of Defense shall ensure that no member of the armed forces, while providing humanitarian demining assistance under this section—
@@ -26,12 +26,12 @@ generated_at: "2026-03-29T19:43:37.806Z"
   - **(2)** Expenses covered by paragraph (1) include the following:
     - **(A)** Travel, transportation, and subsistence expenses of Department of Defense personnel providing such assistance.
     - **(B)** The cost of any equipment, services, or supplies acquired for the purpose of carrying out or supporting humanitarian demining activities or stockpiled conventional munitions activities, including any nonlethal, individual, or small-team equipment or supplies for clearing landmines or other explosive remnants of war, or stockpiled conventional munitions, as applicable, that are to be transferred or otherwise furnished to a foreign country in furtherance of the provision of assistance under this section.
-  - **(3)** The cost of equipment, services, and supplies provided in any fiscal year under this section may not exceed $15,000,000.
-- **(d)** The Secretary of Defense shall include in the annual report under section 401 of this title a separate discussion of activities carried out under this section during the preceding fiscal year, including—
-  - **(1)** a list of the countries in which humanitarian demining assistance or stockpiled conventional munitions assistance was carried out during the preceding fiscal year;
-  - **(2)** the type and description of humanitarian demining assistance or stockpiled conventional munitions assistance carried out in each country during the preceding fiscal year, as specified in paragraph (1), and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance;
-  - **(3)** a list of countries in which humanitarian demining assistance or stockpiled conventional munitions assistance could not be carried out during the preceding fiscal year due to insufficient numbers of Department of Defense personnel to carry out such activities or insufficient funding;
-  - **(4)** the amount expended in carrying out such assistance in each such country during the preceding fiscal year; and
+    - **(C)** Travel, transportation, and subsistence expenses of foreign personnel to attend training provided by the Department of Defense under this section.
+- **(d)** The Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives a report on activities carried out under this section during the preceding fiscal year, including—
+  - **(1)** a list of the countries to which humanitarian demining assistance or stockpiled conventional munitions assistance was provided during the preceding fiscal year;
+  - **(2)** the type and description of humanitarian demining assistance or stockpiled conventional munitions assistance provided to each country during the preceding fiscal year, as specified in paragraph (1), and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance;
+  - **(3)** a list of countries to which humanitarian demining assistance or stockpiled conventional munitions assistance could not be provided during the preceding fiscal year due to insufficient numbers of Department of Defense personnel to carry out such activities or insufficient funding;
+  - **(4)** the amount expended in providing such assistance to each such country during the preceding fiscal year; and
   - **(5)** a description of interagency efforts to coordinate and improve research, development, test, and evaluation for humanitarian demining technology and mechanical clearance methods, including the transfer of relevant counter-improvised explosive device technology with potential humanitarian demining applications.
 - **(e)** In this section:
   - **(1)** The term “humanitarian demining assistance”, as it relates to training and support, means detection and clearance of landmines, unexploded explosive ordnance, and other explosive remnants of war, and includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety, the detection and clearance of landmines, unexploded explosive ordnance, and other explosive remnants of war.

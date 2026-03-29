@@ -3,15 +3,15 @@ title: "Section 2183 - Nonmilitary utilization"
 usc_title: 42
 usc_section: "2183"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2183"
-generated_at: "2026-03-29T19:31:45.029Z"
+generated_at: "2026-03-29T20:00:54.789Z"
 ---
 
 # § 2183. Nonmilitary utilization
 
 - **(a)** The Commission may, after giving the patent owner an opportunity for a hearing, declare any patent to be affected with the public interest if (1) the invention or discovery covered by the patent is of primary importance in the production or utilization of special nuclear material or atomic energy; and (2) the licensing of such invention or discovery under this section is of primary importance to effectuate the policies and purposes of this chapter.
-- **(b)** Whenever any patent has been declared affected with the public interest, pursuant to subsection (a) of this section—
+- **(b)** Whenever any patent has been declared affected with the public interest, pursuant to subsection (a)—
   - **(1)** the Commission is licensed to use the invention or discovery covered by such patent in performing any of its powers under this chapter; and
   - **(2)** any person may apply to the Commission for a nonexclusive patent license to use the invention or discovery covered by such patent, and the Commission shall grant such patent license to the extent that it finds that the use of the invention or discovery is of primary importance to the conduct of an activity by such person authorized under this chapter.
 - **(c)** Any person—
@@ -19,15 +19,15 @@ generated_at: "2026-03-29T19:31:45.029Z"
   - **(2)** to whom such license, permit, or lease has been issued by the Commission;
   - **(3)** who is authorized to conduct such activities as such applicant is conducting or proposes to conduct under a general license issued by the Commission under sections 2092 or 2111 of this title; or
   - **(4)** whose activities or proposed activities are authorized under section 2051 of this title ,
-- **(d)** Whenever any person has made an application to the Commission for a patent license pursuant to subsection (c) of this section—
+- **(d)** Whenever any person has made an application to the Commission for a patent license pursuant to subsection (c)—
   - **(1)** the Commission, within 30 days after the filing of such application, shall make available to the owner of the patent all of the information contained in such application, and shall notify the owner of the patent of the time and place at which a hearing will be held by the Commission;
   - **(2)** the Commission shall hold a hearing within 60 days after the filing of such application at a time and place designated by the Commission; and
   - **(3)** in the event an applicant applies for two or more patent licenses, the Commission may, in its discretion, order the consolidation of such applications, and if the patents are owned by more than one owner, such owners may be made parties to one hearing.
-- **(e)** If, after any hearing conducted pursuant to subsection (d) of this section, the Commission finds that—
+- **(e)** If, after any hearing conducted pursuant to subsection (d), the Commission finds that—
   - **(1)** the invention or discovery covered by the patent is of primary importance in the production or utilization of special nuclear material or atomic energy;
   - **(2)** the licensing of such invention or discovery is of primary importance to the conduct of the activities of the applicant;
   - **(3)** the activities to which the patent license are proposed to be applied by such applicant are of primary importance to the furtherance of policies and purposes of this chapter; and
   - **(4)** such applicant cannot otherwise obtain a patent license from the owner of the patent on terms which the Commission deems to be reasonable for the intended use of the patent to be made by such applicant,
-- **(f)** The Commission shall not grant any patent license pursuant to subsection (e) of this section for any other purpose than that stated in the application. Nor shall the Commission grant any patent license to any other applicant for a patent license on the same patent without an application being made by such applicant pursuant to subsection (c) of this section, and without separate notification and hearing as provided in subsection (d) of this section, and without a separate finding as provided in subsection (e) of this section.
-- **(g)** The owner of the patent affected by a declaration or a finding made by the Commission pursuant to subsection (b) or (e) of this section shall be entitled to a reasonable royalty fee from the licensee for any use of an invention or discovery licensed by this section. Such royalty fee may be agreed upon by such owner and the patent licensee, or in the absence of such agreement shall be determined for each patent license by the Commission pursuant to section 2187(c) of this title .
+- **(f)** The Commission shall not grant any patent license pursuant to subsection (e) for any other purpose than that stated in the application. Nor shall the Commission grant any patent license to any other applicant for a patent license on the same patent without an application being made by such applicant pursuant to subsection (c), and without separate notification and hearing as provided in subsection (d), and without a separate finding as provided in subsection (e).
+- **(g)** The owner of the patent affected by a declaration or a finding made by the Commission pursuant to subsection (b) or (e) shall be entitled to a reasonable royalty fee from the licensee for any use of an invention or discovery licensed by this section. Such royalty fee may be agreed upon by such owner and the patent licensee, or in the absence of such agreement shall be determined for each patent license by the Commission pursuant to section 2187(c) of this title .
 - **(h)** The provisions of this section shall apply to any patent the application for which shall have been filed before September 1, 1979 .

@@ -3,9 +3,9 @@ title: "Section 1407 - Judicial review of Board decisions and enforcement"
 usc_title: 2
 usc_section: "1407"
 chapter: 24
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 1407"
-generated_at: "2026-03-29T19:42:59.654Z"
+generated_at: "2026-03-29T19:56:57.211Z"
 ---
 
 # § 1407. Judicial review of Board decisions and enforcement

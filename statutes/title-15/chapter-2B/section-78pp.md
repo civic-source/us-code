@@ -3,9 +3,9 @@ title: "Section 78pp - Investor Advisory Committee"
 usc_title: 15
 usc_section: "78pp"
 chapter: 2
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 78pp"
-generated_at: "2026-03-29T19:44:42.552Z"
+generated_at: "2026-03-29T19:58:17.333Z"
 ---
 
 # § 78pp. Investor Advisory Committee
@@ -53,5 +53,5 @@ generated_at: "2026-03-29T19:44:42.552Z"
     - **(A)** assessing the finding or recommendation of the Committee; and
     - **(B)** disclosing the action, if any, the Commission intends to take with respect to the finding or recommendation.
 - **(h)** Nothing in this section shall require the Commission to agree to or act upon any finding or recommendation of the Committee.
-- **(i)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Committee and its activities.
+- **(i)** Chapter 10 of title 5 shall not apply with respect to the Committee and its activities.
 - **(j)** There is authorized to be appropriated to the Commission such sums as are necessary to carry out this section.

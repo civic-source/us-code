@@ -1,15 +1,12 @@
 ---
-title: "Section 8024 - Naval Research Advisory Committee"
+title: "Section 8024 - Repealed. Pub. L. 118–31, div. A, title IX, § 914 , Dec. 22, 2023 , 137 Stat. 368 ]"
 usc_title: 10
 usc_section: "8024"
 chapter: 803
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 8024"
-generated_at: "2026-03-29T19:43:38.098Z"
+generated_at: "2026-03-29T19:58:02.298Z"
 ---
 
-# § 8024. Naval Research Advisory Committee
+# [§ 8024. Repealed. Pub. L. 118–31, div. A, title IX, § 914 , Dec. 22, 2023 , 137 Stat. 368 ]
 
-- **(a)** The Secretary of the Navy may appoint a Naval Research Advisory Committee consisting of not more than 15 civilians preeminent in the fields of science, research, and development work. One member of the Committee must be from the field of medicine. Each member serves for such term as the Secretary specifies.
-- **(b)** The Committee shall meet at such times as the Secretary specifies to consult with and advise the Chief of Naval Operations and the Chief of Naval Research.
-- **(c)** No law imposing restrictions, requirements, or penalties in relation to the employment of persons, the performance of services, the payment or receipt of compensation in connection with any claim, proceeding, or matter involving the United States applies to members of the Committee solely by reason of their membership on the Committee.

@@ -3,9 +3,9 @@ title: "Section 611 - Data collection and reporting"
 usc_title: 42
 usc_section: "611"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 611"
-generated_at: "2026-03-29T19:31:44.519Z"
+generated_at: "2026-03-29T20:00:54.186Z"
 ---
 
 # § 611. Data collection and reporting
@@ -111,3 +111,25 @@ generated_at: "2026-03-29T19:31:44.519Z"
       - **(ii)** be consistent with and implement applicable accounting principles; and
       - **(iii)** be capable of being continually upgraded as necessary.
     - **(C)** In designating reporting standards under this paragraph, the Secretary shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Markup Language.
+- **(e)**
+  - **(1)** The Secretary shall carry out a pilot program under which the Secretary may select up to 5 States to which a grant is made under section 603(a) of this title for a fiscal year to negotiate performance benchmarks for work and family outcomes for recipients of assistance under the State program funded under this part, and programs funded with qualified State expenditures. The Secretary shall issue guidance on how States apply for participation in the pilot. The benchmarks shall include—
+    - **(A)** the percentage of work-eligible individuals under the State program funded under this part who are in unsubsidized employment during the 2nd quarter after exiting the program;
+    - **(B)** the level of earnings of such individuals in the 2nd and 4th quarters after exit; and
+    - **(C)** other indicators of family stability and well-being as established by the Secretary.
+  - **(2)** The Secretary and a State selected under paragraph (1) shall agree to the requisite level of performance on these benchmarks after developing baseline data in the State and comparative data in other States.
+  - **(3)** If a State fails to meet a measured benchmark standard agreed to under paragraph (2) for 2 successive fiscal years, the State, in order to continue in the pilot shall enter into a plan with the Secretary to achieve the required level of performance or, if mutually agreed to, adjust the benchmark based on new information about the feasibility of meeting such benchmark.
+  - **(4)** The pilot under this subsection shall be in effect for 6 fiscal years, with one year to establish benchmark data and negotiate targets and five years to measure performance against the targets, and shall supersede the requirements under section 607 of this title for such fiscal years, notwithstanding any other provision of law.
+  - **(5)** For purposes of section 609(a)(14) of this title , a State operating a pilot must have a system for reducing the amount of assistance payable to a family if an individual refuses, without good cause (including for reasons described in 607(e)(2) 2 2 So in original. Probably should be preceded by “section”. of this title), to engage in any such activities as the State has required of such an individual. A State without such a system shall be considered to have failed to comply with the requirements of section 607(e) of this title for so long as the failure to comply continues.
+  - **(6)** Each State selected under paragraph (1), in consultation with the Secretary, shall collect and submit to the Secretary data on the performance of the State operating such a pilot program.
+  - **(7)**
+    - **(A)** Not later than 12 months after June 3, 2023 , the Secretary shall submit a report to Congress on the status of the program under this section.
+    - **(B)** Not later than 12 months after the date on which the programs under this section have terminated, the Secretary shall submit a comprehensive report to Congress on outcomes achieved under such programs.
+- **(f)**
+  - **(1)** Each State, in consultation with the Secretary, shall collect and submit to the Secretary the information necessary for each indicator described in paragraph (2), for fiscal year 2025 and each fiscal year thereafter.
+  - **(2)** The indicators described in this paragraph for a fiscal year are the following:
+    - **(A)** The percentage of individuals who were work-eligible individuals as of the time of exit from the program, who are in unsubsidized employment during the second quarter after the exit.
+    - **(B)** The percentage of individuals who were work-eligible individuals who were in unsubsidized employment in the second quarter after the exit, who are also in unsubsidized employment during the fourth quarter after the exit.
+    - **(C)** The median earnings of individuals who were work-eligible individuals as of the time of exit from the program, who are in unsubsidized employment during the second quarter after the exit.
+    - **(D)** The percentage of individuals who have not attained 24 years of age, are attending high school or enrolled in an equivalency program, and are work-eligible individuals or were work-eligible individuals as of the time of exit from the program, who obtain a high school degree or its recognized equivalent while receiving assistance under the State program funded under this part or within 1 year after the exit.
+  - **(3)** In paragraph (2), the term “exit” means, with respect to a State program funded under this part, ceases to receive assistance under the program funded by this part.
+  - **(4)** In order to ensure nationwide comparability of data, the Secretary, after consultation with the Secretary of Labor and with States, shall issue regulations governing the reporting of performance indicators under this subsection.

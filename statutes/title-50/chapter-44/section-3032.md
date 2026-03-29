@@ -3,9 +3,9 @@ title: "Section 3032 - Chief Information Officer"
 usc_title: 50
 usc_section: "3032"
 chapter: 44
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3032"
-generated_at: "2026-03-29T19:44:52.831Z"
+generated_at: "2026-03-29T20:01:07.319Z"
 ---
 
 # § 3032. Chief Information Officer
@@ -17,3 +17,4 @@ generated_at: "2026-03-29T19:44:52.831Z"
   - **(3)** direct and manage all information technology-related procurement for the intelligence community; and
   - **(4)** ensure that all expenditures for information technology and research and development activities are consistent with the intelligence community enterprise architecture and the strategy of the Director for such architecture.
 - **(c)** An individual serving in the position of Chief Information Officer of the Intelligence Community may not, while so serving, serve as the chief information officer of any other department or agency, or component thereof, of the United States Government.
+- **(d)** An individual serving in the position of Chief Information Officer of the Intelligence Community or chief information officer of any other element of the intelligence community shall not concurrently serve as the Intelligence Community Chief Data Officer under section 3034b of this title and as the chief data officer of any other element of the intelligence community.

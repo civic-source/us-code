@@ -3,9 +3,9 @@ title: "Section 8837 - Commercialization demonstration program pursuant to Feder
 usc_title: 42
 usc_section: "8837"
 chapter: 96
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 8837"
-generated_at: "2026-03-29T19:31:45.483Z"
+generated_at: "2026-03-29T20:00:55.253Z"
 ---
 
 # § 8837. Commercialization demonstration program pursuant to Federal nonnuclear energy research and development
@@ -20,6 +20,6 @@ generated_at: "2026-03-29T19:31:45.483Z"
     - **(D)** the evaluation of municipal waste energy projects for the purpose of developing a base of engineering data that can be used in the design of future municipal waste energy projects to recover energy from municipal wastes; and
     - **(E)** research studies on the size and other significant characteristics of potential markets for municipal waste-to-energy recovery technologies, and recovered energy, and energy intensive materials.
 - **(b)** Under such program, the Secretary of Energy may provide financial assistance consisting of price supports, loans, and loan guarantees, for the cost of planning, designing, constructing, operating, and maintaining demonstration facilities, and, in the case of existing facilities, modifications of such facilities solely for demonstration purposes, for the conversion of municipal wastes into energy or the recovery of materials.
-- **(c)** Priority for funding of activities under subsection (a) of this section and financial assistance under subsection (b) of this section shall be provided for any activity or project for the demonstration of technologies for the production of liquid fuels or biomass energy which substitute for petroleum or natural gas.
+- **(c)** Priority for funding of activities under subsection (a) and financial assistance under subsection (b) shall be provided for any activity or project for the demonstration of technologies for the production of liquid fuels or biomass energy which substitute for petroleum or natural gas.
 - **(d)** The Secretary of Energy may not obligate or expend any funds authorized under this chapter in carrying out subsection (b) of this section until the plan required under section 8831(a) of this title has been prepared and submitted to the Congress.
 - **(e)** All amounts received by the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by the Secretary from operations under this section shall be deposited in the general fund of the Treasury of the United States as miscellaneous receipts.

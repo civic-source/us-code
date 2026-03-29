@@ -1,14 +1,14 @@
 ---
-title: "Section 1502 - Custody and printing of Federal documents; appointment of Director"
+title: "Section 1502 - Custody and publishing of Federal documents; appointment of Director"
 usc_title: 44
 usc_section: "1502"
 chapter: 15
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "44 U.S.C. § 1502"
-generated_at: "2026-03-29T19:30:59.106Z"
+generated_at: "2026-03-29T19:59:33.818Z"
 ---
 
-# § 1502. Custody and printing of Federal documents; appointment of Director
+# § 1502. Custody and publishing of Federal documents; appointment of Director
 
-The Archivist of the United States, acting through the Office of the Federal Register, is charged with the custody and, together with the Director of the Government Publishing Office, with the prompt and uniform printing and distribution of the documents required or authorized to be published by section 1505 of this title . There shall be at the head of the Office a director, appointed by, and who shall act under the general direction of, the Archivist of the United States in carrying out this chapter and the regulations prescribed under it.
+The Archivist of the United States, acting through the Office of the Federal Register, is charged with the custody and, together with the Director of the Government Publishing Office, with the prompt and uniform publishing of the documents required or authorized to be published by section 1505 of this title . There shall be at the head of the Office a director, appointed by, and who shall act under the general direction of, the Archivist of the United States in carrying out this chapter and the regulations prescribed under it.
 

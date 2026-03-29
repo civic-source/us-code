@@ -1,14 +1,14 @@
 ---
-title: "Section 17111 - Energy-intensive industries program"
+title: "Section 17111 - Future of industry program"
 usc_title: 42
 usc_section: "17111"
 chapter: 152
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 17111"
-generated_at: "2026-03-29T19:31:45.881Z"
+generated_at: "2026-03-29T20:00:55.602Z"
 ---
 
-# § 17111. Energy-intensive industries program
+# § 17111. Future of industry program
 
 - **(a)** In this section:
   - **(1)** The term “eligible entity” means—
@@ -28,7 +28,8 @@ generated_at: "2026-03-29T19:31:45.881Z"
       - **(vi)** petroleum refining;
       - **(vii)** mining; and
       - **(viii)** steel;
-    - **(E)** other energy-intensive industries, as determined by the Secretary.
+    - **(E)** water and wastewater treatment facilities, including systems that treat municipal, industrial, and agricultural waste; and
+    - **(F)** other energy-intensive industries, as determined by the Secretary.
   - **(3)** The term “feedstock” means the raw material supplied for use in manufacturing, chemical, and biological processes.
   - **(4)** The term “partnership” means an energy efficiency partnership established under subsection (c)(1)(A).
   - **(5)** The term “program” means the energy-intensive industries program established under subsection (b).
@@ -59,13 +60,7 @@ generated_at: "2026-03-29T19:31:45.881Z"
     - **(C)** The provision of funding under this subsection shall be on a competitive basis.
   - **(4)** In carrying out this section, the Secretary shall require cost sharing in accordance with section 16352 of this title .
 - **(d)** The Secretary may award competitive grants for innovative technology research, development and demonstrations to universities, individual inventors, and small companies, based on energy savings potential, commercial viability, and technical merit.
-- **(e)** The Secretary shall provide funding to institution of higher education-based industrial research and assessment centers, whose purpose shall be—
-  - **(1)** to identify opportunities for optimizing energy efficiency and environmental performance;
-  - **(2)** to promote applications of emerging concepts and technologies in small- and medium-sized manufacturers;
-  - **(3)** to promote research and development for the use of alternative energy sources to supply heat, power, and new feedstocks for energy-intensive industries;
-  - **(4)** to coordinate with appropriate Federal and State research offices, and provide a clearinghouse for industrial process and energy efficiency technical assistance resources; and
-  - **(5)** to coordinate with State-accredited technical training centers and community colleges, while ensuring appropriate services to all regions of the United States.
-- **(f)**
+- **(e)**
   - **(1)** There are authorized to be appropriated to the Secretary to carry out this section—
     - **(A)** $184,000,000 for fiscal year 2008;
     - **(B)** $190,000,000 for fiscal year 2009;

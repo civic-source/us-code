@@ -3,9 +3,9 @@ title: "Section 17932 - Notification in the case of breach"
 usc_title: 42
 usc_section: "17932"
 chapter: 156
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 17932"
-generated_at: "2026-03-29T19:31:45.911Z"
+generated_at: "2026-03-29T20:00:55.634Z"
 ---
 
 # § 17932. Notification in the case of breach
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T19:31:45.911Z"
   - **(1)**
     - **(A)** Subject to subparagraph (B), for purposes of this section, the term “unsecured protected health information” means protected health information that is not secured through the use of a technology or methodology specified by the Secretary in the guidance issued under paragraph (2).
     - **(B)** In the case that the Secretary does not issue guidance under paragraph (2) by the date specified in such paragraph, for purposes of this section, the term “unsecured protected health information” shall mean protected health information that is not secured by a technology standard that renders protected health information unusable, unreadable, or indecipherable to unauthorized individuals and is developed or endorsed by a standards developing organization that is accredited by the American National Standards Institute.
-  - **(2)** For purposes of paragraph (1) and section 17937(f)(3) of this title , not later than the date that is 60 days after February 17, 2009 , the Secretary shall, after consultation with stakeholders, issue (and annually update) guidance specifying the technologies and methodologies that render protected health information unusable, unreadable, or indecipherable to unauthorized individuals, including the use of standards developed under section 300jj–12(b)(2)(B)(vi) of this title , as added by section 13101 of this Act.
+  - **(2)** For purposes of paragraph (1) and section 17937(f)(3) of this title , not later than the date that is 60 days after February 17, 2009 , the Secretary shall, after consultation with stakeholders, issue (and annually update) guidance specifying the technologies and methodologies that render protected health information unusable, unreadable, or indecipherable to unauthorized individuals, including the use of standards developed under section 300jj–12(b)(2)(B)(vi) 2 2 See References in Text note below. of this title, as added by section 13101 of this Act.
 - **(i)**
   - **(1)** Not later than 12 months after February 17, 2009 , and annually thereafter, the Secretary shall prepare and submit to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives a report containing the information described in paragraph (2) regarding breaches for which notice was provided to the Secretary under subsection (e)(3).
   - **(2)** The information described in this paragraph regarding breaches specified in paragraph (1) shall include—

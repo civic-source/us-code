@@ -3,9 +3,9 @@ title: "Section 3057e - Applications"
 usc_title: 42
 usc_section: "3057e"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3057e"
-generated_at: "2026-03-29T19:31:45.078Z"
+generated_at: "2026-03-29T20:00:54.853Z"
 ---
 
 # § 3057e. Applications
@@ -24,11 +24,11 @@ generated_at: "2026-03-29T19:31:45.078Z"
   - **(11)** contain assurances that the tribal organization will coordinate services provided under this part with services provided under subchapter III in the same geographical area.
 - **(b)** For the purpose of any application submitted under this part, the tribal organization may develop its own population statistics, with approval from the Bureau of Indian Affairs, in order to establish eligibility.
 - **(c)**
-  - **(1)** The Assistant Secretary shall approve any application which complies with the provisions of subsection (a) of this section.
-  - **(2)** The Assistant Secretary shall provide waivers and exemptions of the reporting requirements of subsection (a)(3) of this section for applicants that serve Indian populations in geographically isolated areas, or applicants that serve small Indian populations, where the small scale of the project, the nature of the applicant, or other factors make the reporting requirements unreasonable under the circumstances. The Assistant Secretary shall consult with such applicants in establishing appropriate waivers and exemptions.
-  - **(3)** The Assistant Secretary shall approve any application that complies with the provisions of subsection (a) of this section, except that in determining whether an application complies with the requirements of subsection (a)(8) of this section, the Assistant Secretary shall provide maximum flexibility to an applicant that seeks to take into account subsistence needs, local customs, and other characteristics that are appropriate to the unique cultural, regional, and geographic needs of the Indian populations to be served.
-  - **(4)** In determining whether an application complies with the requirements of subsection (a)(12) 1 1 See References in Text note below. of this section, the Assistant Secretary shall require only that an applicant provide an appropriate narrative description of the geographic area to be served and an assurance that procedures will be adopted to ensure against duplicate services being provided to the same recipients.
-- **(d)** Whenever the Assistant Secretary determines not to approve an application submitted under subsection (a) of this section the Assistant Secretary shall—
+  - **(1)** The Assistant Secretary shall approve any application which complies with the provisions of subsection (a).
+  - **(2)** The Assistant Secretary shall provide waivers and exemptions of the reporting requirements of subsection (a)(3) for applicants that serve Indian populations in geographically isolated areas, or applicants that serve small Indian populations, where the small scale of the project, the nature of the applicant, or other factors make the reporting requirements unreasonable under the circumstances. The Assistant Secretary shall consult with such applicants in establishing appropriate waivers and exemptions.
+  - **(3)** The Assistant Secretary shall approve any application that complies with the provisions of subsection (a), except that in determining whether an application complies with the requirements of subsection (a)(8), the Assistant Secretary shall provide maximum flexibility to an applicant that seeks to take into account subsistence needs, local customs, and other characteristics that are appropriate to the unique cultural, regional, and geographic needs of the Indian populations to be served.
+  - **(4)** In determining whether an application complies with the requirements of subsection (a)(11), the Assistant Secretary shall require only that an applicant provide an appropriate narrative description of the geographic area to be served and an assurance that procedures will be adopted to ensure against duplicate services being provided to the same recipients.
+- **(d)** Whenever the Assistant Secretary determines not to approve an application submitted under subsection (a) the Assistant Secretary shall—
   - **(1)** state objections in writing to the tribal organization within 60 days after such decision;
   - **(2)** provide to the extent practicable technical assistance to the tribal organization to overcome such stated objections; and
   - **(3)** provide the tribal organization with a hearing, under such rules and regulations as the Assistant Secretary may prescribe.

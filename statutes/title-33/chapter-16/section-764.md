@@ -1,12 +1,12 @@
 ---
-title: "Section 764 - Omitted"
+title: "Section 764 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(15) , Dec. 23, 2022 , 136 Stat. 4166"
 usc_title: 33
 usc_section: "764"
 chapter: 16
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 764"
-generated_at: "2026-03-29T19:43:07.596Z"
+generated_at: "2026-03-29T20:00:31.276Z"
 ---
 
-# § 764. Omitted
+# § 764. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(15) , Dec. 23, 2022 , 136 Stat. 4166
 

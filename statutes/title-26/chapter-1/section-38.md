@@ -3,9 +3,9 @@ title: "Section 38 - General business credit"
 usc_title: 26
 usc_section: "38"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 38"
-generated_at: "2026-03-29T19:42:47.492Z"
+generated_at: "2026-03-29T19:59:49.063Z"
 ---
 
 # § 38. General business credit
@@ -44,10 +44,16 @@ generated_at: "2026-03-29T19:42:47.492Z"
   - **(27)** in the case of an eligible agricultural business (as defined in section 45O(e)), the agricultural chemicals security credit determined under section 45O(a),
   - **(28)** the differential wage payment credit determined under section 45P(a),
   - **(29)** the carbon dioxide sequestration credit determined under section 45Q(a),
-  - **(30)** the portion of the new qualified plug-in electric drive motor vehicle credit to which section 30D(c)(1) applies,
+  - **(30)** the portion of the new clean vehicle credit to which section 30D(c)(1) applies,
   - **(31)** the small employer health insurance credit determined under section 45R,
-  - **(32)** in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a), plus
-  - **(33)** in the case of an eligible employer (as defined in section 45T(c)), the retirement auto-enrollment credit determined under section 45T(a).
+  - **(32)** in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a),
+  - **(33)** in the case of an eligible employer (as defined in section 45T(c)), the retirement auto-enrollment credit determined under section 45T(a), plus
+  - **(34)** the zero-emission nuclear power production credit determined under section 45U(a).
+  - **(35)** the sustainable aviation fuel credit determined under section 40B,
+  - **(36)** the clean hydrogen production credit determined under section 45V(a),
+  - **(37)** the qualified commercial clean vehicle credit determined under section 45W, plus
+  - **(38)** the advanced manufacturing production credit determined under section 45X(a).
+  - **(41)** 1 1 See Amendment of Subsection (b) note below. in the case of an eligible small employer (as defined in section 45AA(c)), the military spouse retirement plan eligibility credit determined under section 45AA(a).
 - **(c)**
   - **(1)** The credit allowed under subsection (a) for any taxable year shall not exceed the excess (if any) of the taxpayer’s net income tax over the greater of—
     - **(A)** the tentative minimum tax for the taxable year, or
@@ -92,7 +98,10 @@ generated_at: "2026-03-29T19:42:47.492Z"
     - **(B)** In the case of a controlled group, the $25,000 amount specified under subparagraph (B) of paragraph (1) shall be reduced for each component member of such group by apportioning $25,000 among the component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term “controlled group” has the meaning given to such term by section 1563(a).
     - **(C)** In the case of a person described in subparagraph (A) or (B) of section 46(e)(1) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), the $25,000 amount specified under subparagraph (B) of paragraph (1) shall equal such person’s ratable share (as determined under section 46(e)(2) (as so in effect) of such amount.
     - **(D)** In the case of an estate or trust, the $25,000 amount specified under subparagraph (B) of paragraph (1) shall be reduced to an amount which bears the same ratio to $25,000 as the portion of the income of the estate or trust which is not allocated to beneficiaries bears to the total income of the estate or trust.
-    - **(E)** In the case of a corporation, this subsection shall be applied by treating the corporation as having a tentative minimum tax of zero.
+    - **(E)** In the case of a corporation—
+      - **(i)** the first sentence of paragraph (1) shall be applied by substituting “25 percent of the taxpayer’s net income tax as exceeds $25,000” for “the greater of” and all that follows,
+      - **(ii)** paragraph (2)(A) shall be applied without regard to clause (ii)(I) thereof, and
+      - **(iii)** paragraph (4)(A) shall be applied without regard to clause (ii)(I) thereof.
 - **(d)** For purposes of any provision of this title where it is necessary to ascertain the extent to which the credits determined under any section referred to in subsection (b) are used in a taxable year or as a carryback or carryforward—
   - **(1)** The order in which such credits are used shall be determined on the basis of the order in which they are listed in subsection (b) as of the close of the taxable year in which the credit is used.
   - **(2)** The order in which the credits listed in section 46 are used shall be determined on the basis of the order in which such credits are listed in section 46 as of the close of the taxable year in which the credit is used.

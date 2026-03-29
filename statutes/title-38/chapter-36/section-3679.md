@@ -3,9 +3,9 @@ title: "Section 3679 - Disapproval of courses"
 usc_title: 38
 usc_section: "3679"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3679"
-generated_at: "2026-03-29T19:43:27.025Z"
+generated_at: "2026-03-29T20:00:43.085Z"
 ---
 
 # § 3679. Disapproval of courses
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T19:43:27.025Z"
       - **(ii)** not later than 90 days after the date on which any such requirements change, the updated requirements.
   - **(5)** The Secretary may waive such requirements of paragraph (1) as the Secretary considers appropriate.
   - **(6)** Disapproval under paragraph (1) shall apply only with respect to educational assistance under chapters 30, 31, 33, and 35 of this title.
-- **(d)** Notwithstanding any other provision of this chapter, the Secretary or the applicable State approving agency shall disapprove a course of education described in paragraph (14) or (15) of section 3676(c) of this title unless the educational institution providing the course of education—
+- **(d)** Notwithstanding any other provision of this chapter, the Secretary or the applicable State approving agency shall disapprove a course of education described in paragraph (15) or (16) of section 3676(c) of this title unless the educational institution providing the course of education—
   - **(1)** publicly discloses any conditions or additional requirements, including training, experience, or examinations, required to obtain the license, certification, or approval for which the course of education is designed to provide preparation; and
   - **(2)** makes each disclosure required by paragraph (1) in a manner that the Secretary considers prominent (as specified by the Secretary in regulations prescribed for purposes of this subsection).
 - **(e)**
@@ -75,6 +75,7 @@ generated_at: "2026-03-29T19:43:27.025Z"
       - **(i)** ensures that members of the Armed Forces, including the reserve components and the National Guard, who enroll in a course of education at the educational institution may be readmitted at such institution if such members are temporarily unavailable or have to suspend such enrollment by reason of serving in the Armed Forces; and
       - **(ii)** otherwise accommodates such members during short absences by reason of such service.
     - **(H)** Designate an employee of the educational institution to serve as a point of contact for covered individuals and the family of such individuals needing assistance with respect to academic counseling, financial counseling, disability counseling, and other information regarding completing a course of education at such institution, including by referring such individuals and family to the appropriate persons for such counseling and information.
+    - **(I)** Comply with the notification requirements under sections 3675(b)(5) and 3676(c)(14) of this title, when applicable.
   - **(2)** Except as provided by paragraph (5), a State approving agency, or the Secretary when acting in the role of the State approving agency, shall take an action described in paragraph (4)(A) if the State approving agency, the Secretary, or any Federal agency, determines that an educational institution, or any person with whom the institution has an agreement to provide educational programs, marketing, advertising, recruiting or admissions services, does any of the following:
     - **(A)** Carries out deceptive or persistent recruiting techniques, including on military installations, that may include—
       - **(i)** misrepresentation (as defined in section 3696(e)(2)(B) 2 2 See References in Text note below. of this title) or payment of incentive compensation;

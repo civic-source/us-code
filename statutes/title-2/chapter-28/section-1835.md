@@ -3,9 +3,9 @@ title: "Section 1835 - Interagency details"
 usc_title: 2
 usc_section: "1835"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 1835"
-generated_at: "2026-03-29T19:42:59.666Z"
+generated_at: "2026-03-29T19:56:57.225Z"
 ---
 
 # § 1835. Interagency details

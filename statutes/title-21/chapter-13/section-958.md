@@ -3,9 +3,9 @@ title: "Section 958 - Registration requirements"
 usc_title: 21
 usc_section: "958"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 958"
-generated_at: "2026-03-29T19:41:41.719Z"
+generated_at: "2026-03-29T19:59:28.529Z"
 ---
 
 # § 958. Registration requirements
@@ -13,10 +13,10 @@ generated_at: "2026-03-29T19:41:41.719Z"
 - **(a)** The Attorney General shall register an applicant to import or export a controlled substance in schedule I or II if he determines that such registration is consistent with the public interest and with United States obligations under international treaties, conventions, or protocols in effect on May 1, 1971 . In determining the public interest, the factors enumerated in paragraph (1) through (6) of section 823(a) of this title shall be considered.
 - **(b)** Registration granted under this section shall not entitle a registrant to import or export controlled substances other than specified in the registration.
 - **(c)**
-  - **(1)** The Attorney General shall register an applicant to import a controlled substance in schedule III, IV, or V or to export a controlled substance in schedule III or IV, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the factors enumerated in paragraphs (1) through (6) of section 823(d) of this title shall be considered.
+  - **(1)** The Attorney General shall register an applicant to import a controlled substance in schedule III, IV, or V or to export a controlled substance in schedule III or IV, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the factors enumerated in paragraphs (1) through (6) of section 823(e) of this title shall be considered.
   - **(2)**
     - **(A)** The Attorney General shall register an applicant to import or export a list I chemical unless the Attorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the import or export of a drug product that is exempted under section 802(39)(A)(iv) of this title .
-    - **(B)** In determining the public interest for the purposes of subparagraph (A), the Attorney General shall consider the factors specified in section 823(h) of this title .
+    - **(B)** In determining the public interest for the purposes of subparagraph (A), the Attorney General shall consider the factors specified in section 823(i) of this title .
 - **(d)**
   - **(1)** The Attorney General may deny an application for registration under subsection (a) if he is unable to determine that such registration is consistent with the public interest (as defined in subsection (a)) and with the United States obligations under international treaties, conventions, or protocols in effect on May 1, 1971 .
   - **(2)** The Attorney General may deny an application for registration under subsection (c), or revoke or suspend a registration under subsection (a) or (c), if he determines that such registration is inconsistent with the public interest (as defined in subsection (a) or (c)) or with the United States obligations under international treaties, conventions, or protocols in effect on May 1, 1971 .

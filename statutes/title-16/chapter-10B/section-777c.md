@@ -3,9 +3,9 @@ title: "Section 777c - Division of annual appropriations"
 usc_title: 16
 usc_section: "777c"
 chapter: 10
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 777c"
-generated_at: "2026-03-29T19:41:13.600Z"
+generated_at: "2026-03-29T19:59:08.205Z"
 ---
 
 # § 777c. Division of annual appropriations
@@ -21,9 +21,9 @@ generated_at: "2026-03-29T19:41:13.600Z"
   - **(1)**
     - **(A)** From the annual appropriation made in accordance with section 777b of this title , for each fiscal year through fiscal year 2026, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title . The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
     - **(B)** The available amount referred to in subparagraph (A) is—
-      - **(i)** for the fiscal year that includes November 15, 2021 , the sum obtained by adding—
-        - **(I)** the available amount specified in this subparagraph for the preceding fiscal year; and
-        - **(II)** $979,500; and
+      - **(i)** for the fiscal year that includes November 15, 2021 , the product obtained by multiplying—
+        - **(I)** $12,786,434; and
+        - **(II)** the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor; and
       - **(ii)** for each fiscal year thereafter, the sum obtained by adding—
         - **(I)** the available amount specified in this subparagraph for the preceding fiscal year; and
         - **(II)** the product obtained by multiplying—

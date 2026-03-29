@@ -3,9 +3,9 @@ title: "Section 130i - Protection of certain facilities and assets from unmanned
 usc_title: 10
 usc_section: "130i"
 chapter: 3
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 130i"
-generated_at: "2026-03-29T19:43:37.774Z"
+generated_at: "2026-03-29T19:58:01.929Z"
 ---
 
 # § 130i. Protection of certain facilities and assets from unmanned aircraft
@@ -48,8 +48,8 @@ generated_at: "2026-03-29T19:43:37.774Z"
   - **(1)** vest in the Secretary of Defense any authority of the Secretary of Transportation or the Administrator of the Federal Aviation Administration under title 49; and
   - **(2)** vest in the Secretary of Transportation or the Administrator of the Federal Aviation Administration any authority of the Secretary of Defense under this title.
 - **(i)**
-  - **(1)** Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C) shall terminate on December 31, 2023 .
-  - **(2)** The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2023 , the President certifies to Congress that such extension is in the national security interests of the United States.
+  - **(1)** Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C) shall terminate on December 31, 2026 .
+  - **(2)** The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2026 , the President certifies to Congress that such extension is in the national security interests of the United States.
 - **(j)** In this section:
   - **(1)** The term “appropriate congressional committees” means—
     - **(A)** the congressional defense committees;
@@ -68,7 +68,7 @@ generated_at: "2026-03-29T19:43:37.774Z"
       - **(vi)** combat support agencies (as defined in paragraphs (1) through (4) of section 193(f) of this title );
       - **(vii)** special operations activities specified in paragraphs (1) through (9) of section 167(k) of this title ;
       - **(viii)** production, storage, transportation, or decommissioning of high-yield explosive munitions, by the Department; or
-      - **(ix)** a Major Range and Test Facility Base (as defined in sections 1 1 So in original. Probably should be “section”. 4173(i) of this title).
+      - **(ix)** a Major Range and Test Facility Base (as defined in section 4173 of this title ).
   - **(4)** The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
   - **(5)** The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meanings given those terms in section 2510 of title 18 .
   - **(6)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801 of title 49 .

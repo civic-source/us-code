@@ -3,17 +3,17 @@ title: "Section 5373 - Regulations"
 usc_title: 25
 usc_section: "5373"
 chapter: 46
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 5373"
-generated_at: "2026-03-29T19:41:28.499Z"
+generated_at: "2026-03-29T19:59:16.481Z"
 ---
 
 # § 5373. Regulations
 
 - **(a)**
   - **(1)** Not later than 90 days after October 21, 2020 , the Secretary shall initiate procedures under subchapter III of chapter 5 of title 5 to negotiate and promulgate such regulations as are necessary to carry out this subchapter.
-  - **(2)** Proposed regulations to implement this subchapter shall be published in the Federal Register not later than 21 months after October 21, 2020 .
-  - **(3)** The authority to promulgate regulations under paragraph (1) shall expire on the date that is 30 months after October 21, 2020 .
+  - **(2)** Proposed regulations to implement this subchapter shall be published in the Federal Register not later than 38 months after October 21, 2020 .
+  - **(3)** The authority to promulgate regulations under paragraph (1) shall expire on the date that is 50 months after October 21, 2020 .
 - **(b)**
   - **(1)** A negotiated rulemaking committee established pursuant to section 565 of title 5 to carry out this section shall have as its members only representatives of the Federal Government and Tribal government.
   - **(2)** Among the Federal representatives described in paragraph (1), the Office of Self-Governance shall be the lead agency for the Department.

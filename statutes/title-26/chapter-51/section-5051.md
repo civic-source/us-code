@@ -3,9 +3,9 @@ title: "Section 5051 - Imposition and rate of tax"
 usc_title: 26
 usc_section: "5051"
 chapter: 51
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 5051"
-generated_at: "2026-03-29T19:42:47.917Z"
+generated_at: "2026-03-29T19:59:49.536Z"
 ---
 
 # § 5051. Imposition and rate of tax
@@ -36,6 +36,17 @@ generated_at: "2026-03-29T19:42:47.917Z"
     - **(A)** Except as provided in subparagraph (B), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(A)(i) and the 2,000,000 barrel quantity specified in paragraph (2)(A) shall be applied to the controlled group, and the 6,000,000 barrel quantity specified in paragraph (1)(A)(i) and the 60,000 barrel quantity specified in paragraph (2)(A) shall be apportioned among the brewers who are members of such group in such manner as the Secretary or their delegate shall by regulations prescribe. For purposes of the preceding sentence, the term “controlled group” has the meaning assigned to it by subsection (a) of section 1563, except that for such purposes the phrase “more than 50 percent” shall be substituted for the phrase “at least 80 percent” in each place it appears in such subsection. Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
     - **(B)** For purposes of paragraph (4), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(A)(i) shall be applied to the controlled group and apportioned among the members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term “controlled group” has the meaning given such term under subparagraph (A). Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
     - **(C)** Pursuant to rules issued by the Secretary, two or more entities (whether or not under common control) that produce beer under a license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
+  - **(6)**
+    - **(A)** In the case of any barrels of beer which have been produced outside the United States and imported into the United States, if such barrels of beer are removed after December 31, 2022 —
+      - **(i)** paragraph (1)(A)(i) shall not apply, and
+      - **(ii)** the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
+    - **(B)** The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—
+      - **(i)** excess (if any) of—
+        - **(I)** the amount of tax imposed under this section on barrels of beer referred to in subparagraph (A) which were removed during such period, over
+        - **(II)** the amount of tax which would have been imposed under this section on such barrels of beer if this section were applied without regard to this paragraph, plus
+      - **(ii)** the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.
+    - **(C)** Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (4) and the barrels of beer have been assigned to the importer pursuant to such paragraph.
+    - **(D)** For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting “90 days” for “45 days” each place it appears.
 - **(b)** Nothing contained in this subpart or subchapter G shall be construed to authorize an assessment on the quantity of materials used in producing or purchased for the purpose of producing beer, nor shall the quantity of materials so used or purchased be evidence, for the purpose of taxation, of the quantity of beer produced; but the tax on all beer shall be paid as provided in section 5054, and not otherwise; except that this subsection shall not apply to cases of fraud, and nothing in this subsection shall have the effect to change the rules of law respecting evidence in any prosecution or suit.
 - **(c)** The production of any beer at any place in the United States shall be subject to tax at the rate prescribed in subsection (a) and such tax shall be due and payable as provided in section 5054(a)(3) unless—
   - **(1)** such beer is produced in a brewery qualified under the provisions of subchapter G, or

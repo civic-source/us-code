@@ -3,9 +3,9 @@ title: "Section 6851 - Civil action relating to disclosure of intimate images"
 usc_title: 15
 usc_section: "6851"
 chapter: 94
-current_through: "PL 117-200"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 6851"
-generated_at: "2026-03-29T18:49:04.531Z"
+generated_at: "2026-03-29T19:58:17.885Z"
 ---
 
 # § 6851. Civil action relating to disclosure of intimate images
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T18:49:04.531Z"
 - **(b)**
   - **(1)**
     - **(A)** Except as provided in paragraph (4), an individual whose intimate visual depiction is disclosed, in or affecting interstate or foreign commerce or using any means or facility of interstate or foreign commerce, without the consent of the individual, where such disclosure was made by a person who knows that, or recklessly disregards whether, the individual has not consented to such disclosure, may bring a civil action against that person in an appropriate district court of the United States for relief as set forth in paragraph (3).
-    - **(B)** In the case of an individual who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the individual or representative of the identifiable individual’s estate, another family member, or any other person appointed as suitable by the court, may assume the identifiable individual’s’ rights under this section, but in no event shall the defendant be named as such representative or guardian.
+    - **(B)** In the case of an individual who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the individual or representative of the identifiable individual’s estate, another family member, or any other person appointed as suitable by the court, may assume the identifiable individual’s’ 1 rights under this section, but in no event shall the defendant be named as such representative or guardian.
   - **(2)** For purposes of an action under paragraph (1)—
     - **(A)** the fact that the individual consented to the creation of the depiction shall not establish that the person consented to its distribution; and
     - **(B)** the fact that the individual disclosed the intimate visual depiction to someone else shall not establish that the person consented to the further disclosure of the intimate visual depiction by the person alleged to have violated paragraph (1).

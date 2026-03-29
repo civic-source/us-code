@@ -3,9 +3,9 @@ title: "Section 4071 - Federal operation of program; determination by Administra
 usc_title: 42
 usc_section: "4071"
 chapter: 50
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4071"
-generated_at: "2026-03-29T19:31:45.148Z"
+generated_at: "2026-03-29T20:00:54.896Z"
 ---
 
 # § 4071. Federal operation of program; determination by Administrator; fiscal agents; report to Congress
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:31:45.148Z"
   - **(1)** insurance companies and other insurers, insurance agents and brokers, and insurance adjustment organizations, as fiscal agents of the United States,
   - **(2)** such other officers and employees of any executive agency (as defined in section 105 of title 5 ) as the Administrator and the head of any such agency may from time to time, agree upon, on a reimbursement or other basis, or
   - **(3)** both the alternatives specified in paragraphs (1) and (2).
-- **(b)** Upon making the determination referred to in subsection (a) of this section, the Administrator shall make a report to the Congress and, at the same time, to the private insurance companies participating in the National Flood Insurance Program pursuant to section 4017 of this title . Such report shall—
+- **(b)** Upon making the determination referred to in subsection (a), the Administrator shall make a report to the Congress and, at the same time, to the private insurance companies participating in the National Flood Insurance Program pursuant to section 4017 of this title . Such report shall—
   - **(1)** state the reason for such determinations,
   - **(2)** be supported by pertinent findings,
   - **(3)** indicate the extent to which it is anticipated that the insurance industry will be utilized in providing flood insurance coverage under the program, and

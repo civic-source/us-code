@@ -3,9 +3,9 @@ title: "Section 31 - Authorization of appropriations"
 usc_title: 22
 usc_section: "31"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 31"
-generated_at: "2026-03-29T19:42:07.953Z"
+generated_at: "2026-03-29T19:59:23.979Z"
 ---
 
 # § 277d–31. Authorization of appropriations

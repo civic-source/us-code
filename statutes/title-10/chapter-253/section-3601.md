@@ -3,9 +3,9 @@ title: "Section 3601 - Procedures for urgent acquisition and deployment of capab
 usc_title: 10
 usc_section: "3601"
 chapter: 253
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3601"
-generated_at: "2026-03-29T02:10:45.190Z"
+generated_at: "2026-03-29T19:58:02.234Z"
 ---
 
 # § 3601. Procedures for urgent acquisition and deployment of capabilities needed in response to urgent operational needs or vital national security interest
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T02:10:45.190Z"
       - **(iii)** are based on technologies that are proven and available; and
       - **(iv)** can appropriately be acquired under fixed-price contracts;
     - **(B)** that can be developed or procured under a rapid acquisition pathway; or
-    - **(C)** with respect to an armed attack by a country of concern (as defined in section 1(m) of the State Department Basic Authorities Act of 1956 ( 22 U.S.C. 2651a(m) )), to which the United States is not a party, for purposes of—
+    - **(C)** with respect to an armed attack by a country of concern (as defined in section 1(m) of the State Department Basic Authorities Act of 1956 ( 22 U.S.C. 2651a(m) ), to which the United States is not a party, for purposes of—
       - **(i)** replenishing United States stockpiles of defense articles when such stockpiles are diminished as a result of the United States providing defense articles in response to such armed attack by a country of concern against—
         - **(I)** a United States ally (as that term is defined in section 201(d) of the Act of December 2, 1942 , titled “To provide benefits for the injury, disability, death, or enemy detention of employees of contractors with the United States, and for other purposes” ( 56 Stat. 1028 , chapter 668; 42 U.S.C. 1711(d) )); or
         - **(II)** a United States partner; or

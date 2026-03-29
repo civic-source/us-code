@@ -1,33 +1,69 @@
 ---
-title: "Section 2 - Partnerships for innovation"
+title: "Section 2 - Oversight of NSF major multi-user research facility projects"
 usc_title: 42
 usc_section: "2"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T19:31:44.977Z"
+generated_at: "2026-03-29T20:00:54.725Z"
 ---
 
-# § 1862p–2. Partnerships for innovation
+# § 1862s–2. Oversight of NSF major multi-user research facility projects
 
-- **(a)** The Director shall carry out a program to award merit-reviewed, competitive grants to institutions of higher education to establish and to expand partnerships that promote innovation and increase the impact of research by developing tools and resources to connect new scientific discoveries to practical uses.
+- **(a)**
+  - **(1)** The Director of the Foundation shall strengthen oversight and accountability over the full life-cycle of each major multi-user research facility project, including planning, development, procurement, construction, operations, and support, and shut-down of the facility, in order to maximize research investment.
+  - **(2)** In carrying out paragraph (1), the Director shall—
+    - **(A)** prioritize the scientific outcomes of a major multi-user research facility project and the internal management and financial oversight of the major multi-user research facility project;
+    - **(B)** clarify the roles and responsibilities of all organizations, including offices, panels, committees, and directorates, involved in supporting a major multi-user research facility project, including the role of the Major Research Equipment and Facilities Construction Panel;
+    - **(C)** establish policies and procedures for the planning, management, and oversight of a major multi-user research facility project at each phase of the life-cycle of the major multi-user research facility project;
+    - **(D)** ensure that policies for estimating and managing costs and schedules are consistent with the best practices described in the Government Accountability Office Cost Estimating and Assessment Guide, the Government Accountability Office Schedule Assessment Guide, and the Office of Management and Budget Uniform Guidance (2 C.F.R. Part 200);
+    - **(E)** establish the appropriate project management and financial management expertise required for Foundation staff to oversee each major multi-user research facility project effectively, including by improving project management training and certification;
+    - **(F)** coordinate the sharing of the best management practices and lessons learned from each major multi-user research facility project;
+    - **(G)** continue to maintain a Large Facilities Office to support the research directorates in the development, implementation, and oversight of each major multi-user research facility project, including by—
+      - **(i)** serving as the Foundation’s primary resource for all policy or process issues related to the development, implementation, and oversight of a major multi-user research facility project;
+      - **(ii)** serving as a Foundation-wide resource on project management, including providing expert assistance on nonscientific and nontechnical aspects of project planning, budgeting, implementation, management, and oversight;
+      - **(iii)** coordinating and collaborating with research directorates to share best management practices and lessons learned from prior major multi-user research facility projects; and
+      - **(iv)** assessing each major multi-user research facility project for cost and schedule risk; and
+    - **(H)** appoint a senior agency official whose responsibility is oversight of the development, construction, and operations of major multi-user research facilities across the Foundation.
 - **(b)**
-  - **(1)** To be eligible for funding under this section, an institution of higher education must propose establishment of a partnership that—
-    - **(A)** includes at least one private sector entity; and
-    - **(B)** may include other institutions of higher education, public sector institutions, private sector entities, and nonprofit organizations.
-  - **(2)** In selecting grant recipients under this section, the Director shall give priority to partnerships that include one or more institutions of higher education and at least one of the following:
-    - **(A)** A minority serving institution.
-    - **(B)** A primarily undergraduate institution.
-    - **(C)** A 2-year institution of higher education.
-- **(c)** Proposals funded under this section shall seek—
-  - **(1)** to increase the impact of the most promising research at the institution or institutions of higher education that are members of the partnership through knowledge transfer or commercialization;
-  - **(2)** to increase the engagement of faculty and students across multiple disciplines and departments, including faculty and students in schools of business and other appropriate non-STEM fields and disciplines in knowledge transfer activities;
-  - **(3)** to enhance education and mentoring of students and faculty in innovation and entrepreneurship through networks, courses, and development of best practices and curricula;
-  - **(4)** to strengthen the culture of the institution or institutions of higher education to undertake and participate in activities related to innovation and leading to economic or social impact;
-  - **(5)** to broaden the participation of all types of institutions of higher education in activities to meet STEM workforce needs and promote innovation and knowledge transfer; and
-  - **(6)** to build lasting partnerships with local and regional businesses, local and State governments, and other relevant entities.
-- **(d)** In selecting grant recipients under this section, the Director shall also consider the extent to which the applicants are able to demonstrate evidence of institutional support for, and commitment to—
-  - **(1)** achieving the goals of the program as described in subsection (c);
-  - **(2)** expansion to an institution-wide program if the initial proposal is not for an institution-wide program; and
-  - **(3)** sustaining any new innovation tools and resources generated from funding under this program.
-- **(e)** No funds provided under this section may be used to construct or renovate a building or structure.
+  - **(1)** Subject to subsection (c)(1), the Director of the Foundation shall require that any pre-award analysis of a major multi-user research facility project includes the development and consideration of the full life-cycle cost (as defined in section 2 of the National Science Foundation Authorization Act of 1998 ( 42 U.S.C. 1862k note)) in accordance with section 1862n–4 of this title .
+  - **(2)** Based on the pre-award analysis described in paragraph (1), the Director of the Foundation shall include projected operational costs within the Foundation’s out-years as part of the President’s annual budget submission to Congress under section 1105 of title 31 .
+- **(c)**
+  - **(1)**
+    - **(A)** The Director of the Foundation and the National Science Board may not approve or execute any agreement to start construction on any proposed major multi-user research facility project unless—
+      - **(i)** an external analysis of the proposed budget has been conducted to ensure the proposal is complete and reasonable;
+      - **(ii)** the analysis under clause (i) follows the Government Accountability Office Cost Estimating and Assessment Guide;
+      - **(iii)** except as provided under subparagraph (C), an analysis of the accounting systems has been conducted;
+      - **(iv)** an independent cost estimate of the construction of the project has been conducted using the same detailed technical information as the project proposal estimate to determine whether the estimate is well-supported and realistic; and
+      - **(v)** the Foundation and the National Science Board have considered the analyses under clauses (i) and (iii) and the independent cost estimate under clause (iv) and resolved any major issues identified therein.
+    - **(B)** An external analysis under subparagraph (A)(i) may include an audit.
+    - **(C)** The Director of the Foundation, at the Director’s discretion, may waive the requirement under subparagraph (A)(iii) if a similar analysis of the accounting systems was conducted in the prior years.
+  - **(2)** The Director of the Foundation shall require for each major multi-user research facility project—
+    - **(A)** periodic external reviews on project management and performance;
+    - **(B)** adequate internal controls, policies, and procedures, and reliable accounting systems in preparation for the incurred cost audits under subparagraph (D);
+    - **(C)** annual incurred cost submissions of financial expenditures; and
+    - **(D)** an incurred cost audit of the major multi-user research facility project in accordance with Government Accountability Office Government Auditing Standards—
+      - **(i)** at least once during construction at a time determined based on risk analysis and length of the award, except that the length of time between audits may not exceed 3 years; and
+      - **(ii)** at the completion of the construction phase.
+  - **(3)** The Director of the Foundation shall require an independent cost analysis of the operational proposal for each major multi-user research facility project.
+- **(d)**
+  - **(1)** The Director of the Foundation shall strengthen internal controls to improve oversight of contingency on a major multi-user research facility project.
+  - **(2)** In carrying out paragraph (1), the Director of the Foundation shall—
+    - **(A)** only include contingency amounts in an award in accordance with section 200.433 of title 2, Code of Federal Regulations (relating to contingency provisions), or any successor regulation;
+    - **(B)** retain control over funds budgeted for contingency, except that the Director may disburse budgeted contingency funds incrementally to the awardee to ensure project stability and continuity;
+    - **(C)** track contingency use; and
+    - **(D)** ensure that contingency amounts allocated to the performance baseline are reasonable and allowable.
+- **(e)**
+  - **(1)** It is the sense of Congress that—
+    - **(A)** the use of taxpayer-funded award fees should be transparent and explicable; and
+    - **(B)** the Foundation should implement an award fee policy that ensures more transparency and accountability in the funding of necessary and appropriate expenses directly related to the construction and operation of major multi-user research facilities.
+  - **(2)** The Director of the Foundation shall establish guidelines for awardees regarding inappropriate expenditures associated with all fee types used in cooperative agreements, including for alcoholic beverages, lobbying, meals or entertainment for non-business purposes, non-business travel, and any other purpose the Director determines is inappropriate.
+- **(f)** The Director of the Foundation shall—
+  - **(1)** not later than 90 days after January 6, 2017 , and periodically thereafter until the completion date, provide a briefing to the appropriate committees of Congress on the response to or progress made toward implementation of—
+    - **(A)** this section;
+    - **(B)** all of the issues and recommendations identified in cooperative agreement audit reports and memoranda issued by the Inspector General of the Foundation in the last 5 years; and
+    - **(C)** all of the issues and recommendations identified by a panel of the National Academy of Public Administration in the December 2015 report entitled “National Science Foundation: Use of Cooperative Agreements to Support Large Scale Investment in Research”; and
+  - **(2)** not later than 1 year after January 6, 2017 , notify the appropriate committees of Congress when the Foundation has implemented the recommendations identified in a panel of the National Academy of Public Administration report issued December 2015.
+- **(g)** In this section:
+  - **(1)** The term “appropriate committees of Congress” means the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives.
+  - **(2)** The term “major multi-user research facility project” means a science and engineering facility project that exceeds $100,000,000 in total construction, acquisition, or upgrade costs to the Foundation.

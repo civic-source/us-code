@@ -3,9 +3,9 @@ title: "Section 5607 - Consultative committee"
 usc_title: 16
 usc_section: "5607"
 chapter: 76
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 5607"
-generated_at: "2026-03-29T19:41:13.855Z"
+generated_at: "2026-03-29T19:59:08.484Z"
 ---
 
 # § 5607. Consultative committee
@@ -18,4 +18,4 @@ generated_at: "2026-03-29T19:41:13.855Z"
   - **(1)** all public meetings of the Commission;
   - **(2)** any other meetings to which they are invited by the Commission; and
   - **(3)** all nonexecutive meetings of the United States Commissioners.
-- **(d)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the consultative committee established under this section.
+- **(d)** Chapter 10 of title 5 shall not apply to the consultative committee established under this section.

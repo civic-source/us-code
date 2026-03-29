@@ -3,9 +3,9 @@ title: "Section 1826g - Enforcement"
 usc_title: 16
 usc_section: "1826g"
 chapter: 38
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 1826g"
-generated_at: "2026-03-29T19:41:13.744Z"
+generated_at: "2026-03-29T19:59:08.351Z"
 ---
 
 # § 1826g. Enforcement

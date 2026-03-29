@@ -3,9 +3,9 @@ title: "Section 112 - Letting of contracts"
 usc_title: 23
 usc_section: "112"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "23 U.S.C. § 112"
-generated_at: "2026-03-29T19:41:42.985Z"
+generated_at: "2026-03-29T19:59:25.796Z"
 ---
 
 # § 112. Letting of contracts

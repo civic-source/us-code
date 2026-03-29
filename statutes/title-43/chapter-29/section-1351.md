@@ -3,9 +3,9 @@ title: "Section 1351 - Oil and gas development and production"
 usc_title: 43
 usc_section: "1351"
 chapter: 29
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1351"
-generated_at: "2026-03-29T19:31:49.102Z"
+generated_at: "2026-03-29T19:59:41.443Z"
 ---
 
 # § 1351. Oil and gas development and production

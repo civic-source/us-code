@@ -3,9 +3,9 @@ title: "Section 1679i - Statute of limitations"
 usc_title: 15
 usc_section: "1679i"
 chapter: 41
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 1679i"
-generated_at: "2026-03-29T19:44:42.752Z"
+generated_at: "2026-03-29T19:58:17.714Z"
 ---
 
 # § 1679i. Statute of limitations

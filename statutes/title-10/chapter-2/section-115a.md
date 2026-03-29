@@ -3,17 +3,23 @@ title: "Section 115a - Annual defense manpower profile report and related report
 usc_title: 10
 usc_section: "115a"
 chapter: 2
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 115a"
-generated_at: "2026-03-29T19:43:37.767Z"
+generated_at: "2026-03-29T19:58:01.922Z"
 ---
 
 # § 115a. Annual defense manpower profile report and related reports
 
-- **(a)** Not later than April 1 each year, the Secretary of Defense shall submit to Congress a defense manpower profile report. The report shall contain the Secretary’s recommendations for—
+- **(a)** Not later than April 1 each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, and furnish to any Member of Congress upon request, a defense manpower profile report. The report shall contain the Secretary’s recommendations for—
   - **(1)** the annual active-duty end-strength level for each component of the armed forces for the next fiscal year; and
   - **(2)** the annual civilian personnel requirements level for each component of the Department of Defense for the next fiscal year and the civilian end-strength level for the prior fiscal year.
-- **(b)** The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
+- **(b)**
+  - **(1)** The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
+  - **(2)** The justification and explanation required by paragraph (1) shall include the following:
+    - **(A)** An explanation of how personnel end strength level requests address threats described in the national defense strategy under section 113(g) of this title .
+    - **(B)** The rationale for recommended increases or decreases in active, reserve, and civilian personnel for each component of the Department of Defense.
+    - **(C)** The actual end strength number for each armed force for the prior fiscal year, compared to authorized end strength levels.
+    - **(D)** The shortfall in recruiting by each armed force as a percentage, as the Secretary determines appropriate.
 - **(c)** The Secretary shall include in each report under subsection (a) a detailed discussion of the manpower required for support and overhead functions within the armed forces and the Department of Defense.
 - **(d)** Not later than April 1 each year, the Secretary shall submit to Congress a report that sets forth, with respect to each armed force under the jurisdiction of the Secretary of a military department, the following:
   - **(1)** The number of positions that require warrant officers or commissioned officers serving on active duty in each of the officer grades during the current fiscal year and the estimated number of such positions for each of the next five fiscal years.
@@ -24,7 +30,7 @@ generated_at: "2026-03-29T19:43:37.767Z"
     - **(C)** other separations;
     - **(D)** deaths;
     - **(E)** promotions; and
-    - **(F)** reserve and regular officers ordered to active duty.
+    - **(F)** reserve and regular officers ordered to active duty or, in the case of the Space Force, officers ordered to active duty other than under section 20105(b) of this title .
   - **(4)** The opportunities for promotion of commissioned officers anticipated to be estimated pursuant to section 623(b)(4) of this title for the fiscal year in which such report is submitted for purposes of promotion selection boards convened pursuant to section 611 of this title during such fiscal year.
 - **(e)**
   - **(1)** Not later than April 1 each year, the Secretary shall submit to Congress a report that sets forth recommendations for the end-strength levels for medical personnel for each component of the armed forces as of the end of the next fiscal year.
@@ -44,3 +50,7 @@ generated_at: "2026-03-29T19:43:37.767Z"
   - **(2)** Within each of the numbers under paragraph (1)—
     - **(A)** the number applicable to a reserve component management headquarter organization; and
     - **(B)** the number applicable to high-priority units and organizations (as specified in section 10216(a) of this title ).
+- **(h)** Not later than April 1 each year, the Secretary shall submit to Congress a report that sets forth the following with respect to personnel:
+  - **(1)** The number of members of the Armed Forces who are not citizens of the United States during the year covered by such report.
+  - **(2)** The immigration status of such members.
+  - **(3)** The number of such members naturalized.

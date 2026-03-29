@@ -3,9 +3,9 @@ title: "Section 5713 - Permit"
 usc_title: 26
 usc_section: "5713"
 chapter: 52
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 5713"
-generated_at: "2026-03-29T19:42:47.931Z"
+generated_at: "2026-03-29T19:59:49.553Z"
 ---
 
 # § 5713. Permit

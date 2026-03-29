@@ -3,9 +3,9 @@ title: "Section 20702 - Establishment of a grant program to develop, expand, and
 usc_title: 34
 usc_section: "20702"
 chapter: 207
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 20702"
-generated_at: "2026-03-29T19:42:53.159Z"
+generated_at: "2026-03-29T20:00:27.479Z"
 ---
 
 # § 20702. Establishment of a grant program to develop, expand, and strengthen assistance programs for certain persons subject to trafficking
@@ -70,6 +70,23 @@ generated_at: "2026-03-29T19:42:53.159Z"
       - **(i)** describe the activities for which assistance under this section is sought; and
       - **(ii)** provide such additional assurances as the Assistant Attorney General determines to be essential to ensure compliance with the requirements of this section.
   - **(4)** The Assistant Attorney General shall enter into a contract with an academic or non-profit organization that has experience in issues related to sex trafficking of minors and evaluation of grant programs to conduct an annual evaluation of each grant made under this section to determine the impact and effectiveness of programs funded with the grant.
+  - **(5)**
+    - **(A)** The Assistant Attorney General, in consultation with the Assistant Secretary, shall establish a pilot demonstration program, through which community-based organizations in underserved communities, prioritizing rural communities, in the United States may apply for funding to develop, implement, and build replicable treatment models, based on the type of housing unit that the individual being treated lives in, with supportive services and innovative care, treatment, and services.
+    - **(B)** The program established pursuant to subparagraph (A) shall primarily serve adolescents and youth who—
+      - **(i)** are transitioning out of foster care;
+      - **(ii)** struggle with substance use disorder;
+      - **(iii)** are pregnant or parenting; or
+      - **(iv)** have experienced foster care involvement or involvement in the child welfare system, child poverty, child abuse or neglect, human trafficking, juvenile justice involvement, gang involvement, or homelessness.
+    - **(C)** Funding provided under subparagraph (A) may be used for—
+      - **(i)** providing residential care, including temporary or long-term placement as appropriate;
+      - **(ii)** providing 24-hour emergency social services response;
+      - **(iii)** providing clothing and other daily necessities needed to keep individuals from returning to living on the street;
+      - **(iv)** case management services;
+      - **(v)** mental health counseling, including specialized counseling and substance abuse treatment;
+      - **(vi)** legal services;
+      - **(vii)** specialized training for social service providers, public sector personnel, and private sector personnel likely to encounter sex trafficking and labor trafficking victims on issues related to the sex trafficking and labor trafficking of minors; and
+      - **(viii)** outreach and education programs to provide information about deterrence and prevention of sex trafficking and labor trafficking of minors.
+    - **(D)** The Assistant Attorney General shall give funding priority to community-based programs that provide crisis stabilization, emergency shelter, and addiction treatment for adolescents and transitional age residential programs that have reputable outcomes.
 - **(c)** An eligible entity that receives a grant under this section that is found to have utilized grant funds for any unauthorized expenditure or otherwise unallowable cost shall not be eligible for any grant funds awarded under the grant for 2 fiscal years following the year in which the unauthorized expenditure or unallowable cost is reported.
 - **(d)** An eligible entity shall not be eligible to receive a grant under this section if, during the 5 fiscal years before the eligible entity submits an application for the grant, the eligible entity has been found to have violated the terms or conditions of a Government grant program by utilizing grant funds for unauthorized expenditures or otherwise unallowable costs.
 - **(e)** The cost of administering the grants authorized by this section shall not exceed 3 percent of the total amount appropriated to carry out this section.

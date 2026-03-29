@@ -3,9 +3,9 @@ title: "Section 8626b - Residential Energy Assistance Challenge option (R.E.A.Ch
 usc_title: 42
 usc_section: "8626b"
 chapter: 94
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 8626b"
-generated_at: "2026-03-29T19:31:45.478Z"
+generated_at: "2026-03-29T20:00:55.248Z"
 ---
 
 # § 8626b. Residential Energy Assistance Challenge option (R.E.A.Ch.)
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:31:45.478Z"
     - **(A)** have energy efficiency education services plans that meet quality standards established by the Secretary in consultation with the Secretary of Energy; and
     - **(B)** have the potential for being replicable model designs for other programs.
 - **(c)**
-  - **(1)** Not later than May 31, 1995 , the Secretary shall establish criteria for approving State plans required by subsection (a) of this section, for energy efficiency education quality standards described in subsection (b)(2)(A) of this section, and for the distribution of funds to States with approved plans.
+  - **(1)** Not later than May 31, 1995 , the Secretary shall establish criteria for approving State plans required by subsection (a), for energy efficiency education quality standards described in subsection (b)(2)(A), and for the distribution of funds to States with approved plans.
   - **(2)** Notwithstanding the limitations of section 8624(b) of this title regarding the authority of the Secretary with respect to plans, the Secretary may require a State to provide appropriate documentation that its R.E.A.Ch. activities conform to the State plan as approved by the Secretary.
 - **(d)** The State may designate all or part of the State, or all or part of the client population, as a focus of its R.E.A.Ch. initiative.
 - **(e)**

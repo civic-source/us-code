@@ -3,9 +3,9 @@ title: "Section 7258 - Facilities construction"
 usc_title: 42
 usc_section: "7258"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7258"
-generated_at: "2026-03-29T19:31:45.351Z"
+generated_at: "2026-03-29T20:00:55.099Z"
 ---
 
 # § 7258. Facilities construction
@@ -18,5 +18,5 @@ generated_at: "2026-03-29T19:31:45.351Z"
   - **(5)** Reimbursement for food, clothing, medicine, and other supplies furnished by such employees in emergencies for the temporary relief of distressed persons;
   - **(6)** Living and working quarters and facilities; and
   - **(7)** Transportation of schoolage dependents of employees to the nearest appropriate educational facilities.
-- **(b)** The furnishing of medical treatment under paragraph (1) of subsection (a) of this section and the furnishing of services and supplies under paragraphs (2) and (3) of subsection (a) of this section shall be at prices reflecting reasonable value as determined by the Secretary.
+- **(b)** The furnishing of medical treatment under paragraph (1) of subsection (a) and the furnishing of services and supplies under paragraphs (2) and (3) of subsection (a) shall be at prices reflecting reasonable value as determined by the Secretary.
 - **(c)** Proceeds from reimbursements under this section shall be deposited in the Treasury and may be withdrawn by the Secretary to pay directly the cost of such work or services, to repay or make advances to appropriations of funds which will initially bear all or a part of such cost, or to refund excess sums when necessary. Such payments may be credited to a working capital fund otherwise established by law, including the fund established pursuant to section 7263 of this title , and used under the law governing such fund, if the fund is available for use by the Department for performing the work or services for which payment is received.

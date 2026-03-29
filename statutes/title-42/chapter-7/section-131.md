@@ -3,9 +3,9 @@ title: "Section 131 - Application to Medicare Advantage program and related mana
 usc_title: 42
 usc_section: "131"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 131"
-generated_at: "2026-03-29T19:31:44.715Z"
+generated_at: "2026-03-29T20:00:54.425Z"
 ---
 
 # § 1395w–131. Application to Medicare Advantage program and related managed care programs
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T19:31:44.715Z"
     - **(B)** takes into account the average reinsurance payments made under section 1395w–115(b) of this title for populations of similar risk under MA–PD plans described in such section.
   - **(5)** The provisions of section 1395w–115(e) of this title shall not apply.
   - **(6)** Subsections (d) and (e)(2)(C) of section 1395w–111 of this title shall not apply and the provisions of section 1395w–24(a)(5)(B) of this title prohibiting the review, approval, or disapproval of amounts described in such section shall apply to the proposed bid and terms and conditions described in section 1395w–111(d) of this title .
-  - **(7)** The exclusion of costs incurred for covered part D drugs which are not included (or treated as being included) in a plan’s formulary under section 1395w–102(b)(4)(B)(i) of this title shall not apply insofar as the plan does not utilize a formulary.
+  - **(7)** The exclusion of costs incurred for covered part D drugs which are not included (or treated as being included) in a plan’s formulary under section 1395w–102(b)(4)(C)(i) of this title shall not apply insofar as the plan does not utilize a formulary.
 - **(e)**
   - **(1)** Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of an organization that is providing benefits under a reasonable cost reimbursement contract under section 1395mm(h) of this title and that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such a contract, the provisions of this part (and related provisions of part C) shall apply to the provision of such coverage to such enrollee in the same manner as such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395–21(a)(2)(A)(i) of this title and coverage under such a contract that so provides qualified prescription drug coverage shall be deemed to be an MA–PD local plan.
   - **(2)** In applying paragraph (1), the organization may not enroll part D eligible individuals who are not enrolled under the reasonable cost reimbursement contract involved.

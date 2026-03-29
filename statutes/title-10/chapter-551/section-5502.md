@@ -1,14 +1,14 @@
 ---
-title: "Section 5502 - Missile Defense Agency"
+title: "Section 5502 - Missile defense agency 1 1 So in original. Probably should be capitalized as “Missile Defense Agency”."
 usc_title: 10
 usc_section: "5502"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 5502"
-generated_at: "2026-03-29T02:10:45.243Z"
+generated_at: "2026-03-29T19:58:02.277Z"
 ---
 
-# § 5502. Missile Defense Agency
+# § 5502. Missile defense agency 1 1 So in original. Probably should be capitalized as “Missile Defense Agency”.
 
 - **(a)** The Director of the Missile Defense Agency shall be a general or flag officer appointed for a six-year term.
 - **(b)**

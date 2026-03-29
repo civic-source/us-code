@@ -3,18 +3,24 @@ title: "Section 2306 - Special provisions"
 usc_title: 43
 usc_section: "2306"
 chapter: 41
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 2306"
-generated_at: "2026-03-29T19:31:49.167Z"
+generated_at: "2026-03-29T19:59:41.508Z"
 ---
 
 # § 2306. Special provisions
 
 - **(a)** Nothing in this chapter provides an exemption from any limitation on the acquisition of land or interest in land under any Federal law in effect on July 25, 2000 .
 - **(b)** This chapter shall not apply to land eligible for sale under—
-  - **(1)** Public Law 96–568 1 1 See References in Text note below. (commonly known as the “Santini-Burton Act”) ( 94 Stat. 3381 ); or
-  - **(2)** the Southern Nevada Public Land Management Act of 1998 ( 112 Stat. 2343 ).
+  - **(1)** Public Law 96–586 (commonly known as the “Santini-Burton Act”) ( 94 Stat. 3381 );
+  - **(2)** the Southern Nevada Public Land Management Act of 1998 ( Public Law 105–263 ; 112 Stat. 2343 );
+  - **(3)** the White Pine County Conservation, Recreation, and Development Act of 2006 ( Public Law 109–432 ; 120 Stat. 3028 );
+  - **(4)** the Lincoln County Conservation, Recreation, and Development Act of 2004 ( Public Law 108–424 ; 118 Stat. 2403 );
+  - **(5)** subtitle F of title I of the Omnibus Public Land Management Act of 2009 ( 16 U.S.C. 1132 note; Public Law 111–11 );
+  - **(6)** subtitle O of title I of the Omnibus Public Land Management Act of 2009 ( 16 U.S.C. 460www note, 1132 note; Public Law 111–11 );
+  - **(7)** section 2601 of the Omnibus Public Land Management Act of 2009 ( Public Law 111–11 ; 123 Stat. 1108 ); or
+  - **(8)** section 2606 of the Omnibus Public Land Management Act of 2009 ( Public Law 111–11 ; 123 Stat. 1121 ).
 - **(c)** Nothing in this chapter precludes, preempts, or limits the authority to exchange land under authorities providing for the exchange of Federal lands, including but not limited to—
   - **(1)** the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq.); or
   - **(2)** the Federal Land Exchange Facilitation Act of 1988 ( 102 Stat. 1086 ) or the amendments made by that Act.
-- **(d)** Nothing in this chapter 1 creates a right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, its officers, or any other person.
+- **(d)** Nothing in this chapter 1 1 See References in Text note below. creates a right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, its officers, or any other person.

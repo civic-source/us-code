@@ -3,9 +3,9 @@ title: "Section 331 - Friendly foreign countries: authority to provide support f
 usc_title: 10
 usc_section: "331"
 chapter: 16
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 331"
-generated_at: "2026-03-29T19:43:37.798Z"
+generated_at: "2026-03-29T19:58:01.957Z"
 ---
 
 # § 331. Friendly foreign countries: authority to provide support for conduct of operations
@@ -36,7 +36,8 @@ generated_at: "2026-03-29T19:43:37.798Z"
     - **(B)** A list of participating countries.
     - **(C)** A description of the type of support and the duration of support to be provided.
     - **(D)** A description of the national security interests of the United States supported by the operation.
-    - **(E)** Such other matters as the Secretary of Defense and the Secretary of State consider significant to a consideration of such certification.
+    - **(E)** A description of each entity with which the applicable friendly foreign country is engaged in hostilities and whether each such entity is covered by an authorization for the use of military force.
+    - **(F)** Such other matters as the Secretary of Defense and the Secretary of State consider significant to a consideration of such certification.
 - **(e)** The provision of support under subsection (a) may be made only with the concurrence of the Secretary of State.
 - **(f)** The Secretary of Defense may not use the authority in subsection (a) to provide any type of support described in subsection (c) that is otherwise prohibited by any provision of law.
 - **(g)**

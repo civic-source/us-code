@@ -3,9 +3,9 @@ title: "Section 371 - Regulations and hearings"
 usc_title: 21
 usc_section: "371"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 371"
-generated_at: "2026-03-29T19:41:41.628Z"
+generated_at: "2026-03-29T19:59:28.442Z"
 ---
 
 # § 371. Regulations and hearings

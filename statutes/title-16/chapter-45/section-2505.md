@@ -3,9 +3,9 @@ title: "Section 2505 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2505"
 chapter: 45
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 2505"
-generated_at: "2026-03-29T19:41:13.775Z"
+generated_at: "2026-03-29T19:59:08.386Z"
 ---
 
 # § 2505. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

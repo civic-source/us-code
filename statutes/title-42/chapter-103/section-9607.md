@@ -3,9 +3,9 @@ title: "Section 9607 - Liability"
 usc_title: 42
 usc_section: "9607"
 chapter: 103
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 9607"
-generated_at: "2026-03-29T19:31:45.505Z"
+generated_at: "2026-03-29T20:00:55.275Z"
 ---
 
 # § 9607. Liability
@@ -204,7 +204,7 @@ generated_at: "2026-03-29T19:31:45.505Z"
     - **(A)** issue an assurance that no enforcement action under this chapter will be initiated against a person described in paragraph (1); and
     - **(B)** grant a person described in paragraph (1) protection against a cost recovery or contribution action under section 9613(f) of this title .
 - **(r)**
-  - **(1)** Notwithstanding subsection (a)(1), a bona fide prospective purchaser whose potential liability for a release or threatened release is based solely on the purchaser’s being considered to be an owner or operator of a facility shall not be liable as long as the bona fide prospective purchaser does not impede the performance of a response action or natural resource restoration.
+  - **(1)** Notwithstanding subsection (a)(1), a bona fide prospective purchaser whose potential liability for a release or threatened release is based solely on the bona fide prospective purchaser being considered to be an owner or operator of a facility shall not be liable as long as the bona fide prospective purchaser does not impede the performance of a response action or natural resource restoration.
   - **(2)** If there are unrecovered response costs incurred by the United States at a facility for which an owner of the facility is not liable by reason of paragraph (1), and if each of the conditions described in paragraph (3) is met, the United States shall have a lien on the facility, or may by agreement with the owner, obtain from the owner a lien on any other property or other assurance of payment satisfactory to the Administrator, for the unrecovered response costs.
   - **(3)** The conditions referred to in paragraph (2) are the following:
     - **(A)** A response action for which there are unrecovered costs of the United States is carried out at the facility.

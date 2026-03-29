@@ -3,9 +3,9 @@ title: "Section 9614 - Independent accountability mechanism"
 usc_title: 22
 usc_section: "9614"
 chapter: 103
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 9614"
-generated_at: "2026-03-29T19:42:08.314Z"
+generated_at: "2026-03-29T19:59:24.349Z"
 ---
 
 # § 9614. Independent accountability mechanism

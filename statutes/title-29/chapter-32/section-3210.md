@@ -3,9 +3,9 @@ title: "Section 3210 - General provisions"
 usc_title: 29
 usc_section: "3210"
 chapter: 32
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "29 U.S.C. § 3210"
-generated_at: "2026-03-29T19:42:21.591Z"
+generated_at: "2026-03-29T19:59:56.749Z"
 ---
 
 # § 3210. General provisions

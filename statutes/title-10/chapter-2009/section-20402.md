@@ -3,9 +3,9 @@ title: "Section 20402 - Enlisted members: standards and qualifications for reten
 usc_title: 10
 usc_section: "20402"
 chapter: 2009
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 20402"
-generated_at: "2026-03-29T02:10:45.400Z"
+generated_at: "2026-03-29T19:58:02.393Z"
 ---
 
 # § 20402. Enlisted members: standards and qualifications for retention

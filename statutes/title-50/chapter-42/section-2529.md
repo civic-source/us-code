@@ -3,26 +3,26 @@ title: "Section 2529 - Requirements for specific request for new or modified nuc
 usc_title: 50
 usc_section: "2529"
 chapter: 42
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 2529"
-generated_at: "2026-03-29T19:44:52.804Z"
+generated_at: "2026-03-29T20:01:07.289Z"
 ---
 
 # § 2529. Requirements for specific request for new or modified nuclear weapons
 
 - **(a)**
-  - **(1)** In any fiscal year after fiscal year 2002 in which the Secretary of Energy plans to carry out activities described in paragraph (2) relating to the development of a new nuclear weapon or modified nuclear weapon, the Secretary—
+  - **(1)** In any fiscal year after fiscal year 2002 in which the Secretary of Energy plans to carry out activities described in paragraph (2) relating to the development of a new nuclear weapon or modified nuclear weapon beyond phase 2 or phase 6.2 (as the case may be) of the nuclear weapon acquisition process, the Secretary—
     - **(A)** shall specifically request funds for such activities in the budget of the President for that fiscal year under section 1105(a) of title 31 ; and
     - **(B)** may carry out such activities only if amounts are authorized to be appropriated for such activities by an Act of Congress consistent with section 7270 of title 42 .
   - **(2)** The activities described in this paragraph are as follows:
-    - **(A)** The conduct, or provision for conduct, of research and development which could lead to the production of a new nuclear weapon by the United States.
+    - **(A)** The conduct, or provision for conduct, of research and development for the production of a new nuclear weapon by the United States.
     - **(B)** The conduct, or provision for conduct, of engineering or manufacturing to carry out the production of a new nuclear weapon by the United States.
-    - **(C)** The conduct, or provision for conduct, of research and development which could lead to the production of a modified nuclear weapon by the United States.
+    - **(C)** The conduct, or provision for conduct, of research and development for the production of a modified nuclear weapon by the United States.
     - **(D)** The conduct, or provision for conduct, of engineering or manufacturing to carry out the production of a modified nuclear weapon by the United States.
-- **(b)** The Secretary shall include in a request for funds under subsection (a) the following:
-  - **(1)** In the case of funds for activities described in subparagraph (A) or (C) of subsection (a)(2), a single dedicated line item for all such activities for new nuclear weapons or modified nuclear weapons that are in phase 1, 2, or 2A or phase 6.1, 6.2, or 6.2A (as the case may be), or any concept work prior to phase 1 or 6.1 (as the case may be), of the nuclear weapons acquisition process.
-  - **(2)** In the case of funds for activities described in subparagraph (B) or (D) of subsection (a)(2), a dedicated line item for each such activity for a new nuclear weapon or modified nuclear weapon that is in phase 3 or higher or phase 6.3 or higher (as the case may be) of the nuclear weapons acquisition process.
-- **(c)** Subsection (a) shall not apply to funds for purposes of conducting, or providing for the conduct of, research and development, or manufacturing and engineering, determined by the Secretary to be necessary to address proliferation concerns.
+- **(b)** In a request for funds under subsection (a), the Secretary shall include a dedicated line item for each activity described in subsection (a)(2) for a new nuclear weapon or modified nuclear weapon that is in phase 2 or higher or phase 6.2 or higher (as the case may be) of the nuclear weapon acquisition process.
+- **(c)** In any fiscal year after fiscal year 2022, the Secretary of Energy, acting through the Administrator, in conjunction with the annual submission of the budget of the President to Congress pursuant to section 1105 of title 31 , shall notify the congressional defense committees of—
+  - **(1)** any activities described in subsection (a)(2) relating to the development of a new nuclear weapon or modified nuclear weapon that, during the calendar year prior to the budget submission, were carried out prior to phase 2 or phase 6.2 (as the case may be) of the nuclear weapon acquisition process; and
+  - **(2)** any plans to carry out, prior to phase 2 or phase 6.2 (as the case may be) of the nuclear weapon acquisition process, activities described in subsection (a)(2) relating to the development of a new nuclear weapon or modified nuclear weapon during the fiscal year covered by that budget.
 - **(d)** In this section:
   - **(1)** The term “modified nuclear weapon” means a nuclear weapon that contains a pit or canned subassembly, either of which—
     - **(A)** is in the nuclear weapons stockpile as of December 2, 2002 ; and

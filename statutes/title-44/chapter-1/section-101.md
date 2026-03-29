@@ -3,9 +3,9 @@ title: "Section 101 - Joint Committee on Printing: membership"
 usc_title: 44
 usc_section: "101"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "44 U.S.C. § 101"
-generated_at: "2026-03-29T19:30:59.095Z"
+generated_at: "2026-03-29T19:59:33.807Z"
 ---
 
 # § 101. Joint Committee on Printing: membership

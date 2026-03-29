@@ -1,12 +1,16 @@
 ---
-title: "Section 4027 - Disclosure requirements for recipients of research and development funds]"
+title: "Section 4027 - Disclosure requirements for recipients of research and development funds"
 usc_title: 10
 usc_section: "4027"
 chapter: 301
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4027"
-generated_at: "2026-03-29T19:43:38.054Z"
+generated_at: "2026-03-29T19:58:02.246Z"
 ---
 
-# [§ 4027. Disclosure requirements for recipients of research and development funds]
+# § 4027. Disclosure requirements for recipients of research and development funds
 
+- **(a)** Except as provided in subsections (b) and (c), an individual or entity (including a State or local government) that uses funds received from the Department of Defense to carry out research or development activities shall include, in any public document pertaining to such activities, a clear statement indicating the dollar amount of the funds received from the Department for such activities.
+- **(b)** The disclosure requirement under subsection (a) shall not apply to a public document consisting of fewer than 280 characters.
+- **(c)** The Secretary of Defense may waive the disclosure requirement under subsection (a) on a case-by-case basis.
+- **(d)** In this section, the term “public document” means any document or other written statement made available for public reference or use, regardless of whether such document or statement is made available in hard copy or electronic format.

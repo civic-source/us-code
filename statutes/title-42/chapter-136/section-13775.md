@@ -1,14 +1,12 @@
 ---
-title: "Section 13775 - Reports"
+title: "Section 13775 - Transferred"
 usc_title: 42
 usc_section: "13775"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 13775"
-generated_at: "2026-03-29T19:31:45.740Z"
+generated_at: "2026-03-29T20:00:55.491Z"
 ---
 
-# § 13775. Reports
-
-Not later than December 31, 1998 , the Attorney General shall prepare and submit to the Committees on the Judiciary of the House and Senate an evaluation of the model programs developed under this part and make recommendations regarding the implementation of a national crime prevention program.
+# § 13775. Transferred
 

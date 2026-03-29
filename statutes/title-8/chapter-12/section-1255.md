@@ -3,9 +3,9 @@ title: "Section 1255 - Adjustment of status of nonimmigrant to that of person ad
 usc_title: 8
 usc_section: "1255"
 chapter: 12
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "8 U.S.C. § 1255"
-generated_at: "2026-03-29T19:43:45.689Z"
+generated_at: "2026-03-29T19:57:30.789Z"
 ---
 
 # § 1255. Adjustment of status of nonimmigrant to that of person admitted for permanent residence
@@ -54,7 +54,7 @@ generated_at: "2026-03-29T19:43:45.689Z"
       - **(ii)** the success of an authorized criminal investigation of, or the prosecution of, an individual involved in such an act of terrorism, and
     - **(C)** the nonimmigrant has received a reward under section 2708(a) of title 22 ,
   - **(3)** Upon the approval of adjustment of status under paragraph (1) or (2), the Attorney General shall record the alien’s lawful admission for permanent residence as of the date of such approval and the Secretary of State shall reduce by one the number of visas authorized to be issued under sections 1151(d) and 1153(b)(4) of this title for the fiscal year then current.
-- **(k)** An alien who is eligible to receive an immigrant visa under paragraph (1), (2), or (3) of section 1153(b) of this title (or, in the case of an alien who is an immigrant described in section 1101(a)(27)(C) of this title , under section 1153(b)(4) of this title ) may adjust status pursuant to subsection (a) and notwithstanding subsection (c)(2), (c)(7), and (c)(8), if—
+- **(k)** An alien who is eligible to receive an immigrant visa under paragraph (1), (2), (3), or (5) of section 1153(b) of this title (or, in the case of an alien who is an immigrant described in section 1101(a)(27)(C) of this title , under section 1153(b)(4) of this title ) may adjust status pursuant to subsection (a) and notwithstanding subsection (c)(2), (c)(7), and (c)(8), if—
   - **(1)** the alien, on the date of filing an application for adjustment of status, is present in the United States pursuant to a lawful admission;
   - **(2)** the alien, subsequent to such lawful admission has not, for an aggregate period exceeding 180 days—
     - **(A)** failed to maintain, continuously, a lawful status;
@@ -90,3 +90,4 @@ generated_at: "2026-03-29T19:43:45.689Z"
   - **(5)**
     - **(A)** The Secretary of Homeland Security shall consult with the Attorney General, as appropriate, in making a determination under paragraph (1) whether affirmative evidence demonstrates that the alien unreasonably refused to provide assistance to a Federal law enforcement official, Federal prosecutor, Federal judge, or other Federal authority investigating or prosecuting criminal activity described in section 1101(a)(15)(U)(iii) of this title .
     - **(B)** Nothing in paragraph (1)(B) may be construed to prevent the Secretary from consulting with the Attorney General in making a determination whether affirmative evidence demonstrates that the alien unreasonably refused to provide assistance to a State or local law enforcement official, State or local prosecutor, State or local judge, or other State or local authority investigating or prosecuting criminal activity described in section 1101(a)(15)(U)(iii) of this title .
+- **(n)** If the approval of a petition for classification under section 1153(b)(5) of this title would make a visa immediately available to the alien beneficiary, the alien beneficiary’s application for adjustment of status under this section shall be considered to be properly filed whether the application is submitted concurrently with, or subsequent to, the visa petition.

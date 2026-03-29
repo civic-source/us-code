@@ -3,9 +3,9 @@ title: "Section 9111 - Assistance for providers of transportation services affec
 usc_title: 15
 usc_section: "9111"
 chapter: 116
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 9111"
-generated_at: "2026-03-29T19:44:43.003Z"
+generated_at: "2026-03-29T19:58:17.956Z"
 ---
 
 # § 9111. Assistance for providers of transportation services affected by COVID–19
@@ -62,7 +62,7 @@ generated_at: "2026-03-29T19:44:43.003Z"
         - **(II)** was not a subsidiary, parent, or affiliate of any other entity with a combined total workforce of more than 500 full-time, part-time, or temporary employees; or
       - **(ii)** a provider of transportation services that—
         - **(I)** on March 1, 2020 , had more than 500 full-time, part-time, or temporary employees; and
-        - **(II)** has not received assistance under paragraph (1), (2), or (3) of section 9042(b) of this title , or subtitle B of title IV of division A, of the Coronavirus Aid, Relief, and Economic Security Act ( Public Law 116–136 ; 134 Stat. 281 ) [ 15 U.S.C. 9071 et seq.].
+        - **(II)** has not received assistance under paragraph (1), (2), or (3) of section 9042(b) of this title , or subtitle B of title IV of division A, 1 1 So in original. The comma probably should not appear. of the Coronavirus Aid, Relief, and Economic Security Act ( Public Law 116–136 ; 134 Stat. 281 ) [ 15 U.S.C. 9071 et seq.].
     - **(B)**
       - **(i)** A provider of transportation services that has entered into or maintains a contract or agreement described in clause (ii) shall not be determined to be ineligible for assistance under this subsection on the basis of that contract or agreement, subject to clause (iv).
       - **(ii)** A contract or agreement referred to in clause (i) is a contract or agreement for transportation services that is supported by a public entity using funds received under the Emergency Appropriations for Coronavirus Health Response and Agency Operations (division B of Public Law 116–136 ; 134 Stat. 505 ).
@@ -124,7 +124,7 @@ generated_at: "2026-03-29T19:44:43.003Z"
     - **(B)** any amounts the employee received from unemployment insurance; and
   - **(2)** shall not—
     - **(A)** be considered an overpayment for purposes of any State or Federal unemployment law; or
-    - **(B)** be subject to any overpayment recovery efforts by a State agency (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (U.S.C. 3304 note 1 1 So in original. Probably should be “ 26 U.S.C. 3304 note”. )).
+    - **(B)** be subject to any overpayment recovery efforts by a State agency (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (U.S.C. 3304 note 2 2 So in original. Probably should be “ 26 U.S.C. 3304 note”. )).
 - **(f)**
   - **(1)** The Secretary may take such actions as the Secretary determines to be necessary to carry out this section, including—
     - **(A)** using direct hiring authority to hire employees to administer this section;

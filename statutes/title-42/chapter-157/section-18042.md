@@ -3,9 +3,9 @@ title: "Section 18042 - Federal program to assist establishment and operation of
 usc_title: 42
 usc_section: "18042"
 chapter: 157
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 18042"
-generated_at: "2026-03-29T19:31:45.923Z"
+generated_at: "2026-03-29T20:00:55.648Z"
 ---
 
 # § 18042. Federal program to assist establishment and operation of nonprofit, member-run health insurance issuers
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T19:31:45.923Z"
     - **(D)**
       - **(i)** Except as provided in clause (ii), a member of the advisory board may not receive pay, allowances, or benefits by reason of their service on the board.
       - **(ii)** Each member shall receive travel expenses, including per diem in lieu of subsistence under subchapter I of chapter 57 of title 5.
-    - **(E)** The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the advisory board, except that section 14 of such Act shall not apply.
+    - **(E)** Chapter 10 of title 5 shall apply to the advisory board, except that section 1013 of title 5 shall not apply.
     - **(F)** The advisory board shall terminate on the earlier of the date that it completes its duties under this section or December 31, 2015 .
 - **(c)** For purposes of this section—
   - **(1)** The term “qualified nonprofit health insurance issuer” means a health insurance issuer that is an organization—

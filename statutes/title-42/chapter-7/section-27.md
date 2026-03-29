@@ -3,9 +3,9 @@ title: "Section 27 - Contracts with Medicare+Choice organizations"
 usc_title: 42
 usc_section: "27"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 27"
-generated_at: "2026-03-29T19:31:44.697Z"
+generated_at: "2026-03-29T20:00:54.402Z"
 ---
 
 # § 1395w–27. Contracts with Medicare+Choice organizations
@@ -83,6 +83,12 @@ generated_at: "2026-03-29T19:31:44.697Z"
       - **(ii)** the difference between .85 and the medical loss ratio;
     - **(B)** for 3 consecutive contract years, the Secretary shall not permit the enrollment of new enrollees under the plan for coverage during the second succeeding contract year; and
     - **(C)** the Secretary shall terminate the plan contract if the plan fails to have such a medical loss ratio for 5 consecutive contract years.
+  - **(5)**
+    - **(A)** Beginning with plan years beginning on or after January 1, 2021 , a contract under this section with an MA organization shall require the organization to submit to the Secretary, through the process established under subparagraph (B), information on the investigations, credible evidence of suspicious activities of a provider of services (including a prescriber) or supplier related to fraud, and other actions taken by such plans related to inappropriate prescribing of opioids.
+    - **(B)** Not later than January 1, 2021 , the Secretary shall, in consultation with stakeholders, establish a process under which MA plans and prescription drug plans shall submit to the Secretary information described in subparagraph (A).
+    - **(C)** For purposes of this paragraph, including as applied under section 1395w–112(b)(3)(D) of this title , the Secretary shall, pursuant to rulemaking—
+      - **(i)** specify a definition for the term “inappropriate prescribing” and a method for determining if a provider of services prescribes inappropriate prescribing; and
+      - **(ii)** establish the process described in subparagraph (B) and the types of information that shall be submitted through such process.
 - **(f)**
   - **(1)** A contract under this part shall require a Medicare+Choice organization to provide prompt payment (consistent with the provisions of sections 1395h(c)(2) and 1395u(c)(2) of this title) of claims submitted for services and supplies furnished to enrollees pursuant to the contract, if the services or supplies are not furnished under a contract between the organization and the provider or supplier (or in the case of a Medicare+Choice private fee-for-service plan, if a claim is submitted to such organization by an enrollee).
   - **(2)** In the case of a Medicare+Choice eligible organization which the Secretary determines, after notice and opportunity for a hearing, has failed to make payments of amounts in compliance with paragraph (1), the Secretary may provide for direct payment of the amounts owed to providers and suppliers (or, in the case of a Medicare+Choice private fee-for-service plan, amounts owed to the enrollees) for covered services and supplies furnished to individuals enrolled under this part under the contract. If the Secretary provides for the direct payments, the Secretary shall provide for an appropriate reduction in the amount of payments otherwise made to the organization under this part to reflect the amount of the Secretary’s payments (and the Secretary’s costs in making the payments).
@@ -90,6 +96,8 @@ generated_at: "2026-03-29T19:31:44.697Z"
     - **(A)** Section 1395w–112(b)(4) of this title .
     - **(B)** Section 1395w–112(b)(5) of this title .
     - **(C)** Section 1395w–112(b)(6) of this title .
+    - **(D)** Section 1395w–112(b)(7) of this title .
+    - **(E)** Section 1395w–112(b)(8) of this title .
 - **(g)**
   - **(1)** If the Secretary determines that a Medicare+Choice organization with a contract under this section—
     - **(A)** fails substantially to provide medically necessary items and services that are required (under law or under the contract) to be provided to an individual covered under the contract, if the failure has adversely affected (or has substantial likelihood of adversely affecting) the individual;
@@ -120,6 +128,7 @@ generated_at: "2026-03-29T19:31:44.697Z"
     - **(A)** the Secretary provides the organization with the reasonable opportunity to develop and implement a corrective action plan to correct the deficiencies that were the basis of the Secretary’s determination under subsection (c)(2); and
     - **(B)** the Secretary provides the organization with reasonable notice and opportunity for hearing (including the right to appeal an initial decision) before terminating the contract.
   - **(2)** Paragraph (1) shall not apply if the Secretary determines that a delay in termination, resulting from compliance with the procedures specified in such paragraph prior to termination, would pose an imminent and serious risk to the health of individuals enrolled under this part with the organization.
+  - **(3)** During the period beginning on December 13, 2016 , and through the end of plan year 2018, the Secretary may not terminate a contract under this section with respect to the offering of an MA plan by a Medicare Advantage organization solely because the MA plan has failed to achieve a minimum quality rating under the 5-star rating system under section 1395w–23( o )(4) of this title.
 - **(i)**
   - **(1)** To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity’s employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
   - **(2)** To facilitate the offering of MA plans by employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity’s employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such MA plans. Notwithstanding section 1395w–21(g) of this title , an MA plan described in the previous sentence may restrict the enrollment of individuals under this part to individuals who are beneficiaries and participants in such plan.

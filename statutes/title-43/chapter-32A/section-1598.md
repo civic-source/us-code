@@ -3,9 +3,9 @@ title: "Section 1598 - Achieving project objectives"
 usc_title: 43
 usc_section: "1598"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1598"
-generated_at: "2026-03-29T19:31:49.119Z"
+generated_at: "2026-03-29T19:59:41.457Z"
 ---
 
 # § 1598. Achieving project objectives

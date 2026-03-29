@@ -1,14 +1,12 @@
 ---
-title: "Section 5714 - Grants to private entities; staffing"
+title: "Section 5714 - Transferred"
 usc_title: 42
 usc_section: "5714"
 chapter: 72
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5714"
-generated_at: "2026-03-29T19:31:45.244Z"
+generated_at: "2026-03-29T20:00:54.981Z"
 ---
 
-# § 5714. Grants to private entities; staffing
-
-Nothing in this subchapter shall be construed to deny grants to private entities which are fully controlled by private boards or persons but which in other respects meet the requirements of this subchapter and agree to be legally responsible for the operation of the runaway and homeless youth center and the programs, projects, and activities they carry out under this subchapter. Nothing in this subchapter shall give the Federal Government control over the staffing and personnel decisions of facilities receiving Federal funds under this subchapter.
+# § 5714. Transferred
 

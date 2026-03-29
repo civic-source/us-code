@@ -3,9 +3,9 @@ title: "Section 6403 - Guidance applying data standards for grant reporting"
 usc_title: 31
 usc_section: "6403"
 chapter: 64
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "31 U.S.C. § 6403"
-generated_at: "2026-03-29T19:42:56.155Z"
+generated_at: "2026-03-29T20:00:25.371Z"
 ---
 
 # § 6403. Guidance applying data standards for grant reporting

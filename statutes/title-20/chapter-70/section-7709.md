@@ -3,9 +3,9 @@ title: "Section 7709 - State consideration of payments in providing State aid"
 usc_title: 20
 usc_section: "7709"
 chapter: 70
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 7709"
-generated_at: "2026-03-29T19:41:03.437Z"
+generated_at: "2026-03-29T19:58:56.935Z"
 ---
 
 # § 7709. State consideration of payments in providing State aid

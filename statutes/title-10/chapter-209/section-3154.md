@@ -3,9 +3,9 @@ title: "Section 3154 - Contingency contracting matters covered"
 usc_title: 10
 usc_section: "3154"
 chapter: 209
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3154"
-generated_at: "2026-03-29T19:43:38.033Z"
+generated_at: "2026-03-29T19:58:02.224Z"
 ---
 
 # § 3154. Contingency contracting matters covered

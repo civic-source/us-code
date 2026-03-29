@@ -3,9 +3,9 @@ title: "Section 7807 - Enforcement"
 usc_title: 7
 usc_section: "7807"
 chapter: 105
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 7807"
-generated_at: "2026-03-29T19:43:58.433Z"
+generated_at: "2026-03-29T19:57:39.470Z"
 ---
 
 # § 7807. Enforcement

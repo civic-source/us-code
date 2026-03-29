@@ -1,26 +1,12 @@
 ---
-title: "Section 3797a - Program authorized"
+title: "Section 3797a - Transferred"
 usc_title: 42
 usc_section: "3797a"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3797a"
-generated_at: "2026-03-29T19:31:45.130Z"
+generated_at: "2026-03-29T20:00:54.884Z"
 ---
 
-# § 3797a. Program authorized
+# § 3797a. Transferred
 
-- **(a)** The Director of the Office of Community Oriented Policing Services (in this section referred to as the “Director”) is authorized to make grants to States, units of local government, and Indian tribes to provide improved security, including the placement and use of metal detectors and other deterrent measures, at schools and on school grounds.
-- **(b)** Grants awarded under this section shall be distributed directly to the State, unit of local government, or Indian tribe, and shall be used to improve security at schools and on school grounds in the jurisdiction of the grantee through one or more of the following:
-  - **(1)** Placement and use of metal detectors, locks, lighting, and other deterrent measures.
-  - **(2)** Security assessments.
-  - **(3)** Security training of personnel and students.
-  - **(4)** Coordination with local law enforcement.
-  - **(5)** Any other measure that, in the determination of the Director, may provide a significant improvement in security.
-- **(c)** In awarding grants under this subchapter, the Director shall give preferential consideration, if feasible, to an application from a jurisdiction that has a demonstrated need for improved security, has a demonstrated need for financial assistance, and has evidenced the ability to make the improvements for which the grant amounts are sought.
-- **(d)**
-  - **(1)** The portion of the costs of a program provided by a grant under subsection (a) of this section may not exceed 50 percent.
-  - **(2)** Any funds appropriated by Congress for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of a matching requirement funded under this subsection.
-  - **(3)** The Director may provide, in the guidelines implementing this section, for the requirement of paragraph (1) to be waived or altered in the case of a recipient with a financial need for such a waiver or alteration.
-- **(e)** In awarding grants under this subchapter, the Director shall ensure, to the extent practicable, an equitable geographic distribution among the regions of the United States and among urban, suburban, and rural areas.
-- **(f)** The Director may reserve not more than 2 percent from amounts appropriated to carry out this subchapter for administrative costs.

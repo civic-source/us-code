@@ -1,14 +1,12 @@
 ---
-title: "Section 3735 - Use of data"
+title: "Section 3735 - Transferred"
 usc_title: 42
 usc_section: "3735"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3735"
-generated_at: "2026-03-29T19:31:45.107Z"
+generated_at: "2026-03-29T20:00:54.882Z"
 ---
 
-# § 3735. Use of data
-
-Data collected by the Bureau shall be used only for statistical or research purposes, and shall be gathered in a manner that precludes their use for law enforcement or any purpose relating to a private person or public agency other than statistical or research purposes.
+# § 3735. Transferred
 

@@ -1,14 +1,12 @@
 ---
-title: "Section 16935i - Rule of construction"
+title: "Section 16935i - Transferred"
 usc_title: 42
 usc_section: "16935i"
 chapter: 151
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 16935i"
-generated_at: "2026-03-29T19:31:45.867Z"
+generated_at: "2026-03-29T20:00:55.590Z"
 ---
 
-# § 16935i. Rule of construction
-
-Nothing in this part shall be construed to limit international information sharing or law enforcement cooperation relating to any person pursuant to any authority of the Department of Justice, the Department of Homeland Security, or any other department or agency.
+# § 16935i. Transferred
 

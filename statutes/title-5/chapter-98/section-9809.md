@@ -3,9 +3,9 @@ title: "Section 9809 - Science and technology scholarship program"
 usc_title: 5
 usc_section: "9809"
 chapter: 98
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 9809"
-generated_at: "2026-03-29T19:43:20.474Z"
+generated_at: "2026-03-29T19:57:15.018Z"
 ---
 
 # § 9809. Science and technology scholarship program

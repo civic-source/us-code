@@ -3,9 +3,9 @@ title: "Section 4415 - Freedom of information"
 usc_title: 22
 usc_section: "4415"
 chapter: 54
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 4415"
-generated_at: "2026-03-29T19:42:08.190Z"
+generated_at: "2026-03-29T19:59:24.226Z"
 ---
 
 # § 4415. Freedom of information

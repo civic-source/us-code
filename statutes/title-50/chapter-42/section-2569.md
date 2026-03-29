@@ -3,9 +3,9 @@ title: "Section 2569 - Acceleration of removal or security of fissile materials,
 usc_title: 50
 usc_section: "2569"
 chapter: 42
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 2569"
-generated_at: "2026-03-29T19:44:52.808Z"
+generated_at: "2026-03-29T20:01:07.293Z"
 ---
 
 # § 2569. Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide
@@ -30,18 +30,11 @@ generated_at: "2026-03-29T19:44:52.808Z"
     - **(L)** The provision of assistance in the closure and decommissioning of sites identified as presenting risks of proliferation of proliferation-attractive fissile materials, radiological materials, and related equipment.
     - **(M)** Programs to—
       - **(i)** assist in the placement of employees displaced as a result of actions pursuant to the program in enterprises not representing a proliferation threat; and
-      - **(ii)** convert sites identified as presenting risks of proliferation regarding proliferation-attractive fissile materials, radiological materials, and related equipment to purposes not representing a proliferation threat to the extent necessary to eliminate the proliferation threat.
+      - **(ii)** convert (including through the use of alternative technologies) sites identified as presenting risks of proliferation regarding proliferation-attractive fissile materials, radiological materials, and related equipment to purposes not representing a proliferation threat to the extent necessary to eliminate the proliferation threat.
   - **(2)** The Secretary of Energy shall, in coordination with the Secretary of State, carry out the program in consultation with, and with the assistance of, appropriate departments, agencies, and other entities of the United States Government.
   - **(3)** The Secretary of Energy shall, with the concurrence of the Secretary of State, carry out activities under the program in collaboration with such foreign governments, non-governmental organizations, and other international entities as the Secretary of Energy considers appropriate for the program.
-- **(d)**
-  - **(1)** Not later than March 15, 2005 , the Secretary of Energy shall submit to Congress a classified interim report on the program under subsection (b).
-  - **(2)** Not later than January 1, 2006 , the Secretary shall submit to Congress a classified final report on the program under subsection (b) that includes the following:
-    - **(A)** A survey by the Secretary of the facilities and sites worldwide that contain proliferation-attractive fissile materials, radiological materials, or related equipment.
-    - **(B)** A list of sites determined by the Secretary to be of the highest priority, taking into account risk of theft from such sites, for removal or security of proliferation-attractive fissile materials, radiological materials, or related equipment, organized by level of priority.
-    - **(C)** A plan, including activities under the program under this section, for the removal, security, or both of proliferation-attractive fissile materials, radiological materials, or related equipment at vulnerable facilities and sites worldwide, including measurable milestones, metrics, and estimated costs for the implementation of the plan.
-  - **(3)** A summary of each report under this subsection shall also be submitted to Congress in unclassified form.
-- **(e)** Amounts authorized to be appropriated to the Secretary of Energy for defense nuclear nonproliferation activities shall be available for purposes of the program under this section.
-- **(f)**
+- **(d)** Amounts authorized to be appropriated to the Secretary of Energy for defense nuclear nonproliferation activities shall be available for purposes of the program under this section.
+- **(e)**
   - **(1)** The Secretary of Energy may, with the concurrence of the Secretary of State, enter into one or more agreements with any person (including a foreign government, international organization, or multinational entity) that the Secretary of Energy considers appropriate under which the person contributes funds for purposes of the programs described in paragraph (2).
   - **(2)** The programs described in this paragraph are any programs within the Office of Defense Nuclear Nonproliferation of the National Nuclear Security Administration.
   - **(3)** Notwithstanding section 3302 of title 31 , the Secretary of Energy may retain and use amounts contributed under an agreement under paragraph (1) for purposes of the programs described in paragraph (2). Amounts so contributed shall be retained in a separate fund established in the Treasury for such purposes and shall be available for use without further appropriation and without fiscal year limitation.
@@ -50,11 +43,11 @@ generated_at: "2026-03-29T19:44:52.808Z"
     - **(A)** a statement of any amounts received under this subsection, including, for each such amount, the value of the contribution and the person who contributed it;
     - **(B)** a statement of any amounts used under this subsection, including, for each such amount, the purposes for which the amount was used; and
     - **(C)** a statement of the amounts retained but not used under this subsection, including, for each such amount, the purposes (if known) for which the Secretary intends to use the amount.
-  - **(6)** The authority to accept, retain, and use contributions under this subsection expires on December 31, 2028 .
-- **(g)** In this section:
+- **(f)** In this section:
   - **(1)** The term “fissile materials” means plutonium, highly-enriched uranium, or other material capable of sustaining an explosive nuclear chain reaction, including irradiated items containing such materials if the radiation field from such items is not sufficient to prevent the theft or misuse of such items.
   - **(2)** The term “radiological materials” includes Americium-241, Californium-252, Cesium-137, Cobalt-60, Iridium-192, Plutonium-238, Radium-226, Strontium-90, Curium-244, and irradiated items containing such materials, or other materials designated by the Secretary of Energy for purposes of this paragraph.
   - **(3)** The term “related equipment” includes equipment useful for enrichment of uranium in the isotope 235 and for extraction of fissile materials from irradiated fuel rods and other equipment designated by the Secretary of Energy for purposes of this section.
   - **(4)** The term “highly-enriched uranium” means uranium enriched to or above 20 percent in the isotope 235.
   - **(5)** The term “low-enriched uranium” means uranium enriched below 20 percent in the isotope 235.
   - **(6)** The term “proliferation-attractive”, in the case of fissile materials and radiological materials, means quantities and types of such materials that are determined by the Secretary of Energy to present a significant risk to the national security of the United States if diverted to a use relating to proliferation.
+  - **(7)** The term “alternative technologies” means technologies, such as accelerator-based equipment, that do not use radiological materials.

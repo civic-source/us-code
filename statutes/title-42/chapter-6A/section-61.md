@@ -3,9 +3,9 @@ title: "Section 61 - World Trade Center Health Program Fund"
 usc_title: 42
 usc_section: "61"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 61"
-generated_at: "2026-03-29T19:31:44.475Z"
+generated_at: "2026-03-29T20:00:54.129Z"
 ---
 
 # § 300mm–61. World Trade Center Health Program Fund
@@ -36,8 +36,9 @@ generated_at: "2026-03-29T19:31:44.475Z"
   - **(5)** Amounts deposited into the Fund under this subsection, including amounts deposited under paragraph (2) as in effect on the day before December 18, 2015 , for a fiscal year shall remain available, for the purposes described in this subchapter, until expended for such fiscal year and any subsequent fiscal year through fiscal year 2090.
 - **(b)**
   - **(1)** The amounts deposited into the Fund under subsection (a)(2) shall be available, without further appropriation, consistent with paragraph (2) and subsection (c), to carry out part B and sections 300mm(e), 300mm(f), 300mm–1(a), 300mm–1(b), 300mm–2, 300mm–3, 300mm–4(a)(1), 300mm–4(a)(2), 300mm–4(c), 300mm–51, and 300mm–52 of this title.
-  - **(2)** This subchapter does not establish any Federal obligation for payment of amounts in excess of the amounts available from the Fund for such purpose.
-  - **(3)** This subchapter does not establish any authorization for appropriation of amounts in excess of the amounts available from the Fund under paragraph (1).
+  - **(2)** This subchapter does not establish any Federal obligation for payment of amounts in excess of the amounts available from the Fund for such purpose or as available from the World Trade Center Health Program Supplemental Fund under section 300mm–62 of this title , the World Trade Center Health Program Special Fund under section 300mm–63 of this title , or the World Trade Center Health Program Fund for Certain WTC Responders at the Pentagon and Shanksville, Pennsylvania under section 300mm–64 of this title .
+  - **(3)** This subchapter does not establish any authorization for appropriation of amounts in excess of the amounts available from the Fund under paragraph (1) or as available from the World Trade Center Health Program Supplemental Fund under section 300mm–62 of this title , the World Trade Center Health Program Special Fund under section 300mm–63 of this title , or the World Trade Center Health Program Fund for Certain WTC Responders at the Pentagon and Shanksville, Pennsylvania under section 300mm–64 of this title .
+  - **(4)** Notwithstanding paragraph (1), the amounts made available under such paragraph may not be used for fiscal years 2023 through 2032 to carry out subsection (c) of section 300mm–51 of this title .
 - **(c)** Of the amounts made available under subsection (b)(1), not more than each of the following amounts may be available for each of the following purposes:
   - **(1)** For the purposes of carrying out part B with respect to WTC responders described in section 300mm–21(a)(2)(A)(ii) of this title —
     - **(A)** for fiscal year 2016, the amount determined for such fiscal year under subparagraph (C) 1 1 See References in Text note below. as in effect on the day before December 18, 2015 ; and

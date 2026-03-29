@@ -3,9 +3,9 @@ title: "Section 17082 - Zero Net Energy Commercial Buildings Initiative"
 usc_title: 42
 usc_section: "17082"
 chapter: 152
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 17082"
-generated_at: "2026-03-29T19:31:45.879Z"
+generated_at: "2026-03-29T20:00:55.599Z"
 ---
 
 # § 17082. Zero Net Energy Commercial Buildings Initiative
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T19:31:45.879Z"
 - **(d)** In carrying out the initiative, the Commercial Director, in consultation with the consortium, may—
   - **(1)** conduct research and development on building science, design, materials, components, equipment and controls, operation and other practices, integration, energy use measurement, and benchmarking;
   - **(2)** conduct pilot programs and demonstration projects to evaluate replicable approaches to achieving energy efficient commercial buildings for a variety of building types in a variety of climate zones;
-  - **(3)** conduct deployment, dissemination, and technical assistance activities to encourage widespread adoption of technologies, practices, and policies to achieve energy efficient commercial buildings;
+  - **(3)** conduct deployment, dissemination, and technical assistance activities to encourage widespread adoption of technologies, practices, and policies (including demand-response technologies, practices, and policies) to achieve energy efficient commercial buildings;
   - **(4)** conduct other research, development, demonstration, and deployment activities necessary to achieve each goal of the initiative, as determined by the Commercial Director, in consultation with the consortium;
   - **(5)** develop training materials and courses for building professionals and trades on achieving cost-effective high-performance energy efficient buildings;
   - **(6)** develop and disseminate public education materials to share information on the benefits and cost-effectiveness of high-performance energy efficient buildings;

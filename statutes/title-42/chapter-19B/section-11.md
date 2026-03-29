@@ -3,9 +3,9 @@ title: "Section 11 - Authorization of appropriation for Delmarva Peninsula study
 usc_title: 42
 usc_section: "11"
 chapter: 19
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-29T19:31:44.987Z"
+generated_at: "2026-03-29T20:00:54.738Z"
 ---
 
 # § 1962d–11. Authorization of appropriation for Delmarva Peninsula study

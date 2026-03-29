@@ -3,9 +3,9 @@ title: "Section 1808 - Inspector General of the Architect of the Capitol"
 usc_title: 2
 usc_section: "1808"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 1808"
-generated_at: "2026-03-29T19:42:59.663Z"
+generated_at: "2026-03-29T19:56:57.221Z"
 ---
 
 # § 1808. Inspector General of the Architect of the Capitol
@@ -33,13 +33,13 @@ generated_at: "2026-03-29T19:42:59.663Z"
   - **(4)** The Inspector General may not receive any cash award or cash bonus, including a cash award under chapter 45 of title 5.
   - **(5)** The Inspector General shall, in accordance with applicable laws and regulations governing selections, appointments, and employment at the Office of the Architect of the Capitol, obtain legal advice from a counsel reporting directly to the Inspector General or another Inspector General.
 - **(d)**
-  - **(1)** Sections 4, 5 (other than subsections (a)(13) and (e)(1)(B) thereof), 6 (other than subsection (a)(7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.) shall apply to the Inspector General of the Architect of the Capitol and the Office of such Inspector General and such sections shall be applied to the Office of the Architect of the Capitol and the Architect of the Capitol by substituting—
+  - **(1)** Sections 404, 405 (other than subsections (b)(13) and (f)(1)(B) thereof), 406 (other than subsection (a)(7) and (8) thereof), and 407 of title 5 shall apply to the Inspector General of the Architect of the Capitol and the Office of such Inspector General and such sections shall be applied to the Office of the Architect of the Capitol and the Architect of the Capitol by substituting—
     - **(A)** “Office of the Architect of the Capitol” for “establishment”; and
     - **(B)** “Architect of the Capitol” for “head of the establishment”.
   - **(2)**
     - **(A)** The Inspector General, in carrying out this section, is authorized, without the supervision or approval of any other employee, office, or other entity within the Office of the Architect of the Capitol, to select, appoint, and employ such officers and employees (including consultants) as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of law governing selections, appointments, and employment in the Office of the Architect of the Capitol.
     - **(B)** Appointments under the authority under subparagraph (A) shall be made consistent with personnel security and suitability requirements.
-    - **(C)** Any appointment of a consultant under the authority under subparagraph (A) shall be made consistent with section 6(a)(8) of the Inspector General Act of 1978 (5 U.S.C. App.).
+    - **(C)** Any appointment of a consultant under the authority under subparagraph (A) shall be made consistent with section 6(a)(8) of the Inspector General Act of 1978 (5 U.S.C. App.). 1 1 See References in Text note below.
   - **(3)**
     - **(A)** Subject to subparagraph (B), any supervisory special agent under the Inspector General and any special agent supervised by such a supervisory special agent is authorized to—
       - **(i)** make an arrest without a warrant while engaged in official duties as authorized under this section or any other statute for any offense against the United States committed in the presence of such supervisory special agent or special agent, or for any felony cognizable under the laws of the United States if such supervisory special agent or special agent has reasonable grounds to believe that the person to be arrested has committed or is committing such felony;
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T19:42:59.663Z"
         - **(II)** The Inspector General may reauthorize an individual to exercise the authority granted under subparagraph (A) if the Inspector General determines the individual has achieved compliance with the requirements under this paragraph.
         - **(III)** A revocation of the authority granted under subparagraph (A) shall not be subject to administrative, judicial, or other review, unless the revocation results in an adverse action. Such an adverse action may, at the election of the applicable individual, be reviewed in accordance with the otherwise applicable procedures.
     - **(C)**
-      - **(i)** Before the first grant of authority under subparagraph (A), and semiannually thereafter as part of the report under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.), the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this paragraph.
+      - **(i)** Before the first grant of authority under subparagraph (A), and semiannually thereafter as part of the report under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.), 1 the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this paragraph.
       - **(ii)** The authority granted under this paragraph (including any grant of authority to an individual under subparagraph (A), without regard to whether the individual is in compliance with subparagraph (B)) may be suspended by the Inspector General if the Office of Inspector General fails to comply with the reporting and review requirements under clause (i) of this subparagraph or subparagraph (D). Any suspension of authority under this clause shall be reported to the appropriate committees of Congress.
     - **(D)** To ensure the proper exercise of the law enforcement powers authorized under this paragraph, the Office of Inspector General shall submit to and participate in the external review process established by the Council of the Inspectors General on Integrity and Efficiency for ensuring that adequate internal safeguards and management procedures continue to exist. Under the review process, the exercise of the law enforcement powers by the Office of Inspector General shall be reviewed periodically by another Office of Inspector General or by a committee of Inspectors General. The results of each review shall be communicated in writing to the Inspector General, the Council of the Inspectors General on Integrity and Efficiency, and the appropriate committees of Congress.
     - **(E)** Any allegation of misconduct by an individual granted authority under subparagraph (A) may be reviewed by the Integrity Committee of the Council of the Inspectors General on Integrity and Efficiency.

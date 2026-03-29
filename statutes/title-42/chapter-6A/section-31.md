@@ -3,9 +3,9 @@ title: "Section 31 - Identification and initial health evaluation of screening-e
 usc_title: 42
 usc_section: "31"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 31"
-generated_at: "2026-03-29T19:31:44.474Z"
+generated_at: "2026-03-29T20:00:54.127Z"
 ---
 
 # § 300mm–31. Identification and initial health evaluation of screening-eligible and certified-eligible WTC survivors
@@ -43,11 +43,11 @@ generated_at: "2026-03-29T19:31:44.474Z"
         - **(I)** In the case of an individual who is described in paragraph (1)(A)(i), the WTC Program Administrator shall provide the certification under clause (i) not later than July 1, 2011 .
         - **(II)** In the case of another individual who is determined under clause (i) to be eligible for followup monitoring and treatment, the WTC Program Administrator shall provide the certification under such clause at the time of such determination.
   - **(3)**
-    - **(A)** The total number of individuals not described in paragraph (1)(A)(i) who may be certified as certified-eligible WTC survivors under paragraph (2)(B) shall not exceed 25,000 at any time.
+    - **(A)** The total number of individuals not described in paragraph (1)(A)(i) who may be certified as certified-eligible WTC survivors under paragraph (2)(B) shall not exceed 75,000 at any time.
     - **(B)** In implementing subparagraph (A), the WTC Program Administrator shall—
       - **(i)** limit the number of certifications provided under paragraph (2)(B)—
         - **(I)** in accordance with such subparagraph; and
-        - **(II)** to such number, as determined by the Administrator based on the best available information and subject to amounts made available under section 300mm–61 of this title , that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals receiving such certifications; and
+        - **(II)** to such number, as determined by the Administrator based on the best available information and subject to amounts made available under this subchapter, that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals receiving such certifications; and
       - **(ii)** provide priority in such certifications in the order in which individuals apply for a determination under paragraph (2)(B).
   - **(4)** No individual who is on the terrorist watch list maintained by the Department of Homeland Security shall qualify as a screening-eligible WTC survivor or a certified-eligible WTC survivor. Before determining any individual to be a screening-eligible WTC survivor under paragraph (1) or certifying any individual as a certified eligible 1 1 So in original. Probably should be “certified-eligible”. WTC survivor under paragraph (2), the Administrator, in consultation with the Secretary of Homeland Security, shall determine whether the individual is on such list.
 - **(b)**

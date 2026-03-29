@@ -3,9 +3,9 @@ title: "Section 7105 - Filing of appeal"
 usc_title: 38
 usc_section: "7105"
 chapter: 71
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 7105"
-generated_at: "2026-03-29T19:43:27.066Z"
+generated_at: "2026-03-29T20:00:43.136Z"
 ---
 
 # § 7105. Filing of appeal
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:43:27.066Z"
 - **(a)** Appellate review shall be initiated by the filing of a notice of disagreement in the form prescribed by the Secretary. Each appellant will be accorded hearing and representation rights pursuant to the provisions of this chapter and regulations of the Secretary.
 - **(b)**
   - **(1)**
-    - **(A)** Except in the case of simultaneously contested claims, a notice of disagreement shall be filed within one year from the date of the mailing of notice of the decision of the agency of original jurisdiction pursuant to section 5104, 5104B, or 5108 of this title.
+    - **(A)** Except in the case of simultaneously contested claims, a notice of disagreement shall be filed within one year from the date of the issuance of notice of the decision of the agency of original jurisdiction pursuant to section 5104, 5104B, or 5108 of this title.
     - **(B)** A notice of disagreement postmarked before the expiration of the one-year period shall be accepted as timely filed.
     - **(C)** A question as to timeliness or adequacy of the notice of disagreement shall be decided by the Board.
   - **(2)**

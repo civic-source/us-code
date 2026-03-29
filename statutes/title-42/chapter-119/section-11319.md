@@ -3,12 +3,12 @@ title: "Section 11319 - Termination"
 usc_title: 42
 usc_section: "11319"
 chapter: 119
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 11319"
-generated_at: "2026-03-29T19:31:45.610Z"
+generated_at: "2026-03-29T20:00:55.371Z"
 ---
 
 # § 11319. Termination
 
-The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 2017 1 1 So in original. Probably should be followed by a period.
+The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 2028 1 1 So in original. Probably should be followed by a period.
 

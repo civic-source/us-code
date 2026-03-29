@@ -3,14 +3,14 @@ title: "Section 4103 - Apportionment"
 usc_title: 16
 usc_section: "4103"
 chapter: 61
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 4103"
-generated_at: "2026-03-29T19:41:13.835Z"
+generated_at: "2026-03-29T19:59:08.461Z"
 ---
 
 # § 4103. Apportionment
 
-- **(a)** Funds appropriated under section 4107(a) of this title shall be apportioned by the Secretary among the States on October 1 of each fiscal year, or as soon thereafter as practicable.
+- **(a)** Funds appropriated under section 4107(a) 1 1 See References in Text note below. of this title shall be apportioned by the Secretary among the States on October 1 of each fiscal year, or as soon thereafter as practicable.
 - **(b)** The amount of funds apportioned to each State shall be determined by the Secretary as the ratio which the equally weighted average of the volume and value of fishery resources harvested by domestic commercial fishermen and received within such State during the 3 most recent calendar years for which data satisfactory to the Secretary are available bears to the total equally weighted average of the volume and value of all fishery resources harvested by domestic commercial fishermen received within all of the States during those calendar years.
 - **(c)**
   - **(1)** No State may receive an apportionment under subsection (b) for either fiscal year 1987 or fiscal year 1988 which is less than one-half of one percent of the total amount of funds available for that fiscal year.

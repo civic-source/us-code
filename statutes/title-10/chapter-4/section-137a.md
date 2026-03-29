@@ -3,9 +3,9 @@ title: "Section 137a - Deputy Under Secretaries of Defense"
 usc_title: 10
 usc_section: "137a"
 chapter: 4
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 137a"
-generated_at: "2026-03-29T19:43:37.775Z"
+generated_at: "2026-03-29T19:58:01.931Z"
 ---
 
 # § 137a. Deputy Under Secretaries of Defense
@@ -22,4 +22,4 @@ generated_at: "2026-03-29T19:43:37.775Z"
   - **(4)** One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Personnel and Readiness.
   - **(5)** One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense (Comptroller).
   - **(6)** One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Intelligence and Security, who shall be appointed from among persons who have extensive expertise in intelligence matters.
-- **(d)** The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
+- **(d)** The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.

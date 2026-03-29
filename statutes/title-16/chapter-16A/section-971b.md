@@ -3,9 +3,9 @@ title: "Section 971b - Advisory committee"
 usc_title: 16
 usc_section: "971b"
 chapter: 16
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 971b"
-generated_at: "2026-03-29T19:41:13.654Z"
+generated_at: "2026-03-29T19:59:08.261Z"
 ---
 
 # § 971b. Advisory committee
@@ -21,4 +21,4 @@ generated_at: "2026-03-29T19:41:13.654Z"
     - **(A)** The Secretary shall provide to the advisory committee in a timely manner such administrative and technical support services as are necessary for the effective functioning of the committee.
     - **(B)** The Secretary and the Secretary of State shall furnish the advisory committee with relevant information concerning fisheries and international fishery agreements.
   - **(5)** The advisory committee shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.), and the Convention. The advisory committee shall publish and make available to the public a statement of its organization, practices, and procedures.
-  - **(6)** The advisory committee shall, to the maximum extent practicable, consist of an equitable balance among the various groups concerned with the fisheries covered by the Convention and shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+  - **(6)** The advisory committee shall, to the maximum extent practicable, consist of an equitable balance among the various groups concerned with the fisheries covered by the Convention and shall not be subject to chapter 10 of title 5.

@@ -1,12 +1,24 @@
 ---
-title: "Section 2392 - Renumbered § 4653]"
+title: "Section 2392 - Process for strategic basing actions for the Department of the Air Force"
 usc_title: 10
 usc_section: "2392"
 chapter: 141
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2392"
-generated_at: "2026-03-29T19:43:37.980Z"
+generated_at: "2026-03-29T19:58:02.164Z"
 ---
 
-# [§ 2392. Renumbered § 4653]
+# § 2392. Process for strategic basing actions for the Department of the Air Force
 
+- **(a)** The Secretary of the Air Force (or a designee) shall not make any basing decision during the resource allocation plan or program objective memorandum process.
+- **(b)** Not later than 90 days after the date of the enactment of this section, and quarterly thereafter, the Secretary of the Air Force (or a designee) shall brief the congressional defense committees on the following:
+  - **(1)** Strategic basing actions approved by the strategic basing panel for review by the strategic basing executive steering group during the quarter covered by the briefing.
+  - **(2)** For each strategic basing action not covered by a previous briefing, a description of the criteria for selection of candidate location for each such strategic basing action and how each criterion will be applied to the candidate locations to determine preferred location.
+  - **(3)** Updates regarding candidate locations, preferred locations, and the final location selected for each strategic basing action covered by the briefing.
+  - **(4)** Any strategic basing actions with projected decision dates that will occur before the next scheduled briefing under this subsection.
+- **(c)** Upon request by either the Committee on Armed Services of the House of Representatives or of the Senate, the Secretary of the Air Force (or a designee) shall provide to such Committee a briefing on the information described in subsection (b).
+- **(d)** The Secretary of the Air Force (or a designee) shall notify the congressional defense committees, not later than seven days after the effective date of a change, if such change is a change—
+  - **(1)** to the selection criteria or the application of selection criteria, that would result in a different decision than briefed under subsection (b) regarding the enterprise definition, identified candidate locations, or identified preferred location; or
+  - **(2)** to the governance process used to oversee a strategic basing action.
+- **(e)** With respect to a strategic basing action relating to a military installation located outside of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam, a notification required under this section may be provided in a classified form.
+- **(f)** In this section, the terms “enterprise definition”, “program objective memorandum process”, “resource allocation plan”, “strategic basing action”, “strategic basing executive steering group”, and “strategic basing panel” have the meanings given, respectively, under the Department of the Air Force Instruction 10–503 (issued June 12, 2023 , as in effect on November 1, 2024 ).

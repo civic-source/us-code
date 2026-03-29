@@ -3,9 +3,9 @@ title: "Section 3672 - Approval of courses"
 usc_title: 38
 usc_section: "3672"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3672"
-generated_at: "2026-03-29T19:43:27.023Z"
+generated_at: "2026-03-29T20:00:43.082Z"
 ---
 
 # § 3672. Approval of courses
@@ -22,7 +22,7 @@ generated_at: "2026-03-29T19:43:27.023Z"
       - **(iii)** An apprenticeship program registered with the Office of Apprenticeship (OA) of the Employment Training Administration of the Department of Labor or a State apprenticeship agency recognized by the Office of Apprenticeship pursuant to the Act of August 16, 1937 (popularly known as the “National Apprenticeship Act”; 29 U.S.C. 50 et seq.).
       - **(iv)** A program leading to a secondary school diploma offered by a secondary school approved in the State in which it is operating.
     - **(B)** A licensure test offered by a Federal, State, or local government is deemed to be approved for purposes of this chapter.
-    - **(C)** A course that is described in both subparagraph (A)(i) of this paragraph and in paragraph (14) or (15) of section 3676(c) of this title shall not be deemed to be approved for purposes of this chapter unless—
+    - **(C)** A course that is described in both subparagraph (A)(i) of this paragraph and in paragraph (15) or (16) of section 3676(c) of this title shall not be deemed to be approved for purposes of this chapter unless—
       - **(i)** a State approving agency, or the Secretary when acting in the role of a State approving agency, determines that the course meets the applicable criteria in such paragraphs; or
       - **(ii)** the Secretary issues a waiver for such course under section 3676(f)(1) of this title .
     - **(D)** A program that is described in subparagraph (A)(i) of this paragraph and offered by an educational institution that is at risk of losing accreditation shall not be deemed to be approved for purposes of this chapter. For purposes of this subparagraph, an educational institution is at risk of losing accreditation if that educational institution has received from the relevant accrediting agency or association a notice described in section 3673(e)(2)(D) of this title .

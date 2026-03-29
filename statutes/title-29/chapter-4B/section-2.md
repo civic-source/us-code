@@ -3,9 +3,9 @@ title: "Section 2 - Workforce and labor market information system"
 usc_title: 29
 usc_section: "2"
 chapter: 4
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "29 U.S.C. § 2"
-generated_at: "2026-03-29T19:42:21.415Z"
+generated_at: "2026-03-29T19:59:56.560Z"
 ---
 
 # § 49l–2. Workforce and labor market information system
@@ -80,7 +80,7 @@ generated_at: "2026-03-29T19:42:21.415Z"
       - **(i)** Each member of the Council shall be appointed for a term of 3 years, except that the initial terms for members may be 1, 2, or 3 years in order to establish a rotation in which one-third of the members are selected each year. Any such member may be appointed for not more than 2 consecutive terms.
       - **(ii)** Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office.
     - **(E)** The members of the Council shall not receive compensation for the performance of services for the Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Council. Notwithstanding section 1342 of title 31 , the Secretary may accept the voluntary and uncompensated services of members of the Council.
-    - **(F)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
+    - **(F)** Section 1013 of title 5 shall not apply to the Council.
 - **(e)**
   - **(1)** In order to receive Federal financial assistance under this section, the Governor of a State shall—
     - **(A)** designate a single State agency to be responsible for the management of the portions of the workforce and labor market information system described in subsection (a) that comprise a statewide workforce and labor market information system and for the State’s participation in the development of the plan described in subsection (c); and

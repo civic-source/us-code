@@ -1,14 +1,14 @@
 ---
-title: "Section 4 - Delegation of functions under other laws as unaffected"
+title: "Section 4 - Institute for Rural Partnerships"
 usc_title: 7
 usc_section: "4"
 chapter: 55
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-29T19:43:58.251Z"
+generated_at: "2026-03-29T19:57:39.145Z"
 ---
 
-# § 2204–4. Delegation of functions under other laws as unaffected
+# § 2204b–4. Institute for Rural Partnerships
 
-The provisions of section 2204–2 of this title shall not be deemed to prohibit the delegation, under authority of any other provision of law, of the whole or any part of any regulatory function or other function to any officer or employee of the Department of Agriculture.
+For an additional amount for the Office of the Secretary, $30,000,000, to remain available until expended, to establish an Institute for Rural Partnerships: Provided , That the Secretary shall establish a grant program and distribute the funds to three geographically diverse established land-grant universities: Provided further , That the Institute for Rural Partnerships shall dedicate resources to researching the causes and conditions of challenges facing rural areas, and develop community partnerships to address such challenges: Provided further , That administrative or other fees shall not exceed one percent: Provided further , That such partnership shall coordinate and publish an annual report.
 

@@ -1,16 +1,12 @@
 ---
-title: "Section 13726c - Enforcement"
+title: "Section 13726c - Transferred"
 usc_title: 42
 usc_section: "13726c"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 13726c"
-generated_at: "2026-03-29T19:31:45.739Z"
+generated_at: "2026-03-29T20:00:55.490Z"
 ---
 
-# § 13726c. Enforcement
+# § 13726c. Transferred
 
-Any person who is found in violation of the regulations established by sections 13726 to 13726c of this title shall—
-
-  - **(1)** be liable to the United States for a civil penalty in an amount not to exceed $10,000 for each violation and, in addition, to the United States for the costs of prosecution; and
-  - **(2)** make restitution to any entity of the United States, of a State, or of an inferior political subdivision of a State, which expends funds for the purpose of apprehending any violent prisoner who escapes from a prisoner transport company as the result, in whole or in part, of a violation of regulations promulgated pursuant to section 13726b(a) of this title .

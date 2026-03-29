@@ -3,15 +3,15 @@ title: "Section 718a - Prohibition on taking"
 usc_title: 16
 usc_section: "718a"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 718a"
-generated_at: "2026-03-29T19:41:13.590Z"
+generated_at: "2026-03-29T19:59:08.189Z"
 ---
 
 # § 718a. Prohibition on taking
 
 - **(a)**
-  - **(1)** Except as provided in paragraph (2), no individual who has attained the age of 16 years shall take any migratory waterfowl unless, at the time of the taking, the individual carries on the person of the individual a valid Migratory Bird Hunting and Conservation Stamp, validated by the signature of the individual written in ink across the face of the stamp prior to the time of the taking by the individual of the waterfowl.
+  - **(1)** Except as provided in paragraph (2), no individual who has attained the age of 16 years shall take any migratory waterfowl unless, at the time of the taking, the individual carries on the person of the individual a valid Migratory Bird Hunting and Conservation Stamp, as an electronic stamp (as defined in section 718 o of this title) or validated by the signature of the individual written in ink across the face of the actual stamp (as defined in that section) prior to the time of the taking by the individual of the waterfowl.
   - **(2)** No stamp described in paragraph (1) shall be required for the taking of migratory waterfowl—
     - **(A)** by Federal or State agencies;
     - **(B)** for propagation;

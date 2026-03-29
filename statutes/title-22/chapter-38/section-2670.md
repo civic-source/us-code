@@ -3,9 +3,9 @@ title: "Section 2670 - Insurance on motor vehicles in foreign countries; tie lin
 usc_title: 22
 usc_section: "2670"
 chapter: 38
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2670"
-generated_at: "2026-03-29T19:42:08.114Z"
+generated_at: "2026-03-29T19:59:24.140Z"
 ---
 
 # § 2670. Insurance on motor vehicles in foreign countries; tie lines and teletype equipment; ice and drinking water; excise taxes on negotiable instruments; remains of deceased persons; relief, protection, and burial of seamen; acknowledgement of services of foreign vessels and aircraft; rentals and leases
@@ -23,5 +23,6 @@ The Secretary of State is authorized to—
 - **(i)** maintain, improve, and repair properties rented or leased pursuant to authority contained in subsection (h) of this section and furnish fuel, water, and utilities for such properties;
 - **(j)** provide emergency medical attention and dietary supplements, and other emergency assistance, for United States citizens incarcerated abroad or destitute United States citizens abroad who are unable to obtain such services otherwise, such assistance to be provided on a reimbursable basis to the extent feasible;
 - **(k)** subject to the availability of appropriated funds, obtain insurance on the historic and artistic articles of furniture, fixtures, and decorative objects which may from time-to-time be within the responsibility of the Fine Arts Committee of the Department of State for the Diplomatic Rooms of the Department;
-- **(l)** make payments in advance, of the United States share of necessary expenses for international fisheries commissions, from appropriations available for such purpose; and
-- **(m)** establish, maintain, and operate passport and dispatch agencies.
+- **(l)** make payments in advance, of the United States share of necessary expenses for international fisheries commissions, from appropriations available for such purpose;
+- **(m)** establish, maintain, and operate passport and dispatch agencies; and
+- **(n)** pay expenses to provide internet services in residences owned or leased by the United States Government in foreign countries for the use of Department personnel where Department personnel receive a post hardship differential equivalent to 30 percent or more above basic compensation.

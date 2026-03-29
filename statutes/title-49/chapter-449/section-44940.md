@@ -3,9 +3,9 @@ title: "Section 44940 - Security service fee"
 usc_title: 49
 usc_section: "44940"
 chapter: 449
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 44940"
-generated_at: "2026-03-29T19:44:58.016Z"
+generated_at: "2026-03-29T20:01:15.011Z"
 ---
 
 # § 44940. Security service fee
@@ -58,7 +58,7 @@ generated_at: "2026-03-29T19:44:58.016Z"
     - **(D)** $1,440,000,000 for fiscal year 2021.
     - **(E)** $1,480,000,000 for fiscal year 2022.
     - **(F)** $1,520,000,000 for fiscal year 2023.
-    - **(G)** $1,560,000,000 for fiscal year 2024.
+    - **(G)** $760,000,000 for fiscal year 2024.
     - **(H)** $1,600,000,000 for fiscal year 2025.
     - **(M)** 1 1 So in original. $1,640,000,000 for fiscal year 2026.
     - **(N)** 1 $1,680,000,000 for fiscal year 2027.

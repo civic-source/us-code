@@ -3,9 +3,9 @@ title: "Section 3504 - Authority and functions of Director"
 usc_title: 44
 usc_section: "3504"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "44 U.S.C. § 3504"
-generated_at: "2026-03-29T19:30:59.119Z"
+generated_at: "2026-03-29T19:59:33.828Z"
 ---
 
 # § 3504. Authority and functions of Director
@@ -24,11 +24,22 @@ generated_at: "2026-03-29T19:30:59.119Z"
 - **(b)** With respect to general information resources management policy, the Director shall—
   - **(1)** develop and oversee the implementation of uniform information resources management policies, principles, standards, and guidelines;
   - **(2)** foster greater sharing, dissemination, and access to public information, including through—
-    - **(A)** the use of the Government Information Locator Service; and
+    - **(A)** the use of comprehensive data inventories and the Federal data catalogue under section 3511; and
     - **(B)** the development and utilization of common standards for information collection, storage, processing and communication, including standards for security, interconnectivity and interoperability;
   - **(3)** initiate and review proposals for changes in legislation, regulations, and agency procedures to improve information resources management practices;
-  - **(4)** oversee the development and implementation of best practices in information resources management, including training; and
-  - **(5)** oversee agency integration of program and management functions with information resources management functions.
+  - **(4)** oversee the development and implementation of best practices in information resources management, including training;
+  - **(5)** oversee agency integration of program and management functions with information resources management functions; and
+  - **(6)** issue guidance for agencies to implement section 3506(b)(6) in a manner that takes into account—
+    - **(A)** risks and restrictions related to the disclosure of personally identifiable information, including the risk that an individual data asset in isolation does not pose a privacy or confidentiality risk but when combined with other available information may pose such a risk;
+    - **(B)** security considerations, including the risk that information in an individual data asset in isolation does not pose a security risk but when combined with other available information may pose such a risk;
+    - **(C)** the cost and benefits to the public of converting a data asset into a machine-readable format that is accessible and useful to the public;
+    - **(D)** whether the application of the requirements described in such section to a data asset could result in legal liability;
+    - **(E)** a determination of whether a data asset—
+      - **(i)** is subject to intellectual property rights, including rights under titles 17 and 35;
+      - **(ii)** contains confidential business information, that could be withheld under section 552(b)(4) of title 5 ; or
+      - **(iii)** is otherwise restricted by contract or other binding, written agreement;
+    - **(F)** the requirement that a data asset be disclosed, if it would otherwise be made available under section 552 of title 5 (commonly known as the “Freedom of Information Act”); and
+    - **(G)** any other considerations that the Director determines to be relevant.
 - **(c)** With respect to the collection of information and the control of paperwork, the Director shall—
   - **(1)** review and approve proposed agency collections of information;
   - **(2)** coordinate the review of the collection of information associated with Federal procurement and acquisition by the Office of Information and Regulatory Affairs with the Office of Federal Procurement Policy, with particular emphasis on applying information technology to improve the efficiency and effectiveness of Federal procurement, acquisition and payment, and to reduce information collection burdens on the public;
@@ -58,10 +69,16 @@ generated_at: "2026-03-29T19:30:59.119Z"
     - **(A)** be headed by the chief statistician; and
     - **(B)** consist of—
       - **(i)** the heads of the major statistical programs; and
-      - **(ii)** representatives of other statistical agencies under rotating membership; and
+      - **(ii)** representatives of other statistical agencies under rotating membership;
   - **(9)** provide opportunities for training in statistical policy functions to employees of the Federal Government under which—
     - **(A)** each trainee shall be selected at the discretion of the Director based on agency requests and shall serve under the chief statistician for at least 6 months and not more than 1 year; and
-    - **(B)** all costs of the training shall be paid by the agency requesting training.
+    - **(B)** all costs of the training shall be paid by the agency requesting training; and
+  - **(10)** ensure that any change to the standards of core-based statistical area (as defined in section 4 of the MAPS Act of 2021) delineations pursuant to this subsection shall—
+    - **(A)** be accompanied by a public report that explains—
+      - **(i)** the scientific basis, criteria, and methodology for such change to existing standards, including clear quantitative thresholds for determining any future statistical re-delineations; and
+      - **(ii)** the opinions of domestic and international experts in statistics and demographics, including government experts at the Bureau of the Census and other relevant agencies, who were consulted regarding such change to existing standards;
+    - **(B)** not be influenced by any non-statistical considerations such as impact on program administration or service delivery; and
+    - **(C)** not propagate automatically for any non-statistical use by any domestic assistance program (as defined in section 4 of the MAPS Act of 2021).
 - **(f)** With respect to records management, the Director shall—
   - **(1)** provide advice and assistance to the Archivist of the United States and the Administrator of General Services to promote coordination in the administration of chapters 29, 31, and 33 of this title with the information resources management policies, principles, standards, and guidelines established under this subchapter;
   - **(2)** review compliance by agencies with—
@@ -74,8 +91,8 @@ generated_at: "2026-03-29T19:30:59.119Z"
 - **(h)** With respect to Federal information technology, the Director shall—
   - **(1)** in consultation with the Director of the National Institute of Standards and Technology and the Administrator of General Services—
     - **(A)** develop and oversee the implementation of policies, principles, standards, and guidelines for information technology functions and activities of the Federal Government, including periodic evaluations of major information systems; and
-    - **(B)** oversee the development and implementation of standards under section 11331 of title 40 ;
-  - **(2)** monitor the effectiveness of, and compliance with, directives issued under subtitle III of title 40 and directives issued under section 322 2 2 See References in Text note below. of title 40;
+    - **(B)** oversee the development and implementation of standards under section 11331 of title 40 ; 2 2 See References in Text note below.
+  - **(2)** monitor the effectiveness of, and compliance with, directives issued under subtitle III of title 40 and directives issued under section 322 2 of title 40;
   - **(3)** coordinate the development and review by the Office of Information and Regulatory Affairs of policy associated with Federal procurement and acquisition of information technology with the Office of Federal Procurement Policy;
   - **(4)** ensure, through the review of agency budget proposals, information resources management plans and other means—
     - **(A)** agency integration of information resources management plans, program plans and budgets for acquisition and use of information technology; and

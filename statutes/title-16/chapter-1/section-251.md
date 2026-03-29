@@ -3,9 +3,9 @@ title: "Section 251 - Establishment; boundaries"
 usc_title: 16
 usc_section: "251"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 251"
-generated_at: "2026-03-29T19:41:13.312Z"
+generated_at: "2026-03-29T19:59:07.867Z"
 ---
 
 # § 251. Establishment; boundaries

@@ -3,9 +3,9 @@ title: "Section 2247 - Sale of samples of pure sugars"
 usc_title: 7
 usc_section: "2247"
 chapter: 55
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 2247"
-generated_at: "2026-03-29T19:43:58.258Z"
+generated_at: "2026-03-29T19:57:39.150Z"
 ---
 
 # § 2247. Sale of samples of pure sugars

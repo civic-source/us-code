@@ -3,9 +3,9 @@ title: "Section 744 - Investigations; fish propagation; investigations of damage
 usc_title: 16
 usc_section: "744"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 744"
-generated_at: "2026-03-29T19:41:13.596Z"
+generated_at: "2026-03-29T19:59:08.197Z"
 ---
 
 # § 744. Investigations; fish propagation; investigations of damages by predacious fishes; executive assistance

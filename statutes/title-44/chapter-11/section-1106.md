@@ -3,9 +3,9 @@ title: "Section 1106 - Inserting “compliments” forbidden"
 usc_title: 44
 usc_section: "1106"
 chapter: 11
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "44 U.S.C. § 1106"
-generated_at: "2026-03-29T19:30:59.103Z"
+generated_at: "2026-03-29T19:59:33.815Z"
 ---
 
 # § 1106. Inserting “compliments” forbidden

@@ -3,9 +3,9 @@ title: "Section 674 - Federal court jurisdiction of enforcement and injunction p
 usc_title: 21
 usc_section: "674"
 chapter: 12
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 674"
-generated_at: "2026-03-29T19:41:41.692Z"
+generated_at: "2026-03-29T19:59:28.505Z"
 ---
 
 # § 674. Federal court jurisdiction of enforcement and injunction proceedings and other kinds of cases; limitations of section 607(e) of this title

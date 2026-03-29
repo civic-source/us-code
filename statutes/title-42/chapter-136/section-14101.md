@@ -1,14 +1,12 @@
 ---
-title: "Section 14101 - Authorization of appropriations"
+title: "Section 14101 - Omitted"
 usc_title: 42
 usc_section: "14101"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14101"
-generated_at: "2026-03-29T19:31:45.765Z"
+generated_at: "2026-03-29T20:00:55.492Z"
 ---
 
-# § 14101. Authorization of appropriations
-
-There are authorized to be appropriated to carry out this part $50,000,000 for fiscal year 1999, $70,000,000 for fiscal year 2000, $90,000,000 for fiscal year 2001, and $90,000,000 for each of fiscal years 2002 through 2005.
+# § 14101. Omitted
 

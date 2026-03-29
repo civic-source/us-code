@@ -3,9 +3,9 @@ title: "Section 673b - Adoption and legal guardianship incentive payments"
 usc_title: 42
 usc_section: "673b"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 673b"
-generated_at: "2026-03-29T19:31:44.547Z"
+generated_at: "2026-03-29T20:00:54.221Z"
 ---
 
 # § 673b. Adoption and legal guardianship incentive payments
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:31:44.547Z"
   - **(1)** the State has a plan approved under this part for the fiscal year;
   - **(2)** the State is in compliance with subsection (c) for the fiscal year;
   - **(3)** the State provides health insurance coverage to any child with special needs (as determined under section 673(c) of this title ) for whom there is in effect an adoption assistance agreement between a State and an adoptive parent or parents; and
-  - **(4)** the fiscal year is any of fiscal years 2013 through 2015.
+  - **(4)** the fiscal year is any of fiscal years 2016 through 2020.
 - **(c)**
   - **(1)** A State is in compliance with this subsection for a fiscal year if the State has provided to the Secretary the data described in paragraph (2)—
     - **(A)** for fiscal years 1995 through 1997 (or, if the first fiscal year for which the State seeks a grant under this section is after fiscal year 1998, the fiscal year that precedes such first fiscal year); and
@@ -97,8 +97,8 @@ generated_at: "2026-03-29T19:31:44.547Z"
     - **(A)** $20,000,000 for fiscal year 1999;
     - **(B)** $43,000,000 for fiscal year 2000;
     - **(C)** $20,000,000 for each of fiscal years 2001 through 2003; and
-    - **(D)** $43,000,000 for each of fiscal years 2004 through 2016.
-  - **(2)** Amounts appropriated under paragraph (1), or under any other law for grants under subsection (a), are authorized to remain available until expended, but not after fiscal year 2016.
+    - **(D)** $43,000,000 for each of fiscal years 2004 through 2021.
+  - **(2)** Amounts appropriated under paragraph (1), or under any other law for grants under subsection (a), are authorized to remain available until expended, but not after fiscal year 2021.
 - **(i)**
   - **(1)** The Secretary may, directly or through grants or contracts, provide technical assistance to assist States and local communities to reach their targets for increased numbers of adoptions and, to the extent that adoption is not possible, alternative permanent placements, for children in foster care.
   - **(2)** The technical assistance provided under paragraph (1) may support the goal of encouraging more adoptions out of the foster care system, when adoptions promote the best interests of children, and may include the following:

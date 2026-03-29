@@ -1,21 +1,12 @@
 ---
-title: "Section 17552 - Grants to study parole or post-incarceration supervision violations and revocations"
+title: "Section 17552 - Transferred"
 usc_title: 42
 usc_section: "17552"
 chapter: 153
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 17552"
-generated_at: "2026-03-29T19:31:45.907Z"
+generated_at: "2026-03-29T20:00:55.632Z"
 ---
 
-# § 17552. Grants to study parole or post-incarceration supervision violations and revocations
+# § 17552. Transferred
 
-- **(a)** From amounts made available to carry out this section, the Attorney General may make grants to States to study and to improve the collection of data with respect to individuals whose parole or post-incarceration supervision is revoked, and which such individuals represent the greatest risk to victims and community safety.
-- **(b)** As a condition of receiving a grant under this section, a State shall—
-  - **(1)** certify that the State has, or intends to establish, a program that collects comprehensive and reliable data with respect to individuals described in subsection (a), including data on—
-    - **(A)** the number and type of parole or post-incarceration supervision violations that occur with the State;
-    - **(B)** the reasons for parole or post-incarceration supervision revocation;
-    - **(C)** the underlying behavior that led to the revocation; and
-    - **(D)** the term of imprisonment or other penalty that is imposed for the violation; and
-  - **(2)** provide the data described in paragraph (1) to the Bureau of Justice Statistics, in a form prescribed by the Bureau.
-- **(c)** Any statistical analysis of population data under this section shall be conducted in accordance with the Federal Register Notice dated October 30, 1997 , relating to classification standards.

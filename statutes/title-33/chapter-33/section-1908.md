@@ -3,9 +3,9 @@ title: "Section 1908 - Penalties for violations"
 usc_title: 33
 usc_section: "1908"
 chapter: 33
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 1908"
-generated_at: "2026-03-29T19:43:07.682Z"
+generated_at: "2026-03-29T20:00:31.369Z"
 ---
 
 # § 1908. Penalties for violations

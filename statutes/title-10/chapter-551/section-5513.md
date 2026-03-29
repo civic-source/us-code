@@ -1,14 +1,14 @@
 ---
-title: "Section 5513 - Unfunded priorities of the Missile Defense Agency: annual report"
+title: "Section 5513 - Unfunded priorities of the missile defense agency: 1 1 So in original. Probably should be capitalized as “Missile Defense Agency:”. annual report"
 usc_title: 10
 usc_section: "5513"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 5513"
-generated_at: "2026-03-29T02:10:45.244Z"
+generated_at: "2026-03-29T19:58:02.277Z"
 ---
 
-# § 5513. Unfunded priorities of the Missile Defense Agency: annual report
+# § 5513. Unfunded priorities of the missile defense agency: 1 1 So in original. Probably should be capitalized as “Missile Defense Agency:”. annual report
 
 - **(a)** Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31 , the Director of the Missile Defense Agency shall submit to the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, and to the congressional defense committees, a report on the unfunded priorities of the Missile Defense Agency.
 - **(b)**

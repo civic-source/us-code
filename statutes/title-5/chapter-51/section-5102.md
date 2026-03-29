@@ -3,9 +3,9 @@ title: "Section 5102 - Definitions; application"
 usc_title: 5
 usc_section: "5102"
 chapter: 51
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 5102"
-generated_at: "2026-03-29T19:43:20.347Z"
+generated_at: "2026-03-29T19:57:14.899Z"
 ---
 
 # § 5102. Definitions; application
@@ -50,7 +50,7 @@ generated_at: "2026-03-29T19:43:20.347Z"
   - **(7)** employees in recognized trades or crafts, or other skilled mechanical crafts, or in unskilled, semiskilled, or skilled manual-labor occupations, and other employees including foremen and supervisors in positions having trade, craft, or laboring experience and knowledge as the paramount requirement, and employees in the Bureau of Engraving and Printing whose duties are to perform or to direct manual or machine operations requiring special skill or experience, or to perform or direct the counting, examining, sorting, or other verification of the product of manual or machine operations;
   - **(8)** officers and members of crews of vessels;
   - **(9)** employees of the Government Publishing Office whose pay is fixed under section 305 of title 44 ;
-  - **(10)** civilian professors, instructors, and lecturers at a professional military education school (and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director) whose pay is fixed under section 1595, 7371, 8748, or 9371 of title 10; civilian professors, lecturers, and instructors at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 7438, 8452, and 9438, respectively, of title 10; senior professors, professors, associate and assistant professors, and instructors at the Naval Postgraduate School whose pay is fixed under section 8544 of title 10 ; the Provost and Academic Dean of the Naval Postgraduate School whose pay is fixed under section 8543 of title 10 ; civilian professors, instructors, and lecturers in the defense acquisition university structure (including the Defense Systems Management College) whose pay is fixed under section 1746(b) of title 10 ;
+  - **(10)** civilian professors, instructors, and lecturers at a professional military education school (and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director) whose pay is fixed under section 1595, 7371, 8748, or 9371 of title 10; civilian professors, lecturers, and instructors at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 7438, 8452, and 9438, respectively, of title 10; senior professors, professors, associate and assistant professors, and instructors at the Naval Postgraduate School whose pay is fixed under section 8544 of title 10 ; the Provost and Academic Dean of the Naval Postgraduate School 2 2 See Change of Name note below. whose pay is fixed under section 8543 of title 10 ; civilian professors, instructors, and lecturers in the defense acquisition university structure (including the Defense Systems Management College) whose pay is fixed under section 1746(b) of title 10 ;
   - **(11)** aliens or noncitizens of the United States who occupy positions outside the United States;
   - **[(12)** Repealed. Pub. L. 104–201, div. C, title XXXV, § 3548(a)(2)(B) , Sept. 23, 1996 , 110 Stat. 2868 ;]
   - **(13)** employees who serve without pay or at nominal rates of pay;

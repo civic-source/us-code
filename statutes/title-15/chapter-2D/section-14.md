@@ -3,9 +3,9 @@ title: "Section 14 - Jurisdiction of offenses and suits"
 usc_title: 15
 usc_section: "14"
 chapter: 2
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 14"
-generated_at: "2026-03-29T19:44:42.582Z"
+generated_at: "2026-03-29T19:58:17.366Z"
 ---
 
 # § 80b–14. Jurisdiction of offenses and suits

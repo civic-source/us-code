@@ -3,9 +3,9 @@ title: "Section 125 - Utah"
 usc_title: 28
 usc_section: "125"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "28 U.S.C. § 125"
-generated_at: "2026-03-29T19:42:27.319Z"
+generated_at: "2026-03-29T20:00:05.254Z"
 ---
 
 # § 125. Utah
@@ -13,4 +13,4 @@ generated_at: "2026-03-29T19:42:27.319Z"
 Utah constitutes one judicial district comprising two divisions.
 
   - **(1)** The Northern Division comprises the counties of Box Elder, Cache, Davis, Morgan, Rich, and Weber. Court for the Northern Division shall be held at Salt Lake City and Ogden.
-  - **(2)** The Central Division comprises the counties of Beaver, Carbon, Daggett, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Piute, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, and Wayne. Court for the Central Division shall be held at Salt Lake City, Provo, and St. George.
+  - **(2)** The Central Division comprises the counties of Beaver, Carbon, Daggett, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Piute, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, and Wayne. Court for the Central Division shall be held at Salt Lake City, Provo, St. George, Moab, and Monticello.. 1 1 So in original.

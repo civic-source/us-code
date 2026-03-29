@@ -3,9 +3,9 @@ title: "Section 2219d - Encouragement of conservation practices"
 usc_title: 12
 usc_section: "2219d"
 chapter: 23
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 2219d"
-generated_at: "2026-03-29T19:44:54.199Z"
+generated_at: "2026-03-29T19:58:40.970Z"
 ---
 
 # § 2219d. Encouragement of conservation practices

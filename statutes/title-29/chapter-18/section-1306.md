@@ -3,9 +3,9 @@ title: "Section 1306 - Premium rates"
 usc_title: 29
 usc_section: "1306"
 chapter: 18
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "29 U.S.C. § 1306"
-generated_at: "2026-03-29T19:42:21.531Z"
+generated_at: "2026-03-29T19:59:56.687Z"
 ---
 
 # § 1306. Premium rates
@@ -56,7 +56,7 @@ generated_at: "2026-03-29T19:42:21.531Z"
       - **(i)** Not later than 120 days before the date on which an increase under subparagraph (C)(ii) is to become effective, the corporation shall publish in the Federal Register a notice of the determination described in subparagraph (C)(ii), the basis for the determination, the amount of the increase in the premium, and the anticipated increase in premium income that would result from the increase in the premium rate. The notice shall invite public comment, and shall provide for a public hearing if one is requested. Any such hearing shall be commenced not later than 60 days before the date on which the increase is to become effective.
       - **(ii)** The board of directors shall review the hearing record established under clause (i) and shall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
     - **(E)**
-      - **(i)** Except as provided in subparagraph (H), the additional premium determined under this subparagraph with respect to any plan for any plan year—
+      - **(i)** Except as provided in subparagraph (I), the additional premium determined under this subparagraph with respect to any plan for any plan year—
         - **(I)** shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year;
         - **(II)** in the case of plan years beginning in a calendar year after 2012 and before 2016, shall not exceed $400 4 4 So in original. Probably should be followed by a semicolon. and
         - **(III)** in the case of plan years beginning in a calendar year after 2015, shall not exceed $500.
@@ -148,9 +148,10 @@ generated_at: "2026-03-29T19:42:21.531Z"
       - **(iii)** for plan years beginning after calendar year 2015, the amount in effect for plan years beginning in 2015 (determined after application of subparagraph (C));
       - **(iv)** for plan years beginning after calendar year 2016, the amount in effect for plan years beginning in 2016 (determined after application of subparagraph (C));
       - **(v)** for plan years beginning after calendar year 2017, the amount in effect for plan years beginning in 2017 (determined after application of subparagraph (C));
-      - **(vi)** for plan years beginning after calendar year 2018, the amount in effect for plan years beginning in 2018 (determined after application of subparagraph (C)); and
-      - **(vii)** for plan years beginning after calendar year 2019, the amount in effect for plan years beginning in 2019 (determined after application of subparagraph (C)).
-    - **(B)** For each plan year beginning in a calendar year after 2012, there shall be substituted for the applicable dollar amount specified under subparagraph (A) an amount equal to the greater of—
+      - **(vi)** for plan years beginning after calendar year 2018, the amount in effect for plan years beginning in 2018 (determined after application of subparagraph (C));
+      - **(vii)** for plan years beginning after calendar year 2019, the amount in effect for plan years beginning in 2019 (determined after application of subparagraph (C)); and
+      - **(viii)** for plan years beginning after calendar year 2023, $52.
+    - **(B)** For each plan year beginning in a calendar year after 2012 and before 2024, there shall be substituted for the applicable dollar amount specified under subparagraph (A) an amount equal to the greater of—
       - **(i)** the product derived by multiplying such applicable dollar amount for plan years beginning in that calendar year by the ratio of—
         - **(I)** the national average wage index (as defined in section 409(k)(1) of title 42 ) for the first of the 2 calendar years preceding the calendar year in which such plan year begins, to
         - **(II)** the national average wage index (as so defined) for the base year; and
@@ -169,7 +170,7 @@ generated_at: "2026-03-29T19:42:21.531Z"
       - **(iv)** 2014, in the case of plan years beginning after calendar year 2016;
       - **(v)** 2015, in the case of plan years beginning after calendar year 2017;
       - **(vi)** 2016, in the case of plan years beginning after calendar year 2018; and
-      - **(vii)** 2017, in the case of plan years beginning after calendar year 2019.
+      - **(vii)** 2017, in the case of plan years beginning after calendar year 2019 and before 2024.
     - **(E)** In the case of a CSEC plan (as defined in section 1060(f)(1) of this title ), the applicable dollar amount shall be $9.
 - **(b)**
   - **(1)** In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E)) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.

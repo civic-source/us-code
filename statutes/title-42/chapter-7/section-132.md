@@ -3,9 +3,9 @@ title: "Section 132 - Special rules for employer-sponsored programs"
 usc_title: 42
 usc_section: "132"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 132"
-generated_at: "2026-03-29T19:31:44.715Z"
+generated_at: "2026-03-29T20:00:54.425Z"
 ---
 
 # § 1395w–132. Special rules for employer-sponsored programs
@@ -13,7 +13,9 @@ generated_at: "2026-03-29T19:31:44.715Z"
 - **(a)**
   - **(1)** The Secretary shall provide in accordance with this subsection for payment to the sponsor of a qualified retiree prescription drug plan (as defined in paragraph (2)) of a special subsidy payment equal to the amount specified in paragraph (3) for each qualified covered retiree under the plan (as defined in paragraph (4)). This subsection constitutes budget authority in advance of appropriations Acts and represents the obligation of the Secretary to provide for the payment of amounts provided under this section.
   - **(2)** For purposes of this subsection, the term “qualified retiree prescription drug plan” means employment-based retiree health coverage (as defined in subsection (c)(1)) if, with respect to a part D eligible individual who is a participant or beneficiary under such coverage, the following requirements are met:
-    - **(A)** The sponsor of the plan provides the Secretary, annually or at such other time as the Secretary may require, with an attestation that the actuarial value of prescription drug coverage under the plan (as determined using the processes and methods described in section 1395w–111(c) of this title ) is at least equal to the actuarial value of standard prescription drug coverage, not taking into account the value of any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title .
+    - **(A)** The sponsor of the plan provides the Secretary, annually or at such other time as the Secretary may require, with an attestation that the actuarial value of prescription drug coverage under the plan (as determined using the processes and methods described in section 1395w–111(c) of this title ) is at least equal to the actuarial value of standard prescription drug coverage, not taking into account the value of—
+      - **(i)** for years prior to 2025, any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title ; and
+      - **(ii)** for 2025 and each subsequent year, any discount provided pursuant to section 1395w–114c of this title .
     - **(B)** The sponsor of the plan, or an administrator of the plan designated by the sponsor, shall maintain (and afford the Secretary access to) such records as the Secretary may require for purposes of audits and other oversight activities necessary to ensure the adequacy of prescription drug coverage and the accuracy of payments made under this section. The provisions of section 1395w–102(d)(3) of this title shall apply to such information under this section (including such actuarial value and attestation) in a manner similar to the manner in which they apply to financial records of PDP sponsors and MA organizations.
     - **(C)** The sponsor of the plan shall provide for disclosure of information regarding prescription drug coverage in accordance with section 1395w–113(b)(6)(B) of this title .
   - **(3)**
@@ -36,7 +38,9 @@ generated_at: "2026-03-29T19:31:44.715Z"
       - **(i)** that is better than standard prescription drug coverage to retirees who are covered under a qualified retiree prescription drug plan; or
       - **(ii)** that is supplemental to the benefits provided under a prescription drug plan or an MA–PD plan, including benefits to retirees who are not covered under a qualified retiree prescription drug plan but who are enrolled in such a prescription drug plan or MA–PD plan; or
     - **(D)** preventing employers to provide for flexibility in benefit design and pharmacy access provisions, without regard to the requirements for basic prescription drug coverage, so long as the actuarial equivalence requirement of paragraph (2)(A) is met.
-- **(b)** The provisions of section 1395w–27(i) of this title shall apply with respect to prescription drug plans in relation to employment-based retiree health coverage in a manner similar to the manner in which they apply to an MA plan in relation to employers, including authorizing the establishment of separate premium amounts for enrollees in a prescription drug plan by reason of such coverage and limitations on enrollment to part D eligible individuals enrolled under such coverage.
+- **(b)** The provisions of section 1395w–27(i) of this title shall apply with respect to prescription drug plans in relation to employment-based retiree health coverage in a manner similar to the manner in which they apply to an MA plan in relation to employers, including authorizing the establishment of separate premium amounts for enrollees in a prescription drug plan by reason of such coverage and limitations on enrollment to part D eligible individuals enrolled under such coverage, and shall be applied in a manner to facilitate the offering of prescription drug benefits under a Program plan under section 8903c of title 5 , as required under subsection (h)(2) of such section, through employment-based retiree health coverage through—
+  - **(1)** a prescription drug plan; or
+  - **(2)** contracts between such a Program plan and the PDP sponsor of such a prescription drug plan.. 1 1 So in original.
 - **(c)** For purposes of this section:
   - **(1)** The term “employment-based retiree health coverage” means health insurance or other coverage of health care costs (whether provided by voluntary insurance coverage or pursuant to statutory or contractual obligation) for part D eligible individuals (or for such individuals and their spouses and dependents) under a group health plan based on their status as retired participants in such plan.
   - **(2)** The term “sponsor” means a plan sponsor, as defined in section 1002(16)(B) of title 29 , in relation to a group health plan, except that, in the case of a plan maintained jointly by one employer and an employee organization and with respect to which the employer is the primary source of financing, such term means such employer.

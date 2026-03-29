@@ -3,9 +3,9 @@ title: "Section 7329 - Parkinson’s Disease research, education, and clinical c
 usc_title: 38
 usc_section: "7329"
 chapter: 73
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 7329"
-generated_at: "2026-03-29T19:43:27.078Z"
+generated_at: "2026-03-29T20:00:43.149Z"
 ---
 
 # § 7329. Parkinson’s Disease research, education, and clinical centers
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T19:43:27.078Z"
     - **(B)** Members of the panel shall serve for a period of no longer than two years, except as specified in subparagraph (C).
     - **(C)** Of the members first appointed to the panel, one half shall be appointed for a period of three years and one half shall be appointed for a period of two years, as designated by the Under Secretary at the time of appointment.
   - **(3)** The panel shall review each proposal submitted to the panel by the Under Secretary and shall submit its views on the relative scientific and clinical merit of each such proposal to the Under Secretary.
-  - **(4)** The panel shall not be subject to the Federal Advisory Committee Act.
+  - **(4)** The panel shall not be subject to chapter 10 of title 5.
 - **(e)** Before providing funds for the operation of a center designated under subsection (a) at a Department health-care facility other than at a facility designated pursuant to subsection (b)(2), the Secretary shall ensure that each Parkinson’s Disease center at a facility designated pursuant to subsection (b)(2) is receiving adequate funding to enable that center to function effectively in the areas of Parkinson’s Disease research, education, and clinical activities.
 - **(f)** There are authorized to be appropriated such sums as may be necessary for the support of the research and education activities of the centers established pursuant to subsection (a). The Under Secretary for Health shall allocate to such centers from other funds appropriated generally for the Department medical services account and medical and prosthetics research account, as appropriate, such amounts as the Under Secretary for Health determines appropriate.
 - **(g)** Activities of clinical and scientific investigation at each center established under subsection (a) shall be eligible to compete for the award of funding from funds appropriated for the Department medical and prosthetics research account. Such activities shall receive priority in the award of funding from such account insofar as funds are awarded to projects for research in Parkinson’s Disease and other movement disorders.

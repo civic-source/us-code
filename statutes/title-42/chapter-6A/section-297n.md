@@ -3,9 +3,9 @@ title: "Section 297n - Loan repayment and scholarship programs"
 usc_title: 42
 usc_section: "297n"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 297n"
-generated_at: "2026-03-29T19:31:44.352Z"
+generated_at: "2026-03-29T20:00:53.950Z"
 ---
 
 # § 297n. Loan repayment and scholarship programs
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:31:44.352Z"
   - **(2)** who obtained (A) one or more loans from a loan fund established under subpart II, 1 1 See References in Text note below. or (B) any other educational loan for nurse training costs; and
   - **(3)** who enters into an agreement with the Secretary to serve as nurse for a period of not less than two years at a health care facility with a critical shortage of nurses, or in a 2 2 So in original. Probably should be “an”. accredited school of nursing, as defined by section 296(2) of this title , as nurse faculty;
 - **(b)** The payments described in subsection (a) shall be made by the Secretary as follows:
-  - **(1)** Upon completion by the individual for whom the payments are to be made of the first year of the service specified in the agreement entered into with the Secretary under subsection (a), the Secretary shall pay 30 percent of the principal of, and the interest on each loan of such individual described in subsection (a)(2) which is outstanding on the date he began such practice.
+  - **(1)** Upon completion by the individual for whom the payments are to be made of the first year of the service specified in the agreement entered into with the Secretary under subsection (a), the Secretary shall pay 30 percent of the principal of, and the interest on each loan of such individual described in subsection (a)(2) which is outstanding on the date the individual began such practice.
   - **(2)** Upon completion by that individual of the second year of such service, the Secretary shall pay another 30 percent of the principal of, and the interest on each such loan.
   - **(3)** Upon completion by that individual of a third year of such service, the Secretary shall pay another 25 percent of the principal of, and the interest on each such loan.
 - **(c)** Notwithstanding the requirement of completion of practice specified in subsection (b), the Secretary shall, on or before the due date thereof, pay any loan or loan installment which may fall due within the period of service for which the borrower may receive payments under this subsection, upon the declaration of such borrower, at such times and in such manner as the Secretary may prescribe (and supported by such other evidence as the Secretary may reasonably require), that the borrower is then serving as described by subsection (a)(3), and that the borrower will continue to so serve for the period required (in the absence of this subsection) to entitle the borrower to have made the payments provided by this subsection for such period; except that not more than 85 percent of the principal of any such loan shall be paid pursuant to this subsection.
@@ -52,6 +52,4 @@ generated_at: "2026-03-29T19:31:44.352Z"
   - **(9)** the demographics of the individuals participating in the scholarship and loan repayment programs;
   - **(10)** justification for the allocation of funds between the scholarship and loan repayment programs; and
   - **(11)** an evaluation of the overall costs and benefits of the programs.
-- **(i)**
-  - **(1)** For the purpose of payments under agreements entered into under subsection (a) or (d), there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007.
-  - **(2)** Of the amounts appropriated under paragraph (1), the Secretary may, as determined appropriate by the Secretary, allocate amounts between the program under subsection (a) and the program under subsection (d).
+- **(i)** Of the amounts appropriated under section 298d(b) of this title ,, 3 3 So in original. the Secretary may, as determined appropriate by the Secretary, allocate amounts between the program under subsection (a) and the program under subsection (d).

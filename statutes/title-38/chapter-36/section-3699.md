@@ -3,9 +3,9 @@ title: "Section 3699 - Effects of closure or disapproval of educational institut
 usc_title: 38
 usc_section: "3699"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3699"
-generated_at: "2026-03-29T19:43:27.032Z"
+generated_at: "2026-03-29T20:00:43.094Z"
 ---
 
 # § 3699. Effects of closure or disapproval of educational institution
@@ -14,20 +14,29 @@ generated_at: "2026-03-29T19:43:27.032Z"
   - **(1)** be charged against any entitlement to educational assistance of the individual concerned; or
   - **(2)** be counted against the aggregate period for which section 3695 of this title limits the receipt of educational assistance by such individual.
 - **(b)** Subject to subsection (c), the payment of educational assistance described in this subsection is the payment of such assistance to an individual for pursuit of a course or program of education at an educational institution under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, if the Secretary determines that the individual—
-  - **(1)** 1 1 See Prohibition of Charge to Entitlement of Students Unable To Pursue a Program of Education Due to an Emergency Situation note below. was unable to complete such course or program as a result of—
-    - **(A)** the closure of the educational institution; or
+  - **(1)** was unable to complete such course or program as a result of—
+    - **(A)** the closure of the educational institution;
     - **(B)** the disapproval of the course or a course that is a necessary part of that program under this chapter by reason of—
       - **(i)** a provision of law enacted after the date on which the individual enrolls at such institution affecting the approval or disapproval of courses under this chapter; or
-      - **(ii)** after the date on which the individual enrolls at such institution, the Secretary prescribing or modifying regulations or policies of the Department affecting such approval or disapproval; and
+      - **(ii)** after the date on which the individual enrolls at such institution, the Secretary prescribing or modifying regulations or policies of the Department affecting such approval or disapproval; or
+    - **(C)** the temporary closure of an educational institution or training establishment or the temporary closure or termination of a course or program of education by reason of an emergency situation; and
   - **(2)** did not receive credit or lost training time, toward completion of the program of education being so pursued.
 - **(c)**
   - **(1)** The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the aggregate of—
     - **(A)** the portion of the period of enrollment in the course from which the individual did not receive credit or with respect to which the individual lost training time, as determined under subsection (b)(2); and
     - **(B)** the period by which a monthly stipend is extended under section 3680(a)(2)(B) of this title .
   - **(2)**
-    - **(A)** An individual described in subparagraph (B) who transfers fewer than 12 credits from a program of education that is closed or disapproved as described in subsection (b)(1) shall be deemed to be an individual who did not receive such credits, as described in subsection (b)(2), except that the period for which such individual’s entitlement is not charged shall be the entire period of the individual’s enrollment in the program of education. In carrying out this subparagraph, the Secretary, in consultation with the Secretary of Education, shall establish procedures to determine whether the individual transferred credits to a comparable course or program of education.
+    - **(A)**
+      - **(i)** An individual described in subparagraph (B) who transfers fewer than 12 credits from a program of education that is closed or disapproved as described in subsection (b)(1) shall be deemed to be an individual who did not receive such credits, as described in subsection (b)(2), except that the period for which such individual’s entitlement is not charged shall be the entire period of the individual’s enrollment in the program of education.
+      - **(ii)** In carrying out clause (i), the Secretary shall—
+        - **(I)** require an individual to certify in writing that the individual has transferred fewer than 12 credits as described in such clause;
+        - **(II)** require an individual who makes a certification under subclause (I) to acknowledge in writing that if the individual transfers 12 or more credits as described in such clause (i)—
+        - **(III)** accept a certification under subclause (I) as proof of the individual transferring fewer than 12 credits; and
+        - **(IV)** provide to the individual who makes a certification under subclause (I) and makes the acknowledgment under subclause (II) a certificate of eligibility that the individual may provide to an educational institution as proof of the individual being covered by this paragraph.
+      - **(iii)** The Secretary shall notify individuals described in subparagraph (B) of being eligible to be covered by this paragraph.
+      - **(iv)** In carrying out this subparagraph, the Secretary, in consultation with the Secretary of Education, shall establish procedures to determine whether the individual transferred credits to a comparable course or program of education.
     - **(B)** An individual described in this subparagraph is an individual who is enrolled in a course or program of education closed or discontinued as described in subsection (b)(1) during the period beginning on the date that is 120 days before the date of such closure or discontinuance and ending on the date of such closure or discontinuance, as the case may be.
-    - **(C)** This paragraph shall apply with respect to a course or program of education closed or discontinued before September 30, 2023 .
+    - **(C)** This paragraph, including clauses (ii) and (iii) of subparagraph (A), shall apply with respect to the closure or discontinuation of a course or program of education, as described in subsection (b)(1), that occurs during the period beginning on August 1, 2021 , and ending on September 30, 2025 .
 - **(d)**
   - **(1)** The Secretary may treat a course of education that is disapproved under this chapter as being approved under this chapter with respect to an individual described in paragraph (2) if the Secretary determines, on a case-by-case basis, that—
     - **(A)** such disapproval is the result of an action described in clause (i) or (ii) of subsection (b)(1)(B); and

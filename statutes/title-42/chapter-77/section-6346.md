@@ -1,12 +1,24 @@
 ---
-title: "Section 6346 - Repealed. Pub. L. 99–509, title III , § 3101(b), Oct. 21, 1986 , 100 Stat. 1888"
+title: "Section 6346 - Sustainable manufacturing initiative"
 usc_title: 42
 usc_section: "6346"
 chapter: 77
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6346"
-generated_at: "2026-03-29T19:31:45.291Z"
+generated_at: "2026-03-29T20:00:55.026Z"
 ---
 
-# § 6346. Repealed. Pub. L. 99–509, title III , § 3101(b), Oct. 21, 1986 , 100 Stat. 1888
+# § 6346. Sustainable manufacturing initiative
 
+- **(a)** As part of the Office of Energy Efficiency and Renewable Energy of the Department of Energy, the Secretary, on the request of a manufacturer, shall carry out onsite technical assessments to identify opportunities for—
+  - **(1)** maximizing the energy efficiency of industrial processes and cross-cutting systems;
+  - **(2)** preventing pollution and minimizing waste;
+  - **(3)** improving efficient use of water in manufacturing processes;
+  - **(4)** conserving natural resources; and
+  - **(5)** achieving such other goals as the Secretary determines to be appropriate.
+- **(b)** To implement any recommendations resulting from an onsite technical assessment carried out under subsection (a) and to accelerate the adoption of new and existing technologies and processes that improve energy efficiency, the Secretary shall coordinate with—
+  - **(1)** the Advanced Manufacturing Office of the Department of Energy;
+  - **(2)** the Building Technologies Office of the Department of Energy;
+  - **(3)** the Federal Energy Management Program of the Department of Energy; and
+  - **(4)** the private sector and other appropriate agencies, including the National Institute of Standards and Technology.
+- **(c)** As part of the industrial efficiency programs of the Department of Energy, the Secretary shall carry out a joint industry-government partnership program to research, develop, and demonstrate new sustainable manufacturing and industrial technologies and processes that maximize the energy efficiency of industrial plants, reduce pollution, and conserve natural resources.

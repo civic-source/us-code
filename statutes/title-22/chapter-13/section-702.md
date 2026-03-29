@@ -3,9 +3,9 @@ title: "Section 702 - Arrest of offenders"
 usc_title: 22
 usc_section: "702"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 702"
-generated_at: "2026-03-29T19:42:08.002Z"
+generated_at: "2026-03-29T19:59:24.029Z"
 ---
 
 # § 702. Arrest of offenders

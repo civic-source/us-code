@@ -3,20 +3,27 @@ title: "Section 47110 - Allowable project costs"
 usc_title: 49
 usc_section: "47110"
 chapter: 471
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 47110"
-generated_at: "2026-03-29T19:44:58.029Z"
+generated_at: "2026-03-29T20:01:15.024Z"
 ---
 
 # § 47110. Allowable project costs
 
 - **(a)** Except as provided in section 47111 of this title , the United States Government may pay or be obligated to pay, from amounts appropriated to carry out this subchapter, a cost incurred in carrying out a project under this subchapter only if the Secretary of Transportation decides the cost is allowable.
 - **(b)** A project cost is allowable—
-  - **(1)** if the cost necessarily is incurred in carrying out the project in compliance with the grant agreement made for the project under this subchapter, including any cost a sponsor incurs related to an audit the Secretary requires under section 47121(b) or (d) of this title and any cost of moving a Federal facility impeding the project if the rebuilt facility is of an equivalent size and type;
+  - **(1)**
+    - **(A)** if the cost necessarily is incurred in carrying out the project in compliance with the grant agreement made for the project under this subchapter, including any cost a sponsor incurs related to an audit the Secretary requires under section 47121(b) or (d) of this title and any cost of moving a Federal facility impeding the project if the rebuilt facility is of an equivalent size and type; or
+    - **(B)** if the cost is an incentive payment incurred in carrying out the project described in subparagraph (A) that is to be provided to a contractor upon early completion of a project, if—
+      - **(i)** such payment does not exceed the lesser of 5 percent of the initial construction contract amount or $1,000,000;
+      - **(ii)** the level of contractor’s control of, or access to, the worksite necessary to shorten the duration of the project does not negatively impact the operation of the airport;
+      - **(iii)** the contract specifies application of the incentive structure in the event of unforeseeable, non-weather delays beyond the control of the contractor;
+      - **(iv)** nothing in any agreement with the contractor prevents the airport operator from retaining responsibility for the safety, efficiency, and capacity of the airport during the execution of the grant agreement; and
+      - **(v)** the Secretary determines that the use of an incentive payment is likely to increase airport capacity or efficiency or result in cost savings as a result of shortening the project’s duration;
   - **(2)**
     - **(A)** if the cost is incurred after the grant agreement is executed and is for airport development or airport planning carried out after the grant agreement is executed;
     - **(B)** if the cost is incurred after June 1, 1989 , by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatibility program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements;
-    - **(C)** if the Government’s share is paid only with amounts apportioned under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) and if the cost is incurred—
+    - **(C)** if the Government’s share is paid only with amounts apportioned under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) 1 1 See References in Text note below. and if the cost is incurred—
       - **(i)** after September 30, 1996 ;
       - **(ii)** before a grant agreement is executed for the project; and
       - **(iii)** in accordance with an airport layout plan approved by the Secretary and with all statutory and administrative requirements that would have been applicable to the project if the project had been carried out after the grant agreement had been executed; or
@@ -34,11 +41,11 @@ generated_at: "2026-03-29T19:44:58.029Z"
     - **(A)** the measure is for a project for airport development;
     - **(B)** the measure is for an airport building that is otherwise eligible for construction assistance under this subchapter; and
     - **(C)** if the measure results in an increase in initial project costs, the increase is justified by expected savings over the life cycle of the project.
-- **(c)** The Secretary may decide that a project cost under subsection (b)(2)(A) of this section incurred after May 13, 1946 , and before the date the grant agreement is executed is allowable if it is—
-  - **(1)** necessarily incurred in formulating an airport development project, including costs incurred for field surveys, plans and specifications, property interests in land or airspace, and administration or other incidental items that would not have been incurred except for the project; or
+- **(c)** The Secretary may decide that a project cost under subsection (b)(2)(A) of this section incurred before the date the grant agreement is executed is allowable if it is—
+  - **(1)** necessarily incurred in formulating or preparing for an airport development project, including costs incurred for field surveys, plans and specifications, property interests in land or airspace, utility relocation, work site preparation, and administration or other incidental items that would not have been incurred except for the project; or
   - **(2)** necessarily and directly incurred in developing the work scope of an airport planning project.
 - **(d)** The Secretary may determine that the costs of relocating or replacing an airport-owned facility are allowable for an airport development project at an airport only if—
-  - **(1)** the Government’s share of such costs will be paid with funds apportioned to the airport sponsor under section 47114(c)(1) or 47114(d);
+  - **(1)** the Government’s share of such costs will be paid with funds apportioned to the airport sponsor under section 47114 or distributed from the small airport fund under section 47116;
   - **(2)** the Secretary determines that the relocation or replacement is required due to a change in the Secretary’s design standards; and
   - **(3)** the Secretary determines that the change is beyond the control of the airport sponsor.
 - **(e)**
@@ -46,12 +53,12 @@ generated_at: "2026-03-29T19:44:58.029Z"
   - **(2)** Paragraph (1) of this subsection applies to a project—
     - **(A)** about which the sponsor notifies the Secretary, before the project begins, of the sponsor’s intent to carry out the project;
     - **(B)** that will comply with all statutory and administrative requirements that would apply to the project if it were carried out with amounts made available under this subchapter; and
-    - **(C)** that meets the criteria of section 47115(d) and, if for a project at a commercial service airport having at least 0.25 percent of the boardings each year at all such airports, the Secretary decides will enhance system-wide airport capacity significantly.
+    - **(C)** that meets the criteria of section 47115(d) and, if for a project at a medium hub airport or large hub airport, the Secretary decides will enhance system-wide airport capacity significantly.
   - **(3)** A letter of intent issued under paragraph (1) of this subsection is not an obligation of the Government under section 1501 of title 31 , and the letter is not deemed to be an administrative commitment for financing. An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriation laws.
   - **(4)** The total estimated amount of future Government obligations covered by all outstanding letters of intent under paragraph (1) of this subsection may not be more than the amount authorized to carry out section 48103 of this title , less an amount reasonably estimated by the Secretary to be needed for grants under section 48103 that are not covered by a letter.
   - **(5)** The Secretary may not require an eligible agency to impose a passenger facility charge under section 40117 in order to obtain a letter of intent under this section.
   - **(6)** Nothing in this section shall be construed to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued.
-  - **(7)** The Secretary may issue a letter of intent under this section to an airport sponsor with an approved application under section 47134(b) if—
+  - **(7)** The Secretary may issue a letter of intent under this subsection to an airport sponsor with an approved application under section 47134(b) if—
     - **(A)** the application was approved in fiscal year 2019; and
     - **(B)** the project meets all other requirements set forth in this chapter.
 - **(f)** Except as provided in subsection (d) of this section and section 47118(f) of this title , a cost is not an allowable airport development project cost if it is for—
@@ -59,8 +66,25 @@ generated_at: "2026-03-29T19:44:58.029Z"
   - **(2)** constructing, altering, or repairing part of an airport building, except to the extent the building will be used for facilities or activities directly related to the safety of individuals at the airport;
   - **(3)** decorative landscaping; or
   - **(4)** providing or installing sculpture or art works.
-- **(g)** A project for which cost reimbursement is provided under subsection (b)(2)(C) shall not receive priority consideration with respect to the use of discretionary funds made available under section 47115 of this title even if the amounts made available under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) are not sufficient to cover the Government’s share of the cost of the project.
-- **(h)** The Secretary may decide that the construction costs of revenue producing aeronautical support facilities are allowable for an airport development project at a nonprimary airport if the Government’s share of such costs is paid only with funds apportioned to the airport sponsor under section 47114(d)(3)(A) and if the Secretary determines that the sponsor has made adequate provision for financing airside needs of the airport.
-- **(i)** The Administrator of the Federal Aviation Administration, upon the conclusion of all planned research by the Administration regarding avian radar systems, shall—
-  - **(1)** update Advisory Circular No. 150/5220–25 to specify which systems have been studied; and
-  - **(2)** within 180 days after such research is concluded, issue a final report on the use of avian radar systems in the national airspace system.
+- **(g)** A project for which cost reimbursement is provided under subsection (b)(2)(C) shall not receive priority consideration with respect to the use of discretionary funds made available under section 47115 of this title even if the amounts made available under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) 1 are not sufficient to cover the Government’s share of the cost of the project.
+- **(h)** The Secretary may decide that the construction costs of revenue producing aeronautical support facilities are allowable for an airport development project at a nonprimary airport if the Government’s share of such costs is paid only with funds apportioned to the airport sponsor under section 47114(c)(1)(D) or section 47114(d)(2)(A) and if the Secretary determines that the sponsor has made adequate provision for financing airside needs of the airport.
+- **(i)**
+  - **(1)** The Secretary may issue a letter of intent to a sponsor stating an intention to obligate an amount from future budget authority for an airport development project (including costs of formulating the project) at a nonhub airport or an airport that is not a primary airport.
+  - **(2)** In the letter issued under paragraph (1), the Secretary shall establish a schedule under which the Secretary will reimburse the sponsor for the Government’s share of allowable project costs, as amounts become available, if the sponsor, after the Secretary issues the letter, carries out the project without receiving amounts under this subchapter.
+  - **(3)** The amount the Secretary intends to obligate in a letter of intent issued under this subsection shall not exceed the larger of—
+    - **(A)** the Government’s share of allowable project costs; or
+    - **(B)** $10,000,000.
+  - **(4)** Allowable project costs under paragraphs (1) and (2) may include costs associated with making payments for debt service on indebtedness incurred to carry out the project.
+  - **(5)** The Secretary shall issue a letter of intent under paragraph (1) only if—
+    - **(A)** the sponsor notifies the Secretary, before the project begins, of the intent of the sponsor to carry out the project and requests a letter of intent; and
+    - **(B)** the sponsor agrees to comply with all statutory and administrative requirements that would apply to the project if it were carried out with amounts made available under this subchapter.
+  - **(6)** In reviewing a request for a letter of intent under this subsection, the Secretary shall consider the grant history of an airport, the enplanements or operations of an airport, and such other factors as the Secretary determines appropriate.
+  - **(7)** In issuing letters of intent under this subsection, the Secretary shall—
+    - **(A)** prioritize projects that—
+      - **(i)** cannot reasonably be funded by an airport sponsor using funds apportioned under section 47114(c), 47114(d)(2)(A), or 47114(d)(6), including funds apportioned under such sections in multiple fiscal years pursuant to section 47117(b)(1); and
+      - **(ii)** are necessary to the continued safe operation or development of an airport; and
+    - **(B)** structure the reimbursement schedules under such letters in a manner that minimizes unnecessary or undesirable project segmentation.
+  - **(8)**
+    - **(A)** A letter of intent issued under this subsection is not an obligation of the Government under section 1501 of title 31 , and the letter is not deemed to be an administrative commitment for financing.
+    - **(B)** An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriation Acts.
+  - **(9)** Nothing in this section shall be construed to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued.

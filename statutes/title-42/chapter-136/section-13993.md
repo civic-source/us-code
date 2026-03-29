@@ -1,14 +1,12 @@
 ---
-title: "Section 13993 - Cooperation in developing programs in making grants under this part"
+title: "Section 13993 - Transferred"
 usc_title: 42
 usc_section: "13993"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 13993"
-generated_at: "2026-03-29T19:31:45.749Z"
+generated_at: "2026-03-29T20:00:55.491Z"
 ---
 
-# § 13993. Cooperation in developing programs in making grants under this part
-
-The State Justice Institute shall ensure that model programs carried out pursuant to grants made under this part are developed with the participation of law enforcement officials, public and private nonprofit victim advocates, including national, State, tribal, and local domestic violence and sexual assault programs and coalitions, legal experts, prosecutors, defense attorneys, and recognized experts on gender bias in the courts.
+# § 13993. Transferred
 

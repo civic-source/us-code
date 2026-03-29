@@ -3,9 +3,9 @@ title: "Section 823 - Art. 23. Who may convene special courts-martial"
 usc_title: 10
 usc_section: "823"
 chapter: 47
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 823"
-generated_at: "2026-03-29T19:43:37.844Z"
+generated_at: "2026-03-29T19:58:02.008Z"
 ---
 
 # § 823. Art. 23. Who may convene special courts-martial
@@ -18,4 +18,6 @@ generated_at: "2026-03-29T19:43:37.844Z"
   - **(5)** the commanding officer of any naval or Coast Guard vessel, shipyard, base, or station; the commanding officer of any Marine brigade, regiment, detached battalion, or corresponding unit; the commanding officer of any Marine barracks, wing, group, separate squadron, station, base, auxiliary air field, or other place where members of the Marine Corps are on duty;
   - **(6)** the commanding officer of any separate or detached command or group of detached units of any of the armed forces placed under a single commander for this purpose; or
   - **(7)** the commanding officer or officer in charge of any other command when empowered by the Secretary concerned.
-- **(b)** If any such officer is an accuser, the court shall be convened by superior competent authority, and may in any case be convened by such authority if considered advisable by him.
+- **(b)**
+  - **(1)** If any such officer is an accuser, the court shall be convened by superior competent authority, and may in any case be convened by such authority if considered advisable by him.
+  - **(2)** A commanding officer shall not be considered an accuser solely due to the role of the commanding officer in convening a special court-martial to which charges and specifications were referred by a special trial counsel in accordance with this chapter.

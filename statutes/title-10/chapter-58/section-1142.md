@@ -3,9 +3,9 @@ title: "Section 1142 - Preseparation counseling; transmittal of certain records 
 usc_title: 10
 usc_section: "1142"
 chapter: 58
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1142"
-generated_at: "2026-03-29T19:43:37.903Z"
+generated_at: "2026-03-29T19:58:02.069Z"
 ---
 
 # § 1142. Preseparation counseling; transmittal of certain records to Department of Veterans Affairs
@@ -46,13 +46,13 @@ generated_at: "2026-03-29T19:43:37.903Z"
   - **(18)** A description, developed in consultation with the Secretary of Veterans Affairs, of the assistance and support services for family caregivers of eligible veterans under the program conducted by the Secretary of Veterans Affairs pursuant to section 1720G of title 38 , including the veterans covered by the program, the caregivers eligible for assistance and support through the program, and the assistance and support available through the program.
   - **(19)** Information regarding how to file claims for benefits available to the member under laws administered by the Secretaries of Defense and Veterans Affairs.
 - **(c)**
-  - **(1)** Each Secretary concerned, in consultation with the Secretaries of Labor and Veterans Affairs, shall establish at least three pathways for members of the military department concerned receiving individualized counseling under this section. The Secretaries shall design the pathways to address the needs of members, based on the following factors:
+  - **(1)** Each Secretary concerned, in consultation with the Secretaries of Labor and Veterans Affairs, shall establish at least three pathways for members of the military department concerned (including one pathway for members of the reserve components)receiving individualized counseling under this section. The Secretaries shall design the pathways to address the needs of members, based on the following factors:
     - **(A)** Rank.
     - **(B)** Term of service.
     - **(C)** Gender.
     - **(D)** Whether the member was a member of a regular or reserve component of an armed force.
-    - **(E)** Disability.
-    - **(F)** Character of discharge (including expedited discharge and discharge under conditions other than honorable).
+    - **(E)** Potential or confirmed disability.
+    - **(F)** Potential or confirmed character of discharge (including expedited discharge and discharge under conditions other than honorable).
     - **(G)** Health (including mental health).
     - **(H)** Military occupational specialty.
     - **(I)** Whether the member intends, after separation, retirement, or discharge, to—

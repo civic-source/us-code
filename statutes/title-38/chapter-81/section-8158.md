@@ -3,9 +3,9 @@ title: "Section 8158 - Deposit in escrow"
 usc_title: 38
 usc_section: "8158"
 chapter: 81
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 8158"
-generated_at: "2026-03-29T19:43:27.106Z"
+generated_at: "2026-03-29T20:00:43.184Z"
 ---
 
 # § 8158. Deposit in escrow

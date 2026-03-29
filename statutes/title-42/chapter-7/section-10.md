@@ -1,22 +1,30 @@
 ---
-title: "Section 10 - Addressing health care disparities"
+title: "Section 10 - Website"
 usc_title: 42
 usc_section: "10"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-29T19:31:44.621Z"
+generated_at: "2026-03-29T20:00:54.597Z"
 ---
 
-# § 1395b–10. Addressing health care disparities
+# § 1397n–10. Website
 
-- **(a)** The Secretary shall evaluate approaches for the collection of data under this subchapter, to be performed in conjunction with existing quality reporting requirements and programs under this subchapter, that allow for the ongoing, accurate, and timely collection and evaluation of data on disparities in health care services and performance on the basis of race, ethnicity, and gender. In conducting such evaluation, the Secretary shall consider the following objectives:
-  - **(1)** Protecting patient privacy.
-  - **(2)** Minimizing the administrative burdens of data collection and reporting on providers and health plans participating under this subchapter.
-  - **(3)** Improving Medicare program data on race, ethnicity, and gender.
-- **(b)**
-  - **(1)** Not later than 18 months after July 15, 2008 , the Secretary shall submit to Congress a report on the evaluation conducted under subsection (a). Such report shall, taking into consideration the results of such evaluation—
-    - **(A)** identify approaches (including defining methodologies) for identifying and collecting and evaluating data on health care disparities on the basis of race, ethnicity, and gender for the original Medicare fee-for-service program under parts A and B, the Medicare Advantage program under part C, and the Medicare prescription drug program under part D; and
-    - **(B)** include recommendations on the most effective strategies and approaches to reporting HEDIS quality measures as required under section 1395w–22(e)(3) of this title and other nationally recognized quality performance measures, as appropriate, on the basis of race, ethnicity, and gender.
-  - **(2)** Not later than 4 years after July 15, 2008 , and 4 years thereafter, the Secretary shall submit to Congress a report that includes recommendations for improving the identification of health care disparities for Medicare beneficiaries based on analyses of the data collected under subsection (c).
-- **(c)** Not later than 24 months after July 15, 2008 , the Secretary shall implement the approaches identified in the report submitted under subsection (b)(1) for the ongoing, accurate, and timely collection and evaluation of data on health care disparities on the basis of race, ethnicity, and gender.
+The Federal Interagency Council on Social Impact Partnerships shall establish and maintain a public website that shall display the following:
+
+  - **(1)** A copy of, or method of accessing, each notice published regarding a social impact partnership project pursuant to this division.
+  - **(2)** A copy of each feasibility study funded under this division.
+  - **(3)** For each State or local government that has entered into an agreement with the Secretary for a social impact partnership project, the website shall contain the following information:
+    - **(A)** The outcome goals of the project.
+    - **(B)** A description of each intervention in the project.
+    - **(C)** The target population that will be served by the project.
+    - **(D)** The expected social benefits to participants who receive the intervention and others who may be impacted.
+    - **(E)** The detailed roles, responsibilities, and purposes of each Federal, State, or local government entity, intermediary, service provider, independent evaluator, investor, or other stakeholder.
+    - **(F)** The payment terms, methodology used to calculate outcome payments, the payment schedule, and performance thresholds.
+    - **(G)** The project budget.
+    - **(H)** The project timeline.
+    - **(I)** The project eligibility criteria.
+    - **(J)** The evaluation design.
+    - **(K)** The metrics used to determine whether the proposed outcomes have been achieved and how these metrics are measured.
+  - **(4)** A copy of the progress reports and the final reports relating to each social impact partnership project.
+  - **(5)** An estimate of the savings to the Federal, State, and local government, on a program-by-program basis and in the aggregate, resulting from the successful completion of the social impact partnership project.

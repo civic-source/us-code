@@ -3,9 +3,9 @@ title: "Section 5104A - Binding nature of favorable findings"
 usc_title: 38
 usc_section: "5104A"
 chapter: 51
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 5104A"
-generated_at: "2026-03-29T19:43:27.053Z"
+generated_at: "2026-03-29T20:00:43.119Z"
 ---
 
 # § 5104A. Binding nature of favorable findings

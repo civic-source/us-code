@@ -3,9 +3,9 @@ title: "Section 13906 - Security of motor carriers, motor private carriers, brok
 usc_title: 49
 usc_section: "13906"
 chapter: 139
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 13906"
-generated_at: "2026-03-29T19:44:57.886Z"
+generated_at: "2026-03-29T20:01:14.847Z"
 ---
 
 # § 13906. Security of motor carriers, motor private carriers, brokers, and freight forwarders

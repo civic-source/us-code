@@ -1,16 +1,12 @@
 ---
-title: "Section 14015 - Report on recordkeeping relating to domestic violence"
+title: "Section 14015 - Omitted"
 usc_title: 42
 usc_section: "14015"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14015"
-generated_at: "2026-03-29T19:31:45.750Z"
+generated_at: "2026-03-29T20:00:55.491Z"
 ---
 
-# § 14015. Report on recordkeeping relating to domestic violence
+# § 14015. Omitted
 
-Not later than 1 year after September 13, 1994 , the Attorney General shall complete a study of, and shall submit to Congress a report and recommendations on, problems of recordkeeping of criminal complaints involving domestic violence. The study and report shall examine—
-
-  - **(1)** the efforts that have been made by the Department of Justice, including the Federal Bureau of Investigation, to collect statistics on domestic violence; and
-  - **(2)** the feasibility of requiring that the relationship between an offender and victim be reported in Federal records of crimes of aggravated assault, rape, and other violent crimes.

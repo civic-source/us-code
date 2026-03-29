@@ -3,9 +3,9 @@ title: "Section 464 - Increases of charges on failure to make water-right applic
 usc_title: 43
 usc_section: "464"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 464"
-generated_at: "2026-03-29T19:31:49.052Z"
+generated_at: "2026-03-29T19:59:41.394Z"
 ---
 
 # § 464. Increases of charges on failure to make water-right application

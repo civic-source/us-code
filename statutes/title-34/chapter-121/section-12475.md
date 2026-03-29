@@ -3,9 +3,9 @@ title: "Section 12475 - Grants to combat violence against women in public and as
 usc_title: 34
 usc_section: "12475"
 chapter: 121
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 12475"
-generated_at: "2026-03-29T19:42:53.135Z"
+generated_at: "2026-03-29T20:00:27.450Z"
 ---
 
 # § 12475. Grants to combat violence against women in public and assisted housing
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:42:53.135Z"
   - **(3)** enhancement of collaboration with victim service providers and tenant organizations; and
   - **(4)** reduction of the number of victims of such crimes who are evicted or denied housing because of crimes and lease violations committed or directly caused by the perpetrators of such crimes.
 - **(b)**
-  - **(1)** The Attorney General, acting through the Director of the Violence Against Women Office of the Department of Justice (“Director”), and in consultation with the Secretary of Housing and Urban Development (“Secretary”), and the Secretary of Health and Human Services, acting through the Administration for Children, Youth and Families (“ACYF”), shall award grants and contracts for not less than 2 years to eligible grantees to promote the full and equal access to and use of housing by adult and youth victims of domestic violence, dating violence, sexual assault, and stalking.
+  - **(1)** The Attorney General, acting through the Director of the Office on Violence Against Women of the Department of Justice (“Director”), and in consultation with the Secretary of Housing and Urban Development (“Secretary”), and the Secretary of Health and Human Services, acting through the Administration for Children, Youth and Families (“ACYF”), shall award grants and contracts for not less than 2 years to eligible grantees to promote the full and equal access to and use of housing by adult and youth victims of domestic violence, dating violence, sexual assault, and stalking.
   - **(2)** Not less than 15 percent of the funds appropriated to carry out this section shall be available for grants to tribally designated housing entities.
   - **(3)** The Attorney General shall award grants and contracts under this section on a competitive basis.
   - **(4)** Appropriated funds may only be used for the purposes described in subsection (f).
@@ -33,7 +33,7 @@ generated_at: "2026-03-29T19:42:53.135Z"
     - **(C)** it does not discriminate against any person—
       - **(i)** because that person is or is perceived to be, or has a family or household member who is or is perceived to be, a victim of such violence; or
       - **(ii)** because of the actions or threatened actions of the individual who the victim, as certified in subsection (e), states has committed or threatened to commit acts of such violence against the victim, or against the victim’s family or household member;
-    - **(D)** plans are developed that establish meaningful consultation and coordination with local victim service providers, tenant organizations, linguistically and culturally specific service providers, State domestic violence and sexual assault coalitions, and, where they exist, tribal domestic violence and sexual assault coalitions; and
+    - **(D)** plans are developed that establish meaningful consultation and coordination with local victim service providers, tenant organizations, linguistically and culturally specific service providers, population-specific organizations, State domestic violence and sexual assault coalitions, and, where they exist, tribal domestic violence and sexual assault coalitions; and
     - **(E)** its policies and practices will be in compliance with those described in this paragraph within the later of 1 year or a period selected by the Attorney General in consultation with the Secretary and ACYF.
 - **(d)** Each eligible entity seeking a grant under this section shall submit an application to the Attorney General at such a time, in such a manner, and containing such information as the Attorney General may require.
 - **(e)**
@@ -58,5 +58,5 @@ generated_at: "2026-03-29T19:42:53.135Z"
   - **(8)** allotting not more than 15 percent of funds awarded under the grant to make modest physical improvements to enhance safety;
   - **(9)** training personnel to more effectively identify and respond to victims of domestic violence, dating violence, sexual assault, and stalking; and
   - **(10)** effectively providing notice to applicants and residents of the above housing policies, practices, and procedures.
-- **(g)** There are authorized to be appropriated $4,000,000 for each of fiscal years 2014 through 2018 to carry out the provisions of this section.
+- **(g)** There are authorized to be appropriated $4,000,000 for each of fiscal years 2023 through 2027 to carry out the provisions of this section.
 - **(h)** Up to 12 percent of the amount appropriated under subsection (g) for each fiscal year shall be used by the Attorney General for technical assistance costs under this section.

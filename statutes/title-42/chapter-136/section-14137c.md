@@ -1,14 +1,12 @@
 ---
-title: "Section 14137c - Offset of funds appropriated"
+title: "Section 14137c - Transferred"
 usc_title: 42
 usc_section: "14137c"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14137c"
-generated_at: "2026-03-29T19:31:45.769Z"
+generated_at: "2026-03-29T20:00:55.492Z"
 ---
 
-# § 14137c. Offset of funds appropriated
-
-Any funds appropriated to carry out sections 14137 to 14137c of this title, not to exceed $10,000,000 for each of fiscal years 2013 through 2015, shall be derived from amounts appropriated pursuant to subsection (j) of section 14135 of this title in each such fiscal year for grants under such section.
+# § 14137c. Transferred
 

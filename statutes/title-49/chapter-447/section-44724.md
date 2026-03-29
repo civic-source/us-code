@@ -3,9 +3,9 @@ title: "Section 44724 - Manipulation of flight controls"
 usc_title: 49
 usc_section: "44724"
 chapter: 447
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 44724"
-generated_at: "2026-03-29T19:44:57.999Z"
+generated_at: "2026-03-29T20:01:14.990Z"
 ---
 
 # § 44724. Manipulation of flight controls

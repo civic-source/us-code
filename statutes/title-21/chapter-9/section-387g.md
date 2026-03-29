@@ -3,9 +3,9 @@ title: "Section 387g - Tobacco product standards"
 usc_title: 21
 usc_section: "387g"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 387g"
-generated_at: "2026-03-29T19:41:41.670Z"
+generated_at: "2026-03-29T19:59:28.485Z"
 ---
 
 # § 387g. Tobacco product standards
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T19:41:41.670Z"
     - **(B)** consult with other Federal agencies concerned with standard setting and other nationally or internationally recognized standard-setting entities; and
     - **(C)** invite appropriate participation, through joint or other conferences, workshops, or other means, by informed persons representative of scientific, professional, industry, agricultural, or consumer organizations who in the Secretary’s judgment can make a significant contribution.
 - **(b)**
-  - **(1)** The Secretary shall consider information submitted in connection with a proposed standard regarding the technical achievability of compliance with such standard.
+  - **(1)** The Secretary shall consider information submitted in connection with a proposed standard regarding the technical achievability of compliance with such standard, including with regard to any differences related to the technical achievability of compliance with such standard for products in the same class containing nicotine not made or derived from tobacco and products containing nicotine made or derived from tobacco.
   - **(2)** The Secretary shall consider all other information submitted in connection with a proposed standard, including information concerning the countervailing effects of the tobacco product standard on the health of adolescent tobacco users, adult tobacco users, or nontobacco users, such as the creation of a significant demand for contraband or other tobacco products that do not meet the requirements of this subchapter and the significance of such demand.
 - **(c)**
   - **(1)** The Secretary shall publish in the Federal Register a notice of proposed rulemaking for the establishment, amendment, or revocation of any tobacco product standard.

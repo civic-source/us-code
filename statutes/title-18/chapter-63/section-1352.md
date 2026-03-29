@@ -3,9 +3,9 @@ title: "Section 1352 - Demands by foreign officials for bribes"
 usc_title: 18
 usc_section: "1352"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "18 U.S.C. § 1352"
-generated_at: "2026-03-29T02:12:02.411Z"
+generated_at: "2026-03-29T19:58:59.686Z"
 ---
 
 # § 1352. Demands by foreign officials for bribes

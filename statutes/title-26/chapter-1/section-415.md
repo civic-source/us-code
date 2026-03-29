@@ -3,9 +3,9 @@ title: "Section 415 - Limitations on benefits and contribution under qualified p
 usc_title: 26
 usc_section: "415"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 415"
-generated_at: "2026-03-29T19:42:47.654Z"
+generated_at: "2026-03-29T19:59:49.261Z"
 ---
 
 # § 415. Limitations on benefits and contribution under qualified plans
@@ -81,6 +81,14 @@ generated_at: "2026-03-29T19:42:47.654Z"
       - **(i)** This paragraph shall not apply to any plan unless each employer maintaining the plan elects before the close of the 1st plan year beginning after December 31, 1989 , to have this subsection (other than paragraph (2)(G)).
       - **(ii)** An election under clause (i) may be revoked not later than the last day of the third plan year beginning after the date of the enactment of this clause. The revocation shall apply to all plan years to which the election applied and to all subsequent plan years. Any amount paid by a plan in a taxable year ending after the revocation shall be includible in income in such taxable year under the rules of this chapter in effect for such taxable year, except that, for purposes of applying the limitations imposed by this section, any portion of such amount which is attributable to any taxable year during which the election was in effect shall be treated as received in such taxable year.
   - **(11)** In the case of a governmental plan (as defined in section 414(d)) or a multiemployer plan (as defined in section 414(f)), subparagraph (B) of paragraph (1) shall not apply. Subparagraph (B) of paragraph (1) shall not apply to a plan maintained by an organization described in section 3121(w)(3)(A) except with respect to highly compensated benefits. For purposes of this paragraph, the term “highly compensated benefits” means any benefits accrued for an employee in any year on or after the first year in which such employee is a highly compensated employee (as defined in section 414(q)) of the organization described in section 3121(w)(3)(A). For purposes of applying paragraph (1)(B) to highly compensated benefits, all benefits of the employee otherwise taken into account (without regard to this paragraph) shall be taken into account.
+  - **(12)**
+    - **(A)** Subparagraph (B) of paragraph (1) shall not apply to a participant in an eligible rural electric cooperative plan, except in the case of a participant who was a highly compensated employee (as defined in section 414(q)) of an employer maintaining such plan for the earlier of—
+      - **(i)** the plan year in which the participant terminated employment with such employer, or
+      - **(ii)** the plan year in which distributions commence under the plan with respect to the participant, or
+    - **(B)** For purposes of this paragraph—
+      - **(i)** The term “eligible rural electric cooperative plan” means a plan maintained by more than 1 employer, with respect to which at least 85 percent of the employers maintaining the plan are rural cooperatives described in clause (i) or (ii) of section 401(k)(7)(B) or are a national association of such a rural cooperative.
+      - **(ii)** An employer maintaining an eligible rural cooperative plan may elect not to have subparagraph (A) apply to its employees.
+    - **(C)** The Secretary shall prescribe such regulations and other guidance as are necessary to limit the application of subparagraph (A) such that it does not result in increased benefits for highly compensated employees.
 - **(c)**
   - **(1)** Contributions and other additions with respect to a participant exceed the limitation of this subsection if, when expressed as an annual addition (within the meaning of paragraph (2)) to the participant’s account, such annual addition is greater than the lesser of—
     - **(A)** $40,000, or

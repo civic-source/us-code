@@ -3,9 +3,9 @@ title: "Section 9042 - Emergency relief and taxpayer protections"
 usc_title: 15
 usc_section: "9042"
 chapter: 116
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 9042"
-generated_at: "2026-03-29T19:44:42.990Z"
+generated_at: "2026-03-29T19:58:17.946Z"
 ---
 
 # § 9042. Emergency relief and taxpayer protections
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:44:42.990Z"
 - **(a)** Notwithstanding any other provision of law, to provide liquidity to eligible businesses, States, and municipalities related to losses incurred as a result of coronavirus, the Secretary is authorized to make loans, loan guarantees, and other investments in support of eligible businesses, States, and municipalities that do not, in the aggregate, exceed $0 and provide the subsidy amounts necessary for such loans, loan guarantees, and other investments in accordance with the provisions of the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661 et seq.).
 - **(b)** Loans, loan guarantees, and other investments made pursuant to subsection (a) shall be made available as follows:
   - **(1)** Not more than $0 shall be available to make loans and loan guarantees for passenger air carriers, eligible businesses that are certified under part 145 of title 14, Code of Federal Regulations, and approved to perform inspection, repair, replace, or overhaul services, and ticket agents (as defined in section 40102 of title 49 ).
-  - **(2)** Not more than 0 1 1 So in original. Probably should be “$0”. shall be available to make loans and loan guarantees for cargo air carriers.
+  - **(2)** Not more than 0 1 1 So in original. Probably should be preceded by a dollar sign. shall be available to make loans and loan guarantees for cargo air carriers.
   - **(3)** Not more than 0 1 shall be available to make loans and loan guarantees for businesses critical to maintaining national security.
   - **(4)** Not more than the sum of $0 and any amounts available under paragraphs (1), (2), and (3) that are not used as provided under those paragraphs shall be available to make loans and loan guarantees to, and other investments in, programs or facilities established by the Board of Governors of the Federal Reserve System for the purpose of providing liquidity to the financial system that supports lending to eligible businesses, States, or municipalities by—
     - **(A)** purchasing obligations or other interests directly from issuers of such obligations or other interests;
@@ -45,7 +45,7 @@ generated_at: "2026-03-29T19:44:42.990Z"
         - **(II)** until the date 12 months after the date on which the direct loan is no longer outstanding, not to pay dividends or make other capital distributions with respect to the common stock of the eligible business; and
         - **(III)** to comply with the limitations on compensation set forth in section 9043 of this title .
       - **(iii)** The Secretary may waive the requirement under clause (ii) with respect to any program or facility upon a determination that such waiver is necessary to protect the interests of the Federal Government. If the Secretary exercises a waiver under this clause, the Secretary shall make himself available to testify before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives regarding the reasons for the waiver.
-    - **(B)** For the avoidance of doubt, any applicable requirements under section 343(3) of title 12 , including requirements relating to loan collateralization, taxpayer protection, and borrower solvency, shall apply with respect to any program or facility described in subsection (b)(4).
+    - **(B)** For the avoidance of doubt, any applicable requirements under section 13(3) of the Federal Reserve Act ( 12 U.S.C. 343(3) ), including requirements relating to loan collateralization, taxpayer protection, and borrower solvency, shall apply with respect to any program or facility described in subsection (b)(4).
     - **(C)** A program or facility in which the Secretary makes a loan, loan guarantee, or other investment under subsection (b)(4) shall only purchase obligations or other interests (other than securities that are based on an index or that are based on a diversified pool of securities) from, or make loans or other advances to, businesses that are created or organized in the United States or under the laws of the United States and that have significant operations in and a majority of its employees based in the United States.
     - **(D)**
       - **(i)** Without limiting the terms and conditions of the programs and facilities that the Secretary may otherwise provide financial assistance to under subsection (b)(4), the Secretary shall endeavor to seek the implementation of a program or facility described in subsection (b)(4) that provides financing to banks and other lenders that make direct loans to eligible businesses including, to the extent practicable, nonprofit organizations, with between 500 and 10,000 employees, with such direct loans being subject to an annualized interest rate that is not higher than 2 percent per annum. For the first 6 months after any such direct loan is made, or for such longer period as the Secretary may determine in his discretion, no principal or interest shall be due and payable. Any eligible borrower applying for a direct loan under this program shall make a good-faith certification that—
@@ -59,7 +59,7 @@ generated_at: "2026-03-29T19:44:42.990Z"
         - **(VIII)** the recipient will not outsource or offshore jobs for the term of the loan and 2 years after completing repayment of the loan;
         - **(IX)** the recipient will not abrogate existing collective bargaining agreements for the term of the loan and 2 years after completing repayment of the loan; and
         - **(X)** that the recipient will remain neutral in any union organizing effort for the term of the loan.
-      - **(ii)** Nothing in this subparagraph shall limit the discretion of the Board of Governors of the Federal Reserve System to establish a Main Street Lending Program or other similar program or facility that supports lending to small and mid-sized businesses on such terms and conditions as the Board may set consistent with section 343(3) of title 12 , including any such program in which the Secretary makes a loan, loan guarantee, or other investment under subsection (b)(4).
+      - **(ii)** Nothing in this subparagraph shall limit the discretion of the Board of Governors of the Federal Reserve System to establish a Main Street Lending Program or other similar program or facility that supports lending to small and mid-sized businesses on such terms and conditions as the Board may set consistent with section 13(3) of the Federal Reserve Act ( 12 U.S.C. 343(3) ), including any such program in which the Secretary makes a loan, loan guarantee, or other investment under subsection (b)(4).
     - **(E)** The Secretary shall endeavor to seek the implementation of a program or facility in accordance with subsection (b)(4) that provides liquidity to the financial system that supports lending to States and municipalities.
 - **(d)**
   - **(1)** The Secretary may not issue a loan to, or a loan guarantee for, an eligible business under paragraph (1), (2), or (3) of subsection (b) unless—
@@ -79,7 +79,7 @@ generated_at: "2026-03-29T19:44:42.990Z"
     - **(A)** the amount transferred from the appropriation made under section 9061 of this title to the financing accounts; and
     - **(B)** the amount necessary to repay any amount lent from the Treasury to such financing accounts.
   - **(2)** After the deposits specified in paragraph (1) of this subsection have been made, into the Federal Old-Age and Survivors Insurance Trust Fund established under section 401(a) of title 42 .
-- **(f)** Notwithstanding any other provision of law, the Secretary may use not greater than $100,000,000 of the funds made available under section 9061 of this title to pay costs and administrative expenses associated with the loans, loan guarantees, and other investments authorized under this section. The Secretary is authorized to take such actions as the Secretary deems necessary to carry out the authorities in this part, including, without limitation—
+- **(f)** Notwithstanding any other provision of law, the Secretary may use not greater than 61,000,000 1 of the funds made available under section 9061 of this title to pay costs and administrative expenses associated with the loans, loan guarantees, and other investments authorized under this section. The Secretary is authorized to take such actions as the Secretary deems necessary to carry out the authorities in this part, including, without limitation—
   - **(1)** using direct hiring authority to hire employees to administer this part;
   - **(2)** entering into contracts, including contracts for services authorized by this part;
   - **(3)** establishing vehicles that are authorized, subject to supervision by the Secretary, to purchase, hold, and sell assets and issue obligations; and

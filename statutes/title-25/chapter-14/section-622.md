@@ -3,9 +3,9 @@ title: "Section 622 - Omitted"
 usc_title: 25
 usc_section: "622"
 chapter: 14
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 622"
-generated_at: "2026-03-29T19:41:28.359Z"
+generated_at: "2026-03-29T19:59:16.308Z"
 ---
 
 # § 622. Omitted

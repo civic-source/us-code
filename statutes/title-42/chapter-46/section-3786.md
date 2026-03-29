@@ -1,14 +1,12 @@
 ---
-title: "Section 3786 - Delegation of functions"
+title: "Section 3786 - Transferred"
 usc_title: 42
 usc_section: "3786"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3786"
-generated_at: "2026-03-29T19:31:45.110Z"
+generated_at: "2026-03-29T20:00:54.882Z"
 ---
 
-# § 3786. Delegation of functions
-
-The Attorney General, the Assistant Attorney General, the Director of the National Institute of Justice, the Director of the Bureau of Justice Statistics, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, and the Director of the Bureau of Justice Assistance may delegate to any of their respective officers or employees such functions under this chapter as they deem appropriate.
+# § 3786. Transferred
 

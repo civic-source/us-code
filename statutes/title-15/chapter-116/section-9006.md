@@ -3,9 +3,9 @@ title: "Section 9006 - Direct appropriations"
 usc_title: 15
 usc_section: "9006"
 chapter: 116
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 9006"
-generated_at: "2026-03-29T19:44:42.978Z"
+generated_at: "2026-03-29T19:58:17.937Z"
 ---
 
 # § 9006. Direct appropriations
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:44:42.978Z"
 - **(a)** There is appropriated, out of amounts in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2020 , to remain available until September 30, 2021 , for additional amounts—
   - **(1)** $670,335,000,000 under the heading “Small Business Administration—Business Loans Program Account, CARES Act” for the cost of guaranteed loans as authorized under paragraph (36) of section 636(a) of this title , as added by section 1102(a) of this Act;
   - **(2)** $675,000,000 under the heading “Small Business Administration—Salaries and Expenses” for salaries and expenses of the Administration;
-  - **(3)** $25,000,000 under the heading “Small Business Administration—Office of Inspector General”, to remain available until September 30, 2024 , for necessary expenses of the Office of Inspector General of the Administration in carrying out the provisions of the Inspector General Act of 1978 (5 U.S.C. App.);
+  - **(3)** $25,000,000 under the heading “Small Business Administration—Office of Inspector General”, to remain available until September 30, 2024 , for necessary expenses of the Office of Inspector General of the Administration in carrying out the provisions of the Inspector General Act of 1978 (5 U.S.C. App.); 1 1 See References in Text note below.
   - **(4)** $265,000,000 under the heading “Small Business Administration—Entrepreneurial Development Programs”, of which—
     - **(A)** $240,000,000 shall be for carrying out section 9002(b) of this title ; and
     - **(B)** $25,000,000 shall be for carrying out section 9002(c) of this title ;

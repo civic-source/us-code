@@ -3,9 +3,9 @@ title: "Section 1437n - Eligibility for assisted housing"
 usc_title: 42
 usc_section: "1437n"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1437n"
-generated_at: "2026-03-29T19:31:44.897Z"
+generated_at: "2026-03-29T20:00:54.631Z"
 ---
 
 # § 1437n. Eligibility for assisted housing
@@ -24,14 +24,14 @@ generated_at: "2026-03-29T19:31:44.897Z"
     - **(A)** Except as provided under subparagraph (D), the number of public housing dwelling units that a public housing agency shall otherwise make available in accordance with paragraph (2)(A) to comply with the percentage requirement under such paragraph for a fiscal year shall be reduced by the credit number for the agency under subparagraph (B).
     - **(B)** Subject to subparagraph (C), the credit number under this subparagraph for a public housing agency for a fiscal year shall be the number by which—
       - **(i)** the aggregate number of qualified families who, in such fiscal year, are initially provided tenant-based assistance under section 1437f of this title by the agency; exceeds
-      - **(ii)** the number of qualified families that is required for the agency to comply with the percentage requirement under subsection (b)(1) of this section for such fiscal year.
+      - **(ii)** the number of qualified families that is required for the agency to comply with the percentage requirement under subsection (b)(1) for such fiscal year.
     - **(C)** The credit number under subparagraph (B) for a public housing agency for a fiscal year may not in any case exceed the lesser of—
       - **(i)** the number of dwelling units that is equivalent to 10 percent of the aggregate number of families initially provided tenant-based assistance under section 1437f of this title by the agency in such fiscal year; or
       - **(ii)** the number of public housing dwelling units of the agency that—
         - **(I)** are in projects that are located in census tracts having a poverty rate of 30 percent or more; and
         - **(II)** are made available for occupancy during such fiscal year and are actually filled only by families whose incomes at the time of commencement of such occupancy exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families.
     - **(D)** Notwithstanding any authority under subparagraph (A), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 30 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families.
-    - **(E)** For purposes of this paragraph, the term “qualified family” means a family having an income described in subsection (b)(1) of this section.
+    - **(E)** For purposes of this paragraph, the term “qualified family” means a family having an income described in subsection (b)(1).
   - **(5)**
     - **(A)** Except as provided in subparagraph (D), in the case of any family residing in a dwelling unit of public housing whose income for the most recent two consecutive years, as determined pursuant to income reviews conducted pursuant to section 1437a(a)(6) of this title , has exceeded the applicable income limitation under subparagraph (C), the public housing agency shall—
       - **(i)** notwithstanding any other provision of this chapter, charge such family as monthly rent for the unit occupied by such family an amount equal to the greater of—
@@ -63,7 +63,7 @@ generated_at: "2026-03-29T19:31:44.897Z"
     - **(E)** The moderate rehabilitation program under section 1437f(e)(2) of this title (as in effect before October 1, 1991 ).
     - **(F)** The low-income housing preservation program under Low-Income Housing Preservation and Resident Homeownership Act of 1990 [ 12 U.S.C. 4101 et seq.] or the provisions of the Emergency Low Income Housing Preservation Act of 1987 (as in effect before November 28, 1990 ).
     - **(G)** Section 1437f of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998), following conversion from assistance under section 1701s of title 12 or section 1715z–1(f)(2) of title 12 .
-- **(d)** Notwithstanding subsection (a)(2) or (b)(1) of this section, if approved by the Secretary, a public housing agency may for good cause establish and implement, in accordance with the public housing agency plan, an admission standard other than the standard under such subsection.
+- **(d)** Notwithstanding subsection (a)(2) or (b)(1), if approved by the Secretary, a public housing agency may for good cause establish and implement, in accordance with the public housing agency plan, an admission standard other than the standard under such subsection.
 - **(e)**
   - **(1)** Subject to paragraph (3) and notwithstanding any other provision of this chapter, a dwelling unit assisted under this chapter may not be rented and assistance under this chapter may not be provided, either initially or at each recertification of family income, to any family—
     - **(A)** whose net family assets exceed $100,000, as such amount is adjusted annually by applying an inflationary factor as the Secretary considers appropriate; or

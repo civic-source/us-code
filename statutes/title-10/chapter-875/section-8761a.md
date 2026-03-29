@@ -3,9 +3,9 @@ title: "Section 8761a - Uniform clothing: sale to Naval Sea Cadet Corps"
 usc_title: 10
 usc_section: "8761a"
 chapter: 875
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 8761a"
-generated_at: "2026-03-29T19:43:38.119Z"
+generated_at: "2026-03-29T19:58:02.326Z"
 ---
 
 # § 8761a. Uniform clothing: sale to Naval Sea Cadet Corps

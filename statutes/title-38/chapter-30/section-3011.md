@@ -3,9 +3,9 @@ title: "Section 3011 - Basic educational assistance entitlement for service on a
 usc_title: 38
 usc_section: "3011"
 chapter: 30
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3011"
-generated_at: "2026-03-29T19:43:27.000Z"
+generated_at: "2026-03-29T20:00:43.055Z"
 ---
 
 # § 3011. Basic educational assistance entitlement for service on active duty
@@ -29,13 +29,13 @@ generated_at: "2026-03-29T19:43:27.000Z"
     - **(A)** continues on active duty;
     - **(B)** is discharged from active duty with an honorable discharge;
     - **(C)** is released after service on active duty characterized by the Secretary concerned as honorable service and is placed on the retired list, is transferred to the Fleet Reserve or Fleet Marine Corps Reserve, or is placed on the temporary disability retired list; or
-    - **(D)** is released from active duty for further service in a reserve component of the Armed Forces after service on active duty characterized by the Secretary concerned as honorable service;
+    - **(D)** is released from active duty for further service in a reserve component of the Armed Forces or for further service in the Space Force in a space force active status not on sustained duty under section 20105 of title 10 after service on active duty characterized by the Secretary concerned as honorable service;
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), the basic pay of any individual described in subsection (a)(1)(A) of this section who does not make an election under subsection (c)(1) of this section shall be reduced by $100 for each of the first 12 months that such individual is entitled to such pay.
+  - **(1)** Except as provided in paragraph (2), the basic pay of any individual described in subsection (a)(1)(A) of this section who does not make an election under subsection (c)(1) of this section shall be reduced by $100 for each of the first 12 months that begin after the date that is 270 days after the date on which the individual initially enters initial training.
   - **(2)** In the case of an individual covered by paragraph (1) who is a member of the Selected Reserve, the Secretary of Defense shall collect from the individual an amount equal to $1,200 not later than one year after completion by the individual of the two years of service on active duty providing the basis for such entitlement. The Secretary of Defense may collect such amount through reductions in basic pay in accordance with paragraph (1) or through such other method as the Secretary of Defense considers appropriate.
   - **(3)** Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual.
 - **(c)**
-  - **(1)** An individual described in subsection (a)(1)(A) of this section may make an election not to receive educational assistance under this chapter. Any such election shall be made at the time the individual initially enters on active duty as a member of the Armed Forces. Any individual who makes such an election is not entitled to educational assistance under this chapter.
+  - **(1)** An individual described in subsection (a)(1)(A) of this section may make an election not to receive educational assistance under this chapter. Any such election shall be made during the 90-day period beginning on the day that is 180 days after the date on which the individual initially enters initial training. Any individual who makes such an election is not entitled to educational assistance under this chapter.
   - **(2)** An individual who after December 31, 1976 , receives a commission as an officer in the Armed Forces upon graduation from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy is not eligible for educational assistance under this section.
   - **(3)** An individual who after December 31, 1976 , receives a commission as an officer in the Armed Forces upon completion of a program of educational assistance under section 2107 of title 10 is not eligible for educational assistance under this section if the individual enters on active duty—
     - **(A)** before October 1, 1996 ; or

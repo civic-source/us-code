@@ -3,9 +3,9 @@ title: "Section 17938 - Business associate contracts required for certain entiti
 usc_title: 42
 usc_section: "17938"
 chapter: 156
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 17938"
-generated_at: "2026-03-29T19:31:45.913Z"
+generated_at: "2026-03-29T20:00:55.639Z"
 ---
 
 # § 17938. Business associate contracts required for certain entities

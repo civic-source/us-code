@@ -1,14 +1,12 @@
 ---
-title: "Section 16935h - Authorization of appropriations"
+title: "Section 16935h - Transferred"
 usc_title: 42
 usc_section: "16935h"
 chapter: 151
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 16935h"
-generated_at: "2026-03-29T19:31:45.867Z"
+generated_at: "2026-03-29T20:00:55.590Z"
 ---
 
-# § 16935h. Authorization of appropriations
-
-There are authorized to be appropriated to carry out this part $6,000,000 for each of fiscal years 2017 and 2018.
+# § 16935h. Transferred
 

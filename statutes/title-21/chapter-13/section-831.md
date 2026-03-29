@@ -3,9 +3,9 @@ title: "Section 831 - Additional requirements relating to online pharmacies and 
 usc_title: 21
 usc_section: "831"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 831"
-generated_at: "2026-03-29T19:41:41.706Z"
+generated_at: "2026-03-29T19:59:28.518Z"
 ---
 
 # § 831. Additional requirements relating to online pharmacies and telemedicine
@@ -37,9 +37,9 @@ generated_at: "2026-03-29T19:41:41.706Z"
 - **(h)**
   - **(1)** The Attorney General may issue to a practitioner a special registration to engage in the practice of telemedicine for purposes of section 802(54)(E) of this title if the practitioner, upon application for such special registration—
     - **(A)** demonstrates a legitimate need for the special registration; and
-    - **(B)** is registered under section 823(f) of this title in the State in which the patient will be located when receiving the telemedicine treatment, unless the practitioner—
+    - **(B)** is registered under section 823(g) of this title in the State in which the patient will be located when receiving the telemedicine treatment, unless the practitioner—
       - **(i)** is exempted from such registration in all States under section 822(d) of this title ; or
-      - **(ii)** is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title .
+      - **(ii)** is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under section 823(g) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(g) of this title .
   - **(2)** Not later than 1 year after October 24, 2018 , in consultation with the Secretary, the Attorney General shall promulgate final regulations specifying—
     - **(A)** the limited circumstances in which a special registration under this subsection may be issued; and
     - **(B)** the procedure for obtaining a special registration under this subsection.

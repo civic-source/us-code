@@ -1,16 +1,16 @@
 ---
-title: "Section 9062a - Annual report on Air Force tactical fighter aircraft force structure"
+title: "Section 9062a - Annual report on Air Force tactical fighter aircraft force structure. 1 1 So in original. The period probably should not appear."
 usc_title: 10
 usc_section: "9062a"
 chapter: 907
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 9062a"
-generated_at: "2026-03-29T02:10:45.336Z"
+generated_at: "2026-03-29T19:58:02.336Z"
 ---
 
-# § 9062a. Annual report on Air Force tactical fighter aircraft force structure
+# § 9062a. Annual report on Air Force tactical fighter aircraft force structure. 1 1 So in original. The period probably should not appear.
 
-- **(a)** Not later than April 1, 2025 , and annually thereafter through 2030, the Secretary of the Air Force, in coordination with the Director of the Air National Guard and the Commander of the Air Force Reserve Command, shall—
+- **(a)** Not later than April 1, 2025 , and annually thereafter through 2029, the Secretary of the Air Force, in consultation with the Director of the Air National Guard and the Commander of the Air Force Reserve Command, shall—
   - **(1)** develop a 10-year tactical fighter aircraft force structure, recapitalization, training, and sustainment plan for the active and reserve components of the Air Force; and
   - **(2)** submit to the congressional defense committees a report on the plan.
 - **(b)** The report required by subsection (a) shall address each of the following:

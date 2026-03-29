@@ -3,9 +3,9 @@ title: "Section 323 - Guidance on how to prevent exposure to and release of PFAS
 usc_title: 6
 usc_section: "323"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 323"
-generated_at: "2026-03-29T02:10:04.996Z"
+generated_at: "2026-03-29T19:57:32.890Z"
 ---
 
 # § 323. Guidance on how to prevent exposure to and release of PFAS

@@ -3,9 +3,9 @@ title: "Section 3157 - Competitive, special, and facilities research grants"
 usc_title: 7
 usc_section: "3157"
 chapter: 64
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 3157"
-generated_at: "2026-03-29T19:43:58.287Z"
+generated_at: "2026-03-29T19:57:39.318Z"
 ---
 
 # § 3157. Competitive, special, and facilities research grants
@@ -181,5 +181,5 @@ generated_at: "2026-03-29T19:43:58.287Z"
 - **(g)** The Secretary of Agriculture shall limit allowable overhead costs, with respect to grants awarded under this section, to those necessary to carry out the purposes of the grants.
 - **(h)** Except as otherwise provided in subsections (b), (d), and (e), there are hereby authorized to be appropriated such sums as are necessary to carry out this section.
 - **(i)** The Secretary of Agriculture may issue such rules and regulations as the Secretary deems necessary to carry out this section.
-- **(j)** The Federal Advisory Committee Act and title XVIII of the Food and Agriculture Act of 1977 ( 7 U.S.C. 2281 et seq.) shall not apply to a panel or board created for the purpose of reviewing applications or proposals submitted under this section.
+- **(j)** Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 ( 7 U.S.C. 2281 et seq.) shall not apply to a panel or board created for the purpose of reviewing applications or proposals submitted under this section.
 - **(k)** The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in section 3103 of this title .

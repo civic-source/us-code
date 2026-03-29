@@ -3,9 +3,9 @@ title: "Section 9807 - Biennial reports and congressional consultation"
 usc_title: 22
 usc_section: "9807"
 chapter: 105
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 9807"
-generated_at: "2026-03-29T19:42:08.324Z"
+generated_at: "2026-03-29T19:59:24.356Z"
 ---
 
 # § 9807. Biennial reports and congressional consultation

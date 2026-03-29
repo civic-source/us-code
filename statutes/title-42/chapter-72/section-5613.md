@@ -1,14 +1,12 @@
 ---
-title: "Section 5613 - Voluntary and uncompensated services"
+title: "Section 5613 - Transferred"
 usc_title: 42
 usc_section: "5613"
 chapter: 72
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5613"
-generated_at: "2026-03-29T19:31:45.238Z"
+generated_at: "2026-03-29T20:00:54.980Z"
 ---
 
-# § 5613. Voluntary and uncompensated services
-
-The Administrator is authorized to accept and employ, in carrying out the provisions of this chapter, voluntary and uncompensated services notwithstanding the provisions of section 1342 of title 31 .
+# § 5613. Transferred
 

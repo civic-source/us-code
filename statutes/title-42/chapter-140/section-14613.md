@@ -1,14 +1,12 @@
 ---
-title: "Section 14613 - Enactment and consent of the United States"
+title: "Section 14613 - Transferred"
 usc_title: 42
 usc_section: "14613"
 chapter: 140
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14613"
-generated_at: "2026-03-29T19:31:45.780Z"
+generated_at: "2026-03-29T20:00:55.496Z"
 ---
 
-# § 14613. Enactment and consent of the United States
-
-The National Crime Prevention and Privacy Compact, as set forth in section 14616 of this title , is enacted into law and entered into by the Federal Government. The consent of Congress is given to States to enter into the Compact.
+# § 14613. Transferred
 

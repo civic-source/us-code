@@ -3,9 +3,9 @@ title: "Section 1758 - Program requirements"
 usc_title: 42
 usc_section: "1758"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1758"
-generated_at: "2026-03-29T19:31:44.938Z"
+generated_at: "2026-03-29T20:00:54.678Z"
 ---
 
 # § 1758. Program requirements
@@ -170,7 +170,7 @@ generated_at: "2026-03-29T19:31:44.938Z"
   - **(5)** Subject to paragraph (6), any local educational agency may certify any child as eligible for free lunches or breakfasts, without further application, by directly communicating with the appropriate State or local agency to obtain documentation of the status of the child as—
     - **(A)** a member of a family that is receiving assistance under the temporary assistance for needy families program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.) that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995 ;
     - **(B)** a homeless child or youth (defined as 1 of the individuals described in section 11434a(2) of this title );
-    - **(C)** served by the runaway and homeless youth grant program established under the Runaway and Homeless Youth Act ( 42 U.S.C. 5701 et seq.);
+    - **(C)** served by the runaway and homeless youth grant program established under the Runaway and Homeless Youth Act ( 42 U.S.C. 5701 et seq.); 1 1 See References in Text note below.
     - **(D)** a migratory child (as defined in section 6399 of title 20 ); or
     - **(E)**
       - **(i)** a foster child whose care and placement is the responsibility of an agency that administers a State plan under part B or E of title IV of the Social Security Act [ 42 U.S.C. 620 et seq., 670 et seq.]; or
@@ -211,7 +211,7 @@ generated_at: "2026-03-29T19:31:44.938Z"
     - **(C)** Except as otherwise specified in paragraph (3)(E), (3)(H)(ii), and section 1759a(a) of this title , eligibility for free or reduced price meals for any school year shall remain in effect—
       - **(i)** beginning on the date of eligibility approval for the current school year; and
       - **(ii)** ending on a date during the subsequent school year determined by the Secretary.
-  - **(10)** No physical segregation of or other discrimination against any child eligible for a free lunch or a reduced price lunch under this subsection shall be made by the school nor shall there by 1 1 So in original. Probably should be “be”. any overt identification of any child by special tokens or tickets, announced or published lists of names, or by other means.
+  - **(10)** No physical segregation of or other discrimination against any child eligible for a free lunch or a reduced price lunch under this subsection shall be made by the school nor shall there by 2 2 So in original. Probably should be “be”. any overt identification of any child by special tokens or tickets, announced or published lists of names, or by other means.
   - **(11)** Any child who has a parent or guardian who (A) is responsible for the principal support of such child and (B) is unemployed shall be served a free or reduced price lunch, respectively, during any period (i) in which such child’s parent or guardian continues to be unemployed and (ii) the income of the child’s parents or guardians during such period of unemployment falls within the income eligibility criteria for free lunches or reduced price lunches, respectively, based on the current rate of income of such parents or guardians. Local educational agencies shall publicly announce that such children are eligible for a free or reduced price lunch, and shall make determinations with respect to the status of any parent or guardian of any child under clauses (A) and (B) of the preceding sentence on the basis of a statement executed in such form as the Secretary may prescribe by such parent or guardian. No physical segregation of, or other discrimination against, any child eligible for a free or reduced price lunch under this paragraph shall be made by the school nor shall there be any overt identification of any such child by special tokens or tickets, announced or published lists of names, or by any other means.
   - **(12)**
     - **(A)** A child shall be considered automatically eligible for a free lunch and breakfast under this chapter and the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.), respectively, without further application or eligibility determination, if the child is—
@@ -219,7 +219,7 @@ generated_at: "2026-03-29T19:31:44.938Z"
       - **(ii)** a member of a family (under the State program funded under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.)) that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995 ;
       - **(iii)** enrolled as a participant in a Head Start program authorized under the Head Start Act ( 42 U.S.C. 9831 et seq.), on the basis of a determination that the child meets the eligibility criteria prescribed under section 645(a)(1)(B) of the Head Start Act ( 42 U.S.C. 9840(a)(1)(B) );
       - **(iv)** a homeless child or youth (defined as 1 of the individuals described in section 11434a(2) of this title );
-      - **(v)** served by the runaway and homeless youth grant program established under the Runaway and Homeless Youth Act ( 42 U.S.C. 5701 et seq.);
+      - **(v)** served by the runaway and homeless youth grant program established under the Runaway and Homeless Youth Act ( 42 U.S.C. 5701 et seq.); 1
       - **(vi)** a migratory child (as defined in section 6399 of title 20 ); or
       - **(vii)**
         - **(I)** a foster child whose care and placement is the responsibility of an agency that administers a State plan under part B or E of title IV of the Social Security Act [ 42 U.S.C. 620 et seq., 670 et seq.]; or
@@ -235,7 +235,7 @@ generated_at: "2026-03-29T19:31:44.938Z"
     - **(A)** In this paragraph:
       - **(i)** The term “eligible child” means a child—
         - **(I)**
-        - **(II)** who is a member of a household (as that term is defined in section 245.2 of title 7, Code of Federal Regulations (or successor regulations) 2 2 So in original. Another closing parenthesis probably should appear. with a child described in subclause (I).
+        - **(II)** who is a member of a household (as that term is defined in section 245.2 of title 7, Code of Federal Regulations (or successor regulations) 3 3 So in original. Another closing parenthesis probably should appear. with a child described in subclause (I).
       - **(ii)** The term “Medicaid program” means the program of medical assistance established under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.).
     - **(B)**
       - **(i)** The Secretary, acting through the Administrator of the Food and Nutrition Service and in cooperation with selected State agencies, shall conduct a demonstration project in selected local educational agencies to determine whether direct certification of eligible children is an effective method of certifying children for free lunches and breakfasts under subsection (b)(1)(A) and section 4(e)(1)(A) of the Child Nutrition Act of 1966 ( 42 U.S.C. 1773(e)(1)(A) ).
@@ -309,10 +309,10 @@ generated_at: "2026-03-29T19:31:44.938Z"
     - **(B)** post in a publicly visible location a report on the most recent inspection conducted under subparagraph (A); and
     - **(C)** on request, provide a copy of the report to a member of the public.
   - **(2)** Nothing in paragraph (1) prevents any State or local government from adopting or enforcing any requirement for more frequent food safety inspections of schools.
-  - **(3)** For each of fiscal years 2011 through 2015, each State shall annually—
+  - **(3)** For fiscal year 2024, each State shall annually—
     - **(A)** audit food safety inspections of schools conducted under paragraphs (1) and (2); and
     - **(B)** submit to the Secretary a report of the results of the audit.
-  - **(4)** For each of fiscal years 2011 through 2015, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
+  - **(4)** For fiscal year 2024, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
   - **(5)**
     - **(A)** Each school food authority shall implement a school food safety program, in the preparation and service of each meal served to children, that complies with any hazard analysis and critical control point system established by the Secretary.
     - **(B)** Subparagraph (A) shall apply to any facility or part of a facility in which food is stored, prepared, or served for the purposes of the school nutrition programs under this chapter or section 4 of the Child Nutrition Act of 1966 ( 42 U.S.C. 1773 ).

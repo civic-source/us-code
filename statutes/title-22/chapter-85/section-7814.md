@@ -3,9 +3,9 @@ title: "Section 7814 - Actions to promote freedom of information"
 usc_title: 22
 usc_section: "7814"
 chapter: 85
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 7814"
-generated_at: "2026-03-29T19:42:08.268Z"
+generated_at: "2026-03-29T19:59:24.301Z"
 ---
 
 # § 7814. Actions to promote freedom of information
@@ -19,8 +19,8 @@ generated_at: "2026-03-29T19:42:08.268Z"
   - **(6)** Efforts to improve information access under this subsection should include religious communities and should be coordinated with the Office of International Religious Freedom to ensure maximum impact in improving the rights of religious persons in North Korea.
   - **(7)** Not later than—
     - **(A)** 180 days after July 20, 2018 , the Secretary of State, in consultation with the Broadcasting Board of Governors, shall submit to the appropriate congressional committees a report that sets forth a detailed plan for improving broadcasting content for the purpose of targeting new audiences and increasing listenership; and
-    - **(B)** 1 year after July 20, 2018 , and annually thereafter for each of the next 5 years, the Secretary of State, in consultation with the Broadcasting Board of Governors, shall submit to the appropriate congressional committees a report including—
-      - **(i)** a description of the effectiveness of actions taken pursuant to this section, including data reflecting audience and listenership, device distribution and usage, and technological development and advancement usage;
+    - **(B)** September 30, 2022 , and annually thereafter for each of the next 5 years, the Secretary of State, in consultation with the Chief Executive Officer of the United States Agency for Global Media, shall submit to the appropriate congressional committees a report including—
+      - **(i)** a description of the effectiveness of actions taken pursuant to this section and sections 5583 and 5584 of the Otto Warmbier Countering North Korean Censorship and Surveillance Act of 2022, including data reflecting audience and listenership, device distribution and usage, and technological development and advancement usage;
       - **(ii)** the amount of funds expended by the United States Government pursuant to section 403; 1 1 See References in Text note below. and
       - **(iii)** other appropriate information necessary to fully inform Congress of efforts related to this section.
 - **(b)**

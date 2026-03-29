@@ -3,9 +3,9 @@ title: "Section 665i - CyberSentry program"
 usc_title: 6
 usc_section: "665i"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 665i"
-generated_at: "2026-03-29T19:43:43.827Z"
+generated_at: "2026-03-29T19:57:32.930Z"
 ---
 
 # § 665i. CyberSentry program
@@ -22,8 +22,5 @@ generated_at: "2026-03-29T19:43:43.827Z"
   - **(2)** submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report certifying compliance with all applicable privacy laws as referred to in paragraph (1), or identifying any instances of noncompliance with such privacy laws.
 - **(d)** Not later than one year after December 27, 2021 , the Director shall provide to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a briefing and written report on implementation of this section.
 - **(e)** Nothing in this section may be construed to permit the Federal Government to gain access to information of a remote computing service provider to the public or an electronic service provider to the public, the disclosure of which is not permitted under section 2702 of title 18 .
-- **(f)** In this section:
-  - **(1)** The term “cybersecurity risk” has the meaning given such term in section 659(a) of this title .
-  - **(2)** The term “industrial control system” means an information system used to monitor and/or control industrial processes such as manufacturing, product handling, production, and distribution, including supervisory control and data acquisition (SCADA) systems used to monitor and/or control geographically dispersed assets, distributed control systems (DCSs), Human-Machine Interfaces (HMIs), and programmable logic controllers that control localized processes.
-  - **(3)** The term “information system” has the meaning given such term in section 1501(9) of this title .
+- **(f)** In this section, the term “industrial control system” means an information system used to monitor and/or control industrial processes such as manufacturing, product handling, production, and distribution, including supervisory control and data acquisition (SCADA) systems used to monitor and/or control geographically dispersed assets, distributed control systems (DCSs), Human-Machine Interfaces (HMIs), and programmable logic controllers that control localized processes.
 - **(g)** The authority to carry out a program under this section shall terminate on the date that is seven years after December 27, 2021 .

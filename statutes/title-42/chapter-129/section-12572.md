@@ -3,9 +3,9 @@ title: "Section 12572 - National service programs eligible for program assistanc
 usc_title: 42
 usc_section: "12572"
 chapter: 129
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 12572"
-generated_at: "2026-03-29T19:31:45.651Z"
+generated_at: "2026-03-29T20:00:55.414Z"
 ---
 
 # § 12572. National service programs eligible for program assistance
@@ -167,7 +167,7 @@ generated_at: "2026-03-29T19:31:45.651Z"
       - **(i)** recruits individuals with special skills or provides specialized preservice training to enable participants to be placed individually or in teams in positions in which the participants can meet such unmet needs; and
       - **(ii)** if consistent with the purposes of the program, brings participants together for additional training and other activities designed to foster civic responsibility, increase the skills of participants, and improve the quality of the service provided.
     - **(C)** A campus-based program that is designed to provide substantial service in a community during the school term and during summer or other vacation periods through the use of—
-      - **(i)** students who are attending an institution of higher education, including students participating in a work-study program assisted under part C of title IV of the Higher Education Act of 1965 ( 42 U.S.C. 2751 et seq.); 1 1 See References in Text note below.
+      - **(i)** students who are attending an institution of higher education, including students participating in a work-study program assisted under part C of title IV of the Higher Education Act of 1965 ( 42 U.S.C. 2751 et seq.); 4 4 See References in Text note below.
       - **(ii)** teams composed of students described in clause (i); or
       - **(iii)** teams composed of a combination of such students and community residents.
     - **(D)** A professional corps program that recruits and places qualified participants in positions—

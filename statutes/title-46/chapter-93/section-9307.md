@@ -3,9 +3,9 @@ title: "Section 9307 - Great Lakes Pilotage Advisory Committee"
 usc_title: 46
 usc_section: "9307"
 chapter: 93
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 9307"
-generated_at: "2026-03-29T19:44:39.410Z"
+generated_at: "2026-03-29T20:01:03.885Z"
 ---
 
 # § 9307. Great Lakes Pilotage Advisory Committee
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T19:44:39.410Z"
       - **(ii)** may be appointed without regard to requirement in paragraph (1) that each member have 5 years of practical experience in maritime operations.
 - **(c)**
   - **(1)** The Committee shall elect one of its members as the Chairman and one of its members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of the Chairman, or in the event of a vacancy in the office of the Chairman.
-  - **(2)** The Secretary shall, and any other interested agency may, designate a representative to participate as an observer with the Committee. The Secretary’s designated representative shall act as the executive secretary of the Committee and shall perform the duties set forth in section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
+  - **(2)** The Secretary shall, and any other interested agency may, designate a representative to participate as an observer with the Committee. The Secretary’s designated representative shall act as the executive secretary of the Committee and shall perform the duties set forth in section 1009(c) of title 5 .
 - **(d)**
   - **(1)** The Secretary shall, whenever practicable, consult with the Committee before taking any significant action relating to Great Lakes pilotage.
   - **(2)** The Secretary shall consider the information, advice, and recommendations of the Committee in formulating policy regarding matters affecting Great Lakes pilotage.
@@ -41,5 +41,5 @@ generated_at: "2026-03-29T19:44:39.410Z"
     - **(B)** travel or transportation expenses under section 5703 of title 5 , United States Code.
   - **(2)** A member of the Committee shall not be considered to be an officer or employee of the United States for any purpose based on their receipt of any payment under this subsection.
 - **(f)**
-  - **(1)** The Federal Advisory Committee Act (5 U.S.C. App.) applies to the Committee, except that the Committee terminates on September 30, 2030 .
+  - **(1)** Chapter 10 of title 5 applies to the Committee, except that the Committee terminates on September 30, 2030 .
   - **(2)** 2 years before the termination date set forth in paragraph (1) of this subsection, the Committee shall submit to the Congress its recommendation regarding whether the Committee should be renewed and continued beyond the termination date.

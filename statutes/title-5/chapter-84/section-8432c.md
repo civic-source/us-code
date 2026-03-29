@@ -3,9 +3,9 @@ title: "Section 8432c - Contributions of certain persons reemployed after servic
 usc_title: 5
 usc_section: "8432c"
 chapter: 84
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 8432c"
-generated_at: "2026-03-29T19:43:20.443Z"
+generated_at: "2026-03-29T19:57:14.989Z"
 ---
 
 # § 8432c. Contributions of certain persons reemployed after service with international organizations

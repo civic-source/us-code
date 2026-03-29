@@ -3,9 +3,9 @@ title: "Section 4302 - Adjustment of threshold amount of covered contract"
 usc_title: 41
 usc_section: "4302"
 chapter: 43
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "41 U.S.C. § 4302"
-generated_at: "2026-03-29T19:31:15.757Z"
+generated_at: "2026-03-29T19:59:34.764Z"
 ---
 
 # § 4302. Adjustment of threshold amount of covered contract

@@ -3,9 +3,9 @@ title: "Section 164 - Commanders of combatant commands: assignment; powers and d
 usc_title: 10
 usc_section: "164"
 chapter: 6
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 164"
-generated_at: "2026-03-29T19:43:37.779Z"
+generated_at: "2026-03-29T19:58:01.937Z"
 ---
 
 # § 164. Commanders of combatant commands: assignment; powers and duties
@@ -50,7 +50,11 @@ generated_at: "2026-03-29T19:43:37.779Z"
   - **(3)** The commander of a combatant command shall—
     - **(A)** evaluate the duty performance of each commander of a command directly subordinate to the commander of such combatant command; and
     - **(B)** submit the evaluation to the Secretary of the military department concerned and the Chairman of the Joint Chiefs of Staff.
-  - **(4)** At least one deputy commander of the combatant command the geographic area of responsibility of which includes the United States shall be a qualified officer of a reserve component of the armed forces who is eligible for promotion to the grade of O–9, unless a reserve component officer is serving as commander of that combatant command.
+  - **(4)**
+    - **(A)** At least one deputy commander of the combatant command the geographic area of responsibility of which includes the United States shall be—
+      - **(i)** a qualified officer of a reserve component who is eligible for promotion to the grade of lieutenant general or, in the case of the Navy, vice admiral; or
+      - **(ii)** a qualified officer of the Space Force whose prior service includes service in a space force active status other than sustained duty and who is eligible for promotion to the grade of lieutenant general.
+    - **(B)** The requirement in subparagraph (A) does not apply when the officer serving as commander of the combatant command described in that subparagraph is (i) a reserve component officer, or (ii) an officer of the Space Force whose prior service includes service in a space force active status other than sustained duty.
 - **(f)**
   - **(1)** Each unified and specified combatant command shall have a staff to assist the commander of the command in carrying out his responsibilities. Positions of responsibility on the combatant command staff shall be filled by officers from each of the armed forces having significant forces assigned to the command.
   - **(2)** An officer may be assigned to a position on the staff of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may be recommended to the President for assignment to that position, only—

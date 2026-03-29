@@ -3,15 +3,15 @@ title: "Section 976 - Membership in military unions, organizing of military unio
 usc_title: 10
 usc_section: "976"
 chapter: 49
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 976"
-generated_at: "2026-03-29T19:43:37.869Z"
+generated_at: "2026-03-29T19:58:02.034Z"
 ---
 
 # § 976. Membership in military unions, organizing of military unions, and recognition of military unions prohibited
 
 - **(a)** In this section:
-  - **(1)** The term “member of the armed forces” means (A) a member of the armed forces who is serving on active duty, (B) a member of the National Guard who is serving on full-time National Guard duty, or (C) a member of a Reserve component while performing inactive-duty training.
+  - **(1)** The term “member of the armed forces” means (A) a member of the armed forces who is serving on active duty, (B) a member of the National Guard who is serving on full-time National Guard duty, or (C) a member of a Reserve component or the Space Force while performing inactive-duty training.
   - **(2)** The term “military labor organization” means any organization that engages in or attempts to engage in—
     - **(A)** negotiating or bargaining with any civilian officer or employee, or with any member of the armed forces, on behalf of members of the armed forces, concerning the terms or conditions of military service of such members in the armed forces;
     - **(B)** representing individual members of the armed forces before any civilian officer or employee, or any member of the armed forces, in connection with any grievance or complaint of any such member arising out of the terms or conditions of military service of such member in the armed forces; or

@@ -1,20 +1,21 @@
 ---
-title: "Section 231 - Budgeting for construction of naval vessels: annual plan and certification"
+title: "Section 231 - Budgeting for construction, maintenance, and modernization of naval vessels: annual plans and certifications"
 usc_title: 10
 usc_section: "231"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 231"
-generated_at: "2026-03-29T19:43:37.791Z"
+generated_at: "2026-03-29T19:58:01.950Z"
 ---
 
-# § 231. Budgeting for construction of naval vessels: annual plan and certification
+# § 231. Budgeting for construction, maintenance, and modernization of naval vessels: annual plans and certifications
 
 - **(a)** The Secretary of the Navy shall include with the defense budget materials for a fiscal year each of the following:
   - **(1)** A plan for the construction of naval vessels developed in accordance with this section for each of the following classes of ships:
     - **(A)** Combatant and support vessels.
     - **(B)** Auxiliary vessels.
-  - **(2)** A certification by the Secretary that both the budget for that fiscal year and the future-years defense program submitted to Congress in relation to such budget under section 221 of this title provide for funding of the construction of naval vessels at a level that is sufficient for the procurement of the vessels provided for in the plan under paragraph (1) on the schedule provided in that plan.
+  - **(2)** A certification by the Secretary that both the budget for that fiscal year and the future-years defense program submitted to Congress in relation to such budget under section 221 of this title provide for funding of the construction of naval vessels at a level that is sufficient for the procurement of the vessels provided for in the plan under paragraph (1) on the schedule provided in that plan, together with the views of the Chief of Naval Operations and Commandant of the Marine Corps on the budget.
+  - **(3)** The unaltered assessment of the Chief of Naval Operations and the Commandant of the Marine Corps of the plan required under paragraph (1).
 - **(b)**
   - **(1)** The annual naval vessel construction plan developed for a fiscal year for purposes of subsection (a)(1) shall be designed so that the naval vessel force provided for under that plan supports the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 ( 50 U.S.C. 3043 ), except that, if at the time such plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then such annual plan shall be designed so that the naval vessel force provided for under that plan supports the ship force structure recommended in the report of the most recent national defense strategy.
   - **(2)** Each such naval vessel construction plan shall include the following:
@@ -27,12 +28,31 @@ generated_at: "2026-03-29T19:43:37.791Z"
     - **(G)** The expected service life of each vessel in the naval vessel force provided for under the naval vessel construction plan, disaggregated by ship class, and the rationale for any changes to such expectations from the previous year’s plan.
     - **(H)** A certification by the appropriate Senior Technical Authority designated under section 8669b of this title of the expected service life of each vessel in the naval vessel force provided for under the naval vessel construction plan, disaggregated by ship class, and the rationale for any changes to such expectations from the previous year’s plan.
     - **(I)** For each battle force ship planned to be inactivated during the five-year period beginning on the date of the submittal of the report, a description of the planned disposition of each such ship following such inactivation and the potential gaps in warfighting capability that will result from such ship being removed from service.
+    - **(J)** For any class of battle force ship for which the procurement of the final ship of the class is proposed in the relevant future-years defense program submitted under section 221 of this title —
+      - **(i)** a description of the expected specific effects on the Navy shipbuilding industrial base of—
+        - **(I)** the termination of the production program for the ship and the transition to a new or modified production program, or
+        - **(II)** the termination of the production program for the ship without a new or modified production program to replace it; and
+      - **(ii)** in the case of any such production program for which a replacement production program is proposed, a detailed schedule for the replacement production program with planned decision points, solicitations, and contract awards.
+  - **(3)** In developing annual naval vessel construction plans for purposes of subsection (a)(1), the Secretary of the Navy shall take into consideration the most recent biennial report on shipbuilder training and the defense industrial base required by section 8693 of this title .
 - **(c)** If the annual naval vessel construction plan for a fiscal year under subsection (b) does not result in a force structure or capabilities that meet the requirements identified in subsection (b)(2)(B), the Secretary shall include with the defense budget materials for that fiscal year an assessment of the extent of the strategic and operational risk to national security associated with the reduced force structure of naval vessels over the period of time that the required force structure or capabilities are not achieved. Such assessment shall include an analysis of whether the risks are acceptable, and plans to mitigate such risks. Such assessment shall be coordinated in advance with the commanders of the combatant commands and the Nuclear Weapons Council under section 179 of this title .
-- **(d)** Not later than 60 days after the date on which the congressional defense committees receive the plan under subsection (a)(1), the Director of the Congressional Budget Office shall submit to such committees a report assessing the sufficiency of the estimated levels of annual funding included in such plan with respect to the budget submitted during the year in which the plan is submitted and the future-years defense program submitted under section 221 of this title .
-- **(e)**
-  - **(1)** If the Secretary of Defense does not include with the defense budget materials for a fiscal year the plan and certification under subsection (a), the Secretary of Defense may not use more than 25 percent of the funds described in paragraph (2) during the fiscal year in which such materials are submitted until the date on which such plan and certification are submitted to the congressional defense committees.
-  - **(2)** The funds described in this paragraph are funds made available to the Secretary of Defense for operation and maintenance, Defense-wide, for emergencies and extraordinary expenses, that remain available for obligation or expenditure as of the date on which the plan and certification under subsection (a) are required to be submitted.
-- **(f)** In this section:
+- **(d)** In addition to the plan included under subsection (a)(1), the Secretary of Defense shall include with the defense budget materials for a fiscal year each of the following:
+  - **(1)** A plan for the maintenance and modernization of naval vessels that includes the following:
+    - **(A)** A forecast of the maintenance and modernization requirements for both the naval vessels in the inventory of the Navy and the vessels required to be delivered under the naval vessel construction plan under subsection (a)(1).
+    - **(B)** A description of the initiatives of the Secretary of the Navy to ensure that activities key to facilitating the maintenance and modernization of naval vessels (including with respect to increasing workforce and industrial base capability and capacity, shipyard level-loading, and facility improvements) receive sufficient resourcing, and are including in appropriate planning, to facilitate the requirements specified in subparagraph (A).
+  - **(2)** A certification by the Secretary that both the budget for that fiscal year and the future-years defense program submitted to Congress in relation to such budget under section 221 of this title provide for funding for the maintenance and modernization of naval vessels at a level that is sufficient for such maintenance and modernization in accordance with the plan under paragraph (1).
+- **(e)** Not later than 60 days after the date on which the congressional defense committees receive the plan under subsection (a)(1), the Director of the Congressional Budget Office shall submit to such committees a report assessing the sufficiency of the estimated levels of annual funding included in such plan with respect to the budget submitted during the year in which the plan is submitted and the future-years defense program submitted under section 221 of this title .
+- **(f)**
+  - **(1)** If the Secretary of Defense does not include with the defense budget materials for a fiscal year the plan and certification under subsection (a) and the plan and certification under subsection (d), the Secretary of Defense may not use more than 25 percent of the funds described in paragraph (2) during the fiscal year in which such materials are submitted until the date on which such plans and certifications are submitted to the congressional defense committees.
+  - **(2)** The funds described in this paragraph are funds made available to the Secretary of Defense for operation and maintenance, Defense-wide, for emergencies and extraordinary expenses, that remain available for obligation or expenditure as of the date on which the plan and certification under subsection (a) and the plan and certification under subsection (d) are required to be submitted.
+- **(g)** If the plan and certification under subsection (a) for a fiscal year include a proposed reduction in the number of battle force ships proposed to be procured during that fiscal year or during the any of the subsequent nine fiscal years, as compared to the number of such ships proposed in the plan and certification for the preceding fiscal year for that fiscal year and the subsequent nine fiscal years, the Secretary of Defense shall provide to the congressional defense committees, by not later than 15 days after the date of the submission of the plan and certification under subsection (a), a briefing that includes each of the following:
+  - **(1)** An identification of each specific ship for which funds are not requested in the budget for that fiscal year and an identification of any funds that were allocated to each such ship, for any prior fiscal year including funds for—
+    - **(A)** research, development, test, and evaluation;
+    - **(B)** advance procurement;
+    - **(C)** advanced construction; and
+    - **(D)** economic order quantity.
+  - **(2)** If a shipyard is identified in relation to a ship identified under paragraph (1), the projected change in workload at the shipyard as a result of the reduction of the ship.
+  - **(3)** The projected change in the estimated value of any major subcontracted components or sequence critical material as a result of the reduction of the ship.
+- **(h)** In this section:
   - **(1)** The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31 .
   - **(2)** The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
   - **(3)** The term “national defense strategy” means the review of the defense programs and policies of the United States that is carried out every four years under section 113(g) of this title .

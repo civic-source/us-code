@@ -3,9 +3,9 @@ title: "Section 2122 - Location of Oversight Board"
 usc_title: 48
 usc_section: "2122"
 chapter: 20
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "48 U.S.C. § 2122"
-generated_at: "2026-03-29T19:44:59.815Z"
+generated_at: "2026-03-29T20:01:08.619Z"
 ---
 
 # § 2122. Location of Oversight Board

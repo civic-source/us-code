@@ -1,27 +1,12 @@
 ---
-title: "Section 14044c - Enhancing State and local efforts to combat trafficking in persons"
+title: "Section 14044c - Transferred"
 usc_title: 42
 usc_section: "14044c"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14044c"
-generated_at: "2026-03-29T19:31:45.760Z"
+generated_at: "2026-03-29T20:00:55.492Z"
 ---
 
-# § 14044c. Enhancing State and local efforts to combat trafficking in persons
+# § 14044c. Transferred
 
-- **(a)**
-  - **(1)** The Attorney General may make grants to States and local law enforcement agencies to establish, develop, expand, or strengthen programs—
-    - **(A)** to investigate and prosecute acts of severe forms of trafficking in persons, and related offenses that occur, in whole or in part, within the territorial jurisdiction of the United States;
-    - **(B)** to train law enforcement personnel how to identify victims of severe forms of trafficking in persons and related offenses;
-    - **(C)** to investigate and prosecute persons who engage in the purchase of commercial sex acts and prioritize the investigations and prosecutions of those cases involving minor victims;
-    - **(D)** to educate persons charged with, or convicted of, purchasing or attempting to purchase commercial sex acts; and
-    - **(E)** to educate and train law enforcement personnel in how to establish trust of persons subjected to trafficking and encourage cooperation with prosecution efforts.
-  - **(2)** In this subsection, the term “related offenses” includes violations of tax laws, transacting in illegally derived proceeds, money laundering, racketeering, and other violations of criminal laws committed in connection with an act of sex trafficking or a severe form of trafficking in persons.
-- **(b)** Grants under subsection (a) may be made only for programs in which the State or local law enforcement agency works collaboratively with social service providers and relevant nongovernmental organizations, including organizations with experience in the delivery of services to persons who are the subject of trafficking in persons.
-- **(c)** The Federal share of a grant made under this section may not exceed 75 percent of the total costs of the projects described in the application submitted.
-- **(d)** An entity that applies for a grant under section 14044a of this title is not prohibited from also applying for a grant under this section.
-- **(e)** There are authorized to be appropriated to the Attorney General to carry out this section $10,000,000 for each of the fiscal years 2014 through 2017.
-- **(f)** Not later than 30 months after March 7, 2013 , the Comptroller General of the United States shall conduct a study of and submit to Congress a report evaluating the impact of this section on—
-  - **(1)** the ability of law enforcement personnel to identify victims of severe forms of trafficking in persons and investigate and prosecute cases against offenders, including offenders who engage in the purchasing of commercial sex acts with a minor; and
-  - **(2)** recommendations, if any, regarding any legislative or administrative action the Comptroller General determines appropriate to improve the ability described in paragraph (1).

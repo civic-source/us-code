@@ -3,9 +3,9 @@ title: "Section 2656d - Responsibilities of Secretary of State"
 usc_title: 22
 usc_section: "2656d"
 chapter: 38
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2656d"
-generated_at: "2026-03-29T19:42:08.110Z"
+generated_at: "2026-03-29T19:59:24.137Z"
 ---
 
 # § 2656d. Responsibilities of Secretary of State
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T19:42:08.110Z"
 - **(e)**
   - **(1)** The Secretary is authorized to make grants or enter into cooperative agreements related to Department of State science and technology fellowship programs, including for assistance in recruiting fellows and the payment of stipends, travel, and other appropriate expenses to fellows.
   - **(2)** Stipends under paragraph (1) shall not be considered compensation for purposes of section 209 of title 18 .
-  - **(3)** The total amount of grants made pursuant to this subsection may not exceed $500,000 in any fiscal year.
+  - **(3)** The total amount of grants made pursuant to this subsection may not exceed $2,000,000 in any fiscal year.

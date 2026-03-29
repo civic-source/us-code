@@ -3,9 +3,9 @@ title: "Section 673 - Adoption and guardianship assistance program"
 usc_title: 42
 usc_section: "673"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 673"
-generated_at: "2026-03-29T19:31:44.546Z"
+generated_at: "2026-03-29T20:00:54.220Z"
 ---
 
 # § 673. Adoption and guardianship assistance program
@@ -110,7 +110,7 @@ generated_at: "2026-03-29T19:31:44.546Z"
 - **(e)**
   - **(1)**
     - **(A)** Subject to paragraphs (2) and (3), in this section, the term “applicable child” means a child for whom an adoption assistance agreement is entered into under this section during any fiscal year described in subparagraph (B) if the child attained the applicable age for that fiscal year before the end of that fiscal year.
-    - **(B)** For purposes of subparagraph (A), the applicable age for a fiscal year is as follows: In the case of fiscal year: The applicable age is: 2010 16 2011 14 2012 12 2013 10 2014 8 2015 6 2016 4 2017 2 2018 or thereafter any age.
+    - **(B)** For purposes of subparagraph (A), the applicable age for a fiscal year is as follows: In the case of fiscal year: The applicable age is: 2010 16 2011 14 2012 12 2013 10 2014 8 2015 6 2016 4 2017 through 2023 2 2024 2 (or, in the case of a child for whom an adoption assistance agreement is entered into under this section on or after July 1, 2024 , any age) 2025 or thereafter any age.
   - **(2)** Notwithstanding paragraph (1) of this subsection, beginning with fiscal year 2010, such term shall include a child of any age on the date on which an adoption assistance agreement is entered into on behalf of the child under this section if the child—
     - **(A)** has been in foster care under the responsibility of the State for at least 60 consecutive months; and
     - **(B)** meets the requirements of subsection (a)(2)(A)(ii).

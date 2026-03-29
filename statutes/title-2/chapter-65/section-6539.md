@@ -3,9 +3,9 @@ title: "Section 6539 - Abolition of statutory positions in Office of Secretary o
 usc_title: 2
 usc_section: "6539"
 chapter: 65
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 6539"
-generated_at: "2026-03-29T19:42:59.718Z"
+generated_at: "2026-03-29T19:56:57.274Z"
 ---
 
 # § 6539. Abolition of statutory positions in Office of Secretary of Senate; Secretary’s authority to establish and fix compensation for positions

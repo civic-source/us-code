@@ -3,9 +3,9 @@ title: "Section 9414 - National Artificial Intelligence Advisory Committee"
 usc_title: 15
 usc_section: "9414"
 chapter: 119
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 9414"
-generated_at: "2026-03-29T19:44:43.008Z"
+generated_at: "2026-03-29T19:58:17.960Z"
 ---
 
 # § 9414. National Artificial Intelligence Advisory Committee
@@ -36,4 +36,4 @@ generated_at: "2026-03-29T19:44:43.008Z"
     - **(D)** Legal standards, including those designed to ensure the use of artificial intelligence systems are consistent with the privacy rights, civil rights and civil liberties, and disability rights issues raised by the use of these technologies.
 - **(f)** Not later than 1 year after January 1, 2021 , and not less frequently than once every 3 years thereafter, the Advisory Committee shall submit to the President, the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, the House Permanent Select Committee on Intelligence, the Committee on the Judiciary, and the Committee on Armed Services of the House of Representatives, and the Committee on Commerce, Science, and Transportation, the Senate Select Committee on Intelligence, the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, and the Committee on Armed Services of the Senate, a report on the Advisory Committee’s findings and recommendations under subsection (d) and subsection (e).
 - **(g)** Non-Federal members of the Advisory Committee, while attending meetings of the Advisory Committee or while otherwise serving at the request of the head of the Advisory Committee away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the Government serving without pay. Nothing in this subsection shall be construed to prohibit members of the Advisory Committee who are officers or employees of the United States from being allowed travel expenses, including per diem in lieu of subsistence, in accordance with existing law.
-- **(h)** The Secretary of Commerce shall charter the Advisory Committee in accordance with the Federal Advisory Committee Act (5 U.S.C. App.), except that the Advisory Committee shall be exempt from section 14 of such Act.
+- **(h)** The Secretary of Commerce shall charter the Advisory Committee in accordance with the Federal Advisory Committee Act (5 U.S.C. App.), 1 except that the Advisory Committee shall be exempt from section 14 of such Act.

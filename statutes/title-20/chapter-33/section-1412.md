@@ -3,9 +3,9 @@ title: "Section 1412 - State eligibility"
 usc_title: 20
 usc_section: "1412"
 chapter: 33
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 1412"
-generated_at: "2026-03-29T19:41:03.307Z"
+generated_at: "2026-03-29T19:58:56.789Z"
 ---
 
 # § 1412. State eligibility
@@ -106,9 +106,9 @@ generated_at: "2026-03-29T19:41:03.307Z"
       - **(ii)** ensure that related services personnel who deliver services in their discipline or profession meet the requirements of clause (i) and have not had certification or licensure requirements waived on an emergency, temporary, or provisional basis; and
       - **(iii)** allow paraprofessionals and assistants who are appropriately trained and supervised, in accordance with State law, regulation, or written policy, in meeting the requirements of this subchapter to be used to assist in the provision of special education and related services under this subchapter to children with disabilities.
     - **(C)** The qualifications described in subparagraph (A) shall ensure that each person employed as a special education teacher in the State who teaches elementary school, middle school, or secondary school—
-      - **(i)** has obtained full State certification as a special education teacher (including participating in an alternate route to certification as a special educator, if such alternate route meets minimum requirements described in section 2005.56(a)(2)(ii) of title 34, Code of Federal Regulations, as such section was in effect on November 28, 2008 ), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except with respect to any teacher teaching in a public charter school who shall meet the requirements set forth in the State’s public charter school law;
+      - **(i)** has obtained full State certification as a special education teacher (including participating in an alternate route to certification as a special educator, if such alternate route meets minimum requirements described in section 2005.56(a)(2)(ii) 1 1 So in original. Probably should be “200.56(a)(2)(ii)”. of title 34, Code of Federal Regulations, as such section was in effect on November 28, 2008 ), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except with respect to any teacher teaching in a public charter school who shall meet the requirements set forth in the State’s public charter school law;
       - **(ii)** has not had special education certification or licensure requirements waived on an emergency, temporary, or provisional basis; and
-      - **(iii)** holds at least a bachelor’s degree.. 1 1 So in original.
+      - **(iii)** holds at least a bachelor’s degree.. 2 2 So in original.
     - **(D)** In implementing this section, a State shall adopt a policy that includes a requirement that local educational agencies in the State take measurable steps to recruit, hire, train, and retain personnel who meet the applicable requirements described in this paragraph to provide special education and related services under this subchapter to children with disabilities.
     - **(E)** Notwithstanding any other individual right of action that a parent or student may maintain under this subchapter, nothing in this paragraph shall be construed to create a right of action on behalf of an individual student for the failure of a particular State educational agency or local educational agency staff person to meet the applicable requirements described in this paragraph, or to prevent a parent from filing a complaint about staff qualifications with the State educational agency as provided for under this subchapter.
   - **(15)** The State—

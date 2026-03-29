@@ -3,9 +3,9 @@ title: "Section 2714 - Perfluoroalkyl Substances and Polyfluoroalkyl Substances 
 usc_title: 10
 usc_section: "2714"
 chapter: 160
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2714"
-generated_at: "2026-03-29T19:43:38.008Z"
+generated_at: "2026-03-29T19:58:02.195Z"
 ---
 
 # § 2714. Perfluoroalkyl Substances and Polyfluoroalkyl Substances Task Force
@@ -24,7 +24,9 @@ generated_at: "2026-03-29T19:43:38.008Z"
   - **(2)** Identifying, and funding the procurement of, an effective alternative to firefighting foam containing perfluoroalkyl substances or polyfluoroalkyl substances.
   - **(3)** Coordinating within the Department of Defense with respect to mitigating the effects of the release of perfluoroalkyl substances and polyfluoroalkyl substances.
   - **(4)** Assessing the perceptions of Congress and the public of the efforts of the Department of Defense with respect to mitigating the effects of the release of perfluoroalkyl substances and polyfluoroalkyl substances from activities of the Department.
-- **(f)** Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, and quarterly thereafter, the Chairman of the PFAS Task Force shall submit to Congress a report on the activities of the task force.
+  - **(5)** Supporting research efforts relating to perfluoroalkyl substances or polyfluoroalkyl substances.
+  - **(6)** Establishing practices to ensure the timely and complete dissemination of research findings and related data relating to perfluoroalkyl substances or polyfluoroalkyl substances to the general public.
+- **(f)** Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, and annually thereafter through 2029, the Chairman of the PFAS Task Force shall submit to Congress a report on the activities of the task force.
 - **(g)** In this section:
   - **(1)** The term “perfluoroalkyl substance” means a man-made chemical of which all of the carbon atoms are fully fluorinated carbon atoms.
-  - **(2)** The term “polyfluoroalkyl substance” means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.”
+  - **(2)** The term “polyfluoroalkyl substance” means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.

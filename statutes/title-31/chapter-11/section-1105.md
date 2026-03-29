@@ -3,9 +3,9 @@ title: "Section 1105 - Budget contents and submission to Congress"
 usc_title: 31
 usc_section: "1105"
 chapter: 11
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "31 U.S.C. § 1105"
-generated_at: "2026-03-29T19:42:56.097Z"
+generated_at: "2026-03-29T20:00:25.306Z"
 ---
 
 # § 1105. Budget contents and submission to Congress
@@ -47,7 +47,7 @@ generated_at: "2026-03-29T19:42:56.097Z"
     - **(B)** the missions and basic programs.
   - **(23)** separate appropriation accounts for appropriations under the Occupational Safety and Health Act of 1970 ( 29 U.S.C. 651 et seq.) and the Federal Mine Safety and Health Act of 1977 ( 30 U.S.C. 801 et seq.).
   - **(24)** recommendations on the return of Government capital to the Treasury by a mixed-ownership corporation (as defined in section 9101(2) of this title ) that the President decides are desirable.
-  - **(25)** a separate appropriation account for appropriations for each Office of Inspector General of an establishment defined under section 11(2) 1 1 See References in Text note below. of the Inspector General Act of 1978.
+  - **(25)** a separate appropriation account for appropriations for each Office of Inspector General of an establishment defined under section 401 of title 5 .
   - **(26)** a separate statement of the amount of appropriations requested for the Office of National Drug Control Policy and each program of the National Drug Control Program.
   - **(27)** a separate statement of the amount of appropriations requested for the Office of Federal Financial Management.
   - **(28)** beginning with fiscal year 1999, a Federal Government performance plan for the overall budget as provided for under section 1115.
@@ -82,7 +82,6 @@ generated_at: "2026-03-29T19:42:56.097Z"
     - **(F)** Veterans Health Administration, Medical Facilities.
     - **(G)** Veterans Health Administration, Medical Community Care.
   - **(38)** a separate statement for the Crow Settlement Fund established under section 411 of the Crow Tribe Water Rights Settlement Act of 2010, which shall include the estimated amount of deposits into the Fund, obligations, and outlays from the Fund.
-  - **(39)** the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports.
 - **(b)** Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 - **(c)** The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year available for expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the public interest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
 - **(d)** When the President submits a budget or supporting information about a budget, the President shall include a statement on all changes about the current fiscal year that were made before the budget or information was submitted.

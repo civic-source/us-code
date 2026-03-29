@@ -3,15 +3,15 @@ title: "Section 6892 - Annual report to Congress by Comptroller General"
 usc_title: 42
 usc_section: "6892"
 chapter: 81
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6892"
-generated_at: "2026-03-29T19:31:45.314Z"
+generated_at: "2026-03-29T20:00:55.055Z"
 ---
 
 # § 6892. Annual report to Congress by Comptroller General
 
 - **(a)** For each fiscal year ending before October 1, 1979 , the Comptroller General shall report to the Congress on the activities of the Secretary of Energy and the Secretary under this subchapter and any amendments to other statutes made by this subchapter. The provisions of section 771 of title 15 (relating to access by the Comptroller General to books, documents, papers, statistics, data, records, and information in the possession of the Secretary of Energy or of recipients of Federal funds) shall apply to data which relate to such activities.
-- **(b)** Each report submitted by the Comptroller General under subsection (a) of this section shall include—
+- **(b)** Each report submitted by the Comptroller General under subsection (a) shall include—
   - **(1)** an accounting, by State, of expenditures of Federal funds under each program authorized by this subchapter or by amendments made by this subchapter;
   - **(2)** an estimate of the energy savings which have resulted thereby;
   - **(3)** a thorough evaluation of the effectiveness of the programs authorized by this subchapter or by amendments made by this subchapter in achieving the energy conservation or renewable resource potential available in the sectors and regions affected by such programs;

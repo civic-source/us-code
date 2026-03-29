@@ -3,9 +3,9 @@ title: "Section 8513a - Imposition of sanctions with respect to the financial se
 usc_title: 22
 usc_section: "8513a"
 chapter: 92
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 8513a"
-generated_at: "2026-03-29T19:42:08.281Z"
+generated_at: "2026-03-29T19:59:24.313Z"
 ---
 
 # § 8513a. Imposition of sanctions with respect to the financial sector of Iran
@@ -33,7 +33,16 @@ generated_at: "2026-03-29T19:42:08.281Z"
       - **(ii)** A financial transaction conducted or facilitated by a foreign financial institution is described in this clause if—
         - **(I)** the financial transaction is only for trade in goods or services between the country with primary jurisdiction over the foreign financial institution and Iran; and
         - **(II)** any funds owed to Iran as a result of such trade are credited to an account located in the country with primary jurisdiction over the foreign financial institution.
-  - **(5)** The President may waive the imposition of sanctions under paragraph (1) for a period of not more than 120 days, and may renew that waiver for additional periods of not more than 120 days, if the President—
+  - **(5)**
+    - **(A)** For the purpose of paragraph (1)(A), a ‘significant financial transaction’ shall include, based on relevant facts and circumstances, any transaction—
+      - **(i)** by a Chinese financial institution (without regard to the size, number, frequency, or nature of the transaction) involving the purchase of petroleum or petroleum products from Iran; and
+      - **(ii)** by a foreign financial institution (without regard to the size, number, frequency, or nature of the transaction) involving the purchase of Iranian unmanned aerial vehicles (UAVs), UAV parts, or related systems.
+    - **(B)** Not later than 180 days after April 24, 2024 , and every year thereafter for 5 years, the President shall—
+      - **(i)** determine whether any—
+        - **(I)** Chinese financial institution has engaged in a significant financial transaction as described in paragraph (1)(A)(i); and
+        - **(II)** financial institution has engaged in a significant financial transaction as described in paragraph (1)(A)(ii); and
+      - **(ii)** transmit the determination under clause (i) to the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+  - **(6)** The President may waive the imposition of sanctions under paragraph (1) for a period of not more than 120 days, and may renew that waiver for additional periods of not more than 120 days, if the President—
     - **(A)** determines that such a waiver is in the national security interest of the United States; and
     - **(B)** submits to Congress a report—
       - **(i)** providing a justification for the waiver;

@@ -1,15 +1,12 @@
 ---
-title: "Section 44515 - Advanced training facilities for maintenance technicians for air carrier aircraft"
+title: "Section 44515 - Repealed. Pub. L. 118–63, title IV, § 401(a) , May 16, 2024 , 138 Stat. 1148"
 usc_title: 49
 usc_section: "44515"
 chapter: 445
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 44515"
-generated_at: "2026-03-29T19:44:57.993Z"
+generated_at: "2026-03-29T20:01:14.979Z"
 ---
 
-# § 44515. Advanced training facilities for maintenance technicians for air carrier aircraft
+# § 44515. Repealed. Pub. L. 118–63, title IV, § 401(a) , May 16, 2024 , 138 Stat. 1148
 
-- **(a)** The Administrator of the Federal Aviation Administration may make grants to not more than 4 vocational technical educational institutions to acquire or construct facilities to be used for the advanced training of maintenance technicians for air carrier aircraft.
-- **(b)** The Administrator may make a grant under this section to a vocational technical educational institution only if the institution has a training curriculum that prepares aircraft maintenance technicians who hold airframe and power plant certificates under subpart D of part 65 of title 14, Code of Federal Regulations, to maintain, without direct supervision, air carrier aircraft.
-- **(c)** A vocational technical educational institution may not receive more than a total of $5,000,000 in grants under this section.

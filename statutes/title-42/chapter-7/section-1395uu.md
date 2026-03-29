@@ -3,15 +3,15 @@ title: "Section 1395uu - Payments to promote closing or conversion of underutili
 usc_title: 42
 usc_section: "1395uu"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1395uu"
-generated_at: "2026-03-29T19:31:44.767Z"
+generated_at: "2026-03-29T20:00:54.479Z"
 ---
 
 # § 1395uu. Payments to promote closing or conversion of underutilized hospital facilities
 
 - **(a)** Any hospital may file an application with the Secretary (in such form and including such data and information as the Secretary may require) for establishment of a transitional allowance under this subchapter with respect to the closing or conversion of an underutilized hospital facility. The Secretary also may establish procedures, consistent with this section, by which a hospital, before undergoing an actual closure or conversion of a hospital facility, can have a determination made as to whether or not it will be eligible for a transitional allowance under this section with respect to such closure or conversion.
-- **(b)** If the Secretary finds, after consideration of an application under subsection (a) of this section, that—
+- **(b)** If the Secretary finds, after consideration of an application under subsection (a), that—
   - **(1)** the hospital’s closure or conversion—
     - **(A)** is formally initiated after September 30, 1981 ,
     - **(B)** is expected to benefit the program under this subchapter by (i) eliminating excess bed capacity, (ii) discontinuing an underutilized service for which there are adequate alternative sources, or (iii) substituting for the underutilized service some other service which is needed in the area, and

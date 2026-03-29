@@ -3,15 +3,15 @@ title: "Section 1562 - Special provisions relating to pension"
 usc_title: 38
 usc_section: "1562"
 chapter: 15
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 1562"
-generated_at: "2026-03-29T19:43:26.954Z"
+generated_at: "2026-03-29T20:00:42.992Z"
 ---
 
 # § 1562. Special provisions relating to pension
 
 - **(a)**
-  - **(1)** The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of section 1134a of title 10 , a special pension at the rate of $1,388.68, as adjusted from time to time under subsection (e), beginning as of the date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
+  - **(1)** The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of section 1134a of title 10 , a special pension at the rate of $1,406.73, as adjusted from time to time under subsection (e), 1 1 See Special Benefit Allowance Rates note below. beginning as of the date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
   - **(2)**
     - **(A)** Except as provided in subparagraphs (B) and (C), the Secretary shall pay special pension under this section to the surviving spouse of a person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll and a copy of whose certificate has been delivered to the Secretary under section 1134a(d) of title 10 .
     - **(B)** No special pension shall be paid to a surviving spouse of a person under this section unless such surviving spouse was married to such person—

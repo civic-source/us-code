@@ -3,9 +3,9 @@ title: "Section 4004 - Contract authority for development and demonstration of i
 usc_title: 10
 usc_section: "4004"
 chapter: 301
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4004"
-generated_at: "2026-03-29T19:43:38.053Z"
+generated_at: "2026-03-29T19:58:02.245Z"
 ---
 
 # § 4004. Contract authority for development and demonstration of initial or additional prototype units

@@ -3,9 +3,9 @@ title: "Section 7543 - State standards"
 usc_title: 42
 usc_section: "7543"
 chapter: 85
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7543"
-generated_at: "2026-03-29T19:31:45.407Z"
+generated_at: "2026-03-29T20:00:55.163Z"
 ---
 
 # § 7543. State standards
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T19:31:45.407Z"
     - **(C)** such State standards and accompanying enforcement procedures are not consistent with section 7521(a) of this title .
   - **(2)** If each State standard is at least as stringent as the comparable applicable Federal standard, such State standard shall be deemed to be at least as protective of health and welfare as such Federal standards for purposes of paragraph (1).
   - **(3)** In the case of any new motor vehicle or new motor vehicle engine to which State standards apply pursuant to a waiver granted under paragraph (1), compliance with such State standards shall be treated as compliance with applicable Federal standards for purposes of this subchapter.
-- **(c)** Whenever a regulation with respect to any motor vehicle part or motor vehicle engine part is in effect under section 7541(a)(2) of this title , no State or political subdivision thereof shall adopt or attempt to enforce any standard or any requirement of certification, inspection, or approval which relates to motor vehicle emissions and is applicable to the same aspect of such part. The preceding sentence shall not apply in the case of a State with respect to which a waiver is in effect under subsection (b) of this section.
+- **(c)** Whenever a regulation with respect to any motor vehicle part or motor vehicle engine part is in effect under section 7541(a)(2) of this title , no State or political subdivision thereof shall adopt or attempt to enforce any standard or any requirement of certification, inspection, or approval which relates to motor vehicle emissions and is applicable to the same aspect of such part. The preceding sentence shall not apply in the case of a State with respect to which a waiver is in effect under subsection (b).
 - **(d)** Nothing in this part shall preclude or deny to any State or political subdivision thereof the right otherwise to control, regulate, or restrict the use, operation, or movement of registered or licensed motor vehicles.
 - **(e)**
   - **(1)** No State or any political subdivision thereof shall adopt or attempt to enforce any standard or other requirement relating to the control of emissions from either of the following new nonroad engines or nonroad vehicles subject to regulation under this chapter—

@@ -3,9 +3,9 @@ title: "Section 1965 - Definitions"
 usc_title: 38
 usc_section: "1965"
 chapter: 19
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 1965"
-generated_at: "2026-03-29T19:43:26.982Z"
+generated_at: "2026-03-29T20:00:43.030Z"
 ---
 
 # § 1965. Definitions
@@ -18,12 +18,12 @@ For the purpose of this subchapter—
     - **(C)** full-time duty as a commissioned officer of the National Oceanic and Atmospheric Administration; and
     - **(D)** full-time duty as a cadet or midshipman at the United States Military Academy, United States Naval Academy, United States Air Force Academy, or the United States Coast Guard Academy.
   - **(2)** The term “active duty for training” means—
-    - **(A)** full-time duty in the Armed Forces performed by Reserves for training purposes;
+    - **(A)** full-time duty in the Armed Forces performed by Reserves, or by members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10 ) but not on sustained duty under section 20105 of title 10 , for training purposes;
     - **(B)** full-time duty for training purposes performed as a commissioned officer of the Reserve Corps 1 of the Public Health Service;
     - **(C)** full-time duty as a member, cadet, or midshipman of the Reserve Officers Training Corps while attending field training or practice cruises; and
     - **(D)** in the case of members of the National Guard or Air National Guard of any State, full-time duty under sections 316, 502, 503, 504, or 505 of title 32, United States Code.
   - **(3)** The term “inactive duty training” means—
-    - **(A)** duty (other than full-time duty) prescribed or authorized for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service) which duty is scheduled in advance by competent authority to begin at a specific time and place; and
+    - **(A)** duty (other than full-time duty) prescribed or authorized for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service), or for members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10 ), which duty is scheduled in advance by competent authority to begin at a specific time and place; and
     - **(B)** in the case of a member of the National Guard or Air National Guard of any State, such term means duty (other than full-time duty) which is scheduled in advance by competent authority to begin at a specific time and place under sections 316, 502, 503, 504, or 505 of title 32, United States Code.
   - **(4)** The terms “active duty for training” and “inactive duty training” do not include duty performed as a temporary member of the Coast Guard Reserve, and the term “inactive duty training” does not include (A) work or study performed in connection with correspondence courses, or (B) attendance at an educational institution in an inactive status.
   - **(5)** The term “member” means—

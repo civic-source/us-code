@@ -3,9 +3,9 @@ title: "Section 7552 - Motor vehicle compliance program fees"
 usc_title: 42
 usc_section: "7552"
 chapter: 85
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7552"
-generated_at: "2026-03-29T19:31:45.415Z"
+generated_at: "2026-03-29T20:00:55.170Z"
 ---
 
 # § 7552. Motor vehicle compliance program fees
@@ -15,5 +15,5 @@ generated_at: "2026-03-29T19:31:45.415Z"
   - **(2)** new vehicle or engine compliance monitoring and testing under section 7525(b) of this title or part C, and
   - **(3)** in-use vehicle or engine compliance monitoring and testing under section 7541(c) of this title or part C.
 - **(b)** Any fees collected under this section shall be deposited in a special fund in the United States Treasury for licensing and other services which thereafter shall be available for appropriation, to remain available until expended, to carry out the Agency’s activities for which the fees were collected.
-- **(c)** Moneys in the special fund referred to in subsection (b) of this section shall not be used until after the first fiscal year commencing after the first July 1 when fees are paid into the fund.
+- **(c)** Moneys in the special fund referred to in subsection (b) shall not be used until after the first fiscal year commencing after the first July 1 when fees are paid into the fund.
 - **(d)** Nothing in this subsection shall be construed to limit the Administrator’s authority to require manufacturer or confirmatory testing as provided in this part.

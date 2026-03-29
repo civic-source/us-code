@@ -3,9 +3,9 @@ title: "Section 5732 - Separate part of country reports"
 usc_title: 22
 usc_section: "5732"
 chapter: 66
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 5732"
-generated_at: "2026-03-29T19:42:08.207Z"
+generated_at: "2026-03-29T19:59:24.244Z"
 ---
 
 # § 5732. Separate part of country reports

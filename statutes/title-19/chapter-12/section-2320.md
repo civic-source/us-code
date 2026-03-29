@@ -3,12 +3,12 @@ title: "Section 2320 - Regulations"
 usc_title: 19
 usc_section: "2320"
 chapter: 12
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 2320"
-generated_at: "2026-03-29T19:41:21.623Z"
+generated_at: "2026-03-29T19:58:51.772Z"
 ---
 
 # § 2320. Regulations
 
-- **(a)** The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this part.
-- **(b)** Not later than 90 days before issuing a regulation under subsection (a), the Secretary shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the regulation.
+The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this part.
+

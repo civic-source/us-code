@@ -1,26 +1,23 @@
 ---
-title: "Section 629m - Data standardization for improved data matching"
+title: "Section 629m - Data exchange standards for improved interoperability"
 usc_title: 42
 usc_section: "629m"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 629m"
-generated_at: "2026-03-29T19:31:44.529Z"
+generated_at: "2026-03-29T20:00:54.201Z"
 ---
 
-# § 629m. Data standardization for improved data matching
+# § 629m. Data exchange standards for improved interoperability
 
-- **(a)**
-  - **(1)** The Secretary, in consultation with an interagency work group established by the Office of Management and Budget, and considering State perspectives, shall, by rule, designate standard data elements for any category of information required to be reported under this part.
-  - **(2)** The standard data elements designated under paragraph (1) shall, to the extent practicable, be nonproprietary and interoperable.
-  - **(3)** In designating standard data elements under this subsection, the Secretary shall, to the extent practicable, incorporate—
-    - **(A)** interoperable standards developed and maintained by an international voluntary consensus standards body, as defined by the Office of Management and Budget, such as the International Organization for Standardization;
-    - **(B)** interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model; and
-    - **(C)** interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance, such as the Federal Acquisition Regulatory Council.
-- **(b)**
-  - **(1)** The Secretary, in consultation with an interagency work group established by the Office of Management and Budget, and considering State government perspectives, shall, by rule, designate data reporting standards to govern the reporting required under this part.
-  - **(2)** The data reporting standards required by paragraph (1) shall, to the extent practicable—
-    - **(A)** incorporate a widely-accepted, non-proprietary, searchable, computer-readable format;
-    - **(B)** be consistent with and implement applicable accounting principles; and
-    - **(C)** be capable of being continually upgraded as necessary.
-  - **(3)** In designating reporting standards under this subsection, the Secretary shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Business Reporting Language.
+- **(a)** The Secretary shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, by rule, designate data exchange standards to govern, under this part and part E—
+  - **(1)** necessary categories of information that State agencies operating programs under State plans approved under this part are required under applicable Federal law to electronically exchange with another State agency; and
+  - **(2)** Federal reporting and data exchange required under applicable Federal law.
+- **(b)** The data exchange standards required by paragraph (1) shall, to the extent practicable—
+  - **(1)** incorporate a widely accepted, non-proprietary, searchable, computer-readable format, such as the Extensible Markup Language;
+  - **(2)** contain interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model;
+  - **(3)** incorporate interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance;
+  - **(4)** be consistent with and implement applicable accounting principles;
+  - **(5)** be implemented in a manner that is cost-effective and improves program efficiency and effectiveness; and
+  - **(6)** be capable of being continually upgraded as necessary.
+- **(c)** Nothing in this subsection 1 1 So in original. shall be construed to require a change to existing data exchange standards found to be effective and efficient.

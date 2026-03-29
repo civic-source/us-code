@@ -3,9 +3,9 @@ title: "Section 3994 - Eligible programs"
 usc_title: 20
 usc_section: "3994"
 chapter: 52
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 3994"
-generated_at: "2026-03-29T19:41:03.357Z"
+generated_at: "2026-03-29T19:58:56.843Z"
 ---
 
 # § 3994. Eligible programs

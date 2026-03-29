@@ -3,9 +3,9 @@ title: "Section 7295 - Savings provisions"
 usc_title: 42
 usc_section: "7295"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7295"
-generated_at: "2026-03-29T19:31:45.355Z"
+generated_at: "2026-03-29T20:00:55.107Z"
 ---
 
 # § 7295. Savings provisions
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:31:45.355Z"
 - **(b)**
   - **(1)** The provisions of this chapter shall not affect any proceedings or any application for any license, permit, certificate, or financial assistance pending on October 1, 1977 , before any department, agency, commission, or component thereof, functions of which are transferred by this chapter; but such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this chapter had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this chapter had not been enacted.
   - **(2)** The Secretary and the Commission are authorized to promulgate regulations providing for the orderly transfer of such proceedings to the Department or the Commission.
-- **(c)** Except as provided in subsection (e) of this section—
+- **(c)** Except as provided in subsection (e)—
   - **(1)** the provisions of this chapter shall not affect suits commenced prior to October 1, 1977 , and
   - **(2)** in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and effect as if this chapter had not been enacted.
 - **(d)** No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of any department or agency, functions of which are transferred by this chapter, shall abate by reason of the enactment of this chapter. No cause of action by or against any department or agency, functions of which are transferred by this chapter, or by or against any officer thereof in his official capacity shall abate by reason of the enactment of this chapter.

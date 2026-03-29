@@ -3,9 +3,9 @@ title: "Section 431 - Benefits for certain individuals interned by United States
 usc_title: 42
 usc_section: "431"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 431"
-generated_at: "2026-03-29T19:31:44.508Z"
+generated_at: "2026-03-29T20:00:54.171Z"
 ---
 
 # § 431. Benefits for certain individuals interned by United States during World War II

@@ -1,14 +1,12 @@
 ---
-title: "Section 3797e - Authorization of appropriations"
+title: "Section 3797e - Repealed. Pub. L. 115–141, div. S, title V, § 502(5) , Mar. 23, 2018 , 132 Stat. 1131"
 usc_title: 42
 usc_section: "3797e"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3797e"
-generated_at: "2026-03-29T19:31:45.130Z"
+generated_at: "2026-03-29T20:00:54.884Z"
 ---
 
-# § 3797e. Authorization of appropriations
-
-There are authorized to be appropriated to carry out this subchapter $30,000,000 for each of fiscal years 2001 through 2009.
+# § 3797e. Repealed. Pub. L. 115–141, div. S, title V, § 502(5) , Mar. 23, 2018 , 132 Stat. 1131
 

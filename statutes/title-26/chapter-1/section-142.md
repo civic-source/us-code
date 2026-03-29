@@ -3,9 +3,9 @@ title: "Section 142 - Exempt facility bond"
 usc_title: 26
 usc_section: "142"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 142"
-generated_at: "2026-03-29T19:42:47.550Z"
+generated_at: "2026-03-29T19:59:49.142Z"
 ---
 
 # § 142. Exempt facility bond
@@ -245,7 +245,7 @@ generated_at: "2026-03-29T19:42:47.550Z"
 - **(o)**
   - **(1)** For purposes of subsection (a)(17), the term “qualified carbon dioxide capture facility” means—
     - **(A)** the eligible components of an industrial carbon dioxide facility, and
-    - **(B)** a direct air capture facility (as defined in section 45Q(e)(1)).
+    - **(B)** a direct air capture facility (as defined in section 45Q(e)(3)).
   - **(2)** For purposes of this subsection:
     - **(A)**
       - **(i)** The term “eligible component” means any equipment which is installed in an industrial carbon dioxide facility that satisfies the requirements under paragraph (3) and which is—
@@ -265,7 +265,7 @@ generated_at: "2026-03-29T19:42:47.550Z"
         - **(I)** any geological gas facility, or
         - **(II)** any air separation unit that—
       - **(iii)** For purposes of this subparagraph—
-        - **(I)** The term “petroleum residue”means the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing.
+        - **(I)** The term “petroleum residue” means the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing.
         - **(II)** The term “geological gas facility” means a facility that—
   - **(3)**
     - **(A)** Subject to subparagraph (B), the eligible components of an industrial carbon dioxide facility satisfies the requirements of this paragraph if such eligible components are designed to have a capture and storage percentage (as determined under subparagraph (C)) that is equal to or greater than 65 percent.

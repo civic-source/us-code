@@ -3,9 +3,9 @@ title: "Section 590 - Child care"
 usc_title: 40
 usc_section: "590"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "40 U.S.C. § 590"
-generated_at: "2026-03-29T19:43:21.245Z"
+generated_at: "2026-03-29T20:00:35.875Z"
 ---
 
 # § 590. Child care
@@ -40,3 +40,9 @@ generated_at: "2026-03-29T19:43:21.245Z"
   - **(3)** Amounts used pursuant to paragraph (2) shall be applied to improve the affordability of child care for lower income federal employees using or seeking to use the child care services.
   - **(4)** Notwithstanding section 3324 of title 31 , amounts may be paid in advance to licensed or regulated child care providers for services to be rendered during an agreed period.
   - **(5)** No amounts made available by law may be used to implement this subsection without advance notice to the Committees on Appropriations of the House of Representatives and the Senate.
+  - **(6)** This subsection shall apply with respect to the House of Representatives in the same manner as it applies to an Executive agency, except that—
+    - **(A)** the authority granted to the Office of Personnel Management shall be exercised with respect to the House of Representatives by the Speaker of the House of Representatives in accordance with regulations promulgated by the Committee on House Administration; and
+    - **(B)** amounts may be made available to implement this subsection with respect to the House of Representatives without advance notice to the Committee on Appropriations of the Senate.
+  - **(7)** This subsection shall apply with respect to the Senate in the same manner as it applies to an Executive agency, except that—
+    - **(A)** the authority granted to the Office of Personnel Management shall be exercised with respect to the Senate, by the Majority and Minority Leaders of the Senate, in accordance with regulations promulgated by the Committee on Rules and Administration of the Senate; and
+    - **(B)** amounts may be made available to implement this subsection with respect to the Senate without advance notice to the Committee on Appropriations of the House of Representatives.

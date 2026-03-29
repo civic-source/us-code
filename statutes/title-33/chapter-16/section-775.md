@@ -1,14 +1,12 @@
 ---
-title: "Section 775 - Payments nonassignable and exempt from process"
+title: "Section 775 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(17) , Dec. 23, 2022 , 136 Stat. 4166"
 usc_title: 33
 usc_section: "775"
 chapter: 16
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 775"
-generated_at: "2026-03-29T19:43:07.596Z"
+generated_at: "2026-03-29T20:00:31.276Z"
 ---
 
-# § 775. Payments nonassignable and exempt from process
-
-No payment under sections 771 to 775 1 1 See References in Text note below. of this title shall be assignable, either in law or in equity, or be subject to execution, levy, lien, attachment, garnishment, or other legal process.
+# § 775. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(17) , Dec. 23, 2022 , 136 Stat. 4166
 

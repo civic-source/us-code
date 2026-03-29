@@ -3,14 +3,14 @@ title: "Section 3603 - Software acquisition pathways"
 usc_title: 10
 usc_section: "3603"
 chapter: 253
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3603"
-generated_at: "2026-03-29T02:10:45.191Z"
+generated_at: "2026-03-29T19:58:02.235Z"
 ---
 
 # § 3603. Software acquisition pathways
 
-- **(a)** The Secretary of Defense shall establish pathways as described under subsection (b) to provide for the efficient and effective acquisition, development, integration, and timely delivery of software and covered hardware.
+- **(a)** The Secretary of Defense shall establish pathways as described under subsection (b) to provide for the efficient and effective acquisition, development, integration, and timely delivery of software and covered hardware. Such a pathway shall include the following: 1 1 So in original.
 - **(b)** The Secretary of Defense may establish as many pathways under this section as the Secretary determines appropriate and shall establish the following pathways:
   - **(1)** The applications pathway shall provide for the use of rapid development and implementation of applications and other software or software improvements operated by the Department of Defense, which may include applications and associated procurement of covered hardware (including modifications of a type not customarily available in the commercial marketplace to meet Department requirements), commercially available cloud computing platforms, and other nondevelopmental items.
   - **(2)** The embedded systems pathway shall provide for the rapid development and insertion of upgrades and improvements for software and covered hardware embedded in weapon systems and other hardware systems unique to the Department of Defense.

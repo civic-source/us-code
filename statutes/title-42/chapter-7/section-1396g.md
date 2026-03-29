@@ -3,9 +3,9 @@ title: "Section 1396g - State programs for licensing of administrators of nursin
 usc_title: 42
 usc_section: "1396g"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1396g"
-generated_at: "2026-03-29T19:31:44.821Z"
+generated_at: "2026-03-29T20:00:54.541Z"
 ---
 
 # § 1396g. State programs for licensing of administrators of nursing homes
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T19:31:44.821Z"
   - **(4)** establish and carry out procedures designed to insure that individuals licensed as nursing home administrators will, during any period that they serve as such, comply with the requirements of such standards;
   - **(5)** receive, investigate, and take appropriate action with respect to, any charge or complaint filed with the board to the effect that any individual licensed as a nursing home administrator has failed to comply with the requirements of such standards; and
   - **(6)** conduct a continuing study and investigation of nursing homes and administrators of nursing homes within the State with a view to the improvement of the standards imposed for the licensing of such administrators and of procedures and methods for the enforcement of such standards with respect to administrators of nursing homes who have been licensed as such.
-- **(d)** No State shall be considered to have failed to comply with the provisions of section 1396a(a)(29) of this title because the agency or board of such State (established pursuant to subsection (b) of this section) shall have granted any waiver, with respect to any individual who, during all of the three calendar years immediately preceding the calendar year in which the requirements prescribed in section 1396a(a)(29) of this title are first met by the State, has served as a nursing home administrator, of any of the standards developed, imposed, and enforced by such agency or board pursuant to subsection (c) of this section.
+- **(d)** No State shall be considered to have failed to comply with the provisions of section 1396a(a)(29) of this title because the agency or board of such State (established pursuant to subsection (b)) shall have granted any waiver, with respect to any individual who, during all of the three calendar years immediately preceding the calendar year in which the requirements prescribed in section 1396a(a)(29) of this title are first met by the State, has served as a nursing home administrator, of any of the standards developed, imposed, and enforced by such agency or board pursuant to subsection (c).
 - **(e)** As used in this section, the term—
   - **(1)** “nursing home” means any institution or facility defined as such for licensing purposes under State law, or, if State law does not employ the term nursing home, the equivalent term or terms as determined by the Secretary, but does not include a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title ). 1 1 So in original. The period probably should be “; and”.
   - **(2)** “nursing home administrator” means any individual who is charged with the general administration of a nursing home whether or not such individual has an ownership interest in such home and whether or not his functions and duties are shared with one or more other individuals.

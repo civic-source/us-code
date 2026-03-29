@@ -3,9 +3,9 @@ title: "Section 3002 - Definitions"
 usc_title: 38
 usc_section: "3002"
 chapter: 30
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3002"
-generated_at: "2026-03-29T19:43:27.000Z"
+generated_at: "2026-03-29T20:00:43.055Z"
 ---
 
 # § 3002. Definitions
@@ -25,3 +25,4 @@ For the purposes of this chapter—
   - **(6)** The term “active duty” does not include any period during which an individual (A) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (B) served as a cadet or midshipman at one of the service academies, or (C) served under the provisions of section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve.
   - **(7)** The term “active duty” includes full-time National Guard duty first performed after June 30, 1985 , by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member’s status as a member of the National Guard of a State for the purpose of organizing, administering, recruiting, instructing, or training the National Guard.
   - **(8)** The term “educational institution” has the meaning given such term in section 3452(c) of this title .
+  - **(9)** The term “emergency situation” has the meaning given such term in section 3601 of this title .

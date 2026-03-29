@@ -3,19 +3,21 @@ title: "Section 5f - Beach nourishment"
 usc_title: 42
 usc_section: "5f"
 chapter: 19
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5f"
-generated_at: "2026-03-29T19:31:44.987Z"
+generated_at: "2026-03-29T20:00:54.737Z"
 ---
 
 # § 1962d–5f. Beach nourishment
 
 - **(a)** The Secretary of the Army, acting through the Chief of Engineers, is authorized to provide periodic beach nourishment in the case of each water resources development project where such nourishment has been authorized for a limited period for such additional period as he determines necessary but in no event shall such additional period extend beyond the fiftieth year which begins after the date of initiation of construction of such project.
-- **(b)** Notwithstanding subsection (a), the Secretary shall, at the request of the non-Federal interest, carry out a study to determine the feasibility of extending the period of nourishment described in subsection (a) for a period not to exceed 15 additional years beyond the maximum period described in subsection (a).
+- **(b)**
+  - **(1)** Notwithstanding subsection (a), the Secretary shall, at the request of the non-Federal interest, carry out a study to determine the feasibility of extending the period of nourishment described in subsection (a) for a period not to exceed 50 additional years beyond the maximum period described in subsection (a).
+  - **(2)** The additional years provided under paragraph (1) shall begin on the date of initiation of construction of congressionally authorized nourishment.
 - **(c)**
   - **(1)** As part of the review described in subsection (b), the non-Federal interest shall submit to the Secretary a plan for reducing risk to people and property during the life of the project.
   - **(2)** The Secretary shall include the plan described in subsection (a) in the recommendations to Congress described in subsection (d).
 - **(d)** Upon completion of the review described in subsection (b), the Secretary shall—
   - **(1)** submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives any recommendations of the Secretary related to the review; and
   - **(2)** include in the subsequent annual report to Congress required under section 2282d of title 33 , any recommendations that require specific congressional authorization.
-- **(e)** Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 5 year-period beginning on June 10, 2014 , that project shall remain eligible for nourishment for an additional 3 years after the expiration of such period.
+- **(e)** Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 16-year period beginning on June 10, 2014 , that project shall remain eligible for nourishment for an additional 12 years after the expiration of such period.

@@ -3,15 +3,15 @@ title: "Section 3505 - Submission of other information"
 usc_title: 41
 usc_section: "3505"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "41 U.S.C. § 3505"
-generated_at: "2026-03-29T19:31:15.754Z"
+generated_at: "2026-03-29T19:59:34.760Z"
 ---
 
 # § 3505. Submission of other information
 
 - **(a)** When certified cost or pricing data are not required to be submitted under this chapter for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in section 3503(a)(1) of this title , the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
 - **(b)** The Federal Acquisition Regulation shall include the following provisions regarding the types of information that contracting officers may require under subsection (a):
-  - **(1)** Reasonable limitations on requests for sales data relating to commercial items.
-  - **(2)** A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial items from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
-  - **(3)** A statement that any information received relating to commercial items that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
+  - **(1)** Reasonable limitations on requests for sales data relating to commercial products or commercial services.
+  - **(2)** A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial products or commercial services from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
+  - **(3)** A statement that any information received relating to commercial products or commercial services that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.

@@ -3,9 +3,9 @@ title: "Section 2869 - Exchange of property at military installations"
 usc_title: 10
 usc_section: "2869"
 chapter: 169
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2869"
-generated_at: "2026-03-29T19:43:38.019Z"
+generated_at: "2026-03-29T19:58:02.209Z"
 ---
 
 # § 2869. Exchange of property at military installations
@@ -17,10 +17,10 @@ generated_at: "2026-03-29T19:43:38.019Z"
     - **(B)** that is located on a military installation not covered by subparagraph (A) and for which the Secretary concerned makes a determination that the conveyance under paragraph (1) is advantageous to the United States.
   - **(3)**
     - **(A)** The Secretary of Defense shall establish a pilot program under which the Secretary concerned, during the term of the pilot program, may use the authority provided by paragraph (1) to also convey real property, including any improvements thereon, described in paragraph (2) to any person who agrees, in exchange for the real property, to provide—
-      - **(i)** installation-support services (as defined in 2679(e) 1 1 See References in Text note below. of this title); or
+      - **(i)** installation-support services (as defined in section 2679(f) of this title ); or
       - **(ii)** a new facility or improvements to an existing facility.
     - **(B)** The acquisition of a facility or improvements to an existing facility using the authority provided by subparagraph (A) shall not be treated as a military construction project for which an authorization is required by section 2802 of this title .
-    - **(C)** The expanded conveyance authority provided by subparagraph (A) applies only during the five-year period beginning on the date on which the Secretary of Defense issues guidance regarding the use by the Secretaries concerned of such authority.
+    - **(C)** The expanded conveyance authority provided by subparagraph (A) applies only during the eight-year period beginning on the date on which the Secretary of Defense issues guidance regarding the use by the Secretaries concerned of such authority.
 - **(b)**
   - **(1)** The fair market value of the real property, installation-support services, or facility or improvements to an existing facility obtained by the Secretary concerned under subsection (a) in exchange for the conveyance of real property by the Secretary under such subsection shall be at least equal to the fair market value of the conveyed real property, as determined by the Secretary. If the fair market value of the real property conveyed by the Secretary concerned exceeds the fair market value of the real property, installation-support services, or facility or improvements received by the Secretary, the recipient of the property shall pay to the United States an amount equal to the difference in the fair market values.
   - **(2)** In the case of a conveyance of real property to a political subdivision of a State, the value of the real property to be conveyed by the Secretary concerned under subsection (a) may exceed the fair market value of the land to be obtained, as determined under paragraph (1), by an amount not to exceed the reduction in value of the land which is attributable to voluntary zoning actions taken by such political subdivision to limit encroachment on a military installation, but only if the notice required by subsection (d)(2) contains—
@@ -37,7 +37,7 @@ generated_at: "2026-03-29T19:43:38.019Z"
     - **(A)** the Secretary submits to Congress notice of the conveyance, including—
       - **(i)** a description of the real property to be conveyed by the Secretary under the agreement;
       - **(ii)** a description of the land acquisition to be carried out under the agreement in exchange for the conveyance of the property; and
-      - **(iii)** the amount of any payment to be made under subsection (b) or under section 2684a(d) of this title to equalize the fair market values of the property to be conveyed and the land acquisition to be carried out under the agreement in exchange for the conveyance of the property; and
+      - **(iii)** the amount of any payment to be made under subsection (b) or under section 2684a(d) 1 1 See References in Text note below. of this title to equalize the fair market values of the property to be conveyed and the land acquisition to be carried out under the agreement in exchange for the conveyance of the property; and
     - **(B)** the waiting period applicable to that notice under paragraph (3) expires.
   - **(3)** If the notice submitted under paragraph (2) deals with the conveyance of real property located on a military installation that is closed or realigned under a base closure law or the conveyance of real property under an agreement entered into under section 2684a of this title , the Secretary concerned may enter into the agreement under subsection (a) for the conveyance of the property after the end of the 14-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title . In the case of other real property to be conveyed under subsection (a), the Secretary concerned may enter into the agreement only after the end of the 45-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title .
 - **(e)** The Secretary concerned shall deposit funds received under subsection (b) in the appropriation “Foreign Currency Fluctuations, Construction, Defense”. The funds deposited shall be available, in such amounts as provided in appropriation Acts, for the purpose of paying increased costs of overseas military construction and family housing construction or improvement associated with unfavorable fluctuations in currency exchange rates. The use of such funds for this purpose does not relieve the Secretary concerned from the duty to provide advance notice to Congress under section 2853(c) of this title whenever the Secretary approves an increase in the cost of an overseas project under such section.

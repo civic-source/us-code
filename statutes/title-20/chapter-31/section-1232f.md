@@ -3,9 +3,9 @@ title: "Section 1232f - Records"
 usc_title: 20
 usc_section: "1232f"
 chapter: 31
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 1232f"
-generated_at: "2026-03-29T19:41:03.299Z"
+generated_at: "2026-03-29T19:58:56.780Z"
 ---
 
 # § 1232f. Records

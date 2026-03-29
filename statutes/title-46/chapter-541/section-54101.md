@@ -3,9 +3,9 @@ title: "Section 54101 - Assistance for small shipyards"
 usc_title: 46
 usc_section: "54101"
 chapter: 541
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 54101"
-generated_at: "2026-03-29T19:44:39.466Z"
+generated_at: "2026-03-29T20:01:03.941Z"
 ---
 
 # § 54101. Assistance for small shipyards
@@ -45,7 +45,9 @@ generated_at: "2026-03-29T19:44:39.466Z"
       - **(iii)** The term “United States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
 - **(e)**
   - **(1)** Federal funds for any eligible project under this section shall not exceed 75 percent of the total cost of such project.
-  - **(2)** The Administrator may not award more than 25 percent of the funds appropriated to carry out this section for any fiscal year to any small shipyard in one geographic location that has more than 600 employees.
+  - **(2)**
+    - **(A)** The Administrator may not award more than 25 percent of the funds made available to carry out this section for any fiscal year to any small shipyard in one geographic location that has more than 600 employees.
+    - **(B)** A maritime training center that has received funds awarded under section 51706 of title 46 , United States Code, shall not be eligible for grants under this subsection for training purposes in the same fiscal year.
 - **(f)**
   - **(1)** To be eligible for assistance under this section, an applicant shall submit an application, in such form, and containing such information and assurances as the Administrator may require, within 60 days after the date of enactment of the appropriations Act for the fiscal year concerned.
   - **(2)** Each application submitted under paragraph (1) shall include a comprehensive description of—
@@ -62,4 +64,3 @@ generated_at: "2026-03-29T19:44:39.466Z"
     - **(C)** the recipient has authority to carry out the proposed project.
 - **(g)** All grantees under this section shall maintain such records as the Administrator may require and make such records available for review and audit by the Administrator.
 - **(h)** In this section, the term “small shipyard” means a shipyard facility in one geographic location that does not have more than 1,200 employees.
-- **(i)** There are authorized to be appropriated to the Administrator of the Maritime Administration for fiscal year 2021 to carry out this section $20,000,000.

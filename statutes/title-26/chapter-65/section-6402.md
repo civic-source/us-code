@@ -3,16 +3,16 @@ title: "Section 6402 - Authority to make credits or refunds"
 usc_title: 26
 usc_section: "6402"
 chapter: 65
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 6402"
-generated_at: "2026-03-29T19:42:47.978Z"
+generated_at: "2026-03-29T19:59:49.606Z"
 ---
 
 # § 6402. Authority to make credits or refunds
 
 - **(a)** In the case of any overpayment, the Secretary, within the applicable period of limitations, may credit the amount of such overpayment, including any interest allowed thereon, against any liability in respect of an internal revenue tax on the part of the person who made the overpayment and shall, subject to subsections (c), (d), (e), and (f), refund any balance to such person.
 - **(b)** The Secretary is authorized to prescribe regulations providing for the crediting against the estimated income tax for any taxable year of the amount determined by the taxpayer or the Secretary to be an overpayment of the income tax for a preceding taxable year.
-- **(c)** The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person’s future liability for an internal revenue tax.
+- **(c)** The amount of any overpayment to be refunded to the person making the overpayment shall be reduced by the amount of any past-due support (as defined in section 464(c) of the Social Security Act) owed by that person of which the Secretary has been notified by a State in accordance with section 464 of such Act. The Secretary shall remit the amount by which the overpayment is so reduced to the State collecting such support and notify the person making the overpayment that so much of the overpayment as was necessary to satisfy his obligation for past-due support has been paid to the State. The Secretary shall apply a reduction under this subsection first to an amount certified by the State as past due support under section 464 of the Social Security Act before any other reductions allowed by law. This subsection shall be applied to an overpayment prior to its being credited to a person’s future liability for an internal revenue tax. For purposes of this subsection, any reference to a State shall include a reference to any Indian tribe or tribal organization receiving a grant under section 455(f) of the Social Security Act.
 - **(d)**
   - **(1)** Upon receiving notice from any Federal agency that a named person owes a past-due legally enforceable debt (other than past-due support subject to the provisions of subsection (c)) to such agency, the Secretary shall—
     - **(A)** reduce the amount of any overpayment payable to such person by the amount of such debt;

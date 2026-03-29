@@ -3,9 +3,9 @@ title: "Section 474 - Powers of Secretary of Agriculture; appropriation"
 usc_title: 7
 usc_section: "474"
 chapter: 19
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 474"
-generated_at: "2026-03-29T19:43:58.055Z"
+generated_at: "2026-03-29T19:57:38.949Z"
 ---
 
 # § 474. Powers of Secretary of Agriculture; appropriation

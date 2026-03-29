@@ -3,9 +3,9 @@ title: "Section 3387 - Funding"
 usc_title: 22
 usc_section: "3387"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 3387"
-generated_at: "2026-03-29T02:12:40.289Z"
+generated_at: "2026-03-29T19:59:24.178Z"
 ---
 
 # § 3387. Funding

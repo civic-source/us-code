@@ -3,9 +3,9 @@ title: "Section 4123 - Authority of Attending Physician in response to medical c
 usc_title: 2
 usc_section: "4123"
 chapter: 41
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 4123"
-generated_at: "2026-03-29T19:42:59.688Z"
+generated_at: "2026-03-29T19:56:57.249Z"
 ---
 
 # § 4123. Authority of Attending Physician in response to medical contingencies or public health emergencies at Capitol

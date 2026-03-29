@@ -3,9 +3,9 @@ title: "Section 3152 - Grants and fellowships for food and agricultural sciences
 usc_title: 7
 usc_section: "3152"
 chapter: 64
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 3152"
-generated_at: "2026-03-29T19:43:58.285Z"
+generated_at: "2026-03-29T19:57:39.317Z"
 ---
 
 # § 3152. Grants and fellowships for food and agricultural sciences education
@@ -51,7 +51,7 @@ generated_at: "2026-03-29T19:43:58.285Z"
     - **(E)** to facilitate joint initiatives by the grant recipient with other secondary schools, institutions of higher education that award an associate’s degree, and institutions of higher education that award a bachelor’s degree to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve agriscience and agribusiness education;
     - **(F)** to support other initiatives designed to meet local, State, regional, or national needs related to promoting excellence in agriscience and agribusiness education; and
     - **(G)** to support current agriculture in the classroom programs for grades K–12.
-- **(k)** The Federal Advisory Committee Act and title XVIII of the Food and Agriculture Act of 1977 ( 7 U.S.C. 2281 et seq.) shall not apply to a panel or board created for the purpose of reviewing applications and proposals for grants or nominations for awards submitted under this section.
+- **(k)** Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 ( 7 U.S.C. 2281 et seq.) shall not apply to a panel or board created for the purpose of reviewing applications and proposals for grants or nominations for awards submitted under this section.
 - **(l)** The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a biennial report detailing the distribution of funds used to implement the teaching programs under subsection (j).
 - **(m)** There are authorized to be appropriated for carrying out this section—
   - **(1)** $60,000,000 for each of fiscal years 1990 through 2013; and

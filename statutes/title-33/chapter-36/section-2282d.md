@@ -3,9 +3,9 @@ title: "Section 2282d - Annual report to Congress"
 usc_title: 33
 usc_section: "2282d"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2282d"
-generated_at: "2026-03-29T19:43:07.696Z"
+generated_at: "2026-03-29T20:00:31.389Z"
 ---
 
 # § 2282d. Annual report to Congress
@@ -58,8 +58,9 @@ generated_at: "2026-03-29T19:43:07.696Z"
         - **(V)** section 2326 of this title ;
         - **(VI)** section 701s of this title ;
         - **(VII)** section 2330 of this title ;
-        - **(VIII)** section 701g of this title ; and
-        - **(IX)** section 2309a of this title .
+        - **(VIII)** section 701g of this title ;
+        - **(IX)** section 2309a of this title ; and
+        - **(X)** section 2289b of this title .
   - **(2)** The Secretary shall include in the annual report, for each feasibility report, proposed feasibility study, and proposed modification to an authorized water resources development project or feasibility study included under paragraph (1)(A)—
     - **(A)** the name of the associated non-Federal interest, including the name of any non-Federal interest that has contributed, or is expected to contribute, a non-Federal share of the cost of—
       - **(i)** the feasibility report;
@@ -92,7 +93,9 @@ generated_at: "2026-03-29T19:43:07.696Z"
   - **(1)** not later than 60 days after June 10, 2014 , publish in the Federal Register a notice required by subsection (b)(1); and
   - **(2)** include in such notice a requirement that non-Federal interests submit to the Secretary any proposals described in subsection (b)(1) by not later than 120 days after the date of publication of such notice in the Federal Register in order for such proposals to be considered for inclusion in the first annual report developed by the Secretary under this section.
 - **(f)** Upon submission of an annual report to Congress, the Secretary shall make the annual report publicly available, including through publication on the Internet.
-- **(g)** In this section:
+- **(g)** After the publication of the annual report under subsection (f), if the proposal of a non-Federal interest submitted under subsection (b) was included by the Secretary in the appendix under subsection (c)(4), the Secretary shall provide written notification to the non-Federal interest of such inclusion.
+- **(h)** Not later than 30 days after the publication of the annual report under subsection (f), for each proposal included in that annual report or appendix, the Secretary shall notify each Member of Congress that represents the State in which that proposal will be located that the proposal was included the annual report or the appendix.
+- **(i)** In this section:
   - **(1)** The term “annual report” means a report required by subsection (a).
   - **(2)**
     - **(A)** The term “feasibility report” means a final feasibility report developed under section 2282 of this title .

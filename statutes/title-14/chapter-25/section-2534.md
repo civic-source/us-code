@@ -1,15 +1,12 @@
 ---
-title: "Section 2534 - Application for benefits"
+title: "Section 2534 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18) , Dec. 23, 2022 , 136 Stat. 4166 ]"
 usc_title: 14
 usc_section: "2534"
 chapter: 25
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "14 U.S.C. § 2534"
-generated_at: "2026-03-29T19:45:04.316Z"
+generated_at: "2026-03-29T19:58:08.524Z"
 ---
 
-# § 2534. Application for benefits
+# [§§ 2531 to 2534. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18) , Dec. 23, 2022 , 136 Stat. 4166 ]
 
-- **(a)** Application for the benefits of section 2533 shall be made in such manner and form as the Civil Service Commission 1 1 See Transfer of Functions note below. shall prescribe.
-- **(b)** The Civil Service Commission 1 shall perform, or cause to be performed, such acts, and shall make such rules and regulations, as may be necessary or proper to carry out section 2533.
-- **(c)** That 2 2 So in original. annuities authorized by section 2533 may hereafter be paid out of the Civil Service Retirement and Disability Fund.

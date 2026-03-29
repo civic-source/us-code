@@ -3,9 +3,9 @@ title: "Section 2012a - Publicly operated community health centers"
 usc_title: 7
 usc_section: "2012a"
 chapter: 51
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 2012a"
-generated_at: "2026-03-29T19:43:58.220Z"
+generated_at: "2026-03-29T19:57:39.110Z"
 ---
 
 # § 2012a. Publicly operated community health centers

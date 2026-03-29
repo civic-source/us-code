@@ -1,18 +1,12 @@
 ---
-title: "Section 10603e - Crime victims notification grants"
+title: "Section 10603e - Transferred"
 usc_title: 42
 usc_section: "10603e"
 chapter: 112
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 10603e"
-generated_at: "2026-03-29T19:31:45.590Z"
+generated_at: "2026-03-29T20:00:55.356Z"
 ---
 
-# § 10603e. Crime victims notification grants
+# § 10603e. Transferred
 
-- **(a)** The Director may make grants as provided in section 10603(c)(1)(A) of this title to State, tribal, and local prosecutors’ offices, law enforcement agencies, courts, jails, and correctional institutions, and to qualified public or private entities, to develop and implement state-of-the-art systems for notifying victims of crime of important dates and developments relating to the criminal proceedings at issue in a timely and efficient manner, provided that the jurisdiction has laws substantially equivalent to the provisions of chapter 237 of title 18.
-- **(b)** Systems developed and implemented under this section may be integrated with existing case management systems operated by the recipient of the grant.
-- **(c)** In addition to funds made available under section 10601(d) of this title , there are authorized to be appropriated to carry out this section—
-  - **(1)** $5,000,000 for fiscal year 2005; and
-  - **(2)** $5,000,000 for each of the fiscal years 2006, 2007, 2008, and 2009.
-- **(d)** Notwithstanding any other provision of law, amounts collected pursuant to sections 3729 through 3731 of title 31 (commonly known as the “False Claims Act”) may be used for grants under this section, subject to appropriation.

@@ -3,9 +3,9 @@ title: "Section 7516 - Settlement and adjustment of claims"
 usc_title: 7
 usc_section: "7516"
 chapter: 102
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 7516"
-generated_at: "2026-03-29T19:43:58.416Z"
+generated_at: "2026-03-29T19:57:39.453Z"
 ---
 
 # § 7516. Settlement and adjustment of claims

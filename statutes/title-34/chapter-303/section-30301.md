@@ -3,9 +3,9 @@ title: "Section 30301 - Findings"
 usc_title: 34
 usc_section: "30301"
 chapter: 303
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 30301"
-generated_at: "2026-03-29T19:42:53.179Z"
+generated_at: "2026-03-29T20:00:27.502Z"
 ---
 
 # § 30301. Findings

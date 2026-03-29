@@ -1,14 +1,12 @@
 ---
-title: "Section 14222 - Coordination of substance abuse treatment and prevention programs"
+title: "Section 14222 - Transferred"
 usc_title: 42
 usc_section: "14222"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14222"
-generated_at: "2026-03-29T19:31:45.776Z"
+generated_at: "2026-03-29T20:00:55.493Z"
 ---
 
-# § 14222. Coordination of substance abuse treatment and prevention programs
-
-The Attorney General shall consult with the Secretary of the Department of Health and Human Services in establishing and carrying out the substance abuse treatment and prevention components of the programs authorized under this Act, to assure coordination of programs, eliminate duplication of efforts and enhance the effectiveness of such services.
+# § 14222. Transferred
 

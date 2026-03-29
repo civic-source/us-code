@@ -3,9 +3,9 @@ title: "Section 3521 - Audits by agencies"
 usc_title: 31
 usc_section: "3521"
 chapter: 35
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "31 U.S.C. § 3521"
-generated_at: "2026-03-29T19:42:56.117Z"
+generated_at: "2026-03-29T20:00:25.331Z"
 ---
 
 # § 3521. Audits by agencies
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T19:42:56.117Z"
   - **(1)** affect the liability, or authorize the relief, of a payee, beneficiary, or recipient of an illegal, improper, or incorrect payment; or
   - **(2)** relieve a disbursing or certifying official, the head of an agency, or the Comptroller General of responsibility in carrying out collection action against a payee, beneficiary, or recipient.
 - **(e)** Each financial statement prepared under section 3515 by an agency shall be audited in accordance with applicable generally accepted government auditing standards—
-  - **(1)** in the case of an agency having an Inspector General appointed under the Inspector General Act of 1978 (5 U.S.C. App.), by the Inspector General or by an independent external auditor, as determined by the Inspector General of the agency; and
+  - **(1)** in the case of an agency having an Inspector General appointed under chapter 4 of title 5, by the Inspector General or by an independent external auditor, as determined by the Inspector General of the agency; and
   - **(2)** in any other case, by an independent external auditor, as determined by the head of the agency.
 - **(f)** For each audited financial statement required under subsection (a) of section 3515 of this title , the person who audits the statement for purpose of subsection (e) of this section shall submit a report on the audit to the head of the agency and the Controller of the Office of Federal Financial Management. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards.
 - **(g)** The Comptroller General of the United States—

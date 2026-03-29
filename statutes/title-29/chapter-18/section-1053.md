@@ -3,9 +3,9 @@ title: "Section 1053 - Minimum vesting standards"
 usc_title: 29
 usc_section: "1053"
 chapter: 18
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "29 U.S.C. § 1053"
-generated_at: "2026-03-29T19:42:21.480Z"
+generated_at: "2026-03-29T19:59:56.630Z"
 ---
 
 # § 1053. Minimum vesting standards
@@ -83,7 +83,7 @@ generated_at: "2026-03-29T19:42:21.480Z"
       - **(v)** A plan may provide that no credit will be given pursuant to this subparagraph unless the individual furnishes to the plan administrator such timely information as the plan may reasonably require to establish—
         - **(I)** that the absence from work is for reasons referred to in clause (i), and
         - **(II)** the number of days for which there was such an absence.
-  - **(4)**
+  - **(4)** Cross references
     - **(A)** For definitions of “accrued benefit” and “normal retirement age”, see sections 1002(23) and (24) of this title.
     - **(B)** For effect of certain cash out distributions, see section 1054(d)(1) of this title .
 - **(c)**
@@ -93,7 +93,7 @@ generated_at: "2026-03-29T19:42:21.480Z"
   - **(2)** Subsection (a) shall not apply to benefits which may not be provided for designated employees in the event of early termination of the plan under provisions of the plan adopted pursuant to regulations prescribed by the Secretary of the Treasury to preclude the discrimination prohibited by section 401(a)(4) of title 26 .
 - **(d)** A pension plan may allow for nonforfeitable benefits after a lesser period and in greater amounts than are required by this part.
 - **(e)**
-  - **(1)** If the present value of any nonforfeitable benefit with respect to a participant in a plan exceeds $5,000, the plan shall provide that such benefit may not be immediately distributed without the consent of the participant.
+  - **(1)** If the present value of any nonforfeitable benefit with respect to a participant in a plan exceeds $7,000, the plan shall provide that such benefit may not be immediately distributed without the consent of the participant.
   - **(2)** For purposes of paragraph (1), the present value shall be calculated in accordance with section 1055(g)(3) of this title .
   - **(3)** This subsection shall not apply to any distribution of dividends to which section 404(k) of title 26 applies.
   - **(4)** A plan shall not fail to meet the requirements of this subsection if, under the terms of the plan, the present value of the nonforfeitable accrued benefit is determined without regard to that portion of such benefit which is attributable to rollover contributions (and earnings allocable thereto). For purposes of this subparagraph, the term “rollover contributions” means any rollover contribution under sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3)(A)(ii), and 457(e)(16) of title 26.

@@ -3,9 +3,9 @@ title: "Section 3369d - Committee to counter active measures by the Russian Fede
 usc_title: 50
 usc_section: "3369d"
 chapter: 45
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3369d"
-generated_at: "2026-03-29T19:44:52.867Z"
+generated_at: "2026-03-29T20:01:07.372Z"
 ---
 
 # § 3369d. Committee to counter active measures by the Russian Federation, the People’s Republic of China, the Islamic Republic of Iran, the Democratic People’s Republic of Korea, or other nation state to exert covert influence over peoples and governments

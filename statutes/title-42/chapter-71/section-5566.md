@@ -1,18 +1,12 @@
 ---
-title: "Section 5566 - Authorization of appropriations"
+title: "Section 5566 - Repealed. Pub. L. 116–260, div. Z, title III, § 3006(e)(1) , Dec. 27, 2020 , 134 Stat. 2513"
 usc_title: 42
 usc_section: "5566"
 chapter: 71
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5566"
-generated_at: "2026-03-29T19:31:45.235Z"
+generated_at: "2026-03-29T20:00:54.980Z"
 ---
 
-# § 5566. Authorization of appropriations
+# §§ 5557 to 5566. Repealed. Pub. L. 116–260, div. Z, title III, § 3006(e)(1) , Dec. 27, 2020 , 134 Stat. 2513
 
-To carry out the provisions of this subchapter, there are authorized to be appropriated—
-
-  - **(1)** for the fiscal year ending June 30, 1976 , $75,000,000;
-  - **(2)** for subsequent fiscal years, only such sums as the Congress hereafter may authorize by law;
-  - **(3)** such amounts as may be authorized for the construction of demonstrations pursuant to section 5556(f) of this title ; and
-  - **(4)** to the National Science Foundation for the fiscal year ending June 30, 1975 , not to exceed $2,000,000 to be made available for use in the preparation of the comprehensive program definition under section 5564 of this title .

@@ -3,9 +3,9 @@ title: "Section 8103 - Biorefinery, renewable chemical, and biobased product man
 usc_title: 7
 usc_section: "8103"
 chapter: 107
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 8103"
-generated_at: "2026-03-29T19:43:58.447Z"
+generated_at: "2026-03-29T19:57:39.485Z"
 ---
 
 # § 8103. Biorefinery, renewable chemical, and biobased product manufacturing assistance
@@ -64,3 +64,20 @@ generated_at: "2026-03-29T19:43:58.447Z"
       - **(iv)** $25,000,000 for fiscal year 2020.
     - **(B)** Of the total amount of funds made available for fiscal years 2014 and 2015 under subparagraph (A), the Secretary may use for the cost of loan guarantees under this section not more than 15 percent of such funds to promote biobased product manufacturing.
   - **(2)** In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2023.
+- **(h)**
+  - **(1)** Notwithstanding subsections (a) through (e), and (g), in addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $1,000,000,000, to remain available until September 30, 2031 , for the cost of loans under section 940g of title 7 , including for projects that store electricity that support the types of eligible projects under that section, which shall be forgiven in an amount that is not greater than 50 percent of the loan based on how the borrower and the project meets the terms and conditions for loan forgiveness consistent with the purposes of that section established by the Secretary, except as provided in paragraph (3).
+  - **(2)** The Secretary shall not enter into any loan agreement pursuant this subsection that could result in disbursements after September 30, 2031 .
+  - **(3)** The Secretary shall establish criteria for waiving the 50 percent limitation described in paragraph (1).
+- **(i)**
+  - **(1)** Notwithstanding subsections (a) through (e) and subsection (g), in addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $500,000,000, to remain available until September 30, 2031 , to carry out this subsection.
+  - **(2)** The Secretary shall use the amounts made available by paragraph (1) to provide grants, for which the Federal share shall be not more than 75 percent of the total cost of carrying out a project for which the grant is provided, on a competitive basis, to increase the sale and use of agricultural commodity-based fuels through infrastructure improvements for blending, storing, supplying, or distributing biofuels, except for transportation infrastructure not on location where such biofuels are blended, stored, supplied, or distributed—
+    - **(A)** by installing, retrofitting, or otherwise upgrading fuel dispensers or pumps and related equipment, storage tank system components, and other infrastructure required at a location related to dispensing certain biofuel blends to ensure the increased sales of fuels with high levels of commodity-based ethanol and biodiesel that are at or greater than the levels required in the Notice of Funding Availability for the Higher Blends Infrastructure Incentive Program for Fiscal Year 2020, published in the Federal Register (85 Fed. Reg. 26656), as determined by the Secretary; and
+    - **(B)** by building and retrofitting home heating oil distribution centers or equivalent entities and distribution systems for ethanol and biodiesel blends.
+- **(j)**
+  - **(1)** Notwithstanding subsections (a) through (e) and (g), in addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $9,700,000,000, to remain available until September 30, 2031 , for the long-term resiliency, reliability, and affordability of rural electric systems by providing to an eligible entity (defined as an electric cooperative described in section 501(c)(12) or 1381(a)(2) of title 26 and is or has been a Rural Utilities Service electric loan borrower pursuant to the Rural Electrification Act of 1936 [ 7 U.S.C. 901 et seq.] or serving a predominantly rural area or a wholly or jointly owned subsidiary of such electric cooperative) loans, modifications of loans, the cost of loans and modifications, and other financial assistance to achieve the greatest reduction in carbon dioxide, methane, and nitrous oxide emissions associated with rural electric systems through the purchase of renewable energy, renewable energy systems, zero-emission systems, and carbon capture and storage systems, to deploy such systems, or to make energy efficiency improvements to electric generation and transmission systems of the eligible entity after August 16, 2022 .
+  - **(2)** No eligible entity may receive an amount equal to more than 10 percent of the total amount made available by this subsection.
+  - **(3)** The amount of a grant under this subsection shall be not more than 25 percent of the total project costs of the eligible entity carrying out a project using a grant under this subsection.
+  - **(4)** Nothing in this subsection shall be interpreted to authorize funds of the Commodity Credit Corporation for activities under this subsection if such funds are not expressly authorized or currently expended for such purposes.
+  - **(5)** The Secretary shall not enter into, pursuant to this subsection—
+    - **(A)** any loan agreement that may result in a disbursement after September 30, 2031 ; or
+    - **(B)** any grant agreement that may result in any outlay after September 30, 2031 .

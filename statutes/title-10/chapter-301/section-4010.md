@@ -1,14 +1,14 @@
 ---
-title: "Section 4010 - Defense established program to stimulate competitive research"
+title: "Section 4010 - Defense Established Program to Stimulate Competitive Research"
 usc_title: 10
 usc_section: "4010"
 chapter: 301
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4010"
-generated_at: "2026-03-29T19:43:38.053Z"
+generated_at: "2026-03-29T19:58:02.245Z"
 ---
 
-# § 4010. Defense established program to stimulate competitive research
+# § 4010. Defense Established Program to Stimulate Competitive Research
 
 - **(a)** The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, shall carry out a Defense Established Program to Stimulate Competitive Research (DEPSCoR) as part of the university research programs of the Department of Defense.
 - **(b)** The objectives of the program are as follows:

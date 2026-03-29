@@ -3,14 +3,14 @@ title: "Section 41 - Payment of claims"
 usc_title: 42
 usc_section: "41"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 41"
-generated_at: "2026-03-29T19:31:44.474Z"
+generated_at: "2026-03-29T20:00:54.128Z"
 ---
 
 # § 300mm–41. Payment of claims
 
-- **(a)** Except as provided in subsections (b) and (c), the cost of monitoring and treatment benefits and initial health evaluation benefits provided under subparts 1 and 2 of this part shall be paid for by the WTC Program from the World Trade Center Health Program Fund.
+- **(a)** Except as provided in subsections (b) and (c), the cost of monitoring and treatment benefits and initial health evaluation benefits provided under subparts 1 and 2 of this part shall be paid for by the WTC Program from (as applicable) the Funds established under sections 300mm–61, 300mm–62, 300mm–63, and 300mm–64 of this title.
 - **(b)**
   - **(1)** Subject to paragraph (2), payment for treatment under subparts 1 and 2 of this part of a WTC-related health condition of an individual that is work-related shall be reduced or recouped to the extent that the WTC Program Administrator determines that payment has been made, or can reasonably be expected to be made, under a workers’ compensation law or plan of the United States, a State, or a locality, or other work-related injury or illness benefit plan of the employer of such individual, for such treatment. The provisions of clauses (iii), (iv), (v), and (vi) of paragraph (2)(B) of section 1862(b) of the Social Security Act [ 42 U.S.C. 1395y(b) ] and paragraphs (3) and (4) of such section shall apply to the recoupment under this subsection of a payment to the WTC Program (with respect to a workers’ compensation law or plan, or other work-related injury or illness plan of the employer involved, and such individual) in the same manner as such provisions apply to the reimbursement of a payment under section 1862(b)(2) of such Act [ 42 U.S.C. 1395y(b)(2) ] to the Secretary (with respect to such a law or plan and an individual entitled to benefits under title XVIII of such Act [ 42 U.S.C. 1395 et seq.]) except that any reference in such paragraph (4) to payment rates under title XVIII of the Social Security Act shall be deemed a reference to payment rates under this subchapter.
   - **(2)** Paragraph (1) shall not apply for any quarter, with respect to any workers’ compensation law or plan, including line of duty compensation, to which New York City is obligated to make payments, if, in accordance with terms specified under the contract under subsection (d)(1)(A), New York City has made the full payment required under such contract for such quarter.
@@ -23,8 +23,8 @@ generated_at: "2026-03-29T19:31:44.474Z"
     - **(B)** is not covered under minimum essential coverage, as required under subsection (a) of such section.
 - **(d)**
   - **(1)**
-    - **(A)** No funds may be disbursed from the World Trade Center Health Program Fund under section 300mm–61 of this title unless New York City has entered into a contract with the WTC Program Administrator under which New York City agrees, in a form and manner specified by the Administrator, to pay the full contribution described in subparagraph (B) in accordance with this subsection on a timely basis, plus any interest owed pursuant to subparagraph (E)(i). Such contract shall specify the terms under which New York City shall be considered to have made the full payment required for a quarter for purposes of subsection (b)(2).
-    - **(B)** Under such contract, with respect to each calendar quarter of fiscal year 2016 and of each subsequent fiscal year through fiscal year 2090, the full contribution amount under this subparagraph shall be equal to 10 percent of the expenditures in carrying out this subchapter for the respective quarter.
+    - **(A)** No funds may be disbursed from the World Trade Center Health Program Fund under section 300mm–61 of this title or the World Trade Center Health Program Special Fund under section 300mm–63 of this title unless New York City has entered into a contract with the WTC Program Administrator under which New York City agrees, in a form and manner specified by the Administrator, to pay the full contribution described in subparagraph (B) in accordance with this subsection on a timely basis, plus any interest owed pursuant to subparagraph (E)(i). Such contract shall specify the terms under which New York City shall be considered to have made the full payment required for a quarter for purposes of subsection (b)(2).
+    - **(B)** Under such contract, with respect to each calendar quarter of fiscal year 2016 and of each subsequent fiscal year through fiscal year 2090, the full contribution amount under this subparagraph shall be equal to 10 percent of the expenditures in carrying out this subchapter for the respective quarter (excluding any expenditures from amounts in the World Trade Center Health Program Supplemental Fund under section 300mm–62 of this title or the World Trade Center Health Program Fund for Certain WTC Responders at the Pentagon and Shanksville, Pennsylvania under section 300mm–64 of this title ).
     - **(C)** The payment obligation under such contract may not be satisfied through any of the following:
       - **(i)** An amount derived from Federal sources.
       - **(ii)** An amount paid before January 2, 2011 .

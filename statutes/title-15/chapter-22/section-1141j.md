@@ -3,9 +3,9 @@ title: "Section 1141j - Dependence of extension of protection to the United Stat
 usc_title: 15
 usc_section: "1141j"
 chapter: 22
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 1141j"
-generated_at: "2026-03-29T19:44:42.705Z"
+generated_at: "2026-03-29T19:58:17.668Z"
 ---
 
 # § 1141j. Dependence of extension of protection to the United States on the underlying international registration

@@ -3,9 +3,9 @@ title: "Section 8308a - Animal disease prevention and management"
 usc_title: 7
 usc_section: "8308a"
 chapter: 109
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 8308a"
-generated_at: "2026-03-29T19:43:58.455Z"
+generated_at: "2026-03-29T19:57:39.493Z"
 ---
 
 # § 8308a. Animal disease prevention and management
@@ -56,7 +56,7 @@ generated_at: "2026-03-29T19:43:58.455Z"
         - **(I)** the agricultural industries in the State or region;
         - **(II)** factors contributing to animal pest or disease in the State or region, such as the climate, natural resources, and geography of, and native and exotic wildlife species and other disease vectors in, the State or region; and
         - **(III)** the movement of animals in the State or region.
-  - **(5)** For purposes of setting priorities under this subsection, the Secretary shall consult with eligible entities specified in paragraph (3). The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultation carried out under this paragraph.
+  - **(5)** For purposes of setting priorities under this subsection, the Secretary shall consult with eligible entities specified in paragraph (3). The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to consultation carried out under this paragraph.
   - **(6)**
     - **(A)** An eligible entity specified in paragraph (3) seeking to enter into an agreement under the Program shall submit to the Secretary an application containing such information as the Secretary may require.
     - **(B)** The Secretary shall notify each applicant of—

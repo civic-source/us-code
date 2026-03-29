@@ -3,9 +3,9 @@ title: "Section 8251 - Cooperation with democratic countries"
 usc_title: 22
 usc_section: "8251"
 chapter: 89
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 8251"
-generated_at: "2026-03-29T19:42:08.275Z"
+generated_at: "2026-03-29T19:59:24.308Z"
 ---
 
 # § 8251. Cooperation with democratic countries

@@ -3,9 +3,9 @@ title: "Section 6687 - Critical technology strategies"
 usc_title: 42
 usc_section: "6687"
 chapter: 79
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6687"
-generated_at: "2026-03-29T19:31:45.306Z"
+generated_at: "2026-03-29T20:00:55.046Z"
 ---
 
 # § 6687. Critical technology strategies
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T19:31:45.306Z"
     - **(C)** The development of an organizational structure within the Federal Government that is appropriate for coordinating, managing, and reviewing the Federal Government’s role in the implementation of the strategy, including allocating roles among Federal departments and agencies.
     - **(D)** The development of policies and procedures for synergistic government, industrial, and university participation in the implementation of the strategy.
     - **(E)** The development of Federal budget estimates for research and development regarding the critical technology or technologies covered by the strategy for the first five fiscal years covered by that strategy.
-- **(b)** Not later than February 15 of each year, beginning in 1993, the President shall submit to Congress an annual report describing the implementation of subsection (a) of this section. The annual report shall include the following:
-  - **(1)** For each critical technology designated by the President for the purpose of subsection (a) of this section, a description of the progress made in implementing subsection (a) of this section during the fiscal year preceding the fiscal year in which the report is submitted.
-  - **(2)** A description of each proposed program, if any, for further implementing subsection (a) of this section with respect to a critical technology through the date for the submission of the next annual report.
-  - **(3)** A copy of each strategy, if any, completed or revised pursuant to subsection (a) of this section during the fiscal year covered by the report.
+- **(b)** Not later than February 15 of each year, beginning in 1993, the President shall submit to Congress an annual report describing the implementation of subsection (a). The annual report shall include the following:
+  - **(1)** For each critical technology designated by the President for the purpose of subsection (a), a description of the progress made in implementing subsection (a) during the fiscal year preceding the fiscal year in which the report is submitted.
+  - **(2)** A description of each proposed program, if any, for further implementing subsection (a) with respect to a critical technology through the date for the submission of the next annual report.
+  - **(3)** A copy of each strategy, if any, completed or revised pursuant to subsection (a) during the fiscal year covered by the report.

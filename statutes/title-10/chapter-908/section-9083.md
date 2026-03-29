@@ -1,18 +1,15 @@
 ---
-title: "Section 9083 - Office of the Chief of Space Operations: function; composition"
+title: "Section 9083 - Vice Chief of Space Operations"
 usc_title: 10
 usc_section: "9083"
 chapter: 908
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 9083"
-generated_at: "2026-03-29T19:43:38.126Z"
+generated_at: "2026-03-29T19:58:02.337Z"
 ---
 
-# § 9083. Office of the Chief of Space Operations: function; composition
+# § 9083. Vice Chief of Space Operations
 
-- **(a)** There is in the executive part of the Department of the Air Force an Office of the Chief of Space Operations to assist the Secretary of the Air Force in carrying out the responsibilities of the Secretary.
-- **(b)** The Office of the Chief of Space Operations is composed of the following:
-  - **(1)** The Chief of Space Operations.
-  - **(2)** Other members of the Space Force and Air Force assigned or detailed to the Office of the Chief of Space Operations.
-  - **(3)** Civilian employees in the Department of the Air Force assigned or detailed to the Office of the Chief of Space Operations.
-- **(c)** Except as otherwise specifically prescribed by law, the Office of the Chief of Space Operations shall be organized in such manner, and the members of the Office of the Chief of Space Operations shall perform such duties and have such titles, as the Secretary of the Air Force may prescribe.
+- **(a)** There is a Vice Chief of Space Operations, appointed by the President, by and with the advice and consent of the Senate, from the general officers of the Space Force.
+- **(b)** The Vice Chief of Space Operations, while so serving, has the grade of general without vacating the permanent grade of the officer.
+- **(c)** The Vice Chief of Space Operations shall have such authorities and duties with respect to the Space Force as the Chief of Space Operations, with the approval of the Secretary of the Air Force, may delegate to or prescribe for the Vice Chief of Space Operations. Orders issued by the Vice Chief of Space Operations in performing such duties have the same effect as orders issued by the Chief of Space Operations.

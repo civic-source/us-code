@@ -1,12 +1,12 @@
 ---
-title: "Section 12339 - Repealed. Pub. L. 103–252, title IV , § 401(b)(1), May 18, 1994 , 108 Stat. 672"
+title: "Section 12339 - Repealed. Pub. L. 103–252, title IV, § 401(b)(1) , May 18, 1994 , 108 Stat. 672"
 usc_title: 42
 usc_section: "12339"
 chapter: 127
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 12339"
-generated_at: "2026-03-29T19:31:45.644Z"
+generated_at: "2026-03-29T20:00:55.406Z"
 ---
 
-# § 12339. Repealed. Pub. L. 103–252, title IV , § 401(b)(1), May 18, 1994 , 108 Stat. 672
+# § 12339. Repealed. Pub. L. 103–252, title IV, § 401(b)(1) , May 18, 1994 , 108 Stat. 672
 

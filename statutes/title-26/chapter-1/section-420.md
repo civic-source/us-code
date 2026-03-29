@@ -3,9 +3,9 @@ title: "Section 420 - Transfers of excess pension assets to retiree health accou
 usc_title: 26
 usc_section: "420"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 420"
-generated_at: "2026-03-29T19:42:47.658Z"
+generated_at: "2026-03-29T19:59:49.268Z"
 ---
 
 # § 420. Transfers of excess pension assets to retiree health accounts
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T19:42:47.658Z"
       - **(iii)** the minimum cost requirements of subsection (c)(3).
   - **(2)** No more than 1 transfer with respect to any plan during a taxable year may be treated as a qualified transfer for purposes of this section. If there is a transfer from a defined benefit plan to both a health benefits account and an applicable life insurance account during any taxable year, such transfers shall be treated as 1 transfer for purposes of this paragraph.
   - **(3)** The amount of excess pension assets which may be transferred to an account in a qualified transfer shall not exceed the amount which is reasonably estimated to be the amount the employer maintaining the plan will pay (whether directly or through reimbursement) out of such account during the taxable year of the transfer for qualified current retiree liabilities.
-  - **(4)** No transfer made after December 31, 2025 , shall be treated as a qualified transfer.
+  - **(4)** No transfer made after December 31, 2032 , shall be treated as a qualified transfer.
 - **(c)**
   - **(1)**
     - **(A)** Any assets transferred to a health benefits account, or an applicable life insurance account, in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(E)) for the taxable year of the transfer (whether directly or through reimbursement). In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).
@@ -47,7 +47,7 @@ generated_at: "2026-03-29T19:42:47.658Z"
         - **(III)** in the case of a taxable year in which there was no qualified transfer, in the same manner as if there had been such a transfer at the end of the taxable year, by
       - **(ii)** the number of individuals to whom coverage was provided during such taxable year for the benefits with respect to which the determination under clause (i) is made.
     - **(C)** An employer may elect to have this paragraph applied separately for applicable health benefits with respect to individuals eligible for benefits under title XVIII of the Social Security Act at any time during the taxable year and with respect to individuals not so eligible, and separately for applicable life insurance benefits with respect to individuals age 65 or older at any time during the taxable year and with respect to individuals under age 65 during the taxable year.
-    - **(D)** For purposes of this paragraph, the term “cost maintenance period” means the period of 5 taxable years beginning with the taxable year in which the qualified transfer occurs. If a taxable year is in two or more overlapping cost maintenance periods, this paragraph shall be applied by taking into account the highest applicable employer cost required to be provided under subparagraph (A) for such taxable year.
+    - **(D)** For purposes of this paragraph, the term “cost maintenance period” means the period of 5 taxable years (7 taxable years in the case of a transfer to which subsection (e)(7) applies) beginning with the taxable year in which the qualified transfer occurs. If a taxable year is in two or more overlapping cost maintenance periods, this paragraph shall be applied by taking into account the highest applicable employer cost required to be provided under subparagraph (A) for such taxable year.
     - **(E)**
       - **(i)** The Secretary shall prescribe such regulations as may be necessary to prevent an employer who significantly reduces retiree health coverage or retiree life insurance coverage, as the case may be, during the cost maintenance period from being treated as satisfying the minimum cost requirement of this subsection.
       - **(ii)**
@@ -85,6 +85,9 @@ generated_at: "2026-03-29T19:42:47.658Z"
   - **(6)** In the case of a multiemployer plan, this section shall be applied to any such plan—
     - **(A)** by treating any reference in this section to an employer as a reference to all employers maintaining the plan (or, if appropriate, the plan sponsor), and
     - **(B)** in accordance with such modifications of this section (and the provisions of this title relating to this section) as the Secretary determines appropriate to reflect the fact the plan is not maintained by a single employer.
+  - **(7)**
+    - **(A)** In the case of a transfer of an amount which is not more than 1.75 percent of the amount determined under paragraph (2)(A) by a plan which meets the requirements of subparagraph (B), paragraph (2)(B) shall be applied by substituting “110 percent” for “125 percent”.
+    - **(B)** A plan is described in this subparagraph if, as of any valuation date in each of the 2 plan years immediately preceding the plan year in which the transfer occurs, the amount determined under paragraph (2)(A) exceeded 110 percent of the sum of the funding target and the target normal cost determined under section 430 for each such plan year.
 - **(f)**
   - **(1)** An employer maintaining a defined benefit plan (other than a multiemployer plan) may, in lieu of a qualified transfer, elect for any taxable year to have the plan make—
     - **(A)** a qualified future transfer, or
@@ -96,7 +99,9 @@ generated_at: "2026-03-29T19:42:47.658Z"
       - **(iii)** the minimum cost requirements of subsection (c)(3) shall be modified as provided under subparagraph (D), and
       - **(iv)** in the case of a collectively bargained transfer, the requirements of subparagraph (E) shall be met with respect to the transfer.
     - **(B)**
-      - **(i)** In determining excess pension assets for purposes of this subsection, subsection (e)(2) shall be applied by substituting “120 percent” for “125 percent”.
+      - **(i)**
+        - **(I)** In determining excess pension assets for purposes of this subsection, subsection (e)(2)(B) shall be applied by substituting “120 percent” for “125 percent”.
+        - **(II)** In determining excess pension assets for purposes of a collectively bargained transfer, subsection (e)(7) shall not apply.
       - **(ii)** If, as of any valuation date of any plan year in the transfer period, the amount determined under subsection (e)(2)(B) (after application of clause (i)) exceeds the amount determined under subsection (e)(2)(A), either—
         - **(I)** the employer maintaining the plan shall make contributions to the plan in an amount not less than the amount required to reduce such excess to zero as of such date, or
         - **(II)** there is transferred from the health benefits account or applicable life insurance account, as the case may be, to the plan an amount not less than the amount required to reduce such excess to zero as of such date.
@@ -107,7 +112,7 @@ generated_at: "2026-03-29T19:42:47.658Z"
       - **(ii)** in the case of a collectively bargained transfer, shall not exceed the amount which is reasonably estimated, in accordance with the provisions of the collective bargaining agreement and generally accepted accounting principles, to be the amount the employer maintaining the plan will pay (whether directly or through reimbursement) out of such account during the collectively bargained cost maintenance period for collectively bargained retiree liabilities.
     - **(D)**
       - **(i)** The requirements of subsection (c)(3) shall be treated as met if—
-        - **(I)** in the case of a qualified future transfer, each group health plan or arrangement under which applicable health benefits are provided, and each group-term life insurance plan or arrangement under which applicable life insurance benefits are provided, provides applicable health benefits or applicable life insurance benefits, as the case may be, during the period beginning with the first year of the transfer period and ending with the last day of the 4th year following the transfer period such that the annual average amount of the applicable employer cost during such period is not less than the applicable employer cost determined under subsection (c)(3)(A) with respect to the transfer, and
+        - **(I)** in the case of a qualified future transfer, each group health plan or arrangement under which applicable health benefits are provided, and each group-term life insurance plan or arrangement under which applicable life insurance benefits are provided, provides applicable health benefits or applicable life insurance benefits, as the case may be, during the period beginning with the first year of the transfer period and ending with the last day of the 4th year (the 6th year in the case of a transfer to which subsection (e)(7) applies) following the transfer period such that the annual average amount of the applicable employer cost during such period is not less than the applicable employer cost determined under subsection (c)(3)(A) with respect to the transfer, and
         - **(II)** in the case of a collectively bargained transfer, each collectively bargained plan under which collectively bargained health benefits or collectively bargained life insurance benefits are provided provides that the collectively bargained employer cost for each taxable year during the collectively bargained cost maintenance period shall not be less than the amount specified by the collective bargaining agreement.
       - **(ii)** An employer may elect, in lieu of the requirements of clause (i)(I), to meet the requirements of subsection (c)(3) with respect to applicable health benefits or applicable life insurance benefits by meeting the requirements of such subsection (as in effect before the amendments made by section 535 of the Tax Relief Extension Act of 1999) for each of the years described in the period under clause (i)(I). Such election may be made separately with respect to applicable health benefits and applicable life insurance benefits. In the case of an election with respect to applicable life insurance benefits, the first sentence of this clause shall be applied as if subsection (c)(3) as in effect before the amendments made by such Act applied to such benefits.
       - **(iii)** For purposes of this subparagraph, the term “collectively bargained employer cost” means the average cost per covered individual of providing collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, as determined in accordance with the applicable collective bargaining agreement. Such agreement may provide for an appropriate reduction in the collectively bargained employer cost to take into account any portion of the collectively bargained health benefits, collectively bargained life insurance benefits, or both, as the case may be, that is provided or financed by a government program or other source.

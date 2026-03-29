@@ -1,25 +1,12 @@
 ---
-title: "Section 13726b - Federal regulation of prisoner transport companies"
+title: "Section 13726b - Transferred"
 usc_title: 42
 usc_section: "13726b"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 13726b"
-generated_at: "2026-03-29T19:31:45.739Z"
+generated_at: "2026-03-29T20:00:55.490Z"
 ---
 
-# § 13726b. Federal regulation of prisoner transport companies
+# § 13726b. Transferred
 
-- **(a)** Not later than 180 days after December 21, 2000 , the Attorney General, in consultation with the American Correctional Association and the private prisoner transport industry, shall promulgate regulations relating to the transportation of violent prisoners in or affecting interstate commerce.
-- **(b)** The regulations shall include the following:
-  - **(1)** Minimum standards for background checks and preemployment drug testing for potential employees, including requiring criminal background checks, to disqualify persons with a felony conviction or domestic violence conviction as defined by section 921 of title 18 for eligibility for employment. Preemployment drug testing will be in accordance with applicable State laws.
-  - **(2)** Minimum standards for the length and type of training that employees must undergo before they can transport prisoners not to exceed 100 hours of preservice training focusing on the transportation of prisoners. Training shall be in the areas of use of restraints, searches, use of force, including use of appropriate weapons and firearms, CPR, map reading, and defensive driving.
-  - **(3)** Restrictions on the number of hours that employees can be on duty during a given time period. Such restriction shall not be more stringent than current applicable rules and regulations concerning hours of service promulgated under the Federal Motor Vehicle Safety Act. 1 1 See References in Text note below.
-  - **(4)** Minimum standards for the number of personnel that must supervise violent prisoners. Such standards shall provide the transport entity with appropriate discretion, and, absent more restrictive requirements contracted for by the procuring government entity, shall not exceed a requirement of 1 agent for every 6 violent prisoners.
-  - **(5)** Minimum standards for employee uniforms and identification that require wearing of a uniform with a badge or insignia identifying the employee as a transportation officer.
-  - **(6)** Standards establishing categories of violent prisoners required to wear brightly colored clothing clearly identifying them as prisoners, when appropriate.
-  - **(7)** Minimum requirements for the restraints that must be used when transporting violent prisoners, to include leg shackles and double-locked handcuffs, when appropriate.
-  - **(8)** A requirement that when transporting violent prisoners, private prisoner transport companies notify local law enforcement officials 24 hours in advance of any scheduled stops in their jurisdiction.
-  - **(9)** A requirement that in the event of an escape by a violent prisoner, private prisoner transport company officials shall immediately notify appropriate law enforcement officials in the jurisdiction where the escape occurs, and the governmental entity that contracted with the private prisoner transport company for the transport of the escaped violent prisoner.
-  - **(10)** Minimum standards for the safety of violent prisoners in accordance with applicable Federal and State law.
-- **(c)** Except for the requirements of subsection (b)(6), the regulations promulgated under sections 13726 to 13726c of this title shall not provide stricter standards with respect to private prisoner transport companies than are applicable, without exception, to the United States Marshals Service, Federal Bureau of Prisons, and the Immigration and Naturalization Service when transporting violent prisoners under comparable circumstances.

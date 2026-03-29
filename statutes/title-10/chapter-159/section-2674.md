@@ -3,9 +3,9 @@ title: "Section 2674 - Operation and control of Pentagon Reservation and defense
 usc_title: 10
 usc_section: "2674"
 chapter: 159
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2674"
-generated_at: "2026-03-29T19:43:38.000Z"
+generated_at: "2026-03-29T19:58:02.185Z"
 ---
 
 # § 2674. Operation and control of Pentagon Reservation and defense facilities in National Capital Region

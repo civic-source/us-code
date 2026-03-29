@@ -3,15 +3,15 @@ title: "Section 387a - FDA authority over tobacco products"
 usc_title: 21
 usc_section: "387a"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 387a"
-generated_at: "2026-03-29T19:41:41.666Z"
+generated_at: "2026-03-29T19:59:28.482Z"
 ---
 
 # § 387a. FDA authority over tobacco products
 
 - **(a)** Tobacco products, including modified risk tobacco products for which an order has been issued in accordance with section 387k of this title , shall be regulated by the Secretary under this subchapter and shall not be subject to the provisions of subchapter V.
-- **(b)** This subchapter shall apply to all cigarettes, cigarette tobacco, roll-your-own tobacco, and smokeless tobacco and to any other tobacco products that the Secretary by regulation deems to be subject to this subchapter.
+- **(b)** This subchapter shall apply to all cigarettes, cigarette tobacco, roll-your-own tobacco, and smokeless tobacco and to any other tobacco products that the Secretary by regulation deems to be subject to this subchapter. This subchapter shall also apply to any tobacco product containing nicotine that is not made or derived from tobacco.
 - **(c)**
   - **(1)** Nothing in this subchapter, or any policy issued or regulation promulgated thereunder, or in sections 101(a), 102, or 103 of title I, title II, or title III of the Family Smoking Prevention and Tobacco Control Act, shall be construed to affect, expand, or limit the Secretary’s authority over (including the authority to determine whether products may be regulated), or the regulation of, products under this chapter that are not tobacco products under subchapter V or any other subchapter.
   - **(2)**

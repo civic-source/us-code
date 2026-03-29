@@ -3,9 +3,9 @@ title: "Section 506 - Seals of departments or agencies"
 usc_title: 18
 usc_section: "506"
 chapter: 25
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "18 U.S.C. § 506"
-generated_at: "2026-03-29T19:41:06.760Z"
+generated_at: "2026-03-29T19:58:59.644Z"
 ---
 
 # § 506. Seals of departments or agencies

@@ -1,15 +1,12 @@
 ---
-title: "Section 10603d - Crime victims legal assistance grants"
+title: "Section 10603d - Transferred"
 usc_title: 42
 usc_section: "10603d"
 chapter: 112
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 10603d"
-generated_at: "2026-03-29T19:31:45.590Z"
+generated_at: "2026-03-29T20:00:55.356Z"
 ---
 
-# § 10603d. Crime victims legal assistance grants
+# § 10603d. Transferred
 
-- **(a)** The Director may make grants as provided in section 10603(c)(1)(A) of this title to State, tribal, and local prosecutors’ offices, law enforcement agencies, courts, jails, and correctional institutions, and to qualified public and private entities, to develop, establish, and maintain programs for the enforcement of crime victims’ rights as provided in law.
-- **(b)** Grant amounts under this section may not be used to bring a cause of action for damages.
-- **(c)** Notwithstanding any other provision of law, amounts collected pursuant to sections 3729 through 3731 of title 31 (commonly known as the “False Claims Act”) may be used for grants under this section, subject to appropriation.

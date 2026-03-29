@@ -3,9 +3,9 @@ title: "Section 14508 - Economic and energy development initiative"
 usc_title: 40
 usc_section: "14508"
 chapter: 145
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "40 U.S.C. § 14508"
-generated_at: "2026-03-29T19:43:21.279Z"
+generated_at: "2026-03-29T20:00:35.905Z"
 ---
 
 # § 14508. Economic and energy development initiative

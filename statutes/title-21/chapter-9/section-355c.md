@@ -3,9 +3,9 @@ title: "Section 355c - Research into pediatric uses for drugs and biological pro
 usc_title: 21
 usc_section: "355c"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 355c"
-generated_at: "2026-03-29T19:41:41.567Z"
+generated_at: "2026-03-29T19:59:28.383Z"
 ---
 
 # § 355c. Research into pediatric uses for drugs and biological products
@@ -145,7 +145,7 @@ generated_at: "2026-03-29T19:41:41.567Z"
     - **(F)** the number of pediatric formulations developed and the number of pediatric formulations not developed and the reasons any such formulation was not developed;
     - **(G)** the labeling changes made as a result of assessments conducted under this section;
     - **(H)** an annual summary of labeling changes made as a result of assessments conducted under this section for distribution pursuant to subsection (h)(2);
-    - **(I)** an annual summary of information submitted pursuant to subsection (a)(3)(B); and
+    - **(I)** an annual summary of information submitted pursuant to subsection (a)(4)(C); and
     - **(J)** the number of times the committee referred to in paragraph (1) made a recommendation to the Secretary under paragraph (4) regarding priority review, the number of times the Secretary followed or did not follow such a recommendation, and, if not followed, the reasons why such a recommendation was not followed.
 - **(g)**
   - **(1)**

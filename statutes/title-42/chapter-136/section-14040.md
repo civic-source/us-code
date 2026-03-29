@@ -1,16 +1,12 @@
 ---
-title: "Section 14040 - Definitions"
+title: "Section 14040 - Transferred"
 usc_title: 42
 usc_section: "14040"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14040"
-generated_at: "2026-03-29T19:31:45.750Z"
+generated_at: "2026-03-29T20:00:55.491Z"
 ---
 
-# § 14040. Definitions
+# § 14040. Transferred
 
-As used in this part—
-
-  - **(1)** the term “national crime information databases” refers to the National Crime Information Center and its incorporated criminal history databases, including the Interstate Identification Index; and
-  - **(2)** the term “protection order” includes an injunction or any other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil or criminal courts (other than support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.

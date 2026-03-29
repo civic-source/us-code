@@ -1,14 +1,12 @@
 ---
-title: "Section 4 - Authorization of appropriations"
+title: "Section 4 - Transferred"
 usc_title: 42
 usc_section: "4"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-29T19:31:45.134Z"
+generated_at: "2026-03-29T20:00:54.884Z"
 ---
 
-# § 3797y–4. Authorization of appropriations
-
-There are authorized to be appropriated $10,000,000 to carry out this subchapter for each of fiscal years 2003, 2004, and 2005.
+# § 3797ff–4. Transferred
 

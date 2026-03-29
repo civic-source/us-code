@@ -3,9 +3,9 @@ title: "Section 6701 - Operation of State law"
 usc_title: 15
 usc_section: "6701"
 chapter: 93
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 6701"
-generated_at: "2026-03-29T19:44:42.920Z"
+generated_at: "2026-03-29T19:58:17.874Z"
 ---
 
 # § 6701. Operation of State law

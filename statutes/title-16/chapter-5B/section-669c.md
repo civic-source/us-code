@@ -3,9 +3,9 @@ title: "Section 669c - Allocation and apportionment of available amounts"
 usc_title: 16
 usc_section: "669c"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 669c"
-generated_at: "2026-03-29T19:41:13.572Z"
+generated_at: "2026-03-29T19:59:08.169Z"
 ---
 
 # § 669c. Allocation and apportionment of available amounts
@@ -14,9 +14,9 @@ generated_at: "2026-03-29T19:41:13.572Z"
   - **(1)**
     - **(A)** For fiscal year 2001 and each fiscal year thereafter, of the revenues (excluding interest accruing under section 669b(b) of this title ) covered into the fund for the fiscal year, the Secretary of the Interior may use not more than the available amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in implementation of this chapter, in accordance with this subsection and section 669h of this title .
     - **(B)** The available amount referred to in subparagraph (A) is—
-      - **(i)** for the fiscal year that includes November 15, 2021 , the sum obtained by adding—
-        - **(I)** the available amount specified in this subparagraph for the preceding fiscal year; and
-        - **(II)** $979,500; and
+      - **(i)** for the fiscal year that includes November 15, 2021 , the product obtained by multiplying—
+        - **(I)** $12,786,434; and
+        - **(II)** the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor; and
       - **(ii)** for each fiscal year thereafter, the sum obtained by adding—
         - **(I)** the available amount specified in this subparagraph for the preceding fiscal year; and
         - **(II)** the product obtained by multiplying—

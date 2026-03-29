@@ -3,9 +3,9 @@ title: "Section 3702 - Definitions"
 usc_title: 12
 usc_section: "3702"
 chapter: 38
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 3702"
-generated_at: "2026-03-29T19:44:54.254Z"
+generated_at: "2026-03-29T19:58:41.018Z"
 ---
 
 # § 3702. Definitions
@@ -26,4 +26,4 @@ As used in this chapter—
   - **(7)** “security property” means the property, real, personal or mixed, or an interest in property, including leaseholds, life estates, reversionary interests, and any other estates under applicable State law, together with fixtures and other interests subject to the lien of the mortgage under applicable State law;
   - **(8)** “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands, and Indian tribes as defined by the Secretary;
   - **(9)** “county” means county as defined in section 2 of title 1 ; and
-  - **(10)** “Secretary” means the Secretary of Housing and Urban Development.
+  - **(10)** “Secretary” means the Secretary of Housing and Urban Development and the Secretary of Agriculture.

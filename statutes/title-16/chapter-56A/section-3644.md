@@ -3,9 +3,9 @@ title: "Section 3644 - Restriction on spending authority"
 usc_title: 16
 usc_section: "3644"
 chapter: 56
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 3644"
-generated_at: "2026-03-29T19:41:13.804Z"
+generated_at: "2026-03-29T19:59:08.422Z"
 ---
 
 # § 3644. Restriction on spending authority

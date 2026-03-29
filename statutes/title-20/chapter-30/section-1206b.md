@@ -3,9 +3,9 @@ title: "Section 1206b - Repealed. Pub. L. 105–220, title II, § 251(a)(1) , Au
 usc_title: 20
 usc_section: "1206b"
 chapter: 30
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 1206b"
-generated_at: "2026-03-29T19:41:03.296Z"
+generated_at: "2026-03-29T19:58:56.776Z"
 ---
 
 # §§ 1206 to 1206b. Repealed. Pub. L. 105–220, title II, § 251(a)(1) , Aug. 7, 1998 , 112 Stat. 1079

@@ -3,9 +3,9 @@ title: "Section 4192 - Security and repayment"
 usc_title: 25
 usc_section: "4192"
 chapter: 43
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 4192"
-generated_at: "2026-03-29T19:41:28.474Z"
+generated_at: "2026-03-29T19:59:16.447Z"
 ---
 
 # § 4192. Security and repayment

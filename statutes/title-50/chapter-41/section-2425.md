@@ -3,9 +3,9 @@ title: "Section 2425 - Government access to information on Administration comput
 usc_title: 50
 usc_section: "2425"
 chapter: 41
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 2425"
-generated_at: "2026-03-29T19:44:52.798Z"
+generated_at: "2026-03-29T20:01:07.283Z"
 ---
 
 # § 2425. Government access to information on Administration computers

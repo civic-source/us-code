@@ -3,9 +3,9 @@ title: "Section 1903 - National Security Education Board"
 usc_title: 50
 usc_section: "1903"
 chapter: 37
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 1903"
-generated_at: "2026-03-29T19:44:52.779Z"
+generated_at: "2026-03-29T20:01:07.261Z"
 ---
 
 # § 1903. National Security Education Board
@@ -40,4 +40,4 @@ generated_at: "2026-03-29T19:44:52.779Z"
     - **(A)** assessing on a periodic basis whether the Corps is addressing the needs identified by the heads of departments and agencies of the Federal Government for personnel with skills in various foreign languages;
     - **(B)** recommending plans for the Corps to address foreign language shortfalls and requirements of the departments and agencies of the Federal Government;
     - **(C)** recommending effective ways to increase public awareness of the need for foreign languages skills and career paths in the Federal Government that use those skills; and
-    - **(D)** overseeing the Corps efforts to work with Executive agencies and State and Local 1 1 So in original. Probably should not be capitalized. governments to respond to interagency plans and agreements to address overall foreign language shortfalls and to utilize personnel to address the various types of crises that warrant foreign language skills.
+    - **(D)** overseeing the Corps efforts to work with Executive agencies and State and local governments to respond to interagency plans and agreements to address overall foreign language shortfalls and to utilize personnel to address the various types of crises that warrant foreign language skills.

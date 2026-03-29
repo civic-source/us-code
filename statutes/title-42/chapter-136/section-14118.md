@@ -1,23 +1,12 @@
 ---
-title: "Section 14118 - Scholarship agreement"
+title: "Section 14118 - Transferred"
 usc_title: 42
 usc_section: "14118"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14118"
-generated_at: "2026-03-29T19:31:45.765Z"
+generated_at: "2026-03-29T20:00:55.492Z"
 ---
 
-# § 14118. Scholarship agreement
+# § 14118. Transferred
 
-- **(a)** A person who receives a scholarship under this part shall enter into an agreement with the Director.
-- **(b)** An agreement described in subsection (a) shall—
-  - **(1)** provide assurances that the scholarship recipient will work in a law enforcement position in the State that awarded the scholarship in accordance with the service obligation described in subsection (c) after completion of the scholarship recipient’s academic courses leading to an associate, bachelor, or graduate degree;
-  - **(2)** provide assurances that the scholarship recipient will repay the entire scholarship in accordance with such terms and conditions as the Director shall prescribe if the requirements of the agreement are not complied with, unless the scholarship recipient—
-    - **(A)** dies;
-    - **(B)** becomes physically or emotionally disabled, as established by the sworn affidavit of a qualified physician; or
-    - **(C)** has been discharged in bankruptcy; and
-  - **(3)** set forth the terms and conditions under which the scholarship recipient may seek employment in the field of law enforcement in a State other than the State that awarded the scholarship.
-- **(c)**
-  - **(1)** Except as provided in paragraph (2), a person who receives a scholarship under this part shall work in a law enforcement position in the State that awarded the scholarship for a period of 1 month for each credit hour for which funds are received under the scholarship.
-  - **(2)** For purposes of satisfying the requirement of paragraph (1), a scholarship recipient shall work in a law enforcement position in the State that awarded the scholarship for not less than 6 months but shall not be required to work in such a position for more than 2 years.

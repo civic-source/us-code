@@ -3,9 +3,9 @@ title: "Section 294n - Health professions workforce information and analysis"
 usc_title: 42
 usc_section: "294n"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 294n"
-generated_at: "2026-03-29T19:31:44.339Z"
+generated_at: "2026-03-29T20:00:53.938Z"
 ---
 
 # § 294n. Health professions workforce information and analysis
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T19:31:44.339Z"
   - **(4)** To be eligible to obtain an increase under this section, an entity shall be a recipient of a grant or contract under this subchapter.
 - **(e)**
   - **(1)**
-    - **(A)** To carry out subsection (b), there are authorized to be appropriated $7,500,000 for each of fiscal years 2010 through 2014.
+    - **(A)** To carry out subsection (b), there are authorized to be appropriated $5,663,000 for each of fiscal years 2021 through 2025.
     - **(B)** To carry out subsection (c), there are authorized to be appropriated $4,500,000 for each of fiscal years 2010 through 2014.
     - **(C)** To carry out subsection (d), there are authorized to be appropriated such sums as may be necessary for fiscal years 2010 through 2014.
   - **(2)** Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not less than $600,000 for conducting health professions research and for carrying out data collection and analysis in accordance with section 295k of this title .

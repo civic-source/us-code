@@ -1,14 +1,12 @@
 ---
-title: "Section 17555 - Authorization of appropriations for research"
+title: "Section 17555 - Transferred"
 usc_title: 42
 usc_section: "17555"
 chapter: 153
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 17555"
-generated_at: "2026-03-29T19:31:45.907Z"
+generated_at: "2026-03-29T20:00:55.632Z"
 ---
 
-# § 17555. Authorization of appropriations for research
-
-There are authorized to be appropriated to the Attorney General to carry out sections 17551, 17552, 17553, and 17554 of this title, $10,000,000 for each of the fiscal years 2009 and 2010.
+# § 17555. Transferred
 

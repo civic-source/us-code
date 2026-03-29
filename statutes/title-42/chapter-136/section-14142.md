@@ -1,15 +1,12 @@
 ---
-title: "Section 14142 - Data on use of excessive force"
+title: "Section 14142 - Transferred"
 usc_title: 42
 usc_section: "14142"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14142"
-generated_at: "2026-03-29T19:31:45.769Z"
+generated_at: "2026-03-29T20:00:55.492Z"
 ---
 
-# § 14142. Data on use of excessive force
+# § 14142. Transferred
 
-- **(a)** The Attorney General shall, through appropriate means, acquire data about the use of excessive force by law enforcement officers.
-- **(b)** Data acquired under this section shall be used only for research or statistical purposes and may not contain any information that may reveal the identity of the victim or any law enforcement officer.
-- **(c)** The Attorney General shall publish an annual summary of the data acquired under this section.

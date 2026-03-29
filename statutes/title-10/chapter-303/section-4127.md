@@ -3,9 +3,9 @@ title: "Section 4127 - Defense Innovation Unit"
 usc_title: 10
 usc_section: "4127"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4127"
-generated_at: "2026-03-29T02:10:45.210Z"
+generated_at: "2026-03-29T19:58:02.250Z"
 ---
 
 # § 4127. Defense Innovation Unit
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T02:10:45.210Z"
     - **(A)** select projects to be carried out by one or more of the service-level innovation organizations;
     - **(B)** allocate funds to service-level innovation organizations to carry out such projects; and
     - **(C)** monitor the execution of such projects by the service-level innovation organizations.
-  - **(9)** Serve as the principal liaison between the Department of Defense, nontraditional defense contractors, investors in nontraditional defense companies, and departments and agencies of the Federal Government pursuing nontraditional capabilities similar to those pursued by the Department.
+  - **(9)** Serve as the principal liaison between the Department of Defense, nontraditional defense contractors, investors in nontraditional defense companies, and departments and agencies of the Federal Government pursing 1 1 So in original. Probably should be “pursuing”. nontraditional capabilities similar to those pursued by the Department.
   - **(10)** Lead engagement with industry, academia, and other nongovernment entities to develop—
     - **(A)** domestic capacity with respect to innovative, commercial, and dual-use technologies and the use of nontraditional defense contractors; and
     - **(B)** the capacity of international allies and partners of the United States with respect to such technologies and the use of such contractors.
@@ -46,13 +46,7 @@ generated_at: "2026-03-29T02:10:45.210Z"
     - **(F)** such other forms of support as the Director determines appropriate.
   - **(3)** To the extent the Director determines appropriate, the Director shall seek to actively inform potential participants in multi-stakeholder research and innovation partnerships of the availability of Government-developed intellectual property that may be licensed to the partnership.
   - **(4)** On an annual basis, the Director shall submit to the Secretary of Defense and the congressional defense committees a report on the activities, advances, outcomes, and work product of the multi-stakeholder research and innovation partnerships supported under this subsection.
-- **(f)**
-  - **(1)** The Director may establish and maintain regional offices of the Unit at locations within and outside the United States for purposes of conducting outreach to and streamlining interactions between the Unit and the private sector, academia, and other mission partners.
-  - **(2)** In the event the Director exercises the authority to establish and maintain regional offices under paragraph (1), the Director shall—
-    - **(A)** develop a strategy and criteria for the selection of locations for such offices;
-    - **(B)** issue any rules, regulations, policies, or guidance necessary for the operation of such offices; and
-    - **(C)** make the information described in subparagraphs (A) and (B) available on a publicly accessible website of the Department of Defense.
-- **(g)** In this section:
+- **(f)** In this section:
   - **(1)** The term “multi-stakeholder research and innovation partnership” means a partnership composed of any combination of two or more of the following:
     - **(A)** Universities, colleges, or other institutions of higher education with research and innovation capability.
     - **(B)** Non-profit organizations that provide policy, research, outreach, operations, organizational, management, testing, evaluation, technology transfer, legal, financial, or advocacy expertise.

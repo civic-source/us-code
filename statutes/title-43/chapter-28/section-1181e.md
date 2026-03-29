@@ -1,14 +1,12 @@
 ---
-title: "Section 1181e - Rules and regulations generally; consultation and agreements with other agencies regarding fire regulations"
+title: "Section 1181e - Transferred"
 usc_title: 43
 usc_section: "1181e"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1181e"
-generated_at: "2026-03-29T19:31:49.093Z"
+generated_at: "2026-03-29T19:59:41.434Z"
 ---
 
-# § 1181e. Rules and regulations generally; consultation and agreements with other agencies regarding fire regulations
-
-The Secretary of the Interior is authorized to perform any and all acts and to make such rules and regulations as may be necessary and proper for the purpose of carrying the provisions of sections 1181a to 1181f of this title into full force and effect. The Secretary of the Interior is further authorized, in formulating forest-practice rules and regulations, to consult with the Oregon State Board of Forestry, representatives of timber owners and operators on or contiguous to said revested and reconveyed lands, and other persons or agencies interested in the use of such lands. In formulating regulations for the protection of such timberlands against fire, the Secretary is authorized, in his discretion, to consult and advise with Federal, State, and county agencies engaged in forest-fire-protection work, and to make agreements with such agencies for the cooperative administration of fire regulations therein: Provided , That rules and regulations for the protection of the revested lands from fire shall conform with the requirements and practices of the State of Oregon insofar as the same are consistent with the interests of the United States.
+# § 1181e. Transferred
 

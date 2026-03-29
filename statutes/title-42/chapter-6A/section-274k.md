@@ -3,9 +3,9 @@ title: "Section 274k - National Program"
 usc_title: 42
 usc_section: "274k"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 274k"
-generated_at: "2026-03-29T19:31:44.242Z"
+generated_at: "2026-03-29T20:00:53.799Z"
 ---
 
 # § 274k. National Program
@@ -23,6 +23,7 @@ generated_at: "2026-03-29T19:31:44.242Z"
     - **(A)** to prohibit any member of the Advisory Council who has an employment, governance, or financial affiliation with a donor center, recruitment organization, transplant center, or cord blood bank from participating in any decision that materially affects the center, recruitment organization, transplant center, or cord blood bank; and
     - **(B)** to limit the number of members of the Advisory Council with any such affiliation.
   - **(6)** The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit to Congress an annual report on the activities carried out under this section.
+  - **(7)** The Secretary shall convene the Advisory Council at least two times each calendar year.
 - **(b)** The Secretary shall, through a public process, recognize one or more accreditation entities for the accreditation of cord blood banks.
 - **(c)** The Secretary shall, through a public process, examine issues of informed consent, including—
   - **(1)** the appropriate timing of such consent; and
@@ -52,7 +53,7 @@ generated_at: "2026-03-29T19:31:44.242Z"
       - **(vi)** coordinate with the qualified cord blood banks to support informational and educational activities in accordance with subsection (g);
       - **(vii)** maintain and expand medical contingency response capabilities, in coordination with Federal programs, to prepare for and respond effectively to biological, chemical, or radiological attacks, and other public health emergencies that can damage marrow, so that the capability of supporting patients with marrow damage from disease can be used to support casualties with marrow damage; and
       - **(viii)** with respect to the system under subparagraph (A), collect, analyze, and publish data in a standardized electronic format, as required by the Secretary, on the number and percentage of patients at each of the various stages of the search process, including data regarding the furthest stage reached, the number and percentage of patients who are unable to complete the search process, and the reasons underlying such circumstances.
-    - **(B)** In carrying out subparagraph (A)(iv), not later than 1 year after October 8, 2010 , and annually thereafter, the Secretary shall set an annual goal of increasing collections of high quality cord blood units, consistent with the inventory goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (referred to in this subparagraph as the “inventory goal”), and shall identify at least one project under subparagraph (A)(iv) to replicate and expand nationwide, as appropriate. If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding collection of high quality cord blood units, including remote collection, consistent with the requirements under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public.
+    - **(B)** In carrying out subparagraph (A)(iv), not later than 1 year after October 8, 2010 , and annually thereafter, the Secretary shall set an annual goal of increasing collections of high quality cord blood units, including remote collection, consistent with the inventory goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (referred to in this subparagraph as the “inventory goal”), and shall identify at least one project under subparagraph (A)(iv) to replicate and expand nationwide, as appropriate.
     - **(C)** In this paragraph, the term “remote collection” means the collection of cord blood units at locations that do not have written contracts with cord blood banks for collection support.
   - **(3)**
     - **(A)** The Secretary shall ensure that health care professionals and patients are able to search electronically for and facilitate access to, in the manner and to the extent defined by the Secretary and consistent with the functions described in paragraphs (1)(A) and (2)(A)(i), cells from bone marrow donors and cord blood units through a single point of access.
@@ -130,3 +131,8 @@ generated_at: "2026-03-29T19:31:44.242Z"
   - **(1)** Each recipient of a contract or subcontract under subsection (a) shall keep such records as the Secretary shall prescribe, including records that fully disclose the amount and disposition by the recipient of the proceeds of the contract, the total cost of the undertaking in connection with which the contract was made, and the amount of the portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
   - **(2)** The Secretary and the Comptroller General of the United States shall have access to any books, documents, papers, and records of the recipient of a contract or subcontract entered into under this section that are pertinent to the contract, for the purpose of conducting audits and examinations.
 - **(n)** Any person who discloses the content of any record referred to in subsection (d)(4)(D) or (f)(5)(A) without the prior written consent of the donor or potential donor with respect to whom the record is maintained, or in violation of the standards described in subsection (f)(5)(B), shall be imprisoned for not more than 2 years or fined in accordance with title 18, or both.
+- **(o)**
+  - **(1)** Not less frequently than every 2 years, the Secretary, in consultation with the Director of the National Institutes of Health, the Commissioner of Food and Drugs, the Administrator of the Health Resources and Services Administration, the Advisory Council, and other stakeholders, where appropriate given relevant expertise, shall conduct a review of the state of the science of using adult stem cells and birthing tissues to develop new types of therapies for patients, for the purpose of considering the potential inclusion of such new types of therapies in the Program.
+  - **(2)** Not later than June 30, 2025 , the Secretary shall—
+    - **(A)** complete the second review required by paragraph (1); and
+    - **(B)** informed by such review, submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives recommendations on the appropriateness of the inclusion of new types of therapies in the Program.

@@ -3,9 +3,9 @@ title: "Section 404 - Overpayments and underpayments"
 usc_title: 42
 usc_section: "404"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 404"
-generated_at: "2026-03-29T19:31:44.486Z"
+generated_at: "2026-03-29T20:00:54.141Z"
 ---
 
 # § 404. Overpayments and underpayments
@@ -23,6 +23,9 @@ generated_at: "2026-03-29T19:31:44.486Z"
     - **(A)** is made by direct deposit to a financial institution;
     - **(B)** is credited by the financial institution to a joint account of the deceased individual and another person; and
     - **(C)** such other person was entitled to a monthly benefit on the basis of the same wages and self-employment income as the deceased individual for the month preceding the month in which the deceased individual died,
+  - **(3)**
+    - **(A)** When any payment of more than the correct amount is made on behalf of an individual who is a represented minor beneficiary for a month in which such individual is in foster care under the responsibility of a State and the State is the representative payee of such individual, the State shall be liable for the repayment of the overpayment, and there shall be no adjustment of payments to, or recovery by the United States from, such individual.
+    - **(B)** For purposes of this paragraph, the term “represented minor beneficiary” has the meaning given such term in subsection (j)(11)(B)(iii). 1 1 See References in Text note below.
 - **(b)**
   - **(1)** In any case in which more than the correct amount of payment has been made, there shall be no adjustment of payments to, or recovery by the United States from, any person who is without fault if such adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience.
   - **(2)** In making for purposes of this subsection any determination of whether any individual is without fault, the Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).
@@ -48,7 +51,7 @@ generated_at: "2026-03-29T19:31:44.486Z"
   - **(7)** if there is no person who meets the requirements of paragraph (1), (2), (3), (4), (5), or (6), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the legal representative of the estate of the deceased individual, if any.
 - **(e)** For payments which are adjusted by reason of payment of benefits under the supplemental security income program established by subchapter XVI, see section 1320a–6 of this title .
 - **(f)**
-  - **(1)** With respect to any deliquent 1 1 So in original. Probably should be “delinquent”. amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5 , all as in effect immediately after April 26, 1996 .
+  - **(1)** With respect to any deliquent 2 2 So in original. Probably should be “delinquent”. amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5 , all as in effect immediately after April 26, 1996 .
   - **(2)** For purposes of paragraph (1), the term “delinquent amount” means an amount—
     - **(A)** in excess of the correct amount of payment under this subchapter;
     - **(B)** paid to a person after such person has attained 18 years of age; and

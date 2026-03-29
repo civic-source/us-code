@@ -1,14 +1,12 @@
 ---
-title: "Section 16922 - Actions to be taken when sex offender fails to comply"
+title: "Section 16922 - Transferred"
 usc_title: 42
 usc_section: "16922"
 chapter: 151
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 16922"
-generated_at: "2026-03-29T19:31:45.864Z"
+generated_at: "2026-03-29T20:00:55.590Z"
 ---
 
-# § 16922. Actions to be taken when sex offender fails to comply
-
-An appropriate official shall notify the Attorney General and appropriate law enforcement agencies of any failure by a sex offender to comply with the requirements of a registry and revise the jurisdiction’s registry to reflect the nature of that failure. The appropriate official, the Attorney General, and each such law enforcement agency shall take any appropriate action to ensure compliance.
+# § 16922. Transferred
 

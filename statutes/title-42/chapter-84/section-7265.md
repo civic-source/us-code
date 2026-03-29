@@ -3,14 +3,14 @@ title: "Section 7265 - Regional Energy Advisory Boards"
 usc_title: 42
 usc_section: "7265"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7265"
-generated_at: "2026-03-29T19:31:45.352Z"
+generated_at: "2026-03-29T20:00:55.100Z"
 ---
 
 # § 7265. Regional Energy Advisory Boards
 
 - **(a)** The Governors of the various States may establish Regional Energy Advisory Boards for their regions with such membership as they may determine.
 - **(b)** Representatives of the Secretary, the Secretary of Commerce, the Secretary of the Interior, the Chairman of the Council on Environmental Quality, the Commandant of the Coast Guard and the Administrator of the Environmental Protection Agency shall be entitled to participate as observers in the deliberations of any Board established pursuant to subsection (a) of this section. The Federal Cochairman of the Appalachian Regional Commission or any regional commission under title V of the Public Works and Economic Development Act [ 42 U.S.C. 3181 et seq.] shall be entitled to participate as an observer in the deliberations of any such Board which contains one or more States which are members of such Commission.
-- **(c)** Each Board established pursuant to subsection (a) of this section may make such recommendations as it determines to be appropriate to programs of the Department having a direct effect on the region.
-- **(d)** If any Regional Advisory Board makes specific recommendations pursuant to subsection (c) of this section, the Secretary shall, if such recommendations are not adopted in the implementation of the program, notify the Board in writing of his reasons for not adopting such recommendations.
+- **(c)** Each Board established pursuant to subsection (a) may make such recommendations as it determines to be appropriate to programs of the Department having a direct effect on the region.
+- **(d)** If any Regional Advisory Board makes specific recommendations pursuant to subsection (c), the Secretary shall, if such recommendations are not adopted in the implementation of the program, notify the Board in writing of his reasons for not adopting such recommendations.

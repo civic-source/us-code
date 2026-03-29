@@ -3,9 +3,9 @@ title: "Section 6214 - Relocation costs"
 usc_title: 22
 usc_section: "6214"
 chapter: 71
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 6214"
-generated_at: "2026-03-29T19:42:08.222Z"
+generated_at: "2026-03-29T19:59:24.259Z"
 ---
 
 # § 6214. Relocation costs

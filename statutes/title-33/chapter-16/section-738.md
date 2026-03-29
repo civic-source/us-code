@@ -1,12 +1,12 @@
 ---
-title: "Section 738 - Omitted"
+title: "Section 738 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(9) , Dec. 23, 2022 , 136 Stat. 4165"
 usc_title: 33
 usc_section: "738"
 chapter: 16
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 738"
-generated_at: "2026-03-29T19:43:07.595Z"
+generated_at: "2026-03-29T20:00:31.276Z"
 ---
 
-# §§ 737, 738. Omitted
+# § 738. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(9) , Dec. 23, 2022 , 136 Stat. 4165
 

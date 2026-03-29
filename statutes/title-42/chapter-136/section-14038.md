@@ -1,14 +1,12 @@
 ---
-title: "Section 14038 - Inclusion in National Incident-Based Reporting System"
+title: "Section 14038 - Transferred"
 usc_title: 42
 usc_section: "14038"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14038"
-generated_at: "2026-03-29T19:31:45.750Z"
+generated_at: "2026-03-29T20:00:55.491Z"
 ---
 
-# § 14038. Inclusion in National Incident-Based Reporting System
-
-Not later than 2 years after September 13, 1994 , the Attorney General, in accordance with the States, shall compile data regarding domestic violence and intimidation (including stalking) as part of the National Incident-Based Reporting System (NIBRS).
+# § 14038. Transferred
 

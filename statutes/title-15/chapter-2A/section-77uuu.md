@@ -3,9 +3,9 @@ title: "Section 77uuu - Special powers of the Commission"
 usc_title: 15
 usc_section: "77uuu"
 chapter: 2
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 77uuu"
-generated_at: "2026-03-29T19:44:42.497Z"
+generated_at: "2026-03-29T19:58:17.276Z"
 ---
 
 # § 77uuu. Special powers of the Commission

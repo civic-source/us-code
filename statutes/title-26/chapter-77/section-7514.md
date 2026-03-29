@@ -3,9 +3,9 @@ title: "Section 7514 - Authority to prescribe or modify seals"
 usc_title: 26
 usc_section: "7514"
 chapter: 77
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 7514"
-generated_at: "2026-03-29T19:42:48.020Z"
+generated_at: "2026-03-29T19:59:49.662Z"
 ---
 
 # § 7514. Authority to prescribe or modify seals

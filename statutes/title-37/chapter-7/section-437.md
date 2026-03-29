@@ -3,9 +3,9 @@ title: "Section 437 - Allowance to cover monthly premiums for Servicemembers’ 
 usc_title: 37
 usc_section: "437"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "37 U.S.C. § 437"
-generated_at: "2026-03-29T19:43:17.255Z"
+generated_at: "2026-03-29T20:00:34.794Z"
 ---
 
 # § 437. Allowance to cover monthly premiums for Servicemembers’ Group Life Insurance: members serving in a designated duty assignment

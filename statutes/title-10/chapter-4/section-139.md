@@ -3,9 +3,9 @@ title: "Section 139 - Director of Operational Test and Evaluation"
 usc_title: 10
 usc_section: "139"
 chapter: 4
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 139"
-generated_at: "2026-03-29T19:43:37.776Z"
+generated_at: "2026-03-29T19:58:01.932Z"
 ---
 
 # § 139. Director of Operational Test and Evaluation
@@ -39,7 +39,7 @@ generated_at: "2026-03-29T19:43:37.776Z"
 - **(h)**
   - **(1)** The Director shall prepare an annual report summarizing the operational test and evaluation activities (including live fire testing activities) of the Department of Defense during the preceding fiscal year.
   - **(2)** Each such report shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, the Secretaries of the military departments, and the Congress not later than January 31 of each year.
-  - **(3)** If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.
+  - **(3)** If the Director submits the report to Congress in a classified or controlled unclassified form, the Director shall concurrently submit to Congress a version of the report that is unclassified and does not require safeguarding or dissemination controls.
   - **(4)** The report shall include such comments and recommendations as the Director considers appropriate, including comments and recommendations on resources and facilities available for operational test and evaluation and levels of funding made available for operational test and evaluation activities. The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscal year, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.
   - **(5)** The Director shall solicit comments from the Secretaries of the military departments on each report of the Director to Congress under this section and include any comments as an appendix to the Director’s report. The Director shall determine the amount of time available for the Secretaries to comment on the draft report on a case by case basis, and consider the extent to which substantive discussions have already been held between the Director and the military department. The Director shall reserve the right to issue the report without comment from a military department if the department’s comments are not received within the time provided, and shall indicate any such omission in the report.
 - **(i)** The Director shall comply with requests from Congress (or any committee of either House of Congress) for information relating to operational test and evaluation in the Department of Defense.

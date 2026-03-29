@@ -3,9 +3,9 @@ title: "Section 2159 - Purchase and sale of obligations"
 usc_title: 12
 usc_section: "2159"
 chapter: 23
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 2159"
-generated_at: "2026-03-29T19:44:54.195Z"
+generated_at: "2026-03-29T19:58:40.967Z"
 ---
 
 # § 2159. Purchase and sale of obligations

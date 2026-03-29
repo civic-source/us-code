@@ -3,9 +3,9 @@ title: "Section 322 - Annual appropriation"
 usc_title: 7
 usc_section: "322"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 322"
-generated_at: "2026-03-29T19:43:58.047Z"
+generated_at: "2026-03-29T19:57:38.941Z"
 ---
 
 # § 322. Annual appropriation

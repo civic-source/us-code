@@ -3,9 +3,9 @@ title: "Section 1585 - Acquisition of housing sites"
 usc_title: 42
 usc_section: "1585"
 chapter: 9
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1585"
-generated_at: "2026-03-29T19:31:44.929Z"
+generated_at: "2026-03-29T20:00:54.664Z"
 ---
 
 # § 1585. Acquisition of housing sites

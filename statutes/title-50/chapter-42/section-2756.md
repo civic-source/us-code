@@ -3,9 +3,9 @@ title: "Section 2756 - Unfunded priorities of the Administration"
 usc_title: 50
 usc_section: "2756"
 chapter: 42
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 2756"
-generated_at: "2026-03-29T19:44:52.819Z"
+generated_at: "2026-03-29T20:01:07.307Z"
 ---
 
 # § 2756. Unfunded priorities of the Administration
@@ -15,13 +15,13 @@ generated_at: "2026-03-29T19:44:52.819Z"
   - **(2)** if the Administrator determines that there are no unfunded priorities to include in such a report, a certification and explanation by the Administrator, without delegation, of the determination.
 - **(b)**
   - **(1)** Each report under subsection (a)(1) shall specify, for each unfunded priority covered by the report, the following:
-    - **(A)** A summary description of that priority, including the objectives to be achieved if that priority is funded (whether in whole or in part).
-    - **(B)** The additional amount of funds recommended in connection with the objectives under subparagraph (A).
+    - **(A)** A summary description of that priority, including the objectives to be achieved or the risk to be mitigated if that priority is funded (whether in whole or in part).
+    - **(B)** The additional amount of funds recommended in connection with the objectives or risk mitigation under subparagraph (A).
     - **(C)** Account information with respect to that priority.
   - **(2)** Each report under subsection (a)(1) shall present the unfunded priorities covered by the report in order of urgency of priority.
 - **(c)** In this section, the term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement that—
   - **(1)** is not funded in the budget of the President for that fiscal year as submitted to Congress pursuant to section 1105(a) of title 31 ;
-  - **(2)** is necessary to fulfill a requirement associated with the mission of the Administration; and
+  - **(2)** is necessary to address a requirement associated with the mission of the Administration; and
   - **(3)** would have been recommended for funding through the budget referred to in paragraph (1) by the Administrator—
     - **(A)** if additional resources were available for the budget to fund the program, activity, or mission requirement; or
     - **(B)** in the case of a program, activity, or mission requirement that emerged after the budget was formulated, if the program, activity, or mission requirement had emerged before the budget was formulated.

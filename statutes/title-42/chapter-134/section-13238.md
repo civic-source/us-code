@@ -3,9 +3,9 @@ title: "Section 13238 - Alternative fuel use in nonroad vehicles and engines"
 usc_title: 42
 usc_section: "13238"
 chapter: 134
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 13238"
-generated_at: "2026-03-29T19:31:45.710Z"
+generated_at: "2026-03-29T20:00:55.467Z"
 ---
 
 # § 13238. Alternative fuel use in nonroad vehicles and engines

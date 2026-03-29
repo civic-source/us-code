@@ -3,9 +3,9 @@ title: "Section 220 - Illegal remunerations for referrals to recovery homes, cli
 usc_title: 18
 usc_section: "220"
 chapter: 11
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "18 U.S.C. § 220"
-generated_at: "2026-03-29T19:41:06.751Z"
+generated_at: "2026-03-29T19:58:59.636Z"
 ---
 
 # § 220. Illegal remunerations for referrals to recovery homes, clinical treatment facilities, and laboratories

@@ -3,9 +3,9 @@ title: "Section 4817 - Requirements to identify and control the export of emergi
 usc_title: 50
 usc_section: "4817"
 chapter: 58
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 4817"
-generated_at: "2026-03-29T19:44:52.933Z"
+generated_at: "2026-03-29T20:01:07.450Z"
 ---
 
 # § 4817. Requirements to identify and control the export of emerging and foundational technologies
@@ -68,7 +68,7 @@ generated_at: "2026-03-29T19:44:52.933Z"
     - **(A)** The Emerging Technology and Research Advisory Committee should meet not less frequently than every 120 days.
     - **(B)** A representative from each agency participating in the interagency process established under subsection (a) should be in attendance at each meeting of the Emerging Technology and Research Advisory Committee.
   - **(4)** Not fewer than half of the members of the Emerging Technology and Research Advisory Committee should hold sufficient security clearances such that classified information, including classified information described in clauses (ii) and (iii) of subsection (a)(2)(A), from the interagency process established under subsection (a) can be shared with those members to inform the advice provided by the Advisory Committee.
-  - **(5)** Subsections (a)(1), (a)(3), and (b) of section 10 and sections 11, 13, and 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Emerging Technology and Research Advisory Committee.
+  - **(5)** Subsections (a)(1), (a)(3), and (b) of section 10 and sections 11, 13, and 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the Emerging Technology and Research Advisory Committee.
   - **(6)** The Emerging Technology and Research Advisory Committee shall include the findings of the Advisory Committee under this subsection in the annual report to Congress required by section 4824 of this title .
 - **(g)** Nothing in this chapter shall be construed to alter or limit—
   - **(1)** the authority of the President or the Secretary of State to designate items as defense articles and defense services for the purposes of the Arms Export Control Act ( 22 U.S.C. 2751 et seq.) or to otherwise regulate such items; or

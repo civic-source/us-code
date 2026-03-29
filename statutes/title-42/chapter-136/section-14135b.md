@@ -1,29 +1,12 @@
 ---
-title: "Section 14135b - Collection and use of DNA identification information from certain District of Columbia offenders"
+title: "Section 14135b - Transferred"
 usc_title: 42
 usc_section: "14135b"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14135b"
-generated_at: "2026-03-29T19:31:45.768Z"
+generated_at: "2026-03-29T20:00:55.492Z"
 ---
 
-# § 14135b. Collection and use of DNA identification information from certain District of Columbia offenders
+# § 14135b. Transferred
 
-- **(a)**
-  - **(1)** The Director of the Bureau of Prisons shall collect a DNA sample from each individual in the custody of the Bureau of Prisons who is, or has been, convicted of a qualifying District of Columbia offense (as determined under subsection (d)).
-  - **(2)** The Director of the Court Services and Offender Supervision Agency for the District of Columbia shall collect a DNA sample from each individual under the supervision of the Agency who is on supervised release, parole, or probation who is, or has been, convicted of a qualifying District of Columbia offense (as determined under subsection (d)).
-  - **(3)** For each individual described in paragraph (1) or (2), if the Combined DNA Index System (in this section referred to as “CODIS”) of the Federal Bureau of Investigation contains a DNA analysis with respect to that individual, the Director of the Bureau of Prisons or Agency (as applicable) may (but need not) collect a DNA sample from that individual.
-  - **(4)**
-    - **(A)** The Director of the Bureau of Prisons or Agency (as applicable) may use or authorize the use of such means as are reasonably necessary to detain, restrain, and collect a DNA sample from an individual who refuses to cooperate in the collection of the sample.
-    - **(B)** The Director of the Bureau of Prisons or Agency, as appropriate, may enter into agreements with units of State or local government or with private entities to provide for the collection of the samples described in paragraph (1) or (2).
-  - **(5)** An individual from whom the collection of a DNA sample is authorized under this subsection who fails to cooperate in the collection of that sample shall be—
-    - **(A)** guilty of a class A misdemeanor; and
-    - **(B)** punished in accordance with title 18.
-- **(b)** The Director of the Bureau of Prisons or Agency (as applicable) shall furnish each DNA sample collected under subsection (a) to the Director of the Federal Bureau of Investigation, who shall carry out a DNA analysis on each such DNA sample and include the results in CODIS.
-- **(c)** In this section:
-  - **(1)** The term “DNA sample” means a tissue, fluid, or other bodily sample of an individual on which a DNA analysis can be carried out.
-  - **(2)** The term “DNA analysis” means analysis of the deoxyribonucleic acid (DNA) identification information in a bodily sample.
-- **(d)** The government of the District of Columbia may determine those offenses under the District of Columbia Code that shall be treated for purposes of this section as qualifying District of Columbia offenses.
-- **(e)** Collection of DNA samples under subsection (a) shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000 .
-- **(f)** There are authorized to be appropriated to the Court Services and Offender Supervision Agency for the District of Columbia to carry out this section such sums as may be necessary for each of fiscal years 2001 through 2005.

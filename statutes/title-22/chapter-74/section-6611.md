@@ -3,9 +3,9 @@ title: "Section 6611 - Reorganization authority"
 usc_title: 22
 usc_section: "6611"
 chapter: 74
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 6611"
-generated_at: "2026-03-29T19:42:08.234Z"
+generated_at: "2026-03-29T19:59:24.269Z"
 ---
 
 # § 6611. Reorganization authority

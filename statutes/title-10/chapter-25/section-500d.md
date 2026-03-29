@@ -3,9 +3,9 @@ title: "Section 500d - Electromagnetic spectrum superiority implementation plan"
 usc_title: 10
 usc_section: "500d"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 500d"
-generated_at: "2026-03-29T02:10:44.876Z"
+generated_at: "2026-03-29T19:58:01.979Z"
 ---
 
 # § 500d. Electromagnetic spectrum superiority implementation plan

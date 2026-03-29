@@ -3,18 +3,19 @@ title: "Section 688 - Retired members: authority to order to active duty; duties
 usc_title: 10
 usc_section: "688"
 chapter: 39
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 688"
-generated_at: "2026-03-29T19:43:37.836Z"
+generated_at: "2026-03-29T19:58:01.998Z"
 ---
 
 # § 688. Retired members: authority to order to active duty; duties
 
 - **(a)** Under regulations prescribed by the Secretary of Defense, a member described in subsection (b) may be ordered to active duty by the Secretary of the military department concerned at any time.
 - **(b)** Except as provided in subsection (d), subsection (a) applies to the following members of the armed forces:
-  - **(1)** A retired member of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force.
+  - **(1)** A retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps.
   - **(2)** A member of the Retired Reserve who was retired under section 1293, 7311, 7314, 8323, 9311, or 9314 of this title.
   - **(3)** A member of the Fleet Reserve or Fleet Marine Corps Reserve.
+  - **(4)** A retired member of the Space Force.
 - **(c)** The Secretary concerned may, to the extent consistent with other provisions of law, assign a member ordered to active duty under this section to such duties as the Secretary considers necessary in the interests of national defense.
 - **(d)** The following officers may not be ordered to active duty under this section:
   - **(1)** An officer who retired under section 638 of this title .

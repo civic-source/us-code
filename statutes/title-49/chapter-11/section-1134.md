@@ -3,9 +3,9 @@ title: "Section 1134 - Inspections and autopsies"
 usc_title: 49
 usc_section: "1134"
 chapter: 11
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 1134"
-generated_at: "2026-03-29T19:44:57.830Z"
+generated_at: "2026-03-29T20:01:14.783Z"
 ---
 
 # § 1134. Inspections and autopsies
@@ -24,3 +24,7 @@ generated_at: "2026-03-29T19:44:57.830Z"
 - **(f)**
   - **(1)** The Board may order an autopsy to be performed and have other tests made when necessary to investigate an accident under this chapter. However, local law protecting religious beliefs related to autopsies shall be observed to the extent consistent with the needs of the accident investigation.
   - **(2)** With or without reimbursement, the Board may obtain a copy of an autopsy report performed by a State or local official on an individual who died because of a transportation accident investigated by the Board under this chapter.
+- **(g)** In investigating an accident under this chapter, the Board may require from a transportation operator or equipment manufacturer or the vendors, suppliers, subsidiaries, or parent companies of such manufacturer, or operator of a product or service which is subject to an investigation by the Board—
+  - **(1)** any recorder or recorded information pertinent to the accident;
+  - **(2)** without undue delay, information the Board determines necessary to enable the Board to read and interpret any recording device or recorded information pertinent to the accident; and
+  - **(3)** design specifications or data related to the operation and performance of the equipment the Board determines necessary to enable the Board to perform independent physics-based simulations and analyses of the accident situation.

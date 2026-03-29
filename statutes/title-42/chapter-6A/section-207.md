@@ -3,9 +3,9 @@ title: "Section 207 - Grades, ranks, and titles of commissioned corps"
 usc_title: 42
 usc_section: "207"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 207"
-generated_at: "2026-03-29T19:31:44.158Z"
+generated_at: "2026-03-29T20:00:53.682Z"
 ---
 
 # § 207. Grades, ranks, and titles of commissioned corps
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:31:44.158Z"
   - **(8)** Chief warrant officers of (W–3) grade—chief warrant officer (W–3);
   - **(9)** Chief warrant officers of (W–2) grade—chief warrant officer (W–2); and
   - **(10)** Warrant officers of (W–1) grade—warrant officer (W–1).
-- **(b)** The titles of medical officers of the foregoing grades shall be respectively (1) medical director, (2) senior surgeon, (3) surgeon, (4) senior assistant surgeon, (5) assistant surgeon, and (6) junior assistant surgeon. The President is authorized to prescribe titles, appropriate to the several grades, for commissioned officers of the Service other than medical officers. All titles of the officers of the Reserve Corps shall have the suffix “Reserve”.
+- **(b)** The titles of medical officers of the foregoing grades shall be respectively (1) medical director, (2) senior surgeon, (3) surgeon, (4) senior assistant surgeon, (5) assistant surgeon, and (6) junior assistant surgeon. The President is authorized to prescribe titles, appropriate to the several grades, for commissioned officers of the Service other than medical officers. All titles of the officers of the Ready Reserve Corps shall have the suffix “Reserve”.
 - **(c)**
 - **(d)** Within the total number of officers of the Regular Corps authorized by the appropriation Act or Acts for each fiscal year to be on active duty, the Secretary shall by regulation prescribe the maximum number of officers authorized to be in each of the grades from the warrant officer (W–1) grade to the director grade, inclusive. Such numbers shall be determined after considering the anticipated needs of the Service during the fiscal year, the funds available, the number of officers in each grade at the beginning of the fiscal year, and the anticipated appointments, the anticipated promotions based on years of service, and the anticipated retirements during the fiscal year. The number so determined for any grade for a fiscal year may not exceed the number limitation (if any) contained in the appropriation Act or Acts for such year. Such regulations for each fiscal year shall be prescribed as promptly as possible after the appropriation Act fixing the authorized strength of the corps for that year, and shall be subject to amendment only if such authorized strength or such number limitation is thereafter changed. The maxima established by such regulations shall not require (apart from action pursuant to other provisions of this chapter) any officer to be separated from the Service or reduced in grade.
 - **(e)** In computing the maximum number of commissioned officers of the Public Health Service authorized by law to hold a grade which corresponds to the grade of brigadier general or major general, there may be excluded from such computation not more than three officers who hold such a grade so long as such officers are assigned to duty and are serving in a policymaking position in the Department of Defense.

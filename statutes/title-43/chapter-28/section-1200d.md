@@ -1,14 +1,12 @@
 ---
-title: "Section 1200d - Effect of condemnation of Sioux lands for dam purposes on construction of Fort Randall Dam"
+title: "Section 1200d - Omitted"
 usc_title: 43
 usc_section: "1200d"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1200d"
-generated_at: "2026-03-29T19:31:49.094Z"
+generated_at: "2026-03-29T19:59:41.434Z"
 ---
 
-# § 1200d. Effect of condemnation of Sioux lands for dam purposes on construction of Fort Randall Dam
-
-Nothing in this subchapter shall be construed to restrict completion of the Fort Randall Dam to provide flood protection and other benefits on the Missouri River.
+# § 1200d. Omitted
 

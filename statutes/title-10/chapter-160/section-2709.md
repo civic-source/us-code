@@ -3,9 +3,9 @@ title: "Section 2709 - Investment control process for environmental technologies
 usc_title: 10
 usc_section: "2709"
 chapter: 160
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2709"
-generated_at: "2026-03-29T19:43:38.007Z"
+generated_at: "2026-03-29T19:58:02.195Z"
 ---
 
 # § 2709. Investment control process for environmental technologies

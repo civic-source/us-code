@@ -3,9 +3,9 @@ title: "Section 2804 - National spatial data infrastructure"
 usc_title: 43
 usc_section: "2804"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 2804"
-generated_at: "2026-03-29T02:15:47.662Z"
+generated_at: "2026-03-29T19:59:41.516Z"
 ---
 
 # § 2804. National spatial data infrastructure

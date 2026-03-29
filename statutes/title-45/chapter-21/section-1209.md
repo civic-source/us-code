@@ -1,12 +1,12 @@
 ---
-title: "Section 1209 - Repealed. Pub. L. 108–7, div. I, title III , § 345(5), Feb. 20, 2003 , 117 Stat. 418"
+title: "Section 1209 - Repealed. Pub. L. 108–7, div. I, title III, § 345(5) , Feb. 20, 2003 , 117 Stat. 418"
 usc_title: 45
 usc_section: "1209"
 chapter: 21
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "45 U.S.C. § 1209"
-generated_at: "2026-03-29T19:31:12.252Z"
+generated_at: "2026-03-29T19:59:46.777Z"
 ---
 
-# § 1209. Repealed. Pub. L. 108–7, div. I, title III , § 345(5), Feb. 20, 2003 , 117 Stat. 418
+# § 1209. Repealed. Pub. L. 108–7, div. I, title III, § 345(5) , Feb. 20, 2003 , 117 Stat. 418
 

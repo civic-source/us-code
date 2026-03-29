@@ -3,16 +3,16 @@ title: "Section 6991h - Study of underground storage tanks"
 usc_title: 42
 usc_section: "6991h"
 chapter: 82
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6991h"
-generated_at: "2026-03-29T19:31:45.341Z"
+generated_at: "2026-03-29T20:00:55.089Z"
 ---
 
 # § 6991h. Study of underground storage tanks
 
 - **(a)** Not later than twelve months after November 8, 1984 , the Administrator shall complete a study of underground storage tanks used for the storage of regulated substances defined in section 6991(7)(B) of this title .
 - **(b)** Not later than thirty-six months after November 8, 1984 , the Administrator shall complete a study of all other underground storage tanks.
-- **(c)** The studies under subsections (a) and (b) of this section shall include an assessment of the ages, types (including methods of manufacture, coatings, protection systems, the compatibility of the construction materials and the installation methods) and locations (including the climate of the locations) of such tanks; soil conditions, water tables, and the hydrogeology of tank locations; the relationship between the foregoing factors and the likelihood of releases from underground storage tanks; the effectiveness and costs of inventory systems, tank testing, and leak detection systems; and such other factors as the Administrator deems appropriate.
+- **(c)** The studies under subsections (a) and (b) shall include an assessment of the ages, types (including methods of manufacture, coatings, protection systems, the compatibility of the construction materials and the installation methods) and locations (including the climate of the locations) of such tanks; soil conditions, water tables, and the hydrogeology of tank locations; the relationship between the foregoing factors and the likelihood of releases from underground storage tanks; the effectiveness and costs of inventory systems, tank testing, and leak detection systems; and such other factors as the Administrator deems appropriate.
 - **(d)** Not later than thirty-six months after November 8, 1984 , the Administrator shall conduct a study regarding the tanks referred to in subparagraphs (A) and (B) of section 6991(10) of this title . Such study shall include estimates of the number and location of such tanks and an analysis of the extent to which there may be releases or threatened releases from such tanks into the environment.
 - **(e)** Upon completion of the studies authorized by this section, the Administrator shall submit reports to the President and to the Congress containing the results of the studies and recommendations respecting whether or not such tanks should be subject to the preceding provisions of this subchapter.
 - **(f)**

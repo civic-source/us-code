@@ -3,9 +3,9 @@ title: "Section 665f - Cybersecurity education and training programs"
 usc_title: 6
 usc_section: "665f"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 665f"
-generated_at: "2026-03-29T19:43:43.824Z"
+generated_at: "2026-03-29T19:57:32.928Z"
 ---
 
 # § 665f. Cybersecurity education and training programs
@@ -33,6 +33,10 @@ generated_at: "2026-03-29T19:43:43.824Z"
   - **(2)** Each briefing conducted under paragraph (1) shall include—
     - **(A)** estimated figures on the number of students reached and teachers engaged;
     - **(B)** information on outreach and engagement efforts, including the activities described in subsection (b)(1)(E);
-    - **(C)** information on new curricula offerings and teacher training platforms; and
-    - **(D)** information on coordination with post-secondary education and workforce development programs at the Department.
+    - **(C)** information on any grants or cooperative agreements made pursuant to subsection (e), including how any such grants or cooperative agreements are being used to enhance cybersecurity education for underserved populations or communities;
+    - **(D)** information on new curricula offerings and teacher training platforms; and
+    - **(E)** information on coordination with post-secondary education and workforce development programs at the Department.
 - **(d)** The Director may use appropriated amounts to purchase promotional and recognition items and marketing and advertising services to publicize and promote the mission and services of the Agency, support the activities of the Agency, and to recruit and retain Agency personnel.
+- **(e)** The Director may award financial assistance in the form of grants or cooperative agreements to States, local governments, institutions of higher education (as such term is defined in section 1001 of title 20 ), nonprofit organizations, and other non-Federal entities as determined appropriate by the Director for the purpose of funding cybersecurity and infrastructure security education and training programs and initiatives to—
+  - **(1)** carry out the purposes of CETAP; and
+  - **(2)** enhance CETAP to address the national shortfall of cybersecurity professionals.

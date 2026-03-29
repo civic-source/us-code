@@ -3,9 +3,9 @@ title: "Section 16215 - Electric transmission and distribution programs"
 usc_title: 42
 usc_section: "16215"
 chapter: 149
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 16215"
-generated_at: "2026-03-29T19:31:45.836Z"
+generated_at: "2026-03-29T20:00:55.551Z"
 ---
 
 # § 16215. Electric transmission and distribution programs
@@ -22,8 +22,10 @@ generated_at: "2026-03-29T19:31:45.836Z"
   - **(7)** integration of power systems, including systems to deliver high-quality electric power, electric power reliability, and combined heat and power;
   - **(8)** supply of electricity to the power grid by small scale, distributed and residential-based power generators;
   - **(9)** the development and use of advanced grid design, operation, and planning tools;
-  - **(10)** any other infrastructure technologies, as appropriate; and
-  - **(11)** technology transfer and education.
+  - **(10)** the development of cost-effective technologies that enable two-way information and power flow between distributed energy resources and the electric grid;
+  - **(11)** the development of technologies and concepts that enable interoperability between distributed energy resources and other behind-the-meter devices and the electric grid;
+  - **(12)** any other infrastructure technologies, as appropriate; and
+  - **(13)** technology transfer and education.
 - **(b)**
   - **(1)** Not later than 1 year after August 8, 2005 , the Secretary, in consultation with other appropriate Federal agencies, shall prepare and submit to Congress a 5-year program plan to guide activities under this section.
   - **(2)** In preparing the program plan, the Secretary shall consult with—

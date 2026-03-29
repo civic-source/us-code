@@ -3,9 +3,9 @@ title: "Section 360cc - Protection for drugs for rare diseases or conditions"
 usc_title: 21
 usc_section: "360cc"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 360cc"
-generated_at: "2026-03-29T19:41:41.603Z"
+generated_at: "2026-03-29T19:59:28.416Z"
 ---
 
 # § 360cc. Protection for drugs for rare diseases or conditions

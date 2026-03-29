@@ -3,9 +3,9 @@ title: "Section 204 - Surface Transportation Security Advisory Committee"
 usc_title: 6
 usc_section: "204"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 204"
-generated_at: "2026-03-29T19:43:43.763Z"
+generated_at: "2026-03-29T19:57:32.865Z"
 ---
 
 # § 204. Surface Transportation Security Advisory Committee
@@ -77,4 +77,4 @@ generated_at: "2026-03-29T19:43:43.763Z"
   - **(5)** The Administrator shall maintain a public website that—
     - **(A)** lists the members of the Advisory Committee; and
     - **(B)** provides the contact information for the Advisory Committee.
-- **(f)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee or any subcommittee established under this section.
+- **(f)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the Advisory Committee or any subcommittee established under this section.

@@ -3,9 +3,9 @@ title: "Section 657 - Oversight of regulatory enforcement"
 usc_title: 15
 usc_section: "657"
 chapter: 14
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 657"
-generated_at: "2026-03-29T19:44:42.652Z"
+generated_at: "2026-03-29T19:58:17.611Z"
 ---
 
 # § 657. Oversight of regulatory enforcement
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T19:44:42.652Z"
   - **(1)** Not later than 180 days after March 29, 1996 , the Administrator shall designate a Small Business and Agriculture Regulatory Enforcement Ombudsman, who shall report directly to the Administrator, utilizing personnel of the Small Business Administration to the extent practicable. Other agencies shall assist the Ombudsman and take actions as necessary to ensure compliance with the requirements of this section. Nothing in this section is intended to replace or diminish the activities of any Ombudsman or similar office in any other agency.
   - **(2)** The Ombudsman shall—
     - **(A)** work with each agency with regulatory authority over small businesses to ensure that small business concerns that receive or are subject to an audit, on-site inspection, compliance assistance effort, or other enforcement related communication or contact by agency personnel are provided with a means to comment on the enforcement activity conducted by such personnel;
-    - **(B)** establish means to receive comments from small business concerns regarding actions by agency employees conducting compliance or enforcement activities with respect to the small business concern, means to refer comments to the Inspector General of the affected agency in the appropriate circumstances, and otherwise seek to maintain the identity of the person and small business concern making such comments on a confidential basis to the same extent as employee identities are protected under section 7 of the Inspector General Act of 1978 (5 U.S.C. App.);
+    - **(B)** establish means to receive comments from small business concerns regarding actions by agency employees conducting compliance or enforcement activities with respect to the small business concern, means to refer comments to the Inspector General of the affected agency in the appropriate circumstances, and otherwise seek to maintain the identity of the person and small business concern making such comments on a confidential basis to the same extent as employee identities are protected under section 407 of title 5 ;
     - **(C)** based on substantiated comments received from small business concerns and the Boards, annually report to Congress and affected agencies evaluating the enforcement activities of agency personnel including a rating of the responsiveness to small business of the various regional and program offices of each agency;
     - **(D)** coordinate and report annually on the activities, findings and recommendations of the Boards to the Administrator and to the heads of affected agencies; and
     - **(E)** provide the affected agency with an opportunity to comment on draft reports prepared under subparagraph (C), and include a section of the final report in which the affected agency may make such comments as are not addressed by the Ombudsman in revisions to the draft.
@@ -36,3 +36,7 @@ generated_at: "2026-03-29T19:44:42.652Z"
   - **(2)** The Board may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
   - **(3)** The Board may accept donations of services necessary to conduct its business, provided that the donations and their sources are disclosed by the Board.
   - **(4)** Members of the Board shall serve without compensation, provided that, members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Board.
+- **(e)** Not later than 6 months after October 10, 2022 , the Ombudsman shall maintain a publicly available website that includes—
+  - **(1)** hyperlinks to small entity compliance guides described under section 212(a)(1) of the Small Business Regulatory Enforcement Fairness Act of 1996; and
+  - **(2)** with respect to each such small entity compliance guide, the contact information for an individual who can offer assistance to small entities with respect to the rules that are the subject of such guide.
+- **(f)** The Ombudsman shall include in the annual report required under subsection (b)(2)(C) an assessment of agency compliance with the requirements of section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996 for the year covered by such annual report.

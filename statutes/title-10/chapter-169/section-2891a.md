@@ -3,9 +3,9 @@ title: "Section 2891a - Requirements relating to management of housing units"
 usc_title: 10
 usc_section: "2891a"
 chapter: 169
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2891a"
-generated_at: "2026-03-29T19:43:38.024Z"
+generated_at: "2026-03-29T19:58:02.214Z"
 ---
 
 # § 2891a. Requirements relating to management of housing units
@@ -49,7 +49,10 @@ generated_at: "2026-03-29T19:43:38.024Z"
   - **(13)** A landlord providing a housing unit shall agree to have any agreements or forms to be used by the landlord approved by the Assistant Secretary of Defense for Sustainment, including the following:
     - **(A)** A common lease agreement.
     - **(B)** Any disclosure or nondisclosure forms that could be given to a tenant.
-- **(e)**
+- **(e)** The Secretary concerned shall be responsible for—
+  - **(1)** providing for a mold inspection of each vacant housing unit before any new tenant moves into the unit; and
+  - **(2)** providing to the new tenant the results of the inspection.
+- **(f)**
   - **(1)** A landlord providing a housing unit may not impose on a tenant of the housing unit a supplemental payment, such as an out-of-pocket fee, in addition to the amount of rent the landlord charges for a unit of similar size and composition to the housing unit, without regard to whether or not the amount of the basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces is less than the amount of the rent.
   - **(2)** Nothing in paragraph (1) shall be construed—
     - **(A)** to prohibit a landlord from imposing an additional payment—

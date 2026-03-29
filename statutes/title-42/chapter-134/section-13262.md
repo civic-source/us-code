@@ -3,9 +3,9 @@ title: "Section 13262 - Enforcement"
 usc_title: 42
 usc_section: "13262"
 chapter: 134
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 13262"
-generated_at: "2026-03-29T19:31:45.713Z"
+generated_at: "2026-03-29T20:00:55.469Z"
 ---
 
 # § 13262. Enforcement

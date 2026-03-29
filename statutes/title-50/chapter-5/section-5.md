@@ -3,9 +3,9 @@ title: "Section 5 - Biennial report on stockpile requirements"
 usc_title: 50
 usc_section: "5"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 5"
-generated_at: "2026-03-29T19:44:52.742Z"
+generated_at: "2026-03-29T20:01:07.212Z"
 ---
 
 # § 98h–5. Biennial report on stockpile requirements
@@ -24,3 +24,11 @@ generated_at: "2026-03-29T19:44:52.742Z"
 - **(c)** The stockpile requirements shall be based on those strategic and critical materials necessary for the United States to replenish or replace, within three years of the end of the military conflict scenario required under subsection (b), all munitions, combat support items, and weapons systems that would be required after such a military conflict.
 - **(d)** The Secretary shall also include in each report under this section an examination of the effect that alternative mobilization periods under the military conflict scenario required under subsection (b), as well as a range of other military conflict scenarios addressing potentially more serious threats to national security, would have on the Secretary’s recommendations under subsection (a)(1) with respect to stockpile requirements.
 - **(e)** The President shall submit with each report under this section a statement of the plans of the President for meeting the recommendations of the Secretary set forth in the report.
+- **(f)**
+  - **(1)** Not later than March 1 each year, the National Defense Stockpile Manager shall provide to the congressional defense committees a briefing on strategic and critical materials that—
+    - **(A)** are determined to be in shortfall in the most recent report on stockpile requirements submitted under subsection (a); and
+    - **(B)** the acquisition or disposal of which is included in the Annual Materials and Operations Plan for the operation of the stockpile during the next fiscal year submitted under section 98h–2(b) of this title .
+  - **(2)** Each briefing required by paragraph (1) shall include—
+    - **(A)** a description of each material described in that paragraph, including the objective to be achieved if funding is provided, in whole or in part, for the acquisition of the material to remedy the shortfall;
+    - **(B)** an estimate of additional amounts required to provide such funding, if any; and
+    - **(C)** an assessment of the supply chain for each such material, including any assessment of any relevant risk in any such supply chain.

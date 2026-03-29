@@ -3,9 +3,9 @@ title: "Section 2402 - Administrator for Nuclear Security"
 usc_title: 50
 usc_section: "2402"
 chapter: 41
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 2402"
-generated_at: "2026-03-29T19:44:52.797Z"
+generated_at: "2026-03-29T20:01:07.282Z"
 ---
 
 # § 2402. Administrator for Nuclear Security
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T19:44:52.797Z"
   - **(4)** Resource requirements determination and allocation.
   - **(5)** Program management and direction.
   - **(6)** Safeguards and security.
-  - **(7)** Emergency management.
+  - **(7)** Emergency management and Nuclear Emergency Support Team capabilities, including all field-deployed and remote technical support to public health and safety missions, countering weapons of mass destruction operations, technical and operational nuclear forensics, and responses to United States nuclear weapon accidents.
   - **(8)** Integrated safety management.
   - **(9)** Environment, safety, and health operations.
   - **(10)** Administration of contracts, including the management and operations of the nuclear weapons production facilities and the national security laboratories.
@@ -33,6 +33,7 @@ generated_at: "2026-03-29T19:44:52.797Z"
   - **(17)** Public affairs.
   - **(18)** Eliminating inventories of surplus fissile materials usable for nuclear weapons.
   - **(19)** Liaison with other elements of the Department of Energy and with other Federal agencies, State, tribal, and local governments, and the public.
+  - **(20)** Information resources management, including cybersecurity.
 - **(c)** The Administrator is the senior procurement executive for the Administration for the purposes of section 1702(c) of title 41 .
 - **(d)** The Administrator may establish Administration-specific policies, unless disapproved by the Secretary of Energy.
 - **(e)** The Administrator serves as a member of the Nuclear Weapons Council under section 179 of title 10 .

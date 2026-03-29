@@ -3,9 +3,9 @@ title: "Section 502 - Rental of property for Forest Service; forage, care, and h
 usc_title: 16
 usc_section: "502"
 chapter: 2
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 502"
-generated_at: "2026-03-29T19:41:13.518Z"
+generated_at: "2026-03-29T19:59:08.104Z"
 ---
 
 # § 502. Rental of property for Forest Service; forage, care, and housing of animals; storage of vehicles and other equipment; pack stock; loss, damage, or destruction of horses, vehicles, and other equipment

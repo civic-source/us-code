@@ -1,14 +1,12 @@
 ---
-title: "Section 5784 - Authorization of appropriations"
+title: "Section 5784 - Repealed. Pub. L. 115–385, title IV, § 402(c)(2) , Dec. 21, 2018 , 132 Stat. 5160"
 usc_title: 42
 usc_section: "5784"
 chapter: 72
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5784"
-generated_at: "2026-03-29T19:31:45.248Z"
+generated_at: "2026-03-29T20:00:54.981Z"
 ---
 
-# § 5784. Authorization of appropriations
-
-There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for fiscal years 2004, 2005, 2006, 2007, and 2008.
+# § 5784. Repealed. Pub. L. 115–385, title IV, § 402(c)(2) , Dec. 21, 2018 , 132 Stat. 5160
 

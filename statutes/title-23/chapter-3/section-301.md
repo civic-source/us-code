@@ -3,9 +3,9 @@ title: "Section 301 - Freedom from tolls"
 usc_title: 23
 usc_section: "301"
 chapter: 3
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "23 U.S.C. § 301"
-generated_at: "2026-03-29T19:41:43.028Z"
+generated_at: "2026-03-29T19:59:25.843Z"
 ---
 
 # § 301. Freedom from tolls

@@ -1,12 +1,29 @@
 ---
-title: "Section 4875 - Prohibition on acquisition of personal protective equipment and certain other items from non-allied foreign nations]"
+title: "Section 4875 - Prohibition on acquisition of personal protective equipment and certain other items from non-allied foreign nations"
 usc_title: 10
 usc_section: "4875"
 chapter: 385
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4875"
-generated_at: "2026-03-29T19:43:38.077Z"
+generated_at: "2026-03-29T19:58:02.274Z"
 ---
 
-# [§ 4875. Prohibition on acquisition of personal protective equipment and certain other items from non-allied foreign nations]
+# § 4875. Prohibition on acquisition of personal protective equipment and certain other items from non-allied foreign nations
 
+- **(a)** Except as provided in subsection (c), the Secretary of Defense may not procure any covered item from any covered nation.
+- **(b)** Subsection (a) shall apply to prime contracts and subcontracts at any tier.
+- **(c)**
+  - **(1)** Subsection (a) does not apply under the following circumstances:
+    - **(A)** If the Secretary of Defense determines that covered materials of satisfactory quality and quantity, in the required form, cannot be procured as and when needed from nations other than covered nations to meet requirements at a reasonable price.
+    - **(B)** The procurement of a covered item for use outside of the United States.
+    - **(C)** Purchases for amounts not greater than $150,000.
+  - **(2)** A proposed procurement in an amount greater than $150,000 may not be divided into several purchases or contracts for lesser amounts in order to qualify for this exception.
+- **(d)** In this section:
+  - **(1)** The term “covered item” means an article or item of—
+    - **(A)** personal protective equipment for use in preventing spread of disease, such as by exposure to infected individuals or contamination or infection by infectious material (including nitrile and vinyl gloves, surgical masks, respirator masks and powered air purifying respirators and required filters, face shields and protective eyewear, surgical and isolation gowns, and head and foot coverings) or clothing, and the materials and components thereof, other than sensors, electronics, or other items added to and not normally associated with such personal protective equipment or clothing; or
+    - **(B)** sanitizing and disinfecting wipes, testing swabs, gauze, and bandages.
+  - **(2)** The term “covered nation” means—
+    - **(A)** the Democratic People’s Republic of North Korea;
+    - **(B)** the People’s Republic of China;
+    - **(C)** the Russian Federation; and
+    - **(D)** the Islamic Republic of Iran.

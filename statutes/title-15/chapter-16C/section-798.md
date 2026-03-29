@@ -3,9 +3,9 @@ title: "Section 798 - Definitions"
 usc_title: 15
 usc_section: "798"
 chapter: 16
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 798"
-generated_at: "2026-03-29T19:44:42.694Z"
+generated_at: "2026-03-29T19:58:17.656Z"
 ---
 
 # § 798. Definitions

@@ -3,9 +3,9 @@ title: "Section 10741 - Grant program to evaluate and improve educational method
 usc_title: 34
 usc_section: "10741"
 chapter: 101
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 10741"
-generated_at: "2026-03-29T19:42:53.102Z"
+generated_at: "2026-03-29T20:00:27.417Z"
 ---
 
 # § 10741. Grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities

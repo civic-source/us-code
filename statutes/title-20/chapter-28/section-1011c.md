@@ -3,9 +3,9 @@ title: "Section 1011c - National Advisory Committee on Institutional Quality and
 usc_title: 20
 usc_section: "1011c"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 1011c"
-generated_at: "2026-03-29T19:41:03.165Z"
+generated_at: "2026-03-29T19:58:56.629Z"
 ---
 
 # § 1011c. National Advisory Committee on Institutional Quality and Integrity
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T19:41:03.165Z"
     - **(A)** The agenda for a meeting of the Committee shall be established by the Chairperson and shall be submitted to the members of the Committee upon notification of the meeting.
     - **(B)** The agenda shall include, at a minimum, opportunity for public comment during the Committee’s deliberations.
   - **(3)** The Secretary shall designate an employee of the Department to serve as the Secretary’s designee to the Committee, and the Chairperson shall invite the Secretary’s designee to attend all meetings of the Committee.
-  - **(4)** The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee, except that section 14 of such Act shall not apply.
+  - **(4)** Chapter 10 of title 5 shall apply to the Committee, except that section 1013 of title 5 shall not apply.
 - **(e)**
   - **(1)** The Secretary shall annually publish in the Federal Register—
     - **(A)** a list containing, for each member of the Committee—
@@ -57,4 +57,4 @@ generated_at: "2026-03-29T19:41:03.165Z"
     - **(B)** a list of the date and location of each meeting during the fiscal year preceding the fiscal year in which the report is made;
     - **(C)** a list of the members of the Committee; and
     - **(D)** a list of the functions of the Committee, including any additional functions established by the Secretary through regulation.
-- **(f)** The Committee shall terminate on September 30, 2021 .
+- **(f)** The Committee shall terminate on September 30, 2021 . 1 1 See Termination of Committee note below.

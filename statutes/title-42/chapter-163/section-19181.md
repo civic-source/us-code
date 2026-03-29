@@ -3,9 +3,9 @@ title: "Section 19181 - Agency responsibilities"
 usc_title: 42
 usc_section: "19181"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 19181"
-generated_at: "2026-03-29T02:15:37.492Z"
+generated_at: "2026-03-29T20:00:55.716Z"
 ---
 
 # § 19181. Agency responsibilities
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T02:15:37.492Z"
     - **(B)** provide access to high-quality, relevant research experiences for students and faculty of HBCUs, TCUs, and MSIs;
     - **(C)** expand the professional networks of students and faculty of HBCUs, TCUs, and MSIs;
     - **(D)** broaden STEM educational opportunities for students and faculty of HBCUs, TCUs, and MSIs; and
-    - **(E)** support the transition of students of HBCUs, TCUs, and MSIs into the STEM workforce; 1 1 So in original. The semicolon probably should be a period.
+    - **(E)** support the transition of students of HBCUs, TCUs, and MSIs into the STEM workforce;
 - **(c)**
   - **(1)** Not later than one year after August 9, 2022 , the Director of the Office of Science and Technology Policy, in collaboration with the head of each Federal research agency, shall submit to Congress a report containing a strategic plan which reflects the plans of each Federal research agency to increase the capacity of HBCUs, TCUs, and MSIs to compete effectively for grants, contracts, or cooperative agreements and to encourage HBCUs, TCUs, and MSIs to participate in Federal programs.
   - **(2)** In developing a strategic plan under paragraph (1), the Director and the head of each Federal research agency shall consider the following:

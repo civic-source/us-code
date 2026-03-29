@@ -1,18 +1,23 @@
 ---
-title: "Section 134 - Procedures for notification of exposure"
+title: "Section 134 - Enforcement"
 usc_title: 42
 usc_section: "134"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 134"
-generated_at: "2026-03-29T19:31:44.447Z"
+generated_at: "2026-03-29T20:00:54.100Z"
 ---
 
-# § 300ff–134. Procedures for notification of exposure
+# § 300gg–134. Enforcement
 
-- **(a)** In making a notification required under section 300ff–132 of this title or section 300ff–133(d)(2) of this title , a medical facility shall provide—
-  - **(1)** the name of the infectious disease involved; and
-  - **(2)** the date on which the victim of the emergency involved was transported by emergency response employees to the medical facility involved.
-- **(b)** If a notification under section 300ff–132 of this title or section 300ff–133(d)(2) of this title is mailed or otherwise indirectly made—
-  - **(1)** the medical facility sending the notification shall, upon sending the notification, inform the designated officer to whom the notification is sent of the fact that the notification has been sent; and
-  - **(2)** such designated officer shall, not later than 10 days after being informed by the medical facility that the notification has been sent, inform such medical facility whether the designated officer has received the notification.
+- **(a)**
+  - **(1)** Each State may require a provider or health care facility (including a provider of air ambulance services) subject to the requirements of this part to satisfy such requirements applicable to the provider or facility.
+  - **(2)** In the case of a determination by the Secretary that a State has failed to substantially enforce the requirements to which paragraph (1) applies with respect to applicable providers and facilities in the State, the Secretary shall enforce such requirements under subsection (b) insofar as they relate to violations of such requirements occurring in such State.
+  - **(3)** A State may notify the Secretary of Labor, Secretary of Health and Human Services, or the Secretary of the Treasury, as applicable, of instances of violations of sections 300gg–131, 300gg–132, or 300gg–135 of this title with respect to participants, beneficiaries, or enrollees under a group health plan or group or individual health insurance coverage, as applicable 1 1 So in original. Probably should be followed by a comma. offered by a health insurance issuer and any enforcement actions taken against providers or facilities as a result of such violations, including the disposition of any such enforcement actions.
+- **(b)**
+  - **(1)** If a provider or facility is found by the Secretary to be in violation of a requirement to which subsection (a)(1) applies, the Secretary may apply a civil monetary penalty with respect to such provider or facility (including, as applicable, a provider of air ambulance services) in an amount not to exceed $10,000 per violation. The provisions of subsections (c) (with the exception of the first sentence of paragraph (1) of such subsection), (d), (e), (g), (h), (k), and ( l ) of section 1320a—7a of this title shall apply to a civil monetary penalty or assessment under this subsection in the same manner as such provisions apply to a penalty, assessment, or proceeding under subsection (a) of such section.
+  - **(2)** The provisions of paragraph (1) shall apply to enforcement of a provision (or provisions) specified in subsection (a)(1) only as provided under subsection (a)(2).
+  - **(3)** The Secretary shall, through rulemaking, establish a process to receive consumer complaints of violations of such provisions and provide a response to such complaints within 60 days of receipt of such complaints.
+  - **(4)** The Secretary shall waive the penalties described under paragraph (1) with respect to a facility or provider (including a provider of air ambulance services) who does not knowingly violate, and should not have reasonably known it violated, section 300gg–131 or 300gg–132 of this title (or, in the case of a provider of air ambulance services, section 300gg–135 of this title ) with respect to a participant, beneficiary, or enrollee, if such facility or provider, within 30 days of the violation, withdraws the bill that was in violation of such provision and reimburses the health plan or enrollee, as applicable, in an amount equal to the difference between the amount billed and the amount allowed to be billed under the provision, plus interest, at an interest rate determined by the Secretary.
+  - **(5)** The Secretary may establish a hardship exemption to the penalties under this subsection.
+- **(c)** The sections specified in subsection (a)(1) 2 2 So in original. Subsec. (a)(1) specifies “this part”, but does not specify individual sections. shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any requirement or prohibition except to the extent that such requirement or prohibition prevents the application of a requirement or prohibition of such a section.

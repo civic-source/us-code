@@ -3,9 +3,9 @@ title: "Section 6923 - Standards applicable to transporters of hazardous waste"
 usc_title: 42
 usc_section: "6923"
 chapter: 82
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6923"
-generated_at: "2026-03-29T19:31:45.319Z"
+generated_at: "2026-03-29T20:00:55.062Z"
 ---
 
 # § 6923. Standards applicable to transporters of hazardous waste
@@ -16,4 +16,4 @@ generated_at: "2026-03-29T19:31:45.319Z"
   - **(3)** compliance with the manifest system referred to in section 6922(5) 1 1 See References in Text note below. of this title; and
   - **(4)** transportation of all such hazardous waste only to the hazardous waste treatment, storage, or disposal facilities which the shipper designates on the manifest form to be a facility holding a permit issued under this subchapter, or pursuant to title I of the Marine Protection, Research, and Sanctuaries Act ( 86 Stat. 1052 ) [ 33 U.S.C. 1411 et seq.].
 - **(b)** In case of any hazardous waste identified or listed under this subchapter which is subject to chapter 51 of title 49, the regulations promulgated by the Administrator under this section shall be consistent with the requirements of such Act and the regulations thereunder. The Administrator is authorized to make recommendations to the Secretary of Transportation respecting the regulations of such hazardous waste under the Hazardous Materials Transportation Act and for addition of materials to be covered by such Act.
-- **(c)** Not later than two years after November 8, 1984 , and after opportunity for public hearing, the Administrator shall promulgate regulations establishing standards, applicable to transporters of fuel produced (1) from any hazardous waste identified or listed under section 6921 of this title , or (2) from any hazardous waste identified or listed under section 6921 of this title and any other material, as may be necessary to protect human health and the environment. Such standards may include any of the requirements set forth in paragraphs (1) through (4) of subsection (a) of this section as may be appropriate.
+- **(c)** Not later than two years after November 8, 1984 , and after opportunity for public hearing, the Administrator shall promulgate regulations establishing standards, applicable to transporters of fuel produced (1) from any hazardous waste identified or listed under section 6921 of this title , or (2) from any hazardous waste identified or listed under section 6921 of this title and any other material, as may be necessary to protect human health and the environment. Such standards may include any of the requirements set forth in paragraphs (1) through (4) of subsection (a) as may be appropriate.

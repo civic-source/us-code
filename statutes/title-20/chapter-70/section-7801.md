@@ -3,9 +3,9 @@ title: "Section 7801 - Definitions"
 usc_title: 20
 usc_section: "7801"
 chapter: 70
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 7801"
-generated_at: "2026-03-29T19:41:03.438Z"
+generated_at: "2026-03-29T19:58:56.937Z"
 ---
 
 # § 7801. Definitions
@@ -145,9 +145,8 @@ Except as otherwise provided, in this chapter:
   - **(34)** The terms “Native American” and “Native American language” have the same meaning given those terms in section 2902 of title 25 .
   - **(35)** The term “other staff” means specialized instructional support personnel, librarians, career guidance and counseling personnel, education aides, and other instructional and administrative personnel.
   - **(36)** The term “outlying area”—
-    - **(A)** means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the United States Virgin Islands;
-    - **(B)** means the Republic of Palau, to the extent permitted under section 1921d(f)(1)(B)(ix) of title 48 and until an agreement for the extension of United States education assistance under the Compact of Free Association becomes effective for the Republic of Palau; and
-    - **(C)** for the purpose of any discretionary grant program under this chapter, includes the Republic of the Marshall Islands and the Federated States of Micronesia, to the extent permitted under section 1921d(f)(1)(B)(viii) of title 48 .
+    - **(A)** means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the United States Virgin Islands; and
+    - **(B)** for the purpose of any discretionary grant program under this chapter, includes the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, to the extent that any such grant program continues to be available to State and local governments in the United States.
   - **(37)** The term “paraprofessional”, also known as a “paraeducator”, includes an education assistant and instructional assistant.
   - **(38)** The term “parent” includes a legal guardian or other person standing in loco parentis (such as a grandparent or stepparent with whom the child lives, or a person who is legally responsible for the child’s welfare).
   - **(39)** The term “parental involvement” means the participation of parents in regular, two-way, and meaningful communication involving student academic learning and other school activities, including ensuring—

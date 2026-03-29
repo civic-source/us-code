@@ -3,17 +3,22 @@ title: "Section 832 - Art. 32. Preliminary hearing required before referral to g
 usc_title: 10
 usc_section: "832"
 chapter: 47
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 832"
-generated_at: "2026-03-29T19:43:37.845Z"
+generated_at: "2026-03-29T19:58:02.010Z"
 ---
 
 # § 832. Art. 32. Preliminary hearing required before referral to general court-martial
 
 - **(a)**
   - **(1)**
-    - **(A)** Except as provided in subparagraph (B), a preliminary hearing shall be held before referral of charges and specifications for trial by general court-martial. The preliminary hearing shall be conducted by an impartial hearing officer, detailed by the convening authority in accordance with subsection (b).
-    - **(B)** Under regulations prescribed by the President, a preliminary hearing need not be held if the accused submits a written waiver to the convening authority and the convening authority determines that a hearing is not required.
+    - **(A)** Except as provided in subparagraph (B), a preliminary hearing shall be held before referral of charges and specifications for trial by general court-martial. The preliminary hearing shall be conducted by an impartial hearing officer detailed in accordance with subparagraph (C).
+    - **(B)** Under regulations prescribed by the President, a preliminary hearing need not be held if the accused submits a written waiver to—
+      - **(i)** except as provided in clause (ii), the convening authority and the convening authority determines that a hearing is not required; and
+      - **(ii)** with respect to charges and specifications over which the special trial counsel is exercising authority in accordance with section 824a of this title (article 24a), the special trial counsel and the special trial counsel determines that a hearing is not required.
+    - **(C)**
+      - **(i)** Except as provided in clause (ii), the convening authority shall detail a hearing officer.
+      - **(ii)** If a special trial counsel is exercising authority over the charges and specifications subject to a preliminary hearing under this section (article), the special trial counsel shall request a hearing officer and a hearing officer shall be provided by the convening authority, in accordance with regulations prescribed by the President.
   - **(2)** The purpose of the preliminary hearing shall be limited to determining the following:
     - **(A)** Whether or not the specification alleges an offense under this chapter.
     - **(B)** Whether or not there is probable cause to believe that the accused committed the offense charged.
@@ -25,7 +30,7 @@ generated_at: "2026-03-29T19:43:37.845Z"
     - **(B)** when it is not practicable to appoint a judge advocate because of exceptional circumstances, is not a judge advocate so certified.
   - **(2)** In the case of a hearing officer under paragraph (1)(B), a judge advocate who is certified under section 827(b)(2) of this title (article 27(b)(2)) shall be available to provide legal advice to the hearing officer.
   - **(3)** Whenever practicable, the hearing officer shall be equal in grade or senior in grade to military counsel who are detailed to represent the accused or the Government at the preliminary hearing.
-- **(c)** After a preliminary hearing under this section, the hearing officer shall submit to the convening authority a written report (accompanied by a recording of the preliminary hearing under subsection (e)) that includes the following:
+- **(c)** After a preliminary hearing under this section, the hearing officer shall submit to the convening authority or, in the case of a preliminary hearing in which the hearing officer is provided at the request of a special trial counsel to the special trial counsel, a written report (accompanied by a recording of the preliminary hearing under subsection (e)) that includes the following:
   - **(1)** For each specification, a statement of the reasoning and conclusions of the hearing officer with respect to determinations under subsection (a)(2), including a summary of relevant witness testimony and documentary evidence presented at the hearing and any observations of the hearing officer concerning the testimony of witnesses and the availability and admissibility of evidence at trial.
   - **(2)** Recommendations for any necessary modifications to the form of the charges or specifications.
   - **(3)** An analysis of any additional information submitted after the hearing by the parties or by a victim of an offense, that, under such rules as the President may prescribe, is relevant to disposition under sections 830 and 834 of this title (articles 30 and 34).

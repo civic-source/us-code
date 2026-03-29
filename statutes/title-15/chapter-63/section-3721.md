@@ -3,9 +3,9 @@ title: "Section 3721 - Federal loan guarantees for innovative technologies in ma
 usc_title: 15
 usc_section: "3721"
 chapter: 63
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 3721"
-generated_at: "2026-03-29T19:44:42.876Z"
+generated_at: "2026-03-29T19:58:17.821Z"
 ---
 
 # § 3721. Federal loan guarantees for innovative technologies in manufacturing
@@ -59,8 +59,7 @@ generated_at: "2026-03-29T19:44:42.876Z"
   - **(4)** any other policies, procedures, or information necessary to implement this section.
 - **(m)**
   - **(1)** The Secretary shall enter into an arrangement with an independent auditor for annual evaluations of the program under this section.
-  - **(2)** The Comptroller General of the United States shall conduct a biennial review of the Secretary’s execution of the program under this section.
-  - **(3)** The results of the independent audit under paragraph (1) and the Comptroller General’s review under paragraph (2) shall be provided directly to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+  - **(2)** The results of the independent audit under paragraph (1) shall be provided directly to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 - **(n)** Concurrent with the submission to Congress of the President’s annual budget request in each year after January 4, 2011 , the Secretary shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing a summary of all activities carried out under this section.
 - **(o)** To the maximum extent practicable, the Secretary shall ensure that the activities carried out under this section are coordinated with, and do not duplicate the efforts of, other loan guarantee programs within the Federal Government.
 - **(p)** The Secretary may use centers established under section 278k of this title to provide information about the program established under this section and to conduct outreach to potential borrowers, as appropriate.

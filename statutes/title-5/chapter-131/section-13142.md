@@ -3,9 +3,9 @@ title: "Section 13142 - Administration"
 usc_title: 5
 usc_section: "13142"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 13142"
-generated_at: "2026-03-29T02:10:02.016Z"
+generated_at: "2026-03-29T19:57:15.028Z"
 ---
 
 # § 13142. Administration

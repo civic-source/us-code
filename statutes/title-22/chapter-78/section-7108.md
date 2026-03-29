@@ -3,15 +3,15 @@ title: "Section 7108 - Actions against significant traffickers in persons"
 usc_title: 22
 usc_section: "7108"
 chapter: 78
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 7108"
-generated_at: "2026-03-29T19:42:08.250Z"
+generated_at: "2026-03-29T19:59:24.283Z"
 ---
 
 # § 7108. Actions against significant traffickers in persons
 
 - **(a)**
-  - **(1)** The President may exercise the authorities set forth in section 1702 of title 50 without regard to section 1701 of title 50 , or section 1263 of the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328 ; 22 U.S.C. 2656 note), in the case of any of the following persons:
+  - **(1)** The President may exercise the authorities set forth in section 1702 of title 50 without regard to section 1701 of title 50 , or section 10102 of this title , in the case of any of the following persons:
     - **(A)** Any foreign person that plays a significant role in a severe form of trafficking in persons, directly or indirectly in the United States.
     - **(B)** Foreign persons that materially assist in, or provide financial or technological support for or to, or provide goods or services in support of, activities of a significant foreign trafficker in persons identified pursuant to subparagraph (A).
     - **(C)** Foreign persons that are owned, controlled, or directed by, or acting for or on behalf of, a significant foreign trafficker identified pursuant to subparagraph (A).

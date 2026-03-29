@@ -3,9 +3,9 @@ title: "Section 1967 - Persons insured; amount"
 usc_title: 38
 usc_section: "1967"
 chapter: 19
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 1967"
-generated_at: "2026-03-29T19:43:26.983Z"
+generated_at: "2026-03-29T20:00:43.030Z"
 ---
 
 # § 1967. Persons insured; amount
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T19:43:26.983Z"
     - **(B)** A member may elect in writing not to insure the member’s spouse under this subchapter.
   - **(3)**
     - **(A)** Subject to subparagraphs (B), (C), and (D), the amount for which a person is insured under this subchapter is as follows:
-      - **(i)** In the case of a member, $400,000.
+      - **(i)** In the case of a member, $500,000.
       - **(ii)** In the case of a member’s spouse, $100,000.
       - **(iii)** In the case of a member’s child, $10,000.
     - **(B)** A member may elect in writing to be insured or to insure the member’s spouse in an amount less than the amount provided for under subparagraph (A). The member may not elect to insure the member’s child in an amount less than $10,000. The amount of insurance so elected shall, in the case of a member, be evenly divisible by $50,000 and, in the case of a member’s spouse, be evenly divisible by $10,000.

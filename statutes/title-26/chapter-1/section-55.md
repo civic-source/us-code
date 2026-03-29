@@ -3,26 +3,31 @@ title: "Section 55 - Alternative minimum tax imposed"
 usc_title: 26
 usc_section: "55"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 55"
-generated_at: "2026-03-29T19:42:47.520Z"
+generated_at: "2026-03-29T19:59:49.108Z"
 ---
 
 # § 55. Alternative minimum tax imposed
 
-- **(a)** In the case of a taxpayer other than a corporation, there is hereby imposed (in addition to any other tax imposed by this subtitle) a tax equal to the excess (if any) of—
+- **(a)** There is hereby imposed (in addition to any other tax imposed by this subtitle) a tax equal to the excess (if any) of—
   - **(1)** the tentative minimum tax for the taxable year, over
-  - **(2)** the regular tax for the taxable year.
+  - **(2)** the regular tax for the taxable year plus, in the case of an applicable corporation, the tax imposed by section 59A.
 - **(b)** For purposes of this part—
-  - **(1)**
+  - **(1)** In the case of a taxpayer other than a corporation—
     - **(A)** The tentative minimum tax for the taxable year is the sum of—
       - **(i)** 26 percent of so much of the taxable excess as does not exceed $175,000, plus
       - **(ii)** 28 percent of so much of the taxable excess as exceeds $175,000.
     - **(B)** For purposes of this subsection, the term “taxable excess” means so much of the alternative minimum taxable income for the taxable year as exceeds the exemption amount.
     - **(C)** In the case of a married individual filing a separate return, subparagraph (A) shall be applied by substituting 50 percent of the dollar amount otherwise applicable under clause (i) and clause (ii) thereof. For purposes of the preceding sentence, marital status shall be determined under section 7703.
-  - **(2)** The term “alternative minimum taxable income” means the taxable income of the taxpayer for the taxable year—
-    - **(A)** determined with the adjustments provided in section 56 and section 58, and
-    - **(B)** increased by the amount of the items of tax preference described in section 57.
+    - **(D)** The term “alternative minimum taxable income” means the taxable income of the taxpayer for the taxable year—
+      - **(i)** determined with the adjustments provided in section 56 and section 58, and
+      - **(ii)** increased by the amount of the items of tax preference described in section 57.
+  - **(2)**
+    - **(A)** In the case of an applicable corporation, the tentative minimum tax for the taxable year shall be the excess of—
+      - **(i)** 15 percent of the adjusted financial statement income for the taxable year (as determined under section 56A), over
+      - **(ii)** the corporate AMT foreign tax credit for the taxable year.
+    - **(B)** In the case of any corporation which is not an applicable corporation, the tentative minimum tax for the taxable year shall be zero.
   - **(3)** The amount determined under the first sentence of paragraph (1)(A) shall not exceed the sum of—
     - **(A)** the amount determined under such first sentence computed at the rates and in the same manner as if this paragraph had not been enacted on the taxable excess reduced by the lesser of—
       - **(i)** the net capital gain; or

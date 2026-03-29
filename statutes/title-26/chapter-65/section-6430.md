@@ -3,9 +3,9 @@ title: "Section 6430 - Treatment of tax imposed at Leaking Underground Storage T
 usc_title: 26
 usc_section: "6430"
 chapter: 65
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 6430"
-generated_at: "2026-03-29T19:42:47.988Z"
+generated_at: "2026-03-29T19:59:49.620Z"
 ---
 
 # § 6430. Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate

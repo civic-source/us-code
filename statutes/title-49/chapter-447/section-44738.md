@@ -3,9 +3,9 @@ title: "Section 44738 - Training on human trafficking for certain staff"
 usc_title: 49
 usc_section: "44738"
 chapter: 447
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 44738"
-generated_at: "2026-03-29T19:44:58.001Z"
+generated_at: "2026-03-29T20:01:14.993Z"
 ---
 
 # § 44738. Training on human trafficking for certain staff

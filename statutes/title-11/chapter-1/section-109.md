@@ -3,9 +3,9 @@ title: "Section 109 - Who may be a debtor"
 usc_title: 11
 usc_section: "109"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "11 U.S.C. § 109"
-generated_at: "2026-03-29T19:44:19.509Z"
+generated_at: "2026-03-29T19:58:09.443Z"
 ---
 
 # § 109. Who may be a debtor
@@ -28,7 +28,7 @@ generated_at: "2026-03-29T19:44:19.509Z"
     - **(C)** is unable to negotiate with creditors because such negotiation is impracticable; or
     - **(D)** reasonably believes that a creditor may attempt to obtain a transfer that is avoidable under section 547 of this title .
 - **(d)** Only a railroad, a person that may be a debtor under chapter 7 of this title (except a stockbroker or a commodity broker), and an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 1 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor under chapter 11 of this title.
-- **(e)** Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 2 2 See Adjustment of Dollar Amounts notes below. and noncontingent, liquidated, secured debts of less than $750,000, 2 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 2 and noncontingent, liquidated, secured debts of less than $750,000 2 may be a debtor under chapter 13 of this title.
+- **(e)** Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 2 and noncontingent, liquidated, secured debts of less than $750,000, 2 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 2 and noncontingent, liquidated, secured debts of less than $750,000 2 may be a debtor under chapter 13 of this title.
 - **(f)** Only a family farmer or family fisherman with regular annual income may be a debtor under chapter 12 of this title.
 - **(g)** Notwithstanding any other provision of this section, no individual or family farmer may be a debtor under this title who has been a debtor in a case pending under this title at any time in the preceding 180 days if—
   - **(1)** the case was dismissed by the court for willful failure of the debtor to abide by orders of the court, or to appear before the court in proper prosecution of the case; or

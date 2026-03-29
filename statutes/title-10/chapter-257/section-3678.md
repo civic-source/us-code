@@ -3,9 +3,9 @@ title: "Section 3678 - Contracts with terms of 18 months or more: limitation"
 usc_title: 10
 usc_section: "3678"
 chapter: 257
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3678"
-generated_at: "2026-03-29T19:43:38.045Z"
+generated_at: "2026-03-29T19:58:02.236Z"
 ---
 
 # § 3678. Contracts with terms of 18 months or more: limitation

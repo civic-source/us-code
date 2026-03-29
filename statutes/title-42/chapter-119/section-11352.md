@@ -3,9 +3,9 @@ title: "Section 11352 - Authorization of appropriations"
 usc_title: 42
 usc_section: "11352"
 chapter: 119
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 11352"
-generated_at: "2026-03-29T19:31:45.611Z"
+generated_at: "2026-03-29T20:00:55.372Z"
 ---
 
 # § 11352. Authorization of appropriations

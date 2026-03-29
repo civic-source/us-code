@@ -1,20 +1,16 @@
 ---
-title: "Section 131 - Infectious diseases and circumstances relevant to notification requirements"
+title: "Section 131 - Balance billing in cases of emergency services"
 usc_title: 42
 usc_section: "131"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 131"
-generated_at: "2026-03-29T19:31:44.446Z"
+generated_at: "2026-03-29T20:00:54.100Z"
 ---
 
-# § 300ff–131. Infectious diseases and circumstances relevant to notification requirements
+# § 300gg–131. Balance billing in cases of emergency services
 
-- **(a)** Not later than 180 days after October 30, 2009 , the Secretary shall complete the development of—
-  - **(1)** a list of potentially life-threatening infectious diseases, including emerging infectious diseases, to which emergency response employees may be exposed in responding to emergencies;
-  - **(2)** guidelines describing the circumstances in which such employees may be exposed to such diseases, taking into account the conditions under which emergency response is provided; and
-  - **(3)** guidelines describing the manner in which medical facilities should make determinations for purposes of section 300ff–133(d) of this title .
-- **(b)** The list developed by the Secretary under subsection (a)(1) shall include a specification of those infectious diseases on the list that are routinely transmitted through airborne or aerosolized means.
-- **(c)** The Secretary shall—
-  - **(1)** transmit to State public health officers copies of the list and guidelines developed by the Secretary under subsection (a) with the request that the officers disseminate such copies as appropriate throughout the States; and
-  - **(2)** make such copies available to the public.
+- **(a)** In the case of a participant, beneficiary, or enrollee with benefits under a group health plan or group or individual health insurance coverage offered by a health insurance issuer and who is furnished during a plan year beginning on or after January 1, 2022 , emergency services (for which benefits are provided under the plan or coverage) with respect to an emergency medical condition with respect to a visit at an emergency department of a hospital or an independent freestanding emergency department—
+  - **(1)** in the case that the hospital or independent freestanding emergency department is a nonparticipating emergency facility, the emergency department of a hospital or independent freestanding emergency department shall not bill, and shall not hold liable, the participant, beneficiary, or enrollee for a payment amount for such emergency services so furnished that is more than the cost-sharing requirement for such services (as determined in accordance with clauses (ii) and (iii) of section 300gg–111(a)(1)(C) of this title , of section 9816(a)(1)(C) of title 26 , and of section 1185e(a)(1)(C) of title 29 , as applicable); and
+  - **(2)** in the case that such services are furnished by a nonparticipating provider, the health care provider shall not bill, and shall not hold liable, such participant, beneficiary, or enrollee for a payment amount for an emergency service furnished to such individual by such provider with respect to such emergency medical condition and visit for which the individual receives emergency services at the hospital or emergency department that is more than the cost-sharing requirement for such services furnished by the provider (as determined in accordance with clauses (ii) and (iii) of section 300gg–111(a)(1)(C) of this title , of section 9816(a)(1)(C) of title 26 , and of section 1185e(a)(1)(C) of title 29 , as applicable).
+- **(b)** In this section, the term “visit” shall have such meaning as applied to such term for purposes of section 300gg–111(b) of this title .

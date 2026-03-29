@@ -3,9 +3,9 @@ title: "Section 4852 - Grants for lead-based paint hazard reduction in target ho
 usc_title: 42
 usc_section: "4852"
 chapter: 63
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4852"
-generated_at: "2026-03-29T19:31:45.175Z"
+generated_at: "2026-03-29T20:00:54.924Z"
 ---
 
 # § 4852. Grants for lead-based paint hazard reduction in target housing
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T19:31:45.175Z"
 - **(f)** The applicant may provide the services described in this section through a variety of programs, including grants, loans, equity investments, revolving loan funds, loan funds, loan guarantees, interest write-downs, and other forms of assistance approved by the Secretary.
 - **(g)**
   - **(1)** The Secretary shall develop the capacity of eligible applicants to carry out the requirements of section 12705(b)(16) 1 of this title and to carry out activities under this section. In fiscal years 1993 and 1994, the Secretary may make grants of up to $200,000 for the purpose of establishing State training, certification or accreditation programs that meet the requirements of section 2682 of title 15 .
-  - **(2)** Of the total amount approved in appropriation Acts under subsection ( o ) of this section, there shall be set aside to carry out this subsection $3,000,000 for fiscal year 1993 and $3,000,000 for fiscal year 1994.
+  - **(2)** Of the total amount approved in appropriation Acts under subsection ( o ), there shall be set aside to carry out this subsection $3,000,000 for fiscal year 1993 and $3,000,000 for fiscal year 1994.
 - **(h)** Each recipient of a grant under this section shall make contributions toward the cost of activities that receive assistance under this section in an amount not less than 10 percent of the total grant amount under this section.
 - **(i)** Grants under this subchapter may not be used to replace other amounts made available or designated by State or local governments for use for the purposes under this subchapter.
 - **(j)** An applicant shall ensure that not more than 10 percent of the grant will be used for administrative expenses associated with the activities funded.

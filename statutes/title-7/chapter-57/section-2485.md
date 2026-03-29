@@ -3,9 +3,9 @@ title: "Section 2485 - Correction of applicant’s mistake"
 usc_title: 7
 usc_section: "2485"
 chapter: 57
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 2485"
-generated_at: "2026-03-29T19:43:58.270Z"
+generated_at: "2026-03-29T19:57:39.161Z"
 ---
 
 # § 2485. Correction of applicant’s mistake

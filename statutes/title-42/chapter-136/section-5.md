@@ -1,14 +1,12 @@
 ---
-title: "Section 5 - Period of increase"
+title: "Section 5 - Transferred"
 usc_title: 42
 usc_section: "5"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-29T19:31:45.757Z"
+generated_at: "2026-03-29T20:00:55.492Z"
 ---
 
-# § 14043h–5. Period of increase
+# § 14043h–5. Transferred
 
-- **(a)** The Attorney General shall provide an increase in the amount provided to a State under the covered formula grants under this part for a 2-year period.
-- **(b)** The Attorney General may not provide an increase in the amount provided to a State under the covered formula grants under this part more than 4 times.

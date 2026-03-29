@@ -3,9 +3,9 @@ title: "Section 3419 - Institute of Education Sciences"
 usc_title: 20
 usc_section: "3419"
 chapter: 48
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 3419"
-generated_at: "2026-03-29T19:41:03.349Z"
+generated_at: "2026-03-29T19:58:56.833Z"
 ---
 
 # § 3419. Institute of Education Sciences

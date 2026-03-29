@@ -3,9 +3,9 @@ title: "Section 945 - Container Security Initiative"
 usc_title: 6
 usc_section: "945"
 chapter: 3
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 945"
-generated_at: "2026-03-29T19:43:43.837Z"
+generated_at: "2026-03-29T19:57:32.943Z"
 ---
 
 # § 945. Container Security Initiative

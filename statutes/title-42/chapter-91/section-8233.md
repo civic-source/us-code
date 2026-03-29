@@ -3,9 +3,9 @@ title: "Section 8233 - Weatherization study"
 usc_title: 42
 usc_section: "8233"
 chapter: 91
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 8233"
-generated_at: "2026-03-29T19:31:45.457Z"
+generated_at: "2026-03-29T20:00:55.223Z"
 ---
 
 # § 8233. Weatherization study

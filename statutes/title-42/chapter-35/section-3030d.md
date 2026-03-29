@@ -3,9 +3,9 @@ title: "Section 3030d - Grants for supportive services"
 usc_title: 42
 usc_section: "3030d"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3030d"
-generated_at: "2026-03-29T19:31:45.070Z"
+generated_at: "2026-03-29T20:00:54.841Z"
 ---
 
 # § 3030d. Grants for supportive services
@@ -25,8 +25,8 @@ generated_at: "2026-03-29T19:31:45.070Z"
       - **(i)** of individuals who are wards (or are allegedly incapacitated); and
       - **(ii)** in guardianship proceedings of older individuals who seek to become guardians, if other adequate representation is unavailable in the proceedings; and
     - **(C)** provision, to older individuals who provide uncompensated care to their adult children with disabilities, of counseling to assist such older individuals with permanency planning for such children;
-  - **(7)** services designed to enable older individuals to attain and maintain physical and mental well-being through programs of regular physical activity, exercise, music therapy, art therapy, and dance-movement therapy;
-  - **(8)** services designed to provide health screening (including mental and behavioral health screening and falls prevention services screening) to detect or prevent (or both) illnesses and injuries that occur most frequently in older individuals;
+  - **(7)** services designed to enable older individuals to attain and maintain physical and mental well-being through programs of regular physical activity, exercise, music therapy, art therapy, cultural experiences (including the arts), and dance-movement therapy;
+  - **(8)** services designed to provide health screening (including mental and behavioral health screening, screening for negative health effects associated with social isolation, falls prevention services screening, and traumatic brain injury screening) to detect or prevent (or both) illnesses and injuries that occur most frequently in older individuals;
   - **(9)** services designed to provide, for older individuals, preretirement counseling and assistance in planning for and assessing future post-retirement needs with regard to public and private insurance, public benefits, lifestyle changes, relocation, legal matters, leisure time, and other appropriate matters;
   - **(10)** services of an ombudsman at the State level to receive, investigate, and act on complaints by older individuals who are residents of long-term care facilities and to advocate for the well-being of such individuals;
   - **(11)** provision of services and assistive devices (including provision of assistive technology services and assistive technology devices) which are designed to meet the unique needs of older individuals who are disabled, and of older individuals who provide uncompensated care to their adult children with disabilities;
@@ -42,13 +42,14 @@ generated_at: "2026-03-29T19:31:45.070Z"
   - **(21)** services to encourage and facilitate regular interaction between students and older individuals, including services for older individuals with limited English proficiency and visits in long-term care facilities, multipurpose senior centers, and other settings;
   - **(22)** in-home services for frail older individuals, including individuals with Alzheimer’s disease and related disorders with neurological and organic brain dysfunction, and their families, including in-home services defined by a State agency in the State plan submitted under section 3027 of this title , taking into consideration the age, economic need, and noneconomic and nonhealth factors contributing to the frail condition and need for services of the individuals described in this paragraph, and in-home services defined by an area agency on aging in the area plan submitted under section 3026 of this title ;
   - **(23)** services designed to support States, area agencies on aging, and local service providers in carrying out and coordinating activities for older individuals with respect to mental and behavioral health services, including outreach for, education concerning, and screening for such services, and referral to such services for treatment;
-  - **(24)** activities to promote and disseminate information about life-long learning programs, including opportunities for distance learning; and
-  - **(25)** any other services necessary for the general welfare of older individuals;
+  - **(24)** activities to promote and disseminate information about life-long learning programs, including opportunities for distance learning;
+  - **(25)** services that promote or support social connectedness and reduce negative health effects associated with social isolation; and
+  - **(26)** any other services necessary for the general welfare of older individuals;
 - **(b)**
   - **(1)** The Assistant Secretary shall carry out a program for making grants to States under State plans approved under section 3027 of this title for the acquisition, alteration, or renovation of existing facilities, including mobile units, and, where appropriate, construction or modernization of facilities to serve as multipurpose senior centers.
   - **(2)** Funds made available to a State under this part may be used for the purpose of assisting in the operation of multipurpose senior centers and meeting all or part of the costs of compensating professional and technical personnel required for the operation of multipurpose senior centers.
-- **(c)** In carrying out the provisions of this part, to more efficiently and effectively deliver services to older individuals, each area agency on aging shall coordinate services described in subsection (a) of this section with other community agencies and voluntary organizations providing the same services. In coordinating the services, the area agency on aging shall make efforts to coordinate the services with agencies and organizations carrying out intergenerational programs or projects, and pursue opportunities for the development of intergenerational shared site models for programs or projects, consistent with the purposes of this chapter”.
-- **(d)** Funds made available under this part shall supplement, and not supplant, any Federal, State, or local funds expended by a State or unit of general purpose local government (including an area agency on aging) to provide services described in subsection (a) of this section.
+- **(c)** In carrying out the provisions of this part, to more efficiently and effectively deliver services to older individuals, each area agency on aging shall coordinate services described in subsection (a) with other community agencies and voluntary organizations providing the same services. In coordinating the services, the area agency on aging shall make efforts to coordinate the services with agencies and organizations carrying out intergenerational programs or projects, and pursue opportunities for the development of intergenerational shared site models for programs or projects, consistent with the purposes of this chapter.
+- **(d)** Funds made available under this part shall supplement, and not supplant, any Federal, State, or local funds expended by a State or unit of general purpose local government (including an area agency on aging) to provide services described in subsection (a).
 - **(e)** In this section, the term “adult child with a disability” means a child who—
   - **(1)** is age 18 or older;
   - **(2)** is financially dependent on an older individual who is a parent of the child; and

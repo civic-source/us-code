@@ -3,9 +3,9 @@ title: "Section 7552 - Policy"
 usc_title: 10
 usc_section: "7552"
 chapter: 764
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 7552"
-generated_at: "2026-03-29T19:43:38.092Z"
+generated_at: "2026-03-29T19:58:02.290Z"
 ---
 
 # § 7552. Policy

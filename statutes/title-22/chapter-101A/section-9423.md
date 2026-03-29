@@ -3,9 +3,9 @@ title: "Section 9423 - Sanctions to combat the proliferation of Iranian missiles
 usc_title: 22
 usc_section: "9423"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 9423"
-generated_at: "2026-03-29T02:12:40.495Z"
+generated_at: "2026-03-29T19:59:24.343Z"
 ---
 
 # § 9423. Sanctions to combat the proliferation of Iranian missiles
@@ -25,11 +25,11 @@ generated_at: "2026-03-29T02:12:40.495Z"
       - **(ii)** ineligible to receive a visa or other documentation to enter the United States; and
       - **(iii)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act ( 8 U.S.C. 1101 et 16 1 1 So in original. The number “16” probably should not appear. seq.).
     - **(B)**
-      - **(i)** The visa or other entry documentation of any alien described in subsection (a) is subject to revocation regardless of the issue date of the visa or other entry documentation.
+      - **(i)** The visa or other entry documentation of any alien described in subsection (a) 2 2 So in original. Probably should be “subparagraph (A)”. is subject to revocation regardless of the issue date of the visa or other entry documentation.
       - **(ii)** A revocation under clause (i) shall, in accordance with section 221(i) of the Immigration and Nationality Act ( 8 U.S.C. 1201(i) )—
         - **(I)** take effect immediately; and
         - **(II)** cancel any other valid visa or entry documentation that is in the possession of the alien.
-- **(c)** Any person that violates, or attempts to violate, subsection (b) or any regulation, license, or order issued pursuant to that subsection, shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Economic 2 2 So in original. Probably should be preceded by “Emergency”. Powers Act ( 50 U.S.C. 1705 ) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+- **(c)** Any person that violates, or attempts to violate, subsection (b) or any regulation, license, or order issued pursuant to that subsection, shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Economic 3 3 So in original. Probably should be preceded by “Emergency”. Powers Act ( 50 U.S.C. 1705 ) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 - **(d)** The President may waive the application of sanctions under this section with respect to a foreign person for renewable periods not to exceed 180 days only if, not later than 15 days after the date on which the waiver is to take effect, the President submits to the appropriate congressional committees a written determination and justification that the waiver is in the vital national security interests of the United States.
 - **(e)** The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act ( 50 U.S.C. 1702 and 1704) to carry out any amendments made by this section.
 - **(f)**

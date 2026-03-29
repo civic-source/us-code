@@ -3,9 +3,9 @@ title: "Section 3506a - Scientific engagement"
 usc_title: 42
 usc_section: "3506a"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3506a"
-generated_at: "2026-03-29T02:15:36.667Z"
+generated_at: "2026-03-29T20:00:54.871Z"
 ---
 
 # § 3506a. Scientific engagement

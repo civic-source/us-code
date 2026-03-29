@@ -3,9 +3,9 @@ title: "Section 1927 - Counsel’s liability for excessive costs"
 usc_title: 28
 usc_section: "1927"
 chapter: 123
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "28 U.S.C. § 1927"
-generated_at: "2026-03-29T19:42:27.374Z"
+generated_at: "2026-03-29T20:00:05.314Z"
 ---
 
 # § 1927. Counsel’s liability for excessive costs

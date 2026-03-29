@@ -3,12 +3,12 @@ title: "Section 134 - Simplified acquisition threshold"
 usc_title: 41
 usc_section: "134"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "41 U.S.C. § 134"
-generated_at: "2026-03-29T19:31:15.738Z"
+generated_at: "2026-03-29T19:59:34.744Z"
 ---
 
 # § 134. Simplified acquisition threshold
 
-In division B, the term “simplified acquisition threshold” means $100,000.
+In division B, the term “simplified acquisition threshold” means $250,000.
 

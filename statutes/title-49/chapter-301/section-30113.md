@@ -3,9 +3,9 @@ title: "Section 30113 - General exemptions"
 usc_title: 49
 usc_section: "30113"
 chapter: 301
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 30113"
-generated_at: "2026-03-29T19:44:57.932Z"
+generated_at: "2026-03-29T20:01:14.902Z"
 ---
 
 # § 30113. General exemptions

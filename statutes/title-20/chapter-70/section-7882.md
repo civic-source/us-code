@@ -3,9 +3,9 @@ title: "Section 7882 - Standards for by-pass"
 usc_title: 20
 usc_section: "7882"
 chapter: 70
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 7882"
-generated_at: "2026-03-29T19:41:03.443Z"
+generated_at: "2026-03-29T19:58:56.942Z"
 ---
 
 # § 7882. Standards for by-pass

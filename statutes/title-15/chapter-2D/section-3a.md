@@ -3,9 +3,9 @@ title: "Section 3a - State and Federal responsibilities"
 usc_title: 15
 usc_section: "3a"
 chapter: 2
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 3a"
-generated_at: "2026-03-29T19:44:42.579Z"
+generated_at: "2026-03-29T19:58:17.364Z"
 ---
 
 # § 80b–3a. State and Federal responsibilities

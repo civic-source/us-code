@@ -3,9 +3,9 @@ title: "Section 1865 - Executive Committee"
 usc_title: 42
 usc_section: "1865"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1865"
-generated_at: "2026-03-29T19:31:44.979Z"
+generated_at: "2026-03-29T20:00:54.728Z"
 ---
 
 # § 1865. Executive Committee

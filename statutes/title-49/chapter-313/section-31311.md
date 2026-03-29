@@ -3,9 +3,9 @@ title: "Section 31311 - Requirements for State participation"
 usc_title: 49
 usc_section: "31311"
 chapter: 313
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 31311"
-generated_at: "2026-03-29T19:44:57.954Z"
+generated_at: "2026-03-29T20:01:14.928Z"
 ---
 
 # § 31311. Requirements for State participation
@@ -57,7 +57,7 @@ generated_at: "2026-03-29T19:44:57.954Z"
     - **(A)** record in the driving record of an individual who has a commercial driver’s license issued by the State; and
     - **(B)** make available to all authorized persons and governmental entities having access to such record,
   - **(20)** The State shall revoke, suspend, or cancel the commercial driver’s license of an individual in accordance with regulations issued by the Secretary to carry out section 31310(g).
-  - **(21)** By the date established by the Secretary under section 31309(e)(4), the State shall be operating a commercial driver’s license information system that is compatible with the modernized commercial driver’s license information system under section 31309.
+  - **(21)** The State shall operate a commercial driver’s license information system that is compatible with the modernized commercial driver’s license information system under section 31309.
   - **(22)** The State shall report a conviction of a foreign commercial driver by that State to the Federal Convictions and Withdrawal Database, or another information system designated by the Secretary to record the convictions. A report shall include—
     - **(A)** for a driver holding a foreign commercial driver’s license—
       - **(i)** each conviction relating to the operation of a commercial motor vehicle; and

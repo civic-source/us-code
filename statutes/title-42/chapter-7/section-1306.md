@@ -3,9 +3,9 @@ title: "Section 1306 - Disclosure of information in possession of Social Securit
 usc_title: 42
 usc_section: "1306"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1306"
-generated_at: "2026-03-29T19:31:44.567Z"
+generated_at: "2026-03-29T20:00:54.248Z"
 ---
 
 # § 1306. Disclosure of information in possession of Social Security Administration or Department of Health and Human Services
@@ -25,3 +25,7 @@ generated_at: "2026-03-29T19:31:44.567Z"
   - **(2)** comparative evaluations of the performance of such contractors, including comparisons of either overall performance or of any particular aspect of contractor operation; and
   - **(3)** program validation survey reports and other formal evaluations of the performance of providers of services, including the reports of follow-up reviews, except that such reports shall not identify individual patients, individual health care practitioners, or other individuals.
 - **(f)** No report described in subsection (e) shall be made public by the Secretary or the State subchapter XIX agency until the contractor or provider of services whose performance is being evaluated has had a reasonable opportunity (not exceeding 60 days) to review such report and to offer comments pertinent parts of which may be incorporated in the public report; nor shall the Secretary be required to include in any such report information with respect to any deficiency (or improper practice or procedures) which is known by the Secretary to have been fully corrected, within 60 days of the date such deficiency was first brought to the attention of such contractor or provider of services, as the case may be.
+- **(g)** Notwithstanding any other provision of this section, the Commissioner of Social Security shall enter into an agreement with the Secretary of the Treasury under which—
+  - **(1)** if the Secretary provides the Commissioner with the information described in section 6103(k)(15) of the Internal Revenue Code of 1986 with respect to any individual, the Commissioner shall indicate to the Secretary as to whether such individual receives disability insurance benefits under section 423 of this title or supplemental security income benefits under subchapter XVI of this chapter (including State supplementary payments of the type referred to in section 1382e(a) of this title or payments of the type described in section 212(a) of Public Law 93–66 [ 42 U.S.C. 1382 note]);
+  - **(2)** appropriate safeguards are included to assure that the indication described in paragraph (1) will be used solely for the purpose of determining if tax receivables involving such individual are not eligible for collection pursuant to a qualified tax collection contract by reason of section 6306(d)(3)(E) of the Internal Revenue Code of 1986; and
+  - **(3)** the Secretary shall pay the Commissioner of Social Security the full costs (including systems and administrative costs) of providing the indication described in paragraph (1).

@@ -3,9 +3,9 @@ title: "Section 6058 - Information required in connection with certain plans of 
 usc_title: 26
 usc_section: "6058"
 chapter: 61
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 6058"
-generated_at: "2026-03-29T19:42:47.950Z"
+generated_at: "2026-03-29T19:59:49.576Z"
 ---
 
 # § 6058. Information required in connection with certain plans of deferred compensation
@@ -21,4 +21,5 @@ generated_at: "2026-03-29T19:42:47.950Z"
 - **(e)** For purposes of this section, the term “special IRP tax” means a tax imposed by—
   - **(1)** section 4973, or
   - **(2)** section 4974.
-- **(f)** For provisions relating to penalties for failure to file a return required by this section, see section 6652(e). For coordination between the Department of the Treasury and the Department of Labor with respect to the information required under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.
+- **(f)** In the case of annuity contracts to which this section applies and to which section 403(b) applies by reason of the plan under which such contracts are purchased meeting the requirements of paragraph (15) thereof, such plan shall be treated as a single plan for purposes of this section.
+- **(g)** For provisions relating to penalties for failure to file a return required by this section, see section 6652(e). For coordination between the Department of the Treasury and the Department of Labor with respect to the information required under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.

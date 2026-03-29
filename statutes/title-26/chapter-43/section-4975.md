@@ -3,9 +3,9 @@ title: "Section 4975 - Tax on prohibited transactions"
 usc_title: 26
 usc_section: "4975"
 chapter: 43
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 4975"
-generated_at: "2026-03-29T19:42:47.905Z"
+generated_at: "2026-03-29T19:59:49.521Z"
 ---
 
 # § 4975. Tax on prohibited transactions
@@ -107,7 +107,9 @@ generated_at: "2026-03-29T19:42:47.905Z"
     - **(G)** the investment manager does not base its fee schedule on the plan’s consent to cross trading, and no other service (other than the investment opportunities and cost savings available through a cross trade) is conditioned on the plan’s consent to cross trading,
     - **(H)** the investment manager has adopted, and cross-trades are effected in accordance with, written cross-trading policies and procedures that are fair and equitable to all accounts participating in the cross-trading program, and that include a description of the manager’s pricing policies and procedures, and the manager’s policies and procedures for allocating cross trades in an objective manner among accounts participating in the cross-trading program, and
     - **(I)** the investment manager has designated an individual responsible for periodically reviewing such purchases and sales to ensure compliance with the written policies and procedures described in subparagraph (H), and following such review, the individual shall issue an annual written report no later than 90 days following the period to which it relates signed under penalty of perjury to the plan fiduciary who authorized cross trading under subparagraph (D) describing the steps performed during the course of the review, the level of compliance, and any specific instances of non-compliance.
-  - **(23)** except as provided in subsection (f)(11), a transaction described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) in connection with the acquisition, holding, or disposition of any security or commodity, if the transaction is corrected before the end of the correction period.
+  - **(23)** except as provided in subsection (f)(11), a transaction described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) in connection with the acquisition, holding, or disposition of any security or commodity, if the transaction is corrected before the end of the correction period, 1
+  - **(24)** the provision of a de minimis financial incentive described in section 401(k)(4)(A), 1 or
+  - **(25)** the receipt of fees and compensation by the automatic portability provider for services provided in connection with an automatic portability transaction.
 - **(e)**
   - **(1)** For purposes of this section, the term “plan” means—
     - **(A)** a trust described in section 401(a) which forms a part of a plan, or a plan described in section 403(a), which trust or plan is exempt from tax under section 501(a),
@@ -253,6 +255,41 @@ generated_at: "2026-03-29T19:42:47.905Z"
       - **(iii)** The term “correct” means, with respect to a transaction—
         - **(I)** to undo the transaction to the extent possible and in any case to make good to the plan or affected account any losses resulting from the transaction, and
         - **(II)** to restore to the plan or affected account any profits made through the use of assets of the plan.
+  - **(12)**
+    - **(A)** For purposes of subsection (d)(25)—
+      - **(i)** An automatic portability transaction is a transfer of assets made—
+        - **(I)** from an individual retirement plan which is established on behalf of an individual and to which amounts were transferred under section 401(a)(31)(B)(i),
+        - **(II)** to an employer-sponsored retirement plan described in clause (iii), (iv), (v), or (vi) of section 402(c)(8)(B) (other than a defined benefit plan) in which such individual is an active participant, and
+        - **(III)** after such individual has been given advance notice of the transfer and has not affirmatively opted out of such transfer.
+      - **(ii)** An automatic portability provider is a person, other than an individual, who executes transfers described in clause (i).
+    - **(B)** Subsection (d)(25) shall not apply to an automatic portability transaction unless the following requirements are satisfied:
+      - **(i)** An automatic portability provider shall acknowledge in writing, at such time and format as specified by the Secretary of Labor, that the provider is a fiduciary with respect to the individual retirement plan described in subparagraph (A)(i)(I).
+      - **(ii)** The fees and compensation received, directly or indirectly, by the automatic portability provider for services provided in connection with the automatic portability transaction (including any increase in such fees or compensation and any fees or compensation in connection with, but received before, the transaction)—
+        - **(I)** shall not exceed reasonable compensation, and
+        - **(II)** shall be fully disclosed to and approved in writing in advance of the transaction by a plan fiduciary of the plan described in subparagraph (A)(i)(II) which is independent of the automatic portability provider.
+      - **(iii)** The automatic portability provider shall not market or sell data relating to the individual retirement plan described in subparagraph (A)(i)(I) or to the participants of the plan described in subparagraph (A)(i)(II).
+      - **(iv)** The automatic portability provider shall offer automatic portability transactions on the same terms to any plan described in subparagraph (A)(i)(II).
+      - **(v)** At least 60 days in advance of an automatic portability transaction, the automatic portability provider shall provide notice to the individual on whose behalf the individual retirement plan described in subparagraph (A)(i)(I) is established which includes—
+        - **(I)** a description of the automatic portability transaction and a complete and accurate statement of all fees which will be charged and all compensation which will be received in connection with the transaction,
+        - **(II)** a clear and prominent description of the individual’s right to affirmatively elect not to participate in the transaction as well as the other available distribution options, the deadline by which the individual must make an election, the procedures for such an election, and a telephone number for the automatic portability provider that the individual may call to make such election,
+        - **(III)** a description of the individual’s right to designate a beneficiary and the procedures to do so, and
+        - **(IV)** such other disclosures as the Secretary of Labor may require by regulation.
+      - **(vi)** Not later than 3 business days after an automatic portability transaction, the automatic portability provider shall provide notice to the individual on whose behalf the individual retirement plan described in subparagraph (A)(i)(I) is established of—
+        - **(I)** the actions taken by the automatic portability provider with respect to the individual’s account,
+        - **(II)** all relevant information regarding the location and amount of any transferred assets,
+        - **(III)** a statement of fees charged against the account by the automatic portability provider or its affiliates in connection with the transfer,
+        - **(IV)** a telephone number at which the individual can contact the automatic portability provider, and
+        - **(V)** such other disclosures as the Secretary of Labor may require by regulation.
+      - **(vii)** The notices required under clauses (v) and (vi) shall be written in a manner calculated to be understood by the average person and shall not include inaccurate or misleading statements.
+      - **(viii)** The automatic portability provider shall query on at least a monthly basis whether any individual with an individual retirement plan described in subparagraph (A)(i)(I) has an account in a plan described in subparagraph (A)(i)(II).
+      - **(ix)** After liquidating the assets of an individual retirement plan described in subparagraph (A)(i)(I) to cash, an automatic portability provider shall transfer the account balance of such plan as soon as practicable to the plan described in subparagraph (A)(i)(II).
+      - **(x)** The automatic portability provider shall neither have nor exercise discretion to affect the timing or amount of the transfer pursuant to an automatic portability transaction other than to deduct the appropriate fees as described in clause (ii).
+      - **(xi)**
+        - **(I)** An automatic portability provider shall, for not less than 6 years after the automatic portability transaction has occurred, maintain the records sufficient to demonstrate the terms of this subparagraph have been met. The automatic portability provider shall make such records available to any authorized employee of the Department of the Treasury or the Department of Labor within 30 calendar days of the date of a written request for such records.
+        - **(II)** An automatic portability provider shall conduct an annual audit, in accordance with regulations promulgated by the Secretary of Labor, of automatic portability transactions occurring during the calendar year to demonstrate compliance with this paragraph and any regulations thereunder and identify any instances of noncompliance therewith, and shall submit such audit annually to the Secretary of Labor, in such form and manner as specified by such Secretary.
+      - **(xii)** The automatic portability provider shall maintain a website which contains—
+        - **(I)** a list of recordkeepers for each plan described in subparagraph (A)(i)(II) with respect to which the provider carries out automatic portability transactions, and
+        - **(II)** a list of all fees described in clause (ii)(II) paid to the provider.
 - **(g)** This section shall not apply—
   - **(1)** in the case of a plan to which a guaranteed benefit policy (as defined in section 401(b)(2)(B) of the Employee Retirement Income Security Act of 1974) is issued, to any assets of the insurance company, insurance service, or insurance organization merely because of its issuance of such policy;
   - **(2)** to a governmental plan (within the meaning of section 414(d)); or

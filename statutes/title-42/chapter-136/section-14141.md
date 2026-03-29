@@ -1,14 +1,12 @@
 ---
-title: "Section 14141 - Cause of action"
+title: "Section 14141 - Transferred"
 usc_title: 42
 usc_section: "14141"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14141"
-generated_at: "2026-03-29T19:31:45.769Z"
+generated_at: "2026-03-29T20:00:55.492Z"
 ---
 
-# § 14141. Cause of action
+# § 14141. Transferred
 
-- **(a)** It shall be unlawful for any governmental authority, or any agent thereof, or any person acting on behalf of a governmental authority, to engage in a pattern or practice of conduct by law enforcement officers or by officials or employees of any governmental agency with responsibility for the administration of juvenile justice or the incarceration of juveniles that deprives persons of rights, privileges, or immunities secured or protected by the Constitution or laws of the United States.
-- **(b)** Whenever the Attorney General has reasonable cause to believe that a violation of paragraph (1) 1 1 So in original. Probably should be “subsection (a) of this section”. has occurred, the Attorney General, for or in the name of the United States, may in a civil action obtain appropriate equitable and declaratory relief to eliminate the pattern or practice.

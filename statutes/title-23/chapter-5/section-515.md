@@ -3,9 +3,9 @@ title: "Section 515 - General authorities and requirements"
 usc_title: 23
 usc_section: "515"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "23 U.S.C. § 515"
-generated_at: "2026-03-29T19:41:43.045Z"
+generated_at: "2026-03-29T19:59:25.860Z"
 ---
 
 # § 515. General authorities and requirements
@@ -70,7 +70,7 @@ generated_at: "2026-03-29T19:41:43.045Z"
     - **(A)** all recommendations made by the Advisory Committee during the preceding calendar year;
     - **(B)** an explanation of the manner in which the Secretary has implemented those recommendations; and
     - **(C)** for recommendations not implemented, the reasons for rejecting the recommendations.
-  - **(7)** The Advisory Committee shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+  - **(7)** The Advisory Committee shall be subject to chapter 10 of title 5, United States Code.
 - **(i)**
   - **(1)**
     - **(A)** The Secretary shall issue guidelines and requirements for the reporting and evaluation of operational tests and deployment projects carried out under sections 512 through 518.

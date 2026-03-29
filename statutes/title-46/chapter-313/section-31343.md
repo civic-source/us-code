@@ -3,9 +3,9 @@ title: "Section 31343 - Recording and discharging notices of claim of maritime l
 usc_title: 46
 usc_section: "31343"
 chapter: 313
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 31343"
-generated_at: "2026-03-29T19:44:39.432Z"
+generated_at: "2026-03-29T20:01:03.907Z"
 ---
 
 # § 31343. Recording and discharging notices of claim of maritime lien

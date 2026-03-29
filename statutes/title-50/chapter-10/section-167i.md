@@ -3,9 +3,9 @@ title: "Section 167i - Exclusion from Natural Gas Act provisions"
 usc_title: 50
 usc_section: "167i"
 chapter: 10
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 167i"
-generated_at: "2026-03-29T19:44:52.745Z"
+generated_at: "2026-03-29T20:01:07.215Z"
 ---
 
 # § 167i. Exclusion from Natural Gas Act provisions

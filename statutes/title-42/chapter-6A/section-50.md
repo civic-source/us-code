@@ -1,12 +1,12 @@
 ---
-title: "Section 50 - Repealed. Pub. L. 106–345, title III , § 301(a), Oct. 20, 2000 , 114 Stat. 1345"
+title: "Section 50 - Repealed. Pub. L. 106–345, title III, § 301(a) , Oct. 20, 2000 , 114 Stat. 1345"
 usc_title: 42
 usc_section: "50"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 50"
-generated_at: "2026-03-29T19:31:44.441Z"
+generated_at: "2026-03-29T20:00:54.065Z"
 ---
 
-# §§ 300ff–41 to 300ff–50. Repealed. Pub. L. 106–345, title III , § 301(a), Oct. 20, 2000 , 114 Stat. 1345
+# §§ 300ff–41 to 300ff–50. Repealed. Pub. L. 106–345, title III, § 301(a) , Oct. 20, 2000 , 114 Stat. 1345
 

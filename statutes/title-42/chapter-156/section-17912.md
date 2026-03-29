@@ -3,9 +3,9 @@ title: "Section 17912 - Research and development programs"
 usc_title: 42
 usc_section: "17912"
 chapter: 156
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 17912"
-generated_at: "2026-03-29T19:31:45.911Z"
+generated_at: "2026-03-29T20:00:55.634Z"
 ---
 
 # § 17912. Research and development programs
@@ -30,4 +30,4 @@ generated_at: "2026-03-29T19:31:45.911Z"
     - **(B)** how the Center will promote active collaboration among scientists and engineers from different disciplines, such as information technology, biologic sciences, management, social sciences, and other appropriate disciplines;
     - **(C)** technology transfer activities to demonstrate and diffuse the research results, technologies, and knowledge; and
     - **(D)** how the Center will contribute to the education and training of researchers and other professionals in fields relevant to health information enterprise integration.
-- **(b)** The National High-Performance Computing Program established by section 5511 of title 15 shall include Federal research and development programs related to health information technology.
+- **(b)** The Networking and Information Technology Research and Development Program established by section 5511 of title 15 shall include Federal research and development programs related to health information technology.

@@ -3,12 +3,12 @@ title: "Section 11804 - Coordination with juvenile justice programs"
 usc_title: 42
 usc_section: "11804"
 chapter: 123
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 11804"
-generated_at: "2026-03-29T19:31:45.628Z"
+generated_at: "2026-03-29T20:00:55.390Z"
 ---
 
 # § 11804. Coordination with juvenile justice programs
 
-The Secretary shall coordinate the program established by section 11801 of this title with the programs and activities carried out under the Juvenile Justice and Delinquency Prevention Act of 1974 [ 42 U.S.C. 5601 et seq.] and with the programs and activities of the Attorney General, to ensure that all such programs and activities are complementary and not duplicative.
+The Secretary shall coordinate the program established by section 11801 of this title with the programs and activities carried out under the Juvenile Justice and Delinquency Prevention Act of 1974 [ 34 U.S.C. 11101 et seq.] and with the programs and activities of the Attorney General, to ensure that all such programs and activities are complementary and not duplicative.
 

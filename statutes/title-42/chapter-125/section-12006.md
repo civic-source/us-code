@@ -3,9 +3,9 @@ title: "Section 12006 - Reports"
 usc_title: 42
 usc_section: "12006"
 chapter: 125
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 12006"
-generated_at: "2026-03-29T19:31:45.632Z"
+generated_at: "2026-03-29T20:00:55.393Z"
 ---
 
 # § 12006. Reports
@@ -25,4 +25,4 @@ generated_at: "2026-03-29T19:31:45.632Z"
     - **(D)** include annual and five-year cost estimates for individual programs under this chapter; and
     - **(E)** identify program areas for which funding levels have been changed from the previous year’s Plan. 1
   - **(6)** Within one year after October 24, 1992 , the Secretary shall submit a revised management plan under this section to Congress. Thereafter, the Secretary shall submit a management plan every three years at the time of submittal of the President’s annual budget submission to the Congress.
-- **(c)** As part of the first report submitted under subsection (a), the Secretary shall submit to Congress a report analyzing options available to the Secretary under existing law to assist the private sector with the timely commercialization of wind, photovoltaic, solar thermal, biofuels, hydrogen, solar buildings, ocean, geothermal, low-head hydro, and energy storage renewable energy technologies and energy efficiency technologies through emphasis on development and demonstration assistance to specific technologies in the research, development, and demonstration programs of the Department of Energy that are near commercial application.
+- **(c)** As part of the first report submitted under subsection (a), the Secretary shall submit to Congress a report analyzing options available to the Secretary under existing law to assist the private sector with the timely commercialization of wind, photovoltaic, solar thermal, biofuels, hydrogen, solar buildings, marine, geothermal, low-head hydro, and energy storage renewable energy technologies and energy efficiency technologies through emphasis on development and demonstration assistance to specific technologies in the research, development, and demonstration programs of the Department of Energy that are near commercial application.

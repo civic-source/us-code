@@ -3,9 +3,9 @@ title: "Section 602 - Eligible States; State plan"
 usc_title: 42
 usc_section: "602"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 602"
-generated_at: "2026-03-29T19:31:44.511Z"
+generated_at: "2026-03-29T20:00:54.175Z"
 ---
 
 # § 602. Eligible States; State plan
@@ -42,5 +42,19 @@ generated_at: "2026-03-29T19:31:44.511Z"
       - **(ii)** refer such individuals to counseling and supportive services; and
       - **(iii)** waive, pursuant to a determination of good cause, other program requirements such as time limits (for so long as necessary) for individuals receiving assistance, residency requirements, child support cooperation requirements, and family cap provisions, in cases where compliance with such requirements would make it more difficult for individuals receiving assistance under this part to escape domestic violence or unfairly penalize such individuals who are or have been victimized by such violence, or individuals who are at risk of further domestic violence.
     - **(B)** For purposes of this paragraph, the term “domestic violence” has the same meaning as the term “battered or subjected to extreme cruelty”, as defined in section 608(a)(7)(C)(iii) of this title .
+  - **(8)**
+    - **(A)** A certification by the chief executive officer of the State that the State has established and is enforcing standards and procedures to—
+      - **(i)** ensure that applicants and potential applicants for assistance under the State program funded under this part are notified of assistance made available by the State to victims of sexual harassment and survivors of domestic violence, sexual assault, or stalking;
+      - **(ii)** ensure that case workers and other agency personnel responsible for administering the State program funded under this part are trained in—
+        - **(I)** the nature and dynamics of sexual harassment and domestic violence, sexual assault, and stalking;
+        - **(II)** State standards and procedures relating to the prevention of, and assistance for, individuals who are victims of sexual harassment or survivors of domestic violence, sexual assault, or stalking; and
+        - **(III)** methods of ascertaining and ensuring the confidentiality of personal information and documentation related to applicants for assistance and their children who have provided notice about their experiences of sexual harassment, domestic violence, sexual assault, or stalking; and
+      - **(iii)** ensure that, if a State has elected to establish and enforce standards and procedures regarding the screening for, and identification of, domestic violence, sexual assault, or stalking pursuant to paragraph (7)—
+        - **(I)** the State program funded under this part provides information about the options under this part to current and potential beneficiaries; and
+        - **(II)** case workers and other agency personnel responsible for administering the State program funded under this part are provided with training regarding State standards and procedures pursuant to paragraph (7).
+    - **(B)** For purposes of this paragraph—
+      - **(i)** the term “sexual harassment” means hostile, intimidating, or oppressive behavior based on sex that creates an offensive work environment;
+      - **(ii)** the term “domestic violence” has the meaning given such term in paragraph (7); and
+      - **(iii)** the terms “sexual assault” and “stalking” have the meanings given such terms in section 12291 of title 34 .
 - **(b)** Within 30 days after a State amends a plan submitted pursuant to subsection (a), the State shall notify the Secretary of the amendment.
 - **(c)** The State shall make available to the public a summary of any plan or plan amendment submitted by the State under this section.

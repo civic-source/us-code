@@ -3,16 +3,16 @@ title: "Section 2862 - Turn-key selection procedures"
 usc_title: 10
 usc_section: "2862"
 chapter: 169
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2862"
-generated_at: "2026-03-29T19:43:38.018Z"
+generated_at: "2026-03-29T19:58:02.208Z"
 ---
 
 # § 2862. Turn-key selection procedures
 
 - **(a)** The Secretary concerned may use one-step turn-key selection procedures for the purpose of entering into a contract for any of the following purposes:
   - **(1)** The construction of an authorized military construction project.
-  - **(2)** A repair project (as defined in section 2811(e) of this title ) with an approved cost equal to or less than $4,000,000.
+  - **(2)** A repair project (as defined in section 2811(e) of this title ) with an approved cost equal to or less than $4,000,000. 1 1 See Temporary Expansion of Authority for Use of One-Step Turn-Key Procedures for Repair Projects note below.
   - **(3)** The construction of a facility as part of an authorized security assistance activity.
 - **(b)** In this section:
   - **(1)** The term “one-step turn-key selection procedures” means procedures used for the selection of a contractor on the basis of price and other evaluation criteria to perform, in accordance with the provisions of a firm fixed-price contract, both the design and construction of a facility using performance specifications supplied by the Secretary concerned.

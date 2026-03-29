@@ -3,15 +3,15 @@ title: "Section 1203 - Payment to States"
 usc_title: 42
 usc_section: "1203"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1203"
-generated_at: "2026-03-29T19:31:44.566Z"
+generated_at: "2026-03-29T20:00:54.247Z"
 ---
 
 # § 1203. Payment to States
 
 - **(a)** From the sums appropriated therefor, the Secretary of the Treasury shall pay to each State which has an approved plan for aid to the blind, for each quarter, beginning with the quarter commencing October 1, 1958 —
-  - **(1)** Repealed. Pub. L. 97–35, title XXI , § 2184(c)(2)(A), Aug. 13, 1981 , 95 Stat. 817 .
+  - **(1)** Repealed. Pub. L. 97–35, title XXI, § 2184(c)(2)(A) , Aug. 13, 1981 , 95 Stat. 817 .
   - **(2)** in the case of Puerto Rico, the Virgin Islands, and Guam, an amount equal to one-half of the total of the sums expended during such quarter as aid to the blind under the State plan, not counting so much of any expenditure with respect to any month as exceeds $37.50 multiplied by the total number of recipients of aid to the blind for such month; and
   - **(3)** in the case of any State, an amount equal to 50 percent of the total amounts expended during such quarter as found necessary by the Secretary for the proper and efficient administration of the State plan.
 - **(b)** The method of computing and paying such amounts shall be as follows:

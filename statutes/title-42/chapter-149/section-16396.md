@@ -3,9 +3,9 @@ title: "Section 16396 - Prizes for achievement in grand challenges of science an
 usc_title: 42
 usc_section: "16396"
 chapter: 149
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 16396"
-generated_at: "2026-03-29T19:31:45.849Z"
+generated_at: "2026-03-29T20:00:55.578Z"
 ---
 
 # § 16396. Prizes for achievement in grand challenges of science and technology
@@ -14,10 +14,15 @@ generated_at: "2026-03-29T19:31:45.849Z"
 - **(b)** The program under subsection (a) may include prizes for the achievement of goals articulated by the Secretary in a specific area through a widely advertised solicitation of submission of results for research, development, demonstration, or commercial application projects.
 - **(c)** The Secretary, in cooperation with the Freedom Prize Foundation, shall support a program of awarding prizes, to be known as Freedom Prizes, to encourage and recognize the development and deployment of processes and technologies that serve to reduce the dependence of the United States on imported oil.
 - **(d)** The program under subsection (a) may be carried out in conjunction with or in addition to the exercise of any other authority of the Secretary to acquire, support, or stimulate research, development, demonstration, or commercial application projects.
-- **(e)** There are authorized to be appropriated—
+- **(e)** In carrying out subsection (a), and for any prize competitions under section 105 of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, the Secretary shall—
+  - **(1)** issue Department-wide guidance on the design, development, and implementation of prize competitions;
+  - **(2)** collect and disseminate best practices on the design and administration of prize competitions;
+  - **(3)** streamline contracting mechanisms for the implementation of prize competitions; and
+  - **(4)** provide training and prize competition design support, as necessary, to Department staff to develop prize competitions and challenges.
+- **(f)** There are authorized to be appropriated—
   - **(1)** $10,000,000 to carry out the program under subsection (a); and
   - **(2)** $5,000,000 to carry out the program under subsection (c).
-- **(f)**
+- **(g)**
   - **(1)**
     - **(A)** As part of the program under this section, the Secretary shall carry out a program to competitively award cash prizes in conformity with this subsection to advance the research, development, demonstration, and commercial application of hydrogen energy technologies.
     - **(B)**
@@ -80,3 +85,4 @@ generated_at: "2026-03-29T19:31:45.849Z"
       - **(ii)** In addition to the amounts authorized in clause (i), there are authorized to be appropriated to the Secretary for each of fiscal years 2008 and 2009 $2,000,000 for the administrative costs of carrying out this subsection.
     - **(B)** Funds appropriated for prize awards under this subsection shall remain available until expended, and may be transferred, reprogrammed, or expended for other purposes only after the expiration of 10 fiscal years after the fiscal year for which the funds were originally appropriated. No provision in this subsection permits obligation or payment of funds in violation of section 1341 of title 31 (commonly referred to as the Anti-Deficiency Act).
   - **(8)** The programs created under this subsection shall not be considered a substitute for Federal research and development programs.
+- **(h)** In accordance with section 16391a of this title , the Secretary shall report annually on a description of any prize competitions carried out using the authority under this section, the total amount of prizes awarded along with any private sector contributions, the methods used for solicitation and evaluation, and a description of how each prize competition advanced the mission of the Department.

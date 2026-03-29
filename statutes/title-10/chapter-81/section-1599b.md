@@ -3,9 +3,9 @@ title: "Section 1599b - Employees abroad: travel expenses; health care"
 usc_title: 10
 usc_section: "1599b"
 chapter: 81
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1599b"
-generated_at: "2026-03-29T19:43:37.943Z"
+generated_at: "2026-03-29T19:58:02.114Z"
 ---
 
 # § 1599b. Employees abroad: travel expenses; health care

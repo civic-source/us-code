@@ -3,9 +3,9 @@ title: "Section 56101 - Approval required to transfer vessel to noncitizen"
 usc_title: 46
 usc_section: "56101"
 chapter: 561
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 56101"
-generated_at: "2026-03-29T19:44:39.473Z"
+generated_at: "2026-03-29T20:01:03.947Z"
 ---
 
 # § 56101. Approval required to transfer vessel to noncitizen
@@ -30,3 +30,6 @@ generated_at: "2026-03-29T19:44:39.473Z"
   - **(3)** A documented vessel may be seized by and forfeited to the Government if, in violation of this section, a person—
     - **(A)** knowingly sells, charters, or transfers the vessel or an interest in or control of the vessel; or
     - **(B)** places the vessel under foreign registry or operates the vessel under the authority of a foreign country.
+- **(f)** The Maritime Administrator shall make publicly available on an appropriate website of the Maritime Administration—
+  - **(1)** a detailed summary of each request for a determination, approval, or confirmation that a vessel charter for a passenger vessel is encompassed by the general approval of time charters issued pursuant to this section or regulations prescribed pursuant to such section; and
+  - **(2)** the final action of the Administration with respect to such request, after the provision of notice and opportunity for public comment.

@@ -3,9 +3,9 @@ title: "Section 4625 - Other Department of Energy resources"
 usc_title: 15
 usc_section: "4625"
 chapter: 72
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 4625"
-generated_at: "2026-03-29T19:44:42.890Z"
+generated_at: "2026-03-29T19:58:17.838Z"
 ---
 
 # § 4625. Other Department of Energy resources

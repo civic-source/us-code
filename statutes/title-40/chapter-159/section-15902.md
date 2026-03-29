@@ -3,9 +3,9 @@ title: "Section 15902 - Demonstration health projects"
 usc_title: 40
 usc_section: "15902"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "40 U.S.C. § 15902"
-generated_at: "2026-03-29T02:14:58.815Z"
+generated_at: "2026-03-29T20:00:35.911Z"
 ---
 
 # § 15902. Demonstration health projects

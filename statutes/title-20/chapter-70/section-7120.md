@@ -3,9 +3,9 @@ title: "Section 7120 - Supplement, not supplant"
 usc_title: 20
 usc_section: "7120"
 chapter: 70
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 7120"
-generated_at: "2026-03-29T19:41:03.412Z"
+generated_at: "2026-03-29T19:58:56.903Z"
 ---
 
 # § 7120. Supplement, not supplant

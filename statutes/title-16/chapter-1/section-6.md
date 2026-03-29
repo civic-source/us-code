@@ -3,9 +3,9 @@ title: "Section 6 - Advisory Council"
 usc_title: 16
 usc_section: "6"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-29T19:41:13.501Z"
+generated_at: "2026-03-29T19:59:08.082Z"
 ---
 
 # § 460zzz–6. Advisory Council
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:41:13.501Z"
 - **(a)** Not later than 180 days after March 30, 2009 , the Secretary shall establish an advisory council, to be known as the “Dominguez-Escalante National Conservation Area Advisory Council”.
 - **(b)** The Council shall advise the Secretary with respect to the preparation and implementation of the management plan.
 - **(c)** The Council shall be subject to—
-  - **(1)** the Federal Advisory Committee Act (5 U.S.C. App.); and
+  - **(1)** chapter 10 of title 5; and
   - **(2)** the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq.).
 - **(d)** The Council shall include 10 members to be appointed by the Secretary, of whom, to the extent practicable—
   - **(1)** 1 member shall be appointed after considering the recommendations of the Mesa County Commission;

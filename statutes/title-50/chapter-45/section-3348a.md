@@ -3,9 +3,9 @@ title: "Section 3348a - Congressional oversight of sensitive programs not covere
 usc_title: 50
 usc_section: "3348a"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3348a"
-generated_at: "2026-03-29T02:16:14.792Z"
+generated_at: "2026-03-29T20:01:07.362Z"
 ---
 
 # § 3348a. Congressional oversight of sensitive programs not covered by other provisions of law

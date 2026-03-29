@@ -3,9 +3,9 @@ title: "Section 50914 - Liability insurance and financial responsibility require
 usc_title: 51
 usc_section: "50914"
 chapter: 509
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "51 U.S.C. § 50914"
-generated_at: "2026-03-29T19:45:16.679Z"
+generated_at: "2026-03-29T20:01:19.066Z"
 ---
 
 # § 50914. Liability insurance and financial responsibility requirements
@@ -26,7 +26,7 @@ generated_at: "2026-03-29T19:45:16.679Z"
     - **(C)** contractors, subcontractors, and customers of the licensee or transferee.
     - **(D)** contractors and subcontractors of the customer.
     - **(E)** space flight participants.
-  - **(5)** Subparagraph (E) of paragraph (4) ceases to be effective September 30, 2025 .
+  - **(5)** Subparagraph (E) of paragraph (4) ceases to be effective September 30, 2028 .
 - **(b)**
   - **(1)**
     - **(A)** A launch or reentry license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with applicable parties involved in launch services or reentry services under which each party to the waiver agrees to be responsible for personal injury to, death of, or property damage or loss sustained by it or its own employees resulting from an activity carried out under the applicable license.
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T19:45:16.679Z"
       - **(i)** contractors, subcontractors, and customers of the licensee or transferee;
       - **(ii)** contractors and subcontractors of the customers; and
       - **(iii)** space flight participants.
-    - **(C)** Clause (iii) of subparagraph (B) ceases to be effective September 30, 2025 .
+    - **(C)** Clause (iii) of subparagraph (B) ceases to be effective September 30, 2028 .
   - **(2)** The Secretary of Transportation shall make, for the Government, executive agencies of the Government involved in launch services or reentry services, and contractors and subcontractors involved in launch services or reentry services, a reciprocal waiver of claims with the licensee or transferee, contractors, subcontractors, crew, space flight participants, and customers of the licensee or transferee, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees or by space flight participants, resulting from an activity carried out under the applicable license. The waiver applies only to the extent that claims are more than the amount of insurance or demonstration of financial responsibility required under subsection (a)(1)(B) of this section. After consulting with the Administrator and the Secretary of the Air Force, the Secretary of Transportation may waive, for the Government and a department, agency, and instrumentality of the Government, the right to recover damages for damage or loss to Government property to the extent insurance is not available because of a policy exclusion the Secretary of Transportation decides is usual for the type of insurance involved.
 - **(c)** The Secretary of Transportation shall determine the maximum probable losses under subsection (a)(1)(A) and (B) of this section associated with an activity under a license not later than 90 days after a licensee or transferee requires a determination and submits all information the Secretary requires. The Secretary shall amend the determination as warranted by new information.
 - **(d)**

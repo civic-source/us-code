@@ -3,9 +3,9 @@ title: "Section 1448 - Application of Plan"
 usc_title: 10
 usc_section: "1448"
 chapter: 73
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1448"
-generated_at: "2026-03-29T19:43:37.923Z"
+generated_at: "2026-03-29T19:58:02.092Z"
 ---
 
 # § 1448. Application of Plan
@@ -110,15 +110,13 @@ generated_at: "2026-03-29T19:43:37.923Z"
     - **(F)** An election under this paragraph is irrevocable.
 - **(c)** The application of the Plan to a person whose name is on the temporary disability retired list terminates when his name is removed from that list and he is no longer entitled to disability retired pay.
 - **(d)**
-  - **(1)** Except as provided in paragraph (2)(B), the Secretary concerned shall pay an annuity under this subchapter to the surviving spouse of—
+  - **(1)** Except as provided in paragraph (2), the Secretary concerned shall pay an annuity under this subchapter to the surviving spouse of—
     - **(A)** a member who dies while on active duty after—
       - **(i)** becoming eligible to receive retired pay;
       - **(ii)** qualifying for retired pay except that the member has not applied for or been granted that pay; or
       - **(iii)** completing 20 years of active service but before the member is eligible to retire as a commissioned officer because the member has not completed 10 years of active commissioned service; or
     - **(B)** a member not described in subparagraph (A) who dies in line of duty while on active duty.
-  - **(2)**
-    - **(A)** In the case of a member described in paragraph (1), the Secretary concerned shall pay an annuity under this subchapter to the member’s dependent children under subsection (a)(2) or (a)(4) of section 1450 of this title as applicable.
-    - **(B)** In the case of a member described in paragraph (1) who dies after October 7, 2001 , and for whom there is a surviving spouse eligible for an annuity under paragraph (1), the Secretary may pay an annuity under this subchapter to the member’s dependent children under subsection (a)(3) or (a)(4) of section 1450 of this title , if applicable, instead of paying an annuity to the surviving spouse under paragraph (1), if the Secretary concerned, in consultation with the surviving spouse, determines it appropriate to provide an annuity for the dependent children under this paragraph instead of an annuity for the surviving spouse under paragraph (1).
+  - **(2)** In the case of a member described in paragraph (1), the Secretary concerned shall pay an annuity under this subchapter to the member’s dependent children under subsection (a)(2) or (a)(4) of section 1450 of this title as applicable.
   - **(3)** If a member described in paragraph (1) is required under a court order or spousal agreement to provide an annuity to a former spouse upon becoming eligible to be a participant in the Plan or has made an election under subsection (b) to provide an annuity to a former spouse, the Secretary—
     - **(A)** may not pay an annuity under paragraph (1) or (2); but
     - **(B)** shall pay an annuity to that former spouse as if the member had been a participant in the Plan and had made an election under subsection (b) to provide an annuity to the former spouse, or in accordance with that election, as the case may be, if the Secretary receives a written request from the former spouse concerned that the election be deemed to have been made in the same manner as provided in section 1450(f)(3) of this title .

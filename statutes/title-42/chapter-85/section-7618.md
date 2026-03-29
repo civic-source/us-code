@@ -1,12 +1,12 @@
 ---
-title: "Section 7618 - Repealed. Pub. L. 101–549, title I , § 108(q), Nov. 15, 1990 , 104 Stat. 2469"
+title: "Section 7618 - Repealed. Pub. L. 101–549, title I, § 108(q) , Nov. 15, 1990 , 104 Stat. 2469"
 usc_title: 42
 usc_section: "7618"
 chapter: 85
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7618"
-generated_at: "2026-03-29T19:31:45.424Z"
+generated_at: "2026-03-29T20:00:55.182Z"
 ---
 
-# § 7618. Repealed. Pub. L. 101–549, title I , § 108(q), Nov. 15, 1990 , 104 Stat. 2469
+# § 7618. Repealed. Pub. L. 101–549, title I, § 108(q) , Nov. 15, 1990 , 104 Stat. 2469
 

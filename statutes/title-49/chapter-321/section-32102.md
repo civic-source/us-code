@@ -3,9 +3,9 @@ title: "Section 32102 - Authorization of appropriations"
 usc_title: 49
 usc_section: "32102"
 chapter: 321
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 32102"
-generated_at: "2026-03-29T19:44:57.956Z"
+generated_at: "2026-03-29T20:01:14.930Z"
 ---
 
 # § 32102. Authorization of appropriations

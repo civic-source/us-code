@@ -3,9 +3,9 @@ title: "Section 100104 - Membership"
 usc_title: 36
 usc_section: "100104"
 chapter: 1001
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "36 U.S.C. § 100104"
-generated_at: "2026-03-29T19:43:23.299Z"
+generated_at: "2026-03-29T20:00:38.619Z"
 ---
 
 # § 100104. Membership

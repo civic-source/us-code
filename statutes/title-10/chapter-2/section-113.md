@@ -3,9 +3,9 @@ title: "Section 113 - Secretary of Defense"
 usc_title: 10
 usc_section: "113"
 chapter: 2
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 113"
-generated_at: "2026-03-29T19:43:37.763Z"
+generated_at: "2026-03-29T19:58:01.917Z"
 ---
 
 # § 113. Secretary of Defense
@@ -44,7 +44,7 @@ generated_at: "2026-03-29T19:43:37.763Z"
       - **(ix)** A strategic framework prescribed by the Secretary that guides how the Department will specifically address contested logistics, including major investments for related infrastructure, logistics-related authorities, force posture, related emergent technology and advanced computing capabilities, operational resilience, and operational energy, over the following five-year period to support such strategy.
       - **(x)** Strategic goals to address or mitigate the current and projected risks to military installation resilience.
     - **(C)** The Secretary shall seek the military advice and assistance of the Chairman of the Joint Chiefs of Staff in preparing each national defense strategy required by this subsection.
-    - **(D)** Each national defense strategy under this subsection shall be presented to the congressional defense committees in classified form with an unclassified summary.
+    - **(D)** Each national defense strategy under this subsection shall be presented to the congressional defense committees in both classified and unclassified form. The unclassified form may not be a summary of the classified document.
     - **(E)** In a year following an election for President, which election results in the appointment by the President of a new Secretary of Defense, the Secretary shall present the national defense strategy required by this subsection as soon as possible after appointment by and with the advice and consent of the Senate.
     - **(F)** In February of each year in which the Secretary does not submit a new defense strategy as required by paragraph (A), the Secretary shall submit to the congressional defense committees an assessment of the current national defense strategy, including an assessment of the implementation of the strategy by the Department and an assessment whether the strategy requires revision as a result of changes in assumptions, policy, or other factors.
   - **(2)**
@@ -99,7 +99,7 @@ generated_at: "2026-03-29T19:43:37.763Z"
 - **(k)** The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide annually to the Secretaries of the military departments and to the commanders of the combatant commands written guidelines to direct the effective detection and monitoring of all potential aerial and maritime threats to the national security of the United States. Those guidelines shall include guidance on the specific force levels and specific supporting resources to be made available for the period of time for which the guidelines are to be in effect.
 - **(l)**
   - **(1)** The Secretary of Defense, in coordination with the Secretary of the Department in which the Coast Guard is operating, shall establish metrics to measure—
-    - **(A)** efforts to reflect across all grades comprising the officer and enlisted corps of each armed force the diverse population of the United States eligible to serve in the armed forces
+    - **(A)** efforts to reflect across all grades comprising the officer and enlisted corps of each armed force the diverse population of the United States eligible to serve in the armed forces;
     - **(B)** efforts to reflect, across the civilian workforce of the Department and of each armed force, the diversity of the population of the United States; and
     - **(C)** the efforts of the armed forces to generate and maintain a ready military force that will prevail in war, prevent and deter conflict, defeat adversaries, and succeed in a wide range of contingencies.
   - **(2)** In implementing the requirement in paragraph (1), the Secretary of Defense, in coordination with the Secretary of the Department in which the Coast Guard is operating, shall—
@@ -111,22 +111,24 @@ generated_at: "2026-03-29T19:43:37.763Z"
       - **(ii)** develop and implement plans and processes to resolve or eliminate any barriers to diversity; and
       - **(iii)** review the progress of the armed forces in implementing previous plans and processes to resolve or eliminate barriers to diversity;
     - **(E)** develop and implement plans and processes to ensure that advertising and marketing to promote enlistment or accession into the armed forces is representative of the diverse population of the United States eligible to serve in the armed forces; and
-    - **(F)** meet annually with the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, and the Chiefs of Staff of the Armed Forces to assess progress toward diversity and inclusion across the armed forces and to elicit recommendations and advice for enhancing diversity and inclusion in the armed forces 1 1 So in original. Probably should be followed by period.
+    - **(F)** meet annually with the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, and the Chiefs of Staff of the Armed Forces to assess progress toward diversity and inclusion across the armed forces and to elicit recommendations and advice for enhancing diversity and inclusion in the armed forces.
 - **(m)** Accompanying each national defense strategy provided to the congressional defense committees in accordance with subsection (g)(1)(D), the Secretary of Defense, in coordination with the Secretary of the Department in which the Coast Guard is operating, shall provide a report that sets forth a detailed discussion, current as of the preceding fiscal year, of the following:
   - **(1)** The number of officers and enlisted members of the armed forces, including the reserve components, disaggregated by gender, race, and ethnicity, for each grade in each armed force.
   - **(2)** The number of members of the armed forces, including the reserve components, who were promoted during the fiscal year covered by such report, disaggregated by gender, race, and ethnicity, for each grade in each armed force, and of the number so promoted, the number promoted below, in, and above the applicable promotion zone.
   - **(3)** The number of members of the armed forces, including the reserve components, who were enlisted or accessed into the armed forces during the fiscal year covered by such report, disaggregated by gender, race, and ethnicity, in each armed force.
   - **(4)** The number of graduates of each military service academy during the fiscal year covered by such report, disaggregated by gender, race, and ethnicity, for each military department and the United States Coast Guard.
-  - **(5)** The number of graduates of the Senior Reserve Officers’ Training Corps during the fiscal year covered by the report, disaggregated by gender, race, and ethnicity, for each military department.
-  - **(6)** The number of members of the armed forces, including the reserve components, who reenlisted or otherwise extended a commitment to military service during the fiscal year covered by such report, disaggregated by gender, race, and ethnicity, for each grade in each armed force.
-  - **(7)** The number of civilian employees of the Department, disaggregated by military department, gender, race, and ethnicity—
+  - **(5)** The number of Senior Reserve Officers’ Training Corps scholarships awarded during the fiscal year covered by the report, disaggregated by gender, race, and ethnicity, for each military department.
+  - **(6)** The program completion rates and program withdrawal rates of Senior Reserve Officers’ Training Corps scholarship recipients during the fiscal year covered by the report, disaggregated by gender, race, and ethnicity, for each military department.
+  - **(7)** The number of graduates of the Senior Reserve Officers’ Training Corps during the fiscal year covered by the report, disaggregated by gender, race, and ethnicity, for each military department.
+  - **(8)** The number of members of the armed forces, including the reserve components, who reenlisted or otherwise extended a commitment to military service during the fiscal year covered by such report, disaggregated by gender, race, and ethnicity, for each grade in each armed force.
+  - **(9)** The number of civilian employees of the Department, disaggregated by military department, gender, race, and ethnicity—
     - **(A)** in each grade of the General Schedule;
     - **(B)** in each grade of the Senior Executive Service;
     - **(C)** paid at levels above grade GS-15 of the General Schedule but who are not members of the Senior Executive Service;
     - **(D)** paid under the Federal Wage System, and
     - **(E)** paid under alternative pay systems.
-  - **(8)** An assessment of the pool of officers best qualified for promotion to grades O–9 and O–10, disaggregated by gender, race, and ethnicity, in each military department and the United States Coast Guard. 2 2 So in original. Two pars. (8) have been enacted.
-  - **(8)** Any other matter the Secretary considers appropriate. 2
+  - **(10)** An assessment of the pool of officers best qualified for promotion to grades O–9 and O–10, disaggregated by gender, race, and ethnicity, in each military department and the United States Coast Guard.
+  - **(11)** Any other matter the Secretary considers appropriate.
 - **(n)** Whenever the President submits to Congress a request for appropriations for costs associated with a contingency operation that involves, or likely will involve, the deployment of more than 500 members of the armed forces, the Secretary of Defense shall submit to Congress a report on the objectives of the operation. The report shall include a discussion of the following:
   - **(1)** What clear and distinct objectives guide the activities of United States forces in the operation.
   - **(2)** What the President has identified on the basis of those objectives as the date, or the set of conditions, that defines the endpoint of the operation.

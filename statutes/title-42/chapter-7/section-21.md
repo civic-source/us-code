@@ -3,9 +3,9 @@ title: "Section 21 - Eligibility, election, and enrollment"
 usc_title: 42
 usc_section: "21"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-29T19:31:44.682Z"
+generated_at: "2026-03-29T20:00:54.388Z"
 ---
 
 # § 1395w–21. Eligibility, election, and enrollment
@@ -20,11 +20,7 @@ generated_at: "2026-03-29T19:31:44.682Z"
       - **(ii)** Specialized MA plans for special needs individuals (as defined in section 1395w–28(b)(6) of this title ) may be any type of coordinated care plan.
     - **(B)** An MSA plan, as defined in section 1395w–28(b)(3) of this title , and a contribution into a Medicare+Choice medical savings account (MSA).
     - **(C)** A Medicare+Choice private fee-for-service plan, as defined in section 1395w–28(b)(2) of this title .
-  - **(3)**
-    - **(A)** In this subchapter, subject to subparagraph (B), the term “Medicare+Choice eligible individual” means an individual who is entitled to benefits under part A and enrolled under part B.
-    - **(B)** Such term shall not include an individual medically determined to have end-stage renal disease, except that—
-      - **(i)** an individual who develops end-stage renal disease while enrolled in a Medicare+Choice plan may continue to be enrolled in that plan; and
-      - **(ii)** in the case of such an individual who is enrolled in a Medicare+Choice plan under clause (i) (or subsequently under this clause), if the enrollment is discontinued under circumstances described in subsection (e)(4)(A), then the individual will be treated as a “Medicare+Choice eligible individual” for purposes of electing to continue enrollment in another Medicare+Choice plan.
+  - **(3)** In this subchapter, the term “Medicare+Choice eligible individual” means an individual who is entitled to benefits under part A and enrolled under part B.
 - **(b)**
   - **(1)**
     - **(A)** Except as the Secretary may otherwise provide and except as provided in subparagraph (C), an individual is eligible to elect a Medicare+Choice plan offered by a Medicare+Choice organization only if the plan serves the geographic area in which the individual resides.
@@ -47,11 +43,11 @@ generated_at: "2026-03-29T19:31:44.682Z"
     - **(B)** Such process shall permit an individual, who has elected a Medicare+Choice plan offered by a Medicare+Choice organization and who wishes to terminate such election, to terminate such election through the filing of an appropriate election form with the organization.
   - **(3)**
     - **(A)**
-      - **(i)** Subject to clause (ii), an individual who fails to make an election during an initial election period under subsection (e)(1) of this section is deemed to have chosen the original medicare fee-for-service program option.
+      - **(i)** Subject to clause (ii), an individual who fails to make an election during an initial election period under subsection (e)(1) is deemed to have chosen the original medicare fee-for-service program option.
       - **(ii)** The Secretary may establish procedures under which an individual who is enrolled in a health plan (other than Medicare+Choice plan) offered by a Medicare+Choice organization at the time of the initial election period and who fails to elect to receive coverage other than through the organization is deemed to have elected the Medicare+Choice plan offered by the organization (or, if the organization offers more than one such plan, such plan or plans as the Secretary identifies under such procedures).
     - **(B)** An individual who has made (or is deemed to have made) an election under this section is considered to have continued to make such election until such time as—
       - **(i)** the individual changes the election under this section, or
-      - **(ii)** the Medicare+Choice plan with respect to which such election is in effect is discontinued or, subject to subsection (b)(1)(B) of this section, no longer serves the area in which the individual resides.
+      - **(ii)** the Medicare+Choice plan with respect to which such election is in effect is discontinued or, subject to subsection (b)(1)(B), no longer serves the area in which the individual resides.
   - **(4)**
     - **(A)** On the first day of the annual, coordinated election period under subsection (e)(3) for plan years beginning on or after January 1, 2017 , an MA eligible individual described in clause (i) or (ii) of subparagraph (B) is deemed, unless the individual elects otherwise, to have elected to receive benefits under this subchapter through an applicable MA plan (and shall be enrolled in such plan) beginning with such plan year, if—
       - **(i)** the individual is enrolled in a reasonable cost reimbursement contract under section 1395mm(h) of this title in the previous plan year;
@@ -131,7 +127,7 @@ generated_at: "2026-03-29T19:31:44.682Z"
     - **(B)**
       - **(i)** Subject to clause (ii), subparagraph (C)(iii), 1 1 See References in Text note below. and subparagraph (D), at any time during the first 6 months of 2006, or, if the individual first becomes a Medicare+Choice eligible individual during 2006, during the first 6 months during 2006 in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1).
       - **(ii)** An individual may exercise the right under clause (i) only once. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under the first sentence of paragraph (4).
-    - **(C)** Subject to subparagraph (D), at any time during the first 45 days of a year (beginning with 2011), an individual who is enrolled in a Medicare Advantage plan may change the election under subsection (a)(1), but only with respect to coverage under the original medicare fee-for-service program under parts A and B, and may elect qualified prescription drug coverage in accordance with section 1395w–101 of this title .
+    - **(C)** Subject to subparagraph (D), at any time during the first 45 days of a year (beginning with 2011 and ending with 2018), an individual who is enrolled in a Medicare Advantage plan may change the election under subsection (a)(1), but only with respect to coverage under the original medicare fee-for-service program under parts A and B, and may elect qualified prescription drug coverage in accordance with section 1395w–101 of this title .
     - **(D)** At any time after 2005 in the case of a Medicare+Choice eligible individual who is institutionalized (as defined by the Secretary), the individual may elect under subsection (a)(1)—
       - **(i)** to enroll in a Medicare+Choice plan; or
       - **(ii)** to change the Medicare+Choice plan in which the individual is enrolled.
@@ -148,6 +144,13 @@ generated_at: "2026-03-29T19:31:44.682Z"
     - **(F)**
       - **(i)** At any time during the period beginning after the last day of the annual, coordinated election period under paragraph (3) in which an individual is deemed to have elected to enroll in an MA plan or MA–PD plan under subsection (c)(4) and ending on the last day of February of the first plan year for which the individual is enrolled in such plan, such individual may change the election under subsection (a)(1) (including changing the MA plan or MA–PD plan in which the individual is enrolled).
       - **(ii)** An individual may exercise the right under clause (i) only once during the applicable period described in such clause. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under paragraph (4).
+    - **(G)**
+      - **(i)** Subject to clause (ii) and subparagraph (D)—
+        - **(I)** in the case of an MA eligible individual who is enrolled in an MA plan, at any time during the first 3 months of a year (beginning with 2019); or
+        - **(II)** in the case of an individual who first becomes an MA eligible individual during a year (beginning with 2019) and enrolls in an MA plan, during the first 3 months during such year in which the individual is an MA eligible individual;
+      - **(ii)** An individual may change the election pursuant to clause (i) only once during the applicable 3-month period described in such clause in each year. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under paragraph (4).
+      - **(iii)** Clauses (i) and (ii) of this subparagraph shall only apply with respect to changes in enrollment in a prescription drug plan under part D in the case of an individual who, previous to such change in enrollment, is enrolled in a Medicare Advantage plan.
+      - **(iv)** Pursuant to subsection (j), no unsolicited marketing or marketing materials may be sent to an individual described in clause (i) during the continuous open enrollment and disenrollment period established for the individual under such clause, notwithstanding marketing guidelines established by the Centers for Medicare & Medicaid Services.
   - **(3)**
     - **(A)** Subject to paragraph (5), each individual who is eligible to make an election under this section may change such election during an annual, coordinated election period.
     - **(B)** For purposes of this section, the term “annual, coordinated election period” means—
@@ -218,6 +221,7 @@ generated_at: "2026-03-29T19:31:44.682Z"
 - **(i)**
   - **(1)** Subject to sections 1395w–22(a)(5), 1395w–23(a)(4), 1395w–23(g), 1395w–23(h), 1395ww(d)(11), 1395ww(h)(3)(D), and 1395w–23(m) of this title, payments under a contract with a Medicare+Choice organization under section 1395w–23(a) of this title with respect to an individual electing a Medicare+Choice plan offered by the organization shall be instead of the amounts which (in the absence of the contract) would otherwise be payable under parts A and B for items and services furnished to the individual.
   - **(2)** Subject to sections 1395w–23(a)(4), 1395w–23(e), 1395w–23(g), 1395w–23(h), 1395w–27(f)(2), 1395w–27a(h), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, only the Medicare+Choice organization shall be entitled to receive payments from the Secretary under this subchapter for services furnished to the individual.
+  - **(3)** Paragraphs (1) and (2) shall not apply with respect to expenses for organ acquisitions for kidney transplants described in section 1395w–22(a)(1)(B)(i) of this title .
 - **(j)**
   - **(1)** The following prohibited activities are described in this paragraph:
     - **(A)** Any unsolicited means of direct contact of prospective enrollees, including soliciting door-to-door or any outbound telemarketing without the prospective enrollee initiating contact.

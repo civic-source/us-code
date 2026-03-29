@@ -1,19 +1,31 @@
 ---
-title: "Section 3b - Products held for emergency use"
+title: "Section 3b - Strategic Workforce Plan and report"
 usc_title: 21
 usc_section: "3b"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 3b"
-generated_at: "2026-03-29T19:41:41.610Z"
+generated_at: "2026-03-29T19:59:28.448Z"
 ---
 
-# § 360bbb–3b. Products held for emergency use
+# § 379d–3b. Strategic Workforce Plan and report
 
-It is not a violation of any section of this chapter or of the Public Health Service Act [ 42 U.S.C. 201 et seq.] for a government entity (including a Federal, State, local, or tribal government entity), or a person acting on behalf of such a government entity, to introduce into interstate commerce a product (as defined in section 360bbb–3(a)(4) of this title ) intended for emergency use, if that product—
-
-  - **(1)** is intended to be held and not used; and
-  - **(2)** is held and not used, unless and until that product—
-    - **(A)** is approved, cleared, or licensed under section 355, 360(k), 360b, or 360e of this title or section 351 of the Public Health Service Act [ 42 U.S.C. 262 ] or conditionally approved under section 360ccc of this title ;
-    - **(B)** is authorized for investigational use under section 355, 360b, or 360j of this title or section 351 of the Public Health Service Act [ 42 U.S.C. 262 ]; or
-    - **(C)** is authorized for use under section 360bbb–3 of this title or section 360bbb–3a of this title .
+- **(a)** Not later than September 30, 2023 , and at least every 4 years thereafter, the Secretary shall develop, begin implementation of, and submit to the appropriate committees of Congress and post on the website of the Food and Drug Administration, a coordinated strategy and report to provide direction for the activities and programs of the Secretary to recruit, hire, train, develop, and retain the workforce needed to fulfill the public health mission of the Food and Drug Administration, including to facilitate collaboration across centers, to keep pace with new biomedical, technological, and scientific advancements, and support the development, review, and regulation of medical products. Each such report shall be known as the “Food and Drug Administration Strategic Workforce Plan”.
+- **(b)** Each center within the Food and Drug Administration shall develop and update, as appropriate, a strategic plan that will be informed by the Food and Drug Administration Strategic Workforce Plans developed under subsection (a).
+- **(c)** Each Food and Drug Administration Strategic Workforce Plan under subsection (a) shall—
+  - **(1)** include agency-wide human capital strategic goals and priorities for recruiting, hiring, training, developing, and retaining a qualified workforce for the Food and Drug Administration;
+  - **(2)** establish specific actions the Secretary will take to achieve such strategic goals and priorities and address the workforce needs of the Food and Drug Administration in the forthcoming fiscal years;
+  - **(3)** identify challenges and risks the Secretary will face in meeting its strategic goals and priorities, and the actions the Secretary will take to overcome those challenges and mitigate those risks;
+  - **(4)** establish performance measures, benchmarks, or other elements that the Secretary will use to measure and evaluate progress in achieving such strategic goals and priorities and the effectiveness of such strategic goals and priorities; and
+  - **(5)** define functions, capabilities, and gaps in such workforce and identify strategies to recruit, hire, train, develop, and retain such workforce.
+- **(d)** In developing each Food and Drug Administration Strategic Workforce Plan under subsection (a), the Secretary shall consider—
+  - **(1)** the number of employees (including senior leadership and non-senior leadership employees) eligible for retirement, the expertise of such employees, and the employing center of such employees;
+  - **(2)** the vacancy and turnover rates for employees with different types of expertise and from different centers, including any changes or trends related to such rates;
+  - **(3)** the results of the Federal Employee Viewpoint Survey for employees of the Food and Drug Administration, including any changes or trends related to such results;
+  - **(4)** rates of pay for different types of positions, including rates for different types of expertise within the same field (such as differences in pay between different medical specialists), and how such rates of pay impact the ability of the Secretary to achieve the strategic goals and priorities described in subsection (c);
+  - **(5)** the statutory hiring authorities used to hire Food and Drug Administration employees, and the time to hire across different hiring authorities; and
+  - **(6)** any other timely and relevant information, as the Secretary determines appropriate.
+- **(e)** Each Food and Drug Administration Strategic Workforce Plan issued pursuant to subsection (a), with the exception of the first such Food and Drug Administration Strategic Workforce Plan, shall include an evaluation of—
+  - **(1)** the progress the Secretary has made, based on the performance measures, benchmarks, and other elements that measure successful recruitment, hiring, training, development, and retention activities; and
+  - **(2)** whether actions taken in response to the Plan improved the capacity of the Food and Drug Administration to achieve the strategic goals and priorities described in subsection (c)(1).
+- **(f)** The Food and Drug Administration Strategic Workforce Plan issued in fiscal year 2023 shall address the effect of the COVID–19 pandemic on hiring, retention, and other workforce challenges for the Food and Drug Administration, including protecting such workforce during public health emergencies.

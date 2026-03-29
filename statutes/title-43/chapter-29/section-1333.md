@@ -3,15 +3,21 @@ title: "Section 1333 - Laws and regulations governing lands"
 usc_title: 43
 usc_section: "1333"
 chapter: 29
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1333"
-generated_at: "2026-03-29T19:31:49.096Z"
+generated_at: "2026-03-29T19:59:41.436Z"
 ---
 
 # § 1333. Laws and regulations governing lands
 
 - **(a)**
-  - **(1)** The Constitution and laws and civil and political jurisdiction of the United States are extended to the subsoil and seabed of the outer Continental Shelf and to all artificial islands, and all installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources therefrom, or any such installation or other device (other than a ship or vessel) for the purpose of transporting such resources, to the same extent as if the outer Continental Shelf were an area of exclusive Federal jurisdiction located within a State: Provided, however , That mineral leases on the outer Continental Shelf shall be maintained or issued only under the provisions of this subchapter.
+  - **(1)**
+    - **(A)** The Constitution and laws and civil and political jurisdiction of the United States are extended, to the same extent as if the outer Continental Shelf were an area of exclusive Federal jurisdiction located within a State, to—
+      - **(i)** the subsoil and seabed of the outer Continental Shelf;
+      - **(ii)** all artificial islands on the outer Continental Shelf;
+      - **(iii)** installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources, including non-mineral energy resources; or
+      - **(iv)** any such installation or other device (other than a ship or vessel) for the purpose of transporting or transmitting such resources.
+    - **(B)** Mineral or energy leases on the outer Continental Shelf shall be maintained or issued only under the provisions of this subchapter.
   - **(2)**
     - **(A)** To the extent that they are applicable and not inconsistent with this subchapter or with other Federal laws and regulations of the Secretary now in effect or hereafter adopted, the civil and criminal laws of each adjacent State, now in effect or hereafter adopted, amended, or repealed are declared to be the law of the United States for that portion of the subsoil and seabed of the outer Continental Shelf, and artificial islands and fixed structures erected thereon, which would be within the area of the State if its boundaries were extended seaward to the outer margin of the outer Continental Shelf, and the President shall determine and publish in the Federal Register such projected lines extending seaward and defining each such area. All of such applicable laws shall be administered and enforced by the appropriate officers and courts of the United States. State taxation laws shall not apply to the outer Continental Shelf.
     - **(B)** Within one year after September 18, 1978 , the President shall establish procedures for setting 1 1 So in original. Probably should be “settling”. any outstanding international boundary dispute respecting the outer Continental Shelf.

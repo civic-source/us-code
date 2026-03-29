@@ -3,9 +3,9 @@ title: "Section 20136 - Automatic train control and related systems"
 usc_title: 49
 usc_section: "20136"
 chapter: 201
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 20136"
-generated_at: "2026-03-29T19:44:57.900Z"
+generated_at: "2026-03-29T20:01:14.864Z"
 ---
 
 # § 20136. Automatic train control and related systems

@@ -3,9 +3,9 @@ title: "Section 161 - Operation of motor vehicles by intoxicated minors"
 usc_title: 23
 usc_section: "161"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "23 U.S.C. § 161"
-generated_at: "2026-03-29T19:41:43.013Z"
+generated_at: "2026-03-29T19:59:25.826Z"
 ---
 
 # § 161. Operation of motor vehicles by intoxicated minors

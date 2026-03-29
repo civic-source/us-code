@@ -3,9 +3,9 @@ title: "Section 13909 - Availability of information"
 usc_title: 49
 usc_section: "13909"
 chapter: 139
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 13909"
-generated_at: "2026-03-29T19:44:57.887Z"
+generated_at: "2026-03-29T20:01:14.851Z"
 ---
 
 # § 13909. Availability of information

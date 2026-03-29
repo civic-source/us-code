@@ -3,9 +3,9 @@ title: "Section 882 - Injunctions"
 usc_title: 21
 usc_section: "882"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 882"
-generated_at: "2026-03-29T19:41:41.717Z"
+generated_at: "2026-03-29T19:59:28.526Z"
 ---
 
 # § 882. Injunctions
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:41:41.717Z"
 - **(a)** The district courts of the United States and all courts exercising general jurisdiction in the territories and possessions of the United States shall have jurisdiction in proceedings in accordance with the Federal Rules of Civil Procedure to enjoin violations of this subchapter.
 - **(b)** In case of an alleged violation of an injunction or restraining order issued under this section, trial shall, upon demand of the accused, be by a jury in accordance with the Federal Rules of Civil Procedure.
 - **(c)**
-  - **(1)** In any case in which the State has reason to believe that an interest of the residents of that State has been or is being threatened or adversely affected by the action of a person, entity, or Internet site that violates the provisions of section 823(f), 829(e), or 831 of this title, the State may bring a civil action on behalf of such residents in a district court of the United States with appropriate jurisdiction—
+  - **(1)** In any case in which the State has reason to believe that an interest of the residents of that State has been or is being threatened or adversely affected by the action of a person, entity, or Internet site that violates the provisions of section 823(g), 829(e), or 831 of this title, the State may bring a civil action on behalf of such residents in a district court of the United States with appropriate jurisdiction—
     - **(A)** to enjoin the conduct which violates this section;
     - **(B)** to enforce compliance with this section;
     - **(C)** to obtain damages, restitution, or other compensation, including civil penalties under section 842(b) of this title ; and

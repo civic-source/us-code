@@ -3,9 +3,9 @@ title: "Section 1330 - Revocation of an order of confirmation"
 usc_title: 11
 usc_section: "1330"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "11 U.S.C. § 1330"
-generated_at: "2026-03-29T19:44:19.553Z"
+generated_at: "2026-03-29T19:58:09.489Z"
 ---
 
 # § 1330. Revocation of an order of confirmation

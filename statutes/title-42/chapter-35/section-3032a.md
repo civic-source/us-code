@@ -3,15 +3,15 @@ title: "Section 3032a - Career preparation for the field of aging"
 usc_title: 42
 usc_section: "3032a"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3032a"
-generated_at: "2026-03-29T19:31:45.072Z"
+generated_at: "2026-03-29T20:00:54.844Z"
 ---
 
 # § 3032a. Career preparation for the field of aging
 
 - **(a)** The Assistant Secretary shall make grants to institutions of higher education, including historically Black colleges or universities, Hispanic-serving institutions, and Hispanic Centers of Excellence in Applied Gerontology, to provide education and training that prepares students for careers in the field of aging.
-- **(b)** For purposes of subsection (a) of this section:
+- **(b)** For purposes of subsection (a):
   - **(1)** The term “Hispanic Center of Excellence in Applied Gerontology” means an institution of higher education with a program in applied gerontology that—
     - **(A)** has a significant number of Hispanic individuals enrolled in the program, including individuals accepted for enrollment in the program;
     - **(B)** has been effective in assisting Hispanic students of the program to complete the program and receive the degree involved;

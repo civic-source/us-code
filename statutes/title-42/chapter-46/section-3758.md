@@ -1,14 +1,12 @@
 ---
-title: "Section 3758 - Authorization of appropriations"
+title: "Section 3758 - Omitted"
 usc_title: 42
 usc_section: "3758"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3758"
-generated_at: "2026-03-29T19:31:45.109Z"
+generated_at: "2026-03-29T20:00:54.882Z"
 ---
 
-# § 3758. Authorization of appropriations
-
-There is authorized to be appropriated to carry out this part $1,095,000,000 for each of the fiscal years 2006 through 2012.
+# § 3758. Omitted
 

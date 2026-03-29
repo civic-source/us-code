@@ -3,9 +3,9 @@ title: "Section 1766 - Joint reserve detachment of the Defense Innovation Unit"
 usc_title: 10
 usc_section: "1766"
 chapter: 87
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1766"
-generated_at: "2026-03-29T19:43:37.949Z"
+generated_at: "2026-03-29T19:58:02.122Z"
 ---
 
 # § 1766. Joint reserve detachment of the Defense Innovation Unit
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:43:37.949Z"
 - **(a)** The Secretary of Defense, in consultation with the Secretaries of the military departments, may establish a joint reserve detachment (referred to in this section as the “Detachment”) composed of members of the reserve components described in subsection (b) to be assigned to each office of the Defense Innovation Unit to—
   - **(1)** support engagement and collaboration with private-sector industry and the community surrounding the location of such office; and
   - **(2)** accelerate the use and adoption of commercially-developed technologies for national security purposes.
-- **(b)** Each Secretary of a military department shall select for the Detachment, and make efforts to retain, members of the reserve components who possess relevant private-sector experience in the fields of business, acquisition, intelligence, engineering, technology transfer, science, mathematics, program management, logistics, cybersecurity, or such other fields as determined by the Under Secretary of Defense for Research and Engineering.
+- **(b)** Each Secretary of a military department shall select for the Detachment, and make efforts to retain, members of the reserve components who possess relevant private-sector experience in the fields of business, acquisition, intelligence, engineering, technology transfer, science, mathematics, program management, logistics, cybersecurity, or such other fields as determined by the Secretary of Defense.
 - **(c)** The Detachment shall have the following duties:
   - **(1)** Providing the Department of Defense with—
     - **(A)** expertise on and analysis of commercially-developed technologies;
@@ -30,5 +30,5 @@ generated_at: "2026-03-29T19:43:37.949Z"
         - **(II)** National Defense Science and Technology Strategy as directed under section 218 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ; 132 Stat. 1679 ); and
         - **(III)** relevant policy and guidance from the Secretary of Defense; and
     - **(C)** using the investment in research and development made by private-sector industry in assessing and developing dual-use technologies.
-  - **(3)** Carrying out other activities as directed by the Under Secretary of Defense for Research and Engineering.
+  - **(3)** Carrying out other activities as directed by the Secretary of Defense.
 - **(d)** Assignment to a Detachment shall not qualify as a joint duty assignment, as defined in section 668(b)(1) of title 10 , United States Code, unless approved by the Secretary of Defense.

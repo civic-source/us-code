@@ -3,9 +3,9 @@ title: "Section 2 - Remedies and enforcement"
 usc_title: 42
 usc_section: "2"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T02:15:36.570Z"
+generated_at: "2026-03-29T20:00:54.762Z"
 ---
 
 # § 2000gg–2. Remedies and enforcement

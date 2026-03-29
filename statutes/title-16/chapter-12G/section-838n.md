@@ -3,9 +3,9 @@ title: "Section 838n - Columbia Basin power management"
 usc_title: 16
 usc_section: "838n"
 chapter: 12
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 838n"
-generated_at: "2026-03-29T19:41:13.641Z"
+generated_at: "2026-03-29T19:59:08.246Z"
 ---
 
 # § 838n. Columbia Basin power management
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T19:41:13.641Z"
     - **(C)** any potential need to increase transmission capacity; and
     - **(D)** any other factor the Administrator considers to be relevant for increasing bilateral coordination.
   - **(3)** In conducting the study under paragraph (1), the Administrator shall coordinate, to the extent practicable, with—
-    - **(A)** the British Columbia or a crown corporation owned by British Columbia;
+    - **(A)** the 1 1 So in original. The word “the” probably should not appear. British Columbia or a crown corporation owned by British Columbia;
     - **(B)** the Assistant Secretary;
     - **(C)** the Commissioner of Reclamation; and
     - **(D)** any public utility districts that operate hydroelectric projects on the mainstem of the Columbia River.

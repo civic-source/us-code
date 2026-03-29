@@ -3,9 +3,9 @@ title: "Section 1908 - Experimental stewardship program"
 usc_title: 43
 usc_section: "1908"
 chapter: 37
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1908"
-generated_at: "2026-03-29T19:31:49.158Z"
+generated_at: "2026-03-29T19:59:41.501Z"
 ---
 
 # § 1908. Experimental stewardship program

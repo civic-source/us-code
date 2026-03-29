@@ -3,9 +3,9 @@ title: "Section 4862 - Prohibition on use of funds for facilities in Israel, Jer
 usc_title: 22
 usc_section: "4862"
 chapter: 58
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 4862"
-generated_at: "2026-03-29T19:42:08.197Z"
+generated_at: "2026-03-29T19:59:24.233Z"
 ---
 
 # § 4862. Prohibition on use of funds for facilities in Israel, Jerusalem, or West Bank

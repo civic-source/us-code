@@ -3,9 +3,9 @@ title: "Section 7706 - Eligible countries"
 usc_title: 22
 usc_section: "7706"
 chapter: 84
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 7706"
-generated_at: "2026-03-29T19:42:08.264Z"
+generated_at: "2026-03-29T19:59:24.297Z"
 ---
 
 # § 7706. Eligible countries
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T19:42:08.264Z"
     - **(C)** promote the protection of biodiversity and the transparent and sustainable management and use of natural resources.
 - **(c)**
   - **(1)** At the time the Board determines eligible countries under this section for a fiscal year, the Board shall select those eligible countries with respect to which the United States will initially seek to enter into a Millennium Challenge Compact pursuant to section 7708 of this title .
-  - **(2)** In selecting eligible countries under paragraph (1), the Board shall consider the following factors:
+  - **(2)** In selecting eligible countries under paragraph (1), the Board shall prioritize need and impact by considering the following factors:
     - **(A)** The extent to which the country clearly meets or exceeds the eligibility criteria.
     - **(B)** The opportunity to reduce poverty and generate economic growth in the country.
     - **(C)** The availability of amounts to carry out this chapter.

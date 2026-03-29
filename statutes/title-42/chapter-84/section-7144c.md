@@ -1,17 +1,12 @@
 ---
-title: "Section 7144c - Office of Intelligence"
+title: "Section 7144c - Repealed. Pub. L. 116–92, div. E, title LXIV, § 6421(b) , Dec. 20, 2019 , 133 Stat. 2199"
 usc_title: 42
 usc_section: "7144c"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7144c"
-generated_at: "2026-03-29T19:31:45.346Z"
+generated_at: "2026-03-29T20:00:55.094Z"
 ---
 
-# § 7144c. Office of Intelligence
+# § 7144c. Repealed. Pub. L. 116–92, div. E, title LXIV, § 6421(b) , Dec. 20, 2019 , 133 Stat. 2199
 
-- **(a)** There is within the Department an Office of Intelligence.
-- **(b)**
-  - **(1)** The head of the Office shall be the Director of the Office of Intelligence, who shall be an employee in the Senior Executive Service, the Senior Intelligence Service, the Senior National Intelligence Service, or any other Service that the Secretary, in coordination with the Director of National Intelligence, considers appropriate. The Director of the Office shall report directly to the Secretary.
-  - **(2)** The Secretary shall select the Director of the Office from among individuals who have substantial expertise in matters relating to foreign intelligence.
-- **(c)** Subject to the authority, direction, and control of the Secretary, the Director of the Office shall perform such duties and exercise such powers as the Secretary may prescribe.

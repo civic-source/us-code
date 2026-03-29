@@ -3,9 +3,9 @@ title: "Section 3531 - Sexual assault and sexual harassment within the Agency"
 usc_title: 50
 usc_section: "3531"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3531"
-generated_at: "2026-03-29T02:16:14.810Z"
+generated_at: "2026-03-29T20:01:07.387Z"
 ---
 
 # § 3531. Sexual assault and sexual harassment within the Agency
@@ -53,15 +53,3 @@ generated_at: "2026-03-29T02:16:14.810Z"
     - **(A)** Any employee of the Agency.
     - **(B)** Any person other than an Agency employee who alleges they were sexually assaulted or harassed at a facility associated with the Agency or during the performance of a function associated with the Agency. If such person is an employee of an industrial contractor, the contracting officer for the relevant contract shall coordinate with the contractually identified representative for the prime contractor in a manner consistent with section 3532 of this title .
   - **(2)** The policies developed pursuant to this section for handling allegations of sexual harassment shall be in addition to the requirements of part 1614 of title 29, Code of Federal Regulations, or successor regulations.
-- **(d)**
-  - **(1)** Not less frequently than once every 365 days, the Director shall—
-    - **(A)** complete an Agency climate assessment—
-      - **(i)** that does not request any information that would make an Agency employee or the position of an Agency employee identifiable;
-      - **(ii)** for the purposes of—
-        - **(I)** preventing and responding to sexual assault and sexual harassment; and
-        - **(II)** examining the prevalence of sexual assault and sexual harassment occurring among the Agency’s workforce; and
-      - **(iii)** that includes an opportunity for Agency employees to express the opinions of the employees regarding the manner and extent to which the Agency responds to allegations of sexual assault and complaints of sexual harassment, and the effectiveness of such response; and
-    - **(B)** submit to the appropriate congressional committees the findings of the Director with respect to the climate assessment completed pursuant to subparagraph (A).
-  - **(2)** In this subsection, the term “appropriate congressional committees” means—
-    - **(A)** the Select Committee on Intelligence and the Subcommittee on Defense of the Committee on Appropriations of the Senate; and
-    - **(B)** the Permanent Select Committee on Intelligence and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives.

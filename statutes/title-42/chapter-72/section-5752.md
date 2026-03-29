@@ -1,14 +1,12 @@
 ---
-title: "Section 5752 - Restriction on use of funds"
+title: "Section 5752 - Transferred"
 usc_title: 42
 usc_section: "5752"
 chapter: 72
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5752"
-generated_at: "2026-03-29T19:31:45.246Z"
+generated_at: "2026-03-29T20:00:54.981Z"
 ---
 
-# § 5752. Restriction on use of funds
+# § 5752. Transferred
 
-- **(a)** None of the funds contained in this subchapter may be used for any program of distributing sterile needles or syringes for the hypodermic injection of any illegal drug.
-- **(b)** Any individual or entity who receives any funds contained in this subchapter and who carries out any program described in subsection (a) of this section shall account for all funds used for such program separately from any funds contained in this subchapter.

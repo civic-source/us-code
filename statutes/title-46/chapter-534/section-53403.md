@@ -3,9 +3,9 @@ title: "Section 53403 - Award of operating agreements"
 usc_title: 46
 usc_section: "53403"
 chapter: 534
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 53403"
-generated_at: "2026-03-29T19:44:39.456Z"
+generated_at: "2026-03-29T20:01:03.932Z"
 ---
 
 # § 53403. Award of operating agreements
@@ -18,5 +18,7 @@ generated_at: "2026-03-29T19:44:39.456Z"
     - **(B)** after consideration of vessel type, according to an applicant’s record of owning and operating vessels; then
     - **(C)** after consideration of ownership and operation, according to such additional priorities as the Secretary of Transportation may consider appropriate.
   - **(3)** The Secretary of Transportation may not approve an application for an operating agreement without the concurrence of the Secretary of Defense.
-- **(c)** For any fiscal year, the Secretary of Transportation may not award operating agreements under this chapter that require payments under section 53406 of this title for more than 10 vessels.
+- **(c)** The Secretary of Transportation may not award operating agreements under this chapter that require payments under section 53406 of this title for more than—. 1 1 So in original. The period probably should not appear.
+  - **(1)** for each of fiscal years 2022 and 2023, 10 vessels; and
+  - **(2)** for any subsequent fiscal year, 20 vessels.
 - **(d)** No court shall have jurisdiction to review the Secretary’s decision with respect to the award or non-award of an operating agreement issued under this chapter.

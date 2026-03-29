@@ -3,9 +3,9 @@ title: "Section 2741 - Definitions"
 usc_title: 50
 usc_section: "2741"
 chapter: 42
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 2741"
-generated_at: "2026-03-29T19:44:52.817Z"
+generated_at: "2026-03-29T20:01:07.305Z"
 ---
 
 # § 2741. Definitions
@@ -13,4 +13,9 @@ generated_at: "2026-03-29T19:44:52.817Z"
 In this part:
 
   - **(1)** The term “DOE national security authorization” means an authorization of appropriations for activities of the Department of Energy in carrying out programs necessary for national security.
-  - **(2)** The term “minor construction threshold” means $25,000,000.
+  - **(2)**
+    - **(A)** Except as provided by subparagraph (B), the term “minor construction threshold” means $30,000,000.
+    - **(B)** The Administrator may calculate the amount specified in subparagraph (A) based on fiscal year 2022 constant dollars if the Administrator—
+      - **(i)** submits to the congressional defense committees a report on the method used by the Administrator to calculate the adjustment;
+      - **(ii)** a period of 30 days elapses following the date of such submission; and
+      - **(iii)** publishes the adjusted amount in the Federal Register.

@@ -3,9 +3,9 @@ title: "Section 345 - Protection of survivors of domestic violence, human traffi
 usc_title: 47
 usc_section: "345"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "47 U.S.C. § 345"
-generated_at: "2026-03-29T02:15:59.218Z"
+generated_at: "2026-03-29T20:01:01.572Z"
 ---
 
 # § 345. Protection of survivors of domestic violence, human trafficking, and related crimes

@@ -3,9 +3,9 @@ title: "Section 2906 - Annual report"
 usc_title: 15
 usc_section: "2906"
 chapter: 56
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 2906"
-generated_at: "2026-03-29T19:44:42.851Z"
+generated_at: "2026-03-29T19:58:17.799Z"
 ---
 
 # § 2906. Annual report

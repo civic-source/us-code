@@ -3,9 +3,9 @@ title: "Section 55123 - Priority loading for coal"
 usc_title: 46
 usc_section: "55123"
 chapter: 551
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 55123"
-generated_at: "2026-03-29T19:44:39.469Z"
+generated_at: "2026-03-29T20:01:03.944Z"
 ---
 
 # § 55123. Priority loading for coal

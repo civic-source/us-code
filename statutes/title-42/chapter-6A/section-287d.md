@@ -3,9 +3,9 @@ title: "Section 287d - Office of Research on Women’s Health"
 usc_title: 42
 usc_section: "287d"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 287d"
-generated_at: "2026-03-29T19:31:44.292Z"
+generated_at: "2026-03-29T20:00:53.871Z"
 ---
 
 # § 287d. Office of Research on Women’s Health
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T19:31:44.292Z"
   - **(9)** prepare the report required in section 287d–2 of this title .
 - **(c)**
   - **(1)** In carrying out subsection (b), the Director of the Office shall establish a committee to be known as the Coordinating Committee on Research on Women’s Health (in this subsection referred to as the “Coordinating Committee”).
-  - **(2)** The Coordinating Committee shall be composed of the Directors of the national research institutes (or the designees of the Directors).
+  - **(2)** The Coordinating Committee shall be composed of the Directors of the national research institutes (or the senior-level staff designees of the Directors).
   - **(3)** The Director of the Office shall serve as the chair of the Coordinating Committee.
   - **(4)** With respect to research on women’s health, the Coordinating Committee shall assist the Director of the Office in—
     - **(A)** identifying the need for such research, and making an estimate each fiscal year of the funds needed to adequately support the research;
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T19:31:44.292Z"
       - **(i)** research on women’s health;
       - **(ii)** research on gender differences in clinical drug trials, including responses to pharmacological drugs;
       - **(iii)** research on gender differences in disease etiology, course, and treatment;
-      - **(iv)** research on obstetrical and gynecological health conditions, diseases, and treatments; and
+      - **(iv)** research on obstetrical and gynecological health conditions, diseases, and treatments, including preventable maternal mortality and severe maternal morbidity; and
       - **(v)** research on women’s health conditions which require a multidisciplinary approach;
     - **(B)** report to the Director of the Office on such research;
     - **(C)** provide recommendations to such Director regarding activities of the Office (including recommendations on the development of the methodologies described in subsection (c)(4)(C) and recommendations on priorities in carrying out research described in subparagraph (A)); and

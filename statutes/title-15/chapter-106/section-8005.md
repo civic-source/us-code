@@ -3,9 +3,9 @@ title: "Section 8005 - Minimum State law requirements"
 usc_title: 15
 usc_section: "8005"
 chapter: 106
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 8005"
-generated_at: "2026-03-29T19:44:42.955Z"
+generated_at: "2026-03-29T19:58:17.914Z"
 ---
 
 # § 8005. Minimum State law requirements
@@ -20,8 +20,8 @@ generated_at: "2026-03-29T19:44:42.955Z"
         - **(III)** no main drain; and
     - **(B)** the State meets such additional State law requirements for pools and spas as the Commission may establish after public notice and a 30-day public comment period.
   - **(2)** The Commission—
-    - **(A)** shall use the minimum State law requirements under paragraph (1) solely for the purpose of determining the eligibility of a State for a grant under section 8004 of this title ; and
-    - **(B)** may not enforce any requirement under paragraph (1) except for the purpose of determining the eligibility of a State for a grant under section 8004 of this title .
+    - **(A)** shall use the minimum State law requirements under paragraph (1) solely for the purpose of determining the eligibility of a covered entity for a grant under section 8004 of this title ; and
+    - **(B)** may not enforce any requirement under paragraph (1) except for the purpose of determining the eligibility of a covered entity for a grant under section 8004 of this title .
   - **(3)** In establishing minimum State law requirements under paragraph (1)(B), the Commission shall—
     - **(A)** consider current or revised national performance standards on pool and spa barrier protection and entrapment prevention; and
     - **(B)** ensure that any such requirements are consistent with the guidelines contained in the Commission’s publication 362, entitled “Safety Barrier Guidelines for Home Pools”, the Commission’s publication entitled “Guidelines for Entrapment Hazards: Making Pools and Spas Safer”, and any other pool safety guidelines established by the Commission.
@@ -40,3 +40,4 @@ generated_at: "2026-03-29T19:44:42.955Z"
     - **(E)** A device or system that disables the drain.
     - **(F)** Any other system determined by the Commission to be equally effective as, or better than, the systems described in subparagraphs (A) through (E) of this paragraph at preventing or eliminating the risk of injury or death associated with pool drainage systems.
   - **(2)** Any device or system described in subparagraphs (B) through (E) of paragraph (1) shall meet the requirements of any ASME/ANSI or ASTM performance standard if there is such a standard for such a device or system, or any applicable consumer product safety standard.
+- **(e)** In this section, the term “State” includes an Indian Tribe.

@@ -3,9 +3,9 @@ title: "Section 743 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV],
 usc_title: 33
 usc_section: "743"
 chapter: 16
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 743"
-generated_at: "2026-03-29T19:43:07.595Z"
+generated_at: "2026-03-29T20:00:31.276Z"
 ---
 
 # § 743. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(5), Jan. 1, 2021 , 134 Stat. 4759

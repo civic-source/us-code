@@ -3,9 +3,9 @@ title: "Section 2215 - Nuclear Regulatory Commission user fees and annual charge
 usc_title: 42
 usc_section: "2215"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2215"
-generated_at: "2026-03-29T02:15:36.600Z"
+generated_at: "2026-03-29T20:00:54.797Z"
 ---
 
 # § 2215. Nuclear Regulatory Commission user fees and annual charges for fiscal year 2021 and each fiscal year thereafter
@@ -16,7 +16,6 @@ generated_at: "2026-03-29T02:15:36.600Z"
   - **(3)** With respect to the annual budget justification submitted to Congress, corporate support costs, to the maximum extent practicable, shall not exceed the following percentages of the total budget authority of the Commission requested in the annual budget justification:
     - **(A)** 30 percent for each of fiscal years 2021 and 2022.
     - **(B)** 30 percent for fiscal year 2025 and each fiscal year thereafter.
-  - **(4)** The Commission shall identify in the annual budget justification international nuclear export and innovation activities described in section 2155b(a) of this title .
 - **(b)**
   - **(1)**
     - **(A)** Each fiscal year, the Commission shall assess and collect fees and charges in accordance with paragraphs (2) and (3) in a manner that ensures that, to the maximum extent practicable, the amount assessed and collected is equal to an amount that approximates—
@@ -26,24 +25,15 @@ generated_at: "2026-03-29T02:15:36.600Z"
       - **(i)** Any fee relief activity, as identified by the Commission.
       - **(ii)** Amounts appropriated for a fiscal year to the Commission—
         - **(I)** from the Nuclear Waste Fund established under section 10222(c) of this title ;
-        - **(II)** for implementation of section 3116 1 1 See References in Text note below. of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 ( 50 U.S.C. 2601 note; Public Law 108–375 );
+        - **(II)** for implementation of section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 ( 50 U.S.C. 2601 note; 1 1 See References in Text note below. Public Law 108–375 );
         - **(III)** for the homeland security activities of the Commission (other than for the costs of fingerprinting and background checks required under section 2169 of this title and the costs of conducting security inspections);
         - **(IV)** for the Inspector General services of the Commission provided to the Defense Nuclear Facilities Safety Board;
         - **(V)** for research and development at universities in areas relevant to the mission of the Commission; and
         - **(VI)** for a nuclear science and engineering grant program that will support multiyear projects that do not align with programmatic missions but are critical to maintaining the discipline of nuclear science and engineering.
       - **(iii)** Costs for activities related to the development of regulatory infrastructure for advanced nuclear reactor technologies, including activities required under section 103. 1
-      - **(iv)** Costs for international nuclear export and innovation activities described in section 2155b(a) of this title .
-      - **(v)** The total costs of mission-indirect program support and agency support that, under paragraph (2)(B), may not be included in the hourly rate charged for fees assessed and collected from advanced nuclear reactor applicants.
-      - **(vi)** The total costs of mission-indirect program support and agency support that, under paragraph (2)(C), may not be included in the hourly rate charged for fees assessed and collected from advanced nuclear reactor pre-applicants.
-      - **(vii)** Costs for—
-        - **(I)** activities to review and approve or disapprove an application for an early site permit (as defined in section 52.1 of title 10, Code of Federal Regulations (or any successor regulation)) to demonstrate an advanced nuclear reactor on a Department of Energy site or critical national security infrastructure (as defined in section 327(d) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ; 132 Stat. 1722 )) site; and
-        - **(II)** pre-application activities relating to an early site permit (as defined in section 52.1 of title 10, Code of Federal Regulations (or any successor regulation)) to demonstrate an advanced nuclear reactor on a Department of Energy site or critical national security infrastructure (as defined in section 327(d) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ; 132 Stat. 1722 )) site.
     - **(C)** The exclusion described in subparagraph (B)(iii) shall cease to be effective on January 1, 2031 .
     - **(D)** Not later than December 31, 2029 , the Commission shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a report describing the views of the Commission on the continued appropriateness and necessity of the funding described in subparagraph (B)(iii).
-  - **(2)**
-    - **(A)** In accordance with section 9701 of title 31 , the Commission shall assess and collect fees from any person who receives a service or thing of value from the Commission to cover the costs to the Commission of providing the service or thing of value.
-    - **(B)** The hourly rate charged for fees assessed and collected from an advanced nuclear reactor applicant under this paragraph relating to the review of a submitted application described in section 3(1) may not exceed the hourly rate for mission-direct program salaries and benefits.
-    - **(C)** The hourly rate charged for fees assessed and collected from an advanced nuclear reactor pre-applicant under this paragraph relating to the review of submitted materials as described in the licensing project plan of an advanced nuclear reactor pre-applicant may not exceed the hourly rate for mission-direct program salaries and benefits.
+  - **(2)** In accordance with section 9701 of title 31 , the Commission shall assess and collect fees from any person who receives a service or thing of value from the Commission to cover the costs to the Commission of providing the service or thing of value.
   - **(3)**
     - **(A)** Subject to subparagraph (B) and except as provided in subparagraph (D), the Commission may charge to any licensee or certificate holder of the Commission an annual charge in addition to the fees assessed and collected under paragraph (2).
     - **(B)**
@@ -74,4 +64,3 @@ generated_at: "2026-03-29T02:15:36.600Z"
   - **(3)** modify regulations to ensure fair and appropriate processes to provide licensees and applicants an opportunity to efficiently dispute or otherwise seek review and correction of errors in invoices for those fees.
 - **(e)** Not later than September 30, 2021 , the Commission shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a report describing the implementation of this section, including any impacts and recommendations for improvement.
 - **(f)** Except as provided in subsection (c), this section takes effect on October 1, 2020 .
-- **(g)** Paragraphs (1)(B)(vi) and (2)(C) of subsection (b) shall cease to be effective on September 30, 2030 .

@@ -3,9 +3,9 @@ title: "Section 72 - Annuities; certain proceeds of endowment and life insurance
 usc_title: 26
 usc_section: "72"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 72"
-generated_at: "2026-03-29T19:42:47.525Z"
+generated_at: "2026-03-29T19:59:49.117Z"
 ---
 
 # § 72. Annuities; certain proceeds of endowment and life insurance contracts
@@ -60,6 +60,7 @@ generated_at: "2026-03-29T19:42:47.525Z"
     - **(F)** In any case where the annuity payments are not made on a monthly basis, appropriate adjustments in the application of this paragraph shall be made to take into account the period on the basis of which such payments are made.
     - **(G)** For purposes of this paragraph, the term “qualified employer retirement plan” means any plan or contract described in paragraph (1), (2), or (3) of section 4974(c).
   - **(2)** For purposes of this section, employee contributions (and any income allocable thereto) under a defined contribution plan may be treated as a separate contract.
+  - **(3)** For purposes of this section, contributions to a pension-linked emergency savings account to which section 402A(e) applies (and any income allocable thereto) may be treated as a separate contract.
 - **(e)**
   - **(1)**
     - **(A)** This subsection shall apply to any amount which—
@@ -211,6 +212,24 @@ generated_at: "2026-03-29T19:42:47.525Z"
       - **(ii)** The term “qualified employer plan” shall include any plan which was (or was determined to be) a qualified employer plan or a government plan.
     - **(B)** The term “government plan” means any plan, whether or not qualified, established and maintained for its employees by the United States, by a State or political subdivision thereof, or by an agency or instrumentality of any of the foregoing.
   - **(5)** For purposes of this subsection, any amount received as a loan under a contract purchased under a qualified employer plan (and any assignment or pledge with respect to such a contract) shall be treated as a loan under such employer plan.
+  - **(6)**
+    - **(A)** In the case of any loan from a qualified employer plan to a qualified individual made during the applicable period—
+      - **(i)** clause (i) of paragraph (2)(A) shall be applied by substituting “$100,000” for “$50,000”, and
+      - **(ii)** clause (ii) of such paragraph shall be applied by substituting “the present value of the nonforfeitable accrued benefit of the employee under the plan” for “one-half of the present value of the nonforfeitable accrued benefit of the employee under the plan”.
+    - **(B)** In the case of a qualified individual with respect to any qualified disaster with an outstanding loan from a qualified employer plan on or after the applicable date with respect to the qualified disaster—
+      - **(i)** if the due date pursuant to subparagraph (B) or (C) of paragraph (2) for any repayment with respect to such loan occurs during the period beginning on the first day of the incident period of such qualified disaster and ending on the date which is 180 days after the last day of such incident period, such due date may be delayed for 1 year,
+      - **(ii)** any subsequent repayments with respect to any such loan may be appropriately adjusted to reflect the delay in the due date under clause (i) and any interest accruing during such delay, and
+      - **(iii)** in determining the 5-year period and the term of a loan under subparagraph (B) or (C) of paragraph (2), the period described in clause (i) may be disregarded.
+    - **(C)** For purposes of this paragraph—
+      - **(i)** The term “qualified individual” means any individual—
+        - **(I)** whose principal place of abode at any time during the incident period of any qualified disaster is located in the qualified disaster area with respect to such qualified disaster, and
+        - **(II)** who has sustained an economic loss by reason of such qualified disaster.
+      - **(ii)** The applicable period with respect to any disaster is the period—
+        - **(I)** beginning on the applicable date with respect to such disaster, and
+        - **(II)** ending on the date that is 180 days after such applicable date.
+      - **(iii)** For purposes of this paragraph—
+        - **(I)** the terms “applicable date”, “qualified disaster”, “qualified disaster area”, and “incident period” have the meaning given such terms under subsection (t)(11), and
+        - **(II)** the term “applicable period” has the meaning given such term under subsection (t)(8).
 - **(q)**
   - **(1)** If any taxpayer receives any amount under an annuity contract, the taxpayer’s tax under this chapter for the taxable year in which such amount is received shall be increased by an amount equal to 10 percent of the portion of such amount which is includible in gross income.
   - **(2)** Paragraph (1) shall not apply to any distribution—
@@ -224,11 +243,16 @@ generated_at: "2026-03-29T19:42:47.525Z"
     - **(H)** to which subsection (t) applies (without regard to paragraph (2) thereof),
     - **(I)** under an immediate annuity contract (within the meaning of section 72(u)(4)), or
     - **(J)** which is purchased by an employer upon the termination of a plan described in section 401(a) or 403(a) and which is held by the employer until such time as the employee separates from service.
-  - **(3)** If—
-    - **(A)** paragraph (1) does not apply to a distribution by reason of paragraph (2)(D), and
-    - **(B)** the series of payments under such paragraph are subsequently modified (other than by reason of death or disability)—
-      - **(i)** before the close of the 5-year period beginning on the date of the first payment and after the taxpayer attains age 59½, or
-      - **(ii)** before the taxpayer attains age 59½,
+  - **(3)**
+    - **(A)** If—
+      - **(i)** paragraph (1) does not apply to a distribution by reason of paragraph (2)(D), and
+      - **(ii)** the series of payments under such paragraph are subsequently modified (other than by reason of death or disability)—
+        - **(I)** before the close of the 5-year period beginning on the date of the first payment and after the taxpayer attains age 59½, or
+        - **(II)** before the taxpayer attains age 59½,
+    - **(B)** If—
+      - **(i)** payments described in paragraph (2)(D) are being made from an annuity contract,
+      - **(ii)** an exchange of all or a portion of such contract for another contract is made under section 1035, and
+      - **(iii)** the aggregate distributions from the contracts involved in the exchange continue to satisfy the requirements of paragraph (2)(D) as if the exchange had not taken place,
 - **(r)**
   - **(1)** Notwithstanding any other provision of law, any benefit provided under the Railroad Retirement Act of 1974 (other than a tier 1 railroad retirement benefit) shall be treated for purposes of this title as a benefit provided under an employer plan which meets the requirements of section 401(a).
   - **(2)**
@@ -279,8 +303,9 @@ generated_at: "2026-03-29T19:42:47.525Z"
       - **(iv)** part of a series of substantially equal periodic payments (not less frequently than annually) made for the life (or life expectancy) of the employee or the joint lives (or joint life expectancies) of such employee and his designated beneficiary,
       - **(v)** made to an employee after separation from service after attainment of age 55,
       - **(vi)** dividends paid with respect to stock of a corporation which are described in section 404(k),
-      - **(vii)** made on account of a levy under section 6331 on the qualified retirement plan, or
-      - **(viii)** payments under a phased retirement annuity under section 8366a(a)(5) 3 3 So in original. Probably should refer to section 8336a. or 8412a(a)(5) of title 5, United States Code, or a composite retirement annuity under section 8366a(a)(1) 3 or 8412a(a)(1) of such title.
+      - **(vii)** made on account of a levy under section 6331 on the qualified retirement plan,
+      - **(viii)** payments under a phased retirement annuity under section 8366a(a)(5) 3 3 So in original. Probably should refer to section 8336a. or 8412a(a)(5) of title 5, United States Code, or a composite retirement annuity under section 8366a(a)(1) 3 or 8412a(a)(1) of such title, or
+      - **(ix)** attributable to withdrawal of net income attributable to a contribution which is distributed pursuant to section 408(d)(4).
     - **(B)** Distributions made to the employee (other than distributions described in subparagraph (A), (C), or (D)) to the extent such distributions do not exceed the amount allowable as a deduction under section 213 to the employee for amounts paid during the taxable year for medical care (determined without regard to whether the employee itemizes deductions for such taxable year).
     - **(C)** Any distribution to an alternate payee pursuant to a qualified domestic relations order (within the meaning of section 414(p)(1)).
     - **(D)**
@@ -310,7 +335,7 @@ generated_at: "2026-03-29T19:42:47.525Z"
         - **(I)** If a distribution to an individual would (without regard to clause (ii)) be a qualified birth or adoption distribution, a plan shall not be treated as failing to meet any requirement of this title merely because the plan treats the distribution as a qualified birth or adoption distribution, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer) to such individual exceeds $5,000.
         - **(II)** For purposes of subclause (I), the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414.
       - **(v)**
-        - **(I)** Any individual who receives a qualified birth or adoption distribution may make one or more contributions in an aggregate amount not to exceed the amount of such distribution to an applicable eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), as the case may be.
+        - **(I)** Any individual who receives a qualified birth or adoption distribution may, at any time during the 3-year period beginning on the day after the date on which such distribution was received, make one or more contributions in an aggregate amount not to exceed the amount of such distribution to an applicable eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), as the case may be.
         - **(II)** The aggregate amount of contributions made by an individual under subclause (I) to any applicable eligible retirement plan which is not an individual retirement plan shall not exceed the aggregate amount of qualified birth or adoption distributions which are made from such plan to such individual. Subclause (I) shall not apply to contributions to any applicable eligible retirement plan which is not an individual retirement plan unless the individual is eligible to make contributions (other than those described in subclause (I)) to such applicable eligible retirement plan.
         - **(III)** If a contribution is made under subclause (I) with respect to a qualified birth or adoption distribution from an applicable eligible retirement plan other than an individual retirement plan, then the taxpayer shall, to the extent of the amount of the contribution, be treated as having received such distribution in an eligible rollover distribution (as defined in section 402(c)(4)) and as having transferred the amount to the applicable eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
         - **(IV)** If a contribution is made under subclause (I) with respect to a qualified birth or adoption distribution from an individual retirement plan, then, to the extent of the amount of the contribution, such distribution shall be treated as a distribution described in section 408(d)(3) and as having been transferred to the applicable eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
@@ -318,7 +343,44 @@ generated_at: "2026-03-29T19:42:47.525Z"
         - **(I)** The term “applicable eligible retirement plan” means an eligible retirement plan (as defined in section 402(c)(8)(B)) other than a defined benefit plan.
         - **(II)** For purposes of sections 401(a)(31), 402(f), and 3405, a qualified birth or adoption distribution shall not be treated as an eligible rollover distribution.
         - **(III)** A distribution shall not be treated as a qualified birth or adoption distribution with respect to any child or eligible adoptee unless the taxpayer includes the name, age, and TIN of such child or eligible adoptee on the taxpayer’s return of tax for the taxable year.
-        - **(IV)** Any qualified birth or adoption distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(ii), 403(b)(11), and 457(d)(1)(A).
+        - **(IV)** Any qualified birth or adoption distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), and 457(d)(1)(A).
+    - **(I)**
+      - **(i)** Any emergency personal expense distribution.
+      - **(ii)** Not more than 1 distribution per calendar year may be treated as an emergency personal expense distribution by any individual.
+      - **(iii)** The amount which may be treated as an emergency personal expense distribution by any individual in any calendar year shall not exceed the lesser of $1,000 or an amount equal to the excess of—
+        - **(I)** the individual’s total nonforfeitable accrued benefit under the plan (the individual’s total interest in the plan in the case of an individual retirement plan), determined as of the date of each such distribution, over
+        - **(II)** $1,000.
+      - **(iv)** For purposes of this subparagraph, the term “emergency personal expense distribution” means any distribution from an applicable eligible retirement plan (as defined in subparagraph (H)(vi)(I)) to an individual for purposes of meeting unforeseeable or immediate financial needs relating to necessary personal or family emergency expenses. The administrator of an applicable eligible retirement plan may rely on an employee’s written certification that the employee satisfies the conditions of the preceding sentence in determining whether any distribution is an emergency personal expense distribution. The Secretary may provide by regulations for exceptions to the rule of the preceding sentence in cases where the plan administrator has actual knowledge to the contrary of the employee’s certification, and for procedures for addressing cases of employee misrepresentation.
+      - **(v)** If a distribution to an individual would (without regard to clause (ii) or (iii)) be an emergency personal expense distribution, a plan shall not be treated as failing to meet any requirement of this title merely because the plan treats the distribution as an emergency personal expense distribution, unless the number or the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer, determined as provided in subparagraph (H)(iv)(II)) to such individual exceeds the limitation determined under clause (ii) or (iii).
+      - **(vi)** Rules similar to the rules of subparagraph (H)(v) shall apply with respect to an individual who receives a distribution to which clause (i) applies.
+      - **(vii)** If a distribution is treated as an emergency personal expense distribution in any calendar year with respect to a plan of the employee, no amount may be treated as such a distribution during the immediately following 3 calendar years with respect to such plan unless—
+        - **(I)** such previous distribution is fully repaid to such plan pursuant to clause (vi), or
+        - **(II)** the aggregate of the elective deferrals and employee contributions to the plan (the total amounts contributed to the plan in the case of an individual retirement plan) subsequent to such previous distribution is at least equal to the amount of such previous distribution which has not been so repaid.
+      - **(viii)** Rules similar to the rules of subclauses (II) and (IV) of subparagraph (H)(vi) shall apply to any emergency personal expense distribution.
+    - **(J)** Distributions from a pension-linked emergency savings account pursuant to section 402A(e).
+    - **(K)**
+      - **(i)** Any eligible distribution to a domestic abuse victim.
+      - **(ii)** The aggregate amount which may be treated as an eligible distribution to a domestic abuse victim by any individual shall not exceed an amount equal to the lesser of—
+        - **(I)** $10,000, or
+        - **(II)** 50 percent of the present value of the nonforfeitable accrued benefit of the employee under the plan.
+      - **(iii)** For purposes of this subparagraph—
+        - **(I)** A distribution shall be treated as an eligible distribution to a domestic abuse victim if such distribution is from an applicable eligible retirement plan and is made to an individual during the 1-year period beginning on any date on which the individual is a victim of domestic abuse by a spouse or domestic partner.
+        - **(II)** The term “domestic abuse” means physical, psychological, sexual, emotional, or economic abuse, including efforts to control, isolate, humiliate, or intimidate the victim, or to undermine the victim’s ability to reason independently, including by means of abuse of the victim’s child or another family member living in the household.
+      - **(iv)** If a distribution to an individual would (without regard to clause (ii)) be an eligible distribution to a domestic abuse victim, a plan shall not be treated as failing to meet any requirement of this title merely because the plan treats the distribution as an eligible distribution to a domestic abuse victim, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer, determined as provided in subparagraph (H)(iv)(II)) to such individual exceeds the limitation under clause (ii).
+      - **(v)** Rules similar to the rules of subparagraph (H)(v) shall apply with respect to an individual who receives a distribution to which clause (i) applies.
+      - **(vi)** For purposes of this subparagraph:
+        - **(I)** The term “applicable eligible retirement plan” means an eligible retirement plan (as defined in section 402(c)(8)(B)) other than a defined benefit plan or a plan to which sections 401(a)(11) and 417 apply.
+        - **(II)** For purposes of sections 401(a)(31), 402(f), and 3405, an eligible distribution to a domestic abuse victim shall not be treated as an eligible rollover distribution.
+        - **(III)** Any distribution which the employee or participant certifies as being an eligible distribution to a domestic abuse victim shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), and 457(d)(1)(A).
+      - **(vii)** In the case of a taxable year beginning in a calendar year after 2024, the $10,000 amount in clause (ii)(I) shall be increased by an amount equal to—
+        - **(I)** such dollar amount, multiplied by
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2023” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    - **(L)**
+      - **(i)** Distributions which are made to the employee who is a terminally ill individual on or after the date on which such employee has been certified by a physician as having a terminal illness.
+      - **(ii)** For purposes of this subparagraph, the term “terminally ill individual” has the same meaning given such term under section 101(g)(4)(A), except that “84 months” shall be substituted for “24 months”.
+      - **(iii)** For purposes of this subparagraph, an employee shall not be considered to be a terminally ill individual unless such employee furnishes sufficient evidence to the plan administrator in such form and manner as the Secretary may require.
+      - **(iv)** Rules similar to the rules of subparagraph (H)(v) shall apply with respect to an individual who receives a distribution to which clause (i) applies.
+    - **(M)** Any qualified disaster recovery distribution.
   - **(3)**
     - **(A)** Subparagraphs (A)(v) and (C) of paragraph (2) shall not apply to distributions from an individual retirement plan.
     - **(B)** Paragraph (2)(A)(iv) shall not apply to any amount paid from a trust described in section 401(a) which is exempt from tax under section 501(a) or from a contract described in section 72(e)(5)(D)(ii) unless the series of payments begins after the employee separates from service.
@@ -329,8 +391,14 @@ generated_at: "2026-03-29T19:42:47.525Z"
         - **(I)** before the close of the 5-year period beginning with the date of the first payment and after the employee attains age 59½, or
         - **(II)** before the employee attains age 59½,
     - **(B)** For purposes of this paragraph, the term “deferral period” means the period beginning with the taxable year in which (without regard to paragraph (2)(A)(iv)) the distribution would have been includible in gross income and ending with the taxable year in which the modification described in subparagraph (A) occurs.
+    - **(C)** If—
+      - **(i)** payments described in paragraph (2)(A)(iv) are being made from a qualified retirement plan,
+      - **(ii)** a transfer or a rollover from such qualified retirement plan of all or a portion of the taxpayer’s benefit under the plan is made to another qualified retirement plan, and
+      - **(iii)** distributions from the transferor and transferee plans would in combination continue to satisfy the requirements of paragraph (2)(A)(iv) if they had been made only from the transferor plan,
   - **(5)** For purposes of this subsection, the term “employee” includes any participant, and in the case of an individual retirement plan, the individual for whose benefit such plan was established.
-  - **(6)** In the case of any amount received from a simple retirement account (within the meaning of section 408(p)) during the 2-year period beginning on the date such individual first participated in any qualified salary reduction arrangement maintained by the individual’s employer under section 408(p)(2), paragraph (1) shall be applied by substituting “25 percent” for “10 percent”.
+  - **(6)**
+    - **(A)**
+    - **(B)** In the case of an employee of an employer which terminates the qualified salary reduction arrangement of the employer under section 408(p) and establishes a qualified cash or deferred arrangement described in section 401(k) or purchases annuity contracts described in section 403(b), subparagraph (A) shall not apply to any amount which is paid in a rollover contribution described in section 408(d)(3) into a qualified trust under section 401(k) (but only if such contribution is subsequently subject to the rules of section 401(k)(2)(B)) or an annuity contract described in section 403(b) (but only if such contribution is subsequently subject to the rules of section 403(b)(12)) for the benefit of the employee.
   - **(7)** For purposes of paragraph (2)(E)—
     - **(A)** The term “qualified higher education expenses” means qualified higher education expenses (as defined in section 529(e)(3)) for education furnished to—
       - **(i)** the taxpayer,
@@ -346,7 +414,7 @@ generated_at: "2026-03-29T19:42:47.525Z"
     - **(D)** For purposes of this paragraph—
       - **(i)** The term “first-time homebuyer” means any individual if—
         - **(I)** such individual (and if married, such individual’s spouse) had no present ownership interest in a principal residence during the 2-year period ending on the date of acquisition of the principal residence to which this paragraph applies, and
-        - **(II)** subsection (h) or (k) of section 1034 4 4 See References in Text note below. (as in effect on the day before the date of the enactment of this paragraph) did not suspend the running of any period of time specified in section 1034 4 (as so in effect) with respect to such individual on the day before the date the distribution is applied pursuant to subparagraph (A).
+        - **(II)** subsection (h) or (k) of section 1034 5 5 See References in Text note below. (as in effect on the day before the date of the enactment of this paragraph) did not suspend the running of any period of time specified in section 1034 5 (as so in effect) with respect to such individual on the day before the date the distribution is applied pursuant to subparagraph (A).
       - **(ii)** The term “principal residence” has the same meaning as when used in section 121.
       - **(iii)** The term “date of acquisition” means the date—
         - **(I)** on which a binding contract to acquire the principal residence to which subparagraph (A) applies is entered into, or
@@ -354,12 +422,52 @@ generated_at: "2026-03-29T19:42:47.525Z"
     - **(E)** If any distribution from any individual retirement plan fails to meet the requirements of subparagraph (A) solely by reason of a delay or cancellation of the purchase or construction of the residence, the amount of the distribution may be contributed to an individual retirement plan as provided in section 408(d)(3)(A)(i) (determined by substituting “120th day” for “60th day” in such section), except that—
       - **(i)** section 408(d)(3)(B) shall not be applied to such contribution, and
       - **(ii)** such amount shall not be taken into account in determining whether section 408(d)(3)(B) applies to any other amount.
+    - **(F)**
+      - **(i)**
+        - **(I)** Any individual who received a qualified distribution may, during the applicable period, make one or more contributions in an aggregate amount not to exceed the amount of such qualified distribution to an eligible retirement plan (as defined in section 402(c)(8)(B)) of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), or 408(d)(3), as the case may be.
+        - **(II)** Rules similar to the rules of clauses (ii) and (iii) of paragraph (11)(C) shall apply for purposes of this subsection.
+      - **(ii)** For purposes of this subparagraph, the term “qualified distribution” means any distribution—
+        - **(I)** which is a qualified first-time homebuyer distribution,
+        - **(II)** which was to be used to purchase or construct a principal residence in a qualified disaster area, but which was not so used on account of the qualified disaster with respect to such area, and
+        - **(III)** which was received during the period beginning on the date which is 180 days before the first day of the incident period of such qualified disaster and ending on the date which is 30 days after the last day of such incident period.
+      - **(iii)** For purposes of this subparagraph, the term “applicable period” means, in the case of a principal residence in a qualified disaster area with respect to any qualified disaster, the period beginning on the first day of the incident period of such qualified disaster and ending on the date which is 180 days after the applicable date with respect to such disaster.
   - **(9)** For purposes of this subsection, a distribution from an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A) shall be treated as a distribution from a qualified retirement plan described in 4974(c)(1) to the extent that such distribution is attributable to an amount transferred to an eligible deferred compensation plan from a qualified retirement plan (as defined in section 4974(c)).
   - **(10)**
-    - **(A)** In the case of a distribution to a qualified public safety employee from a governmental plan (within the meaning of section 414(d)), paragraph (2)(A)(v) shall be applied by substituting “age 50” for “age 55”.
+    - **(A)** In the case of a distribution to a qualified public safety employee from a governmental plan (within the meaning of section 414(d)) or a distribution from a plan described in clause (iii), (iv), or (vi) of section 402(c)(8)(B) to an employee who provides firefighting services, paragraph (2)(A)(v) shall be applied by substituting “age 50 or 25 years of service under the plan, whichever is earlier” for “age 55”.
     - **(B)** For purposes of this paragraph, the term “qualified public safety employee” means—
-      - **(i)** any employee of a State or political subdivision of a State who provides police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State or political subdivision, or
+      - **(i)** any employee of a State or political subdivision of a State who provides police protection, firefighting services, emergency medical services, or services as a corrections officer or as a forensic security employee providing for the care, custody, and control of forensic patients for any area within the jurisdiction of such State or political subdivision, or
       - **(ii)** any Federal law enforcement officer described in section 8331(20) or 8401(17) of title 5, United States Code, any Federal customs and border protection officer described in section 8331(31) or 8401(36) of such title, any Federal firefighter described in section 8331(21) or 8401(14) of such title, any air traffic controller described in 8331(30) or 8401(35) of such title, any nuclear materials courier described in section 8331(27) or 8401(33) of such title, any member of the United States Capitol Police, any member of the Supreme Court Police, or any diplomatic security special agent of the Department of State.
+  - **(11)** For purposes of paragraph (2)(M)—
+    - **(A)** Except as provided in subparagraph (B), the term “qualified disaster recovery distribution” means any distribution made—
+      - **(i)** on or after the first day of the incident period of a qualified disaster and before the date that is 180 days after the applicable date with respect to such disaster, and
+      - **(ii)** to an individual whose principal place of abode at any time during the incident period of such qualified disaster is located in the qualified disaster area with respect to such qualified disaster and who has sustained an economic loss by reason of such qualified disaster.
+    - **(B)**
+      - **(i)** For purposes of this subsection, the aggregate amount of distributions received by an individual which may be treated as qualified disaster recovery distributions with respect to any qualified disaster in all taxable years shall not exceed $22,000.
+      - **(ii)** If a distribution to an individual would (without regard to clause (i)) be a qualified disaster recovery distribution, a plan shall not be treated as violating any requirement of this title merely because the plan treats such distribution as a qualified disaster recovery distribution, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer) to such individual exceeds $22,000 with respect to the same qualified disaster.
+      - **(iii)** For purposes of clause (ii), the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414.
+    - **(C)**
+      - **(i)** Any individual who receives a qualified disaster recovery distribution may, at any time during the 3-year period beginning on the day after the date on which such distribution was received, make one or more contributions in an aggregate amount not to exceed the amount of such distribution to an eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), as the case may be.
+      - **(ii)** For purposes of this title, if a contribution is made pursuant to clause (i) with respect to a qualified disaster recovery distribution from a plan other than an individual retirement plan, then the taxpayer shall, to the extent of the amount of the contribution, be treated as having received the qualified disaster recovery distribution in an eligible rollover distribution (as defined in section 402(c)(4)) and as having transferred the amount to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+      - **(iii)** For purposes of this title, if a contribution is made pursuant to clause (i) with respect to a qualified disaster recovery distribution from an individual retirement plan, then, to the extent of the amount of the contribution, the qualified disaster recovery distribution shall be treated as a distribution described in section 408(d)(3) and as having been transferred to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+    - **(D)**
+      - **(i)** In the case of any qualified disaster recovery distribution, unless the taxpayer elects not to have this subparagraph apply for any taxable year, any amount required to be included in gross income for such taxable year shall be so included ratably over the 3-taxable year period beginning with such taxable year.
+      - **(ii)** For purposes of clause (i), rules similar to the rules of subparagraph (E) of section 408A(d)(3) shall apply.
+    - **(E)** For purposes of this paragraph and paragraph (8), the term “qualified disaster” means any disaster with respect to which a major disaster has been declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act after December 27, 2020 .
+    - **(F)** For purposes of this paragraph and paragraph (8)—
+      - **(i)**
+        - **(I)** The term “qualified disaster area” means, with respect to any qualified disaster, the area with respect to which the major disaster was declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+        - **(II)** Such term shall not include any area which is a qualified disaster area solely by reason of section 301 of the Taxpayer Certainty and Disaster Tax Relief Act of 2020.
+      - **(ii)** The term “incident period” means, with respect to any qualified disaster, the period specified by the Federal Emergency Management Agency as the period during which such disaster occurred.
+      - **(iii)** The term “applicable date” means the latest of—
+        - **(I)** the date of the enactment of this paragraph,
+        - **(II)** the first day of the incident period with respect to the qualified disaster, or
+        - **(III)** the date of the disaster declaration with respect to the qualified disaster.
+      - **(iv)** The term “eligible retirement plan” shall have the meaning given such term by section 402(c)(8)(B).
+    - **(G)**
+      - **(i)** For purposes of sections 401(a)(31), 402(f), and 3405, qualified disaster recovery distributions shall not be treated as eligible rollover distributions.
+      - **(ii)** For purposes of this title—
+        - **(I)** a qualified disaster recovery distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), and 457(d)(1)(A), and
+        - **(II)** in the case of a money purchase pension plan, a qualified disaster recovery distribution which is an in-service withdrawal shall be treated as meeting the requirements of section 401(a) applicable to distributions.
 - **(u)**
   - **(1)** If any annuity contract is held by a person who is not a natural person—
     - **(A)** such contract shall not be treated as an annuity contract for purposes of this subtitle (other than subchapter L), and

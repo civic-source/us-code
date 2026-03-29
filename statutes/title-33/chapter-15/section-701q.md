@@ -3,9 +3,9 @@ title: "Section 701q - Repair and protection of highways, railroads, and utiliti
 usc_title: 33
 usc_section: "701q"
 chapter: 15
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 701q"
-generated_at: "2026-03-29T19:43:07.587Z"
+generated_at: "2026-03-29T20:00:31.268Z"
 ---
 
 # § 701q. Repair and protection of highways, railroads, and utilities damaged by operation of dams or reservoir

@@ -3,9 +3,9 @@ title: "Section 4370m - Definitions"
 usc_title: 42
 usc_section: "4370m"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4370m"
-generated_at: "2026-03-29T19:31:45.158Z"
+generated_at: "2026-03-29T20:00:54.908Z"
 ---
 
 # § 4370m. Definitions
@@ -14,25 +14,31 @@ In this subchapter:
 
   - **(1)** The term “agency” has the meaning given the term in section 551 of title 5 .
   - **(2)** The term “agency CERPO” means the chief environmental review and permitting officer of an agency, as designated by the head of the agency under section 4370m–1(b)(2)(A)(iii)(I) of this title .
-  - **(3)** The term “authorization” means any license, permit, approval, finding, determination, or other administrative decision issued by an agency that is required or authorized under Federal law in order to site, construct, reconstruct, or commence operations of a covered project administered by a Federal agency or, in the case of a State that chooses to participate in the environmental review and authorization process in accordance with section 4370m–2(c)(3)(A) of this title , a State agency.
-  - **(4)** The term “cooperating agency” means any agency with—
-    - **(A)** jurisdiction under Federal law; or
-    - **(B)** special expertise as described in section 1501.6 of title 40, Code of Federal Regulations (as in effect on December 4, 2015 ).
-  - **(5)** The term “Council” means the Federal Infrastructure Permitting Improvement Steering Council 1 1 So in original. Probably should be “Federal Permitting Improvement Steering Council”. established under section 4370m–1(a) of this title .
+  - **(3)** The term “authorization” means any license, permit, approval, finding, determination, or other administrative decision issued by an agency and any interagency consultation that is required or authorized under Federal law in order to site, construct, reconstruct, or commence operations of a covered project administered by a Federal agency or, in the case of a State that chooses to participate in the environmental review and authorization process in accordance with section 4370m–2(c)(3)(A) of this title , a State agency.
+  - **(4)** The term “cooperating agency” has the meaning given the term in section 1508.1 of title 40, Code of Federal Regulations (or successor regulations).
+  - **(5)** The term “Council” means the Federal Permitting Improvement Steering Council established under section 4370m–1(a) of this title .
   - **(6)**
-    - **(A)** The term “covered project” means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, or any other sector as determined by a majority vote of the Council that—
+    - **(A)** The term “covered project” means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, semiconductors, artificial intelligence and machine learning, high-performance computing and advanced computer hardware and software, quantum information science and technology, data storage and data management, cybersecurity, carbon capture, energy storage, or any other sector as determined by a majority vote of the Council that—
       - **(i)**
         - **(I)** is subject to NEPA;
         - **(II)** is likely to require a total investment of more than $200,000,000; and
-        - **(III)** does not qualify for abbreviated authorization or environmental review processes under any applicable law; or
-      - **(ii)** is subject to NEPA and the size and complexity of which, in the opinion of the Council, make the project likely to benefit from enhanced oversight and coordination, including a project likely to require—
+        - **(III)** does not qualify for abbreviated authorization or environmental review processes under any applicable law;
+      - **(ii)** is covered by a programmatic plan or environmental review developed for the primary purpose of facilitating development of carbon dioxide pipelines;
+      - **(iii)** is—
+        - **(I)** subject to NEPA;
+        - **(II)** sponsored by an Indian Tribe (as defined in section 5304 of title 25 ), an Alaska Native Corporation, a Native Hawaiian organization (as defined in section 7517 of title 20 ), the Department of Hawaiian Home Lands, or the Office of Hawaiian Affairs; and
+        - **(III)** located on land owned or under the jurisdiction of the entity that sponsors the activity under subclause (II); or
+      - **(iv)** is subject to NEPA and the size and complexity of which, in the opinion of the Council, make the project likely to benefit from enhanced oversight and coordination, including a project likely to require—
         - **(I)** authorization from or environmental review involving more than 2 Federal agencies; or
         - **(II)** the preparation of an environmental impact statement under NEPA.
     - **(B)** The term “covered project” does not include—
       - **(i)** any project subject to section 139 of title 23 ; or
       - **(ii)** any project subject to section 2348 of title 33 .
+    - **(C)** For purposes of subparagraph (A), construction of infrastructure for carbon capture includes construction of—
+      - **(i)** any facility, technology, or system that captures, utilizes, or sequesters carbon dioxide emissions, including projects for direct air capture (as defined in paragraph (6)(B)(i) of section 7403(g) of this title ); and
+      - **(ii)** carbon dioxide pipelines.
   - **(7)** The term “Dashboard” means the Permitting Dashboard required under section 4370m–2(b) of this title .
-  - **(8)** The term “environmental assessment” means a concise public document for which a Federal agency is responsible under section 1508.9 of title 40, Code of Federal Regulations (or successor regulations).
+  - **(8)** The term “environmental assessment” has the meaning given the term in section 1508.1 of title 40, Code of Federal Regulations (or successor regulations).
   - **(9)**
     - **(A)** The term “environmental document” means an environmental assessment, finding of no significant impact, notice of intent, environmental impact statement, or record of decision.
     - **(B)** The term “environmental document” includes—

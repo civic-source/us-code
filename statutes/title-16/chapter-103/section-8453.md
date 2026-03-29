@@ -3,9 +3,9 @@ title: "Section 8453 - Public lands telecommunications cooperative agreements"
 usc_title: 16
 usc_section: "8453"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 8453"
-generated_at: "2026-03-29T02:11:54.014Z"
+generated_at: "2026-03-29T19:59:08.547Z"
 ---
 
 # § 8453. Public lands telecommunications cooperative agreements

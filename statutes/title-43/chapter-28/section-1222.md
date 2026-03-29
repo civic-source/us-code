@@ -1,14 +1,12 @@
 ---
-title: "Section 1222 - Notice of opening of lands to purchase"
+title: "Section 1222 - Omitted"
 usc_title: 43
 usc_section: "1222"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1222"
-generated_at: "2026-03-29T19:31:49.094Z"
+generated_at: "2026-03-29T19:59:41.434Z"
 ---
 
-# § 1222. Notice of opening of lands to purchase
-
-Upon the filing of a plat of resurvey under section 1221 of this title the Secretary shall give such notice as he finds appropriate by newspaper publication or otherwise of the opening of the lands to purchase under this subchapter.
+# § 1222. Omitted
 

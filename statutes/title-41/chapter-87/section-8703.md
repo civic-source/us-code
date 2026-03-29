@@ -3,9 +3,9 @@ title: "Section 8703 - Contractor responsibilities"
 usc_title: 41
 usc_section: "8703"
 chapter: 87
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "41 U.S.C. § 8703"
-generated_at: "2026-03-29T19:31:15.767Z"
+generated_at: "2026-03-29T19:59:34.774Z"
 ---
 
 # § 8703. Contractor responsibilities
@@ -19,4 +19,4 @@ generated_at: "2026-03-29T19:31:15.767Z"
   - **(2)** In an administrative or contractual action to suspend or debar a person who is eligible to enter into contracts with the Federal Government, evidence that the person has supplied information to the Federal Government pursuant to paragraph (1) is favorable evidence of the person’s responsibility for the purposes of Federal procurement laws and regulations.
 - **(d)** Subsection (a) does not apply to a prime contract—
   - **(1)** that is not greater than $100,000; or
-  - **(2)** for the acquisition of commercial items (as defined in section 103 of this title ).
+  - **(2)** for the acquisition of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title).

@@ -3,9 +3,9 @@ title: "Section 1474g - Department of the Interior Nonrecurring Expenses Fund"
 usc_title: 43
 usc_section: "1474g"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1474g"
-generated_at: "2026-03-29T02:15:47.600Z"
+generated_at: "2026-03-29T19:59:41.449Z"
 ---
 
 # § 1474g. Department of the Interior Nonrecurring Expenses Fund

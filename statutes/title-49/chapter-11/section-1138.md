@@ -3,14 +3,14 @@ title: "Section 1138 - Evaluation and audit of National Transportation Safety Bo
 usc_title: 49
 usc_section: "1138"
 chapter: 11
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 1138"
-generated_at: "2026-03-29T19:44:57.831Z"
+generated_at: "2026-03-29T20:01:14.784Z"
 ---
 
 # § 1138. Evaluation and audit of National Transportation Safety Board
 
-- **(a)** To promote economy, efficiency, and effectiveness in the administration of the programs, operations, and activities of the National Transportation Safety Board, the Comptroller General of the United States shall evaluate and audit the programs and expenditures of the National Transportation Safety Board. Such evaluation and audit shall be conducted as determined necessary by the Comptroller General or the appropriate congressional committees.
+- **(a)** To promote economy, efficiency, and effectiveness in the administration of the programs, operations, and activities of the National Transportation Safety Board, the Comptroller General of the United States shall evaluate and audit the programs and expenditures of the Board. Such evaluation and audit shall be conducted as determined necessary by the Comptroller General or the appropriate congressional committees.
 - **(b)** The Comptroller General shall evaluate and audit Board programs, operations, and activities, including—
   - **(1)** information management and security, including privacy protection of personally identifiable information;
   - **(2)** resource management;

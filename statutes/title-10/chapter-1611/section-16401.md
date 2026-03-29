@@ -3,9 +3,9 @@ title: "Section 16401 - Marine Corps Platoon Leaders Class: college tuition assi
 usc_title: 10
 usc_section: "16401"
 chapter: 1611
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 16401"
-generated_at: "2026-03-29T19:43:38.167Z"
+generated_at: "2026-03-29T19:58:02.386Z"
 ---
 
 # § 16401. Marine Corps Platoon Leaders Class: college tuition assistance program
@@ -26,10 +26,10 @@ generated_at: "2026-03-29T19:43:38.167Z"
   - **(1)** tuition and fees charged by the institution of higher education involved;
   - **(2)** the cost of books; and
   - **(3)** in the case of a program of education leading to a baccalaureate degree, laboratory expenses.
-- **(d)** The amount of financial assistance provided to a member under this section shall be prescribed by the Secretary, but may not exceed $5,200 for any academic year.
+- **(d)** The amount of financial assistance provided to a member under this section shall be prescribed by the Secretary, but may not exceed $13,800 for any academic year.
 - **(e)**
   - **(1)** Financial assistance may be provided to a member under this section only for three consecutive academic years.
-  - **(2)** Not more than 1,200 members may participate in the financial assistance program under this section in any academic year.
+  - **(2)** Not more than 450 members may participate in the financial assistance program under this section in any academic year.
 - **(f)**
   - **(1)** An enlisted member who receives financial assistance under this section may be ordered to active duty in the Marine Corps by the Secretary to serve in an appropriate enlisted grade for such period as the Secretary prescribes, but not for more than four years, and an officer who receives financial assistance under this section shall be subject to the repayment provisions of section 303a(e) or 373 of title 37, if the member—
     - **(A)** completes the military and academic requirements of the Marine Corps Platoon Leaders Class program and refuses to accept an appointment as a commissioned officer in the Marine Corps when offered or, if already a commissioned officer in the Marine Corps, refuses to accept an assignment on active duty when offered;

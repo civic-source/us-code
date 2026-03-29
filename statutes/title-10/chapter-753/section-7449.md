@@ -3,9 +3,9 @@ title: "Section 7449 - Cadets: organization of Corps; service; instruction"
 usc_title: 10
 usc_section: "7449"
 chapter: 753
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 7449"
-generated_at: "2026-03-29T19:43:38.089Z"
+generated_at: "2026-03-29T19:58:02.286Z"
 ---
 
 # § 7449. Cadets: organization of Corps; service; instruction

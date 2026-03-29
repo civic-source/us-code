@@ -3,9 +3,9 @@ title: "Section 425 - United States Navy Band; United States Marine Corps Band: 
 usc_title: 37
 usc_section: "425"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "37 U.S.C. § 425"
-generated_at: "2026-03-29T19:43:17.254Z"
+generated_at: "2026-03-29T20:00:34.793Z"
 ---
 
 # § 425. United States Navy Band; United States Marine Corps Band: allowances while on concert tour

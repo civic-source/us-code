@@ -3,9 +3,9 @@ title: "Section 282b - Electronic coding of grants and activities"
 usc_title: 42
 usc_section: "282b"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 282b"
-generated_at: "2026-03-29T19:31:44.266Z"
+generated_at: "2026-03-29T20:00:53.837Z"
 ---
 
 # § 282b. Electronic coding of grants and activities

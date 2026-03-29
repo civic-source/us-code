@@ -1,16 +1,16 @@
 ---
-title: "Section 18353 - Maintenance of the United States segment and assurance of continued operations of the International Space Station."
+title: "Section 18353 - Maintenance of the United States segment and assurance of continued operations of the International Space Station"
 usc_title: 42
 usc_section: "18353"
 chapter: 159
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 18353"
-generated_at: "2026-03-29T19:31:45.935Z"
+generated_at: "2026-03-29T20:00:55.662Z"
 ---
 
-# § 18353. Maintenance of the United States segment and assurance of continued operations of the International Space Station.
+# § 18353. Maintenance of the United States segment and assurance of continued operations of the International Space Station
 
-- **(a)** The Administrator shall take all actions necessary to ensure the safe and effective operation, maintenance, and maximum utilization of the United States segment of the ISS through at least September 30, 2024 .
+- **(a)** The Administrator shall take all actions necessary to ensure the safe and effective operation, maintenance, and maximum utilization of the United States segment of the ISS through at least September 30, 2030 .
 - **(b)**
   - **(1)** The Administrator shall, as soon as is practicable after October 11, 2010 , carry out a comprehensive assessment of the essential modules, operational systems and components, structural elements, and permanent scientific equipment on board or planned for delivery and installation aboard the ISS, including both United States and international partner elements, for purposes of identifying the spare or replacement modules, systems and components, elements, and equipment that are required to ensure complete, effective, and safe functioning and full scientific utilization of the ISS through September 30, 2020 . 1 1 See References in Text note below.
   - **(2)** In carrying out the assessment, the Administrator shall assemble any existing data, and provide for the development of any data or analysis not currently available, that is necessary for purposes of the assessment.
@@ -40,7 +40,7 @@ generated_at: "2026-03-29T19:31:45.935Z"
   - **(3)** The determination of the schedule and payload for the mission authorized by paragraph (1) shall take into account the following:
     - **(A)** The supply and logistics delivery requirements of the ISS.
     - **(B)** The findings of the study required by paragraph (2).
-  - **(4)** Amounts authorized to be appropriated by section 101(2)(B) 1 1 See References in Text note below. shall be available for the mission authorized by paragraph (1).
+  - **(4)** Amounts authorized to be appropriated by section 101(2)(B) 1 shall be available for the mission authorized by paragraph (1).
 - **(f)**
   - **(1)** The Administrator shall take all actions necessary to preserve Space Shuttle launch capability through fiscal year 2011 in a manner that enables the launch, at a minimum, of missions and primary payloads in the Shuttle flight manifest as of February 28, 2010 .
   - **(2)** The Administrator may not terminate any contract that provides the system transitions necessary for shuttle-derived hardware to be used on either the multi-purpose crew vehicle described in section 18323 of this title or the Space Launch System described in section 18322 of this title .

@@ -1,16 +1,12 @@
 ---
-title: "Section 13022 - Grants for juvenile and family court personnel"
+title: "Section 13022 - Transferred"
 usc_title: 42
 usc_section: "13022"
 chapter: 132
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 13022"
-generated_at: "2026-03-29T19:31:45.702Z"
+generated_at: "2026-03-29T20:00:55.463Z"
 ---
 
-# § 13022. Grants for juvenile and family court personnel
+# § 13022. Transferred
 
-In order to improve the judicial system’s handling of child abuse and neglect cases, the Administrator of the Office of Juvenile Justice and Delinquency Prevention shall make grants for the purpose of providing—
-
-  - **(1)** technical assistance and training to judicial personnel and attorneys, particularly personnel and practitioners in juvenile and family courts; and
-  - **(2)** administrative reform in juvenile and family courts.

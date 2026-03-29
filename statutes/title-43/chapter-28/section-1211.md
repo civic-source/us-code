@@ -1,14 +1,12 @@
 ---
-title: "Section 1211 - Elimination of oaths for written statements; discretion of Secretary of the Interior"
+title: "Section 1211 - Transferred"
 usc_title: 43
 usc_section: "1211"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1211"
-generated_at: "2026-03-29T19:31:49.094Z"
+generated_at: "2026-03-29T19:59:41.434Z"
 ---
 
-# § 1211. Elimination of oaths for written statements; discretion of Secretary of the Interior
-
-Written statement in public land matters within the jurisdiction of the Department of the Interior, heretofore required by law to be made under oath, need no longer be made under oath unless the Secretary of the Interior shall, in his discretion, so require.
+# § 1211. Transferred
 

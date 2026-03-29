@@ -1,14 +1,12 @@
 ---
-title: "Section 3789i - Administration of juvenile delinquency programs"
+title: "Section 3789i - Transferred"
 usc_title: 42
 usc_section: "3789i"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3789i"
-generated_at: "2026-03-29T19:31:45.111Z"
+generated_at: "2026-03-29T20:00:54.883Z"
 ---
 
-# § 3789i. Administration of juvenile delinquency programs
-
-The Director of the National Institute of Justice and the Director of the Bureau of Justice Statistics shall work closely with the Administrator of the Office of Juvenile Justice and Delinquency Prevention in developing and implementing programs in the juvenile justice and delinquency prevention field.
+# § 3789i. Transferred
 

@@ -3,9 +3,9 @@ title: "Section 521 - Assistance to certain rehabilitation activities"
 usc_title: 38
 usc_section: "521"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 521"
-generated_at: "2026-03-29T19:43:26.938Z"
+generated_at: "2026-03-29T20:00:42.969Z"
 ---
 
 # § 521. Assistance to certain rehabilitation activities

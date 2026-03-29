@@ -1,19 +1,12 @@
 ---
-title: "Section 13777 - Authorization of appropriations"
+title: "Section 13777 - Omitted"
 usc_title: 42
 usc_section: "13777"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 13777"
-generated_at: "2026-03-29T19:31:45.740Z"
+generated_at: "2026-03-29T20:00:55.491Z"
 ---
 
-# § 13777. Authorization of appropriations
+# § 13777. Omitted
 
-There are authorized to be appropriated to carry out this part—
-
-  - **(1)** $100,000,000 for fiscal year 1996;
-  - **(2)** $125,100,000 for fiscal year 1997;
-  - **(3)** $125,100,000 for fiscal year 1998;
-  - **(4)** $125,100,000 for fiscal year 1999; and
-  - **(5)** $150,200,000 for fiscal year 2000.

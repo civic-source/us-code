@@ -3,9 +3,9 @@ title: "Section 4813 - Additional authorities"
 usc_title: 50
 usc_section: "4813"
 chapter: 58
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 4813"
-generated_at: "2026-03-29T19:44:52.932Z"
+generated_at: "2026-03-29T20:01:07.449Z"
 ---
 
 # § 4813. Additional authorities
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T19:44:52.932Z"
   - **(10)** inspect, search, detain, or seize, or impose temporary denial orders with respect to items, in any form, that are subject to controls under this subchapter, or conveyances on which it is believed that there are items that have been, are being, or are about to be exported, reexported, or in-country transferred in violation of this subchapter;
   - **(11)** monitor shipments and other means of transfer;
   - **(12)** keep the public appropriately apprised of changes in policy, regulations, and procedures established under this subchapter;
-  - **(13)** appoint technical advisory committees in accordance with the Federal Advisory Committee Act [5 U.S.C. App.];
+  - **(13)** appoint technical advisory committees in accordance with the Federal Advisory Committee Act;
   - **(14)** create, as warranted, exceptions to licensing requirements in order to further the objectives of this subchapter;
   - **(15)** establish and maintain processes to inform persons, either individually by specific notice or through amendment to any regulation or order issued under this subchapter, that a license from the Bureau of Industry and Security of the Department of Commerce is required to export; and
   - **(16)** undertake any other action as is necessary to carry out this subchapter that is not otherwise prohibited by law.

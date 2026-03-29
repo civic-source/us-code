@@ -3,9 +3,9 @@ title: "Section 5105 - Research and assistance activities"
 usc_title: 42
 usc_section: "5105"
 chapter: 67
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5105"
-generated_at: "2026-03-29T19:31:45.190Z"
+generated_at: "2026-03-29T20:00:54.938Z"
 ---
 
 # § 5105. Research and assistance activities
@@ -66,7 +66,7 @@ generated_at: "2026-03-29T19:31:45.190Z"
 - **(c)**
   - **(1)** The functions of the Secretary under this section may be carried out either directly or through grant or contract.
   - **(2)** Grants under this section shall be made for periods of not more than 5 years.
-  - **(3)** In making grants for purposes of conducting research under subsection (a) of this section, the Secretary shall give special consideration to applications for long-term projects.
+  - **(3)** In making grants for purposes of conducting research under subsection (a), the Secretary shall give special consideration to applications for long-term projects.
 - **(d)**
   - **(1)**
     - **(A)** To enhance the quality and usefulness of research in the field of child abuse and neglect, the Secretary shall, in consultation with experts in the field and other Federal agencies, establish a formal, rigorous, and meritorious peer review process for purposes of evaluating and reviewing applications for assistance through a grant or contract under this section and determining the relative merits of the project for which such assistance is requested.

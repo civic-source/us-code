@@ -3,9 +3,9 @@ title: "Section 5023 - Minority population participation"
 usc_title: 42
 usc_section: "5023"
 chapter: 66
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5023"
-generated_at: "2026-03-29T19:31:45.184Z"
+generated_at: "2026-03-29T20:00:54.934Z"
 ---
 
 # § 5023. Minority population participation

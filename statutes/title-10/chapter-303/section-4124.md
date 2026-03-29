@@ -3,9 +3,9 @@ title: "Section 4124 - Centers for Science, Technology, and Engineering Partners
 usc_title: 10
 usc_section: "4124"
 chapter: 303
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4124"
-generated_at: "2026-03-29T19:43:38.056Z"
+generated_at: "2026-03-29T19:58:02.249Z"
 ---
 
 # § 4124. Centers for Science, Technology, and Engineering Partnership
@@ -53,7 +53,10 @@ generated_at: "2026-03-29T19:43:38.056Z"
       - **(ii)** any liability or claim for damages or injury to any person or property arising out of a decision by the Secretary to suspend or terminate that use of capabilities during a war or national emergency.
 - **(f)**
   - **(1)** Subject to the approval of the Secretary or the head of the another department or agency of the Federal Government concerned, the Director of a Center may enter into a contract, memorandum of understanding or other transaction with a partnership intermediary that provides for the partnership intermediary to perform services for the Department of Defense that increase the likelihood of success in the conduct of cooperative or joint activities of the Center with industry or academic institutions.
-  - **(2)** In this subsection, the term “partnership intermediary” means an agency of a State or local government, or a nonprofit entity owned in whole or in part by, chartered by, funded in whole or in part by, or operated in whole or in part by or on behalf of a State or local government, that assists, counsels, advises, evaluates, or otherwise cooperates with industry or academic institutions that need or can make demonstrably productive use of technology-related assistance from a Center.
+  - **(2)** In this subsection, the term “partnership intermediary” means an agency of a State or local government, or a nonprofit entity owned in whole or in part by, chartered by, funded in whole or in part by, or operated in whole or in part by or on behalf of a State or local government, that—
+    - **(A)** assists, counsels, advises, evaluates, or otherwise cooperates with industry or academic institutions that need or can make demonstrably productive use of technology-related assistance from a Center;
+    - **(B)** facilitates technology transfer from industry or academic institutions to a Center; or
+    - **(C)** assists and facilitates workforce development in critical technology areas for technology transition activities to fulfill unmet needs of a Center.
 - **(g)** Nothing in this section may be construed to authorize a change, otherwise prohibited by law, from the performance of work at a Center by personnel of the Department of Defense to performance by a contractor.
 - **(h)** In this section:
   - **(1)** The term “capabilities”, with respect to a Center for Science, Technology, and Engineering Partnership, means the facilities, equipment, personnel, intellectual property, and other assets that support the core competencies of the Center.

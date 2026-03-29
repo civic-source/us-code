@@ -3,14 +3,14 @@ title: "Section 8852 - Coordination of research and extension activities; consul
 usc_title: 42
 usc_section: "8852"
 chapter: 96
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 8852"
-generated_at: "2026-03-29T19:31:45.483Z"
+generated_at: "2026-03-29T20:00:55.254Z"
 ---
 
 # § 8852. Coordination of research and extension activities; consultative requirements
 
-- **(a)** The Secretary of Agriculture shall coordinate the applied research and extension programs conducted under this subchapter 1 1 See References in Text note below. and under the amendments made by this subchapter to section 1419 [ 7 U.S.C. 3154 ] 1 and subtitle B of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 [ 7 U.S.C. 3129 ], 1 section 1 of the Bankhead-Jones Act [ 7 U.S.C. 427 ], section 3 of the Forest and Rangeland Renewable Resources Research Act of 1978 [ 16 U.S.C. 1642 ], and sections 1 and 2 of the Smith-Lever Act [ 7 U.S.C. 341 , 342] with the programs of the Department of Energy.
+- **(a)** The Secretary of Agriculture shall coordinate the applied research and extension programs conducted under this subchapter 1 1 See References in Text note below. and under the amendments made by this subchapter to section 1419 [ 7 U.S.C. 3154 ] 1 and subtitle B of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 [ 7 U.S.C. 3129 ], 1 section 1 of the Bankhead-Jones Act [ 7 U.S.C. 3104 ], section 3 of the Forest and Rangeland Renewable Resources Research Act of 1978 [ 16 U.S.C. 1642 ], and sections 1 and 2 of the Smith-Lever Act [ 7 U.S.C. 341 , 342] with the programs of the Department of Energy.
 - **(b)** In carrying out this subchapter and the amendments made by this subchapter, the Secretary of Agriculture shall consult on a continuing basis with—
   - **(1)** the Subcommittee on Food, Agricultural, and Forestry Research of the Federal Coordinating Council for Science, Engineering, and Technology;
   - **(2)** the Joint Council on Food and Agricultural Sciences; and

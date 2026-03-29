@@ -3,9 +3,9 @@ title: "Section 47103 - National plan of integrated airport systems"
 usc_title: 49
 usc_section: "47103"
 chapter: 471
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 47103"
-generated_at: "2026-03-29T19:44:58.025Z"
+generated_at: "2026-03-29T20:01:15.020Z"
 ---
 
 # § 47103. National plan of integrated airport systems
@@ -17,4 +17,10 @@ generated_at: "2026-03-29T19:44:58.025Z"
   - **(1)** to the extent possible and as appropriate, consult with departments, agencies, and instrumentalities of the United States Government, with public agencies, and with the aviation community; and
   - **(2)** make every reasonable effort to address the needs of air cargo operations and rotary wing aircraft operations.
 - **(c)** To the extent possible, the Secretary of Defense shall make domestic military airports and airport facilities available for civil use. In advising the Secretary of Transportation under subsection (a) of this section, the Secretary of Defense shall indicate the extent to which domestic military airports and airport facilities are available for civil use.
-- **(d)** The Secretary of Transportation shall publish the plan every 2 years.
+- **(d)**
+  - **(1)** The Secretary shall include in the plan a detailed statement listing airports the Secretary has reason to believe are not in compliance with grant assurances or other requirements with respect to airport lands and shall include—
+    - **(A)** the circumstances of noncompliance;
+    - **(B)** the timeline for corrective action with respect to such noncompliance; and
+    - **(C)** any corrective action the Secretary intends to require to bring the airport sponsor into compliance.
+  - **(2)** The Secretary is not required to conduct an audit or make a final determination before including an airport on the list referred to in paragraph (1).
+- **(e)** The Secretary of Transportation shall publish the plan every 2 years.

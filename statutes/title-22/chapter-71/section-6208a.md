@@ -3,9 +3,9 @@ title: "Section 6208a - Open Technology Fund"
 usc_title: 22
 usc_section: "6208a"
 chapter: 71
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 6208a"
-generated_at: "2026-03-29T19:42:08.221Z"
+generated_at: "2026-03-29T19:59:24.258Z"
 ---
 
 # § 6208a. Open Technology Fund
@@ -56,4 +56,4 @@ generated_at: "2026-03-29T19:42:08.221Z"
 - **(h)**
   - **(1)** Financial transactions of the Open Technology Fund, as such relate to functions carried out under this section, may be audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Any such audit shall be conducted at the place or places at which accounts of the Open Technology Fund are normally kept.
   - **(2)** The Government Accountability Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by the Open Technology Fund pertaining to financial transactions as may be necessary to facilitate an audit. The Government Accountability Office shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of the Open Technology Fund shall remain in the possession and custody of the Open Technology Fund.
-  - **(3)** Notwithstanding any other provision of law, the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 [5 U.S.C. App.] with respect to the Open Technology Fund.
+  - **(3)** Notwithstanding any other provision of law, the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to the Open Technology Fund.

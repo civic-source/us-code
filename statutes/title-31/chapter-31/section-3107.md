@@ -3,9 +3,9 @@ title: "Section 3107 - Increasing interest rates and investment yields on retire
 usc_title: 31
 usc_section: "3107"
 chapter: 31
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "31 U.S.C. § 3107"
-generated_at: "2026-03-29T19:42:56.109Z"
+generated_at: "2026-03-29T20:00:25.323Z"
 ---
 
 # § 3107. Increasing interest rates and investment yields on retirement bonds

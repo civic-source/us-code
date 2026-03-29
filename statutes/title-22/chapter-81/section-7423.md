@@ -3,9 +3,9 @@ title: "Section 7423 - Prohibition on cooperation with the International Crimina
 usc_title: 22
 usc_section: "7423"
 chapter: 81
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 7423"
-generated_at: "2026-03-29T19:42:08.254Z"
+generated_at: "2026-03-29T19:59:24.287Z"
 ---
 
 # § 7423. Prohibition on cooperation with the International Criminal Court
@@ -21,4 +21,8 @@ generated_at: "2026-03-29T19:42:08.254Z"
 - **(e)** Notwithstanding any other provision of law, no agency or entity of the United States Government or of any State or local government, including any court, may provide support to the International Criminal Court.
 - **(f)** Notwithstanding any other provision of law, no funds appropriated under any provision of law may be used for the purpose of assisting the investigation, arrest, detention, extradition, or prosecution of any United States citizen or permanent resident alien by the International Criminal Court.
 - **(g)** The United States shall exercise its rights to limit the use of assistance provided under all treaties and executive agreements for mutual legal assistance in criminal matters, multilateral conventions with legal assistance provisions, and extradition treaties, to which the United States is a party, and in connection with the execution or issuance of any letter rogatory, to prevent the transfer to, or other use by, the International Criminal Court of any assistance provided by the United States under such treaties and letters rogatory.
-- **(h)** No agent of the International Criminal Court may conduct, in the United States or any territory subject to the jurisdiction of the United States, any investigative activity relating to a preliminary inquiry, investigation, prosecution, or other proceeding at the International Criminal Court.
+- **(h)**
+  - **(1)** No agent of the International Criminal Court may conduct, in the United States or any territory subject to the jurisdiction of the United States, any investigative activity relating to a preliminary inquiry, investigation, prosecution, or other proceeding at the International Criminal Court.
+  - **(2)** The prohibition under paragraph (1) shall not apply with respect to investigative activities that—
+    - **(A)** relate solely to investigations and prosecutions of foreign persons for crimes within the jurisdiction of the International Criminal Court related to the Situation in Ukraine; and
+    - **(B)** are undertaken in concurrence with the Attorney General.

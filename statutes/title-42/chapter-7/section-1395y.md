@@ -3,9 +3,9 @@ title: "Section 1395y - Exclusions from coverage and medicare as secondary payer
 usc_title: 42
 usc_section: "1395y"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1395y"
-generated_at: "2026-03-29T19:31:44.731Z"
+generated_at: "2026-03-29T20:00:54.440Z"
 ---
 
 # § 1395y. Exclusions from coverage and medicare as secondary payer
@@ -82,6 +82,7 @@ generated_at: "2026-03-29T19:31:44.731Z"
         - **(III)** Leased employees (as defined in section 414(n)(2) of such Code) shall be treated as employees of the person for whom they perform services to the extent they are so treated under section 414(n) of such Code.
       - **(ii)** An individual has “current employment status” with an employer if the individual is an employee, is the employer, or is associated with the employer in a business relationship.
       - **(iii)** The term “employer” includes a self-employed person.
+      - **(iv)** Nothing in this paragraph shall prohibit a group health plan from determining an individual’s eligibility to enroll in a health benefits plan offered under the Postal Service Health Benefits Program under section 8903c of title 5 in accordance with subsection (e) of such section.
     - **(F)** An individual who is entitled to benefits under this subchapter and is furnished an item or service for which such benefits are incorrectly paid is not liable for repayment of such benefits under this paragraph unless payment of such benefits was made to the individual.
   - **(2)**
     - **(A)** Payment under this subchapter may not be made, except as provided in subparagraph (B), with respect to any item or service to the extent that—
@@ -130,7 +131,9 @@ generated_at: "2026-03-29T19:31:44.731Z"
     - **(B)** An entity that knowingly, willfully, and repeatedly fails to complete a claim form in accordance with subparagraph (A) or provides inaccurate information relating to the availability of other health benefit plans on a claim form under such subparagraph shall be subject to a civil money penalty of not to exceed $2,000 for each such incident. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title .
   - **(7)**
     - **(A)** On and after the first day of the first calendar quarter beginning after the date that is 1 year after December 29, 2007 , an entity serving as an insurer or third party administrator for a group health plan, as defined in paragraph (1)(A)(v), and, in the case of a group health plan that is self-insured and self-administered, a plan administrator or fiduciary, shall—
-      - **(i)** secure from the plan sponsor and plan participants such information as the Secretary shall specify for the purpose of identifying situations where the group health plan is or has been a primary plan to the program under this subchapter; and
+      - **(i)** secure from the plan sponsor and plan participants such information as the Secretary shall specify for the purpose of identifying situations where the group health plan is or has been—
+        - **(I)** a primary plan to the program under this subchapter; or
+        - **(II)** for calendar quarters beginning on or after January 1, 2020 , a primary payer with respect to benefits relating to prescription drug coverage under part D; and
       - **(ii)** submit such information to the Secretary in a form and manner (including frequency) specified by the Secretary.
     - **(B)**
       - **(i)** An entity, a plan administrator, or a fiduciary described in subparagraph (A) that fails to comply with the requirements under such subparagraph shall be subject to a civil money penalty of $1,000 for each day of noncompliance for each individual for which the information under such subparagraph should have been submitted. The provisions of subsections (e) and (k) of section 1320a–7a of this title shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title . A civil money penalty under this clause shall be in addition to any other penalties prescribed by law and in addition to any Medicare secondary payer claim under this subchapter with respect to an individual.
@@ -158,7 +161,11 @@ generated_at: "2026-03-29T19:31:44.731Z"
       - **(i)** Liability insurance (including self-insurance).
       - **(ii)** No fault insurance.
       - **(iii)** Workers’ compensation laws or plans.
-    - **(G)** The Secretary may share information collected under this paragraph as necessary for purposes of the proper coordination of benefits.
+    - **(G)**
+      - **(i)** The Secretary may share information collected under this paragraph as necessary for purposes of the proper coordination of benefits.
+      - **(ii)** In responding to any query made on or after the date that is 1 year after December 11, 2020 , from an applicable plan related to a determination described in subparagraph (A)(i), the Secretary, notwithstanding any other provision of law, shall provide to such applicable plan—
+        - **(I)** whether a claimant subject to the query is, or during the preceding 3-year period has been, entitled to benefits under the program under this subchapter on any basis; and
+        - **(II)** to the extent applicable, the plan name and address of any Medicare Advantage plan under part C and any prescription drug plan under part D in which the claimant is enrolled or has been enrolled during such period.
     - **(H)** Notwithstanding any other provision of law, the Secretary may implement this paragraph by program instruction or otherwise.
     - **(I)** Not later than 60 days after January 10, 2013 , the Secretary shall publish a notice in the Federal Register soliciting proposals, which will be accepted during a 60-day period, for the specification of practices for which sanctions will and will not be imposed under subparagraph (E), including not imposing sanctions for good faith efforts to identify a beneficiary pursuant to this paragraph under an applicable entity responsible for reporting information. After considering the proposals so submitted, the Secretary, in consultation with the Attorney General, shall publish in the Federal Register, including a 60-day period for comment, proposed specified practices for which such sanctions will and will not be imposed. After considering any public comments received during such period, the Secretary shall issue final rules specifying such practices.
   - **(9)**
@@ -188,7 +195,9 @@ generated_at: "2026-03-29T19:31:44.731Z"
     - **(B)** at the medical direction or on the prescription of a physician during the period when he is excluded pursuant to section 1320a–7, 1320a–7a, 1320c–5 or 1395u(j)(2) of this title from participation in the program under this subchapter and when the person furnishing such item or service knew or had reason to know of the exclusion (after a reasonable time period after reasonable notice has been furnished to the person).
   - **(2)** Where an individual eligible for benefits under this subchapter submits a claim for payment for items or services furnished by an individual or entity excluded from participation in the programs under this subchapter, pursuant to section 1320a–7, 1320a–7a, 1320c–5, 1320c–9 (as in effect on September 2, 1982 ), 1395u(j)(2), 1395y(d) (as in effect on August 18, 1987 ), or 1395cc of this title, and such beneficiary did not know or have reason to know that such individual or entity was so excluded, then, to the extent permitted by this subchapter, and notwithstanding such exclusion, payment shall be made for such items or services. In each such case the Secretary shall notify the beneficiary of the exclusion of the individual or entity furnishing the items or services. Payment shall not be made for items or services furnished by an excluded individual or entity to a beneficiary after a reasonable time (as determined by the Secretary in regulations) after the Secretary has notified the beneficiary of the exclusion of that individual or entity.
 - **(f)** The Secretary shall establish utilization guidelines for the determination of whether or not payment may be made, consistent with paragraph (1)(A) of subsection (a), under part A or part B for expenses incurred with respect to the provision of home health services, and shall provide for the implementation of such guidelines through a process of selective postpayment coverage review by intermediaries or otherwise.
-- **(g)** The Secretary shall, in making the determinations under paragraphs (1) and (9) of subsection (a), and for the purposes of promoting the effective, efficient, and economical delivery of health care services, and of promoting the quality of services of the type for which payment may be made under this subchapter, enter into contracts with quality improvement organizations pursuant to part B of subchapter XI of this chapter.
+- **(g)**
+  - **(1)** The Secretary shall, in making the determinations under paragraphs (1) and (9) of subsection (a), and for the purposes of promoting the effective, efficient, and economical delivery of health care services, and of promoting the quality of services of the type for which payment may be made under this subchapter, enter into contracts with quality improvement organizations pursuant to part B of subchapter XI of this chapter.
+  - **(2)** In addition to any funds otherwise available, there are appropriated to the Secretary, out of any monies in the Treasury not otherwise obligated, $200,000,000, to remain available until expended, for purposes of requiring multiple organizations described in paragraph (1) to provide to skilled nursing facilities (as defined in section 1935i–3(a) of this title ), infection control and vaccination uptake support relating to the prevention or mitigation of COVID–19, as determined appropriate by the Secretary.
 - **(h)**
   - **(1)** The Secretary—
     - **(A)** shall waive the application of subsection (a)(22) in cases in which—
@@ -208,7 +217,7 @@ generated_at: "2026-03-29T19:31:44.731Z"
     - **(B)** the Secretary determines would present a conflict of interest relating to such nonvoting member.
   - **(2)** If an advisory committee described in paragraph (1) organizes into panels of experts according to types of items or services considered by the advisory committee, any such panel of experts may report any recommendation with respect to such items or services directly to the Secretary without the prior approval of the advisory committee or an executive committee thereof.
 - **(k)**
-  - **(1)** Subject to paragraph (2), a group health plan (as defined in subsection (a)(1)(A)(v) 7 7 So in original. Probably should be “(b)(1)(A)(v)”. ) providing supplemental or secondary coverage to individuals also entitled to services under this subchapter shall not require a medicare claims determination under this subchapter for dental benefits specifically excluded under subsection (a)(12) as a condition of making a claims determination for such benefits under the group health plan.
+  - **(1)** Subject to paragraph (2), a group health plan (as defined in subsection (a)(1)(A)(v)) 7 7 So in original. Probably should be “(b)(1)(A)(v))”. providing supplemental or secondary coverage to individuals also entitled to services under this subchapter shall not require a medicare claims determination under this subchapter for dental benefits specifically excluded under subsection (a)(12) as a condition of making a claims determination for such benefits under the group health plan.
   - **(2)** A group health plan may require a claims determination under this subchapter in cases involving or appearing to involve inpatient dental hospital services or dental services expressly covered under this subchapter pursuant to actions taken by the Secretary.
 - **(l)**
   - **(1)** The Secretary shall make available to the public the factors considered in making national coverage determinations of whether an item or service is reasonable and necessary. The Secretary shall develop guidance documents to carry out this paragraph in a manner similar to the development of guidance documents under section 371(h) of title 21 .
@@ -228,6 +237,12 @@ generated_at: "2026-03-29T19:31:44.731Z"
     - **(A)** The Secretary shall develop a plan to evaluate new local coverage determinations to determine which determinations should be adopted nationally and to what extent greater consistency can be achieved among local coverage determinations.
     - **(B)** The Secretary shall require the fiscal intermediaries or carriers providing services within the same area to consult on all new local coverage determinations within the area.
     - **(C)** The Secretary should serve as a center to disseminate information on local coverage determinations among fiscal intermediaries and carriers to reduce duplication of effort.
+    - **(D)** The Secretary shall require each Medicare administrative contractor that develops a local coverage determination to make available on the Internet website of such contractor and on the Medicare Internet website, at least 45 days before the effective date of such determination, the following information:
+      - **(i)** Such determination in its entirety.
+      - **(ii)** Where and when the proposed determination was first made public.
+      - **(iii)** Hyperlinks to the proposed determination and a response to comments submitted to the contractor with respect to such proposed determination.
+      - **(iv)** A summary of evidence that was considered by the contractor during the development of such determination and a list of the sources of such evidence.
+      - **(v)** An explanation of the rationale that supports such determination.
   - **(6)** For purposes of this subsection—
     - **(A)** The term “national coverage determination” means a determination by the Secretary with respect to whether or not a particular item or service is covered nationally under this subchapter.
     - **(B)** The term “local coverage determination” has the meaning given that in section 1395ff(f)(2)(B) of this title .
@@ -243,4 +258,5 @@ generated_at: "2026-03-29T19:31:44.731Z"
 - **(o)**
   - **(1)** The Secretary may suspend payments to a provider of services or supplier under this subchapter pending an investigation of a credible allegation of fraud against the provider of services or supplier, unless the Secretary determines there is good cause not to suspend such payments.
   - **(2)** The Secretary shall consult with the Inspector General of the Department of Health and Human Services in determining whether there is a credible allegation of fraud against a provider of services or supplier.
-  - **(3)** The Secretary shall promulgate regulations to carry out this subsection and section 1396b(i)(2)(C) of this title .
+  - **(3)** The Secretary shall promulgate regulations to carry out this subsection, section 1395w–112(b)(7) of this section (including as applied pursuant to section 1395w–27(f)(3)(D) of this title ), and section 1396b(i)(2)(C) of this title .
+  - **(4)** In carrying out this subsection, section 1395w–112(b)(7) of this title (including as applied pursuant to section 1395w–27(f)(3)(D) of this title ), and section 1396b(i)(2)(C) of this title , a fraud hotline tip (as defined by the Secretary) without further evidence shall not be treated as sufficient evidence for a credible allegation of fraud.

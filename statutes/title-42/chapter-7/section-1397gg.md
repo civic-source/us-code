@@ -3,9 +3,9 @@ title: "Section 1397gg - Strategic objectives and performance goals; plan admini
 usc_title: 42
 usc_section: "1397gg"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1397gg"
-generated_at: "2026-03-29T19:31:44.877Z"
+generated_at: "2026-03-29T20:00:54.607Z"
 ---
 
 # § 1397gg. Strategic objectives and performance goals; plan administration
@@ -26,23 +26,29 @@ generated_at: "2026-03-29T19:31:44.877Z"
   - **(3)** A State child health plan shall include an assurance that the State will afford the Secretary access to any records or information relating to the plan for the purposes of review or audit.
 - **(c)** A State child health plan shall include a description of the process used to involve the public in the design and implementation of the plan and the method for ensuring ongoing public involvement.
 - **(d)** A State child health plan shall include a description of the budget for the plan. The description shall be updated periodically as necessary and shall include details on the planned use of funds and the sources of the non-Federal share of plan expenditures, including any requirements for cost-sharing by beneficiaries.
-- **(e)** The following sections of this chapter shall apply to States under this subchapter in the same manner as they apply to a State under subchapter XIX of this chapter:
+- **(e)** The following sections of this chapter shall apply to States under this subchapter in the same manner as they apply to a State under subchapter XIX:
   - **(1)**
     - **(A)** Section 1396a(a)(4)(C) of this title (relating to conflict of interest standards).
-    - **(B)** Section 1396a(a)(72) of this title (relating to limiting FQHC contracting for provision of dental services).
-    - **(C)** Section 1396a(a)(73) of this title (relating to requiring certain States to seek advice from designees of Indian Health Programs and Urban Indian Organizations).
-    - **(D)** Subsections (a)(77) and (kk) of section 1396a of this title (relating to provider and supplier screening, oversight, and reporting requirements).
-    - **(E)** Section 1396a(e)(13) of this title (relating to the State option to rely on findings from an Express Lane agency to help evaluate a child’s eligibility for medical assistance).
-    - **(F)** Section 1396a(e)(14) of this title (relating to income determined using modified adjusted gross income and household income).
-    - **(G)** Section 1396a(bb) of this title (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
-    - **(H)** Section 1396a(ff) of this title (relating to disregard of certain property for purposes of making eligibility determinations).
-    - **(I)** Paragraphs (2), (16), and (17) of section 1396b(i) of this title (relating to limitations on payment).
-    - **(J)** Paragraph (4) of section 1396b(v) of this title (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
-    - **(K)** Section 1396b(w) of this title (relating to limitations on provider taxes and donations).
-    - **(L)** Section 1396r–1a of this title (relating to presumptive eligibility for children).
-    - **(M)** Subsections (a)(2)(C) and (h) of section 1396u–2 of this title .
-    - **(N)** Section 1396w–2 of this title (relating to authorization to receive data directly relevant to eligibility determinations).
-    - **(O)** Section 1396w–3(b) of this title (relating to coordination with State Exchanges and the State Medicaid agency).
+    - **(B)** Section 1396a(a)(25) of this title (relating to third party liability).
+    - **(C)** Section 1396a(a)(39) of this title (relating to termination of participation of certain providers).
+    - **(D)** Section 1396a(a)(78) of this title (relating to enrollment of providers participating in State plans providing medical assistance on a fee-for-service basis).
+    - **(E)** Section 1396a(a)(72) of this title (relating to limiting FQHC contracting for provision of dental services).
+    - **(F)** Section 1396a(a)(73) of this title (relating to requiring certain States to seek advice from designees of Indian Health Programs and Urban Indian Organizations).
+    - **(G)** Subsections (a)(77) and (kk) of section 1396a of this title (relating to provider and supplier screening, oversight, and reporting requirements).
+    - **(H)** Section 1396a(e)(13) of this title (relating to the State option to rely on findings from an Express Lane agency to help evaluate a child’s eligibility for medical assistance).
+    - **(I)** Section 1396a(e)(14) of this title (relating to income determined using modified adjusted gross income and household income).
+    - **(J)** Paragraphs (5) and (16) of section 1396a(e) of this title (relating to the State option to provide medical assistance consisting of full benefits during pregnancy and throughout the 12-month postpartum period under subchapter XIX), 1 1 So in original. There are two closing parentheses for the opening parenthesis preceding “relating”. if the State provides child health assistance for targeted low-income children who are pregnant or to targeted low-income pregnant women and the State has elected to apply such paragraph (16) with respect to pregnant women under subchapter XIX, the provision of assistance under the State child health plan or waiver for targeted low-income children or targeted low-income pregnant women during pregnancy and the 12-month postpartum period shall be required and not at the option of the State and shall include coverage of all items or services provided to a targeted low-income child or targeted low-income pregnant woman (as applicable) under the State child health plan or waiver). 1
+    - **(K)** Section 1396a(e)(12) of this title (relating to 1 year of continuous eligibility for children), except that a targeted low-income child enrolled under the State child health plan or waiver may be transferred to the Medicaid program under subchapter XIX for the remaining duration of the 12-month continuous eligibility period, if the child becomes eligible for full benefits under subchapter XIX during such period.
+    - **(L)** Section 1396a(bb) of this title (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
+    - **(M)** Section 1396a(ff) of this title (relating to disregard of certain property for purposes of making eligibility determinations).
+    - **(N)** Paragraphs (2), (16), and (17) of section 1396b(i) of this title (relating to limitations on payment).
+    - **(O)** Section 1396b(m)(3) of this title (relating to limitation on payment with respect to managed care).
+    - **(P)** Paragraph (4) of section 1396b(v) of this title (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
+    - **(Q)** Section 1396b(w) of this title (relating to limitations on provider taxes and donations).
+    - **(R)** Section 1396r–1a of this title (relating to presumptive eligibility for children).
+    - **(S)** Subsections (a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities) of section 1396u–2 of this title .
+    - **(T)** Section 1396w–2 of this title (relating to authorization to receive data directly relevant to eligibility determinations).
+    - **(U)** Section 1396w–3(b) of this title (relating to coordination with State Exchanges and the State Medicaid agency).
   - **(2)**
     - **(A)** Section 1315 of this title (relating to waiver authority).
     - **(B)** Section 1316 of this title (relating to administrative and judicial review), but only insofar as consistent with this subchapter.
@@ -54,3 +60,8 @@ generated_at: "2026-03-29T19:31:44.877Z"
 - **(f)** Notwithstanding subsection (e)(2)(A) and section 1315(a) of this title :
   - **(1)** The Secretary may not approve a waiver, experimental, pilot, or demonstration project that would allow funds made available under this subchapter to be used to provide child health assistance or other health benefits coverage to a nonpregnant childless adult or a parent (as defined in section 1397kk(c)(2)(A) of this title ), who is not pregnant, of a targeted low-income child.
   - **(2)** The Secretary may not approve, extend, renew, or amend a waiver, experimental, pilot, or demonstration project with respect to a State after February 4, 2009 , that would waive or modify the requirements of section 1397kk of this title .
+- **(g)**
+  - **(1)** Nothing in this subchapter (or any other provision of Federal law) shall be construed as preventing a State from considering children enrolled in a qualified CHIP look-alike program and children enrolled in a State child health plan under this subchapter (or a waiver of such plan) as members of a single risk pool.
+  - **(2)** In this subsection, the term “qualified CHIP look-alike program” means a State program—
+    - **(A)** under which children who are under the age of 19 and are not eligible to receive medical assistance under subchapter XIX or child health assistance under this subchapter may purchase coverage through the State that provides benefits that are at least identical to the benefits provided under the State child health plan under this subchapter (or a waiver of such plan); and
+    - **(B)** that is funded exclusively through non-Federal funds, including funds received by the State in the form of premiums for the purchase of such coverage.

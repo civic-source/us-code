@@ -3,15 +3,15 @@ title: "Section 4021 - Research projects: transactions other than contracts and 
 usc_title: 10
 usc_section: "4021"
 chapter: 301
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4021"
-generated_at: "2026-03-29T19:43:38.053Z"
+generated_at: "2026-03-29T19:58:02.245Z"
 ---
 
 # § 4021. Research projects: transactions other than contracts and grants
 
 - **(a)** The Secretary of Defense and the Secretary of each military department may enter into transactions (other than contracts, cooperative agreements, and grants) under the authority of this subsection in carrying out basic, applied, and advanced research projects. The authority under this subsection is in addition to the authority provided in section 4001 of this title to use contracts, cooperative agreements, and grants in carrying out such projects.
-- **(b)** In any exercise of the authority in subsection (a), the Secretary of Defense shall act through the Defense Advanced Research Projects Agency or any other element of the Department of Defense that the Secretary may designate.
+- **(b)** In any exercise of the authority in subsection (a), the Secretary of Defense shall act through the Defense Advanced Research Projects Agency, the Defense Innovation Unit, or any other element of the Department of Defense that the Secretary may designate.
 - **(c)** The authority provided under subsection (a) may be exercised without regard to section 3324 of title 31 .
 - **(d)**
   - **(1)** A cooperative agreement for performance of basic, applied, or advanced research authorized by section 4001 of this title and a transaction authorized by subsection (a) may include a clause that requires a person or other entity to make payments to the Department of Defense or any other department or agency of the Federal Government as a condition for receiving support under the agreement or other transaction.
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T19:43:38.053Z"
 - **(e)** The Secretary of Defense shall ensure that—
   - **(1)** to the maximum extent practicable, no cooperative agreement containing a clause under subsection (d) and no transaction entered into under subsection (a) provides for research that duplicates research being conducted under existing programs carried out by the Department of Defense; and
   - **(2)** to the extent that the Secretary determines practicable, the funds provided by the Government under a cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) do not exceed the total amount provided by other parties to the cooperative agreement or other transaction.
-- **(f)** There is hereby established on the books of the Treasury separate accounts for each of the military departments and the Defense Advanced Research Projects Agency for support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in those accounts shall be available for the payment of such support.
+- **(f)** There is hereby established on the books of the Treasury separate accounts for each of the military departments, the Defense Innovation Unit, and the Defense Advanced Research Projects Agency for support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in those accounts shall be available for the payment of such support.
 - **(g)** The Secretary of Defense shall—
   - **(1)** ensure that management, technical, and contracting personnel of the Department of Defense involved in the award or administration of transactions under this section or other innovative forms of contracting are afforded opportunities for adequate education and training; and
   - **(2)** establish minimum levels and requirements for continuous and experiential learning for such personnel, including levels and requirements for acquisition certification programs.

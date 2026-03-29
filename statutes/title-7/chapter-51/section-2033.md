@@ -3,9 +3,9 @@ title: "Section 2033 - Repealed. Pub. L. 107–171, title IV, § 4124(b) , May 1
 usc_title: 7
 usc_section: "2033"
 chapter: 51
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 2033"
-generated_at: "2026-03-29T19:43:58.243Z"
+generated_at: "2026-03-29T19:57:39.134Z"
 ---
 
 # § 2033. Repealed. Pub. L. 107–171, title IV, § 4124(b) , May 13, 2002 , 116 Stat. 326

@@ -3,9 +3,9 @@ title: "Section 6864e - Hiring"
 usc_title: 42
 usc_section: "6864e"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6864e"
-generated_at: "2026-03-29T02:15:36.847Z"
+generated_at: "2026-03-29T20:00:55.054Z"
 ---
 
 # § 6864e. Hiring

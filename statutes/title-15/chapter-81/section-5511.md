@@ -3,9 +3,9 @@ title: "Section 5511 - Networking and Information Technology Research and Develo
 usc_title: 15
 usc_section: "5511"
 chapter: 81
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 5511"
-generated_at: "2026-03-29T19:44:42.903Z"
+generated_at: "2026-03-29T19:58:17.856Z"
 ---
 
 # § 5511. Networking and Information Technology Research and Development Program
@@ -21,12 +21,13 @@ generated_at: "2026-03-29T19:44:42.903Z"
     - **(G)** provide for the technical support of, and research and development on, high-end computing systems and software required to address Grand Challenges;
     - **(H)** provide support and guidance for educating and training additional undergraduate and graduate students in software engineering, computer science, computer and network security, applied mathematics, library and information science, and computational science;
     - **(I)** provide for improving the security, reliability, and resilience of computing and networking systems, including Federal systems, including providing for research required to establish security standards and practices for these systems;
-    - **(J)** provide for increased understanding of the scientific principles of cyber-physical systems and improve the methods available for the design, development, and operation of cyber-physical systems that are characterized by high reliability, safety, and security;
-    - **(K)** provide for research and development on human-computer interactions, visualization, and big data;
-    - **(L)** provide for research and development on the enhancement of cybersecurity, including the human facets of cyber threats and secure cyber systems;
-    - **(M)** provide for the understanding of the science, engineering, policy, and privacy protection related to networking and information technology;
-    - **(N)** provide for the transition of high-end computing hardware, system software, development tools, and applications into development and operations; and
-    - **(O)** foster public-private collaboration among government, industry research laboratories, academia, and nonprofit organizations to maximize research and development efforts and the benefits of networking and information technology, including high-end computing.
+    - **(J)** provide for improving the security, reliability, and resiliency of computing and networking systems used by institutions of higher education and other nonprofit research institutions for the processing, storage and transmission of sensitive federally funded research and associated data;
+    - **(K)** provide for increased understanding of the scientific principles of cyber-physical systems and improve the methods available for the design, development, and operation of cyber-physical systems that are characterized by high reliability, safety, and security;
+    - **(L)** provide for research and development on human-computer interactions, visualization, and big data;
+    - **(M)** provide for research and development on the enhancement of cybersecurity, including the human facets of cyber threats and secure cyber systems;
+    - **(N)** provide for the understanding of the science, engineering, policy, and privacy protection related to networking and information technology;
+    - **(O)** provide for the transition of high-end computing hardware, system software, development tools, and applications into development and operations; and
+    - **(P)** foster public-private collaboration among government, industry research laboratories, academia, and nonprofit organizations to maximize research and development efforts and the benefits of networking and information technology, including high-end computing.
   - **(2)** The Director shall—
     - **(A)** establish the goals and priorities for Federal networking and information technology research, development, education, and other activities;
     - **(B)** establish Program Component Areas that implement the goals established under subparagraph (A), and identify the Grand Challenges that the Program should address;
@@ -64,7 +65,7 @@ generated_at: "2026-03-29T19:44:42.903Z"
     - **(D)** whether the research and development undertaken pursuant to the Program is helping to maintain United States leadership in networking and information technology; and
     - **(E)** other issues identified by the Director.
   - **(2)** In addition to the duties outlined in paragraph (1), the advisory committee shall conduct periodic evaluations of the funding, management, coordination, implementation, and activities of the Program. The advisory committee shall report not less frequently than once every 3 fiscal years to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on its findings and recommendations.
-  - **(3)** Section 14 of the Federal Advisory Committee Act shall not apply to the advisory committee established under this subsection.
+  - **(3)** Section 1013 of title 5 shall not apply to the advisory committee established under this subsection.
 - **(c)**
   - **(1)** Each Federal agency and department participating in the Program shall, as part of its annual request for appropriations to the Office of Management and Budget, submit a report to the Office of Management and Budget which—
     - **(A)** identifies each element of its networking and information technology activities which contributes directly to the Program Component Areas or benefits from the Program; and

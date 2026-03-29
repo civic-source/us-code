@@ -3,9 +3,9 @@ title: "Section 1137 - Authority of the Inspector General"
 usc_title: 49
 usc_section: "1137"
 chapter: 11
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 1137"
-generated_at: "2026-03-29T19:44:57.831Z"
+generated_at: "2026-03-29T20:01:14.784Z"
 ---
 
 # § 1137. Authority of the Inspector General
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:44:57.831Z"
   - **(1)** keep the Chairman of the Board and Congress fully and currently informed about problems relating to administration of the internal accounting and administrative control systems of the Board;
   - **(2)** issue findings and recommendations for actions to address such problems; and
   - **(3)** report periodically to Congress on any progress made in implementing actions to address such problems.
-- **(c)** In carrying out this section, the Inspector General may exercise authorities granted to the Inspector General under subsections (a) and (b) of section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+- **(c)** In carrying out this section, the Inspector General may exercise authorities granted to the Inspector General under subsections (a) and (c) of section 406 of title 5 .
 - **(d)**
   - **(1)** There are authorized to be appropriated to the Secretary of Transportation for use by the Inspector General of the Department of Transportation such sums as may be necessary to cover expenses associated with activities pursuant to the authority exercised under this section.
   - **(2)** In the absence of an appropriation under this subsection for an expense referred to in paragraph (1), the Inspector General and the Board shall have a reimbursable agreement to cover such expense.

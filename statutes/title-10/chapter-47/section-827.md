@@ -3,9 +3,9 @@ title: "Section 827 - Art. 27. Detail of trial counsel and defense counsel"
 usc_title: 10
 usc_section: "827"
 chapter: 47
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 827"
-generated_at: "2026-03-29T19:43:37.845Z"
+generated_at: "2026-03-29T19:58:02.009Z"
 ---
 
 # § 827. Art. 27. Detail of trial counsel and defense counsel
@@ -20,3 +20,6 @@ generated_at: "2026-03-29T19:43:37.845Z"
   - **(1)** Defense counsel and assistant defense counsel detailed for a special court-martial shall have the qualifications set forth in subsection (b).
   - **(2)** Trial counsel and assistant trial counsel detailed for a special court-martial and assistant trial counsel detailed for a general court-martial must be determined to be competent to perform such duties by the Judge Advocate General, under such rules as the President may prescribe.
 - **(d)** To the greatest extent practicable, in any capital case, at least one defense counsel shall, as determined by the Judge Advocate General, be learned in the law applicable to such cases. If necessary, this counsel may be a civilian and, if so, may be compensated in accordance with regulations prescribed by the Secretary of Defense.
+- **(e)** For each general and special court-martial for which charges and specifications were referred by a special trial counsel—
+  - **(1)** a special trial counsel shall be detailed as trial counsel; and
+  - **(2)** a special trial counsel may detail other trial counsel as necessary who are judge advocates.

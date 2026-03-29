@@ -3,9 +3,9 @@ title: "Section 9062 - Policy; composition; aircraft authorization"
 usc_title: 10
 usc_section: "9062"
 chapter: 907
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 9062"
-generated_at: "2026-03-29T19:43:38.125Z"
+generated_at: "2026-03-29T19:58:02.334Z"
 ---
 
 # § 9062. Policy; composition; aircraft authorization
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T19:43:38.125Z"
     - **(B)** The term “outsized cargo” means any single item of equipment that exceeds 1,090 inches in length, 117 inches in width, or 105 inches in height.
 - **[(h)** Repealed. Pub. L. 116–283, div. A, title I, § 132(b) , Jan. 1, 2021 , 134 Stat. 3430 .]
 - **(i)**
-  - **(1)** During the period beginning on October 1, 2017 , and ending on October 1, 2026 , the Secretary of the Air Force shall maintain a total aircraft inventory of fighter aircraft of not less than 1,970 aircraft, and a total primary mission aircraft inventory (combat-coded) of not less than 1,145 fighter aircraft.
+  - **(1)** During the period beginning on October 1, 2017 , and ending on October 1, 2026 , the Secretary of the Air Force shall maintain a total aircraft inventory of fighter aircraft of not less than 1,800 aircraft, and a total primary mission aircraft inventory (combat-coded) of not less than 1,145 fighter aircraft.
   - **(2)** In this subsection:
     - **(A)** The term “fighter aircraft” means an aircraft that—
       - **(i)** is designated by a mission design series prefix of F– or A–;
@@ -40,10 +40,30 @@ generated_at: "2026-03-29T19:43:38.125Z"
       - **(iii)** executes single-role or multi-role missions, including air-to-air combat, air-to-ground attack, air interdiction, suppression or destruction of enemy air defenses, close air support, strike control and reconnaissance, combat search and rescue support, or airborne forward air control.
     - **(B)** The term “primary mission aircraft inventory” means aircraft assigned to meet the primary aircraft authorization to a unit for the performance of its wartime mission.
 - **(j)**
-  - **(1)** Except as provided in paragraph (2), effective October 1, 2019 , the Secretary of the Air Force shall maintain a total aircraft inventory of air refueling tanker aircraft of not less than 479 aircraft.
-  - **(2)** The Secretary of the Air Force may reduce the number of air refueling tanker aircraft in the total aircraft inventory of the Air Force below 479 only if—
+  - **(1)** Except as provided in paragraph (2), the Secretary of the Air Force shall maintain a total aircraft inventory of air refueling tanker aircraft of not less than 466 aircraft.
+  - **(2)** The Secretary of the Air Force may reduce the number of air refueling tanker aircraft in the total aircraft inventory of the Air Force below 466 only if—
     - **(A)** the Secretary certifies to the congressional defense committees that such reduction is justified by the results of the mobility capability and requirements study conducted under section 144(b) of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115–91 ); and
     - **(B)** a period of 30 days has elapsed following the date on which the certification is made to the congressional defense committees under subparagraph (A).
   - **(3)** In this subsection:
     - **(A)** The term “air refueling tanker aircraft” means an aircraft that has as its primary mission the refueling of other aircraft.
     - **(B)** The term “total aircraft inventory” means aircraft authorized to a flying unit for operations or training.
+- **(k)**
+  - **(1)** During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2023 and ending on September 30, 2027 , the Secretary of the Air Force may not—
+    - **(A)** retire an F–22 aircraft;
+    - **(B)** reduce funding for unit personnel or weapon system sustainment activities for F–22 aircraft in a manner that presumes future congressional authority to divest such aircraft;
+    - **(C)** keep an F–22 aircraft in a status considered excess to the requirements of the possessing command and awaiting disposition instructions (commonly referred to as “XJ” status); or
+    - **(D)** decrease the total aircraft inventory of F–22 aircraft below 184 aircraft.
+  - **(2)** The prohibition under paragraph (1) shall not apply to individual F–22 aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable and uneconomical to repair because of aircraft accidents, mishaps, or excessive material degradation and non-airworthiness status of certain aircraft.
+- **(l)**
+  - **(1)** During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 and ending on September 30, 2029 , the Secretary of the Air Force may not—
+    - **(A)** retire more than 68 F–15E aircraft;
+    - **(B)** reduce funding for unit personnel or weapon system sustainment activities for retained F–15E aircraft in a manner that presumes future congressional authority to divest such aircraft; or
+    - **(C)** keep an F–15E aircraft (other than an aircraft identified for retirement under subparagraph (A)) in a status considered excess to the requirements of the possessing command and awaiting disposition instructions (commonly referred to as “XJ” status).
+  - **(2)** The prohibition under paragraph (1) shall not apply to individual F–15E aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable and uneconomical to repair because of aircraft accidents, mishaps, or excessive material degradation and non-airworthiness status of certain aircraft.
+- **(m)**
+  - **(1)** During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 and ending on September 30, 2029 , the Secretary of the Air Force may not—
+    - **(A)** retire an RQ–4 aircraft;
+    - **(B)** reduce funding for unit personnel or weapon system sustainment activities for RQ–4 aircraft in a manner that presumes future congressional authority to divest such aircraft;
+    - **(C)** keep an RQ–4 aircraft in a status considered excess to the requirements of the possessing command and awaiting disposition instructions (commonly referred to as “XJ” status); or
+    - **(D)** decrease the total aircraft inventory of RQ–4 aircraft below 10 aircraft.
+  - **(2)** The prohibition under paragraph (1) shall not apply to individual RQ–4 aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable and uneconomical to repair because of aircraft accidents, mishaps, or excessive material degradation and non-airworthiness status of certain aircraft.

@@ -3,9 +3,9 @@ title: "Section 467 - Definitions"
 usc_title: 33
 usc_section: "467"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 467"
-generated_at: "2026-03-29T19:43:07.561Z"
+generated_at: "2026-03-29T20:00:31.238Z"
 ---
 
 # § 467. Definitions
@@ -50,4 +50,5 @@ In this subchapter, the following definitions apply:
   - **(13)** The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
   - **(14)** The term “State dam safety agency” means a State agency that has regulatory authority over the safety of non-Federal dams.
   - **(15)** The term “State dam safety program” means a State dam safety program approved and assisted under section 467f(e) of this title .
-  - **(16)** The term “United States”, when used in a geographical sense, means all of the States.
+  - **(16)** The term “underserved community” means a community with a population of less than 50,000 that has a median household income of less than 80 percent of the statewide median household income.
+  - **(17)** The term “United States”, when used in a geographical sense, means all of the States.

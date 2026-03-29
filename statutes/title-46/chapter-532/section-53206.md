@@ -3,16 +3,16 @@ title: "Section 53206 - Payments"
 usc_title: 46
 usc_section: "53206"
 chapter: 532
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 53206"
-generated_at: "2026-03-29T19:44:39.454Z"
+generated_at: "2026-03-29T20:01:03.930Z"
 ---
 
 # § 53206. Payments
 
 - **(a)**
   - **(1)** The Secretary, subject to availability of appropriations and other provisions of this section, shall pay to the Contractor for an operating agreement, for each vessel that is covered by the operating agreement, an amount equal to $5,000,000 for each fiscal year 2021 through 2035.
-  - **(2)** This amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section.
+  - **(2)** This amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section or section 51307(b).
 - **(b)** As a condition of receiving payment under this section for a fiscal year for a vessel, the Contractor for the vessel shall certify that the vessel has been and will be operated in accordance with section 53205(a)(1) for 365 days in each fiscal year. Up to thirty (30) days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 - **(c)** The Secretary shall not make any payment under this chapter for a vessel with respect to any days for which the vessel is—
   - **(1)** not operated or maintained in accordance with an Operating Agreement under this chapter; or

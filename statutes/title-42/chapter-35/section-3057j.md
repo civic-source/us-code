@@ -3,9 +3,9 @@ title: "Section 3057j - Application"
 usc_title: 42
 usc_section: "3057j"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3057j"
-generated_at: "2026-03-29T19:31:45.080Z"
+generated_at: "2026-03-29T20:00:54.854Z"
 ---
 
 # § 3057j. Application
@@ -21,8 +21,8 @@ generated_at: "2026-03-29T19:31:45.080Z"
   - **(8)** provide a preference for Native Hawaiians 60 years of age and older for full or part-time staff positions wherever feasible;
   - **(9)** provide that any legal or ombudsman services made available to older Native Hawaiians represented by the nonprofit private organization will be substantially in compliance with the provisions of subchapter III relating to the furnishing and similar services; and
   - **(10)** provide satisfactory assurances that the fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under this part to the nonprofit private organization, including any funds paid by the organization to a recipient of a grant or contract.
-- **(b)** The Assistant Secretary shall approve any application which complies with the provisions of subsection (a) of this section.
-- **(c)** Whenever the Assistant Secretary determines not to approve an application submitted under subsection (a) of this section the Assistant Secretary shall—
+- **(b)** The Assistant Secretary shall approve any application which complies with the provisions of subsection (a).
+- **(c)** Whenever the Assistant Secretary determines not to approve an application submitted under subsection (a) the Assistant Secretary shall—
   - **(1)** state objections in writing to the nonprofit private organization within 60 days after such decision;
   - **(2)** provide to the extent practicable technical assistance to the nonprofit private organization to overcome such stated objections; and
   - **(3)** provide the organization with a hearing under such rules and regulations as the Assistant Secretary may prescribe.

@@ -3,9 +3,9 @@ title: "Section 1543 - Lower Colorado River Basin Development Fund"
 usc_title: 43
 usc_section: "1543"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1543"
-generated_at: "2026-03-29T19:31:49.114Z"
+generated_at: "2026-03-29T19:59:41.452Z"
 ---
 
 # § 1543. Lower Colorado River Basin Development Fund

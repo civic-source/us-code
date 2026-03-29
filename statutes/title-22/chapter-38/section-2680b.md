@@ -3,9 +3,9 @@ title: "Section 2680b - Special rules for certain monthly workers’ compensatio
 usc_title: 22
 usc_section: "2680b"
 chapter: 38
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2680b"
-generated_at: "2026-03-29T19:42:08.115Z"
+generated_at: "2026-03-29T19:59:24.142Z"
 ---
 
 # § 2680b. Special rules for certain monthly workers’ compensation payments and other payments for Department of State personnel under chief of mission authority
@@ -64,3 +64,5 @@ generated_at: "2026-03-29T19:42:08.115Z"
   - **(4)**
     - **(A)** The Secretary or other agency head described in paragraph (2) that provides payment under such paragraph shall prescribe regulations to carry out this subsection.
     - **(B)** The regulations prescribed under subparagraph (A) shall include regulations detailing fair and equitable criteria for payment under paragraph (2).
+  - **(5)** Payments made under paragraph (2) are supplemental to any other benefit furnished by the United States Government for which a covered dependent, dependent of a former employee, covered employee, former employee, or covered individual is entitled, and the receipt of such payments may not affect the eligibility of such a person to any other benefit furnished by the United States Government.
+- **(j)** The head of any Federal agency may exercise the authorities of this section, including to designate an incident, whether the incident occurred in the United States or abroad, for purposes of subparagraphs (A)(ii) and (B)(ii) of subsection (e)(4) when the incident affects United States Government employees of the agency or their dependents who are not under the security responsibility of the Secretary of State as set forth in section 4802 of this title or when operational control of overseas security responsibility for such employees or dependents has been delegated to the head of the agency.

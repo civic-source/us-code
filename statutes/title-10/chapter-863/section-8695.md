@@ -3,9 +3,9 @@ title: "Section 8695 - Navy battle force ship assessment and requirement reporti
 usc_title: 10
 usc_section: "8695"
 chapter: 863
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 8695"
-generated_at: "2026-03-29T19:43:38.116Z"
+generated_at: "2026-03-29T19:58:02.323Z"
 ---
 
 # § 8695. Navy battle force ship assessment and requirement reporting
@@ -47,3 +47,4 @@ generated_at: "2026-03-29T19:43:38.116Z"
     - **(B)** Strategic laydown of vessels or aircraft that affects sustainable peacetime presence or warfighting response timelines.
     - **(C)** Operating concepts, including employment cycles, crewing constructs, or operational tempo limits, that affect peacetime presence or warfighting response timelines.
     - **(D)** Assigned missions that affect the type or quantity of force elements.
+- **(e)** In preparing each assessment and requirement under subsection (a), the Commandant of the Marine Corps shall be specifically responsible for developing the requirements relating to amphibious warfare ships and for naval vessels with the primary mission of transporting Marines.

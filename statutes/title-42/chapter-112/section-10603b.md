@@ -1,19 +1,12 @@
 ---
-title: "Section 10603b - Compensation and assistance to victims of terrorism or mass violence"
+title: "Section 10603b - Transferred"
 usc_title: 42
 usc_section: "10603b"
 chapter: 112
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 10603b"
-generated_at: "2026-03-29T19:31:45.590Z"
+generated_at: "2026-03-29T20:00:55.356Z"
 ---
 
-# § 10603b. Compensation and assistance to victims of terrorism or mass violence
+# § 10603b. Transferred
 
-- **(a)**
-  - **(1)** The Director may make supplemental grants as provided in 10601(d)(5) 1 1 So in original. Probably should be preceded by “section”. of this title to States, victim service organizations, and public agencies (including Federal, State, or local governments) and nongovernmental organizations that provide assistance to victims of crime, which shall be used to provide emergency relief, including crisis response efforts, assistance, training, and technical assistance, and ongoing assistance, including during any investigation or prosecution, to victims of terrorist acts or mass violence occurring outside the United States.
-  - **(2)** In this subsection, the term “victim”—
-    - **(A)** means a person who is a national of the United States or an officer or employee of the United States Government who is injured or killed as a result of a terrorist act or mass violence occurring outside the United States; and
-    - **(B)** in the case of a person described in subparagraph (A) who is less than 18 years of age, incompetent, incapacitated, or deceased, includes a family member or legal guardian of that person.
-  - **(3)** Nothing in this subsection shall be construed to allow the Director to make grants to any foreign power (as defined by section 1801(a) of title 50 ) or to any domestic or foreign organization operated for the purpose of engaging in any significant political or lobbying activities.
-- **(b)** The Director may make supplemental grants as provided in section 10601(d)(5) of this title to States for eligible crime victim compensation and assistance programs, and to victim service organizations, public agencies (including Federal, State, or local governments) and nongovernmental organizations that provide assistance to victims of crime, which shall be used to provide emergency relief, including crisis response efforts, assistance, compensation, training and technical assistance, and ongoing assistance, including during any investigation or prosecution, to victims of terrorist acts or mass violence occurring within the United States.

@@ -3,9 +3,9 @@ title: "Section 8515 - Weather research and development planning"
 usc_title: 15
 usc_section: "8515"
 chapter: 111
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 8515"
-generated_at: "2026-03-29T19:44:42.963Z"
+generated_at: "2026-03-29T19:58:17.922Z"
 ---
 
 # § 8515. Weather research and development planning
@@ -13,6 +13,6 @@ generated_at: "2026-03-29T19:44:42.963Z"
 Not later than 1 year after April 18, 2017 , and not less frequently than once each year thereafter, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in coordination with the Director of the National Weather Service and the Assistant Administrator for Satellite and Information Services, shall issue a research and development and research to operations plan to restore and maintain United States leadership in numerical weather prediction and forecasting that—
 
   - **(1)** describes the forecasting skill and technology goals, objectives, and progress of the National Oceanic and Atmospheric Administration in carrying out the program conducted under section 8512 of this title ;
-  - **(2)** identifies and prioritizes specific research and development activities, and performance metrics, weighted to meet the operational weather mission of the National Weather Service to achieve a weather-ready Nation;
+  - **(2)** identifies and prioritizes specific research and development activities, and performance metrics, weighted to meet the operational weather and flood-event mission of the National Weather Service to achieve a weather-ready Nation;
   - **(3)** describes how the program will collaborate with stakeholders, including the United States weather industry and academic partners; and
   - **(4)** identifies, through consultation with the National Science Foundation, the United States weather industry, and academic partners, research necessary to enhance the integration of social science knowledge into weather forecast and warning processes, including to improve the communication of threat information necessary to enable improved severe weather planning and decisionmaking on the part of individuals and communities.

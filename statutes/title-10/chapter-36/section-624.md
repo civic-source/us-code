@@ -3,9 +3,9 @@ title: "Section 624 - Promotions: how made"
 usc_title: 10
 usc_section: "624"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 624"
-generated_at: "2026-03-29T19:43:37.827Z"
+generated_at: "2026-03-29T19:58:01.992Z"
 ---
 
 # § 624. Promotions: how made
@@ -39,3 +39,5 @@ generated_at: "2026-03-29T19:43:37.827Z"
     - **(A)** Except as provided in subparagraph (B), the appointment of an officer may not be delayed under this subsection unless the officer has been given written notice of the grounds for the delay, unless it is impracticable to give such written notice before the effective date of the appointment, in which case such written notice shall be given as soon as practicable. An officer whose promotion has been delayed under this subsection shall be afforded an opportunity to make a written statement to the Secretary concerned in response to the action taken. Any such statement shall be given careful consideration by the Secretary.
     - **(B)** In the case of an officer whose promotion is delayed pursuant to paragraph (1)(F), requirements applicable to notice and opportunity for response to such delay are specified in section 628a(c)(3) of this title .
   - **(5)** An appointment of an officer may not be delayed under this subsection for more than six months after the date on which the officer would otherwise have been appointed unless the Secretary concerned specifies a further period of delay. An officer’s appointment may not be delayed more than 90 days after final action has been taken in any criminal case against such officer in a Federal or State court, more than 90 days after final action has been taken in any court-martial case against such officer, or more than 18 months after the date on which such officer would otherwise have been appointed, whichever is later.
+- **(e)** Notwithstanding subsection (a)(2), in the case of an officer who is selected for promotion by a selection board convened under this chapter, and prior to the placement of the officer’s name on the applicable promotion list as approved for transfer to the reserve active-status list of the same or a different armed force, the Secretary concerned may place the officer’s name on a corresponding promotion list on the reserve active-status list without regard to the officer’s competitive category. An officer’s promotion under this subsection shall be made pursuant to section 14308 of this title .
+- **(f)** Notwithstanding subsection (a)(3), in the case of an officer who is placed on an all-fully-qualified-officers list, and is subsequently approved for transfer to the reserve active-status list, the Secretary concerned may place the officer’s name on an appropriate all-fully-qualified-officers list on the reserve active-status list. An officer’s promotion under this subsection shall be made pursuant to section 14308 of this title .

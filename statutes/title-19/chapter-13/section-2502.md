@@ -1,14 +1,14 @@
 ---
-title: "Section 2502 - Congressional statement of purposes"
+title: "Section 2502 - Purposes"
 usc_title: 19
 usc_section: "2502"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 2502"
-generated_at: "2026-03-29T19:41:21.639Z"
+generated_at: "2026-03-29T19:58:51.790Z"
 ---
 
-# § 2502. Congressional statement of purposes
+# § 2502. Purposes
 
 The purposes of this Act are—
 

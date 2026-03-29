@@ -1,14 +1,12 @@
 ---
-title: "Section 3795b - Conspiracy to commit offense against United States"
+title: "Section 3795b - Transferred"
 usc_title: 42
 usc_section: "3795b"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3795b"
-generated_at: "2026-03-29T19:31:45.113Z"
+generated_at: "2026-03-29T20:00:54.883Z"
 ---
 
-# § 3795b. Conspiracy to commit offense against United States
-
-Any law enforcement or criminal justice program or project underwritten, in whole or in part, by any grant, or contract or other form of assistance pursuant to this chapter, whether received directly or indirectly from the Office of Justice Programs, Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics shall be subject to the provisions of section 371 of title 18 .
+# § 3795b. Transferred
 

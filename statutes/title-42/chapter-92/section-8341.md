@@ -3,19 +3,19 @@ title: "Section 8341 - Existing electric powerplants"
 usc_title: 42
 usc_section: "8341"
 chapter: 92
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 8341"
-generated_at: "2026-03-29T19:31:45.469Z"
+generated_at: "2026-03-29T20:00:55.234Z"
 ---
 
 # § 8341. Existing electric powerplants
 
-- **(a)** At any time, the owner or operator of an existing electric powerplant may certify to the Secretary, for purposes of subsection (b) of this section—
+- **(a)** At any time, the owner or operator of an existing electric powerplant may certify to the Secretary, for purposes of subsection (b)—
   - **(1)** whether or not such powerplant has or previously had the technical capability to use coal or another alternate fuel as a primary energy source;
   - **(2)** whether or not such powerplant could have the technical capability to use coal or another alternate fuel as a primary energy source without having—
     - **(A)** substantial physical modification of the powerplant, or
     - **(B)** substantial reduction in the rated capacity of the powerplant; and
   - **(3)** whether or not it is financially feasible to use coal or another alternate fuel as a primary energy source in such a powerplant.
-- **(b)** The Secretary may prohibit, in accordance with section 8343(a) or (b) of this title, the use of petroleum or natural gas, or both, as a primary energy source in any existing electric powerplant, if an affirmative certification under subsection (a)(1), (2), and (3) of this section is in effect with respect to such powerplant and if, after examining the basis for the certification, the Secretary concurs with the certification.
+- **(b)** The Secretary may prohibit, in accordance with section 8343(a) or (b) of this title, the use of petroleum or natural gas, or both, as a primary energy source in any existing electric powerplant, if an affirmative certification under subsection (a)(1), (2), and (3) is in effect with respect to such powerplant and if, after examining the basis for the certification, the Secretary concurs with the certification.
 - **(c)** At any time, the owner or operator of an existing electric powerplant may certify to the Secretary for purposes of this subsection whether or not it is technically and financially feasible to use a mixture of petroleum or natural gas and coal or another alternate fuel as a primary energy source in that powerplant. If an affirmative certification under this subsection is in effect with respect to such powerplant and if, after examining the basis for the certification, the Secretary concurs with the certification, the Secretary may prohibit, in accordance with section 8343(a) of this title , the use of petroleum or natural gas, or both, in such powerplant in amounts in excess of the minimum amount necessary to maintain reliability of operation of the unit consistent with maintaining reasonable fuel efficiency of such mixture.
-- **(d)** The owner or operator of any such powerplant may at any time amend any certification under subsection (a) or (c) of this section in order to take into account changes in relevant facts and circumstances; except that no such amendment to such a certification may be made after the date of any final prohibition under subsection (b) or (c) of this section based on that certification.
+- **(d)** The owner or operator of any such powerplant may at any time amend any certification under subsection (a) or (c) in order to take into account changes in relevant facts and circumstances; except that no such amendment to such a certification may be made after the date of any final prohibition under subsection (b) or (c) based on that certification.

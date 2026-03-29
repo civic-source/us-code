@@ -3,9 +3,9 @@ title: "Section 200106 - Nonapplication of audit requirements"
 usc_title: 36
 usc_section: "200106"
 chapter: 2001
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "36 U.S.C. § 200106"
-generated_at: "2026-03-29T19:43:23.320Z"
+generated_at: "2026-03-29T20:00:38.640Z"
 ---
 
 # § 200106. Nonapplication of audit requirements

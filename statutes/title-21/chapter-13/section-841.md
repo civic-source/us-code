@@ -3,9 +3,9 @@ title: "Section 841 - Prohibited acts A"
 usc_title: 21
 usc_section: "841"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "21 U.S.C. § 841"
-generated_at: "2026-03-29T19:41:41.707Z"
+generated_at: "2026-03-29T19:59:28.518Z"
 ---
 
 # § 841. Prohibited acts A
@@ -94,9 +94,9 @@ generated_at: "2026-03-29T19:41:41.707Z"
     - **(A)** deliver, distribute, or dispense a controlled substance by means of the Internet, except as authorized by this subchapter; or
     - **(B)** aid or abet (as such terms are used in section 2 of title 18 ) any activity described in subparagraph (A) that is not authorized by this subchapter.
   - **(2)** Examples of activities that violate paragraph (1) include, but are not limited to, knowingly or intentionally—
-    - **(A)** delivering, distributing, or dispensing a controlled substance by means of the Internet by an online pharmacy that is not validly registered with a modification authorizing such activity as required by section 823(f) of this title (unless exempt from such registration);
+    - **(A)** delivering, distributing, or dispensing a controlled substance by means of the Internet by an online pharmacy that is not validly registered with a modification authorizing such activity as required by section 823(g) of this title (unless exempt from such registration);
     - **(B)** writing a prescription for a controlled substance for the purpose of delivery, distribution, or dispensation by means of the Internet in violation of section 829(e) of this title ;
-    - **(C)** serving as an agent, intermediary, or other entity that causes the Internet to be used to bring together a buyer and seller to engage in the dispensing of a controlled substance in a manner not authorized by sections 2 2 So in original. Probably should be “section”. 823(f) or 829(e) of this title;
+    - **(C)** serving as an agent, intermediary, or other entity that causes the Internet to be used to bring together a buyer and seller to engage in the dispensing of a controlled substance in a manner not authorized by sections 2 2 So in original. Probably should be “section”. 823(g) or 829(e) of this title;
     - **(D)** offering to fill a prescription for a controlled substance based solely on a consumer’s completion of an online medical questionnaire; and
     - **(E)** making a material false, fictitious, or fraudulent statement or representation in a notification or declaration under subsection (d) or (e), respectively, of section 831 of this title .
   - **(3)**

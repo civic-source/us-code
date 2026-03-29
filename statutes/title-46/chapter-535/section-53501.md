@@ -3,9 +3,9 @@ title: "Section 53501 - Definitions"
 usc_title: 46
 usc_section: "53501"
 chapter: 535
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 53501"
-generated_at: "2026-03-29T19:44:39.457Z"
+generated_at: "2026-03-29T20:01:03.933Z"
 ---
 
 # § 53501. Definitions
@@ -38,7 +38,7 @@ In this chapter:
     - **(A)** a vessel—
       - **(i)** constructed in the United States (and, if reconstructed, reconstructed in the United States), constructed outside the United States but documented under the laws of the United States on April 15, 1970 , or constructed outside the United States for use in the United States foreign trade pursuant to a contract made before April 15, 1970 ;
       - **(ii)** documented under the laws of the United States; and
-      - **(iii)** agreed, between the Secretary and the person maintaining the capital construction fund established under section 53503 of this title , to be operated in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade or in the fisheries of the United States; and
+      - **(iii)** agreed, between the Secretary and the person maintaining the capital construction fund established under section 53503 of this title , to be operated in the foreign or domestic trade of the United States or in the fisheries of the United States; and
     - **(B)** a commercial fishing vessel—
       - **(i)** constructed in the United States and, if reconstructed, reconstructed in the United States;
       - **(ii)** of at least 2 net tons but less than 5 net tons;

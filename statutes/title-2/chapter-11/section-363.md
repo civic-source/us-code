@@ -3,9 +3,9 @@ title: "Section 363 - Additional function"
 usc_title: 2
 usc_section: "363"
 chapter: 11
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 363"
-generated_at: "2026-03-29T19:42:59.609Z"
+generated_at: "2026-03-29T19:56:57.164Z"
 ---
 
 # § 363. Additional function

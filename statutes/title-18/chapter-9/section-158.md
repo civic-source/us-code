@@ -3,9 +3,9 @@ title: "Section 158 - Designation of United States attorneys and agents of the F
 usc_title: 18
 usc_section: "158"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "18 U.S.C. § 158"
-generated_at: "2026-03-29T19:41:06.747Z"
+generated_at: "2026-03-29T19:58:59.629Z"
 ---
 
 # § 158. Designation of United States attorneys and agents of the Federal Bureau of Investigation to address abusive reaffirmations of debt and materially fraudulent statements in bankruptcy schedules

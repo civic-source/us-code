@@ -3,9 +3,9 @@ title: "Section 2538a - Plutonium pit production capacity"
 usc_title: 50
 usc_section: "2538a"
 chapter: 42
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 2538a"
-generated_at: "2026-03-29T19:44:52.805Z"
+generated_at: "2026-03-29T20:01:07.290Z"
 ---
 
 # § 2538a. Plutonium pit production capacity
@@ -28,6 +28,18 @@ generated_at: "2026-03-29T19:44:52.805Z"
     - **(B)** a description of risks and challenges to meeting the performance baseline for the covered projects, as approved in critical decision 2 in the acquisition process;
     - **(C)** options available to the Administrator to balance scope, costs, and production requirements at the projects to decrease overall risk to the plutonium enterprise and enduring plutonium pit requirements; and
     - **(D)** an explanation of any changes to the production goals or requirements as compared to the report submitted during the previous year.
-- **(f)** In this subsection, the term “covered project” means—
+- **(f)**
+  - **(1)** Until the date on which the Administrator certifies to the congressional defense committees that the base capability to produce not less than 30 war reserve plutonium pits per year has been established at Los Alamos National Laboratory, the Administrator may not—
+    - **(A)** carry out a project to expand the pit disassembly and processing capability of the spaces at PF–4 occupied by ARIES as of December 22, 2023 ; or
+    - **(B)** otherwise expand such spaces.
+  - **(2)** Paragraph (1) shall not apply with respect to—
+    - **(A)** ongoing or planned small projects to sustain or improve the efficiency of plutonium oxide production, provided that such projects do not expand the spaces at PF–4 occupied by ARIES as of December 22, 2023 ;
+    - **(B)** the planning and design of an additional ARIES capability at a location other than PF–4; or
+    - **(C)** the transfer of the ARIES capability to a location other than PF–4.
+  - **(3)** In this subsection:
+    - **(A)** The term “ARIES” means the Advanced Recovery and Integrated Extraction System method, developed and piloted at Los Alamos National Laboratory, Los Alamos, New Mexico, for disassembling surplus defense plutonium pits and converting the plutonium from such pits into plutonium oxide.
+    - **(B)** The term “PF–4” means the Plutonium Facility at Technical Area 55 located at Los Alamos National Laboratory, Los Alamos, New Mexico.
+- **(g)** In this subsection, the term “covered project” means—
   - **(1)** the Savannah River Plutonium Processing Facility, Savannah River Site, Aiken, South Carolina (Project 21–D–511); or
   - **(2)** the Plutonium Pit Production Project, Los Alamos National Laboratory, Los Alamos, New Mexico (Project 21–D–512).
+- **(h)** Not later than 570 days after December 22, 2023 , the Administrator for Nuclear Security shall ensure that the plutonium modernization program established by the Office of Defense Programs of the National Nuclear Security Administration, or any subsequently developed program designed to meet the requirements under subsection (a), is managed in accordance with the best practices for schedule development and cost estimating of the Government Accountability Office.

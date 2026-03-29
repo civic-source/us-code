@@ -3,9 +3,9 @@ title: "Section 18014 - Treatment of expatriate health plans under ACA"
 usc_title: 42
 usc_section: "18014"
 chapter: 157
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 18014"
-generated_at: "2026-03-29T19:31:45.916Z"
+generated_at: "2026-03-29T20:00:55.642Z"
 ---
 
 # § 18014. Treatment of expatriate health plans under ACA
@@ -18,10 +18,10 @@ generated_at: "2026-03-29T19:31:45.916Z"
   - **(1)** For the purpose of section 5000A(f) of title 26 , and any other section of title 26 that incorporates the definition of minimum essential coverage under such section 5000A(f) by reference:
     - **(A)** An expatriate health plan offered to primary enrollees who are described in subsections (d)(3)(A) and (d)(3)(B) of this section shall be treated as an eligible employer sponsored plan under 5000A(f)(2) of such title.
     - **(B)** An expatriate health plan offered to primary enrollees who are described in subsection (d)(3)(C) of this section shall be treated as a plan in the individual market under section 5000A(f)(1)(C) of such title. This subparagraph shall apply solely for the purposes of sections 36B, 5000A, and 6055 of such title.
-  - **(2)** Subsection (a) shall not apply with respect to section 6055 of title 26 , or sections 4980H and 6056 of such title in the case of an applicable large employer (as defined in section 4980H of such title), except that statements furnished to individuals may be provided through electronic media and the primary insured shall be deemed to have consented to receive the statements under such sections in electronic form, unless the individual explicitly refuses such consent. Notwithstanding subsection (a), section 4980I of title 26 shall continue to apply with respect to applicable employer-sponsored coverage (as defined in such section) of a qualified expatriate described in subsection (d)(3)(A)(i) who is assigned (rather than transferred) to work in the United States.
+  - **(2)** Subsection (a) shall not apply with respect to section 6055 of title 26 , or sections 4980H and 6056 of such title in the case of an applicable large employer (as defined in section 4980H of such title), except that statements furnished to individuals may be provided through electronic media and the primary insured shall be deemed to have consented to receive the statements under such sections in electronic form, unless the individual explicitly refuses such consent. Notwithstanding subsection (a), section 4980I 1 1 See References in Text note below. of title 26 shall continue to apply with respect to applicable employer-sponsored coverage (as defined in such section) of a qualified expatriate described in subsection (d)(3)(A)(i) who is assigned (rather than transferred) to work in the United States.
 - **(c)**
-  - **(1)** For purposes of section 9010 of the Patient Protection and Affordable Care Act ( 26 U.S.C. 4001 note prec.), for calendar years after 2015, a qualified expatriate (and any spouse, dependent, or any other individual enrolled in the plan) enrolled in an expatriate health plan shall not be considered a United States health risk.
-  - **(2)** Notwithstanding paragraph (1), the fee under section 9010 of such Act for each of calendar years 2014 and 2015 with respect to any expatriate health insurance issuer shall be the amount which bears the same ratio to the fee amount determined by the Secretary of the Treasury with respect to such issuer under such section for each such year (determined without regard to this paragraph) as—
+  - **(1)** For purposes of section 9010 1 of the Patient Protection and Affordable Care Act ( 26 U.S.C. 4001 note prec.), for calendar years after 2015, a qualified expatriate (and any spouse, dependent, or any other individual enrolled in the plan) enrolled in an expatriate health plan shall not be considered a United States health risk.
+  - **(2)** Notwithstanding paragraph (1), the fee under section 9010 1 of such Act for each of calendar years 2014 and 2015 with respect to any expatriate health insurance issuer shall be the amount which bears the same ratio to the fee amount determined by the Secretary of the Treasury with respect to such issuer under such section for each such year (determined without regard to this paragraph) as—
     - **(A)** the amount of premiums taken into account under such section with respect to such issuer for each such year, less the amount of premiums for expatriate health plans taken into account under such section with respect to such issuer for each such year, bears to
     - **(B)** the amount of premiums taken into account under such section with respect to such issuer for each such year.
 - **(d)** In this section:
@@ -36,7 +36,7 @@ generated_at: "2026-03-29T19:31:45.916Z"
     - **(D)** The plan sponsor reasonably believes that the benefits provided by the expatriate health plan satisfy a standard at least actuarially equivalent to the level provided for in section 36B(c)(2)(C)(ii) of title 26 .
     - **(E)** If the plan or coverage provides dependent coverage of children, the plan or coverage makes such dependent coverage available for adult children until the adult child turns 26 years of age, unless such individual is the child of a child receiving dependent coverage.
     - **(F)** The plan or coverage—
-      - **(i)** is issued by an expatriate health plan issuer, or administered by an administrator, that together with any other person in the expatriate health plan issuer’s or administrator’s controlled group (as described in section 9010 of the Patient Protection and Affordable Care Act (and the regulations promulgated thereunder)), has licenses to sell insurance in more than two countries, and, with respect to such plan, coverage, or company in the controlled group—
+      - **(i)** is issued by an expatriate health plan issuer, or administered by an administrator, that together with any other person in the expatriate health plan issuer’s or administrator’s controlled group (as described in section 9010 1 of the Patient Protection and Affordable Care Act (and the regulations promulgated thereunder)), has licenses to sell insurance in more than two countries, and, with respect to such plan, coverage, or company in the controlled group—
         - **(I)** maintains network provider agreements that provide for direct claims payments, directly or through third party contracts, with health care providers in eight or more countries;
         - **(II)** maintains call centers, directly or through third party contracts, in three or more countries and accepts calls from customers in eight or more languages;
         - **(III)** processes (in the aggregate together with other plans or coverage it issues or administers) at least $1,000,000 in claims in foreign currency equivalents each year;

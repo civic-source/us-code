@@ -1,14 +1,12 @@
 ---
-title: "Section 1200b - Inclusion of other provisions in contracts for condemnation of Sioux lands for dam purposes"
+title: "Section 1200b - Omitted"
 usc_title: 43
 usc_section: "1200b"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1200b"
-generated_at: "2026-03-29T19:31:49.094Z"
+generated_at: "2026-03-29T19:59:41.434Z"
 ---
 
-# § 1200b. Inclusion of other provisions in contracts for condemnation of Sioux lands for dam purposes
-
-The specification in section 1199 of this title of certain provisions to be included in each contract shall not preclude the inclusion of other provisions beneficial to the Indians who are parties of such contracts.
+# § 1200b. Omitted
 

@@ -3,9 +3,9 @@ title: "Section 3355d - Standards and procedures"
 usc_title: 50
 usc_section: "3355d"
 chapter: 45
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3355d"
-generated_at: "2026-03-29T19:44:52.864Z"
+generated_at: "2026-03-29T20:01:07.369Z"
 ---
 
 # § 3355d. Standards and procedures
@@ -18,8 +18,8 @@ generated_at: "2026-03-29T19:44:52.864Z"
     - **(A)** Except as provided in paragraph (2), if the head of an agency or the head of a Federal Presidential library determines it necessary to deny or restrict access of the Board, or of the agency or library liaison to the Board, to information contained in a record or material, in whole or in part, the head of the agency or the head of the library shall promptly notify the Board in writing of such determination.
     - **(B)** Each notice to the Board under subparagraph (A) shall include a description of the nature of the records or materials, and a justification for the determination, covered by such notice.
   - **(2)** In the case of a determination referred to in paragraph (1) with respect to a special access program created by the Secretary of Defense, the Director of National Intelligence, or the head of any other agency, the notification of denial of access under paragraph (1), including a description of the nature of the Board’s request for access, shall be submitted to the Assistant to the President for National Security Affairs rather than to the Board.
-- **(c)** At the conclusion of a declassification review, the head of an agency may, in the discretion of the head of the agency, determine that the public’s interest in the disclosure of records or materials of the agency covered by such review, and still properly classified, outweighs the Government’s need to protect such records or materials, and may release such records or materials in accordance with the provisions of Executive Order No. 12958 1 1 See References in Text note below. or any successor order to such Executive order.
-- **(d)** At the conclusion of a declassification review, the head of an agency may, in the discretion of the head of the agency, determine that the interest of the agency in the protection of records or materials of the agency covered by such review, and still properly classified, outweighs the public’s need for access to such records or materials, and may deny release of such records or materials in accordance with the provisions of Executive Order No. 12958 1 or any successor order to such Executive order.
+- **(c)** At the conclusion of a declassification review, the head of an agency may, in the discretion of the head of the agency, determine that the public’s interest in the disclosure of records or materials of the agency covered by such review, and still properly classified, outweighs the Government’s need to protect such records or materials, and may release such records or materials in accordance with the provisions of Executive Order 13526 or any successor order to such Executive order.
+- **(d)** At the conclusion of a declassification review, the head of an agency may, in the discretion of the head of the agency, determine that the interest of the agency in the protection of records or materials of the agency covered by such review, and still properly classified, outweighs the public’s need for access to such records or materials, and may deny release of such records or materials in accordance with the provisions of Executive Order 13526 or any successor order to such Executive order.
 - **(e)**
   - **(1)**
     - **(A)** Except as provided in paragraph (2), the Board shall annually submit to the appropriate congressional committees a report on the activities of the Board under this subchapter, including summary information regarding any denials to the Board by the head of an agency or the head of a Federal Presidential library of access to records or materials under this subchapter.

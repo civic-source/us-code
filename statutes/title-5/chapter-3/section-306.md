@@ -3,9 +3,9 @@ title: "Section 306 - Agency strategic plans"
 usc_title: 5
 usc_section: "306"
 chapter: 3
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 306"
-generated_at: "2026-03-29T19:43:20.296Z"
+generated_at: "2026-03-29T19:57:14.836Z"
 ---
 
 # § 306. Agency strategic plans
@@ -20,8 +20,8 @@ generated_at: "2026-03-29T19:43:20.296Z"
   - **(5)** a description of how the goals and objectives incorporate views and suggestions obtained through congressional consultations required under subsection (d);
   - **(6)** a description of how the performance goals provided in the plan required by section 1115(a) of title 31 , including the agency priority goals required by section 1120(b) of title 31 , if applicable, contribute to the general goals and objectives in the strategic plan;
   - **(7)** an identification of those key factors external to the agency and beyond its control that could significantly affect the achievement of the general goals and objectives;
-  - **(8)** a description of the program evaluations used in establishing or revising general goals and objectives, with a schedule for future program evaluations to be conducted, and citations to relevant provisions of the plans required under section 312; and
-  - **(9)** an assessment of the coverage, quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis efforts of the agency, including—
+  - **(8)** a description of the program evaluations used in establishing or revising general goals and objectives, with a schedule for future program evaluations to be conducted, and citations to relevant provisions of the plans required under section 312, as applicable; and
+  - **(9)** with respect to the head of an agency required to develop a plan described in subsection (a) or (b) of section 312, an assessment of the coverage, quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis efforts of the agency, including—
     - **(A)** a list of the activities and operations of the agency that are currently being evaluated and analyzed;
     - **(B)** the extent to which the evaluations, research, and analysis efforts and related activities of the agency support the needs of various divisions within the agency;
     - **(C)** the extent to which the evaluation research and analysis efforts and related activities of the agency address an appropriate balance between needs related to organizational learning, ongoing program management, performance management, strategic management, interagency and private sector coordination, internal and external oversight, and accountability;

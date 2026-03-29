@@ -3,9 +3,9 @@ title: "Section 1593 - Planning reports; research and demonstration projects"
 usc_title: 43
 usc_section: "1593"
 chapter: 32
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1593"
-generated_at: "2026-03-29T19:31:49.118Z"
+generated_at: "2026-03-29T19:59:41.456Z"
 ---
 
 # § 1593. Planning reports; research and demonstration projects

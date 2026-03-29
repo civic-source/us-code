@@ -3,9 +3,9 @@ title: "Section 6276 - Domestic renewable energy industry and related service in
 usc_title: 42
 usc_section: "6276"
 chapter: 77
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6276"
-generated_at: "2026-03-29T19:31:45.265Z"
+generated_at: "2026-03-29T20:00:54.997Z"
 ---
 
 # § 6276. Domestic renewable energy industry and related service industries
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T19:31:45.265Z"
     - **(B)** an assessment of the Federal Government’s activities affecting commerce in the domestic renewable energy industry and related service industries and in consolidating and coordinating such activities within the Federal Government; and
     - **(C)** an assessment of the aspects of the domestic renewable energy industry and related service industries in which improvements must be made to increase the international commercialization of such industry.
 - **(c)**
-  - **(1)** On the basis of the evaluation under subsection (b) of this section, the Secretary of Commerce shall, consistent with existing law, establish a program for enhancing commerce in renewable energy technologies and consolidating or coordinating existing activities for such purpose.
+  - **(1)** On the basis of the evaluation under subsection (b), the Secretary of Commerce shall, consistent with existing law, establish a program for enhancing commerce in renewable energy technologies and consolidating or coordinating existing activities for such purpose.
   - **(2)** Such program shall provide for—
     - **(A)** the broadening of the participation by the domestic renewable energy industry and related service industries in such activities;
     - **(B)** the promotion of the domestic renewable energy industry and related service industries on a worldwide basis;
@@ -53,6 +53,6 @@ generated_at: "2026-03-29T19:31:45.265Z"
     - **(A)** establish, in consultation with representatives of affected industries, a plan to increase United States exports of renewable energy and energy efficiency technologies, and include in such plan recommended guidelines for agencies that are represented on the working group with respect to the financing of, or other actions they can take within their programs to promote, exports of such renewable energy and energy efficiency technologies;
     - **(B)** develop, in consultation with representatives of affected industries, recommended administrative guidelines for Federal export loan programs to simplify application by firms seeking export assistance for renewable energy and energy efficiency technologies from agencies implementing such programs; and
     - **(C)** recommend specific renewable energy and energy efficiency technology markets for primary emphasis by Federal export loan programs, development programs, and private sector assistance programs.
-  - **(2)** The interagency working group shall include a description of the plan established under paragraph (1)(A) in no later than the second report submitted under subsection (e) 1 1 See References in Text note below. of this section, and shall include in subsequent reports a description of any modifications to such plan and of the progress in implementing the plan.
+  - **(2)** The interagency working group shall include a description of the plan established under paragraph (1)(A) in no later than the second report submitted under subsection (e), 1 1 See References in Text note below. and shall include in subsequent reports a description of any modifications to such plan and of the progress in implementing the plan.
 - **(g)**
 - **(h)** There are authorized to be appropriated such sums as may be necessary to implement this part, to remain available until expended.

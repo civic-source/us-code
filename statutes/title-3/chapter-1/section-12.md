@@ -3,12 +3,12 @@ title: "Section 12 - Failure of certificates of electors to reach President of t
 usc_title: 3
 usc_section: "12"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "3 U.S.C. § 12"
-generated_at: "2026-03-29T19:42:57.300Z"
+generated_at: "2026-03-29T19:57:04.442Z"
 ---
 
 # § 12. Failure of certificates of electors to reach President of the Senate or Archivist of the United States; demand on State for certificate
 
-When no certificate of vote and list mentioned in sections 9 and 11 of this title from any State shall have been received by the President of the Senate or by the Archivist of the United States by the fourth Wednesday in December, after the meeting of the electors shall have been held, the President of the Senate or, if he be absent from the seat of government, the Archivist of the United States shall request, by the most expeditious method available, the secretary of state of the State to send up the certificate and list lodged with him by the electors of such State; and it shall be his duty upon receipt of such request immediately to transmit same by registered mail to the President of the Senate at the seat of government.
+When, after the meeting of the electors shall have been held, no certificate of vote mentioned in sections 9 and 11 of this title from any State shall have been received by the President of the Senate or by the Archivist of the United States by the fourth Wednesday in December, the President of the Senate or, if the President of the Senate be absent from the seat of government, the Archivist of the United States shall request, by the most expeditious method available, the chief election officer of the State to send up the certificate lodged with such officer by the electors of such State; and it shall be the duty of such chief election officer of the State upon receipt of such request immediately to transmit same by the most expeditious method available to the President of the Senate at the seat of government.
 

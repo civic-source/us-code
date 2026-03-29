@@ -3,9 +3,9 @@ title: "Section 70502 - Exploration plan and programs"
 usc_title: 51
 usc_section: "70502"
 chapter: 705
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "51 U.S.C. § 70502"
-generated_at: "2026-03-29T19:45:16.684Z"
+generated_at: "2026-03-29T20:01:19.077Z"
 ---
 
 # § 70502. Exploration plan and programs

@@ -3,9 +3,9 @@ title: "Section 401 - Amounts collected from defaulting contractors and their su
 usc_title: 43
 usc_section: "401"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 401"
-generated_at: "2026-03-29T19:31:49.045Z"
+generated_at: "2026-03-29T19:59:41.385Z"
 ---
 
 # § 401. Amounts collected from defaulting contractors and their sureties

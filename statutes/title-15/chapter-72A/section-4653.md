@@ -3,9 +3,9 @@ title: "Section 4653 - Department of Defense"
 usc_title: 15
 usc_section: "4653"
 chapter: 72
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 4653"
-generated_at: "2026-03-29T19:44:42.891Z"
+generated_at: "2026-03-29T19:58:17.841Z"
 ---
 
 # § 4653. Department of Defense
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T19:44:42.891Z"
     - **(B)** have demonstrated an ongoing commitment to performing contracts for the Department of Defense and the intelligence community;
     - **(C)** are approved by the Defense Counterintelligence and Security Agency or the Office of the Director of National Intelligence as presenting an acceptable security risk, taking into account supply chain assurance vulnerabilities, counterintelligence risks, and any risks presented by companies whose beneficial owners are located outside the United States; and
     - **(D)** are evaluated periodically for foreign ownership, control, or influence by a foreign entity of concern.
-  - **(4)** Arrangements entered into to carry out paragraph (1) shall be in such form as the Secretary of Defense determines appropriate to encourage industry participation of nontraditional defense contractors or commercial entities and may include a contract, a grant, a cooperative agreement, a commercial agreement, the use of other transaction authority under section 2371 of title 10 or another such arrangement.
+  - **(4)** Arrangements entered into to carry out paragraph (1) shall be in such form as the Secretary of Defense determines appropriate to encourage industry participation of nontraditional defense contractors or commercial entities and may include a contract, a grant, a cooperative agreement, a commercial agreement, the use of other transaction authority under section 2371 2 2 See References in Text note below. of title 10 or another such arrangement.
   - **(5)** Subject to the availability of appropriations for such purposes, the Secretary of Defense—
     - **(A)** shall carry out paragraph (1) jointly through the Office of the Under Secretary of Defense for Research and Engineering and the Office of the Under Secretary of Defense for Acquisition and Sustainment; and
     - **(B)** may carry out paragraph (1) in collaboration with any such other component of the Department of Defense as the Secretary of Defense considers appropriate.

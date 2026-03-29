@@ -3,9 +3,9 @@ title: "Section 7101 - General provisions"
 usc_title: 20
 usc_section: "7101"
 chapter: 70
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 7101"
-generated_at: "2026-03-29T19:41:03.409Z"
+generated_at: "2026-03-29T19:58:56.900Z"
 ---
 
 # § 7101. General provisions

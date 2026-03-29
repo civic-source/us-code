@@ -3,9 +3,9 @@ title: "Section 7447A - Retirement for special trial judges"
 usc_title: 26
 usc_section: "7447A"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 7447A"
-generated_at: "2026-03-29T02:14:01.386Z"
+generated_at: "2026-03-29T19:59:49.655Z"
 ---
 
 # § 7447A. Retirement for special trial judges

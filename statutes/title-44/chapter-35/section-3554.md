@@ -3,9 +3,9 @@ title: "Section 3554 - Federal agency responsibilities"
 usc_title: 44
 usc_section: "3554"
 chapter: 35
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "44 U.S.C. § 3554"
-generated_at: "2026-03-29T19:30:59.124Z"
+generated_at: "2026-03-29T19:59:33.834Z"
 ---
 
 # § 3554. Federal agency responsibilities
@@ -15,12 +15,13 @@ generated_at: "2026-03-29T19:30:59.124Z"
     - **(A)** providing information security protections commensurate with the risk and magnitude of the harm resulting from unauthorized access, use, disclosure, disruption, modification, or destruction of—
       - **(i)** information collected or maintained by or on behalf of the agency; and
       - **(ii)** information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency;
-    - **(B)** complying with the requirements of this subchapter and related policies, procedures, standards, and guidelines, including—
+    - **(B)** complying with the requirements of this subchapter, subchapter III of chapter 13 of title 41, and related policies, procedures, standards, and guidelines, including—
       - **(i)** information security standards promulgated under section 11331 of title 40 ;
       - **(ii)** operational directives developed by the Secretary under section 3553(b);
       - **(iii)** policies and procedures issued by the Director;
-      - **(iv)** information security standards and guidelines for national security systems issued in accordance with law and as directed by the President; and
+      - **(iv)** information security standards and guidelines for national security systems issued in accordance with law and as directed by the President;
       - **(v)** emergency directives issued by the Secretary under section 3553(h); and
+      - **(vi)** responsibilities relating to assessing and avoiding, mitigating, transferring, or accepting supply chain risks under section 1326 of title 41 , and complying with exclusion and removal orders issued under section 1323 of such title; and
     - **(C)** ensuring that information security management processes are integrated with agency strategic, operational, and budgetary planning processes;
   - **(2)** ensure that senior agency officials provide information security for the information and information systems that support the operations and assets under their control, including through—
     - **(A)** assessing the risk and magnitude of the harm that could result from the unauthorized access, use, disclosure, disruption, modification, or destruction of such information or information systems;

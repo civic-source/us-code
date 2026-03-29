@@ -1,18 +1,12 @@
 ---
-title: "Section 13941 - Training programs"
+title: "Section 13941 - Transferred"
 usc_title: 42
 usc_section: "13941"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 13941"
-generated_at: "2026-03-29T19:31:45.747Z"
+generated_at: "2026-03-29T20:00:55.491Z"
 ---
 
-# § 13941. Training programs
+# § 13941. Transferred
 
-- **(a)** The Attorney General, after consultation with victim advocates and individuals who have expertise in treating sex offenders, shall establish criteria and develop training programs to assist probation and parole officers and other personnel who work with released sex offenders in the areas of—
-  - **(1)** case management;
-  - **(2)** supervision; and
-  - **(3)** relapse prevention.
-- **(b)** The Attorney General shall ensure, to the extent practicable, that training programs developed under subsection (a) are available in geographically diverse locations throughout the country.
-- **(c)** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2014 through 2018.

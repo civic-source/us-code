@@ -3,9 +3,9 @@ title: "Section 4512 - Agency awards for cost savings disclosures"
 usc_title: 5
 usc_section: "4512"
 chapter: 45
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 4512"
-generated_at: "2026-03-29T19:43:20.346Z"
+generated_at: "2026-03-29T19:57:14.897Z"
 ---
 
 # § 4512. Agency awards for cost savings disclosures

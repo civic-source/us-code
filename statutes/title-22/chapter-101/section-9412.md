@@ -3,15 +3,15 @@ title: "Section 9412 - Report and annual briefing on Iranian expenditures suppor
 usc_title: 22
 usc_section: "9412"
 chapter: 101
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 9412"
-generated_at: "2026-03-29T19:42:08.309Z"
+generated_at: "2026-03-29T19:59:24.343Z"
 ---
 
 # § 9412. Report and annual briefing on Iranian expenditures supporting foreign military and terrorist activities
 
 - **(a)**
-  - **(1)** Not later than 90 days after December 20, 2019 , the Director of National Intelligence shall submit to the congressional intelligence committees a report, and not less frequently than once each year thereafter provide a briefing to Congress, describing Iranian expenditures in the previous calendar year on military and terrorist activities outside the country, including each of the following:
+  - **(1)** Not later than 90 days after December 20, 2019 , the Director of National Intelligence shall submit to the congressional intelligence committees a report describing Iranian expenditures in the previous calendar year on military and terrorist activities outside the country, including each of the following:
     - **(A)** The amount spent in such calendar year on activities by the Islamic Revolutionary Guard Corps, including activities providing support for—
       - **(i)** Hizballah;
       - **(ii)** Houthi rebels in Yemen;

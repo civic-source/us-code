@@ -3,9 +3,9 @@ title: "Section 204a - Deployment readiness"
 usc_title: 42
 usc_section: "204a"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 204a"
-generated_at: "2026-03-29T19:31:44.157Z"
+generated_at: "2026-03-29T20:00:53.681Z"
 ---
 
 # § 204a. Deployment readiness
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:31:44.157Z"
 - **(a)**
   - **(1)** The Secretary, with respect to members of the following Corps components, shall establish requirements, including training and medical examinations, to ensure the readiness of such components to respond to urgent or emergency public health care needs that cannot otherwise be met at the Federal, State, and local levels:
     - **(A)** Active duty Regular Corps.
-    - **(B)** Active Reserves.
+    - **(B)** Ready Reserve Corps.
   - **(2)** The Secretary shall annually determine whether each member of the Corps meets the applicable readiness requirements established under paragraph (1).
   - **(3)** A member of the Corps who fails to meet or maintain the readiness requirements established under paragraph (1) or who fails to comply with orders to respond to an urgent or emergency public health care need shall, except as provided in paragraph (4), in accordance with procedures established by the Secretary, be subject to disciplinary action as prescribed by the Secretary.
   - **(4)**

@@ -1,16 +1,17 @@
 ---
-title: "Section 4814 - National technology and industrial base: annual report and quarterly briefings"
+title: "Section 4814 - National technology and industrial base: biennial report"
 usc_title: 10
 usc_section: "4814"
 chapter: 382
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 4814"
-generated_at: "2026-03-29T19:43:38.072Z"
+generated_at: "2026-03-29T19:58:02.266Z"
 ---
 
-# § 4814. National technology and industrial base: annual report and quarterly briefings
+# § 4814. National technology and industrial base: biennial report
 
-- **(a)** The Secretary of Defense shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives by March 1 of each year a report which shall include the following information:
+The Secretary of Defense shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives by March 1 of each odd-numbered year a report which shall include the following information:
+
   - **(1)** A description of the departmental guidance prepared pursuant to section 4811(c) of this title .
   - **(2)** A description of the assessments prepared pursuant to section 4816 of this title and other analyses used in developing the budget submission of the Department of Defense for the next fiscal year.
   - **(3)** Based on the strategy required by section 4811 of this title and on the assessments prepared pursuant to Executive order or section 4816 of this title —
@@ -24,9 +25,3 @@ generated_at: "2026-03-29T19:43:38.072Z"
   - **(5)** A detailed description of any use by the Secretary of Defense or a Secretary concerned, as applicable, during the prior 12 months of a waiver or exception to the sourcing requirements or prohibitions established by chapter 83 of title 41 or chapter 385 of this title, including—
     - **(A)** the type of waiver or exception used; and
     - **(B)** the reasoning for the use of each such waiver or exception.
-- **(b)**
-  - **(1)** The Secretary of Defense shall ensure that the congressional defense committees receive quarterly briefings on the industrial base supporting the Department of Defense, describing challenges, gaps, and vulnerabilities in the defense industrial base and commercial sector relevant to execution of defense missions, and describing initiatives to address such challenges.
-  - **(2)** Each briefing under paragraph (1) shall include an update on the progress of addressing such gaps or vulnerabilities by the Secretary, the Secretary of the military department concerned, or the appropriate head of a Defense Agency, including an update on—
-    - **(A)** actions taken to address such gaps or vulnerabilities;
-    - **(B)** policy changes necessary to address such gaps or vulnerabilities; and
-    - **(C)** the proposed timeline for action and resources required to address such gaps or vulnerabilities.

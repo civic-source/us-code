@@ -3,9 +3,9 @@ title: "Section 6471 - Program evaluations"
 usc_title: 20
 usc_section: "6471"
 chapter: 70
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 6471"
-generated_at: "2026-03-29T19:41:03.399Z"
+generated_at: "2026-03-29T19:58:56.888Z"
 ---
 
 # § 6471. Program evaluations

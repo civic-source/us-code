@@ -3,9 +3,9 @@ title: "Section 5534 - Response to consumer complaints and inquiries"
 usc_title: 12
 usc_section: "5534"
 chapter: 53
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 5534"
-generated_at: "2026-03-29T19:44:54.383Z"
+generated_at: "2026-03-29T19:58:41.132Z"
 ---
 
 # § 5534. Response to consumer complaints and inquiries

@@ -3,9 +3,9 @@ title: "Section 60553 - Addressing the needs of children of incarcerated parents
 usc_title: 34
 usc_section: "60553"
 chapter: 605
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 60553"
-generated_at: "2026-03-29T19:42:53.210Z"
+generated_at: "2026-03-29T20:00:27.533Z"
 ---
 
 # § 60553. Addressing the needs of children of incarcerated parents

@@ -3,9 +3,9 @@ title: "Section 835l - Congressional declaration of financial policy; limitation
 usc_title: 16
 usc_section: "835l"
 chapter: 12
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 835l"
-generated_at: "2026-03-29T19:41:13.638Z"
+generated_at: "2026-03-29T19:59:08.243Z"
 ---
 
 # § 835l. Congressional declaration of financial policy; limitations on assistance; analyses and studies; “net revenues” defined

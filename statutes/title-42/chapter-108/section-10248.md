@@ -3,9 +3,9 @@ title: "Section 10248 - Administrative powers of Negotiator"
 usc_title: 42
 usc_section: "10248"
 chapter: 108
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 10248"
-generated_at: "2026-03-29T19:31:45.576Z"
+generated_at: "2026-03-29T20:00:55.344Z"
 ---
 
 # § 10248. Administrative powers of Negotiator
@@ -21,4 +21,4 @@ In carrying out his functions under this subchapter, the Negotiator may—
   - **(7)** adopt an official seal, which shall be judicially noticed;
   - **(8)** use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States;
   - **(9)** hold such hearings as are necessary to determine the views of interested parties and the general public; and
-  - **(10)** appoint advisory committees under the Federal Advisory Committee Act (5 U.S.C. App.).
+  - **(10)** appoint advisory committees under chapter 10 of title 5.

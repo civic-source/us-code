@@ -3,9 +3,9 @@ title: "Section 331 - General bonus authority for enlisted members"
 usc_title: 37
 usc_section: "331"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "37 U.S.C. § 331"
-generated_at: "2026-03-29T19:43:17.243Z"
+generated_at: "2026-03-29T20:00:34.784Z"
 ---
 
 # § 331. General bonus authority for enlisted members
@@ -23,8 +23,8 @@ generated_at: "2026-03-29T19:43:17.243Z"
   - **(2)** to meet some other condition or conditions of service imposed by the Secretary concerned.
 - **(c)**
   - **(1)** The Secretary concerned shall determine the amount of a bonus to be paid under this section, except that—
-    - **(A)** a bonus paid under paragraph (1) or (2) of subsection (a) may not exceed $50,000 for a minimum two-year period of obligated service agreed to under subsection (d);
-    - **(B)** a bonus paid under paragraph (3) of subsection (a) may not exceed $30,000 for each year of obligated service in a regular component agreed to under subsection (d);
+    - **(A)** a bonus paid under paragraph (1) or (2) of subsection (a) may not exceed $75,000 for a minimum two-year period of obligated service agreed to under subsection (d);
+    - **(B)** a bonus paid under paragraph (3) of subsection (a) may not exceed $50,000 for each year of obligated service in a regular component agreed to under subsection (d);
     - **(C)** a bonus paid under paragraph (3) of subsection (a) may not exceed $15,000 for each year of obligated service in a reserve component agreed to under subsection (d); and
     - **(D)** a bonus paid under paragraph (4) or (5) of subsection (a) may not exceed $10,000.
   - **(2)** A bonus under this section may be paid in a lump sum or in periodic installments, as determined by the Secretary concerned.
@@ -37,4 +37,4 @@ generated_at: "2026-03-29T19:43:17.243Z"
 - **(e)** A bonus paid to a person or member under this section is in addition to any other pay and allowance to which the person or member is entitled.
 - **(f)** A bonus authorized under this section is not a bounty for purposes of section 514(a) of title 10 .
 - **(g)** A person or member who receives a bonus under this section and who fails to complete the period of service, or meet the conditions of service, for which the bonus is paid, as specified in the written agreement under subsection (d), shall be subject to the repayment provisions of section 373 of this title .
-- **(h)** No agreement may be entered into under this section after December 31, 2022 .
+- **(h)** No agreement may be entered into under this section after December 31, 2025 .

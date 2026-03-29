@@ -1,14 +1,12 @@
 ---
-title: "Section 72 - Abrogation of treaties"
+title: "Section 72 - Repealed. Pub. L. 117–317, § 2(1) , Dec. 27, 2022 , 136 Stat. 4419"
 usc_title: 25
 usc_section: "72"
 chapter: 3
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 72"
-generated_at: "2026-03-29T19:41:28.332Z"
+generated_at: "2026-03-29T19:59:16.275Z"
 ---
 
-# § 72. Abrogation of treaties
-
-Whenever the tribal organization of any Indian tribe is in actual hostility to the United States, the President is authorized, by proclamation, to declare all treaties with such tribe abrogated by such tribe if in his opinion the same can be done consistently with good faith and legal and national obligations.
+# § 72. Repealed. Pub. L. 117–317, § 2(1) , Dec. 27, 2022 , 136 Stat. 4419
 

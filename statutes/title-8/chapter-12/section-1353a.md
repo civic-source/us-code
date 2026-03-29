@@ -3,9 +3,9 @@ title: "Section 1353a - Officers and employees; overtime services; extra compens
 usc_title: 8
 usc_section: "1353a"
 chapter: 12
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "8 U.S.C. § 1353a"
-generated_at: "2026-03-29T19:43:45.703Z"
+generated_at: "2026-03-29T19:57:30.802Z"
 ---
 
 # § 1353a. Officers and employees; overtime services; extra compensation; length of working day

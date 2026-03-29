@@ -3,14 +3,14 @@ title: "Section 1091c - Readmission requirements for servicemembers"
 usc_title: 20
 usc_section: "1091c"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 1091c"
-generated_at: "2026-03-29T19:41:03.252Z"
+generated_at: "2026-03-29T19:58:56.728Z"
 ---
 
 # § 1091c. Readmission requirements for servicemembers
 
-- **(a)** In this section, the term “service in the uniformed services” means service (whether voluntary or involuntary) on active duty in the Armed Forces, including such service by a member of the National Guard or Reserve, for a period of more than 30 days under a call or order to active duty of more than 30 days.
+- **(a)** In this section, the term “service in the uniformed services” means service (whether voluntary or involuntary) on active duty in the Armed Forces, including such service by a member of the National Guard or Reserve.
 - **(b)** A person who is a member of, applies to be a member of, performs, has performed, applies to perform, or has an obligation to perform, service in the uniformed services shall not be denied readmission to an institution of higher education on the basis of that membership, application for membership, performance of service, application for service, or obligation.
 - **(c)**
   - **(1)** Any student whose absence from an institution of higher education is necessitated by reason of service in the uniformed services shall be entitled to readmission to the institution of higher education if—

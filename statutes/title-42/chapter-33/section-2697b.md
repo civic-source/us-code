@@ -1,12 +1,12 @@
 ---
-title: "Section 2697b - Repealed. Pub. L. 94–103, title III , § 302(c), Oct. 4, 1975 , 89 Stat. 507"
+title: "Section 2697b - Repealed. Pub. L. 94–103, title III, § 302(c) , Oct. 4, 1975 , 89 Stat. 507"
 usc_title: 42
 usc_section: "2697b"
 chapter: 33
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2697b"
-generated_at: "2026-03-29T19:31:45.051Z"
+generated_at: "2026-03-29T20:00:54.820Z"
 ---
 
-# §§ 2693 to 2697b. Repealed. Pub. L. 94–103, title III , § 302(c), Oct. 4, 1975 , 89 Stat. 507
+# §§ 2693 to 2697b. Repealed. Pub. L. 94–103, title III, § 302(c) , Oct. 4, 1975 , 89 Stat. 507
 

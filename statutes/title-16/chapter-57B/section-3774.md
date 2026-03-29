@@ -3,12 +3,12 @@ title: "Section 3774 - Authorization of appropriations"
 usc_title: 16
 usc_section: "3774"
 chapter: 57
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 3774"
-generated_at: "2026-03-29T19:41:13.807Z"
+generated_at: "2026-03-29T19:59:08.426Z"
 ---
 
 # § 3774. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this chapter not more than $75,000,000 for each of fiscal years 2019 through 2023.
+There is authorized to be appropriated to carry out this chapter not more than $75,000,000 for each of fiscal years 2025 through 2029.
 

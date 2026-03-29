@@ -3,9 +3,9 @@ title: "Section 420 - Information on websites of Offices of Inspectors General"
 usc_title: 5
 usc_section: "420"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 420"
-generated_at: "2026-03-29T02:10:01.768Z"
+generated_at: "2026-03-29T19:57:14.845Z"
 ---
 
 # § 420. Information on websites of Offices of Inspectors General

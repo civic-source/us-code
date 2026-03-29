@@ -3,9 +3,9 @@ title: "Section 2361 - Completion of plans and cost estimates"
 usc_title: 22
 usc_section: "2361"
 chapter: 32
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2361"
-generated_at: "2026-03-29T19:42:08.081Z"
+generated_at: "2026-03-29T19:59:24.104Z"
 ---
 
 # § 2361. Completion of plans and cost estimates

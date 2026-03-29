@@ -1,14 +1,25 @@
 ---
-title: "Section 2a - Medical treatment of narcotics addiction; report to Congress"
+title: "Section 2a - Peer support technical assistance center"
 usc_title: 42
 usc_section: "2a"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-29T19:31:44.304Z"
+generated_at: "2026-03-29T20:00:53.909Z"
 ---
 
-# § 290bb–2a. Medical treatment of narcotics addiction; report to Congress
+# § 290ee–2a. Peer support technical assistance center
 
-The Secretary of Health and Human Services, after consultation with the Attorney General and with national organizations representative of persons with knowledge and experience in the treatment of narcotic addicts, shall determine the appropriate methods of professional practice in the medical treatment of the narcotic addiction of various classes of narcotic addicts, and shall report thereon from time to time to the Congress.
-
+- **(a)** The Secretary, acting through the Assistant Secretary, shall establish or operate a National Peer-Run Training and Technical Assistance Center for Addiction Recovery Support (referred to in this section as the “Center”).
+- **(b)** The Center established under subsection (a) shall provide technical assistance and support to recovery community organizations and peer support networks, including such assistance and support related to—
+  - **(1)** training on identifying—
+    - **(A)** signs of substance use disorder;
+    - **(B)** resources to assist individuals with a substance use disorder, or resources for families of an individual with a substance use disorder; and
+    - **(C)** best practices for the delivery of recovery support services;
+  - **(2)** the provision of translation services, interpretation, or other such services for clients with limited English speaking proficiency;
+  - **(3)** data collection to support research, including for translational research;
+  - **(4)** capacity building; and
+  - **(5)** evaluation and improvement, as necessary, of the effectiveness of such services provided by recovery community organizations.
+- **(c)** The Center established under subsection (a) shall periodically issue best practices for use by recovery community organizations and peer support networks.
+- **(d)** In this section, the term “recovery community organization” has the meaning given such term in section 290ee–2 of this title .
+- **(e)** There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2019 through 2023.

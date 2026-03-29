@@ -1,14 +1,12 @@
 ---
-title: "Section 14037 - Recommendations on intrastate communication"
+title: "Section 14037 - Transferred"
 usc_title: 42
 usc_section: "14037"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14037"
-generated_at: "2026-03-29T19:31:45.750Z"
+generated_at: "2026-03-29T20:00:55.491Z"
 ---
 
-# § 14037. Recommendations on intrastate communication
-
-The State Justice Institute, after consultation with nationally recognized nonprofit associations with expertise in data sharing among criminal justice agencies and familiarity with the issues raised in stalking and domestic violence cases, shall recommend proposals regarding how State courts may increase intrastate communication between civil and criminal courts.
+# § 14037. Transferred
 

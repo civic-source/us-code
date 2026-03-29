@@ -3,9 +3,9 @@ title: "Section 2460 - Bureau of Educational and Cultural Affairs"
 usc_title: 22
 usc_section: "2460"
 chapter: 33
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2460"
-generated_at: "2026-03-29T19:42:08.099Z"
+generated_at: "2026-03-29T19:59:24.122Z"
 ---
 
 # § 2460. Bureau of Educational and Cultural Affairs
@@ -18,8 +18,10 @@ generated_at: "2026-03-29T19:42:08.099Z"
   - **(5)** the American Overseas Schools Program which provides financial assistance to the operations of American-sponsored schools overseas;
   - **(6)** the American Studies Program which fosters and supports the study of the United States, and its people and culture, in foreign countries;
   - **(7)** a program of working with private, not-for-profit groups through contracts, grants, or cooperative agreements, as authorized by section 2452 of this title , so as to provide financial assistance to nongovernmental organizations engaged in implementing and enhancing exchange-of-persons programs;
-  - **(8)** the Samantha Smith Memorial Exchange Program which advances understanding between the United States and the independent states of the former Soviet Union and between the United States and Eastern European countries through the exchange of persons under the age of 21 years and of students at an institution of higher education (as defined in section 1001 of title 20 ) who have not received their initial baccalaureate degree or through other programs designed to promote contact between the young peoples of the United States, the independent states of the former Soviet Union, and Eastern European countries; and
-  - **(9)** the Arts America program which promotes a greater appreciation and understanding of American art abroad by supporting exhibitions and tours by American artists in other countries.
+  - **(8)** the Samantha Smith Memorial Exchange Program which advances understanding between the United States and the independent states of the former Soviet Union and between the United States and Eastern European countries through the exchange of persons under the age of 21 years and of students at an institution of higher education (as defined in section 1001 of title 20 ) who have not received their initial baccalaureate degree or through other programs designed to promote contact between the young peoples of the United States, the independent states of the former Soviet Union, and Eastern European countries;
+  - **(9)** the Arts America program which promotes a greater appreciation and understanding of American art abroad by supporting exhibitions and tours by American artists in other countries; and
+  - **(10)** 1 1 So in original. Two pars. (10) have been enacted. exchange programs, including in coordination and consultation with the private sector, focused on music and the performing arts that provide opportunities for foreign nationals and Americans to build cross-cultural understanding and advance peace abroad.
+  - **(10)** 1 the John Lewis Civil Rights Fellowship Program established under section 2465 of this title , which provides funding for international internships and research placements for early- to mid-career individuals from the United States to study nonviolent civil rights movements in self-arranged placements with universities or nongovernmental organizations in foreign countries.
 - **(b)**
   - **(1)** All recipients of Fulbright Academic Exchange and Humphrey Fellowship awards shall have full academic and artistic freedom, including freedom to write, publish, and create. No award granted pursuant to this chapter may be revoked or diminished on account of the political views expressed by the recipient or on account of any scholarly or artistic activity that would be subject to the protections of academic and artistic freedom normally observed in universities in the United States. The Board shall ensure that the academic and artistic freedoms of all persons receiving grants are protected.
   - **(2)** The J. William Fulbright Foreign Scholarship Board shall formulate a policy on revocation of Fulbright grants which shall be made known to all grantees. Such policy shall fully protect the right to due process as well as the academic and artistic freedom of all grantees.

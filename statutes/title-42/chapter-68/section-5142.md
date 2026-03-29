@@ -1,12 +1,12 @@
 ---
-title: "Section 5142 - Repealed. Pub. L. 100–707, title I , § 105(a)(2), Nov. 23, 1988 , 102 Stat. 4691"
+title: "Section 5142 - Repealed. Pub. L. 100–707, title I, § 105(a)(2) , Nov. 23, 1988 , 102 Stat. 4691"
 usc_title: 42
 usc_section: "5142"
 chapter: 68
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5142"
-generated_at: "2026-03-29T19:31:45.201Z"
+generated_at: "2026-03-29T20:00:54.948Z"
 ---
 
-# § 5142. Repealed. Pub. L. 100–707, title I , § 105(a)(2), Nov. 23, 1988 , 102 Stat. 4691
+# § 5142. Repealed. Pub. L. 100–707, title I, § 105(a)(2) , Nov. 23, 1988 , 102 Stat. 4691
 

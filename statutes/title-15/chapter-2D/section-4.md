@@ -3,9 +3,9 @@ title: "Section 4 - Reports by investment advisers"
 usc_title: 15
 usc_section: "4"
 chapter: 2
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-29T19:44:42.579Z"
+generated_at: "2026-03-29T19:58:17.364Z"
 ---
 
 # § 80b–4. Reports by investment advisers
@@ -59,6 +59,9 @@ generated_at: "2026-03-29T19:44:42.579Z"
     - **(B)** This subsection shall apply to any investment adviser (and the persons associated with that adviser), whether the investment adviser is registered with the Commission under section 80b–3 of this title or regulated solely by a State, as described in section 80b–3a of this title .
   - **(2)** An entity designated by the Commission under subsection (b)(1) may charge persons making inquiries, other than individual investors, reasonable fees for responses to inquiries described in paragraph (1).
   - **(3)** An entity designated by the Commission under subsection (b)(1) shall not have any liability to any person for any actions taken or omitted in good faith under this subsection.
-- **(d)**
+- **(e)**
   - **(1)** Records of persons having custody or use of the securities, deposits, or credits of a client, that relate to such custody or use, are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations and other information and document requests by representatives of the Commission, as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
   - **(2)** Any person that is subject to regulation and examination by a Federal financial institution regulatory agency (as such term is defined under section 212(c)(2) of title 18 ) may satisfy any examination request, information request, or document request described under paragraph (1), by providing the Commission with a detailed listing, in writing, of the securities, deposits, or credits of the client within the custody or use of such person.
+- **(f)**
+  - **(1)** The Commission shall, by rule, adopt data standards for all reports filed by investment advisers with the Commission under this section.
+  - **(2)** The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12 , including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.

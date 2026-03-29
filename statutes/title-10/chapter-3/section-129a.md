@@ -3,9 +3,9 @@ title: "Section 129a - General policy for total force management"
 usc_title: 10
 usc_section: "129a"
 chapter: 3
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 129a"
-generated_at: "2026-03-29T19:43:37.772Z"
+generated_at: "2026-03-29T19:58:01.928Z"
 ---
 
 # § 129a. General policy for total force management
@@ -14,7 +14,9 @@ generated_at: "2026-03-29T19:43:37.772Z"
 - **(b)** In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces takes precedence over cost. The Secretary may not reduce the civilian workforce programmed full-time equivalent levels unless the Secretary conducts an appropriate analysis of the impacts of such reductions on workload, military force structure, lethality, readiness, operational effectiveness, stress on the military force, and fully burdened costs.
 - **(c)** The Secretary shall delegate responsibility for implementation of the policies and procedures established under subsection (a) as follows:
   - **(1)** The Under Secretary of Defense for Personnel and Readiness shall have overall responsibility for guidance to implement such policies and procedures.
-  - **(2)** The Secretaries of the military departments and the heads of the Defense Agencies shall have overall responsibility for the requirements determination, planning, programming, and budgeting for such policies and procedures.
+  - **(2)** The Secretaries of the military departments and the heads of the Defense Agencies shall have overall responsibility for the requirements determination, planning, programming, and budgeting for such policies and procedures. The Secretary of Defense shall ensure that the requirements determination, planning, programming, and budgeting conducted under this paragraph considers all components of the total force (including active and reserve military, the civilian workforce, and contract support) in a holistic manner—
+    - **(A)** to avoid duplication of efforts and waste of resources attributable to a component working outside the scope of its responsibilities; and
+    - **(B)** to ensure that risk, cost, and mission validation and prioritization considerations are consistent with the national defense strategy.
   - **(3)** The Under Secretary of Defense for Acquisition and Sustainment shall be responsible for ensuring that the defense acquisition system, as defined in section 3001 of this title , is consistent with such policies and procedures and with implementation pursuant to paragraph (1).
   - **(4)** The Under Secretary of Defense (Comptroller) shall be responsible for ensuring that the budget for the Department of Defense is consistent with such policies and procedures. The Under Secretary shall notify the congressional defense committees of any deviations from such policies and procedures that are recommended in the budget.
 - **(d)** The policies and procedures established by the Secretary under subsection (a) shall specifically require the Department of Defense to use the following when making determinations regarding the appropriate workforce mix necessary to perform its mission:

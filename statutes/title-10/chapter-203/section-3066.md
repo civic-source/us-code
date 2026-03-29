@@ -3,9 +3,9 @@ title: "Section 3066 - Assignment and delegation of procurement functions and re
 usc_title: 10
 usc_section: "3066"
 chapter: 203
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3066"
-generated_at: "2026-03-29T19:43:38.031Z"
+generated_at: "2026-03-29T19:58:02.221Z"
 ---
 
 # § 3066. Assignment and delegation of procurement functions and responsibilities: procurements for or with other agencies

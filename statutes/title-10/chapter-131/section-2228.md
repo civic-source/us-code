@@ -3,9 +3,9 @@ title: "Section 2228 - Office of Corrosion Policy and Oversight"
 usc_title: 10
 usc_section: "2228"
 chapter: 131
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2228"
-generated_at: "2026-03-29T19:43:37.970Z"
+generated_at: "2026-03-29T19:58:02.150Z"
 ---
 
 # § 2228. Office of Corrosion Policy and Oversight
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T19:43:37.970Z"
   - **(6)** The Director shall ensure that contractors of the Department of Defense carrying out activities for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department of Defense employ for such activities a substantial number of individuals who have completed, or who are currently enrolled in, a qualified training program.
 - **(c)** The Director is authorized to—
   - **(1)** develop, update, and coordinate corrosion training with the Defense Acquisition University;
-  - **(2)** participate in the process within the Department of Defense for the development of relevant directives and instructions;; 1 1 So in original.
+  - **(2)** participate in the process within the Department of Defense for the development of relevant directives and instructions;
   - **(3)** interact directly with the corrosion prevention industry, trade associations, other government corrosion prevention agencies, academic research and educational institutions, and scientific organizations engaged in corrosion prevention, including the National Academy of Sciences; and
   - **(4)** require that any training or professional development activities for military personnel or civilian employees of the Department of Defense for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department of Defense are conducted under a qualified training program that trains and certifies individuals in meeting corrosion control standards that are recognized industry-wide.
 - **(d)**

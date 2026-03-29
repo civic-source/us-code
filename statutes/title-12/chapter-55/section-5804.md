@@ -3,9 +3,9 @@ title: "Section 5804 - Continuity of contract and safe harbor"
 usc_title: 12
 usc_section: "5804"
 chapter: 55
-current_through: "PL 117-200"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 5804"
-generated_at: "2026-03-29T18:48:16.850Z"
+generated_at: "2026-03-29T19:58:41.147Z"
 ---
 
 # § 5804. Continuity of contract and safe harbor
@@ -30,6 +30,6 @@ generated_at: "2026-03-29T18:48:16.850Z"
 - **(d)** The selection or use of a Board-selected benchmark replacement or the determination, implementation, or performance of benchmark replacement conforming changes under section 5803 of this title shall not be deemed to—
   - **(1)** be an amendment or modification of any LIBOR contract; or
   - **(2)** prejudice, impair, or affect the rights, interests, or obligations of any person under or with respect to any LIBOR contract.
-- **(e)** Except as provided in subsections (a), (b), or (c)(1) of section 5803 of this title , nothing in this chapter may be construed to create any negative inference or negative presumption regarding the validity or enforceability of—
+- **(e)** Except as provided in subsections 3 3 So in original. Probably should be “subsection”. (a), (b), or (c)(1) of section 5803 of this title , nothing in this chapter may be construed to create any negative inference or negative presumption regarding the validity or enforceability of—
   - **(1)** any benchmark replacement (including any method for calculating, determining, or implementing an adjustment to the benchmark replacement to account for any historical differences between LIBOR and the benchmark replacement) that is not a Board-selected benchmark replacement; or
   - **(2)** any changes, alterations, or modifications to or with respect to a LIBOR contract that are not benchmark replacement conforming changes.

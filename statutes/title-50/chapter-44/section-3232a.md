@@ -3,9 +3,9 @@ title: "Section 3232a - Measures to mitigate counterintelligence threats from pr
 usc_title: 50
 usc_section: "3232a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3232a"
-generated_at: "2026-03-29T02:16:14.780Z"
+generated_at: "2026-03-29T20:01:07.348Z"
 ---
 
 # § 3232a. Measures to mitigate counterintelligence threats from proliferation and use of foreign commercial spyware
@@ -24,7 +24,7 @@ generated_at: "2026-03-29T02:16:14.780Z"
     - **(D)** allow an unauthorized user access to and the ability to retrieve information on the electronic device, including text messages, files, e-mails, transcripts of chats, contacts, photos, and browsing history; or
     - **(E)** any additional criteria described in publicly available documents published by the Director of National Intelligence, such as whether the end-to-end system is used outside the context of a codified lawful intercept system.
 - **(b)**
-  - **(1)** Not later than 90 days after December 23, 2022 , and annually thereafter for seven years, the Director of National Intelligence, in coordination with the Director of the Central Intelligence Agency, the Director of the National Security Agency, and the Director of the Federal Bureau of Investigation, shall submit to the appropriate congressional committees a report with an accompanying classified annex containing an assessment of the counterintelligence threats and other risks to the national security of the United States posed by the proliferation of foreign commercial spyware. The assessment shall incorporate all credible data, including open-source information.
+  - **(1)** Not later than 90 days after December 23, 2022 , and annually thereafter, the Director of National Intelligence, in coordination with the Director of the Central Intelligence Agency, the Director of the National Security Agency, and the Director of the Federal Bureau of Investigation, shall submit to the appropriate congressional committees a report with an accompanying classified annex containing an assessment of the counterintelligence threats and other risks to the national security of the United States posed by the proliferation of foreign commercial spyware. The assessment shall incorporate all credible data, including open-source information.
   - **(2)** Each report under paragraph (1) shall include the following, if known:
     - **(A)** A list of the most significant covered entities.
     - **(B)** A description of the foreign commercial spyware marketed by the covered entities identified under subparagraph (A) and an assessment by the intelligence community of the foreign commercial spyware.

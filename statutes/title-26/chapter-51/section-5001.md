@@ -3,9 +3,9 @@ title: "Section 5001 - Imposition, rate, and attachment of tax"
 usc_title: 26
 usc_section: "5001"
 chapter: 51
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 5001"
-generated_at: "2026-03-29T19:42:47.915Z"
+generated_at: "2026-03-29T19:59:49.533Z"
 ---
 
 # § 5001. Imposition, rate, and attachment of tax
@@ -42,4 +42,16 @@ generated_at: "2026-03-29T19:42:47.915Z"
     - **(C)**
       - **(i)** For purposes of this section, any importer making an election described in subparagraph (B)(ii) shall be deemed to be a member of the controlled group of the distilled spirits operation, as described under paragraph (2).
       - **(ii)** For purposes of this paragraph, in the case of a controlled group, rules similar to section 5051(a)(5)(B) shall apply.
+  - **(4)**
+    - **(A)** In the case of any proof gallons of distilled spirits which have been produced outside the United States and imported into the United States, if such proof gallons of distilled spirits are removed after December 31, 2022 —
+      - **(i)** paragraph (1) shall not apply, and
+      - **(ii)** the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
+    - **(B)** The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—
+      - **(i)** the excess (if any) of—
+        - **(I)** the amount of tax imposed under this subpart on proof gallons of distilled spirits referred to in subparagraph (A) which were removed during such period, over
+        - **(II)** the amount of tax which would have been imposed under this subpart on such proof gallons of distilled spirits if this section were applied without regard to this paragraph, plus
+      - **(ii)** the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.
+    - **(C)** Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (3) and the proof gallons of distilled spirits have been assigned to the importer pursuant to such paragraph.
+    - **(D)** For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting “90 days” for “45 days” each place it appears.
+  - **(5)** A distilled spirit shall not be treated as processed for purposes of this subsection unless a process described in section 5002(a)(5)(A) (other than bottling) is performed with respect to such distilled spirit.
 - **(d)** For provisions relating to the tax on shipments to the United States of taxable articles from Puerto Rico and the Virgin Islands, see section 7652.

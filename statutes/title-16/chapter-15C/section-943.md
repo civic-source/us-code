@@ -3,9 +3,9 @@ title: "Section 943 - Tissue bank"
 usc_title: 16
 usc_section: "943"
 chapter: 15
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 943"
-generated_at: "2026-03-29T19:41:13.652Z"
+generated_at: "2026-03-29T19:59:08.259Z"
 ---
 
 # § 943. Tissue bank

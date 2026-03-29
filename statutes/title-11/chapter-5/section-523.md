@@ -3,9 +3,9 @@ title: "Section 523 - Exceptions to discharge"
 usc_title: 11
 usc_section: "523"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "11 U.S.C. § 523"
-generated_at: "2026-03-29T19:44:19.524Z"
+generated_at: "2026-03-29T19:58:09.460Z"
 ---
 
 # § 523. Exceptions to discharge
@@ -66,7 +66,8 @@ generated_at: "2026-03-29T19:44:19.524Z"
     - **(B)** results, before, on, or after the date on which the petition was filed, from—
       - **(i)** any judgment, order, consent order, or decree entered in any Federal or State judicial or administrative proceeding;
       - **(ii)** any settlement agreement entered into by the debtor; or
-      - **(iii)** any court or administrative order for any damages, fine, penalty, citation, restitutionary payment, disgorgement payment, attorney fee, cost, or other payment owed by the debtor.
+      - **(iii)** any court or administrative order for any damages, fine, penalty, citation, restitutionary payment, disgorgement payment, attorney fee, cost, or other payment owed by the debtor; or
+  - **(20)** for injury to an individual by the debtor relating to a violation of chapter 77 of title 18, including injury caused by an instance in which the debtor knowingly benefitted financially, or by receiving anything of value, from participation in a venture that the debtor knew or should have known engaged in an act in violation of chapter 77 of title 18.
 - **(b)** Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A 3 3 See References in Text note below. of the Higher Education Act of 1965, or under section 733(g) 3 of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
 - **(c)**
   - **(1)** Except as provided in subsection (a)(3)(B) of this section, the debtor shall be discharged from a debt of a kind specified in paragraph (2), (4), or (6) of subsection (a) of this section, unless, on request of the creditor to whom such debt is owed, and after notice and a hearing, the court determines such debt to be excepted from discharge under paragraph (2), (4), or (6), as the case may be, of subsection (a) of this section.

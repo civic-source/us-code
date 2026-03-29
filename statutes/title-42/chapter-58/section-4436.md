@@ -1,12 +1,12 @@
 ---
-title: "Section 4436 - Repealed. Pub. L. 93–288, title VII , § 703, formerly title VI, § 603, May 22, 1974 , 88 Stat. 164 ; renumbered title VII, § 703, Pub. L. 103–337, div. C, title XXXIV , § 3411(a)(1), (2), Oct. 5, 1994 , 108 Stat. 3100"
+title: "Section 4436 - Repealed. Pub. L. 93–288, title VII, § 703 , formerly title VI, § 603, May 22, 1974 , 88 Stat. 164 ; renumbered title VII, § 703, Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1) , (2), Oct. 5, 1994 , 108 Stat. 3100"
 usc_title: 42
 usc_section: "4436"
 chapter: 58
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4436"
-generated_at: "2026-03-29T19:31:45.165Z"
+generated_at: "2026-03-29T20:00:54.916Z"
 ---
 
-# §§ 4431 to 4436. Repealed. Pub. L. 93–288, title VII , § 703, formerly title VI, § 603, May 22, 1974 , 88 Stat. 164 ; renumbered title VII, § 703, Pub. L. 103–337, div. C, title XXXIV , § 3411(a)(1), (2), Oct. 5, 1994 , 108 Stat. 3100
+# §§ 4431 to 4436. Repealed. Pub. L. 93–288, title VII, § 703 , formerly title VI, § 603, May 22, 1974 , 88 Stat. 164 ; renumbered title VII, § 703, Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1) , (2), Oct. 5, 1994 , 108 Stat. 3100
 

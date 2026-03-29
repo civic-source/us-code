@@ -3,9 +3,9 @@ title: "Section 22 - Thirteenth replenishment"
 usc_title: 22
 usc_section: "22"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 22"
-generated_at: "2026-03-29T19:42:07.988Z"
+generated_at: "2026-03-29T19:59:24.014Z"
 ---
 
 # § 290g–22. Thirteenth replenishment

@@ -3,9 +3,9 @@ title: "Section 2346a - Real estate administrative fees"
 usc_title: 33
 usc_section: "2346a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2346a"
-generated_at: "2026-03-29T02:14:18.630Z"
+generated_at: "2026-03-29T20:00:31.408Z"
 ---
 
 # § 2346a. Real estate administrative fees

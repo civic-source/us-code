@@ -3,9 +3,9 @@ title: "Section 269 - Permanent International Association of Road Congresses; au
 usc_title: 22
 usc_section: "269"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 269"
-generated_at: "2026-03-29T19:42:07.945Z"
+generated_at: "2026-03-29T19:59:23.969Z"
 ---
 
 # § 269. Permanent International Association of Road Congresses; authorization of membership

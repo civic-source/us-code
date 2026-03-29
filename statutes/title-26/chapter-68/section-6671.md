@@ -3,9 +3,9 @@ title: "Section 6671 - Rules for application of assessable penalties"
 usc_title: 26
 usc_section: "6671"
 chapter: 68
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 6671"
-generated_at: "2026-03-29T19:42:47.998Z"
+generated_at: "2026-03-29T19:59:49.634Z"
 ---
 
 # § 6671. Rules for application of assessable penalties

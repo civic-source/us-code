@@ -3,9 +3,9 @@ title: "Section 7401 - Appointments in Veterans Health Administration"
 usc_title: 38
 usc_section: "7401"
 chapter: 74
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 7401"
-generated_at: "2026-03-29T19:43:27.081Z"
+generated_at: "2026-03-29T20:00:43.153Z"
 ---
 
 # § 7401. Appointments in Veterans Health Administration
@@ -14,7 +14,7 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
   - **(1)** Physicians, dentists, podiatrists, chiropractors, optometrists, registered nurses, physician assistants, and expanded-function dental auxiliaries.
   - **(2)** Scientific and professional personnel, such as microbiologists, chemists, and biostatisticians.
-  - **(3)** Audiologists, licensed hearing aid specialists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, and such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
+  - **(3)** Audiologists, licensed hearing aid specialists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, statisticians, economists, informaticists, data scientists, and and 1 1 So in original. such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
     - **(A)** Such other classes of health care occupations—
       - **(i)** are not occupations relating to administrative, clerical, or physical plant maintenance and protective services;
       - **(ii)** would otherwise receive basic pay in accordance with the General Schedule under section 5332 of title 5 ;

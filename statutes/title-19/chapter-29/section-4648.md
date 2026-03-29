@@ -3,9 +3,9 @@ title: "Section 4648 - Reports"
 usc_title: 19
 usc_section: "4648"
 chapter: 29
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 4648"
-generated_at: "2026-03-29T19:41:21.717Z"
+generated_at: "2026-03-29T19:58:51.873Z"
 ---
 
 # § 4648. Reports

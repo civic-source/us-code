@@ -3,9 +3,9 @@ title: "Section 2902 - Objectives of records management"
 usc_title: 44
 usc_section: "2902"
 chapter: 29
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "44 U.S.C. § 2902"
-generated_at: "2026-03-29T19:30:59.117Z"
+generated_at: "2026-03-29T19:59:33.826Z"
 ---
 
 # § 2902. Objectives of records management
@@ -18,4 +18,4 @@ It is the purpose of this chapter, and chapters 21, 31, and 33 of this title, to
   - **(4)** Simplification of the activities, systems, and processes of records creation, maintenance, transfer, and use.
   - **(5)** Judicious preservation and disposal of records.
   - **(6)** Direction of continuing attention on records from their initial creation to their final disposition, with particular emphasis on the prevention of unnecessary Federal paperwork and the transfer of records from Federal agencies to the National Archives of the United States in digital or electronic form to the greatest extent possible.
-  - **(7)** Establishment and maintenance of such other systems or techniques as the Archivist considers necessary to carry out the purposes of this chapter, and chapters 21, 31, and 33 of this title.
+  - **(7)** Establishment and maintenance of such other systems or techniques as the Archivist or the Administrator considers necessary to carry out the purposes of this chapter, and chapters 21, 31, and 33 of this title.

@@ -1,14 +1,12 @@
 ---
-title: "Section 1243 - Authorization of appropriations"
+title: "Section 1243 - Transferred"
 usc_title: 43
 usc_section: "1243"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1243"
-generated_at: "2026-03-29T19:31:49.095Z"
+generated_at: "2026-03-29T19:59:41.434Z"
 ---
 
-# § 1243. Authorization of appropriations
-
-There are hereby authorized to be appropriated to departments or agencies of the Federal Government such sums as the Congress may determine to be necessary to carry out the purposes of this subchapter.
+# § 1243. Transferred
 

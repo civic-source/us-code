@@ -3,9 +3,9 @@ title: "Section 10303 - Water resources research and technology institutes"
 usc_title: 42
 usc_section: "10303"
 chapter: 109
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 10303"
-generated_at: "2026-03-29T19:31:45.579Z"
+generated_at: "2026-03-29T20:00:55.345Z"
 ---
 
 # § 10303. Water resources research and technology institutes
@@ -16,18 +16,25 @@ generated_at: "2026-03-29T19:31:45.579Z"
     - **(A)** improvements in water supply reliability;
     - **(B)** the exploration of new ideas that—
       - **(i)** address water problems; or
-      - **(ii)** expand understanding of water and water-related phenomena;
+      - **(ii)** expand understanding of water and water resources;
     - **(C)** the entry of new research scientists, engineers, and technicians into water resources fields; and
-    - **(D)** the dissemination of research results to water managers and the public. 1 1 So in original. The period probably should be “, and”.
+    - **(D)** the dissemination of research results to water managers and the public; and
   - **(2)** cooperate closely with other colleges and universities in the State that have demonstrated capabilities for research, information dissemination, and graduate training in order to develop a statewide program designed to resolve State and regional water and related land problems.
-- **(c)** From the sums appropriated pursuant to subsection (f) of this section, the Secretary shall make grants to each institute to be matched on a basis of no less than 2 non-Federal dollars for every 1 Federal dollar, such sums to be used only for the reimbursement of the direct cost expenditures incurred for the conduct of the water resources research program.
+- **(c)**
+  - **(1)** From the sums appropriated pursuant to subsection (f), the Secretary shall make grants to each institute to be matched on a basis of no less than 1 non-Federal dollar for every 1 Federal dollar.
+  - **(2)** Not later than December 31 of each fiscal year, the Secretary shall submit to the Committee on Environment and Public Works of the Senate, the Committee on the Budget of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on the Budget of the House of Representatives a report regarding the compliance of each funding recipient with this subsection for the immediately preceding fiscal year.
 - **(d)** Prior to and as a condition of the receipt each fiscal year of funds appropriated under subsection (f) of this section, each institute shall submit to the Secretary for his approval a water research program that includes assurances, satisfactory to the Secretary, that such program was developed in close consultation and collaboration with the director of that State’s department of water resources or similar agency, other leading water resources officials within the State, and interested members of the public. The program described in the preceding sentence shall include plans to promote research, training, information dissemination, and other activities meeting the needs of the State and Nation, and shall encourage regional cooperation among institutes in research into areas of water management, development, and conservation that have a regional or national character.
-- **(e)** The Secretary shall conduct a careful and detailed evaluation of each institute at least once every 3 years to determine that the quality and relevance of its water resources research and its effectiveness at producing measured results and applied water supply research as an institution for planning, conducting, and arranging for research warrants its continued support under this section. If, as a result of any such evaluation, the Secretary determines that an institute does not qualify for further support under this section, then no further grants to the institute may be made until the institute’s qualifications are reestablished to the satisfaction of the Secretary.
+- **(e)**
+  - **(1)** The Secretary shall conduct a careful and detailed evaluation of each institute at least once every 5 years to determine—
+    - **(A)** the quality and relevance of the water resources research of the institute;
+    - **(B)** the effectiveness of the institute at producing measured results and applied water supply research; and
+    - **(C)** whether the effectiveness of the institute as an institution for planning, conducting, and arranging for research warrants continued support under this section.
+  - **(2)** If, as a result of an evaluation under paragraph (1), the Secretary determines that an institute does not qualify for further support under this section, no further grants to the institute may be provided until the qualifications of the institute are reestablished to the satisfaction of the Secretary.
 - **(f)**
-  - **(1)** There is authorized to be appropriated to carry out this section, to remain available until expended, $12,000,000 for each of fiscal years 2007 through 2011.
+  - **(1)** There is authorized to be appropriated to carry out this section, to remain available until expended, $12,000,000 for each of fiscal years 2022 through 2025.
   - **(2)** Any sums appropriated under this subsection but which fail to be obligated by the close of the fiscal year for which they were appropriated shall be transferred by the Secretary and available for obligation during the succeeding fiscal year under the terms of subsection (g) of this section.
 - **(g)**
-  - **(1)** There is further authorized to be appropriated to the Secretary of the Interior the sum of $6,000,000 for each of fiscal years 2007 through 2011 only for reimbursement of the direct cost expenses of additional research or synthesis of the results of research by institutes which focuses on water problems and issues of a regional or interstate nature beyond those of concern only to a single State and which relate to specific program priorities identified jointly by the Secretary and the institutes. Such funds when appropriated shall be matched on a not less than dollar-for-dollar basis by funds made available to institutes or groups of institutes, by States or other non-Federal sources. Funds made available under this subsection shall remain available until expended.
+  - **(1)** There is further authorized to be appropriated to the Secretary of the Interior the sum of $3,000,000 for each of fiscal years 2022 through 2025 only for reimbursement of the direct cost expenses of additional research or synthesis of the results of research by institutes which focuses on water problems and issues of a regional or interstate nature beyond those of concern only to a single State and which relate to specific program priorities identified jointly by the Secretary and the institutes. Such funds when appropriated shall be matched on a not less than dollar-for-dollar basis by funds made available to institutes or groups of institutes, by States or other non-Federal sources. Funds made available under this subsection shall remain available until expended.
   - **(2)** Research funds made available under this subsection shall be made on a competitive basis subject to the merit of the proposal, the need for the information to be produced, and the opportunity such funds will provide for training of water resources scientists or professionals.
 - **(h)**
   - **(1)** To carry out this chapter, the Secretary—

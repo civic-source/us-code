@@ -3,9 +3,9 @@ title: "Section 6603 - Conservation assistance"
 usc_title: 16
 usc_section: "6603"
 chapter: 85
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 6603"
-generated_at: "2026-03-29T19:41:13.875Z"
+generated_at: "2026-03-29T19:59:08.510Z"
 ---
 
 # § 6603. Conservation assistance
@@ -41,3 +41,6 @@ generated_at: "2026-03-29T19:41:13.875Z"
 - **(g)**
   - **(1)** Each person that receives assistance under this section for a project shall submit to the Secretary periodic reports (at such intervals as the Secretary may require) that include all information that the Secretary, after consultation with other government officials, determines is necessary to evaluate the progress and success of the project for the purposes of ensuring positive results, assessing problems, and fostering improvements.
   - **(2)** Reports under paragraph (1), and any other documents relating to projects for which financial assistance is provided under this chapter, shall be made available to the public.
+- **(h)**
+  - **(1)** The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for marine turtles, freshwater turtles, or tortoises and the habitat of marine turtles, freshwater turtles, or tortoises.
+  - **(2)** Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.

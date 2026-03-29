@@ -3,9 +3,9 @@ title: "Section 8547 - Adjustment of allocated visitor-use days"
 usc_title: 16
 usc_section: "8547"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 8547"
-generated_at: "2026-03-29T02:11:54.022Z"
+generated_at: "2026-03-29T19:59:08.553Z"
 ---
 
 # § 8547. Adjustment of allocated visitor-use days

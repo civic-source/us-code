@@ -3,9 +3,9 @@ title: "Section 1225 - Inspection by immigration officers; expedited removal of 
 usc_title: 8
 usc_section: "1225"
 chapter: 12
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "8 U.S.C. § 1225"
-generated_at: "2026-03-29T19:43:45.674Z"
+generated_at: "2026-03-29T19:57:30.774Z"
 ---
 
 # § 1225. Inspection by immigration officers; expedited removal of inadmissible arriving aliens; referral for hearing
@@ -48,7 +48,8 @@ generated_at: "2026-03-29T19:43:45.674Z"
       - **(ii)** to whom paragraph (1) applies, or
       - **(iii)** who is a stowaway.
     - **(C)** In the case of an alien described in subparagraph (A) who is arriving on land (whether or not at a designated port of arrival) from a foreign territory contiguous to the United States, the Attorney General may return the alien to that territory pending a proceeding under section 1229a of this title .
-  - **(3)** The decision of the examining immigration officer, if favorable to the admission of any alien, shall be subject to challenge by any other immigration officer and such challenge shall operate to take the alien whose privilege to be admitted is so challenged, before an immigration judge for a proceeding under section 1229a of this title .
+  - **(3)** The attorney general of a State, or other authorized State officer, alleging a violation of the detention and removal requirements under paragraph (1) or (2) that harms such State or its residents shall have standing to bring an action against the Secretary of Homeland Security on behalf of such State or the residents of such State in an appropriate district court of the United States to obtain appropriate injunctive relief. The court shall advance on the docket and expedite the disposition of a civil action filed under this paragraph to the greatest extent practicable. For purposes of this paragraph, a State or its residents shall be considered to have been harmed if the State or its residents experience harm, including financial harm in excess of $100.
+  - **(4)** The decision of the examining immigration officer, if favorable to the admission of any alien, shall be subject to challenge by any other immigration officer and such challenge shall operate to take the alien whose privilege to be admitted is so challenged, before an immigration judge for a proceeding under section 1229a of this title .
 - **(c)**
   - **(1)** If an immigration officer or an immigration judge suspects that an arriving alien may be inadmissible under subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title , the officer or judge shall—
     - **(A)** order the alien removed, subject to review under paragraph (2);

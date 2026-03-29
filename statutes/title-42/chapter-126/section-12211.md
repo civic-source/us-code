@@ -3,9 +3,9 @@ title: "Section 12211 - Definitions"
 usc_title: 42
 usc_section: "12211"
 chapter: 126
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 12211"
-generated_at: "2026-03-29T19:31:45.642Z"
+generated_at: "2026-03-29T20:00:55.404Z"
 ---
 
 # § 12211. Definitions

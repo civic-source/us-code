@@ -3,9 +3,9 @@ title: "Section 60126 - Annual reports"
 usc_title: 51
 usc_section: "60126"
 chapter: 601
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "51 U.S.C. § 60126"
-generated_at: "2026-03-29T19:45:16.682Z"
+generated_at: "2026-03-29T20:01:19.069Z"
 ---
 
 # § 60126. Annual reports

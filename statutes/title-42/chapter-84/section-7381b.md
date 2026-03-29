@@ -3,9 +3,9 @@ title: "Section 7381b - Laboratory cooperative science centers and other authori
 usc_title: 42
 usc_section: "7381b"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7381b"
-generated_at: "2026-03-29T19:31:45.359Z"
+generated_at: "2026-03-29T20:00:55.109Z"
 ---
 
 # § 7381b. Laboratory cooperative science centers and other authorized education activities
@@ -28,5 +28,5 @@ generated_at: "2026-03-29T19:31:45.359Z"
   - **(15)** Support competitively-awarded, peer-reviewed programs to promote professional development for mathematics teachers and science teachers who teach in grades from kindergarten through grade 12 at Department research and development facilities.
   - **(16)** Support summer internships at Department research and development facilities, for mathematics teachers and science teachers who teach in grades from kindergarten through grade 12.
   - **(17)** Sponsor and assist in educational and training activities identified as critical skills needs for future workforce development at Department research and development facilities.
-- **(b)** Any of the activities authorized by subsection (a) of this section may be conducted through Department research and development facilities. The Secretary may designate facilities conducting such education activities as “Laboratory Cooperative Science Centers”.
-- **(c)** The Secretary is authorized to accept non-Federal funds to finance education activities described in subsection (a) of this section.
+- **(b)** Any of the activities authorized by subsection (a) may be conducted through Department research and development facilities. The Secretary may designate facilities conducting such education activities as “Laboratory Cooperative Science Centers”.
+- **(c)** The Secretary is authorized to accept non-Federal funds to finance education activities described in subsection (a).

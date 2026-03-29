@@ -3,9 +3,9 @@ title: "Section 8458 - Midshipmen: qualifications for admission"
 usc_title: 10
 usc_section: "8458"
 chapter: 853
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 8458"
-generated_at: "2026-03-29T19:43:38.108Z"
+generated_at: "2026-03-29T19:58:02.310Z"
 ---
 
 # § 8458. Midshipmen: qualifications for admission

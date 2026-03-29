@@ -3,9 +3,9 @@ title: "Section 904 - Reports and orders"
 usc_title: 2
 usc_section: "904"
 chapter: 20
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "2 U.S.C. § 904"
-generated_at: "2026-03-29T19:42:59.632Z"
+generated_at: "2026-03-29T19:56:57.189Z"
 ---
 
 # § 904. Reports and orders
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:42:59.632Z"
 - **(b)** Each report required by this section shall be submitted, in the case of CBO, to the House of Representatives, the Senate and OMB and, in the case of OMB, to the House of Representatives, the Senate, and the President on the day it is issued. On the following day a notice of the report shall be printed in the Federal Register.
 - **(c)**
   - **(1)** On the dates specified in subsection (a), OMB and CBO shall issue a preview report regarding discretionary, pay-as-you-go, and deficit sequestration based on laws enacted through those dates.
-  - **(2)** The preview reports shall set forth estimates for the current year and each subsequent year through 2021 of the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title .
+  - **(2)** The preview reports shall set forth estimates for the current year and each subsequent year through 2025 of the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title .
   - **(3)** The preview reports shall set forth, for the current year and the budget year, estimates for each of the following:
     - **(A)** The amount of net deficit increase or decrease, if any, calculated under section 902(b) of this title .
     - **(B)** A list identifying each law enacted and sequestration implemented after November 5, 1990 , included in the calculation of the amount of deficit increase or decrease and specifying the budgetary effect of each such law.
@@ -31,7 +31,7 @@ generated_at: "2026-03-29T19:42:59.632Z"
 - **(f)**
   - **(1)** On the dates specified in subsection (a), OMB and CBO shall issue a final sequestration report, updated to reflect laws enacted through those dates.
   - **(2)** The final reports shall set forth estimates for each of the following:
-    - **(A)** For the current year and each subsequent year through 2021 the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title , including a final estimate of the adjustment for disaster funding.
+    - **(A)** For the current year and each subsequent year through 2025 the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title , including a final estimate of the adjustment for disaster funding.
     - **(B)** For the current year and the budget year the estimated new budget authority and outlays for each category and the breach, if any, in each category.
     - **(C)** For each category for which a sequestration is required, the sequestration percentages necessary to achieve the required reduction.
     - **(D)** For the budget year, for each account to be sequestered, estimates of the baseline level of sequestrable budgetary resources and resulting outlays and the amount of budgetary resources to be sequestered and resulting outlay reductions.

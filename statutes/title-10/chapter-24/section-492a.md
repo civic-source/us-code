@@ -1,17 +1,17 @@
 ---
-title: "Section 492a - Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system"
+title: "Section 492a - Biennial report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system"
 usc_title: 10
 usc_section: "492a"
 chapter: 24
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 492a"
-generated_at: "2026-03-29T19:43:37.815Z"
+generated_at: "2026-03-29T19:58:01.976Z"
 ---
 
-# § 492a. Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system
+# § 492a. Biennial report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system
 
 - **(a)**
-  - **(1)** Not later than 30 days after the submission to Congress of the budget of the President under section 1105(a) of title 31 , United States Code, for each of fiscal years 2013 through 2024, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
+  - **(1)** Not later than 30 days after the submission to Congress of the budget of the President under section 1105(a) of title 31 , United States Code, for each of the odd-numbered fiscal years 2013 through 2029, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
   - **(2)** Each report required under paragraph (1) shall include the following:
     - **(A)** A detailed description of the plan to enhance the safety, security, and reliability of the nuclear weapons stockpile of the United States.
     - **(B)** A detailed description of the plan to sustain and modernize the nuclear weapons complex, including improving the safety of facilities, modernizing the infrastructure, and maintaining the key capabilities and competencies of the nuclear weapons workforce, including designers and technicians.
@@ -19,23 +19,30 @@ generated_at: "2026-03-29T19:43:37.815Z"
     - **(D)** A detailed description of the plan to sustain and modernize the nuclear weapons command and control system.
     - **(E)** A detailed description of any plans to retire, dismantle, or eliminate any nuclear warheads or bombs, nuclear weapons delivery systems, or any platforms (including silos and submarines) which carry such nuclear warheads, bombs, or delivery systems.
     - **(F)** In accordance with paragraph (3), a detailed estimate of the budget requirements associated with sustaining and modernizing the nuclear deterrent of the United States and the nuclear weapons stockpile of the United States, including the costs associated with the plans outlined under subparagraphs (A) through (E), over the 10-year period following the date of the report, including the applicable and appropriate costs associated with the procurement, military construction, operation and maintenance, and research, development, test, and evaluation accounts of the Department of Defense. The Secretary may include information and data for a period beyond such 10-year period if the Secretary determines that such information and data is accurate and useful in understanding the long-term nuclear modernization plan.
-    - **(G)** A detailed description of the steps taken to implement the plan submitted in the previous year, including difficulties encountered in implementing the plan in the previous year.
+    - **(G)** A detailed description of the steps taken to implement the plan submitted in the previous report, including difficulties encountered in implementing the plan in the previous report.
   - **(3)** Each budget estimate under paragraph (2)(F) shall include a detailed description of the costs included in such estimate and the methodology used to create such estimate.
   - **(4)**
     - **(A)** Subject to subparagraph (B), if the Secretary of Defense and the Secretary of Energy jointly determine that a report required by paragraph (1) for a fiscal year will not be able to be transmitted to the committees specified in that paragraph by the time required under that paragraph, such Secretaries shall—
       - **(i)** promptly, and before the submission to Congress of the budget of the President for that fiscal year under section 1105(a) of title 31 , United States Code, notify those committees of the expected date for the transmission of the report; and
       - **(ii)** not later than 30 days after the submission of that budget to Congress, provide a briefing to those committees on the content of the report.
     - **(B)** In no case may the President transmit a report required by paragraph (1) for a fiscal year to the committees specified in that paragraph later than 60 days after the submission to Congress of the budget of the President for that fiscal year.
-- **(b)**
-  - **(1)** Not later than July 1 of each year in which the President transmits a covered odd-numbered fiscal year report, the Director of the Congressional Budget Office shall submit to the congressional defense committees a report that includes—
-    - **(A)** an estimate of the costs during the 10-year period beginning on the date of such covered odd-numbered fiscal year report associated with fielding and maintaining the current nuclear weapons and nuclear weapon delivery systems of the United States;
-    - **(B)** an estimate of the costs during such period of any life extension, modernization, or replacement of any current nuclear weapons or nuclear weapon delivery systems of the United States that is anticipated as of the date of such covered odd-numbered fiscal year report, including an estimate of the acquisition costs during such period for programs relating to such life extension, modernization, or replacement;
-    - **(C)** an estimate of the relative percentage of total defense spending during such period represented by the costs estimated under subparagraphs (A) and (B); and
-    - **(D)** an estimate of the relative percentage of total acquisition costs of the military departments and of the Department of Defense during such period represented by the acquisition costs estimated under subparagraph (B).
-  - **(2)** If the Director determines that a covered even-numbered fiscal year report contains a significant change that affects the estimates of the Director included in the report submitted under paragraph (1) in the year prior to the year in which such covered even-numbered fiscal year report is submitted, the Director shall submit to the congressional defense committees a letter describing such significant changes.
-  - **(3)** In this subsection:
-    - **(A)** The term “covered even-numbered fiscal year report” means a report required to be transmitted under subsection (a)(1) not later than 30 days after the submission to Congress of the budget of the President for an even-numbered fiscal year.
-    - **(B)** The term “covered odd-numbered fiscal year report” means a report required to be transmitted under subsection (a)(1) not later than 30 days after the submission to Congress of the budget of the President for an odd-numbered fiscal year.
+- **(b)** Not later than July 1 of each year in which the President transmits a report required under subsection (a), the Director of the Congressional Budget Office shall submit to the congressional defense committees a report that includes—
+  - **(1)** an estimate of the costs during the 10-year period beginning on the date of such report associated with fielding and maintaining the current nuclear weapons and nuclear weapon delivery systems of the United States;
+  - **(2)** an estimate of the costs during such period of any life extension, modernization, or replacement of any current nuclear weapons or nuclear weapon delivery systems of the United States that is anticipated as of the date of such report, including an estimate of the acquisition costs during such period for programs relating to such life extension, modernization, or replacement;
+  - **(3)** an estimate of the relative percentage of total defense spending during such period represented by the costs estimated under subparagraphs (A) and (B); and
+  - **(4)** an estimate of the relative percentage of total acquisition costs of the military departments and of the Department of Defense during such period represented by the acquisition costs estimated under subparagraph (B).
 - **(c)** The Comptroller General of the United States shall—
   - **(1)** periodically review reports submitted under subsection (a) for accuracy and completeness with respect to the matters described in paragraphs (2)(F) and (3) of such subsection; and
   - **(2)** submit to the congressional defense committees a summary of each such review.
+- **(d)**
+  - **(1)** Not later than 150 days after the submission to Congress of the budget of the President under section 1105(a) of title 31 , for each fiscal year the Commander of United States Strategic Command shall complete an independent assessment of any operational effects of the sufficiency of the execution, as of the date of the assessment, of the acquisition, construction, and recapitalization programs of the Department of Defense and the National Nuclear Security Administration to modernize the nuclear forces of the United States and meet current and future deterrence requirements.
+  - **(2)** Each assessment required under paragraph (1) shall include an evaluation of the ongoing execution of modernization programs associated with—
+    - **(A)** the nuclear weapons design, production, and sustainment infrastructure;
+    - **(B)** the nuclear weapons stockpile;
+    - **(C)** the delivery systems for nuclear weapons; and
+    - **(D)** the nuclear command, control, and communications system.
+  - **(3)**
+    - **(A)** Not later than 15 days after completion of an assessment required by paragraph (1), the Commander of United States Strategic Command shall—
+      - **(i)** submit the assessment to the Chairman of the Nuclear Weapons Council; and
+      - **(ii)** notify the congressional defense committees that the assessment has been submitted to the Chairman of the Nuclear Weapons Council.
+    - **(B)** Not later than 15 days after the Chairman of the Nuclear Weapons Council receives an assessment required by paragraph (1), the Chairman shall transmit the assessment, without change, to the congressional defense committees.

@@ -3,9 +3,9 @@ title: "Section 107 - Columbus Day"
 usc_title: 36
 usc_section: "107"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "36 U.S.C. § 107"
-generated_at: "2026-03-29T19:43:23.273Z"
+generated_at: "2026-03-29T20:00:38.593Z"
 ---
 
 # § 107. Columbus Day

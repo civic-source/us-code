@@ -3,9 +3,9 @@ title: "Section 3117 - Employment assistance"
 usc_title: 38
 usc_section: "3117"
 chapter: 31
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3117"
-generated_at: "2026-03-29T19:43:27.009Z"
+generated_at: "2026-03-29T20:00:43.067Z"
 ---
 
 # § 3117. Employment assistance
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:43:27.009Z"
   - **(2)** Assistance provided under this subsection may include—
     - **(A)** direct placement of such veteran in employment;
     - **(B)** utilization of employment, training, and placement services under chapter 41 of this title; and
-    - **(C)** utilization of the job development and placement services of (i) programs under the Rehabilitation Act of 1973, (ii) the State employment service and the Veterans’ Employment Service of the Department of Labor, (iii) the Office of Personnel Management, (iv) any other public or nonprofit organization having placement services available, and (v) any for-profit entity in a case in which the Secretary has determined that services necessary to provide such assistance are available from such entity and that comparably effective services are not available, or cannot be obtained cost-effectively, from the entities described in subclauses (i) through (iv) of this clause.
+    - **(C)** utilization of the job development and placement services of (i) programs under the Rehabilitation Act of 1973, (ii) the State employment service and the Veterans’ Employment Service of the Department of Labor, (iii) the Office of Personnel Management, (iv) any other public or nonprofit organization having placement services available, and (v) any for-profit entity in a case in which the Secretary has determined that services necessary to provide such assistance are available from such entity and that comparably effective services are not available, or cannot be obtained cost-effectively, from the entities described in subclauses (i) through (iv) of this subparagraph.
 - **(b)**
-  - **(1)** In any case in which a veteran has completed a vocational rehabilitation program for self-employment in a small business enterprise under this chapter, the Secretary shall assist such veteran in securing, as appropriate, a loan under subchapter IV of chapter 37 of this title and shall cooperate with the Small Business Administration to assist such veteran to secure a loan for the purchase of equipment needed to establish such veteran’s own business and to insure that such veteran receives the special consideration provided for in section 4(b)(1) of the Small Business Act ( 15 U.S.C. 633(b)(1) ).
-  - **(2)** In the case of a veteran described in clause (12) of section 3104(a) of this title who has trained under a State rehabilitation program with the objective of self-employment in a small business enterprise, the Secretary may, subject to the limitations and criteria provided for in such clause, provide such veteran with such supplementary equipment and initial stocks and supplies as are determined to be needed by such veteran if such supplementary equipment and initial stocks and supplies, or assistance in acquiring them, are not available through the State program or other sources.
+  - **(1)** In any case in which a veteran has completed a vocational rehabilitation program for self-employment in a small business enterprise under this chapter, the Secretary shall assist such veteran in securing, as appropriate, a loan under subchapter IV of chapter 37 of this title and shall cooperate with the Small Business Administration to assist such veteran to secure a loan for the purchase of equipment needed to establish such veteran’s own business and to ensure that such veteran receives the special consideration provided for in section 4(b)(1) of the Small Business Act ( 15 U.S.C. 633(b)(1) ).
+  - **(2)** In the case of a veteran described in paragraph (12) of section 3104(a) of this title who has trained under a State rehabilitation program with the objective of self-employment in a small business enterprise, the Secretary may, subject to the limitations and criteria provided for in such paragraph, provide such veteran with such supplementary equipment and initial stocks and supplies as are determined to be needed by such veteran if such supplementary equipment and initial stocks and supplies, or assistance in acquiring them, are not available through the State program or other sources.

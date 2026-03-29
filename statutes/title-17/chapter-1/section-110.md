@@ -3,9 +3,9 @@ title: "Section 110 - Limitations on exclusive rights: Exemption of certain perf
 usc_title: 17
 usc_section: "110"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "17 U.S.C. § 110"
-generated_at: "2026-03-29T19:40:56.314Z"
+generated_at: "2026-03-29T19:58:44.441Z"
 ---
 
 # § 110. Limitations on exclusive rights: Exemption of certain performances and displays

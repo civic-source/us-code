@@ -3,9 +3,9 @@ title: "Section 6991j - Use of funds for release prevention and compliance"
 usc_title: 42
 usc_section: "6991j"
 chapter: 82
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6991j"
-generated_at: "2026-03-29T19:31:45.341Z"
+generated_at: "2026-03-29T20:00:55.089Z"
 ---
 
 # § 6991j. Use of funds for release prevention and compliance

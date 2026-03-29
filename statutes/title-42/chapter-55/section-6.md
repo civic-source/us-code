@@ -3,18 +3,18 @@ title: "Section 6 - Litigation, judicial review, and savings provision"
 usc_title: 42
 usc_section: "6"
 chapter: 55
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-29T19:31:45.162Z"
+generated_at: "2026-03-29T20:00:54.914Z"
 ---
 
 # § 4370m–6. Litigation, judicial review, and savings provision
 
 - **(a)**
   - **(1)** Notwithstanding any other provision of law, a claim arising under Federal law seeking judicial review of any authorization issued by a Federal agency for a covered project shall be barred unless—
-    - **(A)** the action is filed not later than 2 years after the date of publication in the Federal Register of the final record of decision or approval or denial of a permit, unless a shorter time is specified in the Federal law under which judicial review is allowed; and
+    - **(A)** the claim is filed not later than 2 years after the date of publication in the Federal Register of notice of final agency action on the authorization, unless a shorter time is specified in the Federal law under which judicial review is allowed; and
     - **(B)** in the case of an action pertaining to an environmental review conducted under NEPA—
-      - **(i)** the action is filed by a party that submitted a comment during the environmental review; and
+      - **(i)** the claim is filed by a party that submitted a comment during the environmental review; and
       - **(ii)** any commenter filed a sufficiently detailed comment so as to put the lead agency on notice of the issue on which the party seeks judicial review, or the lead agency did not provide a reasonable opportunity for such a comment on that issue.
   - **(2)**
     - **(A)** The head of a lead agency or participating agency shall consider new information received after the close of a comment period if the information satisfies the requirements under regulations implementing NEPA.
@@ -27,6 +27,6 @@ generated_at: "2026-03-29T19:31:45.162Z"
 - **(d)** Nothing in this subchapter—
   - **(1)** supersedes, amends, or modifies any Federal statute or affects the responsibility of any Federal officer to comply with or enforce any statute; or
   - **(2)** creates a presumption that a covered project will be approved or favorably reviewed by any agency.
-- **(e)** Nothing in this section preempts, limits, or interferes with—
+- **(e)** Nothing in this subchapter preempts, limits, or interferes with—
   - **(1)** any practice of seeking, considering, or responding to public comment; or
   - **(2)** any power, jurisdiction, responsibility, or authority that a Federal, State, or local governmental agency, metropolitan planning organization, Indian tribe, or project sponsor has with respect to carrying out a project or any other provisions of law applicable to any project, plan, or program.

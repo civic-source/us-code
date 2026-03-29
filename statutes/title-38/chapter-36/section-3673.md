@@ -3,9 +3,9 @@ title: "Section 3673 - Approval activities: cooperation and coordination of acti
 usc_title: 38
 usc_section: "3673"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3673"
-generated_at: "2026-03-29T19:43:27.023Z"
+generated_at: "2026-03-29T20:00:43.083Z"
 ---
 
 # § 3673. Approval activities: cooperation and coordination of activities
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:43:27.023Z"
 - **(a)** The Secretary and each State approving agency shall take cognizance of the fact that definite duties, functions, and responsibilities are conferred upon the Secretary and each State approving agency under the educational programs established under this chapter and chapters 34 and 35 of this title. To assure that such programs are effectively and efficiently administered, the cooperation of the Secretary and the State approving agencies is essential. It is necessary to establish an exchange of information pertaining to activities of educational institutions, and particular attention should be given to the enforcement of approval standards, enforcement of enrollment restrictions, and fraudulent and other criminal activities on the part of persons connected with educational institutions in which eligible persons or veterans are enrolled under this chapter and chapters 34 and 35 of this title.
 - **(b)** The Secretary shall take appropriate actions to ensure the coordination of approval activities performed by State approving agencies under this chapter and chapters 34 and 35 of this title and approval activities performed by the Department of Labor, the Department of Education, and other entities in order to reduce overlap and improve efficiency in the performance of such activities.
 - **(c)** The Secretary will furnish the State approving agencies with copies of such Department of Veterans Affairs informational material as may aid them in carrying out chapters 34 and 35 of this title.
-- **(d)** The Secretary may utilize the services of a State approving agency for conducting compliance and risk-based surveys and other such oversight purposes as the Secretary, in consultation with the State approving agencies, considers appropriate without regard to whether the Secretary or the agency approved the courses offered in the State concerned.
+- **(d)** The Secretary shall utilize the services of a State approving agency for conducting a risk-based survey developed under section 3673A of this title and other such oversight purposes as the Secretary, in consultation with the State approving agencies, considers appropriate without regard to whether the Secretary or the agency approved the courses offered in the State concerned.
 - **(e)**
   - **(1)**
     - **(A)** If the Secretary receives notice described in paragraph (2), or otherwise becomes aware of an action or event described in paragraph (3), with respect to an educational institution, the Secretary shall transmit such notice or provide notice of such action or event to the State approving agency for the State where the educational institution is located by not later than 30 days after the date on which the Secretary receives such notice or becomes aware of such action or event.

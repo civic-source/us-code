@@ -3,9 +3,9 @@ title: "Section 4436 - Application to new and existing preclearance operations"
 usc_title: 19
 usc_section: "4436"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 4436"
-generated_at: "2026-03-29T19:41:21.706Z"
+generated_at: "2026-03-29T19:58:51.860Z"
 ---
 
 # § 4436. Application to new and existing preclearance operations

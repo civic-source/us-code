@@ -3,9 +3,9 @@ title: "Section 17123 - Green Building Advisory Committee"
 usc_title: 42
 usc_section: "17123"
 chapter: 152
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 17123"
-generated_at: "2026-03-29T19:31:45.883Z"
+generated_at: "2026-03-29T20:00:55.607Z"
 ---
 
 # § 17123. Green Building Advisory Committee
@@ -24,4 +24,4 @@ generated_at: "2026-03-29T19:31:45.883Z"
   - **(2)** The total number of non-Federal members on the Committee at any time shall not exceed 15.
 - **(c)** The Federal Director shall establish a regular schedule of meetings for the Committee.
 - **(d)** The Committee shall provide advice and expertise for use by the Federal Director in carrying out the duties under this part, including such recommendations relating to Federal activities carried out under sections 434 through 436 1 1 See References in Text note below. as are agreed to by a majority of the members of the Committee.
-- **(e)** The Committee shall not be subject to section 14 of the Federal Advisory Committee Act (5 U.S.C. App.).
+- **(e)** The Committee shall not be subject to section 1013 of title 5 .

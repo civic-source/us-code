@@ -1,12 +1,12 @@
 ---
-title: "Section 2487c - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 Stat. 3444"
+title: "Section 2487c - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444"
 usc_title: 42
 usc_section: "2487c"
 chapter: 26
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2487c"
-generated_at: "2026-03-29T19:31:45.049Z"
+generated_at: "2026-03-29T20:00:54.818Z"
 ---
 
-# §§ 2487a to 2487c. Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 Stat. 3444
+# §§ 2487a to 2487c. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444
 

@@ -1,14 +1,12 @@
 ---
-title: "Section 16919 - National Sex Offender Registry"
+title: "Section 16919 - Transferred"
 usc_title: 42
 usc_section: "16919"
 chapter: 151
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 16919"
-generated_at: "2026-03-29T19:31:45.864Z"
+generated_at: "2026-03-29T20:00:55.590Z"
 ---
 
-# § 16919. National Sex Offender Registry
+# § 16919. Transferred
 
-- **(a)** The Attorney General shall maintain a national database at the Federal Bureau of Investigation for each sex offender and any other person required to register in a jurisdiction’s sex offender registry. The database shall be known as the National Sex Offender Registry.
-- **(b)** The Attorney General shall ensure (through the National Sex Offender Registry or otherwise) that updated information about a sex offender is immediately transmitted by electronic forwarding to all relevant jurisdictions.

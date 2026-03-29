@@ -3,9 +3,9 @@ title: "Section 2706 - Effective date"
 usc_title: 19
 usc_section: "2706"
 chapter: 15
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 2706"
-generated_at: "2026-03-29T19:41:21.652Z"
+generated_at: "2026-03-29T19:58:51.805Z"
 ---
 
 # § 2706. Effective date

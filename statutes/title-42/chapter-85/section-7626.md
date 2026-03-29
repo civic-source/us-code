@@ -3,9 +3,9 @@ title: "Section 7626 - Authorization of appropriations"
 usc_title: 42
 usc_section: "7626"
 chapter: 85
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7626"
-generated_at: "2026-03-29T19:31:45.426Z"
+generated_at: "2026-03-29T20:00:55.183Z"
 ---
 
 # § 7626. Authorization of appropriations

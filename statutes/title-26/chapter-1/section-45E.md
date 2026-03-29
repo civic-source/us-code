@@ -3,9 +3,9 @@ title: "Section 45E - Small employer pension plan startup costs"
 usc_title: 26
 usc_section: "45E"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 45E"
-generated_at: "2026-03-29T19:42:47.507Z"
+generated_at: "2026-03-29T19:59:49.083Z"
 ---
 
 # § 45E. Small employer pension plan startup costs
@@ -29,9 +29,27 @@ generated_at: "2026-03-29T19:42:47.507Z"
     - **(B)** Such term shall not include any expense in connection with a plan that does not have at least 1 employee eligible to participate who is not a highly compensated employee.
   - **(2)** The term “eligible employer plan” means a qualified employer plan within the meaning of section 4972(d).
   - **(3)** The term “first credit year” means—
-    - **(A)** the taxable year which includes the date that the eligible employer plan to which such costs relate becomes effective, or
+    - **(A)** the taxable year which includes the date that the eligible employer plan to which such costs relate becomes effective with respect to the eligible employer, or
     - **(B)** at the election of the eligible employer, the taxable year preceding the taxable year referred to in subparagraph (A).
 - **(e)** For purposes of this section—
   - **(1)** All persons treated as a single employer under subsection (a) or (b) of section 52, or subsection (m) or ( o ) of section 414, shall be treated as one person. All eligible employer plans shall be treated as 1 eligible employer plan.
-  - **(2)** No deduction shall be allowed for that portion of the qualified startup costs paid or incurred for the taxable year which is equal to the credit determined under subsection (a).
+  - **(2)** No deduction shall be allowed—
+    - **(A)** for that portion of the qualified startup costs paid or incurred for the taxable year which is equal to so much of the portion of the credit determined under subsection (a) as is properly allocable to such costs, and
+    - **(B)** for that portion of the employer contributions by the employer for the taxable year which is equal to so much of the credit increase determined under subsection (f) as is properly allocable to such contributions.
   - **(3)** This section shall not apply to a taxpayer for any taxable year if such taxpayer elects to have this section not apply for such taxable year.
+  - **(4)** In the case of an employer which would be an eligible employer under subsection (c) if section 408(p)(2)(C)(i) was applied by substituting “50 employees” for “100 employees”, subsection (a) shall be applied by substituting “100 percent” for “50 percent”.
+- **(f)**
+  - **(1)** In the case of an eligible employer, the credit allowed for the taxable year under subsection (a) (determined without regard to this subsection) shall be increased by an amount equal to the applicable percentage of employer contributions (other than any elective deferrals (as defined in section 402(g)(3)) by the employer to an eligible employer plan (other than a defined benefit plan (as defined in section 414(j))).
+  - **(2)**
+    - **(A)** The amount determined under paragraph (1) (before the application of subparagraph (B)) with respect to any employee of the employer shall not exceed $1,000.
+    - **(B)** In the case of any eligible employer which had for the preceding taxable year more than 50 employees, the amount determined under paragraph (1) (without regard to this subparagraph) shall be reduced by an amount equal to the product of—
+      - **(i)** the amount otherwise so determined under paragraph (1), multiplied by
+      - **(ii)** a percentage equal to 2 percentage points for each employee of the employer for the preceding taxable year in excess of 50 employees.
+    - **(C)**
+      - **(i)** No contributions with respect to any employee who receives wages from the employer for the taxable year in excess of $100,000 may be taken into account for such taxable year under subparagraph (A).
+      - **(ii)** For purposes of the preceding sentence, the term “wages” has the meaning given such term by section 3121(a).
+      - **(iii)** In the case of any taxable year beginning in a calendar year after 2023, the $100,000 amount under clause (i) shall be increased by an amount equal to—
+        - **(I)** such dollar amount, multiplied by
+        - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2007” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  - **(3)** For purposes of this section, the applicable percentage for the taxable year during which the eligible employer plan is established with respect to the eligible employer shall be 100 percent, and for taxable years thereafter shall be determined under the following table: In the case of the following taxable year beginning after the taxable year during which plan is established with respect to the eligible employer: The applicable percentage shall be: 1st 100% 2nd 75% 3rd 50% 4th 25% Any taxable year thereafter 0%
+  - **(4)** For purposes of this subsection, whether an employer is an eligible employer and the number of employees of an employer shall be determined under the rules of subsection (c), except that paragraph (2) thereof shall only apply to the taxable year during which the eligible employer plan to which this section applies is established with respect to the eligible employer.

@@ -3,9 +3,9 @@ title: "Section 1482 - Expenses incident to death"
 usc_title: 10
 usc_section: "1482"
 chapter: 75
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1482"
-generated_at: "2026-03-29T19:43:37.929Z"
+generated_at: "2026-03-29T19:58:02.098Z"
 ---
 
 # § 1482. Expenses incident to death
@@ -24,6 +24,10 @@ generated_at: "2026-03-29T19:43:37.929Z"
     - **(C)** When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ( Public Law 109–364 ; 10 U.S.C. 1482 note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.
   - **(9)** Interment or inurnment of the remains.
   - **(10)** In the case of a decedent under the jurisdiction of a Secretary of a military department at the time of death, enduring care of remains interred in a foreign cemetery if the burial location was designated by such Secretary.
+  - **(11)**
+    - **(A)** Delivery of personal effects of a decedent to the next of kin or other appropriate person.
+    - **(B)** If the Secretary concerned enters into an agreement with an entity to carry out subparagraph (A), the Secretary concerned may, at the request of the person described in such subparagraph, pursue a claim against such entity that arises from the failure of such entity to substantially perform such subparagraph.
+    - **(C)** If an entity described in subparagraph (B) fails to substantially perform subparagraph (A) by damaging, losing, or destroying the personal effects of a decedent, the Secretary concerned shall reimburse the person designated under subsection (c) the greater of $1,000 or the fair market value of such damage, loss, or destruction. The Secretary concerned may request, from the person designated under subsection (c), proof of fair market value and ownership of the personal effects.
 - **(b)** If an individual pays any expense payable by the United States under this section, the Secretary concerned shall reimburse him or his representative in an amount not larger than that normally incurred by the Secretary in furnishing the supply or service concerned. If reimbursement by the United States is also authorized under another provision of law or regulation, the individual may elect under which provision to be reimbursed.
 - **(c)** The following persons may be designated to direct disposition of the remains of a decedent covered by this chapter:
   - **(1)** The person identified by the decedent on the record of emergency data maintained by the Secretary concerned (DD Form 93 or any successor to that form), as the Person Authorized to Direct Disposition (PADD), regardless of the relationship of the designee to the decedent.

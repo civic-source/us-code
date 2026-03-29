@@ -1,14 +1,12 @@
 ---
-title: "Section 3789n - Limitation on civil justice matters"
+title: "Section 3789n - Transferred"
 usc_title: 42
 usc_section: "3789n"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3789n"
-generated_at: "2026-03-29T19:31:45.112Z"
+generated_at: "2026-03-29T20:00:54.883Z"
 ---
 
-# § 3789n. Limitation on civil justice matters
-
-Authority of any entity established under this chapter shall extend to civil justice matters only to the extent that such civil justice matters bear directly and substantially upon criminal justice matters or are inextricably intertwined with criminal justice matters.
+# § 3789n. Transferred
 

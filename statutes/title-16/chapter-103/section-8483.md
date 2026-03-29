@@ -3,9 +3,9 @@ title: "Section 8483 - Trail pilot program"
 usc_title: 16
 usc_section: "8483"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 8483"
-generated_at: "2026-03-29T02:11:54.018Z"
+generated_at: "2026-03-29T19:59:08.550Z"
 ---
 
 # § 8483. Trail pilot program

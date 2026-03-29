@@ -1,14 +1,12 @@
 ---
-title: "Section 10511 - Limitation on civil justice matters"
+title: "Section 10511 - Transferred"
 usc_title: 42
 usc_section: "10511"
 chapter: 111
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 10511"
-generated_at: "2026-03-29T19:31:45.588Z"
+generated_at: "2026-03-29T20:00:55.356Z"
 ---
 
-# § 10511. Limitation on civil justice matters
-
-Federal law enforcement assistance provided under this chapter may not be used with respect to civil justice matters except to the extent that such civil justice matters bear directly and substantially upon criminal justice matters or are inextricably intertwined with criminal justice matters.
+# § 10511. Transferred
 

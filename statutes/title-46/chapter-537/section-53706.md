@@ -3,9 +3,9 @@ title: "Section 53706 - Eligible purposes of obligations"
 usc_title: 46
 usc_section: "53706"
 chapter: 537
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 53706"
-generated_at: "2026-03-29T19:44:39.461Z"
+generated_at: "2026-03-29T20:01:03.938Z"
 ---
 
 # § 53706. Eligible purposes of obligations
@@ -33,6 +33,7 @@ generated_at: "2026-03-29T19:44:39.461Z"
     - **(A)** the purchase of individual fishing quotas in accordance with section 303(d)(4) of the Magnuson-Stevens Fishery Conservation and Management Act (including the reimbursement of obligors for expenditures previously made for such a purchase);
     - **(B)** activities that assist in the transition to reduced fishing capacity; or
     - **(C)** technologies or upgrades designed to improve collection and reporting of fishery-dependent data, to reduce bycatch, to improve selectivity or reduce adverse impacts of fishing gear, or to improve safety.
+  - **(8)** Financing (including reimbursement of an obligor for expenditures previously made for) the reconstruction, reconditioning, retrofitting, repair, reconfiguration, or similar work in a shipyard located in the United States.
 - **(b)** An obligation guaranteed under subsection (a)(6) or (7) shall be treated, for purposes of this chapter, in the same manner and to the same extent as an obligation that aids in financing the construction, reconstruction, reconditioning, or purchase of a vessel, except with respect to provisions that by their nature can only be applied to vessels.
 - **(c)**
   - **(1)** In guaranteeing or making a commitment to guarantee an obligation under this chapter, the Administrator shall give priority to—

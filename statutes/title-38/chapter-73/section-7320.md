@@ -3,9 +3,9 @@ title: "Section 7320 - Centers for mental illness research, education, and clini
 usc_title: 38
 usc_section: "7320"
 chapter: 73
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 7320"
-generated_at: "2026-03-29T19:43:27.076Z"
+generated_at: "2026-03-29T20:00:43.146Z"
 ---
 
 # § 7320. Centers for mental illness research, education, and clinical activities
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T19:43:27.076Z"
   - **(1)** In order to provide advice to assist the Secretary and the Under Secretary for Health to carry out their responsibilities under this section, the official within the central office of the Veterans Health Administration responsible for mental health and behavioral sciences matters shall establish a peer review panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the designation of centers under this section.
   - **(2)** The panel shall consist of experts in the fields of mental health research, education and training, and clinical care. Members of the panel shall serve as consultants to the Department.
   - **(3)** The panel shall review each proposal submitted to the panel by the official referred to in paragraph (1) and shall submit to that official its views on the relative scientific and clinical merit of each such proposal. The panel shall specifically determine with respect to each such proposal whether that proposal is among those proposals which have met the highest competitive standards of scientific and clinical merit.
-  - **(4)** The panel shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+  - **(4)** The panel shall not be subject to chapter 10 of title 5.
 - **(f)** Clinical and scientific investigation activities at each center established under this section—
   - **(1)** may compete for the award of funding from amounts appropriated for the Department of Veterans Affairs medical and prosthetics research account; and
   - **(2)** shall receive priority in the award of funding from such account insofar as funds are awarded to projects and activities relating to mental illness.

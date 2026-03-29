@@ -3,15 +3,15 @@ title: "Section 6807 - State utility regulatory assistance"
 usc_title: 42
 usc_section: "6807"
 chapter: 81
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6807"
-generated_at: "2026-03-29T19:31:45.309Z"
+generated_at: "2026-03-29T20:00:55.049Z"
 ---
 
 # § 6807. State utility regulatory assistance
 
 - **(a)** The Secretary may make grants to State utility regulatory commissions and nonregulated electric utilities (as defined in the Public Utility Regulatory Policies Act of 1978 [ 16 U.S.C. 2602 ]) to carry out duties and responsibilities under titles I [ 16 U.S.C. 2601 et seq.] and III [ 15 U.S.C. 3201 et seq.], and section 210 [ 16 U.S.C. 824a–3 ], of the Public Utility Regulatory Policies Act of 1978. No grant may be made under this section to any Federal agency.
-- **(b)** Any requirements established by the Secretary with respect to grants under this section may be only such requirements as are necessary to assure that such grants are expended solely to carry out duties and responsibilities referred to in subsection (a) of this section or such as are otherwise required by law.
+- **(b)** Any requirements established by the Secretary with respect to grants under this section may be only such requirements as are necessary to assure that such grants are expended solely to carry out duties and responsibilities referred to in subsection (a) or such as are otherwise required by law.
 - **(c)** No grant may be made under this section unless an application for such grant is submitted to the Secretary in such form and manner as the Secretary may require. The Secretary may not approve an application of a State utility regulatory commission or nonregulated electric utility unless such commission or nonregulated electric utility assures the Secretary that funds made available under this section will be in addition to, and not in substitution for, funds made available to such commission or nonregulated electric utility from other governmental sources.
 - **(d)** The funds appropriated for purposes of this section shall be apportioned among the States in such manner that grants made under this section in each State shall not exceed the lesser of—
   - **(1)** the amount determined by dividing equally among all States the total amount available under this section for such grants, or

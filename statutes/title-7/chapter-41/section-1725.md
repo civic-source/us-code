@@ -3,9 +3,9 @@ title: "Section 1725 - Food Aid Consultative Group"
 usc_title: 7
 usc_section: "1725"
 chapter: 41
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "7 U.S.C. § 1725"
-generated_at: "2026-03-29T19:43:58.169Z"
+generated_at: "2026-03-29T19:57:39.059Z"
 ---
 
 # § 1725. Food Aid Consultative Group
@@ -24,5 +24,5 @@ generated_at: "2026-03-29T19:43:58.169Z"
 - **(d)**
   - **(1)** Not later than 30 days before a proposed regulation, handbook, or guideline implementing this subchapter, or a proposed significant revision to a regulation, handbook, or guideline implementing this subchapter, becomes final, the Administrator shall provide the proposal to the Group for review and comment. The Administrator shall consult and, when appropriate (but at least twice per year), meet with the Group regarding such proposed regulations, handbooks, guidelines, or revisions thereto prior to the issuance of such.
   - **(2)** The Administrator shall seek input from and consult with the Group on the implementation of section 1722(h) of this title .
-- **(e)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Group.
+- **(e)** Chapter 10 of title 5 shall not apply to the Group.
 - **(f)** The Group shall terminate on December 31, 2023 .

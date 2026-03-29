@@ -3,9 +3,9 @@ title: "Section 6833 - Updating State building energy efficiency codes"
 usc_title: 42
 usc_section: "6833"
 chapter: 81
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6833"
-generated_at: "2026-03-29T19:31:45.310Z"
+generated_at: "2026-03-29T20:00:55.050Z"
 ---
 
 # § 6833. Updating State building energy efficiency codes
@@ -30,14 +30,14 @@ generated_at: "2026-03-29T19:31:45.310Z"
     - **(B)**
       - **(i)** If the Secretary makes an affirmative determination under subparagraph (A), each State shall, not later than 2 years after the date of the publication of such determination, certify that it has reviewed and updated the provisions of its commercial building code regarding energy efficiency in accordance with the revised standard for which such determination was made. Such certification shall include a demonstration that the provisions of such State’s commercial building code regarding energy efficiency meet or exceed such revised standard.
       - **(ii)** If the Secretary makes a determination under subparagraph (A) that such revised standard will not improve energy efficiency in commercial buildings, State commercial building code provisions regarding energy efficiency shall meet or exceed ASHRAE Standard 90.1–1989, or if such standard has been revised, the last revised standard for which the Secretary has made an affirmative determination under subparagraph (A).
-- **(c)** The Secretary shall permit extensions of the deadlines for the certification requirements under subsections (a) and (b) of this section if a State can demonstrate that it has made a good faith effort to comply with such requirements and that it has made significant progress in doing so.
+- **(c)** The Secretary shall permit extensions of the deadlines for the certification requirements under subsections (a) and (b) if a State can demonstrate that it has made a good faith effort to comply with such requirements and that it has made significant progress in doing so.
 - **(d)** The Secretary shall provide technical assistance to States to implement the requirements of this section, and to improve and implement State residential and commercial building energy efficiency codes or to otherwise promote the design and construction of energy efficient buildings.
 - **(e)**
   - **(1)** The Secretary shall provide incentive funding to States to implement the requirements of this section, and to improve and implement State residential and commercial building energy efficiency codes, including increasing and verifying compliance with such codes. In determining whether, and in what amount, to provide incentive funding under this subsection, the Secretary shall consider the actions proposed by the State to implement the requirements of this section, to improve and implement residential and commercial building energy efficiency codes, and to promote building energy efficiency through the use of such codes.
   - **(2)** Additional funding shall be provided under this subsection for implementation of a plan to achieve and document at least a 90 percent rate of compliance with residential and commercial building energy efficiency codes, based on energy performance—
     - **(A)** to a State that has adopted and is implementing, on a statewide basis—
-      - **(i)** a residential building energy efficiency code that meets or exceeds the requirements of the 2004 International Energy Conservation Code, or any succeeding version of that code that has received an affirmative determination from the Secretary under subsection (a)(5)(A) of this section; and
-      - **(ii)** a commercial building energy efficiency code that meets or exceeds the requirements of the ASHRAE Standard 90.1–2004, or any succeeding version of that standard that has received an affirmative determination from the Secretary under subsection (b)(2)(A) of this section; or
+      - **(i)** a residential building energy efficiency code that meets or exceeds the requirements of the 2004 International Energy Conservation Code, or any succeeding version of that code that has received an affirmative determination from the Secretary under subsection (a)(5)(A); and
+      - **(ii)** a commercial building energy efficiency code that meets or exceeds the requirements of the ASHRAE Standard 90.1–2004, or any succeeding version of that standard that has received an affirmative determination from the Secretary under subsection (b)(2)(A); or
     - **(B)** in a State in which there is no statewide energy code either for residential buildings or for commercial buildings, to a local government that has adopted and is implementing residential and commercial building energy efficiency codes, as described in subparagraph (A).
   - **(3)** Of the amounts made available under this subsection, the Secretary may use $500,000 for each fiscal year to train State and local officials to implement codes described in paragraph (2).
   - **(4)**

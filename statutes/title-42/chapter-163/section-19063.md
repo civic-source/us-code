@@ -3,9 +3,9 @@ title: "Section 19063 - Leveraging international expertise in research"
 usc_title: 42
 usc_section: "19063"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 19063"
-generated_at: "2026-03-29T02:15:37.481Z"
+generated_at: "2026-03-29T20:00:55.707Z"
 ---
 
 # § 19063. Leveraging international expertise in research

@@ -3,16 +3,16 @@ title: "Section 8903 - Health benefits plans"
 usc_title: 5
 usc_section: "8903"
 chapter: 89
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 8903"
-generated_at: "2026-03-29T19:43:20.462Z"
+generated_at: "2026-03-29T19:57:15.008Z"
 ---
 
 # § 8903. Health benefits plans
 
 The Office of Personnel Management may contract for or approve the following health benefits plans:
 
-  - **(1)** One Government-wide plan, which may be underwritten by participating affiliates licensed in any number of States, offering two levels of benefits, under which payment is made by a carrier under contracts with physicians, hospitals, or other providers of health services for benefits of the types described by section 8904(1) of this title given to employees, annuitants, members of their families, former spouses, or persons having continued coverage under section 8905a of this title , or, under certain conditions, payment is made by a carrier to the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title .
+  - **(1)** One Government-wide plan, which may be underwritten by participating affiliates licensed in any number of States, offering at least 2 levels of benefits for enrollees under this chapter generally and at least 2 levels of benefits for enrollees under the Postal Service Health Benefits Program established under section 8903c, under which payment is made by a carrier under contracts with physicians, hospitals, or other providers of health services for benefits of the types described by section 8904(1) of this title given to employees, annuitants, members of their families, former spouses, or persons having continued coverage under section 8905a of this title , or, under certain conditions, payment is made by a carrier to the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title .
   - **(2)** One Government-wide plan, offering two levels of benefits, under which a carrier agrees to pay certain sums of money, not in excess of the actual expenses incurred, for benefits of the types described by section 8904(2) of this title .
   - **(3)** Employee organization plans which offer benefits of the types referred to by section 8904(3) of this title , which are sponsored or underwritten, and are administered, in whole or substantial part, by employee organizations described in section 8901(8)(A) of this title , which are available only to individuals, and members of their families, who at the time of enrollment are members of the organization.
   - **(4)**

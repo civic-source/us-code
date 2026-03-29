@@ -3,9 +3,9 @@ title: "Section 2709 - Special agents"
 usc_title: 22
 usc_section: "2709"
 chapter: 38
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2709"
-generated_at: "2026-03-29T19:42:08.119Z"
+generated_at: "2026-03-29T19:59:24.146Z"
 ---
 
 # § 2709. Special agents
@@ -13,8 +13,9 @@ generated_at: "2026-03-29T19:42:08.119Z"
 - **(a)** Under such regulations as the Secretary of State may prescribe, special agents of the Department of State and the Foreign Service may—
   - **(1)** conduct investigations concerning—
     - **(A)** illegal passport or visa issuance or use;
-    - **(B)** identity theft or document fraud affecting or relating to the programs, functions, or authorities of the Department of State; or
-    - **(C)** Federal offenses committed within the special maritime and territorial jurisdiction of the United States (as defined in section 7(9) of title 18 ), except as such jurisdiction relates to the premises of United States military missions and related residences;
+    - **(B)** identity theft or document fraud affecting or relating to the programs, functions, or authorities of the Department of State;
+    - **(C)** transnational violations of chapter 77 of title 18 in which any part of the offense conduct occurred outside the United States or involved one or more foreign nationals; or
+    - **(D)** Federal offenses committed within the special maritime and territorial jurisdiction of the United States (as defined in section 7(9) of title 18 ), except as such jurisdiction relates to the premises of United States military missions and related residences;
   - **(2)** obtain and execute search and arrest warrants, as well as obtain and serve subpoenas and summonses issued under the authority of the United States;
   - **(3)** protect and perform protective functions directly related to maintaining the security and safety of—
     - **(A)** heads of a foreign state, official representatives of a foreign government, and other distinguished visitors to the United States, while in the United States;

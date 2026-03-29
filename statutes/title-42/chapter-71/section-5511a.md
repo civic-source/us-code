@@ -3,15 +3,15 @@ title: "Section 5511a - Solar Assistance Financing Entity"
 usc_title: 42
 usc_section: "5511a"
 chapter: 71
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5511a"
-generated_at: "2026-03-29T19:31:45.231Z"
+generated_at: "2026-03-29T20:00:54.980Z"
 ---
 
 # § 5511a. Solar Assistance Financing Entity
 
 - **(a)** The Secretary of Housing and Urban Development shall establish within the Department of Housing and Urban Development the Solar Assistance Financing Entity (in this section referred to as the “Entity”).
-- **(b)** The purpose of the Entity shall be to assist in financing solar and renewable energy capital investments and projects for eligible buildings under subsection (c) of this section.
+- **(b)** The purpose of the Entity shall be to assist in financing solar and renewable energy capital investments and projects for eligible buildings under subsection (c).
 - **(c)** The Entity may provide assistance under this section only for the following buildings:
   - **(1)** Any building consisting of 1 to 4 dwelling units that has a system for heating or cooling, or both.
   - **(2)** Any building consisting of more than 4 dwelling units that has a system for heating or cooling, or both.

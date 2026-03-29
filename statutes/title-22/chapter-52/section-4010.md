@@ -3,15 +3,15 @@ title: "Section 4010 - Separation for cause; suspension"
 usc_title: 22
 usc_section: "4010"
 chapter: 52
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 4010"
-generated_at: "2026-03-29T19:42:08.164Z"
+generated_at: "2026-03-29T19:59:24.199Z"
 ---
 
 # § 4010. Separation for cause; suspension
 
 - **(a)**
-  - **(1)** The Secretary may decide to separate any member from the Service for such cause as will promote the efficiency of the Service.
+  - **(1)** The Secretary may separate any member from the Service for such cause as will promote the efficiency of the Service, including upon receiving notification from the Bureau of Diplomatic Security that such member has engaged in criminal misconduct, such as murder, rape, or other sexual assault.
   - **(2)**
     - **(A)** Except as provided in subparagraph (B), whenever the Secretary decides under paragraph (1) to separate, on the basis of misconduct, any member of the Service (other than a United States citizen employed under section 3951 of this title who is not a family member) who either—
       - **(i)** is serving under a career appointment, or
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T19:42:08.164Z"
     - **(A)** the review by the Foreign Service Grievance Board shall be limited to a determination of whether the provisions of paragraphs (1) and (2) have been fulfilled; and
     - **(B)** the Board may not exercise the authority provided under section 4136(8) of this title .
   - **(5)** For each member of the Service suspended under paragraph (1)(A) whose security clearance remains suspended for more than one calendar year, not later than 30 days after the end of such calendar year, the Secretary of State shall report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate in writing regarding the specific reasons relating to the duration of each such suspension.
-  - **(6)** Any member of the Service suspended under paragraph (1)(B) may be suspended without pay only after a final written decision is provided to such member pursuant to paragraph (2).
+  - **(6)** Any member of the Service suspended under this subsection may be suspended without pay only after a final written decision is provided to such member pursuant to paragraph (2).
   - **(7)** In this subsection, the term “reasonable time” means—
     - **(A)** with respect to a member of the Service assigned to duty in the United States, 15 days after receiving notice of the proposed suspension; and
     - **(B)** with respect to a member of the Service assigned to duty outside the United States, 30 days after receiving notice of the proposed suspension.

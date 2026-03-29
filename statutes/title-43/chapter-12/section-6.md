@@ -1,12 +1,12 @@
 ---
-title: "Section 6 - Repealed. Pub. L. 100–516 , § 12(a), Oct. 24, 1988 , 102 Stat. 2572"
+title: "Section 6 - Repealed. Pub. L. 100–516, § 12(a) , Oct. 24, 1988 , 102 Stat. 2572"
 usc_title: 43
 usc_section: "6"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 6"
-generated_at: "2026-03-29T19:31:49.064Z"
+generated_at: "2026-03-29T19:59:41.405Z"
 ---
 
-# § 615llll–6. Repealed. Pub. L. 100–516 , § 12(a), Oct. 24, 1988 , 102 Stat. 2572
+# § 615llll–6. Repealed. Pub. L. 100–516, § 12(a) , Oct. 24, 1988 , 102 Stat. 2572
 

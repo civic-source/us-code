@@ -3,9 +3,9 @@ title: "Section 162 - Mission of Office; duties"
 usc_title: 6
 usc_section: "162"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 162"
-generated_at: "2026-03-29T19:43:43.757Z"
+generated_at: "2026-03-29T19:57:32.857Z"
 ---
 
 # § 162. Mission of Office; duties
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:43:43.757Z"
   - **(2)** to carry out programs that, through the provision of equipment, training, and technical assistance, improve the safety and effectiveness of law enforcement technology and improve access to such technology by Federal, State, and local law enforcement agencies.
 - **(b)** In carrying out its mission, the Office shall have the following duties:
   - **(1)** To provide recommendations and advice to the Attorney General.
-  - **(2)** To establish and maintain advisory groups (which shall be exempt from the provisions of the Federal Advisory Committee Act (5 U.S.C. App.)) to assess the law enforcement technology needs of Federal, State, and local law enforcement agencies.
+  - **(2)** To establish and maintain advisory groups (which shall be exempt from the provisions of chapter 10 of title 5) to assess the law enforcement technology needs of Federal, State, and local law enforcement agencies.
   - **(3)** To establish and maintain performance standards in accordance with the National Technology Transfer and Advancement Act of 1995 ( Public Law 104–113 ) for, and test and evaluate law enforcement technologies that may be used by, Federal, State, and local law enforcement agencies.
   - **(4)** To establish and maintain a program to certify, validate, and mark or otherwise recognize law enforcement technology products that conform to standards established and maintained by the Office in accordance with the National Technology Transfer and Advancement Act of 1995 ( Public Law 104–113 ). The program may, at the discretion of the Office, allow for supplier’s declaration of conformity with such standards.
   - **(5)** To work with other entities within the Department of Justice, other Federal agencies, and the executive office of the President to establish a coordinated Federal approach on issues related to law enforcement technology.

@@ -3,9 +3,9 @@ title: "Section 504 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(42)
 usc_title: 8
 usc_section: "504"
 chapter: 11
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "8 U.S.C. § 504"
-generated_at: "2026-03-29T19:43:45.637Z"
+generated_at: "2026-03-29T19:57:30.732Z"
 ---
 
 # §§ 501 to 504. Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(42), 66 Stat. 280 , eff. Dec. 24, 1952

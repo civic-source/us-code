@@ -3,9 +3,9 @@ title: "Section 1606 - Mineral security"
 usc_title: 30
 usc_section: "1606"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "30 U.S.C. § 1606"
-generated_at: "2026-03-29T19:42:23.472Z"
+generated_at: "2026-03-29T19:59:32.896Z"
 ---
 
 # § 1606. Mineral security
@@ -55,9 +55,9 @@ generated_at: "2026-03-29T19:42:23.472Z"
       - **(ii)** the supply chain of which is vulnerable to disruption (including restrictions associated with foreign political risk, abrupt demand growth, military conflict, violent unrest, anti-competitive or protectionist behaviors, and other risks throughout the supply chain); and
       - **(iii)** serve an essential function in the manufacturing of a product (including energy technology-, defense-, currency-, agriculture-, consumer electronics-, and health care-related applications), the absence of which would have significant consequences for the economic or national security of the United States.
     - **(B)** Notwithstanding the criteria under paragraph (3), the Secretary may designate and include on the list any mineral, element, substance, or material determined by another Federal agency to be strategic and critical to the defense or national security of the United States.
-    - **(C)** The Secretary shall consult with the Secretaries of Defense, Commerce, Agriculture, and Energy and the United States Trade Representative in designating minerals, elements, substances, and materials as critical under this paragraph.
+    - **(C)** The Secretary shall consult with the Secretaries of Defense, Commerce, Agriculture, Health and Human Services, and Energy and the United States Trade Representative in designating minerals, elements, substances, and materials as critical under this paragraph.
   - **(5)**
-    - **(A)** The Secretary, in consultation with the Secretaries of Defense, Commerce, Agriculture, and Energy and the United States Trade Representative, shall review the methodology and list under paragraph (3) and the designations under paragraph (4) at least every 3 years, or more frequently as the Secretary considers to be appropriate.
+    - **(A)** The Secretary, in consultation with the Secretaries of Defense, Commerce, Agriculture, Health and Human Services, and Energy and the United States Trade Representative, shall review the methodology and list under paragraph (3) and the designations under paragraph (4) at least every 3 years, or more frequently as the Secretary considers to be appropriate.
     - **(B)** Subject to paragraph (4)(A), the Secretary may—
       - **(i)** revise the methodology described in this subsection;
       - **(ii)** determine that minerals, elements, substances, and materials previously determined to be critical minerals are no longer critical minerals; and

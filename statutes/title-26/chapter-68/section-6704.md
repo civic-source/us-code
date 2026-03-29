@@ -3,9 +3,9 @@ title: "Section 6704 - Failure to keep records necessary to meet reporting requi
 usc_title: 26
 usc_section: "6704"
 chapter: 68
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 6704"
-generated_at: "2026-03-29T19:42:48.001Z"
+generated_at: "2026-03-29T19:59:49.637Z"
 ---
 
 # § 6704. Failure to keep records necessary to meet reporting requirements under section 6047(d)

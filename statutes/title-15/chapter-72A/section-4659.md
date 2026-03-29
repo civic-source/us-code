@@ -3,9 +3,9 @@ title: "Section 4659 - Additional authorities"
 usc_title: 15
 usc_section: "4659"
 chapter: 72
-current_through: "PL 117-200"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 4659"
-generated_at: "2026-03-29T18:49:04.496Z"
+generated_at: "2026-03-29T19:58:17.844Z"
 ---
 
 # § 4659. Additional authorities
@@ -19,3 +19,31 @@ generated_at: "2026-03-29T18:49:04.496Z"
   - **(6)** with the consent of another Federal agency, enter into an agreement with that Federal agency to use, with or without reimbursement, any service, equipment, personnel, or facility of that Federal agency; and
   - **(7)** establish such rules, regulations, and procedures as the Secretary considers appropriate.
 - **(b)** Any funds received from a payment made by a person or entity pursuant to subsection (a)(3) shall be credited to and merged with the account from which support to the person or entity was made 1 1 So in original. Probably should be followed by a period.
+- **(c)**
+  - **(1)** In this subsection, the term “lead agency” has the meaning given the term in section 111 of NEPA ( 42 U.S.C. 4336e ).
+  - **(2)** With respect to a covered activity that is a major Federal action under NEPA, and with respect to which the Department of Commerce is authorized or required by law to issue an authorization or take action for or relating to that covered activity, the Department of Commerce shall have the first right to serve as the lead agency with respect to that covered activity under NEPA.
+- **(d)**
+  - **(1)** Each of the following categorical exclusions is established for the National Institute of Standards and Technology with respect to a covered activity and, beginning on October 2, 2024 , is available for use by the Secretary with respect to a covered activity:
+    - **(A)** Categorical exclusion 17.04.d (relating to the acquisition of machinery and equipment) in the document entitled “EDA Program to Implement the National Environmental Policy Act of 1969 and Other Federal Environmental Mandates As Required” (Directive No. 17.02–2; effective date October 14, 1992 ).
+    - **(B)** Categorical exclusion A9 in Appendix A to subpart D of part 1021 of title 10, Code of Federal Regulations, or any successor regulation.
+    - **(C)** Categorical exclusions B1.24, B1.31, B2.5, and B5.1 in Appendix B to subpart D of part 1021 of title 10, Code of Federal Regulations, or any successor regulation.
+    - **(D)** The categorical exclusions described in paragraphs (4) and (13) of section 50.19(b) of title 24, Code of Federal Regulations, or any successor regulation.
+    - **(E)** Categorical exclusion (c)(1) in Appendix B to part 651 of title 32, Code of Federal Regulations, or any successor regulation.
+    - **(F)** Categorical exclusions A2.3.8 and A2.3.14 in Appendix B to part 989 of title 32, Code of Federal Regulations, or any successor regulation.
+  - **(2)** Notwithstanding any other provision of law, each of the following shall be treated as a category of action categorically excluded from the requirements relating to environmental assessments and environmental impact statements under section 1501.4 of title 40, Code of Federal Regulations, or any successor regulation:
+    - **(A)** The provision by the Secretary of any Federal financial assistance for a project described in section 4652 of this title , if the facility that is the subject of the project is on or adjacent to a site—
+      - **(i)** that is owned or leased by the covered entity to which Federal financial assistance is provided for that project; and
+      - **(ii)** on which, as of the date on which the Secretary provides that Federal financial assistance, substantially similar construction, expansion, or modernization is being or has been carried out, such that the facility would not more than double existing developed acreage or on-site supporting infrastructure.
+    - **(B)** The provision by the Secretary of Defense of any Federal financial assistance relating to—
+      - **(i)** the creation, expansion, or modernization of one or more facilities described in the second sentence of section 4653(a)(1) of this title ; or
+      - **(ii)** carrying out section 4653(b) of this title , as in effect on October 2, 2024 .
+    - **(C)** Any activity undertaken by the Secretary relating to carrying out section 4656 of this title , as in effect on October 2, 2024 .
+- **(e)**
+  - **(1)** In this subsection, the term “prior studies and decisions” means baseline data, planning documents, studies, analyses, decisions, and documentation that a Federal agency has completed for a project (or that have been completed under the laws and procedures of a State or Indian Tribe), including for determining the reasonable range of alternatives for that project.
+  - **(2)** In completing an environmental review under NEPA for a covered activity, the Secretary may consider and, as appropriate, rely on or adopt prior studies and decisions, if the Secretary determines that—
+    - **(A)** those prior studies and decisions meet the standards for an adequate statement, assessment, or determination under applicable procedures of the Department of Commerce implementing the requirements of NEPA;
+    - **(B)** in the case of prior studies and decisions completed under the laws and procedures of a State or Indian Tribe, those laws and procedures are of equal or greater rigor than those of each applicable Federal law, including NEPA, implementing procedures of the Department of Commerce; or
+    - **(C)** if applicable, the prior studies and decisions are informed by other analysis or documentation that would have been prepared if the prior studies and decisions were prepared by the Secretary under NEPA.
+- **(f)** In this section:
+  - **(1)** The term “covered activity” means any activity relating to the construction, expansion, or modernization of a facility, the investment in which is eligible for Federal financial assistance under section 4652 or 4656 of this title.
+  - **(2)** The term “NEPA” means the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).

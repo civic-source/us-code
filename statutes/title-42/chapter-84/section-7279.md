@@ -3,9 +3,9 @@ title: "Section 7279 - Identification in budget materials of amounts for certain
 usc_title: 42
 usc_section: "7279"
 chapter: 84
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7279"
-generated_at: "2026-03-29T19:31:45.354Z"
+generated_at: "2026-03-29T20:00:55.104Z"
 ---
 
 # § 7279. Identification in budget materials of amounts for certain Department of Energy pension obligations

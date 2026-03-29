@@ -3,9 +3,9 @@ title: "Section 1769a - Fresh fruit and vegetable program"
 usc_title: 42
 usc_section: "1769a"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1769a"
-generated_at: "2026-03-29T19:31:44.952Z"
+generated_at: "2026-03-29T20:00:54.695Z"
 ---
 
 # § 1769a. Fresh fruit and vegetable program
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T19:31:44.952Z"
 - **(b)** A school participating in the program shall make free fresh fruits and vegetables available to students throughout the school day (or at such other times as are considered appropriate by the Secretary) in 1 or more areas designated by the school.
 - **(c)**
   - **(1)** Except as provided in subsection (i)(2), the Secretary shall provide to each of the 50 States and the District of Columbia an annual grant in an amount equal to 1 percent of the funds made available for a year to carry out the program.
-  - **(2)** Of the funds remaining after grants are made under paragraph (1), the Secretary shall allocate additional funds to each State that is operating a school lunch program under section 4 based on the proportion that—
+  - **(2)** Of the funds remaining after grants are made under paragraph (1), the Secretary shall allocate additional funds to each State that is operating a school lunch program under section 1753 of this title based on the proportion that—
     - **(A)** the population of the State; bears to
     - **(B)** the population of the United States.
 - **(d)**

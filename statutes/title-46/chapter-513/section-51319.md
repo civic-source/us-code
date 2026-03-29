@@ -3,9 +3,9 @@ title: "Section 51319 - Sexual assault response coordinators and sexual assault 
 usc_title: 46
 usc_section: "51319"
 chapter: 513
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 51319"
-generated_at: "2026-03-29T19:44:39.446Z"
+generated_at: "2026-03-29T20:01:03.923Z"
 ---
 
 # § 51319. Sexual assault response coordinators and sexual assault victim advocates
@@ -54,6 +54,10 @@ generated_at: "2026-03-29T19:44:39.446Z"
   - **(2)** Any request by a victim for an accommodation, as described in subsection (a)(5)(E), made by a sexual assault response coordinator shall not trigger an investigation by the Academy, even if such coordinator deals only with matters relating to sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
   - **(3)** A sexual assault response coordinator, victim advocate, or companion may not be disciplined, penalized, or otherwise retaliated against by the Academy for representing the interests of the victim, even if such interests are in conflict with the interests of the Academy.
 - **(c)**
+  - **(1)** The Secretary shall designate an attorney (to be known as the “Special Victims Advisor”) for the purpose of providing legal assistance to any cadet of the Academy who is the victim of an alleged sex-related offense regarding administrative and criminal proceedings related to such offense, regardless of whether the report of that offense is restricted or unrestricted.
+  - **(2)** The Secretary shall ensure that the attorney designated as the Special Victims Advisor has knowledge of the Uniform Code of Military Justice, as well as criminal and civil law.
+  - **(3)** Any communications between a victim of an alleged sex-related offense and the Special Victim Advisor, when acting in their capacity as such, shall have the same protection that applicable law provides for confidential attorney-client communications.
+- **(d)**
   - **(1)** The Secretary, acting through the Superintendent of the Academy, shall designate from among volunteers 1 or more permanent employees of the Academy to serve as advocates for victims of sexual assaults involving cadets of the Academy or other Academy personnel.
   - **(2)** Each victim advocate designated under this subsection shall—
     - **(A)** have or receive training in matters relating to sexual assault and the comprehensive policy developed under section 51318; and
@@ -66,3 +70,4 @@ generated_at: "2026-03-29T19:44:39.446Z"
     - **(A)** At least 1 victim advocate designated under this subsection, or a sexual assault response coordinator designated under subsection (a), while performing the duties of a victim advocate, shall act as a companion to a victim described in paragraph (1) in navigating investigative, medical, mental, and emotional health, and recovery processes relating to sexual assault.
     - **(B)** If requested by the victim, an alternate victim advocate shall be designated under this subsection to act as a companion to the victim, as described in subparagraph (A).
   - **(5)** The Secretary may enter into formal relationships with other entities to make available additional victim advocates or to implement paragraphs (3) and (4).
+- **(e)** The Administrator of the Maritime Administration may appoint qualified candidates to positions under subsections (a) and (d) of this section without regard to sections 3309 through 3319 of title 5.

@@ -3,33 +3,33 @@ title: "Section 4865 - Security requirements for United States diplomatic facili
 usc_title: 22
 usc_section: "4865"
 chapter: 58
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 4865"
-generated_at: "2026-03-29T19:42:08.197Z"
+generated_at: "2026-03-29T19:59:24.234Z"
 ---
 
 # § 4865. Security requirements for United States diplomatic facilities
 
 - **(a)** The following security requirements shall apply with respect to United States diplomatic facilities and specified personnel:
   - **(1)**
-    - **(A)** The Emergency Action Plan (EAP) of each United States mission shall address the threat of large explosive attacks from vehicles and from complex attacks (as such term is defined in section 4866 of this title ), and the safety of employees during such an explosive attack or such a complex attack. Such plan shall be reviewed and updated annually.
+    - **(A)** The Emergency Action Plan (EAP) of each United States mission shall address a range of threats, including that of large explosive attacks from vehicles and from complex attacks (as such term is defined in section 4866 of this title ), and the safety of employees during such an explosive attack or such a complex attack. Such plan shall be reviewed and updated annually.
     - **(B)** The Security Environment Threat List shall contain a section that addresses potential acts of international terrorism against United States diplomatic facilities based on threat identification criteria that emphasize the threat of transnational terrorism and include the local security environment, host government support, and other relevant factors such as cultural realities. Such plan shall be reviewed and updated every six months.
   - **(2)**
-    - **(A)** In selecting a site for any new United States diplomatic facility abroad, the Secretary shall ensure that all United States Government personnel at the post (except those under the command of an area military commander) will be located on the site.
+    - **(A)** In selecting a site for any new United States diplomatic facility abroad in a location that has certain minimum ratings under the Security Environment Threat List as determined by the Secretary in his or her discretion, the Secretary shall ensure that all United States Government personnel at the post (except those under the command of an area military commander, personnel of the Peace Corps, and personnel of any other type or category of facility that the Secretary may identify) will be located on the site.
     - **(B)**
-      - **(i)** Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
-      - **(ii)**
-        - **(I)** The Secretary may not delegate the waiver authority under clause (i) with respect to a chancery or consulate building.
-        - **(II)** Not less than 15 days prior to implementing the waiver authority under clause (i) with respect to a chancery or consulate building, the Secretary shall notify the appropriate congressional committees in writing of the waiver and the reasons for the determination.
+      - **(i)** Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary, in consultation with, as appropriate, the head of each agency employing personnel that would not be located at the site, if applicable, determines that it is in the national interest of the United States after taking account of any considerations the Secretary in his or her discretion considers relevant, which may include security conditions.
+      - **(ii)** Prior to implementing the waiver authority under clause (i) with respect to a chancery or consulate building, the Secretary shall notify the appropriate congressional committees in writing of the waiver and the reasons for the determination.
       - **(iii)** The Secretary shall submit to the appropriate congressional committees an annual report of all waivers under this subparagraph.
   - **(3)**
-    - **(A)** Each newly acquired United States diplomatic facility shall be sited not less than 100 feet from the perimeter of the property on which the facility is to be situated.
+    - **(A)**
+      - **(i)** Each newly acquired United States diplomatic facility in a location that has certain minimum ratings under the Security Environment Threat List as determined by the Secretary of State in his or her discretion shall—
+        - **(I)** be constructed or modified to meet the measured building blast performance standard applicable to a diplomatic facility sited not less than 100 feet from the perimeter of the property on which the facility is situated; or
+        - **(II)** fulfill the criteria described in clause (ii).
+      - **(ii)** Each facility referred to in clause (i) may, instead of meeting the requirement under such clause, fulfill such other criteria as the Secretary is authorized to employ to achieve an engineering standard of security and degree of protection that is equivalent to the numerical perimeter distance setback described in such clause seeks to achieve.
     - **(B)**
-      - **(i)** Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary determines that security considerations permit and it is in the national interest of the United States.
-      - **(ii)**
-        - **(I)** The Secretary may not delegate the waiver authority under clause (i) with respect to a chancery or consulate building.
-        - **(II)** Not less than 15 days prior to implementing the waiver authority under subparagraph (A) with respect to a chancery or consulate building, the Secretary shall notify the appropriate congressional committees in writing of the waiver and the reasons for the determination.
-      - **(iii)** The Secretary shall submit to the appropriate congressional committees an annual report of all waivers under this subparagraph.
+      - **(i)** Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary determines that it is in the national interest of the United States after taking account of any considerations the Secretary in his or her discretion considers relevant, which may include security conditions.
+      - **(ii)** Prior to implementing the waiver authority under subparagraph (A) with respect to a chancery or consulate building, the Secretary shall notify the appropriate congressional committees in writing of the waiver and the reasons for the determination.
+      - **(iii)** The Secretary shall submit to the appropriate congressional committees a quarterly report of all waivers under this subparagraph.
   - **(4)**
     - **(A)** The appropriate personnel of the Department of State headquarters staff shall undertake crisis management training for mass casualty and mass destruction incidents relating to diplomatic facilities for the purpose of bringing about a rapid response to such incidents from Department of State headquarters in Washington, D.C.
     - **(B)** A program of appropriate instruction in crisis management shall be provided to personnel at United States diplomatic facilities abroad at least on an annual basis.

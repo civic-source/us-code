@@ -3,9 +3,9 @@ title: "Section 2044 - Financial assistance for supportive services for very low
 usc_title: 38
 usc_section: "2044"
 chapter: 20
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 2044"
-generated_at: "2026-03-29T19:43:26.991Z"
+generated_at: "2026-03-29T20:00:43.042Z"
 ---
 
 # § 2044. Financial assistance for supportive services for very low-income veteran families in permanent housing
@@ -55,18 +55,15 @@ generated_at: "2026-03-29T19:43:26.991Z"
 - **(d)**
   - **(1)** The Secretary shall provide training and technical assistance to participating eligible entities regarding the planning, development, and provision of supportive services to very low-income veteran families occupying permanent housing, through the Technical Assistance grants program in section 2064 of this title .
   - **(2)** The Secretary may provide the training described in paragraph (1) directly or through grants or contracts with appropriate public or nonprofit private entities.
-- **(e)**
-  - **(1)** From amounts appropriated to the Department for Medical Services, there shall be available to carry out subsections (a), (b), and (c) amounts as follows:
-    - **(A)** $15,000,000 for fiscal year 2009.
-    - **(B)** $20,000,000 for fiscal year 2010.
-    - **(C)** $25,000,000 for fiscal year 2011.
-    - **(D)** $100,000,000 for fiscal year 2012.
-    - **(E)** $320,000,000 for each of fiscal years 2015 through 2017.
-    - **(F)** $340,000,000 for fiscal year 2018.
-    - **(G)** $380,000,000 for each of fiscal years 2019 and 2020.
-    - **(H)** $420,000,000 for each of fiscal years 2021 and 2022.
-  - **(2)** Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
-  - **(3)** There is authorized to be appropriated $1,000,000 for each of the fiscal years 2009 through 2012 to carry out the provisions of subsection (d).
+- **(e)** From amounts appropriated to the Department for Medical Services, there shall be available to carry out subsections (a), (b), and (c) amounts as follows:
+  - **(1)** $15,000,000 for fiscal year 2009.
+  - **(2)** $20,000,000 for fiscal year 2010.
+  - **(3)** $25,000,000 for fiscal year 2011.
+  - **(4)** $100,000,000 for fiscal year 2012.
+  - **(5)** $320,000,000 for each of fiscal years 2015 through 2017.
+  - **(6)** $340,000,000 for fiscal year 2018.
+  - **(7)** $380,000,000 for each of fiscal years 2019 and 2020.
+  - **(8)** $420,000,000 for each of fiscal years 2021 through 2025.
 - **(f)** In this section:
   - **(1)** The term “consumer cooperative” has the meaning given such term in section 202 of the Housing Act of 1959 ( 12 U.S.C. 1701q ).
   - **(2)** The term “eligible entity” means—

@@ -3,13 +3,16 @@ title: "Section 3707 - NASA ocean acidification activities"
 usc_title: 33
 usc_section: "3707"
 chapter: 50
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 3707"
-generated_at: "2026-03-29T19:43:07.748Z"
+generated_at: "2026-03-29T20:00:31.448Z"
 ---
 
 # § 3707. NASA ocean acidification activities
 
-- **(a)** The Administrator of the National Aeronautics and Space Administration, in coordination with other relevant agencies, shall ensure that space-based monitoring assets are used in as productive a manner as possible for monitoring of ocean acidification and its impacts.
-- **(b)** The Administrator shall ensure that the Agency’s research and monitoring activities on ocean acidification are carried out in a manner consistent with the strategic research plan developed by the Subcommittee under section 3704 of this title .
-- **(c)** The Administrator shall encourage coordination of the Agency’s ocean acidification activities with such activities of other nations and international organizations.
+- **(a)** The Administrator of the National Aeronautics and Space Administration, in coordination with other relevant agencies, shall ensure that space-based monitoring assets are used in as productive a manner as possible for monitoring of ocean acidification and coastal acidification and their respective impacts.
+- **(b)** The Administrator shall ensure that the Agency’s research and monitoring activities on ocean acidification and coastal acidification are carried out in a manner consistent with the strategic research plan developed by the Subcommittee under section 3704 of this title .
+- **(c)** The Administrator shall encourage coordination of the Agency’s ocean acidification and coastal acidification activities with such activities of other nations and international organizations.
+- **(d)** Researchers from the National Aeronautics and Space Administration under this subtitle that collect data described under section 3705(d) of this title shall—
+  - **(1)** collect such data in accordance with the standards, protocols, or procedures established pursuant to section 3705(d) of this title ; and
+  - **(2)** submit such data to the Administrator and the Secretary, in accordance with any rules promulgated by the Administrator or the Secretary.

@@ -3,9 +3,9 @@ title: "Section 7341 - General rule"
 usc_title: 10
 usc_section: "7341"
 chapter: 743
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 7341"
-generated_at: "2026-03-29T19:43:38.085Z"
+generated_at: "2026-03-29T19:58:02.283Z"
 ---
 
 # § 7341. General rule

@@ -1,12 +1,12 @@
 ---
-title: "Section 2757 - Repealed. Pub. L. 90–575, title I , § 131(a), Oct. 16, 1968 , 82 Stat. 1028"
+title: "Section 2757 - Repealed. Pub. L. 90–575, title I, § 131(a) , Oct. 16, 1968 , 82 Stat. 1028"
 usc_title: 42
 usc_section: "2757"
 chapter: 34
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2757"
-generated_at: "2026-03-29T19:31:45.051Z"
+generated_at: "2026-03-29T20:00:54.820Z"
 ---
 
-# § 2757. Repealed. Pub. L. 90–575, title I , § 131(a), Oct. 16, 1968 , 82 Stat. 1028
+# § 2757. Repealed. Pub. L. 90–575, title I, § 131(a) , Oct. 16, 1968 , 82 Stat. 1028
 

@@ -3,9 +3,9 @@ title: "Section 628d - Effective implementation of the Indian Child Welfare Act 
 usc_title: 42
 usc_section: "628d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 628d"
-generated_at: "2026-03-29T02:15:35.999Z"
+generated_at: "2026-03-29T20:00:54.195Z"
 ---
 
 # § 628d. Effective implementation of the Indian Child Welfare Act of 1978

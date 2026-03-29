@@ -3,9 +3,9 @@ title: "Section 2021 - Cooperation with States"
 usc_title: 42
 usc_section: "2021"
 chapter: 23
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2021"
-generated_at: "2026-03-29T19:31:45.011Z"
+generated_at: "2026-03-29T20:00:54.765Z"
 ---
 
 # § 2021. Cooperation with States
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T19:31:45.011Z"
 - **(e)**
   - **(1)** Before any agreement under subsection (b) is signed by the Commission, the terms of the proposed agreement and of proposed exemptions pursuant to subsection (f) shall be published once each week for four consecutive weeks in the Federal Register; and such opportunity for comment by interested persons on the proposed agreement and exemptions shall be allowed as the Commission determines by regulation or order to be appropriate.
   - **(2)** Each proposed agreement shall include the proposed effective date of such proposed agreement or exemptions. The agreement and exemptions shall be published in the Federal Register within thirty days after signature by the Commission and the Governor.
-- **(f)** The Commission is authorized and directed, by regulation or order, to grant such exemptions from the licensing requirements contained in subchapters V, VI, and VII of this division, and from its regulations applicable to licensees as the Commission finds necessary or appropriate to carry out any agreement entered into pursuant to subsection (b) of this section.
+- **(f)** The Commission is authorized and directed, by regulation or order, to grant such exemptions from the licensing requirements contained in subchapters V, VI, and VII, and from its regulations applicable to licensees as the Commission finds necessary or appropriate to carry out any agreement entered into pursuant to subsection (b) of this section.
 - **(g)** The Commission is authorized and directed to cooperate with the States in the formulation of standards for protection against hazards of radiation to assure that State and Commission programs for protection against hazards of radiation will be coordinated and compatible.
 - **(h)** The Administrator of the Environmental Protection Agency shall consult qualified scientists and experts in radiation matters, including the President of the National Academy of Sciences, the Chairman of the National Committee on Radiation Protection and Measurement, and qualified experts in the field of biology and medicine and in the field of health physics. The Special Assistant to the President for Science and Technology, or his designee, is authorized to attend meetings with, participate in the deliberations of, and to advise the Administrator. The Administrator shall advise the President with respect to radiation matters, directly or indirectly affecting health, including guidance for all Federal agencies in the formulation of radiation standards and in the establishment and execution of programs of cooperation with States. The Administrator shall also perform such other functions as the President may assign to him by Executive order.
 - **(i)** The Commission in carrying out its licensing and regulatory responsibilities under this chapter is authorized to enter into agreements with any State, or group of States, to perform inspections or other functions on a cooperative basis as the Commission deems appropriate. The Commission is also authorized to provide training, with or without charge, to employees of, and such other assistance to, any State or political subdivision thereof or group of States as the Commission deems appropriate. Any such provision or assistance by the Commission shall take into account the additional expenses that may be incurred by a State as a consequence of the State’s entering into an agreement with the Commission pursuant to subsection (b).

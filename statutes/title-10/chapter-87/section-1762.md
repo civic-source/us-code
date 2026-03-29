@@ -3,9 +3,9 @@ title: "Section 1762 - Demonstration project relating to certain acquisition per
 usc_title: 10
 usc_section: "1762"
 chapter: 87
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1762"
-generated_at: "2026-03-29T19:43:37.949Z"
+generated_at: "2026-03-29T19:58:02.121Z"
 ---
 
 # § 1762. Demonstration project relating to certain acquisition personnel management policies and procedures
@@ -47,5 +47,5 @@ generated_at: "2026-03-29T19:43:37.949Z"
   - **(1)** the Committees on Armed Services of the Senate and the House of Representatives;
   - **(2)** the Committee on Homeland Security and Governmental Affairs of the Senate; and
   - **(3)** the Committee on Oversight and Government Reform of the House of Representatives.
-- **(g)** The authority to conduct a demonstration project under this section shall terminate on December 31, 2026 .
+- **(g)** The authority to conduct a demonstration project under this section shall terminate on December 31, 2031 .
 - **(h)** Within 6 months after the authority to conduct a demonstration project under this section is terminated as provided in subsection (g), employees in the project shall convert to the civilian personnel system created pursuant to section 9902 of title 5 .

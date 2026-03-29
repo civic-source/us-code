@@ -3,9 +3,9 @@ title: "Section 19116 - Authorities"
 usc_title: 42
 usc_section: "19116"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 19116"
-generated_at: "2026-03-29T02:15:37.488Z"
+generated_at: "2026-03-29T20:00:55.712Z"
 ---
 
 # § 19116. Authorities
@@ -19,7 +19,7 @@ In addition to existing authorities available to the Foundation, the Director ma
       - **(ii)** come from a variety of backgrounds, including industry, and from a variety of institutions of higher education.
     - **(B)** A program director of a program of the Directorate, in consultation with the Assistant Director, shall be responsible for—
       - **(i)** establishing research and development goals for the program, including through the convening of workshops, conferring with a broad range of stakeholders and outside experts, taking into account relevant expert reports, and publicizing the goals of the program to the public and private sectors;
-      - **(ii)** surveying a wide range of institutions of higher education, nonprofit organizations, and private entities to identify emerging trends in the challenges and key technology focus areas under section 19107 of this title , and, as appropriate, soliciting proposals from such entities to conduct research in areas of particular promise that the private sector is the not likely to undertake independently. 1 1 So in original. The period probably should be a semicolon.
+      - **(ii)** surveying a wide range of institutions of higher education, nonprofit organizations, and private entities to identify emerging trends in the challenges and key technology focus areas under section 19107 of this title , and, as appropriate, soliciting proposals from such entities to conduct research in areas of particular promise that the private sector is the not likely to undertake independently.
       - **(iii)** facilitating research collaborations in the challenges and key technology focus areas under section 19107 of this title , including connecting academic researchers with potential end-users of technology, including industry, labor organizations, nonprofit organizations, civil society organizations, and other relevant organizations;
       - **(iv)** reviewing applications for projects submitted under section 19114 of this title according to the Merit Review Criteria established by the Director for such projects and described in the Foundation’s Proposal and Award Policies and Procedures Guide, and any such additional criteria as determined by the Director; and
       - **(v)** monitoring the progress of projects supported under the program and taking into account input from relevant experts and stakeholders, recommending program updates as needed.
@@ -47,9 +47,9 @@ In addition to existing authorities available to the Foundation, the Director ma
       - **(i)** Except as provided in clause (ii), the service of an employee under an appointment made pursuant to this subsection may not exceed 5 years.
       - **(ii)** The Foundation may, in the case of a particular employee, extend the period to which service is limited under clause (i) by up to 1 additional year if the Foundation determines that such action is necessary to promote the Foundation’s national security missions.
     - **(D)**
-      - **(i)** The total amount of the additional payments paid to an employee under this subsection for any 12-month period may not exceed the maximum amount of total compensation payable at the salary set in accordance with section 104 of title. 2 2 So in original. Probably should be “ section 104 of title 3 ”.
+      - **(i)** The total amount of the additional payments paid to an employee under this subsection for any 12-month period may not exceed the maximum amount of total compensation payable at the salary set in accordance with section 104 of title. 1 1 So in original. Probably should be “ section 104 of title 3 ”.
       - **(ii)** An employee appointed under this subsection is not eligible for any bonus, monetary award, or other monetary incentive for service, except for payments authorized under this subsection.
-    - **(E)** The number of highly qualified experts appointed and retained by the Foundation under sub 3 3 So in original. Probably should be “subparagraph”. (B)(i) shall not exceed 70 at any time.
+    - **(E)** The number of highly qualified experts appointed and retained by the Foundation under sub 2 2 So in original. Probably should be “subparagraph”. (B)(i) shall not exceed 70 at any time.
     - **(F)** In the event that the Foundation terminates the program under this paragraph, in the case of an employee who, on the day before the termination of the program, is serving in a position pursuant to an appointment under this paragraph—
       - **(i)** the termination of the program does not terminate the employee’s employment in that position before the expiration of the lesser of—
         - **(I)** the period for which the employee was appointed; or

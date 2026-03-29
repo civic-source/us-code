@@ -3,9 +3,9 @@ title: "Section 1107 - Additional report"
 usc_title: 8
 usc_section: "1107"
 chapter: 12
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "8 U.S.C. § 1107"
-generated_at: "2026-03-29T19:43:45.642Z"
+generated_at: "2026-03-29T19:57:30.738Z"
 ---
 
 # § 1107. Additional report

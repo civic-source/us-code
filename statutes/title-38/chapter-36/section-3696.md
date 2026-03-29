@@ -3,9 +3,9 @@ title: "Section 3696 - Prohibition on certain advertising, sales, and enrollment
 usc_title: 38
 usc_section: "3696"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 3696"
-generated_at: "2026-03-29T19:43:27.030Z"
+generated_at: "2026-03-29T20:00:43.092Z"
 ---
 
 # § 3696. Prohibition on certain advertising, sales, and enrollment practices

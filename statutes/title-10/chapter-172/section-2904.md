@@ -3,9 +3,9 @@ title: "Section 2904 - Strategic Environmental Research and Development Program 
 usc_title: 10
 usc_section: "2904"
 chapter: 172
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2904"
-generated_at: "2026-03-29T19:43:38.026Z"
+generated_at: "2026-03-29T19:58:02.216Z"
 ---
 
 # § 2904. Strategic Environmental Research and Development Program Scientific Advisory Board
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T19:43:38.026Z"
 - **(e)** The Council shall refer to the Advisory Board, and the Advisory Board shall review, each proposed research project including its estimated cost, for research in and development of technologies related to environmental activities in excess of $1,000,000. The Advisory Board shall make any recommendations to the Council that the Advisory Board considers appropriate regarding such project or proposal.
 - **(f)** The Advisory Board may make recommendations to the Council regarding technologies, research, projects, programs, activities, and, if appropriate, funding within the scope of the Strategic Environmental Research and Development Program.
 - **(g)** The Advisory Board shall assist and advise the Council in identifying the environmental data and analytical assistance activities that should be covered by the policies and procedures prescribed pursuant to section 2902(d)(1) of this title .
-- **(h)** Each member of the Advisory Board shall be required to file a financial disclosure report under title I of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+- **(h)** Each member of the Advisory Board shall be required to file a financial disclosure report under subchapter I of chapter 131 of title 5.

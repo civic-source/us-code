@@ -3,29 +3,25 @@ title: "Section 660 - Cybersecurity plans"
 usc_title: 6
 usc_section: "660"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 660"
-generated_at: "2026-03-29T19:43:43.821Z"
+generated_at: "2026-03-29T19:57:32.925Z"
 ---
 
 # § 660. Cybersecurity plans
 
-- **(a)** In this section—
-  - **(1)** the term “agency information system” means an information system used or operated by an agency or by another entity on behalf of an agency;
-  - **(2)** the terms “cybersecurity risk” and “information system” have the meanings given those terms in section 659 of this title ;
-  - **(3)** the term “intelligence community” has the meaning given the term in section 3003(4) of title 50 ; and
-  - **(4)** the term “national security system” has the meaning given the term in section 11103 of title 40 .
+- **(a)** In this section, the term “agency information system” means an information system used or operated by an agency or by another entity on behalf of an agency.
 - **(b)**
   - **(1)** The Secretary, in coordination with the Director of the Office of Management and Budget, shall—
     - **(A)** develop and implement an intrusion assessment plan to proactively detect, identify, and remove intruders in agency information systems on a routine basis; and
     - **(B)** update such plan as necessary.
   - **(2)** The intrusion assessment plan required under paragraph (1) shall not apply to the Department of Defense, a national security system, or an element of the intelligence community.
-- **(c)** The Director of Cybersecurity and Infrastructure Security shall, in coordination with appropriate Federal departments and agencies, State and local governments, sector coordinating councils, information sharing and analysis organizations (as defined in section 671(5) of this title ), owners and operators of critical infrastructure, and other appropriate entities and individuals, develop, update not less often than biennially, maintain, and exercise adaptable cyber incident response plans to address cybersecurity risks (as defined in section 659 of this title ) to critical infrastructure. The Director, in consultation with relevant Sector Risk Management Agencies and the National Cyber Director, shall develop mechanisms to engage with stakeholders to educate such stakeholders regarding Federal Government cybersecurity roles and responsibilities for cyber incident response.
+- **(c)** The Director of the Cybersecurity and Infrastructure Security Agency shall, in coordination with appropriate Federal departments and agencies, State and local governments, sector coordinating councils, Information Sharing and Analysis Organizations, owners and operators of critical infrastructure, and other appropriate entities and individuals, develop, update not less often than biennially, maintain, and exercise adaptable cyber incident response plans to address cybersecurity risks to critical infrastructure. The Director, in consultation with relevant Sector Risk Management Agencies and the National Cyber Director, shall develop mechanisms to engage with stakeholders to educate such stakeholders regarding Federal Government cybersecurity roles and responsibilities for cyber incident response.
 - **(d)** The Secretary, in coordination with the heads of other appropriate Federal departments and agencies, and in accordance with the National Cybersecurity Incident Response Plan required under subsection (c), shall regularly update, maintain, and exercise the Cyber Incident Annex to the National Response Framework of the Department.
 - **(e)**
   - **(1)**
     - **(A)** Not later than one year after December 27, 2021 , the Secretary, acting through the Director, shall, in coordination with the heads of appropriate Federal agencies, State, local, Tribal, and territorial governments, and other stakeholders, as appropriate, develop and make publicly available a Homeland Security Strategy to Improve the Cybersecurity of State, Local, Tribal, and Territorial Governments.
-    - **(B)** The strategy required under subparagraph (A) shall provide recommendations relating to the ways in which the Federal Government should support and promote the ability of State, local, Tribal, and territorial governments to identify, mitigate against, protect against, detect, respond to, and recover from cybersecurity risks (as such term is defined in section 659 of this title ), cybersecurity threats, and incidents (as such term is defined in section 659 of this title ).
+    - **(B)** The strategy required under subparagraph (A) shall provide recommendations relating to the ways in which the Federal Government should support and promote the ability of State, local, Tribal, and territorial governments to identify, mitigate against, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, and incidents.
   - **(2)** The strategy required under paragraph (1) shall—
     - **(A)** identify capability gaps in the ability of State, local, Tribal, and territorial governments to identify, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, incidents, and ransomware incidents;
     - **(B)** identify Federal resources and capabilities that are available or could be made available to State, local, Tribal, and territorial governments to help those governments identify, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, incidents, and ransomware incidents;
@@ -40,6 +36,6 @@ generated_at: "2026-03-29T19:43:43.821Z"
   - **(3)** In developing the strategy required under paragraph (1), the Director, in coordination with the heads of appropriate Federal agencies, State, local, Tribal, and territorial governments, and other stakeholders, as appropriate, shall consider—
     - **(A)** lessons learned from incidents that have affected State, local, Tribal, and territorial governments, and exercises with Federal and non-Federal entities;
     - **(B)** the impact of incidents that have affected State, local, Tribal, and territorial governments, including the resulting costs to such governments;
-    - **(C)** the information related to the interest and ability of state and non-state threat actors to compromise information systems (as such term is defined in section 1501 of this title ) owned or operated by State, local, Tribal, and territorial governments; and
+    - **(C)** the information related to the interest and ability of state and non-state threat actors to compromise information systems owned or operated by State, local, Tribal, and territorial governments; and
     - **(D)** emerging cybersecurity risks and cybersecurity threats to State, local, Tribal, and territorial governments resulting from the deployment of new technologies.
   - **(4)** Chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”) shall not apply to any action to implement this subsection.

@@ -3,9 +3,9 @@ title: "Section 1490p - Accountability"
 usc_title: 42
 usc_section: "1490p"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1490p"
-generated_at: "2026-03-29T19:31:44.923Z"
+generated_at: "2026-03-29T20:00:54.659Z"
 ---
 
 # § 1490p. Accountability
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T19:31:44.923Z"
     - **(B)** $1,000,000 in the case of an applicant other than an individual.
   - **(3)** Notwithstanding any other provision of law, all civil money penalties collected under this section shall be deposited in the Rural Housing Insurance Fund.
   - **(4)** This subsection may not be construed to limit the applicability of any requirements, sanctions, penalties, or remedies established under any other law. The Secretary shall not be relieved of any obligation to carry out the requirements of this section because such other requirements, sanctions, penalties, or remedies apply.
-- **(f)** The Secretary shall certify that assistance provided by the Secretary to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance from all Federal, State, and local sources. The Secretary shall adjust the amount of assistance provided to an applicant to compensate for any changes reported under subsection (c) of this section.
+- **(f)** The Secretary shall certify that assistance provided by the Secretary to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance from all Federal, State, and local sources. The Secretary shall adjust the amount of assistance provided to an applicant to compensate for any changes reported under subsection (c).
 - **(g)** Not less than 180 days following December 15, 1989 , the Secretary shall promulgate regulations to implement this section.
 - **(h)** For purposes of this section, the term “assistance” means any housing grant, loan, guarantee, insurance, rebate, subsidy, tax credit benefit, or other form of direct or indirect assistance, for the original construction or development of the project.
 - **(i)** The Secretary shall submit to the Congress, not later than 180 days following December 15, 1989 , a report describing actions taken to carry out this section, including actions to inform and educate officers and employees of the Department of Agriculture regarding the provisions of this section.

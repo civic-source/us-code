@@ -3,9 +3,9 @@ title: "Section 20714 - Training of tribal law enforcement and prosecutorial per
 usc_title: 34
 usc_section: "20714"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 20714"
-generated_at: "2026-03-29T02:14:25.353Z"
+generated_at: "2026-03-29T20:00:27.484Z"
 ---
 
 # § 20714. Training of tribal law enforcement and prosecutorial personnel

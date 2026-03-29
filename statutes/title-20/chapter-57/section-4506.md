@@ -3,9 +3,9 @@ title: "Section 4506 - Recipient’s eligibility"
 usc_title: 20
 usc_section: "4506"
 chapter: 57
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 4506"
-generated_at: "2026-03-29T19:41:03.366Z"
+generated_at: "2026-03-29T19:58:56.852Z"
 ---
 
 # § 4506. Recipient’s eligibility

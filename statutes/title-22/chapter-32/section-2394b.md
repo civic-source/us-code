@@ -3,9 +3,9 @@ title: "Section 2394b - HELP Commission"
 usc_title: 22
 usc_section: "2394b"
 chapter: 32
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2394b"
-generated_at: "2026-03-29T19:42:08.088Z"
+generated_at: "2026-03-29T19:59:24.112Z"
 ---
 
 # § 2394b. HELP Commission
@@ -72,7 +72,7 @@ generated_at: "2026-03-29T19:42:08.088Z"
   - **(1)** Not later than 2 years after the members of the Commission are appointed under subsection (d)(1), the Commission shall submit a report to the President, the Secretary of State, the Committee on Appropriations and the Committee on International Relations of the House of Representatives, and the Committee on Appropriations and the Committee on Foreign Relations of the Senate, setting forth its findings and recommendations under section 1 1 So in original. Probably should be “subsection”. (c)(2).
   - **(2)** The report may be submitted in classified form, together with a public summary of recommendations, if the classification of information would further the purposes of this section.
   - **(3)** Each member of the Commission may include the individual or dissenting views of the member.
-- **(g)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+- **(g)** Chapter 10 of title 5 shall not apply to the Commission.
 - **(h)** In this section, the term “United States development assistance” means—
   - **(1)** assistance provided by the United States under chapters 1, 10, 11, and 12 of part I of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq., 2293 et seq., 2295 et seq., 2296 et seq.]; and
   - **(2)** assistance provided under any other provision of law to carry out purposes comparable to those set forth in the provisions referred to in paragraph (1).

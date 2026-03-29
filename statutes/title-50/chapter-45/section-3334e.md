@@ -3,9 +3,9 @@ title: "Section 3334e - Enhanced procurement authority to manage supply chain ri
 usc_title: 50
 usc_section: "3334e"
 chapter: 45
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3334e"
-generated_at: "2026-03-29T19:44:52.858Z"
+generated_at: "2026-03-29T20:01:07.357Z"
 ---
 
 # § 3334e. Enhanced procurement authority to manage supply chain risk
@@ -21,7 +21,7 @@ generated_at: "2026-03-29T19:44:52.858Z"
     - **(A)** The exclusion of a source that fails to meet qualifications standards established in accordance with the requirements of section 3311 of title 41 for the purpose of reducing supply chain risk in the acquisition of covered systems.
     - **(B)** The exclusion of a source that fails to achieve an acceptable rating with regard to an evaluation factor providing for the consideration of supply chain risk in the evaluation of proposals for the award of a contract or the issuance of a task or delivery order.
     - **(C)** The decision to withhold consent for a contractor to subcontract with a particular source or to direct a contractor for a covered system to exclude a particular source from consideration for a subcontract under the contract.
-  - **(5)** The term “covered system” means a national security system, as that term is defined in section 3542(b) 1 1 See References in Text note below. of title 44.
+  - **(5)** The term “covered system” means a national security system, as that term is defined in section 3552 of title 44 .
   - **(6)** The term “supply chain risk” means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of such system.
 - **(b)** Subject to subsection (c) and in consultation with the Director of National Intelligence, the head of a covered agency may, in conducting intelligence and intelligence-related activities—
   - **(1)** carry out a covered procurement action; and

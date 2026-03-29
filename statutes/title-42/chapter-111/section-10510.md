@@ -1,14 +1,12 @@
 ---
-title: "Section 10510 - Bureau of Justice Assistance"
+title: "Section 10510 - Transferred"
 usc_title: 42
 usc_section: "10510"
 chapter: 111
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 10510"
-generated_at: "2026-03-29T19:31:45.588Z"
+generated_at: "2026-03-29T20:00:55.353Z"
 ---
 
-# § 10510. Bureau of Justice Assistance
-
-The Director of the Bureau of Justice Assistance may assist the Attorney General in providing Federal law enforcement assistance under this chapter and in coordinating the activities authorized under this chapter.
+# § 10510. Transferred
 

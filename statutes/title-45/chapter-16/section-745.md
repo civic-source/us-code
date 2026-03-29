@@ -3,9 +3,9 @@ title: "Section 745 - Continuing reorganization; supplemental transactions"
 usc_title: 45
 usc_section: "745"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "45 U.S.C. § 745"
-generated_at: "2026-03-29T19:31:12.241Z"
+generated_at: "2026-03-29T19:59:46.765Z"
 ---
 
 # § 745. Continuing reorganization; supplemental transactions
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T19:31:12.241Z"
   - **(4)** In proceedings under this subsection, the special court is authorized to exercise the powers of a reorganization court.
   - **(5)** Any evaluation by the Association, the Secretary, or the Commission shall not be reviewable in any court except the special court in accordance with the provisions of this section. The supplemental transactions shall not be restrained or enjoined by any court nor shall they be otherwise reviewable by any court other than by the special court to the extent provided in this section.
   - **(6)** Notwithstanding any other provision of this chapter, no findings, determinations, or proceedings shall be required with respect to any proposal for supplemental transactions other than as expressly set forth in this section.
-  - **(7)** Repealed. Pub. L. 97–35, title XI , § 1155(b), Aug. 13, 1981 , 95 Stat. 679 .
+  - **(7)** Repealed. Pub. L. 97–35, title XI, § 1155(b) , Aug. 13, 1981 , 95 Stat. 679 .
   - **(8)** A final order or judgment of the special court entering or denying an order pursuant to this subsection shall be reviewable in the same manner as provided in section 719(e)(3) of this title .
 - **(e)** As used in this section, the term “fair and equitable” means fair and equitable, in accordance with the standards applicable to the approval of a plan of reorganization (or a step in such plan) under section 77 of the Bankruptcy Act 1 1 See References in Text note below. to—
   - **(1)** the estates of railroads in reorganization in the region and persons leased, operated, or controlled by such railroads who have conveyed rail properties, under section 743(b)(1) of this title , in exchange for securities of the Corporation, the Association, or profitable railroads and other benefits provided as a consequence of this chapter and to any subsequent holders of such securities at the time of the supplemental transaction involved; and

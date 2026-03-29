@@ -3,9 +3,9 @@ title: "Section 19h - Advanced drinking water technologies"
 usc_title: 42
 usc_section: "19h"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 19h"
-generated_at: "2026-03-29T02:15:35.831Z"
+generated_at: "2026-03-29T20:00:54.009Z"
 ---
 
 # § 300j–19h. Advanced drinking water technologies

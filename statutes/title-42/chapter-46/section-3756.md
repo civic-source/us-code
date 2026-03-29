@@ -1,18 +1,12 @@
 ---
-title: "Section 3756 - Reserved funds"
+title: "Section 3756 - Transferred"
 usc_title: 42
 usc_section: "3756"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3756"
-generated_at: "2026-03-29T19:31:45.108Z"
+generated_at: "2026-03-29T20:00:54.882Z"
 ---
 
-# § 3756. Reserved funds
+# § 3756. Transferred
 
-- **(a)** Of the total amount made available to carry out this part for a fiscal year, the Attorney General shall reserve not more than—
-  - **(1)** $20,000,000, for use by the National Institute of Justice in assisting units of local government to identify, select, develop, modernize, and purchase new technologies for use by law enforcement, of which $1,000,000 shall be for use by the Bureau of Justice Statistics to collect data necessary for carrying out this part; and
-  - **(2)** $20,000,000, to be granted by the Attorney General to States and units of local government to develop and implement antiterrorism training programs.
-- **(b)** Of the total amount made available to carry out this part for a fiscal year, the Attorney General may reserve not more than 5 percent, to be granted to 1 or more States or units of local government, for 1 or more of the purposes specified in section 3751 of this title , pursuant to his determination that the same is necessary—
-  - **(1)** to combat, address, or otherwise respond to precipitous or extraordinary increases in crime, or in a type or types of crime; or
-  - **(2)** to prevent, compensate for, or mitigate significant programmatic harm resulting from operation of the formula established under section 3755 of this title .

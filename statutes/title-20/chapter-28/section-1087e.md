@@ -3,9 +3,9 @@ title: "Section 1087e - Terms and conditions of loans"
 usc_title: 20
 usc_section: "1087e"
 chapter: 28
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 1087e"
-generated_at: "2026-03-29T19:41:03.232Z"
+generated_at: "2026-03-29T19:58:56.706Z"
 ---
 
 # § 1087e. Terms and conditions of loans
@@ -170,9 +170,42 @@ generated_at: "2026-03-29T19:41:03.232Z"
     - **(C)** This paragraph shall apply with respect to loans—
       - **(i)** made on or after September 28, 2018 ; or
       - **(ii)** in repayment on September 28, 2018 .
-  - **(4)** For the purpose of this subsection, the term “borrower” means an individual who is a new borrower on the date such individual applies for a loan under this part for which the first disbursement is made on or after July 1, 1993 .
-  - **(5)** A borrower of a loan made under this part, who at the time such individual applies for such loan, has an outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of this subchapter prior to July 1, 1993 , shall be eligible for a deferment under section 1077(a)(2)(C) of this title or section 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992 .
-- **(g)** A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title , including any loan made under part B and first disbursed before July 1, 2010 . To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title .
+  - **(4)**
+    - **(A)** A borrower of a loan made under this part who meets the requirements of subparagraph (B) shall be eligible for a deferment for an aggregate period of 180 days, during which periodic installments of principal need not be paid, and interest—
+      - **(i)** shall not accrue, in the case of a—
+        - **(I)** Federal Direct Stafford Loan; or
+        - **(II)** a Federal Direct Consolidation Loan that consolidated only Federal Direct Stafford Loans, or a combination of such loans and Federal Stafford Loans for which the student borrower received an interest subsidy under section 1078 of this title ; or
+      - **(ii)** shall accrue and be capitalized or paid by the borrower, in the case of a Federal Direct PLUS Loan, a Federal Direct Unsubsidized Stafford Loan, or a Federal Direct Consolidation Loan not described in clause (i)(II).
+    - **(B)** A borrower of a loan made under this part shall be eligible for a deferment under subparagraph (A) if the borrower—
+      - **(i)** is the spouse of a member of the Armed Forces serving on active duty; and
+      - **(ii)** has experienced a loss of employment as a result of relocation to accommodate a permanent change in duty station of such member.
+    - **(C)**
+      - **(i)** A borrower may establish eligibility for a deferment under subparagraph (A) by providing to the Secretary—
+        - **(I)** the documentation described in clause (ii); or
+        - **(II)** such other documentation as the Secretary determines appropriate.
+      - **(ii)** The documentation described in this clause is—
+        - **(I)** evidence that the borrower is the spouse of a member of the Armed Forces serving on active duty;
+        - **(II)** evidence that a military permanent change of station order was issued to such member; and
+        - **(III)**
+  - **(5)** For the purpose of this subsection, the term “borrower” means an individual who is a new borrower on the date such individual applies for a loan under this part for which the first disbursement is made on or after July 1, 1993 .
+  - **(6)** A borrower of a loan made under this part, who at the time such individual applies for such loan, has an outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of this subchapter prior to July 1, 1993 , shall be eligible for a deferment under section 1077(a)(2)(C) of this title or section 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992 .
+- **(g)**
+  - **(1)** A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title , including any loan made under part B and first disbursed before July 1, 2010 . To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title .
+  - **(2)**
+    - **(A)**
+      - **(i)** A married couple, or 2 individuals who were previously a married couple, and who received a joint consolidation loan as such married couple under subparagraph (C) of section 1078–3(a)(3) of this title (as such subparagraph was in effect on June 30, 2006 ), may apply to the Secretary, in accordance with subparagraph (C) of this paragraph, for each individual borrower in the married couple (or previously married couple) to receive a separate Federal Direct Consolidation Loan under this part.
+      - **(ii)** Notwithstanding any other provision of this chapter, a married couple, or 2 individuals who were previously a married couple, who are in default on a joint consolidation loan may be eligible to receive a separate Federal Direct Consolidation Loan under this part in accordance with this paragraph.
+    - **(B)** Notwithstanding section 1078–3(a)(3)(A) of this title or any other provision of law, for each individual borrower who applies under subparagraph (A), the Secretary shall—
+      - **(i)** make a separate Federal Direct Consolidation Loan under this part that—
+        - **(I)** shall be for an amount equal to the product of—
+        - **(II)** has the same rate of interest as the joint consolidation loan (as of the date that is the day before such separate consolidation loan is made); and
+      - **(ii)** in a timely manner, notify each individual borrower that the joint consolidation loan had been repaid and of the terms and conditions of their new loans.
+    - **(C)**
+      - **(i)** Except as provided in clause (ii), to receive separate consolidation loans under this part, both individual borrowers in a married couple (or previously married couple) shall jointly apply under subparagraph (A).
+      - **(ii)** An individual borrower in a married couple (or previously married couple) may apply for a separate consolidation loan under subparagraph (A) separately and without regard to whether or when the other individual borrower in the married couple (or previously married couple) applies under subparagraph (A), in a case in which—
+        - **(I)** the individual borrower certifies to the Secretary that such borrower—
+        - **(II)** the Secretary determines that authorizing each individual borrower to apply separately under subparagraph (A) would be in the best fiscal interests of the Federal Government.
+      - **(iii)** In the case of an individual borrower who receives a separate consolidation loan due to the circumstances described in clause (ii), the other non-applying individual borrower shall become solely liable for the remaining balance of the joint consolidation loan.
 - **(h)** Notwithstanding any other provision of State or Federal law, the Secretary shall specify in regulations which acts or omissions of an institution of higher education a borrower may assert as a defense to repayment of a loan made under this part, except that in no event may a borrower recover from the Secretary, in any action arising from or relating to a loan made under this part, an amount in excess of the amount such borrower has repaid on such loan.
 - **(i)** The common financial reporting form required in section 1090(a)(1) of this title shall constitute the application for loans made under this part (other than a Federal Direct PLUS loan). The Secretary shall develop, print, and distribute to participating institutions a standard promissory note and loan disclosure form.
 - **(j)**
@@ -215,15 +248,3 @@ generated_at: "2026-03-29T19:41:03.232Z"
     - **(B)** is serving in an area of hostilities in which service qualifies for special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37.
   - **(4)** An individual who qualifies as an eligible military borrower under this subsection may receive the benefit of this subsection for not more than 60 months.
 - **(p)** Each institution of higher education with which the Secretary has an agreement under section 1087c of this title , and each contractor with which the Secretary has a contract under section 1087f of this title , shall, with respect to loans under this part and in accordance with such regulations as the Secretary shall prescribe, comply with each of the requirements under section 1083 of this title that apply to a lender with respect to a loan under part B.
-- **(q)**
-  - **(1)** Notwithstanding subsection (a) or any other provision of this subchapter, any borrower who was a new borrower on or after July 1, 2013 , shall not be eligible for a Federal Direct Stafford Loan if the period of time for which the borrower has received Federal Direct Stafford Loans, in the aggregate, exceeds the period of enrollment described in paragraph (3). Such borrower may still receive any Federal Direct Unsubsidized Stafford Loan for which such borrower is otherwise eligible.
-  - **(2)** Notwithstanding subsection (f)(1)(A) or any other provision of this subchapter and beginning on the date upon which a borrower who is enrolled in a program of education or training (including a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title ) for which borrowers are otherwise eligible to receive Federal Direct Stafford Loans, becomes ineligible for such loan as a result of paragraph (1), interest on all Federal Direct Stafford Loans that were disbursed to such borrower on or after July 1, 2013 , shall accrue. Such interest shall be paid or capitalized in the same manner as interest on a Federal Direct Unsubsidized Stafford Loan is paid or capitalized under section 1078–8(e)(2) of this title .
-  - **(3)**
-    - **(A)** The aggregate period of enrollment referred to in paragraph (1) shall not exceed the lesser of—
-      - **(i)** a period equal to 150 percent of the published length of the educational program in which the student is enrolled; or
-      - **(ii)** in the case of a borrower who was previously enrolled in one or more other educational programs that began on or after July 1, 2013 , and subject to subparagraph (B), a period of time equal to the difference between—
-        - **(I)** 150 percent of the published length of the longest educational program in which the borrower was, or is, enrolled; and
-        - **(II)** any periods of enrollment in which the borrower received a Federal Direct Stafford Loan.
-    - **(B)** The Secretary shall specify in regulation—
-      - **(i)** how the aggregate period described in subparagraph (A) shall be calculated with respect to a borrower who was or is enrolled on less than a full-time basis; and
-      - **(ii)** how such aggregate period shall be calculated to include a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title , respectively.

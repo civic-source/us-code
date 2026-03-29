@@ -3,14 +3,14 @@ title: "Section 6832 - Definitions"
 usc_title: 42
 usc_section: "6832"
 chapter: 81
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6832"
-generated_at: "2026-03-29T19:31:45.310Z"
+generated_at: "2026-03-29T20:00:55.050Z"
 ---
 
 # § 6832. Definitions
 
-As used in this subchapter:
+Except as otherwise provided, in this subchapter:
 
   - **(1)** Omitted
   - **(2)** The term “building” means any structure to be constructed which includes provision for a heating or cooling system, or both, or for a hot water system.

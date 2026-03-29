@@ -3,9 +3,9 @@ title: "Section 1465 - Determination of contributions to the Fund"
 usc_title: 10
 usc_section: "1465"
 chapter: 74
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1465"
-generated_at: "2026-03-29T19:43:37.927Z"
+generated_at: "2026-03-29T19:58:02.096Z"
 ---
 
 # § 1465. Determination of contributions to the Fund
@@ -34,4 +34,4 @@ generated_at: "2026-03-29T19:43:37.927Z"
     - **(B)** A determination of a single level percentage determined in the same manner as applies under subparagraph (B) of paragraph (1), but based only upon the provisions of sections 1413a and 1414 of this title.
   - **(5)** Contributions to the Fund in accordance with amortization schedules under paragraphs (2) and (3) shall be made as provided in section 1466(b) of this title .
 - **(d)** All determinations under this section shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and inflation) and in accordance with generally accepted actuarial principles and practices.
-- **(e)** The Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating provide 1 1 So in original. for the keeping of such records as are necessary for determining the actuarial status of the Fund.
+- **(e)** The Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating shall provide for the keeping of such records as are necessary for determining the actuarial status of the Fund.

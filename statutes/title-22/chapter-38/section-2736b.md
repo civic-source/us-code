@@ -3,9 +3,9 @@ title: "Section 2736b - Leadership engagement and accountability"
 usc_title: 22
 usc_section: "2736b"
 chapter: 38
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2736b"
-generated_at: "2026-03-29T19:42:08.125Z"
+generated_at: "2026-03-29T19:59:24.153Z"
 ---
 
 # § 2736b. Leadership engagement and accountability

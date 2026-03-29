@@ -3,15 +3,17 @@ title: "Section 3501 - Multiyear contracts: acquisition of property"
 usc_title: 10
 usc_section: "3501"
 chapter: 249
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3501"
-generated_at: "2026-03-29T19:43:38.041Z"
+generated_at: "2026-03-29T19:58:02.231Z"
 ---
 
 # § 3501. Multiyear contracts: acquisition of property
 
 - **(a)** To the extent that funds are otherwise available for obligation, the head of an agency may enter into multiyear contracts for the purchase of property whenever the head of that agency finds each of the following:
-  - **(1)** That the use of such a contract will result in significant savings of the total anticipated costs of carrying out the program through annual contracts.
+  - **(1)** That the use of such a contract will result in—
+    - **(A)** significant savings of the total anticipated costs of carrying out the program through annual contracts; or
+    - **(B)** necessary defense industrial base stability not otherwise achievable through annual contracts.
   - **(2)** That the minimum need for the property to be purchased is expected to remain substantially unchanged during the contemplated contract period in terms of production rate, procurement rate, and total quantities.
   - **(3)** That there is a reasonable expectation that throughout the contemplated contract period the head of the agency will request funding for the contract at the level required to avoid contract cancellation.
   - **(4)** That there is a stable design for the property to be acquired and that the technical risks associated with such property are not excessive.
@@ -46,9 +48,7 @@ generated_at: "2026-03-29T19:43:38.041Z"
   - **(2)** A multiyear contract for advance procurement of components, parts, and materials necessary to the manufacture of a weapon system, including a multiyear contract for such advance procurement that is entered into in order to achieve economic-lot purchases and more efficient production rates.
 - **(i)**
   - **(1)** In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into under this section unless the contract is specifically authorized by law in an Act other than an appropriations Act.
-  - **(2)** In submitting a request for a specific authorization by law to carry out a defense acquisition program using multiyear contract authority under this section, the Secretary of Defense shall include in the request the following:
-    - **(A)** A report containing preliminary findings of the agency head required in paragraphs (1) through (6) of subsection (a), together with the basis for such findings.
-    - **(B)** Confirmation that the preliminary findings of the agency head under subparagraph (A) were supported by a preliminary cost analysis performed by the Director of Cost Assessment and Program Evaluation.
+  - **(2)** In submitting a request for a specific authorization by law to carry out a defense acquisition program using multiyear contract authority under this section, the Secretary of Defense shall include in the request a report containing preliminary findings of the agency head required in paragraphs (1) through (6) of subsection (a), together with the basis for such findings.
   - **(3)** A multiyear contract may not be entered into under this section for a defense acquisition program that has been specifically authorized by law to be carried out using multiyear contract authority unless the Secretary of Defense certifies in writing, not later than 30 days before entry into the contract, that each of the following conditions is satisfied:
     - **(A)** The Secretary has determined that each of the requirements in paragraphs (1) through (6) of subsection (a) will be met by such contract and has provided the basis for such determination to the congressional defense committees.
     - **(B)** The Secretary’s determination under subparagraph (A) was made after completion of a cost analysis conducted on the basis of section 3226(b) of this title , and the analysis supports the determination.

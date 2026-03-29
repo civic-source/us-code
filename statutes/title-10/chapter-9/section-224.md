@@ -1,22 +1,12 @@
 ---
-title: "Section 224 - Ballistic missile defense programs: display of amounts for research, development, test, and evaluation"
+title: "Section 224 - Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)(1) , Dec. 23, 2024 , 138 Stat. 2199 ]"
 usc_title: 10
 usc_section: "224"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 224"
-generated_at: "2026-03-29T19:43:37.790Z"
+generated_at: "2026-03-29T19:58:01.949Z"
 ---
 
-# § 224. Ballistic missile defense programs: display of amounts for research, development, test, and evaluation
+# [§ 224. Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)(1) , Dec. 23, 2024 , 138 Stat. 2199 ]
 
-- **(a)** Any amount in the budget submitted to Congress under section 1105 of title 31 for any fiscal year for research, development, test, and evaluation for the integration of a ballistic missile defense element into the overall ballistic missile defense architecture shall be set forth under the account of the Department of Defense for Defense-wide research, development, test, and evaluation and, within that account, under the subaccount (or other budget activity level) for the Missile Defense Agency.
-- **(b)**
-  - **(1)** The Secretary of Defense shall establish criteria for the transfer of responsibility for a ballistic missile defense program from the Director of the Missile Defense Agency to the Secretary of a military department. The criteria established for such a transfer shall, at a minimum, address the following:
-    - **(A)** The technical maturity of the program.
-    - **(B)** The availability of facilities for production.
-    - **(C)** The commitment of the Secretary of the military department concerned to procurement funding for that program, as shown by funding through the future-years defense program and other defense planning documents.
-  - **(2)** The Secretary shall submit the criteria established, and any modifications to those criteria, to the congressional defense committees.
-- **(c)** Before responsibility for a ballistic missile defense program is transferred from the Director of the Missile Defense Agency to the Secretary of a military department, the Secretary of Defense shall submit to the congressional defense committees notice in writing of the Secretary’s intent to make that transfer. The Secretary shall include with such notice a certification that the program has met the criteria established under subsection (b) for such a transfer. The transfer may then be carried out after the end of the 60-day period beginning on the date of such notice.
-- **(d)** When a ballistic missile defense program is transferred from the Missile Defense Agency to the Secretary of a military department in accordance with this section, the Secretary of Defense shall ensure that all appropriate conforming changes are made to proposed or projected funding allocations in the future-years defense program under section 221 of this title and other Department of Defense program, budget, and planning documents.
-- **(e)** The Secretary of Defense shall ensure that, before a ballistic missile defense program is transferred from the Director of the Missile Defense Agency to the Secretary of a military department, roles and responsibilities for research, development, test, and evaluation related to system improvements for that program are clearly delineated.

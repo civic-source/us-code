@@ -3,9 +3,9 @@ title: "Section 2222 - Drought contingency plans"
 usc_title: 43
 usc_section: "2222"
 chapter: 40
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 2222"
-generated_at: "2026-03-29T19:31:49.165Z"
+generated_at: "2026-03-29T19:59:41.506Z"
 ---
 
 # § 2222. Drought contingency plans

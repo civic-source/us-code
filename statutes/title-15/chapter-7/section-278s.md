@@ -3,9 +3,9 @@ title: "Section 278s - Manufacturing USA"
 usc_title: 15
 usc_section: "278s"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 278s"
-generated_at: "2026-03-29T19:44:42.598Z"
+generated_at: "2026-03-29T19:58:17.384Z"
 ---
 
 # § 278s. Manufacturing USA
@@ -108,29 +108,38 @@ generated_at: "2026-03-29T19:44:42.598Z"
   - **(7)**
     - **(A)** Except as provided in subparagraph (B), an agency head may not, with respect to a Manufacturing USA institute, award financial assistance under paragraph (1) or renew an award of financial assistance under paragraph (2) unless the agency head determines that non-Federal funding comprises 50 percent or more of the total amount of funding made available for the operation and support of the institute.
     - **(B)** An agency head awarding financial assistance under paragraph (1) with respect to a Manufacturing USA institute may waive the requirements of subparagraph (A) in the case of satellite centers, large capital facilities, equipment purchases, workforce development, or general operations.
-- **(f)** The Secretary may award a grant on a competitive basis to a Manufacturing USA institute that is not receiving financial assistance under subsection (e) to carry out workforce development, outreach to small- and medium-sized manufacturers, and other activities that—
+  - **(8)** In awarding financial assistance under paragraph (1) for planning or establishing a Manufacturing USA institute, an agency head shall give special consideration to Manufacturing USA institutes that—
+    - **(A)** contribute to the geographic diversity of the Manufacturing USA Program;
+    - **(B)** are located in an area with a low per capita income;
+    - **(C)** are located in an area with a high proportion of socially disadvantaged residents; or
+    - **(D)** are located in small and rural communities.
+- **(f)**
+  - **(1)** The Secretary may, acting through the Director, award financial assistance for the construction of test beds and specialized facilities by Manufacturing USA institutes established or supported under subsection (e) as the Secretary considers appropriate to carry out the purposes of the Program.
+  - **(2)** The Secretary shall exercise authority under paragraph (1) in a manner and with requirements consistent with paragraphs (3) through (8) of subsection (e).
+  - **(3)** The Secretary shall establish preferences in selection criteria for proposals for financial assistance under this subsection from Manufacturing USA institutes that integrate as active members one or more covered entities as described in section 18971 of title 42 .
+- **(g)** The Secretary may award a grant on a competitive basis to a Manufacturing USA institute that is not receiving financial assistance under subsection (e) to carry out workforce development, outreach to small- and medium-sized manufacturers, and other activities that—
   - **(1)** are determined by the Secretary to be in the national interest; and
   - **(2)** are unlikely to receive private sector financial support.
-- **(g)**
+- **(h)**
   - **(1)** To the extent provided for in advance by appropriations Acts, the Secretary may use amounts appropriated to the Industrial Technical Services account to carry out this section as follows:
     - **(A)** For each of the fiscal years 2015 through 2019, an amount not to exceed $5,000,000.
     - **(B)** For each of fiscal years 2020 through 2030, such amounts as may be necessary to carry out this section.
   - **(2)** There are authorized to be appropriated to the Secretary of Energy for the provision of financial assistance under subsection (e) by the Department of Energy amounts as follows:
     - **(A)** $70,000,000 for each of fiscal years 2020, 2021, and 2022.
     - **(B)** $84,000,000 for each of fiscal years 2023 and 2024.
-- **(h)**
+- **(i)**
   - **(1)** The Secretary shall establish, within the Institute, the National Office of the Manufacturing USA Network (referred to in this section as the “National Program Office”), which shall oversee and carry out the Program.
   - **(2)** The functions of the National Program Office are—
     - **(A)** to oversee the planning, management, and coordination of the Program;
     - **(B)** to coordinate with and, as appropriate, enter into memorandums of understanding with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing, including the Department of Agriculture, the Department of Defense, the Department of Education, the Department of Energy, the Department of Labor, the Food and Drug Administration, the National Aeronautics and Space Administration, the National Institutes of Health, and the National Science Foundation, to carry out the purposes set forth under subsection (b)(2);
-    - **(C)** to develop, not later than December 16, 2015 , and update not less frequently than once every 3 years thereafter, a strategic plan to guide the Program;
+    - **(C)** to develop, not later than December 16, 2015 , and update not less frequently than once every 3 years thereafter, a strategic plan to guide the Program, including a strategy for retaining domestic public benefits from Manufacturing USA institutes once Federal funding has been discontinued;
     - **(D)** to establish such procedures, processes, and criteria as may be necessary and appropriate to maximize cooperation and coordinate the activities of the Program with programs and activities of other Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing;
     - **(E)** to establish a clearinghouse of public information related to the activities of the Program;
     - **(F)** to act as a convener of the Network;
     - **(G)** to work with Federal agencies that are not sponsoring or supporting a Manufacturing USA institute to explore and develop options for sponsoring or supporting a Manufacturing USA institute;
     - **(H)** to work with Federal agencies that are sponsoring or supporting a Manufacturing USA institute to develop and implement network-wide performance goals with measurable targets and timelines;
     - **(I)** to help develop pilot programs that may be implemented by the Manufacturing USA institutes to address specific purposes of the Program, including to accelerate technology transfer to the private sector and to develop entrepreneurship programs;
-    - **(J)** to provide support services to promote workforce development activities;
+    - **(J)** to provide support services to promote workforce development activities, including the development of industry credentials;
     - **(K)** to identify and disseminate best practices for workforce education and training across the Network and further enhance collaboration among Manufacturing USA institutes in developing and implementing such practices;
     - **(L)** to collaborate with the Department of Labor, the Department of Education, industry, career and technical education schools, local community colleges, universities, and labor organizations to provide input, as appropriate, for the development of national certifications for advanced manufacturing workforce skills in the technology areas of the Manufacturing USA institutes; and
     - **(M)** to coordinate with Manufacturing USA institutes to develop best practices for the membership agreements and coordination of similar project solicitations.
@@ -146,7 +155,11 @@ generated_at: "2026-03-29T19:44:42.598Z"
       - **(iii)** Technology transfer for small and medium-sized manufacturers.
       - **(iv)** Such other areas as the Secretary determines appropriate to support the purposes of the Program.
   - **(6)** Any Federal Government employee may be detailed to the National Program Office without reimbursement. Such detail shall be without interruption or loss of civil service status or privilege.
-- **(i)**
+  - **(7)**
+    - **(A)** The National Program Office shall establish or designate a council of heads of any Manufacturing USA institute receiving Federal funding at any time to foster collaboration between Manufacturing USA institutes.
+    - **(B)** The council established or designated pursuant to subparagraph (A) shall meet not less frequently than twice each year.
+    - **(C)** The council established pursuant to subparagraph (A) shall assist the National Program Office in carrying out the functions of the National Program Office under paragraph (2).
+- **(j)**
   - **(1)**
     - **(A)** Not less frequently than once each year, each agency head that is providing financial assistance under subsection (e) shall—
       - **(i)** require each recipient of such financial assistance submit to the agency head a report that describes the finances and performance of the Manufacturing USA institute with respect to which the financial assistance is awarded; and
@@ -171,7 +184,7 @@ generated_at: "2026-03-29T19:44:42.598Z"
       - **(iii)** such recommendations for legislative and administrative action as the Comptroller General considers appropriate to improve the Program; and
       - **(iv)** an assessment as to whether any prior recommendations for improvement made by the Comptroller General have been implemented or adopted.
     - **(C)** No later than December 31, 2030 , the Comptroller General shall submit to Congress a final report regarding the overall success of the Program.
-- **(j)**
+- **(k)**
   - **(1)** The Secretary may appoint such personnel and enter into such contracts, financial assistance agreements, and other agreements as the Secretary considers necessary or appropriate to carry out the Program, including support for research and development activities involving a Manufacturing USA institute.
   - **(2)** Of amounts available under the authority provided by subsection (g), the Secretary may transfer to other Federal agencies such sums as the Secretary considers necessary or appropriate to carry out the Program. No funds so transferred may be used to reimburse or otherwise pay for the costs of financial assistance incurred or commitments of financial assistance made prior to December 16, 2014 .
   - **(3)** In the event that the Secretary exercises the authority to transfer funds to another agency under paragraph (2), such agency may accept such funds to award and administer, under the same conditions and constraints applicable to the Secretary, all aspects of financial assistance awards under this section.
@@ -190,5 +203,5 @@ generated_at: "2026-03-29T19:44:42.598Z"
     - **(I)** at the Department of Agriculture relating to outreach to rural communities;
     - **(J)** additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes; and 2 2 So in original. Subpars. (J) and (K) are identical and the words “additional programs” do not follow from introductory provisions.
     - **(K)** additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes. 2
-- **(k)** Chapter 18 of title 35 shall apply to any funding agreement (as defined in section 201 of that title) awarded to new or existing Manufacturing USA institutes with respect to which financial assistance is awarded under subsection (e).
-- **(l)** Any reference in law, regulation, map, document, paper, or other record of the United States to the “Network for Manufacturing Innovation Program”, the “Network for Manufacturing Innovation”, “National Office of the Network for Manufacturing Innovation Program”, or a “center for manufacturing innovation” shall be considered to be a reference to the Manufacturing USA Program, the Manufacturing USA Network, the National Office of the Manufacturing USA Network, or a Manufacturing USA institute, respectively.
+- **(l)** Chapter 18 of title 35 shall apply to any funding agreement (as defined in section 201 of that title) awarded to new or existing Manufacturing USA institutes with respect to which financial assistance is awarded under subsection (e).
+- **(m)** Any reference in law, regulation, map, document, paper, or other record of the United States to the “Network for Manufacturing Innovation Program”, the “Network for Manufacturing Innovation”, “National Office of the Network for Manufacturing Innovation Program”, or a “center for manufacturing innovation” shall be considered to be a reference to the Manufacturing USA Program, the Manufacturing USA Network, the National Office of the Manufacturing USA Network, or a Manufacturing USA institute, respectively.

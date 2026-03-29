@@ -3,9 +3,9 @@ title: "Section 3061 - Counterintelligence and national security protections for
 usc_title: 50
 usc_section: "3061"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3061"
-generated_at: "2026-03-29T02:16:14.766Z"
+generated_at: "2026-03-29T20:01:07.330Z"
 ---
 
 # § 3061. Counterintelligence and national security protections for intelligence community grant funding
@@ -21,3 +21,7 @@ generated_at: "2026-03-29T02:16:14.766Z"
       - **(iii)** Authorization for the heads of the elements of the intelligence community to take such actions as may be necessary, including denial or revocation of a grant, to ensure a grant does not pose an unacceptable risk of—
         - **(I)** misappropriation of United States intellectual property, research and development, and innovation efforts; or
         - **(II)** other counterintelligence threats.
+- **(c)** Not later than 1 year after December 23, 2022 , and not less frequently than once each year thereafter, the Director of National Intelligence shall submit to the congressional intelligence committees an annual report identifying the following for the 1-year period covered by the report:
+  - **(1)** The number of applications for grants received by each element of the intelligence community.
+  - **(2)** The number of such applications that were reviewed using the process established under subsection (b)(2), disaggregated by element of the intelligence community.
+  - **(3)** The number of such applications that were denied and the number of grants that were revoked, pursuant to the process established under subsection (b)(2), disaggregated by element of the intelligence community.

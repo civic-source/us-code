@@ -3,14 +3,14 @@ title: "Section 8211 - Nonapplicability of Federal Advisory Committee Act"
 usc_title: 16
 usc_section: "8211"
 chapter: 101
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 8211"
-generated_at: "2026-03-29T19:41:13.905Z"
+generated_at: "2026-03-29T19:59:08.543Z"
 ---
 
 # § 8211. Nonapplicability of Federal Advisory Committee Act
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to—
+Chapter 10 of title 5 (commonly known as the “Federal Advisory Committee Act”), shall not apply to—
 
   - **(1)** the Board; or
   - **(2)** any Partnership.

@@ -1,14 +1,12 @@
 ---
-title: "Section 14039 - Report to Congress"
+title: "Section 14039 - Transferred"
 usc_title: 42
 usc_section: "14039"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14039"
-generated_at: "2026-03-29T19:31:45.750Z"
+generated_at: "2026-03-29T20:00:55.491Z"
 ---
 
-# § 14039. Report to Congress
-
-Each even-numbered fiscal year, the Attorney General shall submit to the Congress a biennial report that provides information concerning the incidence of stalking and domestic violence, and evaluates the effectiveness of State antistalking efforts and legislation.
+# § 14039. Transferred
 

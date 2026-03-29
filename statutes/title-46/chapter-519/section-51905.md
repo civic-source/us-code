@@ -3,9 +3,9 @@ title: "Section 51905 - Flags and grave markers"
 usc_title: 46
 usc_section: "51905"
 chapter: 519
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 51905"
-generated_at: "2026-03-29T19:44:39.451Z"
+generated_at: "2026-03-29T20:01:03.927Z"
 ---
 
 # § 51905. Flags and grave markers

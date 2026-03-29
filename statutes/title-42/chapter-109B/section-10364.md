@@ -3,37 +3,54 @@ title: "Section 10364 - Water management improvement"
 usc_title: 42
 usc_section: "10364"
 chapter: 109
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 10364"
-generated_at: "2026-03-29T19:31:45.581Z"
+generated_at: "2026-03-29T20:00:55.347Z"
 ---
 
 # § 10364. Water management improvement
 
 - **(a)**
-  - **(1)** The Secretary may provide any grant to, or enter into an agreement with, any eligible applicant to assist the eligible applicant in planning, designing, or constructing any improvement—
+  - **(1)** The Secretary may provide any grant to, or enter into an agreement with, any eligible applicant to assist the eligible applicant in planning, designing, or constructing any improvement or carrying out any activity—
     - **(A)** to conserve water;
     - **(B)** to increase water use efficiency;
     - **(C)** to facilitate water markets;
     - **(D)** to enhance water management, including increasing the use of renewable energy in the management and delivery of water;
     - **(E)** to accelerate the adoption and use of advanced water treatment technologies to increase water supply;
-    - **(F)** to prevent the decline of species that the United States Fish and Wildlife Service and National Marine Fisheries Service have proposed for listing under the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.) (or candidate species that are being considered by those agencies for such listing but are not yet the subject of a proposed rule);
-    - **(G)** to accelerate the recovery of threatened species, endangered species, and designated critical habitats that are adversely affected by Federal reclamation projects or are subject to a recovery plan or conservation plan under the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.) under which the Commissioner of Reclamation has implementation responsibilities; or
-    - **(H)** to carry out any other activity—
-      - **(i)** to address any climate-related impact to the water supply of the United States that increases ecological resiliency to the impacts of climate change; or
-      - **(ii)** to prevent any water-related crisis or conflict at any watershed that has a nexus to a Federal reclamation project located in a service area.
+    - **(F)** to assist States and water users in complying with interstate compacts or reducing basin water supply-demand imbalances;
+    - **(G)** to achieve the prevention of the decline of species that the United States Fish and Wildlife Service and National Marine Fisheries Service have proposed for listing under the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.) (or candidate species that are being considered by those agencies for such listing but are not yet the subject of a proposed rule);
+    - **(H)** to achieve the acceleration of the recovery of threatened species, endangered species, and designated critical habitats that are adversely affected by Federal reclamation projects or are subject to a recovery plan or conservation plan under the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.) under which the Commissioner of Reclamation has implementation responsibilities;
+    - **(I)** to improve the condition of a natural feature; or
+    - **(J)** to carry out any other activity—
+      - **(i)** to address any climate-related impact to the water supply of the United States that increases ecological resiliency to the impacts of climate change;
+      - **(ii)** to prevent any water-related crisis or conflict at any watershed that has a nexus to a Federal reclamation project located in a service area; or
+      - **(iii)** to plan for or address the impacts of drought.
   - **(2)** To be eligible to receive a grant, or enter into an agreement with the Secretary under paragraph (1), an eligible applicant shall—
-    - **(A)** be located within the States and areas referred to in section 391 of title 43 ; and
-    - **(B)** submit to the Secretary an application that includes a proposal of the improvement or activity to be planned, designed, constructed, or implemented by the eligible applicant.
+    - **(A)** be located within—
+      - **(i)** the States and areas referred to in section 391 of title 43 ;
+      - **(ii)** the State of Alaska;
+      - **(iii)** the State of Hawaii; or
+      - **(iv)** the Commonwealth of Puerto Rico; and
+    - **(B)** submit to the Secretary an application that includes—
+      - **(i)** a proposal of the improvement or activity to be planned, designed, constructed, or implemented by the eligible applicant; and
+      - **(ii)** for a project that is intended to have a quantifiable water savings and would receive a grant of $500,000 or more—
+        - **(I)** a proposal for a monitoring plan of at least 5 years that would demonstrate ways in which the proposed improvement or activity would result in improved streamflows or aquatic habitat; or
+        - **(II)** for a project that does not anticipate improved streamflows or aquatic habitat, an analysis of ways in which the proposed improvement or activity would contribute to 1 or more of the other objectives described in paragraph (1).
   - **(3)**
     - **(A)** Each grant and agreement entered into by the Secretary with any eligible applicant under paragraph (1) shall be in compliance with each requirement described in subparagraphs (B) through (F).
-    - **(B)** In carrying out paragraph (1), the Secretary shall not provide a grant, or enter into an agreement, for an improvement to conserve irrigation water unless the eligible applicant agrees not—
-      - **(i)** to use any associated water savings to increase the total irrigated acreage of the eligible applicant; or
-      - **(ii)** to otherwise increase the consumptive use of water in the operation of the eligible applicant, as determined pursuant to the law of the State in which the operation of the eligible applicant is located.
+    - **(B)**
+      - **(i)** Except as provided in clause (ii), in carrying out paragraph (1), the Secretary shall not provide a grant, or enter into an agreement, for an improvement to conserve irrigation water unless the eligible applicant agrees not—
+        - **(I)** to use any associated water savings to increase the total irrigated acreage of the eligible applicant; or
+        - **(II)** to otherwise increase the consumptive use of water in the operation of the eligible applicant, as determined pursuant to the law of the State in which the operation of the eligible applicant is located.
+      - **(ii)** In the case of an eligible applicant that is an Indian tribe, in carrying out paragraph (1), the Secretary shall not provide a grant, or enter into an agreement, for an improvement to conserve irrigation water unless the Indian tribe agrees not—
+        - **(I)** to use any associated water savings to increase the total irrigated acreage more than the water right of that Indian tribe, as determined by—
+        - **(II)** to otherwise increase the consumptive use of water more than the water right of the Indian tribe described in subclause (I).
     - **(C)** Any funds provided by the Secretary to an eligible applicant through a grant or agreement under paragraph (1) shall be nonreimbursable.
     - **(D)** If an infrastructure improvement to a federally owned facility is the subject of a grant or other agreement entered into between the Secretary and an eligible applicant under paragraph (1), the Federal Government shall continue to hold title to the facility and improvements to the facility.
     - **(E)**
-      - **(i)** The Federal share of the cost of any infrastructure improvement or activity that is the subject of a grant or other agreement entered into between the Secretary and an eligible applicant under paragraph (1) shall not exceed 50 percent of the cost of the infrastructure improvement or activity.
+      - **(i)**
+        - **(I)** Except as provided in subclause (II), the Federal share of the cost of any infrastructure improvement or activity that is the subject of a grant or other agreement entered into between the Secretary and an eligible applicant under paragraph (1) shall not exceed 50 percent of the cost of the infrastructure improvement or activity.
+        - **(II)** The Federal share of the cost of an infrastructure improvement or activity shall not exceed 75 percent of the cost of the infrastructure improvement or activity, if—
       - **(ii)** In calculating the non-Federal share of the cost of an infrastructure improvement or activity proposed by an eligible applicant through an application submitted by the eligible applicant under paragraph (2), the Secretary shall—
         - **(I)** consider the value of any in-kind services that substantially contributes toward the completion of the improvement or activity, as determined by the Secretary; and
         - **(II)** not consider any other amount that the eligible applicant receives from a Federal agency.
@@ -42,14 +59,16 @@ generated_at: "2026-03-29T19:31:45.581Z"
     - **(F)**
       - **(i)** Except as provided under chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”), the United States shall not be liable for monetary damages of any kind for any injury arising out of an act, omission, or occurrence that arises in relation to any facility created or improved under this section, the title of which is not held by the United States.
       - **(ii)** Nothing in this section increases the liability of the United States beyond that provided in chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”).
+  - **(4)** In providing grants to, and entering into agreements for, projects intended to have a quantifiable water savings under this subsection, the Secretary shall give priority to projects that enhance drought resilience by benefitting the water supply and ecosystem.
 - **(b)**
-  - **(1)** The Secretary may enter into 1 or more agreements with any university, nonprofit research institution, or organization with water or power delivery authority to fund any research activity that is designed—
+  - **(1)** The Secretary may enter into 1 or more agreements with any university, nonprofit research institution, or eligible applicant to fund any research activity that is designed—
     - **(A)** to conserve water resources;
-    - **(B)** to increase the efficiency of the use of water resources; or
-    - **(C)** to enhance the management of water resources, including increasing the use of renewable energy in the management and delivery of water.
+    - **(B)** to increase the efficiency of the use of water resources;
+    - **(C)** to restore a natural feature or use a nature-based feature to reduce water supply and demand imbalances or the risk of drought or flood; or
+    - **(D)** to enhance the management of water resources, including increasing the use of renewable energy in the management and delivery of water.
   - **(2)**
     - **(A)** An agreement entered into between the Secretary and any university, institution, or organization described in paragraph (1) shall be subject to such terms and conditions as the Secretary determines to be appropriate.
     - **(B)** The agreements under this subsection shall be available to all Reclamation projects and programs that may benefit from project-specific or programmatic cooperative research and development.
 - **(c)** Grants or other agreements made under this section may be for the mutual benefit of the United States and the entity that is provided the grant or enters into the cooperative agreement.
 - **(d)** This section shall not supersede any existing project-specific funding authority.
-- **(e)** There is authorized to be appropriated to carry out this section $350,000,000, to remain available until expended.
+- **(e)** There is authorized to be appropriated to carry out this section $920,000,000, to remain available until expended.

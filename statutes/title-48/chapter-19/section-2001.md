@@ -3,9 +3,9 @@ title: "Section 2001 - Findings"
 usc_title: 48
 usc_section: "2001"
 chapter: 19
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "48 U.S.C. § 2001"
-generated_at: "2026-03-29T19:44:59.814Z"
+generated_at: "2026-03-29T20:01:08.617Z"
 ---
 
 # § 2001. Findings

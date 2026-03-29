@@ -1,14 +1,12 @@
 ---
-title: "Section 14114 - Scholarships"
+title: "Section 14114 - Transferred"
 usc_title: 42
 usc_section: "14114"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14114"
-generated_at: "2026-03-29T19:31:45.765Z"
+generated_at: "2026-03-29T20:00:55.492Z"
 ---
 
-# § 14114. Scholarships
+# § 14114. Transferred
 
-- **(a)** Scholarships awarded under this part shall be for a period of 1 academic year.
-- **(b)** Each individual awarded a scholarship under this part may use the scholarship for educational expenses at an institution of higher education.

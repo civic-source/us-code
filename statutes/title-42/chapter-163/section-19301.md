@@ -3,9 +3,9 @@ title: "Section 19301 - National Clean Energy Incubator Program"
 usc_title: 42
 usc_section: "19301"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 19301"
-generated_at: "2026-03-29T02:15:37.500Z"
+generated_at: "2026-03-29T20:00:55.724Z"
 ---
 
 # § 19301. National Clean Energy Incubator Program

@@ -3,9 +3,9 @@ title: "Section 8352 - Permanent exemptions"
 usc_title: 42
 usc_section: "8352"
 chapter: 92
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 8352"
-generated_at: "2026-03-29T19:31:45.469Z"
+generated_at: "2026-03-29T20:00:55.235Z"
 ---
 
 # § 8352. Permanent exemptions
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:31:45.469Z"
     - **(A)** it is likely that an adequate and reliable supply of coal or other alternate fuels of the quality necessary to conform with design and operational requirements for use as a primary energy source will not be available to such powerplant at a cost (taking into account associated facilities for the transportation and use of such fuel) which, based upon the best practicable estimates, does not substantially exceed the cost, as determined by rule by the Secretary, of using imported petroleum as a primary energy source during the remaining useful life of the powerplant;
     - **(B)** one or more site limitations exist which would not permit the operation of such a powerplant using coal or any other alternate fuel as a primary energy source; or
     - **(C)** the prohibitions of part A could not be satisfied without violating applicable environmental requirements.
-  - **(2)** Notwithstanding the preceding provisions of this subsection, a powerplant which has been granted an exemption under subsection (g) of this section may not be granted an exemption under this subsection.
+  - **(2)** Notwithstanding the preceding provisions of this subsection, a powerplant which has been granted an exemption under subsection (g) may not be granted an exemption under this subsection.
 - **(b)** After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary may, by order, grant a permanent exemption under this subsection, if he finds that the petitioner has demonstrated that—
   - **(1)** with respect to the site of the powerplant, the operation of such a facility using coal or any other alternate fuel is infeasible because of a State or local requirement;
   - **(2)** if such State or local requirement is under a building code or nuisance or zoning law, no other exemption under this part could be granted for such facility; and
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T19:31:45.469Z"
   - **(1)** After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection, if he finds that the petitioner has demonstrated that—
     - **(A)** the powerplant uses, or proposes to use, a mixture of petroleum or natural gas and coal or another alternate fuel as a primary energy source; and
     - **(B)** the amount of the petroleum or natural gas used in such mixture will not exceed the minimum percentage of the total Btu heat input of the primary energy sources of such powerplant needed to maintain reliability of operation of the unit consistent with maintaining a reasonable level of fuel efficiency, as determined in accordance with rules prescribed by the Secretary.
-  - **(2)** Repealed. Pub. L. 100–42 , § 1(c)(12)(A), May 21, 1987 , 101 Stat. 313 .
+  - **(2)** Repealed. Pub. L. 100–42, § 1(c)(12)(A) , May 21, 1987 , 101 Stat. 313 .
   - **(3)** The Secretary may authorize a higher percentage than that referred to in paragraph (1)(B) if he finds that the higher percentage of natural gas allowed would be mixed with synthetic fuels derived from municipal wastes or agricultural wastes and would encourage the use of alternate or new technologies which use renewable sources of energy.
 - **(e)** After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection, if he finds that the petitioner has demonstrated that such powerplant will be maintained and operated only for emergency purposes (as defined by rule by the Secretary).
 - **(f)** After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection, if he finds that—

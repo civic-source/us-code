@@ -3,9 +3,9 @@ title: "Section 4724 - State aquatic nuisance species management plans"
 usc_title: 16
 usc_section: "4724"
 chapter: 67
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 4724"
-generated_at: "2026-03-29T19:41:13.845Z"
+generated_at: "2026-03-29T19:59:08.473Z"
 ---
 
 # § 4724. State aquatic nuisance species management plans
@@ -31,4 +31,4 @@ generated_at: "2026-03-29T19:41:13.845Z"
     - **(B)** The Federal share of the cost of each public facility management plan implemented with Federal assistance under this section in any fiscal year shall not exceed 50 percent of the cost incurred by the State in implementing such management program and the non-Federal share of such costs shall be provided from non-Federal sources.
   - **(4)** For the purposes of this section, administrative costs for activities and programs carried out with a grant in any fiscal year shall not exceed 5 percent of the amount of the grant in that year.
   - **(5)** In addition to cash outlays and payments, in-kind contributions of property or personnel services by non-Federal interests for activities under this section may be used for the non-Federal share of the cost of those activities.
-- **(c)** Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 2 2 See References in Text note below. of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
+- **(c)** Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 1 1 See References in Text note below. of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.

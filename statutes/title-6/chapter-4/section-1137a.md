@@ -3,9 +3,9 @@ title: "Section 1137a - Local law enforcement security training"
 usc_title: 6
 usc_section: "1137a"
 chapter: 4
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 1137a"
-generated_at: "2026-03-29T19:43:43.844Z"
+generated_at: "2026-03-29T19:57:32.949Z"
 ---
 
 # § 1137a. Local law enforcement security training
@@ -14,14 +14,14 @@ generated_at: "2026-03-29T19:43:43.844Z"
 - **(b)** If the Secretary of Homeland Security develops the training program described in subsection (a), such training program shall—
   - **(1)** be informed by current information regarding tactics used by terrorists and others engaging in targeted violence;
   - **(2)** include tactical instruction tailored to the diverse nature of the surface transportation asset operational environment; and
-  - **(3)** prioritize training officers from law enforcement agencies that are eligible for or receive grants under sections 2003 or 2004 of the Homeland Security Act of 2002 ( 6 U.S.C. 604 and 1 1 So in original. 605) and officers employed by railroad carriers that operate passenger service, including interstate passenger service.
+  - **(3)** prioritize training officers from law enforcement agencies that are eligible for or receive grants under sections 1 1 So in original. 2003 or 1 2004 of the Homeland Security Act of 2002 ( 6 U.S.C. 604 and 1 605) and officers employed by railroad carriers that operate passenger service, including interstate passenger service.
 - **(c)** If the Secretary of Homeland Security develops the training program described in subsection (a), not later than one year after the date on which the Secretary first implements the program, and annually thereafter during each year the Secretary carries out the program, the Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the program. Each such report shall include, for the year covered by the report—
   - **(1)** a description of the curriculum for the training and any changes to such curriculum;
   - **(2)** an identification of any contracts entered into for the development or provision of training under the program;
   - **(3)** information on the law enforcement agencies the personnel of which received the training, and for each such agency, the number of participants; and
   - **(4)** a description of the measures used to ensure the program was carried out to provide for protections of privacy rights, civil rights, and civil liberties.
 - **(d)** In this section:
-  - **(1)** The term “public and private sector stakeholders” has the meaning given such term in section 114(t)(1)(c) of title 49 .
+  - **(1)** The term “public and private sector stakeholders” has the meaning given such term in section 114(t)(1)(c) 2 2 So in original. Probably should be “114(t)(1)(C)”. of title 49.
   - **(2)** The term “surface transportation asset” includes facilities, equipment, or systems used to provide transportation services by—
     - **(A)** a public transportation agency (as such term is defined in section 1131(5) of this title );
     - **(B)** a railroad carrier (as such term is defined in section 20102(3) of title 49 );

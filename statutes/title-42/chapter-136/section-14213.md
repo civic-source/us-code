@@ -1,14 +1,12 @@
 ---
-title: "Section 14213 - Extension of authorizations of appropriations for fiscal years for which full amount authorized is not appropriated"
+title: "Section 14213 - Transferred"
 usc_title: 42
 usc_section: "14213"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14213"
-generated_at: "2026-03-29T19:31:45.773Z"
+generated_at: "2026-03-29T20:00:55.493Z"
 ---
 
-# § 14213. Extension of authorizations of appropriations for fiscal years for which full amount authorized is not appropriated
-
-If, in making an appropriation under any provision of this Act or amendment made by this Act that authorizes the making of an appropriation for a certain purpose for a certain fiscal year in a certain amount, the Congress makes an appropriation for that purpose for that fiscal year in a lesser amount, that provision or amendment shall be considered to authorize the making of appropriations for that purpose for later fiscal years in an amount equal to the difference between the amount authorized to be appropriated and the amount that has been appropriated.
+# § 14213. Transferred
 

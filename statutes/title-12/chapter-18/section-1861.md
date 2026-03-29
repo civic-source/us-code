@@ -3,9 +3,9 @@ title: "Section 1861 - Short title and definitions"
 usc_title: 12
 usc_section: "1861"
 chapter: 18
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "12 U.S.C. § 1861"
-generated_at: "2026-03-29T19:44:54.185Z"
+generated_at: "2026-03-29T19:58:40.955Z"
 ---
 
 # § 1861. Short title and definitions

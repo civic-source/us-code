@@ -3,9 +3,9 @@ title: "Section 867 - Art. 67. Review by the Court of Appeals for the Armed Forc
 usc_title: 10
 usc_section: "867"
 chapter: 47
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 867"
-generated_at: "2026-03-29T19:43:37.852Z"
+generated_at: "2026-03-29T19:58:02.016Z"
 ---
 
 # § 867. Art. 67. Review by the Court of Appeals for the Armed Forces
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T19:43:37.852Z"
   - **(3)** In a case reviewed upon petition of the accused, that action need be taken only with respect to issues specified in the grant of review.
   - **(4)** The Court of Appeals for the Armed Forces shall take action only with respect to matters of law.
 - **(d)** If the Court of Appeals for the Armed Forces sets aside the findings and sentence, it may, except where the setting aside is based on lack of sufficient evidence in the record to support the findings, order a rehearing. If it sets aside the findings and sentence and does not order a rehearing, it shall order that the charges be dismissed.
-- **(e)** After it has acted on a case, the Court of Appeals for the Armed Forces may direct the Judge Advocate General to return the record to the Court of Criminal Appeals for further review in accordance with the decision of the court. Otherwise, unless there is to be further action by the President or the Secretary concerned, the Judge Advocate General shall instruct the convening authority to take action in accordance with that decision. If the court has ordered a rehearing, but the convening authority finds a rehearing impracticable, he may dismiss the charges.
+- **(e)** After it has acted on a case, the Court of Appeals for the Armed Forces may direct the Judge Advocate General to return the record to the Court of Criminal Appeals for further review in accordance with the decision of the court. Otherwise, unless there is to be further action by the President or the Secretary concerned, the Judge Advocate General shall instruct the convening authority to take action in accordance with that decision. If the court has ordered a rehearing, but the convening authority finds a rehearing impracticable, he may dismiss the charges. Notwithstanding the preceding sentence, if a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.

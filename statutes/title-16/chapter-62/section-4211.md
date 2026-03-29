@@ -3,9 +3,9 @@ title: "Section 4211 - Provision of assistance"
 usc_title: 16
 usc_section: "4211"
 chapter: 62
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "16 U.S.C. § 4211"
-generated_at: "2026-03-29T19:41:13.836Z"
+generated_at: "2026-03-29T19:59:08.462Z"
 ---
 
 # § 4211. Provision of assistance
@@ -27,3 +27,6 @@ generated_at: "2026-03-29T19:41:13.836Z"
     - **(C)** to enhance compliance with the CITES Ivory Control System.
 - **(e)** To the maximum extent practical, in determining whether to approve project proposals under this section, the Secretary shall give consideration to projects that will enhance sustainable conservation programs to ensure effective long-term conservation of African elephants.
 - **(f)** Each entity that receives assistance under this section shall provide such periodic reports to the Director of the United States Fish and Wildlife Service as the Director considers relevant and appropriate. Each report shall include all information requested by the Director for evaluating the progress and success of the project.
+- **(g)**
+  - **(1)** The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for African elephants and the habitat of African elephants.
+  - **(2)** Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.

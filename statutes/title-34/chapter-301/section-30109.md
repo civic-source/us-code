@@ -3,9 +3,9 @@ title: "Section 30109 - National strategy, classification, and reporting on cybe
 usc_title: 34
 usc_section: "30109"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "34 U.S.C. § 30109"
-generated_at: "2026-03-29T02:14:25.369Z"
+generated_at: "2026-03-29T20:00:27.502Z"
 ---
 
 # § 30109. National strategy, classification, and reporting on cybercrime

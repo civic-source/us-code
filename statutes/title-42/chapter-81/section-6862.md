@@ -3,9 +3,9 @@ title: "Section 6862 - Definitions"
 usc_title: 42
 usc_section: "6862"
 chapter: 81
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 6862"
-generated_at: "2026-03-29T19:31:45.311Z"
+generated_at: "2026-03-29T20:00:55.052Z"
 ---
 
 # § 6862. Definitions
@@ -37,4 +37,4 @@ As used in this part:
     - **(G)** cooling efficiency modifications, including, but not limited to, replacement air-conditioners, ventilation equipment, screening, window films, and shading devices;
     - **(H)** solar thermal water heaters;
     - **(I)** wood-heating appliances; and
-    - **(J)** such other insulating or energy conserving devices or technologies as the Secretary may determine, after consulting with the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Director, of the Community Services Administration.
+    - **(J)** such other insulating or energy conserving devices or technologies, including renewable energy technologies and other advanced technologies, as the Secretary may determine, after consulting with the Secretary of Housing and Urban Development.

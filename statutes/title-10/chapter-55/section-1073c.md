@@ -3,9 +3,9 @@ title: "Section 1073c - Administration of Defense Health Agency and military med
 usc_title: 10
 usc_section: "1073c"
 chapter: 55
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1073c"
-generated_at: "2026-03-29T19:43:37.881Z"
+generated_at: "2026-03-29T19:58:02.047Z"
 ---
 
 # § 1073c. Administration of Defense Health Agency and military medical treatment facilities
@@ -68,19 +68,23 @@ generated_at: "2026-03-29T19:43:37.881Z"
     - **(A)** Ensuring that the Defense Health Agency meets the operational needs of the commanders of the combatant commands.
     - **(B)** Coordinating with the military departments to ensure that the staffing at the military medical treatment facilities supports readiness requirements for members of the armed forces and health care personnel.
     - **(C)** Ensuring that the Defense Health Agency meets the military medical readiness requirements of the senior military operational commanders of the military installations.
-- **(e)** Not later than September 30, 2022 , the Secretary of Defense shall, acting though the Director of the Defense Health Agency, establish within the Defense Health Agency the following:
+- **(e)** Not later than September 30, 2024 , and subject to subsection (f), the Secretary of Defense shall, acting though the Director of the Defense Health Agency, establish within the Defense Health Agency the following:
   - **(1)** A subordinate organization, to be called the Defense Health Agency Research and Development—
     - **(A)** led, at the election of the Director, by a director or commander (to be called the Director or Commander of Defense Health Agency Research and Development);
     - **(B)** comprised of the Army Medical Research and Materiel Command and such other medical research organizations and activities of the armed forces as the Secretary considers appropriate; and
     - **(C)** responsible for coordinating funding for Defense Health Program Research, Development, Test, and Evaluation, the Congressionally Directed Medical Research Program, and related Department of Defense medical research.
   - **(2)** A subordinate organization, to be called the Defense Health Agency Public Health—
     - **(A)** led, at the election of the Director, by a director or commander (to be called the Director or Commander of Defense Health Agency Public Health); and
-    - **(B)** comprised of the Army Public Health Command, the Navy–Marine Corps Public Health Command, Air Force public health programs, and any other related defense health activities that the Secretary considers appropriate, including overseas laboratories focused on preventive medicine, environmental health, and similar matters.
-- **(f)** In establishing the Defense Health Agency Research and Development pursuant to subsection (e)(1), and on a basis that is not less frequent than semiannually thereafter, the Secretary of Defense shall carry out recurring consultations with each military department regarding the plans and requirements for military medical research organizations and activities of the military department.
-- **(g)** In implementing this section—
+    - **(B)** comprised of the Army Public Health Center, the Navy–Marine Corps Public Health Center, Air Force public health programs, and any other related defense health activities that the Secretary considers appropriate, including overseas laboratories focused on preventive medicine, environmental health, and similar matters.
+- **(f)** At the discretion of the Secretary of Defense, a military department may retain a function that would otherwise be transferred to the Defense Health Agency under subsection (e) if the Secretary of Defense determines the function—
+  - **(1)** addresses a need that is unique to the military department; and
+  - **(2)** is in direct support of operating forces and necessary to execute strategies relating to national security and defense.
+- **(g)** In establishing the Defense Health Agency Research and Development pursuant to subsection (e)(1), and on a basis that is not less frequent than semiannually thereafter, the Secretary of Defense shall carry out recurring consultations with each military department regarding the plans and requirements for military medical research organizations and activities of the military department.
+- **(h)** In implementing this section—
   - **(1)** the Department of Defense shall be considered a single agency for purposes of civilian personnel assignment under title 5; and
   - **(2)** the Secretary of Defense may reassign any employee of a component of the Department of Defense or a military department in a position in the civil service (as defined in section 2101 of title 5 ) to any other component of the Department of Defense or military department.
-- **(h)** In this section:
+- **(i)** Nothing in this section shall be construed as transferring to the Director of the Defense Health Agency, or otherwise revoking, any authority or responsibility of the Secretary concerned under chapter 61 of this title with respect to a member of the armed forces (including with respect to the administration of morale and welfare and the determination of fitness for duty for the member) while the member is being considered by a medical evaluation board.
+- **(j)** In this section:
   - **(1)** The term “career appointee” has the meaning given that term in section 3132(a)(4) of title 5 .
   - **(2)** The term “Defense Health Agency” means the Defense Agency established pursuant to Department of Defense Directive 5136.13, or such successor Defense Agency.
   - **(3)** The term “military medical treatment facility” means—

@@ -3,9 +3,9 @@ title: "Section 15902 - Program on oil and gas royalties in-kind"
 usc_title: 42
 usc_section: "15902"
 chapter: 149
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 15902"
-generated_at: "2026-03-29T19:31:45.812Z"
+generated_at: "2026-03-29T20:00:55.520Z"
 ---
 
 # § 15902. Program on oil and gas royalties in-kind
@@ -52,3 +52,6 @@ generated_at: "2026-03-29T19:31:45.812Z"
   - **(2)** Not later than 3 years after August 8, 2005 , the Secretary shall submit a report to Congress—
     - **(A)** assessing the effectiveness of granting preferences specified in paragraph (1); and
     - **(B)** providing a specific recommendation on the continuation of authority to grant preferences.
+- **(j)** At the request of the Secretary of Defense, the Secretary shall—
+  - **(1)** take in-kind royalty gas from any lease on the McAlester Army Ammunition Plant in McAlester, Oklahoma; and
+  - **(2)** sell such royalty gas to the Department of Defense in accordance with subsection (h)(1), for use only at that plant, only for energy resilience purposes, and only to the extent necessary to meet the natural gas needs of that plant.

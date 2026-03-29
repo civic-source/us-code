@@ -1,16 +1,14 @@
 ---
-title: "Section 2393 - Trade monitoring and data collection"
+title: "Section 2393 - Trade monitoring system"
 usc_title: 19
 usc_section: "2393"
 chapter: 12
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "19 U.S.C. § 2393"
-generated_at: "2026-03-29T19:41:21.626Z"
+generated_at: "2026-03-29T19:58:51.774Z"
 ---
 
-# § 2393. Trade monitoring and data collection
+# § 2393. Trade monitoring system
 
-- **(a)** The Secretary of Commerce and the Secretary of Labor shall establish and maintain a program to monitor imports of articles and services into the United States which will reflect changes in the volume of such imports, the relation of such imports to changes in domestic production and domestic supply of services, changes in employment within domestic industries producing articles or supplying services like or directly competitive with such imports, and the extent to which such changes in production, or supply of services, and employment are concentrated in specific geographic regions of the United States. A summary of the information gathered under this section shall be published regularly and provided to the Adjustment Assistance Coordinating Committee, the International Trade Commission, and to the Congress.
-- **(b)**
-  - **(1)** Not later than 90 days after February 17, 2009 , the Secretary of Labor shall implement a system to collect data on adversely affected workers employed in the service sector that includes the number of workers by State and industry, and by the cause of the dislocation of each worker, as identified in the certification.
-  - **(2)** Not later than 1 year after February 17, 2009 , the Secretary of Commerce shall, in consultation with the Secretary of Labor, conduct a study and submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report on ways to improve the timeliness and coverage of data on trade in services, including methods to identify increased imports due to the relocation of United States firms to foreign countries, and increased imports due to United States firms acquiring services from firms in foreign countries.
+The Secretary of Commerce and the Secretary of Labor shall establish and maintain a program to monitor imports of articles into the United States which will reflect changes in the volume of such imports, the relation of such imports to changes in domestic production, changes in employment within domestic industries producing articles like or directly competitive with such imports, and the extent to which such changes in production and employment are concentrated in specific geographic regions of the United States. A summary of the information gathered under this section shall be published regularly and provided to the Adjustment Assistance Coordinating Committee, the International Trade Commission, and to the Congress.
+

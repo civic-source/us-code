@@ -3,9 +3,9 @@ title: "Section 401 - Definitions"
 usc_title: 24
 usc_section: "401"
 chapter: 10
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "24 U.S.C. § 401"
-generated_at: "2026-03-29T19:41:29.466Z"
+generated_at: "2026-03-29T19:59:13.841Z"
 ---
 
 # § 401. Definitions
@@ -22,11 +22,13 @@ For purposes of this chapter:
     - **(A)** the Deputy Chief of Staff for Personnel of the Army;
     - **(B)** the Chief of Naval Personnel;
     - **(C)** the Deputy Chief of Staff for Personnel of the Air Force;
-    - **(D)** the Deputy Commandant of the Marine Corps for Manpower and Reserve Affairs; and
-    - **(E)** the Assistant Commandant of the Coast Guard for Human Resources.
+    - **(D)** the Deputy Commandant of the Marine Corps for Manpower and Reserve Affairs;
+    - **(E)** the Assistant Commandant of the Coast Guard for Human Resources; and
+    - **(F)** the Deputy Chief of Space Operations for Human Capital of the Space Force.
   - **(6)** The term “senior noncommissioned officers” means the following:
     - **(A)** The Sergeant Major of the Army.
     - **(B)** The Master Chief Petty Officer of the Navy.
     - **(C)** The Chief Master Sergeant of the Air Force.
     - **(D)** The Sergeant Major of the Marine Corps.
     - **(E)** The Master Chief Petty Officer of the Coast Guard.
+    - **(F)** The Chief Master Sergeant of the Space Force.

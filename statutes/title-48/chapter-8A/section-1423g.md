@@ -3,9 +3,9 @@ title: "Section 1423g - Vacancies"
 usc_title: 48
 usc_section: "1423g"
 chapter: 8
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "48 U.S.C. § 1423g"
-generated_at: "2026-03-29T19:44:59.786Z"
+generated_at: "2026-03-29T20:01:08.574Z"
 ---
 
 # § 1423g. Vacancies

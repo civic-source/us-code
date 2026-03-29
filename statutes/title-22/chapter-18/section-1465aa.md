@@ -3,9 +3,9 @@ title: "Section 1465aa - Findings and purposes"
 usc_title: 22
 usc_section: "1465aa"
 chapter: 18
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 1465aa"
-generated_at: "2026-03-29T19:42:08.012Z"
+generated_at: "2026-03-29T19:59:24.037Z"
 ---
 
 # § 1465aa. Findings and purposes

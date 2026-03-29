@@ -3,9 +3,9 @@ title: "Section 315n - State police power not abridged"
 usc_title: 43
 usc_section: "315n"
 chapter: 8
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 315n"
-generated_at: "2026-03-29T19:31:49.028Z"
+generated_at: "2026-03-29T19:59:41.368Z"
 ---
 
 # § 315n. State police power not abridged

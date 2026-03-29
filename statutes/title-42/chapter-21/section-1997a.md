@@ -3,9 +3,9 @@ title: "Section 1997a - Initiation of civil actions"
 usc_title: 42
 usc_section: "1997a"
 chapter: 21
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1997a"
-generated_at: "2026-03-29T19:31:44.992Z"
+generated_at: "2026-03-29T20:00:54.743Z"
 ---
 
 # § 1997a. Initiation of civil actions

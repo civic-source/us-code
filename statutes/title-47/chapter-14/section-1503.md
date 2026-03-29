@@ -3,9 +3,9 @@ title: "Section 1503 - Millimeter wave spectrum"
 usc_title: 47
 usc_section: "1503"
 chapter: 14
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "47 U.S.C. § 1503"
-generated_at: "2026-03-29T19:44:37.272Z"
+generated_at: "2026-03-29T20:01:01.639Z"
 ---
 
 # § 1503. Millimeter wave spectrum

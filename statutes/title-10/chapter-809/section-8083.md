@@ -3,9 +3,9 @@ title: "Section 8083 - Office of Navy Reserve: appointment of Chief"
 usc_title: 10
 usc_section: "8083"
 chapter: 809
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 8083"
-generated_at: "2026-03-29T19:43:38.100Z"
+generated_at: "2026-03-29T19:58:02.301Z"
 ---
 
 # § 8083. Office of Navy Reserve: appointment of Chief
@@ -24,3 +24,4 @@ generated_at: "2026-03-29T19:43:38.100Z"
     - **(B)** the waiver is necessary for the good of the service.
 - **(c)** The Chief of Navy Reserve is appointed for a term determined by the Chief of Naval Operations, normally four years, but may be removed for cause at any time. An officer serving as Chief of Navy Reserve may be reappointed for one additional term of up to four years.
 - **(d)** The Chief of Navy Reserve is the official within the executive part of the Department of the Navy who, subject to the authority, direction, and control of the Secretary of the Navy and the Chief of Naval Operations, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Navy Reserve. As such, the Chief of Navy Reserve is the director and functional manager of appropriations made for the Navy Reserve in those areas.
+- **(e)** The Chief of Navy Reserve shall submit to the Secretary of Defense, through the Secretary of the Navy, an annual report on the state of the Navy Reserve and the ability of the Navy Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Naval Operations and may be submitted in classified and unclassified versions.

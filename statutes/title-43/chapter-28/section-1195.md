@@ -1,14 +1,12 @@
 ---
-title: "Section 1195 - Negotiations for cession of lands"
+title: "Section 1195 - Transferred"
 usc_title: 43
 usc_section: "1195"
 chapter: 28
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 1195"
-generated_at: "2026-03-29T19:31:49.094Z"
+generated_at: "2026-03-29T19:59:41.434Z"
 ---
 
-# § 1195. Negotiations for cession of lands
-
-The Secretary of the Interior is authorized, in his discretion, to negotiate, through any United States Indian inspector, agreements with any Indians for the cession to the United States of portions of their respective reservations or surplus unallotted lands, any agreements thus negotiated to be subject to subsequent ratification by Congress.
+# § 1195. Transferred
 

@@ -3,9 +3,9 @@ title: "Section 9305 - Prioritization"
 usc_title: 15
 usc_section: "9305"
 chapter: 118
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 9305"
-generated_at: "2026-03-29T19:44:43.007Z"
+generated_at: "2026-03-29T19:58:17.959Z"
 ---
 
 # § 9305. Prioritization

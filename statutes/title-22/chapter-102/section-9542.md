@@ -3,9 +3,9 @@ title: "Section 9542 - Sense of Congress"
 usc_title: 22
 usc_section: "9542"
 chapter: 102
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 9542"
-generated_at: "2026-03-29T19:42:08.312Z"
+generated_at: "2026-03-29T19:59:24.347Z"
 ---
 
 # § 9542. Sense of Congress
@@ -31,4 +31,4 @@ It is the sense of Congress that—
     - **(E)** to work toward full compliance with the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions (commonly referred to as the “Anti-Bribery Convention”) of the Organization for Economic Co-operation and Development; and
   - **(10)** the President of the United States should use the authority of the President to impose sanctions under—
     - **(A)** the Sergei Magnitsky Rule of Law Accountability Act of 2012 (title IV of Public Law 112–208 ; 22 U.S.C. 5811 note); and
-    - **(B)** the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328 ; 22 U.S.C. 2656 note).
+    - **(B)** the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328 ; 22 U.S.C. 2656 note). 1 1 See References in Text note below.

@@ -3,9 +3,9 @@ title: "Section 3730 - Civil actions for false claims"
 usc_title: 31
 usc_section: "3730"
 chapter: 37
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "31 U.S.C. § 3730"
-generated_at: "2026-03-29T19:42:56.126Z"
+generated_at: "2026-03-29T20:00:25.342Z"
 ---
 
 # § 3730. Civil actions for false claims
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T19:42:56.126Z"
   - **(1)** No court shall have jurisdiction over an action brought by a former or present member of the armed forces under subsection (b) of this section against a member of the armed forces arising out of such person’s service in the armed forces.
   - **(2)**
     - **(A)** No court shall have jurisdiction over an action brought under subsection (b) against a Member of Congress, a member of the judiciary, or a senior executive branch official if the action is based on evidence or information known to the Government when the action was brought.
-    - **(B)** For purposes of this paragraph, “senior executive branch official” means any officer or employee listed in paragraphs (1) through (8) of section 101(f) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+    - **(B)** For purposes of this paragraph, “senior executive branch official” means any officer or employee listed in paragraphs (1) through (8) of section 13103(f) of title 5 .
   - **(3)** In no event may a person bring an action under subsection (b) which is based upon allegations or transactions which are the subject of a civil suit or an administrative civil money penalty proceeding in which the Government is already a party.
   - **(4)**
     - **(A)** The court shall dismiss an action or claim under this section, unless opposed by the Government, if substantially the same allegations or transactions as alleged in the action or claim were publicly disclosed—

@@ -3,9 +3,9 @@ title: "Section 2906 - Inspection of agency records"
 usc_title: 44
 usc_section: "2906"
 chapter: 29
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "44 U.S.C. § 2906"
-generated_at: "2026-03-29T19:30:59.118Z"
+generated_at: "2026-03-29T19:59:33.826Z"
 ---
 
 # § 2906. Inspection of agency records
@@ -17,3 +17,4 @@ generated_at: "2026-03-29T19:30:59.118Z"
     - **(A)** maintained by the Archivist or such designee as a record contained in a system of records; or
     - **(B)** deemed to be a record contained in a system of records for purposes of subsections (b), (c), and (i) of section 552a of title 5 .
 - **(b)** In conducting the inspection of agency records provided for in subsection (a) of this section, the Archivist (or the Archivist’s designee) shall, in addition to complying with the provisions of law cited in subsection (a)(3), comply with all other Federal laws and be subject to the sanctions provided therein.
+- **(c)** The Administrator (or the Administrator’s designee) may inspect the mail processing practices and programs of any Federal agency for the purpose of rendering recommendations for the improvement of mail processing practices and programs. Officers and employees of such agencies shall cooperate fully in such inspections of mail processing practices and programs.

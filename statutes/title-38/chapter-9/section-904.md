@@ -3,9 +3,9 @@ title: "Section 904 - Equipment and weapons"
 usc_title: 38
 usc_section: "904"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "38 U.S.C. § 904"
-generated_at: "2026-03-29T19:43:26.947Z"
+generated_at: "2026-03-29T20:00:42.977Z"
 ---
 
 # § 904. Equipment and weapons

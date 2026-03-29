@@ -3,18 +3,18 @@ title: "Section 1501 - Congressional declaration of policy"
 usc_title: 33
 usc_section: "1501"
 chapter: 29
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 1501"
-generated_at: "2026-03-29T19:43:07.674Z"
+generated_at: "2026-03-29T20:00:31.362Z"
 ---
 
 # § 1501. Congressional declaration of policy
 
-- **(a)** It is declared to be the purposes of the Congress in this chapter to—
-  - **(1)** authorize and regulate the location, ownership, construction, and operation of deepwater ports in waters beyond the territorial limits of the United States;
-  - **(2)** provide for the protection of the marine and coastal environment to prevent or minimize any adverse impact which might occur as a consequence of the development of such ports;
-  - **(3)** protect the interests of the United States and those of adjacent coastal States in the location, construction, and operation of deepwater ports;
-  - **(4)** protect the rights and responsibilities of States and communities to regulate growth, determine land use, and otherwise protect the environment in accordance with law;
-  - **(5)** promote the construction and operation of deepwater ports as a safe and effective means of importing oil or natural gas into the United States and transporting oil or natural gas from the outer continental shelf 1 1 So in original. Probably should be capitalized. while minimizing tanker traffic and the risks attendant thereto; and
-  - **(6)** promote oil or natural gas production on the outer continental shelf 1 by affording an economic and safe means of transportation of outer continental shelf 1 oil or natural gas to the United States mainland.
-- **(b)** The Congress declares that nothing in this chapter shall be construed to affect the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
+- **(a)** The purposes of this chapter are—
+  - **(1)** to authorize and regulate the location, ownership, construction, and operation of deepwater ports in waters beyond the territorial limits of the United States;
+  - **(2)** to provide for the protection of the marine and coastal environment to prevent or minimize any adverse impact which might occur as a consequence of the development of deepwater ports;
+  - **(3)** to protect the interests of the United States and those of adjacent coastal States in the location, construction, and operation of deepwater ports;
+  - **(4)** to protect the rights and responsibilities of States and communities to regulate growth, determine land use, and otherwise protect the environment in accordance with law;
+  - **(5)** to promote the construction and operation of deepwater ports as a safe and effective means of importing oil or natural gas into the United States and transporting oil or natural gas from the outer Continental Shelf while minimizing tanker traffic and the risks associated with that traffic; and
+  - **(6)** to promote oil or natural gas production on the outer Continental Shelf by affording an economic and safe means of transportation of outer Continental Shelf oil or natural gas to the United States mainland.
+- **(b)** Nothing in this chapter affects the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.

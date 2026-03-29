@@ -1,21 +1,12 @@
 ---
-title: "Section 5632 - Allocation of funds"
+title: "Section 5632 - Transferred"
 usc_title: 42
 usc_section: "5632"
 chapter: 72
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5632"
-generated_at: "2026-03-29T19:31:45.239Z"
+generated_at: "2026-03-29T20:00:54.980Z"
 ---
 
-# § 5632. Allocation of funds
+# § 5632. Transferred
 
-- **(a)**
-  - **(1)** Subject to paragraph (2) and in accordance with regulations promulgated under this part, funds shall be allocated annually among the States on the basis of relative population of people under age eighteen.
-  - **(2)**
-    - **(A)** Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter is less than $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $325,000, or such greater amount up to $400,000 as is available to be allocated without reducing the amount of any State or territory’s allocation below the amount allocated for fiscal year 2000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $75,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory’s allocation below the amount allocated for fiscal year 2000, each.
-    - **(B)** Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter equals or exceeds $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $600,000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $100,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory’s allocation below the amount allocated for fiscal year 2000, each.
-  - **(3)** If, as a result of paragraph (2), the amount allocated to a State for a fiscal year would be less than the amount allocated to such State for fiscal year 2000, then the amounts allocated to satisfy the requirements of such paragraph shall be reduced pro rata to the extent necessary to allocate to such State for the fiscal year the amount allocated to such State for fiscal year 2000.
-- **(b)** If any amount so allocated remains unobligated at the end of the fiscal year, such funds shall be reallocated in a manner equitable and consistent with the purpose of this part. Any amount so reallocated shall be in addition to the amounts already allocated and available to the State, the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands for the same period.
-- **(c)** In accordance with regulations promulgated under this part, a portion of any allocation to any State under this part shall be available to develop a State plan or for other pre-award activities associated with such State plan, and to pay that portion of the expenditures which are necessary for efficient administration, including monitoring, evaluation, and one full-time staff position. Not more than 10 percent of the total annual allocation of such State shall be available for such purposes except that any amount expended or obligated by such State, or by units of local government or any combination thereof, from amounts made available under this subsection shall be matched (in an amount equal to any such amount so expended or obligated) by such State, or by such units or combinations, from State or local funds, as the case may be. The State shall make available needed funds for planning and administration to units of local government or combinations thereof within the State on an equitable basis.
-- **(d)** In accordance with regulations promulgated under this part, 5 per centum of the minimum annual allocation to any State under this part shall be available to assist the advisory group established under section 5633(a)(3) of this title .

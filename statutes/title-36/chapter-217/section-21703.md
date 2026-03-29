@@ -3,9 +3,9 @@ title: "Section 21703 - Membership"
 usc_title: 36
 usc_section: "21703"
 chapter: 217
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "36 U.S.C. § 21703"
-generated_at: "2026-03-29T19:43:23.282Z"
+generated_at: "2026-03-29T20:00:38.602Z"
 ---
 
 # § 21703. Membership

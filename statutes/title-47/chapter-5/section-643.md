@@ -3,9 +3,9 @@ title: "Section 643 - Enforcement"
 usc_title: 47
 usc_section: "643"
 chapter: 5
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "47 U.S.C. § 643"
-generated_at: "2026-03-29T19:44:37.242Z"
+generated_at: "2026-03-29T20:01:01.609Z"
 ---
 
 # § 643. Enforcement

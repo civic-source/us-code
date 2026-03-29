@@ -3,9 +3,9 @@ title: "Section 4704 - Prohibition of contractors limiting subcontractor sales d
 usc_title: 41
 usc_section: "4704"
 chapter: 47
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "41 U.S.C. § 4704"
-generated_at: "2026-03-29T19:31:15.759Z"
+generated_at: "2026-03-29T19:59:34.766Z"
 ---
 
 # § 4704. Prohibition of contractors limiting subcontractor sales directly to Federal Government
@@ -15,4 +15,4 @@ generated_at: "2026-03-29T19:31:15.759Z"
   - **(2)** otherwise act to restrict unreasonably the ability of a subcontractor to make sales described in paragraph (1) to the Federal Government.
 - **(b)** This section does not prohibit a contractor from asserting rights it otherwise has under law.
 - **(c)** This section does not apply to a contract for an amount that is not greater than the simplified acquisition threshold.
-- **(d)** An agreement between the contractor in a contract for the acquisition of commercial items and a subcontractor under the contract that restricts sales by the subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the Federal Government in violation of the provision included in the contract pursuant to subsection (a) if the agreement does not result in the Federal Government being treated differently with regard to the restriction than any other prospective purchaser of the commercial items from that subcontractor.
+- **(d)** An agreement between the contractor in a contract for the acquisition of commercial products or commercial services and a subcontractor under the contract that restricts sales by the subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the Federal Government in violation of the provision included in the contract pursuant to subsection (a) if the agreement does not result in the Federal Government being treated differently with regard to the restriction than any other prospective purchaser of the commercial products or commercial services from that subcontractor.

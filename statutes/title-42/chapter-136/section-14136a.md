@@ -1,24 +1,12 @@
 ---
-title: "Section 14136a - Sexual assault forensic exam program grants"
+title: "Section 14136a - Transferred"
 usc_title: 42
 usc_section: "14136a"
 chapter: 136
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 14136a"
-generated_at: "2026-03-29T19:31:45.768Z"
+generated_at: "2026-03-29T20:00:55.492Z"
 ---
 
-# § 14136a. Sexual assault forensic exam program grants
+# § 14136a. Transferred
 
-- **(a)** The Attorney General shall make grants to eligible entities to provide training, technical assistance, education, equipment, and information relating to the identification, collection, preservation, analysis, and use of DNA samples and DNA evidence by medical personnel and other personnel, including doctors, medical examiners, coroners, nurses, victim service providers, and other professionals involved in treating victims of sexual assault and sexual assault examination programs, including SANE (Sexual Assault Nurse Examiner), SAFE (Sexual Assault Forensic Examiner), and SART (Sexual Assault Response Team).
-- **(b)** For purposes of this section, the term “eligible entity” includes—
-  - **(1)** States;
-  - **(2)** units of local government; and
-  - **(3)** sexual assault examination programs, including—
-    - **(A)** sexual assault nurse examiner (SANE) programs;
-    - **(B)** sexual assault forensic examiner (SAFE) programs;
-    - **(C)** sexual assault response team (SART) programs;
-    - **(D)** State sexual assault coalitions;
-    - **(E)** medical personnel, including doctors, medical examiners, coroners, and nurses, involved in treating victims of sexual assault; and
-    - **(F)** victim service providers involved in treating victims of sexual assault.
-- **(c)** There are authorized to be appropriated $30,000,000 for each of fiscal years 2015 through 2019 to carry out this section.

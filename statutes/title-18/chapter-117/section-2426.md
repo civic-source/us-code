@@ -3,9 +3,9 @@ title: "Section 2426 - Repeat offenders"
 usc_title: 18
 usc_section: "2426"
 chapter: 117
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "18 U.S.C. § 2426"
-generated_at: "2026-03-29T19:41:06.841Z"
+generated_at: "2026-03-29T19:58:59.731Z"
 ---
 
 # § 2426. Repeat offenders
@@ -14,5 +14,5 @@ generated_at: "2026-03-29T19:41:06.841Z"
 - **(b)** In this section—
   - **(1)** the term “prior sex offense conviction” means a conviction for an offense—
     - **(A)** under this chapter, chapter 109A, chapter 110, or section 1591; or
-    - **(B)** under State law for an offense consisting of conduct that would have been an offense under a chapter referred to in subparagraph (A) if the conduct had occurred within the special maritime and territorial jurisdiction of the United States; and
+    - **(B)** under State law or the Uniform Code of Military Justice for an offense consisting of conduct that would have been an offense under a chapter referred to in subparagraph (A) if the conduct had occurred within the special maritime and territorial jurisdiction of the United States; and
   - **(2)** the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.

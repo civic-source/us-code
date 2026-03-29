@@ -3,9 +3,9 @@ title: "Section 2688 - Utility systems: conveyance authority"
 usc_title: 10
 usc_section: "2688"
 chapter: 159
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2688"
-generated_at: "2026-03-29T19:43:38.003Z"
+generated_at: "2026-03-29T19:58:02.189Z"
 ---
 
 # § 2688. Utility systems: conveyance authority
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:43:38.003Z"
 - **(a)** The Secretary of a military department may convey a utility system, or part of a utility system, under the jurisdiction of the Secretary to a municipal, private, regional, district, or cooperative utility company or other entity. The conveyance may consist of all right, title, and interest of the United States in the utility system or such lesser estate as the Secretary considers appropriate to serve the interests of the United States.
 - **(b)**
   - **(1)** If more than one utility or entity referred to in subsection (a) notifies the Secretary concerned of an interest in a conveyance under such subsection, the Secretary shall carry out the conveyance through the use of competitive procedures.
-  - **(2)** Notwithstanding paragraph (1), the Secretary concerned may use procedures other than competitive procedures, but only in accordance with subsections (c) through (f) of section 2304 of this title , to select the conveyee of a utility system (or part of a utility system) under subsection (a).
+  - **(2)** Notwithstanding paragraph (1), the Secretary concerned may use procedures other than competitive procedures, but only in accordance with subsections (a), (b), (d), and (e) of section 3204 of this title , to select the conveyee of a utility system (or part of a utility system) under subsection (a).
   - **(3)** With respect to the solicitation process used in connection with the conveyance of a utility system (or part of a utility system) under subsection (a), the Secretary concerned shall ensure that the process is conducted in a manner consistent with the laws and regulations of the State in which the utility system is located to the extent necessary to ensure that all interested regulated and unregulated utility companies and other interested entities receive an opportunity to acquire and operate the utility system to be conveyed.
 - **(c)**
   - **(1)** The Secretary concerned may require as consideration for a conveyance under subsection (a) an amount equal to the fair market value (as determined by the Secretary) of the right, title, or interest of the United States conveyed. The consideration may take the form of—
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T19:43:38.003Z"
   - **(1)** The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
   - **(2)** The Secretary concerned shall require in any contract for the conveyance of a utility system (or part of a utility system) under subsection (a) that the conveyee manage and operate the utility system in a manner consistent with applicable Federal and State regulations pertaining to health, safety, fire, and environmental requirements.
   - **(3)** The Secretary concerned shall require in any contract for the conveyance of a utility system (or part of a utility system) under subsection (a) that the conveyee manage and operate the utility system in a manner consistent with energy resilience and cybersecurity requirements and associated metrics provided to the conveyee to ensure that the reliability of the utility system meets mission requirements.
-  - **(4)** The Secretary of Defense, in consultation with the Secretaries of the military departments, shall include in the installation energy report submitted under section 2925(a) of this title a description of progress in meeting energy resilience metrics for all conveyance contracts entered into pursuant to this section.
+  - **(4)** The Secretary of Defense, in consultation with the Secretaries of the military departments, shall include in the report submitted under section 2925(a) 1 1 See References in Text note below. of this title a description of progress in meeting energy resilience metrics for all conveyance contracts entered into pursuant to this section.
 - **(h)** In lieu of carrying out a military construction project to construct, repair, or replace a utility system, the Secretary concerned may use funds authorized and appropriated for the project to facilitate the conveyance of the utility system under this section by making a contribution toward the cost of construction, repair, or replacement of the utility system by the entity to which the utility system is being conveyed.
 - **(i)**
   - **(1)** In this section, the term “utility system” means any of the following:
@@ -52,5 +52,7 @@ generated_at: "2026-03-29T19:43:38.003Z"
     - **(A)** the additional utility infrastructure cannot operate without being a part of the conveyed utility system or operation of the additional utility infrastructure by the utility or entity would be in the best interest of the Government; and
     - **(B)** the military department receives as consideration an amount for the utility infrastructure determined in the same manner as the consideration the Secretary could require under subsection (c) for a conveyance under subsection (a).
   - **(2)** The conveyance under this paragraph may consist of all right, title, and interest of the United States or such lesser estate as the Secretary considers appropriate to serve the interests of the United States.
-- **(k)** In the case of a utility system that is conveyed under this section and that only provides utility services to a military installation, the Secretary concerned may use amounts authorized to be appropriated for military construction to improve the reliability, resilience, efficiency, physical security, or cybersecurity of the utility system.
+- **(k)**
+  - **(1)** In the case of a utility system that has been conveyed under this section and that only provides utility services to a military installation, the Secretary of Defense or the Secretary of a military department may authorize a contract on a sole source basis with the conveyee of the utility system to carry out a military construction project as authorized and appropriated for by law for an infrastructure improvement that enhances the reliability, resilience, efficiency, physical security, or cybersecurity of the utility system.
+  - **(2)** The Secretary of Defense or the Secretary of a military department may convey under subsection (j) any infrastructure constructed under paragraph (1) that is in addition to the utility system conveyed under such paragraph.
 - **(l)** This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.

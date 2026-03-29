@@ -3,9 +3,9 @@ title: "Section 6213 - Restrictions applicable to deficiencies; petition to Tax 
 usc_title: 26
 usc_section: "6213"
 chapter: 63
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 6213"
-generated_at: "2026-03-29T19:42:47.968Z"
+generated_at: "2026-03-29T19:59:49.594Z"
 ---
 
 # § 6213. Restrictions applicable to deficiencies; petition to Tax Court
@@ -49,11 +49,16 @@ generated_at: "2026-03-29T19:42:47.968Z"
     - **(M)** the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child,
     - **(N)** an omission of any increase required under section 36(f) with respect to the recapture of a credit allowed under section 36,
     - **(O)** the inclusion on a return of an individual taxpayer identification number issued under section 6109(i) which has expired, been revoked by the Secretary, or is otherwise invalid,
-    - **(P)** an omission of information required by section 24(g)(2) or an entry on the return claiming the credit under section 24 for a taxable year for which the credit is disallowed under subsection (g)(1) thereof, and
-    - **(Q)** an omission of information required by section 25A(b)(4)(B) or an entry on the return claiming the American Opportunity Tax Credit for a taxable year for which such credit is disallowed under section 25A(b)(4)(A).
+    - **(P)** an omission of information required by section 24(g)(2) or an entry on the return claiming the credit under section 24 for a taxable year for which the credit is disallowed under subsection (g)(1) thereof,
+    - **(Q)** an omission of information required by section 25A(b)(4)(B) or an entry on the return claiming the American Opportunity Tax Credit for a taxable year for which such credit is disallowed under section 25A(b)(4)(A),
+    - **(R)** an omission of information or documentation required under section 25C(b)(6)(B) (relating to home energy audits) to be included on a return,
+    - **(S)** 1 1 See Applicability of Amendment note below. an omission of a correct product identification number required under section 25C(h) (relating to credit for nonbusiness energy property) to be included on a return,
+    - **(T)** an omission of a correct vehicle identification number required under section 30D(f)(9) (relating to credit for new clean vehicles) to be included on a return,
+    - **(U)** an omission of a correct vehicle identification number required under section 25E(d) (relating to credit for previously-owned clean vehicles) to be included on a return, and
+    - **(V)** an omission of a correct vehicle identification number required under section 45W(e) (relating to commercial clean vehicle credit) to be included on a return.
 - **(h)**
   - **(1)** For assessment as if a mathematical error on the return, in the case of erroneous claims for income tax prepayment credits, see section 6201(a)(3).
   - **(2)** For assessments without regard to restrictions imposed by this section in the case of—
     - **(A)** Recovery of foreign income taxes, see section 905(c).
     - **(B)** Recovery of foreign estate tax, see section 2016.
-  - **(3)** For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a). 1 1 See References in Text note below.
+  - **(3)** For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a). 2 2 See References in Text note below.

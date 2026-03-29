@@ -3,9 +3,9 @@ title: "Section 1302 - Establishment and membership"
 usc_title: 41
 usc_section: "1302"
 chapter: 13
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "41 U.S.C. § 1302"
-generated_at: "2026-03-29T19:31:15.740Z"
+generated_at: "2026-03-29T19:59:34.745Z"
 ---
 
 # § 1302. Establishment and membership
@@ -19,6 +19,6 @@ generated_at: "2026-03-29T19:31:15.740Z"
     - **(D)** the Administrator of General Services.
   - **(2)**
     - **(A)** Notwithstanding section 121(d)(1) and (2) of title 40, the officials specified in subparagraphs (B) to (D) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official—
-      - **(i)** the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics; or
+      - **(i)** the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition and Sustainment; or
       - **(ii)** if no official of that agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to section 1702(c) of this title .
     - **(B)** No other official or employee may be designated to serve on the Council.

@@ -3,9 +3,9 @@ title: "Section 12320 - Reserve officers: grade in which ordered to active duty"
 usc_title: 10
 usc_section: "12320"
 chapter: 1209
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 12320"
-generated_at: "2026-03-29T19:43:38.152Z"
+generated_at: "2026-03-29T19:58:02.366Z"
 ---
 
 # § 12320. Reserve officers: grade in which ordered to active duty

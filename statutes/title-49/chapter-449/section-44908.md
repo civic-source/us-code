@@ -3,9 +3,9 @@ title: "Section 44908 - Travel advisory and suspension of foreign assistance"
 usc_title: 49
 usc_section: "44908"
 chapter: 449
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 44908"
-generated_at: "2026-03-29T19:44:58.010Z"
+generated_at: "2026-03-29T20:01:15.001Z"
 ---
 
 # § 44908. Travel advisory and suspension of foreign assistance

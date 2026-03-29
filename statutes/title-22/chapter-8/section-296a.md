@@ -3,9 +3,9 @@ title: "Section 296a - Maintenance management of overseas prop­erty"
 usc_title: 22
 usc_section: "296a"
 chapter: 8
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 296a"
-generated_at: "2026-03-29T19:42:07.995Z"
+generated_at: "2026-03-29T19:59:24.021Z"
 ---
 
 # § 296a. Maintenance management of overseas prop­erty

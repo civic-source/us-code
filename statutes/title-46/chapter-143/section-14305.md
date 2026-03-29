@@ -3,9 +3,9 @@ title: "Section 14305 - Optional regulatory measurement"
 usc_title: 46
 usc_section: "14305"
 chapter: 143
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "46 U.S.C. § 14305"
-generated_at: "2026-03-29T19:44:39.423Z"
+generated_at: "2026-03-29T20:01:03.900Z"
 ---
 
 # § 14305. Optional regulatory measurement
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T19:44:39.423Z"
   - **(2)** section 3(d)(3) of the Longshore and Harbor Workers’ Compensation Act ( 33 U.S.C. 903(d)(3) );
   - **(3)** section 4 of the Bridge to Bridge Radiotelephone Act ( 33 U.S.C. 1203(a) );
   - **(4)** section 4(a)(3) 1 1 See References in Text note below. of the Ports and Waterways Safety Act ( 33 U.S.C. 1223(a)(3) );
-  - **(5)** section 30506 of this title ;
+  - **(5)** section 30524 of this title ;
   - **(6)** sections 12118 and 12132 of this title;
   - **(7)** section 12139(b) of this title ;
   - **(8)** sections 351, 352, 355, and 356 of the Ship Radio Act ( 47 U.S.C. 351 , 352, 354, and 354a);

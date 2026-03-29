@@ -3,12 +3,12 @@ title: "Section 8803 - Sales: veterans under treatment"
 usc_title: 10
 usc_section: "8803"
 chapter: 879
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 8803"
-generated_at: "2026-03-29T19:43:38.120Z"
+generated_at: "2026-03-29T19:58:02.327Z"
 ---
 
 # § 8803. Sales: veterans under treatment
 
-A person who has been separated honorably or under honorable conditions from the Army, the Navy, the Air Force, the Marine Corps, or the Space Force and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, from the Navy and the Marine Corps at prices charged members of the naval service.
+A person who has been separated honorably or under honorable conditions from the Army, the Navy, the Air Force, the Marine Corps, the Space Force, or the Coast Guard and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, from the Navy and the Marine Corps at prices charged members of the naval service.
 

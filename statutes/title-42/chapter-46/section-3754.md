@@ -1,14 +1,12 @@
 ---
-title: "Section 3754 - Rules"
+title: "Section 3754 - Transferred"
 usc_title: 42
 usc_section: "3754"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3754"
-generated_at: "2026-03-29T19:31:45.108Z"
+generated_at: "2026-03-29T20:00:54.882Z"
 ---
 
-# § 3754. Rules
-
-The Attorney General shall issue rules to carry out this part. The first such rules shall be issued not later than one year after the date on which amounts are first made available to carry out this part.
+# § 3754. Transferred
 

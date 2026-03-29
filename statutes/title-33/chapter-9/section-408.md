@@ -3,9 +3,9 @@ title: "Section 408 - Taking possession of, use of, or injury to harbor or river
 usc_title: 33
 usc_section: "408"
 chapter: 9
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 408"
-generated_at: "2026-03-29T19:43:07.555Z"
+generated_at: "2026-03-29T20:00:31.228Z"
 ---
 
 # § 408. Taking possession of, use of, or injury to harbor or river improvements
@@ -24,9 +24,16 @@ generated_at: "2026-03-29T19:43:07.555Z"
     - **(B)** adopt and use any document prepared by the Corps of Engineers for the purpose of complying with the same law and that addresses the same types of impacts in the same geographic area if such document, as determined by the Secretary, is current and applicable.
   - **(3)** The Secretary may accept and expend funds received from non-Federal public or private entities to evaluate under this section an alteration or permanent occupation or use of a work built by the United States.
 - **(c)**
+  - **(1)** The Secretary shall establish clear, concise, and specific guidance to be used within the Corps of Engineers and by non-Federal entities developing applications for permission standardizing the review process across Districts.
+  - **(2)** At the request of a non-Federal entity that is planning on submitting an application for permission pursuant to subsection (a), the Secretary shall meet with the non-Federal entity to—
+    - **(A)** provide clear, concise, and specific design standards that the non-Federal entity must use in the development of the application;
+    - **(B)** recommend, based on coordination with the non-Federal entity, the appropriate number of design packages for submission for the proposed action, and the stage of development at which such packages should be submitted; and
+    - **(C)** identify potential concerns or conflicts with such proposed actions.
+  - **(3)** The Secretary may use funds accepted from a non-Federal entity under subsection (b)(3) for purposes of conducting a meeting described in paragraph (2).
+- **(d)**
   - **(1)** On or before the date that is 30 days after the date on which the Secretary receives an application for permission to take action affecting public projects pursuant to subsection (a), the Secretary shall inform the applicant whether the application is complete and, if it is not, what items are needed for the application to be complete.
   - **(2)** On or before the date that is 90 days after the date on which the Secretary receives a complete application for permission under subsection (a), the Secretary shall—
     - **(A)** make a decision on the application; or
     - **(B)** provide a schedule to the applicant identifying when the Secretary will make a decision on the application.
   - **(3)** In any case in which a schedule provided under paragraph (2)(B) extends beyond 120 days from the date of receipt of a complete application, the Secretary shall provide to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an explanation justifying the extended timeframe for review.
-- **(d)** For the purposes of this section, the term “work” shall not include unimproved real estate owned or operated by the Secretary as part of a water resources development project if the Secretary determines that modification of such real estate would not affect the function and usefulness of the project.
+- **(e)** For the purposes of this section, the term “work” shall not include unimproved real estate owned or operated by the Secretary as part of a water resources development project if the Secretary determines that modification of such real estate would not affect the function and usefulness of the project.

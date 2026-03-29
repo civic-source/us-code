@@ -3,9 +3,9 @@ title: "Section 1603 - Secure and Trusted Communications Networks Reimbursement 
 usc_title: 47
 usc_section: "1603"
 chapter: 15
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "47 U.S.C. § 1603"
-generated_at: "2026-03-29T19:44:37.274Z"
+generated_at: "2026-03-29T20:01:01.641Z"
 ---
 
 # § 1603. Secure and Trusted Communications Networks Reimbursement Program
@@ -105,4 +105,4 @@ generated_at: "2026-03-29T19:44:37.274Z"
   - **(1)** encourage such providers to participate in the Program; and
   - **(2)** assist such providers in submitting applications for the Program.
 - **(j)** The Program shall be separate from any Federal universal service program established under section 254 of this title .
-- **(k)** In carrying out this section, the Commission may not expend more than $1,900,000,000.
+- **(k)** In carrying out this section, the Commission may not expend more than $4,980,000,000.

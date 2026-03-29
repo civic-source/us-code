@@ -3,9 +3,9 @@ title: "Section 1599g - Public-private talent exchange"
 usc_title: 10
 usc_section: "1599g"
 chapter: 81
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 1599g"
-generated_at: "2026-03-29T19:43:37.943Z"
+generated_at: "2026-03-29T19:58:02.114Z"
 ---
 
 # § 1599g. Public-private talent exchange
@@ -50,3 +50,4 @@ generated_at: "2026-03-29T19:43:37.943Z"
   - **(1)** notwithstanding section 1705(e)(5) of this title , the base salary of a civilian member of the acquisition workforce assigned to a private-sector organization under this section, during the period of that assignment;
   - **(2)** expenses relating to assignment under this section of a member of the acquisition workforce away from the member’s regular duty station, including expenses for travel, per diem, and lodging; and
   - **(3)** expenses for the administration of the program.
+- **(k)** Each member of the acquisition workforce that participates in the program established under this section shall, upon completion of such participation, submit to the President of the Defense Acquisition University for inclusion in the report required under section 1746a(e) a description and evaluation of such participation.

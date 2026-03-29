@@ -1,12 +1,12 @@
 ---
-title: "Section 295n - Repealed. Pub. L. 105–392, title I , § 101(b)(1), Nov. 13, 1998 , 112 Stat. 3537"
+title: "Section 295n - Repealed. Pub. L. 105–392, title I, § 101(b)(1) , Nov. 13, 1998 , 112 Stat. 3537"
 usc_title: 42
 usc_section: "295n"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 295n"
-generated_at: "2026-03-29T19:31:44.347Z"
+generated_at: "2026-03-29T20:00:53.945Z"
 ---
 
-# § 295n. Repealed. Pub. L. 105–392, title I , § 101(b)(1), Nov. 13, 1998 , 112 Stat. 3537
+# § 295n. Repealed. Pub. L. 105–392, title I, § 101(b)(1) , Nov. 13, 1998 , 112 Stat. 3537
 

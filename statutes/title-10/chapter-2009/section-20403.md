@@ -3,9 +3,9 @@ title: "Section 20403 - Officers: standards and qualifications for retention"
 usc_title: 10
 usc_section: "20403"
 chapter: 2009
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 20403"
-generated_at: "2026-03-29T02:10:45.400Z"
+generated_at: "2026-03-29T19:58:02.393Z"
 ---
 
 # § 20403. Officers: standards and qualifications for retention

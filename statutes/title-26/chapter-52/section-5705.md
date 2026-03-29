@@ -3,9 +3,9 @@ title: "Section 5705 - Credit, refund, or allowance of tax"
 usc_title: 26
 usc_section: "5705"
 chapter: 52
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 5705"
-generated_at: "2026-03-29T19:42:47.931Z"
+generated_at: "2026-03-29T19:59:49.553Z"
 ---
 
 # § 5705. Credit, refund, or allowance of tax

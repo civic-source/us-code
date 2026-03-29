@@ -3,9 +3,9 @@ title: "Section 5405 - Judicial review of orders establishing standards; petitio
 usc_title: 42
 usc_section: "5405"
 chapter: 70
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 5405"
-generated_at: "2026-03-29T19:31:45.227Z"
+generated_at: "2026-03-29T20:00:54.976Z"
 ---
 
 # § 5405. Judicial review of orders establishing standards; petition; additional evidence before Secretary; certified copy of transcript
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T19:31:45.227Z"
   - **(4)** The judgment of the court affirming or setting aside, in whole or in part, any such order of the Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28 .
   - **(5)** Any action instituted under this subsection shall survive, notwithstanding any change in the person occupying the office of Secretary or any vacancy in such office.
   - **(6)** The remedies provided for in this subsection shall be in addition to and not in substitution for any other remedies provided by law.
-- **(b)** A certified copy of the transcript of the record and proceedings under this section shall be furnished by the Secretary to any interested party at his request and payment of the costs thereof, and shall be admissible in any criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the order have previously been initiated or become final under subsection (a) of this section.
+- **(b)** A certified copy of the transcript of the record and proceedings under this section shall be furnished by the Secretary to any interested party at his request and payment of the costs thereof, and shall be admissible in any criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the order have previously been initiated or become final under subsection (a).

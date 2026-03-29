@@ -3,9 +3,9 @@ title: "Section 16 - Management of flood risk reduction projects"
 usc_title: 33
 usc_section: "16"
 chapter: 15
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 16"
-generated_at: "2026-03-29T19:43:07.584Z"
+generated_at: "2026-03-29T20:00:31.265Z"
 ---
 
 # § 701b–16. Management of flood risk reduction projects

@@ -3,9 +3,9 @@ title: "Section 15736 - Southern New England Regional Commission"
 usc_title: 40
 usc_section: "15736"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "40 U.S.C. § 15736"
-generated_at: "2026-03-29T02:14:58.815Z"
+generated_at: "2026-03-29T20:00:35.909Z"
 ---
 
 # § 15736. Southern New England Regional Commission

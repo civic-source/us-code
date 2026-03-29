@@ -3,9 +3,9 @@ title: "Section 294e - Allied health and other disciplines"
 usc_title: 42
 usc_section: "294e"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 294e"
-generated_at: "2026-03-29T19:31:44.338Z"
+generated_at: "2026-03-29T20:00:53.936Z"
 ---
 
 # § 294e. Allied health and other disciplines
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T19:31:44.338Z"
 - **(a)** The Secretary may make grants or contracts under this section to help entities fund activities of the type described in subsection (b).
 - **(b)** Activities of the type described in this subsection include the following:
   - **(1)** Assisting entities in meeting the costs associated with expanding or establishing programs that will increase the number of individuals trained in allied health professions. Programs and activities funded under this paragraph may include—
-    - **(A)** those that expand enrollments in allied health professions with the greatest shortages or whose services are most needed by the elderly;
+    - **(A)** those that expand enrollments in allied health professions with the greatest shortages or whose services are most needed by geriatric populations or for maternal and child health;
     - **(B)** those that provide rapid transition training programs in allied health fields to individuals who have baccalaureate degrees in health-related sciences;
     - **(C)** those that establish community-based allied health training programs that link academic centers to rural clinical settings;
     - **(D)** those that provide career advancement training for practicing allied health professionals;
@@ -27,3 +27,4 @@ generated_at: "2026-03-29T19:31:44.338Z"
     - **(J)** those to meet the costs of projects to plan, develop, and operate or maintain graduate programs in behavioral and mental health practice.
   - **(2)** Planning and implementing projects in preventive and primary care training for podiatric physicians in approved or provisionally approved residency programs that shall provide financial assistance in the form of traineeships to residents who participate in such projects and who plan to specialize in primary care.
   - **(3)** Carrying out demonstration projects in which chiropractors and physicians collaborate to identify and provide effective treatment for spinal and lower-back conditions.
+  - **(4)** Increasing educational opportunities in physical therapy, occupational therapy, respiratory therapy, audiology, and speech-language pathology professions, which may include offering scholarships or stipends and carrying out other activities to improve retention, for individuals from disadvantaged backgrounds or individuals who are underrepresented in such professions.

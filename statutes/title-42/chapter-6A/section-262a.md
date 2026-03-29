@@ -3,9 +3,9 @@ title: "Section 262a - Enhanced control of dangerous biological agents and toxin
 usc_title: 42
 usc_section: "262a"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 262a"
-generated_at: "2026-03-29T19:31:44.231Z"
+generated_at: "2026-03-29T20:00:53.784Z"
 ---
 
 # § 262a. Enhanced control of dangerous biological agents and toxins
@@ -23,7 +23,10 @@ generated_at: "2026-03-29T19:31:44.231Z"
   - **(2)** The Secretary shall review and republish the list under paragraph (1) biennially, or more often as needed, and shall by regulation revise the list as necessary in accordance with such paragraph.
 - **(b)** The Secretary shall by regulation provide for—
   - **(1)** the establishment and enforcement of safety procedures for the transfer of listed agents and toxins, including measures to ensure—
-    - **(A)** proper training and appropriate skills to handle such agents and toxins; and
+    - **(A)** proper training, including with respect to notification requirements under this section, of—
+      - **(i)** individuals who are involved in the handling and use of such agents and toxins, including appropriate skills to handle such agents and toxins;
+      - **(ii)** individuals whose responsibilities routinely place them in close proximity to laboratory facilities in which such agents and toxins are being transferred, possessed, or used; and
+      - **(iii)** individuals who perform administrative or oversight functions of the facility related to the transfer, possession, or use of such agents and toxins on behalf of registered persons;
     - **(B)** proper laboratory facilities to contain and dispose of such agents and toxins;
   - **(2)** the establishment and enforcement of safeguard and security measures to prevent access to such agents and toxins for use in domestic or international terrorism or for any other criminal purpose;
   - **(3)** the establishment of procedures to protect the public safety in the event of a transfer or potential transfer of such an agent or toxin in violation of the safety procedures established under paragraph (1) or the safeguard and security measures established under paragraph (2); and
@@ -33,7 +36,7 @@ generated_at: "2026-03-29T19:31:44.231Z"
   - **(1)** Regulations under subsections (b) and (c) shall require registration with the Secretary of the possession, use, and transfer of listed agents and toxins, and shall include provisions to ensure that persons seeking to register under such regulations have a lawful purpose to possess, use, or transfer such agents and toxins, including provisions in accordance with subsection (e)(6).
   - **(2)** Regulations under subsections (b) and (c) shall require that registration include (if available to the person registering) information regarding the characterization of listed agents and toxins to facilitate their identification, including their source. The Secretary shall maintain a national database that includes the names and locations of registered persons, the listed agents and toxins such persons are possessing, using, or transferring, and information regarding the characterization of such agents and toxins.
 - **(e)**
-  - **(1)** Regulations under subsections (b) and (c) shall include appropriate safeguard and security requirements for persons possessing, using, or transferring a listed agent or toxin commensurate with the risk such agent or toxin poses to public health and safety (including the risk of use in domestic or international terrorism). The Secretary shall establish such requirements in collaboration with the Secretary of Homeland Security and the Attorney General, and shall ensure compliance with such requirements as part of the registration system under such regulations.
+  - **(1)** Regulations under subsections (b) and (c) shall include appropriate safeguard and security requirements for persons possessing, using, or transferring a listed agent or toxin commensurate with the risk such agent or toxin poses to public health and safety (including risks posed by the release, theft, or loss of such agent or toxin, or use in domestic or international terrorism). The Secretary shall establish such requirements in collaboration with the Secretary of Homeland Security and the Attorney General, and shall ensure compliance with such requirements as part of the registration system under such regulations.
   - **(2)** Requirements under paragraph (1) shall include provisions to ensure that registered persons—
     - **(A)** provide access to listed agents and toxins to only those individuals whom the registered person involved determines have a legitimate need to handle or use such agents and toxins;
     - **(B)** submit the names and other identifying information for such individuals to the Secretary and the Attorney General, promptly after first determining that the individuals need access under subparagraph (A), and periodically thereafter while the individuals have such access, not less frequently than once every five years;
@@ -109,9 +112,23 @@ generated_at: "2026-03-29T19:31:44.231Z"
     - **(B)** to withhold information from any person under any other Federal law or treaty.
 - **(i)**
   - **(1)** In addition to any other penalties that may apply under law, any person who violates any provision of regulations under subsection (b) or (c) shall be subject to the United States for a civil money penalty in an amount not exceeding $250,000 in the case of an individual and $500,000 in the case of any other person.
-  - **(2)** The provisions of section 1320a–7a of this title (other than subsections (a), (b), (h), and (i), the first sentence of subsection (c), and paragraphs (1) and (2) of subsection (f)) shall apply to a civil money penalty under paragraph (1) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title . The Secretary may delegate authority under this subsection in the same manner as provided in section 1320a–7a(j)(2) of this title , and such authority shall include all powers as contained in section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+  - **(2)** The provisions of section 1320a–7a of this title (other than subsections (a), (b), (h), and (i), the first sentence of subsection (c), and paragraphs (1) and (2) of subsection (f)) shall apply to a civil money penalty under paragraph (1) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title . The Secretary may delegate authority under this subsection in the same manner as provided in section 1320a–7a(j)(2) of this title , and such authority shall include all powers as contained in section 406 of title 5 .
 - **(j)** Regulations under subsections (b) and (c) shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public health or safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin (as defined in subsection ( l )), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
-- **(k)** The Secretary shall report to the Congress annually on the number and nature of notifications received under subsection (e)(8) (relating to theft or loss) and subsection (j) (relating to releases).
+- **(k)**
+  - **(1)** In the event of the release, loss, or theft of an agent or toxin listed by the Secretary pursuant to subsection (a)(1), or by the Secretary of Agriculture pursuant to section 8401(a)(1) of title 7 , from or within a laboratory facility owned or operated by the Department of Health and Human Services, or other Federal laboratory facility subject to the requirements of this section, the Secretary, in a manner that does not compromise national security, shall—
+    - **(A)** not later than 72 hours after such event is reported to the Secretary, notify the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives of such event, including—
+      - **(i)** the Federal laboratory facility in which such release, loss, or theft occurred; and
+      - **(ii)** the circumstances of such release, loss, or theft; and
+    - **(B)** not later than 14 days after such notification, update such Committees on—
+      - **(i)** any actions taken or planned by the Secretary to mitigate any potential threat such release, loss, or theft may pose to public health and safety; and
+      - **(ii)** any actions taken or planned by the Secretary to review the circumstances of such release, loss, or theft, and prevent similar events.
+  - **(2)** The Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on an annual basis a report—
+    - **(A)** summarizing the number and nature of notifications received under subsection (e)(8) (relating to theft or loss) and subsection (j) (relating to releases), during the preceding fiscal year;
+    - **(B)** describing actions taken by the Secretary to address such incidents, such as any corrective action plans required and steps taken to promote adherence to, and compliance with, safety and security best practices, standards, and regulations; and
+    - **(C)** describing any gaps, challenges, or limitations with respect to ensuring that such safety and security practices are consistently applied and adhered to, and actions taken to address such gaps, challenges, or limitations.
+  - **(3)**
+    - **(A)** Not later than 1 year after June 24, 2019 , the Secretary shall report to the congressional committees of jurisdiction on the implementation of recommendations of the Federal Experts Security Advisory Panel concerning the select agent program.
+    - **(B)** The Secretary shall report to the congressional committees of jurisdiction annually following the submission of the report under subparagraph (A) until the recommendations described in such subparagraph are fully implemented, or a justification is provided for the delay in, or lack of, implementation.
 - **(l)** For purposes of this section:
   - **(1)** The terms “biological agent” and “toxin” have the meanings given such terms in section 178 of title 18 .
   - **(2)** The term “listed agents and toxins” means biological agents and toxins listed pursuant to subsection (a)(1).
@@ -125,4 +142,4 @@ generated_at: "2026-03-29T19:31:44.231Z"
   - **(6)** The term “person” includes Federal, State, and local governmental entities.
   - **(7)** The term “registered person” means a person registered under regulations under subsection (b) or (c).
   - **(8)** The term “restricted person” has the meaning given such term in section 175b of title 18 .
-- **(m)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2007.
+- **(m)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2023 through 2027.

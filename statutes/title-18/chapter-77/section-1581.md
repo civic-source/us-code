@@ -3,9 +3,9 @@ title: "Section 1581 - Peonage; obstructing enforcement"
 usc_title: 18
 usc_section: "1581"
 chapter: 77
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "18 U.S.C. § 1581"
-generated_at: "2026-03-29T19:41:06.802Z"
+generated_at: "2026-03-29T19:58:59.692Z"
 ---
 
 # § 1581. Peonage; obstructing enforcement

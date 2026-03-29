@@ -3,9 +3,9 @@ title: "Section 2232 - Construction of water resources development projects by n
 usc_title: 33
 usc_section: "2232"
 chapter: 36
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "33 U.S.C. § 2232"
-generated_at: "2026-03-29T19:43:07.688Z"
+generated_at: "2026-03-29T20:00:31.377Z"
 ---
 
 # § 2232. Construction of water resources development projects by non-Federal interests
@@ -30,15 +30,15 @@ generated_at: "2026-03-29T19:43:07.688Z"
     - **(B)** Except as provided in subparagraph (C), the Secretary shall transfer the data and documentation requested by a non-Federal interest under subparagraph (A) not later than the date that is 90 days after the date on which the non-Federal interest so requests such data and documentation.
     - **(C)** Nothing in this paragraph obligates the Secretary to share any data or documentation that the Secretary considers to be proprietary information.
 - **(c)**
-  - **(1)** When requested by an appropriate non-Federal interest, the Secretary shall undertake all necessary studies, engineering, and technical assistance on construction for any project to be undertaken under this section, and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance on construction in the period during which the studies, engineering, or technical assistance on construction are being conducted.
+  - **(1)** When requested by a non-Federal interest carrying out a project or separable element of a project under this section, the Secretary shall undertake all necessary studies, engineering, and technical assistance on construction for any project or separable element of a project under this section, and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to provide funds to the United States for the studies, engineering, or technical assistance.
   - **(2)** Nothing in this section may be construed to waive any requirement of section 3142 of title 40 .
   - **(3)** Funds provided by non-Federal interests under this subsection shall not be eligible for credit or reimbursement under subsection (d).
   - **(4)** In carrying out this section, the Secretary shall ensure that the use of funds accepted from a non-Federal interest will not affect the impartial decisionmaking of the Secretary, either substantively or procedurally.
 - **(d)**
   - **(1)** Subject to paragraph (3), a project or separable element of a project carried out by a non-Federal interest under this section shall be eligible for credit or reimbursement for the Federal share of work carried out on a project or separable element of a project if—
     - **(A)** before initiation of construction of the project or separable element—
-      - **(i)** the Secretary approves the plans for construction of the project or separable element of the project by the non-Federal interest;
-      - **(ii)** the Secretary determines, before approval of the plans, that the project or separable element of the project is feasible; and
+      - **(i)** the Secretary approves the plan for construction of the project or separable element of the project by the non-Federal interest;
+      - **(ii)** the Secretary determines, before approval of the plan, that the project or separable element of the project is feasible; and
       - **(iii)** the non-Federal interest enters into a written agreement with the Secretary under section 1962d–5b of title 42 , including an agreement to pay the non-Federal share, if any, of the cost of operation and maintenance of the project; and
     - **(B)** the Secretary determines that all Federal laws and regulations applicable to the construction of a water resources development project, and any conditions identified under subsection (b)(1)(B), were complied with by the non-Federal interest during construction of the project or separable element of the project.
   - **(2)** The Secretary may apply credit toward—
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T19:43:07.688Z"
     - **(B)** subject to the requirements of this section and section 2223 of this title , at the request of the non-Federal interest, the non-Federal share of a different water resources development project.
   - **(3)** The Secretary may only apply credit or provide reimbursement under paragraph (1) if—
     - **(A)** Congress has authorized construction of the project or separable element of the project;
-    - **(B)** the Secretary certifies that the project has been constructed in accordance with—
+    - **(B)** the Secretary certifies that the project, discrete segment of the project, or separable element of the project has been constructed in accordance with—
       - **(i)** all applicable permits or approvals; and
       - **(ii)** this section; and
     - **(C)** in the case of reimbursement, appropriations are provided by Congress for such purpose.
@@ -56,10 +56,10 @@ generated_at: "2026-03-29T19:43:07.688Z"
   - **(5)**
     - **(A)** The Secretary may authorize credit or reimbursement under this subsection for carrying out a discrete segment of a federally authorized water resources development project, or separable element thereof, before final completion of the project or separable element if—
       - **(i)** except as provided in clause (ii), the Secretary determines that the discrete segment satisfies the requirements of paragraphs (1) through (4) in the same manner as the project or separable element; and
-      - **(ii)** notwithstanding paragraph (1)(A)(ii), the Secretary determines, before the approval of the plans under paragraph (1)(A)(i), that the discrete segment is technically feasible and environmentally acceptable.
+      - **(ii)** notwithstanding paragraph (1)(A)(ii), the Secretary determines, before the approval of the plan under paragraph (1)(A)(i), that the discrete segment is technically feasible and environmentally acceptable.
     - **(B)** Credit or reimbursement may not be made available to a non-Federal interest pursuant to this paragraph until the Secretary determines that—
       - **(i)** the construction of the discrete segment for which credit or reimbursement is requested is complete; and
-      - **(ii)** the construction is consistent with the authorization of the applicable water resources development project, or separable element thereof, and the plans approved under paragraph (1)(A)(i).
+      - **(ii)** the construction is consistent with the authorization of the applicable water resources development project, or separable element thereof, and the plan approved under paragraph (1)(A)(i).
     - **(C)**
       - **(i)** As part of the written agreement required under paragraph (1)(A)(iii), a non-Federal interest to be eligible for credit or reimbursement under this paragraph shall—
         - **(I)** identify any discrete segment that the non-Federal interest may carry out; and
@@ -68,6 +68,9 @@ generated_at: "2026-03-29T19:43:07.688Z"
     - **(D)** In this paragraph, the term “discrete segment” means a physical portion of a water resources development project to be carried out, or separable element thereof—
       - **(i)** described by a non-Federal interest in a written agreement required under paragraph (1)(A)(iii); and
       - **(ii)** that the non-Federal interest can operate and maintain, independently and without creating a hazard, in advance of final completion of the water resources development project, or separable element thereof.
+  - **(6)** The Secretary may not provide credit or reimbursement for—
+    - **(A)** activities required by the non-Federal interest to initiate design and construction that would otherwise not be required by the Secretary; or
+    - **(B)** delays incurred by the non-Federal interest resulting in project cost increases.
 - **(e)** If a non-Federal interest notifies the Secretary that the non-Federal interest intends to carry out a project, or separable element thereof, under this section, the Secretary shall provide written notice to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives concerning the intent of the non-Federal interest.
 - **(f)**
   - **(1)** Whenever a non-Federal interest carries out improvements to a federally authorized harbor or inland harbor, the Secretary shall be responsible for operation and maintenance in accordance with section 2211(b) of this title if—

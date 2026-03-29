@@ -3,9 +3,9 @@ title: "Section 15908 - Preservation of geological and geophysical data"
 usc_title: 42
 usc_section: "15908"
 chapter: 149
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 15908"
-generated_at: "2026-03-29T19:31:45.814Z"
+generated_at: "2026-03-29T20:00:55.524Z"
 ---
 
 # § 15908. Preservation of geological and geophysical data
@@ -13,8 +13,9 @@ generated_at: "2026-03-29T19:31:45.814Z"
 - **(a)** This section may be cited as the “National Geological and Geophysical Data Preservation Program Act of 2005”.
 - **(b)** The Secretary shall carry out a National Geological and Geophysical Data Preservation Program in accordance with this section—
   - **(1)** to archive geologic, geophysical, and engineering data, maps, well logs, and samples;
-  - **(2)** to provide a national catalog of such archival material; and
-  - **(3)** to provide technical and financial assistance related to the archival material.
+  - **(2)** to provide a national catalog of such archival material;
+  - **(3)** to provide technical and financial assistance related to the archival material; and
+  - **(4)** to provide for preservation of samples to track geochemical signatures from critical mineral (as defined in section 1606(a) of title 30 ) ore bodies for use in provenance tracking frameworks.
 - **(c)** Not later than 1 year after August 8, 2005 , the Secretary shall submit to Congress a plan for the implementation of the Program.
 - **(d)**
   - **(1)** The Secretary shall establish, as a component of the Program, a data archive system to provide for the storage, preservation, and archiving of subsurface, surface, geological, geophysical, and engineering data and samples. The Secretary, in consultation with the Advisory Committee, shall develop guidelines relating to the data archive system, including the types of data and samples to be preserved.
@@ -52,4 +53,4 @@ generated_at: "2026-03-29T19:31:45.814Z"
   - **(2)** The term “Program” means the National Geological and Geophysical Data Preservation Program carried out under this section.
   - **(3)** The term “Secretary” means the Secretary of the Interior, acting through the Director of the United States Geological Survey.
   - **(4)** The term “Survey” means the United States Geological Survey.
-- **(k)** There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2006 through 2010.
+- **(k)** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2021 through 2029, to remain available until expended.

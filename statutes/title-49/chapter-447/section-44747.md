@@ -3,9 +3,9 @@ title: "Section 44747 - Aviation safety oversight measures carried out by foreig
 usc_title: 49
 usc_section: "44747"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "49 U.S.C. § 44747"
-generated_at: "2026-03-29T02:16:09.038Z"
+generated_at: "2026-03-29T20:01:14.994Z"
 ---
 
 # § 44747. Aviation safety oversight measures carried out by foreign countries

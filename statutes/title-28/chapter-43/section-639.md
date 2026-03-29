@@ -3,9 +3,9 @@ title: "Section 639 - Definitions"
 usc_title: 28
 usc_section: "639"
 chapter: 43
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "28 U.S.C. § 639"
-generated_at: "2026-03-29T19:42:27.351Z"
+generated_at: "2026-03-29T20:00:05.288Z"
 ---
 
 # § 639. Definitions

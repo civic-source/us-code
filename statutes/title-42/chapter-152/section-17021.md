@@ -3,9 +3,9 @@ title: "Section 17021 - Biomass-based diesel and biodiesel labeling"
 usc_title: 42
 usc_section: "17021"
 chapter: 152
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 17021"
-generated_at: "2026-03-29T19:31:45.874Z"
+generated_at: "2026-03-29T20:00:55.595Z"
 ---
 
 # § 17021. Biomass-based diesel and biodiesel labeling

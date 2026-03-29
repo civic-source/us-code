@@ -3,9 +3,9 @@ title: "Section 244a - Transferred"
 usc_title: 20
 usc_section: "244a"
 chapter: 13
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "20 U.S.C. § 244a"
-generated_at: "2026-03-29T19:41:03.155Z"
+generated_at: "2026-03-29T19:58:56.615Z"
 ---
 
 # § 244a. Transferred

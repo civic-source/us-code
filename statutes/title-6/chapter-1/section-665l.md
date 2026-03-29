@@ -3,9 +3,9 @@ title: "Section 665l - School and daycare protection"
 usc_title: 6
 usc_section: "665l"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "6 U.S.C. § 665l"
-generated_at: "2026-03-29T02:10:05.049Z"
+generated_at: "2026-03-29T19:57:32.931Z"
 ---
 
 # § 665l. School and daycare protection

@@ -3,9 +3,9 @@ title: "Section 101 - Eligibility, enrollment, and information"
 usc_title: 42
 usc_section: "101"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 101"
-generated_at: "2026-03-29T19:31:44.702Z"
+generated_at: "2026-03-29T20:00:54.406Z"
 ---
 
 # § 1395w–101. Eligibility, enrollment, and information
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T19:31:44.702Z"
       - **(iv)** A part D eligible individual who is enrolled in an MSA plan (as defined in section 1395w–28(b)(3) of this title ) may obtain qualified prescription drug coverage through enrollment in a prescription drug plan.
   - **(2)** Coverage under prescription drug plans and MA–PD plans shall first be effective on January 1, 2006 .
   - **(3)** For purposes of this part:
-    - **(A)** The term “part D eligible individual” means an individual who is entitled to benefits under part A or enrolled under part B.
+    - **(A)** The term “part D eligible individual” means an individual who is entitled to benefits under part A or enrolled under part B (but not including an individual enrolled solely for coverage of immunosuppressive drugs under section 1395 o (b) of this title).
     - **(B)** The term “MA plan” has the meaning given such term in section 1395w–28(b)(1) of this title .
     - **(C)** The term “MA–PD plan” means an MA plan that provides qualified prescription drug coverage.
 - **(b)**
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T19:31:44.702Z"
       - **(iv)** For purposes of clause (i), a reduction in coverage so that the coverage no longer meets the requirements under section 1395w–113(b)(5) of this title (relating to actuarial equivalence) shall be treated as an involuntary loss of coverage.
     - **(B)** In the case described in section 1395p(h) of this title (relating to errors in enrollment), in the same manner as such section applies to part B.
     - **(C)** In the case of part D eligible individuals who meet such exceptional conditions (in addition to those conditions applied under paragraph (1)(B)(iii)) as the Secretary may provide.
-    - **(D)** In the case of an individual (as determined by the Secretary) who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title ).
+    - **(D)** In the case of an individual (as determined by the Secretary, subject to such limits as the Secretary may establish for individuals identified pursuant to section 1395w–104(c)(5) of this title ) who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title ).
     - **(E)** In the case of a part D eligible individual who discontinues enrollment in an MA–PD plan under the second sentence of section 1395w–21(e)(4) of this title at the time of the election of coverage under such sentence under the original medicare fee-for-service program.
   - **(4)**
     - **(A)** Notwithstanding any other provision of law but subject to subparagraph (B), the Secretary may provide to each PDP sponsor and MA organization such identifying information about part D eligible individuals as the Secretary determines to be necessary to facilitate efficient marketing of prescription drug plans and MA–PD plans to such individuals and enrollment of such individuals in such plans.

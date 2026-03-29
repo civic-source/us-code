@@ -3,14 +3,14 @@ title: "Section 9905 - Direct hire authority for certain personnel of the Depart
 usc_title: 5
 usc_section: "9905"
 chapter: 99
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "5 U.S.C. § 9905"
-generated_at: "2026-03-29T19:43:20.477Z"
+generated_at: "2026-03-29T19:57:15.021Z"
 ---
 
 # § 9905. Direct hire authority for certain personnel of the Department of Defense
 
-- **(a)** The Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 (other than sections 3303 and 3328 of such chapter), qualified candidates to any of the following positions in the competitive service in the Department of Defense:
+- **(a)** The Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 (other than sections 3303, 3307, and 3328 of such chapter), qualified candidates to any of the following positions in the competitive service in the Department of Defense:
   - **(1)** Any position involved with Department maintenance activities, including depot-level maintenance and repair.
   - **(2)** Any cyber workforce position.
   - **(3)** Any individual in the acquisition workforce that manages any services contracts necessary to the operation and maintenance of programs of the Department.
@@ -22,8 +22,11 @@ generated_at: "2026-03-29T19:43:20.477Z"
   - **(9)** Any financial management, accounting, auditing, actuarial, cost estimation, operational research, or business or business administration position for which a qualified candidate is required to possess a finance, accounting, management or actuarial science degree or a related degree, or a related degree of equivalent experience.
   - **(10)** Any position, as determined by the Secretary, for the purpose of assisting and facilitating the efforts of the Department in business transformation and management innovation.
   - **(11)** Any position in the military housing office of a military installation whose primary function is supervision of military housing covered by subchapter IV of chapter 169 of title 10.
+  - **(12)** Any position in support of aircraft operations for which the Secretary determines there is a critical hiring need or shortage of candidates.
+  - **(13)** Any position in support of the safety of the public, law enforcement, or first response for which the Secretary determines there is a critical hiring need or shortage of candidates.
+  - **(14)** Any position in support of Special Inspector General for Operation Atlantic Resolve for which the Secretary determines there is a critical hiring need and shortage of candidates.
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), effective on September 30, 2025 , the authority provided under subsection (a) shall expire.
+  - **(1)** Except as provided in paragraph (2), effective on September 30, 2030 , the authority provided under subsection (a) shall expire.
   - **(2)** Paragraph (1) shall not apply to the authority provided under subsection (a) to make appointments to positions described under paragraph (5) of such subsection.
 - **(c)** During the period beginning on the effective date of the regulations issued to carry out the hiring authority with respect to positions described in paragraphs (5) through (10) of subsection (a) and ending on the date described in subsection (b)(1), the Secretary of Defense may not exercise or otherwise use any hiring authority provided under the following provisions of law:
   - **(1)** Sections 1599c(a)(2) and 1705(h) of title 10.

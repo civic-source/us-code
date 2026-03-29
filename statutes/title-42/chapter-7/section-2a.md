@@ -3,9 +3,9 @@ title: "Section 2a - Hospital insurance benefits for disabled individuals who ha
 usc_title: 42
 usc_section: "2a"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-29T19:31:44.627Z"
+generated_at: "2026-03-29T20:00:54.324Z"
 ---
 
 # § 1395i–2a. Hospital insurance benefits for disabled individuals who have exhausted other entitlement
@@ -34,7 +34,7 @@ generated_at: "2026-03-29T19:31:44.627Z"
     - **(B)** As of the month following the month in which the individual files notice that the individual no longer wishes to participate in the insurance program established by this part.
     - **(C)** As of the month before the first month in which the individual becomes eligible for hospital insurance benefits under section 426(a) or 426–1 of this title.
     - **(D)** As of a date, determined under regulations of the Secretary, for nonpayment of premiums.
-  - **(3)** The provisions of subsections (h) and (i) of section 1395p of this title apply to enrollment and nonenrollment under this section in the same manner as they apply to enrollment and nonenrollment and special enrollment periods under section 1395i–2 of this title .
+  - **(3)** The provisions of subsections (h), (i), and (m) of section 1395p of this title apply to enrollment and nonenrollment under this section in the same manner as they apply to enrollment and nonenrollment and special enrollment periods under section 1395i–2 of this title .
 - **(d)**
   - **(1)**
     - **(A)** Premiums for enrollment under this section shall be paid to the Secretary at such times, and in such manner, as the Secretary shall by regulations prescribe, and shall be deposited in the Treasury to the credit of the Federal Hospital Insurance Trust Fund.

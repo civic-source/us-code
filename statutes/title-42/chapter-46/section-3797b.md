@@ -1,20 +1,12 @@
 ---
-title: "Section 3797b - Applications"
+title: "Section 3797b - Transferred"
 usc_title: 42
 usc_section: "3797b"
 chapter: 46
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 3797b"
-generated_at: "2026-03-29T19:31:45.130Z"
+generated_at: "2026-03-29T20:00:54.884Z"
 ---
 
-# § 3797b. Applications
+# § 3797b. Transferred
 
-- **(a)** To request a grant under this subchapter, the chief executive of a State, unit of local government, or Indian tribe shall submit an application to the Director at such time, in such manner, and accompanied by such information as the Director may require. Each application shall—
-  - **(1)** include a detailed explanation of—
-    - **(A)** the intended uses of funds provided under the grant; and
-    - **(B)** how the activities funded under the grant will meet the purpose of this subchapter; and
-  - **(2)** be accompanied by an assurance that the application was prepared after consultation with individuals not limited to law enforcement officers (such as school violence researchers, child psychologists, social workers, teachers, principals, and other school personnel) to ensure that the improvements to be funded under the grant are—
-    - **(A)** consistent with a comprehensive approach to preventing school violence; and
-    - **(B)** individualized to the needs of each school at which those improvements are to be made.
-- **(b)** Not later than 90 days after October 28, 2000 , the Director shall promulgate guidelines to implement this section (including the information that must be included and the requirements that the States, units of local government, and Indian tribes must meet) in submitting the applications required under this section.

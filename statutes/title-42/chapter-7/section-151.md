@@ -3,9 +3,9 @@ title: "Section 151 - Definitions; treatment of references to provisions in part
 usc_title: 42
 usc_section: "151"
 chapter: 7
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 151"
-generated_at: "2026-03-29T19:31:44.720Z"
+generated_at: "2026-03-29T20:00:54.429Z"
 ---
 
 # § 1395w–151. Definitions; treatment of references to provisions in part C
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:31:44.720Z"
   - **(3)** The term “creditable prescription drug coverage” has the meaning given such term in section 1395w–113(b)(4) of this title .
   - **(4)** The term “part D eligible individual” has the meaning given such term in section 1395w–101(a)(3)(A) of this title . 1 1 See References in Text note below.
   - **(5)** The term “fallback prescription drug plan” has the meaning given such term in section 1395w–111(g)(4) of this title .
-  - **(6)** The term “initial coverage limit” means such limit as established under section 1395w–102(b)(3) of this title , or, in the case of coverage that is not standard prescription drug coverage, the comparable limit (if any) established under the coverage.
+  - **(6)** The term “initial coverage limit” means such limit as established under section 1395w–102(b)(3) of this title for a year before 2025, or, in the case of coverage that is not standard prescription drug coverage, the comparable limit (if any) established under the coverage for such year.
   - **(7)** The term “insurance risk” means, with respect to a participating pharmacy, risk of the type commonly assumed only by insurers licensed by a State and does not include payment variations designed to reflect performance-based measures of activities within the control of the pharmacy, such as formulary compliance and generic drug substitution.
   - **(8)** The term “MA plan” has the meaning given such term in section 1395w–101(a)(3)(B) of this title . 1
   - **(9)** The term “MA–PD plan” has the meaning given such term in section 1395w–101(a)(3)(C) of this title . 1

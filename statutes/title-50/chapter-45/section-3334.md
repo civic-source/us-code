@@ -3,14 +3,25 @@ title: "Section 3334 - Intelligence community public-private talent exchange"
 usc_title: 50
 usc_section: "3334"
 chapter: 45
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3334"
-generated_at: "2026-03-29T19:44:52.857Z"
+generated_at: "2026-03-29T20:01:07.355Z"
 ---
 
 # § 3334. Intelligence community public-private talent exchange
 
-- **(a)** Not later than 270 days after December 20, 2019 , the Director of National Intelligence shall develop policies, processes, and procedures to facilitate the rotation of personnel of the intelligence community to the private sector, and personnel from the private sector to the intelligence community.
+- **(a)**
+  - **(1)** Not later than 270 days after December 20, 2019 , the Director of National Intelligence shall develop policies, processes, and procedures to facilitate the rotation of personnel of the intelligence community to the private sector, and personnel from the private sector to the intelligence community.
+  - **(2)** The Director shall ensure that the policies, processes, and procedures developed pursuant to paragraph (1) require exchanges under this section that relate to intelligence or counterintelligence with a focus on rotations described in such paragraph with private-sector organizations in the following fields:
+    - **(A)** Finance.
+    - **(B)** Acquisition.
+    - **(C)** Biotechnology.
+    - **(D)** Computing.
+    - **(E)** Artificial intelligence.
+    - **(F)** Business process innovation and entrepreneurship.
+    - **(G)** Cybersecurity.
+    - **(H)** Materials and manufacturing.
+    - **(I)** Any other technology or research field the Director determines relevant to meet evolving national security threats in technology sectors.
 - **(b)** Under policies developed by the Director pursuant to subsection (a), pursuant to a written agreement with a private-sector organization, and with the consent of the employee, a head of an element of the intelligence community may arrange for the temporary detail of an employee of such element to such private-sector organization, or from such private-sector organization to such element under this section.
 - **(c)**
   - **(1)** A head of an element of the intelligence community exercising the authority of the head under subsection (a) shall provide for a written agreement among the element of the intelligence community, the private-sector organization, and the employee concerned regarding the terms and conditions of the employee’s detail under this section. The agreement—
@@ -23,8 +34,8 @@ generated_at: "2026-03-29T19:44:52.857Z"
   - **(3)** The head of an element of the intelligence community may waive, in whole or in part, collection of a debt described in paragraph (2) based on a determination that the collection would be against equity and good conscience and not in the best interests of the United States, after taking into account any indication of fraud, misrepresentation, fault, or lack of good faith on the part of the employee.
 - **(d)** A detail under this section may, at any time and for any reason, be terminated by the head of the element of the intelligence community concerned or the private-sector organization concerned.
 - **(e)**
-  - **(1)** A detail under this section shall be for a period of not less than 3 months and not more than 2 years, renewable up to a total of 3 years.
-  - **(2)** A detail under this section may be for a period in excess of 2 years, but not more than 3 years, if the head of the element making the detail determines that such detail is necessary to meet critical mission or program requirements.
+  - **(1)** A detail under this section shall be for a period of not less than 3 months and not more than 2 years, renewable up to a total of 5 years.
+  - **(2)** A detail under this section may be for a period in excess of 2 years, but not more than 5 years, if the head of the element making the detail determines that such detail is necessary to meet critical mission or program requirements.
   - **(3)** No employee of an element of the intelligence community may be detailed under this section for more than a total of 5 years, inclusive of all such details.
 - **(f)**
   - **(1)** An employee of an element of the intelligence community who is detailed to a private-sector organization under this section shall be considered, during the period of detail, to be on a regular work assignment in the element. The written agreement established under subsection (c)(1) shall address the specific terms and conditions related to the employee’s continued status as a Federal employee.
@@ -38,14 +49,18 @@ generated_at: "2026-03-29T19:44:52.857Z"
     - **(B)** sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18;
     - **(C)** sections 1343, 1344, and 1349(b) of title 31;
     - **(D)** chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”) and any other Federal tort liability statute;
-    - **(E)** the Ethics in Government Act of 1978 (5 U.S.C. App.); and
+    - **(E)** the Ethics in Government Act of 1978 (5 U.S.C. App.); 1 1 See References in Text note below. and
     - **(F)** chapter 21 of title 41;
   - **(3)** may perform work that is considered inherently governmental in nature only when requested in writing by the head of the element;
   - **(4)** may not be used to circumvent any limitation or restriction on the size of the workforce of the element;
-  - **(5)** shall be subject to the same requirements applicable to an employee performing the same functions and duties proposed for performance by the private-sector employee; and
-  - **(6)** in the case of an element of the intelligence community in the Department of Defense, may not be used to circumvent the provisions of section 2461 of title 10 .
+  - **(5)** shall be subject to the same requirements applicable to an employee performing the same functions and duties proposed for performance by the private-sector employee;
+  - **(6)** in the case of an element of the intelligence community in the Department of Defense, may not be used to circumvent the provisions of section 2461 of title 10 ; and
+  - **(7)** shall not have access to any trade secrets or proprietary information which is of commercial value or competitive advantage to the private-sector organization from which such employee is detailed.
 - **(h)** A private-sector organization may not charge an element of the intelligence community or any other agency of the Federal Government, as direct costs under a Federal contract, the costs of pay or benefits paid by the organization to an employee detailed to an element of the intelligence community under this section for the period of the detail and any subsequent renewal periods.
-- **(i)** In carrying out this section, the Director, pursuant to procedures developed under subsection (a)—
+- **(i)**
+  - **(1)** A private-sector organization that temporarily details a member of its workforce to an element of the intelligence community or that accepts the temporary detail of a member of the intelligence community shall not be considered to have an organizational conflict of interest with the element of the intelligence community solely because of participation in the program established under this section.
+  - **(2)** If the identification of an organizational conflict of interest arises based on the particular facts surrounding an individual’s participation in the program established under this section and the nature of any contract, then the heads of intelligence community elements shall implement a system to avoid, neutralize, or mitigate any such organizational conflicts of interest.
+- **(j)** In carrying out this section, the Director, pursuant to procedures developed under subsection (a)—
   - **(1)** shall, to the degree practicable, ensure that small business concerns are represented with respect to details authorized by this section;
   - **(2)** may, notwithstanding any other provision of law, establish criteria for elements of the intelligence community to use appropriated funds to reimburse small business concerns for the salaries and benefits of its employees during the periods when the small business concern agrees to detail its employees to the intelligence community under this section;
   - **(3)** shall take into consideration the question of how details under this section might best be used to help meet the needs of the intelligence community, including with respect to the training of employees;

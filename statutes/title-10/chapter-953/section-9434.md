@@ -3,9 +3,9 @@ title: "Section 9434 - Command and supervision"
 usc_title: 10
 usc_section: "9434"
 chapter: 953
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 9434"
-generated_at: "2026-03-29T19:43:38.130Z"
+generated_at: "2026-03-29T19:58:02.342Z"
 ---
 
 # § 9434. Command and supervision

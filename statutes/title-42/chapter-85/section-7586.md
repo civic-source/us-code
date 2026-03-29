@@ -3,9 +3,9 @@ title: "Section 7586 - Centrally fueled fleets"
 usc_title: 42
 usc_section: "7586"
 chapter: 85
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 7586"
-generated_at: "2026-03-29T19:31:45.418Z"
+generated_at: "2026-03-29T20:00:55.176Z"
 ---
 
 # § 7586. Centrally fueled fleets
@@ -18,7 +18,7 @@ generated_at: "2026-03-29T19:31:45.418Z"
   - **(3)** In the case of ozone nonattainment areas reclassified as Serious, Severe, or Extreme under part D of subchapter I with a 1980 population of 250,000 or more, the State shall submit a plan revision meeting the requirements of this subsection within 1 year after reclassification. Such plan revision shall implement the requirements applicable under this subsection at the time of reclassification and thereafter, except that the Administrator may adjust for a limited period the deadlines for compliance where compliance with such deadlines would be infeasible.
   - **(4)** Each State required to submit an implementation plan revision under this subsection shall develop such revision in consultation with fleet operators, vehicle manufacturers, fuel producers and distributors, motor vehicle fuel, and other interested parties, taking into consideration operational range, specialty uses, vehicle and fuel availability, costs, safety, resale values of vehicles and equipment and other relevant factors.
 - **(b)** The plan revision required under this section shall contain provisions requiring that at least a specified percentage of all new covered fleet vehicles in model year 1998 and thereafter purchased by each covered fleet operator in each covered area shall be clean-fuel vehicles and shall use clean alternative fuels when operating in the covered area. For the applicable model years (MY) specified in the following table and thereafter, the specified percentage shall be as provided in the table for the vehicle types set forth in the table: Clean Fuel Vehicle Phase-in Requirements for Fleets Vehicle Type MY1998 MY1999 MY2000 The term MY refers to model year. Light-duty trucks up to 6,000 lbs. GVWR and light-duty vehicles 30% 50% 70% Heavy-duty trucks above 8,500 lbs. GVWR 50% 50% 50%
-- **(c)** Notwithstanding the model years for which clean-fuel vehicle standards are applicable as provided in section 7583 of this title , for purposes of this section, light duty 1 1 So in original. Probably should be “light-duty”. trucks of up to 6,000 lbs. GVWR and light-duty vehicles manufactured in model years 1998 through model year 2000 shall be treated as clean-fuel vehicles only if such vehicles comply with the standards applicable under section 7583 of this title for vehicles in the same class for the model year 2001. The requirements of subsection (b) of this section shall take effect on the earlier of the following:
+- **(c)** Notwithstanding the model years for which clean-fuel vehicle standards are applicable as provided in section 7583 of this title , for purposes of this section, light duty 1 1 So in original. Probably should be “light-duty”. trucks of up to 6,000 lbs. GVWR and light-duty vehicles manufactured in model years 1998 through model year 2000 shall be treated as clean-fuel vehicles only if such vehicles comply with the standards applicable under section 7583 of this title for vehicles in the same class for the model year 2001. The requirements of subsection (b) shall take effect on the earlier of the following:
   - **(1)** The first model year after model year 1997 in which new light-duty trucks up to 6,000 lbs. GVWR and light-duty vehicles which comply with the model year 2001 standards under section 7583 of this title are offered for sale in California.
   - **(2)** Model year 2001.
 - **(d)** The plan revision under this subsection shall provide that the choice of clean-fuel vehicles and clean alternative fuels shall be made by the covered fleet operator subject to the requirements of this subsection.

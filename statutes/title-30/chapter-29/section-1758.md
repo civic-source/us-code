@@ -3,9 +3,9 @@ title: "Section 1758 - Use of royalty-in-kind revenue by Minerals Management Ser
 usc_title: 30
 usc_section: "1758"
 chapter: 29
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "30 U.S.C. § 1758"
-generated_at: "2026-03-29T19:42:23.478Z"
+generated_at: "2026-03-29T19:59:32.903Z"
 ---
 
 # § 1758. Use of royalty-in-kind revenue by Minerals Management Service

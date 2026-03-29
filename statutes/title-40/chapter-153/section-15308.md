@@ -1,17 +1,17 @@
 ---
-title: "Section 15308 - Annual report"
+title: "Section 15308 - Transfer of funds among Federal agencies"
 usc_title: 40
 usc_section: "15308"
 chapter: 153
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "40 U.S.C. § 15308"
-generated_at: "2026-03-29T19:43:21.282Z"
+generated_at: "2026-03-29T20:00:35.908Z"
 ---
 
-# § 15308. Annual report
+# § 15308. Transfer of funds among Federal agencies
 
-- **(a)** Not later than 90 days after the last day of each fiscal year, each Commission shall submit to the President and Congress a report on the activities carried out by the Commission under this subtitle in the fiscal year.
-- **(b)** The report shall include—
-  - **(1)** a description of the criteria used by the Commission to designate counties under section 15702 and a list of the counties designated in each category;
-  - **(2)** an evaluation of the progress of the Commission in meeting the goals identified in the Commission’s economic and infrastructure development plan under section 15303 and State economic and infrastructure development plans under section 15502; and
-  - **(3)** any policy recommendations approved by the Commission.
+- **(a)** Subject to subsection (c), for purposes of this subtitle, each Commission may transfer funds to and accept transfers of funds from other Federal agencies.
+- **(b)** Funds made available to a Commission may be transferred to other Federal agencies if the funds are used consistently with the purposes for which the funds were specifically authorized and appropriated.
+- **(c)** Funds may be transferred to any Commission under this section if—
+  - **(1)** the statutory authority for the funds provided by the Federal agency does not expressly prohibit use of funds for authorities being carried out by a Commission; and
+  - **(2)** the Federal agency that provides the funds determines that the activities for which the funds are to be used are otherwise eligible for funding under such a statutory authority.

@@ -3,9 +3,9 @@ title: "Section 3304 - Post-award debriefings"
 usc_title: 10
 usc_section: "3304"
 chapter: 241
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 3304"
-generated_at: "2026-03-29T19:43:38.038Z"
+generated_at: "2026-03-29T19:58:02.228Z"
 ---
 
 # § 3304. Post-award debriefings
@@ -27,4 +27,4 @@ generated_at: "2026-03-29T19:43:38.038Z"
 - **(f)** If, within one year after the date of the contract award and as a result of a successful procurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
   - **(1)** the information provided in debriefings under this paragraph regarding the offer of the contractor awarded the contract; and
   - **(2)** the same information that would have been provided to the original offerors.
-- **(g)** The contracting officer shall include a summary of any debriefing conducted this section 1 1 So in original. Probably should be “under this section”. in the contract file.
+- **(g)** The contracting officer shall include a summary of any debriefing conducted under this section in the contract file.

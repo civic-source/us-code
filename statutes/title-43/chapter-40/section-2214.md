@@ -3,13 +3,13 @@ title: "Section 2214 - Applicable period of drought program"
 usc_title: 43
 usc_section: "2214"
 chapter: 40
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 2214"
-generated_at: "2026-03-29T19:31:49.165Z"
+generated_at: "2026-03-29T19:59:41.504Z"
 ---
 
 # § 2214. Applicable period of drought program
 
 - **(a)** The programs and authorities established under this subchapter shall become operative in any Reclamation State and in the State of Hawaii only after the Governor or Governors of the affected State or States, or on a reservation, when the governing body of the affected tribe has made a request for temporary drought assistance and the Secretary has determined that such temporary assistance is merited, or upon the approval of a drought contingency plan as provided in subchapter II of this chapter.
 - **(b)** If a Governor referred to in subsection (a) is the Governor of the State of Washington, Oregon, Idaho, or Montana, the Governor shall coordinate with the Administrator of the Bonneville Power Administration before making a request under subsection (a).
-- **(c)** The authorities established under this subchapter shall terminate on September 30, 2017 .
+- **(c)** The authorities established under this subchapter shall terminate on September 30, 2028 .

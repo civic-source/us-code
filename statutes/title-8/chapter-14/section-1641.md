@@ -3,9 +3,9 @@ title: "Section 1641 - Definitions"
 usc_title: 8
 usc_section: "1641"
 chapter: 14
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "8 U.S.C. § 1641"
-generated_at: "2026-03-29T19:43:45.732Z"
+generated_at: "2026-03-29T19:57:30.836Z"
 ---
 
 # § 1641. Definitions
@@ -19,7 +19,7 @@ generated_at: "2026-03-29T19:43:45.732Z"
   - **(5)** an alien whose deportation is being withheld under section 243(h) of such Act [ 8 U.S.C. 1253 ] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208 ) or section 241(b)(3) of such Act [ 8 U.S.C. 1231(b)(3) ] (as amended by section 305(a) of division C of Public Law 104–208 ),
   - **(6)** an alien who is granted conditional entry pursuant to section 203(a)(7) of such Act [ 8 U.S.C. 1153(a)(7) ] as in effect prior to April 1, 1980 ,
   - **(7)** an alien who is a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980), or
-  - **(8)** an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 1612(b)(2)(G) of this title , but only with respect to the designated Federal program defined in section 1612(b)(3)(C) of this title (relating to the Medicaid program).
+  - **(8)** an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 1612(b)(2)(G) of this title .
 - **(c)** For purposes of this chapter, the term “qualified alien” includes—
   - **(1)** an alien who—
     - **(A)** has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent’s family residing in the same household as the alien and the spouse or parent consented to, or acquiesced in, such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and

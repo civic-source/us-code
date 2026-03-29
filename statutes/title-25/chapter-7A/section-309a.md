@@ -3,9 +3,9 @@ title: "Section 309a - Authorization of appropriations"
 usc_title: 25
 usc_section: "309a"
 chapter: 7
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "25 U.S.C. § 309a"
-generated_at: "2026-03-29T19:41:28.343Z"
+generated_at: "2026-03-29T19:59:16.287Z"
 ---
 
 # § 309a. Authorization of appropriations

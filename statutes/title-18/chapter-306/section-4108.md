@@ -3,9 +3,9 @@ title: "Section 4108 - Verification of consent of offender to transfer to the Un
 usc_title: 18
 usc_section: "4108"
 chapter: 306
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "18 U.S.C. § 4108"
-generated_at: "2026-03-29T19:41:06.890Z"
+generated_at: "2026-03-29T19:58:59.781Z"
 ---
 
 # § 4108. Verification of consent of offender to transfer to the United States

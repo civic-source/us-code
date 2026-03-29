@@ -3,9 +3,9 @@ title: "Section 4153 - Standards for design, construction, and alteration of bui
 usc_title: 42
 usc_section: "4153"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 4153"
-generated_at: "2026-03-29T19:31:45.154Z"
+generated_at: "2026-03-29T20:00:54.902Z"
 ---
 
 # § 4153. Standards for design, construction, and alteration of buildings; Secretary of Housing and Urban Development

@@ -3,9 +3,9 @@ title: "Section 290b - Establishment and duties of Foundation"
 usc_title: 42
 usc_section: "290b"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 290b"
-generated_at: "2026-03-29T19:31:44.297Z"
+generated_at: "2026-03-29T20:00:53.876Z"
 ---
 
 # § 290b. Establishment and duties of Foundation
@@ -91,7 +91,7 @@ generated_at: "2026-03-29T19:31:44.297Z"
 - **(i)** No participant in the program established under this part shall exercise any administrative control over any Federal employee.
 - **(j)**
   - **(1)** The members of the Board shall be accountable for the integrity of the operations of the Foundation and shall ensure such integrity through the development and enforcement of criteria and procedures relating to standards of conduct, financial disclosure statements, conflict of interest rules, recusal and waiver rules, audits and other matter determined appropriate by the Board.
-  - **(2)** Any individual who is an officer, employee, or member of the Board of the Foundation may not (in accordance with policies and requirements developed under subsection (d)(6)) personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of the individual or a relative (as such term is defined in section 109(16) of the Ethics in Government Act of 1978) of the individual, of any business organization or other entity, or of which the individual is an officer or employee, or is negotiating for employment, or in which the individual has any other financial interest.
+  - **(2)** Any individual who is an officer, employee, or member of the Board of the Foundation may not (in accordance with policies and requirements developed under subsection (d)(6)) personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of the individual or a relative (as such term is defined in section 13101(16) of title 5 ) of the individual, of any business organization or other entity, or of which the individual is an officer or employee, or is negotiating for employment, or in which the individual has any other financial interest.
   - **(3)** The Foundation shall—
     - **(A)** provide for annual audits of the financial condition of the Foundation; and
     - **(B)** make such audits, and all other records, documents, and other papers of the Foundation, available to the Secretary and the Comptroller General of the United States for examination or audit.
@@ -120,4 +120,4 @@ generated_at: "2026-03-29T19:31:44.297Z"
 - **(k)**
   - **(1)** In the case of any individual who is not an employee of the Federal Government and who serves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, has been executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
   - **(2)** The Director of the National Institutes of Health may provide facilities, utilities and support services to the Foundation if it is determined by the Director to be advantageous to the research programs of the National Institutes of Health.
-- **(l)** From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $500,000 and not more than $1,250,000 to the Foundation.
+- **(l)** From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $1,250,000 and not more than $5,000,000 to the Foundation.

@@ -3,9 +3,9 @@ title: "Section 2733 - Property loss; personal injury or death: incident to nonc
 usc_title: 10
 usc_section: "2733"
 chapter: 163
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2733"
-generated_at: "2026-03-29T19:43:38.009Z"
+generated_at: "2026-03-29T19:58:02.196Z"
 ---
 
 # § 2733. Property loss; personal injury or death: incident to noncombat activities of Department of Army, Navy, or Air Force

@@ -3,9 +3,9 @@ title: "Section 17251 - Carbon capture"
 usc_title: 42
 usc_section: "17251"
 chapter: 152
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 17251"
-generated_at: "2026-03-29T19:31:45.891Z"
+generated_at: "2026-03-29T20:00:55.620Z"
 ---
 
 # § 17251. Carbon capture
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T19:31:45.891Z"
     - **(A)** carries out the large-scale capture (including purification and compression) of carbon dioxide from industrial sources;
     - **(B)** provides for the transportation and injection of carbon dioxide; and
     - **(C)** incorporates a comprehensive measurement, monitoring, and validation program.
-  - **(3)** To ensure reduced carbon dioxide emissions, the Secretary shall take necessary actions to provide for the integration of the program under this paragraph with the large-scale carbon dioxide sequestration tests described in section 16293(c)(3) of this title . These actions should not delay implementation of these tests. The Secretary shall give priority consideration to projects with the following characteristics:
+  - **(3)** To ensure reduced carbon dioxide emissions, the Secretary shall take necessary actions to provide for the integration of the program under this paragraph with the large-scale carbon dioxide sequestration tests described in section 16293(c) of this title . These actions should not delay implementation of these tests. The Secretary shall give priority consideration to projects with the following characteristics:
     - **(A)** Projects that will capture a high percentage of the carbon dioxide in the treated stream and large volumes of carbon dioxide as determined by the Secretary.
     - **(B)** Projects that capture carbon dioxide from industrial sources that are near suitable geological reservoirs and could continue sequestration including—
       - **(i)** a field testing validation activity under section 16293 of this title ; or

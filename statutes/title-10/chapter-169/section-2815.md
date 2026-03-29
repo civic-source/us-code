@@ -3,9 +3,9 @@ title: "Section 2815 - Military installation resilience projects"
 usc_title: 10
 usc_section: "2815"
 chapter: 169
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 2815"
-generated_at: "2026-03-29T19:43:38.014Z"
+generated_at: "2026-03-29T19:58:02.202Z"
 ---
 
 # § 2815. Military installation resilience projects
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T19:43:38.014Z"
     - **(B)** the source of funds for the project; and
     - **(C)** a certification that deferral of the project for inclusion in the next Military Construction Authorization Act would be inconsistent with national security or the protection of health, safety, or environmental quality, as the case may be.
   - **(2)** A project carried out under this section using amounts under paragraph (1) may be carried out only after the end of the 7-day period beginning on the date on which a copy of the notification described in paragraph (1) is provided in an electronic medium pursuant to section 480 of this title .
-  - **(3)** The maximum aggregate amount that the Secretary concerned may obligate from amounts available to the military department concerned for operation and maintenance in any fiscal year for projects under the authority of this subsection is $100,000,000.
+  - **(3)** The maximum aggregate amount that the Secretary concerned may obligate from amounts available to the military department concerned for operation and maintenance in any fiscal year for projects under the authority of this subsection is $125,000,000.
 - **(f)** Not later than 90 days after the end of each fiscal year until December 31, 2025 , the Secretary of Defense shall submit to the congressional defense committees a report on the status of the planned and active projects carried out under this section (including completed projects), and shall include in the report with respect to each such project the following information:
   - **(1)** The title, location, a brief description of the scope of work, the original project cost estimate, and the current working cost estimate.
   - **(2)** The information provided under subsection (b)(2).

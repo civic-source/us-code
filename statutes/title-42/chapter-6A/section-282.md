@@ -3,9 +3,9 @@ title: "Section 282 - Director of National Institutes of Health"
 usc_title: 42
 usc_section: "282"
 chapter: 6
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 282"
-generated_at: "2026-03-29T19:31:44.262Z"
+generated_at: "2026-03-29T20:00:53.829Z"
 ---
 
 # § 282. Director of National Institutes of Health
@@ -15,8 +15,17 @@ generated_at: "2026-03-29T19:31:44.262Z"
   - **(1)** shall carry out this subchapter, including being responsible for the overall direction of the National Institutes of Health and for the establishment and implementation of general policies respecting the management and operation of programs and activities within the National Institutes of Health;
   - **(2)** shall coordinate and oversee the operation of the national research institutes, national centers, and administrative entities within the National Institutes of Health;
   - **(3)** shall, in consultation with the heads of the national research institutes and national centers, be responsible for program coordination across the national research institutes and national centers, including conducting priority-setting reviews, to ensure that the research portfolio of the National Institutes of Health is balanced and free of unnecessary duplication, and takes advantage of collaborative, cross-cutting research;
-  - **(4)** shall assemble accurate data to be used to assess research priorities, including information to better evaluate scientific opportunity, public health burdens, and progress in reducing minority and other health disparities;
-  - **(5)** shall ensure that scientifically based strategic planning is implemented in support of research priorities as determined by the agencies of the National Institutes of Health;
+  - **(4)** shall assemble accurate data to be used to assess research priorities, including—
+    - **(A)** information to better evaluate scientific opportunity, public health burdens, and progress in reducing health disparities; and
+    - **(B)** data on study populations of clinical research, funded by or conducted at each national research institute and national center, which—
+      - **(i)** specifies the inclusion of—
+        - **(I)** women;
+        - **(II)** members of minority groups;
+        - **(III)** relevant age categories, including pediatric subgroups; and
+        - **(IV)** other demographic variables as the Director of the National Institutes of Health determines appropriate;
+      - **(ii)** is disaggregated by research area, condition, and disease categories; and
+      - **(iii)** is to be made publicly available on the Internet website of the National Institutes of Health;
+  - **(5)** shall ensure that scientifically based strategic planning is implemented in support of research priorities as determined by the agencies of the National Institutes of Health, and through the development, implementation, and updating of the strategic plan developed under subsection (m);
   - **(6)** shall ensure that the resources of the National Institutes of Health are sufficiently allocated for research projects identified in strategic plans;
   - **(7)**
     - **(A)** shall, through the Division of Program Coordination, Planning, and Strategic Initiatives—
@@ -28,11 +37,17 @@ generated_at: "2026-03-29T19:31:44.262Z"
         - **(III)** ensure appropriate consideration of proposals for which the principal investigator is an individual who has not previously served as the principal investigator of research conducted or supported by the National Institutes of Health;
     - **(B)**
       - **(i)** may, with respect to funds reserved under section 282a(c)(1) of this title for the Common Fund, allocate such funds to the national research institutes and national centers for conducting and supporting research that is identified under subparagraph (A); and
-      - **(ii)** shall, with respect to funds appropriated to the Common Fund pursuant to section 282a(a)(2) of this title , allocate such funds to the national research institutes and national centers for making grants for pediatric research that is identified under subparagraph (A); and
+      - **(ii)** shall, with respect to funds appropriated to the Division of Program Coordination, Planning, and Strategic Initiatives pursuant to section 282a(a)(2) of this title , allocate such funds to the national research institutes and national centers for making grants for pediatric research that is identified under subparagraph (A) and shall prioritize, as appropriate, such pediatric research that does not duplicate existing research activities of the National Institutes of Health; and
     - **(C)** may assign additional functions to the Division in support of responsibilities identified in subparagraph (A), as determined appropriate by the Director;
   - **(8)** shall, in coordination with the heads of the national research institutes and national centers, ensure that such institutes and centers—
-    - **(A)** preserve an emphasis on investigator-initiated research project grants, including with respect to research involving collaboration between 2 or more such institutes or centers; and
+    - **(A)** preserve an emphasis on investigator-initiated research project grants, including with respect to research involving collaboration between 2 or more such institutes or centers;
     - **(B)** when appropriate, maximize investigator-initiated research project grants in their annual research portfolios;
+    - **(C)** foster collaboration between clinical research projects funded by the respective national research institutes and national centers that—
+      - **(i)** conduct research involving human subjects; and
+      - **(ii)** collect similar data; and
+    - **(D)** encourage the collaboration described in subparagraph (C) to—
+      - **(i)** allow for an increase in the number of subjects studied; and
+      - **(ii)** utilize diverse study populations, with special consideration to biological, social, and other determinants of health that contribute to health disparities;
   - **(9)** shall ensure that research conducted or supported by the National Institutes of Health is subject to review in accordance with section 289a of this title and that, after such review, the research is reviewed in accordance with section 289a–1(a)(2) of this title by the appropriate advisory council under section 284a of this title before the research proposals are approved for funding;
   - **(10)** shall have authority to review and approve the establishment of all centers of excellence recommended by the national research institutes;
   - **(11)**
@@ -53,8 +68,15 @@ generated_at: "2026-03-29T19:31:44.262Z"
   - **(20)** may accept voluntary and uncompensated services;
   - **(21)** may perform such other administrative functions as the Secretary determines are needed to effectively carry out this subchapter;
   - **(22)** may appoint physicians, dentists, and other health care professionals, subject to the provisions of title 5 relating to appointments and classifications in the competitive service, and may compensate such professionals subject to the provisions of chapter 74 of title 38;
-  - **(23)** shall designate a contact point or office to help innovators and physicians identify sources of funding available for pediatric medical device development; and
-  - **(24)** implement the Cures Acceleration Network described in section 287a of this title .
+  - **(23)** shall designate a contact point or office to help innovators and physicians identify sources of funding available for pediatric medical device development;
+  - **(24)** implement the Cures Acceleration Network described in section 287a of this title ;
+  - **(25)** may require recipients of National Institutes of Health awards to share scientific data, to the extent feasible, generated from such National Institutes of Health awards in a manner that is consistent with all applicable Federal laws and regulations, including such laws and regulations for the protection of—
+    - **(A)** human research participants, including with respect to privacy, security, informed consent, and protected health information; and
+    - **(B)** proprietary interests, confidential commercial information, and the intellectual property rights of the funding recipient;
+  - **(26)** shall consult with the Assistant Secretary for Preparedness and Response, the Director of the Biomedical Advanced Research and Development Authority, the Director of the Centers for Disease Control and Prevention, and the heads of other Federal agencies and offices, as appropriate, regarding research needs to advance medical countermeasures to diagnose, mitigate, prevent, or treat harm from any biological agent or toxin, including emerging infectious diseases, chemical, radiological, or nuclear agent that may cause a public health emergency or other research needs related to emerging public health threats;
+  - **(27)** shall consult with the Director of the Office of National Security within the Department of Health and Human Services, the Assistant Secretary for Preparedness and Response, the Director of National Intelligence, the Director of the Federal Bureau of Investigation, and the heads of other appropriate agencies on a regular basis, regarding biomedical research conducted or supported by the National Institutes of Health that may affect or be affected by matters of national security;
+  - **(28)** shall ensure that recipients of awards from the National Institutes of Health, and, as appropriate and practicable, entities collaborating with such recipients, have in place and are adhering to appropriate technology practices and policies for the security of identifiable, sensitive information, including information collected, stored, managed, or analyzed by domestic and non-domestic entities; and
+  - **(29)** shall ensure that recipients of awards from the National Institutes of Health are in compliance with the terms and conditions of such award, which may include activities to support awareness of, and compliance with, such terms and conditions by any subrecipients of the award.
 - **(c)** The Director of NIH may make available to individuals and entities, for biomedical and behavioral research, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (including payment for them) as the Secretary determines appropriate.
 - **(d)**
   - **(1)** The Director of NIH may obtain (in accordance with section 3109 of title 5 , but without regard to the limitation in such section on the period of service) the services of not more than 220 experts or consultants, with scientific or other professional qualifications, for the National Institutes of Health.
@@ -135,8 +157,12 @@ generated_at: "2026-03-29T19:31:44.262Z"
     - **(D)**
       - **(i)** The Director of NIH shall ensure that clinical trial information for an applicable drug clinical trial submitted in accordance with this paragraph is posted in the registry data bank not later than 30 days after such submission.
       - **(ii)** The Director of NIH shall ensure that clinical trial information for an applicable device clinical trial submitted in accordance with this paragraph is posted publicly in the registry data bank—
-        - **(I)** not earlier than the date of clearance under section 360(k) of title 21 , or approval under section 360e or 360j(m) of title 21, as applicable, for a device that was not previously cleared or approved, and not later than 30 days after such date; or
+        - **(I)** not earlier than the date of clearance under section 360(k) of title 21 , or approval under section 360e or 360j(m) of title 21, as applicable, for a device that was not previously cleared or approved, and not later than 30 days after such date, unless the responsible party affirmatively requests that the Director of the National Institutes of Health publicly post such clinical trial information for an applicable device clinical trial prior to such date of clearance or approval; or
         - **(II)** for a device that was previously cleared or approved, not later than 30 days after the clinical trial information under paragraph (3)(C) is required to be posted by the Secretary.
+      - **(iii)** The Director of the National Institutes of Health shall inform responsible parties of the option to request that clinical trial information for an applicable device clinical trial be publicly posted prior to the date of clearance or approval, in accordance with clause (ii)(I).
+      - **(iv)** An applicable clinical trial for a product that is a combination of drug, device, or biological product shall be considered—
+        - **(I)** an applicable drug clinical trial, if the Secretary determines under section 353(g) of title 21 that the primary mode of action of such product is that of a drug or biological product; or
+        - **(II)** an applicable device clinical trial, if the Secretary determines under such section that the primary mode of action of such product is that of a device.
   - **(3)**
     - **(A)**
       - **(i)** Beginning not later than 90 days after September 27, 2007 , for those clinical trials that form the primary basis of an efficacy claim or are conducted after the drug involved is approved or after the device involved is cleared or approved, the Secretary shall ensure that the registry data bank includes links to results information as described in clause (ii) for such clinical trial—
@@ -278,3 +304,32 @@ generated_at: "2026-03-29T19:31:44.262Z"
       - **(ii)** nine for a term of 4 years; and
       - **(iii)** nine for a term of 2 years.
     - **(C)** Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office.
+- **(m)**
+  - **(1)** Not later than 2 years after December 13, 2016 , and at least every 6 years thereafter, the Director of the National Institutes of Health shall develop and submit to the appropriate committees of Congress and post on the Internet website of the National Institutes of Health, a coordinated strategy (to be known as the “National Institutes of Health Strategic Plan”) to provide direction to the biomedical research investments made by the National Institutes of Health, to facilitate collaboration across the institutes and centers, to leverage scientific opportunity, and to advance biomedicine.
+  - **(2)** The strategy under paragraph (1) shall—
+    - **(A)** identify strategic research priorities and objectives across biomedical research, including—
+      - **(i)** an assessment of the state of biomedical and behavioral research, including areas of opportunity with respect to basic, clinical, and translational research;
+      - **(ii)** priorities and objectives to advance the treatment, cure, and prevention of health conditions;
+      - **(iii)** emerging scientific opportunities, rising public health challenges, and scientific knowledge gaps; and
+      - **(iv)** the identification of near-, mid-, and long-term scientific needs;
+    - **(B)** consider, in carrying out subparagraph (A)—
+      - **(i)** disease burden in the United States and the potential for return on investment to the United States;
+      - **(ii)** rare diseases and conditions;
+      - **(iii)** biological, social, and other determinants of health that contribute to health disparities; and
+      - **(iv)** other factors the Director of National Institutes of Health determines appropriate;
+    - **(C)** include multi-institute priorities, including coordination of research among institutes and centers;
+    - **(D)** include strategic priorities for funding research through the Common Fund, in accordance with section 282a(c)(1)(C) of this title ;
+    - **(E)** address the National Institutes of Health’s proposed and ongoing activities related to training and the biomedical workforce; and
+    - **(F)** describe opportunities for collaboration with other agencies and departments, as appropriate.
+  - **(3)** Strategic plans developed and updated by the national research institutes and national centers of the National Institutes of Health shall be prepared regularly and in such a manner that such plans will be informed by the strategic plans developed and updated under this subsection. Such plans developed by and updated by the national research institutes and national centers shall have a common template.
+  - **(4)** The Director of National Institutes of Health shall develop the strategic plan under paragraph (1) in consultation with the directors of the national research institutes and national centers, researchers, patient advocacy groups, and industry leaders.
+- **(n)**
+  - **(1)** The Director of NIH may approve, after consideration of a proposal under paragraph (2)(A), requests by the national research institutes and centers, or program officers within the Office of the Director to engage in transactions other than a contract, grant, or cooperative agreement with respect to projects that carry out—
+    - **(A)** the Precision Medicine Initiative under section 289g–5 of this title ;
+    - **(B)** subsection (b)(7), except that not more than 50 percent of the funds available for a fiscal year through the Common Fund under section 282a(c)(1) of this title for purposes of carrying out such subsection (b)(7) may be used to engage in such other transactions; or
+    - **(C)** high impact cutting-edge research that fosters scientific creativity and increases fundamental biological understanding leading to the prevention, diagnosis, or treatment of diseases and disorders, or research urgently required to respond to a public health threat.
+  - **(2)** The authority provided under this subsection may be used to conduct or support high impact cutting-edge research described in paragraph (1) using the other transactions authority described in such paragraph if the institute, center, or office—
+    - **(A)** submits a proposal to the Director of NIH for the use of such authority before conducting or supporting the research, including why the use of such authority is essential to promoting the success of the project;
+    - **(B)** receives approval for the use of such authority from the Director of NIH; and
+    - **(C)** for each year in which the institute, center, or office has used such authority in accordance with this subsection, submits a report to the Director of NIH on the activities of the institute, center, or office relating to such research.
+- **(o)** The Director of NIH shall, as appropriate, continue to consult with the directors of relevant institutes and centers of the National Institutes of Health, other relevant experts from such institutes and centers, and relevant experts within the Food and Drug Administration, to further the field of regenerative medicine using adult stem cells, including autologous stem cells, therapeutic tissue engineering products, human cell and tissue products, human gene therapies, and genetically modified cells.

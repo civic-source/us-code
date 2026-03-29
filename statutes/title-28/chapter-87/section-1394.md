@@ -3,9 +3,9 @@ title: "Section 1394 - Banking association’s action against Comptroller of Cur
 usc_title: 28
 usc_section: "1394"
 chapter: 87
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "28 U.S.C. § 1394"
-generated_at: "2026-03-29T19:42:27.360Z"
+generated_at: "2026-03-29T20:00:05.297Z"
 ---
 
 # § 1394. Banking association’s action against Comptroller of Currency

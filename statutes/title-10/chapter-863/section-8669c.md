@@ -3,32 +3,40 @@ title: "Section 8669c - Assessments required prior to start of construction on f
 usc_title: 10
 usc_section: "8669c"
 chapter: 863
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "10 U.S.C. § 8669c"
-generated_at: "2026-03-29T19:43:38.113Z"
+generated_at: "2026-03-29T19:58:02.319Z"
 ---
 
 # § 8669c. Assessments required prior to start of construction on first ship of a shipbuilding program
 
-- **(a)** The Secretary of the Navy may not approve the start of construction of the first ship for any major shipbuilding program until a period of 30 days has elapsed following the date on which the Secretary—
+- **(a)** The Secretary of the Navy may not approve the start of construction of the first ship for any major shipbuilding program until a period of 15 days has elapsed following the date on which the Secretary—
   - **(1)** submits a report to the congressional defense committees on the results of any production readiness review;
-  - **(2)** certifies to the congressional defense committees that the findings of any such review support commencement of construction; and
-  - **(3)** certifies to the congressional defense committees that the basic and functional design of the vessel is complete.
-- **(b)** The report required by subsection (a)(1) shall include, at a minimum, an assessment of each of the following:
-  - **(1)** The maturity of the ship’s design, as measured by stability of the ship contract specifications and the degree of completion of detail design and production design drawings.
-  - **(2)** The maturity of developmental command and control systems, weapon and sensor systems, and hull, mechanical and electrical systems.
-  - **(3)** The readiness of the shipyard facilities and workforce to begin construction.
-  - **(4)** The Navy’s estimated cost at completion and the adequacy of the budget to support the estimate.
-  - **(5)** The Navy’s estimated delivery date and description of any variance to the contract delivery date.
-  - **(6)** The extent to which adequate processes and metrics are in place to measure and manage program risks.
+  - **(2)** certifies to the congressional defense committees that the findings of any such review support the start of construction; and
+  - **(3)** certifies to the congressional defense committees that at least 95 percent of all the basic and functional design drawing packages for the ship have reached final approval.
+- **(b)** The report required by subsection (a)(1) shall include each of the following:
+  - **(1)** An identification of the degree to which detail design and production design drawings and related documents have been completed in accordance with the shipbuilding contract.
+  - **(2)** An assessment of the readiness of the shipyard facilities and workforce to begin construction.
+  - **(3)** The Navy’s estimated delivery date and a description of any risks that could affect such delivery date.
+  - **(4)** An assessment of the extent to which adequate processes and metrics are in place to measure and manage program risks.
+  - **(5)** With respect to the first ship, a description of the plans of the Navy to oversee and document the construction of the ship to ensure that the detail design supports the construction schedule for the ship.
+  - **(6)** A definition of the term “start of construction” that—
+    - **(A)** is applicable to the first ship; and
+    - **(B)** does not mean a point in time—
+      - **(i)** after the completion of 5 percent of lightship displacement; or
+      - **(ii)** after the advance procurement or advance construction of the ship.
+  - **(7)** An identification of any fabrication of the hull and superstructure of the ship that will occur before the date on which the Secretary submits the certifications required under paragraphs (2) and (3) of subsection (a).
+  - **(8)** An identification of the extent of to which vendor- and government-furnished information supports the overall maturity and stability of the ship’s design, including information regarding—
+    - **(A)** whether vendor selection is complete for major distributive systems and key equipment supporting operational requirements;
+    - **(B)** whether specifications are finalized for major distributive systems and key equipment; and
+    - **(C)** the status of factory acceptance testing, as applicable, to validate finalized specifications for major distributive systems and key equipment through manufacturing.
 - **(c)** For the purposes of subsection (a):
-  - **(1)** The term “basic and functional design”, when used with respect to a vessel, means design through computer aided models, that—
-    - **(A)** fixes the major hull structure of the vessel;
+  - **(1)** The term “basic and functional design”, when used with respect to a vessel, means design through computer aided models, and when used with respect to manned surface and undersea combatants, means design through the completion of three-dimensional computer aided modeling, that—
+    - **(A)** supports the major hull structure of the vessel;
     - **(B)** sets the hydrodynamics of the vessel; and
-    - **(C)** routes major portions of all distributive systems of the vessel, including electricity, water, and other utilities.
+    - **(C)** positions and routes all major distributive systems of the ship, including electricity, water, and other utilities.
   - **(2)** The term “first ship” applies to a ship if—
     - **(A)** the ship is the first ship to be constructed under that shipbuilding program; or
     - **(B)** the shipyard at which the ship is to be constructed has not previously started construction on a ship under that shipbuilding program.
   - **(3)** The term “major shipbuilding program” means a program for the construction of combatant and support vessels required for the naval vessel force, as reported within the annual naval vessel construction plan required by section 231 of this title .
   - **(4)** The term “production readiness review” means a formal examination of a program prior to the start of construction to determine if the design is ready for production, production engineering problems have been resolved, and the producer has accomplished adequate planning for the production phase.
-  - **(5)** The term “start of construction” means the beginning of fabrication of the hull and superstructure of the ship.

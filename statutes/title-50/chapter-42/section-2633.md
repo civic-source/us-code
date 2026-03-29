@@ -3,9 +3,9 @@ title: "Section 2633 - Continuation of processing, treatment, and disposal of le
 usc_title: 50
 usc_section: "2633"
 chapter: 42
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 2633"
-generated_at: "2026-03-29T19:44:52.813Z"
+generated_at: "2026-03-29T20:01:07.300Z"
 ---
 
 # § 2633. Continuation of processing, treatment, and disposal of legacy nuclear materials

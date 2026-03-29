@@ -3,21 +3,27 @@ title: "Section 1881b - Presidential awards for teaching excellence"
 usc_title: 42
 usc_section: "1881b"
 chapter: 16
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 1881b"
-generated_at: "2026-03-29T19:31:44.981Z"
+generated_at: "2026-03-29T20:00:54.730Z"
 ---
 
 # § 1881b. Presidential awards for teaching excellence
 
   - **(1)**
     - **(A)** The President is authorized to make Presidential Awards for Excellence in Mathematics and Science Teaching to kindergarten through grade 12 school teachers of mathematics and science who have demonstrated outstanding teaching ability in the field of teaching mathematics or science.
-    - **(B)** Each year the President is authorized to make no fewer than 108 awards under subparagraph (A). In selecting teachers for an award authorized by this subsection, the President shall select at least two teachers—
-      - **(i)** from each of the several States;
-      - **(ii)** from the District of Columbia;
-      - **(iii)** from the Commonwealth of Puerto Rico;
-      - **(iv)** from among the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, and other commonwealths, territories, and possessions of the United States; and
-      - **(v)** from schools established outside the several States and the District of Columbia by any agency of the Federal Government for dependents of the employees of such agency.
+    - **(B)** Each year the President is authorized to make no fewer than 110 awards under subparagraph (A).
+    - **(C)** In selecting teachers for an award authorized by this subsection, the President shall select—
+      - **(i)** at least two teachers—
+        - **(I)** from each of the several States;
+        - **(II)** from the District of Columbia;
+        - **(III)** from the Commonwealth of Puerto Rico;
+        - **(IV)** from schools established outside the several States and the District of Columbia by any agency of the Federal Government for dependents of the employees of such agency; and
+      - **(ii)** at least one teacher—
+        - **(I)** from the Commonwealth of the Northern Mariana Islands;
+        - **(II)** from American Samoa;
+        - **(III)** from the Virgin Islands of the United States; and
+        - **(IV)** from Guam.
   - **(2)** The President shall carry out this subsection, including the establishment of the selection procedures, after consultation with the Director and other appropriate officials of Federal agencies.
   - **(3)**
     - **(A)** Funds to carry out this subsection for any fiscal year shall be made available from amounts appropriated pursuant to annual authorization of appropriations for the Foundation for Education and Human Resources.

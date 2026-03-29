@@ -1,12 +1,12 @@
 ---
-title: "Section 382 - Repealed. Pub. L. 87–304 , § 9(a)(3), Sept. 26, 1961 , 75 Stat. 664"
+title: "Section 382 - Repealed. Pub. L. 87–304, § 9(a)(3) , Sept. 26, 1961 , 75 Stat. 664"
 usc_title: 43
 usc_section: "382"
 chapter: 12
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "43 U.S.C. § 382"
-generated_at: "2026-03-29T19:31:49.034Z"
+generated_at: "2026-03-29T19:59:41.374Z"
 ---
 
-# § 382. Repealed. Pub. L. 87–304 , § 9(a)(3), Sept. 26, 1961 , 75 Stat. 664
+# § 382. Repealed. Pub. L. 87–304, § 9(a)(3) , Sept. 26, 1961 , 75 Stat. 664
 

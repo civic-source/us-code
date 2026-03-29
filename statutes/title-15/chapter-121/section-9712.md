@@ -3,9 +3,9 @@ title: "Section 9712 - Availability to the public of flood-related data"
 usc_title: 15
 usc_section: "9712"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-4"
 classification: "15 U.S.C. § 9712"
-generated_at: "2026-03-29T02:11:34.508Z"
+generated_at: "2026-03-29T19:58:17.970Z"
 ---
 
 # § 9712. Availability to the public of flood-related data

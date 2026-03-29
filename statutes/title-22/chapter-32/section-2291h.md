@@ -3,9 +3,9 @@ title: "Section 2291h - Reporting requirements"
 usc_title: 22
 usc_section: "2291h"
 chapter: 32
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "22 U.S.C. § 2291h"
-generated_at: "2026-03-29T19:42:08.065Z"
+generated_at: "2026-03-29T19:59:24.091Z"
 ---
 
 # § 2291h. Reporting requirements
@@ -62,13 +62,24 @@ generated_at: "2026-03-29T19:42:08.065Z"
     - **(B)** Each assessment required by subparagraph (A) shall include an identification of—
       - **(i)** the countries the governments of which have agreed to undertake measures to apply economic or other financial sanctions to foreign traffickers of illicit opioids and a description of those measures; and
       - **(ii)** the countries the governments of which have not agreed to measures described in clause (i), and, with respect to those countries, other measures the Secretary of State recommends that the United States take to apply economic and other financial sanctions to foreign traffickers of illicit opioids.
-  - **(10)** 2 2 So in original. Two pars. (10) have been enacted. A separate section that contains an identification of all United States Government-supported units funded by the Bureau of International Narcotics and Law Enforcement Affairs and any Bureau-funded operations by such units in which United States law enforcement personnel have been physically present.
-  - **(10)** 2 A separate section that contains the following:
-    - **(A)** An identification of the countries, to the extent feasible, that are the most significant sources of illicit fentanyl and fentanyl analogues significantly affecting the United States during the preceding calendar year.
+  - **(10)** A separate section that contains an identification of all United States Government-supported units funded by the Bureau of International Narcotics and Law Enforcement Affairs and any Bureau-funded operations by such units in which United States law enforcement personnel have been physically present.
+  - **(11)** A separate section that contains the following:
+    - **(A)** An identification of the countries, to the extent feasible, that are the most significant sources of illicit fentanyl, xylazine, and fentanyl analogues significantly affecting the United States during the preceding calendar year.
     - **(B)** A description of the extent to which each country identified pursuant to subparagraph (A) has cooperated with the United States to prevent the articles or chemicals described in subparagraph (A) from being exported from such country to the United States.
     - **(C)** A description of whether each country identified pursuant to subparagraph (A) has adopted and utilizes scheduling or other procedures for illicit drugs that are similar in effect to the procedures authorized under title II 1 of the Controlled Substances Act ( 21 U.S.C. 811 et seq.) for adding drugs and other substances to the controlled substances schedules;
-    - **(D)** A description of whether each country identified pursuant to subparagraph (A) is following steps to prosecute individuals involved in the illicit manufacture or distribution of controlled substance analogues (as defined in section 102(32) of the Controlled Substances Act ( 21 U.S.C. 802(32) ) 3 3 So in original. Probably should be followed by a closing parenthesis. ; and
+    - **(D)** A description of whether each country identified pursuant to subparagraph (A) is following steps to prosecute individuals involved in the illicit manufacture or distribution of controlled substance analogues (as defined in section 102(32) of the Controlled Substances Act ( 21 U.S.C. 802(32) )); and
     - **(E)** A description of whether each country identified pursuant to subparagraph (A) requires the registration of tableting machines and encapsulating machines or other measures similar in effect to the registration requirements set forth in part 1310 of title 21, Code of Federal Regulations, and has not made good faith efforts, in the opinion of the Secretary, to improve regulation of tableting machines and encapsulating machines.
+  - **(12)**
+    - **(A)** Information that contains an assessment of the countries significantly involved in the manufacture, production, transshipment, or trafficking of covered synthetic drugs, to include the following:
+      - **(i)** The scale of legal domestic production and any available information on the number of manufacturers and producers of such drugs in such countries.
+      - **(ii)** Information on any law enforcement assessments of the scale of illegal production of such drugs, including a description of the capacity of illegal laboratories to produce such drugs.
+      - **(iii)** The types of inputs used and a description of the primary methods of synthesis employed by illegal producers of such drugs.
+      - **(iv)** An assessment of the policies of such countries to regulate licit manufacture and interdict illicit manufacture, diversion, distribution, shipment, and trafficking of such drugs and an assessment of the effectiveness of the policies’ implementation.
+    - **(B)** Information on, to the extent practicable, any policies of responding to new psychoactive substances, to include the following:
+      - **(i)** Which governments have articulated policies on scheduling of such substances.
+      - **(ii)** Any data on impacts of such policies and other responses to such substances.
+      - **(iii)** An assessment of any policies the United States could adopt to improve its response to new psychoactive substances.
+    - **(C)** In this paragraph, the terms “covered synthetic drug” and “new psychoactive substance” have the meaning given those terms in section 5558 of the FENTANYL Results Act.
 - **(b)**
   - **(1)** At the time that the report required by subsection (a) is submitted each year, the Secretary of State, in consultation with appropriate United States Government agencies, shall report to the appropriate committees of the Congress on the assistance provided or proposed to be provided by the United States Government during the preceding fiscal year, the current fiscal year, and the next fiscal year to support international efforts to combat illicit narcotics production or trafficking.
   - **(2)** Each report pursuant to this subsection shall—

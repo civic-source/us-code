@@ -3,9 +3,9 @@ title: "Section 3911 - Definitions"
 usc_title: 50
 usc_section: "3911"
 chapter: 50
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "50 U.S.C. § 3911"
-generated_at: "2026-03-29T19:44:52.891Z"
+generated_at: "2026-03-29T20:01:07.402Z"
 ---
 
 # § 3911. Definitions
@@ -14,7 +14,7 @@ For the purposes of this chapter:
 
   - **(1)** The term “servicemember” means a member of the uniformed services, as that term is defined in section 101(a)(5) of title 10 .
   - **(2)** The term “military service” means—
-    - **(A)** in the case of a servicemember who is a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard—
+    - **(A)** in the case of a servicemember who is a member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard—
       - **(i)** active duty, as defined in section 101(d)(1) of title 10 , and
       - **(ii)** in the case of a member of the National Guard, includes service under a call to active service authorized by the President or the Secretary of Defense for a period of more than 30 consecutive days under section 502(f) of title 32 for purposes of responding to a national emergency declared by the President and supported by Federal funds;
     - **(B)** in the case of a servicemember who is a commissioned officer of the Public Health Service or the National Oceanic and Atmospheric Administration, active service; and

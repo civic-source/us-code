@@ -3,9 +3,9 @@ title: "Section 6601 - Interest on underpayment, nonpayment, or extensions of ti
 usc_title: 26
 usc_section: "6601"
 chapter: 67
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "26 U.S.C. § 6601"
-generated_at: "2026-03-29T19:42:47.991Z"
+generated_at: "2026-03-29T19:59:49.625Z"
 ---
 
 # § 6601. Interest on underpayment, nonpayment, or extensions of time for payment, of tax

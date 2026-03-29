@@ -3,9 +3,9 @@ title: "Section 1917 - District courts; fee on filing notice of or petition for 
 usc_title: 28
 usc_section: "1917"
 chapter: 123
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "28 U.S.C. § 1917"
-generated_at: "2026-03-29T19:42:27.373Z"
+generated_at: "2026-03-29T20:00:05.313Z"
 ---
 
 # § 1917. District courts; fee on filing notice of or petition for appeal

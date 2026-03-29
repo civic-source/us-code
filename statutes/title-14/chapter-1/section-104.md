@@ -3,9 +3,9 @@ title: "Section 104 - Removing restrictions"
 usc_title: 14
 usc_section: "104"
 chapter: 1
-current_through: "PL 117-81"
+current_through: "PL 119-4"
 classification: "14 U.S.C. § 104"
-generated_at: "2026-03-29T19:45:04.294Z"
+generated_at: "2026-03-29T19:58:08.494Z"
 ---
 
 # § 104. Removing restrictions

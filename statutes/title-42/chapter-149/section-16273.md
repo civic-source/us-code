@@ -1,16 +1,40 @@
 ---
-title: "Section 16273 - Advanced fuel cycle initiative"
+title: "Section 16273 - Fuel cycle research, development, demonstration, and commercial application"
 usc_title: 42
 usc_section: "16273"
 chapter: 149
-current_through: "PL 114-254"
+current_through: "PL 119-4"
 classification: "42 U.S.C. § 16273"
-generated_at: "2026-03-29T19:31:45.839Z"
+generated_at: "2026-03-29T20:00:55.557Z"
 ---
 
-# § 16273. Advanced fuel cycle initiative
+# § 16273. Fuel cycle research, development, demonstration, and commercial application
 
-- **(a)** The Secretary, acting through the Director of the Office of Nuclear Energy, Science and Technology, shall conduct an advanced fuel recycling technology research, development, and demonstration program (referred to in this section as the “program”) to evaluate proliferation-resistant fuel recycling and transmutation technologies that minimize environmental and public health and safety impacts as an alternative to aqueous reprocessing technologies deployed as of August 8, 2005 , in support of evaluation of alternative national strategies for spent nuclear fuel and the Generation IV advanced reactor concepts.
-- **(b)** The program shall be subject to annual review by the Nuclear Energy Research Advisory Committee of the Department or other independent entity, as appropriate.
-- **(c)** In carrying out the program, the Secretary is encouraged to seek opportunities to enhance the progress of the program through international cooperation.
-- **(d)** The Secretary shall submit, as part of the annual budget submission of the Department, a report on the activities of the program.
+- **(a)**
+  - **(1)** The Secretary shall conduct an advanced fuel cycle research, development, demonstration, and commercial application program to improve fuel cycle performance, minimize environmental and public health and safety impacts, and support a variety of options for used nuclear fuel storage, use, and disposal, including advanced nuclear reactor and non-reactor concepts (such as radioisotope power systems), which may include—
+    - **(A)** dry cask storage;
+    - **(B)** consolidated interim storage;
+    - **(C)** deep geological storage and disposal, including mined repository, and other technologies;
+    - **(D)** used nuclear fuel transportation;
+    - **(E)** integrated waste management systems;
+    - **(F)** vitrification;
+    - **(G)** fuel recycling and transmutation technologies, including advanced reprocessing technologies such as electrochemical and molten salt technologies, and advanced redox extraction technologies;
+    - **(H)** advanced materials to be used in subparagraphs (A) through (G); and
+    - **(I)** other areas as determined by the Secretary.
+  - **(2)** In carrying out the program under this subsection, the Secretary shall—
+    - **(A)** ensure all activities and designs incorporate state of the art safeguards technologies and techniques to reduce risk of proliferation;
+    - **(B)** consult with the Administrator of the National Nuclear Security Administration to integrate safeguards and security by design;
+    - **(C)** consider the potential benefits and other impacts of those activities for civilian nuclear applications, environmental health and safety, and national security, including consideration of public consent; and
+    - **(D)** consider the economic viability of all activities and designs.
+  - **(3)** There are authorized to be appropriated to the Secretary to carry out the program under this subsection $60,000,000 for each of fiscal years 2021 through 2025.
+- **(b)**
+  - **(1)** The Secretary shall conduct an advanced fuels research, development, demonstration, and commercial application program on next-generation light water reactor and advanced reactor fuels that demonstrate the potential for improved—
+    - **(A)** performance;
+    - **(B)** accident tolerance;
+    - **(C)** proliferation resistance;
+    - **(D)** use of resources;
+    - **(E)** environmental impact; and
+    - **(F)** economics.
+  - **(2)** In carrying out the program under this subsection, the Secretary shall focus on the development of advanced technology fuels, including fabrication techniques, that offer improved accident-tolerance and economic performance with the goal of initial commercial application by December 31, 2025 .
+  - **(3)** Not later than 180 days December 27, 2020 , the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes how the technologies and concepts studied under this program would impact reactor economics, the fuel cycle, operations, safety, proliferation, and the environment.
+  - **(4)** There are authorized to be appropriated to the Secretary to carry out the program under this subsection $125,000,000 for each of fiscal years 2021 through 2025.
