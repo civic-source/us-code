@@ -3,9 +3,9 @@ title: "Section 7431 - Pay"
 usc_title: 38
 usc_section: "7431"
 chapter: 74
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "38 U.S.C. § 7431"
-generated_at: "2026-03-29T23:13:58.934Z"
+generated_at: "2026-03-29T23:18:08.766Z"
 ---
 
 # § 7431. Pay
@@ -49,7 +49,7 @@ generated_at: "2026-03-29T23:13:58.934Z"
     - **(C)** Amounts prescribed under this paragraph shall be published in the Federal Register, and shall not take effect until at least 60 days after the date of publication.
   - **(2)** Except as provided in paragraph (3) and subject to paragraph (4), the sum of the total amount of the annual rate of base pay payable to a physician, podiatrist, or dentist under subsection (b) and the market pay determined for the physician, podiatrist, or dentist under subsection (c) may not be less than the minimum amount, nor more than the maximum amount, applicable to specialty or assignment of the physician, podiatrist, or dentist under paragraph (1).
   - **(3)** The sum of the total amount of the annual rate of base pay payable to a physician, podiatrist, or dentist under subsection (b) and the market pay determined for the physician, podiatrist, or dentist under subsection (c) may exceed the maximum amount applicable to the specialty or assignment of the physician, podiatrist, or dentist under paragraph (1) as a result of an adjustment under paragraph (3) or (4) of subsection (b).
-  - **(4)** In no case may the total amount of compensation paid to a physician, podiatrist, or dentist under this title in any year exceed the amount of annual compensation (excluding expenses) specified in section 102 of title 3 .
+  - **(4)** Except as provided in sections 7404A(c) and 7410(a)(2) of this title, in no case may the total amount of compensation paid to a physician, podiatrist, or dentist under this title in any year exceed the amount of annual compensation (excluding expenses) specified in section 102 of title 3 .
 - **(f)** Pay under subsections (b) and (c) of this section shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5 and other benefits.
 - **(g)**
   - **(1)** A decrease in pay of a physician, podiatrist, or dentist resulting from an adjustment in the amount of market pay of the physician, podiatrist, or dentist under subsection (c) shall not be treated as an adverse action.

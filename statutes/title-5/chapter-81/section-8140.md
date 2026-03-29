@@ -3,9 +3,9 @@ title: "Section 8140 - Members of the Reserve Officers’ Training Corps"
 usc_title: 5
 usc_section: "8140"
 chapter: 81
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "5 U.S.C. § 8140"
-generated_at: "2026-03-29T23:10:37.432Z"
+generated_at: "2026-03-29T23:16:00.928Z"
 ---
 
 # § 8140. Members of the Reserve Officers’ Training Corps

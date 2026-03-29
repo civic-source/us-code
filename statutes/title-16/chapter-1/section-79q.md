@@ -3,9 +3,9 @@ title: "Section 79q - Pledge of full faith and credit of United States for payme
 usc_title: 16
 usc_section: "79q"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "16 U.S.C. § 79q"
-generated_at: "2026-03-29T23:11:41.518Z"
+generated_at: "2026-03-29T23:17:08.271Z"
 ---
 
 # § 79q. Pledge of full faith and credit of United States for payment of compensation for lands, etc., taken

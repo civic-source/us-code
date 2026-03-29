@@ -3,9 +3,9 @@ title: "Section 9593 - Recordkeeping"
 usc_title: 15
 usc_section: "9593"
 chapter: 120
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "15 U.S.C. § 9593"
-generated_at: "2026-03-29T23:11:14.838Z"
+generated_at: "2026-03-29T23:17:00.676Z"
 ---
 
 # § 9593. Recordkeeping

@@ -3,9 +3,9 @@ title: "Section 9520 - Competitive awards"
 usc_title: 20
 usc_section: "9520"
 chapter: 76
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "20 U.S.C. § 9520"
-generated_at: "2026-03-29T23:11:23.074Z"
+generated_at: "2026-03-29T23:17:24.126Z"
 ---
 
 # § 9520. Competitive awards

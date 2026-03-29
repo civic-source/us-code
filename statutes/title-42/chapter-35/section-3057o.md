@@ -3,9 +3,9 @@ title: "Section 3057o - Funding set aside"
 usc_title: 42
 usc_section: "3057o"
 chapter: 35
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 3057o"
-generated_at: "2026-03-29T23:14:43.829Z"
+generated_at: "2026-03-29T23:18:45.706Z"
 ---
 
 # § 3057o. Funding set aside

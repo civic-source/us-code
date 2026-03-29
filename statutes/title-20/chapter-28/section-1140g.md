@@ -3,9 +3,9 @@ title: "Section 1140g - Model comprehensive transition and postsecondary program
 usc_title: 20
 usc_section: "1140g"
 chapter: 28
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "20 U.S.C. § 1140g"
-generated_at: "2026-03-29T23:11:22.994Z"
+generated_at: "2026-03-29T23:17:23.963Z"
 ---
 
 # § 1140g. Model comprehensive transition and postsecondary programs for students with intellectual disabilities

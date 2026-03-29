@@ -3,9 +3,9 @@ title: "Section 4576 - Repealed. Pub. L. 97–35, title IX, § 962(b) , Aug. 13,
 usc_title: 42
 usc_section: "4576"
 chapter: 60
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 4576"
-generated_at: "2026-03-29T23:14:43.854Z"
+generated_at: "2026-03-29T23:18:45.729Z"
 ---
 
 # § 4576. Repealed. Pub. L. 97–35, title IX, § 962(b) , Aug. 13, 1981 , 95 Stat. 593

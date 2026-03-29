@@ -3,9 +3,9 @@ title: "Section 262b - Commitments for United States contributions to internatio
 usc_title: 22
 usc_section: "262b"
 chapter: 7
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "22 U.S.C. § 262b"
-generated_at: "2026-03-29T23:11:48.646Z"
+generated_at: "2026-03-29T23:17:34.967Z"
 ---
 
 # § 262b. Commitments for United States contributions to international organizations; limitations; consultation with Congressional committees

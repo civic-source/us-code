@@ -3,9 +3,9 @@ title: "Section 1371 - Coordination with subchapter C"
 usc_title: 26
 usc_section: "1371"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 1371"
-generated_at: "2026-03-29T23:12:49.425Z"
+generated_at: "2026-03-29T23:17:50.318Z"
 ---
 
 # § 1371. Coordination with subchapter C
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T23:12:49.425Z"
   - **(2)** In the case of any transaction involving the application of subchapter C to any S corporation, proper adjustment to any accumulated earnings and profits of the corporation shall be made.
   - **(3)** Paragraph (1) shall not apply with respect to that portion of a distribution which is treated as a dividend under section 1368(c)(2).
 - **(d)**
-  - **(1)** Any election under section 1362 shall be treated as a mere change in the form of conducting a trade or business for purposes of the second sentence of section 50(a)(4).
+  - **(1)** Any election under section 1362 shall be treated as a mere change in the form of conducting a trade or business for purposes of the second sentence of section 50(a)(5).
   - **(2)** Notwithstanding an election under section 1362, an S corporation shall continue to be liable for any increase in tax under section 49(b) or 50(a) attributable to credits allowed for taxable years for which such corporation was not an S corporation.
   - **(3)** Paragraph (1) of subsection (c) shall not apply to any increase in tax under section 49(b) or 50(a) for which the S corporation is liable.
 - **(e)**

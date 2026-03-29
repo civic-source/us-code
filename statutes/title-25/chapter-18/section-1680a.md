@@ -3,9 +3,9 @@ title: "Section 1680a - Contract health facilities"
 usc_title: 25
 usc_section: "1680a"
 chapter: 18
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "25 U.S.C. § 1680a"
-generated_at: "2026-03-29T23:12:03.148Z"
+generated_at: "2026-03-29T23:17:32.012Z"
 ---
 
 # § 1680a. Contract health facilities

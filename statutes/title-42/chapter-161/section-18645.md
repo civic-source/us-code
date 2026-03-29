@@ -3,19 +3,21 @@ title: "Section 18645 - Fusion energy"
 usc_title: 42
 usc_section: "18645"
 chapter: 161
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 18645"
-generated_at: "2026-03-29T23:14:44.295Z"
+generated_at: "2026-03-29T23:18:46.014Z"
 ---
 
 # § 18645. Fusion energy
 
 - **(a)** As part of the activities authorized under section 7139 of this title and section 16312 of this title , the Director shall carry out a fusion energy sciences research and enabling technology development program to effectively address the scientific and engineering challenges to building a cost competitive fusion power plant and to support the development of a competitive fusion power industry in the United States. As part of this program, the Director shall carry out research activities to expand the fundamental understandings of plasma and matter at very high temperatures and densities for fusion applications and for other engineering and plasma science applications.
-- **(b)** As part of the activities authorized in section 16318 of this title —
-  - **(1)** the Director, in coordination with the Assistant Secretary for Nuclear Energy of the Department, shall carry out research and development activities to identify, characterize, and demonstrate materials that can endure the neutron, plasma, and heat fluxes expected in a fusion power system; and
-  - **(2)** the Director shall provide an assessment of—
-    - **(A)** the need for one or more facilities that can examine and test potential fusion and next generation fission materials and other enabling technologies relevant to the development of fusion power; and
-    - **(B)** whether a single new facility that substantially addresses magnetic fusion and next generation fission materials research needs is feasible, in conjunction with the expected capabilities of facilities operational as of September 28, 2018 .
+- **(b)**
+  - **(1)** As part of the activities authorized in section 16318 of this title —
+    - **(A)** the Director, in coordination with the Assistant Secretary for Nuclear Energy of the Department, shall carry out research and development activities to identify, characterize, and demonstrate materials that can endure the neutron, plasma, and heat fluxes expected in a fusion power system; and
+    - **(B)** the Director shall provide an assessment of—
+      - **(i)** the need for one or more facilities that can examine and test potential fusion and next generation fission materials and other enabling technologies relevant to the development of fusion power; and
+      - **(ii)** whether a single new facility that substantially addresses magnetic fusion and next generation fission materials research needs is feasible, in conjunction with the expected capabilities of facilities operational as of September 28, 2018 .
+  - **(2)** Out of funds authorized to be appropriated under subsection (q), 1 1 So in original. Probably should be “subsection (r),”. See References in Text note below. there is authorized to be appropriated to the Secretary to carry out activities described in paragraph (1) $50,000,000 for each of fiscal years 2023 through 2027.
 - **(c)** The Director shall support research and development activities and facility operations to optimize the tokamak approach to fusion energy.
 - **(d)**
   - **(1)** The Director shall carry out a program of research and technology development in inertial fusion for energy applications, including ion beam, laser, and pulsed power fusion systems.
@@ -24,7 +26,7 @@ generated_at: "2026-03-29T23:14:44.295Z"
     - **(B)** support modeling of various inertial fusion energy concepts and systems;
     - **(C)** develop diagnostic tools; and
     - **(D)** improve inertial fusion energy driver technologies.
-  - **(3)** Out of funds authorized to be appropriated under subsection ( o ), there are authorized to be appropriated to the Secretary to carry out the activities described in subsection (d) $25,000,000 for each of fiscal years 2021 through 2025.
+  - **(3)** Out of funds authorized to be appropriated under subsection (q), 1 there are authorized to be appropriated to the Secretary to carry out the activities described in this subsection $25,000,000 for each of fiscal years 2021 through 2027.
 - **(e)**
   - **(1)** The Director shall support research and development activities and facility operations at institutions of higher education, National Laboratories, and private facilities in the United States for a portfolio of alternative and enabling fusion energy concepts that may provide solutions to significant challenges to the establishment of a commercial magnetic fusion power plant, prioritized based on the ability of the United States to play a leadership role in the international fusion research community.
   - **(2)** Fusion energy concepts and activities explored under paragraph (1) may include—
@@ -43,7 +45,7 @@ generated_at: "2026-03-29T23:14:44.295Z"
     - **(B)** Financial assistance under the program established in subsection (a)—
       - **(i)** shall be awarded on a competitive, merit-reviewed basis; and
       - **(ii)** may be in the form of grants, vouchers, equipment loans, or contracts to private entities.
-  - **(4)** Out of funds authorized to be appropriated under subsection ( o ), there are authorized to be appropriated to the Secretary to carry out the activities described in subsection (e) $50,000,000 for each of fiscal years 2021 through 2025.
+  - **(4)** Out of funds authorized to be appropriated under subsection (q), 1 there are authorized to be appropriated to the Secretary to carry out the activities described in this subsection $50,000,000 for each of fiscal years 2021 through 2027.
 - **(f)** The Director shall coordinate with the Director of the Advanced Research Projects Agency-Energy (referred to in this subsection as “ARPA–E”) to—
   - **(1)** assess the potential for any fusion energy project supported by ARPA–E to represent a promising approach to a commercially viable fusion power plant;
   - **(2)** determine whether the results of any fusion energy project supported by ARPA–E merit the support of follow-on research activities carried out by the Office of Science; and
@@ -78,18 +80,32 @@ generated_at: "2026-03-29T23:14:44.295Z"
     - **(B)** lessons-learned from program operations; and
     - **(C)** any other matters the Secretary determines regarding the program.
   - **(9)** As part of the annual budget request submitted for each fiscal year, the Secretary shall provide the House Committee on Science, Space, and Technology and the Senate Committee on Energy and Natural Resources a report describing partnerships supported by the program established under paragraph (1) during the previous fiscal year.
-  - **(10)** Out of funds authorized to be appropriated under subsection ( o ), there are authorized to be appropriated to the Secretary to carry out the activities described in subsection (i), to remain available until expended—
+  - **(10)** Out of funds authorized to be appropriated under subsection (q), 1 there are authorized to be appropriated to the Secretary to carry out the activities described in this subsection, to remain available until expended—
     - **(A)** $45,000,000 for fiscal year 2021;
     - **(B)** $65,000,000 for fiscal year 2022;
     - **(C)** $105,000,000 for fiscal year 2023;
-    - **(D)** $65,000,000 for fiscal year 2024; and
-    - **(E)** $45,000,000 for fiscal year 2025.
-- **(j)** The Director shall support research and development activities to design future fusion reactor systems and examine and address the technical drivers for the cost of these systems.
+    - **(D)** $65,000,000 for fiscal year 2024;
+    - **(E)** $45,000,000 for fiscal year 2025;
+    - **(F)** $45,000,000 for fiscal year 2026; and
+    - **(G)** $45,000,000 for fiscal year 2027.
+- **(j)**
+  - **(1)** Not later than 180 days after August 9, 2022 , the Director shall establish not less than 2 national teams described in paragraph (2) that shall—
+    - **(A)** develop conceptual pilot plant designs and technology roadmaps; and
+    - **(B)** create an engineering design of a pilot plant that will bring fusion to commercial viability.
+  - **(2)** A national team referred to in paragraph (1) shall—
+    - **(A)** be composed of developers, manufacturers, universities, National Laboratories, and representatives of the engineering, procurement, and construction industries; and
+    - **(B)** include public-private partnerships.
+  - **(3)** Of the funds authorized to be appropriated for Fusion Energy Sciences in a fiscal year, there are authorized to be appropriated to the Secretary to carry out this subsection—
+    - **(A)** $35,000,000 for fiscal year 2023;
+    - **(B)** $50,000,000 for fiscal year 2024;
+    - **(C)** $65,000,000 for fiscal year 2025;
+    - **(D)** $80,000,000 for fiscal year 2026; and
+    - **(E)** $80,000,000 for fiscal year 2027.
 - **(k)** The Director shall support research in general plasma science and high energy density physics that advance the understanding of the scientific community of fundamental properties and complex behavior of matter to control and manipulate plasmas for a broad range of applications, including support for research relevant to advancements in chip manufacturing and microelectronics.
 - **(l)** It is the sense of Congress that the United States should support a robust, diverse program in addition to providing sufficient support to, at a minimum, meet its commitments to ITER and maintain the schedule of the project as determined by the Secretary in coordination with the ITER Organization at the time of the enactment of this section. It is further the sense of Congress that developing the scientific basis for fusion, providing research results key to the success of ITER, and training the next generation of fusion scientists are of critical importance to the United States and should in no way be diminished by participation of the United States in the ITER project.
 - **(m)** The Director shall—
   - **(1)** as practicable and in coordination with other appropriate Federal agencies as necessary, ensure the access of United States researchers to the most advanced fusion research facilities and research capabilities in the world, including ITER;
-  - **(2)** to the maximum extent practicable, continue to leverage United States participation ITER, 1 1 So in original. and prioritize expanding international partnerships and investments in current and future fusion research facilities within the United States; and
+  - **(2)** to the maximum extent practicable, continue to leverage United States participation ITER, 2 2 So in original. and prioritize expanding international partnerships and investments in current and future fusion research facilities within the United States; and
   - **(3)** to the maximum extent practicable, prioritize engagement in collaborative efforts in support of future international facilities that would provide access to the most advanced fusion research facilities in the world to United States researchers.
 - **(n)**
   - **(1)** Not later than 6 months after the date of enactment of this section, the Secretary shall transmit to Congress a report addressing opportunities for coordinating fusion energy research and development activities between the Office of Nuclear Energy, the Office of Science, and the Advanced Research Projects Agency—Energy.
@@ -103,9 +119,55 @@ generated_at: "2026-03-29T23:14:44.295Z"
     - **(G)** radiological safety;
     - **(H)** potential for non-electricity generation applications; and
     - **(I)** any other overlapping priority as identified by the Director of the Office of Science or the Assistant Secretary of Energy for Nuclear Energy.
-- **(o)** There are authorized to be appropriated to the Secretary to carry out the activities described in this section—
+- **(o)**
+  - **(1)** The Secretary shall carry out a program to conduct and support collaborative research, development, and demonstration of fusion energy technologies, through high-performance computation modeling and simulation techniques, in order—
+    - **(A)** to support fundamental research in plasmas and matter at very high temperatures and densities;
+    - **(B)** to inform the development of a broad range of fusion energy systems; and
+    - **(C)** to facilitate the translation of research results in fusion energy science to industry.
+  - **(2)** In carrying out the program under paragraph (1), the Secretary shall coordinate with relevant Federal agencies, and prioritize the following objectives:
+    - **(A)** To use expertise from the private sector, institutions of higher education, and the National Laboratories to leverage existing, and develop new, computational software and capabilities that prospective users may use to accelerate research and development of fusion energy systems.
+    - **(B)** To develop computational tools to simulate and predict fusion energy science phenomena that may be validated through physical experimentation.
+    - **(C)** To increase the utility of the research infrastructure of the Department by coordinating with the Advanced Scientific Computing Research program within the Office of Science.
+    - **(D)** To leverage experience from existing modeling and simulation entities sponsored by the Department.
+    - **(E)** To ensure that new experimental and computational tools are accessible to relevant research communities, including private sector entities engaged in fusion energy technology development.
+    - **(F)** To ensure that newly developed computational tools are compatible with modern virtual engineering and visualization capabilities to accelerate the realization of fusion energy technologies and systems.
+  - **(3)** The Secretary shall ensure the coordination of, and avoid unnecessary duplication of, the activities of the program under paragraph (1) with the activities of—
+    - **(A)** other research entities of the Department, including the National Laboratories, the Advanced Research Projects Agency—Energy, and the Advanced Scientific Computing Research program within the Office of Science; and
+    - **(B)** industry.
+  - **(4)**
+    - **(A)** In carrying out the program under paragraph (1), the Secretary shall, in coordination with the Innovation Network for Fusion Energy, establish and operate a national High-Performance Computing for Fusion Innovation Center (referred to in this paragraph as the “Center”), to support the program under paragraph (1) by providing, to the extent practicable, a centralized entity for multidisciplinary, collaborative, fusion energy research and development through high-performance computing and advanced data analytics technologies and processes.
+    - **(B)** An entity eligible to serve as the Center shall be—
+      - **(i)** a National Laboratory;
+      - **(ii)** an institution of higher education;
+      - **(iii)** a multi-institutional collaboration; or
+      - **(iv)** any other entity that the Secretary determines to be appropriate.
+    - **(C)**
+      - **(i)** To be eligible to serve as the Center, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+      - **(ii)** The Secretary shall select the Center on a competitive, merit-reviewed basis.
+    - **(D)** The Center may incorporate existing research activities that are consistent with the program under paragraph (1).
+    - **(E)**
+      - **(i)** The Center shall prioritize activities that utilize expertise and infrastructure from a balance among the private sector, institutions of higher education, and the National Laboratories to enhance existing computation tools and develop new computational software and capabilities to accelerate the commercial application of fusion energy systems.
+      - **(ii)** The Secretary may enter into contracts with commercial cloud computing providers to ensure that resource availability within the Department is not reduced or disproportionately distributed as a result of Center activities.
+    - **(F)** Subject to subparagraph (G), the Center shall receive support for a period of not more than 5 years, subject to the availability of appropriations.
+    - **(G)** On the expiration of the period of support of the Center under subparagraph (F), the Secretary may renew support for the Center, on a merit-reviewed basis, for a period of not more than 5 years.
+- **(p)**
+  - **(1)** The Secretary shall construct a Material Plasma Exposure Experiment facility as described in the 2020 publication approved by the Fusion Energy Sciences Advisory Committee entitled “Powering the Future: Fusion and Plasmas”. The Secretary shall consult with the private sector, institutions of higher education, National Laboratories, and relevant Federal agencies to ensure that the facility is capable of meeting Federal research needs for steady state, high-heat-flux, and plasma-material interaction testing of fusion materials over a range of fusion energy relevant parameters.
+  - **(2)** The Secretary shall ensure that the facility described in paragraph (1) will provide the following capabilities:
+    - **(A)** A magnetic field at the target of 1 Tesla.
+    - **(B)** An energy flux at the target of 10 MW/m 2 .
+    - **(C)** The ability to expose previously irradiated plasma facing material samples to plasma.
+  - **(3)** The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the facility described in paragraph (1) occurs before December 31, 2027 .
+  - **(4)** Of the funds authorized to be appropriated for Fusion Energy Sciences, there are authorized to be appropriated to the Secretary for the Office of Fusion Energy Sciences to complete construction of the facility described in paragraph (1)—
+    - **(A)** $21,895,000 for fiscal year 2023; and
+    - **(B)** $3,800,000 for fiscal year 2024.
+- **(q)**
+  - **(1)** The Secretary shall provide for the upgrade to the Matter in Extreme Conditions endstation at the Linac Coherent Light Source as described in the 2020 publication approved by the Fusion Energy Sciences Advisory Committee entitled “Powering the Future: Fusion and Plasmas”. The Secretary shall consult with the private sector, institutions of higher education, National Laboratories, and relevant Federal agencies to ensure that this facility is capable of meeting Federal research needs for understanding physical and chemical changes to plasmas at fundamental timescales, and explore new regimes of dense material physics, astrophysics, planetary physics, and short-pulse laser-plasma interactions.
+  - **(2)** The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the facility described in paragraph (1) occurs before December 31, 2028 .
+- **(r)** Out of funds authorized to be appropriated for the Office of Science in a fiscal year, there are authorized to be appropriated to the Secretary to carry out the activities described in this section—
   - **(1)** $996,000,000 for fiscal year 2021;
   - **(2)** $921,000,000 for fiscal year 2022;
-  - **(3)** $961,000,000 for fiscal year 2023;
-  - **(4)** $921,000,000 for fiscal year 2024; and
-  - **(5)** $901,000,000 for fiscal year 2025.
+  - **(3)** $1,025,500,400 for fiscal year 2023;
+  - **(4)** $1,043,489,724 for fiscal year 2024;
+  - **(5)** $1,053,266,107 for fiscal year 2025;
+  - **(6)** $1,047,962,074 for fiscal year 2026; and
+  - **(7)** $1,114,187,798 for fiscal year 2027.

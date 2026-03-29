@@ -3,9 +3,9 @@ title: "Section 16025 - Project timelines and authorization of appropriations"
 usc_title: 42
 usc_section: "16025"
 chapter: 149
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 16025"
-generated_at: "2026-03-29T23:14:44.211Z"
+generated_at: "2026-03-29T23:18:45.964Z"
 ---
 
 # § 16025. Project timelines and authorization of appropriations

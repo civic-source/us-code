@@ -3,9 +3,9 @@ title: "Section 9110 - Standards for depository institutions holding securities 
 usc_title: 31
 usc_section: "9110"
 chapter: 91
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "31 U.S.C. § 9110"
-generated_at: "2026-03-29T23:13:25.078Z"
+generated_at: "2026-03-29T23:17:53.501Z"
 ---
 
 # § 9110. Standards for depository institutions holding securities of a Government-sponsored corporation for customers

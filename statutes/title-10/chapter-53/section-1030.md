@@ -3,9 +3,9 @@ title: "Section 1030 - Bonus to encourage Department of Defense personnel to ref
 usc_title: 10
 usc_section: "1030"
 chapter: 53
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 1030"
-generated_at: "2026-03-29T23:10:50.082Z"
+generated_at: "2026-03-29T23:16:24.255Z"
 ---
 
 # § 1030. Bonus to encourage Department of Defense personnel to refer persons for appointment as officers to serve in health professions

@@ -3,9 +3,9 @@ title: "Section 4519 - Authority to provide for review of regulated entities"
 usc_title: 12
 usc_section: "4519"
 chapter: 46
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "12 U.S.C. § 4519"
-generated_at: "2026-03-29T23:11:11.931Z"
+generated_at: "2026-03-29T23:16:31.058Z"
 ---
 
 # § 4519. Authority to provide for review of regulated entities

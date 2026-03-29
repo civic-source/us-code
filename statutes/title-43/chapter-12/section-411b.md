@@ -3,9 +3,9 @@ title: "Section 411b - Employment of engineers, geologists, appraisers and econo
 usc_title: 43
 usc_section: "411b"
 chapter: 12
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "43 U.S.C. § 411b"
-generated_at: "2026-03-29T23:14:14.548Z"
+generated_at: "2026-03-29T23:18:11.501Z"
 ---
 
 # § 411b. Employment of engineers, geologists, appraisers and economists for reclamation consultation work; compensation; retired Army and Navy officers as consulting engineers

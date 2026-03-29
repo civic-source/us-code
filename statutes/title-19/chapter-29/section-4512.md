@@ -3,9 +3,9 @@ title: "Section 4512 - Relationship of the USMCA to United States and State law"
 usc_title: 19
 usc_section: "4512"
 chapter: 29
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "19 U.S.C. § 4512"
-generated_at: "2026-03-29T23:11:36.141Z"
+generated_at: "2026-03-29T23:17:13.223Z"
 ---
 
 # § 4512. Relationship of the USMCA to United States and State law

@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 38
 usc_section: "101"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "38 U.S.C. § 101"
-generated_at: "2026-03-29T23:13:58.876Z"
+generated_at: "2026-03-29T23:18:08.701Z"
 ---
 
 # § 101. Definitions
@@ -97,3 +97,7 @@ For the purposes of this title—
   - **(34)** The term “agency of original jurisdiction” means the activity which entered the original determination with regard to a claim for benefits under laws administered by the Secretary.
   - **(35)** The term “relevant evidence” means evidence that tends to prove or disprove a matter in issue.
   - **(36)** The term “supplemental claim” means a claim for benefits under laws administered by the Secretary filed by a claimant who had previously filed a claim for the same or similar benefits on the same or similar basis.
+  - **(37)** The term “toxic exposure” includes the following:
+    - **(A)** A toxic exposure risk activity, as defined in section 1710(e)(4) of this title .
+    - **(B)** An exposure to a substance, chemical, or airborne hazard identified in the list under section 1119(b)(2) of this title .
+  - **(38)** The term “toxic-exposed veteran” means any veteran described in section 1710(e)(1) of this title .

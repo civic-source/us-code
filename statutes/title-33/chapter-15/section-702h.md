@@ -3,9 +3,9 @@ title: "Section 702h - Prosecution of project by Mississippi River Commission; p
 usc_title: 33
 usc_section: "702h"
 chapter: 15
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "33 U.S.C. § 702h"
-generated_at: "2026-03-29T23:13:30.023Z"
+generated_at: "2026-03-29T23:17:55.107Z"
 ---
 
 # § 702h. Prosecution of project by Mississippi River Commission; president of commission; salaries

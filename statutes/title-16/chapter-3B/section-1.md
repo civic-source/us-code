@@ -3,9 +3,9 @@ title: "Section 1 - Sale and distribution of supplies, materials, and equipment 
 usc_title: 16
 usc_section: "1"
 chapter: 3
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T23:11:41.626Z"
+generated_at: "2026-03-29T23:17:08.397Z"
 ---
 
 # § 590q–1. Sale and distribution of supplies, materials, and equipment to other Government agencies; reimbursement

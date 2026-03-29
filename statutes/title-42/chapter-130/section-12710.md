@@ -3,9 +3,9 @@ title: "Section 12710 - Capacity study"
 usc_title: 42
 usc_section: "12710"
 chapter: 130
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 12710"
-generated_at: "2026-03-29T23:14:44.155Z"
+generated_at: "2026-03-29T23:18:45.931Z"
 ---
 
 # § 12710. Capacity study

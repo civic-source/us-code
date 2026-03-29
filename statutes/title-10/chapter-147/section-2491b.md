@@ -3,9 +3,9 @@ title: "Section 2491b - Use of appropriated funds for operation of Armed Forces 
 usc_title: 10
 usc_section: "2491b"
 chapter: 147
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 2491b"
-generated_at: "2026-03-29T23:10:50.132Z"
+generated_at: "2026-03-29T23:16:24.309Z"
 ---
 
 # § 2491b. Use of appropriated funds for operation of Armed Forces Recreation Center, Europe: limitation

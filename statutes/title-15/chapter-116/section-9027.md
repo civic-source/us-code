@@ -3,9 +3,9 @@ title: "Section 9027 - Temporary financing of short-time compensation agreements
 usc_title: 15
 usc_section: "9027"
 chapter: 116
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "15 U.S.C. § 9027"
-generated_at: "2026-03-29T23:11:14.828Z"
+generated_at: "2026-03-29T23:17:00.665Z"
 ---
 
 # § 9027. Temporary financing of short-time compensation agreements

@@ -3,9 +3,9 @@ title: "Section 3806 - Treatment of certain trade agreements for which negotiati
 usc_title: 19
 usc_section: "3806"
 chapter: 24
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "19 U.S.C. § 3806"
-generated_at: "2026-03-29T23:11:36.131Z"
+generated_at: "2026-03-29T23:17:13.212Z"
 ---
 
 # § 3806. Treatment of certain trade agreements for which negotiations have already begun

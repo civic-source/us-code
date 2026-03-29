@@ -3,9 +3,9 @@ title: "Section 357 - Qualification of drug development tools"
 usc_title: 21
 usc_section: "357"
 chapter: 9
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "21 U.S.C. § 357"
-generated_at: "2026-03-29T23:12:02.182Z"
+generated_at: "2026-03-29T23:17:28.712Z"
 ---
 
 # § 357. Qualification of drug development tools

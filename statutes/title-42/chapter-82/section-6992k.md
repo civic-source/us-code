@@ -3,9 +3,9 @@ title: "Section 6992k - Authorization of appropriations"
 usc_title: 42
 usc_section: "6992k"
 chapter: 82
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 6992k"
-generated_at: "2026-03-29T23:14:43.937Z"
+generated_at: "2026-03-29T23:18:45.796Z"
 ---
 
 # § 6992k. Authorization of appropriations

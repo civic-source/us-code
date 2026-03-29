@@ -3,9 +3,9 @@ title: "Section 860E - Treatment of income in excess of daily accruals on residu
 usc_title: 26
 usc_section: "860E"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 860E"
-generated_at: "2026-03-29T23:12:49.397Z"
+generated_at: "2026-03-29T23:17:50.286Z"
 ---
 
 # § 860E. Treatment of income in excess of daily accruals on residual interests
@@ -17,7 +17,7 @@ generated_at: "2026-03-29T23:12:49.397Z"
     - **(A)** in determining under section 172 the amount of any net operating loss for such taxable year, and
     - **(B)** in determining taxable income for such taxable year for purposes of subsection (a)(2)(B)(ii)(I) and the second sentence of subsection (b)(2) of section 172.
   - **(4)** For purposes of part VI of subchapter A of this chapter—
-    - **(A)** the reference in section 55(b)(2) to taxable income shall be treated as a reference to taxable income determined without regard to this subsection,
+    - **(A)** the reference in section 55(b)(1)(D) to taxable income shall be treated as a reference to taxable income determined without regard to this subsection,
     - **(B)** the alternative minimum taxable income of any holder of a residual interest in a REMIC for any taxable year shall in no event be less than the excess inclusion for such taxable year, and
     - **(C)** any excess inclusion shall be disregarded for purposes of computing the alternative tax net operating loss deduction.
 - **(b)** If the holder of any residual interest in a REMIC is an organization subject to the tax imposed by section 511, the excess inclusion of such holder for any taxable year shall be treated as unrelated business taxable income of such holder for purposes of section 511.

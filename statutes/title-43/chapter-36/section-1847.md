@@ -3,9 +3,9 @@ title: "Section 1847 - Repealed. Pub. L. 97–212, § 6(a) , June 30, 1982 , 96 
 usc_title: 43
 usc_section: "1847"
 chapter: 36
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "43 U.S.C. § 1847"
-generated_at: "2026-03-29T23:14:14.591Z"
+generated_at: "2026-03-29T23:18:11.549Z"
 ---
 
 # § 1847. Repealed. Pub. L. 97–212, § 6(a) , June 30, 1982 , 96 Stat. 147

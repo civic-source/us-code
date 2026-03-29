@@ -3,9 +3,9 @@ title: "Section 298d - Authorization of appropriations"
 usc_title: 42
 usc_section: "298d"
 chapter: 6
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 298d"
-generated_at: "2026-03-29T23:14:43.407Z"
+generated_at: "2026-03-29T23:18:45.350Z"
 ---
 
 # § 298d. Authorization of appropriations

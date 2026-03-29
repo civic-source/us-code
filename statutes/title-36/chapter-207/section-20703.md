@@ -3,9 +3,9 @@ title: "Section 20703 - Purposes"
 usc_title: 36
 usc_section: "20703"
 chapter: 207
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "36 U.S.C. § 20703"
-generated_at: "2026-03-29T23:13:47.508Z"
+generated_at: "2026-03-29T23:18:06.142Z"
 ---
 
 # § 20703. Purposes

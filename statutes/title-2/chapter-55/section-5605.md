@@ -3,9 +3,9 @@ title: "Section 5605 - Law enforcement authority of Sergeant at Arms"
 usc_title: 2
 usc_section: "5605"
 chapter: 55
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "2 U.S.C. § 5605"
-generated_at: "2026-03-29T23:10:28.135Z"
+generated_at: "2026-03-29T23:15:59.516Z"
 ---
 
 # § 5605. Law enforcement authority of Sergeant at Arms

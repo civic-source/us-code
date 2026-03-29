@@ -3,9 +3,9 @@ title: "Section 888 - Selection by railroads of lands in lieu of lands entered s
 usc_title: 43
 usc_section: "888"
 chapter: 21
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "43 U.S.C. § 888"
-generated_at: "2026-03-29T23:14:14.561Z"
+generated_at: "2026-03-29T23:18:11.517Z"
 ---
 
 # § 888. Selection by railroads of lands in lieu of lands entered subsequent to accrual of rights; title of settlers

@@ -3,9 +3,9 @@ title: "Section 7625 - Ordnance property: officers of armed forces; civilian emp
 usc_title: 10
 usc_section: "7625"
 chapter: 769
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 7625"
-generated_at: "2026-03-29T23:10:50.180Z"
+generated_at: "2026-03-29T23:16:24.357Z"
 ---
 
 # § 7625. Ordnance property: officers of armed forces; civilian employees of Army; American National Red Cross; educational institutions; homes for veterans’ orphans

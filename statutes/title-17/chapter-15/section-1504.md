@@ -3,9 +3,9 @@ title: "Section 1504 - Nature of proceedings"
 usc_title: 17
 usc_section: "1504"
 chapter: 15
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "17 U.S.C. § 1504"
-generated_at: "2026-03-29T23:11:19.865Z"
+generated_at: "2026-03-29T23:17:05.650Z"
 ---
 
 # § 1504. Nature of proceedings

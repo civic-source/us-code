@@ -3,9 +3,9 @@ title: "Section 8084 - Office of Marine Forces Reserve: appointment of Commander
 usc_title: 10
 usc_section: "8084"
 chapter: 809
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 8084"
-generated_at: "2026-03-29T23:10:50.183Z"
+generated_at: "2026-03-29T23:16:24.360Z"
 ---
 
 # § 8084. Office of Marine Forces Reserve: appointment of Commander

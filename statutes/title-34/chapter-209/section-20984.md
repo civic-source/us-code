@@ -3,9 +3,9 @@ title: "Section 20984 - Grants for fingerprinting programs for children"
 usc_title: 34
 usc_section: "20984"
 chapter: 209
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "34 U.S.C. § 20984"
-generated_at: "2026-03-29T23:12:57.871Z"
+generated_at: "2026-03-29T23:18:03.327Z"
 ---
 
 # § 20984. Grants for fingerprinting programs for children

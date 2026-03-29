@@ -3,9 +3,9 @@ title: "Section 1342 - Prior claims as unaffected"
 usc_title: 43
 usc_section: "1342"
 chapter: 29
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "43 U.S.C. § 1342"
-generated_at: "2026-03-29T23:14:14.567Z"
+generated_at: "2026-03-29T23:18:11.523Z"
 ---
 
 # § 1342. Prior claims as unaffected

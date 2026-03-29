@@ -3,9 +3,9 @@ title: "Section 1104 - Cost-of-living adjustments"
 usc_title: 38
 usc_section: "1104"
 chapter: 11
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "38 U.S.C. § 1104"
-generated_at: "2026-03-29T23:13:58.882Z"
+generated_at: "2026-03-29T23:18:08.709Z"
 ---
 
 # § 1104. Cost-of-living adjustments

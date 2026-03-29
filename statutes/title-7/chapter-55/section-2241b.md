@@ -3,9 +3,9 @@ title: "Section 2241b - Purchase of seeds and plants for distribution"
 usc_title: 7
 usc_section: "2241b"
 chapter: 55
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "7 U.S.C. § 2241b"
-generated_at: "2026-03-29T23:10:44.417Z"
+generated_at: "2026-03-29T23:16:17.040Z"
 ---
 
 # § 2241b. Purchase of seeds and plants for distribution

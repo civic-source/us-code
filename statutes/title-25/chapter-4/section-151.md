@@ -3,9 +3,9 @@ title: "Section 151 - Deposits in bank by disbursing agents"
 usc_title: 25
 usc_section: "151"
 chapter: 4
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "25 U.S.C. § 151"
-generated_at: "2026-03-29T23:12:03.120Z"
+generated_at: "2026-03-29T23:17:31.986Z"
 ---
 
 # § 151. Deposits in bank by disbursing agents

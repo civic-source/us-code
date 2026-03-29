@@ -3,9 +3,9 @@ title: "Section 506 - Repealed. Pub. L. 96–507, § 1 , Dec. 8, 1980 , 94 Stat.
 usc_title: 47
 usc_section: "506"
 chapter: 5
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "47 U.S.C. § 506"
-generated_at: "2026-03-29T23:15:01.789Z"
+generated_at: "2026-03-29T23:18:49.659Z"
 ---
 
 # § 506. Repealed. Pub. L. 96–507, § 1 , Dec. 8, 1980 , 94 Stat. 2747

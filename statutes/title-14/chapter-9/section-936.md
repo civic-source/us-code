@@ -3,9 +3,9 @@ title: "Section 936 - Confidentiality of medical quality assurance records; qual
 usc_title: 14
 usc_section: "936"
 chapter: 9
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "14 U.S.C. § 936"
-generated_at: "2026-03-29T23:11:03.315Z"
+generated_at: "2026-03-29T23:16:27.875Z"
 ---
 
 # § 936. Confidentiality of medical quality assurance records; qualified immunity for participants

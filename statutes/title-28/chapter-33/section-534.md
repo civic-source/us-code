@@ -3,9 +3,9 @@ title: "Section 534 - Acquisition, preservation, and exchange of identification 
 usc_title: 28
 usc_section: "534"
 chapter: 33
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "28 U.S.C. § 534"
-generated_at: "2026-03-29T23:12:06.434Z"
+generated_at: "2026-03-29T23:17:38.404Z"
 ---
 
 # § 534. Acquisition, preservation, and exchange of identification records and information; appointment of officials

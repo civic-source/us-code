@@ -3,9 +3,9 @@ title: "Section 3815 - Repeals; appropriations; termination date"
 usc_title: 50
 usc_section: "3815"
 chapter: 49
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "50 U.S.C. § 3815"
-generated_at: "2026-03-29T23:15:24.515Z"
+generated_at: "2026-03-29T23:18:53.958Z"
 ---
 
 # § 3815. Repeals; appropriations; termination date

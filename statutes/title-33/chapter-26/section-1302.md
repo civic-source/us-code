@@ -3,9 +3,9 @@ title: "Section 1302 - Wastewater efficiency grant pilot program"
 usc_title: 33
 usc_section: "1302"
 chapter: 26
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "33 U.S.C. § 1302"
-generated_at: "2026-03-29T23:13:30.038Z"
+generated_at: "2026-03-29T23:17:55.124Z"
 ---
 
 # § 1302. Wastewater efficiency grant pilot program

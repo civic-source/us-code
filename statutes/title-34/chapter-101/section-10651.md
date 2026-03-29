@@ -3,9 +3,9 @@ title: "Section 10651 - Adult and juvenile collaboration programs"
 usc_title: 34
 usc_section: "10651"
 chapter: 101
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "34 U.S.C. § 10651"
-generated_at: "2026-03-29T23:12:57.841Z"
+generated_at: "2026-03-29T23:18:03.295Z"
 ---
 
 # § 10651. Adult and juvenile collaboration programs
@@ -145,7 +145,7 @@ generated_at: "2026-03-29T23:12:57.841Z"
 - **(g)** The Attorney General shall use not less than 8 percent of funds appropriated to provide technical assistance to State and local governments receiving grants under this subchapter to foster collaboration between such governments in furtherance of the purposes set forth in section 3 of the Mentally Ill Offender Treatment and Crime Reduction Act of 2004 ( 34 U.S.C. 10651 note).
 - **(h)**
   - **(1)** The Attorney General is authorized to make grants under this section to States, units of local government, Indian tribes, and tribal organizations for the following purposes:
-    - **(A)** To provide for programs that offer law enforcement personnel specialized and comprehensive training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved.
+    - **(A)** To provide for programs that offer law enforcement personnel specialized and comprehensive training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved, including the training developed under section 10653 of this title .
     - **(B)** To provide for the development of specialized receiving centers to assess individuals in the custody of law enforcement personnel for suicide risk and mental health and substance abuse treatment needs.
     - **(C)** To provide for computerized information systems (or to improve existing systems) to provide timely information to law enforcement personnel and criminal justice system personnel to improve the response of such respective personnel to mentally ill offenders.
     - **(D)** To provide for the establishment and expansion of cooperative efforts by criminal and juvenile justice agencies and mental health agencies to promote public safety through the use of effective intervention with respect to mentally ill offenders.
@@ -248,9 +248,6 @@ generated_at: "2026-03-29T23:12:57.841Z"
     - **(A)** a list of all duplicate grants awarded, including the total dollar amount of any duplicate grants awarded; and
     - **(B)** the reason the Attorney General awarded the duplicate grants.
 - **(o)**
-  - **(1)** There are authorized to be appropriated to the Department of Justice to carry out this section—
-    - **(A)** $50,000,000 for fiscal year 2005;
-    - **(B)** such sums as may be necessary for each of the fiscal years 2006 and 2007; and
-    - **(C)** $50,000,000 for each of the fiscal years 2017 through 2021.
+  - **(1)** There is authorized to be appropriated to the Department of Justice to carry out this section $54,000,000 for each of fiscal years 2023 through 2027.
   - **(2)** For fiscal year 2009 and each subsequent fiscal year, of the amounts authorized under paragraph (1) for such fiscal year, the Attorney General may obligate not more than 3 percent for the administrative expenses of the Attorney General in carrying out this section for such fiscal year.
   - **(3)** Not more than 20 percent of the funds authorized to be appropriated under this section may be used for purposes described in subsection (i) (relating to veterans).

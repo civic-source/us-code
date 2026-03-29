@@ -3,9 +3,9 @@ title: "Section 404 - Establishment of an advisory committee; composition and ap
 usc_title: 30
 usc_section: "404"
 chapter: 8
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "30 U.S.C. § 404"
-generated_at: "2026-03-29T23:12:09.367Z"
+generated_at: "2026-03-29T23:17:37.542Z"
 ---
 
 # § 404. Establishment of an advisory committee; composition and appointment

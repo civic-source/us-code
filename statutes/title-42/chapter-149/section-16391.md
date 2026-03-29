@@ -3,9 +3,9 @@ title: "Section 16391 - Improved technology transfer of energy technologies"
 usc_title: 42
 usc_section: "16391"
 chapter: 149
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 16391"
-generated_at: "2026-03-29T23:14:44.236Z"
+generated_at: "2026-03-29T23:18:45.979Z"
 ---
 
 # § 16391. Improved technology transfer of energy technologies
@@ -34,6 +34,8 @@ generated_at: "2026-03-29T23:14:44.236Z"
       - **(iii)** the activities of each technology partnership ombudsman appointed under section 7261c of this title ; and
       - **(iv)** efforts to engage private sector entities, including venture capital companies.
   - **(5)** In carrying out the mission and activities of the Office, the Chief Commercialization Officer shall coordinate with the senior leadership of the Department, other relevant program offices of the Department, National Laboratories, the Technology Transfer Working Group established under subsection (b), the Technology Transfer Policy Board, and other stakeholders (including private industry).
+  - **(6)** To carry out the program authorized in this section, the Under Secretary for Science may appoint personnel using the authorities in section 19321 of this title .
+  - **(7)** There are authorized to be appropriated to the Secretary to carry out the activities authorized in this section $20,000,000 for each of fiscal years 2023 through 2027.
 - **(b)** The Secretary shall establish a Technology Transfer Working Group, which shall consist of representatives of the National Laboratories and single-purpose research facilities, to—
   - **(1)** coordinate technology transfer activities occurring at National Laboratories and single-purpose research facilities;
   - **(2)** exchange information about technology transfer practices, including alternative approaches to resolution of disputes involving intellectual property rights and other technology transfer matters; and

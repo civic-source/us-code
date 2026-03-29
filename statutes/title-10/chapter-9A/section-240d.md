@@ -3,9 +3,9 @@ title: "Section 240d - Audits: audit of financial statements of Department of De
 usc_title: 10
 usc_section: "240d"
 chapter: 9
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 240d"
-generated_at: "2026-03-29T23:10:50.050Z"
+generated_at: "2026-03-29T23:16:24.217Z"
 ---
 
 # § 240d. Audits: audit of financial statements of Department of Defense components by independent external auditors
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T23:10:50.050Z"
 - **(c)** The Inspector General shall monitor the conduct of all audits by independent external auditors under subsection (a).
 - **(d)**
   - **(1)** The Inspector General shall require the independent external auditors conducting audits under subsection (a) to submit a report on their audits each year to—
-    - **(A)** the Under Secretary of Defense (Comptroller) as the Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31 and the Chief Management Officer of the Department of Defense;
+    - **(A)** the Under Secretary of Defense (Comptroller) as the Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31 and the Chief Management Officer of the Department of Defense; 1 1 See Transfer of Functions note below.
     - **(B)** the Controller of the Office of Federal Financial Management in the Office of Management and Budget;
     - **(C)** the head of each component audited; and
     - **(D)** the appropriate committees of Congress.

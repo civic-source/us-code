@@ -3,9 +3,9 @@ title: "Section 132 - Special rules for employer-sponsored programs"
 usc_title: 42
 usc_section: "132"
 chapter: 7
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 132"
-generated_at: "2026-03-29T23:14:43.623Z"
+generated_at: "2026-03-29T23:18:45.532Z"
 ---
 
 # § 1395w–132. Special rules for employer-sponsored programs
@@ -13,7 +13,9 @@ generated_at: "2026-03-29T23:14:43.623Z"
 - **(a)**
   - **(1)** The Secretary shall provide in accordance with this subsection for payment to the sponsor of a qualified retiree prescription drug plan (as defined in paragraph (2)) of a special subsidy payment equal to the amount specified in paragraph (3) for each qualified covered retiree under the plan (as defined in paragraph (4)). This subsection constitutes budget authority in advance of appropriations Acts and represents the obligation of the Secretary to provide for the payment of amounts provided under this section.
   - **(2)** For purposes of this subsection, the term “qualified retiree prescription drug plan” means employment-based retiree health coverage (as defined in subsection (c)(1)) if, with respect to a part D eligible individual who is a participant or beneficiary under such coverage, the following requirements are met:
-    - **(A)** The sponsor of the plan provides the Secretary, annually or at such other time as the Secretary may require, with an attestation that the actuarial value of prescription drug coverage under the plan (as determined using the processes and methods described in section 1395w–111(c) of this title ) is at least equal to the actuarial value of standard prescription drug coverage, not taking into account the value of any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title .
+    - **(A)** The sponsor of the plan provides the Secretary, annually or at such other time as the Secretary may require, with an attestation that the actuarial value of prescription drug coverage under the plan (as determined using the processes and methods described in section 1395w–111(c) of this title ) is at least equal to the actuarial value of standard prescription drug coverage, not taking into account the value of—
+      - **(i)** for years prior to 2025, any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title ; and
+      - **(ii)** for 2025 and each subsequent year, any discount provided pursuant to section 1395w–114c of this title .
     - **(B)** The sponsor of the plan, or an administrator of the plan designated by the sponsor, shall maintain (and afford the Secretary access to) such records as the Secretary may require for purposes of audits and other oversight activities necessary to ensure the adequacy of prescription drug coverage and the accuracy of payments made under this section. The provisions of section 1395w–102(d)(3) of this title shall apply to such information under this section (including such actuarial value and attestation) in a manner similar to the manner in which they apply to financial records of PDP sponsors and MA organizations.
     - **(C)** The sponsor of the plan shall provide for disclosure of information regarding prescription drug coverage in accordance with section 1395w–113(b)(6)(B) of this title .
   - **(3)**

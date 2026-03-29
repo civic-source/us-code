@@ -3,9 +3,9 @@ title: "Section 17198 - Geothermal workforce development"
 usc_title: 42
 usc_section: "17198"
 chapter: 152
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 17198"
-generated_at: "2026-03-29T23:14:44.257Z"
+generated_at: "2026-03-29T23:18:45.992Z"
 ---
 
 # § 17198. Geothermal workforce development

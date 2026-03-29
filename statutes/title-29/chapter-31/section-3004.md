@@ -3,9 +3,9 @@ title: "Section 3004 - State grants for protection and advocacy services related
 usc_title: 29
 usc_section: "3004"
 chapter: 31
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "29 U.S.C. § 3004"
-generated_at: "2026-03-29T23:12:21.055Z"
+generated_at: "2026-03-29T23:17:43.014Z"
 ---
 
 # § 3004. State grants for protection and advocacy services related to assistive technology

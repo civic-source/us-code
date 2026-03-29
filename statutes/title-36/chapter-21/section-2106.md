@@ -3,9 +3,9 @@ title: "Section 2106 - War memorials not built by the United States Government"
 usc_title: 36
 usc_section: "2106"
 chapter: 21
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "36 U.S.C. § 2106"
-generated_at: "2026-03-29T23:13:47.506Z"
+generated_at: "2026-03-29T23:18:06.141Z"
 ---
 
 # § 2106. War memorials not built by the United States Government

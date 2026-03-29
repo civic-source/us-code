@@ -3,9 +3,9 @@ title: "Section 8471 - Effect on environmental requirements"
 usc_title: 42
 usc_section: "8471"
 chapter: 92
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 8471"
-generated_at: "2026-03-29T23:14:44.019Z"
+generated_at: "2026-03-29T23:18:45.850Z"
 ---
 
 # § 8471. Effect on environmental requirements

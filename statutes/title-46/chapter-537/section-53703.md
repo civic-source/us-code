@@ -3,9 +3,9 @@ title: "Section 53703 - Application and administration"
 usc_title: 46
 usc_section: "53703"
 chapter: 537
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "46 U.S.C. § 53703"
-generated_at: "2026-03-29T23:15:08.816Z"
+generated_at: "2026-03-29T23:19:04.203Z"
 ---
 
 # § 53703. Application and administration

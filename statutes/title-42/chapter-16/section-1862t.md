@@ -3,9 +3,9 @@ title: "Section 1862t - Supporting veterans in STEM education and computer scien
 usc_title: 42
 usc_section: "1862t"
 chapter: 16
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 1862t"
-generated_at: "2026-03-29T23:14:43.774Z"
+generated_at: "2026-03-29T23:18:45.657Z"
 ---
 
 # § 1862t. Supporting veterans in STEM education and computer science
@@ -15,7 +15,7 @@ generated_at: "2026-03-29T23:14:43.774Z"
   - **(1)** report on the Foundation’s existing outreach activities;
   - **(2)** identify the best method for the Foundation to leverage existing authorities and programs to facilitate and support veterans in STEM careers and studies, including teaching programs; and
   - **(3)** include options for how the Foundation could track veteran participation in research and education programs of the Foundation, and describe any barriers to collecting such information.
-- **(c)** The National Science Board shall provide in its annual report on indicators of the state of science and engineering in the United States any available and relevant data on veterans in science and engineering careers or education programs.
+- **(c)** The National Science Board shall provide in its biennial report on indicators of the state of science and engineering in the United States any available and relevant data on veterans in science and engineering careers or education programs.
 - **(d)**
 - **(h)**
   - **(1)** The Director of the Office of Science and Technology Policy shall establish, or designate, an interagency working group to improve veteran and military spouse equity and representation in STEM fields.

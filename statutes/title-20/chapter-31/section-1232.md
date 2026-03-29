@@ -3,9 +3,9 @@ title: "Section 1232 - Regulations"
 usc_title: 20
 usc_section: "1232"
 chapter: 31
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "20 U.S.C. § 1232"
-generated_at: "2026-03-29T23:11:23.003Z"
+generated_at: "2026-03-29T23:17:23.975Z"
 ---
 
 # § 1232. Regulations

@@ -3,9 +3,9 @@ title: "Section 615cccc - Omitted"
 usc_title: 43
 usc_section: "615cccc"
 chapter: 12
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "43 U.S.C. § 615cccc"
-generated_at: "2026-03-29T23:14:14.555Z"
+generated_at: "2026-03-29T23:18:11.510Z"
 ---
 
 # §§ 615xxx to 615cccc. Omitted

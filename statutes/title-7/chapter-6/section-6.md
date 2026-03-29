@@ -3,9 +3,9 @@ title: "Section 6 - Environmental Protection Agency minor use program"
 usc_title: 7
 usc_section: "6"
 chapter: 6
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "7 U.S.C. § 6"
-generated_at: "2026-03-29T23:10:44.318Z"
+generated_at: "2026-03-29T23:16:16.938Z"
 ---
 
 # § 136w–6. Environmental Protection Agency minor use program

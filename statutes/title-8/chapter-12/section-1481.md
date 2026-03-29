@@ -3,9 +3,9 @@ title: "Section 1481 - Loss of nationality by native-born or naturalized citizen
 usc_title: 8
 usc_section: "1481"
 chapter: 12
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "8 U.S.C. § 1481"
-generated_at: "2026-03-29T23:10:40.825Z"
+generated_at: "2026-03-29T23:16:19.892Z"
 ---
 
 # § 1481. Loss of nationality by native-born or naturalized citizen; voluntary action; burden of proof; presumptions

@@ -3,14 +3,14 @@ title: "Section 114a - Medicare coverage gap discount program"
 usc_title: 42
 usc_section: "114a"
 chapter: 7
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 114a"
-generated_at: "2026-03-29T23:14:43.622Z"
+generated_at: "2026-03-29T23:18:45.529Z"
 ---
 
 # § 1395w–114a. Medicare coverage gap discount program
 
-- **(a)** The Secretary shall establish a Medicare coverage gap discount program (in this section referred to as the “program”) by not later than January 1, 2011 . Under the program, the Secretary shall enter into agreements described in subsection (b) with manufacturers and provide for the performance of the duties described in subsection (c)(1). The Secretary shall establish a model agreement for use under the program by not later than 180 days after March 23, 2010 , in consultation with manufacturers, and allow for comment on such model agreement.
+- **(a)** Subject to subsection (h), the Secretary shall establish a Medicare coverage gap discount program (in this section referred to as the “program”) by not later than January 1, 2011 . Under the program, the Secretary shall enter into agreements described in subsection (b) with manufacturers and provide for the performance of the duties described in subsection (c)(1). The Secretary shall establish a model agreement for use under the program by not later than 180 days after March 23, 2010 , in consultation with manufacturers, and allow for comment on such model agreement.
 - **(b)**
   - **(1)**
     - **(A)** An agreement under this section shall require the manufacturer to provide applicable beneficiaries access to discounted prices for applicable drugs of the manufacturer.
@@ -91,3 +91,6 @@ generated_at: "2026-03-29T23:14:43.622Z"
   - **(5)** The term “manufacturer” means any entity which is engaged in the production, preparation, propagation, compounding, conversion, or processing of prescription drug products, either directly or indirectly by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis. Such term does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law.
   - **(6)** The term “negotiated price” has the meaning given such term in section 423.100 of title 42, Code of Federal Regulations (as in effect on March 23, 2010 ), except that such negotiated price shall not include any dispensing fee for the applicable drug.
   - **(7)** The term “qualified retiree prescription drug plan” has the meaning given such term in section 1395w–132(a)(2) of this title .
+- **(h)**
+  - **(1)** The program shall not apply with respect to applicable drugs dispensed on or after January 1, 2025 , and, subject to paragraph (2), agreements under this section shall be terminated as of such date.
+  - **(2)** The provisions of this section (including all responsibilities and duties) shall continue to apply on and after January 1, 2025 , with respect to applicable drugs dispensed prior to such date.

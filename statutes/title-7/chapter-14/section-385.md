@@ -3,9 +3,9 @@ title: "Section 385 - South Carolina Experiment Station; cooperation by Secretar
 usc_title: 7
 usc_section: "385"
 chapter: 14
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "7 U.S.C. § 385"
-generated_at: "2026-03-29T23:10:44.334Z"
+generated_at: "2026-03-29T23:16:16.954Z"
 ---
 
 # § 385. South Carolina Experiment Station; cooperation by Secretary of Agriculture; lump sum appropriation

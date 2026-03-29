@@ -3,9 +3,9 @@ title: "Section 2232 - Construction of water resources development projects by n
 usc_title: 33
 usc_section: "2232"
 chapter: 36
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "33 U.S.C. § 2232"
-generated_at: "2026-03-29T23:13:30.059Z"
+generated_at: "2026-03-29T23:17:55.149Z"
 ---
 
 # § 2232. Construction of water resources development projects by non-Federal interests

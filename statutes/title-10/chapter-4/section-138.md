@@ -3,9 +3,9 @@ title: "Section 138 - Assistant Secretaries of Defense"
 usc_title: 10
 usc_section: "138"
 chapter: 4
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 138"
-generated_at: "2026-03-29T23:10:50.041Z"
+generated_at: "2026-03-29T23:16:24.211Z"
 ---
 
 # § 138. Assistant Secretaries of Defense
@@ -36,4 +36,4 @@ generated_at: "2026-03-29T23:10:50.041Z"
 - **(c)** Except as otherwise specifically provided by law, an Assistant Secretary may not issue an order to a military department unless—
   - **(1)** the Secretary of Defense has specifically delegated that authority to the Assistant Secretary in writing; and
   - **(2)** the order is issued through the Secretary of the military department concerned.
-- **(d)** The Assistant Secretaries take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, the officials serving in positions specified in section 131(b)(4) of this title , and the Deputy Under Secretaries of Defense. The Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense.
+- **(d)** The Assistant Secretaries take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense, 1 1 See Transfer of Functions note below. the Secretaries of the military departments, the Under Secretaries of Defense, the officials serving in positions specified in section 131(b)(4) of this title , and the Deputy Under Secretaries of Defense. The Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense.

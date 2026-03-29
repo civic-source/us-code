@@ -3,9 +3,9 @@ title: "Section 136 - Provision of information upon request and for scheduled ap
 usc_title: 42
 usc_section: "136"
 chapter: 6
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 136"
-generated_at: "2026-03-29T23:14:43.474Z"
+generated_at: "2026-03-29T23:18:45.402Z"
 ---
 
 # § 300gg–136. Provision of information upon request and for scheduled appointments

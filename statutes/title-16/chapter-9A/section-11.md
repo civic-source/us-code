@@ -3,9 +3,9 @@ title: "Section 11 - Acceptance and development of fish hatchery in South Caroli
 usc_title: 16
 usc_section: "11"
 chapter: 9
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "16 U.S.C. § 11"
-generated_at: "2026-03-29T23:11:41.644Z"
+generated_at: "2026-03-29T23:17:08.415Z"
 ---
 
 # § 760–11. Acceptance and development of fish hatchery in South Carolina

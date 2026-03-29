@@ -3,9 +3,9 @@ title: "Section 1246 - Administration and development of national trails system"
 usc_title: 16
 usc_section: "1246"
 chapter: 27
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "16 U.S.C. § 1246"
-generated_at: "2026-03-29T23:11:41.674Z"
+generated_at: "2026-03-29T23:17:08.447Z"
 ---
 
 # § 1246. Administration and development of national trails system

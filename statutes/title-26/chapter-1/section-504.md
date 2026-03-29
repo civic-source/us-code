@@ -3,9 +3,9 @@ title: "Section 504 - Status after organization ceases to qualify for exemption 
 usc_title: 26
 usc_section: "504"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 504"
-generated_at: "2026-03-29T23:12:49.375Z"
+generated_at: "2026-03-29T23:17:50.262Z"
 ---
 
 # § 504. Status after organization ceases to qualify for exemption under section 501(c)(3) because of substantial lobbying or because of political activities

@@ -3,9 +3,9 @@ title: "Section 316 - Treasury Attaché Program"
 usc_title: 31
 usc_section: "316"
 chapter: 3
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "31 U.S.C. § 316"
-generated_at: "2026-03-29T23:13:25.040Z"
+generated_at: "2026-03-29T23:17:53.467Z"
 ---
 
 # § 316. Treasury Attaché Program

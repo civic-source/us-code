@@ -3,9 +3,9 @@ title: "Section 4209 - Repealed. Pub. L. 107–273, div. A, title III, § 301(c)
 usc_title: 12
 usc_section: "4209"
 chapter: 43
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "12 U.S.C. § 4209"
-generated_at: "2026-03-29T23:11:11.885Z"
+generated_at: "2026-03-29T23:16:31.054Z"
 ---
 
 # § 4209. Repealed. Pub. L. 107–273, div. A, title III, § 301(c)(3) , Nov. 2, 2002 , 116 Stat. 1781

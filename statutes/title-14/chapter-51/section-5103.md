@@ -3,9 +3,9 @@ title: "Section 5103 - Major acquisitions"
 usc_title: 14
 usc_section: "5103"
 chapter: 51
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "14 U.S.C. § 5103"
-generated_at: "2026-03-29T23:11:03.325Z"
+generated_at: "2026-03-29T23:16:27.884Z"
 ---
 
 # § 5103. Major acquisitions

@@ -3,9 +3,9 @@ title: "Section 2008v - Strategic economic and community development"
 usc_title: 7
 usc_section: "2008v"
 chapter: 50
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "7 U.S.C. § 2008v"
-generated_at: "2026-03-29T23:10:44.395Z"
+generated_at: "2026-03-29T23:16:17.018Z"
 ---
 
 # § 2008v. Strategic economic and community development

@@ -3,9 +3,9 @@ title: "Section 1 - Flag; stripes and stars on"
 usc_title: 4
 usc_section: "1"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "4 U.S.C. § 1"
-generated_at: "2026-03-29T23:10:28.362Z"
+generated_at: "2026-03-29T23:15:54.374Z"
 ---
 
 # § 1. Flag; stripes and stars on

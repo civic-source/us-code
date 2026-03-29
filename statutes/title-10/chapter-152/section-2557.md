@@ -3,9 +3,9 @@ title: "Section 2557 - Excess nonlethal supplies: availability for humanitarian 
 usc_title: 10
 usc_section: "2557"
 chapter: 152
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 2557"
-generated_at: "2026-03-29T23:10:50.133Z"
+generated_at: "2026-03-29T23:16:24.310Z"
 ---
 
 # § 2557. Excess nonlethal supplies: availability for humanitarian relief, domestic emergency assistance, and homeless veterans assistance

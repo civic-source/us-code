@@ -3,9 +3,9 @@ title: "Section 407n - Cooperative agreements between Secretary of the Interior 
 usc_title: 16
 usc_section: "407n"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "16 U.S.C. § 407n"
-generated_at: "2026-03-29T23:11:41.537Z"
+generated_at: "2026-03-29T23:17:08.292Z"
 ---
 
 # § 407n. Cooperative agreements between Secretary of the Interior and City of Philadelphia; contents

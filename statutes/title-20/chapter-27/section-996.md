@@ -3,9 +3,9 @@ title: "Section 996 - Repealed. Pub. L. 90–575, title I, § 116(c)(1) , Oct. 1
 usc_title: 20
 usc_section: "996"
 chapter: 27
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "20 U.S.C. § 996"
-generated_at: "2026-03-29T23:11:22.940Z"
+generated_at: "2026-03-29T23:17:23.911Z"
 ---
 
 # §§ 981 to 996. Repealed. Pub. L. 90–575, title I, § 116(c)(1) , Oct. 16, 1968 , 82 Stat. 1024

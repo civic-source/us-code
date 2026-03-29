@@ -3,9 +3,9 @@ title: "Section 12576 - State application"
 usc_title: 34
 usc_section: "12576"
 chapter: 121
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "34 U.S.C. § 12576"
-generated_at: "2026-03-29T23:12:57.860Z"
+generated_at: "2026-03-29T23:18:03.314Z"
 ---
 
 # § 12576. State application

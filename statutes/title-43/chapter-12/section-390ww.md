@@ -3,9 +3,9 @@ title: "Section 390ww - Administrative provisions"
 usc_title: 43
 usc_section: "390ww"
 chapter: 12
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "43 U.S.C. § 390ww"
-generated_at: "2026-03-29T23:14:14.547Z"
+generated_at: "2026-03-29T23:18:11.501Z"
 ---
 
 # § 390ww. Administrative provisions

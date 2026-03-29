@@ -3,9 +3,9 @@ title: "Section 21008 - Reports"
 usc_title: 52
 usc_section: "21008"
 chapter: 209
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "52 U.S.C. § 21008"
-generated_at: "2026-03-29T23:15:38.083Z"
+generated_at: "2026-03-29T23:19:06.399Z"
 ---
 
 # § 21008. Reports

@@ -3,9 +3,9 @@ title: "Section 16274a - University Nuclear Leadership Program"
 usc_title: 42
 usc_section: "16274a"
 chapter: 149
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 16274a"
-generated_at: "2026-03-29T23:14:44.225Z"
+generated_at: "2026-03-29T23:18:45.972Z"
 ---
 
 # § 16274a. University Nuclear Leadership Program
@@ -16,10 +16,11 @@ generated_at: "2026-03-29T23:14:44.225Z"
     - **(A)** relevant fuel cycle technologies;
     - **(B)** project management; and
     - **(C)** advanced construction, manufacturing, and fabrication methods.
-  - **(2)** Notwithstanding paragraph (1), amounts made available to carry out the Program may be used to provide financial assistance for a scholarship, fellowship, or multiyear research and development project that does not align directly with a programmatic mission of the Department of Energy, if the activity for which assistance is provided would facilitate the maintenance of the discipline of nuclear science or engineering.
+  - **(2)** Notwithstanding paragraph (1), amounts made available to carry out the Program may be used to provide financial assistance for a scholarship, fellowship, or multiyear research and development project that does not align directly with a programmatic mission of the Department of Energy, if the activity for which assistance is provided would facilitate the maintenance of the discipline of nuclear science or engineering, which may include nontechnical nuclear research.. 1 1 So in original.
 - **(c)** In this section:
   - **(1)** The terms “advanced nuclear reactor” and “institution of higher education” have the meanings given those terms in section 16271 of this title .
   - **(2)** The term “Program” means the University Nuclear Leadership Program established under this section.
+  - **(3)** The term “nontechnical nuclear research” means research with specializations such as social sciences or law that can support an increase in community engagement, participation, and confidence in nuclear energy systems, including the navigation of the licensing required for advanced reactor deployment, aligned with the objectives in section 16271(a)(2) of this title .
 - **(d)** There are authorized to be appropriated to carry out the Program for each of fiscal years 2021 through 2025—
-  - **(1)** $30,000,000 to the Secretary of Energy, of which $15,000,000 shall be for use by the Administrator of the National Nuclear Security Administration; and
+  - **(1)** $45,000,000 to the Secretary of Energy, of which $15,000,000 shall be for use by the Administrator of the National Nuclear Security Administration; and
   - **(2)** $15,000,000 to the Nuclear Regulatory Commission.

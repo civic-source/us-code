@@ -3,9 +3,9 @@ title: "Section 16512 - Terms and conditions"
 usc_title: 42
 usc_section: "16512"
 chapter: 149
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 16512"
-generated_at: "2026-03-29T23:14:44.240Z"
+generated_at: "2026-03-29T23:18:45.982Z"
 ---
 
 # § 16512. Terms and conditions
@@ -16,6 +16,7 @@ generated_at: "2026-03-29T23:14:44.240Z"
   - **(2)** If sufficient appropriated funds to pay the cost of a guarantee are not available, then the guarantee shall not be made unless—
     - **(A)** the Secretary has received from the borrower a payment in full for the cost of the guarantee and deposited the payment into the Treasury; or
     - **(B)** a combination of one or more appropriations and one or more payments from the borrower under this subsection has been made that is sufficient to cover the cost of the guarantee.
+  - **(3)** The source of a payment received from a borrower under subparagraph (A) or (B) of paragraph (2) may not be a loan or other debt obligation that is made or guaranteed by the Federal Government.
 - **(c)** Unless otherwise provided by law, a guarantee by the Secretary shall not exceed an amount equal to 80 percent of the project cost of the facility that is the subject of the guarantee, as estimated at the time at which the guarantee is issued.
 - **(d)**
   - **(1)**
@@ -85,7 +86,7 @@ generated_at: "2026-03-29T23:14:44.240Z"
 - **(o)** In carrying out this subchapter, the Secretary shall—
   - **(1)** provide assistance with the completion of applications for a guarantee under this subchapter;
   - **(2)** conduct outreach, including through conferences and online programs, to disseminate information to potential applicants;
-  - **(3)** conduct outreach to encourage participation of supporting finance institutions and private lenders in eligible projects.
+  - **(3)** conduct outreach to encourage participation of supporting finance institutions and private lenders in eligible projects and projects described in section 16517(a) of this title .
 - **(p)** In carrying out this subchapter, the Secretary shall coordinate activities under this subchapter with activities of other relevant offices with the Department.
 - **(q)** Not later than 2 years after December 27, 2020 , and every 3 years thereafter, the Secretary shall submit to Congress a report on the status of applications for, and projects receiving, guarantees under this title, including—
   - **(1)** a list of such projects, including the guarantee amount, construction status, and financing partners of each such project;

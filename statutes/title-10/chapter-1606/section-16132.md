@@ -3,9 +3,9 @@ title: "Section 16132 - Eligibility for educational assistance"
 usc_title: 10
 usc_section: "16132"
 chapter: 1606
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 16132"
-generated_at: "2026-03-29T23:10:50.214Z"
+generated_at: "2026-03-29T23:16:24.390Z"
 ---
 
 # § 16132. Eligibility for educational assistance

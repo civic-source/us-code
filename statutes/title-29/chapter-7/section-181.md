@@ -3,9 +3,9 @@ title: "Section 181 - Compilation of collective bargaining agreements, etc.; use
 usc_title: 29
 usc_section: "181"
 chapter: 7
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "29 U.S.C. § 181"
-generated_at: "2026-03-29T23:12:20.989Z"
+generated_at: "2026-03-29T23:17:42.950Z"
 ---
 
 # § 181. Compilation of collective bargaining agreements, etc.; use of data

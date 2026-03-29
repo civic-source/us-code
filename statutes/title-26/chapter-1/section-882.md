@@ -3,15 +3,15 @@ title: "Section 882 - Tax on income of foreign corporations connected with Unite
 usc_title: 26
 usc_section: "882"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 882"
-generated_at: "2026-03-29T23:12:49.401Z"
+generated_at: "2026-03-29T23:17:50.290Z"
 ---
 
 # § 882. Tax on income of foreign corporations connected with United States business
 
 - **(a)**
-  - **(1)** A foreign corporation engaged in trade or business within the United States during the taxable year shall be taxable as provided in section 11 or 59A, 1 1 So in original. The comma probably should not appear. on its taxable income which is effectively connected with the conduct of a trade or business within the United States.
+  - **(1)** A foreign corporation engaged in trade or business within the United States during the taxable year shall be taxable as provided in section 11, 55, or 59A, 1 1 So in original. The comma probably should not appear. on its taxable income which is effectively connected with the conduct of a trade or business within the United States.
   - **(2)** In determining taxable income for purposes of paragraph (1), gross income includes only gross income which is effectively connected with the conduct of a trade or business within the United States.
   - **(3)** For special tax treatment of gain or loss from the disposition by a foreign corporation of a United States real property interest, see section 897.
 - **(b)** In the case of a foreign corporation, except where the context clearly indicates otherwise, gross income includes only—

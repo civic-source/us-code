@@ -3,16 +3,18 @@ title: "Section 1331 - Definitions"
 usc_title: 43
 usc_section: "1331"
 chapter: 29
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "43 U.S.C. § 1331"
-generated_at: "2026-03-29T23:14:14.566Z"
+generated_at: "2026-03-29T23:18:11.521Z"
 ---
 
 # § 1331. Definitions
 
 In this subchapter:
 
-- **(a)** The term “outer Continental Shelf” means all submerged lands lying seaward and outside of the area of lands beneath navigable waters as defined in section 1301 of this title , and of which the subsoil and seabed appertain to the United States and are subject to its jurisdiction and control.
+- **(a)** The term “outer Continental Shelf” means—
+  - **(1)** all submerged lands lying seaward and outside of the area of lands beneath navigable waters as defined in section 1301 of this title , and of which the subsoil and seabed appertain to the United States and are subject to its jurisdiction and control or within the exclusive economic zone of the United States and adjacent to any territory of the United States; and
+  - **(2)** does not include any area conveyed by Congress to a territorial government for administration;
 - **(b)** The term “Secretary” means the Secretary of the Interior, except that with respect to functions under this subchapter transferred to, or vested in, the Secretary of Energy or the Federal Energy Regulatory Commission by or pursuant to the Department of Energy Organization Act ( 42 U.S.C. 7101 et seq.), the term “Secretary” means the Secretary of Energy, or the Federal Energy Regulatory Commission, as the case may be.
 - **(c)** The term “lease” means any form of authorization which is issued under section 1337 of this title or maintained under section 1335 of this title and which authorizes exploration for, and development and production of, minerals.
 - **(d)** The term “person” includes, in addition to a natural person, an association, a State, a political subdivision of a State, or a private, public, or municipal corporation.
@@ -38,7 +40,7 @@ In this subchapter:
   - **(5)** the Act of June 19, 1936 , chapter 592 ( 15 U.S.C. 13 , 13a, 13b, and 21a).
 - **(o)** The term “fair market value” means the value of any mineral (1) computed at a unit price equivalent to the average unit price at which such mineral was sold pursuant to a lease during the period for which any royalty or net profit share is accrued or reserved to the United States pursuant to such lease, or (2) if there were no such sales, or if the Secretary finds that there were an insufficient number of such sales to equitably determine such value, computed at the average unit price at which such mineral was sold pursuant to other leases in the same region of the outer Continental Shelf during such period, or (3) if there were no sales of such mineral from such region during such period, or if the Secretary finds that there are an insufficient number of such sales to equitably determine such value, at an appropriate price determined by the Secretary.
 - **(p)** The term “major Federal action” means any action or proposal by the Secretary which is subject to the provisions of section 4332(2)(C) of title 42 .
-- **(q)** The term “minerals” includes oil, gas, sulphur, geopressured-geothermal and associated resources, and all other minerals which are authorized by an Act of Congress to be produced from “public lands” as defined in section 1702 of this title .
+- **(q)** The term “minerals” includes oil, gas, sulphur, geopressured-geothermal and associated resources, and all other minerals which are authorized by an Act of Congress to be produced from “public lands” as defined in section 1702 of this title ; and 3 3 So in original. Probably should be “title.”
 - **(r)**
   - **(1)** The term “carbon dioxide stream” means carbon dioxide that—
     - **(A)** has been captured; and
@@ -47,3 +49,10 @@ In this subchapter:
       - **(ii)** any substances added to the stream for the purpose of enabling or improving the injection process.
   - **(2)** The term “carbon dioxide stream” does not include additional waste or other matter added to the carbon dioxide stream for the purpose of disposal.
 - **(s)** The term “carbon sequestration” means the act of storing carbon dioxide that has been removed from the atmosphere or captured through physical, chemical, or biological processes that can prevent the carbon dioxide from reaching the atmosphere.
+- **(r)** 5 5 So in original. Another subsec. (r) is set out following subsec. (q). The term “State” means—
+  - **(1)** each of the several States;
+  - **(2)** the Commonwealth of Puerto Rico;
+  - **(3)** Guam;
+  - **(4)** American Samoa;
+  - **(5)** the United States Virgin Islands; and
+  - **(6)** the Commonwealth of the Northern Mariana Islands.

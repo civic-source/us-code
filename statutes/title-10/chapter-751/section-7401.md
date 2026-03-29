@@ -3,9 +3,9 @@ title: "Section 7401 - Members of Army: detail as students, observers, and inves
 usc_title: 10
 usc_section: "7401"
 chapter: 751
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 7401"
-generated_at: "2026-03-29T23:10:50.177Z"
+generated_at: "2026-03-29T23:16:24.352Z"
 ---
 
 # § 7401. Members of Army: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals

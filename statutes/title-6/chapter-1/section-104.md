@@ -3,9 +3,9 @@ title: "Section 104 - National biodefense strategy"
 usc_title: 6
 usc_section: "104"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "6 U.S.C. § 104"
-generated_at: "2026-03-29T23:10:59.543Z"
+generated_at: "2026-03-29T23:16:24.925Z"
 ---
 
 # § 104. National biodefense strategy

@@ -3,9 +3,9 @@ title: "Section 242j - Transferred"
 usc_title: 42
 usc_section: "242j"
 chapter: 6
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 242j"
-generated_at: "2026-03-29T23:14:43.307Z"
+generated_at: "2026-03-29T23:18:45.266Z"
 ---
 
 # §§ 242f to 242j. Transferred

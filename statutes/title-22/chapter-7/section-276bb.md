@@ -3,9 +3,9 @@ title: "Section 276bb - Acceptance of funds and property from Mrs. Kermit Roosev
 usc_title: 22
 usc_section: "276bb"
 chapter: 7
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "22 U.S.C. § 276bb"
-generated_at: "2026-03-29T23:11:48.654Z"
+generated_at: "2026-03-29T23:17:34.974Z"
 ---
 
 # § 276bb. Acceptance of funds and property from Mrs. Kermit Roosevelt; purpose and use; disbursement and investment of fund

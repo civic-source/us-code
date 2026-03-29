@@ -3,9 +3,9 @@ title: "Section 283s - Illegal drug traffic; loan restrictions"
 usc_title: 22
 usc_section: "283s"
 chapter: 7
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "22 U.S.C. § 283s"
-generated_at: "2026-03-29T23:11:48.659Z"
+generated_at: "2026-03-29T23:17:34.977Z"
 ---
 
 # § 283s. Illegal drug traffic; loan restrictions

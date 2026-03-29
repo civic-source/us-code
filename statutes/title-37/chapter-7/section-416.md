@@ -3,9 +3,9 @@ title: "Section 416 - Uniform allowance: officers; additional allowances"
 usc_title: 37
 usc_section: "416"
 chapter: 7
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "37 U.S.C. § 416"
-generated_at: "2026-03-29T23:14:06.496Z"
+generated_at: "2026-03-29T23:18:05.518Z"
 ---
 
 # § 416. Uniform allowance: officers; additional allowances

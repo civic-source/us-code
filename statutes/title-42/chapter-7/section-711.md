@@ -3,9 +3,9 @@ title: "Section 711 - Maternal, infant, and early childhood home visiting progra
 usc_title: 42
 usc_section: "711"
 chapter: 7
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 711"
-generated_at: "2026-03-29T23:14:43.531Z"
+generated_at: "2026-03-29T23:18:45.451Z"
 ---
 
 # § 711. Maternal, infant, and early childhood home visiting programs

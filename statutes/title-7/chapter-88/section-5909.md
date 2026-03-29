@@ -3,9 +3,9 @@ title: "Section 5909 - Repealed. Pub. L. 107–171, title VI, § 6201(a) , May 1
 usc_title: 7
 usc_section: "5909"
 chapter: 88
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "7 U.S.C. § 5909"
-generated_at: "2026-03-29T23:10:44.450Z"
+generated_at: "2026-03-29T23:16:17.071Z"
 ---
 
 # §§ 5901 to 5909. Repealed. Pub. L. 107–171, title VI, § 6201(a) , May 13, 2002 , 116 Stat. 418

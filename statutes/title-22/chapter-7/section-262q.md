@@ -3,9 +3,9 @@ title: "Section 262q - Transferred"
 usc_title: 22
 usc_section: "262q"
 chapter: 7
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "22 U.S.C. § 262q"
-generated_at: "2026-03-29T23:11:48.651Z"
+generated_at: "2026-03-29T23:17:34.971Z"
 ---
 
 # § 262q. Transferred

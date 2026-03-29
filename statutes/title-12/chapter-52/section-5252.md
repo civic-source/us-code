@@ -3,9 +3,9 @@ title: "Section 5252 - Reports by the Office of Management and Budget and the Co
 usc_title: 12
 usc_section: "5252"
 chapter: 52
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "12 U.S.C. § 5252"
-generated_at: "2026-03-29T23:11:11.951Z"
+generated_at: "2026-03-29T23:16:31.079Z"
 ---
 
 # § 5252. Reports by the Office of Management and Budget and the Congressional Budget Office

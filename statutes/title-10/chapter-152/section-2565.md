@@ -3,9 +3,9 @@ title: "Section 2565 - Nuclear test monitoring equipment: furnishing to foreign 
 usc_title: 10
 usc_section: "2565"
 chapter: 152
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 2565"
-generated_at: "2026-03-29T23:10:50.133Z"
+generated_at: "2026-03-29T23:16:24.310Z"
 ---
 
 # § 2565. Nuclear test monitoring equipment: furnishing to foreign governments

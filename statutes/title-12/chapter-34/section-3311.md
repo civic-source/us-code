@@ -3,9 +3,9 @@ title: "Section 3311 - Required review of regulations"
 usc_title: 12
 usc_section: "3311"
 chapter: 34
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "12 U.S.C. § 3311"
-generated_at: "2026-03-29T23:11:11.874Z"
+generated_at: "2026-03-29T23:16:31.044Z"
 ---
 
 # § 3311. Required review of regulations

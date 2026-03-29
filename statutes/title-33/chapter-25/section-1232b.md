@@ -3,9 +3,9 @@ title: "Section 1232b - Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 
 usc_title: 33
 usc_section: "1232b"
 chapter: 25
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "33 U.S.C. § 1232b"
-generated_at: "2026-03-29T23:13:30.031Z"
+generated_at: "2026-03-29T23:17:55.117Z"
 ---
 
 # §§ 1232 to 1232b. Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 4, 2018 , 132 Stat. 4264

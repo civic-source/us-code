@@ -3,9 +3,9 @@ title: "Section 1667d - Use of predoctoral psychology and psychiatry interns"
 usc_title: 25
 usc_section: "1667d"
 chapter: 18
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "25 U.S.C. § 1667d"
-generated_at: "2026-03-29T23:12:03.146Z"
+generated_at: "2026-03-29T23:17:32.012Z"
 ---
 
 # § 1667d. Use of predoctoral psychology and psychiatry interns

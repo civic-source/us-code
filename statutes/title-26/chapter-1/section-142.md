@@ -3,9 +3,9 @@ title: "Section 142 - Exempt facility bond"
 usc_title: 26
 usc_section: "142"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 142"
-generated_at: "2026-03-29T23:12:49.310Z"
+generated_at: "2026-03-29T23:17:50.191Z"
 ---
 
 # § 142. Exempt facility bond
@@ -245,7 +245,7 @@ generated_at: "2026-03-29T23:12:49.310Z"
 - **(o)**
   - **(1)** For purposes of subsection (a)(17), the term “qualified carbon dioxide capture facility” means—
     - **(A)** the eligible components of an industrial carbon dioxide facility, and
-    - **(B)** a direct air capture facility (as defined in section 45Q(e)(1)).
+    - **(B)** a direct air capture facility (as defined in section 45Q(e)(3)).
   - **(2)** For purposes of this subsection:
     - **(A)**
       - **(i)** The term “eligible component” means any equipment which is installed in an industrial carbon dioxide facility that satisfies the requirements under paragraph (3) and which is—

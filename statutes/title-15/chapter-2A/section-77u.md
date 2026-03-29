@@ -3,9 +3,9 @@ title: "Section 77u - Hearings by Commission"
 usc_title: 15
 usc_section: "77u"
 chapter: 2
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "15 U.S.C. § 77u"
-generated_at: "2026-03-29T23:11:14.616Z"
+generated_at: "2026-03-29T23:17:00.441Z"
 ---
 
 # § 77u. Hearings by Commission

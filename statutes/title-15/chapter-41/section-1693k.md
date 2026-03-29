@@ -3,9 +3,9 @@ title: "Section 1693k - Compulsory use of electronic fund transfers"
 usc_title: 15
 usc_section: "1693k"
 chapter: 41
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "15 U.S.C. § 1693k"
-generated_at: "2026-03-29T23:11:14.745Z"
+generated_at: "2026-03-29T23:17:00.578Z"
 ---
 
 # § 1693k. Compulsory use of electronic fund transfers

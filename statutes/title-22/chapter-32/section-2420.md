@@ -3,9 +3,9 @@ title: "Section 2420 - Police training prohibition"
 usc_title: 22
 usc_section: "2420"
 chapter: 32
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "22 U.S.C. § 2420"
-generated_at: "2026-03-29T23:11:48.708Z"
+generated_at: "2026-03-29T23:17:35.026Z"
 ---
 
 # § 2420. Police training prohibition

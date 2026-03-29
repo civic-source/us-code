@@ -3,9 +3,9 @@ title: "Section 2670 - Repealed. Pub. L. 94–103, title III, § 302(c) , Oct. 4
 usc_title: 42
 usc_section: "2670"
 chapter: 33
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 2670"
-generated_at: "2026-03-29T23:14:43.815Z"
+generated_at: "2026-03-29T23:18:45.693Z"
 ---
 
 # § 2670. Repealed. Pub. L. 94–103, title III, § 302(c) , Oct. 4, 1975 , 89 Stat. 507

@@ -3,9 +3,9 @@ title: "Section 1965 - Maintenance of security systems for Capitol buildings and
 usc_title: 2
 usc_section: "1965"
 chapter: 29
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "2 U.S.C. § 1965"
-generated_at: "2026-03-29T23:10:28.120Z"
+generated_at: "2026-03-29T23:15:59.504Z"
 ---
 
 # § 1965. Maintenance of security systems for Capitol buildings and grounds

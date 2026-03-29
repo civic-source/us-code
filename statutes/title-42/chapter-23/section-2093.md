@@ -3,9 +3,9 @@ title: "Section 2093 - Domestic distribution of source material"
 usc_title: 42
 usc_section: "2093"
 chapter: 23
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 2093"
-generated_at: "2026-03-29T23:14:43.795Z"
+generated_at: "2026-03-29T23:18:45.677Z"
 ---
 
 # § 2093. Domestic distribution of source material

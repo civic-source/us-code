@@ -3,9 +3,9 @@ title: "Section 2313 - Retention beyond term of enlistment in case of disability
 usc_title: 14
 usc_section: "2313"
 chapter: 23
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "14 U.S.C. § 2313"
-generated_at: "2026-03-29T23:11:03.320Z"
+generated_at: "2026-03-29T23:16:27.879Z"
 ---
 
 # § 2313. Retention beyond term of enlistment in case of disability

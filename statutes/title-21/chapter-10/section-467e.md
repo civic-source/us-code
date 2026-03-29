@@ -3,9 +3,9 @@ title: "Section 467e - Non-Federal jurisdiction of federally regulated matters; 
 usc_title: 21
 usc_section: "467e"
 chapter: 10
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "21 U.S.C. § 467e"
-generated_at: "2026-03-29T23:12:02.220Z"
+generated_at: "2026-03-29T23:17:28.780Z"
 ---
 
 # § 467e. Non-Federal jurisdiction of federally regulated matters; prohibition of additional or different requirements for establishments with inspection services and as to marking, labeling, packaging, and ingredients; recordkeeping and related requirements; concurrent jurisdiction over distribution for human food purposes of adulterated or misbranded and imported articles; other matters

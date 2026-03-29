@@ -3,9 +3,9 @@ title: "Section 7306 - Office of the Under Secretary for Health"
 usc_title: 38
 usc_section: "7306"
 chapter: 73
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "38 U.S.C. § 7306"
-generated_at: "2026-03-29T23:13:58.929Z"
+generated_at: "2026-03-29T23:18:08.761Z"
 ---
 
 # § 7306. Office of the Under Secretary for Health
@@ -24,8 +24,8 @@ generated_at: "2026-03-29T23:13:58.929Z"
     - **(B)** be a qualified physician assistant; and
     - **(C)** be responsible and report directly to the Chief Patient Care Services Officer of the Veterans Health Administration on all matters relating to the education and training, employment, appropriate use, and optimal participation of physician assistants within the programs and initiatives of the Administration.
   - **(10)** A Podiatric Medical Director, who shall be a qualified doctor of podiatric medicine and who shall be responsible to the Under Secretary for Health for the operation of the Podiatric Service.
-  - **(11)** 1 1 So in original. There are two pars. (11). The Chief Officer of Women’s Health.
-  - **(11)** Such other personnel as may be authorized by this chapter.
+  - **(11)** The Chief Officer of Women’s Health.
+  - **(12)** Such other personnel as may be authorized by this chapter.
 - **(b)** Of the Assistant Under Secretaries for Health appointed under subsection (a)(3)—
   - **(1)** not more than two may be persons qualified in the administration of health services who are not doctors of medicine, podiatric medicine, dental surgery, or dental medicines;
   - **(2)** one shall be a qualified doctor of dental surgery or dental medicine who shall be directly responsible to the Under Secretary for Health for the operation of the Dental Service; and
@@ -43,3 +43,4 @@ generated_at: "2026-03-29T23:13:58.929Z"
     - **(A)** unique programs operated by the Administration to provide for the specialized treatment and rehabilitation of disabled veterans (including blind rehabilitation, care of spinal cord dysfunction, mental illness, and long-term care); and
     - **(B)** the programs established under section 1712A of this title ; and
   - **(2)** with respect to the programs established under section 1712A of this title , a clinician with appropriate expertise in those programs is responsible to the Under Secretary for the management of those programs.
+- **(g)** For purposes of applying any provision of chapter 74 of this title, including sections 7404, 7410, and 7421, or any other provision of law, the Secretary may treat any appointment for a position under this chapter to be an appointment under this section.

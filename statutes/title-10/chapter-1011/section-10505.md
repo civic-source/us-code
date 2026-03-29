@@ -3,9 +3,9 @@ title: "Section 10505 - Vice Chief of the National Guard Bureau"
 usc_title: 10
 usc_section: "10505"
 chapter: 1011
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 10505"
-generated_at: "2026-03-29T23:10:50.205Z"
+generated_at: "2026-03-29T23:16:24.381Z"
 ---
 
 # § 10505. Vice Chief of the National Guard Bureau

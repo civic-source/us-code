@@ -3,9 +3,9 @@ title: "Section 7278a - Availability of funds for energy and water development f
 usc_title: 42
 usc_section: "7278a"
 chapter: 84
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 7278a"
-generated_at: "2026-03-29T23:14:43.944Z"
+generated_at: "2026-03-29T23:18:45.801Z"
 ---
 
 # § 7278a. Availability of funds for energy and water development for multiyear contracts, grants, or cooperative agreements of $1,000,000 or less

@@ -3,9 +3,9 @@ title: "Section 505 - Remedies for infringement: Costs and attorney’s fees"
 usc_title: 17
 usc_section: "505"
 chapter: 5
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "17 U.S.C. § 505"
-generated_at: "2026-03-29T23:11:19.860Z"
+generated_at: "2026-03-29T23:17:05.644Z"
 ---
 
 # § 505. Remedies for infringement: Costs and attorney’s fees

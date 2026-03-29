@@ -3,9 +3,9 @@ title: "Section 1044f - Policies with respect to special trial counsel"
 usc_title: 10
 usc_section: "1044f"
 chapter: 53
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 1044f"
-generated_at: "2026-03-29T23:10:50.084Z"
+generated_at: "2026-03-29T23:16:24.257Z"
 ---
 
 # § 1044f. Policies with respect to special trial counsel

@@ -3,9 +3,9 @@ title: "Section 1870 - General authority of Foundation"
 usc_title: 42
 usc_section: "1870"
 chapter: 16
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 1870"
-generated_at: "2026-03-29T23:14:43.775Z"
+generated_at: "2026-03-29T23:18:45.658Z"
 ---
 
 # § 1870. General authority of Foundation
@@ -21,5 +21,6 @@ The Foundation shall have the authority, within the limits of available appropri
 - **(g)** to publish or arrange for the publication of scientific and engineering information so as to further the full dissemination of information of scientific or engineering value consistent with the national interest, without regard to the provisions of section 501 of title 44 ;
 - **(h)** to accept and utilize the services of voluntary and uncompensated personnel and to provide transportation and subsistence as authorized by section 5703 of title 5 for persons serving without compensation;
 - **(i)** to prescribe, with the approval of the Comptroller General of the United States, the extent to which vouchers for funds expended under contracts for scientific or engineering research shall be subject to itemization or substantiation prior to payment, without regard to the limitations of other laws relating to the expenditure of public funds and accounting therefor;
-- **(j)** to arrange with and reimburse the heads of other Federal agencies for the performance of any activity which the Foundation is authorized to conduct; and
-- **(k)** during the 5-year period beginning on August 21, 1986 , to indemnify grantees, contractors, and subcontractors associated with the Ocean Drilling Program under the provisions of section 2354 1 1 See References in Text note below. of title 10 with all approvals and certifications required by such indemnification made by the Director.
+- **(j)** to arrange with and reimburse the heads of other Federal agencies for the performance of any activity which the Foundation is authorized to conduct;
+- **(k)** during the 5-year period beginning on August 21, 1986 , to indemnify grantees, contractors, and subcontractors associated with the Ocean Drilling Program under the provisions of section 2354 1 1 See References in Text note below. of title 10 with all approvals and certifications required by such indemnification made by the Director; and
+- **(l)** to provide for the widest practicable and appropriate dissemination of information within the United States concerning the Foundation’s activities and the results of those activities.

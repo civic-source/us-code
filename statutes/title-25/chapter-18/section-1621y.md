@@ -3,9 +3,9 @@ title: "Section 1621y - Contract health service administration and disbursement 
 usc_title: 25
 usc_section: "1621y"
 chapter: 18
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "25 U.S.C. § 1621y"
-generated_at: "2026-03-29T23:12:03.141Z"
+generated_at: "2026-03-29T23:17:32.006Z"
 ---
 
 # § 1621y. Contract health service administration and disbursement formula

@@ -3,9 +3,9 @@ title: "Section 618n - Wages of employees"
 usc_title: 43
 usc_section: "618n"
 chapter: 12
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "43 U.S.C. § 618n"
-generated_at: "2026-03-29T23:14:14.556Z"
+generated_at: "2026-03-29T23:18:11.511Z"
 ---
 
 # § 618n. Wages of employees

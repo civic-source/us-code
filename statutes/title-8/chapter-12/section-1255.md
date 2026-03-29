@@ -3,9 +3,9 @@ title: "Section 1255 - Adjustment of status of nonimmigrant to that of person ad
 usc_title: 8
 usc_section: "1255"
 chapter: 12
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "8 U.S.C. § 1255"
-generated_at: "2026-03-29T23:10:40.813Z"
+generated_at: "2026-03-29T23:16:19.880Z"
 ---
 
 # § 1255. Adjustment of status of nonimmigrant to that of person admitted for permanent residence

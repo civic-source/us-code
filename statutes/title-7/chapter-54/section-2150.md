@@ -3,9 +3,9 @@ title: "Section 2150 - Repealed. Pub. L. 94–279, § 14 , Apr. 22, 1976 , 90 St
 usc_title: 7
 usc_section: "2150"
 chapter: 54
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "7 U.S.C. § 2150"
-generated_at: "2026-03-29T23:10:44.414Z"
+generated_at: "2026-03-29T23:16:17.036Z"
 ---
 
 # § 2150. Repealed. Pub. L. 94–279, § 14 , Apr. 22, 1976 , 90 Stat. 421

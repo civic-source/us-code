@@ -3,9 +3,9 @@ title: "Section 36B - Refundable credit for coverage under a qualified health pl
 usc_title: 26
 usc_section: "36B"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 36B"
-generated_at: "2026-03-29T23:12:49.284Z"
+generated_at: "2026-03-29T23:17:50.158Z"
 ---
 
 # § 36B. Refundable credit for coverage under a qualified health plan
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T23:12:49.284Z"
         - **(I)** Subject to subclause (II), in the case of taxable years beginning in any calendar year after 2014, the initial and final applicable percentages under clause (i) (as in effect for the preceding calendar year after application of this clause) shall be adjusted to reflect the excess of the rate of premium growth for the preceding calendar year over the rate of income growth for the preceding calendar year.
         - **(II)** Except as provided in subclause (III), in the case of any calendar year after 2018, the percentages described in subclause (I) shall, in addition to the adjustment under subclause (I), be adjusted to reflect the excess (if any) of the rate of premium growth estimated under subclause (I) for the preceding calendar year over the rate of growth in the consumer price index for the preceding calendar year.
         - **(III)** Subclause (II) shall apply for any calendar year only if the aggregate amount of premium tax credits under this section and cost-sharing reductions under section 1402 of the Patient Protection and Affordable Care Act for the preceding calendar year exceeds an amount equal to 0.504 percent of the gross domestic product for the preceding calendar year.
-      - **(iii)** In the case of a taxable year beginning in 2021 or 2022—
+      - **(iii)** In the case of a taxable year beginning after December 31, 2020 , and before January 1, 2026 —
         - **(I)** clause (ii) shall not apply for purposes of adjusting premium percentages under this subparagraph, and
         - **(II)** the following table shall be applied in lieu of the table contained in clause (i): In the case of household income (expressed as a percent of poverty line) within the following income tier: The initial premium percentage is— The final premium percentage is— Up to 150.0 percent 0.0 0.0 150.0 percent up to 200.0 percent 0.0 2.0 200.0 percent up to 250.0 percent 2.0 4.0 250.0 percent up to 300.0 percent 4.0 6.0 300.0 percent up to 400.0 percent 6.0 8.5 400.0 percent and higher 8.5 8.5
     - **(B)** The applicable second lowest cost silver plan with respect to any applicable taxpayer is the second lowest cost silver plan of the individual market in the rating area in which the taxpayer resides which—
@@ -46,7 +46,7 @@ generated_at: "2026-03-29T23:12:49.284Z"
       - **(ii)** the taxpayer is an alien lawfully present in the United States, but is not eligible for the medicaid program under title XIX of the Social Security Act by reason of such alien status,
     - **(C)** If the taxpayer is married (within the meaning of section 7703) at the close of the taxable year, the taxpayer shall be treated as an applicable taxpayer only if the taxpayer and the taxpayer’s spouse file a joint return for the taxable year.
     - **(D)** No credit shall be allowed under this section to any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual’s taxable year begins.
-    - **(E)** In the case of a taxable year beginning in 2021 or 2022, subparagraph (A) shall be applied without regard to “but does not exceed 400 percent”.
+    - **(E)** In the case of a taxable year beginning after December 31, 2020 , and before January 1, 2026 , subparagraph (A) shall be applied without regard to “but does not exceed 400 percent”.
   - **(2)** For purposes of this subsection—
     - **(A)** The term “coverage month” means, with respect to an applicable taxpayer, any month if—
       - **(i)** as of the first day of such month the taxpayer, the taxpayer’s spouse, or any dependent of the taxpayer is covered by a qualified health plan described in subsection (b)(2)(A) that was enrolled in through an Exchange established by the State under section 1311 of the Patient Protection and Affordable Care Act, and

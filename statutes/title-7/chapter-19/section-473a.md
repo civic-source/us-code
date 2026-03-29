@@ -3,9 +3,9 @@ title: "Section 473a - Cotton classification services"
 usc_title: 7
 usc_section: "473a"
 chapter: 19
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "7 U.S.C. § 473a"
-generated_at: "2026-03-29T23:10:44.336Z"
+generated_at: "2026-03-29T23:16:16.956Z"
 ---
 
 # § 473a. Cotton classification services

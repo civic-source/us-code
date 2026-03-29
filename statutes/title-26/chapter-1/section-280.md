@@ -3,9 +3,9 @@ title: "Section 280 - Repealed. Pub. L. 99–514, title VIII, § 803(b)(2)(A) , 
 usc_title: 26
 usc_section: "280"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 280"
-generated_at: "2026-03-29T23:12:49.336Z"
+generated_at: "2026-03-29T23:17:50.218Z"
 ---
 
 # [§ 280. Repealed. Pub. L. 99–514, title VIII, § 803(b)(2)(A) , Oct. 22, 1986 , 100 Stat. 2355 ]

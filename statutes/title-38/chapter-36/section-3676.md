@@ -3,9 +3,9 @@ title: "Section 3676 - Approval of nonaccredited courses"
 usc_title: 38
 usc_section: "3676"
 chapter: 36
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "38 U.S.C. § 3676"
-generated_at: "2026-03-29T23:13:58.911Z"
+generated_at: "2026-03-29T23:18:08.742Z"
 ---
 
 # § 3676. Approval of nonaccredited courses
@@ -37,7 +37,7 @@ generated_at: "2026-03-29T23:13:58.911Z"
   - **(10)** The institution, and any entity that owns the institution, does not engage in substantial misrepresentation described in section 3696(e) 1 1 See References in Text note below. of this title. The institution shall not be deemed to have met this requirement until the State approving agency—
     - **(A)** has ascertained that no Federal department or agency has taken a punitive action, not including a settlement agreement, against the school for misleading or deceptive practices;
     - **(B)** has, if such an order has been issued, given due weight to that fact; and
-    - **(C)** has reviewed the complete record of advertising, sales, or enrollment materials (and copies thereof) used by or on behalf of the institution during the preceding 12-month period.”; and
+    - **(C)** has reviewed the complete record of advertising, sales, or enrollment materials (and copies thereof) used by or on behalf of the institution during the preceding 12-month period.
   - **(11)** The institution does not exceed its enrollment limitations as established by the State approving agency.
   - **(12)** The institution’s administrators, directors, owners, and instructors are of good reputation and character.
   - **(13)** The institution has and maintains a policy for the refund of the unused portion of tuition, fees, and other charges in the event the eligible person fails to enter the course or withdraws or is discontinued therefrom at any time before completion and—

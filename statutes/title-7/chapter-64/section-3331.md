@@ -3,9 +3,9 @@ title: "Section 3331 - Congressional statement of purpose"
 usc_title: 7
 usc_section: "3331"
 chapter: 64
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "7 U.S.C. § 3331"
-generated_at: "2026-03-29T23:10:44.434Z"
+generated_at: "2026-03-29T23:16:17.057Z"
 ---
 
 # § 3331. Congressional statement of purpose

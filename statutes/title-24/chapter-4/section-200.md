@@ -3,9 +3,9 @@ title: "Section 200 - Repealed. Pub. L. 98–621, § 10(k)(2) , Nov. 8, 1984 , 9
 usc_title: 24
 usc_section: "200"
 chapter: 4
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "24 U.S.C. § 200"
-generated_at: "2026-03-29T23:11:45.659Z"
+generated_at: "2026-03-29T23:17:26.147Z"
 ---
 
 # §§ 199, 200. Repealed. Pub. L. 98–621, § 10(k)(2) , Nov. 8, 1984 , 98 Stat. 3380

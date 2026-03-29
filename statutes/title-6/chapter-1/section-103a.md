@@ -3,9 +3,9 @@ title: "Section 103a - Department of Homeland Security Nonrecurring Expenses Fun
 usc_title: 6
 usc_section: "103a"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "6 U.S.C. § 103a"
-generated_at: "2026-03-29T23:10:59.543Z"
+generated_at: "2026-03-29T23:16:24.925Z"
 ---
 
 # § 103a. Department of Homeland Security Nonrecurring Expenses Fund

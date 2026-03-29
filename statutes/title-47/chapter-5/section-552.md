@@ -3,9 +3,9 @@ title: "Section 552 - Consumer protection and customer service"
 usc_title: 47
 usc_section: "552"
 chapter: 5
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "47 U.S.C. § 552"
-generated_at: "2026-03-29T23:15:01.793Z"
+generated_at: "2026-03-29T23:18:49.662Z"
 ---
 
 # § 552. Consumer protection and customer service

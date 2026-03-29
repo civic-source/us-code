@@ -3,9 +3,9 @@ title: "Section 645 - Adjustments"
 usc_title: 2
 usc_section: "645"
 chapter: 17
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "2 U.S.C. § 645"
-generated_at: "2026-03-29T23:10:28.102Z"
+generated_at: "2026-03-29T23:15:59.486Z"
 ---
 
 # § 645. Adjustments

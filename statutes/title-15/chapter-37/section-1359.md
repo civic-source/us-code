@@ -3,9 +3,9 @@ title: "Section 1359 - Advisory councils for technical services; appointment; fu
 usc_title: 15
 usc_section: "1359"
 chapter: 37
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "15 U.S.C. § 1359"
-generated_at: "2026-03-29T23:11:14.722Z"
+generated_at: "2026-03-29T23:17:00.553Z"
 ---
 
 # § 1359. Advisory councils for technical services; appointment; functions; compensation and expenses

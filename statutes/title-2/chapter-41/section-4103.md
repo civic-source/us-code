@@ -3,9 +3,9 @@ title: "Section 4103 - Contracts to furnish property, supplies, or services to C
 usc_title: 2
 usc_section: "4103"
 chapter: 41
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "2 U.S.C. § 4103"
-generated_at: "2026-03-29T23:10:28.126Z"
+generated_at: "2026-03-29T23:15:59.509Z"
 ---
 
 # § 4103. Contracts to furnish property, supplies, or services to Congress; terms varying from those offered other entities of Federal Government

@@ -3,9 +3,9 @@ title: "Section 46 - Amount of credit"
 usc_title: 26
 usc_section: "46"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 46"
-generated_at: "2026-03-29T23:12:49.297Z"
+generated_at: "2026-03-29T23:17:50.173Z"
 ---
 
 # § 46. Amount of credit
@@ -17,4 +17,4 @@ For purposes of section 38, the amount of the investment credit determined under
   - **(3)** the qualifying advanced coal project credit,
   - **(4)** the qualifying gasification project credit,
   - **(5)** the qualifying advanced energy project credit, and
-  - **(6)** the qualifying therapeutic discovery project credit.
+  - **(6)** the advanced manufacturing investment credit.

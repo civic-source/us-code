@@ -3,9 +3,9 @@ title: "Section 45Q - Credit for carbon oxide sequestration"
 usc_title: 26
 usc_section: "45Q"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 45Q"
-generated_at: "2026-03-29T23:12:49.294Z"
+generated_at: "2026-03-29T23:17:50.169Z"
 ---
 
 # § 45Q. Credit for carbon oxide sequestration
@@ -29,14 +29,20 @@ generated_at: "2026-03-29T23:12:49.294Z"
       - **(ii)** utilized by the taxpayer in a manner described in subsection (f)(5).
 - **(b)**
   - **(1)**
-    - **(A)** The applicable dollar amount shall be an amount equal to—
+    - **(A)** Except as provided in subparagraph (B) or (C), the applicable dollar amount shall be an amount equal to—
       - **(i)** for any taxable year beginning in a calendar year after 2016 and before 2027—
-        - **(I)** for purposes of paragraph (3) of subsection (a), the dollar amount established by linear interpolation between $22.66 and $50 for each calendar year during such period, and
-        - **(II)** for purposes of paragraph (4) of such subsection, the dollar amount established by linear interpolation between $12.83 and $35 for each calendar year during such period, and
+        - **(I)** for purposes of paragraph (3) of subsection (a), $17, and
+        - **(II)** for purposes of paragraph (4) of such subsection, $12, and
       - **(ii)** for any taxable year beginning in a calendar year after 2026—
-        - **(I)** for purposes of paragraph (3) of subsection (a), an amount equal to the product of $50 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2025” for “1990”, and
-        - **(II)** for purposes of paragraph (4) of such subsection, an amount equal to the product of $35 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2025” for “1990”.
-    - **(B)** The applicable dollar amount determined under subparagraph (A) shall be rounded to the nearest cent.
+        - **(I)** for purposes of paragraph (3) of subsection (a), an amount equal to the product of $17 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2025” for “1990”, and
+        - **(II)** for purposes of paragraph (4) of such subsection, an amount equal to the product of $12 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2025” for “1990”.
+    - **(B)** In the case of any qualified facility described in subsection (d)(2)(A) which is placed in service after December 31, 2022 , the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined with respect to such qualified facility under subparagraph (A), except that such subparagraph shall be applied—
+      - **(i)** by substituting “$36” for “$17” each place it appears, and
+      - **(ii)** by substituting “$26” for “$12” each place it appears.
+    - **(C)** In the case of any qualified facility which is placed in service before January 1, 2023 , if any additional carbon capture equipment is installed at such facility and such equipment is placed in service after December 31, 2022 , the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined under this paragraph, except that subparagraph (B) shall be applied—
+      - **(i)** by substituting “before January 1, 2023 ” for “after December 31, 2022 ”, and
+      - **(ii)** by substituting “the additional carbon capture equipment installed at such qualified facility” for “such qualified facility”.
+    - **(D)** The applicable dollar amount determined under subparagraph (A), (B), or (C) shall be rounded to the nearest cent.
   - **(2)** In the case of a qualified facility placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, for which additional carbon capture equipment is placed in service on or after the date of the enactment of such Act, the amount of qualified carbon oxide which is captured by the taxpayer shall be equal to—
     - **(A)** for purposes of paragraphs (1)(A) and (2)(A) of subsection (a), the lesser of—
       - **(i)** the total amount of qualified carbon oxide captured at such facility for the taxable year, or
@@ -60,21 +66,33 @@ generated_at: "2026-03-29T23:12:49.294Z"
       - **(ii)** is measured at the source of capture and verified at the point of disposal, injection, or utilization.
   - **(2)** The term “qualified carbon oxide” includes the initial deposit of captured carbon oxide used as a tertiary injectant. Such term does not include carbon oxide that is recaptured, recycled, and re-injected as part of the enhanced oil and natural gas recovery process.
 - **(d)** For purposes of this section, the term “qualified facility” means any industrial facility or direct air capture facility—
-  - **(1)** the construction of which begins before January 1, 2026 , and—
+  - **(1)** the construction of which begins before January 1, 2033 , and either—
     - **(A)** construction of carbon capture equipment begins before such date, or
     - **(B)** the original planning and design for such facility includes installation of carbon capture equipment, and
-  - **(2)** which captures—
-    - **(A)** in the case of a facility which emits not more than 500,000 metric tons of carbon oxide into the atmosphere during the taxable year, not less than 25,000 metric tons of qualified carbon oxide during the taxable year which is utilized in a manner described in subsection (f)(5),
-    - **(B)** in the case of an electricity generating facility which is not described in subparagraph (A), not less than 500,000 metric tons of qualified carbon oxide during the taxable year, or
-    - **(C)** in the case of a direct air capture facility or any facility not described in subparagraph (A) or (B), not less than 100,000 metric tons of qualified carbon oxide during the taxable year.
+  - **(2)** which—
+    - **(A)** in the case of a direct air capture facility, captures not less than 1,000 metric tons of qualified carbon oxide during the taxable year,
+    - **(B)** in the case of an electricity generating facility—
+      - **(i)** captures not less than 18,750 metric tons of qualified carbon oxide during the taxable year, and
+      - **(ii)** with respect to any carbon capture equipment for the applicable electric generating unit at such facility, has a capture design capacity of not less than 75 percent of the baseline carbon oxide production of such unit, or
+    - **(C)** in the case of any other facility, captures not less than 12,500 metric tons of qualified carbon oxide during the taxable year.
 - **(e)** For purposes of this section—
-  - **(1)**
+  - **(1)** The term “applicable electric generating unit” means the principal electric generating unit for which the carbon capture equipment is originally planned and designed.
+  - **(2)**
+    - **(A)** The term “baseline carbon oxide production” means either of the following:
+      - **(i)** In the case of an applicable electric generating unit which was originally placed in service more than 1 year prior to the date on which construction of the carbon capture equipment begins, the average annual carbon oxide production, by mass, from such unit during—
+        - **(I)** in the case of an applicable electric generating unit which was originally placed in service more than 1 year prior to the date on which construction of the carbon capture equipment begins and on or after the date which is 3 years prior to the date on which construction of such equipment begins, the period beginning on the date such unit was placed in service and ending on the date on which construction of such equipment began, and
+        - **(II)** in the case of an applicable electric generating unit which was originally placed in service more than 3 years prior to the date on which construction of the carbon capture equipment begins, the 3 years with the highest annual carbon oxide production during the 12-year period preceding the date on which construction of such equipment began.
+      - **(ii)** In the case of an applicable electric generating unit which—
+        - **(I)** as of the date on which construction of the carbon capture equipment begins, is not yet placed in service, or
+        - **(II)** was placed in service during the 1-year period prior to the date on which construction of the carbon capture equipment begins,
+    - **(B)** The term “capacity factor” means the ratio (expressed as a percentage) of the actual electric output from the applicable electric generating unit to the potential electric output from such unit.
+  - **(3)**
     - **(A)** Subject to subparagraph (B), the term “direct air capture facility” means any facility which uses carbon capture equipment to capture carbon dioxide directly from the ambient air.
     - **(B)** The term “direct air capture facility” shall not include any facility which captures carbon dioxide—
       - **(i)** which is deliberately released from naturally occurring subsurface springs, or
       - **(ii)** using natural photosynthesis.
-  - **(2)** The term “qualified enhanced oil or natural gas recovery project” has the meaning given the term “qualified enhanced oil recovery project” by section 43(c)(2), by substituting “crude oil or natural gas” for “crude oil” in subparagraph (A)(i) thereof.
-  - **(3)** The term “tertiary injectant” has the same meaning as when used within section 193(b)(1).
+  - **(4)** The term “qualified enhanced oil or natural gas recovery project” has the meaning given the term “qualified enhanced oil recovery project” by section 43(c)(2), by substituting “crude oil or natural gas” for “crude oil” in subparagraph (A)(i) thereof.
+  - **(5)** The term “tertiary injectant” has the same meaning as when used within section 193(b)(1).
 - **(f)**
   - **(1)** The credit under this section shall apply only with respect to qualified carbon oxide the capture and disposal, use, or utilization of which is within—
     - **(A)** the United States (within the meaning of section 638(1)), or
@@ -106,12 +124,32 @@ generated_at: "2026-03-29T23:12:49.294Z"
   - **(7)** In the case of any taxable year beginning in a calendar year after 2009, there shall be substituted for each dollar amount contained in paragraphs (1) and (2) of subsection (a) an amount equal to the product of—
     - **(A)** such dollar amount, multiplied by
     - **(B)** the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2008” for “1990”.
-  - **(3)** The amount of the credit determined under subsection (a) with respect to any project for any taxable year shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of ½ or a fraction—
-    - **(A)** the numerator of which is the sum, for the taxable year and all prior taxable years, of the proceeds from an issue described in section 142(a)(17) used to provide financing for the project the interest on which is exempt from tax under section 103, and
-    - **(B)** the denominator of which is the aggregate amount of additions to the capital account for the project for the taxable year and all prior taxable years.
-- **(g)** In the case of any carbon capture equipment placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, the credit under this section shall apply with respect to qualified carbon oxide captured using such equipment before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that, during the period beginning after October 3, 2008 , a total of 75,000,000 metric tons of qualified carbon oxide have been taken into account in accordance with—
+  - **(8)** Rules similar to the rule under section 45(b)(3) shall apply for purposes of this section.
+  - **(9)** For purposes of paragraphs (3) and (4) of subsection (a), a person described in paragraph (3)(A)(ii) may elect, at such time and in such manner as the Secretary may prescribe, to have the 12–year period begin on the first day of the first taxable year in which a credit under this section is claimed with respect to carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018 (after application of paragraph (6), where applicable) if—
+    - **(A)** no taxpayer claimed a credit under this section with respect to such carbon capture equipment for any prior taxable year,
+    - **(B)** the qualified facility at which such carbon capture equipment is placed in service is located in an area affected by a federally-declared disaster (as defined by section 165(i)(5)(A)) after the carbon capture equipment is originally placed in service, and
+    - **(C)** such federally-declared disaster results in a cessation of the operation of the qualified facility or the carbon capture equipment after such equipment is originally placed in service.
+- **(g)** In the case of any carbon capture equipment placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, the credit under this section shall apply with respect to qualified carbon oxide captured using such equipment before the earlier of January 1, 2023 , and the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that, during the period beginning after October 3, 2008 , a total of 75,000,000 metric tons of qualified carbon oxide have been taken into account in accordance with—
   - **(1)** subsection (a) of this section, as in effect on the day before the date of the enactment of the Bipartisan Budget Act of 2018, and
   - **(2)** paragraphs (1) and (2) of subsection (a) of this section.
-- **(h)** The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, including regulations or other guidance to—
-  - **(1)** ensure proper allocation under subsection (a) for qualified carbon oxide captured by a taxpayer during the taxable year ending after the date of the enactment of the Bipartisan Budget Act of 2018, and
-  - **(2)** determine whether a facility satisfies the requirements under subsection (d)(1) during such taxable year.
+- **(h)**
+  - **(1)** In the case of any qualified facility or any carbon capture equipment which satisfy the requirements of paragraph (2), the amount of the credit determined under subsection (a) shall be equal to such amount (determined without regard to this sentence) multiplied by 5.
+  - **(2)** The requirements described in this paragraph are that—
+    - **(A)** with respect to any qualified facility the construction of which begins on or after the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), as well as any carbon capture equipment placed in service at such facility—
+      - **(i)** subject to subparagraph (B) of paragraph (3), the taxpayer satisfies the requirements under subparagraph (A) of such paragraph with respect to such facility and equipment, and
+      - **(ii)** the taxpayer satisfies the requirements under paragraph (4) with respect to the construction of such facility and equipment,
+    - **(B)** with respect to any carbon capture equipment the construction of which begins on or after the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), and which is installed at a qualified facility the construction of which began prior to such date—
+      - **(i)** subject to subparagraph (B) of paragraph (3), the taxpayer satisfies the requirements under subparagraph (A) of such paragraph with respect to such equipment, and
+      - **(ii)** the taxpayer satisfies the requirements under paragraph (4) with respect to the construction of such equipment, or
+    - **(C)** the construction of carbon capture equipment begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), and such equipment is installed at a qualified facility the construction of which begins prior to such date.
+  - **(3)**
+    - **(A)** The requirements described in this subparagraph with respect to any qualified facility and any carbon capture equipment placed in service at such facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in—
+      - **(i)** the construction of such facility or equipment, and
+      - **(ii)** with respect to any taxable year, for any portion of such taxable year which is within the period described in paragraph (3)(A) or (4)(A) of subsection (a), the alteration or repair of such facility or such equipment,
+    - **(B)** Rules similar to the rules of section 45(b)(7)(B) shall apply.
+  - **(4)** Rules similar to the rules of section 45(b)(8) shall apply.
+  - **(5)** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+- **(i)** The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, including regulations or other guidance to—
+  - **(1)** ensure proper allocation under subsection (a) for qualified carbon oxide captured by a taxpayer during the taxable year ending after the date of the enactment of the Bipartisan Budget Act of 2018,
+  - **(2)** determine whether a facility satisfies the requirements under subsection (d)(1) during such taxable year, and
+  - **(3)** for purposes of subsection (d)(2)(B)(ii), adjust the baseline carbon oxide production with respect to any applicable electric generating unit at any electricity generating facility if, after the date on which the carbon capture equipment is placed in service, modifications which are chargeable to capital account are made to such unit which result in a significant increase or decrease in carbon oxide production.

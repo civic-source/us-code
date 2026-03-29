@@ -3,9 +3,9 @@ title: "Section 7121 - Grievance procedures"
 usc_title: 5
 usc_section: "7121"
 chapter: 71
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "5 U.S.C. § 7121"
-generated_at: "2026-03-29T23:10:37.428Z"
+generated_at: "2026-03-29T23:16:00.924Z"
 ---
 
 # § 7121. Grievance procedures

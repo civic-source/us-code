@@ -1,0 +1,29 @@
+---
+title: "Section 7437 - Greenhouse gas air pollution plans and implementation grants"
+usc_title: 42
+usc_section: "7437"
+chapter: 85
+current_through: "PL 117-174"
+classification: "42 U.S.C. § 7437"
+generated_at: "2026-03-29T23:18:45.814Z"
+---
+
+# § 7437. Greenhouse gas air pollution plans and implementation grants
+
+- **(a)**
+  - **(1)** In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any amounts in the Treasury not otherwise appropriated, $250,000,000, to remain available until September 30, 2031 , to carry out subsection (b).
+  - **(2)** In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any amounts in the Treasury not otherwise appropriated, $4,750,000,000, to remain available until September 30, 2026 , to carry out subsection (c).
+  - **(3)** Of the funds made available under paragraph (2), the Administrator shall reserve 3 percent for administrative costs necessary to carry out this section, to provide technical assistance to eligible entities, to develop a plan that could be used as a model by grantees in developing a plan under subsection (b), and to model the effects of plans described in this section.
+- **(b)** The Administrator shall make a grant to at least one eligible entity in each State for the costs of developing a plan for the reduction of greenhouse gas air pollution to be submitted with an application for a grant under subsection (c). Each such plan shall include programs, policies, measures, and projects that will achieve or facilitate the reduction of greenhouse gas air pollution. Not later than 270 days after August 16, 2022 , the Administrator shall publish a funding opportunity announcement for grants under this subsection.
+- **(c)**
+  - **(1)** The Administrator shall competitively award grants to eligible entities to implement plans developed under subsection (b).
+  - **(2)** To apply for a grant under this subsection, an eligible entity shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator shall require, which such application shall include information regarding the degree to which greenhouse gas air pollution is projected to be reduced in total and with respect to low-income and disadvantaged communities.
+  - **(3)** The Administrator shall make funds available to a grantee under this subsection in such amounts, upon such a schedule, and subject to such conditions based on its performance in implementing its plan submitted under this section and in achieving projected greenhouse gas air pollution reduction, as determined by the Administrator.
+- **(d)** In this section:
+  - **(1)** The term “eligible entity” means—
+    - **(A)** a State;
+    - **(B)** an air pollution control agency;
+    - **(C)** a municipality;
+    - **(D)** an Indian tribe; and
+    - **(E)** a group of one or more entities listed in subparagraphs (A) through (D).
+  - **(2)** The term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.

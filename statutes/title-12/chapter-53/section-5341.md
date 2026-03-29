@@ -3,9 +3,9 @@ title: "Section 5341 - Definitions"
 usc_title: 12
 usc_section: "5341"
 chapter: 53
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "12 U.S.C. § 5341"
-generated_at: "2026-03-29T23:11:11.953Z"
+generated_at: "2026-03-29T23:16:31.081Z"
 ---
 
 # § 5341. Definitions

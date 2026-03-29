@@ -3,9 +3,9 @@ title: "Section 4131 - House Recording Studio; Senate Recording Studio and Senat
 usc_title: 2
 usc_section: "4131"
 chapter: 41
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "2 U.S.C. § 4131"
-generated_at: "2026-03-29T23:10:28.126Z"
+generated_at: "2026-03-29T23:15:59.509Z"
 ---
 
 # § 4131. House Recording Studio; Senate Recording Studio and Senate Photographic Studio

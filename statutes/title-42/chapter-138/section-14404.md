@@ -3,9 +3,9 @@ title: "Section 14404 - Restriction on use of Federal funds by advocacy programs
 usc_title: 42
 usc_section: "14404"
 chapter: 138
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 14404"
-generated_at: "2026-03-29T23:14:44.189Z"
+generated_at: "2026-03-29T23:18:45.950Z"
 ---
 
 # § 14404. Restriction on use of Federal funds by advocacy programs

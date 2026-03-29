@@ -3,9 +3,9 @@ title: "Section 3105 - Sequestration"
 usc_title: 28
 usc_section: "3105"
 chapter: 176
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "28 U.S.C. § 3105"
-generated_at: "2026-03-29T23:12:06.454Z"
+generated_at: "2026-03-29T23:17:38.429Z"
 ---
 
 # § 3105. Sequestration

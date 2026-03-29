@@ -3,9 +3,9 @@ title: "Section 3553 - Authority and functions of the Director and the Secretary
 usc_title: 44
 usc_section: "3553"
 chapter: 35
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "44 U.S.C. § 3553"
-generated_at: "2026-03-29T23:14:23.345Z"
+generated_at: "2026-03-29T23:18:19.027Z"
 ---
 
 # § 3553. Authority and functions of the Director and the Secretary
@@ -51,11 +51,11 @@ generated_at: "2026-03-29T23:14:23.345Z"
   - **(2)** The systems described in this paragraph are systems that are operated by the Department of Defense, a contractor of the Department of Defense, or another entity on behalf of the Department of Defense that processes any information the unauthorized access, use, disclosure, disruption, modification, or destruction of which would have a debilitating impact on the mission of the Department of Defense.
   - **(3)** The systems described in this paragraph are systems that are operated by an element of the intelligence community, a contractor of an element of the intelligence community, or another entity on behalf of an element of the intelligence community that processes any information the unauthorized access, use, disclosure, disruption, modification, or destruction of which would have a debilitating impact on the mission of an element of the intelligence community.
 - **(f)**
-  - **(1)** In carrying out the responsibilities under subsection (b), the Secretary shall consider any applicable standards or guidelines developed by the National Institute of Standards and Technology and issued by the Secretary of Commerce under section 11331 of title 40 . 1 1 See References in Text note below.
+  - **(1)** In carrying out the responsibilities under subsection (b), the Secretary shall consider any applicable standards or guidelines developed by the National Institute of Standards and Technology and issued by the Secretary of Commerce under section 11331 of title 40 .
   - **(2)** The Secretary shall—
     - **(A)** consult with the Director of the National Institute of Standards and Technology regarding any binding operational directive that implements standards and guidelines developed by the National Institute of Standards and Technology; and
-    - **(B)** ensure that binding operational directives issued under subsection (b)(2) do not conflict with the standards and guidelines issued under section 11331 of title 40 . 1
-  - **(3)** Nothing in this subchapter shall be construed as authorizing the Secretary to direct the Secretary of Commerce in the development and promulgation of standards and guidelines under section 11331 of title 40 . 1
+    - **(B)** ensure that binding operational directives issued under subsection (b)(2) do not conflict with the standards and guidelines issued under section 11331 of title 40 .
+  - **(3)** Nothing in this subchapter shall be construed as authorizing the Secretary to direct the Secretary of Commerce in the development and promulgation of standards and guidelines under section 11331 of title 40 .
 - **(g)** To ensure fiscal and policy consistency, the Secretary shall exercise the authority under this section subject to direction by the President, in coordination with the Director.
 - **(h)**
   - **(1)**
@@ -76,7 +76,7 @@ generated_at: "2026-03-29T23:14:23.345Z"
     - **(G)** consider any applicable standards or guidelines developed by the National Institute of Standards and Technology issued by the Secretary of Commerce under section 11331 of title 40 ; and
     - **(H)** not later than February 1 of each year, submit to the appropriate congressional committees a report regarding the specific actions the Secretary has taken pursuant to paragraph (1)(A).
   - **(3)**
-    - **(A)** Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) 1 of the Homeland Security Act of 2002 for the purpose of ensuring the security of agency information systems, if—
+    - **(A)** Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) 1 1 See References in Text note below. of the Homeland Security Act of 2002 for the purpose of ensuring the security of agency information systems, if—
       - **(i)** the Secretary determines there is an imminent threat to agency information systems;
       - **(ii)** the Secretary determines a directive under subsection (b)(2)(C) or paragraph (1)(A) is not reasonably likely to result in a timely response to the threat;
       - **(iii)** the Secretary determines the risk posed by the imminent threat outweighs any adverse consequences reasonably expected to result from the use of the intrusion detection and prevention capabilities under the control of the Secretary;

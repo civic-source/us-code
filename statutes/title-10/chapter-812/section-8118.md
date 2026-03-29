@@ -3,9 +3,9 @@ title: "Section 8118 - Rank of line and staff corps officers of the Navy and off
 usc_title: 10
 usc_section: "8118"
 chapter: 812
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 8118"
-generated_at: "2026-03-29T23:10:50.183Z"
+generated_at: "2026-03-29T23:16:24.360Z"
 ---
 
 # § 8118. Rank of line and staff corps officers of the Navy and officers of the Marine Corps

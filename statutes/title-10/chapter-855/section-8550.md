@@ -3,9 +3,9 @@ title: "Section 8550 - Grants for faculty research for scientific, literary, and
 usc_title: 10
 usc_section: "8550"
 chapter: 855
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 8550"
-generated_at: "2026-03-29T23:10:50.188Z"
+generated_at: "2026-03-29T23:16:24.365Z"
 ---
 
 # § 8550. Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees

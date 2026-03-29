@@ -3,9 +3,9 @@ title: "Section 16274 - Nuclear science and engineering support"
 usc_title: 42
 usc_section: "16274"
 chapter: 149
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 16274"
-generated_at: "2026-03-29T23:14:44.225Z"
+generated_at: "2026-03-29T23:18:45.972Z"
 ---
 
 # § 16274. Nuclear science and engineering support
@@ -16,22 +16,59 @@ generated_at: "2026-03-29T23:14:44.225Z"
     - **(A)** conduct a graduate and undergraduate fellowship program to attract new and talented students, which may include fellowships for students to spend time at National Laboratories in the areas of nuclear science, engineering, and health physics with a member of the National Laboratory staff acting as a mentor;
     - **(B)** conduct a junior faculty research initiation grant program to assist universities in recruiting and retaining new faculty in the nuclear sciences and engineering by awarding grants to junior faculty for research on issues related to nuclear energy engineering and science;
     - **(C)** support fundamental nuclear sciences, engineering, and health physics research through a nuclear engineering education and research program;
-    - **(D)** encourage collaborative nuclear research among industry, National Laboratories, and universities; and
+    - **(D)** promote collaborations, partnerships, and knowledge sharing between institutions of higher education, National Laboratories, other Federal agencies, industry, and associated labor unions; and
     - **(E)** support communication and outreach related to nuclear science, engineering, and health physics.
   - **(3)** The Secretary shall conduct—
     - **(A)** a fellowship program for professors at universities to spend sabbaticals at National Laboratories in the areas of nuclear science and technology; and
     - **(B)** a visiting scientist program in which National Laboratory staff can spend time in academic nuclear science and engineering departments.
-  - **(4)** In carrying out the program under this subsection, the Secretary may support—
-    - **(A)** converting research reactors from high-enrichment fuels to low-enrichment fuels and upgrading operational instrumentation;
-    - **(B)** consortia of universities to broaden access to university research reactors;
-    - **(C)** student training programs, in collaboration with the United States nuclear industry, in relicensing and upgrading reactors, including through the provision of technical assistance; and
-    - **(D)** reactor improvements that emphasize research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.
+  - **(4)**
+    - **(A)** In carrying out the program under this subsection, the Secretary may support—
+      - **(i)** converting research reactors from high-enrichment fuels to low-enrichment fuels and upgrading operational instrumentation;
+      - **(ii)** revitalizing and upgrading existing nuclear science and engineering infrastructure that support the development of advanced nuclear technologies and applications;
+      - **(iii)** regional or subregional university-led consortia to—
+        - **(I)** broaden access to university research reactors;
+        - **(II)** enhance existing university-based nuclear science and engineering infrastructure; and
+        - **(III)** provide project management, technical support, quality engineering and inspections, manufacturing, and nuclear material support;
+      - **(iv)** student training programs, in collaboration with the United States nuclear industry, in relicensing and upgrading reactors, including through the provision of technical assistance; and
+      - **(v)** reactor improvements that emphasize research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.
+    - **(B)** Of any amounts appropriated to carry out the program under this subsection, there is authorized to be appropriated to the Secretary to carry out clauses (ii) and (iii) of subparagraph (A) $55,000,000 for each of fiscal years 2023 through 2027.
   - **(5)**
+    - **(A)** The Secretary shall carry out a subprogram to be known as the Advanced Nuclear Research Infrastructure Enhancement Subprogram in order to—
+      - **(i)** demonstrate various advanced nuclear reactor and nuclear microreactor concepts;
+      - **(ii)** establish medical isotope production reactors or other specialized applications; and
+      - **(iii)** advance other research infrastructure that, in the determination of the Secretary, is consistent with the mission of the Department.
+    - **(B)** In carrying out the subprogram, the Secretary shall establish—
+      - **(i)** not more than 4 new research reactors; and
+      - **(ii)** new nuclear science and engineering facilities, as required to address research demand and identified infrastructure gaps.
+    - **(C)** New research reactors and facilities established under subparagraph (B) shall be established in a manner that—
+      - **(i)** supports the regional or subregional consortia described in paragraph (4)(C); 1 1 So in original. Probably means “paragraph (4)(A)(iii)”. and
+      - **(ii)** encourages the participation of—
+        - **(I)** historically Black colleges and universities;
+        - **(II)** Tribal colleges or universities;
+        - **(III)** minority-serving institutions;
+        - **(IV)** EPSCoR universities; and
+        - **(V)** junior or community colleges.
+    - **(D)** New research reactors established under subparagraph (B) shall not use high-enriched uranium, as defined in section 16281 of this title .
+    - **(E)** Of any amounts appropriated to carry out the program under this section, there are authorized to be appropriated to the Secretary to carry out the subprogram under this paragraph—
+      - **(i)** $45,000,000 for fiscal year 2023;
+      - **(ii)** $60,000,000 for fiscal year 2024;
+      - **(iii)** $65,000,000 for fiscal year 2025;
+      - **(iv)** $80,000,000 for fiscal year 2026; and
+      - **(v)** $140,000,000 for fiscal year 2027.
+  - **(6)**
     - **(A)** The Secretary shall carry out a program under which the Secretary shall provide project management, technical support, quality engineering and inspection, and nuclear material handling support to research reactors located at universities.
     - **(B)** Of any amounts appropriated to carry out the program under this subsection, there are authorized to be appropriated to the Secretary to carry out the program under this paragraph $20,000,000 for each of fiscal years 2021 through 2025.
-  - **(6)** In carrying out the programs under this section, the Department shall, to the maximum extent practicable, allocate 20 percent of funds appropriated to nuclear energy research and development programs annually, excluding funds appropriated for the Advanced Reactor Demonstration Program of the Department, to fund university-led research and university infrastructure projects through an open, competitive solicitation process.
-  - **(7)** Funding for a project provided under this subsection may be used for a portion of the operating and maintenance costs of a research reactor at a university used in the project.
-  - **(8)** In this subsection, the term “junior faculty” means a faculty member who was awarded a doctorate less than 10 years before receipt of an award from the grant program described in paragraph (2)(B).
+  - **(7)** In carrying out the programs under this section, the Department shall, to the maximum extent practicable, allocate 20 percent of funds appropriated to nuclear energy research and development programs annually, excluding funds appropriated for the Advanced Reactor Demonstration Program of the Department, to fund university-led research and university infrastructure projects through an open, competitive solicitation process.
+  - **(8)** Funding for a project provided under this subsection may be used for a portion of the operating and maintenance costs of a research reactor at a university used in the project.
+  - **(9)** In this subsection:
+    - **(A)** The term “junior faculty” means a faculty member who was awarded a doctorate less than 10 years before receipt of an award from the grant program described in paragraph (2)(B).
+    - **(B)** The term “junior or community college” means—
+      - **(i)** a public institution of high education, including additional locations, at which the highest awarded degree, or the predominantly awarded degree, is an associate degree; or
+      - **(ii)** any Tribal college or university (as defined in section 1059c of title 20 ).
+    - **(C)** The term “EPSCoR university” means an institution of higher education located in a State eligible to participate in the program defined in section 502 of the America COMPETES Reauthorization Act of 2010 ( 42 U.S.C. 1862p note).
+    - **(D)** The term “historically Black college or university” has the meaning given the term “part B institution” in section 1061 of title 20 .
+    - **(E)** The term “minority-serving institution” means a Hispanic-serving institution, an Alaska Native-serving institution, a Native Hawaiian-serving institution, a Predominantly Black Institution, an Asian American and Native American Pacific Islander-serving institution, or a Native American-serving nontribal institution as described in section 1067q of title 20 .
+    - **(F)** The term “Tribal College or University” has the meaning given such term in section 1059c of title 20 .
 - **(b)**
   - **(1)** In carrying out the program under subsection (a), the Secretary shall establish a nuclear energy graduate traineeship subprogram under which the Secretary shall competitively award graduate traineeships in coordination with universities to provide focused, advanced training to meet critical mission needs of the Department, including in industries that are represented by skilled labor unions.
   - **(2)** In carrying out the subprogram under this subsection, the Secretary shall—

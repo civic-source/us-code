@@ -3,9 +3,9 @@ title: "Section 1016 - Adjustments to basis"
 usc_title: 26
 usc_section: "1016"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 1016"
-generated_at: "2026-03-29T23:12:49.412Z"
+generated_at: "2026-03-29T23:17:50.303Z"
 ---
 
 # § 1016. Adjustments to basis
@@ -53,7 +53,7 @@ generated_at: "2026-03-29T23:12:49.412Z"
   - **(30)** to the extent provided in section 179B(c), 2
   - **(31)** to the extent provided in section 179D(e), 2
   - **(32)** to the extent provided in section 45L(e), in the case of amounts with respect to which a credit has been allowed under section 45L, 2
-  - **(33)** to the extent provided in section 25C(f), in the case of amounts with respect to which a credit has been allowed under section 25C, 2
+  - **(33)** to the extent provided in section 25C(g), in the case of amounts with respect to which a credit has been allowed under section 25C, 2
   - **(34)** to the extent provided in section 25D(f), in the case of amounts with respect to which a credit has been allowed under section 25D, 2
   - **(35)** to the extent provided in section 30B(h)(4), 2
   - **(36)** to the extent provided in section 30C(e)(1), 2

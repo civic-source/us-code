@@ -3,9 +3,9 @@ title: "Section 1405 - Years of service"
 usc_title: 10
 usc_section: "1405"
 chapter: 71
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 1405"
-generated_at: "2026-03-29T23:10:50.101Z"
+generated_at: "2026-03-29T23:16:24.275Z"
 ---
 
 # § 1405. Years of service

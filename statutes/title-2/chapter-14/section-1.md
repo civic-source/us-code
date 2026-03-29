@@ -3,9 +3,9 @@ title: "Section 1 - Transferred"
 usc_title: 2
 usc_section: "1"
 chapter: 14
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "2 U.S.C. § 1"
-generated_at: "2026-03-29T23:10:28.098Z"
+generated_at: "2026-03-29T23:15:59.483Z"
 ---
 
 # § 441a–1. Transferred

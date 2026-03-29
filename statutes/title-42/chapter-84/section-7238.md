@@ -3,9 +3,9 @@ title: "Section 7238 - Temporary appointments for scientific and technical exper
 usc_title: 42
 usc_section: "7238"
 chapter: 84
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 7238"
-generated_at: "2026-03-29T23:14:43.940Z"
+generated_at: "2026-03-29T23:18:45.798Z"
 ---
 
 # § 7238. Temporary appointments for scientific and technical experts in Department of Energy research and development programs

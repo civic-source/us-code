@@ -3,9 +3,9 @@ title: "Section 897 - Disposition of investment in United States real property"
 usc_title: 26
 usc_section: "897"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 897"
-generated_at: "2026-03-29T23:12:49.402Z"
+generated_at: "2026-03-29T23:17:50.291Z"
 ---
 
 # § 897. Disposition of investment in United States real property
@@ -16,7 +16,7 @@ generated_at: "2026-03-29T23:12:49.402Z"
     - **(B)** in the case of a foreign corporation, under section 882(a)(1),
   - **(2)**
     - **(A)** In the case of any nonresident alien individual, the taxable excess for purposes of section 55(b)(1) shall not be less than the lesser of—
-      - **(i)** the individual’s alternative minimum taxable income (as defined in section 55(b)(2)) for the taxable year, or
+      - **(i)** the individual’s alternative minimum taxable income (as defined in section 55(b)(1)(D)) for the taxable year, or
       - **(ii)** the individual’s net United States real property gain for the taxable year.
     - **(B)** For purposes of subparagraph (A), the term “net United States real property gain” means the excess of—
       - **(i)** the aggregate of the gains for the taxable year from dispositions of United States real property interests, over

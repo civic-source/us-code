@@ -3,9 +3,9 @@ title: "Section 16511 - Definitions"
 usc_title: 42
 usc_section: "16511"
 chapter: 149
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 16511"
-generated_at: "2026-03-29T23:14:44.240Z"
+generated_at: "2026-03-29T23:18:45.982Z"
 ---
 
 # § 16511. Definitions
@@ -18,7 +18,7 @@ In this subchapter:
   - **(2)** The term “cost” has the meaning given the term “cost of a loan guarantee” within the meaning of section 661a(5)(C) of title 2 .
   - **(3)** The term “eligible project” means a project described in section 16513 of this title .
   - **(4)**
-    - **(A)** The term “guarantee” has the meaning given the term “loan guarantee” in section 661a of title 2 .
+    - **(A)** The term “guarantee” has the meaning given the term “loan guarantee” in section 661a of title 2 , except that a loan guarantee may guarantee any debt obligation of a non-Federal borrower to any Eligible Lender (as defined in section 609.2 of title 10, Code of Federal Regulations).
     - **(B)** The term “guarantee” includes a loan guarantee commitment (as defined in section 661a of title 2 ).
   - **(5)** The term “obligation” means the loan or other debt obligation that is guaranteed under this section.
   - **(6)** The term “State” has the meaning given the term in section 6802 of this title .

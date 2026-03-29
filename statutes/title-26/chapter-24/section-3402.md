@@ -3,9 +3,9 @@ title: "Section 3402 - Income tax collected at source"
 usc_title: 26
 usc_section: "3402"
 chapter: 24
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 3402"
-generated_at: "2026-03-29T23:12:49.445Z"
+generated_at: "2026-03-29T23:17:50.341Z"
 ---
 
 # § 3402. Income tax collected at source

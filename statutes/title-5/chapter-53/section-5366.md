@@ -3,9 +3,9 @@ title: "Section 5366 - Appeals"
 usc_title: 5
 usc_section: "5366"
 chapter: 53
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "5 U.S.C. § 5366"
-generated_at: "2026-03-29T23:10:37.413Z"
+generated_at: "2026-03-29T23:16:00.911Z"
 ---
 
 # § 5366. Appeals

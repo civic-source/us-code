@@ -3,9 +3,9 @@ title: "Section 702l - Repeal of inconsistent laws"
 usc_title: 33
 usc_section: "702l"
 chapter: 15
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "33 U.S.C. § 702l"
-generated_at: "2026-03-29T23:13:30.023Z"
+generated_at: "2026-03-29T23:17:55.107Z"
 ---
 
 # § 702l. Repeal of inconsistent laws

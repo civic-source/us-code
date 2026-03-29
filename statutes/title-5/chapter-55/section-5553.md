@@ -3,9 +3,9 @@ title: "Section 5553 - Regulations"
 usc_title: 5
 usc_section: "5553"
 chapter: 55
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "5 U.S.C. § 5553"
-generated_at: "2026-03-29T23:10:37.418Z"
+generated_at: "2026-03-29T23:16:00.915Z"
 ---
 
 # § 5553. Regulations

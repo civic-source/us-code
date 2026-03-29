@@ -3,9 +3,9 @@ title: "Section 10 - Academic technology transfer and commercialization of unive
 usc_title: 42
 usc_section: "10"
 chapter: 16
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-29T23:14:43.773Z"
+generated_at: "2026-03-29T23:18:45.656Z"
 ---
 
 # § 1862p–10. Academic technology transfer and commercialization of university research

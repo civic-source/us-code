@@ -3,9 +3,9 @@ title: "Section 2113 - Ownership and custody of certain byproduct material and d
 usc_title: 42
 usc_section: "2113"
 chapter: 23
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 2113"
-generated_at: "2026-03-29T23:14:43.795Z"
+generated_at: "2026-03-29T23:18:45.677Z"
 ---
 
 # § 2113. Ownership and custody of certain byproduct material and disposal sites

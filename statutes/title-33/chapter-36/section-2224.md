@@ -3,9 +3,9 @@ title: "Section 2224 - Crediting authority for federally authorized navigation p
 usc_title: 33
 usc_section: "2224"
 chapter: 36
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "33 U.S.C. § 2224"
-generated_at: "2026-03-29T23:13:30.058Z"
+generated_at: "2026-03-29T23:17:55.149Z"
 ---
 
 # § 2224. Crediting authority for federally authorized navigation projects

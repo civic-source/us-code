@@ -3,9 +3,9 @@ title: "Section 1714 - Surcharges related to consular services"
 usc_title: 8
 usc_section: "1714"
 chapter: 15
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "8 U.S.C. § 1714"
-generated_at: "2026-03-29T23:10:40.829Z"
+generated_at: "2026-03-29T23:16:19.897Z"
 ---
 
 # § 1714. Surcharges related to consular services

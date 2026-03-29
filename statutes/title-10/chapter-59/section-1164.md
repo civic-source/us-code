@@ -3,9 +3,9 @@ title: "Section 1164 - Warrant officers: separation for age"
 usc_title: 10
 usc_section: "1164"
 chapter: 59
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 1164"
-generated_at: "2026-03-29T23:10:50.097Z"
+generated_at: "2026-03-29T23:16:24.271Z"
 ---
 
 # § 1164. Warrant officers: separation for age

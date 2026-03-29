@@ -3,9 +3,9 @@ title: "Section 5104 - Decisions and notices of decisions"
 usc_title: 38
 usc_section: "5104"
 chapter: 51
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "38 U.S.C. § 5104"
-generated_at: "2026-03-29T23:13:58.922Z"
+generated_at: "2026-03-29T23:18:08.754Z"
 ---
 
 # § 5104. Decisions and notices of decisions
@@ -19,3 +19,7 @@ generated_at: "2026-03-29T23:13:58.922Z"
   - **(5)** In the case of a denial, identification of elements not satisfied leading to the denial.
   - **(6)** An explanation of how to obtain or access evidence used in making the decision.
   - **(7)** If applicable, identification of the criteria that must be satisfied to grant service connection or the next higher level of compensation.
+- **(c)** The Secretary may provide notice under subsection (a) electronically if a claimant (or the claimant’s representative) elects to receive such notice electronically. A claimant (or the claimant’s representative) may revoke such an election at any time, by means prescribed by the Secretary.
+- **(d)** The Secretary shall annually—
+  - **(1)** solicit recommendations from stakeholders on how to improve notice under this section; and
+  - **(2)** publish such recommendations on a publicly available website of the Department.

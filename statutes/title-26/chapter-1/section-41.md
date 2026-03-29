@@ -3,9 +3,9 @@ title: "Section 41 - Credit for increasing research activities"
 usc_title: 26
 usc_section: "41"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 41"
-generated_at: "2026-03-29T23:12:49.287Z"
+generated_at: "2026-03-29T23:17:50.160Z"
 ---
 
 # § 41. Credit for increasing research activities
@@ -276,14 +276,16 @@ generated_at: "2026-03-29T23:12:49.287Z"
         - **(III)** in the case of any other qualified small business, the return of tax for the taxable year, and
       - **(iii)** may be revoked only with the consent of the Secretary.
     - **(B)**
-      - **(i)** The amount specified in any election made under this subsection shall not exceed $250,000.
+      - **(i)**
+        - **(I)** The amount specified in any election made under this subsection shall not exceed $250,000.
+        - **(II)** In the case of taxable years beginning after December 31, 2022 , the amount in subclause (I) shall be increased by $250,000.
       - **(ii)** A person may not make an election under this subsection if such person (or any other person treated as a single taxpayer with such person under paragraph (5)(A)) has made an election under this subsection for 5 or more preceding taxable years.
     - **(C)** In the case of a qualified small business which is a partnership or S corporation, the election made under this subsection shall be made at the entity level.
   - **(5)**
     - **(A)** Except as provided in subparagraph (B), all persons or entities treated as a single taxpayer under subsection (f)(1) shall be treated as a single taxpayer for purposes of this subsection.
     - **(B)** For purposes of this subsection and section 3111(f)—
       - **(i)** each of the persons treated as a single taxpayer under subparagraph (A) may separately make the election under paragraph (1) for any taxable year, and
-      - **(ii)** the $250,000 amount under paragraph (4)(B)(i) shall be allocated among all persons treated as a single taxpayer under subparagraph (A) in the same manner as under subparagraph (A)(ii) or (B)(ii) of subsection (f)(1), whichever is applicable.
+      - **(ii)** each of the $250,000 amounts under paragraph (4)(B)(i) shall be allocated among all persons treated as a single taxpayer under subparagraph (A) in the same manner as under subparagraph (A)(ii) or (B)(ii) of subsection (f)(1), whichever is applicable.
   - **(6)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including—
     - **(A)** regulations to prevent the avoidance of the purposes of the limitations and aggregation rules under this subsection through the use of successor companies or other means,
     - **(B)** regulations to minimize compliance and record-keeping burdens under this subsection, and

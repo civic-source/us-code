@@ -3,9 +3,9 @@ title: "Section 259 - Infrastructure sharing"
 usc_title: 47
 usc_section: "259"
 chapter: 5
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "47 U.S.C. § 259"
-generated_at: "2026-03-29T23:15:01.777Z"
+generated_at: "2026-03-29T23:18:49.645Z"
 ---
 
 # § 259. Infrastructure sharing

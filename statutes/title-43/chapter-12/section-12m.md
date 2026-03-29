@@ -3,9 +3,9 @@ title: "Section 12m - Mission Basin Brackish Groundwater Desalting Demonstration
 usc_title: 43
 usc_section: "12m"
 chapter: 12
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "43 U.S.C. § 12m"
-generated_at: "2026-03-29T23:14:14.546Z"
+generated_at: "2026-03-29T23:18:11.499Z"
 ---
 
 # § 390h–12m. Mission Basin Brackish Groundwater Desalting Demonstration Project

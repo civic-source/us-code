@@ -3,9 +3,9 @@ title: "Section 906 - Wireless supply chain innovation and multilateral security
 usc_title: 47
 usc_section: "906"
 chapter: 8
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "47 U.S.C. § 906"
-generated_at: "2026-03-29T23:15:01.800Z"
+generated_at: "2026-03-29T23:18:49.668Z"
 ---
 
 # § 906. Wireless supply chain innovation and multilateral security
@@ -43,7 +43,7 @@ generated_at: "2026-03-29T23:15:01.800Z"
         - **(I)** additional recommendations on promoting the competitiveness and sustainability of trusted suppliers in the wireless supply chain; and
         - **(II)** any additional authorities needed to facilitate the timely adoption of open standards-based equipment, including authority to provide loans, loan guarantees, and other forms of credit extension that would maximize the use of funds.
       - **(ii)** For each fiscal year for which amounts in the Innovation Fund are available under this paragraph, the Secretary, acting through the NTIA Administrator, shall submit to Congress a report that—
-        - **(I)** describes how, and to whom, amounts in the Innovation Fund have been deployed;
+        - **(I)** describes how, and to whom (including whether recipients are majority owned and controlled by minority individuals and majority owned and controlled by women), amounts in the Innovation Fund have been deployed;
         - **(II)** details the progress of the Secretary and the NTIA Administrator in meeting the objectives described in subparagraph (C); and
         - **(III)** includes any additional information that the Secretary and the NTIA Administrator determine appropriate.
   - **(2)**

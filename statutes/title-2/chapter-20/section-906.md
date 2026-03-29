@@ -3,9 +3,9 @@ title: "Section 906 - General and special sequestration rules"
 usc_title: 2
 usc_section: "906"
 chapter: 20
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "2 U.S.C. § 906"
-generated_at: "2026-03-29T23:10:28.106Z"
+generated_at: "2026-03-29T23:15:59.490Z"
 ---
 
 # § 906. General and special sequestration rules
@@ -62,6 +62,7 @@ generated_at: "2026-03-29T23:10:28.106Z"
     - **(D)** National Credit Union Administration, central liquidity facility.
     - **(E)** Federal Retirement Thrift Investment Board.
     - **(F)** Farm Credit Administration.
+    - **(G)** Cost of War Toxic Exposures Fund.
 - **(i)**
   - **(1)** For purposes of section 904 of this title —
     - **(A)** any amount paid as regular unemployment compensation by a State from its account in the Unemployment Trust Fund (established by section 904(a) of the Social Security Act [ 42 U.S.C. 1104(a) ]),

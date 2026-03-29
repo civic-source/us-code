@@ -3,9 +3,9 @@ title: "Section 17011 - Transportation electrification"
 usc_title: 42
 usc_section: "17011"
 chapter: 152
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 17011"
-generated_at: "2026-03-29T23:14:44.245Z"
+generated_at: "2026-03-29T23:18:45.985Z"
 ---
 
 # § 17011. Transportation electrification

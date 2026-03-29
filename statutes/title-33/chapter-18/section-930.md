@@ -3,9 +3,9 @@ title: "Section 930 - Reports to Secretary"
 usc_title: 33
 usc_section: "930"
 chapter: 18
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "33 U.S.C. § 930"
-generated_at: "2026-03-29T23:13:30.028Z"
+generated_at: "2026-03-29T23:17:55.114Z"
 ---
 
 # § 930. Reports to Secretary

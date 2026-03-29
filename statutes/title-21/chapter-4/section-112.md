@@ -3,9 +3,9 @@ title: "Section 112 - Repealed. Pub. L. 107–171, title X, § 10418(a)(7) , (8)
 usc_title: 21
 usc_section: "112"
 chapter: 4
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "21 U.S.C. § 112"
-generated_at: "2026-03-29T23:12:02.155Z"
+generated_at: "2026-03-29T23:17:28.663Z"
 ---
 
 # §§ 111, 112. Repealed. Pub. L. 107–171, title X, § 10418(a)(7) , (8), May 13, 2002 , 116 Stat. 507 , 508

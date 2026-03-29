@@ -3,9 +3,9 @@ title: "Section 6515 - Payment of fees for services of Attending Physician and f
 usc_title: 2
 usc_section: "6515"
 chapter: 65
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "2 U.S.C. § 6515"
-generated_at: "2026-03-29T23:10:28.137Z"
+generated_at: "2026-03-29T23:15:59.518Z"
 ---
 
 # § 6515. Payment of fees for services of Attending Physician and for use of Senate health and fitness facilities

@@ -3,9 +3,9 @@ title: "Section 16272 - Reactor concepts research, development, demonstration, a
 usc_title: 42
 usc_section: "16272"
 chapter: 149
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 16272"
-generated_at: "2026-03-29T23:14:44.224Z"
+generated_at: "2026-03-29T23:18:45.972Z"
 ---
 
 # § 16272. Reactor concepts research, development, demonstration, and commercial application
@@ -24,8 +24,12 @@ generated_at: "2026-03-29T23:14:44.224Z"
     - **(J)** efficiency;
     - **(K)** environmental impacts; and
     - **(L)** resilience.
-  - **(2)** There are authorized to be appropriated to the Secretary to carry out the program under this subsection $55,000,000 for each of fiscal years 2021 through 2025.
+  - **(2)**
+    - **(A)** Not later than 1 year after August 9, 2022 , the Secretary, acting through the Assistant Secretary for Nuclear Energy, shall evaluate the technical and economic feasibility of the establishment of an isotope demonstration subprogram of the program established under paragraph (1) to support the development and commercial demonstration of critical radioactive and stable isotope production in existing commercial nuclear power plants.
+    - **(B)** The Secretary, acting through the Assistant Secretary for Nuclear Energy, shall consult with the Director of the Office of Science in carrying out the evaluation under subparagraph (A).
+    - **(C)** In this paragraph, the term “critical radioactive and stable isotope” has the meaning given the term in section 18649(a) of this title .
   - **(3)** The Secretary shall submit annually a public report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate documenting funds spent under the program that describes program activities, objectives, and outcomes, including those that could benefit the entirety of the existing reactor fleet, such as with respect to aging management and related sustainability concerns, and identifying funds awarded to private entities.
+  - **(4)** There are authorized to be appropriated to the Secretary to carry out the program under this subsection $55,000,000 for each of fiscal years 2021 through 2025.
 - **(b)**
   - **(1)** The Secretary shall carry out a program of research, development, demonstration, and commercial application to support advanced reactor technologies.
   - **(2)** In carrying out the program under this subsection, the Secretary shall—

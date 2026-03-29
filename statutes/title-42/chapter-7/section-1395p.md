@@ -3,9 +3,9 @@ title: "Section 1395p - Enrollment periods"
 usc_title: 42
 usc_section: "1395p"
 chapter: 7
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 1395p"
-generated_at: "2026-03-29T23:14:43.590Z"
+generated_at: "2026-03-29T23:18:45.501Z"
 ---
 
 # § 1395p. Enrollment periods
@@ -75,6 +75,6 @@ generated_at: "2026-03-29T23:14:43.590Z"
   - **(1)** In the case of an individual who—
     - **(A)** as of January 1, 2024 , is—
       - **(i)** a Postal Service annuitant who is entitled to benefits under part A of this subchapter, but excluding an individual who is eligible to enroll under such part under section 1395i–2 of this title or 1395i–2a of this title; or
-      - **(ii)** a member of family (as defined in section 8901(5) of title 5 , United States Code) of a Postal Service annuitant and is entitled to benefits under part A of this subchapter, but excluding an individual who is eligible to enroll under such part under section 1395i–2 of this title or 1395i–2a of this title; and
+      - **(ii)** a member of family (as defined in section 8901(5) of title 5 ) of a Postal Service annuitant and is entitled to benefits under part A of this subchapter, but excluding an individual who is eligible to enroll under such part under section 1395i–2 of this title or 1395i–2a of this title; and
     - **(B)** is not enrolled under this part, the individual may elect to be enrolled under this part during a special enrollment period during the 6-month period beginning on April 1, 2024 .
   - **(2)** In this subsection, the term “Postal Service annuitant” means an annuitant enrolled in a health benefits plan under chapter 89 of title 5, whose Government contribution is required to be paid under section 8906(g)(2) of such title.

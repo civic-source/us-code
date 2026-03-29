@@ -3,9 +3,9 @@ title: "Section 421a - Omitted"
 usc_title: 7
 usc_section: "421a"
 chapter: 17
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "7 U.S.C. § 421a"
-generated_at: "2026-03-29T23:10:44.335Z"
+generated_at: "2026-03-29T23:16:16.955Z"
 ---
 
 # § 421a. Omitted

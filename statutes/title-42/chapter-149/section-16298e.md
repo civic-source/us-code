@@ -3,9 +3,9 @@ title: "Section 16298e - Carbon dioxide removal task force and report"
 usc_title: 42
 usc_section: "16298e"
 chapter: 149
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 16298e"
-generated_at: "2026-03-29T23:14:44.230Z"
+generated_at: "2026-03-29T23:18:45.975Z"
 ---
 
 # § 16298e. Carbon dioxide removal task force and report

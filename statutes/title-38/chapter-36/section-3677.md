@@ -3,9 +3,9 @@ title: "Section 3677 - Approval of training on the job"
 usc_title: 38
 usc_section: "3677"
 chapter: 36
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "38 U.S.C. § 3677"
-generated_at: "2026-03-29T23:13:58.912Z"
+generated_at: "2026-03-29T23:18:08.742Z"
 ---
 
 # § 3677. Approval of training on the job

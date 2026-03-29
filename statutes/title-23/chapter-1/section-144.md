@@ -3,9 +3,9 @@ title: "Section 144 - National bridge and tunnel inventory and inspection standa
 usc_title: 23
 usc_section: "144"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "23 U.S.C. § 144"
-generated_at: "2026-03-29T23:11:44.866Z"
+generated_at: "2026-03-29T23:17:26.965Z"
 ---
 
 # § 144. National bridge and tunnel inventory and inspection standards
@@ -105,7 +105,8 @@ generated_at: "2026-03-29T23:11:44.866Z"
   - **(7)** In carrying out the revisions required by paragraph (6), the Secretary shall consider a risk-based approach to determining the frequency of bridge inspections.
 - **(i)**
   - **(1)** The Secretary, in cooperation with the State transportation departments, shall maintain a program designed to train appropriate personnel to carry out highway bridge and tunnel inspections.
-  - **(2)** The training program shall be revised from time to time to take into account new and improved techniques.(3) Requirement .—The first revision under paragraph (2) after the date of enactment of the Surface Transportation Reauthorization Act of 2021 shall include techniques to assess passage of aquatic and terrestrial species and habitat restoration potential.
+  - **(2)** The training program shall be revised from time to time to take into account new and improved techniques.
+  - **(3)** The first revision under paragraph (2) after the date of enactment of the Surface Transportation Reauthorization Act of 2021 shall include techniques to assess passage of aquatic and terrestrial species and habitat restoration potential.
 - **(j)**
   - **(1)** The purpose of this subsection is to save costs and time by encouraging States to bundle multiple bridge projects as 1 project.
   - **(2)** In this subsection, the term “eligible entity” means an entity eligible to carry out a bridge project under section 119 or 133.

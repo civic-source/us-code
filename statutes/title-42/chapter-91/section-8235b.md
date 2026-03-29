@@ -3,9 +3,9 @@ title: "Section 8235b - Applications for approval of plans for prototype residen
 usc_title: 42
 usc_section: "8235b"
 chapter: 91
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 8235b"
-generated_at: "2026-03-29T23:14:44.006Z"
+generated_at: "2026-03-29T23:18:45.845Z"
 ---
 
 # § 8235b. Applications for approval of plans for prototype residential energy efficiency programs

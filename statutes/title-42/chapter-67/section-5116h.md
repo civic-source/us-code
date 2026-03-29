@@ -3,9 +3,9 @@ title: "Section 5116h - Definitions"
 usc_title: 42
 usc_section: "5116h"
 chapter: 67
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 5116h"
-generated_at: "2026-03-29T23:14:43.869Z"
+generated_at: "2026-03-29T23:18:45.740Z"
 ---
 
 # § 5116h. Definitions

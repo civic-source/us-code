@@ -3,9 +3,9 @@ title: "Section 3003 - Congressional declaration of additional objectives"
 usc_title: 42
 usc_section: "3003"
 chapter: 35
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 3003"
-generated_at: "2026-03-29T23:14:43.818Z"
+generated_at: "2026-03-29T23:18:45.697Z"
 ---
 
 # § 3003. Congressional declaration of additional objectives

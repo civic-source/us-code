@@ -3,9 +3,9 @@ title: "Section 352 - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "352"
 chapter: 5
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "33 U.S.C. § 352"
-generated_at: "2026-03-29T23:13:30.007Z"
+generated_at: "2026-03-29T23:17:55.090Z"
 ---
 
 # § 352. Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 Stat. 3435

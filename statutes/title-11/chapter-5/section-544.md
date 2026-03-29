@@ -3,9 +3,9 @@ title: "Section 544 - Trustee as lien creditor and as successor to certain credi
 usc_title: 11
 usc_section: "544"
 chapter: 5
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "11 U.S.C. § 544"
-generated_at: "2026-03-29T23:11:17.039Z"
+generated_at: "2026-03-29T23:16:31.460Z"
 ---
 
 # § 544. Trustee as lien creditor and as successor to certain creditors and purchasers

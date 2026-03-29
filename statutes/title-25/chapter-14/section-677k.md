@@ -3,9 +3,9 @@ title: "Section 677k - Omitted"
 usc_title: 25
 usc_section: "677k"
 chapter: 14
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "25 U.S.C. § 677k"
-generated_at: "2026-03-29T23:12:03.130Z"
+generated_at: "2026-03-29T23:17:31.996Z"
 ---
 
 # § 677k. Omitted

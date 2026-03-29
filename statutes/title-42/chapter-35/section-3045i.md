@@ -3,9 +3,9 @@ title: "Section 3045i - Repealed. Pub. L. 95–478, title V, § 501(a) , Oct. 18
 usc_title: 42
 usc_section: "3045i"
 chapter: 35
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 3045i"
-generated_at: "2026-03-29T23:14:43.826Z"
+generated_at: "2026-03-29T23:18:45.704Z"
 ---
 
 # §§ 3045 to 3045i. Repealed. Pub. L. 95–478, title V, § 501(a) , Oct. 18, 1978 , 92 Stat. 1558

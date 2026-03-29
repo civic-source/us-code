@@ -3,9 +3,9 @@ title: "Section 1207 - State operation"
 usc_title: 45
 usc_section: "1207"
 chapter: 21
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "45 U.S.C. § 1207"
-generated_at: "2026-03-29T23:14:08.600Z"
+generated_at: "2026-03-29T23:18:14.251Z"
 ---
 
 # § 1207. State operation

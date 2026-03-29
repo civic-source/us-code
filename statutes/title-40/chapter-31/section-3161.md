@@ -3,9 +3,9 @@ title: "Section 3161 - Purpose"
 usc_title: 40
 usc_section: "3161"
 chapter: 31
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "40 U.S.C. § 3161"
-generated_at: "2026-03-29T23:13:48.067Z"
+generated_at: "2026-03-29T23:18:06.573Z"
 ---
 
 # § 3161. Purpose

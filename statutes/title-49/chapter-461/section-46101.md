@@ -3,9 +3,9 @@ title: "Section 46101 - Complaints and investigations"
 usc_title: 49
 usc_section: "46101"
 chapter: 461
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "49 U.S.C. § 46101"
-generated_at: "2026-03-29T23:15:16.343Z"
+generated_at: "2026-03-29T23:18:57.424Z"
 ---
 
 # § 46101. Complaints and investigations

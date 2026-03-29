@@ -3,9 +3,9 @@ title: "Section 223 - Health savings accounts"
 usc_title: 26
 usc_section: "223"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 223"
-generated_at: "2026-03-29T23:12:49.331Z"
+generated_at: "2026-03-29T23:17:50.212Z"
 ---
 
 # § 223. Health savings accounts
@@ -49,7 +49,7 @@ generated_at: "2026-03-29T23:12:49.331Z"
         - **(II)** which provides coverage for any benefit which is covered under the high deductible health plan.
     - **(B)** Subparagraph (A)(ii) shall be applied without regard to—
       - **(i)** coverage for any benefit provided by permitted insurance,
-      - **(ii)** coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, long-term care, or (in the case of plan years beginning on or before December 31, 2021 , or in the case of months beginning after March 31, 2022 , and before January 1, 2023 , 1 1 So in original. Comma probably should not appear. ) telehealth and other remote care, and
+      - **(ii)** coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, long-term care, or (in the case of plan years beginning on or before December 31, 2021 , or in the case of months beginning after March 31, 2022 , and before January 1, 2023 ,) 1 1 So in original. The comma probably should not appear. telehealth and other remote care, and
       - **(iii)** for taxable years beginning after December 31, 2006 , coverage under a health flexible spending arrangement during any period immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—
         - **(I)** the balance in such arrangement at the end of such plan year is zero, or
         - **(II)** the individual is making a qualified HSA distribution (as defined in section 106(e)) in an amount equal to the remaining balance in such arrangement as of the end of such plan year, in accordance with rules prescribed by the Secretary.
@@ -70,6 +70,11 @@ generated_at: "2026-03-29T23:12:49.331Z"
       - **(ii)** Such plan’s annual deductible for services provided outside of such network shall not be taken into account for purposes of subsection (b)(2).
     - **(E)** In the case of plan years beginning on or before December 31, 2021 , or in the case of months beginning after March 31, 2022 , and before January 1, 2023 , a plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for telehealth and other remote care services.
     - **(F)** A plan shall not fail to be treated as a high deductible health plan by reason of providing benefits for medical care in accordance with section 9816 or 9817, section 2799A–1 or 2799A–2 of the Public Health Service Act, or section 716 or 717 of the Employee Retirement Income Security Act of 1974, or any State law providing similar protections to individuals, prior to the satisfaction of the deductible under paragraph (2)(A)(i).
+    - **(G)**
+      - **(i)** A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for selected insulin products.
+      - **(ii)** For purposes of this subparagraph—
+        - **(I)** The term “selected insulin products” means any dosage form (such as vial, pump, or inhaler dosage forms) of any different type (such as rapid-acting, short-acting, intermediate-acting, long-acting, ultra long-acting, and premixed) of insulin.
+        - **(II)** The term “insulin” means insulin that is licensed under subsection (a) or (k) of section 351 of the Public Health Service Act ( 42 U.S.C. 262 ) and continues to be marketed under such section, including any insulin product that has been deemed to be licensed under section 351(a) of such Act pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009 ( Public Law 111–148 ) and continues to be marketed pursuant to such licensure.
   - **(3)** The term “permitted insurance” means—
     - **(A)** insurance if substantially all of the coverage provided under such insurance relates to—
       - **(i)** liabilities incurred under workers’ compensation laws,

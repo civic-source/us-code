@@ -3,9 +3,9 @@ title: "Section 152902 - Organization"
 usc_title: 36
 usc_section: "152902"
 chapter: 1529
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "36 U.S.C. § 152902"
-generated_at: "2026-03-29T23:13:47.519Z"
+generated_at: "2026-03-29T23:18:06.157Z"
 ---
 
 # § 152902. Organization

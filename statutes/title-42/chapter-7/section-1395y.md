@@ -3,9 +3,9 @@ title: "Section 1395y - Exclusions from coverage and medicare as secondary payer
 usc_title: 42
 usc_section: "1395y"
 chapter: 7
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 1395y"
-generated_at: "2026-03-29T23:14:43.632Z"
+generated_at: "2026-03-29T23:18:45.538Z"
 ---
 
 # § 1395y. Exclusions from coverage and medicare as secondary payer
@@ -82,7 +82,7 @@ generated_at: "2026-03-29T23:14:43.632Z"
         - **(III)** Leased employees (as defined in section 414(n)(2) of such Code) shall be treated as employees of the person for whom they perform services to the extent they are so treated under section 414(n) of such Code.
       - **(ii)** An individual has “current employment status” with an employer if the individual is an employee, is the employer, or is associated with the employer in a business relationship.
       - **(iii)** The term “employer” includes a self-employed person.
-      - **(iv)** Nothing in this paragraph shall prohibit a group health plan from determining an individual’s eligibility to enroll in a health benefits plan offered under the Postal Service Health Benefits Program under section 8903c of title 5 , United States Code, in accordance with subsection (e) of such section.
+      - **(iv)** Nothing in this paragraph shall prohibit a group health plan from determining an individual’s eligibility to enroll in a health benefits plan offered under the Postal Service Health Benefits Program under section 8903c of title 5 in accordance with subsection (e) of such section.
     - **(F)** An individual who is entitled to benefits under this subchapter and is furnished an item or service for which such benefits are incorrectly paid is not liable for repayment of such benefits under this paragraph unless payment of such benefits was made to the individual.
   - **(2)**
     - **(A)** Payment under this subchapter may not be made, except as provided in subparagraph (B), with respect to any item or service to the extent that—

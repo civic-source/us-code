@@ -3,9 +3,9 @@ title: "Section 1315 - Law enforcement authority of Secretary of Homeland Securi
 usc_title: 40
 usc_section: "1315"
 chapter: 13
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "40 U.S.C. § 1315"
-generated_at: "2026-03-29T23:13:48.066Z"
+generated_at: "2026-03-29T23:18:06.572Z"
 ---
 
 # § 1315. Law enforcement authority of Secretary of Homeland Security for protection of public property

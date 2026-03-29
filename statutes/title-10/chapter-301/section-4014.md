@@ -3,9 +3,9 @@ title: "Section 4014 - Coordination and communication of defense research activi
 usc_title: 10
 usc_section: "4014"
 chapter: 301
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 4014"
-generated_at: "2026-03-29T23:10:50.162Z"
+generated_at: "2026-03-29T23:16:24.338Z"
 ---
 
 # § 4014. Coordination and communication of defense research activities and technology domain awareness
@@ -17,4 +17,4 @@ generated_at: "2026-03-29T23:10:50.162Z"
   - **(4)** among private commercial, research institution, and university entities engaged in research, development, and technological matters potentially relevant to defense on a voluntary basis;
   - **(5)** to the extent practicable, to achieve full awareness of scientific and technological advancement and innovation wherever it may occur, whether funded by the Department of Defense, another element of the Federal Government, or other entities; and
   - **(6)** through development and distribution of clear technical communications to the public, military operators, acquisition organizations, and civilian and military decision-makers that convey successes of research and engineering activities supported by the Department and the contributions of such activities to support national needs.
-- **(b)** In this section, the term “Defense research facility” has the meaning given that term by section 4142(b) of this title .
+- **(b)** In this section, the term “Defense research facility” has the meaning given that term by section 4142(b) 1 1 See References in Text note below. of this title.

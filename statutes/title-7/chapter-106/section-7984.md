@@ -3,9 +3,9 @@ title: "Section 7984 - Studies of effects of changes in approach to national dai
 usc_title: 7
 usc_section: "7984"
 chapter: 106
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "7 U.S.C. § 7984"
-generated_at: "2026-03-29T23:10:44.491Z"
+generated_at: "2026-03-29T23:16:17.112Z"
 ---
 
 # § 7984. Studies of effects of changes in approach to national dairy policy and fluid milk identity standards

@@ -3,9 +3,9 @@ title: "Section 58 - Omitted"
 usc_title: 20
 usc_section: "58"
 chapter: 3
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "20 U.S.C. § 58"
-generated_at: "2026-03-29T23:11:22.927Z"
+generated_at: "2026-03-29T23:17:23.898Z"
 ---
 
 # § 58. Omitted

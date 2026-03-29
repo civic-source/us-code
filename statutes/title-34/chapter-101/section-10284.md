@@ -3,9 +3,9 @@ title: "Section 10284 - Definitions"
 usc_title: 34
 usc_section: "10284"
 chapter: 101
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "34 U.S.C. § 10284"
-generated_at: "2026-03-29T23:12:57.832Z"
+generated_at: "2026-03-29T23:18:03.285Z"
 ---
 
 # § 10284. Definitions
@@ -56,10 +56,10 @@ As used in this subchapter—
     - **(B)** is (or is a part of) a nonprofit entity serving the public that—
       - **(i)** is officially authorized or licensed to engage in rescue activity or to provide emergency medical services; and
       - **(ii)** engages in rescue activities or provides emergency medical services as part of an official emergency response system;
-  - **(11)** “neurocognitive disorder” means a disorder that is characterized by a clinically significant decline in cognitive functioning and may include symptoms and signs such as disturbances in memory, executive functioning (that is, higher-level cognitive processes, such as, regulating attention, planning, inhibiting responses, decision-making), visual-spatial functioning, language, speech, perception, insight, judgment, or an insensitivity to social standards; and
+  - **(11)** “neurocognitive disorder” means a disorder that is characterized by a clinically significant decline in cognitive functioning and may include symptoms and signs such as disturbances in memory, executive functioning (that is, higher-level cognitive processes, such as, regulating attention, planning, inhibiting responses, decision-making), visual-spatial functioning, language, speech, perception, insight, judgment, or an insensitivity to social standards;
   - **(12)** “sedentary work” means work that—
     - **(A)** involves lifting articles weighing no more than 10 pounds at a time or occasionally lifting or carrying articles such as docket files, ledgers, or small tools; and
-    - **(B)** despite involving sitting on a regular basis, may require walking or standing on an occasional basis.
+    - **(B)** despite involving sitting on a regular basis, may require walking or standing on an occasional basis;
   - **(13)** “public agency” means the United States, any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States, or any unit of local government, department, agency, or instrumentality of any of the foregoing, and includes (as may be prescribed by regulation hereunder) a legally organized volunteer fire department that is a nonprofit entity and provides services without regard to any particular relationship (such as a subscription) a member of the public may have with such a department; and
   - **(14)** “public safety officer” means—
     - **(A)** an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a chaplain: Provided, That (notwithstanding section 10285(b)(2) or (3) of this title) the Bureau shall, absent clear and convincing evidence to the contrary as determined by the Bureau, deem the actions outside of jurisdiction taken by any such law enforcement officer or firefighter, to have been taken while serving such public agency in such capacity, in any case in which the principal legal officer of such public agency, and the head of such agency, together, certify that such actions—
@@ -77,8 +77,8 @@ As used in this subchapter—
       - **(i)** were not unreasonable;
       - **(ii)** would have been within the authority and line of duty of such member to take, had they been taken in a jurisdiction where such member was authorized or licensed by law and by a pertinent agency or entity to act, in the ordinary course; and
       - **(iii)** would have resulted in the payment of full line-of-duty death or disability benefits (as applicable), if any such benefits typically were payable by (or with respect to or on behalf of) such applicable agency or entity, as of the date the action was taken;
-    - **(F)** 2 2 So in original. There are two subpars. designated (F). omitted
-    - **(F)** 2 an employee or contractor of the Department of Energy who—
+    - **(F)** omitted
+    - **(G)** an employee or contractor of the Department of Energy who—
       - **(i)** is—
         - **(I)** a nuclear materials courier (as defined in section 8331(27) of title 5 ); or
         - **(II)** designated by the Secretary of Energy as a member of an emergency response team; and

@@ -3,9 +3,9 @@ title: "Section 710 - Accountability for property issued to the National Guard"
 usc_title: 32
 usc_section: "710"
 chapter: 7
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "32 U.S.C. § 710"
-generated_at: "2026-03-29T23:12:55.838Z"
+generated_at: "2026-03-29T23:17:52.352Z"
 ---
 
 # § 710. Accountability for property issued to the National Guard

@@ -3,9 +3,9 @@ title: "Section 682 - Malicious injury to works; injury to navigable waters by h
 usc_title: 33
 usc_section: "682"
 chapter: 14
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "33 U.S.C. § 682"
-generated_at: "2026-03-29T23:13:30.018Z"
+generated_at: "2026-03-29T23:17:55.103Z"
 ---
 
 # § 682. Malicious injury to works; injury to navigable waters by hydraulic mining; penalty

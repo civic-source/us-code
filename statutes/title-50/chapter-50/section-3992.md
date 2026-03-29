@@ -3,9 +3,9 @@ title: "Section 3992 - Rights in public lands"
 usc_title: 50
 usc_section: "3992"
 chapter: 50
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "50 U.S.C. § 3992"
-generated_at: "2026-03-29T23:15:24.517Z"
+generated_at: "2026-03-29T23:18:53.960Z"
 ---
 
 # § 3992. Rights in public lands

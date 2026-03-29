@@ -3,9 +3,9 @@ title: "Section 1301 - Sewer overflow and stormwater reuse municipal grants"
 usc_title: 33
 usc_section: "1301"
 chapter: 26
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "33 U.S.C. § 1301"
-generated_at: "2026-03-29T23:13:30.037Z"
+generated_at: "2026-03-29T23:17:55.124Z"
 ---
 
 # § 1301. Sewer overflow and stormwater reuse municipal grants
@@ -49,7 +49,7 @@ generated_at: "2026-03-29T23:13:30.037Z"
   - **(2)** the Administrator, or a State, may retain an amount not to exceed 4 percent of any grant made to a municipality or municipal entity under subsection (a), for the reasonable and necessary costs of administering the grant.
 - **(i)**
   - **(1)**
-    - **(A)** Not later than December 31, 2003 , and periodically thereafter, the Administrator shall transmit to Congress a reportcontaining—
+    - **(A)** Not later than December 31, 2003 , and periodically thereafter, the Administrator shall transmit to Congress a report containing—
       - **(i)** recommended funding levels for grants under this section; and
       - **(ii)** a description of the extent to which States pass costs associated with the non-Federal share requirements under subsection (d) to local communities, with a focus on rural communities and financially distressed communities (as those terms are defined in subsection (f)(2)(B)(i)).
     - **(B)** The funding levels recommended under subparagraph (A)(i) shall be sufficient to ensure the continued expeditious implementation of municipal combined sewer overflow and sanitary sewer overflow controls nationwide.

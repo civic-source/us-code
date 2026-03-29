@@ -3,9 +3,9 @@ title: "Section 589a - United States Trustee System Fund"
 usc_title: 28
 usc_section: "589a"
 chapter: 39
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "28 U.S.C. § 589a"
-generated_at: "2026-03-29T23:12:06.435Z"
+generated_at: "2026-03-29T23:17:38.406Z"
 ---
 
 # § 589a. United States Trustee System Fund
@@ -27,7 +27,7 @@ generated_at: "2026-03-29T23:12:06.435Z"
   - **(2)** 48.89 percent of the fees collected under section 1930(a)(3) of this title ;
   - **(3)** one-half of the fees collected under section 1930(a)(4) of this title ;
   - **(4)** one-half of the fees collected under section 1930(a)(5) of this title ;
-  - **(5)** 100 percent of the fees collected under section 1930(a)(6) of this title ; 1 1 See Deposits of Fees Under Subsection (a)(6) for Certain Fiscal Years note below.
+  - **(5)** 100 percent of the fees collected under section 1930(a)(6) of this title ; 1 1 See Deposits of Fees Under Section 1930(a)(6) of This Title for Certain Fiscal Years note below.
   - **(6)** three-fourths of the fees collected under the last sentence of section 1930(a) of this title ;
   - **(7)** the compensation of trustees received under section 330(d) of title 11 by the clerks of the bankruptcy courts;
   - **(8)** excess fees collected under section 586(e)(2) of this title ;

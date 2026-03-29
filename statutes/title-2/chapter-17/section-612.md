@@ -3,9 +3,9 @@ title: "Section 612 - Executive exchange program"
 usc_title: 2
 usc_section: "612"
 chapter: 17
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "2 U.S.C. § 612"
-generated_at: "2026-03-29T23:10:28.100Z"
+generated_at: "2026-03-29T23:15:59.484Z"
 ---
 
 # § 612. Executive exchange program

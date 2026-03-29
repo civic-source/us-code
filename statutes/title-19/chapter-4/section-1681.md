@@ -3,9 +3,9 @@ title: "Section 1681 - Definitions"
 usc_title: 19
 usc_section: "1681"
 chapter: 4
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "19 U.S.C. § 1681"
-generated_at: "2026-03-29T23:11:36.099Z"
+generated_at: "2026-03-29T23:17:13.172Z"
 ---
 
 # § 1681. Definitions

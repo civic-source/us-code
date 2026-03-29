@@ -3,9 +3,9 @@ title: "Section 4173 - Department of Defense Test Resource Management Center"
 usc_title: 10
 usc_section: "4173"
 chapter: 307
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 4173"
-generated_at: "2026-03-29T23:10:50.165Z"
+generated_at: "2026-03-29T23:16:24.340Z"
 ---
 
 # § 4173. Department of Defense Test Resource Management Center
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T23:10:50.165Z"
     - **(E)** To administer the Central Test and Evaluation Investment Program and the program of the Department of Defense for test and evaluation science and technology.
   - **(2)** The Director shall have access to such records and data of the Department of Defense (including the appropriate records and data of each military department and Defense Agency) that are necessary in order to carry out the duties of the Director under this section.
 - **(d)**
-  - **(1)** Not less often than once every four fiscal years, and within one year after release of the National Defense Strategy the Under Secretary of Defense for Research and Engineering, in coordination with the Director of the Department of Defense Test Resource Management Center, the Director of Operational Test and Evaluation, the Director of the Defense Intelligence Agency, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a quadrennial strategic plan reflecting the future needs of the Department of Defense with respect to test and evaluation facilities and resources. Each quadrennial strategic plan shall cover the period of thirty fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The quadrennial strategic plan shall be based on a comprehensive review of both funded and unfunded test and evaluation requirements of the Department, future threats to national security, and the adequacy of the test and evaluation facilities and resources of the Department to meet those future requirements and threats.
+  - **(1)** Not less often than once every four fiscal years, and within one year after release of the National Defense Strategy, the Under Secretary of Defense for Research and Engineering, in coordination with the Director of the Department of Defense Test Resource Management Center, the Director of Operational Test and Evaluation, the Director of the Defense Intelligence Agency, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a quadrennial strategic plan reflecting the future needs of the Department of Defense with respect to test and evaluation facilities and resources. Each quadrennial strategic plan shall cover the period of thirty fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The quadrennial strategic plan shall be based on a comprehensive review of both funded and unfunded test and evaluation requirements of the Department, future threats to national security, and the adequacy of the test and evaluation facilities and resources of the Department to meet those future requirements and threats.
   - **(2)** The quadrennial strategic plan shall include the following:
     - **(A)** An assessment of the test and evaluation requirements of the Department for the period covered by the plan.
     - **(B)** An identification of performance measures associated with the successful achievement of test and evaluation objectives for the period covered by the plan.

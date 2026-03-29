@@ -3,19 +3,31 @@ title: "Section 179D - Energy efficient commercial buildings deduction"
 usc_title: 26
 usc_section: "179D"
 chapter: 1
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "26 U.S.C. § 179D"
-generated_at: "2026-03-29T23:12:49.326Z"
+generated_at: "2026-03-29T23:17:50.207Z"
 ---
 
 # § 179D. Energy efficient commercial buildings deduction
 
 - **(a)** There shall be allowed as a deduction an amount equal to the cost of energy efficient commercial building property placed in service during the taxable year.
-- **(b)** The deduction under subsection (a) with respect to any building for any taxable year shall not exceed the excess (if any) of—
-  - **(1)** the product of—
-    - **(A)** $1.80, and
-    - **(B)** the square footage of the building, over
-  - **(2)** the aggregate amount of the deductions under subsection (a) with respect to the building for all prior taxable years.
+- **(b)**
+  - **(1)** The deduction under subsection (a) with respect to any building for any taxable year shall not exceed the excess (if any) of—
+    - **(A)** the product of—
+      - **(i)** the applicable dollar value, and
+      - **(ii)** the square footage of the building, over
+    - **(B)** the aggregate amount of the deductions under subsections (a) and (f) with respect to the building for the 3 taxable years immediately preceding such taxable year (or, in the case of any such deduction allowable to a person other than the taxpayer, for any taxable year ending during the 4-taxable-year period ending with such taxable year).
+  - **(2)** For purposes of paragraph (1)(A)(i), the applicable dollar value shall be an amount equal to $0.50 increased (but not above $1.00) by $0.02 for each percentage point by which the total annual energy and power costs for the building are certified to be reduced by a percentage greater than 25 percent.
+  - **(3)**
+    - **(A)** In the case of any property which satisfies the requirements of subparagraph (B), paragraph (2) shall be applied by substituting “$2.50” for “$0.50”, “$.10” for “$.02”, and “$5.00” for “$1.00”.
+    - **(B)** In the case of any energy efficient commercial building property, energy efficient building retrofit property, or property installed pursuant to a qualified retrofit plan, such property shall meet the requirements of this subparagraph if—
+      - **(i)** installation of such property begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (4)(A) and (5), or
+      - **(ii)** installation of such property satisfies the requirements of paragraphs (4)(A) and (5).
+  - **(4)**
+    - **(A)** The requirements described in this subparagraph with respect to any property are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the installation of any property shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such property is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
+    - **(B)** Rules similar to the rules of section 45(b)(7)(B) shall apply.
+  - **(5)** Rules similar to the rules of section 45(b)(8) shall apply.
+  - **(6)** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 - **(c)** For purposes of this section—
   - **(1)** The term “energy efficient commercial building property” means property—
     - **(A)** with respect to which depreciation (or amortization in lieu of depreciation) is allowable,
@@ -26,41 +38,64 @@ generated_at: "2026-03-29T23:12:49.326Z"
       - **(i)** the interior lighting systems,
       - **(ii)** the heating, cooling, ventilation, and hot water systems, or
       - **(iii)** the building envelope, and
-    - **(D)** which is certified in accordance with subsection (d)(6) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 50 percent or more in comparison to a reference building which meets the minimum requirements of Reference Standard 90.1 using methods of calculation under subsection (d)(2).
-  - **(2)** The term “Reference Standard 90.1” means, with respect to any property, the most recent Standard 90.1 published by the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 2 years before the date that construction of such property begins.
+    - **(D)** which is certified in accordance with subsection (d)(5) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 25 percent or more in comparison to a reference building which meets the minimum requirements of Reference Standard 90.1 using methods of calculation under subsection (d)(1).
+  - **(2)** The term “Reference Standard 90.1” means, with respect to any property, the more recent of—
+    - **(A)** Standard 90.1-2007 published by the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America, or
+    - **(B)** the most recent Standard 90.1 published by the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America for which the Department of Energy has issued a final determination and which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 4 years before the date such property is placed in service.
 - **(d)**
-  - **(1)**
-    - **(A)** Except as provided in subsection (f), if—
-      - **(i)** the requirement of subsection (c)(1)(D) is not met, but
-      - **(ii)** there is a certification in accordance with paragraph (6) that any system referred to in subsection (c)(1)(C) satisfies the energy-savings targets established by the Secretary under subparagraph (B) with respect to such system,
-    - **(B)** The Secretary, after consultation with the Secretary of Energy, shall establish a target for each system described in subsection (c)(1)(C) such that, if such targets were met for all such systems, the building would meet the requirements of subsection (c)(1)(D).
-  - **(2)** The Secretary, after consultation with the Secretary of Energy, shall promulgate regulations which describe in detail methods for calculating and verifying energy and power consumption and cost with respect to any property, based on the provisions of the most recent California Nonresidential Alternative Calculation Method Approval Manual which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 2 years before the date that construction of such property begins.
-  - **(3)**
-    - **(A)** Any calculation under paragraph (2) shall be prepared by qualified computer software.
+  - **(1)** The Secretary, after consultation with the Secretary of Energy, shall promulgate regulations which describe in detail methods for calculating and verifying energy and power consumption and cost with respect to any property, based on the provisions of the most recent California Nonresidential Alternative Calculation Method Approval Manual which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 4 years before the date such property is placed in service.
+  - **(2)**
+    - **(A)** Any calculation under paragraph (1) shall be prepared by qualified computer software.
     - **(B)** For purposes of this paragraph, the term “qualified computer software” means software—
       - **(i)** for which the software designer has certified that the software meets all procedures and detailed methods for calculating energy and power consumption and costs as required by the Secretary,
       - **(ii)** which provides such forms as required to be filed by the Secretary in connection with energy efficiency of property and the deduction allowed under this section, and
       - **(iii)** which provides a notice form which documents the energy efficiency features of the building and its projected annual energy costs.
-  - **(4)** In the case of energy efficient commercial building property installed on or in property owned by a Federal, State, or local government or a political subdivision thereof, the Secretary shall promulgate a regulation to allow the allocation of the deduction to the person primarily responsible for designing the property in lieu of the owner of such property. Such person shall be treated as the taxpayer for purposes of this section.
-  - **(5)** Each certification required under this section shall include an explanation to the building owner regarding the energy efficiency features of the building and its projected annual energy costs as provided in the notice under paragraph (3)(B)(iii).
-  - **(6)**
+  - **(3)**
+    - **(A)** In the case of energy efficient commercial building property installed on or in property owned by a specified tax-exempt entity, the Secretary shall promulgate regulations or guidance to allow the allocation of the deduction to the person primarily responsible for designing the property in lieu of the owner of such property. Such person shall be treated as the taxpayer for purposes of this section.
+    - **(B)** For purposes of this paragraph, the term “specified tax-exempt entity” means—
+      - **(i)** the United States, any State or political subdivision thereof, any possession of the United States, or any agency or instrumentality of any of the foregoing,
+      - **(ii)** an Indian tribal government (as defined in section 30D(g)(9)) or Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1602(m) ), and
+      - **(iii)** any organization exempt from tax imposed by this chapter.
+  - **(4)** Each certification required under this section shall include an explanation to the building owner regarding the energy efficiency features of the building and its projected annual energy costs as provided in the notice under paragraph (2)(B)(iii).
+  - **(5)**
     - **(A)** The Secretary shall prescribe the manner and method for the making of certifications under this section.
     - **(B)** The Secretary shall include as part of the certification process procedures for inspection and testing by qualified individuals described in subparagraph (C) to ensure compliance of buildings with energy-savings plans and targets. Such procedures shall be comparable, given the difference between commercial and residential buildings, to the requirements in the Mortgage Industry National Accreditation Procedures for Home Energy Rating Systems.
     - **(C)** Individuals qualified to determine compliance shall be only those individuals who are recognized by an organization certified by the Secretary for such purposes.
 - **(e)** For purposes of this subtitle, if a deduction is allowed under this section with respect to any energy efficient commercial building property, the basis of such property shall be reduced by the amount of the deduction so allowed.
-- **(f)** Until such time as the Secretary issues final regulations under subsection (d)(1)(B) with respect to property which is part of a lighting system—
-  - **(1)** The lighting system target under subsection (d)(1)(A)(ii) shall be a reduction in lighting power density of 25 percent (50 percent in the case of a warehouse) of the minimum requirements in Table 9.5.1 or Table 9.6.1 (not including additional interior lighting power allowances) of Standard 90.1–2007.
-  - **(2)**
-    - **(A)** If, with respect to the lighting system of any building other than a warehouse, the reduction in lighting power density of the lighting system is not at least 40 percent, only the applicable percentage of the amount of deduction otherwise allowable under this section with respect to such property shall be allowed.
-    - **(B)** For purposes of subparagraph (A), the applicable percentage is the number of percentage points (not greater than 100) equal to the sum of—
-      - **(i)** 50, and
-      - **(ii)** the amount which bears the same ratio to 50 as the excess of the reduction of lighting power density of the lighting system over 25 percentage points bears to 15.
-    - **(C)** This subsection shall not apply to any system—
-      - **(i)** the controls and circuiting of which do not comply fully with the mandatory and prescriptive requirements of Standard 90.1–2007 and which do not include provision for bilevel switching in all occupancies except hotel and motel guest rooms, store rooms, restrooms, and public lobbies, or
-      - **(ii)** which does not meet the minimum requirements for calculated lighting levels as set forth in the Illuminating Engineering Society of North America Lighting Handbook, Performance and Application, Ninth Edition, 2000.
-- **(g)** In the case of a taxable year beginning after 2020, each dollar amount in subsection (b) or subsection (d)(1)(A) shall be increased by an amount equal to—
+- **(f)**
+  - **(1)** In the case of a taxpayer which elects (at such time and in such manner as the Secretary may provide) the application of this subsection with respect to any qualified building, there shall be allowed as a deduction for the taxable year which includes the date of the qualifying final certification with respect to the qualified retrofit plan of such building, an amount equal to the lesser of—
+    - **(A)** the excess described in subsection (b) (determined by substituting “energy use intensity” for “total annual energy and power costs” in paragraph (2) thereof), or
+    - **(B)** the aggregate adjusted basis (determined after taking into account all adjustments with respect to such taxable year other than the reduction under subsection (e)) of energy efficient building retrofit property placed in service by the taxpayer pursuant to such qualified retrofit plan.
+  - **(2)** For purposes of this subsection, the term “qualified retrofit plan” means a written plan prepared by a qualified professional which specifies modifications to a building which, in the aggregate, are expected to reduce such building’s energy use intensity by 25 percent or more in comparison to the baseline energy use intensity of such building. Such plan shall provide for a qualified professional to—
+    - **(A)** as of any date during the 1-year period ending on the date on which the property installed pursuant to such plan is placed in service, certify the energy use intensity of such building as of such date,
+    - **(B)** certify the status of property installed pursuant to such plan as meeting the requirements of subparagraphs (B) and (C) of paragraph (3), and
+    - **(C)** as of any date that is more than 1 year after the date on which the property installed pursuant to such plan is placed in service, certify the energy use intensity of such building as of such date.
+  - **(3)** For purposes of this subsection, the term “energy efficient building retrofit property” means property—
+    - **(A)** with respect to which depreciation (or amortization in lieu of depreciation) is allowable,
+    - **(B)** which is installed on or in any qualified building,
+    - **(C)** which is installed as part of—
+      - **(i)** the interior lighting systems,
+      - **(ii)** the heating, cooling, ventilation, and hot water systems, or
+      - **(iii)** the building envelope, and
+    - **(D)** which is certified in accordance with paragraph (2)(B) as meeting the requirements of subparagraphs (B) and (C).
+  - **(4)** For purposes of this subsection, the term “qualified building” means any building which—
+    - **(A)** is located in the United States, and
+    - **(B)** was originally placed in service not less than 5 years before the establishment of the qualified retrofit plan with respect to such building.
+  - **(5)** For purposes of this subsection, the term “qualifying final certification” means, with respect to any qualified retrofit plan, the certification described in paragraph (2)(C) if the energy use intensity certified in such certification is not more than 75 percent of the baseline energy use intensity of the building.
+  - **(6)**
+    - **(A)** For purposes of this subsection, the term “baseline energy use intensity” means the energy use intensity certified under paragraph (2)(A), as adjusted to take into account weather.
+    - **(B)** For purposes of subparagraph (A), the adjustments described in such subparagraph shall be determined in such manner as the Secretary may provide.
+  - **(7)** For purposes of this subsection—
+    - **(A)** The term “energy use intensity” means the annualized, measured site energy use intensity determined in accordance with such regulations or other guidance as the Secretary may provide and measured in British thermal units.
+    - **(B)** The term “qualified professional” means an individual who is a licensed architect or a licensed engineer and meets such other requirements as the Secretary may provide.
+  - **(8)**
+    - **(A)** In the case of any building with respect to which an election is made under paragraph (1), the term “energy efficient commercial building property” shall not include any energy efficient building retrofit property with respect to which a deduction is allowable under this subsection.
+    - **(B)**
+      - **(i)** Except as provided in clause (ii), subsection (d) shall not apply for purposes of this subsection.
+      - **(ii)** Rules similar to subsection (d)(3) shall apply for purposes of this subsection.
+- **(g)** In the case of a taxable year beginning after 2022, each dollar amount in subsection (b) shall be increased by an amount equal to—
   - **(1)** such dollar amount, multiplied by
-  - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2019” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  - **(2)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2021” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 - **(h)** The Secretary shall promulgate such regulations as necessary—
   - **(1)** to take into account new technologies regarding energy efficiency and renewable energy for purposes of determining energy efficiency and savings under this section, and
-  - **(2)** to provide for a recapture of the deduction allowed under this section if the plan described in subsection (c)(1)(D) or (d)(1)(A) is not fully implemented.
+  - **(2)** to provide for a recapture of the deduction allowed under this section if the plan described in subsection (c)(1)(D) is not fully implemented.

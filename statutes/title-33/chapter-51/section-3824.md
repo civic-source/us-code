@@ -3,9 +3,9 @@ title: "Section 3824 - Process for considering additional controls"
 usc_title: 33
 usc_section: "3824"
 chapter: 51
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "33 U.S.C. § 3824"
-generated_at: "2026-03-29T23:13:30.083Z"
+generated_at: "2026-03-29T23:17:55.176Z"
 ---
 
 # § 3824. Process for considering additional controls

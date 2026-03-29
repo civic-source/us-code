@@ -1,0 +1,19 @@
+---
+title: "Section 18971 - Expanding opportunities through the Manufacturing USA Program"
+usc_title: 42
+usc_section: "18971"
+chapter: 163
+current_through: "PL 117-174"
+classification: "42 U.S.C. § 18971"
+generated_at: "2026-03-29T23:18:46.024Z"
+---
+
+# § 18971. Expanding opportunities through the Manufacturing USA Program
+
+- **(a)** The Secretary of Commerce, in consultation with the Secretary of Energy, the Secretary of Defense, and the heads of such other Federal agencies as the Secretary of Commerce considers relevant, shall coordinate with existing and new Manufacturing USA institutes to integrate covered entities as active members of the Manufacturing USA institutes, including through the development of preferences in selection criteria for proposals to create new Manufacturing USA institutes or renew existing Manufacturing USA institutes that include one or more covered entities.
+- **(b)** For purposes of this subsection, a covered entity is—
+  - **(1)** an historically Black college and university;
+  - **(2)** a Tribal College or University;
+  - **(3)** a minority-serving institution;
+  - **(4)** a minority business enterprise (as such term is defined in section 1400.2 of title 15, Code of Federal Regulations, or successor regulation); or
+  - **(5)** a rural-serving institution of higher education (as such term is defined in section 1161q of title 20 ).

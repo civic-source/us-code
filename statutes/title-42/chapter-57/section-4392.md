@@ -3,9 +3,9 @@ title: "Section 4392 - Presidential study"
 usc_title: 42
 usc_section: "4392"
 chapter: 57
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "42 U.S.C. § 4392"
-generated_at: "2026-03-29T23:14:43.853Z"
+generated_at: "2026-03-29T23:18:45.728Z"
 ---
 
 # § 4392. Presidential study

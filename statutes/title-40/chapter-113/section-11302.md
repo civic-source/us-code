@@ -3,9 +3,9 @@ title: "Section 11302 - Capital planning and investment control"
 usc_title: 40
 usc_section: "11302"
 chapter: 113
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "40 U.S.C. § 11302"
-generated_at: "2026-03-29T23:13:48.073Z"
+generated_at: "2026-03-29T23:18:06.581Z"
 ---
 
 # § 11302. Capital planning and investment control
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T23:13:48.073Z"
     - **(C)** in the case of a major information technology investment of the Department of Defense, the assessment required by subparagraph (A) may be accomplished in accordance with section 2445c 1 of title 10, provided that the results of the review are provided to the Administrator of the Office of Electronic Government upon request and to the committees identified in subsection (B); and
     - **(D)** for a covered agency other than the Department of Defense, if on the date that is one year after the date of completion of the review required under subsection (A), the investment is rated as high risk under paragraph (3)(C), the Director shall deny any request for additional development, modernization, or enhancement funding for the investment until the date on which the Chief Information Officer of the covered agency determines that the root causes of the high level of risk of the investment have been addressed, and there is sufficient capability to deliver the remaining planned increments within the planned cost and schedule.
   - **(5)** At the same time that the President submits the budget for a fiscal year to Congress under section 1105(a) of title 31 , the Director shall submit to Congress a report on the net program performance benefits achieved as a result of major capital investments made by executive agencies for information systems and how the benefits relate to the accomplishment of the goals of the executive agencies.
-- **(d)** The Director shall oversee the development and implementation of standards and guidelines pertaining to federal computer systems by the Secretary of Commerce through the National Institute of Standards and Technology under section 11331 of this title and section 20 of the National Institute of Standards and Technology Act ( 15 U.S.C. 278g–3 ).
+- **(d)** The Director shall oversee the development and implementation of standards and guidelines pertaining to federal computer systems by the Secretary of Commerce through the National Institute of Standards and Technology under section 11331 of this title 1 and section 20 of the National Institute of Standards and Technology Act ( 15 U.S.C. 278g–3 ).
 - **(e)** The Director shall designate the head of one or more executive agencies, as the Director considers appropriate, as executive agent for Government-wide acquisitions of information technology.
 - **(f)** The Director shall encourage the heads of the executive agencies to develop and use the best practices in the acquisition of information technology.
 - **(g)** On a continuing basis, the Director shall assess the experiences of executive agencies, state and local governments, international organizations, and the private sector in managing information technology.

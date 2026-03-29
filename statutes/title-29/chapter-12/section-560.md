@@ -3,9 +3,9 @@ title: "Section 560 - Reports and investigations"
 usc_title: 29
 usc_section: "560"
 chapter: 12
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "29 U.S.C. § 560"
-generated_at: "2026-03-29T23:12:20.995Z"
+generated_at: "2026-03-29T23:17:42.956Z"
 ---
 
 # § 560. Reports and investigations

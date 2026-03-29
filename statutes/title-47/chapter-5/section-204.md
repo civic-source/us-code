@@ -3,9 +3,9 @@ title: "Section 204 - Hearings on new charges; suspension pending hearing; refun
 usc_title: 47
 usc_section: "204"
 chapter: 5
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "47 U.S.C. § 204"
-generated_at: "2026-03-29T23:15:01.769Z"
+generated_at: "2026-03-29T23:18:49.639Z"
 ---
 
 # § 204. Hearings on new charges; suspension pending hearing; refunds; duration of hearing; appeal of order concluding hearing

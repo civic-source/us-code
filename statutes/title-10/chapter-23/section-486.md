@@ -3,9 +3,9 @@ title: "Section 486 - Annual reports on racial and ethnic demographics in the mi
 usc_title: 10
 usc_section: "486"
 chapter: 23
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "10 U.S.C. § 486"
-generated_at: "2026-03-29T23:10:50.058Z"
+generated_at: "2026-03-29T23:16:24.225Z"
 ---
 
 # § 486. Annual reports on racial and ethnic demographics in the military justice system

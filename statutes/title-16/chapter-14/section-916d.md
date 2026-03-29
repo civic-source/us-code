@@ -3,9 +3,9 @@ title: "Section 916d - Licenses"
 usc_title: 16
 usc_section: "916d"
 chapter: 14
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "16 U.S.C. § 916d"
-generated_at: "2026-03-29T23:11:41.664Z"
+generated_at: "2026-03-29T23:17:08.437Z"
 ---
 
 # § 916d. Licenses

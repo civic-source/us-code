@@ -3,9 +3,9 @@ title: "Section 78h - Restrictions on borrowing and lending by members, brokers,
 usc_title: 15
 usc_section: "78h"
 chapter: 2
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "15 U.S.C. § 78h"
-generated_at: "2026-03-29T23:11:14.625Z"
+generated_at: "2026-03-29T23:17:00.452Z"
 ---
 
 # § 78h. Restrictions on borrowing and lending by members, brokers, and dealers

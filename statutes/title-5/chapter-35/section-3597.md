@@ -3,9 +3,9 @@ title: "Section 3597 - Reemployment following limited appointment in the Foreign
 usc_title: 5
 usc_section: "3597"
 chapter: 35
-current_through: "PL 117-166"
+current_through: "PL 117-174"
 classification: "5 U.S.C. § 3597"
-generated_at: "2026-03-29T23:10:37.407Z"
+generated_at: "2026-03-29T23:16:00.906Z"
 ---
 
 # § 3597. Reemployment following limited appointment in the Foreign Service
