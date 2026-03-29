@@ -3,9 +3,9 @@ title: "Section 502 - Payments to States; computation of amounts"
 usc_title: 42
 usc_section: "502"
 chapter: 7
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 502"
-generated_at: "2026-03-29T23:31:58.953Z"
+generated_at: "2026-03-29T23:36:46.766Z"
 ---
 
 # § 502. Payments to States; computation of amounts

@@ -3,9 +3,9 @@ title: "Section 6309 - Authorization of appropriations"
 usc_title: 42
 usc_section: "6309"
 chapter: 77
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 6309"
-generated_at: "2026-03-29T23:31:59.266Z"
+generated_at: "2026-03-29T23:36:47.087Z"
 ---
 
 # § 6309. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 13261 - Prohibited acts"
 usc_title: 42
 usc_section: "13261"
 chapter: 134
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 13261"
-generated_at: "2026-03-29T23:31:59.423Z"
+generated_at: "2026-03-29T23:36:47.249Z"
 ---
 
 # § 13261. Prohibited acts

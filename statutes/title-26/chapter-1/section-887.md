@@ -3,9 +3,9 @@ title: "Section 887 - Imposition of tax on gross transportation income of nonres
 usc_title: 26
 usc_section: "887"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "26 U.S.C. § 887"
-generated_at: "2026-03-29T23:29:54.937Z"
+generated_at: "2026-03-29T23:34:43.115Z"
 ---
 
 # § 887. Imposition of tax on gross transportation income of nonresident aliens and foreign corporations

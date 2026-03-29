@@ -3,9 +3,9 @@ title: "Section 6303 - School improvement"
 usc_title: 20
 usc_section: "6303"
 chapter: 70
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "20 U.S.C. § 6303"
-generated_at: "2026-03-29T23:29:00.243Z"
+generated_at: "2026-03-29T23:33:44.312Z"
 ---
 
 # § 6303. School improvement

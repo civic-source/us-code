@@ -3,9 +3,9 @@ title: "Section 1258 - Reclamation plan requirements"
 usc_title: 30
 usc_section: "1258"
 chapter: 25
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "30 U.S.C. § 1258"
-generated_at: "2026-03-29T23:30:01.669Z"
+generated_at: "2026-03-29T23:34:15.173Z"
 ---
 
 # § 1258. Reclamation plan requirements

@@ -3,9 +3,9 @@ title: "Section 847 - Art. 47. Refusal of person not subject to chapter to appea
 usc_title: 10
 usc_section: "847"
 chapter: 47
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 847"
-generated_at: "2026-03-29T23:27:42.052Z"
+generated_at: "2026-03-29T23:33:10.183Z"
 ---
 
 # § 847. Art. 47. Refusal of person not subject to chapter to appear, testify, or produce evidence

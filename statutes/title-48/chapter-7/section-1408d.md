@@ -3,9 +3,9 @@ title: "Section 1408d - Ratification of prior acts"
 usc_title: 48
 usc_section: "1408d"
 chapter: 7
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "48 U.S.C. § 1408d"
-generated_at: "2026-03-29T23:32:02.393Z"
+generated_at: "2026-03-29T23:37:06.121Z"
 ---
 
 # § 1408d. Ratification of prior acts

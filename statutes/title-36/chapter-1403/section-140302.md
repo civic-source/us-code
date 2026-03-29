@@ -3,9 +3,9 @@ title: "Section 140302 - Purposes"
 usc_title: 36
 usc_section: "140302"
 chapter: 1403
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "36 U.S.C. § 140302"
-generated_at: "2026-03-29T23:30:40.907Z"
+generated_at: "2026-03-29T23:35:23.317Z"
 ---
 
 # § 140302. Purposes

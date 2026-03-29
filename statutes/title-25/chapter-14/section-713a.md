@@ -3,9 +3,9 @@ title: "Section 713a - Omitted"
 usc_title: 25
 usc_section: "713a"
 chapter: 14
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "25 U.S.C. § 713a"
-generated_at: "2026-03-29T23:29:20.334Z"
+generated_at: "2026-03-29T23:34:09.978Z"
 ---
 
 # § 713a. Omitted

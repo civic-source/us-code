@@ -3,9 +3,9 @@ title: "Section 3487 - Refusal to pay as evidence of embezzlement"
 usc_title: 18
 usc_section: "3487"
 chapter: 223
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "18 U.S.C. § 3487"
-generated_at: "2026-03-29T23:28:55.552Z"
+generated_at: "2026-03-29T23:33:42.120Z"
 ---
 
 # § 3487. Refusal to pay as evidence of embezzlement

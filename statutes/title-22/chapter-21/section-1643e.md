@@ -3,9 +3,9 @@ title: "Section 1643e - Offsets"
 usc_title: 22
 usc_section: "1643e"
 chapter: 21
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "22 U.S.C. § 1643e"
-generated_at: "2026-03-29T23:29:38.019Z"
+generated_at: "2026-03-29T23:34:02.708Z"
 ---
 
 # § 1643e. Offsets

@@ -3,9 +3,9 @@ title: "Section 754a - Appropriations for United States Fish and Wildlife Servic
 usc_title: 16
 usc_section: "754a"
 chapter: 9
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 754a"
-generated_at: "2026-03-29T23:28:58.085Z"
+generated_at: "2026-03-29T23:33:56.387Z"
 ---
 
 # § 754a. Appropriations for United States Fish and Wildlife Service; purchases from

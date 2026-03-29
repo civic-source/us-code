@@ -3,9 +3,9 @@ title: "Section 3757 - Recall of a retired officer; grade upon release"
 usc_title: 14
 usc_section: "3757"
 chapter: 37
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "14 U.S.C. § 3757"
-generated_at: "2026-03-29T23:28:07.882Z"
+generated_at: "2026-03-29T23:33:30.763Z"
 ---
 
 # § 3757. Recall of a retired officer; grade upon release

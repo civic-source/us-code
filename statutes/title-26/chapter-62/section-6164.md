@@ -3,9 +3,9 @@ title: "Section 6164 - Extension of time for payment of taxes by corporations ex
 usc_title: 26
 usc_section: "6164"
 chapter: 62
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "26 U.S.C. § 6164"
-generated_at: "2026-03-29T23:29:55.023Z"
+generated_at: "2026-03-29T23:34:43.208Z"
 ---
 
 # § 6164. Extension of time for payment of taxes by corporations expecting carrybacks

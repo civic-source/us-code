@@ -3,9 +3,9 @@ title: "Section 33101 - Definitions"
 usc_title: 49
 usc_section: "33101"
 chapter: 331
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "49 U.S.C. § 33101"
-generated_at: "2026-03-29T23:32:06.179Z"
+generated_at: "2026-03-29T23:37:02.653Z"
 ---
 
 # § 33101. Definitions

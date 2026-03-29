@@ -3,9 +3,9 @@ title: "Section 1503 - International obligations of the United States"
 usc_title: 11
 usc_section: "1503"
 chapter: 15
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "11 U.S.C. § 1503"
-generated_at: "2026-03-29T23:28:29.122Z"
+generated_at: "2026-03-29T23:33:21.466Z"
 ---
 
 # § 1503. International obligations of the United States

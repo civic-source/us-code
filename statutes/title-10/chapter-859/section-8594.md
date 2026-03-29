@@ -3,9 +3,9 @@ title: "Section 8594 - Marine Corps University: acceptance of grants for faculty
 usc_title: 10
 usc_section: "8594"
 chapter: 859
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 8594"
-generated_at: "2026-03-29T23:27:42.159Z"
+generated_at: "2026-03-29T23:33:10.289Z"
 ---
 
 # § 8594. Marine Corps University: acceptance of grants for faculty research for scientific, literary, and educational purposes

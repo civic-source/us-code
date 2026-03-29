@@ -3,9 +3,9 @@ title: "Section 3506 - Copies of laws"
 usc_title: 46
 usc_section: "3506"
 chapter: 35
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "46 U.S.C. § 3506"
-generated_at: "2026-03-29T23:32:15.931Z"
+generated_at: "2026-03-29T23:36:50.984Z"
 ---
 
 # § 3506. Copies of laws

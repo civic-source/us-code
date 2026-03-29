@@ -3,9 +3,9 @@ title: "Section 81a - Definitions"
 usc_title: 19
 usc_section: "81a"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "19 U.S.C. § 81a"
-generated_at: "2026-03-29T23:29:08.413Z"
+generated_at: "2026-03-29T23:33:47.257Z"
 ---
 
 # § 81a. Definitions

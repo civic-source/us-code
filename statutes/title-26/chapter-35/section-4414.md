@@ -3,9 +3,9 @@ title: "Section 4414 - Cross references"
 usc_title: 26
 usc_section: "4414"
 chapter: 35
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "26 U.S.C. § 4414"
-generated_at: "2026-03-29T23:29:54.988Z"
+generated_at: "2026-03-29T23:34:43.173Z"
 ---
 
 # § 4414. Cross references

@@ -3,9 +3,9 @@ title: "Section 1607 - Village Corporations"
 usc_title: 43
 usc_section: "1607"
 chapter: 33
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "43 U.S.C. § 1607"
-generated_at: "2026-03-29T23:30:55.669Z"
+generated_at: "2026-03-29T23:36:02.294Z"
 ---
 
 # § 1607. Village Corporations

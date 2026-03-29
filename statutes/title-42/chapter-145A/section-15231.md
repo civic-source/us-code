@@ -3,9 +3,9 @@ title: "Section 15231 - Transferred"
 usc_title: 42
 usc_section: "15231"
 chapter: 145
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 15231"
-generated_at: "2026-03-29T23:31:59.439Z"
+generated_at: "2026-03-29T23:36:47.266Z"
 ---
 
 # § 15231. Transferred

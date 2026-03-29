@@ -3,9 +3,9 @@ title: "Section 9343 - Highest grade held satisfactorily: Reserve enlisted membe
 usc_title: 10
 usc_section: "9343"
 chapter: 943
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 9343"
-generated_at: "2026-03-29T23:27:42.167Z"
+generated_at: "2026-03-29T23:33:10.297Z"
 ---
 
 # § 9343. Highest grade held satisfactorily: Reserve enlisted members reduced in grade not as a result of the member’s misconduct

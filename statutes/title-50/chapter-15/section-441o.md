@@ -3,9 +3,9 @@ title: "Section 441o - Transferred"
 usc_title: 50
 usc_section: "441o"
 chapter: 15
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "50 U.S.C. § 441o"
-generated_at: "2026-03-29T23:32:08.605Z"
+generated_at: "2026-03-29T23:37:11.293Z"
 ---
 
 # § 441o. Transferred

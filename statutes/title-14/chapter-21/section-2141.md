@@ -3,9 +3,9 @@ title: "Section 2141 - Revocation of commissions during first five years of comm
 usc_title: 14
 usc_section: "2141"
 chapter: 21
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "14 U.S.C. § 2141"
-generated_at: "2026-03-29T23:28:07.878Z"
+generated_at: "2026-03-29T23:33:30.758Z"
 ---
 
 # § 2141. Revocation of commissions during first five years of commissioned service

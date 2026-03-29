@@ -3,9 +3,9 @@ title: "Section 6056 - Certain employers required to report on health insurance 
 usc_title: 26
 usc_section: "6056"
 chapter: 61
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "26 U.S.C. § 6056"
-generated_at: "2026-03-29T23:29:55.017Z"
+generated_at: "2026-03-29T23:34:43.202Z"
 ---
 
 # § 6056. Certain employers required to report on health insurance coverage

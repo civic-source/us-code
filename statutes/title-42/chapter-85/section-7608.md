@@ -3,9 +3,9 @@ title: "Section 7608 - Mandatory licensing"
 usc_title: 42
 usc_section: "7608"
 chapter: 85
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 7608"
-generated_at: "2026-03-29T23:31:59.322Z"
+generated_at: "2026-03-29T23:36:47.144Z"
 ---
 
 # § 7608. Mandatory licensing

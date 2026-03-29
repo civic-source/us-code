@@ -3,9 +3,9 @@ title: "Section 3852 - Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(
 usc_title: 22
 usc_section: "3852"
 chapter: 51
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "22 U.S.C. § 3852"
-generated_at: "2026-03-29T23:29:38.070Z"
+generated_at: "2026-03-29T23:34:02.763Z"
 ---
 
 # §§ 3851, 3852. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(4) , Sept. 23, 1996 , 110 Stat. 2868

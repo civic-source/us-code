@@ -3,9 +3,9 @@ title: "Section 661a - Definitions"
 usc_title: 2
 usc_section: "661a"
 chapter: 17
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "2 U.S.C. § 661a"
-generated_at: "2026-03-29T23:26:58.029Z"
+generated_at: "2026-03-29T23:32:53.287Z"
 ---
 
 # § 661a. Definitions

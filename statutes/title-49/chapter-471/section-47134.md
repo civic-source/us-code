@@ -3,9 +3,9 @@ title: "Section 47134 - Airport investment partnership program"
 usc_title: 49
 usc_section: "47134"
 chapter: 471
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "49 U.S.C. § 47134"
-generated_at: "2026-03-29T23:32:06.207Z"
+generated_at: "2026-03-29T23:37:02.683Z"
 ---
 
 # § 47134. Airport investment partnership program

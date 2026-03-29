@@ -3,9 +3,9 @@ title: "Section 7e - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "7e"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 7e"
-generated_at: "2026-03-29T23:28:57.965Z"
+generated_at: "2026-03-29T23:33:56.264Z"
 ---
 
 # § 7e. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

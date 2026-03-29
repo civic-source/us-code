@@ -3,9 +3,9 @@ title: "Section 2109 - Practical military training"
 usc_title: 10
 usc_section: "2109"
 chapter: 103
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 2109"
-generated_at: "2026-03-29T23:27:42.096Z"
+generated_at: "2026-03-29T23:33:10.226Z"
 ---
 
 # § 2109. Practical military training

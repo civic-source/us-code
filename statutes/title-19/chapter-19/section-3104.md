@@ -3,9 +3,9 @@ title: "Section 3104 - Negotiations in response to investigation"
 usc_title: 19
 usc_section: "3104"
 chapter: 19
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "19 U.S.C. § 3104"
-generated_at: "2026-03-29T23:29:08.462Z"
+generated_at: "2026-03-29T23:33:47.306Z"
 ---
 
 # § 3104. Negotiations in response to investigation

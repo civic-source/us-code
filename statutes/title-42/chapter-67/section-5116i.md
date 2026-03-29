@@ -3,9 +3,9 @@ title: "Section 5116i - Authorization of appropriations"
 usc_title: 42
 usc_section: "5116i"
 chapter: 67
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 5116i"
-generated_at: "2026-03-29T23:31:59.239Z"
+generated_at: "2026-03-29T23:36:47.060Z"
 ---
 
 # § 5116i. Authorization of appropriations

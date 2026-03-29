@@ -3,9 +3,9 @@ title: "Section 5413 - Administrative services and support"
 usc_title: 25
 usc_section: "5413"
 chapter: 46
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "25 U.S.C. § 5413"
-generated_at: "2026-03-29T23:29:20.388Z"
+generated_at: "2026-03-29T23:34:10.032Z"
 ---
 
 # § 5413. Administrative services and support

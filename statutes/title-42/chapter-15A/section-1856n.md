@@ -3,9 +3,9 @@ title: "Section 1856n - Implementation"
 usc_title: 42
 usc_section: "1856n"
 chapter: 15
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 1856n"
-generated_at: "2026-03-29T23:31:59.158Z"
+generated_at: "2026-03-29T23:36:46.973Z"
 ---
 
 # § 1856n. Implementation

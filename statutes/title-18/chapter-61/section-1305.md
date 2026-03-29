@@ -3,9 +3,9 @@ title: "Section 1305 - Fishing contests"
 usc_title: 18
 usc_section: "1305"
 chapter: 61
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "18 U.S.C. § 1305"
-generated_at: "2026-03-29T23:28:55.526Z"
+generated_at: "2026-03-29T23:33:42.094Z"
 ---
 
 # § 1305. Fishing contests

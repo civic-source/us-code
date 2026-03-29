@@ -3,9 +3,9 @@ title: "Section 645a - Human trafficking assessment"
 usc_title: 6
 usc_section: "645a"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "6 U.S.C. § 645a"
-generated_at: "2026-03-29T23:27:16.072Z"
+generated_at: "2026-03-29T23:33:05.784Z"
 ---
 
 # § 645a. Human trafficking assessment

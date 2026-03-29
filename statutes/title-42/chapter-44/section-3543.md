@@ -3,9 +3,9 @@ title: "Section 3543 - Preventing fraud and abuse in Department of Housing and U
 usc_title: 42
 usc_section: "3543"
 chapter: 44
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 3543"
-generated_at: "2026-03-29T23:31:59.214Z"
+generated_at: "2026-03-29T23:36:47.032Z"
 ---
 
 # § 3543. Preventing fraud and abuse in Department of Housing and Urban Development programs

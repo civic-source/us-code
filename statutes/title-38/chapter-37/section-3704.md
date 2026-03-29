@@ -3,9 +3,9 @@ title: "Section 3704 - Restrictions on loans"
 usc_title: 38
 usc_section: "3704"
 chapter: 37
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "38 U.S.C. § 3704"
-generated_at: "2026-03-29T23:30:52.807Z"
+generated_at: "2026-03-29T23:35:50.324Z"
 ---
 
 # § 3704. Restrictions on loans

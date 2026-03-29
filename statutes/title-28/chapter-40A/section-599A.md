@@ -3,9 +3,9 @@ title: "Section 599A - Bureau of alcohol, tobacco, firearms, and Explosives 1 1 
 usc_title: 28
 usc_section: "599A"
 chapter: 40
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "28 U.S.C. § 599A"
-generated_at: "2026-03-29T23:30:11.205Z"
+generated_at: "2026-03-29T23:34:15.848Z"
 ---
 
 # § 599A. Bureau of alcohol, tobacco, firearms, and Explosives 1 1 So in original. Probably should be “Bureau of Alcohol, Tobacco, Firearms, and Explosives”.

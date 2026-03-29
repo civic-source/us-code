@@ -3,9 +3,9 @@ title: "Section 3505 - Forgiveness of outstanding advances"
 usc_title: 40
 usc_section: "3505"
 chapter: 35
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "40 U.S.C. § 3505"
-generated_at: "2026-03-29T23:30:45.799Z"
+generated_at: "2026-03-29T23:35:33.090Z"
 ---
 
 # § 3505. Forgiveness of outstanding advances

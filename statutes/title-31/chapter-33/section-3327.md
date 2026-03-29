@@ -3,9 +3,9 @@ title: "Section 3327 - General authority to issue checks and other drafts"
 usc_title: 31
 usc_section: "3327"
 chapter: 33
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "31 U.S.C. § 3327"
-generated_at: "2026-03-29T23:30:22.212Z"
+generated_at: "2026-03-29T23:34:46.826Z"
 ---
 
 # § 3327. General authority to issue checks and other drafts

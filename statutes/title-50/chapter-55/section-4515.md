@@ -3,9 +3,9 @@ title: "Section 4515 - Presidential power to ration gasoline among classes of en
 usc_title: 50
 usc_section: "4515"
 chapter: 55
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "50 U.S.C. § 4515"
-generated_at: "2026-03-29T23:32:08.674Z"
+generated_at: "2026-03-29T23:37:11.353Z"
 ---
 
 # § 4515. Presidential power to ration gasoline among classes of end-users unaffected

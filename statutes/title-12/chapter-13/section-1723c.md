@@ -3,9 +3,9 @@ title: "Section 1723c - Obligations, participations, or other instruments as law
 usc_title: 12
 usc_section: "1723c"
 chapter: 13
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "12 U.S.C. § 1723c"
-generated_at: "2026-03-29T23:28:25.380Z"
+generated_at: "2026-03-29T23:33:38.281Z"
 ---
 
 # § 1723c. Obligations, participations, or other instruments as lawful investments; acceptance as security; exempt securities

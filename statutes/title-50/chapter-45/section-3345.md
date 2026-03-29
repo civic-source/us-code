@@ -3,9 +3,9 @@ title: "Section 3345 - Limitation on handling, retention, and storage of certain
 usc_title: 50
 usc_section: "3345"
 chapter: 45
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "50 U.S.C. § 3345"
-generated_at: "2026-03-29T23:32:08.652Z"
+generated_at: "2026-03-29T23:37:11.332Z"
 ---
 
 # § 3345. Limitation on handling, retention, and storage of certain classified materials by the Department of State

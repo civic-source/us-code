@@ -3,9 +3,9 @@ title: "Section 4882 - Industrial mobilization: orders; priorities; possession o
 usc_title: 10
 usc_section: "4882"
 chapter: 385
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 4882"
-generated_at: "2026-03-29T23:27:42.146Z"
+generated_at: "2026-03-29T23:33:10.275Z"
 ---
 
 # § 4882. Industrial mobilization: orders; priorities; possession of manufacturing plants; violations

@@ -3,9 +3,9 @@ title: "Section 9 - Regulations"
 usc_title: 16
 usc_section: "9"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-29T23:28:58.051Z"
+generated_at: "2026-03-29T23:33:56.352Z"
 ---
 
 # § 470aaa–9. Regulations

@@ -3,9 +3,9 @@ title: "Section 3865 - Establishment and purposes"
 usc_title: 16
 usc_section: "3865"
 chapter: 58
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 3865"
-generated_at: "2026-03-29T23:28:58.271Z"
+generated_at: "2026-03-29T23:33:56.471Z"
 ---
 
 # § 3865. Establishment and purposes

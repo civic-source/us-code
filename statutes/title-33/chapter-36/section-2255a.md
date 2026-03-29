@@ -3,9 +3,9 @@ title: "Section 2255a - High water-low water preparedness"
 usc_title: 33
 usc_section: "2255a"
 chapter: 36
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "33 U.S.C. § 2255a"
-generated_at: "2026-03-29T23:30:21.116Z"
+generated_at: "2026-03-29T23:34:54.549Z"
 ---
 
 # § 2255a. High water-low water preparedness

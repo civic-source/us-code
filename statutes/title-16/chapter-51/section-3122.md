@@ -3,9 +3,9 @@ title: "Section 3122 - Research"
 usc_title: 16
 usc_section: "3122"
 chapter: 51
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 3122"
-generated_at: "2026-03-29T23:28:58.256Z"
+generated_at: "2026-03-29T23:33:56.456Z"
 ---
 
 # § 3122. Research

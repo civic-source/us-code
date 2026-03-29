@@ -3,9 +3,9 @@ title: "Section 3056h - Eligibility for workforce investment activities"
 usc_title: 42
 usc_section: "3056h"
 chapter: 35
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 3056h"
-generated_at: "2026-03-29T23:31:59.206Z"
+generated_at: "2026-03-29T23:36:47.022Z"
 ---
 
 # § 3056h. Eligibility for workforce investment activities

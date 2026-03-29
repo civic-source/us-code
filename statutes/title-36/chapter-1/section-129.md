@@ -3,9 +3,9 @@ title: "Section 129 - National Pearl Harbor Remembrance Day"
 usc_title: 36
 usc_section: "129"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "36 U.S.C. § 129"
-generated_at: "2026-03-29T23:30:40.897Z"
+generated_at: "2026-03-29T23:35:23.307Z"
 ---
 
 # § 129. National Pearl Harbor Remembrance Day

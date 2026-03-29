@@ -3,9 +3,9 @@ title: "Section 1403 - Preparation of plan"
 usc_title: 25
 usc_section: "1403"
 chapter: 16
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "25 U.S.C. § 1403"
-generated_at: "2026-03-29T23:29:20.337Z"
+generated_at: "2026-03-29T23:34:09.981Z"
 ---
 
 # § 1403. Preparation of plan

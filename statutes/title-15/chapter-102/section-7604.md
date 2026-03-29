@@ -3,9 +3,9 @@ title: "Section 7604 - Expiration of contact lens prescriptions"
 usc_title: 15
 usc_section: "7604"
 chapter: 102
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "15 U.S.C. § 7604"
-generated_at: "2026-03-29T23:28:23.524Z"
+generated_at: "2026-03-29T23:33:26.157Z"
 ---
 
 # § 7604. Expiration of contact lens prescriptions

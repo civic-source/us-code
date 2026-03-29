@@ -3,9 +3,9 @@ title: "Section 883c - Geomagnetic data; collection, correlation, and disseminat
 usc_title: 33
 usc_section: "883c"
 chapter: 17
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "33 U.S.C. § 883c"
-generated_at: "2026-03-29T23:30:21.082Z"
+generated_at: "2026-03-29T23:34:54.511Z"
 ---
 
 # § 883c. Geomagnetic data; collection, correlation, and dissemination

@@ -3,9 +3,9 @@ title: "Section 5505 - Monthly pay periods; computation of pay"
 usc_title: 5
 usc_section: "5505"
 chapter: 55
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "5 U.S.C. § 5505"
-generated_at: "2026-03-29T23:27:13.622Z"
+generated_at: "2026-03-29T23:32:32.901Z"
 ---
 
 # § 5505. Monthly pay periods; computation of pay

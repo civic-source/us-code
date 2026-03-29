@@ -3,9 +3,9 @@ title: "Section 1745 - Additional education and training programs available to a
 usc_title: 10
 usc_section: "1745"
 chapter: 87
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 1745"
-generated_at: "2026-03-29T23:27:42.093Z"
+generated_at: "2026-03-29T23:33:10.222Z"
 ---
 
 # § 1745. Additional education and training programs available to acquisition personnel

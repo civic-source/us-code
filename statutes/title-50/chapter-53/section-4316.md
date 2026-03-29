@@ -3,9 +3,9 @@ title: "Section 4316 - Rules by district courts; appeals"
 usc_title: 50
 usc_section: "4316"
 chapter: 53
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "50 U.S.C. § 4316"
-generated_at: "2026-03-29T23:32:08.672Z"
+generated_at: "2026-03-29T23:37:11.350Z"
 ---
 
 # § 4316. Rules by district courts; appeals

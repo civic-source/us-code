@@ -3,9 +3,9 @@ title: "Section 8090 - Staff corps of the Navy"
 usc_title: 10
 usc_section: "8090"
 chapter: 809
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 8090"
-generated_at: "2026-03-29T23:27:42.155Z"
+generated_at: "2026-03-29T23:33:10.285Z"
 ---
 
 # § 8090. Staff corps of the Navy

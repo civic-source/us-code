@@ -3,9 +3,9 @@ title: "Section 17014 - Research and development into integrating electric vehic
 usc_title: 42
 usc_section: "17014"
 chapter: 152
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 17014"
-generated_at: "2026-03-29T23:31:59.465Z"
+generated_at: "2026-03-29T23:36:47.292Z"
 ---
 
 # § 17014. Research and development into integrating electric vehicles onto the electric grid

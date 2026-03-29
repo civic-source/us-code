@@ -3,9 +3,9 @@ title: "Section 6105 - Liability for repayments"
 usc_title: 22
 usc_section: "6105"
 chapter: 70
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "22 U.S.C. § 6105"
-generated_at: "2026-03-29T23:29:38.095Z"
+generated_at: "2026-03-29T23:34:02.790Z"
 ---
 
 # § 6105. Liability for repayments

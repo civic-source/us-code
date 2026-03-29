@@ -3,9 +3,9 @@ title: "Section 11801 - Establishment of drug abuse education and prevention pro
 usc_title: 42
 usc_section: "11801"
 chapter: 123
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 11801"
-generated_at: "2026-03-29T23:31:59.394Z"
+generated_at: "2026-03-29T23:36:47.220Z"
 ---
 
 # § 11801. Establishment of drug abuse education and prevention program relating to youth gangs

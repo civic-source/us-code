@@ -3,9 +3,9 @@ title: "Section 5112 - Registration and regulation"
 usc_title: 26
 usc_section: "5112"
 chapter: 51
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "26 U.S.C. § 5112"
-generated_at: "2026-03-29T23:29:55.002Z"
+generated_at: "2026-03-29T23:34:43.188Z"
 ---
 
 # § 5112. Registration and regulation

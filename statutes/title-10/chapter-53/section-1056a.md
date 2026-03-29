@@ -3,9 +3,9 @@ title: "Section 1056a - Reintegration of recovered Department of Defense personn
 usc_title: 10
 usc_section: "1056a"
 chapter: 53
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 1056a"
-generated_at: "2026-03-29T23:27:42.064Z"
+generated_at: "2026-03-29T23:33:10.194Z"
 ---
 
 # § 1056a. Reintegration of recovered Department of Defense personnel; post-isolation support activities for other recovered personnel

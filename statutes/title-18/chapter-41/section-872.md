@@ -3,9 +3,9 @@ title: "Section 872 - Extortion by officers or employees of the United States"
 usc_title: 18
 usc_section: "872"
 chapter: 41
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "18 U.S.C. § 872"
-generated_at: "2026-03-29T23:28:55.515Z"
+generated_at: "2026-03-29T23:33:42.085Z"
 ---
 
 # § 872. Extortion by officers or employees of the United States

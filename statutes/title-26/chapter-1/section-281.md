@@ -3,9 +3,9 @@ title: "Section 281 - Terminal railroad corporations and their shareholders"
 usc_title: 26
 usc_section: "281"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "26 U.S.C. § 281"
-generated_at: "2026-03-29T23:29:54.791Z"
+generated_at: "2026-03-29T23:34:43.050Z"
 ---
 
 # § 281. Terminal railroad corporations and their shareholders

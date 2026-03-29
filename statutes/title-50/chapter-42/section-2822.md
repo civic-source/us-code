@@ -3,9 +3,9 @@ title: "Section 2822 - Payment of costs of operation and maintenance of infrastr
 usc_title: 50
 usc_section: "2822"
 chapter: 42
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "50 U.S.C. § 2822"
-generated_at: "2026-03-29T23:32:08.637Z"
+generated_at: "2026-03-29T23:37:11.318Z"
 ---
 
 # § 2822. Payment of costs of operation and maintenance of infrastructure at Nevada National Security Site

@@ -3,9 +3,9 @@ title: "Section 837 - Definitions"
 usc_title: 16
 usc_section: "837"
 chapter: 12
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 837"
-generated_at: "2026-03-29T23:28:58.100Z"
+generated_at: "2026-03-29T23:33:56.402Z"
 ---
 
 # § 837. Definitions

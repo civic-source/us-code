@@ -3,9 +3,9 @@ title: "Section 5723 - Packages, marks, labels, and notices"
 usc_title: 26
 usc_section: "5723"
 chapter: 52
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "26 U.S.C. § 5723"
-generated_at: "2026-03-29T23:29:55.008Z"
+generated_at: "2026-03-29T23:34:43.193Z"
 ---
 
 # § 5723. Packages, marks, labels, and notices

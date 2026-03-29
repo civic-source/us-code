@@ -3,9 +3,9 @@ title: "Section 1730 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1730"
 chapter: 37
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 1730"
-generated_at: "2026-03-29T23:28:58.239Z"
+generated_at: "2026-03-29T23:33:56.438Z"
 ---
 
 # § 1730. Authorization of appropriations

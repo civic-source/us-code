@@ -3,9 +3,9 @@ title: "Section 184 - Rights of children born of marriages between white men and
 usc_title: 25
 usc_section: "184"
 chapter: 5
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "25 U.S.C. § 184"
-generated_at: "2026-03-29T23:29:20.324Z"
+generated_at: "2026-03-29T23:34:09.968Z"
 ---
 
 # § 184. Rights of children born of marriages between white men and Indian women

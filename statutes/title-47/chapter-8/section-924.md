@@ -3,9 +3,9 @@ title: "Section 924 - Withdrawal or limitation of assignment to Federal Governme
 usc_title: 47
 usc_section: "924"
 chapter: 8
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "47 U.S.C. § 924"
-generated_at: "2026-03-29T23:32:06.744Z"
+generated_at: "2026-03-29T23:36:55.164Z"
 ---
 
 # § 924. Withdrawal or limitation of assignment to Federal Government stations

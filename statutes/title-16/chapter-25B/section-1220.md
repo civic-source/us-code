@@ -3,9 +3,9 @@ title: "Section 1220 - State applications for obsolete ships for use as offshore
 usc_title: 16
 usc_section: "1220"
 chapter: 25
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 1220"
-generated_at: "2026-03-29T23:28:58.213Z"
+generated_at: "2026-03-29T23:33:56.413Z"
 ---
 
 # § 1220. State applications for obsolete ships for use as offshore reefs

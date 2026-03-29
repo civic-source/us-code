@@ -3,9 +3,9 @@ title: "Section 1693 - Place of arrest in civil action"
 usc_title: 28
 usc_section: "1693"
 chapter: 113
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "28 U.S.C. § 1693"
-generated_at: "2026-03-29T23:30:11.213Z"
+generated_at: "2026-03-29T23:34:15.857Z"
 ---
 
 # § 1693. Place of arrest in civil action

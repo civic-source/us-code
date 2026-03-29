@@ -3,9 +3,9 @@ title: "Section 12105 - Army Reserve and Air Force Reserve: transfer from Guard 
 usc_title: 10
 usc_section: "12105"
 chapter: 1203
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 12105"
-generated_at: "2026-03-29T23:27:42.176Z"
+generated_at: "2026-03-29T23:33:10.306Z"
 ---
 
 # § 12105. Army Reserve and Air Force Reserve: transfer from Guard components

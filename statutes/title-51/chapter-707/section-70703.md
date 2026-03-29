@@ -3,9 +3,9 @@ title: "Section 70703 - Tasks of Commission"
 usc_title: 51
 usc_section: "70703"
 chapter: 707
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "51 U.S.C. § 70703"
-generated_at: "2026-03-29T23:32:18.914Z"
+generated_at: "2026-03-29T23:37:17.444Z"
 ---
 
 # § 70703. Tasks of Commission

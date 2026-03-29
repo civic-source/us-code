@@ -3,9 +3,9 @@ title: "Section 632 - Character of service"
 usc_title: 28
 usc_section: "632"
 chapter: 43
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "28 U.S.C. § 632"
-generated_at: "2026-03-29T23:30:11.206Z"
+generated_at: "2026-03-29T23:34:15.850Z"
 ---
 
 # § 632. Character of service

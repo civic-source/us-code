@@ -3,9 +3,9 @@ title: "Section 5112 - Denominations, specifications, and design of coins"
 usc_title: 31
 usc_section: "5112"
 chapter: 51
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "31 U.S.C. § 5112"
-generated_at: "2026-03-29T23:30:22.220Z"
+generated_at: "2026-03-29T23:34:46.835Z"
 ---
 
 # § 5112. Denominations, specifications, and design of coins

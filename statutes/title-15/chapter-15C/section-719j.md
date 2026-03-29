@@ -3,9 +3,9 @@ title: "Section 719j - Export limitations"
 usc_title: 15
 usc_section: "719j"
 chapter: 15
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "15 U.S.C. § 719j"
-generated_at: "2026-03-29T23:28:23.423Z"
+generated_at: "2026-03-29T23:33:26.065Z"
 ---
 
 # § 719j. Export limitations

@@ -3,9 +3,9 @@ title: "Section 7702 - Definitions"
 usc_title: 15
 usc_section: "7702"
 chapter: 103
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "15 U.S.C. § 7702"
-generated_at: "2026-03-29T23:28:23.524Z"
+generated_at: "2026-03-29T23:33:26.157Z"
 ---
 
 # § 7702. Definitions

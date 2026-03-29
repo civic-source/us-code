@@ -3,9 +3,9 @@ title: "Section 271 - Debts owed by political parties, etc."
 usc_title: 26
 usc_section: "271"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "26 U.S.C. § 271"
-generated_at: "2026-03-29T23:29:54.789Z"
+generated_at: "2026-03-29T23:34:43.047Z"
 ---
 
 # § 271. Debts owed by political parties, etc.

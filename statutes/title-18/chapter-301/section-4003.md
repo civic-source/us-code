@@ -3,9 +3,9 @@ title: "Section 4003 - Federal institutions in States without appropriate facili
 usc_title: 18
 usc_section: "4003"
 chapter: 301
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "18 U.S.C. § 4003"
-generated_at: "2026-03-29T23:28:55.560Z"
+generated_at: "2026-03-29T23:33:42.128Z"
 ---
 
 # § 4003. Federal institutions in States without appropriate facilities

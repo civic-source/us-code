@@ -3,9 +3,9 @@ title: "Section 7385i - Forfeiture of benefits by convicted felons"
 usc_title: 42
 usc_section: "7385i"
 chapter: 84
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 7385i"
-generated_at: "2026-03-29T23:31:59.299Z"
+generated_at: "2026-03-29T23:36:47.121Z"
 ---
 
 # § 7385i. Forfeiture of benefits by convicted felons

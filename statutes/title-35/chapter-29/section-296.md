@@ -3,9 +3,9 @@ title: "Section 296 - Liability of States, instrumentalities of States, and Stat
 usc_title: 35
 usc_section: "296"
 chapter: 29
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "35 U.S.C. § 296"
-generated_at: "2026-03-29T23:30:28.012Z"
+generated_at: "2026-03-29T23:34:47.012Z"
 ---
 
 # § 296. Liability of States, instrumentalities of States, and State officials for infringement of patents

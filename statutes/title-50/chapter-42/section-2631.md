@@ -3,9 +3,9 @@ title: "Section 2631 - Accelerated schedule for isolating high-level nuclear was
 usc_title: 50
 usc_section: "2631"
 chapter: 42
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "50 U.S.C. § 2631"
-generated_at: "2026-03-29T23:32:08.631Z"
+generated_at: "2026-03-29T23:37:11.315Z"
 ---
 
 # § 2631. Accelerated schedule for isolating high-level nuclear waste at the Defense Waste Processing Facility, Savannah River Site

@@ -3,9 +3,9 @@ title: "Section 1a - Presumptive eligibility for children"
 usc_title: 42
 usc_section: "1a"
 chapter: 7
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 1a"
-generated_at: "2026-03-29T23:31:59.101Z"
+generated_at: "2026-03-29T23:36:46.915Z"
 ---
 
 # § 1396r–1a. Presumptive eligibility for children

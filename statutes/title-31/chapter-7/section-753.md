@@ -3,9 +3,9 @@ title: "Section 753 - Duties and powers"
 usc_title: 31
 usc_section: "753"
 chapter: 7
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "31 U.S.C. § 753"
-generated_at: "2026-03-29T23:30:22.206Z"
+generated_at: "2026-03-29T23:34:46.819Z"
 ---
 
 # § 753. Duties and powers

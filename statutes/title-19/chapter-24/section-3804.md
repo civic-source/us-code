@@ -3,9 +3,9 @@ title: "Section 3804 - Consultations and assessment"
 usc_title: 19
 usc_section: "3804"
 chapter: 24
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "19 U.S.C. § 3804"
-generated_at: "2026-03-29T23:29:08.469Z"
+generated_at: "2026-03-29T23:33:47.313Z"
 ---
 
 # § 3804. Consultations and assessment

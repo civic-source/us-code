@@ -3,9 +3,9 @@ title: "Section 1302 - Lease of buildings"
 usc_title: 40
 usc_section: "1302"
 chapter: 13
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "40 U.S.C. § 1302"
-generated_at: "2026-03-29T23:30:45.796Z"
+generated_at: "2026-03-29T23:35:33.087Z"
 ---
 
 # § 1302. Lease of buildings

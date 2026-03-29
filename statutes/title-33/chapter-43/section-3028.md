@@ -3,9 +3,9 @@ title: "Section 3028 - Positions of importance and responsibility"
 usc_title: 33
 usc_section: "3028"
 chapter: 43
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "33 U.S.C. § 3028"
-generated_at: "2026-03-29T23:30:21.132Z"
+generated_at: "2026-03-29T23:34:54.565Z"
 ---
 
 # § 3028. Positions of importance and responsibility

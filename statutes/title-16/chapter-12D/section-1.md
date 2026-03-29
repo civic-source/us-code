@@ -3,9 +3,9 @@ title: "Section 1 - Taxation and assessments; applicability of State laws"
 usc_title: 16
 usc_section: "1"
 chapter: 12
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T23:28:58.100Z"
+generated_at: "2026-03-29T23:33:56.401Z"
 ---
 
 # § 835c–1. Taxation and assessments; applicability of State laws

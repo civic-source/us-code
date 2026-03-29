@@ -3,9 +3,9 @@ title: "Section 1410 - Other judicial review prohibited"
 usc_title: 2
 usc_section: "1410"
 chapter: 24
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "2 U.S.C. § 1410"
-generated_at: "2026-03-29T23:26:58.039Z"
+generated_at: "2026-03-29T23:32:53.298Z"
 ---
 
 # § 1410. Other judicial review prohibited

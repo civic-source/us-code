@@ -3,9 +3,9 @@ title: "Section 1703D - Prompt payment standard"
 usc_title: 38
 usc_section: "1703D"
 chapter: 17
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "38 U.S.C. § 1703D"
-generated_at: "2026-03-29T23:30:52.779Z"
+generated_at: "2026-03-29T23:35:50.293Z"
 ---
 
 # § 1703D. Prompt payment standard

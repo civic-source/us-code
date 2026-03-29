@@ -3,9 +3,9 @@ title: "Section 1155 - Repealed. Pub. L. 92–255, title I, § 104 , Mar. 21, 19
 usc_title: 21
 usc_section: "1155"
 chapter: 16
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "21 U.S.C. § 1155"
-generated_at: "2026-03-29T23:29:12.576Z"
+generated_at: "2026-03-29T23:34:04.047Z"
 ---
 
 # §§ 1151 to 1155. Repealed. Pub. L. 92–255, title I, § 104 , Mar. 21, 1972 , 86 Stat. 67

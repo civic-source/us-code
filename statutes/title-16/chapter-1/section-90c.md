@@ -3,9 +3,9 @@ title: "Section 90c - Administration"
 usc_title: 16
 usc_section: "90c"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 90c"
-generated_at: "2026-03-29T23:28:57.971Z"
+generated_at: "2026-03-29T23:33:56.270Z"
 ---
 
 # § 90c. Administration

@@ -3,9 +3,9 @@ title: "Section 5775 - Transferred"
 usc_title: 42
 usc_section: "5775"
 chapter: 72
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 5775"
-generated_at: "2026-03-29T23:31:59.253Z"
+generated_at: "2026-03-29T23:36:47.075Z"
 ---
 
 # § 5775. Transferred

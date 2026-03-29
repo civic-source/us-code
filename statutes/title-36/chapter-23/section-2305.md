@@ -3,9 +3,9 @@ title: "Section 2305 - Staff"
 usc_title: 36
 usc_section: "2305"
 chapter: 23
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "36 U.S.C. § 2305"
-generated_at: "2026-03-29T23:30:40.898Z"
+generated_at: "2026-03-29T23:35:23.309Z"
 ---
 
 # § 2305. Staff

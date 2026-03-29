@@ -3,9 +3,9 @@ title: "Section 10c - National Advisory Committee on Seniors and Disasters"
 usc_title: 42
 usc_section: "10c"
 chapter: 6
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 10c"
-generated_at: "2026-03-29T23:31:58.931Z"
+generated_at: "2026-03-29T23:36:46.744Z"
 ---
 
 # § 300hh–10c. National Advisory Committee on Seniors and Disasters

@@ -3,9 +3,9 @@ title: "Section 22 - Payment requirement"
 usc_title: 42
 usc_section: "22"
 chapter: 35
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-03-29T23:31:59.203Z"
+generated_at: "2026-03-29T23:36:47.019Z"
 ---
 
 # § 3030g–22. Payment requirement

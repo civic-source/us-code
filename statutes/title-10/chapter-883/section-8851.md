@@ -3,9 +3,9 @@ title: "Section 8851 - Scope of chapter"
 usc_title: 10
 usc_section: "8851"
 chapter: 883
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 8851"
-generated_at: "2026-03-29T23:27:42.164Z"
+generated_at: "2026-03-29T23:33:10.294Z"
 ---
 
 # § 8851. Scope of chapter

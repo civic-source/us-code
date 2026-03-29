@@ -3,9 +3,9 @@ title: "Section 81i - Cooperation of Board with other agencies"
 usc_title: 19
 usc_section: "81i"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "19 U.S.C. § 81i"
-generated_at: "2026-03-29T23:29:08.414Z"
+generated_at: "2026-03-29T23:33:47.258Z"
 ---
 
 # § 81i. Cooperation of Board with other agencies

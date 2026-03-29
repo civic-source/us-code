@@ -3,9 +3,9 @@ title: "Section 1973 - Reimbursement of owner for any direct charges paid to sec
 usc_title: 22
 usc_section: "1973"
 chapter: 25
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "22 U.S.C. § 1973"
-generated_at: "2026-03-29T23:29:38.022Z"
+generated_at: "2026-03-29T23:34:02.711Z"
 ---
 
 # § 1973. Reimbursement of owner for any direct charges paid to secure release of vessel and crew

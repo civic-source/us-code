@@ -3,9 +3,9 @@ title: "Section 695n - Leases of Lower Klamath and Tule Lake National Wildlife R
 usc_title: 16
 usc_section: "695n"
 chapter: 6
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 695n"
-generated_at: "2026-03-29T23:28:58.079Z"
+generated_at: "2026-03-29T23:33:56.380Z"
 ---
 
 # § 695n. Leases of Lower Klamath and Tule Lake National Wildlife Refuge reserved lands; management of other reserved public lands for waterfowl purposes

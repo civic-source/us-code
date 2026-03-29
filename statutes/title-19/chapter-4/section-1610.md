@@ -3,9 +3,9 @@ title: "Section 1610 - Seizure; judicial forfeiture proceedings"
 usc_title: 19
 usc_section: "1610"
 chapter: 4
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "19 U.S.C. § 1610"
-generated_at: "2026-03-29T23:29:08.430Z"
+generated_at: "2026-03-29T23:33:47.273Z"
 ---
 
 # § 1610. Seizure; judicial forfeiture proceedings

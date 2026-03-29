@@ -3,9 +3,9 @@ title: "Section 687c - Alaskan land leases for fur farming; citizenship; acreage
 usc_title: 43
 usc_section: "687c"
 chapter: 16
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "43 U.S.C. § 687c"
-generated_at: "2026-03-29T23:30:55.652Z"
+generated_at: "2026-03-29T23:36:02.280Z"
 ---
 
 # § 687c. Alaskan land leases for fur farming; citizenship; acreage limitation; period; terms and conditions; laws applicable to mineral resources; reservations

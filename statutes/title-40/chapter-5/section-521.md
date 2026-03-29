@@ -3,9 +3,9 @@ title: "Section 521 - Policies and methods"
 usc_title: 40
 usc_section: "521"
 chapter: 5
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "40 U.S.C. § 521"
-generated_at: "2026-03-29T23:30:45.792Z"
+generated_at: "2026-03-29T23:35:33.083Z"
 ---
 
 # § 521. Policies and methods

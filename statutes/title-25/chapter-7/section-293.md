@@ -3,9 +3,9 @@ title: "Section 293 - Sale of lands purchased for day school or other Indian adm
 usc_title: 25
 usc_section: "293"
 chapter: 7
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "25 U.S.C. § 293"
-generated_at: "2026-03-29T23:29:20.325Z"
+generated_at: "2026-03-29T23:34:09.969Z"
 ---
 
 # § 293. Sale of lands purchased for day school or other Indian administrative uses

@@ -3,9 +3,9 @@ title: "Section 8105 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan
 usc_title: 20
 usc_section: "8105"
 chapter: 70
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "20 U.S.C. § 8105"
-generated_at: "2026-03-29T23:29:00.273Z"
+generated_at: "2026-03-29T23:33:44.340Z"
 ---
 
 # §§ 8101 to 8105. Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan. 8, 2002 , 115 Stat. 1986

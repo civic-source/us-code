@@ -3,9 +3,9 @@ title: "Section 3012 - Reference to Harmonized Tariff Schedule"
 usc_title: 19
 usc_section: "3012"
 chapter: 18
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "19 U.S.C. § 3012"
-generated_at: "2026-03-29T23:29:08.462Z"
+generated_at: "2026-03-29T23:33:47.305Z"
 ---
 
 # § 3012. Reference to Harmonized Tariff Schedule

@@ -3,9 +3,9 @@ title: "Section 12511 - Sexual assault services program"
 usc_title: 34
 usc_section: "12511"
 chapter: 121
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "34 U.S.C. § 12511"
-generated_at: "2026-03-29T23:30:38.523Z"
+generated_at: "2026-03-29T23:35:09.756Z"
 ---
 
 # § 12511. Sexual assault services program

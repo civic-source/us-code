@@ -3,9 +3,9 @@ title: "Section 430cc - Administration, protection, and development; improvement
 usc_title: 16
 usc_section: "430cc"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 430cc"
-generated_at: "2026-03-29T23:28:58.014Z"
+generated_at: "2026-03-29T23:33:56.314Z"
 ---
 
 # § 430cc. Administration, protection, and development; improvements

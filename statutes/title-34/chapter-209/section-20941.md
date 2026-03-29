@@ -3,9 +3,9 @@ title: "Section 20941 - Federal assistance with respect to violations of registr
 usc_title: 34
 usc_section: "20941"
 chapter: 209
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "34 U.S.C. § 20941"
-generated_at: "2026-03-29T23:30:38.534Z"
+generated_at: "2026-03-29T23:35:09.767Z"
 ---
 
 # § 20941. Federal assistance with respect to violations of registration requirements

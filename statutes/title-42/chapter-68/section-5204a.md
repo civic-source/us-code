@@ -3,9 +3,9 @@ title: "Section 5204a - Authorization of appropriations for insular areas"
 usc_title: 42
 usc_section: "5204a"
 chapter: 68
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 5204a"
-generated_at: "2026-03-29T23:31:59.246Z"
+generated_at: "2026-03-29T23:36:47.067Z"
 ---
 
 # § 5204a. Authorization of appropriations for insular areas

@@ -3,9 +3,9 @@ title: "Section 2691 - Restoration of land used by permit or damaged by mishap; 
 usc_title: 10
 usc_section: "2691"
 chapter: 159
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 2691"
-generated_at: "2026-03-29T23:27:42.117Z"
+generated_at: "2026-03-29T23:33:10.246Z"
 ---
 
 # § 2691. Restoration of land used by permit or damaged by mishap; reimbursement of state costs of fighting wildland fires

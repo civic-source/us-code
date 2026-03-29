@@ -3,9 +3,9 @@ title: "Section 10194 - Siting research and related activities"
 usc_title: 42
 usc_section: "10194"
 chapter: 108
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 10194"
-generated_at: "2026-03-29T23:31:59.376Z"
+generated_at: "2026-03-29T23:36:47.202Z"
 ---
 
 # § 10194. Siting research and related activities

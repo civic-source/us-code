@@ -3,9 +3,9 @@ title: "Section 3289 - Indictments and information dismissed before period of li
 usc_title: 18
 usc_section: "3289"
 chapter: 213
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "18 U.S.C. § 3289"
-generated_at: "2026-03-29T23:28:55.551Z"
+generated_at: "2026-03-29T23:33:42.119Z"
 ---
 
 # § 3289. Indictments and information dismissed before period of limitations

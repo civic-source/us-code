@@ -3,9 +3,9 @@ title: "Section 602 - Omitted"
 usc_title: 20
 usc_section: "602"
 chapter: 17
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "20 U.S.C. § 602"
-generated_at: "2026-03-29T23:29:00.146Z"
+generated_at: "2026-03-29T23:33:44.220Z"
 ---
 
 # §§ 601, 602. Omitted

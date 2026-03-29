@@ -3,9 +3,9 @@ title: "Section 9001 - Definitions"
 usc_title: 15
 usc_section: "9001"
 chapter: 116
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "15 U.S.C. § 9001"
-generated_at: "2026-03-29T23:28:23.533Z"
+generated_at: "2026-03-29T23:33:26.166Z"
 ---
 
 # § 9001. Definitions

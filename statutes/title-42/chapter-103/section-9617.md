@@ -3,9 +3,9 @@ title: "Section 9617 - Public participation"
 usc_title: 42
 usc_section: "9617"
 chapter: 103
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 9617"
-generated_at: "2026-03-29T23:31:59.355Z"
+generated_at: "2026-03-29T23:36:47.180Z"
 ---
 
 # § 9617. Public participation

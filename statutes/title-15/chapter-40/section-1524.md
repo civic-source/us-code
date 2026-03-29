@@ -3,9 +3,9 @@ title: "Section 1524 - Investment and reinvestments of moneys; credit and disbur
 usc_title: 15
 usc_section: "1524"
 chapter: 40
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "15 U.S.C. § 1524"
-generated_at: "2026-03-29T23:28:23.439Z"
+generated_at: "2026-03-29T23:33:26.080Z"
 ---
 
 # § 1524. Investment and reinvestments of moneys; credit and disbursement of interest

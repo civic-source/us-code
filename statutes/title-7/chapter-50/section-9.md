@@ -3,9 +3,9 @@ title: "Section 9 - Financial institution investments"
 usc_title: 7
 usc_section: "9"
 chapter: 50
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "7 U.S.C. § 9"
-generated_at: "2026-03-29T23:28:01.883Z"
+generated_at: "2026-03-29T23:33:02.477Z"
 ---
 
 # § 2009cc–9. Financial institution investments

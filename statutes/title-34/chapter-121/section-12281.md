@@ -3,9 +3,9 @@ title: "Section 12281 - Gang Resistance Education and Training projects"
 usc_title: 34
 usc_section: "12281"
 chapter: 121
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "34 U.S.C. § 12281"
-generated_at: "2026-03-29T23:30:38.518Z"
+generated_at: "2026-03-29T23:35:09.751Z"
 ---
 
 # § 12281. Gang Resistance Education and Training projects

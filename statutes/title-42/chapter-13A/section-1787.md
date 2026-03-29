@@ -3,9 +3,9 @@ title: "Section 1787 - Repealed. Pub. L. 104–193, title VII, § 730 , Aug. 22,
 usc_title: 42
 usc_section: "1787"
 chapter: 13
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 1787"
-generated_at: "2026-03-29T23:31:59.157Z"
+generated_at: "2026-03-29T23:36:46.972Z"
 ---
 
 # § 1787. Repealed. Pub. L. 104–193, title VII, § 730 , Aug. 22, 1996 , 110 Stat. 2305

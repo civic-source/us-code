@@ -3,9 +3,9 @@ title: "Section 1395jj - Designation of organization or publication by name"
 usc_title: 42
 usc_section: "1395jj"
 chapter: 7
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 1395jj"
-generated_at: "2026-03-29T23:31:59.062Z"
+generated_at: "2026-03-29T23:36:46.877Z"
 ---
 
 # § 1395jj. Designation of organization or publication by name

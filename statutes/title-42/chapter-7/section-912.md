@@ -3,9 +3,9 @@ title: "Section 912 - Office of Rural Health Policy"
 usc_title: 42
 usc_section: "912"
 chapter: 7
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 912"
-generated_at: "2026-03-29T23:31:58.978Z"
+generated_at: "2026-03-29T23:36:46.792Z"
 ---
 
 # § 912. Office of Rural Health Policy

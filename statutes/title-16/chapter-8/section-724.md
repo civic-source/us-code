@@ -3,9 +3,9 @@ title: "Section 724 - Consent of States to acquisition; existing rights-of-way, 
 usc_title: 16
 usc_section: "724"
 chapter: 8
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 724"
-generated_at: "2026-03-29T23:28:58.083Z"
+generated_at: "2026-03-29T23:33:56.385Z"
 ---
 
 # § 724. Consent of States to acquisition; existing rights-of-way, easements, etc.

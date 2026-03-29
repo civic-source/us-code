@@ -3,9 +3,9 @@ title: "Section 5e - Wetland areas"
 usc_title: 42
 usc_section: "5e"
 chapter: 19
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 5e"
-generated_at: "2026-03-29T23:31:59.167Z"
+generated_at: "2026-03-29T23:36:46.982Z"
 ---
 
 # § 1962d–5e. Wetland areas

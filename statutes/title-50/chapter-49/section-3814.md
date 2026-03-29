@@ -3,9 +3,9 @@ title: "Section 3814 - Definitions"
 usc_title: 50
 usc_section: "3814"
 chapter: 49
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "50 U.S.C. § 3814"
-generated_at: "2026-03-29T23:32:08.663Z"
+generated_at: "2026-03-29T23:37:11.342Z"
 ---
 
 # § 3814. Definitions

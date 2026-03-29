@@ -3,9 +3,9 @@ title: "Section 2610 - Competitions for excellence: acceptance of monetary award
 usc_title: 10
 usc_section: "2610"
 chapter: 155
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 2610"
-generated_at: "2026-03-29T23:27:42.112Z"
+generated_at: "2026-03-29T23:33:10.242Z"
 ---
 
 # § 2610. Competitions for excellence: acceptance of monetary awards

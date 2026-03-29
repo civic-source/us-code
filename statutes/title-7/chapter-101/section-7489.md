@@ -3,9 +3,9 @@ title: "Section 7489 - Relation to other programs"
 usc_title: 7
 usc_section: "7489"
 chapter: 101
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "7 U.S.C. § 7489"
-generated_at: "2026-03-29T23:28:01.953Z"
+generated_at: "2026-03-29T23:33:02.546Z"
 ---
 
 # § 7489. Relation to other programs

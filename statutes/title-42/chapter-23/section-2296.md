@@ -3,9 +3,9 @@ title: "Section 2296 - Nonliability of United States; indemnification"
 usc_title: 42
 usc_section: "2296"
 chapter: 23
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 2296"
-generated_at: "2026-03-29T23:31:59.190Z"
+generated_at: "2026-03-29T23:36:47.006Z"
 ---
 
 # § 2296. Nonliability of United States; indemnification

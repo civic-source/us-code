@@ -3,9 +3,9 @@ title: "Section 1138d - Authorization of appropriations"
 usc_title: 20
 usc_section: "1138d"
 chapter: 28
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "20 U.S.C. § 1138d"
-generated_at: "2026-03-29T23:29:00.201Z"
+generated_at: "2026-03-29T23:33:44.272Z"
 ---
 
 # § 1138d. Authorization of appropriations

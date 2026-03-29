@@ -3,9 +3,9 @@ title: "Section 152302 - Purposes"
 usc_title: 36
 usc_section: "152302"
 chapter: 1523
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "36 U.S.C. § 152302"
-generated_at: "2026-03-29T23:30:40.910Z"
+generated_at: "2026-03-29T23:35:23.319Z"
 ---
 
 # § 152302. Purposes

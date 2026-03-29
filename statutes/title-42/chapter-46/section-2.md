@@ -3,9 +3,9 @@ title: "Section 2 - Transferred"
 usc_title: 42
 usc_section: "2"
 chapter: 46
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T23:31:59.218Z"
+generated_at: "2026-03-29T23:36:47.036Z"
 ---
 
 # § 3797ff–2. Transferred

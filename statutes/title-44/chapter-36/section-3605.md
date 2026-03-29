@@ -3,9 +3,9 @@ title: "Section 3605 - Program to encourage innovative solutions to enhance elec
 usc_title: 44
 usc_section: "3605"
 chapter: 36
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "44 U.S.C. § 3605"
-generated_at: "2026-03-29T23:31:03.845Z"
+generated_at: "2026-03-29T23:36:02.518Z"
 ---
 
 # § 3605. Program to encourage innovative solutions to enhance electronic Government services and processes

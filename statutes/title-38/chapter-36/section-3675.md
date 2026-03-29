@@ -3,9 +3,9 @@ title: "Section 3675 - Approval of accredited courses"
 usc_title: 38
 usc_section: "3675"
 chapter: 36
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "38 U.S.C. § 3675"
-generated_at: "2026-03-29T23:30:52.803Z"
+generated_at: "2026-03-29T23:35:50.321Z"
 ---
 
 # § 3675. Approval of accredited courses

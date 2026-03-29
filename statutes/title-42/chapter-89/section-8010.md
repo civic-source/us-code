@@ -3,9 +3,9 @@ title: "Section 8010 - Authorization of appropriations"
 usc_title: 42
 usc_section: "8010"
 chapter: 89
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 8010"
-generated_at: "2026-03-29T23:31:59.333Z"
+generated_at: "2026-03-29T23:36:47.156Z"
 ---
 
 # § 8010. Authorization of appropriations

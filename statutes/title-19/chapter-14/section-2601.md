@@ -3,9 +3,9 @@ title: "Section 2601 - Definitions"
 usc_title: 19
 usc_section: "2601"
 chapter: 14
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "19 U.S.C. § 2601"
-generated_at: "2026-03-29T23:29:08.457Z"
+generated_at: "2026-03-29T23:33:47.300Z"
 ---
 
 # § 2601. Definitions

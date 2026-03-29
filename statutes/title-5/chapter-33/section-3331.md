@@ -3,9 +3,9 @@ title: "Section 3331 - Oath of office"
 usc_title: 5
 usc_section: "3331"
 chapter: 33
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "5 U.S.C. § 3331"
-generated_at: "2026-03-29T23:27:13.611Z"
+generated_at: "2026-03-29T23:32:32.891Z"
 ---
 
 # § 3331. Oath of office

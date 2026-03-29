@@ -3,9 +3,9 @@ title: "Section 119 - Establishment; notice in Federal Register; administration;
 usc_title: 16
 usc_section: "119"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 119"
-generated_at: "2026-03-29T23:28:57.972Z"
+generated_at: "2026-03-29T23:33:56.272Z"
 ---
 
 # § 119. Establishment; notice in Federal Register; administration; exchange and acquisition of lands; remaining funds

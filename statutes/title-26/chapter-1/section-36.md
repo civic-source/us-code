@@ -3,9 +3,9 @@ title: "Section 36 - First-time homebuyer credit"
 usc_title: 26
 usc_section: "36"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "26 U.S.C. § 36"
-generated_at: "2026-03-29T23:29:54.729Z"
+generated_at: "2026-03-29T23:34:42.991Z"
 ---
 
 # § 36. First-time homebuyer credit

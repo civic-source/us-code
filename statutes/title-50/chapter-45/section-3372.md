@@ -3,9 +3,9 @@ title: "Section 3372 - Monitoring mineral investments under Belt and Road Initia
 usc_title: 50
 usc_section: "3372"
 chapter: 45
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "50 U.S.C. § 3372"
-generated_at: "2026-03-29T23:32:08.655Z"
+generated_at: "2026-03-29T23:37:11.335Z"
 ---
 
 # § 3372. Monitoring mineral investments under Belt and Road Initiative of People’s Republic of China

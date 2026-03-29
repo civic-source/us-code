@@ -3,9 +3,9 @@ title: "Section 3334a - Transfer of National Intelligence University to the Offi
 usc_title: 50
 usc_section: "3334a"
 chapter: 45
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "50 U.S.C. § 3334a"
-generated_at: "2026-03-29T23:32:08.651Z"
+generated_at: "2026-03-29T23:37:11.331Z"
 ---
 
 # § 3334a. Transfer of National Intelligence University to the Office of the Director of National Intelligence

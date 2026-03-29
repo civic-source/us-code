@@ -3,9 +3,9 @@ title: "Section 621 - Purpose"
 usc_title: 42
 usc_section: "621"
 chapter: 7
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 621"
-generated_at: "2026-03-29T23:31:58.959Z"
+generated_at: "2026-03-29T23:36:46.772Z"
 ---
 
 # § 621. Purpose

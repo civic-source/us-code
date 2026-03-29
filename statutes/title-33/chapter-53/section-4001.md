@@ -3,9 +3,9 @@ title: "Section 4001 - Assessments"
 usc_title: 33
 usc_section: "4001"
 chapter: 53
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "33 U.S.C. § 4001"
-generated_at: "2026-03-29T23:30:21.139Z"
+generated_at: "2026-03-29T23:34:54.573Z"
 ---
 
 # § 4001. Assessments

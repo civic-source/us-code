@@ -3,9 +3,9 @@ title: "Section 13902 - Registration of motor carriers"
 usc_title: 49
 usc_section: "13902"
 chapter: 139
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "49 U.S.C. § 13902"
-generated_at: "2026-03-29T23:32:06.147Z"
+generated_at: "2026-03-29T23:37:02.617Z"
 ---
 
 # § 13902. Registration of motor carriers

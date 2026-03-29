@@ -3,9 +3,9 @@ title: "Section 4 - Cooperative agreements with other agencies"
 usc_title: 16
 usc_section: "4"
 chapter: 3
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-29T23:28:58.070Z"
+generated_at: "2026-03-29T23:33:56.372Z"
 ---
 
 # § 590z–4. Cooperative agreements with other agencies

@@ -3,9 +3,9 @@ title: "Section 9093 - Prevention of deceased individuals receiving payments und
 usc_title: 7
 usc_section: "9093"
 chapter: 115
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "7 U.S.C. § 9093"
-generated_at: "2026-03-29T23:28:01.979Z"
+generated_at: "2026-03-29T23:33:02.571Z"
 ---
 
 # § 9093. Prevention of deceased individuals receiving payments under farm commodity programs

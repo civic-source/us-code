@@ -3,9 +3,9 @@ title: "Section 7551 - Requirement to comply with procedures relating to the pro
 usc_title: 22
 usc_section: "7551"
 chapter: 82
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "22 U.S.C. § 7551"
-generated_at: "2026-03-29T23:29:38.110Z"
+generated_at: "2026-03-29T23:34:02.806Z"
 ---
 
 # § 7551. Requirement to comply with procedures relating to the prohibition on assistance to drug traffickers

@@ -3,9 +3,9 @@ title: "Section 3582 - Rights of transferring employees"
 usc_title: 5
 usc_section: "3582"
 chapter: 35
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "5 U.S.C. § 3582"
-generated_at: "2026-03-29T23:27:13.614Z"
+generated_at: "2026-03-29T23:32:32.893Z"
 ---
 
 # § 3582. Rights of transferring employees

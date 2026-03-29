@@ -3,9 +3,9 @@ title: "Section 243 - Imposition and collection of fees"
 usc_title: 7
 usc_section: "243"
 chapter: 10
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "7 U.S.C. § 243"
-generated_at: "2026-03-29T23:28:01.819Z"
+generated_at: "2026-03-29T23:33:02.414Z"
 ---
 
 # § 243. Imposition and collection of fees

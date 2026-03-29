@@ -3,9 +3,9 @@ title: "Section 6731 - General application"
 usc_title: 15
 usc_section: "6731"
 chapter: 93
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "15 U.S.C. § 6731"
-generated_at: "2026-03-29T23:28:23.514Z"
+generated_at: "2026-03-29T23:33:26.147Z"
 ---
 
 # § 6731. General application

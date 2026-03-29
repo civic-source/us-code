@@ -3,9 +3,9 @@ title: "Section 2292g - Repealed. Pub. L. 95–424, title VI, § 604 , Oct. 6, 1
 usc_title: 22
 usc_section: "2292g"
 chapter: 32
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "22 U.S.C. § 2292g"
-generated_at: "2026-03-29T23:29:38.035Z"
+generated_at: "2026-03-29T23:34:02.725Z"
 ---
 
 # § 2292g. Repealed. Pub. L. 95–424, title VI, § 604 , Oct. 6, 1978 , 92 Stat. 961

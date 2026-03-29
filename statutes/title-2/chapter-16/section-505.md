@@ -3,9 +3,9 @@ title: "Section 505 - Mass mailing of information by Senators under frank; quart
 usc_title: 2
 usc_section: "505"
 chapter: 16
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "2 U.S.C. § 505"
-generated_at: "2026-03-29T23:26:58.025Z"
+generated_at: "2026-03-29T23:32:53.282Z"
 ---
 
 # § 505. Mass mailing of information by Senators under frank; quarterly registration with Secretary of Senate

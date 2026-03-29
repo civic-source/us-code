@@ -3,9 +3,9 @@ title: "Section 8262g - Procurement and identification of energy efficient produ
 usc_title: 42
 usc_section: "8262g"
 chapter: 91
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 8262g"
-generated_at: "2026-03-29T23:31:59.339Z"
+generated_at: "2026-03-29T23:36:47.162Z"
 ---
 
 # § 8262g. Procurement and identification of energy efficient products

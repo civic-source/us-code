@@ -3,9 +3,9 @@ title: "Section 1006 - Authorization for free travel on San Francisco-Oakland Ba
 usc_title: 15
 usc_section: "1006"
 chapter: 19
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "15 U.S.C. § 1006"
-generated_at: "2026-03-29T23:28:23.427Z"
+generated_at: "2026-03-29T23:33:26.068Z"
 ---
 
 # § 1006. Authorization for free travel on San Francisco-Oakland Bay Bridge; issuance, presentation, and acceptance; other authorization devices

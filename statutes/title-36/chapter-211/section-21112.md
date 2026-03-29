@@ -3,9 +3,9 @@ title: "Section 21112 - Annual report"
 usc_title: 36
 usc_section: "21112"
 chapter: 211
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "36 U.S.C. § 21112"
-generated_at: "2026-03-29T23:30:40.900Z"
+generated_at: "2026-03-29T23:35:23.310Z"
 ---
 
 # § 21112. Annual report

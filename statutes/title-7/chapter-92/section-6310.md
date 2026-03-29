@@ -3,9 +3,9 @@ title: "Section 6310 - Suspension or termination of orders"
 usc_title: 7
 usc_section: "6310"
 chapter: 92
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "7 U.S.C. § 6310"
-generated_at: "2026-03-29T23:28:01.934Z"
+generated_at: "2026-03-29T23:33:02.528Z"
 ---
 
 # § 6310. Suspension or termination of orders

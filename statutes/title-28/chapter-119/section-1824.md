@@ -3,9 +3,9 @@ title: "Section 1824 - Mileage fees under summons as both witness and juror"
 usc_title: 28
 usc_section: "1824"
 chapter: 119
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "28 U.S.C. § 1824"
-generated_at: "2026-03-29T23:30:11.214Z"
+generated_at: "2026-03-29T23:34:15.858Z"
 ---
 
 # § 1824. Mileage fees under summons as both witness and juror

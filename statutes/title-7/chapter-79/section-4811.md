@@ -3,9 +3,9 @@ title: "Section 4811 - Referendum"
 usc_title: 7
 usc_section: "4811"
 chapter: 79
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "7 U.S.C. § 4811"
-generated_at: "2026-03-29T23:28:01.921Z"
+generated_at: "2026-03-29T23:33:02.515Z"
 ---
 
 # § 4811. Referendum

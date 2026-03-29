@@ -3,9 +3,9 @@ title: "Section 16 - Commission operations"
 usc_title: 7
 usc_section: "16"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "7 U.S.C. § 16"
-generated_at: "2026-03-29T23:28:01.793Z"
+generated_at: "2026-03-29T23:33:02.390Z"
 ---
 
 # § 16. Commission operations

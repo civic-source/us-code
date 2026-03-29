@@ -3,9 +3,9 @@ title: "Section 20982 - Study, report, and recommendations on best practices for
 usc_title: 52
 usc_section: "20982"
 chapter: 209
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "52 U.S.C. § 20982"
-generated_at: "2026-03-29T23:32:17.762Z"
+generated_at: "2026-03-29T23:37:14.628Z"
 ---
 
 # § 20982. Study, report, and recommendations on best practices for facilitating military and overseas voting

@@ -3,9 +3,9 @@ title: "Section 105 - Line of duty and misconduct"
 usc_title: 38
 usc_section: "105"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "38 U.S.C. § 105"
-generated_at: "2026-03-29T23:30:52.768Z"
+generated_at: "2026-03-29T23:35:50.278Z"
 ---
 
 # § 105. Line of duty and misconduct

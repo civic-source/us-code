@@ -3,9 +3,9 @@ title: "Section 3613 - Administrator"
 usc_title: 22
 usc_section: "3613"
 chapter: 51
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "22 U.S.C. § 3613"
-generated_at: "2026-03-29T23:29:38.067Z"
+generated_at: "2026-03-29T23:34:02.760Z"
 ---
 
 # § 3613. Administrator

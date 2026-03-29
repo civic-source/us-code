@@ -3,9 +3,9 @@ title: "Section 8311 - Definitions"
 usc_title: 5
 usc_section: "8311"
 chapter: 83
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "5 U.S.C. § 8311"
-generated_at: "2026-03-29T23:27:13.640Z"
+generated_at: "2026-03-29T23:32:32.921Z"
 ---
 
 # § 8311. Definitions

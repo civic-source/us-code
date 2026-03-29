@@ -3,9 +3,9 @@ title: "Section 3 - Establishment of trout hatchery in Pisgah National Forest"
 usc_title: 16
 usc_section: "3"
 chapter: 9
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-29T23:28:58.085Z"
+generated_at: "2026-03-29T23:33:56.387Z"
 ---
 
 # § 760–3. Establishment of trout hatchery in Pisgah National Forest

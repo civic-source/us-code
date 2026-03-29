@@ -3,9 +3,9 @@ title: "Section 58 - Acushnet River section of New Bedford and Fairhaven Harbor,
 usc_title: 33
 usc_section: "58"
 chapter: 1
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "33 U.S.C. § 58"
-generated_at: "2026-03-29T23:30:21.062Z"
+generated_at: "2026-03-29T23:34:54.491Z"
 ---
 
 # § 58. Acushnet River section of New Bedford and Fairhaven Harbor, Massachusetts

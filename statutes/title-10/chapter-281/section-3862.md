@@ -3,9 +3,9 @@ title: "Section 3862 - Requests for equitable adjustment or other relief: certif
 usc_title: 10
 usc_section: "3862"
 chapter: 281
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 3862"
-generated_at: "2026-03-29T23:27:42.135Z"
+generated_at: "2026-03-29T23:33:10.265Z"
 ---
 
 # § 3862. Requests for equitable adjustment or other relief: certification

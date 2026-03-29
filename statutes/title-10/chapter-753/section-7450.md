@@ -3,9 +3,9 @@ title: "Section 7450 - Cadets: clothing and equipment"
 usc_title: 10
 usc_section: "7450"
 chapter: 753
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 7450"
-generated_at: "2026-03-29T23:27:42.150Z"
+generated_at: "2026-03-29T23:33:10.280Z"
 ---
 
 # § 7450. Cadets: clothing and equipment

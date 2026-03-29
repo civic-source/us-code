@@ -3,9 +3,9 @@ title: "Section 1051 - Application for registration; verification"
 usc_title: 15
 usc_section: "1051"
 chapter: 22
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "15 U.S.C. § 1051"
-generated_at: "2026-03-29T23:28:23.428Z"
+generated_at: "2026-03-29T23:33:26.069Z"
 ---
 
 # § 1051. Application for registration; verification

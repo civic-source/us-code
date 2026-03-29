@@ -3,9 +3,9 @@ title: "Section 23 - Nutrition services impact study"
 usc_title: 42
 usc_section: "23"
 chapter: 35
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-29T23:31:59.203Z"
+generated_at: "2026-03-29T23:36:47.019Z"
 ---
 
 # § 3030g–23. Nutrition services impact study

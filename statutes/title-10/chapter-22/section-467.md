@@ -3,9 +3,9 @@ title: "Section 467 - Definitions"
 usc_title: 10
 usc_section: "467"
 chapter: 22
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 467"
-generated_at: "2026-03-29T23:27:42.037Z"
+generated_at: "2026-03-29T23:33:10.170Z"
 ---
 
 # § 467. Definitions

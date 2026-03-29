@@ -3,9 +3,9 @@ title: "Section 2255 - Civil remedy for personal injuries"
 usc_title: 18
 usc_section: "2255"
 chapter: 110
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "18 U.S.C. § 2255"
-generated_at: "2026-03-29T23:28:55.536Z"
+generated_at: "2026-03-29T23:33:42.105Z"
 ---
 
 # § 2255. Civil remedy for personal injuries

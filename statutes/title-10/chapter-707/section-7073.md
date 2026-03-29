@@ -3,9 +3,9 @@ title: "Section 7073 - Chaplains"
 usc_title: 10
 usc_section: "7073"
 chapter: 707
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 7073"
-generated_at: "2026-03-29T23:27:42.148Z"
+generated_at: "2026-03-29T23:33:10.278Z"
 ---
 
 # § 7073. Chaplains

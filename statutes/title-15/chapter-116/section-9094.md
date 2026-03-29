@@ -3,9 +3,9 @@ title: "Section 9094 - Required assurances"
 usc_title: 15
 usc_section: "9094"
 chapter: 116
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "15 U.S.C. § 9094"
-generated_at: "2026-03-29T23:28:23.541Z"
+generated_at: "2026-03-29T23:33:26.174Z"
 ---
 
 # § 9094. Required assurances

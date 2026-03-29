@@ -3,9 +3,9 @@ title: "Section 17390 - Voluntary model pathways"
 usc_title: 42
 usc_section: "17390"
 chapter: 152
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 17390"
-generated_at: "2026-03-29T23:31:59.478Z"
+generated_at: "2026-03-29T23:36:47.306Z"
 ---
 
 # § 17390. Voluntary model pathways

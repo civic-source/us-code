@@ -3,9 +3,9 @@ title: "Section 2371 - Transfer of utilities"
 usc_title: 42
 usc_section: "2371"
 chapter: 24
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 2371"
-generated_at: "2026-03-29T23:31:59.193Z"
+generated_at: "2026-03-29T23:36:47.009Z"
 ---
 
 # § 2371. Transfer of utilities

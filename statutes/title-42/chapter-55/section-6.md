@@ -3,9 +3,9 @@ title: "Section 6 - Litigation, judicial review, and savings provision"
 usc_title: 42
 usc_section: "6"
 chapter: 55
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-29T23:31:59.227Z"
+generated_at: "2026-03-29T23:36:47.046Z"
 ---
 
 # § 4370m–6. Litigation, judicial review, and savings provision

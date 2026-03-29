@@ -3,9 +3,9 @@ title: "Section 181 - Joint Requirements Oversight Council"
 usc_title: 10
 usc_section: "181"
 chapter: 7
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "10 U.S.C. § 181"
-generated_at: "2026-03-29T23:27:42.028Z"
+generated_at: "2026-03-29T23:33:10.160Z"
 ---
 
 # § 181. Joint Requirements Oversight Council

@@ -3,9 +3,9 @@ title: "Section 778c - Authorization of appropriations"
 usc_title: 16
 usc_section: "778c"
 chapter: 10
-current_through: "PL 117-200"
+current_through: "PL 117-214"
 classification: "16 U.S.C. § 778c"
-generated_at: "2026-03-29T23:28:58.088Z"
+generated_at: "2026-03-29T23:33:56.390Z"
 ---
 
 # § 778c. Authorization of appropriations
