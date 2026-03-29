@@ -5,7 +5,7 @@ usc_section: "5003"
 chapter: 70
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 5003"
-generated_at: "2026-03-29T17:51:57.001Z"
+generated_at: "2026-03-29T18:05:07.074Z"
 ---
 
 # § 5003. United States Commissioners

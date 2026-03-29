@@ -5,7 +5,7 @@ usc_section: "1015"
 chapter: 19
 current_through: "PL 113-100"
 classification: "37 U.S.C. § 1015"
-generated_at: "2026-03-29T17:52:59.119Z"
+generated_at: "2026-03-29T18:06:17.236Z"
 ---
 
 # [§ 1015. Repealed. Pub. L. 109–364, div. A, title X, § 1046(b)(1) , Oct. 17, 2006 , 120 Stat. 2393 ]

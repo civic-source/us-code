@@ -5,7 +5,7 @@ usc_section: "17k"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 17k"
-generated_at: "2026-03-29T17:51:56.437Z"
+generated_at: "2026-03-29T18:05:06.378Z"
 ---
 
 # § 17k. Park, parkway and recreational-area programs; study by National Park Service; consent of States; purpose; cooperation of government agencies

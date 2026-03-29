@@ -5,7 +5,7 @@ usc_section: "476b"
 chapter: 8
 current_through: "PL 113-100"
 classification: "37 U.S.C. § 476b"
-generated_at: "2026-03-29T17:52:59.108Z"
+generated_at: "2026-03-29T18:06:17.229Z"
 ---
 
 # § 476b. Travel and transportation allowances: members of the uniformed services attached to a ship overhauling or inactivating

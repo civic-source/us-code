@@ -5,7 +5,7 @@ usc_section: "9621"
 chapter: 939
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 9621"
-generated_at: "2026-03-29T17:50:57.254Z"
+generated_at: "2026-03-29T18:04:13.303Z"
 ---
 
 # § 9621. Subsistence and other supplies: members of armed forces; veterans; executive or military departments and employees; prices

@@ -5,7 +5,7 @@ usc_section: "700"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 700"
-generated_at: "2026-03-29T17:52:06.015Z"
+generated_at: "2026-03-29T18:05:17.093Z"
 ---
 
 # § 700. Protection of minors, persons non compos mentis and other members needing assistance; guardians; other adequate means

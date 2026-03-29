@@ -5,7 +5,7 @@ usc_section: "7"
 chapter: 1
 current_through: "PL 113-100"
 classification: "1 U.S.C. § 7"
-generated_at: "2026-03-29T17:50:17.777Z"
+generated_at: "2026-03-29T18:03:12.499Z"
 ---
 
 # § 7. Definition of “marriage” and “spouse”

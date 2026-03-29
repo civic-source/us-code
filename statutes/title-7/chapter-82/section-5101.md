@@ -5,7 +5,7 @@ usc_section: "5101"
 chapter: 82
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 5101"
-generated_at: "2026-03-29T17:50:48.784Z"
+generated_at: "2026-03-29T18:04:05.044Z"
 ---
 
 # § 5101. Qualifying States

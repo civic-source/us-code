@@ -5,7 +5,7 @@ usc_section: "14302"
 chapter: 143
 current_through: "PL 113-100"
 classification: "40 U.S.C. § 14302"
-generated_at: "2026-03-29T17:52:50.607Z"
+generated_at: "2026-03-29T18:06:19.977Z"
 ---
 
 # § 14302. Decisions

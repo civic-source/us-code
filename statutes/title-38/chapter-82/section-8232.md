@@ -5,7 +5,7 @@ usc_section: "8232"
 chapter: 82
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 8232"
-generated_at: "2026-03-29T17:52:53.871Z"
+generated_at: "2026-03-29T18:06:22.871Z"
 ---
 
 # § 8232. Definition

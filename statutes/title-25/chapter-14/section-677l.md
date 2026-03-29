@@ -5,7 +5,7 @@ usc_section: "677l"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 677l"
-generated_at: "2026-03-29T17:52:06.013Z"
+generated_at: "2026-03-29T18:05:17.089Z"
 ---
 
 # § 677l. Distribution to individual members of mixed-blood group; preparation and approval of plan; assistance; provisions permitted in plan

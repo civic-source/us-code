@@ -5,7 +5,7 @@ usc_section: "23"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 23"
-generated_at: "2026-03-29T17:51:48.346Z"
+generated_at: "2026-03-29T18:05:00.074Z"
 ---
 
 # § 1070a–23. Applications

@@ -5,7 +5,7 @@ usc_section: "1773d"
 chapter: 19
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 1773d"
-generated_at: "2026-03-29T17:52:06.092Z"
+generated_at: "2026-03-29T18:05:17.181Z"
 ---
 
 # § 1773d. Funds to members of Puyallup Tribe

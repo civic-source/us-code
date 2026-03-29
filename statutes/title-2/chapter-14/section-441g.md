@@ -5,7 +5,7 @@ usc_section: "441g"
 chapter: 14
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 441g"
-generated_at: "2026-03-29T17:50:24.039Z"
+generated_at: "2026-03-29T18:03:21.748Z"
 ---
 
 # § 441g. Limitation on contribution of currency

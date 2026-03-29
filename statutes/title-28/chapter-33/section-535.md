@@ -5,7 +5,7 @@ usc_section: "535"
 chapter: 33
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 535"
-generated_at: "2026-03-29T17:52:24.195Z"
+generated_at: "2026-03-29T18:06:03.336Z"
 ---
 
 # § 535. Investigation of crimes involving Government officers and employees; limitations

@@ -5,7 +5,7 @@ usc_section: "2801to2813"
 chapter: 61
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 2801to2813"
-generated_at: "2026-03-29T17:50:48.743Z"
+generated_at: "2026-03-29T18:04:05.000Z"
 ---
 
 # §§ 2801 to 2813. Repealed. Pub. L. 106–224, title IV, § 438(a)(4) , June 20, 2000 , 114 Stat. 454

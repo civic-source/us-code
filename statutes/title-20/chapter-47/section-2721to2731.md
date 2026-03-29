@@ -5,7 +5,7 @@ usc_section: "2721to2731"
 chapter: 47
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 2721to2731"
-generated_at: "2026-03-29T17:51:48.539Z"
+generated_at: "2026-03-29T18:05:00.252Z"
 ---
 
 # §§ 2721 to 2731. Omitted

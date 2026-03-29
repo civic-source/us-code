@@ -5,7 +5,7 @@ usc_section: "1776g"
 chapter: 19
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 1776g"
-generated_at: "2026-03-29T17:52:06.096Z"
+generated_at: "2026-03-29T18:05:17.185Z"
 ---
 
 # § 1776g. Applicability

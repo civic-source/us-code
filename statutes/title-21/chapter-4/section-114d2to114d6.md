@@ -5,7 +5,7 @@ usc_section: "114d2to114d6"
 chapter: 4
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 114d2to114d6"
-generated_at: "2026-03-29T17:52:03.791Z"
+generated_at: "2026-03-29T18:05:14.728Z"
 ---
 
 # §§ 114d–2 to 114d–6. Repealed. Pub. L. 92–152, § 3 , Nov. 5, 1971 , 85 Stat. 419

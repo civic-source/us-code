@@ -5,7 +5,7 @@ usc_section: "3855"
 chapter: 51
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 3855"
-generated_at: "2026-03-29T17:52:46.011Z"
+generated_at: "2026-03-29T18:06:10.631Z"
 ---
 
 # § 3855. Warnings, detentions, dismissals, exclusion

@@ -5,7 +5,7 @@ usc_section: "723"
 chapter: 16
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 723"
-generated_at: "2026-03-29T17:51:36.199Z"
+generated_at: "2026-03-29T18:04:29.520Z"
 ---
 
 # § 723. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 648

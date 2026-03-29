@@ -5,7 +5,7 @@ usc_section: "53722"
 chapter: 537
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 53722"
-generated_at: "2026-03-29T17:53:41.831Z"
+generated_at: "2026-03-29T18:07:34.404Z"
 ---
 
 # § 53722. Actions by Secretary or Administrator

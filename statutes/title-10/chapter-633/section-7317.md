@@ -5,7 +5,7 @@ usc_section: "7317"
 chapter: 633
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 7317"
-generated_at: "2026-03-29T17:50:57.228Z"
+generated_at: "2026-03-29T18:04:13.276Z"
 ---
 
 # § 7317. Status of Government rights in the designs of vessels, boats, and craft, and components thereof

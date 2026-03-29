@@ -5,7 +5,7 @@ usc_section: "2616"
 chapter: 27
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 2616"
-generated_at: "2026-03-29T17:51:13.187Z"
+generated_at: "2026-03-29T18:04:43.663Z"
 ---
 
 # § 2616. State laws unaffected; inconsistent Federal and State provisions

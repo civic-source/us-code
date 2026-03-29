@@ -5,7 +5,7 @@ usc_section: "6276"
 chapter: 77
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 6276"
-generated_at: "2026-03-29T17:53:35.361Z"
+generated_at: "2026-03-29T18:07:14.736Z"
 ---
 
 # § 6276. Domestic renewable energy industry and related service industries

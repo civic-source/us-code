@@ -5,7 +5,7 @@ usc_section: "463"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 463"
-generated_at: "2026-03-29T17:53:03.639Z"
+generated_at: "2026-03-29T18:06:28.280Z"
 ---
 
 # § 463. Repealed. May 25, 1926, ch. 383, § 47 , 44 Stat. 650

@@ -5,7 +5,7 @@ usc_section: "9273"
 chapter: 73
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 9273"
-generated_at: "2026-03-29T17:51:48.693Z"
+generated_at: "2026-03-29T18:05:00.411Z"
 ---
 
 # § 9273. Incentive grants

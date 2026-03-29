@@ -5,7 +5,7 @@ usc_section: "2304"
 chapter: 43
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 2304"
-generated_at: "2026-03-29T17:51:56.929Z"
+generated_at: "2026-03-29T18:05:06.997Z"
 ---
 
 # § 2304. Procedures applicable to formulation and implementation of transportation plans and projects developed pursuant to plans

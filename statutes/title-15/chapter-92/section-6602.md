@@ -5,7 +5,7 @@ usc_section: "6602"
 chapter: 92
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 6602"
-generated_at: "2026-03-29T17:51:36.395Z"
+generated_at: "2026-03-29T18:04:29.943Z"
 ---
 
 # § 6602. Definitions

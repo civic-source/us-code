@@ -5,7 +5,7 @@ usc_section: "114"
 chapter: 1
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 114"
-generated_at: "2026-03-29T17:53:41.778Z"
+generated_at: "2026-03-29T18:07:34.323Z"
 ---
 
 # § 114. United States

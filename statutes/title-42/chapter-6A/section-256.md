@@ -5,7 +5,7 @@ usc_section: "256"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 256"
-generated_at: "2026-03-29T17:53:34.113Z"
+generated_at: "2026-03-29T18:07:13.333Z"
 ---
 
 # § 256. Grants to strengthen the effectiveness, efficiency, and coordination of services for the uninsured and underinsured

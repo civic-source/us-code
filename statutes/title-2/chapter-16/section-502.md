@@ -5,7 +5,7 @@ usc_section: "502"
 chapter: 16
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 502"
-generated_at: "2026-03-29T17:50:24.041Z"
+generated_at: "2026-03-29T18:03:21.753Z"
 ---
 
 # § 502. Select Committee on Standards and Conduct of the Senate

@@ -5,7 +5,7 @@ usc_section: "15302"
 chapter: 146
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15302"
-generated_at: "2026-03-29T17:53:35.935Z"
+generated_at: "2026-03-29T18:07:15.407Z"
 ---
 
 # § 15302. Replacement of punch card or lever voting machines

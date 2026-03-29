@@ -5,7 +5,7 @@ usc_section: "5026"
 chapter: 503
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 5026"
-generated_at: "2026-03-29T17:50:57.203Z"
+generated_at: "2026-03-29T18:04:13.249Z"
 ---
 
 # § 5026. Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation

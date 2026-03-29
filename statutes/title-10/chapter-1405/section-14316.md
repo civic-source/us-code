@@ -5,7 +5,7 @@ usc_section: "14316"
 chapter: 1405
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 14316"
-generated_at: "2026-03-29T17:50:57.284Z"
+generated_at: "2026-03-29T18:04:13.331Z"
 ---
 
 # § 14316. Army National Guard and Air National Guard: appointment to and Federal recognition in a higher reserve grade after selection for promotion

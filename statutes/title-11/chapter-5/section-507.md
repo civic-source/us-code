@@ -5,7 +5,7 @@ usc_section: "507"
 chapter: 5
 current_through: "PL 113-100"
 classification: "11 U.S.C. § 507"
-generated_at: "2026-03-29T17:51:02.137Z"
+generated_at: "2026-03-29T18:04:18.517Z"
 ---
 
 # § 507. Priorities

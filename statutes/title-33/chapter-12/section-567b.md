@@ -5,7 +5,7 @@ usc_section: "567b"
 chapter: 12
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 567b"
-generated_at: "2026-03-29T17:52:45.900Z"
+generated_at: "2026-03-29T18:06:10.487Z"
 ---
 
 # § 567b. Pollution of Potomac drainage basin; control by State compacts

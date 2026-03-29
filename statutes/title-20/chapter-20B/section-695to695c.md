@@ -5,7 +5,7 @@ usc_section: "695to695c"
 chapter: 20
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 695to695c"
-generated_at: "2026-03-29T17:51:48.301Z"
+generated_at: "2026-03-29T18:05:00.022Z"
 ---
 
 # §§ 695 to 695c. Repealed. Pub. L. 99–371, title II, § 210(b) , formerly title IV, § 410(b), Aug. 4, 1986 , 100 Stat. 794 ; renumbered title II, § 210(b), Pub. L. 102–421, title I, § 101(b)(5) , (6), Oct. 16, 1992 , 106 Stat. 2151

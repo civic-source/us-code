@@ -5,7 +5,7 @@ usc_section: "404"
 chapter: 4
 current_through: "PL 113-100"
 classification: "39 U.S.C. § 404"
-generated_at: "2026-03-29T17:52:57.899Z"
+generated_at: "2026-03-29T18:06:14.473Z"
 ---
 
 # § 404. Specific powers

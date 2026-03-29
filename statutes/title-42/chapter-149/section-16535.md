@@ -5,7 +5,7 @@ usc_section: "16535"
 chapter: 149
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 16535"
-generated_at: "2026-03-29T17:53:36.005Z"
+generated_at: "2026-03-29T18:07:15.485Z"
 ---
 
 # § 16535. Discovery science and engineering innovation institutes

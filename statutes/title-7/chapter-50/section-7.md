@@ -5,7 +5,7 @@ usc_section: "7"
 chapter: 50
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 7"
-generated_at: "2026-03-29T17:50:48.688Z"
+generated_at: "2026-03-29T18:04:04.942Z"
 ---
 
 # § 2009dd–7. Authorization of appropriations

@@ -5,7 +5,7 @@ usc_section: "301"
 chapter: 3
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 301"
-generated_at: "2026-03-29T17:53:41.779Z"
+generated_at: "2026-03-29T18:07:34.323Z"
 ---
 
 # § 301. General organization

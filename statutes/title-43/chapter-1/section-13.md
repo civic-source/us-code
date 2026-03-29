@@ -5,7 +5,7 @@ usc_section: "13"
 chapter: 1
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 13"
-generated_at: "2026-03-29T17:53:03.595Z"
+generated_at: "2026-03-29T18:06:28.245Z"
 ---
 
 # § 13. Original papers on file as evidence

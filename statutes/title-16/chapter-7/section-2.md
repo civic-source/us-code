@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 7
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-29T17:51:56.761Z"
+generated_at: "2026-03-29T18:05:06.814Z"
 ---
 
 # § 715k–2. Omitted

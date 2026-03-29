@@ -5,7 +5,7 @@ usc_section: "6552"
 chapter: 91
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 6552"
-generated_at: "2026-03-29T17:51:36.395Z"
+generated_at: "2026-03-29T18:04:29.942Z"
 ---
 
 # § 6552. Public awareness campaign

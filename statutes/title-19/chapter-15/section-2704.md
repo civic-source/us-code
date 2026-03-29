@@ -5,7 +5,7 @@ usc_section: "2704"
 chapter: 15
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 2704"
-generated_at: "2026-03-29T17:51:51.312Z"
+generated_at: "2026-03-29T18:04:55.121Z"
 ---
 
 # § 2704. International Trade Commission reports on impact of Caribbean Basin Economic Recovery Program

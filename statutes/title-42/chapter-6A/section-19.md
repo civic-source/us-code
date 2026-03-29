@@ -5,7 +5,7 @@ usc_section: "19"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 19"
-generated_at: "2026-03-29T17:53:34.400Z"
+generated_at: "2026-03-29T18:07:13.651Z"
 ---
 
 # § 300jj–19. Miscellaneous provisions

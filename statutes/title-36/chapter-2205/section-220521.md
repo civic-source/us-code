@@ -5,7 +5,7 @@ usc_section: "220521"
 chapter: 2205
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 220521"
-generated_at: "2026-03-29T17:52:49.379Z"
+generated_at: "2026-03-29T18:06:24.337Z"
 ---
 
 # § 220521. Recognition of amateur sports organizations as national governing bodies

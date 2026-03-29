@@ -5,7 +5,7 @@ usc_section: "12"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 12"
-generated_at: "2026-03-29T17:51:56.660Z"
+generated_at: "2026-03-29T18:05:06.701Z"
 ---
 
 # § 460nnn–12. Purpose and objectives of Cooperative Management and Protection Area

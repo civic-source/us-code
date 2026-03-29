@@ -5,7 +5,7 @@ usc_section: "12h"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 12h"
-generated_at: "2026-03-29T17:53:03.618Z"
+generated_at: "2026-03-29T18:06:28.267Z"
 ---
 
 # § 390h–12h. El Paso Water Reclamation and Reuse Project

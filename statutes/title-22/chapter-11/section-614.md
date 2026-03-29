@@ -5,7 +5,7 @@ usc_section: "614"
 chapter: 11
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 614"
-generated_at: "2026-03-29T17:52:10.441Z"
+generated_at: "2026-03-29T18:05:21.762Z"
 ---
 
 # § 614. Filing and labeling of political propaganda

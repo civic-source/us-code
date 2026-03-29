@@ -5,7 +5,7 @@ usc_section: "6515"
 chapter: 94
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 6515"
-generated_at: "2026-03-29T17:50:48.819Z"
+generated_at: "2026-03-29T18:04:05.082Z"
 ---
 
 # § 6515. Requirements of certifying agents

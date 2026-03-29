@@ -5,7 +5,7 @@ usc_section: "410s"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 410s"
-generated_at: "2026-03-29T17:51:56.511Z"
+generated_at: "2026-03-29T18:05:06.546Z"
 ---
 
 # § 410s. Establishment

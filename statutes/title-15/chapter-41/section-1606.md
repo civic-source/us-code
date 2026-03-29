@@ -5,7 +5,7 @@ usc_section: "1606"
 chapter: 41
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1606"
-generated_at: "2026-03-29T17:51:36.239Z"
+generated_at: "2026-03-29T18:04:29.570Z"
 ---
 
 # § 1606. Determination of annual percentage rate

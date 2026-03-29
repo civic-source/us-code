@@ -5,7 +5,7 @@ usc_section: "30304"
 chapter: 303
 current_through: "PL 113-100"
 classification: "51 U.S.C. § 30304"
-generated_at: "2026-03-29T17:54:01.874Z"
+generated_at: "2026-03-29T18:07:59.494Z"
 ---
 
 # § 30304. Award of contracts to small businesses and disadvantaged individuals

@@ -5,7 +5,7 @@ usc_section: "3091"
 chapter: 44
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 3091"
-generated_at: "2026-03-29T17:53:51.047Z"
+generated_at: "2026-03-29T18:07:43.112Z"
 ---
 
 # § 3091. General congressional oversight provisions

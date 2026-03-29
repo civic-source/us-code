@@ -5,7 +5,7 @@ usc_section: "6081"
 chapter: 69
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 6081"
-generated_at: "2026-03-29T17:52:10.659Z"
+generated_at: "2026-03-29T18:05:21.992Z"
 ---
 
 # § 6081. Findings

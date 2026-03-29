@@ -5,7 +5,7 @@ usc_section: "528"
 chapter: 2
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 528"
-generated_at: "2026-03-29T17:51:56.699Z"
+generated_at: "2026-03-29T18:05:06.742Z"
 ---
 
 # § 528. Development and administration of renewable surface resources for multiple use and sustained yield of products and services; Congressional declaration of policy and purpose

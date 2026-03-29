@@ -5,7 +5,7 @@ usc_section: "1446fto1446h"
 chapter: 35
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1446fto1446h"
-generated_at: "2026-03-29T17:50:48.592Z"
+generated_at: "2026-03-29T18:04:04.846Z"
 ---
 
 # §§ 1446f to 1446h. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(H) , Apr. 4, 1996 , 110 Stat. 938

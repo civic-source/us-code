@@ -5,7 +5,7 @@ usc_section: "406to408"
 chapter: 4
 current_through: "PL 113-100"
 classification: "23 U.S.C. § 406to408"
-generated_at: "2026-03-29T17:52:01.450Z"
+generated_at: "2026-03-29T18:05:12.241Z"
 ---
 
 # [§§ 406 to 408. Repealed. Pub. L. 112–141, div. C, title I, § 31109(b) –(d), July 6, 2012 , 126 Stat. 756 ]

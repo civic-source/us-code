@@ -5,7 +5,7 @@ usc_section: "1162"
 chapter: 24
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 1162"
-generated_at: "2026-03-29T17:52:16.748Z"
+generated_at: "2026-03-29T18:05:26.192Z"
 ---
 
 # § 1162. Final report to President and Congress on terminated projects

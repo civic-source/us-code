@@ -5,7 +5,7 @@ usc_section: "903"
 chapter: 9
 current_through: "PL 113-100"
 classification: "44 U.S.C. § 903"
-generated_at: "2026-03-29T17:53:10.492Z"
+generated_at: "2026-03-29T18:06:33.612Z"
 ---
 
 # § 903. Congressional Record: daily and permanent forms

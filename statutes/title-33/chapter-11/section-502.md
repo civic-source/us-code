@@ -5,7 +5,7 @@ usc_section: "502"
 chapter: 11
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 502"
-generated_at: "2026-03-29T17:52:45.895Z"
+generated_at: "2026-03-29T18:06:10.482Z"
 ---
 
 # § 502. Alteration, removal, or repair of bridge or accessory obstructions to navigation

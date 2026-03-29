@@ -5,7 +5,7 @@ usc_section: "8683"
 chapter: 853
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 8683"
-generated_at: "2026-03-29T17:50:57.244Z"
+generated_at: "2026-03-29T18:04:13.292Z"
 ---
 
 # [§ 8683. Repealed. Pub. L. 99–145, title XIII, § 1301(d)(1)(A) , Nov. 8, 1985 , 99 Stat. 736 ]

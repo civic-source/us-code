@@ -5,7 +5,7 @@ usc_section: "3610"
 chapter: 47
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 3610"
-generated_at: "2026-03-29T17:53:51.074Z"
+generated_at: "2026-03-29T18:07:43.147Z"
 ---
 
 # § 3610. Senior Cryptologic Executive Service

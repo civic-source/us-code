@@ -5,7 +5,7 @@ usc_section: "7306"
 chapter: 633
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 7306"
-generated_at: "2026-03-29T17:50:57.226Z"
+generated_at: "2026-03-29T18:04:13.275Z"
 ---
 
 # § 7306. Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise

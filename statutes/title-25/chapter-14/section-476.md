@@ -5,7 +5,7 @@ usc_section: "476"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 476"
-generated_at: "2026-03-29T17:52:05.989Z"
+generated_at: "2026-03-29T18:05:17.066Z"
 ---
 
 # § 476. Organization of Indian tribes; constitution and bylaws and amendment thereof; special election

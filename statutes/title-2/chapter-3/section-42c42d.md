@@ -5,7 +5,7 @@ usc_section: "42c42d"
 chapter: 3
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 42c42d"
-generated_at: "2026-03-29T17:50:23.981Z"
+generated_at: "2026-03-29T18:03:21.696Z"
 ---
 
 # §§ 42c, 42d. Repealed. Pub. L. 104–186, title II, § 203(12) , Aug. 20, 1996 , 110 Stat. 1726

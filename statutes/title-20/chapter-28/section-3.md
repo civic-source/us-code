@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-29T17:51:48.470Z"
+generated_at: "2026-03-29T18:05:00.188Z"
 ---
 
 # § 1161n–3. Demonstration and innovation projects; training and resource centers; and research

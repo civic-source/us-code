@@ -5,7 +5,7 @@ usc_section: "13311"
 chapter: 134
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 13311"
-generated_at: "2026-03-29T17:53:35.843Z"
+generated_at: "2026-03-29T18:07:15.309Z"
 ---
 
 # § 13311. Purposes

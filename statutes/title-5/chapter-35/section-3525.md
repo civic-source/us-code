@@ -5,7 +5,7 @@ usc_section: "3525"
 chapter: 35
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 3525"
-generated_at: "2026-03-29T17:50:36.461Z"
+generated_at: "2026-03-29T18:03:29.858Z"
 ---
 
 # § 3525. Regulations

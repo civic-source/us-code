@@ -5,7 +5,7 @@ usc_section: "438a"
 chapter: 14
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 438a"
-generated_at: "2026-03-29T17:50:24.034Z"
+generated_at: "2026-03-29T18:03:21.743Z"
 ---
 
 # § 438a. Maintenance of website of election reports

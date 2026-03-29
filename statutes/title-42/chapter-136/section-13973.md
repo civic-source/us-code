@@ -5,7 +5,7 @@ usc_section: "13973"
 chapter: 136
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 13973"
-generated_at: "2026-03-29T17:53:35.879Z"
+generated_at: "2026-03-29T18:07:15.352Z"
 ---
 
 # § 13973. Repealed. Pub. L. 113–4, title V, § 501(b)(1) , Mar. 7, 2013 , 127 Stat. 101

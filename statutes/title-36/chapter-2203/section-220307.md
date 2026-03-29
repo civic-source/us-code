@@ -5,7 +5,7 @@ usc_section: "220307"
 chapter: 2203
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 220307"
-generated_at: "2026-03-29T17:52:49.377Z"
+generated_at: "2026-03-29T18:06:24.335Z"
 ---
 
 # § 220307. Tax exemption

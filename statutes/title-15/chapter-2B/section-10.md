@@ -5,7 +5,7 @@ usc_section: "10"
 chapter: 2
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 10"
-generated_at: "2026-03-29T17:51:36.060Z"
+generated_at: "2026-03-29T18:04:29.360Z"
 ---
 
 # § 78o–10. Registration and regulation of security-based swap dealers and major security-based swap participants

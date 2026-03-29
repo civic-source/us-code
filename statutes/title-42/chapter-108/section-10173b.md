@@ -5,7 +5,7 @@ usc_section: "10173b"
 chapter: 108
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 10173b"
-generated_at: "2026-03-29T17:53:35.689Z"
+generated_at: "2026-03-29T18:07:15.133Z"
 ---
 
 # § 10173b. Review Panel

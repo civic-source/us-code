@@ -5,7 +5,7 @@ usc_section: "4712"
 chapter: 47
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 4712"
-generated_at: "2026-03-29T17:50:24.119Z"
+generated_at: "2026-03-29T18:03:21.842Z"
 ---
 
 # § 4712. Posting of travel and financial disclosure reports on public website of Clerk of the House of Representatives

@@ -5,7 +5,7 @@ usc_section: "9305"
 chapter: 93
 current_through: "PL 113-100"
 classification: "31 U.S.C. § 9305"
-generated_at: "2026-03-29T17:52:44.204Z"
+generated_at: "2026-03-29T18:06:08.525Z"
 ---
 
 # § 9305. Authority and revocation of authority of surety corporations

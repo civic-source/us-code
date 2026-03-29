@@ -5,7 +5,7 @@ usc_section: "1811to1824"
 chapter: 36
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1811to1824"
-generated_at: "2026-03-29T17:53:03.738Z"
+generated_at: "2026-03-29T18:06:28.386Z"
 ---
 
 # §§ 1811 to 1824. Repealed. Pub. L. 101–380, title II, § 2004 , Aug. 18, 1990 , 104 Stat. 507

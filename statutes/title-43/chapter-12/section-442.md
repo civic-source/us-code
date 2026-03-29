@@ -5,7 +5,7 @@ usc_section: "442"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 442"
-generated_at: "2026-03-29T17:53:03.635Z"
+generated_at: "2026-03-29T18:06:28.278Z"
 ---
 
 # § 442. Assignment between June 23, 1910 , and January 1, 1913 , confirmed

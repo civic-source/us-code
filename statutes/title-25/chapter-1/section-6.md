@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 1
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 6"
-generated_at: "2026-03-29T17:52:05.882Z"
+generated_at: "2026-03-29T18:05:17.017Z"
 ---
 
 # § 6. Seal; authenticated and certified documents; evidence

@@ -5,7 +5,7 @@ usc_section: "4774"
 chapter: 449
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 4774"
-generated_at: "2026-03-29T17:50:57.200Z"
+generated_at: "2026-03-29T18:04:13.247Z"
 ---
 
 # [§ 4774. Repealed. Pub. L. 97–214, § 7(1) , July 12, 1982 , 96 Stat. 173 ]

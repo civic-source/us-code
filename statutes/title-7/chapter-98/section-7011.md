@@ -5,7 +5,7 @@ usc_section: "7011"
 chapter: 98
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 7011"
-generated_at: "2026-03-29T17:50:48.835Z"
+generated_at: "2026-03-29T18:04:05.097Z"
 ---
 
 # § 7011. Successorship provisions relating to bargaining units and exclusive representatives

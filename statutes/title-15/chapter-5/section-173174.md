@@ -5,7 +5,7 @@ usc_section: "173174"
 chapter: 5
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 173174"
-generated_at: "2026-03-29T17:51:36.116Z"
+generated_at: "2026-03-29T18:04:29.413Z"
 ---
 
 # §§ 173, 174. Repealed. Pub. L. 87–826, § 3 , Oct. 15, 1962 , 76 Stat. 953

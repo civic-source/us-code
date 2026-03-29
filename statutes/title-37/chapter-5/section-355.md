@@ -5,7 +5,7 @@ usc_section: "355"
 chapter: 5
 current_through: "PL 113-100"
 classification: "37 U.S.C. § 355"
-generated_at: "2026-03-29T17:52:59.097Z"
+generated_at: "2026-03-29T18:06:17.218Z"
 ---
 
 # § 355. Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units

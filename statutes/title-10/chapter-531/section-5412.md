@@ -5,7 +5,7 @@ usc_section: "5412"
 chapter: 531
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 5412"
-generated_at: "2026-03-29T17:50:57.206Z"
+generated_at: "2026-03-29T18:04:13.252Z"
 ---
 
 # [§ 5412. Repealed. Pub. L. 96–513, title III, § 311(a) , Dec. 12, 1980 , 94 Stat. 2889 ]

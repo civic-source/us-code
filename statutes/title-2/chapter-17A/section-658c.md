@@ -5,7 +5,7 @@ usc_section: "658c"
 chapter: 17
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 658c"
-generated_at: "2026-03-29T17:50:24.050Z"
+generated_at: "2026-03-29T18:03:21.762Z"
 ---
 
 # § 658c. Duties of Director; statements on bills and joint resolutions other than appropriations bills and joint resolutions

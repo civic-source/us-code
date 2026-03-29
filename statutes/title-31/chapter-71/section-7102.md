@@ -5,7 +5,7 @@ usc_section: "7102"
 chapter: 71
 current_through: "PL 113-100"
 classification: "31 U.S.C. § 7102"
-generated_at: "2026-03-29T17:52:44.201Z"
+generated_at: "2026-03-29T18:06:08.520Z"
 ---
 
 # § 7102. Definitions

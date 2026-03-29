@@ -5,7 +5,7 @@ usc_section: "673"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 673"
-generated_at: "2026-03-29T17:52:06.009Z"
+generated_at: "2026-03-29T18:05:17.085Z"
 ---
 
 # § 673. Repealed. Pub. L. 97–375, title I, § 108(b) , Dec. 21, 1982 , 96 Stat. 1820

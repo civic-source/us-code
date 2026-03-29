@@ -5,7 +5,7 @@ usc_section: "2252"
 chapter: 31
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 2252"
-generated_at: "2026-03-29T17:50:24.109Z"
+generated_at: "2026-03-29T18:03:21.828Z"
 ---
 
 # § 2252. Transfer from Capitol Guide Service

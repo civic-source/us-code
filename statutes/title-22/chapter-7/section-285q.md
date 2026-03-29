@@ -5,7 +5,7 @@ usc_section: "285q"
 chapter: 7
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 285q"
-generated_at: "2026-03-29T17:52:10.411Z"
+generated_at: "2026-03-29T18:05:21.730Z"
 ---
 
 # § 285q. Subscription to additional shares; authorization of appropriations

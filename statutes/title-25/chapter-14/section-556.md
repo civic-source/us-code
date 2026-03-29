@@ -5,7 +5,7 @@ usc_section: "556"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 556"
-generated_at: "2026-03-29T17:52:05.994Z"
+generated_at: "2026-03-29T18:05:17.070Z"
 ---
 
 # § 556. Reversion of interest in property on death without heirs or devisees

@@ -5,7 +5,7 @@ usc_section: "15"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-29T17:53:34.561Z"
+generated_at: "2026-03-29T18:07:13.830Z"
 ---
 
 # § 1320b–15. Protection of social security and medicare trust funds

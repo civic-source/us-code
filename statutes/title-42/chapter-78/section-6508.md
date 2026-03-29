@@ -5,7 +5,7 @@ usc_section: "6508"
 chapter: 78
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 6508"
-generated_at: "2026-03-29T17:53:35.404Z"
+generated_at: "2026-03-29T18:07:14.783Z"
 ---
 
 # § 6508. Transferred

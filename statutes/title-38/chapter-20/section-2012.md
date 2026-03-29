@@ -5,7 +5,7 @@ usc_section: "2012"
 chapter: 20
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 2012"
-generated_at: "2026-03-29T17:52:53.723Z"
+generated_at: "2026-03-29T18:06:22.771Z"
 ---
 
 # § 2012. Per diem payments

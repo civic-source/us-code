@@ -5,7 +5,7 @@ usc_section: "135"
 chapter: 5
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 135"
-generated_at: "2026-03-29T17:50:24.000Z"
+generated_at: "2026-03-29T18:03:21.710Z"
 ---
 
 # § 135. Purchase of books for law library

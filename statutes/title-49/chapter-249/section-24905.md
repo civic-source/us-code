@@ -5,7 +5,7 @@ usc_section: "24905"
 chapter: 249
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 24905"
-generated_at: "2026-03-29T17:53:48.030Z"
+generated_at: "2026-03-29T18:07:51.425Z"
 ---
 
 # § 24905. Northeast Corridor Infrastructure and Operations Advisory Commission; Safety Committee

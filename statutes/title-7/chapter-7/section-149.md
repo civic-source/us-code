@@ -5,7 +5,7 @@ usc_section: "149"
 chapter: 7
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 149"
-generated_at: "2026-03-29T17:50:48.491Z"
+generated_at: "2026-03-29T18:04:04.749Z"
 ---
 
 # § 149. Repealed. Pub. L. 106–224, title IV, § 438(a)(5) , June 20, 2000 , 114 Stat. 454

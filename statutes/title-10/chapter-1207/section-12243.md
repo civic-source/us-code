@@ -5,7 +5,7 @@ usc_section: "12243"
 chapter: 1207
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 12243"
-generated_at: "2026-03-29T17:50:57.271Z"
+generated_at: "2026-03-29T18:04:13.319Z"
 ---
 
 # § 12243. Warrant officers: suspension of laws for promotion or mandatory retirement or separation during war or emergency

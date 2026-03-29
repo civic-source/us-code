@@ -5,7 +5,7 @@ usc_section: "1301"
 chapter: 13
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 1301"
-generated_at: "2026-03-29T17:52:53.689Z"
+generated_at: "2026-03-29T18:06:22.743Z"
 ---
 
 # § 1301. Definitions

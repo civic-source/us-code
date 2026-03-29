@@ -5,7 +5,7 @@ usc_section: "71"
 chapter: 2
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 71"
-generated_at: "2026-03-29T17:51:12.972Z"
+generated_at: "2026-03-29T18:04:43.376Z"
 ---
 
 # § 71. Election

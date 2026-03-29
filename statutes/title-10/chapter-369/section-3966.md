@@ -5,7 +5,7 @@ usc_section: "3966"
 chapter: 369
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 3966"
-generated_at: "2026-03-29T17:50:57.187Z"
+generated_at: "2026-03-29T18:04:13.234Z"
 ---
 
 # § 3966. Retired lists

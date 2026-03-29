@@ -5,7 +5,7 @@ usc_section: "515to515k"
 chapter: 21
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 515to515k"
-generated_at: "2026-03-29T17:50:48.526Z"
+generated_at: "2026-03-29T18:04:04.781Z"
 ---
 
 # §§ 515 to 515k. Repealed. Pub. L. 108–357, title VI, § 611(c) , Oct. 22, 2004 , 118 Stat. 1522

@@ -5,7 +5,7 @@ usc_section: "5603"
 chapter: 53
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 5603"
-generated_at: "2026-03-29T17:51:13.313Z"
+generated_at: "2026-03-29T18:04:43.812Z"
 ---
 
 # § 5603. Review, report, and program with respect to exchange facilitators

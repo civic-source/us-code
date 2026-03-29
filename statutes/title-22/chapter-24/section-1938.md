@@ -5,7 +5,7 @@ usc_section: "1938"
 chapter: 24
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 1938"
-generated_at: "2026-03-29T17:52:10.468Z"
+generated_at: "2026-03-29T18:05:21.789Z"
 ---
 
 # § 1938. Repealed. July 18, 1956, ch. 627, § 8(m) , 70 Stat. 559

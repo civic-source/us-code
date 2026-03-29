@@ -5,7 +5,7 @@ usc_section: "508"
 chapter: 5
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 508"
-generated_at: "2026-03-29T17:52:49.339Z"
+generated_at: "2026-03-29T18:06:24.288Z"
 ---
 
 # § 508. Enforcement

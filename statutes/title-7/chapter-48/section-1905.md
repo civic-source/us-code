@@ -5,7 +5,7 @@ usc_section: "1905"
 chapter: 48
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1905"
-generated_at: "2026-03-29T17:50:48.648Z"
+generated_at: "2026-03-29T18:04:04.901Z"
 ---
 
 # § 1905. Repealed. Pub. L. 95–445, § 5(b) , Oct. 10, 1978 , 92 Stat. 1069

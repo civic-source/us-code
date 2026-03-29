@@ -5,7 +5,7 @@ usc_section: "853o"
 chapter: 17
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 853o"
-generated_at: "2026-03-29T17:52:45.918Z"
+generated_at: "2026-03-29T18:06:10.509Z"
 ---
 
 # § 853o. Repealed. Pub. L. 107–372, title II, § 271(1) , Dec. 19, 2002 , 116 Stat. 3094

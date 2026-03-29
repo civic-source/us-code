@@ -5,7 +5,7 @@ usc_section: "1713"
 chapter: 17
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 1713"
-generated_at: "2026-03-29T17:52:53.700Z"
+generated_at: "2026-03-29T18:06:22.752Z"
 ---
 
 # [§ 1713. Renumbered § 1781]

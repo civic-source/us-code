@@ -5,7 +5,7 @@ usc_section: "8795"
 chapter: 94
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 8795"
-generated_at: "2026-03-29T17:52:10.728Z"
+generated_at: "2026-03-29T18:05:22.072Z"
 ---
 
 # § 8795. Termination

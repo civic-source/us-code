@@ -5,7 +5,7 @@ usc_section: "5601"
 chapter: 539
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 5601"
-generated_at: "2026-03-29T17:50:57.208Z"
+generated_at: "2026-03-29T18:04:13.254Z"
 ---
 
 # [§ 5601. Repealed. Pub. L. 89–609, § 1(10) , Sept. 30, 1966 , 80 Stat. 853 ]

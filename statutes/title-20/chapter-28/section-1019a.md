@@ -5,7 +5,7 @@ usc_section: "1019a"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1019a"
-generated_at: "2026-03-29T17:51:48.321Z"
+generated_at: "2026-03-29T18:05:00.049Z"
 ---
 
 # § 1019a. Responsibilities of covered institutions, institution-affiliated organizations, and lenders

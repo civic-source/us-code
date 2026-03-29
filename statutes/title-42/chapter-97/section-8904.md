@@ -5,7 +5,7 @@ usc_section: "8904"
 chapter: 97
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 8904"
-generated_at: "2026-03-29T17:53:35.608Z"
+generated_at: "2026-03-29T18:07:15.019Z"
 ---
 
 # § 8904. Implementation of comprehensive plan; new or existing regulatory authorities, etc., not granted or modified

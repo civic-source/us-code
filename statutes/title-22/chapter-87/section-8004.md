@@ -5,7 +5,7 @@ usc_section: "8004"
 chapter: 87
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 8004"
-generated_at: "2026-03-29T17:52:10.710Z"
+generated_at: "2026-03-29T18:05:22.048Z"
 ---
 
 # § 8004. United States compliance with its nuclear nonproliferation treaty obligations

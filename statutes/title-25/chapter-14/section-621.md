@@ -5,7 +5,7 @@ usc_section: "621"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 621"
-generated_at: "2026-03-29T17:52:06.001Z"
+generated_at: "2026-03-29T18:05:17.077Z"
 ---
 
 # § 621. Portions of tribal lands to be held in trust by the United States; remainder to become part of the public domain

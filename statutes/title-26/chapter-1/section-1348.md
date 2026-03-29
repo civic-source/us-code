@@ -5,7 +5,7 @@ usc_section: "1348"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 1348"
-generated_at: "2026-03-29T17:52:39.369Z"
+generated_at: "2026-03-29T18:05:44.799Z"
 ---
 
 # [§ 1348. Repealed. Pub. L. 97–34, title I, § 101(c)(1) , Aug. 13, 1981 , 95 Stat. 183 ]

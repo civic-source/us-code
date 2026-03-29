@@ -5,7 +5,7 @@ usc_section: "1432"
 chapter: 13
 current_through: "PL 113-100"
 classification: "47 U.S.C. § 1432"
-generated_at: "2026-03-29T17:53:43.682Z"
+generated_at: "2026-03-29T18:07:40.924Z"
 ---
 
 # § 1432. Prohibition on direct offering of commercial telecommunications service directly to consumers

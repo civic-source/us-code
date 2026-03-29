@@ -5,7 +5,7 @@ usc_section: "2408"
 chapter: 141
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2408"
-generated_at: "2026-03-29T17:50:57.119Z"
+generated_at: "2026-03-29T18:04:13.164Z"
 ---
 
 # § 2408. Prohibition on persons convicted of defense-contract related felonies and related criminal penalty on defense contractors

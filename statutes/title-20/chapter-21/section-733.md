@@ -5,7 +5,7 @@ usc_section: "733"
 chapter: 21
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 733"
-generated_at: "2026-03-29T17:51:48.301Z"
+generated_at: "2026-03-29T18:05:00.022Z"
 ---
 
 # § 733. Repealed. Pub. L. 90–575, title II, § 291(b)(1) , Oct. 16, 1968 , 82 Stat. 1050

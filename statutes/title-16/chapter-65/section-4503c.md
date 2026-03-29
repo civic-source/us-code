@@ -5,7 +5,7 @@ usc_section: "4503c"
 chapter: 65
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 4503c"
-generated_at: "2026-03-29T17:51:56.994Z"
+generated_at: "2026-03-29T18:05:07.069Z"
 ---
 
 # § 4503c. Omitted

@@ -5,7 +5,7 @@ usc_section: "4111"
 chapter: 43
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 4111"
-generated_at: "2026-03-29T17:52:06.158Z"
+generated_at: "2026-03-29T18:05:17.254Z"
 ---
 
 # § 4111. Block grants

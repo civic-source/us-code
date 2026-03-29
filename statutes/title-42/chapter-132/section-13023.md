@@ -5,7 +5,7 @@ usc_section: "13023"
 chapter: 132
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 13023"
-generated_at: "2026-03-29T17:53:35.831Z"
+generated_at: "2026-03-29T18:07:15.298Z"
 ---
 
 # § 13023. Specialized technical assistance and training programs

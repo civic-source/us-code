@@ -5,7 +5,7 @@ usc_section: "1200e"
 chapter: 28
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1200e"
-generated_at: "2026-03-29T17:53:03.681Z"
+generated_at: "2026-03-29T18:06:28.324Z"
 ---
 
 # § 1200e. Authorization of appropriations for relocating certain Sioux tribe members after condemnation of lands for dam purposes; conditions; title to lands acquired

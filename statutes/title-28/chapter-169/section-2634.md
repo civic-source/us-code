@@ -5,7 +5,7 @@ usc_section: "2634"
 chapter: 169
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 2634"
-generated_at: "2026-03-29T17:52:24.243Z"
+generated_at: "2026-03-29T18:06:03.390Z"
 ---
 
 # § 2634. Notice

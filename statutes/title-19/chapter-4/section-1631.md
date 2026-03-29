@@ -5,7 +5,7 @@ usc_section: "1631"
 chapter: 4
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 1631"
-generated_at: "2026-03-29T17:51:51.236Z"
+generated_at: "2026-03-29T18:04:55.034Z"
 ---
 
 # § 1631. Use of private collection agencies

@@ -5,7 +5,7 @@ usc_section: "1967"
 chapter: 29
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 1967"
-generated_at: "2026-03-29T17:50:24.096Z"
+generated_at: "2026-03-29T18:03:21.813Z"
 ---
 
 # § 1967. Law enforcement authority

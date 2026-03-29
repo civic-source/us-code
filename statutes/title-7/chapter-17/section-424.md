@@ -5,7 +5,7 @@ usc_section: "424"
 chapter: 17
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 424"
-generated_at: "2026-03-29T17:50:48.514Z"
+generated_at: "2026-03-29T18:04:04.768Z"
 ---
 
 # § 424. Cotton ginning investigations; publication of results; cooperation with Federal and State departments and agencies

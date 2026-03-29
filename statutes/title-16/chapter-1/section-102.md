@@ -5,7 +5,7 @@ usc_section: "102"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 102"
-generated_at: "2026-03-29T17:51:56.663Z"
+generated_at: "2026-03-29T18:05:06.703Z"
 ---
 
 # § 460nnn–102. Land exchanges, C. M. Otley and Otley Brothers

@@ -5,7 +5,7 @@ usc_section: "15977"
 chapter: 149
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15977"
-generated_at: "2026-03-29T17:53:35.969Z"
+generated_at: "2026-03-29T18:07:15.444Z"
 ---
 
 # § 15977. Department of Energy transportation fuels from Illinois basin coal

@@ -5,7 +5,7 @@ usc_section: "1076e"
 chapter: 55
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1076e"
-generated_at: "2026-03-29T17:50:57.008Z"
+generated_at: "2026-03-29T18:04:13.049Z"
 ---
 
 # § 1076e. TRICARE program: TRICARE Standard coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60

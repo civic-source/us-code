@@ -5,7 +5,7 @@ usc_section: "1631i"
 chapter: 21
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 1631i"
-generated_at: "2026-03-29T17:52:10.457Z"
+generated_at: "2026-03-29T18:05:21.780Z"
 ---
 
 # § 1631i. Limitations

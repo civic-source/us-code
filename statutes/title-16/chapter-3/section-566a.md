@@ -5,7 +5,7 @@ usc_section: "566a"
 chapter: 3
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 566a"
-generated_at: "2026-03-29T17:51:56.720Z"
+generated_at: "2026-03-29T18:05:06.766Z"
 ---
 
 # § 566a. Repealed. Pub. L. 92–288, § 3(b) , May 5, 1972 , 86 Stat. 134

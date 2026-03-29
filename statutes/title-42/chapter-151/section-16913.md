@@ -5,7 +5,7 @@ usc_section: "16913"
 chapter: 151
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 16913"
-generated_at: "2026-03-29T17:53:36.008Z"
+generated_at: "2026-03-29T18:07:15.488Z"
 ---
 
 # § 16913. Registry requirements for sex offenders

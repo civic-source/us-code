@@ -5,7 +5,7 @@ usc_section: "7271"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 7271"
-generated_at: "2026-03-29T17:51:48.653Z"
+generated_at: "2026-03-29T18:05:00.367Z"
 ---
 
 # § 7271. Assistance for arts education

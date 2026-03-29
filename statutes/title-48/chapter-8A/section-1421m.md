@@ -5,7 +5,7 @@ usc_section: "1421m"
 chapter: 8
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 1421m"
-generated_at: "2026-03-29T17:53:42.704Z"
+generated_at: "2026-03-29T18:07:36.846Z"
 ---
 
 # § 1421m. Repealed. Pub. L. 91–513, title III, § 1101(a)(8) , Oct. 27, 1970 , 84 Stat. 1292

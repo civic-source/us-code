@@ -5,7 +5,7 @@ usc_section: "154703"
 chapter: 1547
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 154703"
-generated_at: "2026-03-29T17:52:49.373Z"
+generated_at: "2026-03-29T18:06:24.329Z"
 ---
 
 # § 154703. Purposes

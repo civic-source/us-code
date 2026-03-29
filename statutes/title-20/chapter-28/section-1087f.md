@@ -5,7 +5,7 @@ usc_section: "1087f"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1087f"
-generated_at: "2026-03-29T17:51:48.396Z"
+generated_at: "2026-03-29T18:05:00.121Z"
 ---
 
 # § 1087f. Contracts

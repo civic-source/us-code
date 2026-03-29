@@ -5,7 +5,7 @@ usc_section: "20103"
 chapter: 201
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 20103"
-generated_at: "2026-03-29T17:52:49.343Z"
+generated_at: "2026-03-29T18:06:24.293Z"
 ---
 
 # § 20103. Membership

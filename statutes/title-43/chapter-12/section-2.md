@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-29T17:53:03.642Z"
+generated_at: "2026-03-29T18:06:28.285Z"
 ---
 
 # § 485h–2. Amendments to existing contracts

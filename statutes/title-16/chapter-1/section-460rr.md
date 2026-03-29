@@ -5,7 +5,7 @@ usc_section: "460rr"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 460rr"
-generated_at: "2026-03-29T17:51:56.635Z"
+generated_at: "2026-03-29T18:05:06.671Z"
 ---
 
 # § 460rr. Establishment

@@ -5,7 +5,7 @@ usc_section: "2005"
 chapter: 30
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 2005"
-generated_at: "2026-03-29T17:50:24.098Z"
+generated_at: "2026-03-29T18:03:21.816Z"
 ---
 
 # § 2005. Vacant rooms; assignment to Representatives

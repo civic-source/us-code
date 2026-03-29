@@ -5,7 +5,7 @@ usc_section: "657h"
 chapter: 14
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 657h"
-generated_at: "2026-03-29T17:51:36.169Z"
+generated_at: "2026-03-29T18:04:29.484Z"
 ---
 
 # § 657h. Small business energy efficiency

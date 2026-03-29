@@ -5,7 +5,7 @@ usc_section: "2115"
 chapter: 104
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2115"
-generated_at: "2026-03-29T17:50:57.073Z"
+generated_at: "2026-03-29T18:04:13.118Z"
 ---
 
 # § 2115. Graduates: limitation on number permitted to perform civilian Federal service

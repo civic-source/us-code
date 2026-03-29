@@ -5,7 +5,7 @@ usc_section: "9106"
 chapter: 72
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 9106"
-generated_at: "2026-03-29T17:51:48.684Z"
+generated_at: "2026-03-29T18:05:00.403Z"
 ---
 
 # § 9106. Contributions

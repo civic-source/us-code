@@ -5,7 +5,7 @@ usc_section: "102"
 chapter: 4
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 102"
-generated_at: "2026-03-29T17:50:23.995Z"
+generated_at: "2026-03-29T18:03:21.706Z"
 ---
 
 # § 102. Repealed. Pub. L. 104–186, title II, § 204(52) , Aug. 20, 1996 , 110 Stat. 1737

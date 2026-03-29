@@ -5,7 +5,7 @@ usc_section: "7919"
 chapter: 88
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 7919"
-generated_at: "2026-03-29T17:53:35.565Z"
+generated_at: "2026-03-29T18:07:14.974Z"
 ---
 
 # § 7919. Rules

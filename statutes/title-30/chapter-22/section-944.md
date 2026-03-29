@@ -5,7 +5,7 @@ usc_section: "944"
 chapter: 22
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 944"
-generated_at: "2026-03-29T17:52:16.739Z"
+generated_at: "2026-03-29T18:05:26.183Z"
 ---
 
 # § 944. Statement of reasons for denial of claim

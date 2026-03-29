@@ -5,7 +5,7 @@ usc_section: "198"
 chapter: 5
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 198"
-generated_at: "2026-03-29T17:51:36.117Z"
+generated_at: "2026-03-29T18:04:29.416Z"
 ---
 
 # § 198. Repealed. Oct. 10, 1940, ch. 851, § 4 , 54 Stat. 1111

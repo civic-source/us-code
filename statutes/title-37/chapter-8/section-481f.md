@@ -5,7 +5,7 @@ usc_section: "481f"
 chapter: 8
 current_through: "PL 113-100"
 classification: "37 U.S.C. § 481f"
-generated_at: "2026-03-29T17:52:59.110Z"
+generated_at: "2026-03-29T18:06:17.230Z"
 ---
 
 # § 481f. Travel and transportation allowances: transportation for survivors of deceased member to attend member’s burial ceremonies; transportation for survivors of member dying overseas to attend transfer ceremonies

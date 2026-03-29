@@ -5,7 +5,7 @@ usc_section: "190"
 chapter: 1
 current_through: "PL 113-100"
 classification: "6 U.S.C. § 190"
-generated_at: "2026-03-29T17:50:39.326Z"
+generated_at: "2026-03-29T18:03:43.239Z"
 ---
 
 # § 190. Transfer of Plum Island Animal Disease Center, Department of Agriculture

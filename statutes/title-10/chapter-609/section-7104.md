@@ -5,7 +5,7 @@ usc_section: "7104"
 chapter: 609
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 7104"
-generated_at: "2026-03-29T17:50:57.223Z"
+generated_at: "2026-03-29T18:04:13.272Z"
 ---
 
 # § 7104. Marine Corps University: acceptance of grants for faculty research for scientific, literary, and educational purposes

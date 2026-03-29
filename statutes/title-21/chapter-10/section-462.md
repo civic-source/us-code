@@ -5,7 +5,7 @@ usc_section: "462"
 chapter: 10
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 462"
-generated_at: "2026-03-29T17:52:03.934Z"
+generated_at: "2026-03-29T18:05:14.869Z"
 ---
 
 # § 462. Reporting of violations; notice; opportunity to present views

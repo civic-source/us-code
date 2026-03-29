@@ -5,7 +5,7 @@ usc_section: "6531"
 chapter: 65
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 6531"
-generated_at: "2026-03-29T17:50:24.140Z"
+generated_at: "2026-03-29T18:03:21.861Z"
 ---
 
 # § 6531. Compensation of Secretary of Senate

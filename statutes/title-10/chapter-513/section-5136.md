@@ -5,7 +5,7 @@ usc_section: "5136"
 chapter: 513
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 5136"
-generated_at: "2026-03-29T17:50:57.205Z"
+generated_at: "2026-03-29T18:04:13.251Z"
 ---
 
 # [§ 5136. Repealed. Pub. L. 86–174, § 2(3) , Aug. 18, 1959 , 73 Stat. 396 ]

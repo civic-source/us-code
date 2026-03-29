@@ -5,7 +5,7 @@ usc_section: "3603"
 chapter: 67
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 3603"
-generated_at: "2026-03-29T17:50:48.765Z"
+generated_at: "2026-03-29T18:04:05.025Z"
 ---
 
 # § 3603. Delegation of powers and duties

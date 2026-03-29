@@ -5,7 +5,7 @@ usc_section: "1031"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 1031"
-generated_at: "2026-03-29T17:52:39.345Z"
+generated_at: "2026-03-29T18:05:44.766Z"
 ---
 
 # § 1031. Exchange of property held for productive use or investment

@@ -5,7 +5,7 @@ usc_section: "100"
 chapter: 10
 current_through: "PL 113-100"
 classification: "35 U.S.C. § 100"
-generated_at: "2026-03-29T17:52:44.601Z"
+generated_at: "2026-03-29T18:06:06.433Z"
 ---
 
 # § 100. Definitions

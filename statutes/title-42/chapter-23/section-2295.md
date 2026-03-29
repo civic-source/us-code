@@ -5,7 +5,7 @@ usc_section: "2295"
 chapter: 23
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 2295"
-generated_at: "2026-03-29T17:53:35.102Z"
+generated_at: "2026-03-29T18:07:14.438Z"
 ---
 
 # § 2295. Acquisition of nuclear materials

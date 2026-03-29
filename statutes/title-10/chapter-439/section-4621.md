@@ -5,7 +5,7 @@ usc_section: "4621"
 chapter: 439
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 4621"
-generated_at: "2026-03-29T17:50:57.197Z"
+generated_at: "2026-03-29T18:04:13.244Z"
 ---
 
 # § 4621. Quartermaster supplies: members of armed forces; veterans; executive or military departments and employees; prices

@@ -5,7 +5,7 @@ usc_section: "4682"
 chapter: 443
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 4682"
-generated_at: "2026-03-29T17:50:57.198Z"
+generated_at: "2026-03-29T18:04:13.245Z"
 ---
 
 # § 4682. Obsolete or excess material: sale to National Council of Boy Scouts of America

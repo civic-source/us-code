@@ -5,7 +5,7 @@ usc_section: "42"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 42"
-generated_at: "2026-03-29T17:51:56.661Z"
+generated_at: "2026-03-29T18:05:06.702Z"
 ---
 
 # § 460nnn–42. Cooperative efforts to control development and encourage conservation

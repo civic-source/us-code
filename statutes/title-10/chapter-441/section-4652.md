@@ -5,7 +5,7 @@ usc_section: "4652"
 chapter: 441
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 4652"
-generated_at: "2026-03-29T17:50:57.198Z"
+generated_at: "2026-03-29T18:04:13.244Z"
 ---
 
 # § 4652. Rifles and ammunition for target practice: educational institutions having corps of cadets

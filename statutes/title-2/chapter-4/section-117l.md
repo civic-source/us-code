@@ -5,7 +5,7 @@ usc_section: "117l"
 chapter: 4
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 117l"
-generated_at: "2026-03-29T17:50:23.997Z"
+generated_at: "2026-03-29T18:03:21.707Z"
 ---
 
 # § 117l. Transferred

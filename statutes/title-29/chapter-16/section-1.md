@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 16
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 1"
-generated_at: "2026-03-29T17:52:18.801Z"
+generated_at: "2026-03-29T18:05:31.719Z"
 ---
 
 # § 796f–1. Grants to centers for independent living in States in which Federal funding exceeds State funding

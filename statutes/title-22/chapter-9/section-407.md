@@ -5,7 +5,7 @@ usc_section: "407"
 chapter: 9
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 407"
-generated_at: "2026-03-29T17:52:10.436Z"
+generated_at: "2026-03-29T18:05:21.757Z"
 ---
 
 # § 407. Repealed. Aug. 13, 1953, ch. 434, § 2 , 67 Stat. 577

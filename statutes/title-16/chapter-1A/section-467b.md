@@ -5,7 +5,7 @@ usc_section: "467b"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 467b"
-generated_at: "2026-03-29T17:51:56.674Z"
+generated_at: "2026-03-29T18:05:06.714Z"
 ---
 
 # § 467b. Survey by Secretary of the Interior of sites for commemoration of former Presidents of the United States

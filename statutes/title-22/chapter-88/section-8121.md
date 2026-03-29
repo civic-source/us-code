@@ -5,7 +5,7 @@ usc_section: "8121"
 chapter: 88
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 8121"
-generated_at: "2026-03-29T17:52:10.711Z"
+generated_at: "2026-03-29T18:05:22.049Z"
 ---
 
 # § 8121. Requirement for authority to conduct complementary access

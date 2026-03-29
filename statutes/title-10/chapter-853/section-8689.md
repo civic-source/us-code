@@ -5,7 +5,7 @@ usc_section: "8689"
 chapter: 853
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 8689"
-generated_at: "2026-03-29T17:50:57.244Z"
+generated_at: "2026-03-29T18:04:13.292Z"
 ---
 
 # [§ 8689. Repealed. Pub. L. 87–649, § 14c(57) , Sept. 7, 1962 , 76 Stat. 502 ]

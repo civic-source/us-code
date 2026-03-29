@@ -5,7 +5,7 @@ usc_section: "53732"
 chapter: 537
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 53732"
-generated_at: "2026-03-29T17:53:41.831Z"
+generated_at: "2026-03-29T18:07:34.404Z"
 ---
 
 # § 53732. Eligible export vessels

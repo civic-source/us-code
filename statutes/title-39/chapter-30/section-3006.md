@@ -5,7 +5,7 @@ usc_section: "3006"
 chapter: 30
 current_through: "PL 113-100"
 classification: "39 U.S.C. § 3006"
-generated_at: "2026-03-29T17:52:57.910Z"
+generated_at: "2026-03-29T18:06:14.485Z"
 ---
 
 # [§ 3006. Repealed. Pub. L. 106–168, title I, § 105(b)(1) , Dec. 12, 1999 , 113 Stat. 1811 ]

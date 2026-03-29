@@ -5,7 +5,7 @@ usc_section: "357"
 chapter: 9
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 357"
-generated_at: "2026-03-29T17:52:03.848Z"
+generated_at: "2026-03-29T18:05:14.784Z"
 ---
 
 # § 357. Repealed. Pub. L. 105–115, title I, § 125(b)(1) , Nov. 21, 1997 , 111 Stat. 2325

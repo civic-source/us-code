@@ -5,7 +5,7 @@ usc_section: "590a"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 590a"
-generated_at: "2026-03-29T17:52:05.999Z"
+generated_at: "2026-03-29T18:05:17.074Z"
 ---
 
 # § 590a. Shoshone-Bannock Tribes of the Fort Hall Reservation; credit of funds

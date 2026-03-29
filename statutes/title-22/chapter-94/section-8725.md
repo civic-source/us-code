@@ -5,7 +5,7 @@ usc_section: "8725"
 chapter: 94
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 8725"
-generated_at: "2026-03-29T17:52:10.725Z"
+generated_at: "2026-03-29T18:05:22.068Z"
 ---
 
 # § 8725. Liability of parent companies for violations of sanctions by foreign subsidiaries

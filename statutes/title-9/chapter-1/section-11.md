@@ -5,7 +5,7 @@ usc_section: "11"
 chapter: 1
 current_through: "PL 113-100"
 classification: "9 U.S.C. § 11"
-generated_at: "2026-03-29T17:50:38.311Z"
+generated_at: "2026-03-29T18:03:32.316Z"
 ---
 
 # § 11. Same; modification or correction; grounds; order

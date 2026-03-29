@@ -5,7 +5,7 @@ usc_section: "221to222i"
 chapter: 3
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 221to222i"
-generated_at: "2026-03-29T17:52:16.710Z"
+generated_at: "2026-03-29T18:05:26.146Z"
 ---
 
 # §§ 221 to 222i. Omitted

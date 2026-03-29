@@ -5,7 +5,7 @@ usc_section: "377"
 chapter: 10
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 377"
-generated_at: "2026-03-29T17:52:05.962Z"
+generated_at: "2026-03-29T18:05:17.042Z"
 ---
 
 # § 377. Repealed. Pub. L. 96–363, § 2(a) , Sept. 26, 1980 , 94 Stat. 1207

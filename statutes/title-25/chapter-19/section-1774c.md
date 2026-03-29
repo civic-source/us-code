@@ -5,7 +5,7 @@ usc_section: "1774c"
 chapter: 19
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 1774c"
-generated_at: "2026-03-29T17:52:06.093Z"
+generated_at: "2026-03-29T18:05:17.182Z"
 ---
 
 # § 1774c. Responsibilities and restrictions

@@ -5,7 +5,7 @@ usc_section: "1375"
 chapter: 12
 current_through: "PL 113-100"
 classification: "8 U.S.C. § 1375"
-generated_at: "2026-03-29T17:50:41.373Z"
+generated_at: "2026-03-29T18:03:34.084Z"
 ---
 
 # § 1375. Repealed. Pub. L. 109–162, title VIII, § 833(g) , Jan. 5, 2006 , 119 Stat. 3077

@@ -5,7 +5,7 @@ usc_section: "6561d"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 6561d"
-generated_at: "2026-03-29T17:51:48.609Z"
+generated_at: "2026-03-29T18:05:00.325Z"
 ---
 
 # § 6561d. Strategies and capacity building

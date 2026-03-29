@@ -5,7 +5,7 @@ usc_section: "4201to4206"
 chapter: 54
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 4201to4206"
-generated_at: "2026-03-29T17:51:48.556Z"
+generated_at: "2026-03-29T18:05:00.267Z"
 ---
 
 # §§ 4201 to 4206. Repealed. Pub. L. 99–498, title V, § 501(b) , Oct. 17, 1986 , 100 Stat. 1514

@@ -5,7 +5,7 @@ usc_section: "7d"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 7d"
-generated_at: "2026-03-29T17:53:34.543Z"
+generated_at: "2026-03-29T18:07:13.815Z"
 ---
 
 # § 1320a–7d. Guidance regarding application of health care fraud and abuse sanctions

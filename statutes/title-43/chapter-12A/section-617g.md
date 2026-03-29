@@ -5,7 +5,7 @@ usc_section: "617g"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 617g"
-generated_at: "2026-03-29T17:53:03.651Z"
+generated_at: "2026-03-29T18:06:28.294Z"
 ---
 
 # § 617g. Colorado River compact as controlling authority in construction and maintenance of dam, reservoir, canals, and other works

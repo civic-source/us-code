@@ -5,7 +5,7 @@ usc_section: "1666c"
 chapter: 41
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1666c"
-generated_at: "2026-03-29T17:51:36.256Z"
+generated_at: "2026-03-29T18:04:29.608Z"
 ---
 
 # § 1666c. Prompt and fair crediting of payments

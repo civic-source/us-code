@@ -5,7 +5,7 @@ usc_section: "1515"
 chapter: 27
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 1515"
-generated_at: "2026-03-29T17:52:16.775Z"
+generated_at: "2026-03-29T18:05:26.227Z"
 ---
 
 # § 1515. Regulations

@@ -5,7 +5,7 @@ usc_section: "17"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 17"
-generated_at: "2026-03-29T17:52:06.005Z"
+generated_at: "2026-03-29T18:05:17.081Z"
 ---
 
 # § 640d–17. Actions for accounting, fair value of grazing, and claims for damages to land

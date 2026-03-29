@@ -5,7 +5,7 @@ usc_section: "299to301"
 chapter: 7
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 299to301"
-generated_at: "2026-03-29T17:52:05.899Z"
+generated_at: "2026-03-29T18:05:17.034Z"
 ---
 
 # §§ 299 to 301. Repealed. May 29, 1928, ch. 901, § 1 , 45 Stat. 990 , 991

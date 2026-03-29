@@ -5,7 +5,7 @@ usc_section: "12572"
 chapter: 129
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 12572"
-generated_at: "2026-03-29T17:53:35.776Z"
+generated_at: "2026-03-29T18:07:15.239Z"
 ---
 
 # § 12572. National service programs eligible for program assistance

@@ -5,7 +5,7 @@ usc_section: "6405"
 chapter: 65
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 6405"
-generated_at: "2026-03-29T17:52:39.567Z"
+generated_at: "2026-03-29T18:05:45.010Z"
 ---
 
 # § 6405. Reports of refunds and credits

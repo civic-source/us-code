@@ -5,7 +5,7 @@ usc_section: "2004"
 chapter: 19
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 2004"
-generated_at: "2026-03-29T17:53:42.744Z"
+generated_at: "2026-03-29T18:07:36.885Z"
 ---
 
 # § 2004. Administrative matters

@@ -5,7 +5,7 @@ usc_section: "3371"
 chapter: 64
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 3371"
-generated_at: "2026-03-29T17:50:48.762Z"
+generated_at: "2026-03-29T18:04:05.021Z"
 ---
 
 # § 3371. Matching funds requirement

@@ -5,7 +5,7 @@ usc_section: "6103"
 chapter: 80
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 6103"
-generated_at: "2026-03-29T17:51:57.014Z"
+generated_at: "2026-03-29T18:05:07.089Z"
 ---
 
 # § 6103. Definitions

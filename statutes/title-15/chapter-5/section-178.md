@@ -5,7 +5,7 @@ usc_section: "178"
 chapter: 5
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 178"
-generated_at: "2026-03-29T17:51:36.116Z"
+generated_at: "2026-03-29T18:04:29.413Z"
 ---
 
 # § 178. Collection of statistics of foreign and interstate commerce and transportation

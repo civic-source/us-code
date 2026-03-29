@@ -5,7 +5,7 @@ usc_section: "15"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-29T17:53:34.400Z"
+generated_at: "2026-03-29T18:07:13.651Z"
 ---
 
 # § 300jj–15. Application and use of adopted standards and implementation specifications by Federal agencies

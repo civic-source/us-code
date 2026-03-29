@@ -5,7 +5,7 @@ usc_section: "6801"
 chapter: 76
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 6801"
-generated_at: "2026-03-29T17:52:10.677Z"
+generated_at: "2026-03-29T18:05:22.013Z"
 ---
 
 # § 6801. Definitions

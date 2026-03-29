@@ -5,7 +5,7 @@ usc_section: "2331"
 chapter: 12
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 2331"
-generated_at: "2026-03-29T17:51:51.280Z"
+generated_at: "2026-03-29T18:04:55.087Z"
 ---
 
 # § 2331. Repealed. Pub. L. 107–210, div. A, title I, § 123(a) , Aug. 6, 2002 , 116 Stat. 944

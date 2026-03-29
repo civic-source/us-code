@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 3
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 1"
-generated_at: "2026-03-29T17:52:16.711Z"
+generated_at: "2026-03-29T18:05:26.148Z"
 ---
 
 # § 226–1. Extension of noncompetitive oil or gas lease issued before September 2, 1960

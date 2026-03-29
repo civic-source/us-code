@@ -5,7 +5,7 @@ usc_section: "371"
 chapter: 1
 current_through: "PL 113-100"
 classification: "6 U.S.C. § 371"
-generated_at: "2026-03-29T17:50:39.342Z"
+generated_at: "2026-03-29T18:03:43.256Z"
 ---
 
 # § 371. Repealed. Pub. L. 108–7, div. L, § 104(c)(1) , Feb. 20, 2003 , 117 Stat. 531

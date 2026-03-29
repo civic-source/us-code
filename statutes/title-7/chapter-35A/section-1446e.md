@@ -5,7 +5,7 @@ usc_section: "1446e"
 chapter: 35
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1446e"
-generated_at: "2026-03-29T17:50:48.592Z"
+generated_at: "2026-03-29T18:04:04.846Z"
 ---
 
 # § 1446e. Repealed. Pub. L. 104–127, title I, § 141(g) , Apr. 4, 1996 , 110 Stat. 915

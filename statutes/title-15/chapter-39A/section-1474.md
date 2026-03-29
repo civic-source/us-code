@@ -5,7 +5,7 @@ usc_section: "1474"
 chapter: 39
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1474"
-generated_at: "2026-03-29T17:51:36.233Z"
+generated_at: "2026-03-29T18:04:29.558Z"
 ---
 
 # § 1474. Regulations for special packaging standards

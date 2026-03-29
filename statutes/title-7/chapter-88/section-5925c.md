@@ -5,7 +5,7 @@ usc_section: "5925c"
 chapter: 88
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 5925c"
-generated_at: "2026-03-29T17:50:48.799Z"
+generated_at: "2026-03-29T18:04:05.060Z"
 ---
 
 # § 5925c. Organic production and market data initiatives

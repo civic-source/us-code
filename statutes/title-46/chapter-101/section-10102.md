@@ -5,7 +5,7 @@ usc_section: "10102"
 chapter: 101
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 10102"
-generated_at: "2026-03-29T17:53:41.800Z"
+generated_at: "2026-03-29T18:07:34.354Z"
 ---
 
 # [§ 10102. Repealed. Pub. L. 103–206, title IV, § 422(c)(1) , Dec. 20, 1993 , 107 Stat. 2439 ]

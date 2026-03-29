@@ -5,7 +5,7 @@ usc_section: "1961to1963"
 chapter: 46
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1961to1963"
-generated_at: "2026-03-29T17:51:36.288Z"
+generated_at: "2026-03-29T18:04:29.673Z"
 ---
 
 # §§ 1961 to 1963. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

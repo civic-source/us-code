@@ -5,7 +5,7 @@ usc_section: "687a"
 chapter: 18
 current_through: "PL 113-100"
 classification: "14 U.S.C. § 687a"
-generated_at: "2026-03-29T17:51:01.012Z"
+generated_at: "2026-03-29T18:04:21.496Z"
 ---
 
 # [§ 687a. Repealed. Pub. L. 111–281, title II, § 221(a)(7) , Oct. 15, 2010 , 124 Stat. 2920 ]

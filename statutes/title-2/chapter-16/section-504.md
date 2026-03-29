@@ -5,7 +5,7 @@ usc_section: "504"
 chapter: 16
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 504"
-generated_at: "2026-03-29T17:50:24.042Z"
+generated_at: "2026-03-29T18:03:21.753Z"
 ---
 
 # § 504. Mass mailings by Senate offices; quarterly statements; publication of summary tabulations

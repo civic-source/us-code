@@ -5,7 +5,7 @@ usc_section: "16293"
 chapter: 149
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 16293"
-generated_at: "2026-03-29T17:53:35.990Z"
+generated_at: "2026-03-29T18:07:15.467Z"
 ---
 
 # § 16293. Carbon capture and sequestration research, development, and demonstration program

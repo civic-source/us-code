@@ -5,7 +5,7 @@ usc_section: "907"
 chapter: 25
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 907"
-generated_at: "2026-03-29T17:51:48.303Z"
+generated_at: "2026-03-29T18:05:00.026Z"
 ---
 
 # § 907. Applicability of other laws

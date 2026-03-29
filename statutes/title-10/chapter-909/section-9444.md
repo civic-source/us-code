@@ -5,7 +5,7 @@ usc_section: "9444"
 chapter: 909
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 9444"
-generated_at: "2026-03-29T17:50:57.252Z"
+generated_at: "2026-03-29T18:04:13.300Z"
 ---
 
 # § 9444. Activities performed as auxiliary of the Air Force

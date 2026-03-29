@@ -5,7 +5,7 @@ usc_section: "12605"
 chapter: 129
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 12605"
-generated_at: "2026-03-29T17:53:35.784Z"
+generated_at: "2026-03-29T18:07:15.249Z"
 ---
 
 # § 12605. Repealed. Pub. L. 111–13, title I, § 1406(b) , Apr. 21, 2009 , 123 Stat. 1521

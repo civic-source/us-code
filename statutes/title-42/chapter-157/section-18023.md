@@ -5,7 +5,7 @@ usc_section: "18023"
 chapter: 157
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 18023"
-generated_at: "2026-03-29T17:53:36.060Z"
+generated_at: "2026-03-29T18:07:15.541Z"
 ---
 
 # § 18023. Special rules

@@ -5,7 +5,7 @@ usc_section: "215to220"
 chapter: 4
 current_through: "PL 113-100"
 classification: "24 U.S.C. § 215to220"
-generated_at: "2026-03-29T17:52:00.353Z"
+generated_at: "2026-03-29T18:05:10.887Z"
 ---
 
 # §§ 215 to 220. Repealed. Pub. L. 88–597, § 19(c) , Sept. 15, 1964 , 78 Stat. 953

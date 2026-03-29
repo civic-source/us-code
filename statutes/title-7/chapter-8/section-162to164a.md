@@ -5,7 +5,7 @@ usc_section: "162to164a"
 chapter: 8
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 162to164a"
-generated_at: "2026-03-29T17:50:48.491Z"
+generated_at: "2026-03-29T18:04:04.749Z"
 ---
 
 # §§ 162 to 164a. Repealed. Pub. L. 106–224, title IV, § 438(a)(1) , June 20, 2000 , 114 Stat. 454

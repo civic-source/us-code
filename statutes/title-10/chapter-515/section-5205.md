@@ -5,7 +5,7 @@ usc_section: "5205"
 chapter: 515
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 5205"
-generated_at: "2026-03-29T17:50:57.206Z"
+generated_at: "2026-03-29T18:04:13.252Z"
 ---
 
 # [§ 5205. Repealed. Pub. L. 87–123, § 5(3) , Aug. 3, 1961 , 75 Stat. 264 ]

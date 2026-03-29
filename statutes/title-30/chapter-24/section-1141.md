@@ -5,7 +5,7 @@ usc_section: "1141"
 chapter: 24
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 1141"
-generated_at: "2026-03-29T17:52:16.747Z"
+generated_at: "2026-03-29T18:05:26.190Z"
 ---
 
 # § 1141. Establishment of loan guaranty program

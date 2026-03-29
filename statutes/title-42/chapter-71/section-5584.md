@@ -5,7 +5,7 @@ usc_section: "5584"
 chapter: 71
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5584"
-generated_at: "2026-03-29T17:53:35.329Z"
+generated_at: "2026-03-29T18:07:14.699Z"
 ---
 
 # § 5584. Federal assistance application procedures; selection of applicants; agreements; financial assistance; observation and monitoring of photovoltaic systems; reports; projects and activities

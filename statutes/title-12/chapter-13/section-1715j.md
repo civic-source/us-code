@@ -5,7 +5,7 @@ usc_section: "1715j"
 chapter: 13
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 1715j"
-generated_at: "2026-03-29T17:51:13.057Z"
+generated_at: "2026-03-29T18:04:43.482Z"
 ---
 
 # § 1715j. Repealed. Pub. L. 89–117, title XI, § 1108(aa) , Aug. 10, 1965 , 79 Stat. 507

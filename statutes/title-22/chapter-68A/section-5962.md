@@ -5,7 +5,7 @@ usc_section: "5962"
 chapter: 68
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 5962"
-generated_at: "2026-03-29T17:52:10.652Z"
+generated_at: "2026-03-29T18:05:21.985Z"
 ---
 
 # § 5962. Annual certifications on use of facilities being constructed for Cooperative Threat Reduction projects or activities

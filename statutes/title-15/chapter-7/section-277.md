@@ -5,7 +5,7 @@ usc_section: "277"
 chapter: 7
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 277"
-generated_at: "2026-03-29T17:51:36.122Z"
+generated_at: "2026-03-29T18:04:29.421Z"
 ---
 
 # § 277. Regulations

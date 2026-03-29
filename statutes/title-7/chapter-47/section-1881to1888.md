@@ -5,7 +5,7 @@ usc_section: "1881to1888"
 chapter: 47
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1881to1888"
-generated_at: "2026-03-29T17:50:48.647Z"
+generated_at: "2026-03-29T18:04:04.901Z"
 ---
 
 # §§ 1881 to 1888. Repealed. Pub. L. 91–648, title IV, § 403 , Jan. 5, 1971 , 84 Stat. 1925

@@ -5,7 +5,7 @@ usc_section: "609"
 chapter: 6
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 609"
-generated_at: "2026-03-29T17:50:36.436Z"
+generated_at: "2026-03-29T18:03:29.832Z"
 ---
 
 # § 609. Procedures for gathering comments

@@ -5,7 +5,7 @@ usc_section: "7381g"
 chapter: 84
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 7381g"
-generated_at: "2026-03-29T17:53:35.466Z"
+generated_at: "2026-03-29T18:07:14.858Z"
 ---
 
 # § 7381g. Definitions

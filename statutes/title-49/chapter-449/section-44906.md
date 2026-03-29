@@ -5,7 +5,7 @@ usc_section: "44906"
 chapter: 449
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 44906"
-generated_at: "2026-03-29T17:53:48.108Z"
+generated_at: "2026-03-29T18:07:51.516Z"
 ---
 
 # § 44906. Foreign air carrier security programs

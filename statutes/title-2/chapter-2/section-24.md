@@ -5,7 +5,7 @@ usc_section: "24"
 chapter: 2
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 24"
-generated_at: "2026-03-29T17:50:23.978Z"
+generated_at: "2026-03-29T18:03:21.693Z"
 ---
 
 # § 24. Secretary of Senate or assistant secretary may administer oaths

@@ -5,7 +5,7 @@ usc_section: "22"
 chapter: 7
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 22"
-generated_at: "2026-03-29T17:52:10.401Z"
+generated_at: "2026-03-29T18:05:21.720Z"
 ---
 
 # § 277d–22. Prohibition against duplicate payments; eligibility for payments unaffected by means employed for acquisition of property; rights and powers unaffected

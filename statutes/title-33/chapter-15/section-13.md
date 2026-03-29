@@ -5,7 +5,7 @@ usc_section: "13"
 chapter: 15
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 13"
-generated_at: "2026-03-29T17:52:45.909Z"
+generated_at: "2026-03-29T18:06:10.499Z"
 ---
 
 # § 701b–13. Construction of flood control projects by non-Federal interests

@@ -5,7 +5,7 @@ usc_section: "2102A"
 chapter: 21
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 2102A"
-generated_at: "2026-03-29T17:52:53.728Z"
+generated_at: "2026-03-29T18:06:22.775Z"
 ---
 
 # § 2102A. Assistance for individuals residing temporarily in housing owned by a family member

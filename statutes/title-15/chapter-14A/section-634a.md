@@ -5,7 +5,7 @@ usc_section: "634a"
 chapter: 14
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 634a"
-generated_at: "2026-03-29T17:51:36.139Z"
+generated_at: "2026-03-29T18:04:29.443Z"
 ---
 
 # § 634a. Office of Advocacy within Small Business Administration; Chief Counsel for Advocacy

@@ -5,7 +5,7 @@ usc_section: "286b1286b2"
 chapter: 7
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 286b1286b2"
-generated_at: "2026-03-29T17:52:10.414Z"
+generated_at: "2026-03-29T18:05:21.732Z"
 ---
 
 # §§ 286b–1, 286b–2. Repealed. Pub. L. 101–240, title V, § 541(d)(1) , (5), Dec. 19, 1989 , 103 Stat. 2518

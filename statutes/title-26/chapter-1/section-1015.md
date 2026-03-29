@@ -5,7 +5,7 @@ usc_section: "1015"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 1015"
-generated_at: "2026-03-29T17:52:39.343Z"
+generated_at: "2026-03-29T18:05:44.764Z"
 ---
 
 # § 1015. Basis of property acquired by gifts and transfers in trust

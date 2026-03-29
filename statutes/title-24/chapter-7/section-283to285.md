@@ -5,7 +5,7 @@ usc_section: "283to285"
 chapter: 7
 current_through: "PL 113-100"
 classification: "24 U.S.C. § 283to285"
-generated_at: "2026-03-29T17:52:00.355Z"
+generated_at: "2026-03-29T18:05:10.891Z"
 ---
 
 # §§ 283 to 285. Omitted

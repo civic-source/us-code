@@ -5,7 +5,7 @@ usc_section: "333"
 chapter: 3
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 333"
-generated_at: "2026-03-29T17:53:47.945Z"
+generated_at: "2026-03-29T18:07:51.324Z"
 ---
 
 # § 333. Responsibility for rail transportation unification and coordination projects

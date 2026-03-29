@@ -5,7 +5,7 @@ usc_section: "5343"
 chapter: 53
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 5343"
-generated_at: "2026-03-29T17:50:36.477Z"
+generated_at: "2026-03-29T18:03:29.875Z"
 ---
 
 # § 5343. Prevailing rate determinations; wage schedules; night differentials

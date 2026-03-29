@@ -5,7 +5,7 @@ usc_section: "1981"
 chapter: 7
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 1981"
-generated_at: "2026-03-29T17:51:51.262Z"
+generated_at: "2026-03-29T18:04:55.063Z"
 ---
 
 # § 1981. General authority

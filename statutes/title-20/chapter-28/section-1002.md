@@ -5,7 +5,7 @@ usc_section: "1002"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1002"
-generated_at: "2026-03-29T17:51:48.312Z"
+generated_at: "2026-03-29T18:05:00.035Z"
 ---
 
 # § 1002. Definition of institution of higher education for purposes of student assistance programs

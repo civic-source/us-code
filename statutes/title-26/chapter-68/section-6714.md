@@ -5,7 +5,7 @@ usc_section: "6714"
 chapter: 68
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 6714"
-generated_at: "2026-03-29T17:52:39.593Z"
+generated_at: "2026-03-29T18:05:45.036Z"
 ---
 
 # § 6714. Failure to meet disclosure requirements applicable to quid pro quo contributions

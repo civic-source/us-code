@@ -5,7 +5,7 @@ usc_section: "2371"
 chapter: 40
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 2371"
-generated_at: "2026-03-29T17:53:51.010Z"
+generated_at: "2026-03-29T18:07:43.070Z"
 ---
 
 # § 2371. Report on nuclear aspirations of non-state entities, nuclear weapons and related programs in non-nuclear-weapons states and countries not parties to the Nuclear Non-Proliferation Treaty, and certain foreign persons

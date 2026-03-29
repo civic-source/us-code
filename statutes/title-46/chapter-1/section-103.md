@@ -5,7 +5,7 @@ usc_section: "103"
 chapter: 1
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 103"
-generated_at: "2026-03-29T17:53:41.778Z"
+generated_at: "2026-03-29T18:07:34.323Z"
 ---
 
 # § 103. Boundary Line

@@ -5,7 +5,7 @@ usc_section: "2106"
 chapter: 48
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 2106"
-generated_at: "2026-03-29T17:51:36.302Z"
+generated_at: "2026-03-29T18:04:29.837Z"
 ---
 
 # § 2106. Definitions

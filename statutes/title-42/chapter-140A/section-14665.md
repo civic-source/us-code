@@ -5,7 +5,7 @@ usc_section: "14665"
 chapter: 140
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 14665"
-generated_at: "2026-03-29T17:53:35.916Z"
+generated_at: "2026-03-29T18:07:15.386Z"
 ---
 
 # § 14665. Grants for the assistance of organizations to find missing adults

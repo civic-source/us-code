@@ -5,7 +5,7 @@ usc_section: "6235to6238"
 chapter: 77
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 6235to6238"
-generated_at: "2026-03-29T17:53:35.357Z"
+generated_at: "2026-03-29T18:07:14.731Z"
 ---
 
 # §§ 6235 to 6238. Repealed. Pub. L. 106–469, title I, § 103(8) –(11), Nov. 9, 2000 , 114 Stat. 2030

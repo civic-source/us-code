@@ -5,7 +5,7 @@ usc_section: "115b"
 chapter: 2
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 115b"
-generated_at: "2026-03-29T17:50:56.914Z"
+generated_at: "2026-03-29T18:04:12.954Z"
 ---
 
 # § 115b. Biennial strategic workforce plan

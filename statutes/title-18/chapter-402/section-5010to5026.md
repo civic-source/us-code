@@ -5,7 +5,7 @@ usc_section: "5010to5026"
 chapter: 402
 current_through: "PL 113-100"
 classification: "18 U.S.C. § 5010to5026"
-generated_at: "2026-03-29T17:53:15.768Z"
+generated_at: "2026-03-29T18:04:51.013Z"
 ---
 
 # [§§ 5010 to 5026. Repealed. Pub. L. 98–473, title II, § 218(a)(8) , Oct. 12, 1984 , 98 Stat. 2027 ]

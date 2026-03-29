@@ -5,7 +5,7 @@ usc_section: "8747"
 chapter: 857
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 8747"
-generated_at: "2026-03-29T17:50:57.244Z"
+generated_at: "2026-03-29T18:04:13.292Z"
 ---
 
 # § 8747. Medal of honor; Air Force cross; distinguished-service cross; distinguished-service medal; silver star: replacement

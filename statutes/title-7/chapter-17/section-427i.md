@@ -5,7 +5,7 @@ usc_section: "427i"
 chapter: 17
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 427i"
-generated_at: "2026-03-29T17:50:48.515Z"
+generated_at: "2026-03-29T18:04:04.768Z"
 ---
 
 # § 427i. Agricultural research; authorization of additional appropriations; administrative expenses; availability of special research fund

@@ -5,7 +5,7 @@ usc_section: "2403"
 chapter: 44
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 2403"
-generated_at: "2026-03-29T17:51:56.929Z"
+generated_at: "2026-03-29T18:05:06.998Z"
 ---
 
 # § 2403. Prohibited acts

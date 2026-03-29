@@ -5,7 +5,7 @@ usc_section: "6249b"
 chapter: 77
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 6249b"
-generated_at: "2026-03-29T17:53:35.359Z"
+generated_at: "2026-03-29T18:07:14.733Z"
 ---
 
 # § 6249b. Repealed. Pub. L. 106–469, title I, § 103(22) , Nov. 9, 2000 , 114 Stat. 2033

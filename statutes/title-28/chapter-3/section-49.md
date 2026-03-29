@@ -5,7 +5,7 @@ usc_section: "49"
 chapter: 3
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 49"
-generated_at: "2026-03-29T17:52:24.164Z"
+generated_at: "2026-03-29T18:06:03.313Z"
 ---
 
 # § 49. Assignment of judges to division to appoint independent counsels

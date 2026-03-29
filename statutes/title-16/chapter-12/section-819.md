@@ -5,7 +5,7 @@ usc_section: "819"
 chapter: 12
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 819"
-generated_at: "2026-03-29T17:51:56.783Z"
+generated_at: "2026-03-29T18:05:06.837Z"
 ---
 
 # § 819. Repealed. Aug. 26, 1935, ch. 687 , title II, § 212, 49 Stat. 847

@@ -5,7 +5,7 @@ usc_section: "910"
 chapter: 17
 current_through: "PL 113-100"
 classification: "37 U.S.C. § 910"
-generated_at: "2026-03-29T17:52:59.117Z"
+generated_at: "2026-03-29T18:06:17.235Z"
 ---
 
 # § 910. Replacement of lost income: involuntarily mobilized reserve component members subject to extended and frequent active duty service

@@ -5,7 +5,7 @@ usc_section: "0"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 0"
-generated_at: "2026-03-29T17:51:48.384Z"
+generated_at: "2026-03-29T18:05:00.110Z"
 ---
 
 # § 1087–0. Repealed. Pub. L. 105–244, title IV, § 432 , Oct. 7, 1998 , 112 Stat. 1710

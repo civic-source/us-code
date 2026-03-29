@@ -5,7 +5,7 @@ usc_section: "19"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 19"
-generated_at: "2026-03-29T17:53:34.561Z"
+generated_at: "2026-03-29T18:07:13.831Z"
 ---
 
 # § 1320b–19. The Ticket to Work and Self-Sufficiency Program

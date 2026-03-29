@@ -5,7 +5,7 @@ usc_section: "2656b"
 chapter: 38
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 2656b"
-generated_at: "2026-03-29T17:52:10.547Z"
+generated_at: "2026-03-29T18:05:21.872Z"
 ---
 
 # § 2656b. Congressional declaration of policy regarding consequences of science and technology on conduct of foreign policy

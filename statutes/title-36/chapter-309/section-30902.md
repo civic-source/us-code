@@ -5,7 +5,7 @@ usc_section: "30902"
 chapter: 309
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 30902"
-generated_at: "2026-03-29T17:52:49.352Z"
+generated_at: "2026-03-29T18:06:24.303Z"
 ---
 
 # § 30902. Purposes

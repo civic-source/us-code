@@ -5,7 +5,7 @@ usc_section: "1439"
 chapter: 18
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 1439"
-generated_at: "2026-03-29T17:52:10.448Z"
+generated_at: "2026-03-29T18:05:21.770Z"
 ---
 
 # § 1439. Repealed. Pub. L. 96–470, title I, § 117 , Oct. 19, 1980 , 94 Stat. 2240

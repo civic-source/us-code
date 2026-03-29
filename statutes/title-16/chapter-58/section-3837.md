@@ -5,7 +5,7 @@ usc_section: "3837"
 chapter: 58
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 3837"
-generated_at: "2026-03-29T17:51:56.969Z"
+generated_at: "2026-03-29T18:05:07.047Z"
 ---
 
 # § 3837. Wetlands reserve program

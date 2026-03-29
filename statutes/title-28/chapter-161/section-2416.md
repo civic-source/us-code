@@ -5,7 +5,7 @@ usc_section: "2416"
 chapter: 161
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 2416"
-generated_at: "2026-03-29T17:52:24.239Z"
+generated_at: "2026-03-29T18:06:03.387Z"
 ---
 
 # § 2416. Time for commencing actions brought by the United States—Exclusions

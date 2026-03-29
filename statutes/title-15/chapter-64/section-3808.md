@@ -5,7 +5,7 @@ usc_section: "3808"
 chapter: 64
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 3808"
-generated_at: "2026-03-29T17:51:36.364Z"
+generated_at: "2026-03-29T18:04:29.907Z"
 ---
 
 # § 3808. Repealed. Pub. L. 104–66, title I, § 1051(p) , Dec. 21, 1995 , 109 Stat. 717

@@ -5,7 +5,7 @@ usc_section: "311to313"
 chapter: 8
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 311to313"
-generated_at: "2026-03-29T17:53:03.605Z"
+generated_at: "2026-03-29T18:06:28.253Z"
 ---
 
 # §§ 311 to 313. Repealed. Aug. 1, 1955, ch. 448 , 69 Stat. 434

@@ -5,7 +5,7 @@ usc_section: "4592"
 chapter: 45
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 4592"
-generated_at: "2026-03-29T17:50:24.118Z"
+generated_at: "2026-03-29T18:03:21.841Z"
 ---
 
 # § 4592. Payment of sums due deceased Senators and Senate personnel

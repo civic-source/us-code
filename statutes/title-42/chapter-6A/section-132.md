@@ -5,7 +5,7 @@ usc_section: "132"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 132"
-generated_at: "2026-03-29T17:53:34.375Z"
+generated_at: "2026-03-29T18:07:13.617Z"
 ---
 
 # § 300ff–132. Routine notifications with respect to airborne infectious diseases in victims assisted

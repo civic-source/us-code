@@ -5,7 +5,7 @@ usc_section: "1822"
 chapter: 119
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 1822"
-generated_at: "2026-03-29T17:52:24.225Z"
+generated_at: "2026-03-29T18:06:03.375Z"
 ---
 
 # § 1822. Competency of interested persons; share of penalties payable

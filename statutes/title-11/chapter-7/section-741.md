@@ -5,7 +5,7 @@ usc_section: "741"
 chapter: 7
 current_through: "PL 113-100"
 classification: "11 U.S.C. § 741"
-generated_at: "2026-03-29T17:51:02.150Z"
+generated_at: "2026-03-29T18:04:18.533Z"
 ---
 
 # § 741. Definitions for this subchapter

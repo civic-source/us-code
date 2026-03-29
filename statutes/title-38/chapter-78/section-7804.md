@@ -5,7 +5,7 @@ usc_section: "7804"
 chapter: 78
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 7804"
-generated_at: "2026-03-29T17:52:53.855Z"
+generated_at: "2026-03-29T18:06:22.860Z"
 ---
 
 # § 7804. Financing of Service

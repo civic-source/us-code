@@ -5,7 +5,7 @@ usc_section: "986"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 986"
-generated_at: "2026-03-29T17:52:39.337Z"
+generated_at: "2026-03-29T18:05:44.756Z"
 ---
 
 # § 986. Determination of foreign taxes and foreign corporation’s earnings and profits

@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 136
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-29T17:53:35.884Z"
+generated_at: "2026-03-29T18:07:15.358Z"
 ---
 
 # § 14043e–4. Grants to combat violence against women in public and assisted housing

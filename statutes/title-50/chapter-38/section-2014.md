@@ -5,7 +5,7 @@ usc_section: "2014"
 chapter: 38
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 2014"
-generated_at: "2026-03-29T17:53:50.992Z"
+generated_at: "2026-03-29T18:07:43.051Z"
 ---
 
 # § 2014. Annuitants

@@ -5,7 +5,7 @@ usc_section: "3442"
 chapter: 42
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 3442"
-generated_at: "2026-03-29T17:53:35.173Z"
+generated_at: "2026-03-29T18:07:14.516Z"
 ---
 
 # § 3442. Repealed. Pub. L. 90–574, title III, § 303(b) , Oct. 15, 1968 , 82 Stat. 1011

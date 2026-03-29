@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 32
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T17:51:56.879Z"
+generated_at: "2026-03-29T18:05:06.942Z"
 ---
 
 # § 1445c–1. Dr. Nancy Foster Scholarship Program

@@ -5,7 +5,7 @@ usc_section: "19h"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 19h"
-generated_at: "2026-03-29T17:51:56.440Z"
+generated_at: "2026-03-29T18:05:06.381Z"
 ---
 
 # § 19h. Property and income dealings and transactions; prohibition of engagement in business; trust company type of investments; utilization of services and facilities of Federal agencies without reimbursement; transfer instrument requirements and investments

@@ -5,7 +5,7 @@ usc_section: "6832"
 chapter: 81
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 6832"
-generated_at: "2026-03-29T17:53:35.411Z"
+generated_at: "2026-03-29T18:07:14.791Z"
 ---
 
 # § 6832. Definitions

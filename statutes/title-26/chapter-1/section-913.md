@@ -5,7 +5,7 @@ usc_section: "913"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 913"
-generated_at: "2026-03-29T17:52:39.327Z"
+generated_at: "2026-03-29T18:05:44.743Z"
 ---
 
 # [§ 913. Repealed. Pub. L. 97–34, title I, § 112(a) , Aug. 13, 1981 , 95 Stat. 194 ]

@@ -5,7 +5,7 @@ usc_section: "7465"
 chapter: 101
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 7465"
-generated_at: "2026-03-29T17:50:48.857Z"
+generated_at: "2026-03-29T18:04:05.120Z"
 ---
 
 # § 7465. Required terms in order

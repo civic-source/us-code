@@ -5,7 +5,7 @@ usc_section: "2367"
 chapter: 40
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 2367"
-generated_at: "2026-03-29T17:53:51.010Z"
+generated_at: "2026-03-29T18:07:43.069Z"
 ---
 
 # § 2367. Reports on Acquisition of Technology Relating to Weapons of Mass Destruction and the Threat Posed by Weapons of Mass Destruction, Ballistic Missiles, and Cruise Missiles

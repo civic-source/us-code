@@ -5,7 +5,7 @@ usc_section: "1415"
 chapter: 8
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 1415"
-generated_at: "2026-03-29T17:53:42.701Z"
+generated_at: "2026-03-29T18:07:36.843Z"
 ---
 
 # § 1415. Restrictions upon exportation

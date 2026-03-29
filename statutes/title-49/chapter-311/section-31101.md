@@ -5,7 +5,7 @@ usc_section: "31101"
 chapter: 311
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 31101"
-generated_at: "2026-03-29T17:53:48.044Z"
+generated_at: "2026-03-29T18:07:51.442Z"
 ---
 
 # § 31101. Definitions

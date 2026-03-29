@@ -5,7 +5,7 @@ usc_section: "558"
 chapter: 10
 current_through: "PL 113-100"
 classification: "37 U.S.C. § 558"
-generated_at: "2026-03-29T17:52:59.115Z"
+generated_at: "2026-03-29T18:06:17.233Z"
 ---
 
 # § 558. Income tax deferment

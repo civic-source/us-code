@@ -5,7 +5,7 @@ usc_section: "2985to2985c"
 chapter: 34
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 2985to2985c"
-generated_at: "2026-03-29T17:53:35.123Z"
+generated_at: "2026-03-29T18:07:14.462Z"
 ---
 
 # §§ 2985 to 2985c. Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13, 1981 , 95 Stat. 519

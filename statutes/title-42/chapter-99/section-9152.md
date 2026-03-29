@@ -5,7 +5,7 @@ usc_section: "9152"
 chapter: 99
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 9152"
-generated_at: "2026-03-29T17:53:35.613Z"
+generated_at: "2026-03-29T18:07:15.029Z"
 ---
 
 # § 9152. Remedies and penalties

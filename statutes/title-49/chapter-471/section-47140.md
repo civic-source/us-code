@@ -5,7 +5,7 @@ usc_section: "47140"
 chapter: 471
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 47140"
-generated_at: "2026-03-29T17:53:48.134Z"
+generated_at: "2026-03-29T18:07:51.548Z"
 ---
 
 # § 47140. Airport ground support equipment emissions retrofit pilot program

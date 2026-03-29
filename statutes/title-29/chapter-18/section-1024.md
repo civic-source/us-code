@@ -5,7 +5,7 @@ usc_section: "1024"
 chapter: 18
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 1024"
-generated_at: "2026-03-29T17:52:18.812Z"
+generated_at: "2026-03-29T18:05:31.729Z"
 ---
 
 # § 1024. Filing with Secretary and furnishing information to participants and certain employers

@@ -5,7 +5,7 @@ usc_section: "5231a"
 chapter: 52
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 5231a"
-generated_at: "2026-03-29T17:51:13.268Z"
+generated_at: "2026-03-29T18:04:43.758Z"
 ---
 
 # § 5231a. Public-Private Investment Program; additional appropriations for the Special Inspector General for the Troubled Asset Relief Program

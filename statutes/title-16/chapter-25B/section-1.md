@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 25
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T17:51:56.838Z"
+generated_at: "2026-03-29T18:05:06.899Z"
 ---
 
 # § 1220c–1. Financial assistance to State to prepare transferred ship

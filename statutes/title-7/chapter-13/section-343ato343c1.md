@@ -5,7 +5,7 @@ usc_section: "343ato343c1"
 chapter: 13
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 343ato343c1"
-generated_at: "2026-03-29T17:50:48.509Z"
+generated_at: "2026-03-29T18:04:04.763Z"
 ---
 
 # §§ 343a to 343c–1. Repealed. June 26, 1953, ch. 157, § 2 , 67 Stat. 85 , 86

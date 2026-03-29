@@ -5,7 +5,7 @@ usc_section: "1117"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 1117"
-generated_at: "2026-03-29T17:52:06.037Z"
+generated_at: "2026-03-29T18:05:17.120Z"
 ---
 
 # § 1117. Distribution of funds of Miami Indians of Oklahoma; persons entitled

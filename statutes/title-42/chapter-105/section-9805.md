@@ -5,7 +5,7 @@ usc_section: "9805"
 chapter: 105
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 9805"
-generated_at: "2026-03-29T17:53:35.646Z"
+generated_at: "2026-03-29T18:07:15.081Z"
 ---
 
 # § 9805. Statement of purpose

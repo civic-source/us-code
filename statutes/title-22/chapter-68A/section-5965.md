@@ -5,7 +5,7 @@ usc_section: "5965"
 chapter: 68
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 5965"
-generated_at: "2026-03-29T17:52:10.652Z"
+generated_at: "2026-03-29T18:05:21.986Z"
 ---
 
 # § 5965. Cooperative Threat Reduction Program authority for urgent threat reduction activities

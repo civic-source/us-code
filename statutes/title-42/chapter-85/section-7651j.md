@@ -5,7 +5,7 @@ usc_section: "7651j"
 chapter: 85
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 7651j"
-generated_at: "2026-03-29T17:53:35.549Z"
+generated_at: "2026-03-29T18:07:14.955Z"
 ---
 
 # § 7651j. Excess emissions penalty

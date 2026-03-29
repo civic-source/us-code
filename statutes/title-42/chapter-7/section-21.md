@@ -5,7 +5,7 @@ usc_section: "21"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-29T17:53:34.658Z"
+generated_at: "2026-03-29T18:07:13.949Z"
 ---
 
 # § 1395w–21. Eligibility, election, and enrollment

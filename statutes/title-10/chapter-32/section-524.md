@@ -5,7 +5,7 @@ usc_section: "524"
 chapter: 32
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 524"
-generated_at: "2026-03-29T17:50:56.950Z"
+generated_at: "2026-03-29T18:04:12.990Z"
 ---
 
 # [§ 524. Renumbered § 12011]

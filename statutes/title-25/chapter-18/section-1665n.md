@@ -5,7 +5,7 @@ usc_section: "1665n"
 chapter: 18
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 1665n"
-generated_at: "2026-03-29T17:52:06.076Z"
+generated_at: "2026-03-29T18:05:17.165Z"
 ---
 
 # § 1665n. Behavioral health research

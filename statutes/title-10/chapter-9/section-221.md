@@ -5,7 +5,7 @@ usc_section: "221"
 chapter: 9
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 221"
-generated_at: "2026-03-29T17:50:56.935Z"
+generated_at: "2026-03-29T18:04:12.976Z"
 ---
 
 # § 221. Future-years defense program: submission to Congress; consistency in budgeting

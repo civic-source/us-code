@@ -5,7 +5,7 @@ usc_section: "9027"
 chapter: 873
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 9027"
-generated_at: "2026-03-29T17:50:57.247Z"
+generated_at: "2026-03-29T18:04:13.295Z"
 ---
 
 # § 9027. Civilian special agents of the Office of Special Investigations: authority to execute warrants and make arrests

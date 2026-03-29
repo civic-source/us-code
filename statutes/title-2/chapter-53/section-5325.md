@@ -5,7 +5,7 @@ usc_section: "5325"
 chapter: 53
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 5325"
-generated_at: "2026-03-29T17:50:24.125Z"
+generated_at: "2026-03-29T18:03:21.847Z"
 ---
 
 # § 5325. Performance of duties by clerical assistants of dead or resigned Member of House

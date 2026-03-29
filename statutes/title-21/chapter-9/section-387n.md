@@ -5,7 +5,7 @@ usc_section: "387n"
 chapter: 9
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 387n"
-generated_at: "2026-03-29T17:52:03.925Z"
+generated_at: "2026-03-29T18:05:14.860Z"
 ---
 
 # § 387n. Jurisdiction of and coordination with the Federal Trade Commission

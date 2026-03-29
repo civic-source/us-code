@@ -5,7 +5,7 @@ usc_section: "286tt"
 chapter: 7
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 286tt"
-generated_at: "2026-03-29T17:52:10.421Z"
+generated_at: "2026-03-29T18:05:21.739Z"
 ---
 
 # § 286tt. Restrictions on use of United States funds for foreign governments; protection of American taxpayers

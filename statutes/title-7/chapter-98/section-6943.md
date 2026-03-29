@@ -5,7 +5,7 @@ usc_section: "6943"
 chapter: 98
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 6943"
-generated_at: "2026-03-29T17:50:48.830Z"
+generated_at: "2026-03-29T18:04:05.092Z"
 ---
 
 # § 6943. Rural Housing and Community Development Service

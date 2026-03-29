@@ -5,7 +5,7 @@ usc_section: "8"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 8"
-generated_at: "2026-03-29T17:52:06.050Z"
+generated_at: "2026-03-29T18:05:17.134Z"
 ---
 
 # § 1300j–8. Definitions

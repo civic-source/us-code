@@ -5,7 +5,7 @@ usc_section: "970"
 chapter: 22
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 970"
-generated_at: "2026-03-29T17:53:03.676Z"
+generated_at: "2026-03-29T18:06:28.317Z"
 ---
 
 # § 970. Forfeiture of Arkansas pipeline right of way for violation of antitrust law

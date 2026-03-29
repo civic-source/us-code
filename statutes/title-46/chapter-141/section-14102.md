@@ -5,7 +5,7 @@ usc_section: "14102"
 chapter: 141
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 14102"
-generated_at: "2026-03-29T17:53:41.809Z"
+generated_at: "2026-03-29T18:07:34.371Z"
 ---
 
 # [§ 14102. Repealed. Pub. L. 101–595, title VI, § 603(12)(A) , Nov. 16, 1990 , 104 Stat. 2993 ]

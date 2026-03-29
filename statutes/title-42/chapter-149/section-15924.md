@@ -5,7 +5,7 @@ usc_section: "15924"
 chapter: 149
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15924"
-generated_at: "2026-03-29T17:53:35.963Z"
+generated_at: "2026-03-29T18:07:15.439Z"
 ---
 
 # § 15924. Pilot project to improve Federal permit coordination

@@ -5,7 +5,7 @@ usc_section: "742l"
 chapter: 9
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 742l"
-generated_at: "2026-03-29T17:51:56.766Z"
+generated_at: "2026-03-29T18:05:06.821Z"
 ---
 
 # § 742l. Enforcement authority for the protection of fish and wildlife resources

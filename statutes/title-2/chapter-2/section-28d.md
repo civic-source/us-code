@@ -5,7 +5,7 @@ usc_section: "28d"
 chapter: 2
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 28d"
-generated_at: "2026-03-29T17:50:23.979Z"
+generated_at: "2026-03-29T18:03:21.694Z"
 ---
 
 # § 28d. Distribution of Precedents by Public Printer for official use; particular distribution; marking and ownership of sets

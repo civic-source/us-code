@@ -5,7 +5,7 @@ usc_section: "3d"
 chapter: 15
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 3d"
-generated_at: "2026-03-29T17:53:50.963Z"
+generated_at: "2026-03-29T18:07:43.015Z"
 ---
 
 # § 403–3d. Transferred

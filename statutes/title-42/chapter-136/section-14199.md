@@ -5,7 +5,7 @@ usc_section: "14199"
 chapter: 136
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 14199"
-generated_at: "2026-03-29T17:53:35.905Z"
+generated_at: "2026-03-29T18:07:15.379Z"
 ---
 
 # § 14199. Authorization of appropriations

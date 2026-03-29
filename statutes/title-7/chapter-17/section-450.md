@@ -5,7 +5,7 @@ usc_section: "450"
 chapter: 17
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 450"
-generated_at: "2026-03-29T17:50:48.517Z"
+generated_at: "2026-03-29T18:04:04.770Z"
 ---
 
 # § 450. Cooperation with State agencies in administration and enforcement of laws relating to marketing of agricultural products and control or eradication of plant and animal diseases and pests; coordination of administration of Federal and State laws

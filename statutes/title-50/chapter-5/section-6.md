@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 5
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 6"
-generated_at: "2026-03-29T17:53:50.954Z"
+generated_at: "2026-03-29T18:07:43.008Z"
 ---
 
 # § 98h–6. Development of domestic sources

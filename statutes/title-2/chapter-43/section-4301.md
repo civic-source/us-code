@@ -5,7 +5,7 @@ usc_section: "4301"
 chapter: 43
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 4301"
-generated_at: "2026-03-29T17:50:24.111Z"
+generated_at: "2026-03-29T18:03:21.832Z"
 ---
 
 # § 4301. Committee staffs

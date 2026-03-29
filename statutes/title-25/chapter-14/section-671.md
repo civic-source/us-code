@@ -5,7 +5,7 @@ usc_section: "671"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 671"
-generated_at: "2026-03-29T17:52:06.009Z"
+generated_at: "2026-03-29T18:05:17.084Z"
 ---
 
 # § 671. Use of funds of the Ute Indian Tribe of the Uintah and Ouray Reservation for expenditure and per capita payments; regulations applicable to loans; restriction on attorney fees

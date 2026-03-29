@@ -5,7 +5,7 @@ usc_section: "1408"
 chapter: 87
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 1408"
-generated_at: "2026-03-29T17:52:24.215Z"
+generated_at: "2026-03-29T18:06:03.364Z"
 ---
 
 # § 1408. Venue of cases under title 11

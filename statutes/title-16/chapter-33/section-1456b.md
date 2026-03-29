@@ -5,7 +5,7 @@ usc_section: "1456b"
 chapter: 33
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1456b"
-generated_at: "2026-03-29T17:51:56.884Z"
+generated_at: "2026-03-29T18:05:06.948Z"
 ---
 
 # § 1456b. Coastal zone enhancement grants

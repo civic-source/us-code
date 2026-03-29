@@ -5,7 +5,7 @@ usc_section: "1956"
 chapter: 21
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 1956"
-generated_at: "2026-03-29T17:51:13.156Z"
+generated_at: "2026-03-29T18:04:43.621Z"
 ---
 
 # § 1956. Criminal penalty

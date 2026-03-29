@@ -5,7 +5,7 @@ usc_section: "470b"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 470b"
-generated_at: "2026-03-29T17:51:56.680Z"
+generated_at: "2026-03-29T18:05:06.722Z"
 ---
 
 # § 470b. Requirements for awarding of grant funds

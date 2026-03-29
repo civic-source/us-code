@@ -5,7 +5,7 @@ usc_section: "790"
 chapter: 16
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 790"
-generated_at: "2026-03-29T17:52:18.792Z"
+generated_at: "2026-03-29T18:05:31.712Z"
 ---
 
 # § 790. Repealed. Pub. L. 102–569, title V, § 502(a) , Oct. 29, 1992 , 106 Stat. 4424

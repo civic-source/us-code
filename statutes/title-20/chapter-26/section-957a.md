@@ -5,7 +5,7 @@ usc_section: "957a"
 chapter: 26
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 957a"
-generated_at: "2026-03-29T17:51:48.310Z"
+generated_at: "2026-03-29T18:05:00.032Z"
 ---
 
 # § 957a. Omitted

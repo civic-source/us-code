@@ -5,7 +5,7 @@ usc_section: "923"
 chapter: 31
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 923"
-generated_at: "2026-03-29T17:50:48.544Z"
+generated_at: "2026-03-29T18:04:04.797Z"
 ---
 
 # § 923. State regulation of telephone service

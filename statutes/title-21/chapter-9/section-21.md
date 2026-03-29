@@ -5,7 +5,7 @@ usc_section: "21"
 chapter: 9
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 21"
-generated_at: "2026-03-29T17:52:03.898Z"
+generated_at: "2026-03-29T18:05:14.833Z"
 ---
 
 # § 379j–21. Authority to assess and use generic new animal drug fees

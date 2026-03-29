@@ -5,7 +5,7 @@ usc_section: "5100"
 chapter: 51
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 5100"
-generated_at: "2026-03-29T17:52:53.797Z"
+generated_at: "2026-03-29T18:06:22.823Z"
 ---
 
 # § 5100. Definition of “claimant”

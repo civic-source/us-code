@@ -5,7 +5,7 @@ usc_section: "3949"
 chapter: 52
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 3949"
-generated_at: "2026-03-29T17:52:10.598Z"
+generated_at: "2026-03-29T18:05:21.927Z"
 ---
 
 # § 3949. Limited appointments

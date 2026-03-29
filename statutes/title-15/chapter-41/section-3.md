@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 41
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-29T17:51:36.271Z"
+generated_at: "2026-03-29T18:04:29.637Z"
 ---
 
 # § 1681s–3. Affiliate sharing

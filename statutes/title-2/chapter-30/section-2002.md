@@ -5,7 +5,7 @@ usc_section: "2002"
 chapter: 30
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 2002"
-generated_at: "2026-03-29T17:50:24.098Z"
+generated_at: "2026-03-29T18:03:21.815Z"
 ---
 
 # § 2002. Acquisition of buildings and facilities for use in emergency situation

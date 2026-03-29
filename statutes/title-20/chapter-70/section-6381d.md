@@ -5,7 +5,7 @@ usc_section: "6381d"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 6381d"
-generated_at: "2026-03-29T17:51:48.600Z"
+generated_at: "2026-03-29T18:05:00.315Z"
 ---
 
 # § 6381d. Program elements

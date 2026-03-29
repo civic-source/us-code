@@ -5,7 +5,7 @@ usc_section: "564"
 chapter: 12
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 564"
-generated_at: "2026-03-29T17:52:18.766Z"
+generated_at: "2026-03-29T18:05:31.685Z"
 ---
 
 # § 564. Working capital fund; availability for personnel functions in regional administrative offices

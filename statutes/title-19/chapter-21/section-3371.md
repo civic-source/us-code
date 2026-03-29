@@ -5,7 +5,7 @@ usc_section: "3371"
 chapter: 21
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 3371"
-generated_at: "2026-03-29T17:51:51.326Z"
+generated_at: "2026-03-29T18:04:55.137Z"
 ---
 
 # § 3371. NAFTA article impact in import relief cases under Trade Act of 1974

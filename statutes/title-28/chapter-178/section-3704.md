@@ -5,7 +5,7 @@ usc_section: "3704"
 chapter: 178
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 3704"
-generated_at: "2026-03-29T17:52:24.251Z"
+generated_at: "2026-03-29T18:06:03.401Z"
 ---
 
 # § 3704. Applicability

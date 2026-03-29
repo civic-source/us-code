@@ -5,7 +5,7 @@ usc_section: "3663"
 chapter: 51
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 3663"
-generated_at: "2026-03-29T17:52:10.588Z"
+generated_at: "2026-03-29T18:05:21.914Z"
 ---
 
 # § 3663. Repealed. Pub. L. 105–261, div. C, title XXXV, § 3508(a) , Oct. 17, 1998 , 112 Stat. 2269

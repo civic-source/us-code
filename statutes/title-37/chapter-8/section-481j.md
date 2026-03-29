@@ -5,7 +5,7 @@ usc_section: "481j"
 chapter: 8
 current_through: "PL 113-100"
 classification: "37 U.S.C. § 481j"
-generated_at: "2026-03-29T17:52:59.111Z"
+generated_at: "2026-03-29T18:06:17.231Z"
 ---
 
 # § 481j. Travel and transportation allowances: transportation of family members incident to the repatriation of members held captive

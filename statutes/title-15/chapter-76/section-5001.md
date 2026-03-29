@@ -5,7 +5,7 @@ usc_section: "5001"
 chapter: 76
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 5001"
-generated_at: "2026-03-29T17:51:36.379Z"
+generated_at: "2026-03-29T18:04:29.922Z"
 ---
 
 # § 5001. Penalties for entering into commerce of imitation firearms

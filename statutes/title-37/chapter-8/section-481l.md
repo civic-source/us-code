@@ -5,7 +5,7 @@ usc_section: "481l"
 chapter: 8
 current_through: "PL 113-100"
 classification: "37 U.S.C. § 481l"
-generated_at: "2026-03-29T17:52:59.111Z"
+generated_at: "2026-03-29T18:06:17.231Z"
 ---
 
 # § 481l. Travel and transportation allowances: attendance of members and other persons at Yellow Ribbon Reintegration Program events

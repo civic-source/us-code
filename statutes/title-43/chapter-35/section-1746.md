@@ -5,7 +5,7 @@ usc_section: "1746"
 chapter: 35
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1746"
-generated_at: "2026-03-29T17:53:03.729Z"
+generated_at: "2026-03-29T18:06:28.377Z"
 ---
 
 # § 1746. Correction of conveyance documents

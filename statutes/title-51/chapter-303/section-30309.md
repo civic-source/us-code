@@ -5,7 +5,7 @@ usc_section: "30309"
 chapter: 303
 current_through: "PL 113-100"
 classification: "51 U.S.C. § 30309"
-generated_at: "2026-03-29T17:54:01.874Z"
+generated_at: "2026-03-29T18:07:59.495Z"
 ---
 
 # § 30309. Use of abandoned and underutilized buildings, grounds, and facilities

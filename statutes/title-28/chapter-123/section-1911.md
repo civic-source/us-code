@@ -5,7 +5,7 @@ usc_section: "1911"
 chapter: 123
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 1911"
-generated_at: "2026-03-29T17:52:24.228Z"
+generated_at: "2026-03-29T18:06:03.378Z"
 ---
 
 # § 1911. Supreme Court

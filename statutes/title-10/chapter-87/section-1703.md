@@ -5,7 +5,7 @@ usc_section: "1703"
 chapter: 87
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1703"
-generated_at: "2026-03-29T17:50:57.059Z"
+generated_at: "2026-03-29T18:04:13.103Z"
 ---
 
 # [§ 1703. Repealed. Pub. L. 108–136, div. A, title VIII, § 831(a) , Nov. 24, 2003 , 117 Stat. 1549 ]

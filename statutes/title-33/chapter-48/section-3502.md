@@ -5,7 +5,7 @@ usc_section: "3502"
 chapter: 48
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 3502"
-generated_at: "2026-03-29T17:52:46.007Z"
+generated_at: "2026-03-29T18:06:10.625Z"
 ---
 
 # § 3502. Interagency committee on ocean and coastal mapping

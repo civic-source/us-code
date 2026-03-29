@@ -5,7 +5,7 @@ usc_section: "7507"
 chapter: 75
 current_through: "PL 113-100"
 classification: "31 U.S.C. § 7507"
-generated_at: "2026-03-29T17:52:44.203Z"
+generated_at: "2026-03-29T18:06:08.523Z"
 ---
 
 # § 7507. Effective date

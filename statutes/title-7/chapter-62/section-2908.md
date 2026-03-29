@@ -5,7 +5,7 @@ usc_section: "2908"
 chapter: 62
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 2908"
-generated_at: "2026-03-29T17:50:48.745Z"
+generated_at: "2026-03-29T18:04:05.001Z"
 ---
 
 # § 2908. Enforcement

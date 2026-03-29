@@ -5,7 +5,7 @@ usc_section: "7478"
 chapter: 643
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 7478"
-generated_at: "2026-03-29T17:50:57.230Z"
+generated_at: "2026-03-29T18:04:13.279Z"
 ---
 
 # § 7478. Naval War College and Marine Corps University: civilian faculty members

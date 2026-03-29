@@ -5,7 +5,7 @@ usc_section: "2710"
 chapter: 38
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 2710"
-generated_at: "2026-03-29T17:52:10.557Z"
+generated_at: "2026-03-29T18:05:21.883Z"
 ---
 
 # § 2710. Expenses relating to participation in arbitrations of certain disputes

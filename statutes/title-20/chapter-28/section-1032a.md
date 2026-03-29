@@ -5,7 +5,7 @@ usc_section: "1032a"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1032a"
-generated_at: "2026-03-29T17:51:48.327Z"
+generated_at: "2026-03-29T18:05:00.055Z"
 ---
 
 # § 1032a. Uses of funds

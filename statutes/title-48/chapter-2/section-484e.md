@@ -5,7 +5,7 @@ usc_section: "484e"
 chapter: 2
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 484e"
-generated_at: "2026-03-29T17:53:42.689Z"
+generated_at: "2026-03-29T18:07:36.835Z"
 ---
 
 # § 484e. Repealed. Aug. 2, 1954, ch. 649 , title II, § 205, 68 Stat. 622

@@ -5,7 +5,7 @@ usc_section: "227"
 chapter: 9
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 227"
-generated_at: "2026-03-29T17:50:48.498Z"
+generated_at: "2026-03-29T18:04:04.757Z"
 ---
 
 # § 227. Powers of Federal Trade Commission and Secretary of Agriculture

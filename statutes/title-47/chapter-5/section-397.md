@@ -5,7 +5,7 @@ usc_section: "397"
 chapter: 5
 current_through: "PL 113-100"
 classification: "47 U.S.C. § 397"
-generated_at: "2026-03-29T17:53:43.646Z"
+generated_at: "2026-03-29T18:07:40.864Z"
 ---
 
 # § 397. Definitions

@@ -5,7 +5,7 @@ usc_section: "1006b"
 chapter: 33
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1006b"
-generated_at: "2026-03-29T17:50:48.555Z"
+generated_at: "2026-03-29T18:04:04.810Z"
 ---
 
 # § 1006b. Cancellation of entry or purchase upon loan default; entry or resale; conditions; satisfaction of indebtedness

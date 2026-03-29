@@ -5,7 +5,7 @@ usc_section: "220to222"
 chapter: 11
 current_through: "PL 113-100"
 classification: "18 U.S.C. § 220to222"
-generated_at: "2026-03-29T17:53:15.556Z"
+generated_at: "2026-03-29T18:04:50.861Z"
 ---
 
 # [§§ 220 to 222. Renumbered §§ 215 to 217]

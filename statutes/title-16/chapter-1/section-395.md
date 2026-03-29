@@ -5,7 +5,7 @@ usc_section: "395"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 395"
-generated_at: "2026-03-29T17:51:56.494Z"
+generated_at: "2026-03-29T18:05:06.436Z"
 ---
 
 # § 395. Exclusive jurisdiction in United States; exceptions; laws applicable; fugitives from justice

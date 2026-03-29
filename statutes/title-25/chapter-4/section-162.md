@@ -5,7 +5,7 @@ usc_section: "162"
 chapter: 4
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 162"
-generated_at: "2026-03-29T17:52:05.889Z"
+generated_at: "2026-03-29T18:05:17.028Z"
 ---
 
 # § 162. Repealed. June 24, 1938, ch. 648, § 2 , 52 Stat. 1037

@@ -5,7 +5,7 @@ usc_section: "6441"
 chapter: 73
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 6441"
-generated_at: "2026-03-29T17:52:10.668Z"
+generated_at: "2026-03-29T18:05:22.003Z"
 ---
 
 # § 6441. Presidential actions in response to violations of religious freedom

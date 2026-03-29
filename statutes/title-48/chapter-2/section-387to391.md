@@ -5,7 +5,7 @@ usc_section: "387to391"
 chapter: 2
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 387to391"
-generated_at: "2026-03-29T17:53:42.689Z"
+generated_at: "2026-03-29T18:07:36.834Z"
 ---
 
 # §§ 387 to 391. Repealed. May 4, 1934, ch. 211, § 1 , 48 Stat. 663

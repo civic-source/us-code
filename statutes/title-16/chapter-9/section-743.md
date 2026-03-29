@@ -5,7 +5,7 @@ usc_section: "743"
 chapter: 9
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 743"
-generated_at: "2026-03-29T17:51:56.767Z"
+generated_at: "2026-03-29T18:05:06.821Z"
 ---
 
 # § 743. Repealed. Pub. L. 93–280, § 1(2) , May 10, 1974 , 88 Stat. 123

@@ -3,9 +3,9 @@ title: "Section 4048 - Fees for health care services for prisoners"
 usc_title: 18
 usc_section: "4048"
 chapter: 303
-current_through: "PL 117-200"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 4048"
-generated_at: "2026-03-29T17:54:21.395Z"
+generated_at: "2026-03-29T18:04:51.004Z"
 ---
 
 # § 4048. Fees for health care services for prisoners
@@ -38,7 +38,7 @@ generated_at: "2026-03-29T17:54:21.395Z"
 - **(g)**
   - **(1)** Amounts collected by the Director under this section from a prisoner subject to an order of restitution issued pursuant to section 3663 or 3663A shall be paid to victims in accordance with the order of restitution.
   - **(2)** Of amounts collected by the Director under this section from prisoners not subject to an order of restitution issued pursuant to section 3663 or 3663A—
-    - **(A)** 75 percent shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 ( 42 U.S.C. 10601 ); 1 1 See References in Text note below. and
+    - **(A)** 75 percent shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 ( 42 U.S.C. 10601 ); and
     - **(B)** 25 percent shall be available to the Attorney General for administrative expenses incurred in carrying out this section.
 - **(h)** Each person who is or becomes a prisoner shall be provided with written and oral notices of the provisions of this section and the applicability of this section to the prisoner. Notwithstanding any other provision of this section, a fee under this section may not be assessed against, or collected from, such person—
   - **(1)** until the expiration of the 30-day period beginning on the date on which each prisoner in the prison system is provided with such notices; and

@@ -5,7 +5,7 @@ usc_section: "3507"
 chapter: 48
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 3507"
-generated_at: "2026-03-29T17:51:48.548Z"
+generated_at: "2026-03-29T18:05:00.259Z"
 ---
 
 # § 3507. Existing references to transferor officials or bodies deemed references to transferee officials or bodies

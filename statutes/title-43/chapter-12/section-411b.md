@@ -5,7 +5,7 @@ usc_section: "411b"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 411b"
-generated_at: "2026-03-29T17:53:03.628Z"
+generated_at: "2026-03-29T18:06:28.274Z"
 ---
 
 # § 411b. Employment of engineers, geologists, appraisers and economists for reclamation consultation work; compensation; retired Army and Navy officers as consulting engineers

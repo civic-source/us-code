@@ -5,7 +5,7 @@ usc_section: "8501"
 chapter: 92
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 8501"
-generated_at: "2026-03-29T17:52:10.718Z"
+generated_at: "2026-03-29T18:05:22.055Z"
 ---
 
 # § 8501. Findings

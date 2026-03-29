@@ -5,7 +5,7 @@ usc_section: "3033"
 chapter: 43
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 3033"
-generated_at: "2026-03-29T17:52:46.003Z"
+generated_at: "2026-03-29T18:06:10.619Z"
 ---
 
 # § 3033. Suspension during war or emergency

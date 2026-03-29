@@ -5,7 +5,7 @@ usc_section: "502"
 chapter: 5
 current_through: "PL 113-100"
 classification: "44 U.S.C. § 502"
-generated_at: "2026-03-29T17:53:10.489Z"
+generated_at: "2026-03-29T18:06:33.609Z"
 ---
 
 # § 502. Procurement of printing, binding, and blank-book work by Public Printer

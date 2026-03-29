@@ -5,7 +5,7 @@ usc_section: "424"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 424"
-generated_at: "2026-03-29T17:53:03.633Z"
+generated_at: "2026-03-29T18:06:28.277Z"
 ---
 
 # § 424. Disposal of lands classified as temporarily or permanently unproductive; persons who may take

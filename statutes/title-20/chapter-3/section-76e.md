@@ -5,7 +5,7 @@ usc_section: "76e"
 chapter: 3
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 76e"
-generated_at: "2026-03-29T17:51:48.283Z"
+generated_at: "2026-03-29T18:05:00.003Z"
 ---
 
 # § 76e. Housing or exhibiting objects of art possessed by Smithsonian Institution

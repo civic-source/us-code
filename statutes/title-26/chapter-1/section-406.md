@@ -5,7 +5,7 @@ usc_section: "406"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 406"
-generated_at: "2026-03-29T17:52:39.212Z"
+generated_at: "2026-03-29T18:05:44.590Z"
 ---
 
 # § 406. Employees of foreign affiliates covered by section 3121(l) agreements

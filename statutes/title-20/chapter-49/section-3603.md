@@ -5,7 +5,7 @@ usc_section: "3603"
 chapter: 49
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 3603"
-generated_at: "2026-03-29T17:51:48.549Z"
+generated_at: "2026-03-29T18:05:00.260Z"
 ---
 
 # § 3603. State plan

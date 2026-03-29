@@ -5,7 +5,7 @@ usc_section: "3001to3007"
 chapter: 50
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 3001to3007"
-generated_at: "2026-03-29T17:51:56.943Z"
+generated_at: "2026-03-29T18:05:07.014Z"
 ---
 
 # §§ 3001 to 3007. Omitted

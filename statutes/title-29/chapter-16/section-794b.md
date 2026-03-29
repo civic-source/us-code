@@ -5,7 +5,7 @@ usc_section: "794b"
 chapter: 16
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 794b"
-generated_at: "2026-03-29T17:52:18.794Z"
+generated_at: "2026-03-29T18:05:31.714Z"
 ---
 
 # § 794b. Removal of architectural, transportation, or communication barriers; technical and financial assistance; compensation of experts or consultants; authorization of appropriations

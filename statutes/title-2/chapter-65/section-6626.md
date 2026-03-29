@@ -5,7 +5,7 @@ usc_section: "6626"
 chapter: 65
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 6626"
-generated_at: "2026-03-29T17:50:24.144Z"
+generated_at: "2026-03-29T18:03:21.865Z"
 ---
 
 # § 6626. Reimbursements to Sergeant at Arms and Doorkeeper of Senate for equipment provided to Senators, etc., which has been lost, stolen, damaged, or otherwise unaccounted for; deposit of receipts

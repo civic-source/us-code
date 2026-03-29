@@ -5,7 +5,7 @@ usc_section: "152303"
 chapter: 1523
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 152303"
-generated_at: "2026-03-29T17:52:49.369Z"
+generated_at: "2026-03-29T18:06:24.322Z"
 ---
 
 # § 152303. Membership

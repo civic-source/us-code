@@ -5,7 +5,7 @@ usc_section: "418"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 418"
-generated_at: "2026-03-29T17:51:56.551Z"
+generated_at: "2026-03-29T18:05:06.586Z"
 ---
 
 # § 418. Repealed. Feb. 20, 1931, ch. 235 , 46 Stat. 1191

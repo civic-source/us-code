@@ -5,7 +5,7 @@ usc_section: "474"
 chapter: 13
 current_through: "PL 113-100"
 classification: "14 U.S.C. § 474"
-generated_at: "2026-03-29T17:51:01.001Z"
+generated_at: "2026-03-29T18:04:21.487Z"
 ---
 
 # [§ 474. Repealed. Sept. 1, 1954, ch. 1211, § 5 , 68 Stat. 1130 ]

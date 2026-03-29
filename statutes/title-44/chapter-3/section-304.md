@@ -5,7 +5,7 @@ usc_section: "304"
 chapter: 3
 current_through: "PL 113-100"
 classification: "44 U.S.C. § 304"
-generated_at: "2026-03-29T17:53:10.488Z"
+generated_at: "2026-03-29T18:06:33.608Z"
 ---
 
 # § 304. Public Printer: vacancy in office

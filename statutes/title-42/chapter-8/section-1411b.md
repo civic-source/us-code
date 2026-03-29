@@ -5,7 +5,7 @@ usc_section: "1411b"
 chapter: 8
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1411b"
-generated_at: "2026-03-29T17:53:34.886Z"
+generated_at: "2026-03-29T18:07:14.206Z"
 ---
 
 # § 1411b. Repealed. Aug. 7, 1956, ch. 1029 , title IV, § 401(b), 70 Stat. 1103

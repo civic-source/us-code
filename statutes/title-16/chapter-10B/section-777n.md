@@ -5,7 +5,7 @@ usc_section: "777n"
 chapter: 10
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 777n"
-generated_at: "2026-03-29T17:51:56.775Z"
+generated_at: "2026-03-29T18:05:06.831Z"
 ---
 
 # § 777n. Expenditure of remaining balance in Boat Safety Account

@@ -5,7 +5,7 @@ usc_section: "17617"
 chapter: 154
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 17617"
-generated_at: "2026-03-29T17:53:36.049Z"
+generated_at: "2026-03-29T18:07:15.532Z"
 ---
 
 # § 17617. Authorization of appropriations

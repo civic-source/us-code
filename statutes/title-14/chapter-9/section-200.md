@@ -5,7 +5,7 @@ usc_section: "200"
 chapter: 9
 current_through: "PL 113-100"
 classification: "14 U.S.C. § 200"
-generated_at: "2026-03-29T17:51:01.001Z"
+generated_at: "2026-03-29T18:04:21.486Z"
 ---
 
 # § 200. Policy on sexual harassment and sexual violence

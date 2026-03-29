@@ -5,7 +5,7 @@ usc_section: "7"
 chapter: 6
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-29T17:51:56.758Z"
+generated_at: "2026-03-29T18:05:06.811Z"
 ---
 
 # § 698v–7. Authorities of the Secretary

@@ -5,7 +5,7 @@ usc_section: "305"
 chapter: 3
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 305"
-generated_at: "2026-03-29T17:51:12.985Z"
+generated_at: "2026-03-29T18:04:43.391Z"
 ---
 
 # § 305. Class C directors; selection; “Federal reserve agent”

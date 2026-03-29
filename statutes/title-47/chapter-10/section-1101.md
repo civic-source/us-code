@@ -5,7 +5,7 @@ usc_section: "1101"
 chapter: 10
 current_through: "PL 113-100"
 classification: "47 U.S.C. § 1101"
-generated_at: "2026-03-29T17:53:43.673Z"
+generated_at: "2026-03-29T18:07:40.910Z"
 ---
 
 # § 1101. Purpose

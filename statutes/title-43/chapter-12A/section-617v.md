@@ -5,7 +5,7 @@ usc_section: "617v"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 617v"
-generated_at: "2026-03-29T17:53:03.653Z"
+generated_at: "2026-03-29T18:06:28.295Z"
 ---
 
 # § 617v. Repealed. Pub. L. 85–900, § 17 , Sept. 2, 1958 , 72 Stat. 1735

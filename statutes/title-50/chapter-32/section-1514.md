@@ -5,7 +5,7 @@ usc_section: "1514"
 chapter: 32
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 1514"
-generated_at: "2026-03-29T17:53:50.969Z"
+generated_at: "2026-03-29T18:07:43.022Z"
 ---
 
 # § 1514. “United States” defined

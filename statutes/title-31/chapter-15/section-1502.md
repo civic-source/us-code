@@ -5,7 +5,7 @@ usc_section: "1502"
 chapter: 15
 current_through: "PL 113-100"
 classification: "31 U.S.C. § 1502"
-generated_at: "2026-03-29T17:52:44.159Z"
+generated_at: "2026-03-29T18:06:08.469Z"
 ---
 
 # § 1502. Balances available

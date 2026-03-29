@@ -5,7 +5,7 @@ usc_section: "51to52a"
 chapter: 2
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 51to52a"
-generated_at: "2026-03-29T17:52:05.884Z"
+generated_at: "2026-03-29T18:05:17.023Z"
 ---
 
 # §§ 51 to 52a. Repealed. Pub. L. 92–310, title II, § 229(a) , (c)(2), (e), June 6, 1972 , 86 Stat. 208

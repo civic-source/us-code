@@ -5,7 +5,7 @@ usc_section: "3711"
 chapter: 51
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 3711"
-generated_at: "2026-03-29T17:52:10.590Z"
+generated_at: "2026-03-29T18:05:21.916Z"
 ---
 
 # § 3711. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(8) , Sept. 23, 1996 , 110 Stat. 2868

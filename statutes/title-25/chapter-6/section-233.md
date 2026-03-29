@@ -5,7 +5,7 @@ usc_section: "233"
 chapter: 6
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 233"
-generated_at: "2026-03-29T17:52:05.895Z"
+generated_at: "2026-03-29T18:05:17.031Z"
 ---
 
 # § 233. Jurisdiction of New York State courts in civil actions

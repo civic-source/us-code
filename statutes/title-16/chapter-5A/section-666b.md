@@ -5,7 +5,7 @@ usc_section: "666b"
 chapter: 5
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 666b"
-generated_at: "2026-03-29T17:51:56.738Z"
+generated_at: "2026-03-29T18:05:06.787Z"
 ---
 
 # § 666b. Definitions

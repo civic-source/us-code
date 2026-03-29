@@ -5,7 +5,7 @@ usc_section: "1065"
 chapter: 22
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1065"
-generated_at: "2026-03-29T17:51:36.211Z"
+generated_at: "2026-03-29T18:04:29.531Z"
 ---
 
 # § 1065. Incontestability of right to use mark under certain conditions

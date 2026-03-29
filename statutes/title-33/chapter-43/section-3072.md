@@ -5,7 +5,7 @@ usc_section: "3072"
 chapter: 43
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 3072"
-generated_at: "2026-03-29T17:52:46.004Z"
+generated_at: "2026-03-29T18:06:10.620Z"
 ---
 
 # § 3072. Eligibility for veterans benefits and other rights, privileges, immunities, and benefits under certain provisions of law

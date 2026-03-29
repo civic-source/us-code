@@ -5,7 +5,7 @@ usc_section: "5964"
 chapter: 79
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 5964"
-generated_at: "2026-03-29T17:51:57.014Z"
+generated_at: "2026-03-29T18:05:07.088Z"
 ---
 
 # § 5964. Promotion of sale of Indian, Alaska Native, Native Samoan, and Native Hawaiian handicrafts

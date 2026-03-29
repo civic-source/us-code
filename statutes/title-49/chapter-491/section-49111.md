@@ -5,7 +5,7 @@ usc_section: "49111"
 chapter: 491
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 49111"
-generated_at: "2026-03-29T17:53:48.146Z"
+generated_at: "2026-03-29T18:07:51.560Z"
 ---
 
 # § 49111. Relationship to and effect of other laws

@@ -5,7 +5,7 @@ usc_section: "29"
 chapter: 2
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 29"
-generated_at: "2026-03-29T17:50:23.979Z"
+generated_at: "2026-03-29T18:03:21.694Z"
 ---
 
 # § 29. Condensed and simplified versions of House prec­edents; other useful materials in summary form; form and distribution to Members of Congress, Resident Commissioner from Puerto Rico, and others; appointment and compensation of personnel; utilization of services of personnel of Federal agencies

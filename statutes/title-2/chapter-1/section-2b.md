@@ -5,7 +5,7 @@ usc_section: "2b"
 chapter: 1
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 2b"
-generated_at: "2026-03-29T17:50:23.977Z"
+generated_at: "2026-03-29T18:03:21.692Z"
 ---
 
 # § 2b. Number of Representatives from each State in 78th and subsequent Congresses

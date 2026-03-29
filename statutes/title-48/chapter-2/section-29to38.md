@@ -5,7 +5,7 @@ usc_section: "29to38"
 chapter: 2
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 29to38"
-generated_at: "2026-03-29T17:53:42.688Z"
+generated_at: "2026-03-29T18:07:36.827Z"
 ---
 
 # §§ 29 to 38. Omitted

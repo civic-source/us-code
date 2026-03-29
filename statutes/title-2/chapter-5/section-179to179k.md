@@ -5,7 +5,7 @@ usc_section: "179to179k"
 chapter: 5
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 179to179k"
-generated_at: "2026-03-29T17:50:24.012Z"
+generated_at: "2026-03-29T18:03:21.719Z"
 ---
 
 # §§ 179 to 179k. Repealed. Pub. L. 104–285, title I, § 114 , Oct. 11, 1996 , 110 Stat. 3382

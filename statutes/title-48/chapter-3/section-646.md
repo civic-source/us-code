@@ -5,7 +5,7 @@ usc_section: "646"
 chapter: 3
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 646"
-generated_at: "2026-03-29T17:53:42.690Z"
+generated_at: "2026-03-29T18:07:36.835Z"
 ---
 
 # § 646. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992

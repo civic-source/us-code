@@ -5,7 +5,7 @@ usc_section: "2009a"
 chapter: 42
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 2009a"
-generated_at: "2026-03-29T17:51:48.524Z"
+generated_at: "2026-03-29T18:05:00.236Z"
 ---
 
 # § 2009a. Investment of amounts appropriated and contributed to Harry S Truman Memorial Scholarship Trust Fund

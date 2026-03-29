@@ -5,7 +5,7 @@ usc_section: "1786"
 chapter: 14
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 1786"
-generated_at: "2026-03-29T17:51:13.096Z"
+generated_at: "2026-03-29T18:04:43.537Z"
 ---
 
 # § 1786. Termination of insured credit union status; cease and desist orders; removal or suspension from office; procedure

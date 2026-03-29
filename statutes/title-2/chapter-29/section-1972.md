@@ -5,7 +5,7 @@ usc_section: "1972"
 chapter: 29
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 1972"
-generated_at: "2026-03-29T17:50:24.097Z"
+generated_at: "2026-03-29T18:03:21.814Z"
 ---
 
 # § 1972. Contributions of comfort and other incidental items and services during emergency duty

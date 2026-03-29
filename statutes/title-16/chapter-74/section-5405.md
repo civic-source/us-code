@@ -5,7 +5,7 @@ usc_section: "5405"
 chapter: 74
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 5405"
-generated_at: "2026-03-29T17:51:57.006Z"
+generated_at: "2026-03-29T18:05:07.081Z"
 ---
 
 # § 5405. Funding

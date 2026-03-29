@@ -5,7 +5,7 @@ usc_section: "8701"
 chapter: 87
 current_through: "PL 113-100"
 classification: "41 U.S.C. § 8701"
-generated_at: "2026-03-29T17:53:04.490Z"
+generated_at: "2026-03-29T18:06:34.778Z"
 ---
 
 # § 8701. Definitions

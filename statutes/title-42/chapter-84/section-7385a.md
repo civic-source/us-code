@@ -5,7 +5,7 @@ usc_section: "7385a"
 chapter: 84
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 7385a"
-generated_at: "2026-03-29T17:53:35.471Z"
+generated_at: "2026-03-29T18:07:14.865Z"
 ---
 
 # § 7385a. Subrogation of the United States

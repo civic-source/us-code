@@ -5,7 +5,7 @@ usc_section: "241242"
 chapter: 7
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 241242"
-generated_at: "2026-03-29T17:53:03.603Z"
+generated_at: "2026-03-29T18:06:28.252Z"
 ---
 
 # §§ 241, 242. Repealed. Oct. 17, 1940, ch. 888 , article V, § 503(3), 54 Stat. 1187

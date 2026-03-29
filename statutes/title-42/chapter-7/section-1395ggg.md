@@ -5,7 +5,7 @@ usc_section: "1395ggg"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1395ggg"
-generated_at: "2026-03-29T17:53:34.787Z"
+generated_at: "2026-03-29T18:07:14.094Z"
 ---
 
 # § 1395ggg. Omitted

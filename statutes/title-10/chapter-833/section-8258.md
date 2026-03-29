@@ -5,7 +5,7 @@ usc_section: "8258"
 chapter: 833
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 8258"
-generated_at: "2026-03-29T17:50:57.241Z"
+generated_at: "2026-03-29T18:04:13.290Z"
 ---
 
 # § 8258. Regular Air Force: reenlistment after service as an officer

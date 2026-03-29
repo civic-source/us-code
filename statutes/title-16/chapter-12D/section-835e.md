@@ -5,7 +5,7 @@ usc_section: "835e"
 chapter: 12
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 835e"
-generated_at: "2026-03-29T17:51:56.809Z"
+generated_at: "2026-03-29T18:05:06.865Z"
 ---
 
 # § 835e. Payment for lands acquired from Spokane and Colville Reservations

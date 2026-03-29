@@ -5,7 +5,7 @@ usc_section: "3001"
 chapter: 18
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 3001"
-generated_at: "2026-03-29T17:51:51.316Z"
+generated_at: "2026-03-29T18:04:55.125Z"
 ---
 
 # § 3001. Purposes

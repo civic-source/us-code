@@ -5,7 +5,7 @@ usc_section: "15424"
 chapter: 146
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15424"
-generated_at: "2026-03-29T17:53:35.945Z"
+generated_at: "2026-03-29T18:07:15.414Z"
 ---
 
 # § 15424. Authorization of appropriations

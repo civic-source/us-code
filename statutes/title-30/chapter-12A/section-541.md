@@ -5,7 +5,7 @@ usc_section: "541"
 chapter: 12
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 541"
-generated_at: "2026-03-29T17:52:16.718Z"
+generated_at: "2026-03-29T18:05:26.158Z"
 ---
 
 # § 541. Entry and location; filing of copy of notice of mining location; report and payment for lignite mined; mineral patents; reservation of minerals to United States

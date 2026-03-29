@@ -5,7 +5,7 @@ usc_section: "5021to5026"
 chapter: 51
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 5021to5026"
-generated_at: "2026-03-29T17:52:39.487Z"
+generated_at: "2026-03-29T18:05:44.927Z"
 ---
 
 # [§§ 5021 to 5026. Repealed. Pub. L. 96–39, title VIII, § 803(a) , July 26, 1979 , 93 Stat. 274 ]

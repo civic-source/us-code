@@ -5,7 +5,7 @@ usc_section: "4201to4218"
 chapter: 311
 current_through: "PL 113-100"
 classification: "18 U.S.C. § 4201to4218"
-generated_at: "2026-03-29T17:53:15.765Z"
+generated_at: "2026-03-29T18:04:51.009Z"
 ---
 
 # [§§ 4201 to 4218. Repealed. Pub. L. 98–473, title II, § 218(a)(5) , Oct. 12, 1984 , 98 Stat. 2027 ]

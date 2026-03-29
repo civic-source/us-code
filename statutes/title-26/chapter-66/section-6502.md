@@ -5,7 +5,7 @@ usc_section: "6502"
 chapter: 66
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 6502"
-generated_at: "2026-03-29T17:52:39.576Z"
+generated_at: "2026-03-29T18:05:45.019Z"
 ---
 
 # § 6502. Collection after assessment

@@ -5,7 +5,7 @@ usc_section: "4481"
 chapter: 36
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 4481"
-generated_at: "2026-03-29T17:52:39.452Z"
+generated_at: "2026-03-29T18:05:44.894Z"
 ---
 
 # § 4481. Imposition of tax

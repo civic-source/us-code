@@ -5,7 +5,7 @@ usc_section: "602603"
 chapter: 5
 current_through: "PL 113-100"
 classification: "47 U.S.C. § 602603"
-generated_at: "2026-03-29T17:53:43.658Z"
+generated_at: "2026-03-29T18:07:40.882Z"
 ---
 
 # §§ 602, 603. Repealed. Pub. L. 103–414, title III, § 304(a)(13) , Oct. 25, 1994 , 108 Stat. 4297

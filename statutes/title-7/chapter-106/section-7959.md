@@ -5,7 +5,7 @@ usc_section: "7959"
 chapter: 106
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 7959"
-generated_at: "2026-03-29T17:50:48.884Z"
+generated_at: "2026-03-29T18:04:05.151Z"
 ---
 
 # § 7959. Termination of marketing quota programs for peanuts and compensation to peanut quota holders for loss of quota asset value

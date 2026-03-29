@@ -5,7 +5,7 @@ usc_section: "588to590"
 chapter: 3
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 588to590"
-generated_at: "2026-03-29T17:51:56.728Z"
+generated_at: "2026-03-29T18:05:06.777Z"
 ---
 
 # §§ 588 to 590. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 648

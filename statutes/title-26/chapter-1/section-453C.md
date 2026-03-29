@@ -5,7 +5,7 @@ usc_section: "453C"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 453C"
-generated_at: "2026-03-29T17:52:39.251Z"
+generated_at: "2026-03-29T18:05:44.638Z"
 ---
 
 # [§ 453C. Repealed. Pub. L. 100–203, title X, § 10202(a)(1) , Dec. 22, 1987 , 101 Stat. 1330–388 ]

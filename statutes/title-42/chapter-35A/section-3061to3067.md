@@ -5,7 +5,7 @@ usc_section: "3061to3067"
 chapter: 35
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 3061to3067"
-generated_at: "2026-03-29T17:53:35.161Z"
+generated_at: "2026-03-29T18:07:14.502Z"
 ---
 
 # §§ 3061 to 3067. Repealed. Pub. L. 94–135, title I, § 113(b) , Nov. 28, 1975 , 89 Stat. 725

@@ -5,7 +5,7 @@ usc_section: "455"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 455"
-generated_at: "2026-03-29T17:52:05.976Z"
+generated_at: "2026-03-29T18:05:17.057Z"
 ---
 
 # § 455. Contracts for education in public schools; submission of education plan by contractor as prerequisite; criteria for approval of plan by Secretary of the Interior; participation by non-Indian students

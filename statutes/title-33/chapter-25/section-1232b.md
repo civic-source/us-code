@@ -5,7 +5,7 @@ usc_section: "1232b"
 chapter: 25
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 1232b"
-generated_at: "2026-03-29T17:52:45.935Z"
+generated_at: "2026-03-29T18:06:10.529Z"
 ---
 
 # § 1232b. Requirement to notify Coast Guard of release of objects into the navigable waters of the United States

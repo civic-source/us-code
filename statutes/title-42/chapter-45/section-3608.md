@@ -5,7 +5,7 @@ usc_section: "3608"
 chapter: 45
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 3608"
-generated_at: "2026-03-29T17:53:35.182Z"
+generated_at: "2026-03-29T18:07:14.527Z"
 ---
 
 # § 3608. Administration

@@ -5,7 +5,7 @@ usc_section: "7462"
 chapter: 74
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 7462"
-generated_at: "2026-03-29T17:52:53.847Z"
+generated_at: "2026-03-29T18:06:22.855Z"
 ---
 
 # § 7462. Major adverse actions involving professional conduct or competence

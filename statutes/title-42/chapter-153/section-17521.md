@@ -5,7 +5,7 @@ usc_section: "17521"
 chapter: 153
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 17521"
-generated_at: "2026-03-29T17:53:36.044Z"
+generated_at: "2026-03-29T18:07:15.524Z"
 ---
 
 # § 17521. Offender reentry substance abuse and criminal justice collaboration program

@@ -5,7 +5,7 @@ usc_section: "1397B"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 1397B"
-generated_at: "2026-03-29T17:52:39.379Z"
+generated_at: "2026-03-29T18:05:44.812Z"
 ---
 
 # § 1397B. Nonrecognition of gain on rollover of empowerment zone investments

@@ -5,7 +5,7 @@ usc_section: "441e"
 chapter: 14
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 441e"
-generated_at: "2026-03-29T17:50:24.038Z"
+generated_at: "2026-03-29T18:03:21.748Z"
 ---
 
 # § 441e. Contributions and donations by foreign nationals

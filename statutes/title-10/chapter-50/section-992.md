@@ -5,7 +5,7 @@ usc_section: "992"
 chapter: 50
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 992"
-generated_at: "2026-03-29T17:50:56.994Z"
+generated_at: "2026-03-29T18:04:13.035Z"
 ---
 
 # § 992. Consumer education: financial services

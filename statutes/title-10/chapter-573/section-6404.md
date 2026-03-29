@@ -5,7 +5,7 @@ usc_section: "6404"
 chapter: 573
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 6404"
-generated_at: "2026-03-29T17:50:57.217Z"
+generated_at: "2026-03-29T18:04:13.263Z"
 ---
 
 # § 6404. Treatment of fractions of years of service in computing retired pay and separation pay

@@ -5,7 +5,7 @@ usc_section: "19i"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 19i"
-generated_at: "2026-03-29T17:51:56.440Z"
+generated_at: "2026-03-29T18:05:06.381Z"
 ---
 
 # § 19i. Corporate succession; powers and duties of trustee; suits; personal liability for malfeasance

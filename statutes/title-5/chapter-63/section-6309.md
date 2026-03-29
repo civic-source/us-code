@@ -5,7 +5,7 @@ usc_section: "6309"
 chapter: 63
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 6309"
-generated_at: "2026-03-29T17:50:36.502Z"
+generated_at: "2026-03-29T18:03:29.904Z"
 ---
 
 # [§ 6309. Repealed. Pub. L. 94–183, § 2(26) , Dec. 31, 1975 , 89 Stat. 1058 ]

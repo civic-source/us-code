@@ -5,7 +5,7 @@ usc_section: "8751"
 chapter: 94
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 8751"
-generated_at: "2026-03-29T17:52:10.726Z"
+generated_at: "2026-03-29T18:05:22.070Z"
 ---
 
 # § 8751. Codification of sanctions with respect to grave human rights abuses by the Governments of Iran and Syria using information technology

@@ -5,7 +5,7 @@ usc_section: "10101"
 chapter: 101
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 10101"
-generated_at: "2026-03-29T17:53:41.800Z"
+generated_at: "2026-03-29T18:07:34.354Z"
 ---
 
 # § 10101. Definitions

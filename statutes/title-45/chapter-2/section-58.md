@@ -5,7 +5,7 @@ usc_section: "58"
 chapter: 2
 current_through: "PL 113-100"
 classification: "45 U.S.C. § 58"
-generated_at: "2026-03-29T17:53:02.085Z"
+generated_at: "2026-03-29T18:06:35.932Z"
 ---
 
 # § 58. Duty or liability of common carriers and rights of employees under other acts not impaired

@@ -5,7 +5,7 @@ usc_section: "1309"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1309"
-generated_at: "2026-03-29T17:53:34.533Z"
+generated_at: "2026-03-29T18:07:13.800Z"
 ---
 
 # § 1309. Amounts disregarded not to be taken into account in determining eligibility of other individuals

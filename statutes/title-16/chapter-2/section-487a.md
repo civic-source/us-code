@@ -5,7 +5,7 @@ usc_section: "487a"
 chapter: 2
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 487a"
-generated_at: "2026-03-29T17:51:56.695Z"
+generated_at: "2026-03-29T18:05:06.737Z"
 ---
 
 # § 487a. Cutting timber on lands added to Rogue River National Forest

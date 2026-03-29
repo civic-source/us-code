@@ -5,7 +5,7 @@ usc_section: "1795h"
 chapter: 14
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 1795h"
-generated_at: "2026-03-29T17:51:13.107Z"
+generated_at: "2026-03-29T18:04:43.551Z"
 ---
 
 # § 1795h. Audit of financial transactions

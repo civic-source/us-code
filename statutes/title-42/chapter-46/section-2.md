@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 46
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T17:53:35.226Z"
+generated_at: "2026-03-29T18:07:14.581Z"
 ---
 
 # § 3797cc–2. Grants for programs for drug-endangered children

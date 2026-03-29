@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 6
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-29T17:52:10.381Z"
+generated_at: "2026-03-29T18:05:21.699Z"
 ---
 
 # § 254c–2. Repealed. Pub. L. 103–199, title V, § 501(c) , Dec. 17, 1993 , 107 Stat. 2325

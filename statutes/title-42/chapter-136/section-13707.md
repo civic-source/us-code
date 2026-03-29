@@ -5,7 +5,7 @@ usc_section: "13707"
 chapter: 136
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 13707"
-generated_at: "2026-03-29T17:53:35.866Z"
+generated_at: "2026-03-29T18:07:15.336Z"
 ---
 
 # § 13707. Accountability

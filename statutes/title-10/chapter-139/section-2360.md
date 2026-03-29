@@ -5,7 +5,7 @@ usc_section: "2360"
 chapter: 139
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2360"
-generated_at: "2026-03-29T17:50:57.113Z"
+generated_at: "2026-03-29T18:04:13.157Z"
 ---
 
 # § 2360. Research and development laboratories: contracts for services of university students

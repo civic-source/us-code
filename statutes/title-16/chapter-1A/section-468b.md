@@ -5,7 +5,7 @@ usc_section: "468b"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 468b"
-generated_at: "2026-03-29T17:51:56.674Z"
+generated_at: "2026-03-29T18:05:06.714Z"
 ---
 
 # § 468b. Administration of National Trust; composition of board of trustees; terms of office; compensation; expenses

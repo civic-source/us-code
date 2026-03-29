@@ -5,7 +5,7 @@ usc_section: "1715t"
 chapter: 13
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 1715t"
-generated_at: "2026-03-29T17:51:13.061Z"
+generated_at: "2026-03-29T18:04:43.487Z"
 ---
 
 # § 1715t. Voluntary termination of insurance

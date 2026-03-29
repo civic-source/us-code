@@ -5,7 +5,7 @@ usc_section: "6514"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 6514"
-generated_at: "2026-03-29T17:51:48.606Z"
+generated_at: "2026-03-29T18:05:00.323Z"
 ---
 
 # § 6514. State use of funds

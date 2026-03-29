@@ -5,7 +5,7 @@ usc_section: "19f"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 19f"
-generated_at: "2026-03-29T17:51:56.440Z"
+generated_at: "2026-03-29T18:05:06.381Z"
 ---
 
 # § 19f. Board: membership, term of office, vacancies, Chairman, Secretary, non-Federal office, quorum, seal, meetings, compensation, traveling and subsistence expenses; Foundation as successor to right, title, and interest of National Park Trust Fund Board in property or funds; abolition and repeal of National Park Trust Fund and Board provisions

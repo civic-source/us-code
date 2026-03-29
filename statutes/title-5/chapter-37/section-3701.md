@@ -5,7 +5,7 @@ usc_section: "3701"
 chapter: 37
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 3701"
-generated_at: "2026-03-29T17:50:36.463Z"
+generated_at: "2026-03-29T18:03:29.859Z"
 ---
 
 # § 3701. Definitions

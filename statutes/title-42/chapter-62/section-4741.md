@@ -5,7 +5,7 @@ usc_section: "4741"
 chapter: 62
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 4741"
-generated_at: "2026-03-29T17:53:35.259Z"
+generated_at: "2026-03-29T18:07:14.616Z"
 ---
 
 # § 4741. Declaration of purpose

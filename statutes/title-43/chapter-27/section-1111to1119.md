@@ -5,7 +5,7 @@ usc_section: "1111to1119"
 chapter: 27
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1111to1119"
-generated_at: "2026-03-29T17:53:03.678Z"
+generated_at: "2026-03-29T18:06:28.321Z"
 ---
 
 # §§ 1111 to 1119. Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21, 1976 , 90 Stat. 2789

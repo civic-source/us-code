@@ -5,7 +5,7 @@ usc_section: "3504"
 chapter: 66
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 3504"
-generated_at: "2026-03-29T17:50:48.765Z"
+generated_at: "2026-03-29T18:04:05.024Z"
 ---
 
 # § 3504. Repealed. Pub. L. 105–362, title I, § 101(f) , Nov. 10, 1998 , 112 Stat. 3281

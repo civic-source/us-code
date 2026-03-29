@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 97
 current_through: "PL 113-100"
 classification: "31 U.S.C. § 1"
-generated_at: "2026-03-29T17:52:44.205Z"
+generated_at: "2026-03-29T18:06:08.526Z"
 ---
 
 # § 9703. 1 1 Another section 9703 is set out preceding section 9704 of this title . Department of the Treasury Forfeiture Fund

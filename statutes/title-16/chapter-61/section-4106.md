@@ -5,7 +5,7 @@ usc_section: "4106"
 chapter: 61
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 4106"
-generated_at: "2026-03-29T17:51:56.988Z"
+generated_at: "2026-03-29T18:05:07.064Z"
 ---
 
 # § 4106. Reports to Congress

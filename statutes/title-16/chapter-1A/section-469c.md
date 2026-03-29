@@ -5,7 +5,7 @@ usc_section: "469c"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 469c"
-generated_at: "2026-03-29T17:51:56.675Z"
+generated_at: "2026-03-29T18:05:06.715Z"
 ---
 
 # § 469c. Assistance to Secretary of the Interior by Federal agencies responsible for construction projects; authorization of appropriations

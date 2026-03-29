@@ -5,7 +5,7 @@ usc_section: "5104"
 chapter: 51
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 5104"
-generated_at: "2026-03-29T17:50:24.122Z"
+generated_at: "2026-03-29T18:03:21.845Z"
 ---
 
 # § 5104. Authority of Speaker and Minority Leader to allocate funds among certain House leadership offices

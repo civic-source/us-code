@@ -5,7 +5,7 @@ usc_section: "943"
 chapter: 31
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 943"
-generated_at: "2026-03-29T17:50:48.549Z"
+generated_at: "2026-03-29T18:04:04.804Z"
 ---
 
 # § 943. Special provisions governing telephone bank as a Federal agency until conversion of ownership, control, and operation

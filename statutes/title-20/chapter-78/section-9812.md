@@ -5,7 +5,7 @@ usc_section: "9812"
 chapter: 78
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 9812"
-generated_at: "2026-03-29T17:51:48.708Z"
+generated_at: "2026-03-29T18:05:00.430Z"
 ---
 
 # § 9812. Definitions

@@ -5,7 +5,7 @@ usc_section: "911"
 chapter: 47
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 911"
-generated_at: "2026-03-29T17:50:56.978Z"
+generated_at: "2026-03-29T18:04:13.018Z"
 ---
 
 # § 911. Art. 111. Drunken or reckless operation of a vehicle, aircraft, or vessel

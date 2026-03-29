@@ -5,7 +5,7 @@ usc_section: "403b"
 chapter: 9
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 403b"
-generated_at: "2026-03-29T17:52:45.884Z"
+generated_at: "2026-03-29T18:06:10.472Z"
 ---
 
 # § 403b. Lighting at docks and boat launching facilities

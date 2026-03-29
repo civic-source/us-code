@@ -5,7 +5,7 @@ usc_section: "6703"
 chapter: 96
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 6703"
-generated_at: "2026-03-29T17:50:48.823Z"
+generated_at: "2026-03-29T18:04:05.085Z"
 ---
 
 # § 6703. Repealed. Pub. L. 104–127, title VIII, § 868 , Apr. 4, 1996 , 110 Stat. 1175

@@ -5,7 +5,7 @@ usc_section: "1052"
 chapter: 15
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 1052"
-generated_at: "2026-03-29T17:52:03.973Z"
+generated_at: "2026-03-29T18:05:14.909Z"
 ---
 
 # § 1052. State or local regulation

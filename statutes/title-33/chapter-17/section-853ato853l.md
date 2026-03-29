@@ -5,7 +5,7 @@ usc_section: "853ato853l"
 chapter: 17
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 853ato853l"
-generated_at: "2026-03-29T17:52:45.918Z"
+generated_at: "2026-03-29T18:06:10.509Z"
 ---
 
 # §§ 853a to 853l. Repealed. Pub. L. 107–372, title II, § 271(1) , Dec. 19, 2002 , 116 Stat. 3094

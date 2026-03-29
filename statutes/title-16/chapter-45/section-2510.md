@@ -5,7 +5,7 @@ usc_section: "2510"
 chapter: 45
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 2510"
-generated_at: "2026-03-29T17:51:56.934Z"
+generated_at: "2026-03-29T18:05:07.003Z"
 ---
 
 # § 2510. Coordination of program

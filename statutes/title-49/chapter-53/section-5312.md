@@ -5,7 +5,7 @@ usc_section: "5312"
 chapter: 53
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 5312"
-generated_at: "2026-03-29T17:53:47.969Z"
+generated_at: "2026-03-29T18:07:51.352Z"
 ---
 
 # § 5312. Research, development, demonstration, and deployment projects

@@ -5,7 +5,7 @@ usc_section: "2302"
 chapter: 44
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 2302"
-generated_at: "2026-03-29T17:51:48.526Z"
+generated_at: "2026-03-29T18:05:00.238Z"
 ---
 
 # § 2302. Definitions

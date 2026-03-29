@@ -5,7 +5,7 @@ usc_section: "949d"
 chapter: 47
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 949d"
-generated_at: "2026-03-29T17:50:56.986Z"
+generated_at: "2026-03-29T18:04:13.027Z"
 ---
 
 # § 949d. Sessions

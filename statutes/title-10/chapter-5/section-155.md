@@ -5,7 +5,7 @@ usc_section: "155"
 chapter: 5
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 155"
-generated_at: "2026-03-29T17:50:56.927Z"
+generated_at: "2026-03-29T18:04:12.965Z"
 ---
 
 # § 155. Joint Staff

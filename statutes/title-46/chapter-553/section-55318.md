@@ -5,7 +5,7 @@ usc_section: "55318"
 chapter: 553
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 55318"
-generated_at: "2026-03-29T17:53:41.835Z"
+generated_at: "2026-03-29T18:07:34.409Z"
 ---
 
 # § 55318. Effect on other law

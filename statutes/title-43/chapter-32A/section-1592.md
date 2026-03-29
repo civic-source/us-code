@@ -5,7 +5,7 @@ usc_section: "1592"
 chapter: 32
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1592"
-generated_at: "2026-03-29T17:53:03.702Z"
+generated_at: "2026-03-29T18:06:28.347Z"
 ---
 
 # § 1592. Authorization to construct, operate, and maintain salinity control units and salinity control programs

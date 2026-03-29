@@ -5,7 +5,7 @@ usc_section: "30"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 30"
-generated_at: "2026-03-29T17:51:56.657Z"
+generated_at: "2026-03-29T18:05:06.695Z"
 ---
 
 # § 460lll–30. Hematite Dam

@@ -5,7 +5,7 @@ usc_section: "11201"
 chapter: 118
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 11201"
-generated_at: "2026-03-29T17:53:35.726Z"
+generated_at: "2026-03-29T18:07:15.172Z"
 ---
 
 # § 11201. Findings

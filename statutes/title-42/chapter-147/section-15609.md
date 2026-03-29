@@ -5,7 +5,7 @@ usc_section: "15609"
 chapter: 147
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15609"
-generated_at: "2026-03-29T17:53:35.952Z"
+generated_at: "2026-03-29T18:07:15.425Z"
 ---
 
 # § 15609. Definitions

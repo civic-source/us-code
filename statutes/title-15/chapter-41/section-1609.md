@@ -5,7 +5,7 @@ usc_section: "1609"
 chapter: 41
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1609"
-generated_at: "2026-03-29T17:51:36.239Z"
+generated_at: "2026-03-29T18:04:29.571Z"
 ---
 
 # § 1609. Repealed. Pub. L. 94–239, § 3(b)(1) , Mar. 23, 1976 , 90 Stat. 253

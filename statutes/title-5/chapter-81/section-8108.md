@@ -5,7 +5,7 @@ usc_section: "8108"
 chapter: 81
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 8108"
-generated_at: "2026-03-29T17:50:36.518Z"
+generated_at: "2026-03-29T18:03:29.922Z"
 ---
 
 # § 8108. Reduction of compensation for subsequent injury to same member

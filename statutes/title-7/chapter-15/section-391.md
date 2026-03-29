@@ -5,7 +5,7 @@ usc_section: "391"
 chapter: 15
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 391"
-generated_at: "2026-03-29T17:50:48.513Z"
+generated_at: "2026-03-29T18:04:04.766Z"
 ---
 
 # § 391. Establishment of bureau; appointment of chief; duties

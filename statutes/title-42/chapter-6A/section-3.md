@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T17:53:34.404Z"
+generated_at: "2026-03-29T18:07:13.656Z"
 ---
 
 # § 300mm–3. Uniform data collection and analysis

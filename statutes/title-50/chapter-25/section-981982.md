@@ -5,7 +5,7 @@ usc_section: "981982"
 chapter: 25
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 981982"
-generated_at: "2026-03-29T17:53:50.968Z"
+generated_at: "2026-03-29T18:07:43.021Z"
 ---
 
 # §§ 981, 982. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641

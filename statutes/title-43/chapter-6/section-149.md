@@ -5,7 +5,7 @@ usc_section: "149"
 chapter: 6
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 149"
-generated_at: "2026-03-29T17:53:03.601Z"
+generated_at: "2026-03-29T18:06:28.251Z"
 ---
 
 # § 149. Exchange of private lands included in Indian reservation for other lands

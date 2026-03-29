@@ -5,7 +5,7 @@ usc_section: "101to110"
 chapter: 2
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 101to110"
-generated_at: "2026-03-29T17:51:12.976Z"
+generated_at: "2026-03-29T18:04:43.379Z"
 ---
 
 # §§ 101 to 110. Repealed. Pub. L. 103–325, title VI, § 602(e)(5) –(11), (f)(2)–(4)(A), (g)(9), Sept. 23, 1994 , 108 Stat. 2292 , 2294

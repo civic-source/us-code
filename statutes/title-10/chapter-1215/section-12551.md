@@ -5,7 +5,7 @@ usc_section: "12551"
 chapter: 1215
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 12551"
-generated_at: "2026-03-29T17:50:57.275Z"
+generated_at: "2026-03-29T18:04:13.323Z"
 ---
 
 # [§ 12551. Repealed. Pub. L. 107–314, div. A, title V, § 515(a) , Dec. 2, 2002 , 116 Stat. 2539 ]

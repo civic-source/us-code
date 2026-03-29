@@ -5,7 +5,7 @@ usc_section: "981"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 981"
-generated_at: "2026-03-29T17:52:39.337Z"
+generated_at: "2026-03-29T18:05:44.756Z"
 ---
 
 # [§ 981. Repealed. Pub. L. 94–455, title X, § 1012(b)(2) , Oct. 4, 1976 , 90 Stat. 1614 ]

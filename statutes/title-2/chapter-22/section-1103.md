@@ -5,7 +5,7 @@ usc_section: "1103"
 chapter: 22
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 1103"
-generated_at: "2026-03-29T17:50:24.068Z"
+generated_at: "2026-03-29T18:03:21.782Z"
 ---
 
 # § 1103. Establishment of John C. Stennis Center for Public Service Training and Development

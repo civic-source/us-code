@@ -5,7 +5,7 @@ usc_section: "7981"
 chapter: 106
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 7981"
-generated_at: "2026-03-29T17:50:48.884Z"
+generated_at: "2026-03-29T18:04:05.152Z"
 ---
 
 # § 7981. Milk price support program

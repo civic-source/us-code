@@ -5,7 +5,7 @@ usc_section: "15405"
 chapter: 146
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15405"
-generated_at: "2026-03-29T17:53:35.944Z"
+generated_at: "2026-03-29T18:07:15.414Z"
 ---
 
 # § 15405. Process for development and filing of plan; publication by Commission

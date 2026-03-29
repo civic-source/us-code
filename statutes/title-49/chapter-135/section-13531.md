@@ -5,7 +5,7 @@ usc_section: "13531"
 chapter: 135
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 13531"
-generated_at: "2026-03-29T17:53:47.998Z"
+generated_at: "2026-03-29T18:07:51.382Z"
 ---
 
 # § 13531. General jurisdiction

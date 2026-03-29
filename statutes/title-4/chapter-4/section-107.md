@@ -5,7 +5,7 @@ usc_section: "107"
 chapter: 4
 current_through: "PL 113-100"
 classification: "4 U.S.C. § 107"
-generated_at: "2026-03-29T17:50:19.499Z"
+generated_at: "2026-03-29T18:03:13.811Z"
 ---
 
 # § 107. Same; exception of United States, its instrumentalities, and authorized purchases 1 1 So in original. Probably should be “purchasers”. therefrom

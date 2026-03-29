@@ -5,7 +5,7 @@ usc_section: "151"
 chapter: 8
 current_through: "PL 113-100"
 classification: "45 U.S.C. § 151"
-generated_at: "2026-03-29T17:53:02.086Z"
+generated_at: "2026-03-29T18:06:35.932Z"
 ---
 
 # § 151. Definitions; short title

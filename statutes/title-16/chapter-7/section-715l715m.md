@@ -5,7 +5,7 @@ usc_section: "715l715m"
 chapter: 7
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 715l715m"
-generated_at: "2026-03-29T17:51:56.761Z"
+generated_at: "2026-03-29T18:05:06.814Z"
 ---
 
 # §§ 715l, 715m. Repealed. Pub. L. 89–669, § 7(d) , Oct. 15, 1966 , 80 Stat. 930

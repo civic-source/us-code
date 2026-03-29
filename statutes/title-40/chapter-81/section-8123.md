@@ -5,7 +5,7 @@ usc_section: "8123"
 chapter: 81
 current_through: "PL 113-100"
 classification: "40 U.S.C. § 8123"
-generated_at: "2026-03-29T17:52:50.598Z"
+generated_at: "2026-03-29T18:06:19.970Z"
 ---
 
 # § 8123. Record of transfer of jurisdiction between Director of National Park Service and Mayor of District of Columbia

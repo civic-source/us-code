@@ -5,7 +5,7 @@ usc_section: "1087mm"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1087mm"
-generated_at: "2026-03-29T17:51:48.405Z"
+generated_at: "2026-03-29T18:05:00.127Z"
 ---
 
 # § 1087mm. Family contribution

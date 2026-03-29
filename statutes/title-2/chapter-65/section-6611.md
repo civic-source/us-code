@@ -5,7 +5,7 @@ usc_section: "6611"
 chapter: 65
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 6611"
-generated_at: "2026-03-29T17:50:24.143Z"
+generated_at: "2026-03-29T18:03:21.864Z"
 ---
 
 # § 6611. Transfers from appropriations account for expenses of Office of Sergeant at Arms and Doorkeeper of Senate

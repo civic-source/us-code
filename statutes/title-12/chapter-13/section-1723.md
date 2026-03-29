@@ -5,7 +5,7 @@ usc_section: "1723"
 chapter: 13
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 1723"
-generated_at: "2026-03-29T17:51:13.078Z"
+generated_at: "2026-03-29T18:04:43.512Z"
 ---
 
 # § 1723. Management

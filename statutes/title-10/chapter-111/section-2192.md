@@ -5,7 +5,7 @@ usc_section: "2192"
 chapter: 111
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2192"
-generated_at: "2026-03-29T17:50:57.079Z"
+generated_at: "2026-03-29T18:04:13.124Z"
 ---
 
 # § 2192. Improvement of education in technical fields: general authority regarding education in science, mathematics, and engineering

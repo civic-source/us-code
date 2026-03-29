@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 41
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-29T17:50:48.639Z"
+generated_at: "2026-03-29T18:04:04.891Z"
 ---
 
 # § 1736g–3. Use of certain local currency

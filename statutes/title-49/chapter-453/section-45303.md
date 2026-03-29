@@ -5,7 +5,7 @@ usc_section: "45303"
 chapter: 453
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 45303"
-generated_at: "2026-03-29T17:53:48.115Z"
+generated_at: "2026-03-29T18:07:51.524Z"
 ---
 
 # § 45303. Administrative provisions

@@ -5,7 +5,7 @@ usc_section: "4483"
 chapter: 36
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 4483"
-generated_at: "2026-03-29T17:52:39.453Z"
+generated_at: "2026-03-29T18:05:44.894Z"
 ---
 
 # § 4483. Exemptions

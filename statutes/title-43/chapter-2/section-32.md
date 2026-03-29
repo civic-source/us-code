@@ -5,7 +5,7 @@ usc_section: "32"
 chapter: 2
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 32"
-generated_at: "2026-03-29T17:53:03.597Z"
+generated_at: "2026-03-29T18:06:28.247Z"
 ---
 
 # § 32. Acting Director

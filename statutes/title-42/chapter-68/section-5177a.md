@@ -5,7 +5,7 @@ usc_section: "5177a"
 chapter: 68
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5177a"
-generated_at: "2026-03-29T17:53:35.299Z"
+generated_at: "2026-03-29T18:07:14.657Z"
 ---
 
 # § 5177a. Emergency grants to assist low-income migrant and seasonal farmworkers

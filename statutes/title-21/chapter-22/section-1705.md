@@ -5,7 +5,7 @@ usc_section: "1705"
 chapter: 22
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 1705"
-generated_at: "2026-03-29T17:52:03.983Z"
+generated_at: "2026-03-29T18:05:14.926Z"
 ---
 
 # § 1705. Development, submission, implementation, and assessment of National Drug Control Strategy

@@ -5,7 +5,7 @@ usc_section: "4511"
 chapter: 76
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 4511"
-generated_at: "2026-03-29T17:50:48.772Z"
+generated_at: "2026-03-29T18:04:05.032Z"
 ---
 
 # § 4511. Investigations; power to subpena and take oaths and affirmations; aid of courts

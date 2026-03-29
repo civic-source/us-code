@@ -5,7 +5,7 @@ usc_section: "26"
 chapter: 1
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 26"
-generated_at: "2026-03-29T17:52:45.876Z"
+generated_at: "2026-03-29T18:06:10.462Z"
 ---
 
 # § 26. Calumet River, Cook County, Illinois, old channel

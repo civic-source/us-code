@@ -5,7 +5,7 @@ usc_section: "1971"
 chapter: 29
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 1971"
-generated_at: "2026-03-29T17:50:24.097Z"
+generated_at: "2026-03-29T18:03:21.814Z"
 ---
 
 # § 1971. Contributions of meals and refreshments during emergency duty

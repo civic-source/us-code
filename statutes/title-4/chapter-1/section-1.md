@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 1
 current_through: "PL 113-100"
 classification: "4 U.S.C. § 1"
-generated_at: "2026-03-29T17:50:19.496Z"
+generated_at: "2026-03-29T18:03:13.808Z"
 ---
 
 # § 1. Flag; stripes and stars on

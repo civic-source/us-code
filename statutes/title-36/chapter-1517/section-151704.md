@@ -5,7 +5,7 @@ usc_section: "151704"
 chapter: 1517
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 151704"
-generated_at: "2026-03-29T17:52:49.367Z"
+generated_at: "2026-03-29T18:06:24.321Z"
 ---
 
 # § 151704. Officers and employees

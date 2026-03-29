@@ -5,7 +5,7 @@ usc_section: "1151"
 chapter: 24
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1151"
-generated_at: "2026-03-29T17:51:56.835Z"
+generated_at: "2026-03-29T18:05:06.895Z"
 ---
 
 # § 1151. Definitions

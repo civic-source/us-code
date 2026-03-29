@@ -5,7 +5,7 @@ usc_section: "351to355"
 chapter: 10
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 351to355"
-generated_at: "2026-03-29T17:53:03.611Z"
+generated_at: "2026-03-29T18:06:28.261Z"
 ---
 
 # §§ 351 to 355. Repealed. Pub. L. 88–417, § 1 , Aug. 11, 1964 , 78 Stat. 389

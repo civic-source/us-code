@@ -5,7 +5,7 @@ usc_section: "8112"
 chapter: 107
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 8112"
-generated_at: "2026-03-29T17:50:48.892Z"
+generated_at: "2026-03-29T18:04:05.161Z"
 ---
 
 # § 8112. Repealed. Pub. L. 113–79, title IX, § 9011 , Feb. 7, 2014 , 128 Stat. 938

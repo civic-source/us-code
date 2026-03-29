@@ -5,7 +5,7 @@ usc_section: "12681"
 chapter: 1221
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 12681"
-generated_at: "2026-03-29T17:50:57.276Z"
+generated_at: "2026-03-29T18:04:13.324Z"
 ---
 
 # § 12681. Reserves: discharge authority

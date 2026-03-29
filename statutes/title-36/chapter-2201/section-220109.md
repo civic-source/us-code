@@ -5,7 +5,7 @@ usc_section: "220109"
 chapter: 2201
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 220109"
-generated_at: "2026-03-29T17:52:49.377Z"
+generated_at: "2026-03-29T18:06:24.335Z"
 ---
 
 # § 220109. Duty to maintain corporate status

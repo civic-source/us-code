@@ -5,7 +5,7 @@ usc_section: "403b"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 403b"
-generated_at: "2026-03-29T17:51:56.498Z"
+generated_at: "2026-03-29T18:05:06.443Z"
 ---
 
 # § 403b. Administration, protection, and development; Federal Power Act inapplicable; minimum area

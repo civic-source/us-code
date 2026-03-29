@@ -5,7 +5,7 @@ usc_section: "6205"
 chapter: 91
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 6205"
-generated_at: "2026-03-29T17:50:48.809Z"
+generated_at: "2026-03-29T18:04:05.069Z"
 ---
 
 # § 6205. Permissive terms in orders

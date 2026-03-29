@@ -5,7 +5,7 @@ usc_section: "7871to7883"
 chapter: 87
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 7871to7883"
-generated_at: "2026-03-29T17:53:35.563Z"
+generated_at: "2026-03-29T18:07:14.972Z"
 ---
 
 # §§ 7871 to 7883. Repealed. Pub. L. 98–242, title I, § 110(a) , Mar. 22, 1984 , 98 Stat. 101

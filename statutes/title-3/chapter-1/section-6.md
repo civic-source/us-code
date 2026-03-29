@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 1
 current_through: "PL 113-100"
 classification: "3 U.S.C. § 6"
-generated_at: "2026-03-29T17:50:17.432Z"
+generated_at: "2026-03-29T18:03:15.093Z"
 ---
 
 # § 6. Credentials of electors; transmission to Archivist of the United States and to Congress; public inspection

@@ -5,7 +5,7 @@ usc_section: "107b"
 chapter: 6
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 107b"
-generated_at: "2026-03-29T17:51:48.296Z"
+generated_at: "2026-03-29T18:05:00.017Z"
 ---
 
 # § 107b. Application for designation as State licensing agency; cooperation with Secretary; furnishing initial stock

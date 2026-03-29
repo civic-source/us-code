@@ -5,7 +5,7 @@ usc_section: "6610"
 chapter: 92
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 6610"
-generated_at: "2026-03-29T17:51:36.397Z"
+generated_at: "2026-03-29T18:04:29.945Z"
 ---
 
 # § 6610. Damages limitation by contract

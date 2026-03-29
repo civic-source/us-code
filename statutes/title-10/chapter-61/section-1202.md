@@ -5,7 +5,7 @@ usc_section: "1202"
 chapter: 61
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1202"
-generated_at: "2026-03-29T17:50:57.028Z"
+generated_at: "2026-03-29T18:04:13.069Z"
 ---
 
 # § 1202. Regulars and members on active duty for more than 30 days: temporary disability retired list

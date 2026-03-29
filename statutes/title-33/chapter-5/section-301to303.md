@@ -5,7 +5,7 @@ usc_section: "301to303"
 chapter: 5
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 301to303"
-generated_at: "2026-03-29T17:52:45.883Z"
+generated_at: "2026-03-29T18:06:10.471Z"
 ---
 
 # §§ 301 to 303. Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 Stat. 3435

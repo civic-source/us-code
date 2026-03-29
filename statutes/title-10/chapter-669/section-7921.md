@@ -5,7 +5,7 @@ usc_section: "7921"
 chapter: 669
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 7921"
-generated_at: "2026-03-29T17:50:57.236Z"
+generated_at: "2026-03-29T18:04:13.285Z"
 ---
 
 # § 7921. Safety and effectiveness information; hydrographic information

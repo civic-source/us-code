@@ -5,7 +5,7 @@ usc_section: "18120"
 chapter: 157
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 18120"
-generated_at: "2026-03-29T17:53:36.072Z"
+generated_at: "2026-03-29T18:07:15.557Z"
 ---
 
 # § 18120. Application

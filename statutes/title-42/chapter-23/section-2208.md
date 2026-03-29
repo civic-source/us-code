@@ -5,7 +5,7 @@ usc_section: "2208"
 chapter: 23
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 2208"
-generated_at: "2026-03-29T17:53:35.088Z"
+generated_at: "2026-03-29T18:07:14.422Z"
 ---
 
 # § 2208. Payments in lieu of taxes

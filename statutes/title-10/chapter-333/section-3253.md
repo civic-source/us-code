@@ -5,7 +5,7 @@ usc_section: "3253"
 chapter: 333
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 3253"
-generated_at: "2026-03-29T17:50:57.182Z"
+generated_at: "2026-03-29T18:04:13.229Z"
 ---
 
 # [§ 3253. Repealed. Pub. L. 109–163, div. A, title V, § 542(b)(1) , Jan. 6, 2006 , 119 Stat. 3253 ]

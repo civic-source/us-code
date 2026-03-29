@@ -5,7 +5,7 @@ usc_section: "111"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 111"
-generated_at: "2026-03-29T17:53:34.372Z"
+generated_at: "2026-03-29T18:07:13.616Z"
 ---
 
 # § 300ff–111. HIV/AIDS communities, schools, and centers

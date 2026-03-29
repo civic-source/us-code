@@ -5,7 +5,7 @@ usc_section: "138g"
 chapter: 6
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 138g"
-generated_at: "2026-03-29T17:50:48.491Z"
+generated_at: "2026-03-29T18:04:04.749Z"
 ---
 
 # § 138g. Public disclosure

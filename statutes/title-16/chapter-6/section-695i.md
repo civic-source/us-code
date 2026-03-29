@@ -5,7 +5,7 @@ usc_section: "695i"
 chapter: 6
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 695i"
-generated_at: "2026-03-29T17:51:56.749Z"
+generated_at: "2026-03-29T18:05:06.802Z"
 ---
 
 # § 695i. Authorization of Secretary of the Interior to contract for water delivery; nonreimbursable or nonreturnable basis of delivery

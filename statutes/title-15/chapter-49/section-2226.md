@@ -5,7 +5,7 @@ usc_section: "2226"
 chapter: 49
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 2226"
-generated_at: "2026-03-29T17:51:36.306Z"
+generated_at: "2026-03-29T18:04:29.844Z"
 ---
 
 # § 2226. Dissemination of fire prevention and control information

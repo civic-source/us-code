@@ -5,7 +5,7 @@ usc_section: "763"
 chapter: 16
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 763"
-generated_at: "2026-03-29T17:52:45.917Z"
+generated_at: "2026-03-29T18:06:10.507Z"
 ---
 
 # § 763. Retirement for age of officers and employees generally; retirement pay; waiver of retirement pay

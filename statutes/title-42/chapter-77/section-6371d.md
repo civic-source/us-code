@@ -5,7 +5,7 @@ usc_section: "6371d"
 chapter: 77
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 6371d"
-generated_at: "2026-03-29T17:53:35.396Z"
+generated_at: "2026-03-29T18:07:14.773Z"
 ---
 
 # § 6371d. Applications for financial assistance

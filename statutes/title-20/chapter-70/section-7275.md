@@ -5,7 +5,7 @@ usc_section: "7275"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 7275"
-generated_at: "2026-03-29T17:51:48.655Z"
+generated_at: "2026-03-29T18:05:00.368Z"
 ---
 
 # § 7275. Grants to combat the impact of experiencing or witnessing domestic violence on elementary and secondary school children

@@ -5,7 +5,7 @@ usc_section: "701to709"
 chapter: 18
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 701to709"
-generated_at: "2026-03-29T17:50:24.054Z"
+generated_at: "2026-03-29T18:03:21.766Z"
 ---
 
 # §§ 701 to 709. Transferred

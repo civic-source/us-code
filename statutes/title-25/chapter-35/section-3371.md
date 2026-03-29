@@ -5,7 +5,7 @@ usc_section: "3371"
 chapter: 35
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 3371"
-generated_at: "2026-03-29T17:52:06.146Z"
+generated_at: "2026-03-29T18:05:17.243Z"
 ---
 
 # § 3371. Repealed. Pub. L. 105–332, § 6(b)(1) , Oct. 31, 1998 , 112 Stat. 3128

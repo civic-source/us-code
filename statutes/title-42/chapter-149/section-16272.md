@@ -5,7 +5,7 @@ usc_section: "16272"
 chapter: 149
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 16272"
-generated_at: "2026-03-29T17:53:35.986Z"
+generated_at: "2026-03-29T18:07:15.465Z"
 ---
 
 # § 16272. Nuclear energy research programs

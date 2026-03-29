@@ -5,7 +5,7 @@ usc_section: "2934"
 chapter: 56
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 2934"
-generated_at: "2026-03-29T17:51:36.341Z"
+generated_at: "2026-03-29T18:04:29.882Z"
 ---
 
 # § 2934. National Global Change Research Plan

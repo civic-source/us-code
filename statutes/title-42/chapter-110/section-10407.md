@@ -5,7 +5,7 @@ usc_section: "10407"
 chapter: 110
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 10407"
-generated_at: "2026-03-29T17:53:35.704Z"
+generated_at: "2026-03-29T18:07:15.146Z"
 ---
 
 # § 10407. State application

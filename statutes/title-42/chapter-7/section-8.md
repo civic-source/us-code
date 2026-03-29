@@ -5,7 +5,7 @@ usc_section: "8"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-29T17:53:34.860Z"
+generated_at: "2026-03-29T18:07:14.175Z"
 ---
 
 # § 1396u–8. Health opportunity accounts

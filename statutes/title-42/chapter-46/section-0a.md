@@ -5,7 +5,7 @@ usc_section: "0a"
 chapter: 46
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 0a"
-generated_at: "2026-03-29T17:53:35.211Z"
+generated_at: "2026-03-29T18:07:14.562Z"
 ---
 
 # § 3796gg–0a. Director of Violence Against Women Office

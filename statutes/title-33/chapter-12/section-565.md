@@ -5,7 +5,7 @@ usc_section: "565"
 chapter: 12
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 565"
-generated_at: "2026-03-29T17:52:45.899Z"
+generated_at: "2026-03-29T18:06:10.487Z"
 ---
 
 # § 565. River and harbor improvement by private or municipal enterprise

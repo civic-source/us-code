@@ -5,7 +5,7 @@ usc_section: "946"
 chapter: 9
 current_through: "PL 113-100"
 classification: "11 U.S.C. § 946"
-generated_at: "2026-03-29T17:51:02.153Z"
+generated_at: "2026-03-29T18:04:18.536Z"
 ---
 
 # § 946. Effect of exchange of securities before the date of the filing of the petition

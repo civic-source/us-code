@@ -5,7 +5,7 @@ usc_section: "342"
 chapter: 3
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 342"
-generated_at: "2026-03-29T17:51:12.989Z"
+generated_at: "2026-03-29T18:04:43.394Z"
 ---
 
 # § 342. Deposits; exchange and collection; member and nonmember banks or other depository institutions; charges

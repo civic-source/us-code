@@ -5,7 +5,7 @@ usc_section: "60304"
 chapter: 603
 current_through: "PL 113-100"
 classification: "51 U.S.C. § 60304"
-generated_at: "2026-03-29T17:54:01.892Z"
+generated_at: "2026-03-29T18:07:59.512Z"
 ---
 
 # § 60304. Program evaluation

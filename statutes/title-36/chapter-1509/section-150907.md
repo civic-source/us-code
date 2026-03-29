@@ -5,7 +5,7 @@ usc_section: "150907"
 chapter: 1509
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 150907"
-generated_at: "2026-03-29T17:52:49.366Z"
+generated_at: "2026-03-29T18:06:24.319Z"
 ---
 
 # § 150907. Principal office

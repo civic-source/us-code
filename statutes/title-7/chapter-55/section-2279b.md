@@ -5,7 +5,7 @@ usc_section: "2279b"
 chapter: 55
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 2279b"
-generated_at: "2026-03-29T17:50:48.729Z"
+generated_at: "2026-03-29T18:04:04.985Z"
 ---
 
 # § 2279b. Department of Agriculture educational, training, and professional development activities

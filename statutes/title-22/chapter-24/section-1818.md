@@ -5,7 +5,7 @@ usc_section: "1818"
 chapter: 24
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 1818"
-generated_at: "2026-03-29T17:52:10.467Z"
+generated_at: "2026-03-29T18:05:21.788Z"
 ---
 
 # § 1818. Repealed. Pub. L. 85–141, § 2(e) , Aug. 14, 1957 , 71 Stat. 356

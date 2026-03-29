@@ -5,7 +5,7 @@ usc_section: "9877"
 chapter: 105
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 9877"
-generated_at: "2026-03-29T17:53:35.670Z"
+generated_at: "2026-03-29T18:07:15.113Z"
 ---
 
 # § 9877. Definitions

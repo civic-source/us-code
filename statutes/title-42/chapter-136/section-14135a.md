@@ -5,7 +5,7 @@ usc_section: "14135a"
 chapter: 136
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 14135a"
-generated_at: "2026-03-29T17:53:35.900Z"
+generated_at: "2026-03-29T18:07:15.373Z"
 ---
 
 # § 14135a. Collection and use of DNA identification information from certain Federal offenders

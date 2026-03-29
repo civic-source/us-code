@@ -5,7 +5,7 @@ usc_section: "975"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 975"
-generated_at: "2026-03-29T17:52:06.033Z"
+generated_at: "2026-03-29T18:05:17.116Z"
 ---
 
 # § 975. Land surveys and execution of conveyances by Secretary; title of grantee

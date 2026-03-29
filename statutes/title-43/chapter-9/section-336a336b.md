@@ -5,7 +5,7 @@ usc_section: "336a336b"
 chapter: 9
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 336a336b"
-generated_at: "2026-03-29T17:53:03.610Z"
+generated_at: "2026-03-29T18:06:28.260Z"
 ---
 
 # §§ 336a, 336b. Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 21, 1976 , 90 Stat. 2787

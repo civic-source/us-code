@@ -5,7 +5,7 @@ usc_section: "22"
 chapter: 2
 current_through: "PL 113-100"
 classification: "35 U.S.C. § 22"
-generated_at: "2026-03-29T17:52:44.600Z"
+generated_at: "2026-03-29T18:06:06.432Z"
 ---
 
 # § 22. Printing of papers filed

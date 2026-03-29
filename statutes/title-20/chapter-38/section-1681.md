@@ -5,7 +5,7 @@ usc_section: "1681"
 chapter: 38
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1681"
-generated_at: "2026-03-29T17:51:48.518Z"
+generated_at: "2026-03-29T18:05:00.233Z"
 ---
 
 # § 1681. Sex

@@ -5,7 +5,7 @@ usc_section: "613"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 613"
-generated_at: "2026-03-29T17:52:06.000Z"
+generated_at: "2026-03-29T18:05:17.077Z"
 ---
 
 # § 613. Advances or expenditures from tribal funds; emergency and educational loans; payments to individuals of tribes; per capita payments not subject to liens or claims; exception

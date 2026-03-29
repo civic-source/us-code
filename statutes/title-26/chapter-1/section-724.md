@@ -5,7 +5,7 @@ usc_section: "724"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 724"
-generated_at: "2026-03-29T17:52:39.288Z"
+generated_at: "2026-03-29T18:05:44.690Z"
 ---
 
 # § 724. Character of gain or loss on contributed unrealized receivables, inventory items, and capital loss property

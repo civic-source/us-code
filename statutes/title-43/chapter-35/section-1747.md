@@ -5,7 +5,7 @@ usc_section: "1747"
 chapter: 35
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1747"
-generated_at: "2026-03-29T17:53:03.729Z"
+generated_at: "2026-03-29T18:06:28.377Z"
 ---
 
 # § 1747. Loans to States and political subdivisions; purposes; amounts; allocation; terms and conditions; interest rate; security; limitations; forebearance for benefit of borrowers; recordkeeping requirements; discrimination prohibited; deposit of receipts

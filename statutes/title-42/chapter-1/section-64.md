@@ -5,7 +5,7 @@ usc_section: "64"
 chapter: 1
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 64"
-generated_at: "2026-03-29T17:53:34.040Z"
+generated_at: "2026-03-29T18:07:13.254Z"
 ---
 
 # § 64. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641

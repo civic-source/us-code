@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 6
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-29T17:51:13.004Z"
+generated_at: "2026-03-29T18:04:43.414Z"
 ---
 
 # § 635a–2. Implementation of regulations and procedures to lessen adverse effect of loans and guarantees on industries in United States; report by United States International Trade Commission; written consideration of views of adversely affected parties

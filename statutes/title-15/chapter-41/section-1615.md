@@ -5,7 +5,7 @@ usc_section: "1615"
 chapter: 41
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1615"
-generated_at: "2026-03-29T17:51:36.240Z"
+generated_at: "2026-03-29T18:04:29.572Z"
 ---
 
 # § 1615. Prohibition on use of “Rule of 78’s” in connection with mortgage refinancings and other consumer loans

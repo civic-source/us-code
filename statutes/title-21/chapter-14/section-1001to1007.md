@@ -5,7 +5,7 @@ usc_section: "1001to1007"
 chapter: 14
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 1001to1007"
-generated_at: "2026-03-29T17:52:03.970Z"
+generated_at: "2026-03-29T18:05:14.905Z"
 ---
 
 # §§ 1001 to 1007. Repealed. Pub. L. 97–35, title V, § 587(a)(3) , Aug. 13, 1981 , 95 Stat. 480

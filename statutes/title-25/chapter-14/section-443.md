@@ -5,7 +5,7 @@ usc_section: "443"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 443"
-generated_at: "2026-03-29T17:52:05.970Z"
+generated_at: "2026-03-29T18:05:17.051Z"
 ---
 
 # § 443. Disposition of cash settlements

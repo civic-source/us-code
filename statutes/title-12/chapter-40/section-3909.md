@@ -5,7 +5,7 @@ usc_section: "3909"
 chapter: 40
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 3909"
-generated_at: "2026-03-29T17:51:13.212Z"
+generated_at: "2026-03-29T18:04:43.692Z"
 ---
 
 # § 3909. General authorities

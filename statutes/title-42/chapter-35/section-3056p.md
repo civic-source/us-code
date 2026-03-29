@@ -5,7 +5,7 @@ usc_section: "3056p"
 chapter: 35
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 3056p"
-generated_at: "2026-03-29T17:53:35.155Z"
+generated_at: "2026-03-29T18:07:14.496Z"
 ---
 
 # § 3056p. Definitions and rule

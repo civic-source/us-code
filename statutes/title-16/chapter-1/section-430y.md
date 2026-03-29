@@ -5,7 +5,7 @@ usc_section: "430y"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 430y"
-generated_at: "2026-03-29T17:51:56.566Z"
+generated_at: "2026-03-29T18:05:06.601Z"
 ---
 
 # § 430y. Spanish War Memorial Park; establishment

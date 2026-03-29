@@ -5,7 +5,7 @@ usc_section: "8602"
 chapter: 93
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 8602"
-generated_at: "2026-03-29T17:52:10.723Z"
+generated_at: "2026-03-29T18:05:22.066Z"
 ---
 
 # § 8602. Statement of policy

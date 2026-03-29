@@ -5,7 +5,7 @@ usc_section: "1151to1155"
 chapter: 16
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 1151to1155"
-generated_at: "2026-03-29T17:52:03.974Z"
+generated_at: "2026-03-29T18:05:14.910Z"
 ---
 
 # §§ 1151 to 1155. Repealed. Pub. L. 92–255, title I, § 104 , Mar. 21, 1972 , 86 Stat. 67

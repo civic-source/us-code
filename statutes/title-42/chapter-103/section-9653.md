@@ -5,7 +5,7 @@ usc_section: "9653"
 chapter: 103
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 9653"
-generated_at: "2026-03-29T17:53:35.642Z"
+generated_at: "2026-03-29T18:07:15.076Z"
 ---
 
 # § 9653. Repealed. Pub. L. 99–499, title V, § 511(b) , Oct. 17, 1986 , 100 Stat. 1761

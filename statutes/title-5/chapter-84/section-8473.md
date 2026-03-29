@@ -5,7 +5,7 @@ usc_section: "8473"
 chapter: 84
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 8473"
-generated_at: "2026-03-29T17:50:36.555Z"
+generated_at: "2026-03-29T18:03:29.966Z"
 ---
 
 # § 8473. Employee Thrift Advisory Council

@@ -5,7 +5,7 @@ usc_section: "667"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 667"
-generated_at: "2026-03-29T17:52:39.284Z"
+generated_at: "2026-03-29T18:05:44.684Z"
 ---
 
 # § 667. Treatment of amounts deemed distributed by trust in preceding years

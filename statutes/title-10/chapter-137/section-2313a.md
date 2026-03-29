@@ -5,7 +5,7 @@ usc_section: "2313a"
 chapter: 137
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2313a"
-generated_at: "2026-03-29T17:50:57.100Z"
+generated_at: "2026-03-29T18:04:13.144Z"
 ---
 
 # § 2313a. Defense Contract Audit Agency: annual report

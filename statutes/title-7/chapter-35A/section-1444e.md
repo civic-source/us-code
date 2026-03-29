@@ -5,7 +5,7 @@ usc_section: "1444e"
 chapter: 35
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1444e"
-generated_at: "2026-03-29T17:50:48.588Z"
+generated_at: "2026-03-29T18:04:04.842Z"
 ---
 
 # § 1444e. Omitted

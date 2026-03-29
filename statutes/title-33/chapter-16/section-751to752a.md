@@ -5,7 +5,7 @@ usc_section: "751to752a"
 chapter: 16
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 751to752a"
-generated_at: "2026-03-29T17:52:45.917Z"
+generated_at: "2026-03-29T18:06:10.507Z"
 ---
 
 # §§ 751 to 752a. Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561

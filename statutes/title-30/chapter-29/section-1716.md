@@ -5,7 +5,7 @@ usc_section: "1716"
 chapter: 29
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 1716"
-generated_at: "2026-03-29T17:52:16.778Z"
+generated_at: "2026-03-29T18:05:26.230Z"
 ---
 
 # § 1716. Liabilities and bonding

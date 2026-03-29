@@ -5,7 +5,7 @@ usc_section: "423f"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 423f"
-generated_at: "2026-03-29T17:53:03.633Z"
+generated_at: "2026-03-29T18:06:28.277Z"
 ---
 
 # § 423f. Purpose of sections 423 to 423g and 610

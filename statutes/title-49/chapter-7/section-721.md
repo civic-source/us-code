@@ -5,7 +5,7 @@ usc_section: "721"
 chapter: 7
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 721"
-generated_at: "2026-03-29T17:53:47.948Z"
+generated_at: "2026-03-29T18:07:51.328Z"
 ---
 
 # § 721. Powers

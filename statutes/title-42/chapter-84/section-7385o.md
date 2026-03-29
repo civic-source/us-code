@@ -5,7 +5,7 @@ usc_section: "7385o"
 chapter: 84
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 7385o"
-generated_at: "2026-03-29T17:53:35.472Z"
+generated_at: "2026-03-29T18:07:14.866Z"
 ---
 
 # § 7385o. Repealed. Pub. L. 108–375, div. C, title XXXI, § 3162(i) , Oct. 28, 2004 , 118 Stat. 2186

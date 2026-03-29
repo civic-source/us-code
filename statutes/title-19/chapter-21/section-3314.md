@@ -5,7 +5,7 @@ usc_section: "3314"
 chapter: 21
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 3314"
-generated_at: "2026-03-29T17:51:51.321Z"
+generated_at: "2026-03-29T18:04:55.132Z"
 ---
 
 # § 3314. Implementing actions in anticipation of entry into force and initial regulations

@@ -5,7 +5,7 @@ usc_section: "8107"
 chapter: 81
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 8107"
-generated_at: "2026-03-29T17:52:53.857Z"
+generated_at: "2026-03-29T18:06:22.862Z"
 ---
 
 # [§ 8107. Repealed. Pub. L. 111–163, title V, § 501(b)(1) , May 5, 2010 , 124 Stat. 1157 ]

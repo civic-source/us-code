@@ -5,7 +5,7 @@ usc_section: "7544"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 7544"
-generated_at: "2026-03-29T17:51:48.667Z"
+generated_at: "2026-03-29T18:05:00.384Z"
 ---
 
 # § 7544. Program authorized

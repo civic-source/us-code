@@ -5,7 +5,7 @@ usc_section: "116"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 116"
-generated_at: "2026-03-29T17:51:56.460Z"
+generated_at: "2026-03-29T18:05:06.400Z"
 ---
 
 # § 116. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1028

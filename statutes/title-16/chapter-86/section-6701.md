@@ -5,7 +5,7 @@ usc_section: "6701"
 chapter: 86
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 6701"
-generated_at: "2026-03-29T17:51:57.025Z"
+generated_at: "2026-03-29T18:05:07.100Z"
 ---
 
 # § 6701. Findings

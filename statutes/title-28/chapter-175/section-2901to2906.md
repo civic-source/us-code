@@ -5,7 +5,7 @@ usc_section: "2901to2906"
 chapter: 175
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 2901to2906"
-generated_at: "2026-03-29T17:52:24.245Z"
+generated_at: "2026-03-29T18:06:03.393Z"
 ---
 
 # [§§ 2901 to 2906. Repealed. Pub. L. 106–310, div. B, title XXXIV, § 3405(c)(1) , Oct. 17, 2000 , 114 Stat. 1221 ]

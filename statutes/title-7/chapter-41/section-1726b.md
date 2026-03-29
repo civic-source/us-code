@@ -5,7 +5,7 @@ usc_section: "1726b"
 chapter: 41
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1726b"
-generated_at: "2026-03-29T17:50:48.634Z"
+generated_at: "2026-03-29T18:04:04.886Z"
 ---
 
 # § 1726b. Assistance for stockpiling and rapid transportation, delivery, and distribution of shelf-stable prepackaged foods

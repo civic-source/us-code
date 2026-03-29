@@ -5,7 +5,7 @@ usc_section: "8926"
 chapter: 867
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 8926"
-generated_at: "2026-03-29T17:50:57.246Z"
+generated_at: "2026-03-29T18:04:13.294Z"
 ---
 
 # § 8926. Computation of years of service: voluntary retirement; regular and reserve commissioned officers

@@ -5,7 +5,7 @@ usc_section: "3534"
 chapter: 343
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 3534"
-generated_at: "2026-03-29T17:50:57.183Z"
+generated_at: "2026-03-29T18:04:13.230Z"
 ---
 
 # § 3534. Corps of Engineers: detail of officers to assist Mayor of District of Columbia

@@ -5,7 +5,7 @@ usc_section: "6308"
 chapter: 77
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 6308"
-generated_at: "2026-03-29T17:53:35.381Z"
+generated_at: "2026-03-29T18:07:14.756Z"
 ---
 
 # § 6308. Annual report

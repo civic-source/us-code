@@ -5,7 +5,7 @@ usc_section: "1931"
 chapter: 29
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 1931"
-generated_at: "2026-03-29T17:50:24.095Z"
+generated_at: "2026-03-29T18:03:21.812Z"
 ---
 
 # § 1931. Additional compensation for employees with specialty assignments and proficiencies

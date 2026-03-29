@@ -5,7 +5,7 @@ usc_section: "2062"
 chapter: 47
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 2062"
-generated_at: "2026-03-29T17:51:36.294Z"
+generated_at: "2026-03-29T18:04:29.690Z"
 ---
 
 # § 2062. Repealed. Pub. L. 97–35, title XII, § 1211(b) , Aug. 13, 1981 , 95 Stat. 721

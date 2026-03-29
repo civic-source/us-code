@@ -5,7 +5,7 @@ usc_section: "3927a"
 chapter: 52
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 3927a"
-generated_at: "2026-03-29T17:52:10.597Z"
+generated_at: "2026-03-29T18:05:21.924Z"
 ---
 
 # § 3927a. Review by chief of mission

@@ -5,7 +5,7 @@ usc_section: "442"
 chapter: 17
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 442"
-generated_at: "2026-03-29T17:50:48.516Z"
+generated_at: "2026-03-29T18:04:04.770Z"
 ---
 
 # § 442. Availability of grain to prevent waterfowl depredations; payment of packaging, transporting, handling, and other charges

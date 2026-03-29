@@ -5,7 +5,7 @@ usc_section: "189189a"
 chapter: 5
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 189189a"
-generated_at: "2026-03-29T17:51:36.117Z"
+generated_at: "2026-03-29T18:04:29.414Z"
 ---
 
 # §§ 189, 189a. Repealed. Pub. L. 91–412, § 3(b) , (c), Sept. 25, 1970 , 84 Stat. 864

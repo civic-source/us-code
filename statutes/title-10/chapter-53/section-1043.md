@@ -5,7 +5,7 @@ usc_section: "1043"
 chapter: 53
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1043"
-generated_at: "2026-03-29T17:50:56.996Z"
+generated_at: "2026-03-29T18:04:13.037Z"
 ---
 
 # § 1043. Service credit: service in the National Oceanic and Atmospheric Administration or the Public Health Service

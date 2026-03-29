@@ -5,7 +5,7 @@ usc_section: "7277b"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 7277b"
-generated_at: "2026-03-29T17:51:48.655Z"
+generated_at: "2026-03-29T18:05:00.369Z"
 ---
 
 # § 7277b. Local uses of funds

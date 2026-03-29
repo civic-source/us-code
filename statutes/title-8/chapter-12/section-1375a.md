@@ -5,7 +5,7 @@ usc_section: "1375a"
 chapter: 12
 current_through: "PL 113-100"
 classification: "8 U.S.C. § 1375a"
-generated_at: "2026-03-29T17:50:41.373Z"
+generated_at: "2026-03-29T18:03:34.084Z"
 ---
 
 # § 1375a. Domestic violence information and resources for immigrants and regulation of international marriage brokers

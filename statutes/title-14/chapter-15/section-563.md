@@ -5,7 +5,7 @@ usc_section: "563"
 chapter: 15
 current_through: "PL 113-100"
 classification: "14 U.S.C. § 563"
-generated_at: "2026-03-29T17:51:01.004Z"
+generated_at: "2026-03-29T18:04:21.489Z"
 ---
 
 # § 563. Recognition of Coast Guard personnel for excellence in acquisition

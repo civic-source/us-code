@@ -5,7 +5,7 @@ usc_section: "4115"
 chapter: 42
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 4115"
-generated_at: "2026-03-29T17:51:13.218Z"
+generated_at: "2026-03-29T18:04:43.699Z"
 ---
 
 # § 4115. Timetable for approval of plan of action

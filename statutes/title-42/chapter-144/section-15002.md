@@ -5,7 +5,7 @@ usc_section: "15002"
 chapter: 144
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15002"
-generated_at: "2026-03-29T17:53:35.921Z"
+generated_at: "2026-03-29T18:07:15.390Z"
 ---
 
 # § 15002. Definitions

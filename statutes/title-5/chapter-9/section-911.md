@@ -5,7 +5,7 @@ usc_section: "911"
 chapter: 9
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 911"
-generated_at: "2026-03-29T17:50:36.439Z"
+generated_at: "2026-03-29T18:03:29.835Z"
 ---
 
 # § 911. Discharge of committee considering resolution

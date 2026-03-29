@@ -5,7 +5,7 @@ usc_section: "6762"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 6762"
-generated_at: "2026-03-29T17:51:48.619Z"
+generated_at: "2026-03-29T18:05:00.335Z"
 ---
 
 # § 6762. Use of allotment by State

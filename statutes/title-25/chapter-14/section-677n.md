@@ -5,7 +5,7 @@ usc_section: "677n"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 677n"
-generated_at: "2026-03-29T17:52:06.013Z"
+generated_at: "2026-03-29T18:05:17.090Z"
 ---
 
 # § 677n. Disposal by mixed-blood members of their individual interests in tribal assets; requisites and conditions

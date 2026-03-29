@@ -5,7 +5,7 @@ usc_section: "230501"
 chapter: 2305
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 230501"
-generated_at: "2026-03-29T17:52:49.381Z"
+generated_at: "2026-03-29T18:06:24.340Z"
 ---
 
 # § 230501. Definition

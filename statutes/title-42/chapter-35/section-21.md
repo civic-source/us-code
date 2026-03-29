@@ -5,7 +5,7 @@ usc_section: "21"
 chapter: 35
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-29T17:53:35.142Z"
+generated_at: "2026-03-29T18:07:14.486Z"
 ---
 
 # § 3030g–21. Nutrition

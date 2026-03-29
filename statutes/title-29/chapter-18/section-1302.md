@@ -5,7 +5,7 @@ usc_section: "1302"
 chapter: 18
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 1302"
-generated_at: "2026-03-29T17:52:18.858Z"
+generated_at: "2026-03-29T18:05:31.776Z"
 ---
 
 # § 1302. Pension Benefit Guaranty Corporation

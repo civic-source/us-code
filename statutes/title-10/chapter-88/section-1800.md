@@ -5,7 +5,7 @@ usc_section: "1800"
 chapter: 88
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1800"
-generated_at: "2026-03-29T17:50:57.066Z"
+generated_at: "2026-03-29T18:04:13.111Z"
 ---
 
 # § 1800. Definitions

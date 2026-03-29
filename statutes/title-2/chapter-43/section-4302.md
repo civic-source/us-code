@@ -5,7 +5,7 @@ usc_section: "4302"
 chapter: 43
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 4302"
-generated_at: "2026-03-29T17:50:24.112Z"
+generated_at: "2026-03-29T18:03:21.833Z"
 ---
 
 # § 4302. Per annum rate of compensation of Chief of Staff of Joint Committee on Taxation

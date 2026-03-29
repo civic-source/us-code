@@ -5,7 +5,7 @@ usc_section: "852"
 chapter: 13
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 852"
-generated_at: "2026-03-29T17:52:03.960Z"
+generated_at: "2026-03-29T18:05:14.895Z"
 ---
 
 # § 852. Application of treaties and other international agreements

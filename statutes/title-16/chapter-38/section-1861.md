@@ -5,7 +5,7 @@ usc_section: "1861"
 chapter: 38
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1861"
-generated_at: "2026-03-29T17:51:56.914Z"
+generated_at: "2026-03-29T18:05:06.983Z"
 ---
 
 # § 1861. Enforcement

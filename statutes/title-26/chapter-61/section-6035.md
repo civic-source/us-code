@@ -5,7 +5,7 @@ usc_section: "6035"
 chapter: 61
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 6035"
-generated_at: "2026-03-29T17:52:39.515Z"
+generated_at: "2026-03-29T18:05:44.956Z"
 ---
 
 # [§ 6035. Repealed. Pub. L. 108–357, title IV, § 413(c)(26) , Oct. 22, 2004 , 118 Stat. 1509 ]

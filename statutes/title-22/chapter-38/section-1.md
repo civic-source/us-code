@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 38
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-29T17:52:10.553Z"
+generated_at: "2026-03-29T18:05:21.877Z"
 ---
 
 # § 2680–1. Deadline for responses to questions from congressional committees

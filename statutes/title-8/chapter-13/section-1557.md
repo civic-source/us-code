@@ -5,7 +5,7 @@ usc_section: "1557"
 chapter: 13
 current_through: "PL 113-100"
 classification: "8 U.S.C. § 1557"
-generated_at: "2026-03-29T17:50:41.391Z"
+generated_at: "2026-03-29T18:03:34.102Z"
 ---
 
 # § 1557. Prevention of transportation in foreign commerce of alien women and girls under international agreement; Commissioner designated as authority to receive and preserve information

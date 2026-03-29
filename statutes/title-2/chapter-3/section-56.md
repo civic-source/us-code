@@ -5,7 +5,7 @@ usc_section: "56"
 chapter: 3
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 56"
-generated_at: "2026-03-29T17:50:23.982Z"
+generated_at: "2026-03-29T18:03:21.697Z"
 ---
 
 # § 56. Repealed. Pub. L. 104–186, title II, § 203(20)(A) , Aug. 20, 1996 , 110 Stat. 1728

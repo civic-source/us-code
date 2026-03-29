@@ -5,7 +5,7 @@ usc_section: "2925"
 chapter: 173
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2925"
-generated_at: "2026-03-29T17:50:57.178Z"
+generated_at: "2026-03-29T18:04:13.224Z"
 ---
 
 # § 2925. Annual Department of Defense energy management reports

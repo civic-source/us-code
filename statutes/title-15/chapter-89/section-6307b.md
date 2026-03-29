@@ -5,7 +5,7 @@ usc_section: "6307b"
 chapter: 89
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 6307b"
-generated_at: "2026-03-29T17:51:36.391Z"
+generated_at: "2026-03-29T18:04:29.938Z"
 ---
 
 # § 6307b. Protection from coercive contracts

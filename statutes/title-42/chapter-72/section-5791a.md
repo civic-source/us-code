@@ -5,7 +5,7 @@ usc_section: "5791a"
 chapter: 72
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5791a"
-generated_at: "2026-03-29T17:53:35.342Z"
+generated_at: "2026-03-29T18:07:14.715Z"
 ---
 
 # § 5791a. Minimum standards for issuance and dissemination of alerts through AMBER Alert communications network

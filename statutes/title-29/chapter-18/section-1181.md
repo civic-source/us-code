@@ -5,7 +5,7 @@ usc_section: "1181"
 chapter: 18
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 1181"
-generated_at: "2026-03-29T17:52:18.852Z"
+generated_at: "2026-03-29T18:05:31.768Z"
 ---
 
 # § 1181. Increased portability through limitation on preexisting condition exclusions

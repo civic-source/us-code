@@ -5,7 +5,7 @@ usc_section: "1601to1619"
 chapter: 36
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1601to1619"
-generated_at: "2026-03-29T17:51:48.518Z"
+generated_at: "2026-03-29T18:05:00.232Z"
 ---
 
 # §§ 1601 to 1619. Repealed. Pub. L. 95–561, title VI, § 601(b)(2) , Nov. 1, 1978 , 92 Stat. 2268

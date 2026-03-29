@@ -5,7 +5,7 @@ usc_section: "8476"
 chapter: 84
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 8476"
-generated_at: "2026-03-29T17:50:36.556Z"
+generated_at: "2026-03-29T18:03:29.966Z"
 ---
 
 # § 8476. Administrative provisions

@@ -5,7 +5,7 @@ usc_section: "81h"
 chapter: 1
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 81h"
-generated_at: "2026-03-29T17:51:51.200Z"
+generated_at: "2026-03-29T18:04:54.995Z"
 ---
 
 # § 81h. Rules and regulations

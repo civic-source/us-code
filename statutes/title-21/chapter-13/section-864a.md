@@ -5,7 +5,7 @@ usc_section: "864a"
 chapter: 13
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 864a"
-generated_at: "2026-03-29T17:52:03.963Z"
+generated_at: "2026-03-29T18:05:14.898Z"
 ---
 
 # § 864a. Grants to reduce production of methamphetamines from anhydrous ammonia

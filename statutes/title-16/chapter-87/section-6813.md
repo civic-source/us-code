@@ -5,7 +5,7 @@ usc_section: "6813"
 chapter: 87
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 6813"
-generated_at: "2026-03-29T17:51:57.029Z"
+generated_at: "2026-03-29T18:05:07.103Z"
 ---
 
 # § 6813. Relation to other laws and fee collection authorities

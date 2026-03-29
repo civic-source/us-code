@@ -5,7 +5,7 @@ usc_section: "3217"
 chapter: 32
 current_through: "PL 113-100"
 classification: "39 U.S.C. § 3217"
-generated_at: "2026-03-29T17:52:57.914Z"
+generated_at: "2026-03-29T18:06:14.489Z"
 ---
 
 # § 3217. Correspondence of members of diplomatic corps and consuls of countries of Postal Union of Americas and Spain

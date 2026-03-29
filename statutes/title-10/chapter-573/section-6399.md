@@ -5,7 +5,7 @@ usc_section: "6399"
 chapter: 573
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 6399"
-generated_at: "2026-03-29T17:50:57.217Z"
+generated_at: "2026-03-29T18:04:13.263Z"
 ---
 
 # [§ 6399. Repealed. Pub. L. 90–130, § 1(24)(G) , Nov. 8, 1967 , 81 Stat. 382 ]

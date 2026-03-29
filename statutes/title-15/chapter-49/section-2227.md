@@ -5,7 +5,7 @@ usc_section: "2227"
 chapter: 49
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 2227"
-generated_at: "2026-03-29T17:51:36.306Z"
+generated_at: "2026-03-29T18:04:29.844Z"
 ---
 
 # § 2227. Fire safety systems in federally assisted buildings

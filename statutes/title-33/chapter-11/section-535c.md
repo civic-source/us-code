@@ -5,7 +5,7 @@ usc_section: "535c"
 chapter: 11
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 535c"
-generated_at: "2026-03-29T17:52:45.897Z"
+generated_at: "2026-03-29T18:06:10.485Z"
 ---
 
 # § 535c. Secretary of Transportation’s approval; commencement and completion requirements; extension of time limits

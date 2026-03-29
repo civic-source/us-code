@@ -5,7 +5,7 @@ usc_section: "70101"
 chapter: 701
 current_through: "PL 113-100"
 classification: "51 U.S.C. § 70101"
-generated_at: "2026-03-29T17:54:01.893Z"
+generated_at: "2026-03-29T18:07:59.513Z"
 ---
 
 # § 70101. Recovery of fair value of placing Department of Defense payloads in orbit with space shuttle

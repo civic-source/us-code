@@ -5,7 +5,7 @@ usc_section: "679"
 chapter: 12
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 679"
-generated_at: "2026-03-29T17:52:03.944Z"
+generated_at: "2026-03-29T18:05:14.878Z"
 ---
 
 # § 679. Application of Federal Food, Drug, and Cosmetic Act

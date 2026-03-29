@@ -5,7 +5,7 @@ usc_section: "1973b"
 chapter: 20
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1973b"
-generated_at: "2026-03-29T17:53:35.030Z"
+generated_at: "2026-03-29T18:07:14.353Z"
 ---
 
 # § 1973b. Suspension of the use of tests or devices in determining eligibility to vote

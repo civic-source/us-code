@@ -5,7 +5,7 @@ usc_section: "1971"
 chapter: 20
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1971"
-generated_at: "2026-03-29T17:53:35.029Z"
+generated_at: "2026-03-29T18:07:14.352Z"
 ---
 
 # § 1971. Voting rights

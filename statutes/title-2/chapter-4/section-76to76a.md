@@ -5,7 +5,7 @@ usc_section: "76to76a"
 chapter: 4
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 76to76a"
-generated_at: "2026-03-29T17:50:23.992Z"
+generated_at: "2026-03-29T18:03:21.704Z"
 ---
 
 # §§ 76 to 76a. Repealed. Pub. L. 104–186, title II, § 204(21) , (22)(A)(iii), (23), Aug. 20, 1996 , 110 Stat. 1733

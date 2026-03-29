@@ -5,7 +5,7 @@ usc_section: "5303A"
 chapter: 53
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 5303A"
-generated_at: "2026-03-29T17:52:53.803Z"
+generated_at: "2026-03-29T18:06:22.827Z"
 ---
 
 # § 5303A. Minimum active-duty service requirement

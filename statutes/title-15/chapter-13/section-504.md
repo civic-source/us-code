@@ -5,7 +5,7 @@ usc_section: "504"
 chapter: 13
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 504"
-generated_at: "2026-03-29T17:51:36.132Z"
+generated_at: "2026-03-29T18:04:29.434Z"
 ---
 
 # § 504. Powers of Foundation

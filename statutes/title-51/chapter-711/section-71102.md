@@ -5,7 +5,7 @@ usc_section: "71102"
 chapter: 711
 current_through: "PL 113-100"
 classification: "51 U.S.C. § 71102"
-generated_at: "2026-03-29T17:54:01.895Z"
+generated_at: "2026-03-29T18:07:59.515Z"
 ---
 
 # § 71102. Requests for information

@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 52
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-03-29T17:52:10.610Z"
+generated_at: "2026-03-29T18:05:21.943Z"
 ---
 
 # § 4069c–1. Health benefits for certain former spouses

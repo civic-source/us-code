@@ -5,7 +5,7 @@ usc_section: "24402"
 chapter: 244
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 24402"
-generated_at: "2026-03-29T17:53:48.027Z"
+generated_at: "2026-03-29T18:07:51.421Z"
 ---
 
 # § 24402. Capital investment grants to support intercity passenger rail service

@@ -5,7 +5,7 @@ usc_section: "7003"
 chapter: 89
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 7003"
-generated_at: "2026-03-29T17:51:57.031Z"
+generated_at: "2026-03-29T18:05:07.105Z"
 ---
 
 # § 7003. United States representation on the scientific review group

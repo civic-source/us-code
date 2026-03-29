@@ -5,7 +5,7 @@ usc_section: "1169a"
 chapter: 24
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1169a"
-generated_at: "2026-03-29T17:51:56.837Z"
+generated_at: "2026-03-29T18:05:06.897Z"
 ---
 
 # § 1169a. Annuities and survivor annuities; recomputation

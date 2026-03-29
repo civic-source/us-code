@@ -5,7 +5,7 @@ usc_section: "6421"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 6421"
-generated_at: "2026-03-29T17:51:48.603Z"
+generated_at: "2026-03-29T18:05:00.319Z"
 ---
 
 # § 6421. Purpose and program authorization

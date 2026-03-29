@@ -5,7 +5,7 @@ usc_section: "31106"
 chapter: 311
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 31106"
-generated_at: "2026-03-29T17:53:48.045Z"
+generated_at: "2026-03-29T18:07:51.444Z"
 ---
 
 # § 31106. Information systems

@@ -5,7 +5,7 @@ usc_section: "20105"
 chapter: 201
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 20105"
-generated_at: "2026-03-29T17:53:48.010Z"
+generated_at: "2026-03-29T18:07:51.399Z"
 ---
 
 # § 20105. State participation

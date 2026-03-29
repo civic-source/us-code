@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 16
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-29T17:53:03.661Z"
+generated_at: "2026-03-29T18:06:28.303Z"
 ---
 
 # § 687c–1. Execution of provisions of section 687c; authority of Secretary of the Interior

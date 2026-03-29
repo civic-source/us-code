@@ -5,7 +5,7 @@ usc_section: "702to702f"
 chapter: 15
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 702to702f"
-generated_at: "2026-03-29T17:51:36.184Z"
+generated_at: "2026-03-29T18:04:29.503Z"
 ---
 
 # §§ 702 to 702f. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 648

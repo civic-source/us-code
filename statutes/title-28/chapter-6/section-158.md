@@ -5,7 +5,7 @@ usc_section: "158"
 chapter: 6
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 158"
-generated_at: "2026-03-29T17:52:24.177Z"
+generated_at: "2026-03-29T18:06:03.323Z"
 ---
 
 # § 158. Appeals

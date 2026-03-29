@@ -5,7 +5,7 @@ usc_section: "3283"
 chapter: 335
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 3283"
-generated_at: "2026-03-29T17:50:57.183Z"
+generated_at: "2026-03-29T18:04:13.229Z"
 ---
 
 # § 3283. Commissioned officers: appointment without specification of branch; transfer between branches

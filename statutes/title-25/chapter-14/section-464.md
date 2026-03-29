@@ -5,7 +5,7 @@ usc_section: "464"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 464"
-generated_at: "2026-03-29T17:52:05.987Z"
+generated_at: "2026-03-29T18:05:17.064Z"
 ---
 
 # § 464. Transfer and exchange of restricted Indian lands and shares of Indian tribes and corporations

@@ -5,7 +5,7 @@ usc_section: "77l"
 chapter: 2
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 77l"
-generated_at: "2026-03-29T17:51:36.005Z"
+generated_at: "2026-03-29T18:04:29.309Z"
 ---
 
 # § 77l. Civil liabilities arising in connection with prospectuses and communications

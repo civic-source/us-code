@@ -5,7 +5,7 @@ usc_section: "460l"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 460l"
-generated_at: "2026-03-29T17:51:56.597Z"
+generated_at: "2026-03-29T18:05:06.633Z"
 ---
 
 # § 460l. Congressional findings and declaration of policy

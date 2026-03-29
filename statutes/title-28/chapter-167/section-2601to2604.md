@@ -5,7 +5,7 @@ usc_section: "2601to2604"
 chapter: 167
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 2601to2604"
-generated_at: "2026-03-29T17:52:24.242Z"
+generated_at: "2026-03-29T18:06:03.389Z"
 ---
 
 # [§§ 2601 to 2604. Repealed. Pub. L. 97–164, title I, § 140 , Apr. 2, 1982 , 96 Stat. 44 ]

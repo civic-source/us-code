@@ -5,7 +5,7 @@ usc_section: "2001"
 chapter: 22
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 2001"
-generated_at: "2026-03-29T17:52:06.107Z"
+generated_at: "2026-03-29T18:05:17.198Z"
 ---
 
 # § 2001. Accreditation for the basic education of Indian children in Bureau of Indian Affairs schools

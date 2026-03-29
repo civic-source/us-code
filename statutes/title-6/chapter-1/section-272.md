@@ -5,7 +5,7 @@ usc_section: "272"
 chapter: 1
 current_through: "PL 113-100"
 classification: "6 U.S.C. § 272"
-generated_at: "2026-03-29T17:50:39.332Z"
+generated_at: "2026-03-29T18:03:43.246Z"
 ---
 
 # § 272. Citizenship and Immigration Services Ombudsman

@@ -5,7 +5,7 @@ usc_section: "1139to1139h"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1139to1139h"
-generated_at: "2026-03-29T17:51:48.456Z"
+generated_at: "2026-03-29T18:05:00.171Z"
 ---
 
 # §§ 1139 to 1139h. Repealed. Pub. L. 110–315, title VII, § 708 , Aug. 14, 2008 , 122 Stat. 3361

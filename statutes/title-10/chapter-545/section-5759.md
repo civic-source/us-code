@@ -5,7 +5,7 @@ usc_section: "5759"
 chapter: 545
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 5759"
-generated_at: "2026-03-29T17:50:57.208Z"
+generated_at: "2026-03-29T18:04:13.254Z"
 ---
 
 # [§ 5759. Repealed. Pub. L. 87–123, § 5(17) , Aug. 3, 1961 , 75 Stat. 266 ]

@@ -5,7 +5,7 @@ usc_section: "14221"
 chapter: 136
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 14221"
-generated_at: "2026-03-29T17:53:35.906Z"
+generated_at: "2026-03-29T18:07:15.379Z"
 ---
 
 # § 14221. Task force relating to introduction of nonindigenous species

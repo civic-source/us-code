@@ -5,7 +5,7 @@ usc_section: "1391to1400"
 chapter: 30
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1391to1400"
-generated_at: "2026-03-29T17:53:03.693Z"
+generated_at: "2026-03-29T18:06:28.337Z"
 ---
 
 # §§ 1391 to 1400. Omitted

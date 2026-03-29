@@ -5,7 +5,7 @@ usc_section: "283l"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 283l"
-generated_at: "2026-03-29T17:53:34.164Z"
+generated_at: "2026-03-29T18:07:13.392Z"
 ---
 
 # § 283l. Construction of regional centers for research on primates

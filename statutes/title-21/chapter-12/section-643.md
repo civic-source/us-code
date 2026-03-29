@@ -5,7 +5,7 @@ usc_section: "643"
 chapter: 12
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 643"
-generated_at: "2026-03-29T17:52:03.942Z"
+generated_at: "2026-03-29T18:05:14.876Z"
 ---
 
 # § 643. Registration of business, name of person, and trade names

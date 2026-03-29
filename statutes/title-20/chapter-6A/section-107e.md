@@ -5,7 +5,7 @@ usc_section: "107e"
 chapter: 6
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 107e"
-generated_at: "2026-03-29T17:51:48.297Z"
+generated_at: "2026-03-29T18:05:00.018Z"
 ---
 
 # § 107e. Definitions

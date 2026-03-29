@@ -5,7 +5,7 @@ usc_section: "9057"
 chapter: 115
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 9057"
-generated_at: "2026-03-29T17:50:48.917Z"
+generated_at: "2026-03-29T18:04:05.189Z"
 ---
 
 # § 9057. Premiums for margin protection program

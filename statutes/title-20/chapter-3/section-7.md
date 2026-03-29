@@ -5,7 +5,7 @@ usc_section: "7"
 chapter: 3
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 7"
-generated_at: "2026-03-29T17:51:48.294Z"
+generated_at: "2026-03-29T18:05:00.015Z"
 ---
 
 # § 80r–7. Congressional Budget Act compliance

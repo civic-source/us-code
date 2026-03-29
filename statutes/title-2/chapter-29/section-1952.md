@@ -5,7 +5,7 @@ usc_section: "1952"
 chapter: 29
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 1952"
-generated_at: "2026-03-29T17:50:24.095Z"
+generated_at: "2026-03-29T18:03:21.813Z"
 ---
 
 # § 1952. Payments from Fund for families of Detective Gibson and Private First Class Chestnut

@@ -5,7 +5,7 @@ usc_section: "1709A"
 chapter: 17
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 1709A"
-generated_at: "2026-03-29T17:52:53.696Z"
+generated_at: "2026-03-29T18:06:22.749Z"
 ---
 
 # § 1709A. Teleconsultation

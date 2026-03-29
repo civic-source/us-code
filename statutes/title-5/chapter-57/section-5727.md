@@ -5,7 +5,7 @@ usc_section: "5727"
 chapter: 57
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 5727"
-generated_at: "2026-03-29T17:50:36.495Z"
+generated_at: "2026-03-29T18:03:29.895Z"
 ---
 
 # § 5727. Transportation of motor vehicles

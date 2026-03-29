@@ -5,7 +5,7 @@ usc_section: "9012"
 chapter: 71
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 9012"
-generated_at: "2026-03-29T17:51:48.682Z"
+generated_at: "2026-03-29T18:05:00.402Z"
 ---
 
 # § 9012. Repealed. Pub. L. 107–279, title IV, § 403(1) , Nov. 5, 2002 , 116 Stat. 1985

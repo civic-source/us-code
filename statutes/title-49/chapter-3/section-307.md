@@ -5,7 +5,7 @@ usc_section: "307"
 chapter: 3
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 307"
-generated_at: "2026-03-29T17:53:47.943Z"
+generated_at: "2026-03-29T18:07:51.322Z"
 ---
 
 # [§ 307. Repealed. Pub. L. 112–141, div. C, title II, § 32932(a)(1) , July 6, 2012 , 126 Stat. 829 ]

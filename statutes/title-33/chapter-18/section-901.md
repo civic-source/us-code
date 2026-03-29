@@ -5,7 +5,7 @@ usc_section: "901"
 chapter: 18
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 901"
-generated_at: "2026-03-29T17:52:45.922Z"
+generated_at: "2026-03-29T18:06:10.514Z"
 ---
 
 # § 901. Short title

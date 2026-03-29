@@ -5,7 +5,7 @@ usc_section: "11to15"
 chapter: 2
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 11to15"
-generated_at: "2026-03-29T17:53:50.951Z"
+generated_at: "2026-03-29T18:07:43.004Z"
 ---
 
 # §§ 11 to 15. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1029

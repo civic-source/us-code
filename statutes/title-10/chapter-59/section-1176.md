@@ -5,7 +5,7 @@ usc_section: "1176"
 chapter: 59
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1176"
-generated_at: "2026-03-29T17:50:57.027Z"
+generated_at: "2026-03-29T18:04:13.068Z"
 ---
 
 # § 1176. Enlisted members: retention after completion of 18 or more, but less than 20, years of service

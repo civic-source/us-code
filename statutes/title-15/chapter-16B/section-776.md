@@ -5,7 +5,7 @@ usc_section: "776"
 chapter: 16
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 776"
-generated_at: "2026-03-29T17:51:36.202Z"
+generated_at: "2026-03-29T18:04:29.522Z"
 ---
 
 # § 776. Repealed. Pub. L. 105–28, § 2(b)(2) , July 18, 1997 , 111 Stat. 245

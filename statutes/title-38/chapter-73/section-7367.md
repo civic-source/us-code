@@ -5,7 +5,7 @@ usc_section: "7367"
 chapter: 73
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 7367"
-generated_at: "2026-03-29T17:52:53.836Z"
+generated_at: "2026-03-29T18:06:22.848Z"
 ---
 
 # [§ 7367. Repealed. Pub. L. 107–14, § 8(a)(14)(A) , June 5, 2001 , 115 Stat. 35 ]

@@ -5,7 +5,7 @@ usc_section: "347"
 chapter: 13
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 347"
-generated_at: "2026-03-29T17:50:48.509Z"
+generated_at: "2026-03-29T18:04:04.764Z"
 ---
 
 # § 347. Repealed. Pub. L. 86–533, § 1(21) , June 29, 1960 , 74 Stat. 249

@@ -5,7 +5,7 @@ usc_section: "71"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 71"
-generated_at: "2026-03-29T17:51:48.348Z"
+generated_at: "2026-03-29T18:05:00.076Z"
 ---
 
 # § 1070a–71. Repealed. Pub. L. 105–244, title IV, § 405 , Oct. 7, 1998 , 112 Stat. 1664

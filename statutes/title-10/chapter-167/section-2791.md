@@ -5,7 +5,7 @@ usc_section: "2791"
 chapter: 167
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2791"
-generated_at: "2026-03-29T17:50:57.163Z"
+generated_at: "2026-03-29T18:04:13.211Z"
 ---
 
 # [§ 2791. Repealed. Pub. L. 104–201, div. A, title XI, § 1121(b) , Sept. 23, 1996 , 110 Stat. 2687 ]

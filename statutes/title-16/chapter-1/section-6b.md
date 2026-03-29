@@ -5,7 +5,7 @@ usc_section: "6b"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 6b"
-generated_at: "2026-03-29T17:51:56.599Z"
+generated_at: "2026-03-29T18:05:06.634Z"
 ---
 
 # § 460l–6b. Repealed. Pub. L. 100–203, title V, § 5201(d)(2) , Dec. 22, 1987 , 101 Stat. 1330–267

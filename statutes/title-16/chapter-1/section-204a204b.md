@@ -5,7 +5,7 @@ usc_section: "204a204b"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 204a204b"
-generated_at: "2026-03-29T17:51:56.470Z"
+generated_at: "2026-03-29T18:05:06.413Z"
 ---
 
 # §§ 204a, 204b. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948

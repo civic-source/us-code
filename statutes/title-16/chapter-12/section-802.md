@@ -5,7 +5,7 @@ usc_section: "802"
 chapter: 12
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 802"
-generated_at: "2026-03-29T17:51:56.779Z"
+generated_at: "2026-03-29T18:05:06.834Z"
 ---
 
 # § 802. Information to accompany application for license; landowner notification

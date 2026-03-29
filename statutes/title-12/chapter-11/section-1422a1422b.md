@@ -5,7 +5,7 @@ usc_section: "1422a1422b"
 chapter: 11
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 1422a1422b"
-generated_at: "2026-03-29T17:51:13.012Z"
+generated_at: "2026-03-29T18:04:43.423Z"
 ---
 
 # §§ 1422a, 1422b. Repealed. Pub. L. 110–289, div. A, title II, § 1204(1) , July 30, 2008 , 122 Stat. 2785

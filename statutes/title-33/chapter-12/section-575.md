@@ -5,7 +5,7 @@ usc_section: "575"
 chapter: 12
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 575"
-generated_at: "2026-03-29T17:52:45.900Z"
+generated_at: "2026-03-29T18:06:10.488Z"
 ---
 
 # § 575. Availability of appropriations for expenses incident to operation of power boats or vessels; expenses defined; certification of expenditures

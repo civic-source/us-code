@@ -5,7 +5,7 @@ usc_section: "198eto198j"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 198eto198j"
-generated_at: "2026-03-29T17:51:56.469Z"
+generated_at: "2026-03-29T18:05:06.412Z"
 ---
 
 # §§ 198e to 198j. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948

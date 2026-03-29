@@ -5,7 +5,7 @@ usc_section: "32701"
 chapter: 327
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 32701"
-generated_at: "2026-03-29T17:53:48.062Z"
+generated_at: "2026-03-29T18:07:51.464Z"
 ---
 
 # § 32701. Findings and purposes

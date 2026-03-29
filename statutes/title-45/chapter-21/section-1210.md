@@ -5,7 +5,7 @@ usc_section: "1210"
 chapter: 21
 current_through: "PL 113-100"
 classification: "45 U.S.C. § 1210"
-generated_at: "2026-03-29T17:53:02.137Z"
+generated_at: "2026-03-29T18:06:35.984Z"
 ---
 
 # § 1210. Other disposition

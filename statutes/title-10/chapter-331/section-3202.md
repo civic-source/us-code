@@ -5,7 +5,7 @@ usc_section: "3202"
 chapter: 331
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 3202"
-generated_at: "2026-03-29T17:50:57.182Z"
+generated_at: "2026-03-29T18:04:13.228Z"
 ---
 
 # [§ 3202. Repealed. Pub. L. 101–510, div. A, title IV, § 403(b)(1)(A) , Nov. 5, 1990 , 104 Stat. 1545 ]

@@ -5,7 +5,7 @@ usc_section: "1235to1235g"
 chapter: 31
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1235to1235g"
-generated_at: "2026-03-29T17:51:48.487Z"
+generated_at: "2026-03-29T18:05:00.205Z"
 ---
 
 # §§ 1235 to 1235g. Repealed. Pub. L. 107–110, title X, § 1011(3) , Jan. 8, 2002 , 115 Stat. 1986

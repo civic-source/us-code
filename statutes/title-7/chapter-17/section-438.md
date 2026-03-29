@@ -5,7 +5,7 @@ usc_section: "438"
 chapter: 17
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 438"
-generated_at: "2026-03-29T17:50:48.516Z"
+generated_at: "2026-03-29T18:04:04.769Z"
 ---
 
 # § 438. Repealed. Pub. L. 88–448, title IV, § 402(a)(26) , Aug. 19, 1964 , 78 Stat. 494

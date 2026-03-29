@@ -5,7 +5,7 @@ usc_section: "1102"
 chapter: 18
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 1102"
-generated_at: "2026-03-29T17:52:18.839Z"
+generated_at: "2026-03-29T18:05:31.755Z"
 ---
 
 # § 1102. Establishment of plan

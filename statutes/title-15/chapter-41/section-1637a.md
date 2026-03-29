@@ -5,7 +5,7 @@ usc_section: "1637a"
 chapter: 41
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1637a"
-generated_at: "2026-03-29T17:51:36.244Z"
+generated_at: "2026-03-29T18:04:29.582Z"
 ---
 
 # § 1637a. Disclosure requirements for open end consumer credit plans secured by consumer’s principal dwelling

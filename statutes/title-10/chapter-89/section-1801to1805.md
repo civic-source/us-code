@@ -5,7 +5,7 @@ usc_section: "1801to1805"
 chapter: 89
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1801to1805"
-generated_at: "2026-03-29T17:50:57.066Z"
+generated_at: "2026-03-29T18:04:13.111Z"
 ---
 
 # [§§ 1801 to 1805. Repealed. Pub. L. 104–106, div. A, title X, § 1061(a)(1) , Feb. 10, 1996 , 110 Stat. 442 ]

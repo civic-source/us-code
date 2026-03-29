@@ -5,7 +5,7 @@ usc_section: "5164"
 chapter: 68
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5164"
-generated_at: "2026-03-29T17:53:35.292Z"
+generated_at: "2026-03-29T18:07:14.650Z"
 ---
 
 # § 5164. Rules and regulations

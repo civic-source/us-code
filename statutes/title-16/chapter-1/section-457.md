@@ -5,7 +5,7 @@ usc_section: "457"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 457"
-generated_at: "2026-03-29T17:51:56.583Z"
+generated_at: "2026-03-29T18:05:06.616Z"
 ---
 
 # § 457. Action for death or personal injury within national park or other place under jurisdiction of United States; application of State laws

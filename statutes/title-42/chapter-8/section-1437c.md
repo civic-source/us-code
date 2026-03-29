@@ -5,7 +5,7 @@ usc_section: "1437c"
 chapter: 8
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1437c"
-generated_at: "2026-03-29T17:53:34.892Z"
+generated_at: "2026-03-29T18:07:14.210Z"
 ---
 
 # § 1437c. Contributions for low-income housing projects

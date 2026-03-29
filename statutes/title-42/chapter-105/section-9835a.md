@@ -5,7 +5,7 @@ usc_section: "9835a"
 chapter: 105
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 9835a"
-generated_at: "2026-03-29T17:53:35.653Z"
+generated_at: "2026-03-29T18:07:15.085Z"
 ---
 
 # § 9835a. Repealed. Pub. L. 103–252, title I, § 106 , May 18, 1994 , 108 Stat. 629

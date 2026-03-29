@@ -5,7 +5,7 @@ usc_section: "483"
 chapter: 23
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 483"
-generated_at: "2026-03-29T17:50:56.944Z"
+generated_at: "2026-03-29T18:04:12.984Z"
 ---
 
 # § 483. Reports on transfers from high-priority readiness appropriations

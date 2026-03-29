@@ -5,7 +5,7 @@ usc_section: "2005"
 chapter: 22
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 2005"
-generated_at: "2026-03-29T17:53:35.063Z"
+generated_at: "2026-03-29T18:07:14.386Z"
 ---
 
 # § 2005. Financial assistance by Surgeon General

@@ -5,7 +5,7 @@ usc_section: "280281"
 chapter: 7
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 280281"
-generated_at: "2026-03-29T17:51:36.126Z"
+generated_at: "2026-03-29T18:04:29.427Z"
 ---
 
 # §§ 280, 281. Repealed. Pub. L. 100–418, title V, § 5113 , Aug. 23, 1988 , 102 Stat. 1432

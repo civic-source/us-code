@@ -5,7 +5,7 @@ usc_section: "15483"
 chapter: 146
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15483"
-generated_at: "2026-03-29T17:53:35.946Z"
+generated_at: "2026-03-29T18:07:15.416Z"
 ---
 
 # § 15483. Computerized statewide voter registration list requirements and requirements for voters who register by mail

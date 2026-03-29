@@ -5,7 +5,7 @@ usc_section: "8433"
 chapter: 92
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 8433"
-generated_at: "2026-03-29T17:53:35.592Z"
+generated_at: "2026-03-29T18:07:15.003Z"
 ---
 
 # § 8433. Civil penalties

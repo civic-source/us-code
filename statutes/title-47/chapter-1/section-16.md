@@ -5,7 +5,7 @@ usc_section: "16"
 chapter: 1
 current_through: "PL 113-100"
 classification: "47 U.S.C. § 16"
-generated_at: "2026-03-29T17:53:43.596Z"
+generated_at: "2026-03-29T18:07:40.795Z"
 ---
 
 # § 16. Washington-Alaska Military Cable and Telegraph System; money transfers; portion of receipts withheld

@@ -5,7 +5,7 @@ usc_section: "680"
 chapter: 18
 current_through: "PL 113-100"
 classification: "14 U.S.C. § 680"
-generated_at: "2026-03-29T17:51:01.011Z"
+generated_at: "2026-03-29T18:04:21.496Z"
 ---
 
 # § 680. Definitions

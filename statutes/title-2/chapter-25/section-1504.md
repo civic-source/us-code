@@ -5,7 +5,7 @@ usc_section: "1504"
 chapter: 25
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 1504"
-generated_at: "2026-03-29T17:50:24.079Z"
+generated_at: "2026-03-29T18:03:21.794Z"
 ---
 
 # § 1504. Agency assistance

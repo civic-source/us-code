@@ -5,7 +5,7 @@ usc_section: "681to685"
 chapter: 20
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 681to685"
-generated_at: "2026-03-29T17:51:48.301Z"
+generated_at: "2026-03-29T18:05:00.022Z"
 ---
 
 # §§ 681 to 685. Repealed. Pub. L. 99–371, title II, § 210(d) , formerly title IV, § 410(d), Aug. 4, 1986 , 100 Stat. 794 ; renumbered title II, § 210(d), Pub. L. 102–421, title I, § 101(b)(5) , (6), Oct. 16, 1992 , 106 Stat. 2151

@@ -5,7 +5,7 @@ usc_section: "22703"
 chapter: 227
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 22703"
-generated_at: "2026-03-29T17:53:48.024Z"
+generated_at: "2026-03-29T18:07:51.416Z"
 ---
 
 # § 22703. Purposes

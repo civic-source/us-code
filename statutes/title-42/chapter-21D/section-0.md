@@ -5,7 +5,7 @@ usc_section: "0"
 chapter: 21
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 0"
-generated_at: "2026-03-29T17:53:35.057Z"
+generated_at: "2026-03-29T18:07:14.380Z"
 ---
 
 # § 2000dd–0. Additional prohibition on cruel, inhuman, or degrading treatment or punishment

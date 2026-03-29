@@ -5,7 +5,7 @@ usc_section: "2904"
 chapter: 29
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 2904"
-generated_at: "2026-03-29T17:50:36.449Z"
+generated_at: "2026-03-29T18:03:29.843Z"
 ---
 
 # § 2904. Oath; administered without fees

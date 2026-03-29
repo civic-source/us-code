@@ -5,7 +5,7 @@ usc_section: "3114"
 chapter: 31
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 3114"
-generated_at: "2026-03-29T17:50:36.451Z"
+generated_at: "2026-03-29T18:03:29.847Z"
 ---
 
 # § 3114. Appointment of candidates to certain positions in the competitive service by the Securities and Exchange Commission

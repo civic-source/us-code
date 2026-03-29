@@ -5,7 +5,7 @@ usc_section: "13295"
 chapter: 134
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 13295"
-generated_at: "2026-03-29T17:53:35.843Z"
+generated_at: "2026-03-29T18:07:15.308Z"
 ---
 
 # § 13295. Repealed. Pub. L. 105–362, title IV, § 401(b) , Nov. 10, 1998 , 112 Stat. 3282

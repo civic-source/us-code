@@ -5,7 +5,7 @@ usc_section: "612to617"
 chapter: 29
 current_through: "PL 113-100"
 classification: "18 U.S.C. § 612to617"
-generated_at: "2026-03-29T17:53:15.576Z"
+generated_at: "2026-03-29T18:04:50.877Z"
 ---
 
 # [§§ 612 to 617. Repealed. Pub. L. 94–283, title II, § 201(a) , May 11, 1976 , 90 Stat. 496 ]

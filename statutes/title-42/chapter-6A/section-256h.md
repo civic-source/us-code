@@ -5,7 +5,7 @@ usc_section: "256h"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 256h"
-generated_at: "2026-03-29T17:53:34.118Z"
+generated_at: "2026-03-29T18:07:13.341Z"
 ---
 
 # § 256h. Program of payments to teaching health centers that operate graduate medical education programs

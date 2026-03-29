@@ -5,7 +5,7 @@ usc_section: "1003"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1003"
-generated_at: "2026-03-29T17:51:48.313Z"
+generated_at: "2026-03-29T18:05:00.036Z"
 ---
 
 # § 1003. Additional definitions

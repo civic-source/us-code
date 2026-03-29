@@ -5,7 +5,7 @@ usc_section: "2304a"
 chapter: 137
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2304a"
-generated_at: "2026-03-29T17:50:57.094Z"
+generated_at: "2026-03-29T18:04:13.139Z"
 ---
 
 # § 2304a. Task and delivery order contracts: general authority

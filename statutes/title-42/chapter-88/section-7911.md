@@ -5,7 +5,7 @@ usc_section: "7911"
 chapter: 88
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 7911"
-generated_at: "2026-03-29T17:53:35.563Z"
+generated_at: "2026-03-29T18:07:14.972Z"
 ---
 
 # § 7911. Definitions

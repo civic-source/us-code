@@ -5,7 +5,7 @@ usc_section: "285r"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 285r"
-generated_at: "2026-03-29T17:53:34.187Z"
+generated_at: "2026-03-29T18:07:13.418Z"
 ---
 
 # § 285r. Purpose of the Institute

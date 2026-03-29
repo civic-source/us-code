@@ -5,7 +5,7 @@ usc_section: "8304"
 chapter: 109
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 8304"
-generated_at: "2026-03-29T17:50:48.894Z"
+generated_at: "2026-03-29T18:04:05.163Z"
 ---
 
 # § 8304. Exportation

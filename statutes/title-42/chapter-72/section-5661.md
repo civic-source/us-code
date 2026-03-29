@@ -5,7 +5,7 @@ usc_section: "5661"
 chapter: 72
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5661"
-generated_at: "2026-03-29T17:53:35.335Z"
+generated_at: "2026-03-29T18:07:14.705Z"
 ---
 
 # § 5661. Research and evaluation; statistical analyses; information dissemination

@@ -5,7 +5,7 @@ usc_section: "39"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 39"
-generated_at: "2026-03-29T17:53:34.222Z"
+generated_at: "2026-03-29T18:07:13.450Z"
 ---
 
 # § 290bb–39. Improving outcomes for children and adolescents through services integration between child welfare and mental health services

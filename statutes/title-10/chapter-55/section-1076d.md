@@ -5,7 +5,7 @@ usc_section: "1076d"
 chapter: 55
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1076d"
-generated_at: "2026-03-29T17:50:57.008Z"
+generated_at: "2026-03-29T18:04:13.049Z"
 ---
 
 # § 1076d. TRICARE program: TRICARE Standard coverage for members of the Selected Reserve

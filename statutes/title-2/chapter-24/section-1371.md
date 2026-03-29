@@ -5,7 +5,7 @@ usc_section: "1371"
 chapter: 24
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 1371"
-generated_at: "2026-03-29T17:50:24.074Z"
+generated_at: "2026-03-29T18:03:21.788Z"
 ---
 
 # § 1371. Study and recommendations regarding Government Accountability Office, Government Printing Office, and Library of Congress

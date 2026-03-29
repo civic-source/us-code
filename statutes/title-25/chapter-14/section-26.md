@@ -5,7 +5,7 @@ usc_section: "26"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 26"
-generated_at: "2026-03-29T17:52:06.044Z"
+generated_at: "2026-03-29T18:05:17.128Z"
 ---
 
 # § 1300d–26. Distribution of funds to lineal descendants

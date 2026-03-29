@@ -5,7 +5,7 @@ usc_section: "595"
 chapter: 1
 current_through: "PL 113-100"
 classification: "6 U.S.C. § 595"
-generated_at: "2026-03-29T17:50:39.357Z"
+generated_at: "2026-03-29T18:03:43.274Z"
 ---
 
 # § 595. Relationship to other Department entities and Federal agencies

@@ -5,7 +5,7 @@ usc_section: "7259c"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 7259c"
-generated_at: "2026-03-29T17:51:48.649Z"
+generated_at: "2026-03-29T18:05:00.364Z"
 ---
 
 # § 7259c. Elementary school foreign language incentive program

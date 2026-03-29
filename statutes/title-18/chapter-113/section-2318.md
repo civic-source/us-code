@@ -3,9 +3,9 @@ title: "Section 2318 - Trafficking in counterfeit labels, illicit labels, or cou
 usc_title: 18
 usc_section: "2318"
 chapter: 113
-current_through: "PL 117-200"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 2318"
-generated_at: "2026-03-29T17:54:21.348Z"
+generated_at: "2026-03-29T18:04:50.950Z"
 ---
 
 # § 2318. Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T17:54:21.348Z"
     - **(B)** counterfeit documentation or packaging,
 - **(b)** As used in this section—
   - **(1)** the term “counterfeit label” means an identifying label or container that appears to be genuine, but is not;
-  - **(2)** the term “traffic” has the same meaning as in section 2320(f) of this title ;
+  - **(2)** the term “traffic” has the same meaning as in section 2320(e) 2 2 See References in Text note below. of this title;
   - **(3)** the terms “copy”, “phonorecord”, “motion picture”, “computer program”, “audiovisual work”, “literary work”, “pictorial, graphic, or sculptural work”, “sound recording”, “work of visual art”, and “copyright owner” have, respectively, the meanings given those terms in section 101 (relating to definitions) of title 17;
   - **(4)** the term “illicit label” means a genuine certificate, licensing document, registration card, or similar labeling component—
     - **(A)** that is used by the copyright owner to verify that a phonorecord, a copy of a computer program, a copy of a motion picture or other audiovisual work, a copy of a literary work, a copy of a pictorial, graphic, or sculptural work, a work of visual art, or documentation or packaging is not counterfeit or infringing of any copyright; and

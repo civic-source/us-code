@@ -5,7 +5,7 @@ usc_section: "169"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 169"
-generated_at: "2026-03-29T17:51:56.466Z"
+generated_at: "2026-03-29T18:05:06.406Z"
 ---
 
 # § 169. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948

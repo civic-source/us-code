@@ -5,7 +5,7 @@ usc_section: "688"
 chapter: 6
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 688"
-generated_at: "2026-03-29T17:51:56.748Z"
+generated_at: "2026-03-29T18:05:06.799Z"
 ---
 
 # § 688. Repealed. Pub. L. 95–625, title III, § 314(g) , Nov. 10, 1978 , 92 Stat. 3483

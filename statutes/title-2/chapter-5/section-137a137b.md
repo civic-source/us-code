@@ -5,7 +5,7 @@ usc_section: "137a137b"
 chapter: 5
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 137a137b"
-generated_at: "2026-03-29T17:50:24.001Z"
+generated_at: "2026-03-29T18:03:21.711Z"
 ---
 
 # §§ 137a, 137b. Omitted

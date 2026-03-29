@@ -5,7 +5,7 @@ usc_section: "489"
 chapter: 13
 current_through: "PL 113-100"
 classification: "14 U.S.C. § 489"
-generated_at: "2026-03-29T17:51:01.002Z"
+generated_at: "2026-03-29T18:04:21.487Z"
 ---
 
 # [§ 489. Repealed. Aug. 1, 1956, ch. 837 , title V, § 502(8)(A), 70 Stat. 886 ]

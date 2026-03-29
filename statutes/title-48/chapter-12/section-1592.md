@@ -5,7 +5,7 @@ usc_section: "1592"
 chapter: 12
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 1592"
-generated_at: "2026-03-29T17:53:42.716Z"
+generated_at: "2026-03-29T18:07:36.856Z"
 ---
 
 # § 1592. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 657

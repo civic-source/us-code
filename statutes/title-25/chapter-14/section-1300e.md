@@ -5,7 +5,7 @@ usc_section: "1300e"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 1300e"
-generated_at: "2026-03-29T17:52:06.045Z"
+generated_at: "2026-03-29T18:05:17.129Z"
 ---
 
 # § 1300e. Disposition of funds; percentage basis for division; attorney fees and expenses

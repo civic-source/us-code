@@ -5,7 +5,7 @@ usc_section: "88"
 chapter: 2
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 88"
-generated_at: "2026-03-29T17:53:34.041Z"
+generated_at: "2026-03-29T18:07:13.254Z"
 ---
 
 # § 88. Discharge of cargo of vessel in quarantine

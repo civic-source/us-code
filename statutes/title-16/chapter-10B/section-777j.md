@@ -5,7 +5,7 @@ usc_section: "777j"
 chapter: 10
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 777j"
-generated_at: "2026-03-29T17:51:56.775Z"
+generated_at: "2026-03-29T18:05:06.830Z"
 ---
 
 # § 777j. Repealed. Pub. L. 89–348, § 1(14) , Nov. 8, 1965 , 79 Stat. 1311

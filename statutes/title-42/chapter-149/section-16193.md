@@ -5,7 +5,7 @@ usc_section: "16193"
 chapter: 149
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 16193"
-generated_at: "2026-03-29T17:53:35.982Z"
+generated_at: "2026-03-29T18:07:15.461Z"
 ---
 
 # § 16193. National Building Performance Initiative

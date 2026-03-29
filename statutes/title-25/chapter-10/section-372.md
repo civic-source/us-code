@@ -5,7 +5,7 @@ usc_section: "372"
 chapter: 10
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 372"
-generated_at: "2026-03-29T17:52:05.961Z"
+generated_at: "2026-03-29T18:05:17.041Z"
 ---
 
 # § 372. Ascertainment of heirs of deceased allottees; settlement of estates; sale of lands; deposit of Indian moneys

@@ -5,7 +5,7 @@ usc_section: "677k"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 677k"
-generated_at: "2026-03-29T17:52:06.013Z"
+generated_at: "2026-03-29T18:05:17.089Z"
 ---
 
 # § 677k. Adjustment of debts in making per capita payments to mixed-blood members; execution of mortgages on property

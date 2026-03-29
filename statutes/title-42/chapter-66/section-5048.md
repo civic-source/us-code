@@ -5,7 +5,7 @@ usc_section: "5048"
 chapter: 66
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5048"
-generated_at: "2026-03-29T17:53:35.275Z"
+generated_at: "2026-03-29T18:07:14.633Z"
 ---
 
 # § 5048. Joint funding; single non-Federal share requirement; grant or contract requirement waiver

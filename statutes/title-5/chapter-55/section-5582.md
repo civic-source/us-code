@@ -5,7 +5,7 @@ usc_section: "5582"
 chapter: 55
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 5582"
-generated_at: "2026-03-29T17:50:36.490Z"
+generated_at: "2026-03-29T18:03:29.888Z"
 ---
 
 # § 5582. Designation of beneficiary; order of precedence

@@ -5,7 +5,7 @@ usc_section: "1395gg"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1395gg"
-generated_at: "2026-03-29T17:53:34.726Z"
+generated_at: "2026-03-29T18:07:14.033Z"
 ---
 
 # § 1395gg. Overpayment on behalf of individuals and settlement of claims for benefits on behalf of deceased individuals

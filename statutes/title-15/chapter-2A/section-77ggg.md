@@ -5,7 +5,7 @@ usc_section: "77ggg"
 chapter: 2
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 77ggg"
-generated_at: "2026-03-29T17:51:36.014Z"
+generated_at: "2026-03-29T18:04:29.317Z"
 ---
 
 # § 77ggg. Qualification of indentures covering securities not required to be registered

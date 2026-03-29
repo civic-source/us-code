@@ -5,7 +5,7 @@ usc_section: "71m"
 chapter: 1
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 71m"
-generated_at: "2026-03-29T17:53:34.040Z"
+generated_at: "2026-03-29T18:07:13.254Z"
 ---
 
 # § 71m. Omitted

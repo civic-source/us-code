@@ -5,7 +5,7 @@ usc_section: "470g"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 470g"
-generated_at: "2026-03-29T17:51:56.681Z"
+generated_at: "2026-03-29T18:05:06.723Z"
 ---
 
 # § 470g. White House, United States Supreme Court building, and United States Capitol not included in program for preservation of historical properties

@@ -5,7 +5,7 @@ usc_section: "426b"
 chapter: 17
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 426b"
-generated_at: "2026-03-29T17:50:48.514Z"
+generated_at: "2026-03-29T18:04:04.768Z"
 ---
 
 # § 426b. Authorization of expenditures for the eradication and control of predatory and other wild animals

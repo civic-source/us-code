@@ -5,7 +5,7 @@ usc_section: "1869"
 chapter: 38
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1869"
-generated_at: "2026-03-29T17:51:56.917Z"
+generated_at: "2026-03-29T18:05:06.986Z"
 ---
 
 # § 1869. Restoration study

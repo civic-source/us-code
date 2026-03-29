@@ -5,7 +5,7 @@ usc_section: "3056f"
 chapter: 35
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 3056f"
-generated_at: "2026-03-29T17:53:35.153Z"
+generated_at: "2026-03-29T18:07:14.494Z"
 ---
 
 # § 3056f. Report

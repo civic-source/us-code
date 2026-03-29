@@ -5,7 +5,7 @@ usc_section: "152504"
 chapter: 1525
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 152504"
-generated_at: "2026-03-29T17:52:49.370Z"
+generated_at: "2026-03-29T18:06:24.324Z"
 ---
 
 # § 152504. Governing body

@@ -5,7 +5,7 @@ usc_section: "1818"
 chapter: 16
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 1818"
-generated_at: "2026-03-29T17:51:13.112Z"
+generated_at: "2026-03-29T18:04:43.559Z"
 ---
 
 # § 1818. Termination of status as insured depository institution

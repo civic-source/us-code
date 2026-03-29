@@ -5,7 +5,7 @@ usc_section: "49101"
 chapter: 491
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 49101"
-generated_at: "2026-03-29T17:53:48.144Z"
+generated_at: "2026-03-29T18:07:51.556Z"
 ---
 
 # § 49101. Findings

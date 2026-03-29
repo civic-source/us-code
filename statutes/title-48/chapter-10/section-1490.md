@@ -5,7 +5,7 @@ usc_section: "1490"
 chapter: 10
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 1490"
-generated_at: "2026-03-29T17:53:42.710Z"
+generated_at: "2026-03-29T18:07:36.851Z"
 ---
 
 # § 1490. Repealed. Mar. 3, 1933, ch. 202, § 1 , 47 Stat. 1428

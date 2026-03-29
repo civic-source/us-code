@@ -5,7 +5,7 @@ usc_section: "181"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 181"
-generated_at: "2026-03-29T17:52:39.164Z"
+generated_at: "2026-03-29T18:05:44.533Z"
 ---
 
 # § 181. Treatment of certain qualified film and television productions

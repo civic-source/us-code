@@ -5,7 +5,7 @@ usc_section: "5588"
 chapter: 539
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 5588"
-generated_at: "2026-03-29T17:50:57.207Z"
+generated_at: "2026-03-29T18:04:13.253Z"
 ---
 
 # [§ 5588. Repealed. Pub. L. 87–123, § 5(8) , Aug. 3, 1961 , 75 Stat. 265 ]

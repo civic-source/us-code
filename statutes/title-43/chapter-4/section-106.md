@@ -5,7 +5,7 @@ usc_section: "106"
 chapter: 4
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 106"
-generated_at: "2026-03-29T17:53:03.600Z"
+generated_at: "2026-03-29T18:06:28.250Z"
 ---
 
 # § 106. Continuing taking of depositions in behalf of opposite party

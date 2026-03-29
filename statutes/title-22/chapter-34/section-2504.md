@@ -5,7 +5,7 @@ usc_section: "2504"
 chapter: 34
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 2504"
-generated_at: "2026-03-29T17:52:10.538Z"
+generated_at: "2026-03-29T18:05:21.863Z"
 ---
 
 # § 2504. Peace Corps volunteers

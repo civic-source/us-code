@@ -5,7 +5,7 @@ usc_section: "1912"
 chapter: 39
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1912"
-generated_at: "2026-03-29T17:51:56.919Z"
+generated_at: "2026-03-29T18:05:06.988Z"
 ---
 
 # § 1912. Financial disclosure by officer or employee of Secretary

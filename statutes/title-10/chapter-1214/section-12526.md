@@ -5,7 +5,7 @@ usc_section: "12526"
 chapter: 1214
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 12526"
-generated_at: "2026-03-29T17:50:57.275Z"
+generated_at: "2026-03-29T18:04:13.323Z"
 ---
 
 # § 12526. Premiums

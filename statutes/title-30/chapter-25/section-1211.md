@@ -5,7 +5,7 @@ usc_section: "1211"
 chapter: 25
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 1211"
-generated_at: "2026-03-29T17:52:16.749Z"
+generated_at: "2026-03-29T18:05:26.192Z"
 ---
 
 # § 1211. Office of Surface Mining Reclamation and Enforcement

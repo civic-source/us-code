@@ -5,7 +5,7 @@ usc_section: "261to264"
 chapter: 6
 current_through: "PL 113-100"
 classification: "24 U.S.C. § 261to264"
-generated_at: "2026-03-29T17:52:00.355Z"
+generated_at: "2026-03-29T18:05:10.890Z"
 ---
 
 # §§ 261 to 264. Omitted

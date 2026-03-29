@@ -5,7 +5,7 @@ usc_section: "478"
 chapter: 8
 current_through: "PL 113-100"
 classification: "37 U.S.C. § 478"
-generated_at: "2026-03-29T17:52:59.109Z"
+generated_at: "2026-03-29T18:06:17.229Z"
 ---
 
 # § 478. Travel and transportation allowances: travel within limits of duty station

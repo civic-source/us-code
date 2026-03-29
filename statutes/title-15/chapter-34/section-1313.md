@@ -5,7 +5,7 @@ usc_section: "1313"
 chapter: 34
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1313"
-generated_at: "2026-03-29T17:51:36.229Z"
+generated_at: "2026-03-29T18:04:29.551Z"
 ---
 
 # § 1313. Custodian of documents, answers and transcripts

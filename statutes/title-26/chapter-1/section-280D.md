@@ -5,7 +5,7 @@ usc_section: "280D"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 280D"
-generated_at: "2026-03-29T17:52:39.185Z"
+generated_at: "2026-03-29T18:05:44.558Z"
 ---
 
 # [§ 280D. Repealed. Pub. L. 100–418, title I, § 1941(b)(4)(A) , Aug. 23, 1988 , 102 Stat. 1324 ]

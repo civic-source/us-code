@@ -5,7 +5,7 @@ usc_section: "15384"
 chapter: 146
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15384"
-generated_at: "2026-03-29T17:53:35.942Z"
+generated_at: "2026-03-29T18:07:15.412Z"
 ---
 
 # § 15384. Study and report on voters who register by mail and use of Social Security information

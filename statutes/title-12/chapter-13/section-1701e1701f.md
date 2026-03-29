@@ -5,7 +5,7 @@ usc_section: "1701e1701f"
 chapter: 13
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 1701e1701f"
-generated_at: "2026-03-29T17:51:13.034Z"
+generated_at: "2026-03-29T18:04:43.453Z"
 ---
 
 # §§ 1701e, 1701f. Repealed. Pub. L. 91–609, title V, § 503(1) , Dec. 31, 1970 , 84 Stat. 1785

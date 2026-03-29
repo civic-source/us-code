@@ -5,7 +5,7 @@ usc_section: "9253"
 chapter: 73
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 9253"
-generated_at: "2026-03-29T17:51:48.692Z"
+generated_at: "2026-03-29T18:05:00.410Z"
 ---
 
 # § 9253. National leadership activities

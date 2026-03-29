@@ -5,7 +5,7 @@ usc_section: "411to419"
 chapter: 9
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 411to419"
-generated_at: "2026-03-29T17:52:10.436Z"
+generated_at: "2026-03-29T18:05:21.758Z"
 ---
 
 # §§ 411 to 419. Omitted

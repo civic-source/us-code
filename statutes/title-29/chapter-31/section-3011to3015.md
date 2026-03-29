@@ -5,7 +5,7 @@ usc_section: "3011to3015"
 chapter: 31
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 3011to3015"
-generated_at: "2026-03-29T17:52:18.926Z"
+generated_at: "2026-03-29T18:05:31.847Z"
 ---
 
 # §§ 3011 to 3015. Omitted

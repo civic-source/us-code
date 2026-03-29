@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 7
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-03-29T17:53:42.696Z"
+generated_at: "2026-03-29T18:07:36.842Z"
 ---
 
 # § 1405w–1. Omitted

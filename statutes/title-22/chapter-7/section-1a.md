@@ -5,7 +5,7 @@ usc_section: "1a"
 chapter: 7
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 1a"
-generated_at: "2026-03-29T17:52:10.415Z"
+generated_at: "2026-03-29T18:05:21.732Z"
 ---
 
 # § 286e–1a. Increase in capital stock of Bank

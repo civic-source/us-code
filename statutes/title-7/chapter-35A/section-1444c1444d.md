@@ -5,7 +5,7 @@ usc_section: "1444c1444d"
 chapter: 35
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1444c1444d"
-generated_at: "2026-03-29T17:50:48.588Z"
+generated_at: "2026-03-29T18:04:04.842Z"
 ---
 
 # §§ 1444c, 1444d. Repealed. Pub. L. 101–624, title IV, § 401(1) , Nov. 28, 1990 , 104 Stat. 3400

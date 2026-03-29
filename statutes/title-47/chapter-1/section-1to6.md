@@ -5,7 +5,7 @@ usc_section: "1to6"
 chapter: 1
 current_through: "PL 113-100"
 classification: "47 U.S.C. § 1to6"
-generated_at: "2026-03-29T17:53:43.596Z"
+generated_at: "2026-03-29T18:07:40.794Z"
 ---
 
 # §§ 1 to 6. Repealed. July 16, 1947, ch. 256, § 1 , 61 Stat. 327

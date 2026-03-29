@@ -5,7 +5,7 @@ usc_section: "4854a"
 chapter: 63
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 4854a"
-generated_at: "2026-03-29T17:53:35.265Z"
+generated_at: "2026-03-29T18:07:14.621Z"
 ---
 
 # § 4854a. Testing technologies

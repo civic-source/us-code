@@ -5,7 +5,7 @@ usc_section: "6395"
 chapter: 77
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 6395"
-generated_at: "2026-03-29T17:53:35.401Z"
+generated_at: "2026-03-29T18:07:14.779Z"
 ---
 
 # § 6395. Enforcement

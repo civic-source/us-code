@@ -5,7 +5,7 @@ usc_section: "3114"
 chapter: 33
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 3114"
-generated_at: "2026-03-29T17:52:06.142Z"
+generated_at: "2026-03-29T18:05:17.238Z"
 ---
 
 # § 3114. Postgraduation recruitment, education and training programs

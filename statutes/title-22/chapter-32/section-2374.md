@@ -5,7 +5,7 @@ usc_section: "2374"
 chapter: 32
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 2374"
-generated_at: "2026-03-29T17:52:10.521Z"
+generated_at: "2026-03-29T18:05:21.844Z"
 ---
 
 # § 2374. Repealed. Pub. L. 108–458, title VII, § 7104(l) , Dec. 17, 2004 , 118 Stat. 3788

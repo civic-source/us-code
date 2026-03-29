@@ -5,7 +5,7 @@ usc_section: "242"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 242"
-generated_at: "2026-03-29T17:52:39.174Z"
+generated_at: "2026-03-29T18:05:44.547Z"
 ---
 
 # [§ 242. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(33) , Oct. 4, 1976 , 90 Stat. 1769 ]

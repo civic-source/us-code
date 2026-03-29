@@ -5,7 +5,7 @@ usc_section: "5821to5827"
 chapter: 68
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 5821to5827"
-generated_at: "2026-03-29T17:51:48.574Z"
+generated_at: "2026-03-29T18:05:00.284Z"
 ---
 
 # §§ 5821 to 5827. Repealed. Pub. L. 107–110, title X, § 1011(4)(A) , Jan. 8, 2002 , 115 Stat. 1986

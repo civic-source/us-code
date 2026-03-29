@@ -5,7 +5,7 @@ usc_section: "15"
 chapter: 1
 current_through: "PL 113-100"
 classification: "9 U.S.C. § 15"
-generated_at: "2026-03-29T17:50:38.311Z"
+generated_at: "2026-03-29T18:03:32.317Z"
 ---
 
 # § 15. Inapplicability of the Act of State doctrine

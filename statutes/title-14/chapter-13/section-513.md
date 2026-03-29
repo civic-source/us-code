@@ -5,7 +5,7 @@ usc_section: "513"
 chapter: 13
 current_through: "PL 113-100"
 classification: "14 U.S.C. § 513"
-generated_at: "2026-03-29T17:51:01.003Z"
+generated_at: "2026-03-29T18:04:21.488Z"
 ---
 
 # § 513. Retroactive payment of pay and allowances delayed by administrative error or oversight

@@ -5,7 +5,7 @@ usc_section: "441b"
 chapter: 14
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 441b"
-generated_at: "2026-03-29T17:50:24.036Z"
+generated_at: "2026-03-29T18:03:21.746Z"
 ---
 
 # § 441b. Contributions or expenditures by national banks, corporations, or labor organizations

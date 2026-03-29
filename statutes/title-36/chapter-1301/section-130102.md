@@ -5,7 +5,7 @@ usc_section: "130102"
 chapter: 1301
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 130102"
-generated_at: "2026-03-29T17:52:49.360Z"
+generated_at: "2026-03-29T18:06:24.314Z"
 ---
 
 # § 130102. Purposes

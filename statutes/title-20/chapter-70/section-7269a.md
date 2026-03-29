@@ -5,7 +5,7 @@ usc_section: "7269a"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 7269a"
-generated_at: "2026-03-29T17:51:48.653Z"
+generated_at: "2026-03-29T18:05:00.367Z"
 ---
 
 # § 7269a. Promotion of school readiness through early childhood emotional and social development

@@ -5,7 +5,7 @@ usc_section: "434"
 chapter: 14
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 434"
-generated_at: "2026-03-29T17:50:24.029Z"
+generated_at: "2026-03-29T18:03:21.737Z"
 ---
 
 # § 434. Reporting requirements

@@ -5,7 +5,7 @@ usc_section: "333"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 333"
-generated_at: "2026-03-29T17:52:39.191Z"
+generated_at: "2026-03-29T18:05:44.565Z"
 ---
 
 # [§ 333. Repealed. Pub. L. 99–514, title VI, § 631(e)(3) , Oct. 22, 1986 , 100 Stat. 2273 ]

@@ -5,7 +5,7 @@ usc_section: "439a"
 chapter: 17
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 439a"
-generated_at: "2026-03-29T17:50:48.516Z"
+generated_at: "2026-03-29T18:04:04.769Z"
 ---
 
 # § 439a. Powers and duties of Secretary of Agriculture

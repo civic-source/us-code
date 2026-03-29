@@ -5,7 +5,7 @@ usc_section: "378"
 chapter: 10
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 378"
-generated_at: "2026-03-29T17:52:05.962Z"
+generated_at: "2026-03-29T18:05:17.042Z"
 ---
 
 # § 378. Partition of allotment among heirs; patents

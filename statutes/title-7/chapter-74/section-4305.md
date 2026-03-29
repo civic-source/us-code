@@ -5,7 +5,7 @@ usc_section: "4305"
 chapter: 74
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 4305"
-generated_at: "2026-03-29T17:50:48.769Z"
+generated_at: "2026-03-29T18:04:05.029Z"
 ---
 
 # § 4305. Finding and issuance of orders

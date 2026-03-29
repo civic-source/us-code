@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 19
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-29T17:53:35.024Z"
+generated_at: "2026-03-29T18:07:14.348Z"
 ---
 
 # § 1962d–5. Water resources development projects involving navigation, flood control, and shore protection

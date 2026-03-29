@@ -5,7 +5,7 @@ usc_section: "4335"
 chapter: 43
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 4335"
-generated_at: "2026-03-29T17:52:53.797Z"
+generated_at: "2026-03-29T18:06:22.823Z"
 ---
 
 # § 4335. Training for Federal executive agency human resources personnel on employment and reemployment rights and limitations

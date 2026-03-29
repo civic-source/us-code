@@ -5,7 +5,7 @@ usc_section: "286nn"
 chapter: 7
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 286nn"
-generated_at: "2026-03-29T17:52:10.420Z"
+generated_at: "2026-03-29T18:05:21.739Z"
 ---
 
 # § 286nn. Approval of contributions for debt reductions for the poorest countries

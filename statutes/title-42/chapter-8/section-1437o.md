@@ -5,7 +5,7 @@ usc_section: "1437o"
 chapter: 8
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1437o"
-generated_at: "2026-03-29T17:53:34.908Z"
+generated_at: "2026-03-29T18:07:14.229Z"
 ---
 
 # § 1437o. Repealed. Pub. L. 101–625, title II, § 289(b) , Nov. 28, 1990 , 104 Stat. 4128

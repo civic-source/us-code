@@ -5,7 +5,7 @@ usc_section: "167"
 chapter: 1
 current_through: "PL 113-100"
 classification: "23 U.S.C. § 167"
-generated_at: "2026-03-29T17:52:01.437Z"
+generated_at: "2026-03-29T18:05:12.223Z"
 ---
 
 # § 167. National freight policy

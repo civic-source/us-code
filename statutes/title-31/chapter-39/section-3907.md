@@ -5,7 +5,7 @@ usc_section: "3907"
 chapter: 39
 current_through: "PL 113-100"
 classification: "31 U.S.C. § 3907"
-generated_at: "2026-03-29T17:52:44.179Z"
+generated_at: "2026-03-29T18:06:08.494Z"
 ---
 
 # § 3907. Relationship to other laws

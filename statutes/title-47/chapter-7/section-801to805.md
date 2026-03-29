@@ -5,7 +5,7 @@ usc_section: "801to805"
 chapter: 7
 current_through: "PL 113-100"
 classification: "47 U.S.C. § 801to805"
-generated_at: "2026-03-29T17:53:43.667Z"
+generated_at: "2026-03-29T18:07:40.898Z"
 ---
 
 # §§ 801 to 805. Repealed. Pub. L. 93–443, title II, § 205(b) , Oct. 15, 1974 , 88 Stat. 1278

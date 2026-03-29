@@ -5,7 +5,7 @@ usc_section: "34"
 chapter: 1
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 34"
-generated_at: "2026-03-29T17:51:35.974Z"
+generated_at: "2026-03-29T18:04:29.285Z"
 ---
 
 # § 34. Definitions applicable to sections 34 to 36

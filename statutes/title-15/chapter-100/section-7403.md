@@ -5,7 +5,7 @@ usc_section: "7403"
 chapter: 100
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 7403"
-generated_at: "2026-03-29T17:51:36.417Z"
+generated_at: "2026-03-29T18:04:29.965Z"
 ---
 
 # § 7403. National Science Foundation research

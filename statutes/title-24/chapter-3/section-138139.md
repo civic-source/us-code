@@ -5,7 +5,7 @@ usc_section: "138139"
 chapter: 3
 current_through: "PL 113-100"
 classification: "24 U.S.C. § 138139"
-generated_at: "2026-03-29T17:52:00.352Z"
+generated_at: "2026-03-29T18:05:10.883Z"
 ---
 
 # §§ 138, 139. Repealed. Pub. L. 85–857, § 14(4) , (5), (26), Sept. 2, 1958 , 72 Stat. 1269 , 1270

@@ -5,7 +5,7 @@ usc_section: "410oo"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 410oo"
-generated_at: "2026-03-29T17:51:56.524Z"
+generated_at: "2026-03-29T18:05:06.560Z"
 ---
 
 # § 410oo. Purposes

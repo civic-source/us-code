@@ -5,7 +5,7 @@ usc_section: "92"
 chapter: 2
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 92"
-generated_at: "2026-03-29T17:51:12.974Z"
+generated_at: "2026-03-29T18:04:43.378Z"
 ---
 
 # § 92. Acting as insurance agent or broker

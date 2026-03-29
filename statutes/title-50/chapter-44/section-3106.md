@@ -5,7 +5,7 @@ usc_section: "3106"
 chapter: 44
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 3106"
-generated_at: "2026-03-29T17:53:51.055Z"
+generated_at: "2026-03-29T18:07:43.117Z"
 ---
 
 # § 3106. Dates for submittal of various annual and semiannual reports to the congressional intelligence committees

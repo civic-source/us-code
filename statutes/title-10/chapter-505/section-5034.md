@@ -5,7 +5,7 @@ usc_section: "5034"
 chapter: 505
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 5034"
-generated_at: "2026-03-29T17:50:57.203Z"
+generated_at: "2026-03-29T18:04:13.250Z"
 ---
 
 # [§ 5034. Repealed. Pub. L. 104–106, div. A, title V, § 502(c) , Feb. 10, 1996 , 110 Stat. 293 ]

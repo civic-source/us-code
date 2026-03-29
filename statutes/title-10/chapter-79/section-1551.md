@@ -5,7 +5,7 @@ usc_section: "1551"
 chapter: 79
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1551"
-generated_at: "2026-03-29T17:50:57.051Z"
+generated_at: "2026-03-29T18:04:13.095Z"
 ---
 
 # § 1551. Correction of name after separation from service under an assumed name

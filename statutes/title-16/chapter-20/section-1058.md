@@ -5,7 +5,7 @@ usc_section: "1058"
 chapter: 20
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1058"
-generated_at: "2026-03-29T17:51:56.833Z"
+generated_at: "2026-03-29T18:05:06.893Z"
 ---
 
 # § 1058. Limitation on appropriations and expenditures; charges for visitation and use

@@ -5,7 +5,7 @@ usc_section: "8"
 chapter: 6
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 8"
-generated_at: "2026-03-29T17:51:13.009Z"
+generated_at: "2026-03-29T18:04:43.418Z"
 ---
 
 # § 635i–8. Special debt relief for poorest, most heavily indebted countries

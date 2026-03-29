@@ -5,7 +5,7 @@ usc_section: "6951"
 chapter: 82
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 6951"
-generated_at: "2026-03-29T17:53:35.433Z"
+generated_at: "2026-03-29T18:07:14.819Z"
 ---
 
 # § 6951. Functions

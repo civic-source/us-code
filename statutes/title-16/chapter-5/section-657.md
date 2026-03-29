@@ -5,7 +5,7 @@ usc_section: "657"
 chapter: 5
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 657"
-generated_at: "2026-03-29T17:51:56.737Z"
+generated_at: "2026-03-29T18:05:06.786Z"
 ---
 
 # § 657. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 632

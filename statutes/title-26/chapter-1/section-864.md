@@ -5,7 +5,7 @@ usc_section: "864"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 864"
-generated_at: "2026-03-29T17:52:39.310Z"
+generated_at: "2026-03-29T18:05:44.721Z"
 ---
 
 # § 864. Definitions and special rules

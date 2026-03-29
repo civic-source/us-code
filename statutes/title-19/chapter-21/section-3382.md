@@ -5,7 +5,7 @@ usc_section: "3382"
 chapter: 21
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 3382"
-generated_at: "2026-03-29T17:51:51.326Z"
+generated_at: "2026-03-29T18:04:55.139Z"
 ---
 
 # § 3382. Procedures concerning conduct of International Trade Commission investigations

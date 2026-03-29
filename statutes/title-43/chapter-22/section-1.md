@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 22
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-29T17:53:03.675Z"
+generated_at: "2026-03-29T18:06:28.317Z"
 ---
 
 # § 961. 1 1 There is no section 960 in this title. Rights-of-way through public lands, Indian, and other reservations for power and communications facilities

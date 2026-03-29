@@ -5,7 +5,7 @@ usc_section: "693"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 693"
-generated_at: "2026-03-29T17:52:06.015Z"
+generated_at: "2026-03-29T18:05:17.092Z"
 ---
 
 # § 693. Membership roll; preparation and initial publication; eligibility for enrollment; appeal from inclusion or omission from roll; finality of determination; final publication

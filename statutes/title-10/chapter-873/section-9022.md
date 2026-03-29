@@ -5,7 +5,7 @@ usc_section: "9022"
 chapter: 873
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 9022"
-generated_at: "2026-03-29T17:50:57.246Z"
+generated_at: "2026-03-29T18:04:13.295Z"
 ---
 
 # [§ 9022. Repealed. Pub. L. 98–94, title IX, § 932(c)(1) , Sept. 24, 1983 , 97 Stat. 650 ]

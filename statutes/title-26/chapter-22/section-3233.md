@@ -5,7 +5,7 @@ usc_section: "3233"
 chapter: 22
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 3233"
-generated_at: "2026-03-29T17:52:39.427Z"
+generated_at: "2026-03-29T18:05:44.865Z"
 ---
 
 # § 3233. Short title

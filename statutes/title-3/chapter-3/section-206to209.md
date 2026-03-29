@@ -5,7 +5,7 @@ usc_section: "206to209"
 chapter: 3
 current_through: "PL 113-100"
 classification: "3 U.S.C. § 206to209"
-generated_at: "2026-03-29T17:50:17.439Z"
+generated_at: "2026-03-29T18:03:15.097Z"
 ---
 
 # [§§ 206 to 209. Repealed. Pub. L. 109–177, title VI, § 605(c) , Mar. 9, 2006 , 120 Stat. 255 ]

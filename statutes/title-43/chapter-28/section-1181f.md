@@ -5,7 +5,7 @@ usc_section: "1181f"
 chapter: 28
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1181f"
-generated_at: "2026-03-29T17:53:03.679Z"
+generated_at: "2026-03-29T18:06:28.322Z"
 ---
 
 # § 1181f. Oregon and California land-grant fund; annual distribution of moneys

@@ -5,7 +5,7 @@ usc_section: "658"
 chapter: 17
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 658"
-generated_at: "2026-03-29T17:50:24.049Z"
+generated_at: "2026-03-29T18:03:21.761Z"
 ---
 
 # § 658. Definitions

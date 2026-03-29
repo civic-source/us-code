@@ -5,7 +5,7 @@ usc_section: "665"
 chapter: 15
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 665"
-generated_at: "2026-03-29T17:52:18.774Z"
+generated_at: "2026-03-29T18:05:31.692Z"
 ---
 
 # § 665. Variations, tolerances, and exemptions from required provisions; procedure; duration

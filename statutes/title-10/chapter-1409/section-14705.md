@@ -5,7 +5,7 @@ usc_section: "14705"
 chapter: 1409
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 14705"
-generated_at: "2026-03-29T17:50:57.287Z"
+generated_at: "2026-03-29T18:04:13.335Z"
 ---
 
 # § 14705. Selective early retirement: reserve general and flag officers of the Navy and Marine Corps

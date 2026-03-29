@@ -5,7 +5,7 @@ usc_section: "204l"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 204l"
-generated_at: "2026-03-29T17:51:56.471Z"
+generated_at: "2026-03-29T18:05:06.413Z"
 ---
 
 # § 204l. Application of Federal Power Act

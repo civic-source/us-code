@@ -5,7 +5,7 @@ usc_section: "2a"
 chapter: 20
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-29T17:53:35.036Z"
+generated_at: "2026-03-29T18:07:14.359Z"
 ---
 
 # § 1973ff–2a. Procedures for collection and delivery of marked absentee ballots of absent overseas uniformed services voters

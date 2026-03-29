@@ -5,7 +5,7 @@ usc_section: "7161"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 7161"
-generated_at: "2026-03-29T17:51:48.634Z"
+generated_at: "2026-03-29T18:05:00.349Z"
 ---
 
 # § 7161. Definitions

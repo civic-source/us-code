@@ -5,7 +5,7 @@ usc_section: "141b"
 chapter: 5
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 141b"
-generated_at: "2026-03-29T17:50:24.002Z"
+generated_at: "2026-03-29T18:03:21.711Z"
 ---
 
 # § 141b. Collections, physical security, control, and preservation of order and decorum within the library

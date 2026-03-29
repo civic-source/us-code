@@ -5,7 +5,7 @@ usc_section: "1241"
 chapter: 29
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1241"
-generated_at: "2026-03-29T17:51:36.221Z"
+generated_at: "2026-03-29T18:04:29.545Z"
 ---
 
 # § 1241. Definitions

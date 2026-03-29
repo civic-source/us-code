@@ -5,7 +5,7 @@ usc_section: "1214"
 chapter: 12
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 1214"
-generated_at: "2026-03-29T17:50:36.441Z"
+generated_at: "2026-03-29T18:03:29.837Z"
 ---
 
 # § 1214. Investigation of prohibited personnel practices; corrective action

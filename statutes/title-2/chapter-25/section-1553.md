@@ -5,7 +5,7 @@ usc_section: "1553"
 chapter: 25
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 1553"
-generated_at: "2026-03-29T17:50:24.080Z"
+generated_at: "2026-03-29T18:03:21.796Z"
 ---
 
 # § 1553. Special authorities of Advisory Commission

@@ -5,7 +5,7 @@ usc_section: "31"
 chapter: 1
 current_through: "PL 113-100"
 classification: "24 U.S.C. § 31"
-generated_at: "2026-03-29T17:52:00.351Z"
+generated_at: "2026-03-29T18:05:10.882Z"
 ---
 
 # § 31. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641

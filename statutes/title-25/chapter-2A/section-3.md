@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 2
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 3"
-generated_at: "2026-03-29T17:52:05.885Z"
+generated_at: "2026-03-29T18:05:17.023Z"
 ---
 
 # § 70n–3. Repealed. Pub. L. 93–608, § 1(16) , Jan. 2, 1975 , 88 Stat. 1970

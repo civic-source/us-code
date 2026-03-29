@@ -5,7 +5,7 @@ usc_section: "4420"
 chapter: 56
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 4420"
-generated_at: "2026-03-29T17:51:48.561Z"
+generated_at: "2026-03-29T18:05:00.272Z"
 ---
 
 # § 4420. Tax status; tort liability

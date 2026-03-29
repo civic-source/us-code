@@ -5,7 +5,7 @@ usc_section: "6563"
 chapter: 74
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 6563"
-generated_at: "2026-03-29T17:52:10.671Z"
+generated_at: "2026-03-29T18:05:22.007Z"
 ---
 
 # § 6563. Status of AID

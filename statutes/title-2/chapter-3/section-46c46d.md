@@ -5,7 +5,7 @@ usc_section: "46c46d"
 chapter: 3
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 46c46d"
-generated_at: "2026-03-29T17:50:23.982Z"
+generated_at: "2026-03-29T18:03:21.697Z"
 ---
 
 # §§ 46c, 46d. Repealed. Pub. L. 90–57 , July 28, 1967 , 81 Stat. 129

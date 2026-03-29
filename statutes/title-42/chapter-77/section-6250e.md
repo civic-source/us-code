@@ -5,7 +5,7 @@ usc_section: "6250e"
 chapter: 77
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 6250e"
-generated_at: "2026-03-29T17:53:35.360Z"
+generated_at: "2026-03-29T18:07:14.734Z"
 ---
 
 # § 6250e. Repealed. Pub. L. 109–58, title III, § 301(a)(2) , Aug. 8, 2005 , 119 Stat. 683

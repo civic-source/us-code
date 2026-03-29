@@ -5,7 +5,7 @@ usc_section: "2005b"
 chapter: 40
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 2005b"
-generated_at: "2026-03-29T17:51:56.920Z"
+generated_at: "2026-03-29T18:05:06.989Z"
 ---
 
 # § 2005b. Repealed. Pub. L. 107–171, title II, § 2502(b) , May 13, 2002 , 116 Stat. 267

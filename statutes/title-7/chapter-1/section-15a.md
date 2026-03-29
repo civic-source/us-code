@@ -5,7 +5,7 @@ usc_section: "15a"
 chapter: 1
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 15a"
-generated_at: "2026-03-29T17:50:48.438Z"
+generated_at: "2026-03-29T18:04:04.701Z"
 ---
 
 # § 15a. Repealed. Pub. L. 95–405, § 24 , Sept. 30, 1978 , 92 Stat. 877

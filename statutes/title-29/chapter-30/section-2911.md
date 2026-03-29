@@ -5,7 +5,7 @@ usc_section: "2911"
 chapter: 30
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 2911"
-generated_at: "2026-03-29T17:52:18.911Z"
+generated_at: "2026-03-29T18:05:31.829Z"
 ---
 
 # § 2911. Native American programs

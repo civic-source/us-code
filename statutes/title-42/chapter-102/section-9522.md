@@ -5,7 +5,7 @@ usc_section: "9522"
 chapter: 102
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 9522"
-generated_at: "2026-03-29T17:53:35.617Z"
+generated_at: "2026-03-29T18:07:15.039Z"
 ---
 
 # § 9522. Report on shelter and basic living needs of chronically mentally ill individuals

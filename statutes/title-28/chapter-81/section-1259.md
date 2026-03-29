@@ -5,7 +5,7 @@ usc_section: "1259"
 chapter: 81
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 1259"
-generated_at: "2026-03-29T17:52:24.210Z"
+generated_at: "2026-03-29T18:06:03.358Z"
 ---
 
 # § 1259. Court of Appeals for the Armed Forces; certiorari

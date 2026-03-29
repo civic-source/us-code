@@ -5,7 +5,7 @@ usc_section: "8076to8080"
 chapter: 807
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 8076to8080"
-generated_at: "2026-03-29T17:50:57.241Z"
+generated_at: "2026-03-29T18:04:13.289Z"
 ---
 
 # [§§ 8076 to 8080. Repealed. Pub. L. 103–337, div. A, title XVI, § 1661(a)(3)(A) , Oct. 5, 1994 , 108 Stat. 2980 ]

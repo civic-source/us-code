@@ -5,7 +5,7 @@ usc_section: "2035"
 chapter: 38
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 2035"
-generated_at: "2026-03-29T17:53:50.996Z"
+generated_at: "2026-03-29T18:07:43.058Z"
 ---
 
 # § 2035. Retirement annuity for certain former spouses

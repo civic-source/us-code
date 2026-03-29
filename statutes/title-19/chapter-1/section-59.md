@@ -5,7 +5,7 @@ usc_section: "59"
 chapter: 1
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 59"
-generated_at: "2026-03-29T17:51:51.199Z"
+generated_at: "2026-03-29T18:04:54.993Z"
 ---
 
 # § 59. Repealed. Aug. 2, 1956, ch. 887, § 4(a)(21) , 70 Stat. 947

@@ -5,7 +5,7 @@ usc_section: "10607"
 chapter: 112
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 10607"
-generated_at: "2026-03-29T17:53:35.710Z"
+generated_at: "2026-03-29T18:07:15.157Z"
 ---
 
 # § 10607. Services to victims

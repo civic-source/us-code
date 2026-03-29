@@ -5,7 +5,7 @@ usc_section: "6010"
 chapter: 69
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 6010"
-generated_at: "2026-03-29T17:52:10.655Z"
+generated_at: "2026-03-29T18:05:21.987Z"
 ---
 
 # § 6010. “United States person” defined

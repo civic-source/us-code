@@ -5,7 +5,7 @@ usc_section: "3801"
 chapter: 58
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 3801"
-generated_at: "2026-03-29T17:51:56.964Z"
+generated_at: "2026-03-29T18:05:07.040Z"
 ---
 
 # § 3801. Definitions

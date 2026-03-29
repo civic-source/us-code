@@ -5,7 +5,7 @@ usc_section: "9671"
 chapter: 103
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 9671"
-generated_at: "2026-03-29T17:53:35.645Z"
+generated_at: "2026-03-29T18:07:15.079Z"
 ---
 
 # § 9671. Definitions

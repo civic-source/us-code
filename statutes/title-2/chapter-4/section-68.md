@@ -5,7 +5,7 @@ usc_section: "68"
 chapter: 4
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 68"
-generated_at: "2026-03-29T17:50:23.988Z"
+generated_at: "2026-03-29T18:03:21.702Z"
 ---
 
 # § 68. Transferred

@@ -5,7 +5,7 @@ usc_section: "5502"
 chapter: 55
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 5502"
-generated_at: "2026-03-29T17:50:36.481Z"
+generated_at: "2026-03-29T18:03:29.880Z"
 ---
 
 # § 5502. Unauthorized office; prohibition on use of funds

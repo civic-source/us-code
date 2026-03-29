@@ -5,7 +5,7 @@ usc_section: "1903"
 chapter: 24
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 1903"
-generated_at: "2026-03-29T17:52:03.987Z"
+generated_at: "2026-03-29T18:05:14.932Z"
 ---
 
 # § 1903. Public identification of significant foreign narcotics traffickers and required reports

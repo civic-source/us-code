@@ -5,7 +5,7 @@ usc_section: "5842"
 chapter: 73
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5842"
-generated_at: "2026-03-29T17:53:35.348Z"
+generated_at: "2026-03-29T18:07:14.719Z"
 ---
 
 # § 5842. Licensing and related regulatory functions respecting selected Administration facilities

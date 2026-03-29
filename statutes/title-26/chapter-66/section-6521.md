@@ -5,7 +5,7 @@ usc_section: "6521"
 chapter: 66
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 6521"
-generated_at: "2026-03-29T17:52:39.578Z"
+generated_at: "2026-03-29T18:05:45.021Z"
 ---
 
 # § 6521. Mitigation of effect of limitation in case of related taxes under different chapters

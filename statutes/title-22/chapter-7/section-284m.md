@@ -5,7 +5,7 @@ usc_section: "284m"
 chapter: 7
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 284m"
-generated_at: "2026-03-29T17:52:10.410Z"
+generated_at: "2026-03-29T18:05:21.729Z"
 ---
 
 # § 284m. Repealed. Pub. L. 95–118, title VII, § 702 , Oct. 3, 1977 , 91 Stat. 1070

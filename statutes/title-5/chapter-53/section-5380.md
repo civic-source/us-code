@@ -5,7 +5,7 @@ usc_section: "5380"
 chapter: 53
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 5380"
-generated_at: "2026-03-29T17:50:36.480Z"
+generated_at: "2026-03-29T18:03:29.878Z"
 ---
 
 # [§ 5380. Repealed. Pub. L. 102–378, § 8(a) , Oct. 2, 1992 , 106 Stat. 1359 ]

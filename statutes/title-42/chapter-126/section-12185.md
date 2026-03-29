@@ -5,7 +5,7 @@ usc_section: "12185"
 chapter: 126
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 12185"
-generated_at: "2026-03-29T17:53:35.761Z"
+generated_at: "2026-03-29T18:07:15.219Z"
 ---
 
 # § 12185. Study

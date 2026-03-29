@@ -5,7 +5,7 @@ usc_section: "160b"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 160b"
-generated_at: "2026-03-29T17:51:56.464Z"
+generated_at: "2026-03-29T18:05:06.404Z"
 ---
 
 # § 160b. Acquisition of lands; lands outside of boundaries; transfer of Federal property within boundaries to administrative jurisdiction of Secretary; consideration by Secretary of offers to sell property within park area

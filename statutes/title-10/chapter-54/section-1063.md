@@ -5,7 +5,7 @@ usc_section: "1063"
 chapter: 54
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1063"
-generated_at: "2026-03-29T17:50:57.001Z"
+generated_at: "2026-03-29T18:04:13.042Z"
 ---
 
 # § 1063. Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60

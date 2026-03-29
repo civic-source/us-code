@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 1
 current_through: "PL 113-100"
 classification: "9 U.S.C. § 3"
-generated_at: "2026-03-29T17:50:38.310Z"
+generated_at: "2026-03-29T18:03:32.316Z"
 ---
 
 # § 3. Stay of proceedings where issue therein referable to arbitration

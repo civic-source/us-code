@@ -5,7 +5,7 @@ usc_section: "274"
 chapter: 5
 current_through: "PL 113-100"
 classification: "47 U.S.C. § 274"
-generated_at: "2026-03-29T17:53:43.625Z"
+generated_at: "2026-03-29T18:07:40.836Z"
 ---
 
 # § 274. Electronic publishing by Bell operating companies

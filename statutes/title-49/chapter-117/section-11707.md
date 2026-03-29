@@ -5,7 +5,7 @@ usc_section: "11707"
 chapter: 117
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 11707"
-generated_at: "2026-03-29T17:53:47.996Z"
+generated_at: "2026-03-29T18:07:51.379Z"
 ---
 
 # § 11707. Liability when property is delivered in violation of routing instructions

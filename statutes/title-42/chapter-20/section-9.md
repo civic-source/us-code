@@ -5,7 +5,7 @@ usc_section: "9"
 chapter: 20
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-29T17:53:35.040Z"
+generated_at: "2026-03-29T18:07:14.362Z"
 ---
 
 # § 1973gg–9. Civil enforcement and private right of action

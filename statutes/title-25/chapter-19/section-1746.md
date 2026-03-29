@@ -5,7 +5,7 @@ usc_section: "1746"
 chapter: 19
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 1746"
-generated_at: "2026-03-29T17:52:06.085Z"
+generated_at: "2026-03-29T18:05:17.176Z"
 ---
 
 # § 1746. Scope of rights or interests granted to Miccosukee Tribe; scope of civil and criminal jurisdiction of State of Florida

@@ -5,7 +5,7 @@ usc_section: "1359hh"
 chapter: 35
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1359hh"
-generated_at: "2026-03-29T17:50:48.574Z"
+generated_at: "2026-03-29T18:04:04.830Z"
 ---
 
 # § 1359hh. Regulations; violations; publication of Secretary’s determinations; jurisdiction of the courts; United States attorneys

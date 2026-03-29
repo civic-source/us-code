@@ -5,7 +5,7 @@ usc_section: "61a6to61a8"
 chapter: 4
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 61a6to61a8"
-generated_at: "2026-03-29T17:50:23.985Z"
+generated_at: "2026-03-29T18:03:21.700Z"
 ---
 
 # §§ 61a–6 to 61a–8. Omitted

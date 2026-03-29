@@ -5,7 +5,7 @@ usc_section: "1127"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 1127"
-generated_at: "2026-03-29T17:52:06.037Z"
+generated_at: "2026-03-29T18:05:17.121Z"
 ---
 
 # § 1127. Use of appropriated funds; approval by Secretary on receipt of recommendations from tribal governing body

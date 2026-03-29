@@ -5,7 +5,7 @@ usc_section: "21301"
 chapter: 213
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 21301"
-generated_at: "2026-03-29T17:52:49.345Z"
+generated_at: "2026-03-29T18:06:24.296Z"
 ---
 
 # § 21301. Organization

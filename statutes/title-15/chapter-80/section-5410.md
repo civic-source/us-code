@@ -5,7 +5,7 @@ usc_section: "5410"
 chapter: 80
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 5410"
-generated_at: "2026-03-29T17:51:36.382Z"
+generated_at: "2026-03-29T18:04:29.929Z"
 ---
 
 # § 5410. Relationship to State laws

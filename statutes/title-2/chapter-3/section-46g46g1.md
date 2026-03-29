@@ -5,7 +5,7 @@ usc_section: "46g46g1"
 chapter: 3
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 46g46g1"
-generated_at: "2026-03-29T17:50:23.982Z"
+generated_at: "2026-03-29T18:03:21.697Z"
 ---
 
 # §§ 46g, 46g–1. Repealed. Pub. L. 104–186, title II, § 203(18)(B) , (19), Aug. 20, 1996 , 110 Stat. 1727 , 1728

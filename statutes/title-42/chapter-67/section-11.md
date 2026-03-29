@@ -5,7 +5,7 @@ usc_section: "11"
 chapter: 67
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-29T17:53:35.286Z"
+generated_at: "2026-03-29T18:07:14.645Z"
 ---
 
 # § 5117aa–11. Establishment of local projects

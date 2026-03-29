@@ -5,7 +5,7 @@ usc_section: "5954"
 chapter: 79
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 5954"
-generated_at: "2026-03-29T17:51:57.012Z"
+generated_at: "2026-03-29T18:05:07.087Z"
 ---
 
 # § 5954. Protection of concessioner investment

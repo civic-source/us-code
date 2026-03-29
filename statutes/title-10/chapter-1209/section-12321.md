@@ -5,7 +5,7 @@ usc_section: "12321"
 chapter: 1209
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 12321"
-generated_at: "2026-03-29T17:50:57.273Z"
+generated_at: "2026-03-29T18:04:13.321Z"
 ---
 
 # § 12321. Reserve Officer Training Corps units: limitation on number of Reserves assigned

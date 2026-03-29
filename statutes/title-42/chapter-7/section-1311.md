@@ -5,7 +5,7 @@ usc_section: "1311"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1311"
-generated_at: "2026-03-29T17:53:34.534Z"
+generated_at: "2026-03-29T18:07:13.801Z"
 ---
 
 # § 1311. Public assistance payments to legal representatives

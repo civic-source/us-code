@@ -5,7 +5,7 @@ usc_section: "29b29c"
 chapter: 2
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 29b29c"
-generated_at: "2026-03-29T17:50:23.979Z"
+generated_at: "2026-03-29T18:03:21.694Z"
 ---
 
 # §§ 29b, 29c. Omitted

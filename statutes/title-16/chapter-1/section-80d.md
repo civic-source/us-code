@@ -5,7 +5,7 @@ usc_section: "80d"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 80d"
-generated_at: "2026-03-29T17:51:56.454Z"
+generated_at: "2026-03-29T18:05:06.394Z"
 ---
 
 # § 80d. Administration, protection, and development

@@ -5,7 +5,7 @@ usc_section: "1632a"
 chapter: 38
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1632a"
-generated_at: "2026-03-29T17:50:48.622Z"
+generated_at: "2026-03-29T18:04:04.876Z"
 ---
 
 # § 1632a. Value-added agricultural product market development grants

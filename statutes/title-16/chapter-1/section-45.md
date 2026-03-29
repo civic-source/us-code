@@ -5,7 +5,7 @@ usc_section: "45"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 45"
-generated_at: "2026-03-29T17:51:56.657Z"
+generated_at: "2026-03-29T18:05:06.696Z"
 ---
 
 # § 460lll–45. Transfer of personal property

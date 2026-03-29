@@ -5,7 +5,7 @@ usc_section: "5651to5658"
 chapter: 82
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 5651to5658"
-generated_at: "2026-03-29T17:51:36.385Z"
+generated_at: "2026-03-29T18:04:29.931Z"
 ---
 
 # §§ 5651 to 5658. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

@@ -5,7 +5,7 @@ usc_section: "3204"
 chapter: 59
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 3204"
-generated_at: "2026-03-29T17:51:36.345Z"
+generated_at: "2026-03-29T18:04:29.886Z"
 ---
 
 # § 3204. Special rules for standards

@@ -5,7 +5,7 @@ usc_section: "142"
 chapter: 5
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 142"
-generated_at: "2026-03-29T17:50:24.002Z"
+generated_at: "2026-03-29T18:03:21.712Z"
 ---
 
 # § 142. Omitted

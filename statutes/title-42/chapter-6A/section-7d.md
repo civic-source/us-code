@@ -5,7 +5,7 @@ usc_section: "7d"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 7d"
-generated_at: "2026-03-29T17:53:34.089Z"
+generated_at: "2026-03-29T18:07:13.307Z"
 ---
 
 # § 247d–7d. Security for countermeasure development and production

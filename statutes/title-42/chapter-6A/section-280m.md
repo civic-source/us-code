@@ -5,7 +5,7 @@ usc_section: "280m"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 280m"
-generated_at: "2026-03-29T17:53:34.155Z"
+generated_at: "2026-03-29T18:07:13.380Z"
 ---
 
 # § 280m. Young women’s breast health awareness and support of young women diagnosed with breast cancer

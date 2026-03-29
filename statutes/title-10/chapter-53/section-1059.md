@@ -5,7 +5,7 @@ usc_section: "1059"
 chapter: 53
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1059"
-generated_at: "2026-03-29T17:50:57.000Z"
+generated_at: "2026-03-29T18:04:13.040Z"
 ---
 
 # § 1059. Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits

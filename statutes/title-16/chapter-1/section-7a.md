@@ -5,7 +5,7 @@ usc_section: "7a"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 7a"
-generated_at: "2026-03-29T17:51:56.435Z"
+generated_at: "2026-03-29T18:05:06.375Z"
 ---
 
 # § 7a. Airports in national parks, monuments and recreation areas; construction, etc.

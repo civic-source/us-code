@@ -5,7 +5,7 @@ usc_section: "1314bto1314j"
 chapter: 35
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1314bto1314j"
-generated_at: "2026-03-29T17:50:48.563Z"
+generated_at: "2026-03-29T18:04:04.817Z"
 ---
 
 # §§ 1314b to 1314j. Repealed. Pub. L. 108–357, title VI, § 611(a) , Oct. 22, 2004 , 118 Stat. 1522

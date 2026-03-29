@@ -5,7 +5,7 @@ usc_section: "4701"
 chapter: 47
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 4701"
-generated_at: "2026-03-29T17:50:36.469Z"
+generated_at: "2026-03-29T18:03:29.864Z"
 ---
 
 # § 4701. Definitions

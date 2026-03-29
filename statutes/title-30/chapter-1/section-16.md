@@ -5,7 +5,7 @@ usc_section: "16"
 chapter: 1
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 16"
-generated_at: "2026-03-29T17:52:16.695Z"
+generated_at: "2026-03-29T18:05:26.131Z"
 ---
 
 # § 16. Research laboratory for utilization of anthracite coal; establishment of advisory committee; composition; functions; appointment

@@ -5,7 +5,7 @@ usc_section: "5731"
 chapter: 72
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5731"
-generated_at: "2026-03-29T17:53:35.339Z"
+generated_at: "2026-03-29T18:07:14.711Z"
 ---
 
 # § 5731. Restrictions on disclosure and transfer

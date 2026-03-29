@@ -5,7 +5,7 @@ usc_section: "5394"
 chapter: 53
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 5394"
-generated_at: "2026-03-29T17:51:13.290Z"
+generated_at: "2026-03-29T18:04:43.783Z"
 ---
 
 # § 5394. Prohibition on taxpayer funding

@@ -5,7 +5,7 @@ usc_section: "1512"
 chapter: 40
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1512"
-generated_at: "2026-03-29T17:51:36.235Z"
+generated_at: "2026-03-29T18:04:29.561Z"
 ---
 
 # § 1512. Powers and duties of Department

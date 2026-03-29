@@ -5,7 +5,7 @@ usc_section: "269g"
 chapter: 7
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 269g"
-generated_at: "2026-03-29T17:52:10.395Z"
+generated_at: "2026-03-29T18:05:21.713Z"
 ---
 
 # § 269g. Private International Law Conference at The Hague and Private Law International Institute in Rome; membership; appointment of delegates

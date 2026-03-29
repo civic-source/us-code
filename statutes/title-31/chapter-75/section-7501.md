@@ -5,7 +5,7 @@ usc_section: "7501"
 chapter: 75
 current_through: "PL 113-100"
 classification: "31 U.S.C. § 7501"
-generated_at: "2026-03-29T17:52:44.202Z"
+generated_at: "2026-03-29T18:06:08.522Z"
 ---
 
 # § 7501. Definitions

@@ -5,7 +5,7 @@ usc_section: "493"
 chapter: 18
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 493"
-generated_at: "2026-03-29T17:53:50.965Z"
+generated_at: "2026-03-29T18:07:43.017Z"
 ---
 
 # § 493. Authorization of appropriations

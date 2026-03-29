@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 8
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-29T17:53:03.608Z"
+generated_at: "2026-03-29T18:06:28.255Z"
 ---
 
 # § 315o–2. Animals and equipment for field employees

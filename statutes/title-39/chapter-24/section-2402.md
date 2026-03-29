@@ -5,7 +5,7 @@ usc_section: "2402"
 chapter: 24
 current_through: "PL 113-100"
 classification: "39 U.S.C. § 2402"
-generated_at: "2026-03-29T17:52:57.906Z"
+generated_at: "2026-03-29T18:06:14.482Z"
 ---
 
 # § 2402. Annual report

@@ -5,7 +5,7 @@ usc_section: "300ff41to300ff50"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 300ff41to300ff50"
-generated_at: "2026-03-29T17:53:34.367Z"
+generated_at: "2026-03-29T18:07:13.611Z"
 ---
 
 # §§ 300ff–41 to 300ff–50. Repealed. Pub. L. 106–345, title III, § 301(a) , Oct. 20, 2000 , 114 Stat. 1345

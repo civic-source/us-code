@@ -5,7 +5,7 @@ usc_section: "356a"
 chapter: 11
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 356a"
-generated_at: "2026-03-29T17:50:24.025Z"
+generated_at: "2026-03-29T18:03:21.733Z"
 ---
 
 # § 356a. Omitted

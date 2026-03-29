@@ -5,7 +5,7 @@ usc_section: "3416"
 chapter: 65
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 3416"
-generated_at: "2026-03-29T17:50:48.764Z"
+generated_at: "2026-03-29T18:04:05.023Z"
 ---
 
 # § 3416. Amendments to orders

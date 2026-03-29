@@ -5,7 +5,7 @@ usc_section: "11386"
 chapter: 119
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 11386"
-generated_at: "2026-03-29T17:53:35.735Z"
+generated_at: "2026-03-29T18:07:15.185Z"
 ---
 
 # § 11386. Program requirements

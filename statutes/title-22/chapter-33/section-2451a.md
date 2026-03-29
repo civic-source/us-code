@@ -5,7 +5,7 @@ usc_section: "2451a"
 chapter: 33
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 2451a"
-generated_at: "2026-03-29T17:52:10.535Z"
+generated_at: "2026-03-29T18:05:21.859Z"
 ---
 
 # § 2451a. Repealed. Pub. L. 91–269, § 7 , May 27, 1970 , 84 Stat. 272

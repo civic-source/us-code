@@ -5,7 +5,7 @@ usc_section: "6984"
 chapter: 77
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 6984"
-generated_at: "2026-03-29T17:52:10.681Z"
+generated_at: "2026-03-29T18:05:22.017Z"
 ---
 
 # § 6984. Authorization of appropriations

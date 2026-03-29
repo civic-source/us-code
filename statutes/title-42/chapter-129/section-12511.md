@@ -5,7 +5,7 @@ usc_section: "12511"
 chapter: 129
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 12511"
-generated_at: "2026-03-29T17:53:35.771Z"
+generated_at: "2026-03-29T18:07:15.229Z"
 ---
 
 # § 12511. Definitions

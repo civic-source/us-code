@@ -5,7 +5,7 @@ usc_section: "167a"
 chapter: 6
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 167a"
-generated_at: "2026-03-29T17:50:56.930Z"
+generated_at: "2026-03-29T18:04:12.968Z"
 ---
 
 # § 167a. Unified combatant command for joint warfighting experimentation: acquisition authority

@@ -5,7 +5,7 @@ usc_section: "274"
 chapter: 9
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 274"
-generated_at: "2026-03-29T17:50:24.019Z"
+generated_at: "2026-03-29T18:03:21.728Z"
 ---
 
 # § 274. Staff; office equipment and supplies

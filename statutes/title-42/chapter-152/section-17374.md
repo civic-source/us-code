@@ -5,7 +5,7 @@ usc_section: "17374"
 chapter: 152
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 17374"
-generated_at: "2026-03-29T17:53:36.042Z"
+generated_at: "2026-03-29T18:07:15.521Z"
 ---
 
 # § 17374. Transparency in extractive industries resource payments

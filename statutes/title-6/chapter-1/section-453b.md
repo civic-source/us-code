@@ -5,7 +5,7 @@ usc_section: "453b"
 chapter: 1
 current_through: "PL 113-100"
 classification: "6 U.S.C. § 453b"
-generated_at: "2026-03-29T17:50:39.345Z"
+generated_at: "2026-03-29T18:03:43.262Z"
 ---
 
 # § 453b. Requirement to buy certain items related to national security interests from American sources; exceptions

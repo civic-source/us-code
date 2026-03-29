@@ -5,7 +5,7 @@ usc_section: "22to43a"
 chapter: 1
 current_through: "PL 113-100"
 classification: "45 U.S.C. § 22to43a"
-generated_at: "2026-03-29T17:53:02.085Z"
+generated_at: "2026-03-29T18:06:35.931Z"
 ---
 
 # §§ 22 to 43a. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

@@ -5,7 +5,7 @@ usc_section: "576c"
 chapter: 3
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 576c"
-generated_at: "2026-03-29T17:51:56.722Z"
+generated_at: "2026-03-29T18:05:06.770Z"
 ---
 
 # § 576c. Supplemental National Forest Reforestation Fund; establishment; duration; authorization of appropriations

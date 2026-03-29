@@ -5,7 +5,7 @@ usc_section: "2323a"
 chapter: 137
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2323a"
-generated_at: "2026-03-29T17:50:57.102Z"
+generated_at: "2026-03-29T18:04:13.147Z"
 ---
 
 # § 2323a. Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of higher education

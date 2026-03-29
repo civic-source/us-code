@@ -5,7 +5,7 @@ usc_section: "74"
 chapter: 3
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 74"
-generated_at: "2026-03-29T17:50:48.446Z"
+generated_at: "2026-03-29T18:04:04.712Z"
 ---
 
 # § 74. Congressional findings and declaration of policy

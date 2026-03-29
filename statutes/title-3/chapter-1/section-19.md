@@ -5,7 +5,7 @@ usc_section: "19"
 chapter: 1
 current_through: "PL 113-100"
 classification: "3 U.S.C. § 19"
-generated_at: "2026-03-29T17:50:17.435Z"
+generated_at: "2026-03-29T18:03:15.095Z"
 ---
 
 # § 19. Vacancy in offices of both President and Vice President; officers eligible to act

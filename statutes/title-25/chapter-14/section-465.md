@@ -5,7 +5,7 @@ usc_section: "465"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 465"
-generated_at: "2026-03-29T17:52:05.988Z"
+generated_at: "2026-03-29T18:05:17.064Z"
 ---
 
 # § 465. Acquisition of lands, water rights or surface rights; appropriation; title to lands; tax exemption

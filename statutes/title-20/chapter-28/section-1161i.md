@@ -5,7 +5,7 @@ usc_section: "1161i"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1161i"
-generated_at: "2026-03-29T17:51:48.466Z"
+generated_at: "2026-03-29T18:05:00.184Z"
 ---
 
 # § 1161i. Purpose

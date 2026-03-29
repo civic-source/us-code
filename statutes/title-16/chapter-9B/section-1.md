@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 9
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T17:51:56.770Z"
+generated_at: "2026-03-29T18:05:06.825Z"
 ---
 
 # § 760aa–1. Gifts to system and particular national fish hatcheries

@@ -5,7 +5,7 @@ usc_section: "677i"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 677i"
-generated_at: "2026-03-29T17:52:06.013Z"
+generated_at: "2026-03-29T18:05:17.088Z"
 ---
 
 # § 677i. Division of assets; basis; prior alienation or encumbrance; partition by Secretary upon non­agreement; assistance; management of claims and rights; division of net proceeds; applicability of usual processes of the law to originally owned stock of corporate representative and to corporate distributions

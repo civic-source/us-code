@@ -5,7 +5,7 @@ usc_section: "3315a"
 chapter: 33
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 3315a"
-generated_at: "2026-03-29T17:50:36.454Z"
+generated_at: "2026-03-29T18:03:29.850Z"
 ---
 
 # [§ 3315a. Repealed. Pub. L. 93–416, § 22(c) , Sept. 7, 1974 , 88 Stat. 1150 ]

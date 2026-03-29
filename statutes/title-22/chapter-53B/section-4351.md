@@ -5,7 +5,7 @@ usc_section: "4351"
 chapter: 53
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 4351"
-generated_at: "2026-03-29T17:52:10.626Z"
+generated_at: "2026-03-29T18:05:21.958Z"
 ---
 
 # § 4351. General authority and contents of publication

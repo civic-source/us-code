@@ -5,7 +5,7 @@ usc_section: "390b"
 chapter: 14
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 390b"
-generated_at: "2026-03-29T17:50:48.513Z"
+generated_at: "2026-03-29T18:04:04.766Z"
 ---
 
 # § 390b. Repealed. Pub. L. 107–171, title VII, § 7308(a) , May 13, 2002 , 116 Stat. 455

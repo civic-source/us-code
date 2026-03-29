@@ -5,7 +5,7 @@ usc_section: "729"
 chapter: 7
 current_through: "PL 113-100"
 classification: "44 U.S.C. § 729"
-generated_at: "2026-03-29T17:53:10.491Z"
+generated_at: "2026-03-29T18:06:33.611Z"
 ---
 
 # § 729. United States Statutes at Large: references in margins

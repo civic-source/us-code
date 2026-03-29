@@ -5,7 +5,7 @@ usc_section: "240106"
 chapter: 2401
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 240106"
-generated_at: "2026-03-29T17:52:49.382Z"
+generated_at: "2026-03-29T18:06:24.340Z"
 ---
 
 # § 240106. Powers

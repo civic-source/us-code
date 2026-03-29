@@ -5,7 +5,7 @@ usc_section: "6031"
 chapter: 68
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 6031"
-generated_at: "2026-03-29T17:51:48.577Z"
+generated_at: "2026-03-29T18:05:00.288Z"
 ---
 
 # § 6031. Repealed. Pub. L. 107–279, title IV, § 403(2) , Nov. 5, 2002 , 116 Stat. 1985

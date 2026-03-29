@@ -5,7 +5,7 @@ usc_section: "15252"
 chapter: 145
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15252"
-generated_at: "2026-03-29T17:53:35.934Z"
+generated_at: "2026-03-29T18:07:15.406Z"
 ---
 
 # § 15252. Nominations

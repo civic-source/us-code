@@ -5,7 +5,7 @@ usc_section: "3797cc"
 chapter: 46
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 3797cc"
-generated_at: "2026-03-29T17:53:35.226Z"
+generated_at: "2026-03-29T18:07:14.581Z"
 ---
 
 # § 3797cc. Authority to make grants to address public safety and methamphetamine manufacturing, sale, and use in hot spots

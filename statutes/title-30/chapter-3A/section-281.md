@@ -5,7 +5,7 @@ usc_section: "281"
 chapter: 3
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 281"
-generated_at: "2026-03-29T17:52:16.714Z"
+generated_at: "2026-03-29T18:05:26.151Z"
 ---
 
 # § 281. Prospecting permits for chlorides, sulphates, carbonates, borates, silicates, or nitrates of potassium; authorization; acreage; lands affected

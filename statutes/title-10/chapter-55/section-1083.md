@@ -5,7 +5,7 @@ usc_section: "1083"
 chapter: 55
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1083"
-generated_at: "2026-03-29T17:50:57.011Z"
+generated_at: "2026-03-29T18:04:13.052Z"
 ---
 
 # § 1083. Contracts for medical care for spouses and children: additional hospitalization

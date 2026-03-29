@@ -5,7 +5,7 @@ usc_section: "792"
 chapter: 12
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 792"
-generated_at: "2026-03-29T17:51:56.776Z"
+generated_at: "2026-03-29T18:05:06.831Z"
 ---
 
 # § 792. Federal Power Commission; creation; number; appointment; term; qualifications; vacancies; quorum; chairman; salary; place of holding sessions

@@ -5,7 +5,7 @@ usc_section: "7702"
 chapter: 86
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 7702"
-generated_at: "2026-03-29T17:53:35.560Z"
+generated_at: "2026-03-29T18:07:14.966Z"
 ---
 
 # § 7702. Congressional statement of purpose

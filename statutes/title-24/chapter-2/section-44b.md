@@ -5,7 +5,7 @@ usc_section: "44b"
 chapter: 2
 current_through: "PL 113-100"
 classification: "24 U.S.C. § 44b"
-generated_at: "2026-03-29T17:52:00.351Z"
+generated_at: "2026-03-29T18:05:10.882Z"
 ---
 
 # § 44b. Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(4) , Nov. 5, 1990 , 104 Stat. 1733

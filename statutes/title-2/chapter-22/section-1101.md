@@ -5,7 +5,7 @@ usc_section: "1101"
 chapter: 22
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 1101"
-generated_at: "2026-03-29T17:50:24.067Z"
+generated_at: "2026-03-29T18:03:21.781Z"
 ---
 
 # § 1101. Congressional findings

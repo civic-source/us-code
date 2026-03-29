@@ -5,7 +5,7 @@ usc_section: "903g"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 903g"
-generated_at: "2026-03-29T17:52:06.027Z"
+generated_at: "2026-03-29T18:05:17.109Z"
 ---
 
 # § 903g. Exemption from advertising requirement for contracts for labor or supplies

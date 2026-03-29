@@ -5,7 +5,7 @@ usc_section: "517"
 chapter: 5
 current_through: "PL 113-100"
 classification: "23 U.S.C. § 517"
-generated_at: "2026-03-29T17:52:01.454Z"
+generated_at: "2026-03-29T18:05:12.248Z"
 ---
 
 # § 517. National architecture and standards

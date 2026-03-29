@@ -5,7 +5,7 @@ usc_section: "135"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 135"
-generated_at: "2026-03-29T17:51:56.461Z"
+generated_at: "2026-03-29T18:05:06.401Z"
 ---
 
 # § 135. Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1028

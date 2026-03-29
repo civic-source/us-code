@@ -5,7 +5,7 @@ usc_section: "237"
 chapter: 1
 current_through: "PL 113-100"
 classification: "6 U.S.C. § 237"
-generated_at: "2026-03-29T17:50:39.331Z"
+generated_at: "2026-03-29T18:03:43.245Z"
 ---
 
 # § 237. Information on visa denials required to be entered into electronic data system

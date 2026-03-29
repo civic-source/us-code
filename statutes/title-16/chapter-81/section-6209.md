@@ -5,7 +5,7 @@ usc_section: "6209"
 chapter: 81
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 6209"
-generated_at: "2026-03-29T17:51:57.017Z"
+generated_at: "2026-03-29T18:05:07.091Z"
 ---
 
 # § 6209. Right of second appraisal

@@ -5,7 +5,7 @@ usc_section: "111112"
 chapter: 6
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 111112"
-generated_at: "2026-03-29T17:52:18.746Z"
+generated_at: "2026-03-29T18:05:31.660Z"
 ---
 
 # §§ 111, 112. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , eff. Sept. 1, 1948

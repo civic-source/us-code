@@ -5,7 +5,7 @@ usc_section: "257a"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 257a"
-generated_at: "2026-03-29T17:53:34.119Z"
+generated_at: "2026-03-29T18:07:13.342Z"
 ---
 
 # § 257a. Transferred

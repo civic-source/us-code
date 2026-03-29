@@ -5,7 +5,7 @@ usc_section: "1087g"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1087g"
-generated_at: "2026-03-29T17:51:48.396Z"
+generated_at: "2026-03-29T18:05:00.121Z"
 ---
 
 # § 1087g. Repealed. Pub. L. 111–39, title IV, § 404(b)(3) , July 1, 2009 , 123 Stat. 1946

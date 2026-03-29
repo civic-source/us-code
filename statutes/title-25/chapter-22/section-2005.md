@@ -5,7 +5,7 @@ usc_section: "2005"
 chapter: 22
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 2005"
-generated_at: "2026-03-29T17:52:06.109Z"
+generated_at: "2026-03-29T18:05:17.200Z"
 ---
 
 # § 2005. Facilities construction

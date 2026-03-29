@@ -5,7 +5,7 @@ usc_section: "8235"
 chapter: 91
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 8235"
-generated_at: "2026-03-29T17:53:35.575Z"
+generated_at: "2026-03-29T18:07:14.985Z"
 ---
 
 # § 8235. “Residential building” defined

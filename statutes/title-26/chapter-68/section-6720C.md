@@ -5,7 +5,7 @@ usc_section: "6720C"
 chapter: 68
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 6720C"
-generated_at: "2026-03-29T17:52:39.594Z"
+generated_at: "2026-03-29T18:05:45.037Z"
 ---
 
 # § 6720C. Penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance

@@ -5,7 +5,7 @@ usc_section: "4422"
 chapter: 56
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 4422"
-generated_at: "2026-03-29T17:51:48.562Z"
+generated_at: "2026-03-29T18:05:00.272Z"
 ---
 
 # § 4422. Reports

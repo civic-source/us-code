@@ -5,7 +5,7 @@ usc_section: "749"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 749"
-generated_at: "2026-03-29T17:52:06.022Z"
+generated_at: "2026-03-29T18:05:17.102Z"
 ---
 
 # § 749. Taxes; initial exemption; taxes following distribution; valuation for capital gains and losses

@@ -5,7 +5,7 @@ usc_section: "471a"
 chapter: 13
 current_through: "PL 113-100"
 classification: "14 U.S.C. § 471a"
-generated_at: "2026-03-29T17:51:01.001Z"
+generated_at: "2026-03-29T18:04:21.487Z"
 ---
 
 # [§ 471a. Repealed. Pub. L. 87–651, title III, § 307B , Sept. 7, 1962 , 76 Stat. 526 ]

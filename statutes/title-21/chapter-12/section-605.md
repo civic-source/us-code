@@ -5,7 +5,7 @@ usc_section: "605"
 chapter: 12
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 605"
-generated_at: "2026-03-29T17:52:03.939Z"
+generated_at: "2026-03-29T18:05:14.873Z"
 ---
 
 # § 605. Examination of carcasses brought into slaughtering or packing establishments, and of meat food products issued from and returned thereto; conditions for entry

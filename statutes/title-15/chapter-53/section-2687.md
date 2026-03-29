@@ -5,7 +5,7 @@ usc_section: "2687"
 chapter: 53
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 2687"
-generated_at: "2026-03-29T17:51:36.333Z"
+generated_at: "2026-03-29T18:04:29.873Z"
 ---
 
 # § 2687. Regulations

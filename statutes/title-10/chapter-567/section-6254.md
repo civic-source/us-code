@@ -5,7 +5,7 @@ usc_section: "6254"
 chapter: 567
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 6254"
-generated_at: "2026-03-29T17:50:57.212Z"
+generated_at: "2026-03-29T18:04:13.259Z"
 ---
 
 # § 6254. Availability of appropriations

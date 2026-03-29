@@ -5,7 +5,7 @@ usc_section: "170302"
 chapter: 1703
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 170302"
-generated_at: "2026-03-29T17:52:49.374Z"
+generated_at: "2026-03-29T18:06:24.329Z"
 ---
 
 # § 170302. Organization

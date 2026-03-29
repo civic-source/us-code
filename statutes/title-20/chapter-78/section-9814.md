@@ -5,7 +5,7 @@ usc_section: "9814"
 chapter: 78
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 9814"
-generated_at: "2026-03-29T17:51:48.708Z"
+generated_at: "2026-03-29T18:05:00.431Z"
 ---
 
 # § 9814. Programs for master’s degrees in science, technology, engineering, mathematics, or critical foreign language education

@@ -5,7 +5,7 @@ usc_section: "148f"
 chapter: 7
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 148f"
-generated_at: "2026-03-29T17:50:48.491Z"
+generated_at: "2026-03-29T18:04:04.749Z"
 ---
 
 # § 148f. Repealed. Pub. L. 106–224, title IV, § 438(a)(9) , June 20, 2000 , 114 Stat. 454

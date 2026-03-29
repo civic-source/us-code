@@ -5,7 +5,7 @@ usc_section: "1107"
 chapter: 18
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 1107"
-generated_at: "2026-03-29T17:52:18.841Z"
+generated_at: "2026-03-29T18:05:31.756Z"
 ---
 
 # § 1107. Limitation with respect to acquisition and holding of employer securities and employer real property by certain plans

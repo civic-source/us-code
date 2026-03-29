@@ -5,7 +5,7 @@ usc_section: "103"
 chapter: 1
 current_through: "PL 113-100"
 classification: "11 U.S.C. § 103"
-generated_at: "2026-03-29T17:51:02.128Z"
+generated_at: "2026-03-29T18:04:18.506Z"
 ---
 
 # § 103. Applicability of chapters

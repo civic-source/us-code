@@ -5,7 +5,7 @@ usc_section: "5335"
 chapter: 53
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 5335"
-generated_at: "2026-03-29T17:50:36.476Z"
+generated_at: "2026-03-29T18:03:29.874Z"
 ---
 
 # § 5335. Periodic step-increases

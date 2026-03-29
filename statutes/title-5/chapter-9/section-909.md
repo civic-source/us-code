@@ -5,7 +5,7 @@ usc_section: "909"
 chapter: 9
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 909"
-generated_at: "2026-03-29T17:50:36.439Z"
+generated_at: "2026-03-29T18:03:29.835Z"
 ---
 
 # § 909. Terms of resolution

@@ -5,7 +5,7 @@ usc_section: "2205"
 chapter: 11
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 2205"
-generated_at: "2026-03-29T17:52:39.411Z"
+generated_at: "2026-03-29T18:05:44.847Z"
 ---
 
 # § 2205. Reimbursement out of estate

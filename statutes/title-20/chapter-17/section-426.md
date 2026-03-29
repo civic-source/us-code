@@ -5,7 +5,7 @@ usc_section: "426"
 chapter: 17
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 426"
-generated_at: "2026-03-29T17:51:48.300Z"
+generated_at: "2026-03-29T18:05:00.022Z"
 ---
 
 # § 426. Repealed. Pub. L. 92–318, title I, § 137(d)(2) , June 23, 1972 , 86 Stat. 280

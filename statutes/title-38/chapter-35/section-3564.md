@@ -5,7 +5,7 @@ usc_section: "3564"
 chapter: 35
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 3564"
-generated_at: "2026-03-29T17:52:53.759Z"
+generated_at: "2026-03-29T18:06:22.800Z"
 ---
 
 # § 3564. Annual adjustment of amounts of educational assistance

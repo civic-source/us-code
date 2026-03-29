@@ -5,7 +5,7 @@ usc_section: "422d"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 422d"
-generated_at: "2026-03-29T17:53:03.630Z"
+generated_at: "2026-03-29T18:06:28.275Z"
 ---
 
 # § 422d. Contents of proposals

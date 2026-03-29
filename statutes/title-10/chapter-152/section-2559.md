@@ -5,7 +5,7 @@ usc_section: "2559"
 chapter: 152
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2559"
-generated_at: "2026-03-29T17:50:57.140Z"
+generated_at: "2026-03-29T18:04:13.187Z"
 ---
 
 # § 2559. Provision of medical care to foreign military and diplomatic personnel: reimbursement required; waiver for provision of reciprocal services

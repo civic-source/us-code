@@ -5,7 +5,7 @@ usc_section: "8992"
 chapter: 871
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 8992"
-generated_at: "2026-03-29T17:50:57.246Z"
+generated_at: "2026-03-29T18:04:13.294Z"
 ---
 
 # § 8992. Recomputation of retired pay to reflect advancement on retired list

@@ -5,7 +5,7 @@ usc_section: "425"
 chapter: 1
 current_through: "PL 113-100"
 classification: "6 U.S.C. § 425"
-generated_at: "2026-03-29T17:50:39.344Z"
+generated_at: "2026-03-29T18:03:43.260Z"
 ---
 
 # § 425. Application of certain commercial items authorities to certain procurements

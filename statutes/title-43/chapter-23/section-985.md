@@ -5,7 +5,7 @@ usc_section: "985"
 chapter: 23
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 985"
-generated_at: "2026-03-29T17:53:03.676Z"
+generated_at: "2026-03-29T18:06:28.318Z"
 ---
 
 # § 985. Omitted

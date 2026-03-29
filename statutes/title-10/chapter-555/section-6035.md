@@ -5,7 +5,7 @@ usc_section: "6035"
 chapter: 555
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 6035"
-generated_at: "2026-03-29T17:50:57.210Z"
+generated_at: "2026-03-29T18:04:13.256Z"
 ---
 
 # § 6035. Female members: congressional review period for assignment to duty on submarines or for reconfiguration of submarines

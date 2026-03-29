@@ -5,7 +5,7 @@ usc_section: "2641"
 chapter: 46
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 2641"
-generated_at: "2026-03-29T17:51:56.938Z"
+generated_at: "2026-03-29T18:05:07.008Z"
 ---
 
 # § 2641. Voluntary guidelines

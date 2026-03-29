@@ -5,7 +5,7 @@ usc_section: "44a"
 chapter: 2
 current_through: "PL 113-100"
 classification: "24 U.S.C. § 44a"
-generated_at: "2026-03-29T17:52:00.351Z"
+generated_at: "2026-03-29T18:05:10.882Z"
 ---
 
 # § 44a. Repealed. Pub. L. 94–454, § 2(b) , Oct. 2, 1976 , 90 Stat. 1518

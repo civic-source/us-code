@@ -5,7 +5,7 @@ usc_section: "644"
 chapter: 17
 current_through: "PL 113-100"
 classification: "14 U.S.C. § 644"
-generated_at: "2026-03-29T17:51:01.009Z"
+generated_at: "2026-03-29T18:04:21.493Z"
 ---
 
 # § 644. Payment for the apprehension of stragglers

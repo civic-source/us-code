@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-29T17:53:03.642Z"
+generated_at: "2026-03-29T18:06:28.285Z"
 ---
 
 # § 485h–1. Administration of repayment contracts and long-term contracts to furnish water; renewal and conversion; credit for payments; right to available water supply; rates; construction component

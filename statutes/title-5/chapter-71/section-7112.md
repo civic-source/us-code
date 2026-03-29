@@ -5,7 +5,7 @@ usc_section: "7112"
 chapter: 71
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 7112"
-generated_at: "2026-03-29T17:50:36.509Z"
+generated_at: "2026-03-29T18:03:29.910Z"
 ---
 
 # § 7112. Determination of appropriate units for labor organization representation

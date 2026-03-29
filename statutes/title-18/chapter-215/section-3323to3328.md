@@ -5,7 +5,7 @@ usc_section: "3323to3328"
 chapter: 215
 current_through: "PL 113-100"
 classification: "18 U.S.C. § 3323to3328"
-generated_at: "2026-03-29T17:53:15.729Z"
+generated_at: "2026-03-29T18:04:50.981Z"
 ---
 
 # [§§ 3323 to 3328. Repealed. Pub. L. 101–73, title IX, § 964(a) , Aug. 9, 1989 , 103 Stat. 505 ]

@@ -5,7 +5,7 @@ usc_section: "15532"
 chapter: 146
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15532"
-generated_at: "2026-03-29T17:53:35.948Z"
+generated_at: "2026-03-29T18:07:15.418Z"
 ---
 
 # § 15532. Transfer of functions

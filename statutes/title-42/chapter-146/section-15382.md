@@ -5,7 +5,7 @@ usc_section: "15382"
 chapter: 146
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15382"
-generated_at: "2026-03-29T17:53:35.942Z"
+generated_at: "2026-03-29T18:07:15.412Z"
 ---
 
 # § 15382. Study, report, and recommendations on best practices for facilitating military and overseas voting

@@ -5,7 +5,7 @@ usc_section: "3502"
 chapter: 35
 current_through: "PL 113-100"
 classification: "41 U.S.C. § 3502"
-generated_at: "2026-03-29T17:53:04.477Z"
+generated_at: "2026-03-29T18:06:34.761Z"
 ---
 
 # § 3502. Required cost or pricing data and certification

@@ -5,7 +5,7 @@ usc_section: "2562"
 chapter: 152
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2562"
-generated_at: "2026-03-29T17:50:57.140Z"
+generated_at: "2026-03-29T18:04:13.188Z"
 ---
 
 # § 2562. Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs

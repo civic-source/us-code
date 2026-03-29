@@ -5,7 +5,7 @@ usc_section: "14044"
 chapter: 136
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 14044"
-generated_at: "2026-03-29T17:53:35.890Z"
+generated_at: "2026-03-29T18:07:15.361Z"
 ---
 
 # § 14044. Prevention of domestic trafficking in persons

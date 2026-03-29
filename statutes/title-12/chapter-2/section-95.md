@@ -5,7 +5,7 @@ usc_section: "95"
 chapter: 2
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 95"
-generated_at: "2026-03-29T17:51:12.976Z"
+generated_at: "2026-03-29T18:04:43.379Z"
 ---
 
 # § 95. Emergency limitations and restrictions on business of members of Federal Reserve System; designation of legal holiday for national banking associations; exceptions; “State” defined

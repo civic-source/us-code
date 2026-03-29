@@ -5,7 +5,7 @@ usc_section: "2504"
 chapter: 38
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 2504"
-generated_at: "2026-03-29T17:52:45.992Z"
+generated_at: "2026-03-29T18:06:10.604Z"
 ---
 
 # § 2504. Guidance

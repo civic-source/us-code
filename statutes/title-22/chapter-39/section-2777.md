@@ -5,7 +5,7 @@ usc_section: "2777"
 chapter: 39
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 2777"
-generated_at: "2026-03-29T17:52:10.567Z"
+generated_at: "2026-03-29T18:05:21.892Z"
 ---
 
 # § 2777. Fiscal provisions relating to foreign military sales credits

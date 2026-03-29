@@ -5,7 +5,7 @@ usc_section: "1224"
 chapter: 31
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1224"
-generated_at: "2026-03-29T17:51:48.479Z"
+generated_at: "2026-03-29T18:05:00.195Z"
 ---
 
 # § 1224. Repealed. Pub. L. 93–380, title V, § 506(a)(1)(B) , Aug. 21, 1974 , 88 Stat. 562

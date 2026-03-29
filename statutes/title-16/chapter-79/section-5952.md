@@ -5,7 +5,7 @@ usc_section: "5952"
 chapter: 79
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 5952"
-generated_at: "2026-03-29T17:51:57.012Z"
+generated_at: "2026-03-29T18:05:07.086Z"
 ---
 
 # § 5952. Award of concessions contracts

@@ -5,7 +5,7 @@ usc_section: "283p"
 chapter: 7
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 283p"
-generated_at: "2026-03-29T17:52:10.407Z"
+generated_at: "2026-03-29T18:05:21.726Z"
 ---
 
 # § 283p. Authorization for payment of United States contribution to increase Fund for Special Operations; authorization of appropriations

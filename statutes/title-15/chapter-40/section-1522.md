@@ -5,7 +5,7 @@ usc_section: "1522"
 chapter: 40
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1522"
-generated_at: "2026-03-29T17:51:36.235Z"
+generated_at: "2026-03-29T18:04:29.563Z"
 ---
 
 # § 1522. Acceptance of gifts and bequests for purposes of the Department; separate fund; disbursements

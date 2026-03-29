@@ -5,7 +5,7 @@ usc_section: "2254"
 chapter: 55
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 2254"
-generated_at: "2026-03-29T17:50:48.726Z"
+generated_at: "2026-03-29T18:04:04.982Z"
 ---
 
 # § 2254. Operation, maintenance and purchase of aircraft by Agricultural Research Service; construction and repair of buildings

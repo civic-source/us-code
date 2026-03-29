@@ -5,7 +5,7 @@ usc_section: "1681t"
 chapter: 41
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1681t"
-generated_at: "2026-03-29T17:51:36.272Z"
+generated_at: "2026-03-29T18:04:29.638Z"
 ---
 
 # § 1681t. Relation to State laws

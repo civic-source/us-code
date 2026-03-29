@@ -5,7 +5,7 @@ usc_section: "901"
 chapter: 3
 current_through: "PL 113-100"
 classification: "6 U.S.C. § 901"
-generated_at: "2026-03-29T17:50:39.368Z"
+generated_at: "2026-03-29T18:03:43.286Z"
 ---
 
 # § 901. Definitions

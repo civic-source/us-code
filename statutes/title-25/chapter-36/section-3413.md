@@ -5,7 +5,7 @@ usc_section: "3413"
 chapter: 36
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 3413"
-generated_at: "2026-03-29T17:52:06.147Z"
+generated_at: "2026-03-29T18:05:17.244Z"
 ---
 
 # § 3413. Administration of funds and overage

@@ -5,7 +5,7 @@ usc_section: "5212"
 chapter: 52
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 5212"
-generated_at: "2026-03-29T17:51:13.263Z"
+generated_at: "2026-03-29T18:04:43.750Z"
 ---
 
 # § 5212. Insurance of troubled assets

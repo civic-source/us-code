@@ -5,7 +5,7 @@ usc_section: "52"
 chapter: 3
 current_through: "PL 113-100"
 classification: "8 U.S.C. § 52"
-generated_at: "2026-03-29T17:50:41.298Z"
+generated_at: "2026-03-29T18:03:34.012Z"
 ---
 
 # § 52. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948

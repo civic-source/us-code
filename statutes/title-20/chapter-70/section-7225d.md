@@ -5,7 +5,7 @@ usc_section: "7225d"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 7225d"
-generated_at: "2026-03-29T17:51:48.642Z"
+generated_at: "2026-03-29T18:05:00.358Z"
 ---
 
 # § 7225d. Requirements and voluntary participation

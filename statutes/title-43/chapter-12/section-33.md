@@ -5,7 +5,7 @@ usc_section: "33"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 33"
-generated_at: "2026-03-29T17:53:03.620Z"
+generated_at: "2026-03-29T18:06:28.269Z"
 ---
 
 # § 390h–33. Elsinore Valley Municipal Water District projects, California

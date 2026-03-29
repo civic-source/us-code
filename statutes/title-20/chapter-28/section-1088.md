@@ -5,7 +5,7 @@ usc_section: "1088"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1088"
-generated_at: "2026-03-29T17:51:48.414Z"
+generated_at: "2026-03-29T18:05:00.136Z"
 ---
 
 # § 1088. Definitions

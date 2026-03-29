@@ -5,7 +5,7 @@ usc_section: "30to34"
 chapter: 2
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 30to34"
-generated_at: "2026-03-29T17:51:48.281Z"
+generated_at: "2026-03-29T18:05:00.000Z"
 ---
 
 # §§ 30 to 34. Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16, 1968 , 82 Stat. 1091

@@ -5,7 +5,7 @@ usc_section: "9541"
 chapter: 933
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 9541"
-generated_at: "2026-03-29T17:50:57.254Z"
+generated_at: "2026-03-29T18:04:13.302Z"
 ---
 
 # [§ 9541. Repealed. Pub. L. 103–160, div. A, title VIII, § 822(d)(2) , Nov. 30, 1993 , 107 Stat. 1707 ]

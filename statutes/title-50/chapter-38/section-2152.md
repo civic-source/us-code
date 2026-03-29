@@ -5,7 +5,7 @@ usc_section: "2152"
 chapter: 38
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 2152"
-generated_at: "2026-03-29T17:53:51.001Z"
+generated_at: "2026-03-29T18:07:43.064Z"
 ---
 
 # § 2152. Special rules relating to section 2013 criteria employees

@@ -5,7 +5,7 @@ usc_section: "2109a"
 chapter: 41
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 2109a"
-generated_at: "2026-03-29T17:51:56.927Z"
+generated_at: "2026-03-29T18:05:06.996Z"
 ---
 
 # § 2109a. Competitive allocation of funds to State foresters or equivalent State officials

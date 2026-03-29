@@ -5,7 +5,7 @@ usc_section: "7273"
 chapter: 3
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 7273"
-generated_at: "2026-03-29T17:50:48.446Z"
+generated_at: "2026-03-29T18:04:04.712Z"
 ---
 
 # §§ 72, 73. Omitted

@@ -5,7 +5,7 @@ usc_section: "2670"
 chapter: 53
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 2670"
-generated_at: "2026-03-29T17:51:36.332Z"
+generated_at: "2026-03-29T18:04:29.871Z"
 ---
 
 # § 2670. Regulations

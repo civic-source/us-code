@@ -5,7 +5,7 @@ usc_section: "308g"
 chapter: 5
 current_through: "PL 113-100"
 classification: "37 U.S.C. § 308g"
-generated_at: "2026-03-29T17:52:59.083Z"
+generated_at: "2026-03-29T18:06:17.212Z"
 ---
 
 # § 308g. Special pay: bonus for enlistment in elements of the Ready Reserve other than the Selected Reserve

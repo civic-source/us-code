@@ -5,7 +5,7 @@ usc_section: "3037"
 chapter: 305
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 3037"
-generated_at: "2026-03-29T17:50:57.180Z"
+generated_at: "2026-03-29T18:04:13.227Z"
 ---
 
 # § 3037. Judge Advocate General, Deputy Judge Advocate General, and general officers of Judge Advocate General’s Corps: appointment; duties

@@ -5,7 +5,7 @@ usc_section: "3058g"
 chapter: 35
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 3058g"
-generated_at: "2026-03-29T17:53:35.158Z"
+generated_at: "2026-03-29T18:07:14.499Z"
 ---
 
 # § 3058g. State Long-Term Care Ombudsman program

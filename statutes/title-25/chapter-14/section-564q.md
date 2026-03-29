@@ -5,7 +5,7 @@ usc_section: "564q"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 564q"
-generated_at: "2026-03-29T17:52:05.995Z"
+generated_at: "2026-03-29T18:05:17.071Z"
 ---
 
 # § 564q. Termination of Federal trust

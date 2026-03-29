@@ -5,7 +5,7 @@ usc_section: "10601"
 chapter: 112
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 10601"
-generated_at: "2026-03-29T17:53:35.708Z"
+generated_at: "2026-03-29T18:07:15.154Z"
 ---
 
 # § 10601. Crime Victims Fund

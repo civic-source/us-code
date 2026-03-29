@@ -5,7 +5,7 @@ usc_section: "6671to6677"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 6671to6677"
-generated_at: "2026-03-29T17:51:48.615Z"
+generated_at: "2026-03-29T18:05:00.331Z"
 ---
 
 # §§ 6671 to 6677. Repealed. Pub. L. 112–239, div. A, title V, § 541(d)(1) , Jan. 2, 2013 , 126 Stat. 1735

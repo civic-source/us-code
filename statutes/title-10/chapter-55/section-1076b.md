@@ -5,7 +5,7 @@ usc_section: "1076b"
 chapter: 55
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1076b"
-generated_at: "2026-03-29T17:50:57.008Z"
+generated_at: "2026-03-29T18:04:13.048Z"
 ---
 
 # [§ 1076b. Repealed. Pub. L. 109–364, div. A, title VII, § 706(d) , Oct. 17, 2006 , 120 Stat. 2282 ]

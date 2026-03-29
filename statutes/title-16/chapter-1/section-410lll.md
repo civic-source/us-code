@@ -5,7 +5,7 @@ usc_section: "410lll"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 410lll"
-generated_at: "2026-03-29T17:51:56.547Z"
+generated_at: "2026-03-29T18:05:06.583Z"
 ---
 
 # § 410lll. Paterson Great Falls National Historical Park, New Jersey

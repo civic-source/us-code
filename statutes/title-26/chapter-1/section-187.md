@@ -5,7 +5,7 @@ usc_section: "187"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 187"
-generated_at: "2026-03-29T17:52:39.165Z"
+generated_at: "2026-03-29T18:05:44.534Z"
 ---
 
 # [§ 187. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(31) , Oct. 4, 1976 , 90 Stat. 1769 ]

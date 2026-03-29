@@ -5,7 +5,7 @@ usc_section: "5178"
 chapter: 68
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5178"
-generated_at: "2026-03-29T17:53:35.299Z"
+generated_at: "2026-03-29T18:07:14.658Z"
 ---
 
 # § 5178. Repealed. Pub. L. 106–390, title II, § 206(c) , Oct. 30, 2000 , 114 Stat. 1571

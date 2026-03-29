@@ -5,7 +5,7 @@ usc_section: "638"
 chapter: 17
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 638"
-generated_at: "2026-03-29T17:50:24.046Z"
+generated_at: "2026-03-29T18:03:21.758Z"
 ---
 
 # § 638. House committee action on all appropriation bills to be completed by June 10

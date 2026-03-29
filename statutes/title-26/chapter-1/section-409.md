@@ -5,7 +5,7 @@ usc_section: "409"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 409"
-generated_at: "2026-03-29T17:52:39.216Z"
+generated_at: "2026-03-29T18:05:44.594Z"
 ---
 
 # § 409. Qualifications for tax credit employee stock ownership plans

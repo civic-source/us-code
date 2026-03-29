@@ -5,7 +5,7 @@ usc_section: "17"
 chapter: 21
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 17"
-generated_at: "2026-03-29T17:53:35.054Z"
+generated_at: "2026-03-29T18:07:14.377Z"
 ---
 
 # § 2000e–17. Procedure for denial, withholding, termination, or suspension of Government contract subsequent to acceptance by Government of affirmative action plan of employer; time of acceptance of plan

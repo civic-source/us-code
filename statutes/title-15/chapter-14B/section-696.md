@@ -5,7 +5,7 @@ usc_section: "696"
 chapter: 14
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 696"
-generated_at: "2026-03-29T17:51:36.181Z"
+generated_at: "2026-03-29T18:04:29.499Z"
 ---
 
 # § 696. Loans for plant acquisition, construction, conversion and expansion

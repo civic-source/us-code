@@ -5,7 +5,7 @@ usc_section: "202"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 202"
-generated_at: "2026-03-29T17:51:56.470Z"
+generated_at: "2026-03-29T18:05:06.413Z"
 ---
 
 # § 202. Control; rules and regulations; fish and game; leases; automobiles; stock grazing

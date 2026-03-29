@@ -5,7 +5,7 @@ usc_section: "2282b"
 chapter: 23
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 2282b"
-generated_at: "2026-03-29T17:53:35.100Z"
+generated_at: "2026-03-29T18:07:14.435Z"
 ---
 
 # § 2282b. Civil monetary penalties for violations of Department of Energy regulations regarding security of classified or sensitive information or data

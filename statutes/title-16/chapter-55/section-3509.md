@@ -5,7 +5,7 @@ usc_section: "3509"
 chapter: 55
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 3509"
-generated_at: "2026-03-29T17:51:56.958Z"
+generated_at: "2026-03-29T18:05:07.035Z"
 ---
 
 # § 3509. Repealed. Pub. L. 106–514, § 4(a)(3) , Nov. 13, 2000 , 114 Stat. 2396

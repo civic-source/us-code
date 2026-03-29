@@ -5,7 +5,7 @@ usc_section: "6516"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 6516"
-generated_at: "2026-03-29T17:51:48.607Z"
+generated_at: "2026-03-29T18:05:00.323Z"
 ---
 
 # § 6516. Local use of funds

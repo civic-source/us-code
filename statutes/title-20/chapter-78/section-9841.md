@@ -5,7 +5,7 @@ usc_section: "9841"
 chapter: 78
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 9841"
-generated_at: "2026-03-29T17:51:48.710Z"
+generated_at: "2026-03-29T18:05:00.433Z"
 ---
 
 # § 9841. Repealed. Pub. L. 111–358, title X, § 1002(a)(2) , Jan. 4, 2011 , 124 Stat. 4048

@@ -5,7 +5,7 @@ usc_section: "1867"
 chapter: 16
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1867"
-generated_at: "2026-03-29T17:53:35.015Z"
+generated_at: "2026-03-29T18:07:14.339Z"
 ---
 
 # § 1867. Repealed. Pub. L. 90–407, § 4 , July 18, 1968 , 82 Stat. 363

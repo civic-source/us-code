@@ -5,7 +5,7 @@ usc_section: "744"
 chapter: 43
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 744"
-generated_at: "2026-03-29T17:50:56.968Z"
+generated_at: "2026-03-29T18:04:13.008Z"
 ---
 
 # § 744. Physician to White House: assignment; grade

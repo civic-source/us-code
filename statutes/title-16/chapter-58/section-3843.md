@@ -5,7 +5,7 @@ usc_section: "3843"
 chapter: 58
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 3843"
-generated_at: "2026-03-29T17:51:56.980Z"
+generated_at: "2026-03-29T18:05:07.056Z"
 ---
 
 # § 3843. Cooperative conservation partnership initiative

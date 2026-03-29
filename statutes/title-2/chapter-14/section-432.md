@@ -5,7 +5,7 @@ usc_section: "432"
 chapter: 14
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 432"
-generated_at: "2026-03-29T17:50:24.028Z"
+generated_at: "2026-03-29T18:03:21.737Z"
 ---
 
 # § 432. Organization of political committees

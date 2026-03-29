@@ -5,7 +5,7 @@ usc_section: "278a"
 chapter: 7
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 278a"
-generated_at: "2026-03-29T17:52:10.404Z"
+generated_at: "2026-03-29T18:05:21.724Z"
 ---
 
 # § 278a. Annual report to Congress; examination of books and accounts

@@ -5,7 +5,7 @@ usc_section: "592"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 592"
-generated_at: "2026-03-29T17:52:05.999Z"
+generated_at: "2026-03-29T18:05:17.075Z"
 ---
 
 # § 592. Withdrawal of tribal funds to reimburse United States; consent of Minnesota Chippewa Tribe; disposition of receipts

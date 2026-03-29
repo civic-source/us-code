@@ -5,7 +5,7 @@ usc_section: "4a"
 chapter: 2
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 4a"
-generated_at: "2026-03-29T17:51:36.110Z"
+generated_at: "2026-03-29T18:04:29.408Z"
 ---
 
 # § 80b–4a. Prevention of misuse of nonpublic information

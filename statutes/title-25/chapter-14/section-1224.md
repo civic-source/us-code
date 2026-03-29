@@ -5,7 +5,7 @@ usc_section: "1224"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 1224"
-generated_at: "2026-03-29T17:52:06.040Z"
+generated_at: "2026-03-29T18:05:17.124Z"
 ---
 
 # § 1224. Subsequent judgment funds; distribution; preparation of current membership roll

@@ -5,7 +5,7 @@ usc_section: "762"
 chapter: 18
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 762"
-generated_at: "2026-03-29T17:53:03.662Z"
+generated_at: "2026-03-29T18:06:28.305Z"
 ---
 
 # § 762. Deposits made by settlers for surveys to go in part payment of lands

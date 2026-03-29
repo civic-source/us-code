@@ -5,7 +5,7 @@ usc_section: "89a"
 chapter: 4
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 89a"
-generated_at: "2026-03-29T17:50:23.994Z"
+generated_at: "2026-03-29T18:03:21.705Z"
 ---
 
 # § 89a. Transferred

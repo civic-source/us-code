@@ -5,7 +5,7 @@ usc_section: "50"
 chapter: 2
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 50"
-generated_at: "2026-03-29T17:51:35.979Z"
+generated_at: "2026-03-29T18:04:29.289Z"
 ---
 
 # § 50. Offenses and penalties

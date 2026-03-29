@@ -5,7 +5,7 @@ usc_section: "8131"
 chapter: 81
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 8131"
-generated_at: "2026-03-29T17:52:53.864Z"
+generated_at: "2026-03-29T18:06:22.868Z"
 ---
 
 # § 8131. Definitions

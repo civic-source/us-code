@@ -5,7 +5,7 @@ usc_section: "472a"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 472a"
-generated_at: "2026-03-29T17:52:05.988Z"
+generated_at: "2026-03-29T18:05:17.065Z"
 ---
 
 # § 472a. Indian preference laws applicable to Bureau of Indian Affairs and Indian Health Service positions

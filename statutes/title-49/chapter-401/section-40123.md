@@ -5,7 +5,7 @@ usc_section: "40123"
 chapter: 401
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 40123"
-generated_at: "2026-03-29T17:53:48.075Z"
+generated_at: "2026-03-29T18:07:51.482Z"
 ---
 
 # § 40123. Protection of voluntarily submitted information

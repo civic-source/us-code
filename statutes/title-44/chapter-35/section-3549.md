@@ -5,7 +5,7 @@ usc_section: "3549"
 chapter: 35
 current_through: "PL 113-100"
 classification: "44 U.S.C. § 3549"
-generated_at: "2026-03-29T17:53:10.516Z"
+generated_at: "2026-03-29T18:06:33.631Z"
 ---
 
 # § 3549. Effect on existing law

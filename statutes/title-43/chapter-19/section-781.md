@@ -5,7 +5,7 @@ usc_section: "781"
 chapter: 19
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 781"
-generated_at: "2026-03-29T17:53:03.663Z"
+generated_at: "2026-03-29T18:06:28.305Z"
 ---
 
 # § 781. Repealed. June 29, 1936, ch. 867 , title III, § 303, 49 Stat. 2033

@@ -5,7 +5,7 @@ usc_section: "359"
 chapter: 7
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 359"
-generated_at: "2026-03-29T17:52:16.715Z"
+generated_at: "2026-03-29T18:05:26.153Z"
 ---
 
 # § 359. Rules and regulations

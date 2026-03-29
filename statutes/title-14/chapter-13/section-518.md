@@ -5,7 +5,7 @@ usc_section: "518"
 chapter: 13
 current_through: "PL 113-100"
 classification: "14 U.S.C. § 518"
-generated_at: "2026-03-29T17:51:01.004Z"
+generated_at: "2026-03-29T18:04:21.489Z"
 ---
 
 # § 518. Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States

@@ -5,7 +5,7 @@ usc_section: "6232"
 chapter: 77
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 6232"
-generated_at: "2026-03-29T17:53:35.357Z"
+generated_at: "2026-03-29T18:07:14.731Z"
 ---
 
 # § 6232. Definitions

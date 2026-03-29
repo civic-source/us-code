@@ -5,7 +5,7 @@ usc_section: "1393"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 1393"
-generated_at: "2026-03-29T17:52:39.378Z"
+generated_at: "2026-03-29T18:05:44.811Z"
 ---
 
 # § 1393. Definitions and special rules

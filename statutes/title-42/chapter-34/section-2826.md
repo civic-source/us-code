@@ -5,7 +5,7 @@ usc_section: "2826"
 chapter: 34
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 2826"
-generated_at: "2026-03-29T17:53:35.122Z"
+generated_at: "2026-03-29T18:07:14.461Z"
 ---
 
 # § 2826. Repealed. Pub. L. 92–424, § 27(b)(1) , Sept. 19, 1972 , 86 Stat. 705

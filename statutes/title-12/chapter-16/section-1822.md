@@ -5,7 +5,7 @@ usc_section: "1822"
 chapter: 16
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 1822"
-generated_at: "2026-03-29T17:51:13.126Z"
+generated_at: "2026-03-29T18:04:43.577Z"
 ---
 
 # § 1822. Corporation as receiver

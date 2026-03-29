@@ -5,7 +5,7 @@ usc_section: "6906"
 chapter: 95
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 6906"
-generated_at: "2026-03-29T17:51:36.406Z"
+generated_at: "2026-03-29T18:04:29.954Z"
 ---
 
 # § 6906. Matching requirements

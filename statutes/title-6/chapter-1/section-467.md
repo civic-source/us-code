@@ -5,7 +5,7 @@ usc_section: "467"
 chapter: 1
 current_through: "PL 113-100"
 classification: "6 U.S.C. § 467"
-generated_at: "2026-03-29T17:50:39.347Z"
+generated_at: "2026-03-29T18:03:43.264Z"
 ---
 
 # § 467. Coordination with the Department of Health and Human Services under the Public Health Service Act

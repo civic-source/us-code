@@ -5,7 +5,7 @@ usc_section: "18"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 18"
-generated_at: "2026-03-29T17:53:03.619Z"
+generated_at: "2026-03-29T18:06:28.268Z"
 ---
 
 # § 390h–18. Irvine basin groundwater and surface water improvement projects

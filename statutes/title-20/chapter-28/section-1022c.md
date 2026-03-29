@@ -5,7 +5,7 @@ usc_section: "1022c"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1022c"
-generated_at: "2026-03-29T17:51:48.326Z"
+generated_at: "2026-03-29T18:05:00.053Z"
 ---
 
 # § 1022c. Accountability and evaluation

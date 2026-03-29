@@ -5,7 +5,7 @@ usc_section: "1706"
 chapter: 5
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 1706"
-generated_at: "2026-03-29T17:51:51.259Z"
+generated_at: "2026-03-29T18:04:55.060Z"
 ---
 
 # § 1706. Importation in vessels under thirty tons and aircraft; licenses; labels as prima facie evidence of foreign origin of merchandise

@@ -5,7 +5,7 @@ usc_section: "2634"
 chapter: 157
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2634"
-generated_at: "2026-03-29T17:50:57.145Z"
+generated_at: "2026-03-29T18:04:13.193Z"
 ---
 
 # § 2634. Motor vehicles: transportation or storage for members on change of permanent station or extended deployment

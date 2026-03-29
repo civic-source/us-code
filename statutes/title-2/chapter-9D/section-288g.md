@@ -5,7 +5,7 @@ usc_section: "288g"
 chapter: 9
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 288g"
-generated_at: "2026-03-29T17:50:24.022Z"
+generated_at: "2026-03-29T18:03:21.730Z"
 ---
 
 # § 288g. Advisory and other functions

@@ -5,7 +5,7 @@ usc_section: "1921a"
 chapter: 29
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 1921a"
-generated_at: "2026-03-29T17:50:24.094Z"
+generated_at: "2026-03-29T18:03:21.810Z"
 ---
 
 # § 1921a. Sole and exclusive authority of Board and Chief to determine rates of pay

@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T17:53:34.872Z"
+generated_at: "2026-03-29T18:07:14.188Z"
 ---
 
 # § 1397m–1. Adult protective services functions and grant programs

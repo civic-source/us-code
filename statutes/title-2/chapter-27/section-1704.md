@@ -5,7 +5,7 @@ usc_section: "1704"
 chapter: 27
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 1704"
-generated_at: "2026-03-29T17:50:24.085Z"
+generated_at: "2026-03-29T18:03:21.800Z"
 ---
 
 # § 1704. National Recording Registry Collection of the Library of Congress

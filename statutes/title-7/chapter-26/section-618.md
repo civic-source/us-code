@@ -5,7 +5,7 @@ usc_section: "618"
 chapter: 26
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 618"
-generated_at: "2026-03-29T17:50:48.540Z"
+generated_at: "2026-03-29T18:04:04.793Z"
 ---
 
 # § 618. Existing contracts; imposition of tax on vendee; collection

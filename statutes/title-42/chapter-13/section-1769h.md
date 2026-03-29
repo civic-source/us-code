@@ -5,7 +5,7 @@ usc_section: "1769h"
 chapter: 13
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1769h"
-generated_at: "2026-03-29T17:53:34.982Z"
+generated_at: "2026-03-29T18:07:14.310Z"
 ---
 
 # § 1769h. Repealed. Pub. L. 111–296, title IV, § 441(a)(14) , Dec. 13, 2010 , 124 Stat. 3264

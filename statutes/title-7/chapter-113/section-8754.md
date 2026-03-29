@@ -5,7 +5,7 @@ usc_section: "8754"
 chapter: 113
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 8754"
-generated_at: "2026-03-29T17:50:48.906Z"
+generated_at: "2026-03-29T18:04:05.176Z"
 ---
 
 # § 8754. Repealed. Pub. L. 113–79, title I, § 1102(a) , Feb. 7, 2014 , 128 Stat. 658

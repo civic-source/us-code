@@ -5,7 +5,7 @@ usc_section: "3075"
 chapter: 43
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 3075"
-generated_at: "2026-03-29T17:52:46.004Z"
+generated_at: "2026-03-29T18:06:10.620Z"
 ---
 
 # § 3075. Authority to use appropriated funds for transportation and reimbursement of certain items

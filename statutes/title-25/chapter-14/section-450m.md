@@ -5,7 +5,7 @@ usc_section: "450m"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 450m"
-generated_at: "2026-03-29T17:52:05.975Z"
+generated_at: "2026-03-29T18:05:17.056Z"
 ---
 
 # § 450m. Rescission of contract or grant and assumption of control of program, etc.; authority; grounds; procedure; correction of violation as prerequisite to new contract or grant agreement; construction with occupational safety and health requirements

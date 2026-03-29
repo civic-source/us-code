@@ -5,7 +5,7 @@ usc_section: "1293"
 chapter: 32
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1293"
-generated_at: "2026-03-29T17:51:36.226Z"
+generated_at: "2026-03-29T18:04:29.550Z"
 ---
 
 # § 1293. Intercollegiate and interscholastic football contest limitations

@@ -5,7 +5,7 @@ usc_section: "19"
 chapter: 13
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 19"
-generated_at: "2026-03-29T17:51:13.083Z"
+generated_at: "2026-03-29T18:04:43.519Z"
 ---
 
 # § 1735f–19. Partial payment of claims on defaulted mortgages and in connection with mortgage restructuring

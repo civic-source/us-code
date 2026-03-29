@@ -5,7 +5,7 @@ usc_section: "4308"
 chapter: 44
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 4308"
-generated_at: "2026-03-29T17:51:13.224Z"
+generated_at: "2026-03-29T18:04:43.705Z"
 ---
 
 # § 4308. Regulations

@@ -5,7 +5,7 @@ usc_section: "1616r"
 chapter: 18
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 1616r"
-generated_at: "2026-03-29T17:52:06.062Z"
+generated_at: "2026-03-29T18:05:17.148Z"
 ---
 
 # § 1616r. Repealed. Pub. L. 111–148, title X, § 10221(b)(2) , Mar. 23, 2010 , 124 Stat. 936

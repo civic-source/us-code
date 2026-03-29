@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 35
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T17:53:35.141Z"
+generated_at: "2026-03-29T18:07:14.482Z"
 ---
 
 # § 3030c–3. Waivers

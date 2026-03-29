@@ -5,7 +5,7 @@ usc_section: "5128"
 chapter: 51
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 5128"
-generated_at: "2026-03-29T17:50:24.122Z"
+generated_at: "2026-03-29T18:03:21.845Z"
 ---
 
 # § 5128. Staff assistance to former Speaker for administration, etc., of matters pertaining to incumbency in office as Representative and Speaker; compensation and status of staff

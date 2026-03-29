@@ -5,7 +5,7 @@ usc_section: "1973gg"
 chapter: 20
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1973gg"
-generated_at: "2026-03-29T17:53:35.037Z"
+generated_at: "2026-03-29T18:07:14.360Z"
 ---
 
 # § 1973gg. Findings and purposes

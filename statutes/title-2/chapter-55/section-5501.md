@@ -5,7 +5,7 @@ usc_section: "5501"
 chapter: 55
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 5501"
-generated_at: "2026-03-29T17:50:24.125Z"
+generated_at: "2026-03-29T18:03:21.848Z"
 ---
 
 # § 5501. Temporary appointments in case of vacancies or incapacity of House officers; compensation

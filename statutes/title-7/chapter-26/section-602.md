@@ -5,7 +5,7 @@ usc_section: "602"
 chapter: 26
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 602"
-generated_at: "2026-03-29T17:50:48.530Z"
+generated_at: "2026-03-29T18:04:04.784Z"
 ---
 
 # § 602. Declaration of policy; establishment of price basing period; marketing standards; orderly supply flow; circumstances for continued regulation

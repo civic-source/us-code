@@ -5,7 +5,7 @@ usc_section: "1445a"
 chapter: 35
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1445a"
-generated_at: "2026-03-29T17:50:48.588Z"
+generated_at: "2026-03-29T18:04:04.843Z"
 ---
 
 # § 1445a. Wheat price support levels; “cooperator” defined

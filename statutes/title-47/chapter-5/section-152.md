@@ -5,7 +5,7 @@ usc_section: "152"
 chapter: 5
 current_through: "PL 113-100"
 classification: "47 U.S.C. § 152"
-generated_at: "2026-03-29T17:53:43.597Z"
+generated_at: "2026-03-29T18:07:40.797Z"
 ---
 
 # § 152. Application of chapter

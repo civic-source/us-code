@@ -5,7 +5,7 @@ usc_section: "2806"
 chapter: 40
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 2806"
-generated_at: "2026-03-29T17:52:10.576Z"
+generated_at: "2026-03-29T18:05:21.899Z"
 ---
 
 # § 2806. Other provisions unaffected

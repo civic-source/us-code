@@ -5,7 +5,7 @@ usc_section: "695l"
 chapter: 6
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 695l"
-generated_at: "2026-03-29T17:51:56.750Z"
+generated_at: "2026-03-29T18:05:06.802Z"
 ---
 
 # § 695l. Dedication of lands within boundaries of refuges to wildlife conservation; administration of lands for waterfowl management and optimum agricultural use; homestead entry prohibition; inclusion of other public lands; property of the United States

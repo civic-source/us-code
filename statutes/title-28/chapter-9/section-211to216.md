@@ -5,7 +5,7 @@ usc_section: "211to216"
 chapter: 9
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 211to216"
-generated_at: "2026-03-29T17:52:24.179Z"
+generated_at: "2026-03-29T18:06:03.325Z"
 ---
 
 # [§§ 211 to 216. Repealed. Pub. L. 97–164, title I, § 106 , Apr. 2, 1982 , 96 Stat. 28 ]

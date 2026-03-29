@@ -5,7 +5,7 @@ usc_section: "4327"
 chapter: 43
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 4327"
-generated_at: "2026-03-29T17:52:53.796Z"
+generated_at: "2026-03-29T18:06:22.823Z"
 ---
 
 # § 4327. Noncompliance of Federal officials with deadlines; inapplicability of statutes of limitations

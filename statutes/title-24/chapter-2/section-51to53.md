@@ -5,7 +5,7 @@ usc_section: "51to53"
 chapter: 2
 current_through: "PL 113-100"
 classification: "24 U.S.C. § 51to53"
-generated_at: "2026-03-29T17:52:00.351Z"
+generated_at: "2026-03-29T18:05:10.882Z"
 ---
 
 # §§ 51 to 53. Repealed. Pub. L. 101–189, div. A, title III, § 347(1) , (2), Nov. 29, 1989 , 103 Stat. 1422

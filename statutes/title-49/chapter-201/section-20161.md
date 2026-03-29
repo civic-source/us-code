@@ -5,7 +5,7 @@ usc_section: "20161"
 chapter: 201
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 20161"
-generated_at: "2026-03-29T17:53:48.019Z"
+generated_at: "2026-03-29T18:07:51.411Z"
 ---
 
 # § 20161. Fostering introduction of new technology to improve safety at highway-rail grade crossings

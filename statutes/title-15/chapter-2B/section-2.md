@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 2
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-29T17:51:36.077Z"
+generated_at: "2026-03-29T18:04:29.378Z"
 ---
 
 # § 78dd–2. Prohibited foreign trade practices by domestic concerns

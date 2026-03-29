@@ -5,7 +5,7 @@ usc_section: "1779g"
 chapter: 19
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 1779g"
-generated_at: "2026-03-29T17:52:06.100Z"
+generated_at: "2026-03-29T18:05:17.190Z"
 ---
 
 # § 1779g. Effect on claims

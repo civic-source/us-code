@@ -5,7 +5,7 @@ usc_section: "1610"
 chapter: 36
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1610"
-generated_at: "2026-03-29T17:51:56.895Z"
+generated_at: "2026-03-29T18:05:06.961Z"
 ---
 
 # § 1610. Implementation of provisions by Secretary of Agriculture; utilization of information and data of other organizations; avoidance of duplication of planning, etc.; “renewable resources” defined

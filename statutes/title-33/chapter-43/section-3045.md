@@ -5,7 +5,7 @@ usc_section: "3045"
 chapter: 43
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 3045"
-generated_at: "2026-03-29T17:52:46.003Z"
+generated_at: "2026-03-29T18:06:10.620Z"
 ---
 
 # § 3045. Computation of retired pay

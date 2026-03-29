@@ -5,7 +5,7 @@ usc_section: "3911"
 chapter: 40
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 3911"
-generated_at: "2026-03-29T17:51:13.212Z"
+generated_at: "2026-03-29T18:04:43.692Z"
 ---
 
 # § 3911. Equal representation for Federal Deposit Insurance Corporation and the Office of Thrift Supervision

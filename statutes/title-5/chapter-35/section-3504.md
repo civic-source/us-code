@@ -5,7 +5,7 @@ usc_section: "3504"
 chapter: 35
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 3504"
-generated_at: "2026-03-29T17:50:36.461Z"
+generated_at: "2026-03-29T18:03:29.857Z"
 ---
 
 # § 3504. Preference eligibles; retention; physical qualifications; waiver

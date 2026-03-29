@@ -5,7 +5,7 @@ usc_section: "6961"
 chapter: 98
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 6961"
-generated_at: "2026-03-29T17:50:48.832Z"
+generated_at: "2026-03-29T18:04:05.094Z"
 ---
 
 # § 6961. Under Secretary of Agriculture for Natural Resources and Environment

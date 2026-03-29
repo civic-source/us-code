@@ -5,7 +5,7 @@ usc_section: "13a"
 chapter: 1
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 13a"
-generated_at: "2026-03-29T17:51:35.966Z"
+generated_at: "2026-03-29T18:04:29.280Z"
 ---
 
 # § 13a. Discrimination in rebates, discounts, or advertising service charges; underselling in particular localities; penalties

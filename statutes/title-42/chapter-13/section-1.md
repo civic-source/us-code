@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 13
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T17:53:34.978Z"
+generated_at: "2026-03-29T18:07:14.306Z"
 ---
 
 # § 1769b–1. Training, technical assistance, and food service management institute

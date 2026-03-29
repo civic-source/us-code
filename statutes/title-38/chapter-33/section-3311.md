@@ -5,7 +5,7 @@ usc_section: "3311"
 chapter: 33
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 3311"
-generated_at: "2026-03-29T17:52:53.746Z"
+generated_at: "2026-03-29T18:06:22.791Z"
 ---
 
 # § 3311. Educational assistance for service in the Armed Forces commencing on or after September 11, 2001 : entitlement

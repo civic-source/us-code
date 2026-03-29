@@ -5,7 +5,7 @@ usc_section: "601to605"
 chapter: 13
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 601to605"
-generated_at: "2026-03-29T17:52:18.766Z"
+generated_at: "2026-03-29T18:05:31.686Z"
 ---
 
 # §§ 601 to 605. Repealed. Pub. L. 97–306, title III, § 311 , Oct. 14, 1982 , 96 Stat. 1442

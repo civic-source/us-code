@@ -5,7 +5,7 @@ usc_section: "2475"
 chapter: 146
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2475"
-generated_at: "2026-03-29T17:50:57.130Z"
+generated_at: "2026-03-29T18:04:13.177Z"
 ---
 
 # § 2475. Consolidation, restructuring, or reengineering of organizations, functions, or activities: notification requirements

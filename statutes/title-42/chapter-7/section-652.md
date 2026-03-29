@@ -5,7 +5,7 @@ usc_section: "652"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 652"
-generated_at: "2026-03-29T17:53:34.486Z"
+generated_at: "2026-03-29T18:07:13.738Z"
 ---
 
 # § 652. Duties of Secretary

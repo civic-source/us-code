@@ -5,7 +5,7 @@ usc_section: "6485"
 chapter: 575
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 6485"
-generated_at: "2026-03-29T17:50:57.217Z"
+generated_at: "2026-03-29T18:04:13.263Z"
 ---
 
 # § 6485. Members of the Fleet Reserve and Fleet Marine Corps Reserve: authority to recall

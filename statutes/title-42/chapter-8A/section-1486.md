@@ -5,7 +5,7 @@ usc_section: "1486"
 chapter: 8
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1486"
-generated_at: "2026-03-29T17:53:34.933Z"
+generated_at: "2026-03-29T18:07:14.259Z"
 ---
 
 # § 1486. Financial assistance to provide low-rent housing for domestic farm labor

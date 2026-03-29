@@ -5,7 +5,7 @@ usc_section: "4746"
 chapter: 47
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 4746"
-generated_at: "2026-03-29T17:51:13.253Z"
+generated_at: "2026-03-29T18:04:43.740Z"
 ---
 
 # § 4746. Reports

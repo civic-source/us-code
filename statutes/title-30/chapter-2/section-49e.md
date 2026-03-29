@@ -5,7 +5,7 @@ usc_section: "49e"
 chapter: 2
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 49e"
-generated_at: "2026-03-29T17:52:16.699Z"
+generated_at: "2026-03-29T18:05:26.135Z"
 ---
 
 # § 49e. Annual labor or improvements on Alaskan mining claims; affidavits; burden of proof; forfeitures; location anew of claims; perjury

@@ -5,7 +5,7 @@ usc_section: "2918"
 chapter: 173
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2918"
-generated_at: "2026-03-29T17:50:57.177Z"
+generated_at: "2026-03-29T18:04:13.224Z"
 ---
 
 # § 2918. Fuel sources for heating systems; prohibition on converting certain heating facilities

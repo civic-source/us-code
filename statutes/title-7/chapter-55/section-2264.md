@@ -5,7 +5,7 @@ usc_section: "2264"
 chapter: 55
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 2264"
-generated_at: "2026-03-29T17:50:48.726Z"
+generated_at: "2026-03-29T18:04:04.983Z"
 ---
 
 # § 2264. National Agricultural Library; acceptance of gifts, bequests, or devises; conditional gifts

@@ -5,7 +5,7 @@ usc_section: "3622"
 chapter: 22
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 3622"
-generated_at: "2026-03-29T17:51:51.339Z"
+generated_at: "2026-03-29T18:04:55.150Z"
 ---
 
 # § 3622. Repealed. Pub. L. 105–362, title XIV, § 1401(c) , Nov. 10, 1998 , 112 Stat. 3294

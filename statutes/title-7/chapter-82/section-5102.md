@@ -5,7 +5,7 @@ usc_section: "5102"
 chapter: 82
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 5102"
-generated_at: "2026-03-29T17:50:48.784Z"
+generated_at: "2026-03-29T18:04:05.045Z"
 ---
 
 # § 5102. Matching grants to States

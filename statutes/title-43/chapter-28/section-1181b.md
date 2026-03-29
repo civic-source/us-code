@@ -5,7 +5,7 @@ usc_section: "1181b"
 chapter: 28
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1181b"
-generated_at: "2026-03-29T17:53:03.679Z"
+generated_at: "2026-03-29T18:06:28.322Z"
 ---
 
 # § 1181b. Cooperative agreements with other agencies or private owners for coordinated administration

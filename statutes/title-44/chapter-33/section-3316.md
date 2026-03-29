@@ -5,7 +5,7 @@ usc_section: "3316"
 chapter: 33
 current_through: "PL 113-100"
 classification: "44 U.S.C. § 3316"
-generated_at: "2026-03-29T17:53:10.508Z"
+generated_at: "2026-03-29T18:06:33.625Z"
 ---
 
 # § 3316. Establishment of Commission

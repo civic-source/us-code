@@ -5,7 +5,7 @@ usc_section: "1181j"
 chapter: 28
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1181j"
-generated_at: "2026-03-29T17:53:03.680Z"
+generated_at: "2026-03-29T18:06:28.323Z"
 ---
 
 # § 1181j. Appropriations to carry out sections 1181h and 1181i

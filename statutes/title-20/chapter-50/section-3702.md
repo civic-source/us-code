@@ -5,7 +5,7 @@ usc_section: "3702"
 chapter: 50
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 3702"
-generated_at: "2026-03-29T17:51:48.550Z"
+generated_at: "2026-03-29T18:05:00.262Z"
 ---
 
 # § 3702. Organization of Commission

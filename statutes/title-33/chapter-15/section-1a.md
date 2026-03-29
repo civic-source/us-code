@@ -5,7 +5,7 @@ usc_section: "1a"
 chapter: 15
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 1a"
-generated_at: "2026-03-29T17:52:45.912Z"
+generated_at: "2026-03-29T18:06:10.502Z"
 ---
 
 # § 702a–1a. Further modification of 1927 project; adoption; appropriation

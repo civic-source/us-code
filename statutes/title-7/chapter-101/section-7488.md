@@ -5,7 +5,7 @@ usc_section: "7488"
 chapter: 101
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 7488"
-generated_at: "2026-03-29T17:50:48.860Z"
+generated_at: "2026-03-29T18:04:05.125Z"
 ---
 
 # § 7488. Investigations and power to subpoena

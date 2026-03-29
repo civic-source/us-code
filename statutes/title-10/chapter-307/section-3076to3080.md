@@ -5,7 +5,7 @@ usc_section: "3076to3080"
 chapter: 307
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 3076to3080"
-generated_at: "2026-03-29T17:50:57.181Z"
+generated_at: "2026-03-29T18:04:13.228Z"
 ---
 
 # [§§ 3076 to 3080. Repealed. Pub. L. 103–337, div. A, title XVI, § 1661(a)(3)(A) , Oct. 5, 1994 , 108 Stat. 2980 ]

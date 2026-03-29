@@ -5,7 +5,7 @@ usc_section: "2010"
 chapter: 38
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 2010"
-generated_at: "2026-03-29T17:53:03.741Z"
+generated_at: "2026-03-29T18:06:28.389Z"
 ---
 
 # § 2010. Negotiations with Government of Canada

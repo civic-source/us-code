@@ -5,7 +5,7 @@ usc_section: "25"
 chapter: 72
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 25"
-generated_at: "2026-03-29T17:53:35.338Z"
+generated_at: "2026-03-29T18:07:14.710Z"
 ---
 
 # § 5714–25. Periodic estimate of incidence and prevalence of youth homelessness

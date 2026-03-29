@@ -5,7 +5,7 @@ usc_section: "8"
 chapter: 84
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-29T17:53:35.473Z"
+generated_at: "2026-03-29T18:07:14.867Z"
 ---
 
 # § 7385s–8. Medical benefits

@@ -5,7 +5,7 @@ usc_section: "5204c"
 chapter: 68
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5204c"
-generated_at: "2026-03-29T17:53:35.305Z"
+generated_at: "2026-03-29T18:07:14.667Z"
 ---
 
 # § 5204c. Hazard mitigation for insular areas

@@ -5,7 +5,7 @@ usc_section: "690d"
 chapter: 6
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 690d"
-generated_at: "2026-03-29T17:51:56.748Z"
+generated_at: "2026-03-29T18:05:06.800Z"
 ---
 
 # § 690d. Injuries to property on Bear River Refuge; disturbance of birds, etc.; violation of regulations for use of refuge

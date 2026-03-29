@@ -5,7 +5,7 @@ usc_section: "1413"
 chapter: 71
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1413"
-generated_at: "2026-03-29T17:50:57.037Z"
+generated_at: "2026-03-29T18:04:13.079Z"
 ---
 
 # [§ 1413. Repealed. Pub. L. 108–136, div. A, title VI, § 641(b) , Nov. 24, 2003 , 117 Stat. 1514 ]

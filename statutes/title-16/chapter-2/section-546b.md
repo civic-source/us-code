@@ -5,7 +5,7 @@ usc_section: "546b"
 chapter: 2
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 546b"
-generated_at: "2026-03-29T17:51:56.717Z"
+generated_at: "2026-03-29T18:05:06.762Z"
 ---
 
 # § 546b. Seng Mountain and Bear Creek Scenic Areas, Jefferson National Forest, Virginia

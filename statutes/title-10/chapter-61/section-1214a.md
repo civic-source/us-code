@@ -5,7 +5,7 @@ usc_section: "1214a"
 chapter: 61
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1214a"
-generated_at: "2026-03-29T17:50:57.029Z"
+generated_at: "2026-03-29T18:04:13.071Z"
 ---
 
 # § 1214a. Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation

@@ -5,7 +5,7 @@ usc_section: "2702"
 chapter: 15
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 2702"
-generated_at: "2026-03-29T17:51:51.304Z"
+generated_at: "2026-03-29T18:04:55.113Z"
 ---
 
 # § 2702. Beneficiary country

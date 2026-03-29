@@ -5,7 +5,7 @@ usc_section: "8773"
 chapter: 113
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 8773"
-generated_at: "2026-03-29T17:50:48.908Z"
+generated_at: "2026-03-29T18:04:05.178Z"
 ---
 
 # § 8773. Milk income loss contract program

@@ -5,7 +5,7 @@ usc_section: "1701j"
 chapter: 13
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 1701j"
-generated_at: "2026-03-29T17:51:13.035Z"
+generated_at: "2026-03-29T18:04:43.454Z"
 ---
 
 # § 1701j. Repealed. Aug. 2, 1954, ch. 649 , title VIII, § 813, 68 Stat. 647

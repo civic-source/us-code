@@ -5,7 +5,7 @@ usc_section: "10"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 10"
-generated_at: "2026-03-29T17:51:56.688Z"
+generated_at: "2026-03-29T18:05:06.730Z"
 ---
 
 # § 470aaa–10. Savings provisions

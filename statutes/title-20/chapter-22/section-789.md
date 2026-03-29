@@ -5,7 +5,7 @@ usc_section: "789"
 chapter: 22
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 789"
-generated_at: "2026-03-29T17:51:48.301Z"
+generated_at: "2026-03-29T18:05:00.023Z"
 ---
 
 # § 789. Repealed. Pub. L. 89–209, § 6(d)(5) , Sept. 29, 1965 , 79 Stat. 850

@@ -5,7 +5,7 @@ usc_section: "8909"
 chapter: 96
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 8909"
-generated_at: "2026-03-29T17:52:10.733Z"
+generated_at: "2026-03-29T18:05:22.076Z"
 ---
 
 # § 8909. Annual report on military and security developments involving the Russian Federation

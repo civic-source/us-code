@@ -5,7 +5,7 @@ usc_section: "1764"
 chapter: 35
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1764"
-generated_at: "2026-03-29T17:53:03.732Z"
+generated_at: "2026-03-29T18:06:28.380Z"
 ---
 
 # § 1764. General requirements

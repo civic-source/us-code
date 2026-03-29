@@ -5,7 +5,7 @@ usc_section: "356"
 chapter: 11
 current_through: "PL 113-100"
 classification: "45 U.S.C. § 356"
-generated_at: "2026-03-29T17:53:02.108Z"
+generated_at: "2026-03-29T18:06:35.955Z"
 ---
 
 # § 356. Returns of compensation; conclusiveness; failure to make

@@ -5,7 +5,7 @@ usc_section: "1431a"
 chapter: 4
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 1431a"
-generated_at: "2026-03-29T17:51:51.213Z"
+generated_at: "2026-03-29T18:04:55.010Z"
 ---
 
 # § 1431a. Documentation of waterborne cargo

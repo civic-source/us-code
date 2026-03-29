@@ -5,7 +5,7 @@ usc_section: "1452"
 chapter: 10
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 1452"
-generated_at: "2026-03-29T17:53:42.709Z"
+generated_at: "2026-03-29T18:07:36.850Z"
 ---
 
 # § 1452. Regulation of Indians

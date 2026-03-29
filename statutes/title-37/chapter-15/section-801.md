@@ -5,7 +5,7 @@ usc_section: "801"
 chapter: 15
 current_through: "PL 113-100"
 classification: "37 U.S.C. § 801"
-generated_at: "2026-03-29T17:52:59.116Z"
+generated_at: "2026-03-29T18:06:17.234Z"
 ---
 
 # [§ 801. Repealed. Pub. L. 103–355, title VI, § 6001(a)(1) , Oct. 13, 1994 , 108 Stat. 3362 ]

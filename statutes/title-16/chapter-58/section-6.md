@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 58
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-29T17:51:56.976Z"
+generated_at: "2026-03-29T18:05:07.053Z"
 ---
 
 # § 3839aa–6. Duties of the Secretary

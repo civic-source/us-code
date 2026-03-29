@@ -5,7 +5,7 @@ usc_section: "8821"
 chapter: 96
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 8821"
-generated_at: "2026-03-29T17:53:35.603Z"
+generated_at: "2026-03-29T18:07:15.016Z"
 ---
 
 # § 8821. Termination of authorities; modification of terms and conditions of conditional commitments for loan guarantees

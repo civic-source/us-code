@@ -5,7 +5,7 @@ usc_section: "1216"
 chapter: 12
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 1216"
-generated_at: "2026-03-29T17:50:36.444Z"
+generated_at: "2026-03-29T18:03:29.838Z"
 ---
 
 # § 1216. Other matters within the jurisdiction of the Office of Special Counsel

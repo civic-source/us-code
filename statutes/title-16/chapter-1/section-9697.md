@@ -5,7 +5,7 @@ usc_section: "9697"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 9697"
-generated_at: "2026-03-29T17:51:56.458Z"
+generated_at: "2026-03-29T18:05:06.398Z"
 ---
 
 # §§ 96, 97. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948

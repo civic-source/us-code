@@ -5,7 +5,7 @@ usc_section: "114"
 chapter: 2
 current_through: "PL 113-100"
 classification: "1 U.S.C. § 114"
-generated_at: "2026-03-29T17:50:17.779Z"
+generated_at: "2026-03-29T18:03:12.504Z"
 ---
 
 # § 114. Sealing of instruments

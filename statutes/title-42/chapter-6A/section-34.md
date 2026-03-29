@@ -5,7 +5,7 @@ usc_section: "34"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 34"
-generated_at: "2026-03-29T17:53:34.401Z"
+generated_at: "2026-03-29T18:07:13.653Z"
 ---
 
 # § 300jj–34. Competitive grants to States and Indian tribes for the development of loan programs to facilitate the widespread adoption of certified EHR technology

@@ -5,7 +5,7 @@ usc_section: "3789j"
 chapter: 46
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 3789j"
-generated_at: "2026-03-29T17:53:35.201Z"
+generated_at: "2026-03-29T18:07:14.549Z"
 ---
 
 # § 3789j. Prohibition on land acquisition

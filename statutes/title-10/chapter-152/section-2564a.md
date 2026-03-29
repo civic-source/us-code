@@ -5,7 +5,7 @@ usc_section: "2564a"
 chapter: 152
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2564a"
-generated_at: "2026-03-29T17:50:57.141Z"
+generated_at: "2026-03-29T18:04:13.189Z"
 ---
 
 # § 2564a. Provision of assistance for adaptive sports programs for members of the armed forces

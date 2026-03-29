@@ -5,7 +5,7 @@ usc_section: "5564"
 chapter: 71
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5564"
-generated_at: "2026-03-29T17:53:35.328Z"
+generated_at: "2026-03-29T18:07:14.698Z"
 ---
 
 # § 5564. Comprehensive program definition; preparation; utilization of and consultation with other agencies; transmittal to the President and Congress; time of transmittal

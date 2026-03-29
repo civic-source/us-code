@@ -5,7 +5,7 @@ usc_section: "6970"
 chapter: 603
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 6970"
-generated_at: "2026-03-29T17:50:57.220Z"
+generated_at: "2026-03-29T18:04:13.268Z"
 ---
 
 # § 6970. Permanent professors: promotion

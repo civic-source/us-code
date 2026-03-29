@@ -5,7 +5,7 @@ usc_section: "1666e"
 chapter: 41
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1666e"
-generated_at: "2026-03-29T17:51:36.256Z"
+generated_at: "2026-03-29T18:04:29.608Z"
 ---
 
 # § 1666e. Notification of credit card issuer by seller of return of goods, etc., by obligor; credit for account of obligor

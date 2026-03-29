@@ -5,7 +5,7 @@ usc_section: "28101"
 chapter: 281
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 28101"
-generated_at: "2026-03-29T17:53:48.032Z"
+generated_at: "2026-03-29T18:07:51.427Z"
 ---
 
 # § 28101. Rail police officers

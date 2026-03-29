@@ -5,7 +5,7 @@ usc_section: "9801"
 chapter: 78
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 9801"
-generated_at: "2026-03-29T17:51:48.707Z"
+generated_at: "2026-03-29T18:05:00.430Z"
 ---
 
 # § 9801. Repealed. Pub. L. 111–358, title X, § 1002(a)(1) , Jan. 4, 2011 , 124 Stat. 4048

@@ -5,7 +5,7 @@ usc_section: "1466"
 chapter: 26
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 1466"
-generated_at: "2026-03-29T17:52:16.774Z"
+generated_at: "2026-03-29T18:05:26.225Z"
 ---
 
 # § 1466. Civil forfeitures

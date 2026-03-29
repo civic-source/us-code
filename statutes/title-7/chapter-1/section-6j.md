@@ -5,7 +5,7 @@ usc_section: "6j"
 chapter: 1
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 6j"
-generated_at: "2026-03-29T17:50:48.425Z"
+generated_at: "2026-03-29T18:04:04.690Z"
 ---
 
 # § 6j. Restrictions on dual trading in security futures products on designated contract markets and registered derivatives transaction execution facilities

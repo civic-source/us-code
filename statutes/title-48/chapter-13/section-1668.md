@@ -5,7 +5,7 @@ usc_section: "1668"
 chapter: 13
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 1668"
-generated_at: "2026-03-29T17:53:42.719Z"
+generated_at: "2026-03-29T18:07:36.859Z"
 ---
 
 # § 1668. Reporting duties of Governor and transfer of functions from government comptroller for American Samoa to Inspector General, Department of the Interior

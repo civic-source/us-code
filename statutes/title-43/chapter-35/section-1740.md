@@ -5,7 +5,7 @@ usc_section: "1740"
 chapter: 35
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1740"
-generated_at: "2026-03-29T17:53:03.729Z"
+generated_at: "2026-03-29T18:06:28.377Z"
 ---
 
 # § 1740. Rules and regulations

@@ -5,7 +5,7 @@ usc_section: "5082"
 chapter: 66
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5082"
-generated_at: "2026-03-29T17:53:35.277Z"
+generated_at: "2026-03-29T18:07:14.636Z"
 ---
 
 # § 5082. National Senior Service Corps

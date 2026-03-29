@@ -5,7 +5,7 @@ usc_section: "4350"
 chapter: 403
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 4350"
-generated_at: "2026-03-29T17:50:57.193Z"
+generated_at: "2026-03-29T18:04:13.237Z"
 ---
 
 # § 4350. Cadets: clothing and equipment

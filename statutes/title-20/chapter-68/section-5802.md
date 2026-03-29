@@ -5,7 +5,7 @@ usc_section: "5802"
 chapter: 68
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 5802"
-generated_at: "2026-03-29T17:51:48.574Z"
+generated_at: "2026-03-29T18:05:00.283Z"
 ---
 
 # § 5802. Definitions

@@ -5,7 +5,7 @@ usc_section: "77o"
 chapter: 2
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 77o"
-generated_at: "2026-03-29T17:51:36.005Z"
+generated_at: "2026-03-29T18:04:29.309Z"
 ---
 
 # § 77o. Liability of controlling persons

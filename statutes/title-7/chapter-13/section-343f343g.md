@@ -5,7 +5,7 @@ usc_section: "343f343g"
 chapter: 13
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 343f343g"
-generated_at: "2026-03-29T17:50:48.509Z"
+generated_at: "2026-03-29T18:04:04.763Z"
 ---
 
 # §§ 343f, 343g. Repealed. June 26, 1953, ch. 157, § 2 , 67 Stat. 86

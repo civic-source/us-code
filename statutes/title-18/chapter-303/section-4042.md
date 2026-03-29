@@ -3,9 +3,9 @@ title: "Section 4042 - Duties of Bureau of Prisons"
 usc_title: 18
 usc_section: "4042"
 chapter: 303
-current_through: "PL 117-200"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 4042"
-generated_at: "2026-03-29T17:54:21.395Z"
+generated_at: "2026-03-29T18:04:51.003Z"
 ---
 
 # § 4042. Duties of Bureau of Prisons
@@ -16,18 +16,17 @@ generated_at: "2026-03-29T17:54:21.395Z"
   - **(3)** provide for the protection, instruction, and discipline of all persons charged with or convicted of offenses against the United States;
   - **(4)** provide technical assistance to State, tribal, and local governments in the improvement of their correctional systems;
   - **(5)** provide notice of release of prisoners in accordance with subsections (b) and (c);
-  - **(6)** establish prerelease planning procedures that help prisoners—
-    - **(A)** apply for Federal and State benefits upon release (including Social Security benefits, and veterans’ benefits);
-    - **(B)** obtain identification, including a social security card, driver’s license or other official photo identification, and a birth certificate; and
-    - **(C)** secure such identification and benefits prior to release from a sentence to a term of imprisonment in a Federal prison or if the individual was not sentenced to a term of imprisonment in a Federal prison, prior to release from a sentence to a term of community confinement, subject to any limitations in law; and
-  - **(7)** establish reentry planning procedures that include providing Federal prisoners with information in the following areas:
-    - **(A)** Health and nutrition.
-    - **(B)** Employment.
-    - **(C)** Literacy and education.
-    - **(D)** Personal finance and consumer skills.
-    - **(E)** Community resources.
-    - **(F)** Personal growth and development.
-    - **(G)** Release requirements and procedures.
+    - **(D)** 1 1 So in original. Probably should be “(6)”. establish prerelease planning procedures that help prisoners—
+      - **(i)** apply for Federal and State benefits upon release (including Social Security Cards, Social Security benefits, and veterans’ benefits); and
+      - **(ii)** secure such identification and benefits prior to release, subject to any limitations in law; and
+    - **(E)** 2 2 So in original. Probably should be “(7)”. establish reentry planning procedures that include providing Federal prisoners with information in the following areas:
+      - **(i)** Health and nutrition.
+      - **(ii)** Employment.
+      - **(iii)** Literacy and education.
+      - **(iv)** Personal finance and consumer skills.
+      - **(v)** Community resources.
+      - **(vi)** Personal growth and development.
+      - **(vii)** Release requirements and procedures.
 - **(b)**
   - **(1)** At least 5 days prior to the date on which a prisoner described in paragraph (3) is to be released on supervised release, or, in the case of a prisoner on supervised release, at least 5 days prior to the date on which the prisoner changes residence to a new jurisdiction, written notice of the release or change of residence shall be provided to the chief law enforcement officers of each State, tribal, and local jurisdiction in which the prisoner will reside. Notice prior to release shall be provided by the Director of the Bureau of Prisons. Notice concerning a change of residence following release shall be provided by the probation officer responsible for the supervision of the released prisoner, or in a manner specified by the Director of the Administrative Office of the United States Courts. The notice requirements under this subsection do not apply in relation to a prisoner being protected under chapter 224.
   - **(2)** A notice under paragraph (1) shall disclose—

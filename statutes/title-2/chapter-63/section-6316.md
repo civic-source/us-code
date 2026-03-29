@@ -5,7 +5,7 @@ usc_section: "6316"
 chapter: 63
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 6316"
-generated_at: "2026-03-29T17:50:24.137Z"
+generated_at: "2026-03-29T18:03:21.857Z"
 ---
 
 # § 6316. United States Code Annotated or United States Code Service; procurement for Senators

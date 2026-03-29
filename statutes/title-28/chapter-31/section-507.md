@@ -5,7 +5,7 @@ usc_section: "507"
 chapter: 31
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 507"
-generated_at: "2026-03-29T17:52:24.190Z"
+generated_at: "2026-03-29T18:06:03.333Z"
 ---
 
 # § 507. Assistant Attorney General for Administration

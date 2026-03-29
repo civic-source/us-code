@@ -5,7 +5,7 @@ usc_section: "8111A"
 chapter: 81
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 8111A"
-generated_at: "2026-03-29T17:52:53.859Z"
+generated_at: "2026-03-29T18:06:22.864Z"
 ---
 
 # § 8111A. Furnishing of health-care services to members of the Armed Forces during a war or national emergency

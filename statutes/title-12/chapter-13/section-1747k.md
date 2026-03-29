@@ -5,7 +5,7 @@ usc_section: "1747k"
 chapter: 13
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 1747k"
-generated_at: "2026-03-29T17:51:13.086Z"
+generated_at: "2026-03-29T18:04:43.523Z"
 ---
 
 # § 1747k. Rules and regulations

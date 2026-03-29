@@ -5,7 +5,7 @@ usc_section: "804"
 chapter: 12
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 804"
-generated_at: "2026-03-29T17:51:56.780Z"
+generated_at: "2026-03-29T18:05:06.835Z"
 ---
 
 # § 804. Project works affecting navigable waters; requirements insertable in license

@@ -5,7 +5,7 @@ usc_section: "10"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-29T17:53:34.596Z"
+generated_at: "2026-03-29T18:07:13.870Z"
 ---
 
 # § 1395b–10. Addressing health care disparities

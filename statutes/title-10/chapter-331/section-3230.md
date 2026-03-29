@@ -5,7 +5,7 @@ usc_section: "3230"
 chapter: 331
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 3230"
-generated_at: "2026-03-29T17:50:57.182Z"
+generated_at: "2026-03-29T18:04:13.229Z"
 ---
 
 # [§ 3230. Repealed. Pub. L. 96–513, title II, § 232 , Dec. 12, 1980 , 94 Stat. 2886 ]

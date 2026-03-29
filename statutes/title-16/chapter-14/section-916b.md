@@ -5,7 +5,7 @@ usc_section: "916b"
 chapter: 14
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 916b"
-generated_at: "2026-03-29T17:51:56.819Z"
+generated_at: "2026-03-29T18:05:06.877Z"
 ---
 
 # § 916b. Acceptance or rejection by United States Government of regulations, etc.; acceptance of reports, recommendations, etc., of Commission

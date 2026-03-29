@@ -5,7 +5,7 @@ usc_section: "10543"
 chapter: 1013
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 10543"
-generated_at: "2026-03-29T17:50:57.266Z"
+generated_at: "2026-03-29T18:04:13.314Z"
 ---
 
 # § 10543. National Guard and reserve component equipment procurement and military construction funding: inclusion in future-years defense program

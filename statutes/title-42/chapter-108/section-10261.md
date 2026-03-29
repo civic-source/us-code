@@ -5,7 +5,7 @@ usc_section: "10261"
 chapter: 108
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 10261"
-generated_at: "2026-03-29T17:53:35.694Z"
+generated_at: "2026-03-29T18:07:15.138Z"
 ---
 
 # § 10261. Definitions

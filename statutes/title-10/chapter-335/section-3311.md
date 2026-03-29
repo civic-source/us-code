@@ -5,7 +5,7 @@ usc_section: "3311"
 chapter: 335
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 3311"
-generated_at: "2026-03-29T17:50:57.183Z"
+generated_at: "2026-03-29T18:04:13.230Z"
 ---
 
 # [§ 3311. Repealed. Pub. L. 95–485, title VIII, § 820(d)(4) , Oct. 20, 1978 , 92 Stat. 1627 ]

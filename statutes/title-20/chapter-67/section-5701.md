@@ -5,7 +5,7 @@ usc_section: "5701"
 chapter: 67
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 5701"
-generated_at: "2026-03-29T17:51:48.573Z"
+generated_at: "2026-03-29T18:05:00.283Z"
 ---
 
 # § 5701. Purpose

@@ -5,7 +5,7 @@ usc_section: "1759"
 chapter: 13
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1759"
-generated_at: "2026-03-29T17:53:34.963Z"
+generated_at: "2026-03-29T18:07:14.294Z"
 ---
 
 # § 1759. Direct disbursement to schools by Secretary

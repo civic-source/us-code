@@ -5,7 +5,7 @@ usc_section: "7407"
 chapter: 74
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 7407"
-generated_at: "2026-03-29T17:52:53.840Z"
+generated_at: "2026-03-29T18:06:22.850Z"
 ---
 
 # § 7407. Administrative provisions for section 7405 and 7406 appointments

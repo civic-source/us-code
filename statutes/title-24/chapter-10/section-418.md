@@ -5,7 +5,7 @@ usc_section: "418"
 chapter: 10
 current_through: "PL 113-100"
 classification: "24 U.S.C. § 418"
-generated_at: "2026-03-29T17:52:00.360Z"
+generated_at: "2026-03-29T18:05:10.894Z"
 ---
 
 # § 418. Periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors

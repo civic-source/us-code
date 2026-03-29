@@ -5,7 +5,7 @@ usc_section: "1445h"
 chapter: 35
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1445h"
-generated_at: "2026-03-29T17:50:48.590Z"
+generated_at: "2026-03-29T18:04:04.844Z"
 ---
 
 # § 1445h. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(F) , Apr. 4, 1996 , 110 Stat. 938

@@ -5,7 +5,7 @@ usc_section: "855"
 chapter: 47
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 855"
-generated_at: "2026-03-29T17:50:56.974Z"
+generated_at: "2026-03-29T18:04:13.014Z"
 ---
 
 # § 855. Art. 55. Cruel and unusual punishments prohibited

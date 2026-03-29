@@ -5,7 +5,7 @@ usc_section: "4575"
 chapter: 45
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 4575"
-generated_at: "2026-03-29T17:50:24.116Z"
+generated_at: "2026-03-29T18:03:21.838Z"
 ---
 
 # § 4575. Gross rate of compensation of employees paid by Secretary of Senate

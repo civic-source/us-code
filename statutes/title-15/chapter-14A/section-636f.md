@@ -5,7 +5,7 @@ usc_section: "636f"
 chapter: 14
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 636f"
-generated_at: "2026-03-29T17:51:36.146Z"
+generated_at: "2026-03-29T18:04:29.453Z"
 ---
 
 # § 636f. Coordination of efforts between the Administrator and the Internal Revenue Service to expedite loan processing

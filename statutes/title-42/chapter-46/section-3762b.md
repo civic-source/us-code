@@ -5,7 +5,7 @@ usc_section: "3762b"
 chapter: 46
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 3762b"
-generated_at: "2026-03-29T17:53:35.195Z"
+generated_at: "2026-03-29T18:07:14.543Z"
 ---
 
 # § 3762b. Allocation of funds; administrative provisions

@@ -5,7 +5,7 @@ usc_section: "4109"
 chapter: 67
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 4109"
-generated_at: "2026-03-29T17:51:36.368Z"
+generated_at: "2026-03-29T18:04:29.912Z"
 ---
 
 # § 4109. Coordination and review of budget requests; Office of Science and Technology Policy; Office of Management and Budget

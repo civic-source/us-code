@@ -5,7 +5,7 @@ usc_section: "489"
 chapter: 23
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 489"
-generated_at: "2026-03-29T17:50:56.945Z"
+generated_at: "2026-03-29T18:04:12.985Z"
 ---
 
 # § 489. Annual report on Department of Defense operation and financial support for military museums

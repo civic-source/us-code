@@ -5,7 +5,7 @@ usc_section: "8478"
 chapter: 84
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 8478"
-generated_at: "2026-03-29T17:50:36.557Z"
+generated_at: "2026-03-29T18:03:29.968Z"
 ---
 
 # § 8478. Bonding

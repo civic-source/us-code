@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 35
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 1"
-generated_at: "2026-03-29T17:50:36.463Z"
+generated_at: "2026-03-29T18:03:29.859Z"
 ---
 
 # § 3598. 1 1 Another section 3598 is set out preceding this section. Federal Bureau of Investigation Reserve Service

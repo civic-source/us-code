@@ -5,7 +5,7 @@ usc_section: "1957"
 chapter: 18
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 1957"
-generated_at: "2026-03-29T17:53:42.743Z"
+generated_at: "2026-03-29T18:07:36.884Z"
 ---
 
 # § 1957. Federal programs coordination personnel

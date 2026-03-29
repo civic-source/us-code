@@ -5,7 +5,7 @@ usc_section: "47"
 chapter: 2
 current_through: "PL 113-100"
 classification: "24 U.S.C. § 47"
-generated_at: "2026-03-29T17:52:00.351Z"
+generated_at: "2026-03-29T18:05:10.882Z"
 ---
 
 # § 47. Repealed. Pub. L. 101–189, div. A, title III, § 347(3) , Nov. 29, 1989 , 103 Stat. 1422

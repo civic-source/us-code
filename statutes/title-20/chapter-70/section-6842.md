@@ -5,7 +5,7 @@ usc_section: "6842"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 6842"
-generated_at: "2026-03-29T17:51:48.623Z"
+generated_at: "2026-03-29T18:05:00.339Z"
 ---
 
 # § 6842. Achievement objectives and accountability

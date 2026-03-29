@@ -5,7 +5,7 @@ usc_section: "44302"
 chapter: 443
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 44302"
-generated_at: "2026-03-29T17:53:48.093Z"
+generated_at: "2026-03-29T18:07:51.501Z"
 ---
 
 # § 44302. General authority

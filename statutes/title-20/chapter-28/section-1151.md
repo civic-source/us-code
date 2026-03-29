@@ -5,7 +5,7 @@ usc_section: "1151"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1151"
-generated_at: "2026-03-29T17:51:48.460Z"
+generated_at: "2026-03-29T18:05:00.179Z"
 ---
 
 # § 1151. Grants to States for workplace and community transition training for incarcerated individuals

@@ -5,7 +5,7 @@ usc_section: "2308"
 chapter: 23
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 2308"
-generated_at: "2026-03-29T17:52:49.342Z"
+generated_at: "2026-03-29T18:06:24.293Z"
 ---
 
 # § 2308. Annual report

@@ -5,7 +5,7 @@ usc_section: "1622f"
 chapter: 21
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 1622f"
-generated_at: "2026-03-29T17:52:10.454Z"
+generated_at: "2026-03-29T18:05:21.777Z"
 ---
 
 # § 1622f. Administrative support and services to Foreign Claims Settlement Commission of the United States by Attorney General

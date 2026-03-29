@@ -5,7 +5,7 @@ usc_section: "7341to7345"
 chapter: 635
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 7341to7345"
-generated_at: "2026-03-29T17:50:57.228Z"
+generated_at: "2026-03-29T18:04:13.276Z"
 ---
 
 # [§§ 7341 to 7345. Repealed. Pub. L. 103–160, div. A, title VIII, § 824(a)(9) , Nov. 30, 1993 , 107 Stat. 1708 ]

@@ -5,7 +5,7 @@ usc_section: "39"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 39"
-generated_at: "2026-03-29T17:53:03.621Z"
+generated_at: "2026-03-29T18:06:28.270Z"
 ---
 
 # § 390h–39. City of Corona Water Utility, California, water recycling and reuse project

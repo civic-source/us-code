@@ -3,9 +3,9 @@ title: "Section 1510 - Obstruction of criminal investigations"
 usc_title: 18
 usc_section: "1510"
 chapter: 73
-current_through: "PL 117-200"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 1510"
-generated_at: "2026-03-29T17:54:21.322Z"
+generated_at: "2026-03-29T18:04:50.922Z"
 ---
 
 # § 1510. Obstruction of criminal investigations
@@ -18,8 +18,8 @@ generated_at: "2026-03-29T17:54:21.322Z"
     - **(B)** any other person named in that subpoena;
   - **(3)** As used in this subsection—
     - **(A)** the term “an officer of a financial institution” means an officer, director, partner, employee, agent, or attorney of or for a financial institution; and
-    - **(B)** the term “subpoena for records” means a Federal grand jury subpoena, a subpoena issued under section 3486 of this title , or an order or subpoena issued in accordance with section 3512 of this title , section 5318 of title 31 , or section 1782 of title 28 , for customer records that has been served relating to a violation of, or a conspiracy to violate—
-      - **(i)** section 215, 656, 657, 1005, 1006, 1007, 1014, 1344, 1956, 1957, 1960, an offense against a foreign nation constituting specified unlawful activity under section 1956, a foreign offense for which enforcement of a foreign forfeiture judgment could be brought under section 2467 of title 28 , or chapter 53 of title 31; or
+    - **(B)** the term “subpoena for records” means a Federal grand jury subpoena or a Department of Justice subpoena (issued under section 3486 of title 18 ), for customer records that has been served relating to a violation of, or a conspiracy to violate—
+      - **(i)** section 215, 656, 657, 1005, 1006, 1007, 1014, 1344, 1956, 1957, or chapter 53 of title 31; or
       - **(ii)** section 1341 or 1343 affecting a financial institution.
 - **(c)** As used in this section, the term “criminal investigator” means any individual duly authorized by a department, agency, or armed force of the United States to conduct or engage in investigations of or prosecutions for violations of the criminal laws of the United States.
 - **(d)**

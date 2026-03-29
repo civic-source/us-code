@@ -5,7 +5,7 @@ usc_section: "8907"
 chapter: 96
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 8907"
-generated_at: "2026-03-29T17:52:10.732Z"
+generated_at: "2026-03-29T18:05:22.075Z"
 ---
 
 # § 8907. Sanctions on persons responsible for violence or undermining the peace, security, stability, sovereignty, or territorial integrity of Ukraine

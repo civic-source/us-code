@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 17
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-29T17:52:45.918Z"
+generated_at: "2026-03-29T18:06:10.509Z"
 ---
 
 # § 854a–2. Pay and allowances; date of acceptance of promotion

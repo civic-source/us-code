@@ -5,7 +5,7 @@ usc_section: "2401"
 chapter: 44
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 2401"
-generated_at: "2026-03-29T17:51:56.929Z"
+generated_at: "2026-03-29T18:05:06.997Z"
 ---
 
 # § 2401. Congressional findings and declaration of purpose

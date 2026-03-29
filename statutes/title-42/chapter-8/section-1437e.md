@@ -5,7 +5,7 @@ usc_section: "1437e"
 chapter: 8
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1437e"
-generated_at: "2026-03-29T17:53:34.897Z"
+generated_at: "2026-03-29T18:07:14.217Z"
 ---
 
 # § 1437e. Designated housing for elderly and disabled families

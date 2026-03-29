@@ -5,7 +5,7 @@ usc_section: "81to92"
 chapter: 5
 current_through: "PL 113-100"
 classification: "45 U.S.C. § 81to92"
-generated_at: "2026-03-29T17:53:02.086Z"
+generated_at: "2026-03-29T18:06:35.932Z"
 ---
 
 # §§ 81 to 92. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379

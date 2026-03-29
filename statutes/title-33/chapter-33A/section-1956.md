@@ -5,7 +5,7 @@ usc_section: "1956"
 chapter: 33
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 1956"
-generated_at: "2026-03-29T17:52:45.977Z"
+generated_at: "2026-03-29T18:06:10.584Z"
 ---
 
 # § 1956. Definitions

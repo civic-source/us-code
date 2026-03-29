@@ -5,7 +5,7 @@ usc_section: "9a"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 9a"
-generated_at: "2026-03-29T17:51:56.435Z"
+generated_at: "2026-03-29T18:05:06.376Z"
 ---
 
 # § 9a. Government of parks, etc.; violation of regulations as misdemeanor

@@ -5,7 +5,7 @@ usc_section: "17c"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 17c"
-generated_at: "2026-03-29T17:51:56.436Z"
+generated_at: "2026-03-29T18:05:06.377Z"
 ---
 
 # § 17c. Procurement of supplies, materials, and special services to aid permittees and licensees in emergencies; authority of Secretary of the Interior

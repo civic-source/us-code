@@ -5,7 +5,7 @@ usc_section: "12103"
 chapter: 126
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 12103"
-generated_at: "2026-03-29T17:53:35.754Z"
+generated_at: "2026-03-29T18:07:15.213Z"
 ---
 
 # § 12103. Additional definitions

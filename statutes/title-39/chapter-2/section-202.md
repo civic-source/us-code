@@ -5,7 +5,7 @@ usc_section: "202"
 chapter: 2
 current_through: "PL 113-100"
 classification: "39 U.S.C. § 202"
-generated_at: "2026-03-29T17:52:57.898Z"
+generated_at: "2026-03-29T18:06:14.470Z"
 ---
 
 # § 202. Board of Governors

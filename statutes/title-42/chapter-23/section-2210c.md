@@ -5,7 +5,7 @@ usc_section: "2210c"
 chapter: 23
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 2210c"
-generated_at: "2026-03-29T17:53:35.091Z"
+generated_at: "2026-03-29T18:07:14.426Z"
 ---
 
 # § 2210c. Elimination of pension offset for certain rehired Federal retirees

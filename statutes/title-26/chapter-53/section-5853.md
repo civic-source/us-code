@@ -5,7 +5,7 @@ usc_section: "5853"
 chapter: 53
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 5853"
-generated_at: "2026-03-29T17:52:39.509Z"
+generated_at: "2026-03-29T18:05:44.950Z"
 ---
 
 # § 5853. Transfer and making tax exemption available to certain governmental entities

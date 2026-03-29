@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-29T17:51:56.687Z"
+generated_at: "2026-03-29T18:05:06.730Z"
 ---
 
 # § 470aaa–4. Curation of resources

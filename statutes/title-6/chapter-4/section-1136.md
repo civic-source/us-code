@@ -5,7 +5,7 @@ usc_section: "1136"
 chapter: 4
 current_through: "PL 113-100"
 classification: "6 U.S.C. § 1136"
-generated_at: "2026-03-29T17:50:39.379Z"
+generated_at: "2026-03-29T18:03:43.295Z"
 ---
 
 # § 1136. Security exercises

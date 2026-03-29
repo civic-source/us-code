@@ -5,7 +5,7 @@ usc_section: "80d"
 chapter: 3
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 80d"
-generated_at: "2026-03-29T17:51:48.289Z"
+generated_at: "2026-03-29T18:05:00.008Z"
 ---
 
 # § 80d. Authorization of appropriations

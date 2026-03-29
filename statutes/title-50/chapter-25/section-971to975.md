@@ -5,7 +5,7 @@ usc_section: "971to975"
 chapter: 25
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 971to975"
-generated_at: "2026-03-29T17:53:50.968Z"
+generated_at: "2026-03-29T18:07:43.021Z"
 ---
 
 # §§ 971 to 975. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641

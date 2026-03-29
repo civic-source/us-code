@@ -5,7 +5,7 @@ usc_section: "804"
 chapter: 8
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 804"
-generated_at: "2026-03-29T17:50:36.438Z"
+generated_at: "2026-03-29T18:03:29.834Z"
 ---
 
 # § 804. Definitions

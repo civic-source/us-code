@@ -5,7 +5,7 @@ usc_section: "1107"
 chapter: 22
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 1107"
-generated_at: "2026-03-29T17:52:45.931Z"
+generated_at: "2026-03-29T18:06:10.524Z"
 ---
 
 # § 1107. Definitions

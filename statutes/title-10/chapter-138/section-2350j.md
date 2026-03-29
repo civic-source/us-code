@@ -5,7 +5,7 @@ usc_section: "2350j"
 chapter: 138
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2350j"
-generated_at: "2026-03-29T17:50:57.111Z"
+generated_at: "2026-03-29T18:04:13.155Z"
 ---
 
 # § 2350j. Burden sharing contributions by designated countries and regional organizations

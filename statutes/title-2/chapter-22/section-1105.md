@@ -5,7 +5,7 @@ usc_section: "1105"
 chapter: 22
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 1105"
-generated_at: "2026-03-29T17:50:24.068Z"
+generated_at: "2026-03-29T18:03:21.782Z"
 ---
 
 # § 1105. John C. Stennis Center for Public Service Development Trust Fund

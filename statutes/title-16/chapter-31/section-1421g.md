@@ -5,7 +5,7 @@ usc_section: "1421g"
 chapter: 31
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1421g"
-generated_at: "2026-03-29T17:51:56.874Z"
+generated_at: "2026-03-29T18:05:06.937Z"
 ---
 
 # § 1421g. Authorization of appropriations

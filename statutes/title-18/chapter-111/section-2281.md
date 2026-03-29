@@ -3,9 +3,9 @@ title: "Section 2281 - Violence against maritime fixed platforms"
 usc_title: 18
 usc_section: "2281"
 chapter: 111
-current_through: "PL 117-200"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 2281"
-generated_at: "2026-03-29T17:54:21.345Z"
+generated_at: "2026-03-29T18:04:50.948Z"
 ---
 
 # § 2281. Violence against maritime fixed platforms
@@ -26,8 +26,5 @@ generated_at: "2026-03-29T17:54:21.345Z"
     - **(C)** in an attempt to compel the United States to do or abstain from doing any act;
   - **(2)** during the commission of such activity against or on board a fixed platform located on a continental shelf, a national of the United States is seized, threatened, injured or killed; or
   - **(3)** such activity is committed against or on board a fixed platform located outside the United States and beyond the continental shelf of the United States and the offender is later found in the United States.
-- **(c)** It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 13(c) of the Norris-LaGuardia Act, as amended ( 29 U.S.C. 113(c) ), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
-- **(d)** In this section— “continental shelf” means the sea-bed and subsoil of the submarine areas that extend beyond a country’s territorial sea to the limits provided by customary international law as reflected in Article 76 of the 1982 Convention on the Law of the Sea. “fixed platform” means an artificial island, installation or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes.
-- **(e)** This section does not apply to—
-  - **(1)** the activities of armed forces during an armed conflict, as those terms are understood under the law of war, which are governed by that law; or
-  - **(2)** activities undertaken by military forces of a state in the exercise of their official duties.
+- **(c)** It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c) 1 1 So in original. Probably should be section “13(c)”. of the Norris-LaGuardia Act, as amended ( 29 U.S.C. 113(c) ), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+- **(d)** In this section— “continental shelf” means the sea-bed and subsoil of the submarine areas that extend beyond a country’s territorial sea to the limits provided by customary international law as reflected in Article 76 of the 1982 Convention on the Law of the Sea. “fixed platform” means an artificial island, installation or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes. “national of the United States” has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(22) ). “territorial sea of the United States” means all waters extending seaward to 12 nautical miles from the baselines of the United States determined in accordance with international law. “United States”, when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.

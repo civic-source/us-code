@@ -5,7 +5,7 @@ usc_section: "6232"
 chapter: 81
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 6232"
-generated_at: "2026-03-29T17:51:57.018Z"
+generated_at: "2026-03-29T18:05:07.092Z"
 ---
 
 # § 6232. Fees for occupancy and use of National Forest System lands and facilities by organizational camps

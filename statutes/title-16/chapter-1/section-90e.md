@@ -5,7 +5,7 @@ usc_section: "90e"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 90e"
-generated_at: "2026-03-29T17:51:56.457Z"
+generated_at: "2026-03-29T18:05:06.397Z"
 ---
 
 # § 90e. Pasayten Wilderness, Okanogan and Mount Baker National Forests; designation; abolition of North Cascades Primitive Area classification

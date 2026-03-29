@@ -5,7 +5,7 @@ usc_section: "9831"
 chapter: 100
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 9831"
-generated_at: "2026-03-29T17:52:39.658Z"
+generated_at: "2026-03-29T18:05:45.098Z"
 ---
 
 # § 9831. General exceptions

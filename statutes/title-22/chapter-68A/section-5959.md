@@ -5,7 +5,7 @@ usc_section: "5959"
 chapter: 68
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 5959"
-generated_at: "2026-03-29T17:52:10.651Z"
+generated_at: "2026-03-29T18:05:21.984Z"
 ---
 
 # § 5959. Reports on activities and assistance under cooperative threat reduction programs

@@ -5,7 +5,7 @@ usc_section: "1425to1425b"
 chapter: 11
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 1425to1425b"
-generated_at: "2026-03-29T17:51:13.012Z"
+generated_at: "2026-03-29T18:04:43.423Z"
 ---
 
 # §§ 1425 to 1425b. Repealed. Pub. L. 101–73, title VII , §§ 705, 716, 720, Aug. 9, 1989 , 103 Stat. 416 , 421, 423

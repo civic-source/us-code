@@ -5,7 +5,7 @@ usc_section: "2292b"
 chapter: 32
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 2292b"
-generated_at: "2026-03-29T17:52:10.504Z"
+generated_at: "2026-03-29T18:05:21.827Z"
 ---
 
 # § 2292b. Disaster assistance coordination through a Special Coordinator for International Disaster Assistance; Presidential appointment and duties

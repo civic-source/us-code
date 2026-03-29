@@ -5,7 +5,7 @@ usc_section: "1395hh"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1395hh"
-generated_at: "2026-03-29T17:53:34.727Z"
+generated_at: "2026-03-29T18:07:14.033Z"
 ---
 
 # § 1395hh. Regulations

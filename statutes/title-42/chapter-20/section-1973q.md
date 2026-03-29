@@ -5,7 +5,7 @@ usc_section: "1973q"
 chapter: 20
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1973q"
-generated_at: "2026-03-29T17:53:35.032Z"
+generated_at: "2026-03-29T18:07:14.355Z"
 ---
 
 # § 1973q. Construction

@@ -5,7 +5,7 @@ usc_section: "178"
 chapter: 7
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 178"
-generated_at: "2026-03-29T17:53:03.602Z"
+generated_at: "2026-03-29T18:06:28.252Z"
 ---
 
 # § 178. Patents for lands in New Mexico; lands contiguous to Spanish or Mexican land grants

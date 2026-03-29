@@ -5,7 +5,7 @@ usc_section: "1208"
 chapter: 12
 current_through: "PL 113-100"
 classification: "39 U.S.C. § 1208"
-generated_at: "2026-03-29T17:52:57.904Z"
+generated_at: "2026-03-29T18:06:14.480Z"
 ---
 
 # § 1208. Suits

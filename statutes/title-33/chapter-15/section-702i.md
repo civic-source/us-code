@@ -5,7 +5,7 @@ usc_section: "702i"
 chapter: 15
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 702i"
-generated_at: "2026-03-29T17:52:45.915Z"
+generated_at: "2026-03-29T18:06:10.505Z"
 ---
 
 # § 702i. Certain sections applicable to property and rights acquired or constructed

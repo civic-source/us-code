@@ -5,7 +5,7 @@ usc_section: "797to797b"
 chapter: 16
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 797to797b"
-generated_at: "2026-03-29T17:52:18.804Z"
+generated_at: "2026-03-29T18:05:31.723Z"
 ---
 
 # §§ 797 to 797b. Repealed. Pub. L. 105–220, title IV, § 411 , Aug. 7, 1998 , 112 Stat. 1241

@@ -5,7 +5,7 @@ usc_section: "2801"
 chapter: 28
 current_through: "PL 113-100"
 classification: "39 U.S.C. § 2801"
-generated_at: "2026-03-29T17:52:57.906Z"
+generated_at: "2026-03-29T18:06:14.482Z"
 ---
 
 # § 2801. Definitions

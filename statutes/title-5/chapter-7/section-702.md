@@ -5,7 +5,7 @@ usc_section: "702"
 chapter: 7
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 702"
-generated_at: "2026-03-29T17:50:36.437Z"
+generated_at: "2026-03-29T18:03:29.832Z"
 ---
 
 # § 702. Right of review

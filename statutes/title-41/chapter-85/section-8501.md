@@ -5,7 +5,7 @@ usc_section: "8501"
 chapter: 85
 current_through: "PL 113-100"
 classification: "41 U.S.C. § 8501"
-generated_at: "2026-03-29T17:53:04.489Z"
+generated_at: "2026-03-29T18:06:34.777Z"
 ---
 
 # § 8501. Definitions

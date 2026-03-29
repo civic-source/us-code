@@ -5,7 +5,7 @@ usc_section: "5a"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5a"
-generated_at: "2026-03-29T17:53:34.210Z"
+generated_at: "2026-03-29T18:07:13.434Z"
 ---
 
 # § 290aa–5a. Alcohol and drug prevention or treatment services for Indians and Native Alaskans

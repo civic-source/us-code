@@ -5,7 +5,7 @@ usc_section: "93"
 chapter: 4
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 93"
-generated_at: "2026-03-29T17:52:05.886Z"
+generated_at: "2026-03-29T18:05:17.025Z"
 ---
 
 # § 93. Repealed. Oct. 10, 1940, ch. 851, § 4 , 54 Stat. 1112

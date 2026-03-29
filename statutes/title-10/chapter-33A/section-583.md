@@ -5,7 +5,7 @@ usc_section: "583"
 chapter: 33
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 583"
-generated_at: "2026-03-29T17:50:56.953Z"
+generated_at: "2026-03-29T18:04:12.994Z"
 ---
 
 # § 583. Definitions

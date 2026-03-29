@@ -5,7 +5,7 @@ usc_section: "225a"
 chapter: 4
 current_through: "PL 113-100"
 classification: "24 U.S.C. § 225a"
-generated_at: "2026-03-29T17:52:00.353Z"
+generated_at: "2026-03-29T18:05:10.888Z"
 ---
 
 # § 225a. Definitions

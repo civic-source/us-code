@@ -5,7 +5,7 @@ usc_section: "447a"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 447a"
-generated_at: "2026-03-29T17:51:56.573Z"
+generated_at: "2026-03-29T18:05:06.608Z"
 ---
 
 # § 447a. Ocmulgee National Monument; establishment; acquisition of property

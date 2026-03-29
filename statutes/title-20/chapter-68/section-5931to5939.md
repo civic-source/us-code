@@ -5,7 +5,7 @@ usc_section: "5931to5939"
 chapter: 68
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 5931to5939"
-generated_at: "2026-03-29T17:51:48.576Z"
+generated_at: "2026-03-29T18:05:00.285Z"
 ---
 
 # §§ 5931 to 5939. Repealed. Pub. L. 103–227, title V, § 509(a) , Mar. 31, 1994 , 108 Stat. 200

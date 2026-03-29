@@ -5,7 +5,7 @@ usc_section: "4959"
 chapter: 42
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 4959"
-generated_at: "2026-03-29T17:52:39.467Z"
+generated_at: "2026-03-29T18:05:44.908Z"
 ---
 
 # § 4959. Taxes on failures by hospital organizations

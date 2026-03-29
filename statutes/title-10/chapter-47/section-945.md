@@ -5,7 +5,7 @@ usc_section: "945"
 chapter: 47
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 945"
-generated_at: "2026-03-29T17:50:56.984Z"
+generated_at: "2026-03-29T18:04:13.025Z"
 ---
 
 # § 945. Art. 145. Annuities for judges and survivors

@@ -5,7 +5,7 @@ usc_section: "1701to1709"
 chapter: 31
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 1701to1709"
-generated_at: "2026-03-29T17:52:45.973Z"
+generated_at: "2026-03-29T18:06:10.580Z"
 ---
 
 # §§ 1701 to 1709. Repealed. Pub. L. 102–567, title II, § 204 , Oct. 29, 1992 , 106 Stat. 4282

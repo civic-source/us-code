@@ -5,7 +5,7 @@ usc_section: "3715a"
 chapter: 46
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 3715a"
-generated_at: "2026-03-29T17:53:35.190Z"
+generated_at: "2026-03-29T18:07:14.538Z"
 ---
 
 # § 3715a. Consolidation of financial management systems of Office of Justice Programs

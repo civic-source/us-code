@@ -5,7 +5,7 @@ usc_section: "4712"
 chapter: 445
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 4712"
-generated_at: "2026-03-29T17:50:57.199Z"
+generated_at: "2026-03-29T18:04:13.246Z"
 ---
 
 # § 4712. Disposition of effects of deceased persons by summary court-martial

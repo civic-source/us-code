@@ -5,7 +5,7 @@ usc_section: "5021"
 chapter: 503
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 5021"
-generated_at: "2026-03-29T17:50:57.202Z"
+generated_at: "2026-03-29T18:04:13.249Z"
 ---
 
 # [§ 5021. Repealed. Pub. L. 101–510, div. A, title IX, § 910(a) , Nov. 5, 1990 , 104 Stat. 1625 ]

@@ -5,7 +5,7 @@ usc_section: "20167"
 chapter: 201
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 20167"
-generated_at: "2026-03-29T17:53:48.020Z"
+generated_at: "2026-03-29T18:07:51.411Z"
 ---
 
 # § 20167. Railroad safety infrastructure improvement grants

@@ -5,7 +5,7 @@ usc_section: "613"
 chapter: 41
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 613"
-generated_at: "2026-03-29T17:52:24.202Z"
+generated_at: "2026-03-29T18:06:03.348Z"
 ---
 
 # § 613. Disbursing and certifying officers

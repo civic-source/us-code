@@ -5,7 +5,7 @@ usc_section: "87a"
 chapter: 3
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 87a"
-generated_at: "2026-03-29T17:52:05.886Z"
+generated_at: "2026-03-29T18:05:17.024Z"
 ---
 
 # § 87a. Repealed. Pub. L. 96–277, § 2 , June 17, 1980 , 94 Stat. 545

@@ -5,7 +5,7 @@ usc_section: "5602"
 chapter: 66
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 5602"
-generated_at: "2026-03-29T17:51:48.571Z"
+generated_at: "2026-03-29T18:05:00.281Z"
 ---
 
 # § 5602. Definitions

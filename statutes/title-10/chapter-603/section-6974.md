@@ -5,7 +5,7 @@ usc_section: "6974"
 chapter: 603
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 6974"
-generated_at: "2026-03-29T17:50:57.220Z"
+generated_at: "2026-03-29T18:04:13.269Z"
 ---
 
 # § 6974. United States Naval Academy Museum Fund: references to Fund

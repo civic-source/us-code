@@ -5,7 +5,7 @@ usc_section: "1440"
 chapter: 32
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1440"
-generated_at: "2026-03-29T17:51:56.878Z"
+generated_at: "2026-03-29T18:05:06.941Z"
 ---
 
 # § 1440. Research, monitoring, and education

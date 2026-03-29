@@ -5,7 +5,7 @@ usc_section: "96"
 chapter: 4
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 96"
-generated_at: "2026-03-29T17:52:05.886Z"
+generated_at: "2026-03-29T18:05:17.025Z"
 ---
 
 # § 96. Repealed. Pub. L. 104–316, title I, § 112(a) , Oct. 19, 1996 , 110 Stat. 3833

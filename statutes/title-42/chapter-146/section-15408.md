@@ -5,7 +5,7 @@ usc_section: "15408"
 chapter: 146
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 15408"
-generated_at: "2026-03-29T17:53:35.944Z"
+generated_at: "2026-03-29T18:07:15.414Z"
 ---
 
 # § 15408. Reports

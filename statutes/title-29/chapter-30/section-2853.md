@@ -5,7 +5,7 @@ usc_section: "2853"
 chapter: 30
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 2853"
-generated_at: "2026-03-29T17:52:18.902Z"
+generated_at: "2026-03-29T18:05:31.820Z"
 ---
 
 # § 2853. Within State allocations

@@ -5,7 +5,7 @@ usc_section: "11386c"
 chapter: 119
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 11386c"
-generated_at: "2026-03-29T17:53:35.736Z"
+generated_at: "2026-03-29T18:07:15.186Z"
 ---
 
 # § 11386c. Renewal funding and terms of assistance for permanent housing

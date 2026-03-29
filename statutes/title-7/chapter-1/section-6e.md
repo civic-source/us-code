@@ -5,7 +5,7 @@ usc_section: "6e"
 chapter: 1
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 6e"
-generated_at: "2026-03-29T17:50:48.424Z"
+generated_at: "2026-03-29T18:04:04.688Z"
 ---
 
 # § 6e. Dealings by unregistered floor trader or broker prohibited

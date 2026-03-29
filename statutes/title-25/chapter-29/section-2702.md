@@ -5,7 +5,7 @@ usc_section: "2702"
 chapter: 29
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 2702"
-generated_at: "2026-03-29T17:52:06.130Z"
+generated_at: "2026-03-29T18:05:17.226Z"
 ---
 
 # § 2702. Declaration of policy

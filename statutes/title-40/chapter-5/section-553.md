@@ -5,7 +5,7 @@ usc_section: "553"
 chapter: 5
 current_through: "PL 113-100"
 classification: "40 U.S.C. § 553"
-generated_at: "2026-03-29T17:52:50.577Z"
+generated_at: "2026-03-29T18:06:19.949Z"
 ---
 
 # § 553. Property for correctional facility, law enforcement, and emergency management response purposes

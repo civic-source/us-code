@@ -5,7 +5,7 @@ usc_section: "1537"
 chapter: 40
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 1537"
-generated_at: "2026-03-29T17:51:36.236Z"
+generated_at: "2026-03-29T18:04:29.565Z"
 ---
 
 # § 1537. Needs assessment for data management, archival, and distribution

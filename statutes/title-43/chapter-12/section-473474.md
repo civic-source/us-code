@@ -5,7 +5,7 @@ usc_section: "473474"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 473474"
-generated_at: "2026-03-29T17:53:03.640Z"
+generated_at: "2026-03-29T18:06:28.281Z"
 ---
 
 # §§ 473, 474. Repealed. May 25, 1926, ch. 383, § 47 , 44 Stat. 650

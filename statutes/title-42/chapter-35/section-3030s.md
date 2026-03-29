@@ -5,7 +5,7 @@ usc_section: "3030s"
 chapter: 35
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 3030s"
-generated_at: "2026-03-29T17:53:35.146Z"
+generated_at: "2026-03-29T18:07:14.486Z"
 ---
 
 # § 3030s. Definitions

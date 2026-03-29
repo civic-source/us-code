@@ -5,7 +5,7 @@ usc_section: "351"
 chapter: 7
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 351"
-generated_at: "2026-03-29T17:52:16.715Z"
+generated_at: "2026-03-29T18:05:26.152Z"
 ---
 
 # § 351. Definitions

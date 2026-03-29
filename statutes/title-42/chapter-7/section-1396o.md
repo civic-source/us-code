@@ -5,7 +5,7 @@ usc_section: "1396o"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1396o"
-generated_at: "2026-03-29T17:53:34.824Z"
+generated_at: "2026-03-29T18:07:14.135Z"
 ---
 
 # § 1396o. Use of enrollment fees, premiums, deductions, cost sharing, and similar charges

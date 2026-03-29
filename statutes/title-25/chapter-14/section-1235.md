@@ -5,7 +5,7 @@ usc_section: "1235"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 1235"
-generated_at: "2026-03-29T17:52:06.040Z"
+generated_at: "2026-03-29T18:05:17.124Z"
 ---
 
 # § 1235. Identity of eligibility roll and membership roll

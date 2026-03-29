@@ -5,7 +5,7 @@ usc_section: "427ato427h"
 chapter: 17
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 427ato427h"
-generated_at: "2026-03-29T17:50:48.515Z"
+generated_at: "2026-03-29T18:04:04.768Z"
 ---
 
 # §§ 427a to 427h. Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674

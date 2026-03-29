@@ -5,7 +5,7 @@ usc_section: "2567"
 chapter: 152
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2567"
-generated_at: "2026-03-29T17:50:57.141Z"
+generated_at: "2026-03-29T18:04:13.189Z"
 ---
 
 # [§ 2567. Repealed. Pub. L. 110–181, div. A, title X, § 1068(b)(1) , Jan. 28, 2008 , 122 Stat. 326 ]

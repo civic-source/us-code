@@ -5,7 +5,7 @@ usc_section: "7581"
 chapter: 85
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 7581"
-generated_at: "2026-03-29T17:53:35.528Z"
+generated_at: "2026-03-29T18:07:14.928Z"
 ---
 
 # § 7581. Definitions

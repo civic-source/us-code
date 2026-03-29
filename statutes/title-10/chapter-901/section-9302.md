@@ -5,7 +5,7 @@ usc_section: "9302"
 chapter: 901
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 9302"
-generated_at: "2026-03-29T17:50:57.247Z"
+generated_at: "2026-03-29T18:04:13.295Z"
 ---
 
 # § 9302. Enlisted members of Air Force: schools

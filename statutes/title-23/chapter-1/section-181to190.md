@@ -5,7 +5,7 @@ usc_section: "181to190"
 chapter: 1
 current_through: "PL 113-100"
 classification: "23 U.S.C. § 181to190"
-generated_at: "2026-03-29T17:52:01.438Z"
+generated_at: "2026-03-29T18:05:12.225Z"
 ---
 
 # [§§ 181 to 190. Renumbered §§ 601 to 610]

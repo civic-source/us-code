@@ -5,7 +5,7 @@ usc_section: "1704"
 chapter: 35
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 1704"
-generated_at: "2026-03-29T17:53:50.973Z"
+generated_at: "2026-03-29T18:07:43.033Z"
 ---
 
 # § 1704. Authority to issue regulations

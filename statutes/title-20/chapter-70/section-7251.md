@@ -5,7 +5,7 @@ usc_section: "7251"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 7251"
-generated_at: "2026-03-29T17:51:48.646Z"
+generated_at: "2026-03-29T18:05:00.361Z"
 ---
 
 # § 7251. Inexpensive book distribution program for reading motivation

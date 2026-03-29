@@ -3,9 +3,9 @@ title: "Section 3486 - Administrative subpoenas"
 usc_title: 18
 usc_section: "3486"
 chapter: 223
-current_through: "PL 117-200"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 3486"
-generated_at: "2026-03-29T17:54:21.376Z"
+generated_at: "2026-03-29T18:04:50.984Z"
 ---
 
 # § 3486. Administrative subpoenas
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T17:54:21.376Z"
       - **(ii)** requiring a custodian of the records of that provider to give testimony concerning the production and authentication of such records or information.
     - **(D)** As used in this paragraph—
       - **(i)** the term “Federal offense involving the sexual exploitation or abuse of children” means an offense under section 1201, 1591, 2241(c), 2242, 2243, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, or 2423, in which the victim is an individual who has not attained the age of 18 years; and
-      - **(ii)** the term “sex offender” means an individual required to register under the Sex Offender Registration and Notification Act ( 42 U.S.C. 16901 et seq.). 2 2 See References in Text note below.
+      - **(ii)** the term “sex offender” means an individual required to register under the Sex Offender Registration and Notification Act ( 42 U.S.C. 16901 et seq.).
   - **(2)** A subpoena under this subsection shall describe the objects required to be produced and prescribe a return date within a reasonable period of time within which the objects can be assembled and made available.
   - **(3)** The production of records relating to a Federal health care offense shall not be required under this section at any place more than 500 miles distant from the place where the subpoena for the production of such records is served. The production of things in any other case may be required from any place within the United States or subject to the laws or jurisdiction of the United States.
   - **(4)** Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the courts of the United States.

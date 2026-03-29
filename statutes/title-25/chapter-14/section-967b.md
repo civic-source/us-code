@@ -5,7 +5,7 @@ usc_section: "967b"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 967b"
-generated_at: "2026-03-29T17:52:06.033Z"
+generated_at: "2026-03-29T18:05:17.115Z"
 ---
 
 # § 967b. Payments to minors and persons under legal disability; shares under certain amount to revert to tribe

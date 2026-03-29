@@ -5,7 +5,7 @@ usc_section: "4117"
 chapter: 42
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 4117"
-generated_at: "2026-03-29T17:51:13.219Z"
+generated_at: "2026-03-29T18:04:43.700Z"
 ---
 
 # § 4117. Delegated responsibility to State agencies

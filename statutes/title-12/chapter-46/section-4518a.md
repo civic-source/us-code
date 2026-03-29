@@ -5,7 +5,7 @@ usc_section: "4518a"
 chapter: 46
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 4518a"
-generated_at: "2026-03-29T17:51:13.230Z"
+generated_at: "2026-03-29T18:04:43.713Z"
 ---
 
 # § 4518a. Limitation on bonuses to executives of Fannie Mae and Freddie Mac

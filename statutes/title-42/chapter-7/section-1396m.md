@@ -5,7 +5,7 @@ usc_section: "1396m"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1396m"
-generated_at: "2026-03-29T17:53:34.818Z"
+generated_at: "2026-03-29T18:07:14.130Z"
 ---
 
 # § 1396m. Withholding of Federal share of payments for certain medicare providers

@@ -5,7 +5,7 @@ usc_section: "16920"
 chapter: 151
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 16920"
-generated_at: "2026-03-29T17:53:36.009Z"
+generated_at: "2026-03-29T18:07:15.490Z"
 ---
 
 # § 16920. Dru Sjodin National Sex Offender Public Website

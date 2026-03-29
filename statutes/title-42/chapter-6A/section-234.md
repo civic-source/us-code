@@ -5,7 +5,7 @@ usc_section: "234"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 234"
-generated_at: "2026-03-29T17:53:34.050Z"
+generated_at: "2026-03-29T18:07:13.268Z"
 ---
 
 # § 234. Repealed. Pub. L. 94–484, title IV, § 408(b)(1) , Oct. 12, 1976 , 90 Stat. 2281 , eff. Oct. 1, 1977

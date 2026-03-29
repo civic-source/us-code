@@ -5,7 +5,7 @@ usc_section: "7607"
 chapter: 78
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 7607"
-generated_at: "2026-03-29T17:52:39.622Z"
+generated_at: "2026-03-29T18:05:45.063Z"
 ---
 
 # [§ 7607. Repealed. Pub. L. 98–473, title II, § 320(b) , Oct. 12, 1984 , 98 Stat. 2056 , and Pub. L. 98–573, title II, § 213(b)(1) , Oct. 30, 1984 , 98 Stat. 2988 ]

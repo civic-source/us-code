@@ -5,7 +5,7 @@ usc_section: "1101to1103"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 1101to1103"
-generated_at: "2026-03-29T17:52:39.350Z"
+generated_at: "2026-03-29T18:05:44.773Z"
 ---
 
 # [§§ 1101 to 1103. Repealed. Pub. L. 101–508, title XI, § 11801(a)(34) , Nov. 5, 1990 , 104 Stat. 1388–521 ]

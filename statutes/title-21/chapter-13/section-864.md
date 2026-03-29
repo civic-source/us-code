@@ -5,7 +5,7 @@ usc_section: "864"
 chapter: 13
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 864"
-generated_at: "2026-03-29T17:52:03.963Z"
+generated_at: "2026-03-29T18:05:14.898Z"
 ---
 
 # § 864. Anhydrous ammonia

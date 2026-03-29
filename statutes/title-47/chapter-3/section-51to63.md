@@ -5,7 +5,7 @@ usc_section: "51to63"
 chapter: 3
 current_through: "PL 113-100"
 classification: "47 U.S.C. § 51to63"
-generated_at: "2026-03-29T17:53:43.597Z"
+generated_at: "2026-03-29T18:07:40.796Z"
 ---
 
 # §§ 51 to 63. Repealed. Feb. 23, 1927, ch. 169, § 39 , 44 Stat. 1174

@@ -5,7 +5,7 @@ usc_section: "176"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 176"
-generated_at: "2026-03-29T17:52:39.162Z"
+generated_at: "2026-03-29T18:05:44.531Z"
 ---
 
 # § 176. Payments with respect to employees of certain foreign corporations

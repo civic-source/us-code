@@ -5,7 +5,7 @@ usc_section: "460zz"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 460zz"
-generated_at: "2026-03-29T17:51:56.643Z"
+generated_at: "2026-03-29T18:05:06.680Z"
 ---
 
 # § 460zz. Findings and purposes

@@ -5,7 +5,7 @@ usc_section: "2161"
 chapter: 23
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 2161"
-generated_at: "2026-03-29T17:53:35.083Z"
+generated_at: "2026-03-29T18:07:14.416Z"
 ---
 
 # § 2161. Policy of Commission

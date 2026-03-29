@@ -5,7 +5,7 @@ usc_section: "381"
 chapter: 5
 current_through: "PL 113-100"
 classification: "47 U.S.C. § 381"
-generated_at: "2026-03-29T17:53:43.641Z"
+generated_at: "2026-03-29T18:07:40.860Z"
 ---
 
 # § 381. Vessels transporting more than six passengers for hire required to be equipped with radiotelephone

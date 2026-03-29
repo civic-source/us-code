@@ -5,7 +5,7 @@ usc_section: "5481"
 chapter: 53
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 5481"
-generated_at: "2026-03-29T17:51:13.296Z"
+generated_at: "2026-03-29T18:04:43.790Z"
 ---
 
 # § 5481. Definitions

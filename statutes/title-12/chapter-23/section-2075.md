@@ -5,7 +5,7 @@ usc_section: "2075"
 chapter: 23
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 2075"
-generated_at: "2026-03-29T17:51:13.159Z"
+generated_at: "2026-03-29T18:04:43.625Z"
 ---
 
 # § 2075. Short- and intermediate-term loans; participation; other financial assistance; terms; conditions; interest; security

@@ -5,7 +5,7 @@ usc_section: "7934"
 chapter: 106
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 7934"
-generated_at: "2026-03-29T17:50:48.878Z"
+generated_at: "2026-03-29T18:04:05.147Z"
 ---
 
 # § 7934. Repayment of loans

@@ -5,7 +5,7 @@ usc_section: "1613"
 chapter: 18
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 1613"
-generated_at: "2026-03-29T17:52:06.059Z"
+generated_at: "2026-03-29T18:05:17.142Z"
 ---
 
 # § 1613. Health professions preparatory scholarship program for Indians

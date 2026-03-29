@@ -5,7 +5,7 @@ usc_section: "562"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 562"
-generated_at: "2026-03-29T17:52:39.275Z"
+generated_at: "2026-03-29T18:05:44.672Z"
 ---
 
 # § 562. Rules applicable in determining dividends eligible for dividends paid deduction

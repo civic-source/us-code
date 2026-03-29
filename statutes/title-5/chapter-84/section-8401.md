@@ -5,7 +5,7 @@ usc_section: "8401"
 chapter: 84
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 8401"
-generated_at: "2026-03-29T17:50:36.537Z"
+generated_at: "2026-03-29T18:03:29.946Z"
 ---
 
 # § 8401. Definitions

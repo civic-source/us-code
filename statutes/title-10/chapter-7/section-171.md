@@ -5,7 +5,7 @@ usc_section: "171"
 chapter: 7
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 171"
-generated_at: "2026-03-29T17:50:56.930Z"
+generated_at: "2026-03-29T18:04:12.968Z"
 ---
 
 # § 171. Armed Forces Policy Council

@@ -5,7 +5,7 @@ usc_section: "2802"
 chapter: 41
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 2802"
-generated_at: "2026-03-29T17:52:46.000Z"
+generated_at: "2026-03-29T18:06:10.615Z"
 ---
 
 # § 2802. Definitions

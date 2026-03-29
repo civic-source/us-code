@@ -5,7 +5,7 @@ usc_section: "81to87"
 chapter: 2
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 81to87"
-generated_at: "2026-03-29T17:53:34.041Z"
+generated_at: "2026-03-29T18:07:13.254Z"
 ---
 
 # §§ 81 to 87. Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 Stat. 714

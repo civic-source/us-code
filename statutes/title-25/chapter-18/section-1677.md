@@ -5,7 +5,7 @@ usc_section: "1677"
 chapter: 18
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 1677"
-generated_at: "2026-03-29T17:52:06.078Z"
+generated_at: "2026-03-29T18:05:17.169Z"
 ---
 
 # § 1677. Nuclear resource development health hazards

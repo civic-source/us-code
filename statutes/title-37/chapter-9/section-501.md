@@ -5,7 +5,7 @@ usc_section: "501"
 chapter: 9
 current_through: "PL 113-100"
 classification: "37 U.S.C. § 501"
-generated_at: "2026-03-29T17:52:59.112Z"
+generated_at: "2026-03-29T18:06:17.232Z"
 ---
 
 # § 501. Payments for unused accrued leave

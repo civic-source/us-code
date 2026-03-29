@@ -5,7 +5,7 @@ usc_section: "8b"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 8b"
-generated_at: "2026-03-29T17:51:56.435Z"
+generated_at: "2026-03-29T18:05:06.376Z"
 ---
 
 # § 8b. National-park approach roads and roads and trails within national parks and national monuments; construction, improvement, and maintenance; appropriation

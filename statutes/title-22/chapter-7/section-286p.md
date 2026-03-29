@@ -5,7 +5,7 @@ usc_section: "286p"
 chapter: 7
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 286p"
-generated_at: "2026-03-29T17:52:10.418Z"
+generated_at: "2026-03-29T18:05:21.734Z"
 ---
 
 # § 286p. Issuance, purpose, and redemption of Special Drawing Rights certificates

@@ -5,7 +5,7 @@ usc_section: "11043"
 chapter: 116
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 11043"
-generated_at: "2026-03-29T17:53:35.722Z"
+generated_at: "2026-03-29T18:07:15.168Z"
 ---
 
 # § 11043. Provision of information to health professionals, doctors, and nurses

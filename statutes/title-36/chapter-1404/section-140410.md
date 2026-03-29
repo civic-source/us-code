@@ -5,7 +5,7 @@ usc_section: "140410"
 chapter: 1404
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 140410"
-generated_at: "2026-03-29T17:52:49.362Z"
+generated_at: "2026-03-29T18:06:24.316Z"
 ---
 
 # § 140410. Liability for acts of officers and agents

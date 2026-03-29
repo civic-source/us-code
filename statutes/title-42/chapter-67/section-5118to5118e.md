@@ -5,7 +5,7 @@ usc_section: "5118to5118e"
 chapter: 67
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5118to5118e"
-generated_at: "2026-03-29T17:53:35.287Z"
+generated_at: "2026-03-29T18:07:14.645Z"
 ---
 
 # §§ 5118 to 5118e. Repealed. Pub. L. 104–235, title I, § 131 , Oct. 3, 1996 , 110 Stat. 3088

@@ -5,7 +5,7 @@ usc_section: "5463"
 chapter: 53
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 5463"
-generated_at: "2026-03-29T17:51:13.294Z"
+generated_at: "2026-03-29T18:04:43.787Z"
 ---
 
 # § 5463. Designation of systemic importance

@@ -5,7 +5,7 @@ usc_section: "6211"
 chapter: 77
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 6211"
-generated_at: "2026-03-29T17:53:35.355Z"
+generated_at: "2026-03-29T18:07:14.729Z"
 ---
 
 # § 6211. Repealed. Pub. L. 106–469, title I, § 103(1) , Nov. 9, 2000 , 114 Stat. 2029

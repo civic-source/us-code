@@ -5,7 +5,7 @@ usc_section: "415c"
 chapter: 17
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 415c"
-generated_at: "2026-03-29T17:50:48.514Z"
+generated_at: "2026-03-29T18:04:04.767Z"
 ---
 
 # § 415c. Use of funds for dissemination of information relating to standardization, grading, etc., of wool; charge for grading wool

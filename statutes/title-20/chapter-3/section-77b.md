@@ -5,7 +5,7 @@ usc_section: "77b"
 chapter: 3
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 77b"
-generated_at: "2026-03-29T17:51:48.289Z"
+generated_at: "2026-03-29T18:05:00.007Z"
 ---
 
 # § 77b. Repealed. Pub. L. 89–509 , pt. I, § 5, July 19, 1966 , 80 Stat. 310

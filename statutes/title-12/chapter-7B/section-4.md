@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 7
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 4"
-generated_at: "2026-03-29T17:51:13.011Z"
+generated_at: "2026-03-29T18:04:43.421Z"
 ---
 
 # § 1148a–4. Security for economic disaster and special livestock loans

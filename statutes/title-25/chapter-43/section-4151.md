@@ -5,7 +5,7 @@ usc_section: "4151"
 chapter: 43
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 4151"
-generated_at: "2026-03-29T17:52:06.161Z"
+generated_at: "2026-03-29T18:05:17.258Z"
 ---
 
 # § 4151. Annual allocation

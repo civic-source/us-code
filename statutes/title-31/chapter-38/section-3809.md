@@ -5,7 +5,7 @@ usc_section: "3809"
 chapter: 38
 current_through: "PL 113-100"
 classification: "31 U.S.C. § 3809"
-generated_at: "2026-03-29T17:52:44.178Z"
+generated_at: "2026-03-29T18:06:08.492Z"
 ---
 
 # § 3809. Regulations

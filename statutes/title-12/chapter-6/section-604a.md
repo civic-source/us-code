@@ -5,7 +5,7 @@ usc_section: "604a"
 chapter: 6
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 604a"
-generated_at: "2026-03-29T17:51:12.999Z"
+generated_at: "2026-03-29T18:04:43.405Z"
 ---
 
 # § 604a. Regulations authorizing exercise by foreign branches of usual powers of local banks; restrictions

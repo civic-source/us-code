@@ -5,7 +5,7 @@ usc_section: "101to106"
 chapter: 6
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 101to106"
-generated_at: "2026-03-29T17:53:50.958Z"
+generated_at: "2026-03-29T18:07:43.008Z"
 ---
 
 # §§ 101 to 106. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862

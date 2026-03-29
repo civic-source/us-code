@@ -5,7 +5,7 @@ usc_section: "11907"
 chapter: 119
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 11907"
-generated_at: "2026-03-29T17:53:47.996Z"
+generated_at: "2026-03-29T18:07:51.379Z"
 ---
 
 # § 11907. Punishment of corporation for violations committed by certain individuals

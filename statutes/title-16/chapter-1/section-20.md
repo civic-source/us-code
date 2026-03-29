@@ -5,7 +5,7 @@ usc_section: "20"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 20"
-generated_at: "2026-03-29T17:51:56.614Z"
+generated_at: "2026-03-29T18:05:06.650Z"
 ---
 
 # § 460u–20. Paul H. Douglas Ecological and Recreational Unit and Center for Environmental Education

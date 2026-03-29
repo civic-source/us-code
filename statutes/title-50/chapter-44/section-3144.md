@@ -5,7 +5,7 @@ usc_section: "3144"
 chapter: 44
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 3144"
-generated_at: "2026-03-29T17:53:51.057Z"
+generated_at: "2026-03-29T18:07:43.119Z"
 ---
 
 # § 3144. Operational files of the National Security Agency

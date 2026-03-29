@@ -5,7 +5,7 @@ usc_section: "2108"
 chapter: 21
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 2108"
-generated_at: "2026-03-29T17:52:49.341Z"
+generated_at: "2026-03-29T18:06:24.292Z"
 ---
 
 # § 2108. Pacific War Memorial and other historical and memorial sites on Corregidor

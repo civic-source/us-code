@@ -5,7 +5,7 @@ usc_section: "40101"
 chapter: 401
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 40101"
-generated_at: "2026-03-29T17:53:48.070Z"
+generated_at: "2026-03-29T18:07:51.475Z"
 ---
 
 # § 40101. Policy

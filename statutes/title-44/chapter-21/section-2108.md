@@ -5,7 +5,7 @@ usc_section: "2108"
 chapter: 21
 current_through: "PL 113-100"
 classification: "44 U.S.C. § 2108"
-generated_at: "2026-03-29T17:53:10.502Z"
+generated_at: "2026-03-29T18:06:33.620Z"
 ---
 
 # § 2108. Responsibility for custody, use, and withdrawal of records

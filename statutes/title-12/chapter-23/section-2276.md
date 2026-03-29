@@ -5,7 +5,7 @@ usc_section: "2276"
 chapter: 23
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 2276"
-generated_at: "2026-03-29T17:51:13.169Z"
+generated_at: "2026-03-29T18:04:43.641Z"
 ---
 
 # § 2276. Access to and examination by Comptroller General of books, documents, etc., of farm credit system banks and institutions

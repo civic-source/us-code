@@ -5,7 +5,7 @@ usc_section: "1651to1653"
 chapter: 19
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 1651to1653"
-generated_at: "2026-03-29T17:52:18.882Z"
+generated_at: "2026-03-29T18:05:31.800Z"
 ---
 
 # §§ 1651 to 1653. Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug. 7, 1998 , 112 Stat. 1059

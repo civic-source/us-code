@@ -5,7 +5,7 @@ usc_section: "60g60g1"
 chapter: 4
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 60g60g1"
-generated_at: "2026-03-29T17:50:23.984Z"
+generated_at: "2026-03-29T18:03:21.699Z"
 ---
 
 # §§ 60g, 60g–1. Repealed. Pub. L. 91–510, title IV, § 477(a)(1) , (2), Oct. 26, 1970 , 84 Stat. 1195

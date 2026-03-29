@@ -5,7 +5,7 @@ usc_section: "6651"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 6651"
-generated_at: "2026-03-29T17:51:48.614Z"
+generated_at: "2026-03-29T18:05:00.329Z"
 ---
 
 # § 6651. National activities of demonstrated effectiveness

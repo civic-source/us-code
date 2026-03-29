@@ -5,7 +5,7 @@ usc_section: "4358"
 chapter: 55
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 4358"
-generated_at: "2026-03-29T17:51:48.559Z"
+generated_at: "2026-03-29T18:05:00.270Z"
 ---
 
 # § 4358. Repealed. Pub. L. 105–244, title IX, § 920 , Oct. 7, 1998 , 112 Stat. 1831

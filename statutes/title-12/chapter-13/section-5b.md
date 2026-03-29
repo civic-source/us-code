@@ -5,7 +5,7 @@ usc_section: "5b"
 chapter: 13
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 5b"
-generated_at: "2026-03-29T17:51:13.035Z"
+generated_at: "2026-03-29T18:04:43.453Z"
 ---
 
 # § 1701g–5b. Liquidation of New Communities Program; cancellation of debt

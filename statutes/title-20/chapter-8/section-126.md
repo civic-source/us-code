@@ -5,7 +5,7 @@ usc_section: "126"
 chapter: 8
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 126"
-generated_at: "2026-03-29T17:51:48.297Z"
+generated_at: "2026-03-29T18:05:00.019Z"
 ---
 
 # § 126. Authorization of appropriations for construction of hospital facilities

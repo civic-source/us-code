@@ -5,7 +5,7 @@ usc_section: "1602"
 chapter: 36
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1602"
-generated_at: "2026-03-29T17:51:56.893Z"
+generated_at: "2026-03-29T18:05:06.959Z"
 ---
 
 # § 1602. Renewable Resource Program; preparation by Secretary of Agriculture and transmittal to President; purpose and development of program; time of preparation, updating and contents

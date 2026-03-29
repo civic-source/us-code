@@ -5,7 +5,7 @@ usc_section: "61a"
 chapter: 2
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 61a"
-generated_at: "2026-03-29T17:50:48.446Z"
+generated_at: "2026-03-29T18:04:04.712Z"
 ---
 
 # § 61a. Annual review meetings with cotton industry representatives; purposes, etc.

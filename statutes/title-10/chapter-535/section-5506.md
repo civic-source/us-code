@@ -5,7 +5,7 @@ usc_section: "5506"
 chapter: 535
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 5506"
-generated_at: "2026-03-29T17:50:57.207Z"
+generated_at: "2026-03-29T18:04:13.253Z"
 ---
 
 # [§ 5506. Repealed. Pub. L. 103–337, div. A, title XVI, § 1673(d)(1) , Oct. 5, 1994 , 108 Stat. 3016 ]

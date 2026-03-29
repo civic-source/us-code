@@ -5,7 +5,7 @@ usc_section: "1659"
 chapter: 111
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 1659"
-generated_at: "2026-03-29T17:52:24.222Z"
+generated_at: "2026-03-29T18:06:03.370Z"
 ---
 
 # § 1659. Stay of certain actions pending disposition of related proceedings before the United States International Trade Commission

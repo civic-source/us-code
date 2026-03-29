@@ -5,7 +5,7 @@ usc_section: "565a"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 565a"
-generated_at: "2026-03-29T17:52:05.997Z"
+generated_at: "2026-03-29T18:05:17.072Z"
 ---
 
 # § 565a. Distribution to persons on final roll; payment of shares due living adults, deceased enrollees, adults under legal disabilities, persons in need of assistance, and minors

@@ -5,7 +5,7 @@ usc_section: "86a"
 chapter: 2
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 86a"
-generated_at: "2026-03-29T17:51:12.974Z"
+generated_at: "2026-03-29T18:04:43.377Z"
 ---
 
 # § 86a. Omitted

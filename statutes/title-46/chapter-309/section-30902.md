@@ -5,7 +5,7 @@ usc_section: "30902"
 chapter: 309
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 30902"
-generated_at: "2026-03-29T17:53:41.813Z"
+generated_at: "2026-03-29T18:07:34.374Z"
 ---
 
 # § 30902. Definition

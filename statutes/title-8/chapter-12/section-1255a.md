@@ -5,7 +5,7 @@ usc_section: "1255a"
 chapter: 12
 current_through: "PL 113-100"
 classification: "8 U.S.C. § 1255a"
-generated_at: "2026-03-29T17:50:41.355Z"
+generated_at: "2026-03-29T18:03:34.066Z"
 ---
 
 # § 1255a. Adjustment of status of certain entrants before January 1, 1982 , to that of person admitted for lawful residence

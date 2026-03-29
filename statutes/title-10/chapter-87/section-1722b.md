@@ -5,7 +5,7 @@ usc_section: "1722b"
 chapter: 87
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1722b"
-generated_at: "2026-03-29T17:50:57.060Z"
+generated_at: "2026-03-29T18:04:13.104Z"
 ---
 
 # § 1722b. Special requirements for civilian employees in the acquisition field

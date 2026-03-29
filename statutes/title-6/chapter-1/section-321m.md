@@ -5,7 +5,7 @@ usc_section: "321m"
 chapter: 1
 current_through: "PL 113-100"
 classification: "6 U.S.C. § 321m"
-generated_at: "2026-03-29T17:50:39.339Z"
+generated_at: "2026-03-29T18:03:43.253Z"
 ---
 
 # § 321m. Voluntary private sector preparedness accreditation and certification program

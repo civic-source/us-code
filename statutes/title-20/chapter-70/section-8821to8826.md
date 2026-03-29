@@ -5,7 +5,7 @@ usc_section: "8821to8826"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 8821to8826"
-generated_at: "2026-03-29T17:51:48.682Z"
+generated_at: "2026-03-29T18:05:00.402Z"
 ---
 
 # §§ 8821 to 8826. Repealed. Pub. L. 107–110, title X, § 1011(5)(C) , Jan. 8, 2002 , 115 Stat. 1986

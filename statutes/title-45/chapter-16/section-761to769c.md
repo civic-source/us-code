@@ -5,7 +5,7 @@ usc_section: "761to769c"
 chapter: 16
 current_through: "PL 113-100"
 classification: "45 U.S.C. § 761to769c"
-generated_at: "2026-03-29T17:53:02.125Z"
+generated_at: "2026-03-29T18:06:35.972Z"
 ---
 
 # §§ 761 to 769c. Repealed. Pub. L. 99–509, title IV, § 4033(a)(1) , Oct. 21, 1986 , 100 Stat. 1908

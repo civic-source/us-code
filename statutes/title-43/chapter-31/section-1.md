@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 31
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-29T17:53:03.696Z"
+generated_at: "2026-03-29T18:06:28.340Z"
 ---
 
 # § 1474b–1. Transfer of funds from Natural Resource Damage Assessment and Restoration Fund

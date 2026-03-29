@@ -5,7 +5,7 @@ usc_section: "5115a"
 chapter: 67
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5115a"
-generated_at: "2026-03-29T17:53:35.284Z"
+generated_at: "2026-03-29T18:07:14.643Z"
 ---
 
 # § 5115a. Repealed. Pub. L. 104–188, title I, § 1808(d) , Aug. 20, 1996 , 110 Stat. 1904

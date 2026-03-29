@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 47
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 6"
-generated_at: "2026-03-29T17:50:56.988Z"
+generated_at: "2026-03-29T18:04:13.029Z"
 ---
 
 # § 949p–6. Procedure for cases involving classified information

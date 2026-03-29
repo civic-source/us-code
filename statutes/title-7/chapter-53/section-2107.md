@@ -5,7 +5,7 @@ usc_section: "2107"
 chapter: 53
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 2107"
-generated_at: "2026-03-29T17:50:48.716Z"
+generated_at: "2026-03-29T18:04:04.972Z"
 ---
 
 # § 2107. Referenda

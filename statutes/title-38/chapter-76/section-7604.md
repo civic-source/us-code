@@ -5,7 +5,7 @@ usc_section: "7604"
 chapter: 76
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 7604"
-generated_at: "2026-03-29T17:52:53.849Z"
+generated_at: "2026-03-29T18:06:22.856Z"
 ---
 
 # § 7604. Terms of agreement

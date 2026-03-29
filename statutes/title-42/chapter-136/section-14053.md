@@ -5,7 +5,7 @@ usc_section: "14053"
 chapter: 136
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 14053"
-generated_at: "2026-03-29T17:53:35.894Z"
+generated_at: "2026-03-29T18:07:15.364Z"
 ---
 
 # § 14053. Violent crime and drug emergency areas

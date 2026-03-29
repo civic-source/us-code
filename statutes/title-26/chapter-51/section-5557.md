@@ -5,7 +5,7 @@ usc_section: "5557"
 chapter: 51
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 5557"
-generated_at: "2026-03-29T17:52:39.501Z"
+generated_at: "2026-03-29T18:05:44.942Z"
 ---
 
 # § 5557. Officers and agents authorized to investigate, issue search warrants, and prosecute for violations

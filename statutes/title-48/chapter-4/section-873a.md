@@ -5,7 +5,7 @@ usc_section: "873a"
 chapter: 4
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 873a"
-generated_at: "2026-03-29T17:53:42.693Z"
+generated_at: "2026-03-29T18:07:36.838Z"
 ---
 
 # § 873a. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992

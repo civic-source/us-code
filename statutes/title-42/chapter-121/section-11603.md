@@ -5,7 +5,7 @@ usc_section: "11603"
 chapter: 121
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 11603"
-generated_at: "2026-03-29T17:53:35.746Z"
+generated_at: "2026-03-29T18:07:15.197Z"
 ---
 
 # § 11603. Judicial remedies

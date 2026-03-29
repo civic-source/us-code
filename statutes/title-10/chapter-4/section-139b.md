@@ -5,7 +5,7 @@ usc_section: "139b"
 chapter: 4
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 139b"
-generated_at: "2026-03-29T17:50:56.925Z"
+generated_at: "2026-03-29T18:04:12.963Z"
 ---
 
 # § 139b. Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering: joint guidance

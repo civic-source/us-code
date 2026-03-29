@@ -5,7 +5,7 @@ usc_section: "9401"
 chapter: 75
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 9401"
-generated_at: "2026-03-29T17:51:48.694Z"
+generated_at: "2026-03-29T18:05:00.412Z"
 ---
 
 # § 9401. Purposes

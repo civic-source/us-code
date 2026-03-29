@@ -5,7 +5,7 @@ usc_section: "557a"
 chapter: 12
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 557a"
-generated_at: "2026-03-29T17:52:18.766Z"
+generated_at: "2026-03-29T18:05:31.685Z"
 ---
 
 # § 557a. Mine Safety and Health Administration

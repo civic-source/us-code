@@ -5,7 +5,7 @@ usc_section: "283s"
 chapter: 7
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 283s"
-generated_at: "2026-03-29T17:52:10.407Z"
+generated_at: "2026-03-29T18:05:21.726Z"
 ---
 
 # § 283s. Illegal drug traffic; loan restrictions

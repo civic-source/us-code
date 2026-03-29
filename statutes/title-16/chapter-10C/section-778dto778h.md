@@ -5,7 +5,7 @@ usc_section: "778dto778h"
 chapter: 10
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 778dto778h"
-generated_at: "2026-03-29T17:51:56.776Z"
+generated_at: "2026-03-29T18:05:06.831Z"
 ---
 
 # §§ 778d to 778h. Omitted

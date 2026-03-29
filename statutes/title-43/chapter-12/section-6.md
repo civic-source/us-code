@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 6"
-generated_at: "2026-03-29T17:53:03.650Z"
+generated_at: "2026-03-29T18:06:28.292Z"
 ---
 
 # § 615llll–6. Repealed. Pub. L. 100–516, § 12(a) , Oct. 24, 1988 , 102 Stat. 2572

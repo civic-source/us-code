@@ -5,7 +5,7 @@ usc_section: "1592b"
 chapter: 9
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1592b"
-generated_at: "2026-03-29T17:53:34.951Z"
+generated_at: "2026-03-29T18:07:14.279Z"
 ---
 
 # § 1592b. Maximum construction costs; determinations by Secretary in certain condemnation proceedings

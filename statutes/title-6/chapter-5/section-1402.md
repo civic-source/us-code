@@ -5,7 +5,7 @@ usc_section: "1402"
 chapter: 5
 current_through: "PL 113-100"
 classification: "6 U.S.C. § 1402"
-generated_at: "2026-03-29T17:50:39.389Z"
+generated_at: "2026-03-29T18:03:43.307Z"
 ---
 
 # § 1402. Port of Entry Infrastructure Assessment Study

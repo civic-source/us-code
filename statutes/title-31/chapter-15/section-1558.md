@@ -5,7 +5,7 @@ usc_section: "1558"
 chapter: 15
 current_through: "PL 113-100"
 classification: "31 U.S.C. § 1558"
-generated_at: "2026-03-29T17:52:44.160Z"
+generated_at: "2026-03-29T18:06:08.471Z"
 ---
 
 # § 1558. Availability of funds following resolution of a formal protest or other challenge

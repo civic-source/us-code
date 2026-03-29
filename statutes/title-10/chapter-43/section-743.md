@@ -5,7 +5,7 @@ usc_section: "743"
 chapter: 43
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 743"
-generated_at: "2026-03-29T17:50:56.967Z"
+generated_at: "2026-03-29T18:04:13.008Z"
 ---
 
 # § 743. Rank: Chief of Staff of the Army; Chief of Naval Operations; Chief of Staff of the Air Force; Commandant of the Marine Corps

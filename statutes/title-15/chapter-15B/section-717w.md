@@ -5,7 +5,7 @@ usc_section: "717w"
 chapter: 15
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 717w"
-generated_at: "2026-03-29T17:51:36.194Z"
+generated_at: "2026-03-29T18:04:29.514Z"
 ---
 
 # § 717w. Short title

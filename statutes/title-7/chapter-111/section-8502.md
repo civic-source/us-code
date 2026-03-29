@@ -5,7 +5,7 @@ usc_section: "8502"
 chapter: 111
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 8502"
-generated_at: "2026-03-29T17:50:48.899Z"
+generated_at: "2026-03-29T18:04:05.170Z"
 ---
 
 # § 8502. Sense of Congress regarding need for improved and better coordinated Federal policy for brown tree snake introduction, control, and eradication

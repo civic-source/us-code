@@ -5,7 +5,7 @@ usc_section: "1984"
 chapter: 19
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 1984"
-generated_at: "2026-03-29T17:52:53.722Z"
+generated_at: "2026-03-29T18:06:22.770Z"
 ---
 
 # § 1984. Suits on insurance

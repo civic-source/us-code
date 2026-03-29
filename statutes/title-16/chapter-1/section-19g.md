@@ -5,7 +5,7 @@ usc_section: "19g"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 19g"
-generated_at: "2026-03-29T17:51:56.440Z"
+generated_at: "2026-03-29T18:05:06.381Z"
 ---
 
 # § 19g. Gifts, devises, or bequests; restriction; real property interests; property with encumbrances, restrictions, or subject to beneficial interests of private persons

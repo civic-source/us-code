@@ -5,7 +5,7 @@ usc_section: "1307"
 chapter: 35
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1307"
-generated_at: "2026-03-29T17:50:48.560Z"
+generated_at: "2026-03-29T18:04:04.814Z"
 ---
 
 # § 1307. Limitation on payments under wheat, feed grains, and cotton programs for 1974 through 1977 crops

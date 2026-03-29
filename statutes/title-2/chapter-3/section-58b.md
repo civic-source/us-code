@@ -5,7 +5,7 @@ usc_section: "58b"
 chapter: 3
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 58b"
-generated_at: "2026-03-29T17:50:23.983Z"
+generated_at: "2026-03-29T18:03:21.698Z"
 ---
 
 # § 58b. Repealed. Pub. L. 100–137, § 2 , Oct. 21, 1987 , 101 Stat. 819

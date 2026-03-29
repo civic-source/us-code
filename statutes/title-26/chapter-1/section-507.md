@@ -5,7 +5,7 @@ usc_section: "507"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 507"
-generated_at: "2026-03-29T17:52:39.265Z"
+generated_at: "2026-03-29T18:05:44.657Z"
 ---
 
 # § 507. Termination of private foundation status

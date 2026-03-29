@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-29T17:53:34.858Z"
+generated_at: "2026-03-29T18:07:14.174Z"
 ---
 
 # § 1396u–6. Medicaid Integrity Program

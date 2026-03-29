@@ -5,7 +5,7 @@ usc_section: "1903"
 chapter: 19
 current_through: "PL 113-100"
 classification: "44 U.S.C. § 1903"
-generated_at: "2026-03-29T17:53:10.499Z"
+generated_at: "2026-03-29T18:06:33.619Z"
 ---
 
 # § 1903. Distribution of publications to depositories; notice to Government components; cost of printing and binding

@@ -5,7 +5,7 @@ usc_section: "1715"
 chapter: 39
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1715"
-generated_at: "2026-03-29T17:51:48.520Z"
+generated_at: "2026-03-29T18:05:00.234Z"
 ---
 
 # § 1715. District lines

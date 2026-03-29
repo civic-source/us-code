@@ -5,7 +5,7 @@ usc_section: "878"
 chapter: 22
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 878"
-generated_at: "2026-03-29T17:52:16.735Z"
+generated_at: "2026-03-29T18:05:26.177Z"
 ---
 
 # § 878. Definitions

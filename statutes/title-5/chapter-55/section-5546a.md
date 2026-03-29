@@ -5,7 +5,7 @@ usc_section: "5546a"
 chapter: 55
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 5546a"
-generated_at: "2026-03-29T17:50:36.486Z"
+generated_at: "2026-03-29T18:03:29.885Z"
 ---
 
 # § 5546a. Differential pay for certain employees of the Federal Aviation Administration and the Department of Defense

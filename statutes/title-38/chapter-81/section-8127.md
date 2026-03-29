@@ -5,7 +5,7 @@ usc_section: "8127"
 chapter: 81
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 8127"
-generated_at: "2026-03-29T17:52:53.863Z"
+generated_at: "2026-03-29T18:06:22.867Z"
 ---
 
 # § 8127. Small business concerns owned and controlled by veterans: contracting goals and preferences

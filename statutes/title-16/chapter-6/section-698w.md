@@ -5,7 +5,7 @@ usc_section: "698w"
 chapter: 6
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 698w"
-generated_at: "2026-03-29T17:51:56.759Z"
+generated_at: "2026-03-29T18:05:06.812Z"
 ---
 
 # § 698w. Special management requirements for Federal lands recently added to Craters of the Moon National Monument, Idaho

@@ -5,7 +5,7 @@ usc_section: "1843"
 chapter: 17
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 1843"
-generated_at: "2026-03-29T17:53:42.725Z"
+generated_at: "2026-03-29T18:07:36.870Z"
 ---
 
 # § 1843. Exemption from taxation for income derived from sources within Commonwealth

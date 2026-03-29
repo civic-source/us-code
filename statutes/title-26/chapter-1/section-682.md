@@ -5,7 +5,7 @@ usc_section: "682"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 682"
-generated_at: "2026-03-29T17:52:39.286Z"
+generated_at: "2026-03-29T18:05:44.686Z"
 ---
 
 # § 682. Income of an estate or trust in case of divorce, etc.

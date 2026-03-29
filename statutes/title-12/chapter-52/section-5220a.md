@@ -5,7 +5,7 @@ usc_section: "5220a"
 chapter: 52
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 5220a"
-generated_at: "2026-03-29T17:51:13.265Z"
+generated_at: "2026-03-29T18:04:43.754Z"
 ---
 
 # § 5220a. Application of GSE conforming loan limit to mortgages assisted with TARP funds

@@ -5,7 +5,7 @@ usc_section: "2994to2994g"
 chapter: 47
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 2994to2994g"
-generated_at: "2026-03-29T17:51:48.539Z"
+generated_at: "2026-03-29T18:05:00.253Z"
 ---
 
 # §§ 2994 to 2994g. Omitted

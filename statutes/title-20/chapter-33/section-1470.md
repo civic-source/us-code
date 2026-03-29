@@ -5,7 +5,7 @@ usc_section: "1470"
 chapter: 33
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1470"
-generated_at: "2026-03-29T17:51:48.516Z"
+generated_at: "2026-03-29T18:05:00.230Z"
 ---
 
 # § 1470. Purposes

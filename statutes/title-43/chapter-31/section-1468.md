@@ -5,7 +5,7 @@ usc_section: "1468"
 chapter: 31
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 1468"
-generated_at: "2026-03-29T17:53:03.694Z"
+generated_at: "2026-03-29T18:06:28.339Z"
 ---
 
 # § 1468. Working capital fund; availability for uniforms or allowances therefor

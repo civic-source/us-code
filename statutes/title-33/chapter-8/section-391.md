@@ -5,7 +5,7 @@ usc_section: "391"
 chapter: 8
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 391"
-generated_at: "2026-03-29T17:52:45.883Z"
+generated_at: "2026-03-29T18:06:10.471Z"
 ---
 
 # § 391. Summary trials authorized

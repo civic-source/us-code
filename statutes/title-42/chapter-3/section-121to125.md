@@ -5,7 +5,7 @@ usc_section: "121to125"
 chapter: 3
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 121to125"
-generated_at: "2026-03-29T17:53:34.041Z"
+generated_at: "2026-03-29T18:07:13.255Z"
 ---
 
 # §§ 121 to 125. Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 Stat. 714

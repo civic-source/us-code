@@ -5,7 +5,7 @@ usc_section: "1418"
 chapter: 33
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1418"
-generated_at: "2026-03-29T17:51:48.507Z"
+generated_at: "2026-03-29T18:05:00.220Z"
 ---
 
 # § 1418. Program information

@@ -5,7 +5,7 @@ usc_section: "821to835"
 chapter: 19
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 821to835"
-generated_at: "2026-03-29T17:53:03.663Z"
+generated_at: "2026-03-29T18:06:28.305Z"
 ---
 
 # §§ 821 to 835. Repealed. Pub. L. 87–558, § 1 , July 27, 1962 , 76 Stat. 246

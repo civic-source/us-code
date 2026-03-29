@@ -5,7 +5,7 @@ usc_section: "329"
 chapter: 3
 current_through: "PL 113-100"
 classification: "23 U.S.C. § 329"
-generated_at: "2026-03-29T17:52:01.446Z"
+generated_at: "2026-03-29T18:05:12.237Z"
 ---
 
 # § 329. Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species

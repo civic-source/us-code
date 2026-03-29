@@ -5,7 +5,7 @@ usc_section: "1605"
 chapter: 21
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 1605"
-generated_at: "2026-03-29T17:52:03.980Z"
+generated_at: "2026-03-29T18:05:14.920Z"
 ---
 
 # § 1605. Procedures for dismissal of civil actions against biomaterials suppliers

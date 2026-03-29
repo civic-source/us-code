@@ -5,7 +5,7 @@ usc_section: "1323"
 chapter: 25
 current_through: "PL 113-100"
 classification: "30 U.S.C. § 1323"
-generated_at: "2026-03-29T17:52:16.769Z"
+generated_at: "2026-03-29T18:05:26.218Z"
 ---
 
 # § 1323. Distribution of fellowships

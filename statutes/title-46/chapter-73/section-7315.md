@@ -5,7 +5,7 @@ usc_section: "7315"
 chapter: 73
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 7315"
-generated_at: "2026-03-29T17:53:41.795Z"
+generated_at: "2026-03-29T18:07:34.348Z"
 ---
 
 # § 7315. Training

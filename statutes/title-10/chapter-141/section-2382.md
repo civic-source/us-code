@@ -5,7 +5,7 @@ usc_section: "2382"
 chapter: 141
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2382"
-generated_at: "2026-03-29T17:50:57.117Z"
+generated_at: "2026-03-29T18:04:13.161Z"
 ---
 
 # [§ 2382. Repealed. Pub. L. 112–239, div. A, title XVI, § 1671(c)(1) , Jan. 2, 2013 , 126 Stat. 2084 ]

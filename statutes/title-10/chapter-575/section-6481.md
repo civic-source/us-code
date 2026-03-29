@@ -5,7 +5,7 @@ usc_section: "6481"
 chapter: 575
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 6481"
-generated_at: "2026-03-29T17:50:57.217Z"
+generated_at: "2026-03-29T18:04:13.263Z"
 ---
 
 # [§ 6481. Repealed. Pub. L. 96–513, title III, § 362(a) , Dec. 12, 1980 , 94 Stat. 2903 ]

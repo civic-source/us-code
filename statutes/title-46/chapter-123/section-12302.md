@@ -5,7 +5,7 @@ usc_section: "12302"
 chapter: 123
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 12302"
-generated_at: "2026-03-29T17:53:41.807Z"
+generated_at: "2026-03-29T18:07:34.368Z"
 ---
 
 # § 12302. Standard numbering system

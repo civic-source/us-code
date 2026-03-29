@@ -5,7 +5,7 @@ usc_section: "7103"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 7103"
-generated_at: "2026-03-29T17:51:48.628Z"
+generated_at: "2026-03-29T18:05:00.344Z"
 ---
 
 # § 7103. Authorization of appropriations

@@ -5,7 +5,7 @@ usc_section: "1070a2to1070a6"
 chapter: 28
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1070a2to1070a6"
-generated_at: "2026-03-29T17:51:48.343Z"
+generated_at: "2026-03-29T18:05:00.069Z"
 ---
 
 # §§ 1070a–2 to 1070a–6. Repealed. Pub. L. 102–325, title IV, § 401(i) , July 23, 1992 , 106 Stat. 482

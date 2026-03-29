@@ -5,7 +5,7 @@ usc_section: "632to644"
 chapter: 5
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 632to644"
-generated_at: "2026-03-29T17:51:56.737Z"
+generated_at: "2026-03-29T18:05:06.786Z"
 ---
 
 # §§ 632 to 644. Repealed. Feb. 26, 1944, ch. 65, § 18 , 58 Stat. 104

@@ -5,7 +5,7 @@ usc_section: "179A"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 179A"
-generated_at: "2026-03-29T17:52:39.163Z"
+generated_at: "2026-03-29T18:05:44.532Z"
 ---
 
 # § 179A. Deduction for clean-fuel vehicles and certain refueling property

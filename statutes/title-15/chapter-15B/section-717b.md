@@ -5,7 +5,7 @@ usc_section: "717b"
 chapter: 15
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 717b"
-generated_at: "2026-03-29T17:51:36.190Z"
+generated_at: "2026-03-29T18:04:29.508Z"
 ---
 
 # § 717b. Exportation or importation of natural gas; LNG terminals

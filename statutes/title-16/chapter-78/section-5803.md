@@ -5,7 +5,7 @@ usc_section: "5803"
 chapter: 78
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 5803"
-generated_at: "2026-03-29T17:51:57.010Z"
+generated_at: "2026-03-29T18:05:07.085Z"
 ---
 
 # § 5803. Composition and operation

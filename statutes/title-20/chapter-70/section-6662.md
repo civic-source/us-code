@@ -5,7 +5,7 @@ usc_section: "6662"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 6662"
-generated_at: "2026-03-29T17:51:48.615Z"
+generated_at: "2026-03-29T18:05:00.330Z"
 ---
 
 # § 6662. Grants for mathematics and science partnerships

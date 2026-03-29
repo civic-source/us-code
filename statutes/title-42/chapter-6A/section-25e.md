@@ -5,7 +5,7 @@ usc_section: "25e"
 chapter: 6
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 25e"
-generated_at: "2026-03-29T17:53:34.218Z"
+generated_at: "2026-03-29T18:07:13.445Z"
 ---
 
 # § 290bb–25e. Prevention of methamphetamine and inhalant abuse and addiction

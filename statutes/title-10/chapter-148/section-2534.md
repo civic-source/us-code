@@ -5,7 +5,7 @@ usc_section: "2534"
 chapter: 148
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2534"
-generated_at: "2026-03-29T17:50:57.136Z"
+generated_at: "2026-03-29T18:04:13.184Z"
 ---
 
 # § 2534. Miscellaneous limitations on the procurement of goods other than United States goods

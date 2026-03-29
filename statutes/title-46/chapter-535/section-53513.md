@@ -5,7 +5,7 @@ usc_section: "53513"
 chapter: 535
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 53513"
-generated_at: "2026-03-29T17:53:41.829Z"
+generated_at: "2026-03-29T18:07:34.399Z"
 ---
 
 # § 53513. Corporate reorganizations and partnership changes

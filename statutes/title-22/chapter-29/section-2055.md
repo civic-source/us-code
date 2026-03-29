@@ -5,7 +5,7 @@ usc_section: "2055"
 chapter: 29
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 2055"
-generated_at: "2026-03-29T17:52:10.472Z"
+generated_at: "2026-03-29T18:05:21.795Z"
 ---
 
 # § 2055. Duties of Secretary of State; establishment and operation of educational institution; grants, fellowships, and scholarships; availability of facilities

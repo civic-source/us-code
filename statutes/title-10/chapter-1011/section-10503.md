@@ -5,7 +5,7 @@ usc_section: "10503"
 chapter: 1011
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 10503"
-generated_at: "2026-03-29T17:50:57.264Z"
+generated_at: "2026-03-29T18:04:13.312Z"
 ---
 
 # § 10503. Functions of National Guard Bureau: charter

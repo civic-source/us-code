@@ -5,7 +5,7 @@ usc_section: "2653to2655"
 chapter: 38
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 2653to2655"
-generated_at: "2026-03-29T17:52:10.547Z"
+generated_at: "2026-03-29T18:05:21.872Z"
 ---
 
 # §§ 2653 to 2655. Repealed. Pub. L. 103–236, title I, § 162(a) , (p), Apr. 30, 1994 , 108 Stat. 405 , 410

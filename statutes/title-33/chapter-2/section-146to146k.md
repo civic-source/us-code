@@ -5,7 +5,7 @@ usc_section: "146to146k"
 chapter: 2
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 146to146k"
-generated_at: "2026-03-29T17:52:45.882Z"
+generated_at: "2026-03-29T18:06:10.470Z"
 ---
 
 # §§ 146 to 146k. Repealed. Pub. L. 88–131, § 3 , Sept. 24, 1963 , 77 Stat. 194

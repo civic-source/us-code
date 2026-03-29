@@ -5,7 +5,7 @@ usc_section: "2261"
 chapter: 154
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 2261"
-generated_at: "2026-03-29T17:52:24.234Z"
+generated_at: "2026-03-29T18:06:03.384Z"
 ---
 
 # § 2261. Prisoners in State custody subject to capital sentence; appointment of counsel; requirement of rule of court or statute; procedures for appointment

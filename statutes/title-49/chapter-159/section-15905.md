@@ -5,7 +5,7 @@ usc_section: "15905"
 chapter: 159
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 15905"
-generated_at: "2026-03-29T17:53:48.009Z"
+generated_at: "2026-03-29T18:07:51.396Z"
 ---
 
 # § 15905. Limitation on actions by and against pipeline carriers

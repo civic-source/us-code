@@ -5,7 +5,7 @@ usc_section: "8"
 chapter: 6
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-29T17:51:56.759Z"
+generated_at: "2026-03-29T18:05:06.811Z"
 ---
 
 # § 698v–8. Termination of the Trust

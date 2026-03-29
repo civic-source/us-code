@@ -5,7 +5,7 @@ usc_section: "3106"
 chapter: 46
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 3106"
-generated_at: "2026-03-29T17:52:10.578Z"
+generated_at: "2026-03-29T18:05:21.903Z"
 ---
 
 # § 3106. Use of experts and administrative support services

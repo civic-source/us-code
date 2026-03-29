@@ -5,7 +5,7 @@ usc_section: "1704b"
 chapter: 41
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1704b"
-generated_at: "2026-03-29T17:50:48.632Z"
+generated_at: "2026-03-29T18:04:04.884Z"
 ---
 
 # § 1704b. Repealed. Pub. L. 97–214, § 7(4) , July 12, 1982 , 96 Stat. 173

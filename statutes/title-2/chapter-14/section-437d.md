@@ -5,7 +5,7 @@ usc_section: "437d"
 chapter: 14
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 437d"
-generated_at: "2026-03-29T17:50:24.032Z"
+generated_at: "2026-03-29T18:03:21.741Z"
 ---
 
 # § 437d. Powers of Commission

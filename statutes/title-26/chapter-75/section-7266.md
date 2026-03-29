@@ -5,7 +5,7 @@ usc_section: "7266"
 chapter: 75
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 7266"
-generated_at: "2026-03-29T17:52:39.601Z"
+generated_at: "2026-03-29T18:05:45.044Z"
 ---
 
 # [§ 7266. Repealed. Pub. L. 93–490, § 3(b)(3) , Oct. 26, 1974 , 88 Stat. 1467 ]

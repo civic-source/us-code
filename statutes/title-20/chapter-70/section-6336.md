@@ -5,7 +5,7 @@ usc_section: "6336"
 chapter: 70
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 6336"
-generated_at: "2026-03-29T17:51:48.594Z"
+generated_at: "2026-03-29T18:05:00.307Z"
 ---
 
 # § 6336. Adequacy of funding of targeted grants to local educational agencies in fiscal years after fiscal year 2001

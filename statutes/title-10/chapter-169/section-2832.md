@@ -5,7 +5,7 @@ usc_section: "2832"
 chapter: 169
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2832"
-generated_at: "2026-03-29T17:50:57.167Z"
+generated_at: "2026-03-29T18:04:13.214Z"
 ---
 
 # § 2832. Homeowners assistance program

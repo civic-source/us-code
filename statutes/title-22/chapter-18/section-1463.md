@@ -5,7 +5,7 @@ usc_section: "1463"
 chapter: 18
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 1463"
-generated_at: "2026-03-29T17:52:10.449Z"
+generated_at: "2026-03-29T18:05:21.772Z"
 ---
 
 # § 1463. Repealed. Pub. L. 103–236, title III, § 315(a) , Apr. 30, 1994 , 108 Stat. 445

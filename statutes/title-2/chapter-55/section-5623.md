@@ -5,7 +5,7 @@ usc_section: "5623"
 chapter: 55
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 5623"
-generated_at: "2026-03-29T17:50:24.130Z"
+generated_at: "2026-03-29T18:03:21.853Z"
 ---
 
 # § 5623. Effective date

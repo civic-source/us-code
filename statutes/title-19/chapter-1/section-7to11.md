@@ -5,7 +5,7 @@ usc_section: "7to11"
 chapter: 1
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 7to11"
-generated_at: "2026-03-29T17:51:51.197Z"
+generated_at: "2026-03-29T18:04:54.990Z"
 ---
 
 # §§ 7 to 11. Repealed. Pub. L. 91–271, title III, § 321(c) –(g), June 2, 1970 , 84 Stat. 293

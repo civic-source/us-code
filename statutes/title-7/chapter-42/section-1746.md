@@ -5,7 +5,7 @@ usc_section: "1746"
 chapter: 42
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1746"
-generated_at: "2026-03-29T17:50:48.644Z"
+generated_at: "2026-03-29T18:04:04.897Z"
 ---
 
 # § 1746. Records and accounts

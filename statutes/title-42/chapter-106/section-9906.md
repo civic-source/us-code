@@ -5,7 +5,7 @@ usc_section: "9906"
 chapter: 106
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 9906"
-generated_at: "2026-03-29T17:53:35.671Z"
+generated_at: "2026-03-29T18:07:15.114Z"
 ---
 
 # § 9906. Allotments and payments to States

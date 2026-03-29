@@ -5,7 +5,7 @@ usc_section: "2023"
 chapter: 23
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 2023"
-generated_at: "2026-03-29T17:51:13.158Z"
+generated_at: "2026-03-29T18:04:43.624Z"
 ---
 
 # § 2023. Taxation

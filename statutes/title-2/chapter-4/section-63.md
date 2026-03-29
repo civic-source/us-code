@@ -5,7 +5,7 @@ usc_section: "63"
 chapter: 4
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 63"
-generated_at: "2026-03-29T17:50:23.987Z"
+generated_at: "2026-03-29T18:03:21.702Z"
 ---
 
 # § 63. Repealed. Pub. L. 104–186, title II, § 204(21) , Aug. 20, 1996 , 110 Stat. 1733

@@ -5,7 +5,7 @@ usc_section: "5944"
 chapter: 59
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 5944"
-generated_at: "2026-03-29T17:50:36.499Z"
+generated_at: "2026-03-29T18:03:29.900Z"
 ---
 
 # [§ 5944. Repealed. Pub. L. 98–164, title I, § 127(b)(1) , Nov. 22, 1983 , 97 Stat. 1027 ]

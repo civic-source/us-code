@@ -5,7 +5,7 @@ usc_section: "1320"
 chapter: 4
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 1320"
-generated_at: "2026-03-29T17:51:51.205Z"
+generated_at: "2026-03-29T18:04:55.001Z"
 ---
 
 # § 1320. Repealed. Aug. 8, 1953, ch. 397, § 6(b) , 67 Stat. 510

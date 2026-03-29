@@ -5,7 +5,7 @@ usc_section: "456to462"
 chapter: 16
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 456to462"
-generated_at: "2026-03-29T17:53:50.965Z"
+generated_at: "2026-03-29T18:07:43.017Z"
 ---
 
 # §§ 456 to 462. Omitted

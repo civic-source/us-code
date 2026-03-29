@@ -5,7 +5,7 @@ usc_section: "1383c"
 chapter: 7
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1383c"
-generated_at: "2026-03-29T17:53:34.589Z"
+generated_at: "2026-03-29T18:07:13.864Z"
 ---
 
 # § 1383c. Eligibility for medical assistance of aged, blind, or disabled individuals under State’s medical assistance plan

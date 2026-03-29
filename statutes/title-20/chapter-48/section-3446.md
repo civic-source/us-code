@@ -5,7 +5,7 @@ usc_section: "3446"
 chapter: 48
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 3446"
-generated_at: "2026-03-29T17:51:48.543Z"
+generated_at: "2026-03-29T18:05:00.256Z"
 ---
 
 # § 3446. Transfers from Department of Housing and Urban Development

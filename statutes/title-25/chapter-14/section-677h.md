@@ -5,7 +5,7 @@ usc_section: "677h"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 677h"
-generated_at: "2026-03-29T17:52:06.010Z"
+generated_at: "2026-03-29T18:05:17.086Z"
 ---
 
 # § 677h. Sale or other disposition of certain described lands; funds; relief of United States from liability; assigned lands

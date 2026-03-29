@@ -5,7 +5,7 @@ usc_section: "5051"
 chapter: 1
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 5051"
-generated_at: "2026-03-29T17:51:51.197Z"
+generated_at: "2026-03-29T18:04:54.991Z"
 ---
 
 # §§ 50, 51. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 642 , 645, 650

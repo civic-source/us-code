@@ -5,7 +5,7 @@ usc_section: "50"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 50"
-generated_at: "2026-03-29T17:52:39.105Z"
+generated_at: "2026-03-29T18:05:44.447Z"
 ---
 
 # § 50. Other special rules

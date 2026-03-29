@@ -5,7 +5,7 @@ usc_section: "16523"
 chapter: 149
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 16523"
-generated_at: "2026-03-29T17:53:36.003Z"
+generated_at: "2026-03-29T18:07:15.483Z"
 ---
 
 # § 16523. Alaska natural gas pipeline

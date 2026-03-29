@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 1
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 6"
-generated_at: "2026-03-29T17:52:18.742Z"
+generated_at: "2026-03-29T18:05:31.655Z"
 ---
 
 # § 6. Annual and special reports to President and Congress

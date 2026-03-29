@@ -5,7 +5,7 @@ usc_section: "3191"
 chapter: 64
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 3191"
-generated_at: "2026-03-29T17:50:48.752Z"
+generated_at: "2026-03-29T18:04:05.012Z"
 ---
 
 # § 3191. Purposes and findings relating to animal health and disease research

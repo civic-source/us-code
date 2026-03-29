@@ -5,7 +5,7 @@ usc_section: "416"
 chapter: 17
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 416"
-generated_at: "2026-03-29T17:50:48.514Z"
+generated_at: "2026-03-29T18:04:04.767Z"
 ---
 
 # § 416. Letting contract for packeting, etc., of seeds, etc., for distribution

@@ -5,7 +5,7 @@ usc_section: "1821to1824"
 chapter: 45
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 1821to1824"
-generated_at: "2026-03-29T17:50:48.646Z"
+generated_at: "2026-03-29T18:04:04.899Z"
 ---
 
 # §§ 1821 to 1824. Repealed. Pub. L. 89–321, title VI, § 601 , Nov. 3, 1965 , 79 Stat. 1206

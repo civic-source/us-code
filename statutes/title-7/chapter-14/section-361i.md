@@ -5,7 +5,7 @@ usc_section: "361i"
 chapter: 14
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 361i"
-generated_at: "2026-03-29T17:50:48.512Z"
+generated_at: "2026-03-29T18:04:04.765Z"
 ---
 
 # § 361i. Power to amend, repeal, etc., reserved

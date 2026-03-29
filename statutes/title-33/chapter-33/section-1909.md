@@ -5,7 +5,7 @@ usc_section: "1909"
 chapter: 33
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 1909"
-generated_at: "2026-03-29T17:52:45.976Z"
+generated_at: "2026-03-29T18:06:10.583Z"
 ---
 
 # § 1909. MARPOL Protocol; proposed amendments

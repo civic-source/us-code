@@ -5,7 +5,7 @@ usc_section: "221222"
 chapter: 3
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 221222"
-generated_at: "2026-03-29T17:52:45.882Z"
+generated_at: "2026-03-29T18:06:10.470Z"
 ---
 
 # §§ 221, 222. Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 Stat. 3435

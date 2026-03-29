@@ -3,9 +3,9 @@ title: "Section 831 - Prohibited transactions involving nuclear materials"
 usc_title: 18
 usc_section: "831"
 chapter: 39
-current_through: "PL 117-200"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 831"
-generated_at: "2026-03-29T17:54:21.288Z"
+generated_at: "2026-03-29T18:04:50.884Z"
 ---
 
 # § 831. Prohibited transactions involving nuclear materials
@@ -18,22 +18,21 @@ generated_at: "2026-03-29T17:54:21.288Z"
     - **(A)** takes and carries away nuclear material or nuclear byproduct material of another without authority;
     - **(B)** makes an unauthorized use, disposition, or transfer, of nuclear material or nuclear byproduct material belonging to another; or
     - **(C)** uses fraud and thereby obtains nuclear material or nuclear byproduct material belonging to another;
-  - **(3)** without lawful authority, intentionally carries, sends or moves nuclear material into or out of a country;
-  - **(4)** knowingly—
+  - **(3)** knowingly—
     - **(A)** uses force; or
     - **(B)** threatens or places another in fear that any person other than the actor will imminently be subject to bodily injury;
-  - **(5)** intentionally intimidates any person and thereby obtains nuclear material or nuclear byproduct material belonging to another;
-  - **(6)** with intent to compel any person, international organization, or governmental entity to do or refrain from doing any act, knowingly threatens to engage in conduct described in paragraph (2)(A) or (3) of this subsection;
-  - **(7)** knowingly threatens to use nuclear material or nuclear byproduct material to cause death or serious bodily injury to any person or substantial damage to property or to the environment under circumstances in which the threat may reasonably be understood as an expression of serious purposes;
-  - **(8)** attempts to commit any act prohibited under paragraphs (1) through (5) of this subsection; or
-  - **(9)** is a party to a conspiracy of two or more persons to commit any act prohibited under paragraphs (1) through (7) of this subsection, if any of the parties intentionally engages in any conduct in furtherance of such offense;
+  - **(4)** intentionally intimidates any person and thereby obtains nuclear material or nuclear byproduct material belonging to another;
+  - **(5)** with intent to compel any person, international organization, or governmental entity to do or refrain from doing any act, knowingly threatens to engage in conduct described in paragraph (2)(A) or (3) of this subsection;
+  - **(6)** knowingly threatens to use nuclear material or nuclear byproduct material to cause death or serious bodily injury to any person or substantial damage to property or to the environment under circumstances in which the threat may reasonably be understood as an expression of serious purposes;
+  - **(7)** attempts to commit an offense under paragraph (1), (2), (3), or (4) of this subsection; or
+  - **(8)** is a party to a conspiracy of two or more persons to commit an offense under paragraph (1), (2), (3), or (4) of this subsection, if any of the parties intentionally engages in any conduct in furtherance of such offense;
 - **(b)** The punishment for an offense under—
-  - **(1)** paragraphs (1) through (8) of subsection (a) of this section is—
+  - **(1)** paragraphs (1) through (7) of subsection (a) of this section is—
     - **(A)** a fine under this title; and
     - **(B)** imprisonment—
       - **(i)** for any term of years or for life (I) if, while committing the offense, the offender knowingly causes the death of any person; or (II) if, while committing an offense under paragraph (1) or (3) of subsection (a) of this section, the offender, under circumstances manifesting extreme indifference to the life of an individual, knowingly engages in any conduct and thereby recklessly causes the death of or serious bodily injury to any person; and
       - **(ii)** for not more than 20 years in any other case; and
-  - **(2)** paragraph (9) of subsection (a) of this section is—
+  - **(2)** paragraph (8) of subsection (a) of this section is—
     - **(A)** a fine under this title; and
     - **(B)** imprisonment—
       - **(i)** for not more than 20 years if the offense which is the object of the conspiracy is punishable under paragraph (1)(B)(i); and
@@ -41,18 +40,15 @@ generated_at: "2026-03-29T17:54:21.288Z"
 - **(c)** The circumstances referred to in subsection (a) of this section are that—
   - **(1)** the offense is committed in the United States or the special maritime and territorial jurisdiction of the United States, or the special aircraft jurisdiction of the United States (as defined in section 46501 of title 49 );
   - **(2)** an offender or a victim is—
-    - **(A)** a national of the United States or a stateless person whose habitual residence is in the United States; or
+    - **(A)** a national of the United States; or
     - **(B)** a United States corporation or other legal entity;
   - **(3)** after the conduct required for the offense occurs the defendant is found in the United States, even if the conduct required for the offense occurs outside the United States;
-  - **(4)** the conduct required for the offense occurs with respect to the carriage of a consignment of nuclear material or nuclear byproduct material by any means of transportation intended to go beyond the territory of the state where the shipment originates beginning with the departure from a facility of the shipper in that state and ending with the arrival at a facility of the receiver within the state of ultimate destination and either of such states is the United States;
-  - **(5)** the offense is committed on board a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in section 70502 of title 46 ) or on board an aircraft that is registered under United States law, at the time the offense is committed;
-  - **(6)** the offense is committed outside the United States and against any state or government facility of the United States; or
-  - **(7)** the offense is committed in an attempt to compel the United States to do or abstain from doing any act, or constitutes a threat directed at the United States.
-- **(d)** This section does not apply to—
-  - **(1)** the activities of armed forces during an armed conflict, as those terms are understood under the law of war, which are governed by that law; or
-  - **(2)** activities undertaken by military forces of a state in the exercise of their official duties.
-- **(e)** The Attorney General may request assistance from the Secretary of Defense under chapter 18 of title 10 in the enforcement of this section and the Secretary of Defense may provide such assistance in accordance with chapter 18 of title 10, except that the Secretary of Defense may provide such assistance through any Department of Defense personnel.
-- **(f)**
+  - **(4)** the conduct required for the offense occurs with respect to the carriage of a consignment of nuclear material or nuclear byproduct material by any means of transportation intended to go beyond the territory of the state where the shipment originates beginning with the departure from a facility of the shipper in that state and ending with the arrival at a facility of the receiver within the state of ultimate destination and either of such states is the United States; or
+  - **(5)** either—
+    - **(A)** the governmental entity under subsection (a)(5) is the United States; or
+    - **(B)** the threat under subsection (a)(6) is directed at the United States.
+- **(d)** The Attorney General may request assistance from the Secretary of Defense under chapter 18 of title 10 in the enforcement of this section and the Secretary of Defense may provide such assistance in accordance with chapter 18 of title 10, except that the Secretary of Defense may provide such assistance through any Department of Defense personnel.
+- **(e)**
   - **(1)** The Attorney General may also request assistance from the Secretary of Defense under this subsection in the enforcement of this section. Notwithstanding section 1385 of this title , the Secretary of Defense may, in accordance with other applicable law, provide such assistance to the Attorney General if—
     - **(A)** an emergency situation exists (as jointly determined by the Attorney General and the Secretary of Defense in their discretion); and
     - **(B)** the provision of such assistance will not adversely affect the military preparedness of the United States (as determined by the Secretary of Defense in such Secretary’s discretion).
@@ -66,7 +62,7 @@ generated_at: "2026-03-29T17:54:21.288Z"
     - **(B)** such other activity as is incidental to the enforcement of this section, or to the protection of persons or property from conduct that violates this section.
   - **(4)** The Secretary of Defense may require reimbursement as a condition of assistance under this section.
   - **(5)** The Attorney General may delegate the Attorney General’s function under this subsection only to a Deputy, Associate, or Assistant Attorney General.
-- **(g)** As used in this section—
+- **(f)** As used in this section—
   - **(1)** the term “nuclear material” means material containing any—
     - **(A)** plutonium;
     - **(B)** uranium not in the form of ore or ore residue that contains the mixture of isotopes as occurring in nature;
@@ -85,10 +81,5 @@ generated_at: "2026-03-29T17:54:21.288Z"
     - **(C)** illness;
     - **(D)** impairment of a function of a bodily member, organ, or mental faculty; or
     - **(E)** any other injury to the body, no matter how temporary;
-  - **(6)** the term “national of the United States” has the same meaning as in section 101(a)(22) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(22) );
-  - **(7)** the term “United States corporation or other legal entity” means any corporation or other entity organized under the laws of the United States or any State, Commonwealth, territory, possession, or district of the United States;
-  - **(8)** the term “armed conflict” has the meaning given that term in section 2332f(e)(11) of this title ;
-  - **(9)** the term “military forces of a state” means the armed forces of a country that are organized, trained and equipped under its internal law for the primary purpose of national defense or security and persons acting in support of those armed forces who are under their formal command, control and responsibility;
-  - **(10)** the term “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof;
-  - **(11)** the term “state or government facility” has the meaning given that term in section 2332f(e)(3) of this title ; and
-  - **(12)** the term “vessel of the United States” has the meaning given that term in section 70502 of title 46 .
+  - **(6)** the term “national of the United States” has the same meaning as in section 101(a)(22) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(22) ); and
+  - **(7)** the term “United States corporation or other legal entity” means any corporation or other entity organized under the laws of the United States or any State, Commonwealth, territory, possession, or district of the United States.

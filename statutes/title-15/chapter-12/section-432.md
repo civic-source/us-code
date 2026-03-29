@@ -5,7 +5,7 @@ usc_section: "432"
 chapter: 12
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 432"
-generated_at: "2026-03-29T17:51:36.132Z"
+generated_at: "2026-03-29T18:04:29.434Z"
 ---
 
 # § 432. Boards of trade dealing in agricultural products; exclusion of representatives of cooperative associations prohibited

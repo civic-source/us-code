@@ -5,7 +5,7 @@ usc_section: "3325"
 chapter: 35
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 3325"
-generated_at: "2026-03-29T17:52:06.146Z"
+generated_at: "2026-03-29T18:05:17.243Z"
 ---
 
 # § 3325. General provisions

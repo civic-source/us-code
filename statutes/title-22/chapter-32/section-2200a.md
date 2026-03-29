@@ -5,7 +5,7 @@ usc_section: "2200a"
 chapter: 32
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 2200a"
-generated_at: "2026-03-29T17:52:10.494Z"
+generated_at: "2026-03-29T18:05:21.818Z"
 ---
 
 # § 2200a. Report to Congress

@@ -5,7 +5,7 @@ usc_section: "14506"
 chapter: 1407
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 14506"
-generated_at: "2026-03-29T17:50:57.285Z"
+generated_at: "2026-03-29T18:04:13.332Z"
 ---
 
 # § 14506. Effect of failure of selection for promotion: reserve majors of the Army, Air Force, and Marine Corps and reserve lieutenant commanders of the Navy

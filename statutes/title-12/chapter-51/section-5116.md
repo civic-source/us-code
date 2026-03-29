@@ -5,7 +5,7 @@ usc_section: "5116"
 chapter: 51
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 5116"
-generated_at: "2026-03-29T17:51:13.262Z"
+generated_at: "2026-03-29T18:04:43.750Z"
 ---
 
 # § 5116. Study and reports on defaults and foreclosures

@@ -5,7 +5,7 @@ usc_section: "21"
 chapter: 13
 current_through: "PL 113-100"
 classification: "12 U.S.C. § 21"
-generated_at: "2026-03-29T17:51:13.074Z"
+generated_at: "2026-03-29T18:04:43.505Z"
 ---
 
 # § 1715z–21. Delegation of insuring authority to direct endorsement mortgagees

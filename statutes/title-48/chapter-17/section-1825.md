@@ -5,7 +5,7 @@ usc_section: "1825"
 chapter: 17
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 1825"
-generated_at: "2026-03-29T17:53:42.724Z"
+generated_at: "2026-03-29T18:07:36.869Z"
 ---
 
 # § 1825. Effective date

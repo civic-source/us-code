@@ -5,7 +5,7 @@ usc_section: "3651to3656"
 chapter: 231
 current_through: "PL 113-100"
 classification: "18 U.S.C. § 3651to3656"
-generated_at: "2026-03-29T17:53:15.752Z"
+generated_at: "2026-03-29T18:04:50.998Z"
 ---
 
 # [§§ 3651 to 3656. Repealed or Renumbered. Pub. L. 98–473, title II, § 212(a)(1) , (2), Oct. 12, 1984 , 98 Stat. 1987 ]

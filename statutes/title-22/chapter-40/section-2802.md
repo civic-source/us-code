@@ -5,7 +5,7 @@ usc_section: "2802"
 chapter: 40
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 2802"
-generated_at: "2026-03-29T17:52:10.575Z"
+generated_at: "2026-03-29T18:05:21.899Z"
 ---
 
 # § 2802. Federal recognition

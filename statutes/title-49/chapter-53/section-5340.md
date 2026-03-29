@@ -5,7 +5,7 @@ usc_section: "5340"
 chapter: 53
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 5340"
-generated_at: "2026-03-29T17:53:47.980Z"
+generated_at: "2026-03-29T18:07:51.363Z"
 ---
 
 # § 5340. Apportionments based on growing States and high density States formula factors

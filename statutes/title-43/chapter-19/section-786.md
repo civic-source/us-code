@@ -5,7 +5,7 @@ usc_section: "786"
 chapter: 19
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 786"
-generated_at: "2026-03-29T17:53:03.663Z"
+generated_at: "2026-03-29T18:06:28.305Z"
 ---
 
 # § 786. Repealed. Pub. L. 85–56, title XXII, § 2202(1) , June 17, 1957 , 71 Stat. 162

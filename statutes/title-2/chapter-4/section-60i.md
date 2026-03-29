@@ -5,7 +5,7 @@ usc_section: "60i"
 chapter: 4
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 60i"
-generated_at: "2026-03-29T17:50:23.984Z"
+generated_at: "2026-03-29T18:03:21.699Z"
 ---
 
 # § 60i. Repealed. Pub. L. 87–730, § 106(c) , Oct. 2, 1962 , 76 Stat. 695

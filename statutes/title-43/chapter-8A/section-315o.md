@@ -5,7 +5,7 @@ usc_section: "315o"
 chapter: 8
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 315o"
-generated_at: "2026-03-29T17:53:03.608Z"
+generated_at: "2026-03-29T18:06:28.255Z"
 ---
 
 # § 315o. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 649

@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 1
 current_through: "PL 113-100"
 classification: "3 U.S.C. § 5"
-generated_at: "2026-03-29T17:50:17.432Z"
+generated_at: "2026-03-29T18:03:15.093Z"
 ---
 
 # § 5. Determination of controversy as to appointment of electors

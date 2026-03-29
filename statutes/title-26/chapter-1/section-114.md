@@ -5,7 +5,7 @@ usc_section: "114"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 114"
-generated_at: "2026-03-29T17:52:39.123Z"
+generated_at: "2026-03-29T18:05:44.475Z"
 ---
 
 # [§ 114. Repealed. Pub. L. 108–357, title I, § 101(a) , Oct. 22, 2004 , 118 Stat. 1423 ]

@@ -5,7 +5,7 @@ usc_section: "6005to6009"
 chapter: 75
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 6005to6009"
-generated_at: "2026-03-29T17:53:35.354Z"
+generated_at: "2026-03-29T18:07:14.728Z"
 ---
 
 # §§ 6005 to 6009. Repealed. Pub. L. 106–402, title IV, § 401(a) , Oct. 30, 2000 , 114 Stat. 1737

@@ -5,7 +5,7 @@ usc_section: "2465b"
 chapter: 26
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 2465b"
-generated_at: "2026-03-29T17:53:35.114Z"
+generated_at: "2026-03-29T18:07:14.451Z"
 ---
 
 # § 2465b. Repealed. Pub. L. 105–303, title II, § 203(1) , Oct. 28, 1998 , 112 Stat. 2855

@@ -5,7 +5,7 @@ usc_section: "1881b"
 chapter: 38
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1881b"
-generated_at: "2026-03-29T17:51:56.917Z"
+generated_at: "2026-03-29T18:05:06.986Z"
 ---
 
 # § 1881b. Observers

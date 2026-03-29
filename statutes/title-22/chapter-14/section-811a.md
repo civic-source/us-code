@@ -5,7 +5,7 @@ usc_section: "811a"
 chapter: 14
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 811a"
-generated_at: "2026-03-29T17:52:10.443Z"
+generated_at: "2026-03-29T18:05:21.763Z"
 ---
 
 # § 811a. Repealed. Pub. L. 103–236, title I, § 162(a) , Apr. 30, 1994 , 108 Stat. 405

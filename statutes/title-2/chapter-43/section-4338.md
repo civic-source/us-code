@@ -5,7 +5,7 @@ usc_section: "4338"
 chapter: 43
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 4338"
-generated_at: "2026-03-29T17:50:24.113Z"
+generated_at: "2026-03-29T18:03:21.834Z"
 ---
 
 # § 4338. Designation by Senator who is Chairman or Vice Chairman of Senate Select Committee on Ethics of employee in office of that Senator to perform part-time service for Committee; amount reimbursable; procedure applicable

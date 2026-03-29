@@ -5,7 +5,7 @@ usc_section: "47505"
 chapter: 475
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 47505"
-generated_at: "2026-03-29T17:53:48.137Z"
+generated_at: "2026-03-29T18:07:51.552Z"
 ---
 
 # § 47505. Airport noise compatibility planning grants

@@ -5,7 +5,7 @@ usc_section: "55110"
 chapter: 551
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 55110"
-generated_at: "2026-03-29T17:53:41.834Z"
+generated_at: "2026-03-29T18:07:34.407Z"
 ---
 
 # § 55110. Transportation of valueless material or dredged material

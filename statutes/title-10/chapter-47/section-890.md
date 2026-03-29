@@ -5,7 +5,7 @@ usc_section: "890"
 chapter: 47
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 890"
-generated_at: "2026-03-29T17:50:56.977Z"
+generated_at: "2026-03-29T18:04:13.017Z"
 ---
 
 # § 890. Art. 90. Assaulting or willfully disobeying superior commissioned officer

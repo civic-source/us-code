@@ -5,7 +5,7 @@ usc_section: "158ato158d"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 158ato158d"
-generated_at: "2026-03-29T17:51:56.463Z"
+generated_at: "2026-03-29T18:05:06.403Z"
 ---
 
 # §§ 158a to 158d. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948

@@ -5,7 +5,7 @@ usc_section: "1451"
 chapter: 3
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 1451"
-generated_at: "2026-03-29T17:52:39.396Z"
+generated_at: "2026-03-29T18:05:44.828Z"
 ---
 
 # [§ 1451. Repealed. Pub. L. 98–369, div. A, title IV, § 474(r)(29)(A) , July 18, 1984 , 98 Stat. 844 ]

@@ -5,7 +5,7 @@ usc_section: "1627"
 chapter: 4
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 1627"
-generated_at: "2026-03-29T17:51:51.236Z"
+generated_at: "2026-03-29T18:04:55.033Z"
 ---
 
 # § 1627. Repealed. Pub. L. 100–690, title VII, § 7367(c)(6) , Nov. 18, 1988 , 102 Stat. 4480

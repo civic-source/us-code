@@ -5,7 +5,7 @@ usc_section: "3837f"
 chapter: 58
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 3837f"
-generated_at: "2026-03-29T17:51:56.971Z"
+generated_at: "2026-03-29T18:05:07.048Z"
 ---
 
 # § 3837f. Administration and funding

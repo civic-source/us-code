@@ -5,7 +5,7 @@ usc_section: "880b2to880b5"
 chapter: 24
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 880b2to880b5"
-generated_at: "2026-03-29T17:51:48.302Z"
+generated_at: "2026-03-29T18:05:00.025Z"
 ---
 
 # §§ 880b–2 to 880b–5. Omitted

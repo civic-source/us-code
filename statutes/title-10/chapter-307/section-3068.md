@@ -5,7 +5,7 @@ usc_section: "3068"
 chapter: 307
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 3068"
-generated_at: "2026-03-29T17:50:57.181Z"
+generated_at: "2026-03-29T18:04:13.228Z"
 ---
 
 # § 3068. Medical Service Corps: organization; Chief and assistant chiefs

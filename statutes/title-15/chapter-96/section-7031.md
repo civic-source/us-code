@@ -5,7 +5,7 @@ usc_section: "7031"
 chapter: 96
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 7031"
-generated_at: "2026-03-29T17:51:36.409Z"
+generated_at: "2026-03-29T18:04:29.956Z"
 ---
 
 # § 7031. Principles governing the use of electronic signatures in international transactions

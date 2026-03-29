@@ -5,7 +5,7 @@ usc_section: "1591to1594"
 chapter: 20
 current_through: "PL 113-100"
 classification: "22 U.S.C. § 1591to1594"
-generated_at: "2026-03-29T17:52:10.454Z"
+generated_at: "2026-03-29T18:05:21.777Z"
 ---
 
 # §§ 1591 to 1594. Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(5), 68 Stat. 861

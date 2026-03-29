@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-29T17:51:56.685Z"
+generated_at: "2026-03-29T18:05:06.727Z"
 ---
 
 # § 470x–3. Preservation Technology and Training Board

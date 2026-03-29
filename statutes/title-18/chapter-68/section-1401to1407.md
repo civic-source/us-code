@@ -5,7 +5,7 @@ usc_section: "1401to1407"
 chapter: 68
 current_through: "PL 113-100"
 classification: "18 U.S.C. § 1401to1407"
-generated_at: "2026-03-29T17:53:15.640Z"
+generated_at: "2026-03-29T18:04:50.920Z"
 ---
 
 # [§§ 1401 to 1407. Repealed. Pub. L. 91–513, title III, § 1101(b)(1)(A) , Oct. 27, 1970 , 84 Stat. 1292 ]

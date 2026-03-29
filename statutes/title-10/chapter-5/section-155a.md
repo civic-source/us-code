@@ -5,7 +5,7 @@ usc_section: "155a"
 chapter: 5
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 155a"
-generated_at: "2026-03-29T17:50:56.928Z"
+generated_at: "2026-03-29T18:04:12.966Z"
 ---
 
 # § 155a. Assistants to the Chairman of the Joint Chiefs of Staff for National Guard matters and Reserve matters

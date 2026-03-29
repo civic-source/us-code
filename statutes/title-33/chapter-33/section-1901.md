@@ -5,7 +5,7 @@ usc_section: "1901"
 chapter: 33
 current_through: "PL 113-100"
 classification: "33 U.S.C. § 1901"
-generated_at: "2026-03-29T17:52:45.974Z"
+generated_at: "2026-03-29T18:06:10.581Z"
 ---
 
 # § 1901. Definitions

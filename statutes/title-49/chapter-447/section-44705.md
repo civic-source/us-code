@@ -5,7 +5,7 @@ usc_section: "44705"
 chapter: 447
 current_through: "PL 113-100"
 classification: "49 U.S.C. § 44705"
-generated_at: "2026-03-29T17:53:48.101Z"
+generated_at: "2026-03-29T18:07:51.508Z"
 ---
 
 # § 44705. Air carrier operating certificates

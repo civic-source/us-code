@@ -5,7 +5,7 @@ usc_section: "100"
 chapter: 5
 current_through: "PL 113-100"
 classification: "14 U.S.C. § 100"
-generated_at: "2026-03-29T17:51:00.999Z"
+generated_at: "2026-03-29T18:04:21.484Z"
 ---
 
 # § 100. Enforcement of coastwise trade laws

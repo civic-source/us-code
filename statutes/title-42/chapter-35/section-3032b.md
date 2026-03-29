@@ -5,7 +5,7 @@ usc_section: "3032b"
 chapter: 35
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 3032b"
-generated_at: "2026-03-29T17:53:35.147Z"
+generated_at: "2026-03-29T18:07:14.487Z"
 ---
 
 # § 3032b. Older individuals’ protection from violence projects

@@ -5,7 +5,7 @@ usc_section: "1010"
 chapter: 18
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 1010"
-generated_at: "2026-03-29T17:51:56.830Z"
+generated_at: "2026-03-29T18:05:06.889Z"
 ---
 
 # § 1010. Data

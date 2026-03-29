@@ -5,7 +5,7 @@ usc_section: "3418"
 chapter: 48
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 3418"
-generated_at: "2026-03-29T17:51:48.541Z"
+generated_at: "2026-03-29T18:05:00.254Z"
 ---
 
 # § 3418. Repealed. Pub. L. 99–145, title XII, § 1204(a)(1) , Nov. 8, 1985 , 99 Stat. 720

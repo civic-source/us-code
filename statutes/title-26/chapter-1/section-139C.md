@@ -5,7 +5,7 @@ usc_section: "139C"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 139C"
-generated_at: "2026-03-29T17:52:39.130Z"
+generated_at: "2026-03-29T18:05:44.485Z"
 ---
 
 # § 139C. COBRA premium assistance

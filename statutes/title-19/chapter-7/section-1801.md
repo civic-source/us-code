@@ -5,7 +5,7 @@ usc_section: "1801"
 chapter: 7
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 1801"
-generated_at: "2026-03-29T17:51:51.260Z"
+generated_at: "2026-03-29T18:04:55.061Z"
 ---
 
 # § 1801. Statement of purposes

@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 1
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 3"
-generated_at: "2026-03-29T17:52:05.883Z"
+generated_at: "2026-03-29T18:05:17.018Z"
 ---
 
 # § 13d–3. Tribal authority to change eligibility for, or amount of, general assistance payments

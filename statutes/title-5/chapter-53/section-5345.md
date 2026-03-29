@@ -5,7 +5,7 @@ usc_section: "5345"
 chapter: 53
 current_through: "PL 113-100"
 classification: "5 U.S.C. § 5345"
-generated_at: "2026-03-29T17:50:36.477Z"
+generated_at: "2026-03-29T18:03:29.875Z"
 ---
 
 # [§ 5345. Repealed. Pub. L. 95–454, title VIII, § 801(a)(2) , Oct. 13, 1978 , 92 Stat. 1221 ]

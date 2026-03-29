@@ -5,7 +5,7 @@ usc_section: "3401"
 chapter: 36
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 3401"
-generated_at: "2026-03-29T17:52:06.146Z"
+generated_at: "2026-03-29T18:05:17.243Z"
 ---
 
 # § 3401. Statement of purpose

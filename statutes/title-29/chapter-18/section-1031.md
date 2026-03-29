@@ -5,7 +5,7 @@ usc_section: "1031"
 chapter: 18
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 1031"
-generated_at: "2026-03-29T17:52:18.814Z"
+generated_at: "2026-03-29T18:05:31.731Z"
 ---
 
 # § 1031. Repeal and effective date

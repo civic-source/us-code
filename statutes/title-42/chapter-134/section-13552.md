@@ -5,7 +5,7 @@ usc_section: "13552"
 chapter: 134
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 13552"
-generated_at: "2026-03-29T17:53:35.859Z"
+generated_at: "2026-03-29T18:07:15.330Z"
 ---
 
 # § 13552. Use of energy futures for fuel purchases

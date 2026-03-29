@@ -5,7 +5,7 @@ usc_section: "1808"
 chapter: 36
 current_through: "PL 113-100"
 classification: "50 U.S.C. § 1808"
-generated_at: "2026-03-29T17:53:50.976Z"
+generated_at: "2026-03-29T18:07:43.036Z"
 ---
 
 # § 1808. Report of Attorney General to Congressional committees; limitation on authority or responsibility of information gathering activities of Congressional committees; report of Congressional committees to Congress

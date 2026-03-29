@@ -5,7 +5,7 @@ usc_section: "641"
 chapter: 14
 current_through: "PL 113-100"
 classification: "45 U.S.C. § 641"
-generated_at: "2026-03-29T17:53:02.114Z"
+generated_at: "2026-03-29T18:06:35.961Z"
 ---
 
 # § 641. Repealed. Pub. L. 96–73, title I, § 111(b) , Sept. 29, 1979 , 93 Stat. 541

@@ -5,7 +5,7 @@ usc_section: "64"
 chapter: 3
 current_through: "PL 113-100"
 classification: "21 U.S.C. § 64"
-generated_at: "2026-03-29T17:52:03.791Z"
+generated_at: "2026-03-29T18:05:14.728Z"
 ---
 
 # § 64. Regulations for enforcement

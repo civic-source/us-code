@@ -5,7 +5,7 @@ usc_section: "19l"
 chapter: 1
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 19l"
-generated_at: "2026-03-29T17:51:56.440Z"
+generated_at: "2026-03-29T18:05:06.381Z"
 ---
 
 # § 19l. Tax exemptions; contributions toward costs of local government; contributions, gifts, or transfers to or for use of United States

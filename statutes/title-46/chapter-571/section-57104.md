@@ -5,7 +5,7 @@ usc_section: "57104"
 chapter: 571
 current_through: "PL 113-100"
 classification: "46 U.S.C. § 57104"
-generated_at: "2026-03-29T17:53:41.837Z"
+generated_at: "2026-03-29T18:07:34.412Z"
 ---
 
 # § 57104. Acquisition of vessels from sale of obsolete vessels

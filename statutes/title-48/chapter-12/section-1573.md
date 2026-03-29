@@ -5,7 +5,7 @@ usc_section: "1573"
 chapter: 12
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 1573"
-generated_at: "2026-03-29T17:53:42.714Z"
+generated_at: "2026-03-29T18:07:36.854Z"
 ---
 
 # § 1573. Time, frequency, and duration of regular sessions; special sessions; place of holding

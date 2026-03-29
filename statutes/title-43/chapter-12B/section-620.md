@@ -5,7 +5,7 @@ usc_section: "620"
 chapter: 12
 current_through: "PL 113-100"
 classification: "43 U.S.C. § 620"
-generated_at: "2026-03-29T17:53:03.656Z"
+generated_at: "2026-03-29T18:06:28.299Z"
 ---
 
 # § 620. Upper Colorado River Basin; purpose of development of water resources; initial units; construction of Wayne N. Aspinall unit contingent upon certification; participating projects; Rainbow Bridge National Monument

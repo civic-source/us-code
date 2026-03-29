@@ -5,7 +5,7 @@ usc_section: "9816"
 chapter: 105
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 9816"
-generated_at: "2026-03-29T17:53:35.648Z"
+generated_at: "2026-03-29T18:07:15.082Z"
 ---
 
 # § 9816. Department of Housing and Urban Development programs

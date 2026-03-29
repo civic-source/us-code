@@ -5,7 +5,7 @@ usc_section: "1101"
 chapter: 11
 current_through: "PL 113-100"
 classification: "38 U.S.C. § 1101"
-generated_at: "2026-03-29T17:52:53.685Z"
+generated_at: "2026-03-29T18:06:22.739Z"
 ---
 
 # § 1101. Definitions

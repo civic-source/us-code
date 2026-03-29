@@ -5,7 +5,7 @@ usc_section: "865"
 chapter: 4
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 865"
-generated_at: "2026-03-29T17:53:42.692Z"
+generated_at: "2026-03-29T18:07:36.838Z"
 ---
 
 # § 865. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992

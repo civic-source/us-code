@@ -5,7 +5,7 @@ usc_section: "1161"
 chapter: 12
 current_through: "PL 113-100"
 classification: "8 U.S.C. § 1161"
-generated_at: "2026-03-29T17:50:41.314Z"
+generated_at: "2026-03-29T18:03:34.026Z"
 ---
 
 # § 1161. Repealed. Pub. L. 103–416, title II, § 219(ee)(1) , Oct. 25, 1994 , 108 Stat. 4319

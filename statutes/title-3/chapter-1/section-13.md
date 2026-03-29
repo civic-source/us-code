@@ -5,7 +5,7 @@ usc_section: "13"
 chapter: 1
 current_through: "PL 113-100"
 classification: "3 U.S.C. § 13"
-generated_at: "2026-03-29T17:50:17.433Z"
+generated_at: "2026-03-29T18:03:15.094Z"
 ---
 
 # § 13. Same; demand on district judge for certificate

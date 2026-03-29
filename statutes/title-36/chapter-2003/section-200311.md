@@ -5,7 +5,7 @@ usc_section: "200311"
 chapter: 2003
 current_through: "PL 113-100"
 classification: "36 U.S.C. § 200311"
-generated_at: "2026-03-29T17:52:49.376Z"
+generated_at: "2026-03-29T18:06:24.333Z"
 ---
 
 # § 200311. Liability for acts of officers and agents

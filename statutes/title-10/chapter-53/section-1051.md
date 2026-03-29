@@ -5,7 +5,7 @@ usc_section: "1051"
 chapter: 53
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 1051"
-generated_at: "2026-03-29T17:50:56.998Z"
+generated_at: "2026-03-29T18:04:13.038Z"
 ---
 
 # § 1051. Multilateral, bilateral, or regional cooperation programs: payment of personnel expenses

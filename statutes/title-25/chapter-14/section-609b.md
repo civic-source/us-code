@@ -5,7 +5,7 @@ usc_section: "609b"
 chapter: 14
 current_through: "PL 113-100"
 classification: "25 U.S.C. § 609b"
-generated_at: "2026-03-29T17:52:06.000Z"
+generated_at: "2026-03-29T18:05:17.076Z"
 ---
 
 # § 609b. Disposition of judgment fund; deductions; advances, expenditures, investments, or reinvestments for authorized purposes

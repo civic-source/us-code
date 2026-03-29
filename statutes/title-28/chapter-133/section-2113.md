@@ -5,7 +5,7 @@ usc_section: "2113"
 chapter: 133
 current_through: "PL 113-100"
 classification: "28 U.S.C. § 2113"
-generated_at: "2026-03-29T17:52:24.233Z"
+generated_at: "2026-03-29T18:06:03.382Z"
 ---
 
 # § 2113. Definition

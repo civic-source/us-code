@@ -5,7 +5,7 @@ usc_section: "5583"
 chapter: 71
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 5583"
-generated_at: "2026-03-29T17:53:35.328Z"
+generated_at: "2026-03-29T18:07:14.699Z"
 ---
 
 # § 5583. Establishment and promotion of research, development, and demonstration programs

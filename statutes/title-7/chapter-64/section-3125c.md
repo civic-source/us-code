@@ -5,7 +5,7 @@ usc_section: "3125c"
 chapter: 64
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 3125c"
-generated_at: "2026-03-29T17:50:48.749Z"
+generated_at: "2026-03-29T18:04:05.006Z"
 ---
 
 # § 3125c. Repealed. Pub. L. 104–127, title VIII, § 859(a) , Apr. 4, 1996 , 110 Stat. 1173

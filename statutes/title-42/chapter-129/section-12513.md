@@ -5,7 +5,7 @@ usc_section: "12513"
 chapter: 129
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 12513"
-generated_at: "2026-03-29T17:53:35.772Z"
+generated_at: "2026-03-29T18:07:15.232Z"
 ---
 
 # § 12513. Study of program effectiveness

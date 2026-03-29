@@ -5,7 +5,7 @@ usc_section: "3a"
 chapter: 35
 current_through: "PL 113-100"
 classification: "7 U.S.C. § 3a"
-generated_at: "2026-03-29T17:50:48.589Z"
+generated_at: "2026-03-29T18:04:04.843Z"
 ---
 
 # § 1445b–3a. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(D) , Apr. 4, 1996 , 110 Stat. 938

@@ -5,7 +5,7 @@ usc_section: "539e"
 chapter: 2
 current_through: "PL 113-100"
 classification: "16 U.S.C. § 539e"
-generated_at: "2026-03-29T17:51:56.701Z"
+generated_at: "2026-03-29T18:05:06.745Z"
 ---
 
 # § 539e. Reports

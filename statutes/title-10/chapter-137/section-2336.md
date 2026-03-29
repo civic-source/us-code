@@ -5,7 +5,7 @@ usc_section: "2336"
 chapter: 137
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2336"
-generated_at: "2026-03-29T17:50:57.108Z"
+generated_at: "2026-03-29T18:04:13.152Z"
 ---
 
 # § 2336. Intergovernmental support agreements with State and local governments

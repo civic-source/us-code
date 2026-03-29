@@ -5,7 +5,7 @@ usc_section: "201to226"
 chapter: 7
 current_through: "PL 113-100"
 classification: "2 U.S.C. § 201to226"
-generated_at: "2026-03-29T17:50:24.019Z"
+generated_at: "2026-03-29T18:03:21.727Z"
 ---
 
 # §§ 201 to 226. Repealed. Pub. L. 91–138, § 18 , Dec. 5, 1969 , 83 Stat. 290

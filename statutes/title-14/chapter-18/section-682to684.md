@@ -5,7 +5,7 @@ usc_section: "682to684"
 chapter: 18
 current_through: "PL 113-100"
 classification: "14 U.S.C. § 682to684"
-generated_at: "2026-03-29T17:51:01.012Z"
+generated_at: "2026-03-29T18:04:21.496Z"
 ---
 
 # [§§ 682 to 684. Repealed. Pub. L. 111–281, title II, § 221(a)(3) , Oct. 15, 2010 , 124 Stat. 2919 ]

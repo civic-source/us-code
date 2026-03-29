@@ -5,7 +5,7 @@ usc_section: "1702"
 chapter: 39
 current_through: "PL 113-100"
 classification: "20 U.S.C. § 1702"
-generated_at: "2026-03-29T17:51:48.519Z"
+generated_at: "2026-03-29T18:05:00.233Z"
 ---
 
 # § 1702. Congressional findings

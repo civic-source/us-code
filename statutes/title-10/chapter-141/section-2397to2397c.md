@@ -5,7 +5,7 @@ usc_section: "2397to2397c"
 chapter: 141
 current_through: "PL 113-100"
 classification: "10 U.S.C. § 2397to2397c"
-generated_at: "2026-03-29T17:50:57.118Z"
+generated_at: "2026-03-29T18:04:13.163Z"
 ---
 
 # [§§ 2397 to 2397c. Repealed. Pub. L. 104–106, div. D, title XLIII, § 4304(b)(1) , Feb. 10, 1996 , 110 Stat. 664 ]

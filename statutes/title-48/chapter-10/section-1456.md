@@ -5,7 +5,7 @@ usc_section: "1456"
 chapter: 10
 current_through: "PL 113-100"
 classification: "48 U.S.C. § 1456"
-generated_at: "2026-03-29T17:53:42.709Z"
+generated_at: "2026-03-29T18:07:36.850Z"
 ---
 
 # § 1456. Repealed. Sept. 12, 1950, ch. 946 , title III, § 301(106), 64 Stat. 844

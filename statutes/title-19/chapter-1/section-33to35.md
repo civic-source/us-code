@@ -5,7 +5,7 @@ usc_section: "33to35"
 chapter: 1
 current_through: "PL 113-100"
 classification: "19 U.S.C. § 33to35"
-generated_at: "2026-03-29T17:51:51.197Z"
+generated_at: "2026-03-29T18:04:54.990Z"
 ---
 
 # §§ 33 to 35. Repealed. Aug. 8, 1953, ch. 397, § 2(a) , 67 Stat. 507

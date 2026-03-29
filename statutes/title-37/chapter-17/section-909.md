@@ -5,7 +5,7 @@ usc_section: "909"
 chapter: 17
 current_through: "PL 113-100"
 classification: "37 U.S.C. § 909"
-generated_at: "2026-03-29T17:52:59.117Z"
+generated_at: "2026-03-29T18:06:17.235Z"
 ---
 
 # § 909. Special and incentive pay: payment at unreduced rates during suspension of personnel laws

@@ -5,7 +5,7 @@ usc_section: "3541"
 chapter: 35
 current_through: "PL 113-100"
 classification: "44 U.S.C. § 3541"
-generated_at: "2026-03-29T17:53:10.514Z"
+generated_at: "2026-03-29T18:06:33.630Z"
 ---
 
 # § 3541. Purposes

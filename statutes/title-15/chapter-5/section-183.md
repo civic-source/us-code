@@ -5,7 +5,7 @@ usc_section: "183"
 chapter: 5
 current_through: "PL 113-100"
 classification: "15 U.S.C. § 183"
-generated_at: "2026-03-29T17:51:36.117Z"
+generated_at: "2026-03-29T18:04:29.414Z"
 ---
 
 # § 183. Report of statistics

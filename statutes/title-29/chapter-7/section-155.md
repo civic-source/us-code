@@ -5,7 +5,7 @@ usc_section: "155"
 chapter: 7
 current_through: "PL 113-100"
 classification: "29 U.S.C. § 155"
-generated_at: "2026-03-29T17:52:18.747Z"
+generated_at: "2026-03-29T18:05:31.661Z"
 ---
 
 # § 155. National Labor Relations Board; principal office, conducting inquiries throughout country; participation in decisions or inquiries conducted by member

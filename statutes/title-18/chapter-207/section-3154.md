@@ -3,9 +3,9 @@ title: "Section 3154 - Functions and powers relating to pretrial services"
 usc_title: 18
 usc_section: "3154"
 chapter: 207
-current_through: "PL 117-200"
+current_through: "PL 113-100"
 classification: "18 U.S.C. § 3154"
-generated_at: "2026-03-29T17:54:21.370Z"
+generated_at: "2026-03-29T18:04:50.974Z"
 ---
 
 # § 3154. Functions and powers relating to pretrial services
@@ -24,7 +24,7 @@ Pretrial services functions shall include the following:
   - **(10)** To the extent provided for in an agreement between a chief pretrial services officer in districts in which pretrial services are established under section 3152(b) of this title , or the chief probation officer in all other districts, and the United States attorney, collect, verify, and prepare reports for the United States attorney’s office of information pertaining to the pretrial diversion of any individual who is or may be charged with an offense, and perform such other duties as may be required under any such agreement.
   - **(11)** Make contracts, to such extent and in such amounts as are provided in appropriation Acts, for the carrying out of any pretrial services functions.
   - **(12)**
-    - **(A)** As directed by the court and to the degree required by the regimen of care or treatment ordered by the court as a condition of release, keep informed as to the conduct and provide supervision of a person conditionally released under the provisions of section 4243, 4246, or 4248 of this title, and report such person’s conduct and condition to the court ordering release and the Attorney General or his designee.
+    - **(A)** As directed by the court and to the degree required by the regimen of care or treatment ordered by the court as a condition of release, keep informed as to the conduct and provide supervision of a person conditionally released under the provisions of section 4243 or 4246 of this title, and report such person’s conduct and condition to the court ordering release and the Attorney General or his designee.
     - **(B)** Any violation of the conditions of release shall immediately be reported to the court and the Attorney General or his designee.
   - **(13)** If approved by the district court, be authorized to carry firearms under such rules and regulations as the Director of the Administrative Office of the United States Courts may prescribe.
   - **(14)** Perform, in a manner appropriate for juveniles, any of the functions identified in this section with respect to juveniles awaiting adjudication, trial, or disposition under chapter 403 of this title who are not detained.

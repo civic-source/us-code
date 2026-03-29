@@ -5,7 +5,7 @@ usc_section: "175"
 chapter: 1
 current_through: "PL 113-100"
 classification: "26 U.S.C. § 175"
-generated_at: "2026-03-29T17:52:39.162Z"
+generated_at: "2026-03-29T18:05:44.530Z"
 ---
 
 # § 175. Soil and water conservation expenditures; endangered species recovery expenditures

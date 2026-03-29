@@ -5,7 +5,7 @@ usc_section: "1490n"
 chapter: 8
 current_through: "PL 113-100"
 classification: "42 U.S.C. § 1490n"
-generated_at: "2026-03-29T17:53:34.941Z"
+generated_at: "2026-03-29T18:07:14.268Z"
 ---
 
 # § 1490n. Review of rules and regulations
