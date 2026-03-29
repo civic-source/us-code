@@ -1,0 +1,17 @@
+---
+title: "Section 1534 - Cybercrime"
+usc_title: 6
+usc_section: "1534"
+chapter: 6
+current_through: "PL 119-73"
+classification: "6 U.S.C. § 1534"
+generated_at: "2026-03-29T00:06:17.507Z"
+---
+
+# § 1534. Cybercrime
+
+Subject to the availability of appropriations, and in accordance with the comparable level of the General Schedule, the Attorney General and the Secretary of Homeland Security shall provide incentive pay, in an amount that is not more than 25 percent of the basic pay of the individual, to an individual appointed to a position in the Department of Justice (including the Federal Bureau of Investigation) or the Department of Homeland Security (including positions in Homeland Security Investigations), respectively, requiring significant cyber skills, including to aid in—
+
+  (1) the protection of trafficking victims;
+  (2) the prevention of trafficking in persons; or
+  (3) the prosecution of technology-facilitated crimes against children by buyers or traffickers in persons.

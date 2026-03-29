@@ -1,0 +1,14 @@
+---
+title: "Section 287c - Compensation"
+usc_title: 2
+usc_section: "287c"
+chapter: 9
+current_through: "PL 119-73"
+classification: "2 U.S.C. § 287c"
+generated_at: "2026-03-29T00:06:10.902Z"
+---
+
+# § 287c. Compensation
+
+(a) The Parliamentarian shall be paid at a per annum gross rate established by the Speaker but not in excess of the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title .
+(b) Members of the staff of the Office other than the Parliamentarian shall be paid at per annum gross rates fixed by the Parliamentarian with the approval of the Speaker or in accordance with policies approved by the Speaker but not in excess of the applicable rate of pay in effect under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title .

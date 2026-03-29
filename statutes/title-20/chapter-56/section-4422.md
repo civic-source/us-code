@@ -1,0 +1,17 @@
+---
+title: "Section 4422 - Reports"
+usc_title: 20
+usc_section: "4422"
+chapter: 56
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 4422"
+generated_at: "2026-03-29T00:07:03.174Z"
+---
+
+# § 4422. Reports
+
+(a) The President of the Institute shall submit an annual report to the Congress and to the Board concerning the status of the Institute during the 12 calendar months preceding the date of the report. Such report shall include, among other matters, a detailed statement of all private and public funds, gifts, and other items of a monetary value received by the Institute during such 12-month period and the disposition thereof as well as any recommendations for improving the Institute.
+(b) 
+  (1) After September 30, 1988 and for each fiscal year thereafter, the Board shall submit a budget proposal to the Congress.
+  (2) A budget proposal under this subsection shall be submitted not later than April 1 of each calendar year and shall propose a budget for the Institute for the 2 fiscal years succeeding the fiscal year during which such proposal is submitted.
+  (3) In determining the amount of funds to be appropriated to the Institute on the basis of such proposals, the Congress shall not consider the amount of private fundraising or bequests made on behalf of the Institute during any preceding fiscal year.

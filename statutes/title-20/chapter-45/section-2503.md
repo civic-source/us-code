@@ -1,0 +1,14 @@
+---
+title: "Section 2503 - Administration by Office of Career Education"
+usc_title: 20
+usc_section: "2503"
+chapter: 45
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 2503"
+generated_at: "2026-03-29T00:07:03.160Z"
+---
+
+# § 2503. Administration by Office of Career Education
+
+The provisions of this subchapter shall be carried out by the Secretary of Education through the Office of Career Education established pursuant to section 2612a(c) of this title .
+

@@ -1,0 +1,14 @@
+---
+title: "Section 357 - Report by Commission to President with respect to pay"
+usc_title: 2
+usc_section: "357"
+chapter: 11
+current_through: "PL 119-73"
+classification: "2 U.S.C. § 357"
+generated_at: "2026-03-29T00:06:10.906Z"
+---
+
+# § 357. Report by Commission to President with respect to pay
+
+The Commission shall submit to the President a report of the results of each review conducted by the Commission with respect to rates of pay for the offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 356 of this title , together with its recommendations. Each such report shall be submitted on such date as the President may designate but not later than December 15 next following the close of the fiscal year in which the review is conducted by the Commission.
+

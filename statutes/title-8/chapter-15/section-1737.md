@@ -1,0 +1,16 @@
+---
+title: "Section 1737 - Tracking system for stolen passports"
+usc_title: 8
+usc_section: "1737"
+chapter: 15
+current_through: "PL 119-73"
+classification: "8 U.S.C. § 1737"
+generated_at: "2026-03-29T00:06:34.302Z"
+---
+
+# § 1737. Tracking system for stolen passports
+
+(a) 
+  (1) Beginning with implementation under section 1722 of this title of the law enforcement and intelligence data system, not later than 72 hours after receiving notification of the loss or theft of a United States or foreign passport, the Attorney General and the Secretary of State, as appropriate, shall enter into such system the corresponding identification number for the lost or stolen passport.
+  (2) To the extent practicable, the Attorney General, in consultation with the Secretary of State, shall enter into such system the corresponding identification numbers for the United States and foreign passports lost or stolen prior to the implementation of such system.
+(b) Until such time as the law enforcement and intelligence data system described in section 1722 of this title is fully implemented, the Attorney General shall enter the data described in subsection (a) into an existing data system being used to determine the admissibility or deportability of aliens.

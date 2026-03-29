@@ -1,0 +1,14 @@
+---
+title: "Section 5203 - Expenditure and audit of trust fund"
+usc_title: 20
+usc_section: "5203"
+chapter: 63
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 5203"
+generated_at: "2026-03-29T00:07:03.178Z"
+---
+
+# § 5203. Expenditure and audit of trust fund
+
+(a) For each fiscal year, there is authorized to be appropriated from the fund to Eisenhower Exchange Fellowships, Incorporated, the interest and earnings of the fund.
+(b) The activities of Eisenhower Exchange Fellowships, Incorporated, may be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by Eisenhower Exchange Fellowships, Incorporated, pertaining to such activities and necessary to facilitate the audit.

@@ -1,0 +1,14 @@
+---
+title: "Section 303 - Secretary of Treasury functions"
+usc_title: 13
+usc_section: "303"
+chapter: 9
+current_through: "PL 119-73"
+classification: "13 U.S.C. § 303"
+generated_at: "2026-03-29T00:06:54.844Z"
+---
+
+# § 303. Secretary of Treasury functions
+
+To assist the Secretary to carry out the provisions of this chapter, the Secretary of the Treasury shall collect information in the form and manner prescribed by the regulations issued pursuant to this chapter from persons engaged in foreign commerce or trade and from the owners or operators of carriers.
+

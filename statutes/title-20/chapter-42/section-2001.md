@@ -1,0 +1,14 @@
+---
+title: "Section 2001 - Congressional statement of findings"
+usc_title: 20
+usc_section: "2001"
+chapter: 42
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 2001"
+generated_at: "2026-03-29T00:07:03.155Z"
+---
+
+# § 2001. Congressional statement of findings
+
+The Congress finds that— because a high regard for the public trust and a lively exercise of political talents were outstanding characteristics of the thirty-third President of the United States; because a special interest of the man from Independence in American history and a broad knowledge and understanding of the American political and economic system gained by study and experience in county and National Government culminated in the leadership of America remembered for the quality of his character, courage, and commonsense; because of the desirability of encouraging young people to recognize and provide service in the highest and best traditions of the American political system at all levels of government, it is especially appropriate to honor former President Harry S Truman through the creation of a perpetual education scholarship program to develop increased opportunities for young Americans to prepare and pursue careers in public service.
+

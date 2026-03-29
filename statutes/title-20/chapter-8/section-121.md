@@ -1,0 +1,14 @@
+---
+title: "Section 121 - Annual report of president and directors"
+usc_title: 20
+usc_section: "121"
+chapter: 8
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 121"
+generated_at: "2026-03-29T00:07:03.111Z"
+---
+
+# § 121. Annual report of president and directors
+
+The president and directors of Howard University shall report to the Secretary of Education the condition of the institution on the 1st of July of each year, embracing therein the number of pupils received and discharged or leaving the same for any cause during the preceding year, and the number remaining; also, the branches of knowledge and industry taught and the progress made therein together with a statement showing the receipts of the institution and from what sources, and its disbursements, and for what objects.
+

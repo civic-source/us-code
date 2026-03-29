@@ -1,0 +1,14 @@
+---
+title: "Section 85 - Concessions"
+usc_title: 20
+usc_section: "85"
+chapter: 4
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 85"
+generated_at: "2026-03-29T00:07:03.109Z"
+---
+
+# § 85. Concessions
+
+(a) The Board of Regents of the Smithsonian Institution, in furtherance of the mission of the National Zoological Park to provide for the advancement of science and instruction and recreation of the people, is authorized to negotiate agreements granting concessions at the National Zoological Park to nonprofit scientific, educational, or historic organizations. The net proceeds of such organizations gained from such concessions granted under this subsection shall be used exclusively for research and educational work for the benefit of the National Zoological Park.
+(b) The Smithsonian Institution is authorized to accept the voluntary services of such organizations, and the voluntary services of individuals, for the benefit of the National Zoological Park.

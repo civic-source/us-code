@@ -1,0 +1,12 @@
+---
+title: "Section 3032 - Omitted"
+usc_title: 20
+usc_section: "3032"
+chapter: 47
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 3032"
+generated_at: "2026-03-29T00:07:03.161Z"
+---
+
+# §§ 3021 to 3032. Omitted
+

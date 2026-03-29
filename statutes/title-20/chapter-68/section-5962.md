@@ -1,0 +1,21 @@
+---
+title: "Section 5962 - Safe schools program authorized"
+usc_title: 20
+usc_section: "5962"
+chapter: 68
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 5962"
+generated_at: "2026-03-29T00:07:03.185Z"
+---
+
+# § 5962. Safe schools program authorized
+
+(a) 
+  (1) From funds appropriated pursuant to the authority of subsection (b)(1), the Secretary shall make competitive grants to eligible local educational agencies to enable such agencies to carry out projects and activities designed to achieve Goal Six 1 1 So in original. Probably should be “Goal Seven”. of the National Education Goals by helping to ensure that all schools are safe and free of violence.
+  (2) Grants under this subchapter may not exceed—
+    (A) two fiscal years in duration; and
+    (B) $3,000,000.
+  (3) To the extent practicable, grants under this subchapter shall be awarded to eligible local educational agencies serving rural, as well as urban, areas.
+(b) 
+  (1) There are authorized to be appropriated $50,000,000 for fiscal year 1994 to carry out this subchapter.
+  (2) The Secretary is authorized in each fiscal year to reserve not more than 10 percent of the amount appropriated pursuant to the authority of paragraph (1) to carry out national activities described in section 5966 of this title , of which 50 percent of such amount shall be available in such fiscal year to carry out the program described in section 5966(b) of this title .

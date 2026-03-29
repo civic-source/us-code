@@ -1,0 +1,26 @@
+---
+title: "Section 802 - Program"
+usc_title: 2
+usc_section: "802"
+chapter: 19
+current_through: "PL 119-73"
+classification: "2 U.S.C. § 802"
+generated_at: "2026-03-29T00:06:10.927Z"
+---
+
+# § 802. Program
+
+(a) The Board shall establish and administer a program to be known as the Congressional Award Program, which shall be designed to promote initiative, achievement, and excellence among youths in the areas of public service, personal development, and physical and expedition fitness. Under the program medals shall be awarded to young people within the United States, aged fourteen through twenty-three (subject to such exceptions as the Board may prescribe), who have satisfied the standards of achievement established by the Board under subsection (b) of this section.
+(b) In carrying out the Congressional Award Program, the Board shall—
+  (1) establish the standards of achievement required for young people to qualify as recipients of the medals and establish such procedures as may be required to verify that individuals satisfy such qualifications;
+  (2) designate the recipients of the medals in accordance with the standards established under paragraph (1) of this subsection;
+  (3) delineate such roles as the Board considers to be appropriate for the Director and Regional Directors in administering the Congressional Award, and set forth in the bylaws of the Board the duties, salaries, and benefits of the Director and Regional Directors;
+  (4) raise funds for the operation of the program; and
+  (5) take such other actions as may be appropriate for the administration of the Congressional Award Program.
+(c) The Board shall arrange for the presentation of the awards to the recipients and shall provide for participation by Members of Congress in such presentation, when appropriate. To the extent possible, recipients shall be provided with opportunities to exchange information and views with Members of Congress in connection with the presentation of the awards.
+(d) The Board may award scholarships in such amounts as the Board determines to be appropriate to any recipient of the Congressional Award Gold, Silver, and Bronze Medals.
+(e) 
+(f) 
+  (1) The Secretary of the Treasury shall strike the medals described in subsection (a) and awarded by the Board under this chapter. The medals shall be of such quantity, design, and specifications as the Secretary of the Treasury may determine, after consultation with the Board.
+  (2) The medals struck pursuant to this chapter are National medals for purposes of chapter 51 of title 31.
+  (3) There are authorized to be charged against the Numismatic Public Enterprise Fund such amounts as may be necessary to pay for the cost of the medals struck pursuant to this chapter.

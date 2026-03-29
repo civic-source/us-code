@@ -1,0 +1,14 @@
+---
+title: "Section 807 - Definitions; authorization of appropriations for administrative and other expenses"
+usc_title: 20
+usc_section: "807"
+chapter: 23
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 807"
+generated_at: "2026-03-29T00:07:03.115Z"
+---
+
+# § 807. Definitions; authorization of appropriations for administrative and other expenses
+
+(a) As used in this chapter the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Virgin Islands; and the term “Secretary” means the Secretary of Housing and Urban Development.
+(b) There are authorized to be appropriated such sums as may be necessary for administrative and other expenses in carrying out this chapter.

@@ -1,0 +1,14 @@
+---
+title: "Section 71 - Designation of site"
+usc_title: 20
+usc_section: "71"
+chapter: 3
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 71"
+generated_at: "2026-03-29T00:07:03.095Z"
+---
+
+# § 71. Designation of site
+
+The area bounded by Seventh Street, Constitution Avenue, Fourth Street, and North Mall Drive, Northwest, in the District of Columbia, is appropriated to the Smithsonian Institution as a site for a National Gallery of Art. The Smithsonian Institution is authorized to permit the A. W. Mellon Educational and Charitable Trust (hereinafter referred to as the donor) to construct on said site for the Smithsonian Institution a building to be designated the National Gallery of Art, and to remove any existing structure and landscape the grounds within said area. The adjoining area bounded by Fourth Street, Pennsylvania Avenue, Third Street, and North Mall Drive, Northwest, in the District of Columbia, is reserved as a site for future additions to the National Gallery of Art. The project shall be in accordance with plans and specifications approved by the Commission of Fine Arts.
+

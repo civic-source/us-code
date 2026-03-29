@@ -1,0 +1,24 @@
+---
+title: "Section 404 - High-visibility enforcement program"
+usc_title: 23
+usc_section: "404"
+chapter: 4
+current_through: "PL 119-73"
+classification: "23 U.S.C. § 404"
+generated_at: "2026-03-29T00:07:07.677Z"
+---
+
+# § 404. High-visibility enforcement program
+
+(a) The Secretary shall establish and administer a program under which not less than 3 campaigns will be carried out in each of fiscal years 2022 through 2026.
+(b) The purpose of each campaign carried out under this section shall be to achieve outcomes related to not less than 1 of the following objectives:
+  (1) Reduce alcohol-impaired or drug-impaired operation of motor vehicles.
+  (2) Increase use of seatbelts by occupants of motor vehicles.
+(c) The Secretary may use, or authorize the use of, funds available to carry out this section to pay for the development, production, and use of broadcast and print media advertising and Internet-based outreach in carrying out campaigns under this section. In allocating such funds, consideration shall be given to advertising directed at non-English speaking populations, including those who listen to, read, or watch nontraditional media.
+(d) The Secretary shall coordinate with States in carrying out the campaigns under this section, including advertising funded under subsection (c), with consideration given to—
+  (1) relying on States to provide law enforcement resources for the campaigns out of funding made available under sections 402 and 405; and
+  (2) providing, out of National Highway Traffic Safety Administration resources, most of the means necessary for national advertising and education efforts associated with the campaigns.
+(e) Funds made available to carry out this section may be used only for activities described in subsection (c).
+(f) In this section, the following definitions apply:
+  (1) The term “campaign” means a high-visibility traffic safety law enforcement campaign.
+  (2) The term “State” has the meaning given that term in section 401.

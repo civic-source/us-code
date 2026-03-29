@@ -1,0 +1,22 @@
+---
+title: "Section 102 - Subject matter of copyright: In general"
+usc_title: 17
+usc_section: "102"
+chapter: 1
+current_through: "PL 119-73"
+classification: "17 U.S.C. § 102"
+generated_at: "2026-03-29T00:06:55.727Z"
+---
+
+# § 102. Subject matter of copyright: In general
+
+(a) Copyright protection subsists, in accordance with this title, in original works of authorship fixed in any tangible medium of expression, now known or later developed, from which they can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. Works of authorship include the following categories:
+  (1) literary works;
+  (2) musical works, including any accompanying words;
+  (3) dramatic works, including any accompanying music;
+  (4) pantomimes and choreographic works;
+  (5) pictorial, graphic, and sculptural works;
+  (6) motion pictures and other audiovisual works;
+  (7) sound recordings; and
+  (8) architectural works.
+(b) In no case does copyright protection for an original work of authorship extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.

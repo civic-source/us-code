@@ -1,0 +1,14 @@
+---
+title: "Section 9606 - Priorities"
+usc_title: 20
+usc_section: "9606"
+chapter: 76
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 9606"
+generated_at: "2026-03-29T00:07:03.203Z"
+---
+
+# § 9606. Priorities
+
+The Secretary shall establish priorities for the regional educational laboratories (established under section 9564 of this title ) and comprehensive centers (established under section 9602 of this title ) to address, taking onto account the regional assessments conducted under section 9605 of this title and other relevant regional surveys of educational needs, to the extent the Secretary deems appropriate.
+

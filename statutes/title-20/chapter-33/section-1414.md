@@ -1,0 +1,188 @@
+---
+title: "Section 1414 - Evaluations, eligibility determinations, individualized education programs, and educational placements"
+usc_title: 20
+usc_section: "1414"
+chapter: 33
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 1414"
+generated_at: "2026-03-29T00:07:03.140Z"
+---
+
+# § 1414. Evaluations, eligibility determinations, individualized education programs, and educational placements
+
+(a) 
+  (1) 
+    (A) A State educational agency, other State agency, or local educational agency shall conduct a full and individual initial evaluation in accordance with this paragraph and subsection (b), before the initial provision of special education and related services to a child with a disability under this subchapter.
+    (B) Consistent with subparagraph (D), either a parent of a child, or a State educational agency, other State agency, or local educational agency may initiate a request for an initial evaluation to determine if the child is a child with a disability.
+    (C) 
+      (i) Such initial evaluation shall consist of procedures—
+        (I) to determine whether a child is a child with a disability (as defined in 1401 of this title) within 60 days of receiving parental consent for the evaluation, or, if the State establishes a timeframe within which the evaluation must be conducted, within such timeframe; and
+        (II) to determine the educational needs of such child.
+      (ii) The relevant timeframe in clause (i)(I) shall not apply to a local educational agency if—
+        (I) a child enrolls in a school served by the local educational agency after the relevant timeframe in clause (i)(I) has begun and prior to a determination by the child’s previous local educational agency as to whether the child is a child with a disability (as defined in section 1401 of this title ), but only if the subsequent local educational agency is making sufficient progress to ensure a prompt completion of the evaluation, and the parent and subsequent local educational agency agree to a specific time when the evaluation will be completed; or
+        (II) the parent of a child repeatedly fails or refuses to produce the child for the evaluation.
+    (D) 
+      (i) 
+        (I) The agency proposing to conduct an initial evaluation to determine if the child qualifies as a child with a disability as defined in section 1401 of this title shall obtain informed consent from the parent of such child before conducting the evaluation. Parental consent for evaluation shall not be construed as consent for placement for receipt of special education and related services.
+        (II) An agency that is responsible for making a free appropriate public education available to a child with a disability under this subchapter shall seek to obtain informed consent from the parent of such child before providing special education and related services to the child.
+      (ii) 
+        (I) If the parent of such child does not provide consent for an initial evaluation under clause (i)(I), or the parent fails to respond to a request to provide the consent, the local educational agency may pursue the initial evaluation of the child by utilizing the procedures described in section 1415 of this title , except to the extent inconsistent with State law relating to such parental consent.
+        (II) If the parent of such child refuses to consent to services under clause (i)(II), the local educational agency shall not provide special education and related services to the child by utilizing the procedures described in section 1415 of this title .
+        (III) If the parent of such child refuses to consent to the receipt of special education and related services, or the parent fails to respond to a request to provide such consent—
+      (iii) 
+        (I) If the child is a ward of the State and is not residing with the child’s parent, the agency shall make reasonable efforts to obtain the informed consent from the parent (as defined in section 1401 of this title ) of the child for an initial evaluation to determine whether the child is a child with a disability.
+        (II) The agency shall not be required to obtain informed consent from the parent of a child for an initial evaluation to determine whether the child is a child with a disability if—
+    (E) The screening of a student by a teacher or specialist to determine appropriate instructional strategies for curriculum implementation shall not be considered to be an evaluation for eligibility for special education and related services.
+  (2) 
+    (A) A local educational agency shall ensure that a reevaluation of each child with a disability is conducted in accordance with subsections (b) and (c)—
+      (i) if the local educational agency determines that the educational or related services needs, including improved academic achievement and functional performance, of the child warrant a reevaluation; or
+      (ii) if the child’s parents or teacher requests a reevaluation.
+    (B) A reevaluation conducted under subparagraph (A) shall occur—
+      (i) not more frequently than once a year, unless the parent and the local educational agency agree otherwise; and
+      (ii) at least once every 3 years, unless the parent and the local educational agency agree that a reevaluation is unnecessary.
+(b) 
+  (1) The local educational agency shall provide notice to the parents of a child with a disability, in accordance with subsections (b)(3), (b)(4), and (c) of section 1415 of this title , that describes any evaluation procedures such agency proposes to conduct.
+  (2) In conducting the evaluation, the local educational agency shall—
+    (A) use a variety of assessment tools and strategies to gather relevant functional, developmental, and academic information, including information provided by the parent, that may assist in determining—
+      (i) whether the child is a child with a disability; and
+      (ii) the content of the child’s individualized education program, including information related to enabling the child to be involved in and progress in the general education curriculum, or, for preschool children, to participate in appropriate activities;
+    (B) not use any single measure or assessment as the sole criterion for determining whether a child is a child with a disability or determining an appropriate educational program for the child; and
+    (C) use technically sound instruments that may assess the relative contribution of cognitive and behavioral factors, in addition to physical or developmental factors.
+  (3) Each local educational agency shall ensure that—
+    (A) assessments and other evaluation materials used to assess a child under this section—
+      (i) are selected and administered so as not to be discriminatory on a racial or cultural basis;
+      (ii) are provided and administered in the language and form most likely to yield accurate information on what the child knows and can do academically, developmentally, and functionally, unless it is not feasible to so provide or administer;
+      (iii) are used for purposes for which the assessments or measures are valid and reliable;
+      (iv) are administered by trained and knowledgeable personnel; and
+      (v) are administered in accordance with any instructions provided by the producer of such assessments;
+    (B) the child is assessed in all areas of suspected disability;
+    (C) assessment tools and strategies that provide relevant information that directly assists persons in determining the educational needs of the child are provided; and
+    (D) assessments of children with disabilities who transfer from 1 school district to another school district in the same academic year are coordinated with such children’s prior and subsequent schools, as necessary and as expeditiously as possible, to ensure prompt completion of full evaluations.
+  (4) Upon completion of the administration of assessments and other evaluation measures—
+    (A) the determination of whether the child is a child with a disability as defined in section 1401(3) of this title and the educational needs of the child shall be made by a team of qualified professionals and the parent of the child in accordance with paragraph (5); and
+    (B) a copy of the evaluation report and the documentation of determination of eligibility shall be given to the parent.
+  (5) In making a determination of eligibility under paragraph (4)(A), a child shall not be determined to be a child with a disability if the determinant factor for such determination is—
+    (A) lack of appropriate instruction in reading, including in the essential components of reading instruction (as defined in section 6368(3) of this title , as such section was in effect on the day before December 10, 2015 );
+    (B) lack of instruction in math; or
+    (C) limited English proficiency.
+  (6) 
+    (A) Notwithstanding section 1406(b) of this title , when determining whether a child has a specific learning disability as defined in section 1401 of this title , a local educational agency shall not be required to take into consideration whether a child has a severe discrepancy between achievement and intellectual ability in oral expression, listening comprehension, written expression, basic reading skill, reading comprehension, mathematical calculation, or mathematical reasoning.
+    (B) In determining whether a child has a specific learning disability, a local educational agency may use a process that determines if the child responds to scientific, research-based intervention as a part of the evaluation procedures described in paragraphs (2) and (3).
+(c) 
+  (1) As part of an initial evaluation (if appropriate) and as part of any reevaluation under this section, the IEP Team and other qualified professionals, as appropriate, shall—
+    (A) review existing evaluation data on the child, including—
+      (i) evaluations and information provided by the parents of the child;
+      (ii) current classroom-based, local, or State assessments, and classroom-based observations; and
+      (iii) observations by teachers and related services providers; and
+    (B) on the basis of that review, and input from the child’s parents, identify what additional data, if any, are needed to determine—
+      (i) whether the child is a child with a disability as defined in section 1401(3) of this title , and the educational needs of the child, or, in case of a reevaluation of a child, whether the child continues to have such a disability and such educational needs;
+      (ii) the present levels of academic achievement and related developmental needs of the child;
+      (iii) whether the child needs special education and related services, or in the case of a reevaluation of a child, whether the child continues to need special education and related services; and
+      (iv) whether any additions or modifications to the special education and related services are needed to enable the child to meet the measurable annual goals set out in the individualized education program of the child and to participate, as appropriate, in the general education curriculum.
+  (2) The local educational agency shall administer such assessments and other evaluation measures as may be needed to produce the data identified by the IEP Team under paragraph (1)(B).
+  (3) Each local educational agency shall obtain informed parental consent, in accordance with subsection (a)(1)(D), prior to conducting any reevaluation of a child with a disability, except that such informed parental consent need not be obtained if the local educational agency can demonstrate that it had taken reasonable measures to obtain such consent and the child’s parent has failed to respond.
+  (4) If the IEP Team and other qualified professionals, as appropriate, determine that no additional data are needed to determine whether the child continues to be a child with a disability and to determine the child’s educational needs, the local educational agency—
+    (A) shall notify the child’s parents of—
+      (i) that determination and the reasons for the determination; and
+      (ii) the right of such parents to request an assessment to determine whether the child continues to be a child with a disability and to determine the child’s educational needs; and
+    (B) shall not be required to conduct such an assessment unless requested to by the child’s parents.
+  (5) 
+    (A) Except as provided in subparagraph (B), a local educational agency shall evaluate a child with a disability in accordance with this section before determining that the child is no longer a child with a disability.
+    (B) 
+      (i) The evaluation described in subparagraph (A) shall not be required before the termination of a child’s eligibility under this subchapter due to graduation from secondary school with a regular diploma, or due to exceeding the age eligibility for a free appropriate public education under State law.
+      (ii) For a child whose eligibility under this subchapter terminates under circumstances described in clause (i), a local educational agency shall provide the child with a summary of the child’s academic achievement and functional performance, which shall include recommendations on how to assist the child in meeting the child’s postsecondary goals.
+(d) 
+  (1) In this chapter:
+    (A) 
+      (i) The term “individualized education program” or “IEP” means a written statement for each child with a disability that is developed, reviewed, and revised in accordance with this section and that includes—
+        (I) a statement of the child’s present levels of academic achievement and functional performance, including—
+        (II) a statement of measurable annual goals, including academic and functional goals, designed to—
+        (III) a description of how the child’s progress toward meeting the annual goals described in subclause (II) will be measured and when periodic reports on the progress the child is making toward meeting the annual goals (such as through the use of quarterly or other periodic reports, concurrent with the issuance of report cards) will be provided;
+        (IV) a statement of the special education and related services and supplementary aids and services, based on peer-reviewed research to the extent practicable, to be provided to the child, or on behalf of the child, and a statement of the program modifications or supports for school personnel that will be provided for the child—
+        (V) an explanation of the extent, if any, to which the child will not participate with nondisabled children in the regular class and in the activities described in subclause (IV)(cc);
+        (VI) 
+        (VII) the projected date for the beginning of the services and modifications described in subclause (IV), and the anticipated frequency, location, and duration of those services and modifications; and
+        (VIII) beginning not later than the first IEP to be in effect when the child is 16, and updated annually thereafter—
+      (ii) Nothing in this section shall be construed to require—
+        (I) that additional information be included in a child’s IEP beyond what is explicitly required in this section; and
+        (II) the IEP Team to include information under 1 component of a child’s IEP that is already contained under another component of such IEP.
+    (B) The term “individualized education program team” or “IEP Team” means a group of individuals composed of—
+      (i) the parents of a child with a disability;
+      (ii) not less than 1 regular education teacher of such child (if the child is, or may be, participating in the regular education environment);
+      (iii) not less than 1 special education teacher, or where appropriate, not less than 1 special education provider of such child;
+      (iv) a representative of the local educational agency who—
+        (I) is qualified to provide, or supervise the provision of, specially designed instruction to meet the unique needs of children with disabilities;
+        (II) is knowledgeable about the general education curriculum; and
+        (III) is knowledgeable about the availability of resources of the local educational agency;
+      (v) an individual who can interpret the instructional implications of evaluation results, who may be a member of the team described in clauses (ii) through (vi);
+      (vi) at the discretion of the parent or the agency, other individuals who have knowledge or special expertise regarding the child, including related services personnel as appropriate; and
+      (vii) whenever appropriate, the child with a disability.
+    (C) 
+      (i) A member of the IEP Team shall not be required to attend an IEP meeting, in whole or in part, if the parent of a child with a disability and the local educational agency agree that the attendance of such member is not necessary because the member’s area of the curriculum or related services is not being modified or discussed in the meeting.
+      (ii) A member of the IEP Team may be excused from attending an IEP meeting, in whole or in part, when the meeting involves a modification to or discussion of the member’s area of the curriculum or related services, if—
+        (I) the parent and the local educational agency consent to the excusal; and
+        (II) the member submits, in writing to the parent and the IEP Team, input into the development of the IEP prior to the meeting.
+      (iii) A parent’s agreement under clause (i) and consent under clause (ii) shall be in writing.
+    (D) In the case of a child who was previously served under subchapter III, an invitation to the initial IEP meeting shall, at the request of the parent, be sent to the subchapter III service coordinator or other representatives of the subchapter III system to assist with the smooth transition of services.
+  (2) 
+    (A) At the beginning of each school year, each local educational agency, State educational agency, or other State agency, as the case may be, shall have in effect, for each child with a disability in the agency’s jurisdiction, an individualized education program, as defined in paragraph (1)(A).
+    (B) In the case of a child with a disability aged 3 through 5 (or, at the discretion of the State educational agency, a 2-year-old child with a disability who will turn age 3 during the school year), the IEP Team shall consider the individualized family service plan that contains the material described in section 1436 of this title , and that is developed in accordance with this section, and the individualized family service plan may serve as the IEP of the child if using that plan as the IEP is—
+      (i) consistent with State policy; and
+      (ii) agreed to by the agency and the child’s parents.
+    (C) 
+      (i) 
+        (I) In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in the same State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency adopts the previously held IEP or develops, adopts, and implements a new IEP that is consistent with Federal and State law.
+        (II) In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in another State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency conducts an evaluation pursuant to subsection (a)(1), if determined to be necessary by such agency, and develops a new IEP, if appropriate, that is consistent with Federal and State law.
+      (ii) To facilitate the transition for a child described in clause (i)—
+        (I) the new school in which the child enrolls shall take reasonable steps to promptly obtain the child’s records, including the IEP and supporting documents and any other records relating to the provision of special education or related services to the child, from the previous school in which the child was enrolled, pursuant to section 99.31(a)(2) of title 34, Code of Federal Regulations; and
+        (II) the previous school in which the child was enrolled shall take reasonable steps to promptly respond to such request from the new school.
+  (3) 
+    (A) In developing each child’s IEP, the IEP Team, subject to subparagraph (C), shall consider—
+      (i) the strengths of the child;
+      (ii) the concerns of the parents for enhancing the education of their child;
+      (iii) the results of the initial evaluation or most recent evaluation of the child; and
+      (iv) the academic, developmental, and functional needs of the child.
+    (B) The IEP Team shall—
+      (i) in the case of a child whose behavior impedes the child’s learning or that of others, consider the use of positive behavioral interventions and supports, and other strategies, to address that behavior;
+      (ii) in the case of a child with limited English proficiency, consider the language needs of the child as such needs relate to the child’s IEP;
+      (iii) in the case of a child who is blind or visually impaired, provide for instruction in Braille and the use of Braille unless the IEP Team determines, after an evaluation of the child’s reading and writing skills, needs, and appropriate reading and writing media (including an evaluation of the child’s future needs for instruction in Braille or the use of Braille), that instruction in Braille or the use of Braille is not appropriate for the child;
+      (iv) consider the communication needs of the child, and in the case of a child who is deaf or hard of hearing, consider the child’s language and communication needs, opportunities for direct communications with peers and professional personnel in the child’s language and communication mode, academic level, and full range of needs, including opportunities for direct instruction in the child’s language and communication mode; and
+      (v) consider whether the child needs assistive technology devices and services.
+    (C) A regular education teacher of the child, as a member of the IEP Team, shall, to the extent appropriate, participate in the development of the IEP of the child, including the determination of appropriate positive behavioral interventions and supports, and other strategies, and the determination of supplementary aids and services, program modifications, and support for school personnel consistent with paragraph (1)(A)(i)(IV).
+    (D) In making changes to a child’s IEP after the annual IEP meeting for a school year, the parent of a child with a disability and the local educational agency may agree not to convene an IEP meeting for the purposes of making such changes, and instead may develop a written document to amend or modify the child’s current IEP.
+    (E) To the extent possible, the local educational agency shall encourage the consolidation of reevaluation meetings for the child and other IEP Team meetings for the child.
+    (F) Changes to the IEP may be made either by the entire IEP Team or, as provided in subparagraph (D), by amending the IEP rather than by redrafting the entire IEP. Upon request, a parent shall be provided with a revised copy of the IEP with the amendments incorporated.
+  (4) 
+    (A) The local educational agency shall ensure that, subject to subparagraph (B), the IEP Team—
+      (i) reviews the child’s IEP periodically, but not less frequently than annually, to determine whether the annual goals for the child are being achieved; and
+      (ii) revises the IEP as appropriate to address—
+        (I) any lack of expected progress toward the annual goals and in the general education curriculum, where appropriate;
+        (II) the results of any reevaluation conducted under this section;
+        (III) information about the child provided to, or by, the parents, as described in subsection (c)(1)(B);
+        (IV) the child’s anticipated needs; or
+        (V) other matters.
+    (B) A regular education teacher of the child, as a member of the IEP Team, shall, consistent with paragraph (1)(C), participate in the review and revision of the IEP of the child.
+  (5) 
+    (A) 
+      (i) The purpose of this paragraph is to provide an opportunity for States to allow parents and local educational agencies the opportunity for long-term planning by offering the option of developing a comprehensive multi-year IEP, not to exceed 3 years, that is designed to coincide with the natural transition points for the child.
+      (ii) In order to carry out the purpose of this paragraph, the Secretary is authorized to approve not more than 15 proposals from States to carry out the activity described in clause (i).
+      (iii) 
+        (I) A State desiring to participate in the program under this paragraph shall submit a proposal to the Secretary at such time and in such manner as the Secretary may reasonably require.
+        (II) The proposal shall include—
+    (B) Beginning 2 years after December 3, 2004 , the Secretary shall submit an annual report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate regarding the effectiveness of the program under this paragraph and any specific recommendations for broader implementation of such program, including—
+      (i) reducing—
+        (I) the paperwork burden on teachers, principals, administrators, and related service providers; and
+        (II) noninstructional time spent by teachers in complying with this subchapter;
+      (ii) enhancing longer-term educational planning;
+      (iii) improving positive outcomes for children with disabilities;
+      (iv) promoting collaboration between IEP Team members; and
+      (v) ensuring satisfaction of family members.
+    (C) In this paragraph, the term “natural transition points” means those periods that are close in time to the transition of a child with a disability from preschool to elementary grades, from elementary grades to middle or junior high school grades, from middle or junior high school grades to secondary school grades, and from secondary school grades to post-secondary activities, but in no case a period longer than 3 years.
+  (6) If a participating agency, other than the local educational agency, fails to provide the transition services described in the IEP in accordance with paragraph (1)(A)(i)(VIII), the local educational agency shall reconvene the IEP Team to identify alternative strategies to meet the transition objectives for the child set out in the IEP.
+  (7) 
+    (A) The following requirements shall not apply to children with disabilities who are convicted as adults under State law and incarcerated in adult prisons:
+      (i) The requirements contained in section 1412(a)(16) of this title and paragraph (1)(A)(i)(VI) (relating to participation of children with disabilities in general assessments).
+      (ii) The requirements of items (aa) and (bb) of paragraph (1)(A)(i)(VIII) (relating to transition planning and transition services), do not apply with respect to such children whose eligibility under this subchapter will end, because of such children’s age, before such children will be released from prison.
+    (B) If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child’s IEP Team may modify the child’s IEP or placement notwithstanding the requirements of sections 1 1 So in original. Probably should be “section”. 1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
+(e) Each local educational agency or State educational agency shall ensure that the parents of each child with a disability are members of any group that makes decisions on the educational placement of their child.
+(f) When conducting IEP team 2 2 So in original. Probably should be capitalized. meetings and placement meetings pursuant to this section, section 1415(e) of this title , and section 1415(f)(1)(B) of this title , and carrying out administrative matters under section 1415 of this title (such as scheduling, exchange of witness lists, and status conferences), the parent of a child with a disability and a local educational agency may agree to use alternative means of meeting participation, such as video conferences and conference calls.

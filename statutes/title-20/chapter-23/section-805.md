@@ -1,0 +1,14 @@
+---
+title: "Section 805 - Technical assistance, studies, and publication of information"
+usc_title: 20
+usc_section: "805"
+chapter: 23
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 805"
+generated_at: "2026-03-29T00:07:03.115Z"
+---
+
+# § 805. Technical assistance, studies, and publication of information
+
+In order to carry out the purpose of this chapter, the Secretary is authorized to provide technical assistance to State and local governmental or public bodies and to undertake such studies and publish and distribute such information, either directly or by contract, as he shall determine to be desirable. Nothing contained in this chapter shall limit any authority of the Secretary under any other provision of law.
+

@@ -1,0 +1,32 @@
+---
+title: "Section 4359a - International students"
+usc_title: 20
+usc_section: "4359a"
+chapter: 55
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 4359a"
+generated_at: "2026-03-29T00:07:03.172Z"
+---
+
+# § 4359a. International students
+
+(a) 
+  (1) Except as provided in paragraph (2), effective with new admissions for academic year 1993–1994 and each succeeding academic year, the University (including undergraduate and graduate students) and NTID shall limit the enrollment of international students to approximately 15 percent of the total postsecondary student population enrolled respectively at the University or NTID, except that in any school year no United States citizen who is qualified to be admitted to the University or NTID and applies for admission to the University or NTID shall be denied admission because of the admission of an international student.
+  (2) International students who participate in distance learning courses that are at the University or the NTID, who are residing outside of the United States, and are not enrolled in a degree program at the University or the NTID shall—
+    (A) not be counted as international students for purposes of the cap on international students under paragraph (1), except that in any school year no United States citizen who applies to participate in distance learning courses that are at the University or NTID shall be denied participation in such courses because of the participation of an international student in such courses; and
+    (B) not be charged a tuition surcharge, as described in subsection (b).
+(b) Except as provided in subsections (a)(2)(B) and (c), the tuition for postsecondary international students enrolled in the University (including undergraduate and graduate students) or NTID shall include, for academic year 2009–2010 and any succeeding academic year, a surcharge of—
+  (1) 100 percent for a postsecondary international student from a non-developing country; and
+  (2) 50 percent for a postsecondary international student from a developing country, or a country that was a developing country for any academic year during the student’s period of uninterrupted enrollment in a degree program at the University or NTID, except that such a surcharge shall not be adjusted retroactively.
+(c) 
+  (1) Beginning with the academic year 2009–2010, the University or NTID may reduce the surcharge—
+    (A) under subsection (b)(1) from 100 percent to not less than 50 percent if—
+      (i) a student described under subsection (b)(1) demonstrates need; and
+      (ii) such student has made a good-faith effort to secure aid through such student’s government or other sources; and
+    (B) under subsection (b)(2) from 50 percent to not less than 25 percent if—
+      (i) a student described under subsection (b)(2) demonstrates need; and
+      (ii) such student has made a good faith effort to secure aid through such student’s government or other sources.
+  (2) The University and NTID shall develop a sliding scale model that—
+    (A) will be used to determine the amount of a tuition surcharge reduction pursuant to paragraph (1); and
+    (B) shall be approved by the Secretary.
+(d) In this section, the term “developing country” means a country with a per-capita income of not more than $5,345, measured in 2005 United States dollars, as adjusted by the Secretary to reflect inflation since 2005.

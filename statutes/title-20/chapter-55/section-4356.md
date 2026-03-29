@@ -1,0 +1,18 @@
+---
+title: "Section 4356 - Liaison for educational programs"
+usc_title: 20
+usc_section: "4356"
+chapter: 55
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 4356"
+generated_at: "2026-03-29T00:07:03.171Z"
+---
+
+# § 4356. Liaison for educational programs
+
+(a) The Secretary shall designate an individual in the Office of Special Education and Rehabilitative Services of the Department of Education from among individuals who have experience in the education of individuals who are deaf to serve as liaison between the Department and Gallaudet University, the National Technical Institute for the Deaf, and other postsecondary educational programs for individuals who are deaf under the Individuals with Disabilities Education Act [ 20 U.S.C. 1400 et seq.], the Rehabilitation Act of 1973 [ 29 U.S.C. 701 et seq.], and other Federal or non-Federal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing.
+(b) The individual serving as liaison for educational programs for individuals who are deaf or hard of hearing shall:
+  (1) provide information to institutions regarding the Department’s efforts directly affecting the operation of such programs by such institutions;
+  (2) review research and other activities carried out by the University, NTID, and other Federal or non-Federal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing for the purpose of determining overlap and opportunities for coordination among such entities; and
+  (3) provide such support and assistance as such institutions may request and the Secretary considers appropriate.
+(c) Nothing in this section may be construed to affect the authority of the Secretary under this chapter or any other Act with respect to Gallaudet University or the National Technical Institute for the Deaf.

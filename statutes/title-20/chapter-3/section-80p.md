@@ -1,0 +1,14 @@
+---
+title: "Section 80p - Funding"
+usc_title: 20
+usc_section: "80p"
+chapter: 3
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 80p"
+generated_at: "2026-03-29T00:07:03.100Z"
+---
+
+# § 80p. Funding
+
+(a) The faith of the United States is pledged that upon the completion of the acquisition in section 80k of this title , the United States will provide such funds as may be necessary for the upkeep of the Museum and the administrative expenses and costs of operation thereof, including the protection and care of works of art acquired by the Board, so the Museum shall at all times be properly maintained and works of art contained therein shall be exhibited regularly to the general public free of charge.
+(b) There is authorized to be appropriated for the first fiscal year under this subchapter, the sum of $1,000,000 and such amounts as may be necessary for the succeeding fiscal years in order to carry out the provisions of this subchapter.

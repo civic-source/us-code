@@ -1,0 +1,14 @@
+---
+title: "Section 221 - Instructions of citizens from American republics; Government maintained professional educational institutions"
+usc_title: 20
+usc_section: "221"
+chapter: 12
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 221"
+generated_at: "2026-03-29T00:07:03.113Z"
+---
+
+# § 221. Instructions of citizens from American republics; Government maintained professional educational institutions
+
+The President is authorized, in his discretion and under such regulations as he may prescribe by Executive order, to permit citizens of the American republics to receive instruction, with or without charge therefor, at professional educational institutions and schools maintained and administered by the Government of the United States or by departments or agencies thereof: Provided , That such citizens shall agree to comply with all regulations for the government of the institutions and schools at which they may be under instruction and to exert every effort to accomplish successfully the courses of instruction prescribed: And provided further , That the regulations prescribed by the President under the authority of this section shall contain provisions limiting the admission of citizens of the American republics to primary schools maintained and administered by the Government of the United States so that there will under no circumstances be any curtailment of the admission of citizens of the United States eligible to receive instruction therein.
+

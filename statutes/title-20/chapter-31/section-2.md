@@ -1,0 +1,12 @@
+---
+title: "Section 2 - Repealed. Pub. L. 103–382, title II, § 212(a)(1) , Oct. 20, 1994 , 108 Stat. 3913"
+usc_title: 20
+usc_section: "2"
+chapter: 31
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 2"
+generated_at: "2026-03-29T00:07:03.129Z"
+---
+
+# § 1221e–2. Repealed. Pub. L. 103–382, title II, § 212(a)(1) , Oct. 20, 1994 , 108 Stat. 3913
+

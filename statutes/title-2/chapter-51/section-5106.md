@@ -1,0 +1,20 @@
+---
+title: "Section 5106 - Allowance for compensation of interns in House leadership offices"
+usc_title: 2
+usc_section: "5106"
+chapter: 51
+current_through: "PL 119-73"
+classification: "2 U.S.C. § 5106"
+generated_at: "2026-03-29T00:06:10.986Z"
+---
+
+# § 5106. Allowance for compensation of interns in House leadership offices
+
+(a) There is established for the House of Representatives an allowance which shall be available for the compensation of interns who serve in House leadership offices.
+(b) Section 5321(b) of this title shall apply with respect to an intern who is compensated under the allowance under this section in the same manner as such section applies with respect to an intern who is compensated under the Members’ Representational Allowance.
+(c) In this section—
+  (1) the term “House leadership office” means, with respect to a fiscal year, any office for which the appropriation for salaries and expenses of the office for the fiscal year is provided under the heading “House Leadership Offices” in the Act making appropriations for the Legislative Branch for the fiscal year; and
+  (2) term “intern”, with respect to a House leadership office, has the meaning given such term with respect to a Member of the House of Representatives in section 5321(c)(2) of this title .
+(d) There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2020 and each succeeding fiscal year.
+(e) 
+(f) This section and the amendments made by this section shall apply with respect to fiscal year 2020 and each succeeding fiscal year.

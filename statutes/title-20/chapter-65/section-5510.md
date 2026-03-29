@@ -1,0 +1,17 @@
+---
+title: "Section 5510 - Authorization"
+usc_title: 20
+usc_section: "5510"
+chapter: 65
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 5510"
+generated_at: "2026-03-29T00:07:03.180Z"
+---
+
+# § 5510. Authorization
+
+(a) There is hereby authorized to be appropriated to the Environmental Protection Agency to carry out this chapter not to exceed $12,000,000 for each fiscal year 1992 and 1993, not to exceed $13,000,000 for fiscal year 1994, and not to exceed $14,000,000 for each fiscal year 1995 and 1996.
+(b) Of such sums appropriated in a fiscal year, 25 percent shall be available for the activities of the Office of Environmental Education, 25 percent shall be available for the operation of the environmental education and training program, 38 percent shall be available for environmental education grants, 10 percent shall be available for support of the National Environmental Education and Training Foundation, and 2 percent shall be available to support awards pursuant to section 5507(e) of this title .
+(c) Funds appropriated pursuant to this section may be made available to the National Environmental Education and Training Foundation to—
+  (1) match partially or wholly the amount or value of contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local governments; and
+  (2) provide administrative services under section 5509(d) of this title :

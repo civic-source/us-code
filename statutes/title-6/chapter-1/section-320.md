@@ -1,0 +1,20 @@
+---
+title: "Section 320 - Credentialing and typing"
+usc_title: 6
+usc_section: "320"
+chapter: 1
+current_through: "PL 119-73"
+classification: "6 U.S.C. § 320"
+generated_at: "2026-03-29T00:06:17.475Z"
+---
+
+# § 320. Credentialing and typing
+
+(a) The Administrator shall enter into a memorandum of understanding with the administrators of the Emergency Management Assistance Compact, State, local, and tribal governments, and organizations that represent emergency response providers, to collaborate on developing standards for deployment capabilities, including for credentialing and typing of incident management personnel, emergency response providers, and other personnel (including temporary personnel) and resources likely needed to respond to natural disasters, acts of terrorism, and other man-made disasters.
+(b) 
+  (1) Not later than 1 year after August 3, 2007 , the Administrator shall provide the standards developed under subsection (a), including detailed written guidance, to—
+    (A) each Federal agency that has responsibilities under the National Response Plan to aid that agency with credentialing and typing incident management personnel, emergency response providers, and other personnel (including temporary personnel) and resources likely needed to respond to a natural disaster, act of terrorism, or other man-made disaster; and
+    (B) State, local, and tribal governments, to aid such governments with credentialing and typing of State, local, and tribal incident management personnel, emergency response providers, and other personnel (including temporary personnel) and resources likely needed to respond to a natural disaster, act of terrorism, or other man-made disaster.
+  (2) The Administrator shall provide expertise and technical assistance to aid Federal, State, local, and tribal government agencies with credentialing and typing incident management personnel, emergency response providers, and other personnel (including temporary personnel) and resources likely needed to respond to a natural disaster, act of terrorism, or other man-made disaster.
+(c) Not later than 6 months after receiving the standards provided under subsection (b), each Federal agency with responsibilities under the National Response Plan shall ensure that incident management personnel, emergency response providers, and other personnel (including temporary personnel) and resources likely needed to respond to a natural disaster, act of terrorism, or other manmade disaster are credentialed and typed in accordance with this section.
+(d) In developing standards for credentialing health care professionals under this section, the Administrator shall consult with the Secretary of Health and Human Services.

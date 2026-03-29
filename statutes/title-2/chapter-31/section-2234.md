@@ -1,0 +1,15 @@
+---
+title: "Section 2234 - Administration of Fund"
+usc_title: 2
+usc_section: "2234"
+chapter: 31
+current_through: "PL 119-73"
+classification: "2 U.S.C. § 2234"
+generated_at: "2026-03-29T00:06:10.979Z"
+---
+
+# § 2234. Administration of Fund
+
+(a) Disbursements from the Fund may be made by the Architect of the Capitol, upon recommendation of the Chief Executive Officer.
+(b) The Secretary of the Treasury shall invest any portion of the Fund that, as determined by the Architect of the Capitol, upon recommendation of the Chief Executive Officer, is not required to meet current expenses. Each investment shall be made in an interest-bearing obligation of the United States or an obligation guaranteed both as to principal and interest by the United States that, as determined by the Architect of the Capitol, upon recommendation of the Chief Executive Officer, has a maturity date suitable for the purposes of the Fund. The Secretary of the Treasury shall credit interest earned on the obligations to the Fund.
+(c) The Fund shall be subject to audit by the Comptroller General at the discretion of the Comptroller General.

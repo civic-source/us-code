@@ -1,0 +1,14 @@
+---
+title: "Section 4511 - Expenditures and audit"
+usc_title: 20
+usc_section: "4511"
+chapter: 57
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 4511"
+generated_at: "2026-03-29T00:07:03.176Z"
+---
+
+# § 4511. Expenditures and audit
+
+(a) The Secretary of the Treasury is authorized to pay to the Foundation from the interest and earnings of the fund such sums as the Board determines are necessary and appropriate to enable the Foundation to carry out the provisions of this chapter.
+(b) The activities of the Foundation under this chapter may be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by the Foundation, pertaining to such activities and necessary to facilitate the audit.

@@ -1,0 +1,24 @@
+---
+title: "Section 5507 - Environmental education awards"
+usc_title: 20
+usc_section: "5507"
+chapter: 65
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 5507"
+generated_at: "2026-03-29T00:07:03.179Z"
+---
+
+# § 5507. Environmental education awards
+
+(a) The Administrator shall provide for a series of national awards recognizing outstanding contributions to environmental education.
+(b) In addition to such other awards as the Administrator may provide for, national environmental awards shall include—
+  (1) The “Theodore Roosevelt Award” to be given in recognition of an outstanding career in environmental education, teaching, or administration;
+  (2) The “Henry David Thoreau Award” to be given in recognition of an outstanding contribution to literature on the natural environment and environmental pollution problems;
+  (3) The “Rachael Carson Award” to be given in recognition of an outstanding contribution in print, film, or broadcast media to public education and information on environmental issues or problems; and
+  (4) The “Gifford Pinchot Award” to be given in recognition of an outstanding contribution to education and training concerning forestry and natural resource management, including multiple use and sustained yield land management.
+(c) Recipients of education awards provided for in subsection (b) shall be nominated by the Environmental Education Advisory Council provided for in section 5508 of this title .
+(d) The Administrator may provide for the “President’s Environmental Youth Awards” to be given to young people in grades kindergarten through twelfth for an outstanding project to promote local environmental awareness.
+(e) 
+  (1) The Chairman of the Council on Environmental Quality, on behalf of the President, is authorized to develop and administer an awards program to recognize elementary and secondary education teachers and their local educational agencies who demonstrate excellence in advancing environmental education through innovative approaches. One teacher, and the local education agency employing such teacher, from each State, including the District of Columbia and the Commonwealth of Puerto Rico, are eligible to be selected for an award pursuant to this subsection.
+  (2) The Chairman is authorized to provide a cash award of up to $2,500 to each teacher selected to receive an award pursuant to this section, which shall be used to further the recipient’s professional development in environmental education.
+  (3) The Chairman is also authorized to provide a cash award of up to $2,500 to the local education agency employing any teacher selected to receive an award pursuant to this section, which shall be used to fund environmental educational activities and programs. Such awards may not be used for construction costs, general expenses, salaries, bonuses, or other administrative expenses.

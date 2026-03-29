@@ -1,0 +1,20 @@
+---
+title: "Section 3611 - Authorization of appropriations"
+usc_title: 20
+usc_section: "3611"
+chapter: 49
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 3611"
+generated_at: "2026-03-29T00:07:03.166Z"
+---
+
+# § 3611. Authorization of appropriations
+
+(a) 
+  (1) There are authorized to be appropriated—
+    (A) for the asbestos detection program under section 3604 of this title , for the fiscal year ending September 30, 1981 , and for the succeeding fiscal year, a total of not more than $22,500,000; and
+    (B) for the asbestos hazards control loan program under section 3605 of this title , not more than $75,000,000 for the fiscal year ending September 30, 1981 , and $75,000,000 for the fiscal year ending September 30, 1982 .
+  (2) Sums appropriated under paragraph (1) of this subsection shall remain available for obligation until September 30, 1983 .
+(b) Programs under this chapter shall be considered automatically eligible for the one-year contingent extension under section 1226a 1 1 See References in Text note below. of this title.
+(c) If funds appropriated to carry out this chapter are insufficient to pay the total amount required to make all the grants and loans authorized under this chapter, the Secretary shall establish criteria to be used in determining which applicants for grants or loans under this chapter have the greatest financial need for receiving funds under this chapter and shall make determinations regarding the approval of applications for such grants or loans in accordance with such criteria.
+(d) Notwithstanding any other provision of this chapter, the authority of the Secretary to enter into agreements, or to make payments, under this chapter shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts.
