@@ -3,9 +3,9 @@ title: "Section 971 - Bathhouses, hotels, etc., adjacent to mineral, medicinal, 
 usc_title: 43
 usc_section: "971"
 chapter: 22
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "43 U.S.C. § 971"
-generated_at: "2026-03-29T21:11:00.708Z"
+generated_at: "2026-03-29T21:16:36.747Z"
 ---
 
 # § 971. Bathhouses, hotels, etc., adjacent to mineral, medicinal, etc., springs on public lands

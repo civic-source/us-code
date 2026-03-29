@@ -3,9 +3,9 @@ title: "Section 8005 - Payment of expenses"
 usc_title: 26
 usc_section: "8005"
 chapter: 91
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 8005"
-generated_at: "2026-03-29T21:10:05.396Z"
+generated_at: "2026-03-29T21:15:05.290Z"
 ---
 
 # § 8005. Payment of expenses

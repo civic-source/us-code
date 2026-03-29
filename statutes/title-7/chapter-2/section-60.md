@@ -3,9 +3,9 @@ title: "Section 60 - Penalties for violations"
 usc_title: 7
 usc_section: "60"
 chapter: 2
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "7 U.S.C. § 60"
-generated_at: "2026-03-29T21:08:28.422Z"
+generated_at: "2026-03-29T21:12:42.861Z"
 ---
 
 # § 60. Penalties for violations

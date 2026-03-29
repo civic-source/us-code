@@ -3,9 +3,9 @@ title: "Section 1631m - Lien, attachment, garnishment, etc., of transferred prop
 usc_title: 22
 usc_section: "1631m"
 chapter: 21
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 1631m"
-generated_at: "2026-03-29T21:09:35.984Z"
+generated_at: "2026-03-29T21:14:20.519Z"
 ---
 
 # § 1631m. Lien, attachment, garnishment, etc., of transferred property

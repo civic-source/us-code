@@ -3,9 +3,9 @@ title: "Section 46104 - Evidence"
 usc_title: 49
 usc_section: "46104"
 chapter: 461
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "49 U.S.C. § 46104"
-generated_at: "2026-03-29T21:11:44.415Z"
+generated_at: "2026-03-29T21:17:49.181Z"
 ---
 
 # § 46104. Evidence

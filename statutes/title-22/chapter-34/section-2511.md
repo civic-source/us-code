@@ -3,9 +3,9 @@ title: "Section 2511 - Peace Corps National Advisory Council"
 usc_title: 22
 usc_section: "2511"
 chapter: 34
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 2511"
-generated_at: "2026-03-29T21:09:36.044Z"
+generated_at: "2026-03-29T21:14:20.598Z"
 ---
 
 # § 2511. Peace Corps National Advisory Council

@@ -3,9 +3,9 @@ title: "Section 616 - Public examination of official records; transmittal of rec
 usc_title: 22
 usc_section: "616"
 chapter: 11
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 616"
-generated_at: "2026-03-29T21:09:35.972Z"
+generated_at: "2026-03-29T21:14:20.501Z"
 ---
 
 # § 616. Public examination of official records; transmittal of records and information

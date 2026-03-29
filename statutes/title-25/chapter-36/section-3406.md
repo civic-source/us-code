@@ -3,9 +3,9 @@ title: "Section 3406 - Plan review"
 usc_title: 25
 usc_section: "3406"
 chapter: 36
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "25 U.S.C. § 3406"
-generated_at: "2026-03-29T21:09:30.927Z"
+generated_at: "2026-03-29T21:14:13.607Z"
 ---
 
 # § 3406. Plan review

@@ -3,9 +3,9 @@ title: "Section 47302 - Providing airport and airway property in foreign territo
 usc_title: 49
 usc_section: "47302"
 chapter: 473
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "49 U.S.C. § 47302"
-generated_at: "2026-03-29T21:11:44.437Z"
+generated_at: "2026-03-29T21:17:49.199Z"
 ---
 
 # § 47302. Providing airport and airway property in foreign territories

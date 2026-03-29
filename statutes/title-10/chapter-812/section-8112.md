@@ -3,9 +3,9 @@ title: "Section 8112 - Marine Corps: grades above chief warrant officer, W–5"
 usc_title: 10
 usc_section: "8112"
 chapter: 812
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 8112"
-generated_at: "2026-03-29T21:08:44.262Z"
+generated_at: "2026-03-29T21:13:10.465Z"
 ---
 
 # § 8112. Marine Corps: grades above chief warrant officer, W–5

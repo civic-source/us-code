@@ -3,9 +3,9 @@ title: "Section 3193 - Use of cabins and other sites of occupancy on conservatio
 usc_title: 16
 usc_section: "3193"
 chapter: 51
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 3193"
-generated_at: "2026-03-29T21:09:22.515Z"
+generated_at: "2026-03-29T21:13:50.339Z"
 ---
 
 # § 3193. Use of cabins and other sites of occupancy on conservation system units

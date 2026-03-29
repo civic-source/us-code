@@ -3,9 +3,9 @@ title: "Section 5 - Biennial report on stockpile requirements"
 usc_title: 50
 usc_section: "5"
 chapter: 5
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "50 U.S.C. § 5"
-generated_at: "2026-03-29T21:11:35.728Z"
+generated_at: "2026-03-29T21:17:44.124Z"
 ---
 
 # § 98h–5. Biennial report on stockpile requirements

@@ -3,9 +3,9 @@ title: "Section 64 - Laws imposing fines applicable to persons acting under cust
 usc_title: 19
 usc_section: "64"
 chapter: 1
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "19 U.S.C. § 64"
-generated_at: "2026-03-29T21:09:06.445Z"
+generated_at: "2026-03-29T21:13:35.503Z"
 ---
 
 # § 64. Laws imposing fines applicable to persons acting under customs laws

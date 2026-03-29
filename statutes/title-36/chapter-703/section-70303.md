@@ -3,9 +3,9 @@ title: "Section 70303 - Purposes"
 usc_title: 36
 usc_section: "70303"
 chapter: 703
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "36 U.S.C. § 70303"
-generated_at: "2026-03-29T21:10:42.347Z"
+generated_at: "2026-03-29T21:15:56.108Z"
 ---
 
 # § 70303. Purposes

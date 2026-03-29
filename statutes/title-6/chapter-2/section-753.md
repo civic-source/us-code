@@ -3,9 +3,9 @@ title: "Section 753 - Federal preparedness"
 usc_title: 6
 usc_section: "753"
 chapter: 2
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "6 U.S.C. § 753"
-generated_at: "2026-03-29T21:08:23.327Z"
+generated_at: "2026-03-29T21:12:54.262Z"
 ---
 
 # § 753. Federal preparedness

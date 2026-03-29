@@ -3,9 +3,9 @@ title: "Section 7401 - Statement of policy"
 usc_title: 20
 usc_section: "7401"
 chapter: 70
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "20 U.S.C. § 7401"
-generated_at: "2026-03-29T21:09:14.131Z"
+generated_at: "2026-03-29T21:13:40.696Z"
 ---
 
 # § 7401. Statement of policy

@@ -3,9 +3,9 @@ title: "Section 5981 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5981"
 chapter: 79
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 5981"
-generated_at: "2026-03-29T21:09:22.568Z"
+generated_at: "2026-03-29T21:13:50.410Z"
 ---
 
 # § 5981. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

@@ -3,9 +3,9 @@ title: "Section 323 - Consumer Information Center Fund 1 1 So in original. Proba
 usc_title: 40
 usc_section: "323"
 chapter: 3
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "40 U.S.C. § 323"
-generated_at: "2026-03-29T21:10:43.421Z"
+generated_at: "2026-03-29T21:15:38.175Z"
 ---
 
 # § 323. Consumer Information Center Fund 1 1 So in original. Probably should be “Federal Citizen Services Fund”.

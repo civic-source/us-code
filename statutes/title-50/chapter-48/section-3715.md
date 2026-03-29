@@ -3,9 +3,9 @@ title: "Section 3715 - Use of contributions to Department of Defense Cooperative
 usc_title: 50
 usc_section: "3715"
 chapter: 48
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "50 U.S.C. § 3715"
-generated_at: "2026-03-29T21:11:35.861Z"
+generated_at: "2026-03-29T21:17:44.243Z"
 ---
 
 # § 3715. Use of contributions to Department of Defense Cooperative Threat Reduction Program

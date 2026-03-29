@@ -3,9 +3,9 @@ title: "Section 1606 - Penalties"
 usc_title: 2
 usc_section: "1606"
 chapter: 26
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "2 U.S.C. § 1606"
-generated_at: "2026-03-29T21:08:16.125Z"
+generated_at: "2026-03-29T21:12:29.944Z"
 ---
 
 # § 1606. Penalties

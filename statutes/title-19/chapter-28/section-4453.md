@@ -3,9 +3,9 @@ title: "Section 4453 - Report on compliance with prohibition on importation of g
 usc_title: 19
 usc_section: "4453"
 chapter: 28
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "19 U.S.C. § 4453"
-generated_at: "2026-03-29T21:09:06.605Z"
+generated_at: "2026-03-29T21:13:35.693Z"
 ---
 
 # § 4453. Report on compliance with prohibition on importation of goods made with convict, forced, or indentured labor

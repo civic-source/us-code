@@ -3,9 +3,9 @@ title: "Section 454 - Obligations issued at discount"
 usc_title: 26
 usc_section: "454"
 chapter: 1
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 454"
-generated_at: "2026-03-29T21:10:05.020Z"
+generated_at: "2026-03-29T21:15:04.991Z"
 ---
 
 # § 454. Obligations issued at discount

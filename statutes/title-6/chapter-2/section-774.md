@@ -3,9 +3,9 @@ title: "Section 774 - Reunification"
 usc_title: 6
 usc_section: "774"
 chapter: 2
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "6 U.S.C. § 774"
-generated_at: "2026-03-29T21:08:23.328Z"
+generated_at: "2026-03-29T21:12:54.265Z"
 ---
 
 # § 774. Reunification

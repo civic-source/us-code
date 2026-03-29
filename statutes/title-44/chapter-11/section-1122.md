@@ -3,9 +3,9 @@ title: "Section 1122 - Supplies for Government establishments"
 usc_title: 44
 usc_section: "1122"
 chapter: 11
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "44 U.S.C. § 1122"
-generated_at: "2026-03-29T21:10:59.122Z"
+generated_at: "2026-03-29T21:16:24.439Z"
 ---
 
 # § 1122. Supplies for Government establishments

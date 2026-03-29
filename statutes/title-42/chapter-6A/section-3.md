@@ -3,9 +3,9 @@ title: "Section 3 - Uniform data collection and analysis"
 usc_title: 42
 usc_section: "3"
 chapter: 6
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T21:11:25.021Z"
+generated_at: "2026-03-29T21:17:12.473Z"
 ---
 
 # § 300mm–3. Uniform data collection and analysis

@@ -3,9 +3,9 @@ title: "Section 30902 - Definition"
 usc_title: 46
 usc_section: "30902"
 chapter: 309
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "46 U.S.C. § 30902"
-generated_at: "2026-03-29T21:11:39.376Z"
+generated_at: "2026-03-29T21:17:34.876Z"
 ---
 
 # § 30902. Definition

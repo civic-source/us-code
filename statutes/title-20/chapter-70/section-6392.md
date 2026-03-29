@@ -3,9 +3,9 @@ title: "Section 6392 - Program authorized"
 usc_title: 20
 usc_section: "6392"
 chapter: 70
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "20 U.S.C. § 6392"
-generated_at: "2026-03-29T21:09:14.110Z"
+generated_at: "2026-03-29T21:13:40.665Z"
 ---
 
 # § 6392. Program authorized

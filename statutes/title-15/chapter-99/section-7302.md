@@ -3,9 +3,9 @@ title: "Section 7302 - Composition of Teams"
 usc_title: 15
 usc_section: "7302"
 chapter: 99
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "15 U.S.C. § 7302"
-generated_at: "2026-03-29T21:08:59.693Z"
+generated_at: "2026-03-29T21:13:22.510Z"
 ---
 
 # § 7302. Composition of Teams

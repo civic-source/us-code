@@ -3,9 +3,9 @@ title: "Section 4114 - Resolution of implementation disputes"
 usc_title: 22
 usc_section: "4114"
 chapter: 52
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 4114"
-generated_at: "2026-03-29T21:09:36.098Z"
+generated_at: "2026-03-29T21:14:20.667Z"
 ---
 
 # § 4114. Resolution of implementation disputes

@@ -3,9 +3,9 @@ title: "Section 12903 - General authority"
 usc_title: 42
 usc_section: "12903"
 chapter: 131
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 12903"
-generated_at: "2026-03-29T21:11:26.279Z"
+generated_at: "2026-03-29T21:17:13.655Z"
 ---
 
 # § 12903. General authority

@@ -3,9 +3,9 @@ title: "Section 2371 - Prohibition on assistance to governments supporting inter
 usc_title: 22
 usc_section: "2371"
 chapter: 32
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 2371"
-generated_at: "2026-03-29T21:09:36.028Z"
+generated_at: "2026-03-29T21:14:20.577Z"
 ---
 
 # § 2371. Prohibition on assistance to governments supporting international terrorism

@@ -3,9 +3,9 @@ title: "Section 47133 - Restriction on use of revenues"
 usc_title: 49
 usc_section: "47133"
 chapter: 471
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "49 U.S.C. § 47133"
-generated_at: "2026-03-29T21:11:44.434Z"
+generated_at: "2026-03-29T21:17:49.196Z"
 ---
 
 # § 47133. Restriction on use of revenues

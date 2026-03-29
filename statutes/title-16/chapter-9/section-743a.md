@@ -3,9 +3,9 @@ title: "Section 743a - Detail of personnel and loan of equipment to Director of 
 usc_title: 16
 usc_section: "743a"
 chapter: 9
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 743a"
-generated_at: "2026-03-29T21:09:22.366Z"
+generated_at: "2026-03-29T21:13:50.142Z"
 ---
 
 # § 743a. Detail of personnel and loan of equipment to Director of Bureau of Sport Fisheries and Wildlife

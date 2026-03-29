@@ -3,9 +3,9 @@ title: "Section 1905 - Distribution to depositories; designation of additional l
 usc_title: 44
 usc_section: "1905"
 chapter: 19
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "44 U.S.C. § 1905"
-generated_at: "2026-03-29T21:10:59.126Z"
+generated_at: "2026-03-29T21:16:24.443Z"
 ---
 
 # § 1905. Distribution to depositories; designation of additional libraries; justification; authorization for certain designations

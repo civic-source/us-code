@@ -3,9 +3,9 @@ title: "Section 60c - Omitted"
 usc_title: 2
 usc_section: "60c"
 chapter: 4
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "2 U.S.C. § 60c"
-generated_at: "2026-03-29T21:08:16.051Z"
+generated_at: "2026-03-29T21:12:29.857Z"
 ---
 
 # §§ 60b, 60c. Omitted

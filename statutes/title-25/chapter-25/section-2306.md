@@ -3,9 +3,9 @@ title: "Section 2306 - Authorization of appropriations"
 usc_title: 25
 usc_section: "2306"
 chapter: 25
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "25 U.S.C. § 2306"
-generated_at: "2026-03-29T21:09:30.907Z"
+generated_at: "2026-03-29T21:14:13.586Z"
 ---
 
 # § 2306. Authorization of appropriations

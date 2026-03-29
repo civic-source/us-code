@@ -3,9 +3,9 @@ title: "Section 472 - Transferred"
 usc_title: 25
 usc_section: "472"
 chapter: 14
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "25 U.S.C. § 472"
-generated_at: "2026-03-29T21:09:30.841Z"
+generated_at: "2026-03-29T21:14:13.519Z"
 ---
 
 # § 472. Transferred

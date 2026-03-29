@@ -3,9 +3,9 @@ title: "Section 3030b - Recapture of payments made for multipurpose senior cente
 usc_title: 42
 usc_section: "3030b"
 chapter: 35
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 3030b"
-generated_at: "2026-03-29T21:11:25.707Z"
+generated_at: "2026-03-29T21:17:13.107Z"
 ---
 
 # § 3030b. Recapture of payments made for multipurpose senior centers

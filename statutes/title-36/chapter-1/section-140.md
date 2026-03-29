@@ -3,9 +3,9 @@ title: "Section 140 - Stephen Foster Memorial Day"
 usc_title: 36
 usc_section: "140"
 chapter: 1
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "36 U.S.C. § 140"
-generated_at: "2026-03-29T21:10:42.327Z"
+generated_at: "2026-03-29T21:15:56.088Z"
 ---
 
 # § 140. Stephen Foster Memorial Day

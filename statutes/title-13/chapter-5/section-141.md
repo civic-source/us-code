@@ -3,9 +3,9 @@ title: "Section 141 - Population and other census information"
 usc_title: 13
 usc_section: "141"
 chapter: 5
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "13 U.S.C. § 141"
-generated_at: "2026-03-29T21:08:46.688Z"
+generated_at: "2026-03-29T21:13:15.223Z"
 ---
 
 # § 141. Population and other census information

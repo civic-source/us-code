@@ -3,9 +3,9 @@ title: "Section 4769 - Authorization of appropriations"
 usc_title: 42
 usc_section: "4769"
 chapter: 62
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 4769"
-generated_at: "2026-03-29T21:11:25.784Z"
+generated_at: "2026-03-29T21:17:13.174Z"
 ---
 
 # § 4769. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 481e - Travel and transportation allowances: transportation inci
 usc_title: 37
 usc_section: "481e"
 chapter: 8
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "37 U.S.C. § 481e"
-generated_at: "2026-03-29T21:10:33.949Z"
+generated_at: "2026-03-29T21:15:42.464Z"
 ---
 
 # § 481e. Travel and transportation allowances: transportation incident to certain emergencies for members performing temporary duty

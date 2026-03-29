@@ -3,9 +3,9 @@ title: "Section 4012 - Scope of program and priorities"
 usc_title: 42
 usc_section: "4012"
 chapter: 50
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 4012"
-generated_at: "2026-03-29T21:11:25.747Z"
+generated_at: "2026-03-29T21:17:13.141Z"
 ---
 
 # § 4012. Scope of program and priorities

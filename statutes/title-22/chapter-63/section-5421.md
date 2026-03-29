@@ -3,9 +3,9 @@ title: "Section 5421 - Enterprise Funds for Poland and Hungary"
 usc_title: 22
 usc_section: "5421"
 chapter: 63
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 5421"
-generated_at: "2026-03-29T21:09:36.116Z"
+generated_at: "2026-03-29T21:14:20.688Z"
 ---
 
 # § 5421. Enterprise Funds for Poland and Hungary

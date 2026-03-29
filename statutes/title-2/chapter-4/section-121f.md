@@ -3,9 +3,9 @@ title: "Section 121f - Transferred"
 usc_title: 2
 usc_section: "121f"
 chapter: 4
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "2 U.S.C. § 121f"
-generated_at: "2026-03-29T21:08:16.056Z"
+generated_at: "2026-03-29T21:12:29.861Z"
 ---
 
 # § 121f. Transferred

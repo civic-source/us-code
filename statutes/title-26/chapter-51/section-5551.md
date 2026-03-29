@@ -3,9 +3,9 @@ title: "Section 5551 - General provisions relating to bonds"
 usc_title: 26
 usc_section: "5551"
 chapter: 51
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 5551"
-generated_at: "2026-03-29T21:10:05.269Z"
+generated_at: "2026-03-29T21:15:05.190Z"
 ---
 
 # § 5551. General provisions relating to bonds

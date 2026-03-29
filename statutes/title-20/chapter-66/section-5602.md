@@ -3,9 +3,9 @@ title: "Section 5602 - Definitions"
 usc_title: 20
 usc_section: "5602"
 chapter: 66
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "20 U.S.C. § 5602"
-generated_at: "2026-03-29T21:09:14.091Z"
+generated_at: "2026-03-29T21:13:40.644Z"
 ---
 
 # § 5602. Definitions

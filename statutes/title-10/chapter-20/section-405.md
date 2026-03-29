@@ -3,9 +3,9 @@ title: "Section 405 - Use of Department of Defense funds for United States share
 usc_title: 10
 usc_section: "405"
 chapter: 20
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 405"
-generated_at: "2026-03-29T21:08:44.015Z"
+generated_at: "2026-03-29T21:13:10.161Z"
 ---
 
 # § 405. Use of Department of Defense funds for United States share of costs of United Nations peacekeeping activities: limitation

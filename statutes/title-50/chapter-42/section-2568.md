@@ -3,9 +3,9 @@ title: "Section 2568 - Authority to use international nuclear materials protecti
 usc_title: 50
 usc_section: "2568"
 chapter: 42
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "50 U.S.C. § 2568"
-generated_at: "2026-03-29T21:11:35.794Z"
+generated_at: "2026-03-29T21:17:44.181Z"
 ---
 
 # § 2568. Authority to use international nuclear materials protection and cooperation program funds outside the former Soviet Union

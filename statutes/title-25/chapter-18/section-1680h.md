@@ -3,9 +3,9 @@ title: "Section 1680h - Demonstration projects for tribal management of health c
 usc_title: 25
 usc_section: "1680h"
 chapter: 18
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "25 U.S.C. § 1680h"
-generated_at: "2026-03-29T21:09:30.882Z"
+generated_at: "2026-03-29T21:14:13.560Z"
 ---
 
 # § 1680h. Demonstration projects for tribal management of health care services

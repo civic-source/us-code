@@ -3,9 +3,9 @@ title: "Section 2181 - Definitions"
 usc_title: 10
 usc_section: "2181"
 chapter: 110
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 2181"
-generated_at: "2026-03-29T21:08:44.129Z"
+generated_at: "2026-03-29T21:13:10.312Z"
 ---
 
 # § 2181. Definitions

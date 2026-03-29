@@ -3,9 +3,9 @@ title: "Section 73 - Same; removal from seat of Government"
 usc_title: 4
 usc_section: "73"
 chapter: 3
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "4 U.S.C. § 73"
-generated_at: "2026-03-29T21:08:13.859Z"
+generated_at: "2026-03-29T21:12:23.677Z"
 ---
 
 # § 73. Same; removal from seat of Government

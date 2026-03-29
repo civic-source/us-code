@@ -3,9 +3,9 @@ title: "Section 6050I - Returns relating to cash received in trade or business, 
 usc_title: 26
 usc_section: "6050I"
 chapter: 61
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 6050I"
-generated_at: "2026-03-29T21:10:05.291Z"
+generated_at: "2026-03-29T21:15:05.207Z"
 ---
 
 # § 6050I. Returns relating to cash received in trade or business, etc.

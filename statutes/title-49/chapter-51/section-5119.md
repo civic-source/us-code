@@ -3,9 +3,9 @@ title: "Section 5119 - Uniform forms and procedures"
 usc_title: 49
 usc_section: "5119"
 chapter: 51
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "49 U.S.C. § 5119"
-generated_at: "2026-03-29T21:11:44.224Z"
+generated_at: "2026-03-29T21:17:49.013Z"
 ---
 
 # § 5119. Uniform forms and procedures

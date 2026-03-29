@@ -3,9 +3,9 @@ title: "Section 2296 - Training"
 usc_title: 19
 usc_section: "2296"
 chapter: 12
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "19 U.S.C. § 2296"
-generated_at: "2026-03-29T21:09:06.523Z"
+generated_at: "2026-03-29T21:13:35.605Z"
 ---
 
 # § 2296. Training

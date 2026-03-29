@@ -3,9 +3,9 @@ title: "Section 1511 - Funding"
 usc_title: 17
 usc_section: "1511"
 chapter: 15
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "17 U.S.C. § 1511"
-generated_at: "2026-03-29T21:09:03.320Z"
+generated_at: "2026-03-29T21:13:31.792Z"
 ---
 
 # § 1511. Funding

@@ -3,9 +3,9 @@ title: "Section 2155 - Retirement for physical disability after selection for pr
 usc_title: 14
 usc_section: "2155"
 chapter: 21
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "14 U.S.C. § 2155"
-generated_at: "2026-03-29T21:08:47.297Z"
+generated_at: "2026-03-29T21:13:14.245Z"
 ---
 
 # § 2155. Retirement for physical disability after selection for promotion; grade in which retired

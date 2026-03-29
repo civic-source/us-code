@@ -3,9 +3,9 @@ title: "Section 416g - Contract for water, sewerage, law enforcement, or other p
 usc_title: 25
 usc_section: "416g"
 chapter: 12
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "25 U.S.C. § 416g"
-generated_at: "2026-03-29T21:09:30.840Z"
+generated_at: "2026-03-29T21:14:13.518Z"
 ---
 
 # § 416g. Contract for water, sewerage, law enforcement, or other public services

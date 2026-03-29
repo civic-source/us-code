@@ -3,9 +3,9 @@ title: "Section 460k - Public recreation use of fish and wildlife conservation a
 usc_title: 16
 usc_section: "460k"
 chapter: 1
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 460k"
-generated_at: "2026-03-29T21:09:22.229Z"
+generated_at: "2026-03-29T21:13:49.978Z"
 ---
 
 # § 460k. Public recreation use of fish and wildlife conservation areas; compatibility with conservation purposes; appropriate incidental or secondary use; consistency with other Federal operations and primary objectives of particular areas; curtailment; forms of recreation not directly related to primary purposes of individual areas; repeal or amendment of provisions for particular areas

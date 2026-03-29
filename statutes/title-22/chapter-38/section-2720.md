@@ -3,9 +3,9 @@ title: "Section 2720 - Closing of consular and diplomatic posts abroad"
 usc_title: 22
 usc_section: "2720"
 chapter: 38
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 2720"
-generated_at: "2026-03-29T21:09:36.059Z"
+generated_at: "2026-03-29T21:14:20.616Z"
 ---
 
 # § 2720. Closing of consular and diplomatic posts abroad

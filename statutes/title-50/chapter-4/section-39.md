@@ -3,9 +3,9 @@ title: "Section 39 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862"
 usc_title: 50
 usc_section: "39"
 chapter: 4
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "50 U.S.C. § 39"
-generated_at: "2026-03-29T21:11:35.724Z"
+generated_at: "2026-03-29T21:17:44.122Z"
 ---
 
 # §§ 31 to 39. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862

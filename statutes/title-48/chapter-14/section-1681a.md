@@ -3,9 +3,9 @@ title: "Section 1681a - Appointment of High Commissioner"
 usc_title: 48
 usc_section: "1681a"
 chapter: 14
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "48 U.S.C. § 1681a"
-generated_at: "2026-03-29T21:11:37.297Z"
+generated_at: "2026-03-29T21:17:22.586Z"
 ---
 
 # § 1681a. Appointment of High Commissioner

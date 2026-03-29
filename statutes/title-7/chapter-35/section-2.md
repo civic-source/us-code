@@ -3,9 +3,9 @@ title: "Section 2 - Denial of program benefits"
 usc_title: 7
 usc_section: "2"
 chapter: 35
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-29T21:08:28.494Z"
+generated_at: "2026-03-29T21:12:42.963Z"
 ---
 
 # § 1308–2. Denial of program benefits

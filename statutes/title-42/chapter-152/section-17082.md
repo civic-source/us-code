@@ -3,9 +3,9 @@ title: "Section 17082 - Zero Net Energy Commercial Buildings Initiative"
 usc_title: 42
 usc_section: "17082"
 chapter: 152
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 17082"
-generated_at: "2026-03-29T21:11:26.389Z"
+generated_at: "2026-03-29T21:17:13.775Z"
 ---
 
 # § 17082. Zero Net Energy Commercial Buildings Initiative

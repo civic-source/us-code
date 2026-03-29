@@ -3,9 +3,9 @@ title: "Section 10153 - Applications"
 usc_title: 34
 usc_section: "10153"
 chapter: 101
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "34 U.S.C. § 10153"
-generated_at: "2026-03-29T21:10:13.746Z"
+generated_at: "2026-03-29T21:15:24.128Z"
 ---
 
 # § 10153. Applications

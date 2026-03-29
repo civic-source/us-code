@@ -3,9 +3,9 @@ title: "Section 2132 - Definitions"
 usc_title: 7
 usc_section: "2132"
 chapter: 54
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "7 U.S.C. § 2132"
-generated_at: "2026-03-29T21:08:28.598Z"
+generated_at: "2026-03-29T21:12:43.134Z"
 ---
 
 # § 2132. Definitions

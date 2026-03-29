@@ -3,9 +3,9 @@ title: "Section 40105 - International negotiations, agreements, and obligations"
 usc_title: 49
 usc_section: "40105"
 chapter: 401
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "49 U.S.C. § 40105"
-generated_at: "2026-03-29T21:11:44.358Z"
+generated_at: "2026-03-29T21:17:49.126Z"
 ---
 
 # § 40105. International negotiations, agreements, and obligations

@@ -3,9 +3,9 @@ title: "Section 909 - Small boat station rescue capability"
 usc_title: 14
 usc_section: "909"
 chapter: 9
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "14 U.S.C. § 909"
-generated_at: "2026-03-29T21:08:47.286Z"
+generated_at: "2026-03-29T21:13:14.232Z"
 ---
 
 # § 909. Small boat station rescue capability

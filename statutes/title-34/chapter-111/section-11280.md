@@ -3,9 +3,9 @@ title: "Section 11280 - Authorization of appropriations"
 usc_title: 34
 usc_section: "11280"
 chapter: 111
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "34 U.S.C. § 11280"
-generated_at: "2026-03-29T21:10:13.785Z"
+generated_at: "2026-03-29T21:15:24.166Z"
 ---
 
 # § 11280. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 1605 - Alaska Native Fund"
 usc_title: 43
 usc_section: "1605"
 chapter: 33
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "43 U.S.C. § 1605"
-generated_at: "2026-03-29T21:11:00.733Z"
+generated_at: "2026-03-29T21:16:36.772Z"
 ---
 
 # § 1605. Alaska Native Fund

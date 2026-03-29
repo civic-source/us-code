@@ -3,9 +3,9 @@ title: "Section 912 - Officer or employee of the United States"
 usc_title: 18
 usc_section: "912"
 chapter: 43
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "18 U.S.C. § 912"
-generated_at: "2026-03-29T21:09:09.378Z"
+generated_at: "2026-03-29T21:14:04.576Z"
 ---
 
 # § 912. Officer or employee of the United States

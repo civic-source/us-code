@@ -3,9 +3,9 @@ title: "Section 50302 - Purposes"
 usc_title: 36
 usc_section: "50302"
 chapter: 503
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "36 U.S.C. § 50302"
-generated_at: "2026-03-29T21:10:42.346Z"
+generated_at: "2026-03-29T21:15:56.107Z"
 ---
 
 # § 50302. Purposes

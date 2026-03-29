@@ -3,9 +3,9 @@ title: "Section 1981b - Farm loan interest rates"
 usc_title: 7
 usc_section: "1981b"
 chapter: 50
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "7 U.S.C. § 1981b"
-generated_at: "2026-03-29T21:08:28.561Z"
+generated_at: "2026-03-29T21:12:43.066Z"
 ---
 
 # § 1981b. Farm loan interest rates

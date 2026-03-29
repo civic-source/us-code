@@ -3,9 +3,9 @@ title: "Section 2821 - Requirement for authorization of appropriations for const
 usc_title: 10
 usc_section: "2821"
 chapter: 169
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 2821"
-generated_at: "2026-03-29T21:08:44.201Z"
+generated_at: "2026-03-29T21:13:10.396Z"
 ---
 
 # § 2821. Requirement for authorization of appropriations for construction and acquisition of military family housing

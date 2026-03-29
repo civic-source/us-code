@@ -3,9 +3,9 @@ title: "Section 286r - United States participation in special drawing account"
 usc_title: 22
 usc_section: "286r"
 chapter: 7
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 286r"
-generated_at: "2026-03-29T21:09:35.954Z"
+generated_at: "2026-03-29T21:14:20.480Z"
 ---
 
 # § 286r. United States participation in special drawing account

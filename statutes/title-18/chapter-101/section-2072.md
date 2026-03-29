@@ -3,9 +3,9 @@ title: "Section 2072 - False crop reports"
 usc_title: 18
 usc_section: "2072"
 chapter: 101
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "18 U.S.C. § 2072"
-generated_at: "2026-03-29T21:09:09.425Z"
+generated_at: "2026-03-29T21:14:04.615Z"
 ---
 
 # § 2072. False crop reports

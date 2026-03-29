@@ -3,9 +3,9 @@ title: "Section 185 - Federally funded research and development centers"
 usc_title: 6
 usc_section: "185"
 chapter: 1
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "6 U.S.C. § 185"
-generated_at: "2026-03-29T21:08:23.276Z"
+generated_at: "2026-03-29T21:12:54.176Z"
 ---
 
 # § 185. Federally funded research and development centers

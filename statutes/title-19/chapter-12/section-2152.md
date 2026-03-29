@@ -3,9 +3,9 @@ title: "Section 2152 - Advice from executive departments and other sources"
 usc_title: 19
 usc_section: "2152"
 chapter: 12
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "19 U.S.C. § 2152"
-generated_at: "2026-03-29T21:09:06.515Z"
+generated_at: "2026-03-29T21:13:35.593Z"
 ---
 
 # § 2152. Advice from executive departments and other sources

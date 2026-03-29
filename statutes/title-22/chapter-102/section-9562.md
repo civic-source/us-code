@@ -3,9 +3,9 @@ title: "Section 9562 - Statement of policy"
 usc_title: 22
 usc_section: "9562"
 chapter: 102
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 9562"
-generated_at: "2026-03-29T21:09:36.202Z"
+generated_at: "2026-03-29T21:14:20.800Z"
 ---
 
 # § 9562. Statement of policy

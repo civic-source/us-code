@@ -3,9 +3,9 @@ title: "Section 222i - Omitted"
 usc_title: 30
 usc_section: "222i"
 chapter: 3
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "30 U.S.C. § 222i"
-generated_at: "2026-03-29T21:09:40.158Z"
+generated_at: "2026-03-29T21:14:31.139Z"
 ---
 
 # §§ 221 to 222i. Omitted

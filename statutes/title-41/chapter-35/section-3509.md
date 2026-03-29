@@ -3,9 +3,9 @@ title: "Section 3509 - Notification of violations of Federal criminal law or ove
 usc_title: 41
 usc_section: "3509"
 chapter: 35
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "41 U.S.C. § 3509"
-generated_at: "2026-03-29T21:10:57.955Z"
+generated_at: "2026-03-29T21:16:14.505Z"
 ---
 
 # § 3509. Notification of violations of Federal criminal law or overpayments

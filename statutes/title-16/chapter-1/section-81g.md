@@ -3,9 +3,9 @@ title: "Section 81g - Administration, protection, and development"
 usc_title: 16
 usc_section: "81g"
 chapter: 1
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 81g"
-generated_at: "2026-03-29T21:09:22.117Z"
+generated_at: "2026-03-29T21:13:49.823Z"
 ---
 
 # § 81g. Administration, protection, and development

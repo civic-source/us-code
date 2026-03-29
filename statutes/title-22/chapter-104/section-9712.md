@@ -3,9 +3,9 @@ title: "Section 9712 - Support for efforts at the United Nations on the humanita
 usc_title: 22
 usc_section: "9712"
 chapter: 104
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 9712"
-generated_at: "2026-03-29T21:09:36.207Z"
+generated_at: "2026-03-29T21:14:20.806Z"
 ---
 
 # § 9712. Support for efforts at the United Nations on the humanitarian crisis in Venezuela

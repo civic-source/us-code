@@ -3,9 +3,9 @@ title: "Section 1963 - Protection of grounds"
 usc_title: 2
 usc_section: "1963"
 chapter: 29
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "2 U.S.C. § 1963"
-generated_at: "2026-03-29T21:08:16.135Z"
+generated_at: "2026-03-29T21:12:29.959Z"
 ---
 
 # § 1963. Protection of grounds

@@ -3,9 +3,9 @@ title: "Section 304 - Special pay: diving duty"
 usc_title: 37
 usc_section: "304"
 chapter: 5
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "37 U.S.C. § 304"
-generated_at: "2026-03-29T21:10:33.929Z"
+generated_at: "2026-03-29T21:15:42.439Z"
 ---
 
 # § 304. Special pay: diving duty

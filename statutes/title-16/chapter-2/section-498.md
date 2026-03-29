@@ -3,9 +3,9 @@ title: "Section 498 - Cooperative work agreements: disposal of moneys received; 
 usc_title: 16
 usc_section: "498"
 chapter: 2
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 498"
-generated_at: "2026-03-29T21:09:22.296Z"
+generated_at: "2026-03-29T21:13:50.060Z"
 ---
 
 # § 498. Cooperative work agreements: disposal of moneys received; refund of excess; payment from appropriation; conflict of interest

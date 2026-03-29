@@ -3,9 +3,9 @@ title: "Section 2201 - Assistance to disadvantaged children in Asia"
 usc_title: 22
 usc_section: "2201"
 chapter: 32
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 2201"
-generated_at: "2026-03-29T21:09:36.010Z"
+generated_at: "2026-03-29T21:14:20.555Z"
 ---
 
 # § 2201. Assistance to disadvantaged children in Asia

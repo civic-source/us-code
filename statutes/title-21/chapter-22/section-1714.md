@@ -3,9 +3,9 @@ title: "Section 1714 - Awards for demonstration programs by local partnerships t
 usc_title: 21
 usc_section: "1714"
 chapter: 22
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "21 U.S.C. § 1714"
-generated_at: "2026-03-29T21:09:28.429Z"
+generated_at: "2026-03-29T21:14:26.765Z"
 ---
 
 # § 1714. Awards for demonstration programs by local partnerships to coerce abstinence in chronic hard-drug users under community supervision through the use of drug testing and sanctions

@@ -3,9 +3,9 @@ title: "Section 6115 - Disclosure related to quid pro quo contributions"
 usc_title: 26
 usc_section: "6115"
 chapter: 61
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 6115"
-generated_at: "2026-03-29T21:10:05.308Z"
+generated_at: "2026-03-29T21:15:05.221Z"
 ---
 
 # § 6115. Disclosure related to quid pro quo contributions

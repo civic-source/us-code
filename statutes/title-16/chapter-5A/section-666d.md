@@ -3,9 +3,9 @@ title: "Section 666d - Skagit National Wildlife Refuge; exchange of lands"
 usc_title: 16
 usc_section: "666d"
 chapter: 5
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 666d"
-generated_at: "2026-03-29T21:09:22.339Z"
+generated_at: "2026-03-29T21:13:50.110Z"
 ---
 
 # § 666d. Skagit National Wildlife Refuge; exchange of lands

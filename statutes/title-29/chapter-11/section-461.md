@@ -3,9 +3,9 @@ title: "Section 461 - Reports"
 usc_title: 29
 usc_section: "461"
 chapter: 11
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "29 U.S.C. § 461"
-generated_at: "2026-03-29T21:09:49.246Z"
+generated_at: "2026-03-29T21:14:51.953Z"
 ---
 
 # § 461. Reports

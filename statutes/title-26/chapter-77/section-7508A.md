@@ -3,9 +3,9 @@ title: "Section 7508A - Authority to postpone certain deadlines by reason of Pre
 usc_title: 26
 usc_section: "7508A"
 chapter: 77
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 7508A"
-generated_at: "2026-03-29T21:10:05.371Z"
+generated_at: "2026-03-29T21:15:05.271Z"
 ---
 
 # § 7508A. Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions

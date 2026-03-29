@@ -3,9 +3,9 @@ title: "Section 5510 - Providing assistance to House of Representatives in respo
 usc_title: 2
 usc_section: "5510"
 chapter: 55
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "2 U.S.C. § 5510"
-generated_at: "2026-03-29T21:08:16.159Z"
+generated_at: "2026-03-29T21:12:29.995Z"
 ---
 
 # § 5510. Providing assistance to House of Representatives in response to cybersecurity events

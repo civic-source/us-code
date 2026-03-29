@@ -3,9 +3,9 @@ title: "Section 2708 - Comptroller General audit and examination of books, etc.;
 usc_title: 15
 usc_section: "2708"
 chapter: 54
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "15 U.S.C. § 2708"
-generated_at: "2026-03-29T21:08:59.630Z"
+generated_at: "2026-03-29T21:13:22.419Z"
 ---
 
 # § 2708. Comptroller General audit and examination of books, etc.; statutory provisions applicable; contracts or grants covered

@@ -3,9 +3,9 @@ title: "Section 403a - Acceptance of title to lands"
 usc_title: 16
 usc_section: "403a"
 chapter: 1
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 403a"
-generated_at: "2026-03-29T21:09:22.147Z"
+generated_at: "2026-03-29T21:13:49.868Z"
 ---
 
 # § 403a. Acceptance of title to lands

@@ -3,9 +3,9 @@ title: "Section 2331a - Initiating work on separable elements"
 usc_title: 33
 usc_section: "2331a"
 chapter: 36
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "33 U.S.C. § 2331a"
-generated_at: "2026-03-29T21:10:12.187Z"
+generated_at: "2026-03-29T21:15:34.603Z"
 ---
 
 # § 2331a. Initiating work on separable elements

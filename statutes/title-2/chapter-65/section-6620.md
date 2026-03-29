@@ -3,9 +3,9 @@ title: "Section 6620 - Provision of services and equipment on a reimbursable bas
 usc_title: 2
 usc_section: "6620"
 chapter: 65
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "2 U.S.C. § 6620"
-generated_at: "2026-03-29T21:08:16.168Z"
+generated_at: "2026-03-29T21:12:30.010Z"
 ---
 
 # § 6620. Provision of services and equipment on a reimbursable basis

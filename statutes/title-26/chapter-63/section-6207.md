@@ -3,9 +3,9 @@ title: "Section 6207 - Cross references"
 usc_title: 26
 usc_section: "6207"
 chapter: 63
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 6207"
-generated_at: "2026-03-29T21:10:05.313Z"
+generated_at: "2026-03-29T21:15:05.224Z"
 ---
 
 # § 6207. Cross references

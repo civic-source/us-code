@@ -3,9 +3,9 @@ title: "Section 408a - Renumbered § 478a]"
 usc_title: 37
 usc_section: "408a"
 chapter: 7
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "37 U.S.C. § 408a"
-generated_at: "2026-03-29T21:10:33.943Z"
+generated_at: "2026-03-29T21:15:42.453Z"
 ---
 
 # [§ 408a. Renumbered § 478a]

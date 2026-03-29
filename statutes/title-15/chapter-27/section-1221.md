@@ -3,9 +3,9 @@ title: "Section 1221 - Definitions"
 usc_title: 15
 usc_section: "1221"
 chapter: 27
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "15 U.S.C. § 1221"
-generated_at: "2026-03-29T21:08:59.541Z"
+generated_at: "2026-03-29T21:13:22.292Z"
 ---
 
 # § 1221. Definitions

@@ -3,9 +3,9 @@ title: "Section 3602 - Asbestos Hazards School Safety Task Force"
 usc_title: 20
 usc_section: "3602"
 chapter: 49
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "20 U.S.C. § 3602"
-generated_at: "2026-03-29T21:09:14.077Z"
+generated_at: "2026-03-29T21:13:40.625Z"
 ---
 
 # § 3602. Asbestos Hazards School Safety Task Force

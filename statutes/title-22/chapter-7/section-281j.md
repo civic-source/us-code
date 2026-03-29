@@ -3,9 +3,9 @@ title: "Section 281j - Omitted"
 usc_title: 22
 usc_section: "281j"
 chapter: 7
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 281j"
-generated_at: "2026-03-29T21:09:35.945Z"
+generated_at: "2026-03-29T21:14:20.469Z"
 ---
 
 # §§ 281b–2 to 281j. Omitted

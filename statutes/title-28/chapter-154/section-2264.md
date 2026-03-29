@@ -3,9 +3,9 @@ title: "Section 2264 - Scope of Federal review; district court adjudications"
 usc_title: 28
 usc_section: "2264"
 chapter: 154
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "28 U.S.C. § 2264"
-generated_at: "2026-03-29T21:09:45.181Z"
+generated_at: "2026-03-29T21:14:44.606Z"
 ---
 
 # § 2264. Scope of Federal review; district court adjudications

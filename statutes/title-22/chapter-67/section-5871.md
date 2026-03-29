@@ -3,9 +3,9 @@ title: "Section 5871 - Facilitating discussions regarding acquisition of space h
 usc_title: 22
 usc_section: "5871"
 chapter: 67
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 5871"
-generated_at: "2026-03-29T21:09:36.122Z"
+generated_at: "2026-03-29T21:14:20.698Z"
 ---
 
 # § 5871. Facilitating discussions regarding acquisition of space hardware, technology, and services from former Soviet Union

@@ -3,9 +3,9 @@ title: "Section 527 - Purchases of implements of war, etc., from American Republ
 usc_title: 22
 usc_section: "527"
 chapter: 10
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 527"
-generated_at: "2026-03-29T21:09:35.970Z"
+generated_at: "2026-03-29T21:14:20.500Z"
 ---
 
 # § 527. Purchases of implements of war, etc., from American Republics

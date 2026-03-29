@@ -3,9 +3,9 @@ title: "Section 1323 - Unlawful bringing of aliens into United States"
 usc_title: 8
 usc_section: "1323"
 chapter: 12
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "8 U.S.C. § 1323"
-generated_at: "2026-03-29T21:08:22.342Z"
+generated_at: "2026-03-29T21:12:51.703Z"
 ---
 
 # § 1323. Unlawful bringing of aliens into United States

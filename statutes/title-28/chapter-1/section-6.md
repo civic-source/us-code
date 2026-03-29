@@ -3,9 +3,9 @@ title: "Section 6 - Records of former court of appeals"
 usc_title: 28
 usc_section: "6"
 chapter: 1
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "28 U.S.C. § 6"
-generated_at: "2026-03-29T21:09:45.131Z"
+generated_at: "2026-03-29T21:14:44.545Z"
 ---
 
 # § 6. Records of former court of appeals

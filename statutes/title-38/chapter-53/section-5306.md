@@ -3,9 +3,9 @@ title: "Section 5306 - Renouncement of right to benefits"
 usc_title: 38
 usc_section: "5306"
 chapter: 53
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "38 U.S.C. § 5306"
-generated_at: "2026-03-29T21:10:55.177Z"
+generated_at: "2026-03-29T21:16:11.703Z"
 ---
 
 # § 5306. Renouncement of right to benefits

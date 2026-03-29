@@ -3,9 +3,9 @@ title: "Section 2418 - Authority to provide certain types of technical assistanc
 usc_title: 10
 usc_section: "2418"
 chapter: 142
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 2418"
-generated_at: "2026-03-29T21:08:44.166Z"
+generated_at: "2026-03-29T21:13:10.356Z"
 ---
 
 # § 2418. Authority to provide certain types of technical assistance

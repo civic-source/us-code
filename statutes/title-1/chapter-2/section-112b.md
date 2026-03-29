@@ -3,9 +3,9 @@ title: "Section 112b - United States international agreements; transmission to C
 usc_title: 1
 usc_section: "112b"
 chapter: 2
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "1 U.S.C. § 112b"
-generated_at: "2026-03-29T21:08:13.942Z"
+generated_at: "2026-03-29T21:12:17.010Z"
 ---
 
 # § 112b. United States international agreements; transmission to Congress

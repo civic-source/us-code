@@ -3,9 +3,9 @@ title: "Section 16293 - Carbon storage validation and testing"
 usc_title: 42
 usc_section: "16293"
 chapter: 149
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 16293"
-generated_at: "2026-03-29T21:11:26.363Z"
+generated_at: "2026-03-29T21:17:13.746Z"
 ---
 
 # § 16293. Carbon storage validation and testing

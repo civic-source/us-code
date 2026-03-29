@@ -3,9 +3,9 @@ title: "Section 2507g - Establishment of a confidentiality protection policy"
 usc_title: 22
 usc_section: "2507g"
 chapter: 34
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 2507g"
-generated_at: "2026-03-29T21:09:36.044Z"
+generated_at: "2026-03-29T21:14:20.597Z"
 ---
 
 # § 2507g. Establishment of a confidentiality protection policy

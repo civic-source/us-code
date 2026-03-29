@@ -3,9 +3,9 @@ title: "Section 9229 - Command: commissioned officers in certain designated cate
 usc_title: 10
 usc_section: "9229"
 chapter: 925
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 9229"
-generated_at: "2026-03-29T21:08:44.285Z"
+generated_at: "2026-03-29T21:13:10.493Z"
 ---
 
 # § 9229. Command: commissioned officers in certain designated categories

@@ -3,9 +3,9 @@ title: "Section 293 - Repealed. Pub. L. 88–94, § 2(a) , Aug. 12, 1963 , 77 St
 usc_title: 22
 usc_section: "293"
 chapter: 8
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 293"
-generated_at: "2026-03-29T21:09:35.967Z"
+generated_at: "2026-03-29T21:14:20.495Z"
 ---
 
 # § 293. Repealed. Pub. L. 88–94, § 2(a) , Aug. 12, 1963 , 77 Stat. 122

@@ -3,9 +3,9 @@ title: "Section 1011d - Student representation"
 usc_title: 20
 usc_section: "1011d"
 chapter: 28
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "20 U.S.C. § 1011d"
-generated_at: "2026-03-29T21:09:13.933Z"
+generated_at: "2026-03-29T21:13:40.413Z"
 ---
 
 # § 1011d. Student representation

@@ -3,9 +3,9 @@ title: "Section 3227 - Guidelines and collection method for acquisition of cost 
 usc_title: 10
 usc_section: "3227"
 chapter: 222
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 3227"
-generated_at: "2026-03-29T21:08:44.215Z"
+generated_at: "2026-03-29T21:13:10.412Z"
 ---
 
 # § 3227. Guidelines and collection method for acquisition of cost data

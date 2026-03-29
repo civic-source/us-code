@@ -3,9 +3,9 @@ title: "Section 1641 - Definitions"
 usc_title: 22
 usc_section: "1641"
 chapter: 21
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 1641"
-generated_at: "2026-03-29T21:09:35.984Z"
+generated_at: "2026-03-29T21:14:20.519Z"
 ---
 
 # § 1641. Definitions

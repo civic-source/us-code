@@ -3,9 +3,9 @@ title: "Section 152 - Importation regulated and prohibited"
 usc_title: 21
 usc_section: "152"
 chapter: 5
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "21 U.S.C. § 152"
-generated_at: "2026-03-29T21:09:28.179Z"
+generated_at: "2026-03-29T21:14:26.564Z"
 ---
 
 # § 152. Importation regulated and prohibited

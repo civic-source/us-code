@@ -3,9 +3,9 @@ title: "Section 255 - Statute of limitations"
 usc_title: 29
 usc_section: "255"
 chapter: 9
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "29 U.S.C. § 255"
-generated_at: "2026-03-29T21:09:49.244Z"
+generated_at: "2026-03-29T21:14:51.951Z"
 ---
 
 # § 255. Statute of limitations

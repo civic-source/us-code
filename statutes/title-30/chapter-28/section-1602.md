@@ -3,9 +3,9 @@ title: "Section 1602 - Congressional declaration of policies"
 usc_title: 30
 usc_section: "1602"
 chapter: 28
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "30 U.S.C. § 1602"
-generated_at: "2026-03-29T21:09:40.211Z"
+generated_at: "2026-03-29T21:14:31.207Z"
 ---
 
 # § 1602. Congressional declaration of policies

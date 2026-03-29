@@ -3,9 +3,9 @@ title: "Section 2692 - Compensation for persons participating in State Departmen
 usc_title: 22
 usc_section: "2692"
 chapter: 38
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 2692"
-generated_at: "2026-03-29T21:09:36.054Z"
+generated_at: "2026-03-29T21:14:20.610Z"
 ---
 
 # § 2692. Compensation for persons participating in State Department proceedings; availability of funds

@@ -3,9 +3,9 @@ title: "Section 481 - Action to recover construction charges and penalties"
 usc_title: 43
 usc_section: "481"
 chapter: 12
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "43 U.S.C. § 481"
-generated_at: "2026-03-29T21:11:00.676Z"
+generated_at: "2026-03-29T21:16:36.716Z"
 ---
 
 # § 481. Action to recover construction charges and penalties

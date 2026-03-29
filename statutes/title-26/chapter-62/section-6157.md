@@ -3,9 +3,9 @@ title: "Section 6157 - Payment of Federal unemployment tax on quarterly or other
 usc_title: 26
 usc_section: "6157"
 chapter: 62
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 6157"
-generated_at: "2026-03-29T21:10:05.308Z"
+generated_at: "2026-03-29T21:15:05.221Z"
 ---
 
 # § 6157. Payment of Federal unemployment tax on quarterly or other time period basis

@@ -3,9 +3,9 @@ title: "Section 20304 - Procedures for collection and delivery of marked absente
 usc_title: 52
 usc_section: "20304"
 chapter: 203
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "52 U.S.C. § 20304"
-generated_at: "2026-03-29T21:11:50.547Z"
+generated_at: "2026-03-29T21:17:54.823Z"
 ---
 
 # § 20304. Procedures for collection and delivery of marked absentee ballots of absent overseas uniformed services voters

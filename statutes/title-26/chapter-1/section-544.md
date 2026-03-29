@@ -3,9 +3,9 @@ title: "Section 544 - Rules for determining stock ownership"
 usc_title: 26
 usc_section: "544"
 chapter: 1
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 544"
-generated_at: "2026-03-29T21:10:05.050Z"
+generated_at: "2026-03-29T21:15:05.015Z"
 ---
 
 # § 544. Rules for determining stock ownership

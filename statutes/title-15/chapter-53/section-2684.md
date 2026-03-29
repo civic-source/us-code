@@ -3,9 +3,9 @@ title: "Section 2684 - Authorized State programs"
 usc_title: 15
 usc_section: "2684"
 chapter: 53
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "15 U.S.C. § 2684"
-generated_at: "2026-03-29T21:08:59.627Z"
+generated_at: "2026-03-29T21:13:22.415Z"
 ---
 
 # § 2684. Authorized State programs

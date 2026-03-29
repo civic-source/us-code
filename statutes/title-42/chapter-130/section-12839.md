@@ -3,9 +3,9 @@ title: "Section 12839 - Termination of existing housing programs"
 usc_title: 42
 usc_section: "12839"
 chapter: 130
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 12839"
-generated_at: "2026-03-29T21:11:26.272Z"
+generated_at: "2026-03-29T21:17:13.649Z"
 ---
 
 # § 12839. Termination of existing housing programs

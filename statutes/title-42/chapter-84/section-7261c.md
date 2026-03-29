@@ -3,9 +3,9 @@ title: "Section 7261c - Technology partnerships ombudsman"
 usc_title: 42
 usc_section: "7261c"
 chapter: 84
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 7261c"
-generated_at: "2026-03-29T21:11:25.957Z"
+generated_at: "2026-03-29T21:17:13.333Z"
 ---
 
 # § 7261c. Technology partnerships ombudsman

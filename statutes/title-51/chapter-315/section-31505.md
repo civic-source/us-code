@@ -3,9 +3,9 @@ title: "Section 31505 - Development of enhanced-use lease policy"
 usc_title: 51
 usc_section: "31505"
 chapter: 315
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "51 U.S.C. § 31505"
-generated_at: "2026-03-29T21:11:47.381Z"
+generated_at: "2026-03-29T21:18:05.845Z"
 ---
 
 # § 31505. Development of enhanced-use lease policy

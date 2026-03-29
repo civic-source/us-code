@@ -3,9 +3,9 @@ title: "Section 109 - Repeal of statutes as affecting existing liabilities"
 usc_title: 1
 usc_section: "109"
 chapter: 2
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "1 U.S.C. § 109"
-generated_at: "2026-03-29T21:08:13.941Z"
+generated_at: "2026-03-29T21:12:17.010Z"
 ---
 
 # § 109. Repeal of statutes as affecting existing liabilities

@@ -3,9 +3,9 @@ title: "Section 10367 - “Local entity” defined"
 usc_title: 34
 usc_section: "10367"
 chapter: 101
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "34 U.S.C. § 10367"
-generated_at: "2026-03-29T21:10:13.757Z"
+generated_at: "2026-03-29T21:15:24.135Z"
 ---
 
 # § 10367. “Local entity” defined

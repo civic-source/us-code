@@ -3,9 +3,9 @@ title: "Section 355 - Claims for benefits"
 usc_title: 45
 usc_section: "355"
 chapter: 11
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "45 U.S.C. § 355"
-generated_at: "2026-03-29T21:10:58.586Z"
+generated_at: "2026-03-29T21:16:40.772Z"
 ---
 
 # § 355. Claims for benefits

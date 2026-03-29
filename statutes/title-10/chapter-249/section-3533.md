@@ -3,9 +3,9 @@ title: "Section 3533 - Multiyear contracts for acquisition of services: contract
 usc_title: 10
 usc_section: "3533"
 chapter: 249
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 3533"
-generated_at: "2026-03-29T21:08:44.220Z"
+generated_at: "2026-03-29T21:13:10.418Z"
 ---
 
 # § 3533. Multiyear contracts for acquisition of services: contract cancellation or termination

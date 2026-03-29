@@ -3,9 +3,9 @@ title: "Section 1442 - Withholding of tax on foreign corporations"
 usc_title: 26
 usc_section: "1442"
 chapter: 3
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 1442"
-generated_at: "2026-03-29T21:10:05.163Z"
+generated_at: "2026-03-29T21:15:05.110Z"
 ---
 
 # § 1442. Withholding of tax on foreign corporations

@@ -3,9 +3,9 @@ title: "Section 4607 - Slogan and logo"
 usc_title: 16
 usc_section: "4607"
 chapter: 66
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 4607"
-generated_at: "2026-03-29T21:09:22.553Z"
+generated_at: "2026-03-29T21:13:50.392Z"
 ---
 
 # § 4607. Slogan and logo

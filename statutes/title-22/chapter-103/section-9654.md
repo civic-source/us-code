@@ -3,9 +3,9 @@ title: "Section 9654 - Publicly available project information"
 usc_title: 22
 usc_section: "9654"
 chapter: 103
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 9654"
-generated_at: "2026-03-29T21:09:36.205Z"
+generated_at: "2026-03-29T21:14:20.804Z"
 ---
 
 # § 9654. Publicly available project information

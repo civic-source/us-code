@@ -3,9 +3,9 @@ title: "Section 2246 - Report"
 usc_title: 43
 usc_section: "2246"
 chapter: 40
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "43 U.S.C. § 2246"
-generated_at: "2026-03-29T21:11:00.773Z"
+generated_at: "2026-03-29T21:16:36.811Z"
 ---
 
 # § 2246. Report

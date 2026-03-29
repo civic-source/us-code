@@ -3,9 +3,9 @@ title: "Section 1504 - Procedure"
 usc_title: 33
 usc_section: "1504"
 chapter: 29
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "33 U.S.C. § 1504"
-generated_at: "2026-03-29T21:10:12.134Z"
+generated_at: "2026-03-29T21:15:34.573Z"
 ---
 
 # § 1504. Procedure

@@ -3,9 +3,9 @@ title: "Section 817 - Projects not affecting navigable waters; necessity for Fed
 usc_title: 16
 usc_section: "817"
 chapter: 12
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 817"
-generated_at: "2026-03-29T21:09:22.377Z"
+generated_at: "2026-03-29T21:13:50.158Z"
 ---
 
 # § 817. Projects not affecting navigable waters; necessity for Federal license, permit or right-of-way; unauthorized activities

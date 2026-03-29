@@ -3,9 +3,9 @@ title: "Section 5368 - Payment"
 usc_title: 25
 usc_section: "5368"
 chapter: 46
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "25 U.S.C. § 5368"
-generated_at: "2026-03-29T21:09:30.964Z"
+generated_at: "2026-03-29T21:14:13.648Z"
 ---
 
 # § 5368. Payment

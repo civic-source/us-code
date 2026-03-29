@@ -3,9 +3,9 @@ title: "Section 1306 - Termination or modification of agreements"
 usc_title: 16
 usc_section: "1306"
 chapter: 29
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 1306"
-generated_at: "2026-03-29T21:09:22.443Z"
+generated_at: "2026-03-29T21:13:50.246Z"
 ---
 
 # § 1306. Termination or modification of agreements

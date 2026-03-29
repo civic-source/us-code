@@ -3,9 +3,9 @@ title: "Section 2001 - Debt restructuring and loan servicing"
 usc_title: 7
 usc_section: "2001"
 chapter: 50
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "7 U.S.C. § 2001"
-generated_at: "2026-03-29T21:08:28.566Z"
+generated_at: "2026-03-29T21:12:43.074Z"
 ---
 
 # § 2001. Debt restructuring and loan servicing

@@ -3,9 +3,9 @@ title: "Section 1864 - Hazardous or injurious devices on Federal lands"
 usc_title: 18
 usc_section: "1864"
 chapter: 91
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "18 U.S.C. § 1864"
-generated_at: "2026-03-29T21:09:09.420Z"
+generated_at: "2026-03-29T21:14:04.608Z"
 ---
 
 # § 1864. Hazardous or injurious devices on Federal lands

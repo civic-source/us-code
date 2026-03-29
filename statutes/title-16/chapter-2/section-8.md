@@ -3,9 +3,9 @@ title: "Section 8 - Extinguishment of claims"
 usc_title: 16
 usc_section: "8"
 chapter: 2
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 8"
-generated_at: "2026-03-29T21:09:22.304Z"
+generated_at: "2026-03-29T21:13:50.068Z"
 ---
 
 # § 539m–8. Extinguishment of claims

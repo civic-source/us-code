@@ -3,9 +3,9 @@ title: "Section 4352 - Authority of Institute; time; records of recipients; acce
 usc_title: 18
 usc_section: "4352"
 chapter: 319
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "18 U.S.C. § 4352"
-generated_at: "2026-03-29T21:09:09.499Z"
+generated_at: "2026-03-29T21:14:04.689Z"
 ---
 
 # § 4352. Authority of Institute; time; records of recipients; access; scope of section 1 1 Section catchline editorially supplied.

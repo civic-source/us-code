@@ -3,9 +3,9 @@ title: "Section 1852 - Repealed. Pub. L. 104–127, title II , §§ 274, 275, Ap
 usc_title: 7
 usc_section: "1852"
 chapter: 46
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "7 U.S.C. § 1852"
-generated_at: "2026-03-29T21:08:28.552Z"
+generated_at: "2026-03-29T21:12:43.050Z"
 ---
 
 # §§ 1851, 1852. Repealed. Pub. L. 104–127, title II , §§ 274, 275, Apr. 4, 1996 , 110 Stat. 976

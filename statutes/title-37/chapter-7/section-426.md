@@ -3,9 +3,9 @@ title: "Section 426 - Repealed. Pub. L. 90–377, § 10 , July 5, 1968 , 82 Stat
 usc_title: 37
 usc_section: "426"
 chapter: 7
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "37 U.S.C. § 426"
-generated_at: "2026-03-29T21:10:33.943Z"
+generated_at: "2026-03-29T21:15:42.457Z"
 ---
 
 # [§ 426. Repealed. Pub. L. 90–377, § 10 , July 5, 1968 , 82 Stat. 288 ]

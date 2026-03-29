@@ -3,9 +3,9 @@ title: "Section 9751 - Developing and implementing a coordinated sanctions strat
 usc_title: 22
 usc_section: "9751"
 chapter: 104
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 9751"
-generated_at: "2026-03-29T21:09:36.207Z"
+generated_at: "2026-03-29T21:14:20.807Z"
 ---
 
 # § 9751. Developing and implementing a coordinated sanctions strategy with partners in the Western Hemisphere and the European Union

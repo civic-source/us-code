@@ -3,9 +3,9 @@ title: "Section 2954 - Information to committees of Congress on request"
 usc_title: 5
 usc_section: "2954"
 chapter: 29
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "5 U.S.C. § 2954"
-generated_at: "2026-03-29T21:08:19.061Z"
+generated_at: "2026-03-29T21:12:23.427Z"
 ---
 
 # § 2954. Information to committees of Congress on request

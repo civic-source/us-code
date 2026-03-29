@@ -3,9 +3,9 @@ title: "Section 1303 - Investigations; reports"
 usc_title: 5
 usc_section: "1303"
 chapter: 13
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "5 U.S.C. § 1303"
-generated_at: "2026-03-29T21:08:19.058Z"
+generated_at: "2026-03-29T21:12:23.423Z"
 ---
 
 # § 1303. Investigations; reports

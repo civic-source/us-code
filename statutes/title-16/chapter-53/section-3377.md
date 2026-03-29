@@ -3,9 +3,9 @@ title: "Section 3377 - Exceptions"
 usc_title: 16
 usc_section: "3377"
 chapter: 53
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 3377"
-generated_at: "2026-03-29T21:09:22.521Z"
+generated_at: "2026-03-29T21:13:50.346Z"
 ---
 
 # § 3377. Exceptions

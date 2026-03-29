@@ -3,9 +3,9 @@ title: "Section 160g - Designation by Secretary of recreational fishing zones; c
 usc_title: 16
 usc_section: "160g"
 chapter: 1
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 160g"
-generated_at: "2026-03-29T21:09:22.124Z"
+generated_at: "2026-03-29T21:13:49.834Z"
 ---
 
 # § 160g. Designation by Secretary of recreational fishing zones; consultation with appropriate State agency; continuation of seining of fish to secure eggs for propagation

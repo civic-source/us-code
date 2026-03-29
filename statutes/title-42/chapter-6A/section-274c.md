@@ -3,9 +3,9 @@ title: "Section 274c - Administration"
 usc_title: 42
 usc_section: "274c"
 chapter: 6
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 274c"
-generated_at: "2026-03-29T21:11:24.721Z"
+generated_at: "2026-03-29T21:17:12.245Z"
 ---
 
 # § 274c. Administration

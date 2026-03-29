@@ -3,9 +3,9 @@ title: "Section 5 - Notice by accused of intention to disclose classified inform
 usc_title: 10
 usc_section: "5"
 chapter: 47
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 5"
-generated_at: "2026-03-29T21:08:44.056Z"
+generated_at: "2026-03-29T21:13:10.219Z"
 ---
 
 # § 949p–5. Notice by accused of intention to disclose classified information

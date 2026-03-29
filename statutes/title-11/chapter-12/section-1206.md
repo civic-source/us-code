@@ -3,9 +3,9 @@ title: "Section 1206 - Sales free of interests"
 usc_title: 11
 usc_section: "1206"
 chapter: 12
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "11 U.S.C. § 1206"
-generated_at: "2026-03-29T21:09:00.684Z"
+generated_at: "2026-03-29T21:13:16.787Z"
 ---
 
 # § 1206. Sales free of interests

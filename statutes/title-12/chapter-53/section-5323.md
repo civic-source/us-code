@@ -3,9 +3,9 @@ title: "Section 5323 - Authority to require supervision and regulation of certai
 usc_title: 12
 usc_section: "5323"
 chapter: 53
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "12 U.S.C. § 5323"
-generated_at: "2026-03-29T21:08:53.536Z"
+generated_at: "2026-03-29T21:13:28.646Z"
 ---
 
 # § 5323. Authority to require supervision and regulation of certain nonbank financial companies

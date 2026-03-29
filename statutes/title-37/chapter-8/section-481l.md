@@ -3,9 +3,9 @@ title: "Section 481l - Travel and transportation allowances: attendance of membe
 usc_title: 37
 usc_section: "481l"
 chapter: 8
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "37 U.S.C. § 481l"
-generated_at: "2026-03-29T21:10:33.952Z"
+generated_at: "2026-03-29T21:15:42.466Z"
 ---
 
 # § 481l. Travel and transportation allowances: attendance of members and other persons at Yellow Ribbon Reintegration Program events

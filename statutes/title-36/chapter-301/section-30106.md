@@ -3,9 +3,9 @@ title: "Section 30106 - Exclusive right to names, seals, emblems, and badges"
 usc_title: 36
 usc_section: "30106"
 chapter: 301
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "36 U.S.C. § 30106"
-generated_at: "2026-03-29T21:10:42.337Z"
+generated_at: "2026-03-29T21:15:56.099Z"
 ---
 
 # § 30106. Exclusive right to names, seals, emblems, and badges

@@ -3,9 +3,9 @@ title: "Section 748 - Expenditure of appropriations for propagation of food fish
 usc_title: 16
 usc_section: "748"
 chapter: 9
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 748"
-generated_at: "2026-03-29T21:09:22.366Z"
+generated_at: "2026-03-29T21:13:50.143Z"
 ---
 
 # § 748. Expenditure of appropriations for propagation of food fishes

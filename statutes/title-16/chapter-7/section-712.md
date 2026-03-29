@@ -3,9 +3,9 @@ title: "Section 712 - Treaty and convention implementing regulations; seasonal t
 usc_title: 16
 usc_section: "712"
 chapter: 7
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 712"
-generated_at: "2026-03-29T21:09:22.359Z"
+generated_at: "2026-03-29T21:13:50.133Z"
 ---
 
 # § 712. Treaty and convention implementing regulations; seasonal taking of migratory birds for essential needs of indigenous Alaskans to preserve and maintain stocks of the birds; protection and conservation of the birds

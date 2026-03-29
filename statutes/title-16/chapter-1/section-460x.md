@@ -3,9 +3,9 @@ title: "Section 460x - Establishment"
 usc_title: 16
 usc_section: "460x"
 chapter: 1
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 460x"
-generated_at: "2026-03-29T21:09:22.239Z"
+generated_at: "2026-03-29T21:13:49.991Z"
 ---
 
 # § 460x. Establishment

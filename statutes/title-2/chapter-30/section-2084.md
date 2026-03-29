@@ -3,9 +3,9 @@ title: "Section 2084 - Audits by the Comptroller General"
 usc_title: 2
 usc_section: "2084"
 chapter: 30
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "2 U.S.C. § 2084"
-generated_at: "2026-03-29T21:08:16.140Z"
+generated_at: "2026-03-29T21:12:29.967Z"
 ---
 
 # § 2084. Audits by the Comptroller General

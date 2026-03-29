@@ -3,9 +3,9 @@ title: "Section 13 - Application of certain laws"
 usc_title: 42
 usc_section: "13"
 chapter: 23
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-29T21:11:25.682Z"
+generated_at: "2026-03-29T21:17:13.083Z"
 ---
 
 # § 2297h–13. Application of certain laws

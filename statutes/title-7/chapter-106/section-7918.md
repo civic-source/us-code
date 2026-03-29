@@ -3,9 +3,9 @@ title: "Section 7918 - Period of effectiveness"
 usc_title: 7
 usc_section: "7918"
 chapter: 106
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "7 U.S.C. § 7918"
-generated_at: "2026-03-29T21:08:28.721Z"
+generated_at: "2026-03-29T21:12:43.338Z"
 ---
 
 # § 7918. Period of effectiveness

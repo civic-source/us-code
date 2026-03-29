@@ -3,9 +3,9 @@ title: "Section 5197h - Minority emergency preparedness demonstration program"
 usc_title: 42
 usc_section: "5197h"
 chapter: 68
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 5197h"
-generated_at: "2026-03-29T21:11:25.829Z"
+generated_at: "2026-03-29T21:17:13.211Z"
 ---
 
 # § 5197h. Minority emergency preparedness demonstration program
@@ -19,6 +19,6 @@ generated_at: "2026-03-29T21:11:25.829Z"
   - **(1)** acquire expert professional services necessary to conduct research in communities predominately populated by minority citizens, with a primary emphasis on African American and Hispanic communities;
   - **(2)** develop and prepare informational materials to promote awareness among minority communities about emergency preparedness and how to protect their households and communities in advance of disasters;
   - **(3)** establish consortia with minority national organizations, minority institutions of higher education, and faith-based institutions to disseminate information about emergency preparedness to minority communities; and
-  - **(4)** implement a joint project with a minority serving institution, including a part B institution (as defined in section 1061(2) of title 20 ), an institution described in subparagraph (A), (B), or (C) of section 1063b(e)(1) 1 1 See References in Text note below. of title 20, and a Hispanic-serving institution (as defined in section 1101a(a)(5) of title 20 ).
+  - **(4)** implement a joint project with a minority serving institution, including a part B institution (as defined in section 1061(2) of title 20 ), an institution described in subparagraph (A), (B), or (C) of section 1063b(e)(1) 1 of title 20, and a Hispanic-serving institution (as defined in section 1101a(a)(5) of title 20 ).
 - **(e)** To be eligible to receive a grant, contract, or cooperative agreement under this section, an organization must submit an application to the Administrator at such time, in such manner, and accompanied by such information as the Administrator may reasonably require. The Administrator shall establish a procedure by which to accept such applications.
 - **(f)** There is authorized to be appropriated to carry out this section $1,500,000 for fiscal year 2002 and such funds as may be necessary for fiscal years 2003 through 2007. Such sums shall remain available until expended.

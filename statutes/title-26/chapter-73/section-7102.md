@@ -3,9 +3,9 @@ title: "Section 7102 - Single bond in lieu of multiple bonds"
 usc_title: 26
 usc_section: "7102"
 chapter: 73
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 7102"
-generated_at: "2026-03-29T21:10:05.354Z"
+generated_at: "2026-03-29T21:15:05.257Z"
 ---
 
 # § 7102. Single bond in lieu of multiple bonds

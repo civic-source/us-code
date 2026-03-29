@@ -3,9 +3,9 @@ title: "Section 501 - Liability of Federal reserve or member bank for certifying
 usc_title: 12
 usc_section: "501"
 chapter: 3
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "12 U.S.C. § 501"
-generated_at: "2026-03-29T21:08:53.238Z"
+generated_at: "2026-03-29T21:13:28.325Z"
 ---
 
 # § 501. Liability of Federal reserve or member bank for certifying check when amount of deposit was inadequate

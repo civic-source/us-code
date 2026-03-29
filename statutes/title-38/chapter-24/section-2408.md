@@ -3,9 +3,9 @@ title: "Section 2408 - Aid to States, counties, and tribal organizations for est
 usc_title: 38
 usc_section: "2408"
 chapter: 24
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "38 U.S.C. § 2408"
-generated_at: "2026-03-29T21:10:55.111Z"
+generated_at: "2026-03-29T21:16:11.585Z"
 ---
 
 # § 2408. Aid to States, counties, and tribal organizations for establishment, expansion, and improvement of veterans’ cemeteries

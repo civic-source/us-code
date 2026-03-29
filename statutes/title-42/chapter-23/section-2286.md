@@ -3,9 +3,9 @@ title: "Section 2286 - Establishment"
 usc_title: 42
 usc_section: "2286"
 chapter: 23
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 2286"
-generated_at: "2026-03-29T21:11:25.673Z"
+generated_at: "2026-03-29T21:17:13.074Z"
 ---
 
 # § 2286. Establishment
@@ -44,14 +44,16 @@ generated_at: "2026-03-29T21:11:25.673Z"
       - **(i)** The Executive Director of Operations established under section 2286b(b)(3) of this title .
       - **(ii)** The general counsel.
 - **(d)**
-  - **(1)** Except as provided under paragraph (2), the members of the Board shall serve for terms of five years. Members of the Board may be reappointed.
+  - **(1)** Except as provided under paragraph (2), the members of the Board shall serve for terms of five years. A member may be reappointed for a second term only if the member was confirmed by the Senate more than two years into the member’s first term. A member may not be reappointed for a third term.
   - **(2)** Of the members first appointed—
     - **(A)** one shall be appointed for a term of one year;
     - **(B)** one shall be appointed for a term of two years;
     - **(C)** one shall be appointed for a term of three years;
     - **(D)** one shall be appointed for a term of four years; and
     - **(E)** one shall be appointed for a term of five years,
-  - **(3)** Any member appointed to fill a vacancy occurring before the expiration of the term of office for which such member’s predecessor was appointed shall be appointed only for the remainder of such term. A member may serve after the expiration of that member’s term until a successor has taken office.
+  - **(3)**
+    - **(A)** Any member appointed to fill a vacancy occurring before the expiration of the term of office for which such member’s predecessor was appointed shall be appointed only for the remainder of such term.
+    - **(B)** A member may not serve after the expiration of the member’s term, unless the departure of the member would result in the loss of a quorum for the Board. If more than one member is serving after the expiration of the member’s term and a new member is appointed to the Board so that one of the members serving after the expiration of the member’s term is no longer necessary to maintain a quorum, the member whose term expired first may no longer serve on the Board.
   - **(4)**
     - **(A)** Not later than 180 days after the expiration of the term of a member of the Board, the President shall—
       - **(i)** submit to the Senate the nomination of an individual to fill the vacancy; or

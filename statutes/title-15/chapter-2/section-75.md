@@ -3,9 +3,9 @@ title: "Section 75 - Retaliation against country prohibiting importations"
 usc_title: 15
 usc_section: "75"
 chapter: 2
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "15 U.S.C. § 75"
-generated_at: "2026-03-29T21:08:59.360Z"
+generated_at: "2026-03-29T21:13:22.046Z"
 ---
 
 # § 75. Retaliation against country prohibiting importations

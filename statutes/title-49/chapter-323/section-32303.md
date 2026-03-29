@@ -3,9 +3,9 @@ title: "Section 32303 - Insurance information"
 usc_title: 49
 usc_section: "32303"
 chapter: 323
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "49 U.S.C. § 32303"
-generated_at: "2026-03-29T21:11:44.346Z"
+generated_at: "2026-03-29T21:17:49.112Z"
 ---
 
 # § 32303. Insurance information

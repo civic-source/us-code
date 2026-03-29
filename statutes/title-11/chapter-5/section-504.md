@@ -3,9 +3,9 @@ title: "Section 504 - Sharing of compensation"
 usc_title: 11
 usc_section: "504"
 chapter: 5
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "11 U.S.C. § 504"
-generated_at: "2026-03-29T21:09:00.666Z"
+generated_at: "2026-03-29T21:13:16.759Z"
 ---
 
 # § 504. Sharing of compensation

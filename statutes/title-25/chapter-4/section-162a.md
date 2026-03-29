@@ -3,9 +3,9 @@ title: "Section 162a - Deposit of tribal funds in banks; bond or collateral secu
 usc_title: 25
 usc_section: "162a"
 chapter: 4
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "25 U.S.C. § 162a"
-generated_at: "2026-03-29T21:09:30.824Z"
+generated_at: "2026-03-29T21:14:13.498Z"
 ---
 
 # § 162a. Deposit of tribal funds in banks; bond or collateral security; investments; collections from irrigation projects; affirmative action required

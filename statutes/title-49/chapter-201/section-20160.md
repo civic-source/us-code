@@ -3,9 +3,9 @@ title: "Section 20160 - National crossing inventory"
 usc_title: 49
 usc_section: "20160"
 chapter: 201
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "49 U.S.C. § 20160"
-generated_at: "2026-03-29T21:11:44.293Z"
+generated_at: "2026-03-29T21:17:49.068Z"
 ---
 
 # § 20160. National crossing inventory

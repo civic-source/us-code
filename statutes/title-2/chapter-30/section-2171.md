@@ -3,9 +3,9 @@ title: "Section 2171 - Battery recharging stations for privately owned vehicles 
 usc_title: 2
 usc_section: "2171"
 chapter: 30
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "2 U.S.C. § 2171"
-generated_at: "2026-03-29T21:08:16.143Z"
+generated_at: "2026-03-29T21:12:29.976Z"
 ---
 
 # § 2171. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the House of Representatives at no net cost to the Federal Government

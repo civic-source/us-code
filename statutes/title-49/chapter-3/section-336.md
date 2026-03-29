@@ -3,9 +3,9 @@ title: "Section 336 - Civil penalty procedures"
 usc_title: 49
 usc_section: "336"
 chapter: 3
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "49 U.S.C. § 336"
-generated_at: "2026-03-29T21:11:44.211Z"
+generated_at: "2026-03-29T21:17:48.999Z"
 ---
 
 # § 336. Civil penalty procedures

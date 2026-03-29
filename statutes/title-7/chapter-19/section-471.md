@@ -3,9 +3,9 @@ title: "Section 471 - Statistics and estimates of grades and staple length of co
 usc_title: 7
 usc_section: "471"
 chapter: 19
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "7 U.S.C. § 471"
-generated_at: "2026-03-29T21:08:28.468Z"
+generated_at: "2026-03-29T21:12:42.928Z"
 ---
 
 # § 471. Statistics and estimates of grades and staple length of cotton; collection and publication

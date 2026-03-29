@@ -3,9 +3,9 @@ title: "Section 3 - Protective orders"
 usc_title: 10
 usc_section: "3"
 chapter: 47
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 3"
-generated_at: "2026-03-29T21:08:44.056Z"
+generated_at: "2026-03-29T21:13:10.219Z"
 ---
 
 # § 949p–3. Protective orders

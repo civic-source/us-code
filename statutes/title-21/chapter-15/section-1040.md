@@ -3,9 +3,9 @@ title: "Section 1040 - Recordkeeping requirements; persons required to maintain 
 usc_title: 21
 usc_section: "1040"
 chapter: 15
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "21 U.S.C. § 1040"
-generated_at: "2026-03-29T21:09:28.409Z"
+generated_at: "2026-03-29T21:14:26.749Z"
 ---
 
 # § 1040. Recordkeeping requirements; persons required to maintain records; scope of disclosure; access to records

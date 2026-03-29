@@ -3,9 +3,9 @@ title: "Section 77aa - Schedule of information required in registration statemen
 usc_title: 15
 usc_section: "77aa"
 chapter: 2
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "15 U.S.C. § 77aa"
-generated_at: "2026-03-29T21:08:59.371Z"
+generated_at: "2026-03-29T21:13:22.059Z"
 ---
 
 # § 77aa. Schedule of information required in registration statement

@@ -3,9 +3,9 @@ title: "Section 1536 - Community-based coalition enhancement grants to address l
 usc_title: 21
 usc_section: "1536"
 chapter: 20
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "21 U.S.C. § 1536"
-generated_at: "2026-03-29T21:09:28.416Z"
+generated_at: "2026-03-29T21:14:26.755Z"
 ---
 
 # § 1536. Community-based coalition enhancement grants to address local drug crises

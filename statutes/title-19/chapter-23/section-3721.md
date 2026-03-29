@@ -3,9 +3,9 @@ title: "Section 3721 - Treatment of certain textiles and apparel"
 usc_title: 19
 usc_section: "3721"
 chapter: 23
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "19 U.S.C. § 3721"
-generated_at: "2026-03-29T21:09:06.576Z"
+generated_at: "2026-03-29T21:13:35.660Z"
 ---
 
 # § 3721. Treatment of certain textiles and apparel

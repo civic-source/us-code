@@ -3,9 +3,9 @@ title: "Section 8675 - Vessels stricken from Naval Vessel Register: sale"
 usc_title: 10
 usc_section: "8675"
 chapter: 863
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 8675"
-generated_at: "2026-03-29T21:08:44.273Z"
+generated_at: "2026-03-29T21:13:10.477Z"
 ---
 
 # § 8675. Vessels stricken from Naval Vessel Register: sale

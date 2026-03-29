@@ -3,9 +3,9 @@ title: "Section 6728 - Wage standards for laborers and mechanics; enforcement"
 usc_title: 42
 usc_section: "6728"
 chapter: 80
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 6728"
-generated_at: "2026-03-29T21:11:25.912Z"
+generated_at: "2026-03-29T21:17:13.284Z"
 ---
 
 # § 6728. Wage standards for laborers and mechanics; enforcement

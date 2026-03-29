@@ -3,9 +3,9 @@ title: "Section 50101 - Definition"
 usc_title: 36
 usc_section: "50101"
 chapter: 501
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "36 U.S.C. § 50101"
-generated_at: "2026-03-29T21:10:42.346Z"
+generated_at: "2026-03-29T21:15:56.106Z"
 ---
 
 # § 50101. Definition

@@ -3,9 +3,9 @@ title: "Section 1001b - Findings and declaration of policy"
 usc_title: 29
 usc_section: "1001b"
 chapter: 18
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "29 U.S.C. § 1001b"
-generated_at: "2026-03-29T21:09:49.277Z"
+generated_at: "2026-03-29T21:14:51.983Z"
 ---
 
 # § 1001b. Findings and declaration of policy

@@ -3,9 +3,9 @@ title: "Section 6338 - Special allocation procedures"
 usc_title: 20
 usc_section: "6338"
 chapter: 70
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "20 U.S.C. § 6338"
-generated_at: "2026-03-29T21:09:14.108Z"
+generated_at: "2026-03-29T21:13:40.663Z"
 ---
 
 # § 6338. Special allocation procedures

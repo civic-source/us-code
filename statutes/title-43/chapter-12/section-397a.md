@@ -3,9 +3,9 @@ title: "Section 397a - Advances for operation and maintenance of projects"
 usc_title: 43
 usc_section: "397a"
 chapter: 12
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "43 U.S.C. § 397a"
-generated_at: "2026-03-29T21:11:00.666Z"
+generated_at: "2026-03-29T21:16:36.708Z"
 ---
 
 # § 397a. Advances for operation and maintenance of projects

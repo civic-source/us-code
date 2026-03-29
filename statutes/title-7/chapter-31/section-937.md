@@ -3,9 +3,9 @@ title: "Section 937 - Loans from other credit sources"
 usc_title: 7
 usc_section: "937"
 chapter: 31
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "7 U.S.C. § 937"
-generated_at: "2026-03-29T21:08:28.486Z"
+generated_at: "2026-03-29T21:12:42.953Z"
 ---
 
 # § 937. Loans from other credit sources

@@ -3,9 +3,9 @@ title: "Section 2666 - Definitions"
 usc_title: 7
 usc_section: "2666"
 chapter: 59
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "7 U.S.C. § 2666"
-generated_at: "2026-03-29T21:08:28.616Z"
+generated_at: "2026-03-29T21:12:43.168Z"
 ---
 
 # § 2666. Definitions

@@ -3,9 +3,9 @@ title: "Section 3117 - Capital formation"
 usc_title: 15
 usc_section: "3117"
 chapter: 58
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "15 U.S.C. § 3117"
-generated_at: "2026-03-29T21:08:59.638Z"
+generated_at: "2026-03-29T21:13:22.433Z"
 ---
 
 # § 3117. Capital formation

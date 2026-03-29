@@ -3,9 +3,9 @@ title: "Section 1611 - Seizure; sale unlawful"
 usc_title: 19
 usc_section: "1611"
 chapter: 4
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "19 U.S.C. § 1611"
-generated_at: "2026-03-29T21:09:06.483Z"
+generated_at: "2026-03-29T21:13:35.551Z"
 ---
 
 # § 1611. Seizure; sale unlawful

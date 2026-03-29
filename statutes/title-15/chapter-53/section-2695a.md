@@ -3,9 +3,9 @@ title: "Section 2695a - Model guidelines for siting of school facilities"
 usc_title: 15
 usc_section: "2695a"
 chapter: 53
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "15 U.S.C. § 2695a"
-generated_at: "2026-03-29T21:08:59.628Z"
+generated_at: "2026-03-29T21:13:22.417Z"
 ---
 
 # § 2695a. Model guidelines for siting of school facilities

@@ -3,9 +3,9 @@ title: "Section 200302 - Establishment of Land and Water Conservation Fund"
 usc_title: 54
 usc_section: "200302"
 chapter: 2003
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "54 U.S.C. § 200302"
-generated_at: "2026-03-29T21:11:48.125Z"
+generated_at: "2026-03-29T21:17:52.324Z"
 ---
 
 # § 200302. Establishment of Land and Water Conservation Fund

@@ -3,9 +3,9 @@ title: "Section 247b - Project grants for preventive health services"
 usc_title: 42
 usc_section: "247b"
 chapter: 6
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 247b"
-generated_at: "2026-03-29T21:11:24.652Z"
+generated_at: "2026-03-29T21:17:12.185Z"
 ---
 
 # § 247b. Project grants for preventive health services
@@ -14,7 +14,7 @@ generated_at: "2026-03-29T21:11:24.652Z"
 - **(b)** No grant may be made under section (a) 1 1 So in original. Probably should be “subsection (a)”. unless an application therefor has been submitted to, and approved by, the Secretary. Such an application shall be in such form and be submitted in such manner as the Secretary shall by regulation prescribe and shall provide—
   - **(1)** a complete description of the type and extent of the program for which the applicant is seeking a grant under subsection (a);
   - **(2)** with respect to each such program (A) the amount of Federal, State, and other funds obligated by the applicant in its latest annual accounting period for the provision of such program, (B) a description of the services provided by the applicant in such program in such period, (C) the amount of Federal funds needed by the applicant to continue providing such services in such program, and (D) if the applicant proposes changes in the provision of the services in such program, the priorities of such proposed changes, reasons for such changes, and the amount of Federal funds needed by the applicant to make such changes;
-  - **(3)** assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) 1 1 See References in Text note below. of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 1 of this title;
+  - **(3)** assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) 2 2 See References in Text note below. of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 2 of this title;
   - **(4)** assurances satisfactory to the Secretary that the applicant will provide for such fiscal control and fund accounting procedures as the Secretary by regulation prescribes to assure the proper disbursement of and accounting for funds received under grants under subsection (a);
   - **(5)** assurances satisfactory to the Secretary that the applicant will provide for periodic evaluation of its program or programs;
   - **(6)** assurances satisfactory to the Secretary that the applicant will make such reports (in such form and containing such information as the Secretary may by regulation prescribe) as the Secretary may reasonably require and keep such records and afford such access thereto as the Secretary may find necessary to assure the correctness of, and to verify, such reports;
@@ -80,6 +80,6 @@ generated_at: "2026-03-29T21:11:24.652Z"
     - **(I)** immunization information systems to allow all States to have electronic databases for immunization records.
   - **(4)** In awarding grants under this subsection, the Secretary shall consider any reviews or recommendations of the Task Force on Community Preventive Services.
   - **(5)** Not later than 3 years after the date on which a State receives a grant under this subsection, the State shall submit to the Secretary an evaluation of progress made toward improving immunization coverage rates among high-risk populations within the State.
-  - **(6)** Not later than 4 years after March 23, 2010 , 1 the Secretary shall submit to Congress a report concerning the effectiveness of the demonstration program established under this subsection together with recommendations on whether to continue and expand such program.
+  - **(6)** Not later than 4 years after March 23, 2010 , 2 the Secretary shall submit to Congress a report concerning the effectiveness of the demonstration program established under this subsection together with recommendations on whether to continue and expand such program.
   - **(7)** There is authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2010 through 2014.
 - **(n)** The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand and enhance, and, as appropriate, establish and improve, programs and conduct activities to collect, monitor, and analyze vaccination coverage data to assess levels of protection from vaccine-preventable diseases, including by assessing factors contributing to underutilization of vaccines and variations of such factors, and identifying communities at high risk of outbreaks associated with vaccine-preventable diseases.

@@ -3,9 +3,9 @@ title: "Section 353d - Process to update labeling for certain generic drugs"
 usc_title: 21
 usc_section: "353d"
 chapter: 9
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "21 U.S.C. § 353d"
-generated_at: "2026-03-29T21:09:28.225Z"
+generated_at: "2026-03-29T21:14:26.594Z"
 ---
 
 # § 353d. Process to update labeling for certain generic drugs

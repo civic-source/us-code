@@ -3,9 +3,9 @@ title: "Section 6595 - Compensation of Administrative Assistant to Sergeant at A
 usc_title: 2
 usc_section: "6595"
 chapter: 65
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "2 U.S.C. § 6595"
-generated_at: "2026-03-29T21:08:16.167Z"
+generated_at: "2026-03-29T21:12:30.009Z"
 ---
 
 # § 6595. Compensation of Administrative Assistant to Sergeant at Arms and Doorkeeper of Senate

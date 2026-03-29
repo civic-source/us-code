@@ -3,9 +3,9 @@ title: "Section 2807 - Authorization of appropriations"
 usc_title: 22
 usc_section: "2807"
 chapter: 40
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 2807"
-generated_at: "2026-03-29T21:09:36.070Z"
+generated_at: "2026-03-29T21:14:20.629Z"
 ---
 
 # § 2807. Authorization of appropriations

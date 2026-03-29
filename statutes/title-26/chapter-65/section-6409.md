@@ -3,9 +3,9 @@ title: "Section 6409 - Refunds disregarded in the administration of Federal prog
 usc_title: 26
 usc_section: "6409"
 chapter: 65
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 6409"
-generated_at: "2026-03-29T21:10:05.326Z"
+generated_at: "2026-03-29T21:15:05.235Z"
 ---
 
 # § 6409. Refunds disregarded in the administration of Federal programs and federally assisted programs

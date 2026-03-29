@@ -3,9 +3,9 @@ title: "Section 2996e - Powers, duties, and limitations"
 usc_title: 42
 usc_section: "2996e"
 chapter: 34
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 2996e"
-generated_at: "2026-03-29T21:11:25.692Z"
+generated_at: "2026-03-29T21:17:13.095Z"
 ---
 
 # § 2996e. Powers, duties, and limitations

@@ -3,9 +3,9 @@ title: "Section 12582 - Application for assistance and approved national service
 usc_title: 42
 usc_section: "12582"
 chapter: 129
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 12582"
-generated_at: "2026-03-29T21:11:26.236Z"
+generated_at: "2026-03-29T21:17:13.613Z"
 ---
 
 # § 12582. Application for assistance and approved national service positions

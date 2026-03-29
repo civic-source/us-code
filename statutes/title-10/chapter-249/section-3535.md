@@ -3,9 +3,9 @@ title: "Section 3535 - Multiyear contracts for acquisition of services: notice t
 usc_title: 10
 usc_section: "3535"
 chapter: 249
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 3535"
-generated_at: "2026-03-29T21:08:44.220Z"
+generated_at: "2026-03-29T21:13:10.418Z"
 ---
 
 # § 3535. Multiyear contracts for acquisition of services: notice to congressional committees before taking certain actions

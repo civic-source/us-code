@@ -3,9 +3,9 @@ title: "Section 469e - Plan for continental glaciation"
 usc_title: 16
 usc_section: "469e"
 chapter: 1
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 469e"
-generated_at: "2026-03-29T21:09:22.286Z"
+generated_at: "2026-03-29T21:13:50.048Z"
 ---
 
 # § 469e. Plan for continental glaciation

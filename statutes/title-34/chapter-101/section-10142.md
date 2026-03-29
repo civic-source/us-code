@@ -3,9 +3,9 @@ title: "Section 10142 - Duties and functions of Director"
 usc_title: 34
 usc_section: "10142"
 chapter: 101
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "34 U.S.C. § 10142"
-generated_at: "2026-03-29T21:10:13.746Z"
+generated_at: "2026-03-29T21:15:24.127Z"
 ---
 
 # § 10142. Duties and functions of Director

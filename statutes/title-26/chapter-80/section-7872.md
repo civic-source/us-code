@@ -3,9 +3,9 @@ title: "Section 7872 - Treatment of loans with below-market interest rates"
 usc_title: 26
 usc_section: "7872"
 chapter: 80
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 7872"
-generated_at: "2026-03-29T21:10:05.394Z"
+generated_at: "2026-03-29T21:15:05.289Z"
 ---
 
 # § 7872. Treatment of loans with below-market interest rates

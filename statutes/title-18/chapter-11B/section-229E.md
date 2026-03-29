@@ -3,9 +3,9 @@ title: "Section 229E - Requests for military assistance to enforce prohibition i
 usc_title: 18
 usc_section: "229E"
 chapter: 11
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "18 U.S.C. § 229E"
-generated_at: "2026-03-29T21:09:09.353Z"
+generated_at: "2026-03-29T21:14:04.556Z"
 ---
 
 # § 229E. Requests for military assistance to enforce prohibition in certain emergencies

@@ -3,9 +3,9 @@ title: "Section 5562 - Exemptions from certain requirements in cases of disaster
 usc_title: 26
 usc_section: "5562"
 chapter: 51
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 5562"
-generated_at: "2026-03-29T21:10:05.270Z"
+generated_at: "2026-03-29T21:15:05.191Z"
 ---
 
 # § 5562. Exemptions from certain requirements in cases of disaster

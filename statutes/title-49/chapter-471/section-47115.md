@@ -3,9 +3,9 @@ title: "Section 47115 - Discretionary fund"
 usc_title: 49
 usc_section: "47115"
 chapter: 471
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "49 U.S.C. § 47115"
-generated_at: "2026-03-29T21:11:44.430Z"
+generated_at: "2026-03-29T21:17:49.192Z"
 ---
 
 # § 47115. Discretionary fund

@@ -3,9 +3,9 @@ title: "Section 5651 - Repealed. Pub. L. 110–246, title III, § 3103(a) , June
 usc_title: 7
 usc_section: "5651"
 chapter: 87
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "7 U.S.C. § 5651"
-generated_at: "2026-03-29T21:08:28.654Z"
+generated_at: "2026-03-29T21:12:43.231Z"
 ---
 
 # § 5651. Repealed. Pub. L. 110–246, title III, § 3103(a) , June 18, 2008 , 122 Stat. 1832

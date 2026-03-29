@@ -3,9 +3,9 @@ title: "Section 3842 - Delivery of technical assistance"
 usc_title: 16
 usc_section: "3842"
 chapter: 58
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 3842"
-generated_at: "2026-03-29T21:09:22.538Z"
+generated_at: "2026-03-29T21:13:50.370Z"
 ---
 
 # § 3842. Delivery of technical assistance

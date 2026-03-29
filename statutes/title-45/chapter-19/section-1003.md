@@ -3,9 +3,9 @@ title: "Section 1003 - Service continuation"
 usc_title: 45
 usc_section: "1003"
 chapter: 19
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "45 U.S.C. § 1003"
-generated_at: "2026-03-29T21:10:58.609Z"
+generated_at: "2026-03-29T21:16:40.799Z"
 ---
 
 # § 1003. Service continuation

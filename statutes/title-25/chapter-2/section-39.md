@@ -3,9 +3,9 @@ title: "Section 39 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 25
 usc_section: "39"
 chapter: 2
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "25 U.S.C. § 39"
-generated_at: "2026-03-29T21:09:30.817Z"
+generated_at: "2026-03-29T21:14:13.494Z"
 ---
 
 # § 39. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 632

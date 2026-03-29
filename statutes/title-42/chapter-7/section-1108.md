@@ -3,9 +3,9 @@ title: "Section 1108 - Advisory Council on Unemployment Compensation"
 usc_title: 42
 usc_section: "1108"
 chapter: 7
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 1108"
-generated_at: "2026-03-29T21:11:25.133Z"
+generated_at: "2026-03-29T21:17:12.564Z"
 ---
 
 # § 1108. Advisory Council on Unemployment Compensation

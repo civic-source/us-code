@@ -3,9 +3,9 @@ title: "Section 2881a - Pilot projects for acquisition or construction of milita
 usc_title: 10
 usc_section: "2881a"
 chapter: 169
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 2881a"
-generated_at: "2026-03-29T21:08:44.204Z"
+generated_at: "2026-03-29T21:13:10.400Z"
 ---
 
 # § 2881a. Pilot projects for acquisition or construction of military unaccompanied housing

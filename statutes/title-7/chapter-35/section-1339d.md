@@ -3,9 +3,9 @@ title: "Section 1339d - Hay production on set-aside or diverted acreage; storage
 usc_title: 7
 usc_section: "1339d"
 chapter: 35
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "7 U.S.C. § 1339d"
-generated_at: "2026-03-29T21:08:28.497Z"
+generated_at: "2026-03-29T21:12:42.970Z"
 ---
 
 # § 1339d. Hay production on set-aside or diverted acreage; storage; emergency use; loans

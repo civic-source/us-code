@@ -3,9 +3,9 @@ title: "Section 1981f - Underwriting forms and standards"
 usc_title: 7
 usc_section: "1981f"
 chapter: 50
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "7 U.S.C. § 1981f"
-generated_at: "2026-03-29T21:08:28.561Z"
+generated_at: "2026-03-29T21:12:43.067Z"
 ---
 
 # § 1981f. Underwriting forms and standards

@@ -3,9 +3,9 @@ title: "Section 6401 - Definitions"
 usc_title: 31
 usc_section: "6401"
 chapter: 64
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "31 U.S.C. § 6401"
-generated_at: "2026-03-29T21:10:31.079Z"
+generated_at: "2026-03-29T21:15:29.296Z"
 ---
 
 # § 6401. Definitions

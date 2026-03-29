@@ -3,9 +3,9 @@ title: "Section 2441a - Authorized personnel levels of the Office of the Adminis
 usc_title: 50
 usc_section: "2441a"
 chapter: 41
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "50 U.S.C. § 2441a"
-generated_at: "2026-03-29T21:11:35.784Z"
+generated_at: "2026-03-29T21:17:44.174Z"
 ---
 
 # § 2441a. Authorized personnel levels of the Office of the Administrator

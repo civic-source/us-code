@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 89–597, § 2(d) , Sept. 21, 1966 , 80 St
 usc_title: 12
 usc_section: "1"
 chapter: 3
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-29T21:08:53.237Z"
+generated_at: "2026-03-29T21:13:28.324Z"
 ---
 
 # § 462a–1. Repealed. Pub. L. 89–597, § 2(d) , Sept. 21, 1966 , 80 Stat. 824

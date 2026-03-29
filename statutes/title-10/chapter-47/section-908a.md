@@ -3,9 +3,9 @@ title: "Section 908a - Art. 108a. Captured or abandoned property"
 usc_title: 10
 usc_section: "908a"
 chapter: 47
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 908a"
-generated_at: "2026-03-29T21:08:44.049Z"
+generated_at: "2026-03-29T21:13:10.211Z"
 ---
 
 # § 908a. Art. 108a. Captured or abandoned property

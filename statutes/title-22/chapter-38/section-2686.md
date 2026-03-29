@@ -3,9 +3,9 @@ title: "Section 2686 - Review of world-wide supply, demand, and price of basic r
 usc_title: 22
 usc_section: "2686"
 chapter: 38
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 2686"
-generated_at: "2026-03-29T21:09:36.054Z"
+generated_at: "2026-03-29T21:14:20.610Z"
 ---
 
 # § 2686. Review of world-wide supply, demand, and price of basic raw and processed materials

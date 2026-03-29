@@ -3,9 +3,9 @@ title: "Section 12642 - Standards and qualifications: result of failure to compl
 usc_title: 10
 usc_section: "12642"
 chapter: 1219
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 12642"
-generated_at: "2026-03-29T21:08:44.306Z"
+generated_at: "2026-03-29T21:13:10.521Z"
 ---
 
 # § 12642. Standards and qualifications: result of failure to comply with

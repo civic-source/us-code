@@ -3,9 +3,9 @@ title: "Section 3305 - Competitive service; examinations; when held"
 usc_title: 5
 usc_section: "3305"
 chapter: 33
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "5 U.S.C. § 3305"
-generated_at: "2026-03-29T21:08:19.064Z"
+generated_at: "2026-03-29T21:12:23.434Z"
 ---
 
 # § 3305. Competitive service; examinations; when held

@@ -3,9 +3,9 @@ title: "Section 2003 - Aeronautical rating as pilot: qualifications"
 usc_title: 10
 usc_section: "2003"
 chapter: 101
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "10 U.S.C. § 2003"
-generated_at: "2026-03-29T21:08:44.120Z"
+generated_at: "2026-03-29T21:13:10.300Z"
 ---
 
 # § 2003. Aeronautical rating as pilot: qualifications

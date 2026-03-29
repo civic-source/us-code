@@ -3,9 +3,9 @@ title: "Section 9831 - Purpose"
 usc_title: 20
 usc_section: "9831"
 chapter: 78
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "20 U.S.C. § 9831"
-generated_at: "2026-03-29T21:09:14.171Z"
+generated_at: "2026-03-29T21:13:40.751Z"
 ---
 
 # § 9831. Purpose

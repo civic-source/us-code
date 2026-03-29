@@ -3,9 +3,9 @@ title: "Section 9301 - Findings"
 usc_title: 22
 usc_section: "9301"
 chapter: 100
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 9301"
-generated_at: "2026-03-29T21:09:36.196Z"
+generated_at: "2026-03-29T21:14:20.792Z"
 ---
 
 # § 9301. Findings

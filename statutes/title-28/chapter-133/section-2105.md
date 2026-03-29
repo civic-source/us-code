@@ -3,9 +3,9 @@ title: "Section 2105 - Scope of review; abatement"
 usc_title: 28
 usc_section: "2105"
 chapter: 133
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "28 U.S.C. § 2105"
-generated_at: "2026-03-29T21:09:45.179Z"
+generated_at: "2026-03-29T21:14:44.603Z"
 ---
 
 # § 2105. Scope of review; abatement

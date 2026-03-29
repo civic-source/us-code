@@ -3,9 +3,9 @@ title: "Section 53304 - Vessel ownership"
 usc_title: 46
 usc_section: "53304"
 chapter: 533
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "46 U.S.C. § 53304"
-generated_at: "2026-03-29T21:11:39.400Z"
+generated_at: "2026-03-29T21:17:34.904Z"
 ---
 
 # § 53304. Vessel ownership

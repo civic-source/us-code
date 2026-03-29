@@ -3,9 +3,9 @@ title: "Section 1755 - Statute of limitations"
 usc_title: 30
 usc_section: "1755"
 chapter: 29
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "30 U.S.C. § 1755"
-generated_at: "2026-03-29T21:09:40.216Z"
+generated_at: "2026-03-29T21:14:31.215Z"
 ---
 
 # § 1755. Statute of limitations

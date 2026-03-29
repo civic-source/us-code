@@ -3,9 +3,9 @@ title: "Section 2197 - Report"
 usc_title: 48
 usc_section: "2197"
 chapter: 20
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "48 U.S.C. § 2197"
-generated_at: "2026-03-29T21:11:37.329Z"
+generated_at: "2026-03-29T21:17:22.619Z"
 ---
 
 # § 2197. Report

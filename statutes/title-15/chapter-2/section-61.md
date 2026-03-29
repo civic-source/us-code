@@ -3,9 +3,9 @@ title: "Section 61 - Export trade; definitions"
 usc_title: 15
 usc_section: "61"
 chapter: 2
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "15 U.S.C. § 61"
-generated_at: "2026-03-29T21:08:59.356Z"
+generated_at: "2026-03-29T21:13:22.041Z"
 ---
 
 # § 61. Export trade; definitions

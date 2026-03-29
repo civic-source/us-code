@@ -3,9 +3,9 @@ title: "Section 1313 - Limitation on payments"
 usc_title: 30
 usc_section: "1313"
 chapter: 25
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "30 U.S.C. § 1313"
-generated_at: "2026-03-29T21:09:40.205Z"
+generated_at: "2026-03-29T21:14:31.198Z"
 ---
 
 # § 1313. Limitation on payments

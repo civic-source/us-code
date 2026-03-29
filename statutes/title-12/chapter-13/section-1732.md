@@ -3,9 +3,9 @@ title: "Section 1732 - Separability"
 usc_title: 12
 usc_section: "1732"
 chapter: 13
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "12 U.S.C. § 1732"
-generated_at: "2026-03-29T21:08:53.323Z"
+generated_at: "2026-03-29T21:13:28.436Z"
 ---
 
 # § 1732. Separability

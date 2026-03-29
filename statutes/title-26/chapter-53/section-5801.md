@@ -3,9 +3,9 @@ title: "Section 5801 - Imposition of tax"
 usc_title: 26
 usc_section: "5801"
 chapter: 53
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "26 U.S.C. § 5801"
-generated_at: "2026-03-29T21:10:05.276Z"
+generated_at: "2026-03-29T21:15:05.195Z"
 ---
 
 # § 5801. Imposition of tax

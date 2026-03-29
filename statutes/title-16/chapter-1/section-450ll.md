@@ -3,9 +3,9 @@ title: "Section 450ll - Booker T. Washington National Monument; acquisition of s
 usc_title: 16
 usc_section: "450ll"
 chapter: 1
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "16 U.S.C. § 450ll"
-generated_at: "2026-03-29T21:09:22.215Z"
+generated_at: "2026-03-29T21:13:49.962Z"
 ---
 
 # § 450ll. Booker T. Washington National Monument; acquisition of site

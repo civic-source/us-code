@@ -3,9 +3,9 @@ title: "Section 3175b - Expansion of effective food, nutrition, and consumer edu
 usc_title: 7
 usc_section: "3175b"
 chapter: 64
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "7 U.S.C. § 3175b"
-generated_at: "2026-03-29T21:08:28.626Z"
+generated_at: "2026-03-29T21:12:43.186Z"
 ---
 
 # § 3175b. Expansion of effective food, nutrition, and consumer education services

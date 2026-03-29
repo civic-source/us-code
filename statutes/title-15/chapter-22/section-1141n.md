@@ -3,9 +3,9 @@ title: "Section 1141n - Rights of extension of protection"
 usc_title: 15
 usc_section: "1141n"
 chapter: 22
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "15 U.S.C. § 1141n"
-generated_at: "2026-03-29T21:08:59.537Z"
+generated_at: "2026-03-29T21:13:22.288Z"
 ---
 
 # § 1141n. Rights of extension of protection

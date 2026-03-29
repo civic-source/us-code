@@ -3,9 +3,9 @@ title: "Section 9204 - Research, development, and demonstration"
 usc_title: 42
 usc_section: "9204"
 chapter: 100
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "42 U.S.C. § 9204"
-generated_at: "2026-03-29T21:11:26.091Z"
+generated_at: "2026-03-29T21:17:13.463Z"
 ---
 
 # § 9204. Research, development, and demonstration

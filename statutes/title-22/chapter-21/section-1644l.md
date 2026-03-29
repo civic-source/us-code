@@ -3,9 +3,9 @@ title: "Section 1644l - Fees for services; limitation; penalty"
 usc_title: 22
 usc_section: "1644l"
 chapter: 21
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "22 U.S.C. § 1644l"
-generated_at: "2026-03-29T21:09:35.988Z"
+generated_at: "2026-03-29T21:14:20.523Z"
 ---
 
 # § 1644l. Fees for services; limitation; penalty

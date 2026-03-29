@@ -3,9 +3,9 @@ title: "Section 5585 - Incidental transfers"
 usc_title: 12
 usc_section: "5585"
 chapter: 53
-current_through: "PL 117-38"
+current_through: "PL 117-39"
 classification: "12 U.S.C. § 5585"
-generated_at: "2026-03-29T21:08:53.576Z"
+generated_at: "2026-03-29T21:13:28.691Z"
 ---
 
 # § 5585. Incidental transfers
