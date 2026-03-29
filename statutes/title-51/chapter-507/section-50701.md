@@ -3,12 +3,12 @@ title: "Section 50701 - Definition of Office"
 usc_title: 51
 usc_section: "50701"
 chapter: 507
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "51 U.S.C. § 50701"
-generated_at: "2026-03-29T02:16:19.256Z"
+generated_at: "2026-03-29T17:54:01.881Z"
 ---
 
 # § 50701. Definition of Office
 
-In this chapter, the term “Office” means the Office of Space Commerce established in section 50702 of this title .
+In this chapter, the term “Office” means the Office of Space Commercialization established in section 50702 of this title .
 

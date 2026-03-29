@@ -1,14 +1,12 @@
 ---
-title: "Section 711 - “Smokey Bear” character or name"
+title: "Section 711 - Repealed. Pub. L. 116–260, div. O, title X, § 1002(5) , Dec. 27, 2020 , 134 Stat. 2155 ]"
 usc_title: 18
 usc_section: "711"
 chapter: 33
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 711"
-generated_at: "2026-03-29T17:53:59.584Z"
+generated_at: "2026-03-29T17:54:16.365Z"
 ---
 
-# § 711. “Smokey Bear” character or name
-
-Whoever, except as authorized under rules and regulations issued by the Secretary of Agriculture after consultation with the Association of State Foresters and the Advertising Council, knowingly and for profit manufactures, reproduces, or uses the character “Smokey Bear”, originated by the Forest Service, United States Department of Agriculture, in cooperation with the Association of State Foresters and the Advertising Council for use in public information concerning the prevention of forest fires, or any facsimile thereof, or the name “Smokey Bear” shall be fined under this title or imprisoned not more than six months, or both.
+# [§ 711. Repealed. Pub. L. 116–260, div. O, title X, § 1002(5) , Dec. 27, 2020 , 134 Stat. 2155 ]
 

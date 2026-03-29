@@ -3,9 +3,9 @@ title: "Section 2256 - Definitions for chapter"
 usc_title: 18
 usc_section: "2256"
 chapter: 110
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 2256"
-generated_at: "2026-03-29T17:53:59.646Z"
+generated_at: "2026-03-29T17:54:16.430Z"
 ---
 
 # § 2256. Definitions for chapter
@@ -19,14 +19,14 @@ For the purposes of this chapter, the term—
       - **(ii)** bestiality;
       - **(iii)** masturbation;
       - **(iv)** sadistic or masochistic abuse; or
-      - **(v)** lascivious exhibition of the genitals or pubic area of any person;
+      - **(v)** lascivious exhibition of the anus, genitals, or pubic area of any person;
     - **(B)** For purposes of subsection 8(B) 1 1 So in original. Probably should be “(8)(B)”. of this section, “sexually explicit conduct” means—
       - **(i)** graphic sexual intercourse, including genital-genital, oral-genital, anal-genital, or oral-anal, whether between persons of the same or opposite sex, or lascivious simulated sexual intercourse where the genitals, breast, or pubic area of any person is exhibited;
       - **(ii)** graphic or lascivious simulated;
         - **(I)** bestiality;
         - **(II)** masturbation; or
         - **(III)** sadistic or masochistic abuse; or
-      - **(iii)** graphic or simulated lascivious exhibition of the genitals or pubic area of any person;
+      - **(iii)** graphic or simulated lascivious exhibition of the anus, genitals, or pubic area of any person;
   - **(3)** “producing” means producing, directing, manufacturing, issuing, publishing, or advertising;
   - **(4)** “organization” means a person other than an individual;
   - **(5)** “visual depiction” includes undeveloped film and videotape, data stored on computer disk or by electronic means which is capable of conversion into a visual image, and data which is capable of conversion into a visual image that has been transmitted by any means, whether or not stored in a permanent format;

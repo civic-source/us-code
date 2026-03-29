@@ -3,9 +3,9 @@ title: "Section 662 - Receiving stolen property within special maritime and terr
 usc_title: 18
 usc_section: "662"
 chapter: 31
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 662"
-generated_at: "2026-03-29T17:53:59.581Z"
+generated_at: "2026-03-29T17:54:16.362Z"
 ---
 
 # § 662. Receiving stolen property within special maritime and territorial jurisdiction

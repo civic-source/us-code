@@ -3,9 +3,9 @@ title: "Section 924 - Penalties"
 usc_title: 18
 usc_section: "924"
 chapter: 44
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 924"
-generated_at: "2026-03-29T17:53:59.598Z"
+generated_at: "2026-03-29T17:54:16.379Z"
 ---
 
 # § 924. Penalties
@@ -42,7 +42,7 @@ generated_at: "2026-03-29T17:53:59.598Z"
     - **(B)** If the firearm possessed by a person convicted of a violation of this subsection—
       - **(i)** is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, the person shall be sentenced to a term of imprisonment of not less than 10 years; or
       - **(ii)** is a machinegun or a destructive device, or is equipped with a firearm silencer or firearm muffler, the person shall be sentenced to a term of imprisonment of not less than 30 years.
-    - **(C)** In the case of a second or subsequent conviction under this subsection, the person shall—
+    - **(C)** In the case of a violation of this subsection that occurs after a prior conviction under this subsection has become final, the person shall—
       - **(i)** be sentenced to a term of imprisonment of not less than 25 years; and
       - **(ii)** if the firearm involved is a machinegun or a destructive device, or is equipped with a firearm silencer or firearm muffler, be sentenced to imprisonment for life.
     - **(D)** Notwithstanding any other provision of law—

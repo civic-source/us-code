@@ -3,9 +3,9 @@ title: "Section 4 - Misprision of felony"
 usc_title: 18
 usc_section: "4"
 chapter: 1
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 4"
-generated_at: "2026-03-29T17:53:59.545Z"
+generated_at: "2026-03-29T17:54:16.333Z"
 ---
 
 # § 4. Misprision of felony

@@ -3,9 +3,9 @@ title: "Section 70502 - Exploration plan and programs"
 usc_title: 51
 usc_section: "70502"
 chapter: 705
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "51 U.S.C. § 70502"
-generated_at: "2026-03-29T02:16:19.265Z"
+generated_at: "2026-03-29T17:54:01.893Z"
 ---
 
 # § 70502. Exploration plan and programs
@@ -13,6 +13,6 @@ generated_at: "2026-03-29T02:16:19.265Z"
 The Administrator shall—
 
   - **(1)** construct an architecture and implementation plan for the Administration’s human exploration program that is not critically dependent on the achievement of milestones by fixed dates;
-  - **(2)** implement an exploration research and technology development program to enable human and robotic operations consistent with section 20302(b) of this title ;
+  - **(2)** implement an exploration technology development program to enable lunar human and robotic operations consistent with section 20302(b) of this title , including surface power to use on the Moon and other locations;
   - **(3)** conduct an in-situ resource utilization technology program to develop the capability to use space resources to increase independence from Earth, and sustain exploration beyond low-Earth orbit; and
   - **(4)** pursue aggressively automated rendezvous and docking capabilities that can support the International Space Station and other mission requirements.

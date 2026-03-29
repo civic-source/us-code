@@ -1,14 +1,14 @@
 ---
-title: "Section 70101 - Recovery of fair value of placing Department of Defense payloads in orbit with space launch system"
+title: "Section 70101 - Recovery of fair value of placing Department of Defense payloads in orbit with space shuttle"
 usc_title: 51
 usc_section: "70101"
 chapter: 701
-current_through: "PL 119-73"
+current_through: "PL 113-100"
 classification: "51 U.S.C. § 70101"
-generated_at: "2026-03-29T02:16:19.264Z"
+generated_at: "2026-03-29T17:54:01.893Z"
 ---
 
-# § 70101. Recovery of fair value of placing Department of Defense payloads in orbit with space launch system
+# § 70101. Recovery of fair value of placing Department of Defense payloads in orbit with space shuttle
 
-Notwithstanding any other provision of law, or any interagency agreement, the Administrator shall charge such prices as are necessary to recover the fair value of placing Department of Defense payloads into orbit by means of the space launch system.
+Notwithstanding any other provision of law, or any interagency agreement, the Administrator shall charge such prices as are necessary to recover the fair value of placing Department of Defense payloads into orbit by means of the space shuttle.
 

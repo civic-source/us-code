@@ -3,9 +3,9 @@ title: "Section 832 - Participation in nuclear and weapons of mass destruction t
 usc_title: 18
 usc_section: "832"
 chapter: 39
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 832"
-generated_at: "2026-03-29T17:53:59.587Z"
+generated_at: "2026-03-29T17:54:16.370Z"
 ---
 
 # § 832. Participation in nuclear and weapons of mass destruction threats to the United States
@@ -16,5 +16,5 @@ generated_at: "2026-03-29T17:53:59.587Z"
 - **(d)** As used in this section—
   - **(1)** “nuclear weapons program” means a program or plan for the development, acquisition, or production of any nuclear weapon or weapons;
   - **(2)** “weapons of mass destruction program” means a program or plan for the development, acquisition, or production of any weapon or weapons of mass destruction (as defined in section 2332a(c));
-  - **(3)** “foreign terrorist power” means a terrorist organization designated under section 219 of the Immigration and Nationality Act, or a state sponsor of terrorism designated under section 6(j) of the Export Administration Act of 1979 or section 620A of the Foreign Assistance Act of 1961; and
-  - **(4)** “nuclear weapon” means any weapon that contains or uses nuclear material as defined in section 831(f)(1). 1 1 See References in Text note below.
+  - **(3)** “foreign terrorist power” means a terrorist organization designated under section 219 of the Immigration and Nationality Act, or a state sponsor of terrorism designated under section 6(j) 1 1 See References in Text note below. of the Export Administration Act of 1979 or section 620A of the Foreign Assistance Act of 1961; and
+  - **(4)** “nuclear weapon” means any weapon that contains or uses nuclear material as defined in section 831(f)(1). 1

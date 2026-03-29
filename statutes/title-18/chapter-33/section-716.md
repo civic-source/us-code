@@ -3,9 +3,9 @@ title: "Section 716 - Public employee insignia and uniform"
 usc_title: 18
 usc_section: "716"
 chapter: 33
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 716"
-generated_at: "2026-03-29T17:53:59.584Z"
+generated_at: "2026-03-29T17:54:16.365Z"
 ---
 
 # § 716. Public employee insignia and uniform

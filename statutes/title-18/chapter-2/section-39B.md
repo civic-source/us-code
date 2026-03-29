@@ -3,9 +3,9 @@ title: "Section 39B - Unsafe operation of unmanned aircraft"
 usc_title: 18
 usc_section: "39B"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 39B"
-generated_at: "2026-03-29T02:12:02.354Z"
+generated_at: "2026-03-29T17:54:16.336Z"
 ---
 
 # § 39B. Unsafe operation of unmanned aircraft

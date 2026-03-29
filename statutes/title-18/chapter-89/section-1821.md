@@ -1,17 +1,12 @@
 ---
-title: "Section 1821 - Transportation of dentures"
+title: "Section 1821 - Repealed. Pub. L. 116–260, div. O, title X, § 1002(8) , Dec. 27, 2020 , 134 Stat. 2155 ]"
 usc_title: 18
 usc_section: "1821"
 chapter: 89
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 1821"
-generated_at: "2026-03-29T17:53:59.631Z"
+generated_at: "2026-03-29T17:54:16.417Z"
 ---
 
-# § 1821. Transportation of dentures
+# [§ 1821. Repealed. Pub. L. 116–260, div. O, title X, § 1002(8) , Dec. 27, 2020 , 134 Stat. 2155 ]
 
-Whoever transports by mail or otherwise to or within the District of Columbia or any Possession of the United States or uses the mails or any instrumentality of interstate commerce for the purpose of sending or bringing into any State or Territory any set of artificial teeth or prosthetic dental appliance or other denture, constructed from any cast or impression made by any person other than, or without the authorization or prescription of, a person licensed to practice dentistry under the laws of the place into which such denture is sent or brought, where such laws prohibit;
-
-  - **(1)** the taking of impressions or casts of the human mouth or teeth by a person not licensed under such laws to practice dentistry;
-  - **(2)** the construction or supply of dentures by a person other than, or without the authorization or prescription of, a person licensed under such laws to practice dentistry; or
-  - **(3)** the construction or supply of dentures from impressions or casts made by a person not licensed under such laws to practice dentistry—

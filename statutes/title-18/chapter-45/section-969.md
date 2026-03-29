@@ -1,12 +1,12 @@
 ---
-title: "Section 969 - Repealed. Pub. L. 101–647, title XII , § 1207(a), Nov. 29, 1990 , 104 Stat. 4832 ]"
+title: "Section 969 - Repealed. Pub. L. 101–647, title XII, § 1207(a) , Nov. 29, 1990 , 104 Stat. 4832 ]"
 usc_title: 18
 usc_section: "969"
 chapter: 45
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 969"
-generated_at: "2026-03-29T17:53:59.602Z"
+generated_at: "2026-03-29T17:54:16.384Z"
 ---
 
-# [§ 969. Repealed. Pub. L. 101–647, title XII , § 1207(a), Nov. 29, 1990 , 104 Stat. 4832 ]
+# [§ 969. Repealed. Pub. L. 101–647, title XII, § 1207(a) , Nov. 29, 1990 , 104 Stat. 4832 ]
 

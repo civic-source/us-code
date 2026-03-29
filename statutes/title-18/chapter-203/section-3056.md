@@ -3,9 +3,9 @@ title: "Section 3056 - Powers, authorities, and duties of United States Secret S
 usc_title: 18
 usc_section: "3056"
 chapter: 203
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 3056"
-generated_at: "2026-03-29T17:53:59.665Z"
+generated_at: "2026-03-29T17:54:16.460Z"
 ---
 
 # § 3056. Powers, authorities, and duties of United States Secret Service
@@ -38,5 +38,5 @@ generated_at: "2026-03-29T17:53:59.665Z"
   - **(2)** At the end of each fiscal year, the President through such agency or office as the President may designate, shall report to the Congress—
     - **(A)** what events, if any, were designated special events of national significance for security purposes under paragraph (1); and
     - **(B)** the criteria and information used in making each designation.
-- **(f)** Under the direction of the Secretary of Homeland Security, the Secret Service is authorized, at the request of any State or local law enforcement agency, or at the request of the National Center for Missing and Exploited Children, to provide forensic and investigative assistance in support of any investigation involving missing or exploited children.
+- **(f)** Under the direction of the Secretary of Homeland Security, the Secret Service is authorized, at the request of any State or local law enforcement agency in conjunction with an investigation, or at the request of the National Center for Missing and Exploited Children, to provide forensic and investigative assistance.
 - **(g)** The United States Secret Service shall be maintained as a distinct entity within the Department of Homeland Security and shall not be merged with any other Department function. No personnel and operational elements of the United States Secret Service shall report to an individual other than the Director of the United States Secret Service, who shall report directly to the Secretary of Homeland Security without being required to report through any other official of the Department.

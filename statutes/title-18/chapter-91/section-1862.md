@@ -1,12 +1,12 @@
 ---
-title: "Section 1862 - Repealed. Pub. L. 95–200 , § 3(c), Nov. 23, 1977 , 91 Stat. 1428 ]"
+title: "Section 1862 - Repealed. Pub. L. 95–200, § 3(c) , Nov. 23, 1977 , 91 Stat. 1428 ]"
 usc_title: 18
 usc_section: "1862"
 chapter: 91
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 1862"
-generated_at: "2026-03-29T17:53:59.633Z"
+generated_at: "2026-03-29T17:54:16.419Z"
 ---
 
-# [§ 1862. Repealed. Pub. L. 95–200 , § 3(c), Nov. 23, 1977 , 91 Stat. 1428 ]
+# [§ 1862. Repealed. Pub. L. 95–200, § 3(c) , Nov. 23, 1977 , 91 Stat. 1428 ]
 

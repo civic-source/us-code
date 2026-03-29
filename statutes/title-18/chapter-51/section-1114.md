@@ -3,15 +3,15 @@ title: "Section 1114 - Protection of officers and employees of the United States
 usc_title: 18
 usc_section: "1114"
 chapter: 51
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 1114"
-generated_at: "2026-03-29T17:53:59.611Z"
+generated_at: "2026-03-29T17:54:16.396Z"
 ---
 
 # § 1114. Protection of officers and employees of the United States
 
-Whoever kills or attempts to kill any officer or employee of the United States or of any agency in any branch of the United States Government (including any member of the uniformed services) while such officer or employee is engaged in or on account of the performance of official duties, or any person assisting such an officer or employee in the performance of such duties or on account of that assistance, shall be punished—
-
+- **(a)** Whoever kills or attempts to kill any officer or employee of the United States or of any agency in any branch of the United States Government (including any member of the uniformed services) while such officer or employee is engaged in or on account of the performance of official duties, or any person assisting such an officer or employee in the performance of such duties or on account of that assistance, shall be punished—
   - **(1)** in the case of murder, as provided under section 1111;
   - **(2)** in the case of manslaughter, as provided under section 1112; or
   - **(3)** in the case of attempted murder or manslaughter, as provided in section 1113.
+- **(b)** There is extraterritorial jurisdiction over the conduct prohibited by this section.

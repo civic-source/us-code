@@ -3,9 +3,9 @@ title: "Section 2285 - Operation of submersible vessel or semi-submersible vesse
 usc_title: 18
 usc_section: "2285"
 chapter: 111
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 2285"
-generated_at: "2026-03-29T17:53:59.650Z"
+generated_at: "2026-03-29T17:54:16.439Z"
 ---
 
 # § 2285. Operation of submersible vessel or semi-submersible vessel without nationality

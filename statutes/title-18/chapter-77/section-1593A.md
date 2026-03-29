@@ -3,12 +3,12 @@ title: "Section 1593A - Benefitting financially from peonage, slavery, and traff
 usc_title: 18
 usc_section: "1593A"
 chapter: 77
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 1593A"
-generated_at: "2026-03-29T17:53:59.626Z"
+generated_at: "2026-03-29T17:54:16.409Z"
 ---
 
 # § 1593A. Benefitting financially from peonage, slavery, and trafficking in persons
 
-Whoever knowingly benefits, financially or by receiving anything of value, from participation in a venture which has engaged in any act in violation of section 1581(a), 1592, or 1595(a), knowing or in reckless disregard of the fact that the venture has engaged in such violation, shall be fined under this title or imprisoned in the same manner as a completed violation of such section.
+Whoever knowingly benefits, financially or by receiving anything of value, from participation in a venture which has engaged in any act in violation of this chapter, knowing or in reckless disregard of the fact that the venture has engaged in such violation, shall be fined under this title or imprisoned in the same manner as a completed violation of such section.
 

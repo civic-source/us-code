@@ -3,14 +3,14 @@ title: "Section 3121 - General prohibition on pen register and trap and trace de
 usc_title: 18
 usc_section: "3121"
 chapter: 206
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 3121"
-generated_at: "2026-03-29T17:53:59.667Z"
+generated_at: "2026-03-29T17:54:16.462Z"
 ---
 
 # § 3121. General prohibition on pen register and trap and trace device use; exception
 
-- **(a)** Except as provided in this section, no person may install or use a pen register or a trap and trace device without first obtaining a court order under section 3123 of this title or under the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1801 et seq.).
+- **(a)** Except as provided in this section, no person may install or use a pen register or a trap and trace device without first obtaining a court order under section 3123 of this title or under the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1801 et seq.) or an order from a foreign government that is subject to an executive agreement that the Attorney General has determined and certified to Congress satisfies section 2523.
 - **(b)** The prohibition of subsection (a) does not apply with respect to the use of a pen register or a trap and trace device by a provider of electronic or wire communication service—
   - **(1)** relating to the operation, maintenance, and testing of a wire or electronic communication service or to the protection of the rights or property of such provider, or to the protection of users of that service from abuse of service or unlawful use of service; or
   - **(2)** to record the fact that a wire or electronic communication was initiated or completed in order to protect such provider, another provider furnishing service toward the completion of the wire communication, or a user of that service, from fraudulent, unlawful or abusive use of service; or (3) where the consent of the user of that service has been obtained.

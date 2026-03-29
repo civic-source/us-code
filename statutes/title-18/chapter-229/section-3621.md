@@ -3,15 +3,15 @@ title: "Section 3621 - Imprisonment of a convicted person"
 usc_title: 18
 usc_section: "3621"
 chapter: 229
-current_through: "PL 114-254"
+current_through: "PL 117-81"
 classification: "18 U.S.C. § 3621"
-generated_at: "2026-03-29T17:53:59.689Z"
+generated_at: "2026-03-29T17:54:16.483Z"
 ---
 
 # § 3621. Imprisonment of a convicted person
 
 - **(a)** A person who has been sentenced to a term of imprisonment pursuant to the provisions of subchapter D of chapter 227 shall be committed to the custody of the Bureau of Prisons until the expiration of the term imposed, or until earlier released for satisfactory behavior pursuant to the provisions of section 3624.
-- **(b)** The Bureau of Prisons shall designate the place of the prisoner’s imprisonment. The Bureau may designate any available penal or correctional facility that meets minimum standards of health and habitability established by the Bureau, whether maintained by the Federal Government or otherwise and whether within or without the judicial district in which the person was convicted, that the Bureau determines to be appropriate and suitable, considering—
+- **(b)** The Bureau of Prisons shall designate the place of the prisoner’s imprisonment, and shall, subject to bed availability, the prisoner’s security designation, the prisoner’s programmatic needs, the prisoner’s mental and medical health needs, any request made by the prisoner related to faith-based needs, recommendations of the sentencing court, and other security concerns of the Bureau of Prisons, place the prisoner in a facility as close as practicable to the prisoner’s primary residence, and to the extent practicable, in a facility within 500 driving miles of that residence. The Bureau shall, subject to consideration of the factors described in the preceding sentence and the prisoner’s preference for staying at his or her current facility or being transferred, transfer prisoners to facilities that are closer to the prisoner’s primary residence even if the prisoner is already in a facility within 500 driving miles of that residence. The Bureau may designate any available penal or correctional facility that meets minimum standards of health and habitability established by the Bureau, whether maintained by the Federal Government or otherwise and whether within or without the judicial district in which the person was convicted, that the Bureau determines to be appropriate and suitable, considering—
   - **(1)** the resources of the facility contemplated;
   - **(2)** the nature and circumstances of the offense;
   - **(3)** the history and characteristics of the prisoner;
@@ -48,5 +48,36 @@ generated_at: "2026-03-29T17:53:59.689Z"
   - **(2)** At least 1 sex offender management program under paragraph (1)(A), and at least one residential sex offender treatment program under paragraph (1)(B), shall be established in each region within the Bureau of Prisons.
   - **(3)** There are authorized to be appropriated to the Bureau of Prisons for each fiscal year such sums as may be necessary to carry out this subsection.
 - **(g)**
+  - **(1)** The term “demonstrated to reduce recidivism” means that the Director of Bureau of Prisons has determined that appropriate research has been conducted and has validated the effectiveness of the type of program on recidivism.
+  - **(2)** A faith-based or community-based nonprofit organization that provides mentoring or other programs that have been demonstrated to reduce recidivism is eligible to enter into a recidivism reduction partnership with a prison or community-based facility operated by the Bureau of Prisons.
+  - **(3)** The Director of the Bureau of Prisons shall develop policies to require wardens of prisons and community-based facilities to enter into recidivism reduction partnerships with faith-based and community-based nonprofit organizations that are willing to provide, on a volunteer basis, programs described in paragraph (2).
+  - **(4)** The Director of the Bureau of Prisons shall submit to Congress an annual report on the last day of each fiscal year that—
+    - **(A)** details, for each prison and community-based facility for the fiscal year just ended—
+      - **(i)** the number of recidivism reduction partnerships under this section that were in effect;
+      - **(ii)** the number of volunteers that provided recidivism reduction programming; and
+      - **(iii)** the number of recidivism reduction programming hours provided; and
+    - **(B)** explains any disparities between facilities in the numbers reported under subparagraph (A).
+- **(h)**
+  - **(1)** Not later than 180 days after the Attorney General completes and releases the risk and needs assessment system (referred to in this subsection as the “System”) developed under subchapter D, the Director of the Bureau of Prisons shall, in accordance with that subchapter—
+    - **(A)** implement and complete the initial intake risk and needs assessment for each prisoner (including for each prisoner who was a prisoner prior to the effective date of this subsection), regardless of the prisoner’s length of imposed term of imprisonment, and begin to assign prisoners to appropriate evidence-based recidivism reduction programs based on that determination;
+    - **(B)** begin to expand the effective evidence-based recidivism reduction programs and productive activities it offers and add any new evidence-based recidivism reduction programs and productive activities necessary to effectively implement the System; and
+    - **(C)** begin to implement the other risk and needs assessment tools necessary to effectively implement the System over time, while prisoners are participating in and completing the effective evidence-based recidivism reduction programs and productive activities.
+  - **(2)** In order to carry out paragraph (1), so that every prisoner has the opportunity to participate in and complete the type and amount of evidence-based recidivism reduction programs or productive activities they need, and be reassessed for recidivism risk as necessary to effectively implement the System, the Bureau of Prisons shall—
+    - **(A)** provide such evidence-based recidivism reduction programs and productive activities for all prisoners before the date that is 2 years after the date on which the Bureau of Prisons completes a risk and needs assessment for each prisoner under paragraph (1)(A); and
+    - **(B)** develop and validate the risk and needs assessment tool to be used in the reassessments of risk of recidivism, while prisoners are participating in and completing evidence-based recidivism reduction programs and productive activities.
+  - **(3)** During the 2-year period described in paragraph (2)(A), the priority for such programs and activities shall be accorded based on a prisoner’s proximity to release date.
+  - **(4)** Beginning on the date of enactment of this subsection, the Bureau of Prisons may begin to expand any evidence-based recidivism reduction programs and productive activities that exist at a prison as of such date, and may offer to prisoners who successfully participate in such programs and activities the incentives and rewards described in subchapter D.
+  - **(5)** In order to expand evidence-based recidivism reduction programs and productive activities, the Attorney General shall develop policies for the warden of each prison of the Bureau of Prisons to enter into partnerships, subject to the availability of appropriations, with any of the following:
+    - **(A)** Nonprofit and other private organizations, including faith-based, art, and community-based organizations that will deliver recidivism reduction programming on a paid or volunteer basis.
+    - **(B)** Institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 )) that will deliver instruction on a paid or volunteer basis.
+    - **(C)** Private entities that will—
+      - **(i)** deliver vocational training and certifications;
+      - **(ii)** provide equipment to facilitate vocational training or employment opportunities for prisoners;
+      - **(iii)** employ prisoners; or
+      - **(iv)** assist prisoners in prerelease custody or supervised release in finding employment.
+    - **(D)** Industry-sponsored organizations that will deliver workforce development and training, on a paid or volunteer basis.
+  - **(6)** The Director of the Bureau of Prisons shall provide all prisoners with the opportunity to actively participate in evidence-based recidivism reduction programs or productive activities, according to their specific criminogenic needs, throughout their entire term of incarceration. Priority for participation in recidivism reduction programs shall be given to medium-risk and high-risk prisoners, with access to productive activities given to minimum-risk and low-risk prisoners.
+  - **(7)** The terms in this subsection have the meaning given those terms in section 3635.
+- **(i)**
   - **(1)** In order to ensure a minimum standard of health and habitability, the Bureau of Prisons should ensure that each prisoner in a community confinement facility has access to necessary medical care, mental health care, and medicine through partnerships with local health service providers and transition planning.
   - **(2)** In this subsection, the term “community confinement” has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
